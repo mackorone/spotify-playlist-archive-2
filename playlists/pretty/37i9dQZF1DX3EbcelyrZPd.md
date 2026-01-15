@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain](/playlists/plain/37i9dQZF1DX3EbcelyrZPd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3EbcelyrZPd)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain](/playlists/plain/37i9dQZF1DX3EbcelyrZPd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3EbcelyrZPd)
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,684 likes - 62 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,113 likes - 62 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 61 | [Zali](https://open.spotify.com/track/0XWVRZyHXzmvZLAkSLxcFB) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Zali](https://open.spotify.com/album/1xZqLbKU4hxvSLPeH3s4LI) | 3:49 |
 | 62 | [Ova](https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ova](https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J) | 3:28 |
 
-Snapshot ID: `AAAAALXt2x0NeBQ4ykB+sAZj65hMm9ov`
+Snapshot ID: `AAAAAHisrYv9FmhNUUbzq4kNGHJ+Or1q`

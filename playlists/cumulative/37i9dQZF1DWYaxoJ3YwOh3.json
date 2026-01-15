@@ -413,6 +413,42 @@
     },
     {
       "album": {
+        "name": "Below the Silence",
+        "url": "https://open.spotify.com/album/3CHmYLoyFlQ0yEY9h6CtYg"
+      },
+      "artists": [
+        {
+          "name": "Echoes of Mesopotamia",
+          "url": "https://open.spotify.com/artist/1efUe2BwqDXhtjXESVPRPV"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157716,
+      "name": "Below the Silence",
+      "url": "https://open.spotify.com/track/1YNxZ6TUtQ9GhgKU6V3nvU"
+    },
+    {
+      "album": {
+        "name": "Blue Lake Moon",
+        "url": "https://open.spotify.com/album/4y8uIq9ze6Kh4kSxMdDaaS"
+      },
+      "artists": [
+        {
+          "name": "Healing Wind",
+          "url": "https://open.spotify.com/artist/3tEA9FD13CnUsicwThXa7P"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171775,
+      "name": "Blue Lake Moon",
+      "url": "https://open.spotify.com/track/1nA4k54WkQarm0lFcRbZLL"
+    },
+    {
+      "album": {
         "name": "Arabian Spa (Middle Eastern Music)",
         "url": "https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX"
       },
@@ -554,6 +590,24 @@
       "duration_ms": 180107,
       "name": "Clear Thoughts",
       "url": "https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF"
+    },
+    {
+      "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/506SvtH8sfSyBuBpfynQkY"
+      },
+      "artists": [
+        {
+          "name": "Marolo Ocean",
+          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179269,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/7bbpFv8lBdPeeVZKw4AErU"
     },
     {
       "album": {
@@ -770,7 +824,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221000,
       "name": "Duality",
       "url": "https://open.spotify.com/track/4rWIFWN0YZBls333wOuhuv"
@@ -864,6 +918,24 @@
       "duration_ms": 166124,
       "name": "Duduk meditation",
       "url": "https://open.spotify.com/track/4EWJ1WB2hOq9P3un0ryO50"
+    },
+    {
+      "album": {
+        "name": "Duduk Tranquility",
+        "url": "https://open.spotify.com/album/0iMxcOZ3qC0BjDDuWa7D3E"
+      },
+      "artists": [
+        {
+          "name": "Zen Portal",
+          "url": "https://open.spotify.com/artist/5eedNZsISJXCHZyaHXebd4"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191392,
+      "name": "Duduk Tranquility",
+      "url": "https://open.spotify.com/track/7rTLAvGpVUZUdw5MVSiN6h"
     },
     {
       "album": {
@@ -1094,7 +1166,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 208000,
       "name": "Fire of Love",
       "url": "https://open.spotify.com/track/2T8fkgF8bZZryochACVheE"
@@ -1858,7 +1930,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165818,
       "name": "Osceola",
       "url": "https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA"
@@ -2826,6 +2898,24 @@
       "duration_ms": 253500,
       "name": "Whispers of Ney",
       "url": "https://open.spotify.com/track/5QyKenCw8AlAmw4SdUp9Ex"
+    },
+    {
+      "album": {
+        "name": "Wind Whisper",
+        "url": "https://open.spotify.com/album/0AFCwuy9NU3ZHl44EoCGjS"
+      },
+      "artists": [
+        {
+          "name": "Dumana",
+          "url": "https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Wind Whisper",
+      "url": "https://open.spotify.com/track/66yvy2DGLe552of5yCEv0m"
     },
     {
       "album": {

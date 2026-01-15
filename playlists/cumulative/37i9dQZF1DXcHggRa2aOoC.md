@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcHggRa2aOoC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcHggRa2aOoC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcHggRa2aOoC)
+[pretty](/playlists/pretty/37i9dQZF1DXcHggRa2aOoC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcHggRa2aOoC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcHggRa2aOoC)
 
 ### [فيروزيات الصباح](https://open.spotify.com/playlist/37i9dQZF1DXcHggRa2aOoC)
 

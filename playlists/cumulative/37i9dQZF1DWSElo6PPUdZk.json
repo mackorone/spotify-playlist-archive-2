@@ -770,7 +770,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 334748,
       "name": "Bullah Ki Jaana",
       "url": "https://open.spotify.com/track/0jEb7O3dQY9r2Z4uRST7Xb"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 286432,
       "name": "Challa",
       "url": "https://open.spotify.com/track/1JDGbbo7p8vTn9telazxNG"
@@ -1691,6 +1691,28 @@
     },
     {
       "album": {
+        "name": "I AM GOD",
+        "url": "https://open.spotify.com/album/7mjXxp8XA4dkNmoy1hlIx8"
+      },
+      "artists": [
+        {
+          "name": "Viepsa Arora",
+          "url": "https://open.spotify.com/artist/5OniBRRrk1TywcHKKOHNCW"
+        },
+        {
+          "name": "INAU",
+          "url": "https://open.spotify.com/artist/69tioqoopLjbHZvMq2HGd4"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205350,
+      "name": "I AM GOD",
+      "url": "https://open.spotify.com/track/4iZ3wi4euX0lCjK7Lfgi9v"
+    },
+    {
+      "album": {
         "name": "Ik Geda",
         "url": "https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv"
       },
@@ -1932,6 +1954,32 @@
       "duration_ms": 215565,
       "name": "Jee Jeha Karda",
       "url": "https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1"
+    },
+    {
+      "album": {
+        "name": "Jee Nai Lagda",
+        "url": "https://open.spotify.com/album/3vR4DUl5hgrqpa4WtnFSfF"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163136,
+      "name": "Jee Nai Lagda",
+      "url": "https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E"
     },
     {
       "album": {
@@ -2302,7 +2350,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198709,
       "name": "Kareeb",
       "url": "https://open.spotify.com/track/0v9V1rfbCesbbSQMnvrI0B"
@@ -3601,6 +3649,28 @@
     },
     {
       "album": {
+        "name": "Nedhe Nedhe",
+        "url": "https://open.spotify.com/album/2so0TJElnClfOwnCIua8VM"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        },
+        {
+          "name": "Vee",
+          "url": "https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176428,
+      "name": "Nedhe Nedhe",
+      "url": "https://open.spotify.com/track/3CigcJ58kDmQKv82Q8ZwTd"
+    },
+    {
+      "album": {
         "name": "Mankirt Aulakh Vol. 1",
         "url": "https://open.spotify.com/album/1LzjSBsrxFGlhHTjvTNtP8"
       },
@@ -3642,6 +3712,32 @@
       "duration_ms": 231272,
       "name": "No Bullshit",
       "url": "https://open.spotify.com/track/4pHNcvzZ5lnCJCJzxfFBZn"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/52dK7gHiMtNksMerWBRq3Z"
+      },
+      "artists": [
+        {
+          "name": "Baani Sandhu",
+          "url": "https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "N Vee",
+          "url": "https://open.spotify.com/artist/4O58hOXQfK7tmXXhg5i1BL"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/0yNVNZIGFH8sx6sdticsiA"
     },
     {
       "album": {
@@ -3850,7 +3946,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150719,
       "name": "Puniya Di Raat",
       "url": "https://open.spotify.com/track/4DMUo4V6tLct4R7CwUfmNO"
@@ -4176,7 +4272,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 152530,
       "name": "Roohdariyan",
       "url": "https://open.spotify.com/track/7m1Ys2CUSQYVoXGXmzwEYx"
@@ -4528,6 +4624,36 @@
       "duration_ms": 175570,
       "name": "Sohneya",
       "url": "https://open.spotify.com/track/0tWNV0VUiKRqaY2qt1v61x"
+    },
+    {
+      "album": {
+        "name": "Sohneya Tainu",
+        "url": "https://open.spotify.com/album/1GZaYiX2CqeRZY5Vl7Oqcx"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Ranjha Rajan",
+          "url": "https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N"
+        },
+        {
+          "name": "Saggi Nexuss",
+          "url": "https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi"
+        },
+        {
+          "name": "Arsh Sidhu",
+          "url": "https://open.spotify.com/artist/67DISm7g3qiY70KENtwL6G"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147696,
+      "name": "Sohneya Tainu",
+      "url": "https://open.spotify.com/track/5yb11jSKNKiy9aDrRi0VXc"
     },
     {
       "album": {

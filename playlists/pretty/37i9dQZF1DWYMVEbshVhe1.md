@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMVEbshVhe1.md) - [plain](/playlists/plain/37i9dQZF1DWYMVEbshVhe1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYMVEbshVhe1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMVEbshVhe1.md) - [plain](/playlists/plain/37i9dQZF1DWYMVEbshVhe1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYMVEbshVhe1)
 
 ### [Encanto Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWYMVEbshVhe1)
 
 > Encanto tells the tale of the Madrigals, an extraordinary family who live in a wondrous place called an Encanto\. The film features all\-new songs by Lin\-Manuel Miranda and score by Germaine Franco\. Stream Disney's Encanto on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,363 likes - 54 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,180 likes - 54 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

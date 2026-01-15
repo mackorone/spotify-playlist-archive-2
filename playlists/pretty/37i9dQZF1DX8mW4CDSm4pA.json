@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/domfishback/\">Dominique Fishback</a>. ",
-  "num_followers": 4479,
+  "num_followers": 4579,
   "original_name": "Dominique Fishback's Taste",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Ultralight Beam",
-      "url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "If Beale Street Could Talk (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 175752,
       "name": "Agape",
       "url": "https://open.spotify.com/track/2IvnDjlgH8yy70Nz99UdcJ"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Ultralight Beam",
+      "url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 255065,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 174360,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 255065,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/1waOqfmEVkVC8WhaIP6uGI"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "MTV Unplugged No. 2.0",
         "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 558973,
       "name": "I Gotta Find Peace of Mind - Live",
       "url": "https://open.spotify.com/track/6ocxCGYgcmZhCeTT1yuNkt"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 256493,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/1waOqfmEVkVC8WhaIP6uGI"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Like Water For Chocolate",
-        "url": "https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "MTV Unplugged No. 2.0",
         "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
       },
@@ -456,25 +440,9 @@
           "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 359600,
-      "name": "So Much Things to Say - Live",
-      "url": "https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 206460,
-      "name": "The Ocean",
-      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
+      "duration_ms": 317333,
+      "name": "I Get Out - Live",
+      "url": "https://open.spotify.com/track/4iwmTjkAokDyP9S51mpzQy"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -495,18 +463,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
         }
       ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+      "duration_ms": 206460,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -527,6 +495,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "MTV Unplugged No. 2.0",
         "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
       },
@@ -536,9 +520,25 @@
           "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 317333,
-      "name": "I Get Out - Live",
-      "url": "https://open.spotify.com/track/4iwmTjkAokDyP9S51mpzQy"
+      "duration_ms": 359600,
+      "name": "So Much Things to Say - Live",
+      "url": "https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Like Water For Chocolate",
+        "url": "https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "The Passion Of The Christ: Songs",
+        "url": "https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 345946,
+      "name": "The Passion",
+      "url": "https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "The Last Kiss",
         "url": "https://open.spotify.com/album/5iTDN1BwQ6JdiHD9onpfg0"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "The Passion Of The Christ: Songs",
-        "url": "https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 345946,
-      "name": "The Passion",
-      "url": "https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Infinite Possibilities",
         "url": "https://open.spotify.com/album/4L3sYcWC4WVWo3auC0WfxL"
       },
@@ -639,42 +639,6 @@
       "duration_ms": 270760,
       "name": "Make Me Whole",
       "url": "https://open.spotify.com/track/6nVWopkV9TK2YR7HZUh8oS"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/4xWQy5s10Udgbqp0ZJQshJ"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "What You Gave Me",
-      "url": "https://open.spotify.com/track/1yrZ0GevGt5HwBGH16MGBg"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 257776,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -695,6 +659,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 257776,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "Divine Secrets Of The Ya-Ya Sisterhood - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 354133,
       "name": "Selah",
       "url": "https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/4xWQy5s10Udgbqp0ZJQshJ"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "What You Gave Me",
+      "url": "https://open.spotify.com/track/1yrZ0GevGt5HwBGH16MGBg"
     },
     {
       "added_at": "2023-06-01 04:00:00",

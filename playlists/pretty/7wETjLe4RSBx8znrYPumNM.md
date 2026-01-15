@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7wETjLe4RSBx8znrYPumNM.md) - [plain](/playlists/plain/7wETjLe4RSBx8znrYPumNM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7wETjLe4RSBx8znrYPumNM)
+pretty - [cumulative](/playlists/cumulative/7wETjLe4RSBx8znrYPumNM.md) - [plain](/playlists/plain/7wETjLe4RSBx8znrYPumNM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7wETjLe4RSBx8znrYPumNM)
 
 ### [Star finder playlist](https://open.spotify.com/playlist/7wETjLe4RSBx8znrYPumNM)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaVx3bGepdB.md) - [plain](/playlists/plain/37i9dQZF1DWTaVx3bGepdB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTaVx3bGepdB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaVx3bGepdB.md) - [plain](/playlists/plain/37i9dQZF1DWTaVx3bGepdB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTaVx3bGepdB)
 
 ### [2NE1 CONCERT \[WELCOME BACK\]](https://open.spotify.com/playlist/37i9dQZF1DWTaVx3bGepdB)
 
 > Enjoy the 2NE1 Seoul concert LIVE SET including the voices of them on stage! \(2NE1의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,080 likes - 26 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,156 likes - 26 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

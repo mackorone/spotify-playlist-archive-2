@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/4ChUJAjulrsBHuGJQJqiTe.md) - [plain](/playlists/plain/4ChUJAjulrsBHuGJQJqiTe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ChUJAjulrsBHuGJQJqiTe)
+pretty - [cumulative](/playlists/cumulative/4ChUJAjulrsBHuGJQJqiTe.md) - [plain](/playlists/plain/4ChUJAjulrsBHuGJQJqiTe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4ChUJAjulrsBHuGJQJqiTe)
 
 ### [I miss you](https://open.spotify.com/playlist/4ChUJAjulrsBHuGJQJqiTe)
 

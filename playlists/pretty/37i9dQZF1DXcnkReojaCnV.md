@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain](/playlists/plain/37i9dQZF1DXcnkReojaCnV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcnkReojaCnV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain](/playlists/plain/37i9dQZF1DXcnkReojaCnV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcnkReojaCnV)
 
 ### [In the Name of the Blues: Joe Bonamassa Takeover](https://open.spotify.com/playlist/37i9dQZF1DXcnkReojaCnV)
 
 > <a href="spotify:artist:2SNzxY1OsSCHBLVi77mpPQ">Joe Bonamassa</a> is taking over to share his blues favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,370 likes - 25 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,452 likes - 25 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbEF1ZlM800j.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbEF1ZlM800j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbEF1ZlM800j)
+[pretty](/playlists/pretty/37i9dQZF1DXbEF1ZlM800j.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbEF1ZlM800j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbEF1ZlM800j)
 
 ### [Family Hanukkah Party](https://open.spotify.com/playlist/37i9dQZF1DXbEF1ZlM800j)
 

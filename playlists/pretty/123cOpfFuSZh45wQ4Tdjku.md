@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain](/playlists/plain/123cOpfFuSZh45wQ4Tdjku) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/123cOpfFuSZh45wQ4Tdjku)
+pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain](/playlists/plain/123cOpfFuSZh45wQ4Tdjku) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/123cOpfFuSZh45wQ4Tdjku)
 
 ### [My favourite furry songs](https://open.spotify.com/playlist/123cOpfFuSZh45wQ4Tdjku)
 
 > mostly furry
 
-[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,179 likes - 407 songs - 20 hr 0 min
+[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,177 likes - 407 songs - 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

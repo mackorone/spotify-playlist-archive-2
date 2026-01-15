@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE8LjSfhK2S.md) - [plain](/playlists/plain/37i9dQZF1DWVE8LjSfhK2S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVE8LjSfhK2S)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE8LjSfhK2S.md) - [plain](/playlists/plain/37i9dQZF1DWVE8LjSfhK2S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVE8LjSfhK2S)
 
 ### [Beverly Hills Cop: Axel F Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVE8LjSfhK2S)
 
 > He's back by popular demand...Listen to the music from Beverly Hills Cop: Axel F, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,945 likes - 29 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,987 likes - 29 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

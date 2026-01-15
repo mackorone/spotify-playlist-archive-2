@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77VeL9VIz4M.md) - [plain](/playlists/plain/37i9dQZF1DX77VeL9VIz4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX77VeL9VIz4M)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77VeL9VIz4M.md) - [plain](/playlists/plain/37i9dQZF1DX77VeL9VIz4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX77VeL9VIz4M)
 
 ### [Andy4000's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX77VeL9VIz4M)
 

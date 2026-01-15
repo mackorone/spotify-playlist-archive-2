@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWkGXMGv9j4M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWkGXMGv9j4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWkGXMGv9j4M)
+[pretty](/playlists/pretty/37i9dQZF1DWWkGXMGv9j4M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWkGXMGv9j4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWkGXMGv9j4M)
 
 ### [Best of Indie 2020](https://open.spotify.com/playlist/37i9dQZF1DWWkGXMGv9j4M)
 

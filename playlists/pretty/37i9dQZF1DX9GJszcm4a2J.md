@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GJszcm4a2J.md) - [plain](/playlists/plain/37i9dQZF1DX9GJszcm4a2J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9GJszcm4a2J)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GJszcm4a2J.md) - [plain](/playlists/plain/37i9dQZF1DX9GJszcm4a2J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9GJszcm4a2J)
 
 ### [남주의 첫날밤을 가져버렸다 \(The First Night With the Duke\)](https://open.spotify.com/playlist/37i9dQZF1DX9GJszcm4a2J)
 
 > Listen to the soundtracks of The First Night With the Duke\. \(남주의 첫날밤을 가져버렸다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,876 likes - 26 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,035 likes - 26 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

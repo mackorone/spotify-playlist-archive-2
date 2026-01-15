@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaJDplEJVP32.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaJDplEJVP32) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaJDplEJVP32)
+[pretty](/playlists/pretty/37i9dQZF1DXaJDplEJVP32.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaJDplEJVP32) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaJDplEJVP32)
 
 ### [2010s Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXaJDplEJVP32)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZhxU4AiByxO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZhxU4AiByxO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZhxU4AiByxO)
+[pretty](/playlists/pretty/37i9dQZF1DWZhxU4AiByxO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZhxU4AiByxO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZhxU4AiByxO)
 
 ### [Pop 4 Kids](https://open.spotify.com/playlist/37i9dQZF1DWZhxU4AiByxO)
 

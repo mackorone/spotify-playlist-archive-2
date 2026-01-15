@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain](/playlists/plain/37i9dQZF1DXdJ5OFSzWeCS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdJ5OFSzWeCS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain](/playlists/plain/37i9dQZF1DXdJ5OFSzWeCS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdJ5OFSzWeCS)
 
 ### [Sleep Music for Babies](https://open.spotify.com/playlist/37i9dQZF1DXdJ5OFSzWeCS)
 
 > Soft music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,399 likes - 150 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,374 likes - 150 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

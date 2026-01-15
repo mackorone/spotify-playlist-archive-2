@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zDoGkCTwrF.md) - [plain](/playlists/plain/37i9dQZF1DX7zDoGkCTwrF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7zDoGkCTwrF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zDoGkCTwrF.md) - [plain](/playlists/plain/37i9dQZF1DX7zDoGkCTwrF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7zDoGkCTwrF)
 
 ### [This Is Uptown Records](https://open.spotify.com/playlist/37i9dQZF1DX7zDoGkCTwrF)
 
 > This is Uptown Records\. The essential tracks, all in one playlist\. Rest in peace, Andre O'Neal Harrell!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,687 likes - 38 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,738 likes - 38 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

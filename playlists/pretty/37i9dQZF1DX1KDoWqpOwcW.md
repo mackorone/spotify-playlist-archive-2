@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain](/playlists/plain/37i9dQZF1DX1KDoWqpOwcW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1KDoWqpOwcW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain](/playlists/plain/37i9dQZF1DX1KDoWqpOwcW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1KDoWqpOwcW)
 
 ### [EL INFIERNO X Julián Ornelas 🥵🔥👹](https://open.spotify.com/playlist/37i9dQZF1DX1KDoWqpOwcW)
 
 > Una playlist a la Diabla en compañía de Julián Ornelas
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,854 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,883 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

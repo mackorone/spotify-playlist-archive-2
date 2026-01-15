@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain](/playlists/plain/37i9dQZF1DX1cAnQLHCOsG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1cAnQLHCOsG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain](/playlists/plain/37i9dQZF1DX1cAnQLHCOsG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1cAnQLHCOsG)
 
 ### [Villancicos \(De Peda\) Mexicanos](https://open.spotify.com/playlist/37i9dQZF1DX1cAnQLHCOsG)
 
 > ya quiero cantar ese que dice: porque nos toca aceptar ser sólo amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,176 likes - 21 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,768 likes - 21 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

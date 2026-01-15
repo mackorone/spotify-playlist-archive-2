@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8scDqTzxoFw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8scDqTzxoFw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8scDqTzxoFw)
+[pretty](/playlists/pretty/37i9dQZF1DX8scDqTzxoFw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8scDqTzxoFw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8scDqTzxoFw)
 
 ### [It's Party Time](https://open.spotify.com/playlist/37i9dQZF1DX8scDqTzxoFw)
 

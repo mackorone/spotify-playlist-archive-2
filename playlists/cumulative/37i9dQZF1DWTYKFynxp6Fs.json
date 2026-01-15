@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-30",
-  "description": "Every song that's Trending NOW from Malayalam! \nCover: Aashaan",
+  "description": "Every song that's Trending NOW from Malayalam! \nCover: Sarvam Maya",
   "name": "Trending Now Malayalam",
   "tracks": [
     {
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 272142,
       "name": "Makane",
       "url": "https://open.spotify.com/track/67wW2Ic4V2m5kUSh9M6yWf"
@@ -2129,6 +2129,32 @@
     },
     {
       "album": {
+        "name": "Puthu Mazha (From \"Sarvam Maya\")",
+        "url": "https://open.spotify.com/album/5E9ISq5cIQmCvtefXz0Wn9"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Manu Manjith",
+          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262285,
+      "name": "Puthu Mazha (From \"Sarvam Maya\")",
+      "url": "https://open.spotify.com/track/1T2BaoynY8mttTMb6t51gF"
+    },
+    {
+      "album": {
         "name": "Ray",
         "url": "https://open.spotify.com/album/0oritKj3ppZGOmU91yYsDL"
       },
@@ -2358,7 +2384,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 340977,
       "name": "Sundaree Onnu Parayoo - Version, 1",
       "url": "https://open.spotify.com/track/1HELfOdMwHZRwjyekjrrXx"
@@ -2674,6 +2700,32 @@
       "duration_ms": 141578,
       "name": "Vedakk Chekka",
       "url": "https://open.spotify.com/track/0PGJHryop4kfDskuNmNnEn"
+    },
+    {
+      "album": {
+        "name": "Vellarathaaram (From \"Sarvam Maya\")",
+        "url": "https://open.spotify.com/album/76xhNcZY5zLItrivJ5Bz3Z"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Manu Manjith",
+          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279600,
+      "name": "Vellarathaaram (From \"Sarvam Maya\")",
+      "url": "https://open.spotify.com/track/2LzLaaGYFBzg7esTGqmpDR"
     },
     {
       "album": {

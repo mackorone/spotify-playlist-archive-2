@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX59TepszZ0eE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX59TepszZ0eE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX59TepszZ0eE)
+[pretty](/playlists/pretty/37i9dQZF1DX59TepszZ0eE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX59TepszZ0eE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX59TepszZ0eE)
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=qSgYDzOCSyqt8\_\-ZdbhLCQ>Dumi Mkokstad</a>"
+> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-436 songs - 1 day 22 hr 5 min
+438 songs - 1 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Akukho Okungenzeki \- Live](https://open.spotify.com/track/6IMcyIMBK1sVOcooqsALrv) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 8:52 | 2024-03-29 | 2024-04-05 |
 | [Alikho Igama Medley \- Live](https://open.spotify.com/track/0PUEg4WnXAvDRrAf8UH2kP) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration Vol\. 20 \(Live at the Moses Mabhide Stadium, 2016\)](https://open.spotify.com/album/73NWBsuoUNCwV113IjYuLd) | 9:37 | 2024-03-29 | 2024-04-05 |
 | [Alikho Lelifana Nalo \(Live at Durban Icc\)](https://open.spotify.com/track/2X9oiGVIqrF019oprZixGy) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(Live at Durban Icc\)](https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU) | 11:49 | 2024-05-31 | 2024-10-18 |
+| [All My Days \- LIVE AT STATE THEATRE PRETORIA](https://open.spotify.com/track/0x8MglZZoD6sdb6jeonMOf) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [All My Days \(LIVE AT STATE THEATRE PRETORIA\)](https://open.spotify.com/album/2gkKRsQybdC1fqPesG8XHq) | 7:31 | 2026-01-09 |  |
 | [Alpha noOmega](https://open.spotify.com/track/5iQ4H7V9qmtuCs0XLZRIp9) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Alpha noOmega](https://open.spotify.com/album/14dDTEUml2aMiYgmmbVb01) | 5:00 | 2022-09-15 | 2023-03-18 |
 | [Alwaze Medley \- Live](https://open.spotify.com/track/7eM0OA1BeAynU1FjeaEt9A) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Alwaze Medley \(Live\)](https://open.spotify.com/album/5pdQ80OEokSSKDrxpPKSyJ) | 7:48 | 2025-11-21 | 2025-12-25 |
 | [Amandla \- Live](https://open.spotify.com/track/1aouk0cuImwh43TboSr12l) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Sesi Rhoda](https://open.spotify.com/artist/5QGDLCb92eloRXUmd9UIGq) | [Amandla \(Live\)](https://open.spotify.com/album/3OoMombUZCPzfif0JtaRPD) | 8:54 | 2025-10-17 |  |
@@ -295,6 +296,7 @@
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2018-09-24 |  |
 | [Shake The Ground](https://open.spotify.com/track/3Gfi0d2EJT1S6f3U72eQuL) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [THE GROUND WE'RE ON](https://open.spotify.com/album/0StZqTmijDIlMMbS0Vq8gH) | 5:58 | 2025-08-15 | 2025-09-26 |
 | [Sibabaza Wena \- Live](https://open.spotify.com/track/1gDzT790azKHH5wkHCYOaW) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sibabaza Wena \(Live\)](https://open.spotify.com/album/3MwJ24l4rzuioInlgNwgf2) | 5:40 | 2020-03-13 | 2023-05-06 |
+| [Sibabaza Wena \- Live](https://open.spotify.com/track/3bkA62gLfrNauwMFMhaoGx) | [Ndlunkulu Nosange](https://open.spotify.com/artist/2kvJWE7kiQfNXt4RgNuNmN) | [Sibabaza Wena \(Live\)](https://open.spotify.com/album/7BRlHjC2LtftVfcHzKoQ7u) | 9:30 | 2026-01-09 |  |
 | [Sidumisa Wena \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/4epVuj4ZLMusxeWD8qJll9) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Sidumisa Wena \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/3hK5itgu7a8OKdLu2kzNWh) | 7:30 | 2024-10-11 | 2025-02-14 |
 | [Silapha](https://open.spotify.com/track/2wJUqVEPkLXTVw261oQE8c) | [Zodwa Twecu](https://open.spotify.com/artist/1iFGoRhMvpam8PfZ00epet) | [Andijiki](https://open.spotify.com/album/1V279WPZP6AlIETJxQJ4pF) | 5:49 | 2023-05-05 | 2023-06-09 |
 | [Silifuze Elobandla\(Acts 2:42\-47\)](https://open.spotify.com/track/0Fyt8lAORpZJqPRciHHa0Y) | [lulama lofani](https://open.spotify.com/artist/5tUxz69IpVRSjorHKiAFFC), [Girly Sibiya](https://open.spotify.com/artist/2FxLvFgLUJzmXZjMh3EsEU) | [Silifuze Elobandla\(Acts 2:42\-47\)](https://open.spotify.com/album/2e74E0qcVor3plRWUnCpMP) | 5:03 | 2024-02-09 | 2024-05-17 |

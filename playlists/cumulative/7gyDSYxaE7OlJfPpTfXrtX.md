@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7gyDSYxaE7OlJfPpTfXrtX.md) - cumulative - [plain](/playlists/plain/7gyDSYxaE7OlJfPpTfXrtX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7gyDSYxaE7OlJfPpTfXrtX)
+[pretty](/playlists/pretty/7gyDSYxaE7OlJfPpTfXrtX.md) - cumulative - [plain](/playlists/plain/7gyDSYxaE7OlJfPpTfXrtX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7gyDSYxaE7OlJfPpTfXrtX)
 
 ### [Some Days I Wish I Could Cry](https://open.spotify.com/playlist/7gyDSYxaE7OlJfPpTfXrtX)
 

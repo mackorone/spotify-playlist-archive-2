@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Barbro",
+  "description": "Current indie tunes from Asia and around the world. Cover:  Mumford & Sons",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -6094,7 +6094,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176986,
       "name": "Call It A Day",
       "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
@@ -8924,7 +8924,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 214405,
       "name": "Damage",
       "url": "https://open.spotify.com/track/63gk2AZacanF0mUg2TLfd7"
@@ -11825,6 +11825,24 @@
     },
     {
       "album": {
+        "name": "Emilia",
+        "url": "https://open.spotify.com/album/4nN2PaGJN9ehOtJ3ZMQyhy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185117,
+      "name": "Emilia",
+      "url": "https://open.spotify.com/track/6vh92OvP2gcsUM0p9V6wf1"
+    },
+    {
+      "album": {
         "name": "Emotional",
         "url": "https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA"
       },
@@ -11944,7 +11962,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 432566,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
@@ -12870,7 +12888,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 245449,
       "name": "FACES",
       "url": "https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ"
@@ -14020,7 +14038,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148495,
       "name": "flower",
       "url": "https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF"
@@ -15398,7 +15416,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 287411,
       "name": "Giving Up Air",
       "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
@@ -16116,7 +16134,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203710,
       "name": "Good Ol' Days",
       "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
@@ -20138,7 +20156,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 246543,
       "name": "if you said",
       "url": "https://open.spotify.com/track/65s4isesdbWbt2iCD00Mjs"
@@ -20710,7 +20728,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186410,
       "name": "Inside a Dream (feat. prettyhappy)",
       "url": "https://open.spotify.com/track/4gzLhua7QMpnF1arrhQgul"
@@ -22140,7 +22158,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213934,
       "name": "Konsensya",
       "url": "https://open.spotify.com/track/3ilfK8uTk4VB50GKtfKHTL"
@@ -29528,7 +29546,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 392098,
       "name": "One of the Greats",
       "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
@@ -29840,7 +29858,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195146,
       "name": "Original",
       "url": "https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ"
@@ -30939,6 +30957,24 @@
     },
     {
       "album": {
+        "name": "Apxllo",
+        "url": "https://open.spotify.com/album/0BAVls39bqAOUKu905F02T"
+      },
+      "artists": [
+        {
+          "name": "Last Dinosaurs",
+          "url": "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Pink Flags",
+      "url": "https://open.spotify.com/track/1wT3E655qZhcvrgx0MyXex"
+    },
+    {
+      "album": {
         "name": "The Endless Coloured Ways: The Songs of Nick Drake",
         "url": "https://open.spotify.com/album/41NPRAXWRq1a5JKOfxvkfE"
       },
@@ -31797,6 +31833,24 @@
     },
     {
       "album": {
+        "name": "Punk Rocky",
+        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235344,
+      "name": "Punk Rocky",
+      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
+    {
+      "album": {
         "name": "punkt",
         "url": "https://open.spotify.com/album/1MZG06naKW8R00sHwVY40y"
       },
@@ -32310,6 +32364,24 @@
       "duration_ms": 233000,
       "name": "Raining On Your Pillow",
       "url": "https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg"
+    },
+    {
+      "album": {
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/717tB8DiYiBQ2RqWvA6fdS"
+      },
+      "artists": [
+        {
+          "name": "Foc Fashion",
+          "url": "https://open.spotify.com/artist/3J64seEAiIXoGFU5D0wnSK"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238446,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/1vg0H6yZPr0l5AidnnLpYh"
     },
     {
       "album": {
@@ -33076,7 +33148,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 227213,
       "name": "Robot Revolution",
       "url": "https://open.spotify.com/track/1oFZdO313TxVIMrurGaaWa"
@@ -33892,7 +33964,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 244106,
       "name": "Sage",
       "url": "https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG"
@@ -34480,7 +34552,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 288453,
       "name": "Second Sleep",
       "url": "https://open.spotify.com/track/47N21fn8V8IN392MGlicT5"
@@ -36870,6 +36942,24 @@
       "duration_ms": 374468,
       "name": "Spinning",
       "url": "https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3"
+    },
+    {
+      "album": {
+        "name": "Spinning Rooms",
+        "url": "https://open.spotify.com/album/3XmsRHiqxdZMTvtTfMKilM"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236619,
+      "name": "Spinning Rooms",
+      "url": "https://open.spotify.com/track/2XJU0TP8vgVBpOfiO2Mpnu"
     },
     {
       "album": {
@@ -39689,6 +39779,24 @@
     },
     {
       "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
+    },
+    {
+      "album": {
         "name": "The Bed, The Room, The Rain and You",
         "url": "https://open.spotify.com/album/1TPWuITTFW8RdqRfrNVEO5"
       },
@@ -39758,6 +39866,24 @@
       "duration_ms": 208158,
       "name": "the benefits of lying (with your friend)",
       "url": "https://open.spotify.com/track/2M2yjfzGlbltqYRd4U2ExT"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5dUYtrlK1wo3wvnErHnqOw"
+      },
+      "artists": [
+        {
+          "name": "Barbro",
+          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147134,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/7hDKuMEw9XfQJWc9CCFA0x"
     },
     {
       "album": {
@@ -40902,6 +41028,24 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI"
+    },
+    {
+      "album": {
+        "name": "viagr aboys (Japanese Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159390,
+      "name": "Therapy II",
+      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
     },
     {
       "album": {
@@ -43152,7 +43296,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209866,
       "name": "Upside Down (Candy Crush)",
       "url": "https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL"
@@ -43575,6 +43719,24 @@
     },
     {
       "album": {
+        "name": "Volcatronix",
+        "url": "https://open.spotify.com/album/1W0GQHll1fW60LpaCi1xb1"
+      },
+      "artists": [
+        {
+          "name": "Soft Pine",
+          "url": "https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Volcatronix",
+      "url": "https://open.spotify.com/track/1scCZ5VcrIAgD0H6iZVH40"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE"
       },
@@ -43778,7 +43940,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176985,
       "name": "Walk Walk Walk",
       "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
@@ -46058,7 +46220,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 268410,
       "name": "Yamaha",
       "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
@@ -46850,7 +47012,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 220990,
       "name": "\u2060The Ghost of Her Smile",
       "url": "https://open.spotify.com/track/56Q8UTxYRhMu1YaF3wW9GG"

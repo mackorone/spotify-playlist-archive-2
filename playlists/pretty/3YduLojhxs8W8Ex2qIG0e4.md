@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3YduLojhxs8W8Ex2qIG0e4.md) - [plain](/playlists/plain/3YduLojhxs8W8Ex2qIG0e4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3YduLojhxs8W8Ex2qIG0e4)
+pretty - [cumulative](/playlists/cumulative/3YduLojhxs8W8Ex2qIG0e4.md) - [plain](/playlists/plain/3YduLojhxs8W8Ex2qIG0e4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3YduLojhxs8W8Ex2qIG0e4)
 
 ### [ALTERNATIVE ROCK \- THE MIX](https://open.spotify.com/playlist/3YduLojhxs8W8Ex2qIG0e4)
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-[Salon Blanc](https://open.spotify.com/user/1125193345) - 1,996 likes - 53 songs - 3 hr 8 min
+[Salon Blanc](https://open.spotify.com/user/1125193345) - 1,993 likes - 53 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

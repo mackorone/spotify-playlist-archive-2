@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUajed02NzWR.md) - [plain](/playlists/plain/37i9dQZF1DWUajed02NzWR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUajed02NzWR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUajed02NzWR.md) - [plain](/playlists/plain/37i9dQZF1DWUajed02NzWR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUajed02NzWR)
 
 ### [Classical Garden](https://open.spotify.com/playlist/37i9dQZF1DWUajed02NzWR)
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,773 likes - 73 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,346 likes - 73 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUajed02NzWR.md) - [plain]
 | 38 | [The Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:54 |
 | 39 | [Three Jamaican Dances: No\. 2](https://open.spotify.com/track/67HF6y5o1UhIFUGIOPzUK5) | [Oswald Russell](https://open.spotify.com/artist/7wrHPrsAxevxCYYVZa9Vy1), [William Chapman Nyaho](https://open.spotify.com/artist/1MdLO15sS1LDVswSIyOXzo) | [Senku \- Piano Music by Composers of African Descent, Vol\. 1](https://open.spotify.com/album/0Ek2MOe3oScb5Fn39c8F57) | 2:27 |
 | 40 | [Bird](https://open.spotify.com/track/2OAxsvvHJX59hlb7ORbXnx) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Weaving](https://open.spotify.com/album/2b3HP0aL2Ae8Qf77M6PMxR) | 2:45 |
-| 41 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Lark Ascending collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 |
+| 41 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y) | [The Lark Ascending Collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 |
 | 42 | [Ravel: Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/3MRQn2RYo2VLYMoStnLRxu) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Ravel: Complete Works for Solo Piano](https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM) | 5:46 |
 | 43 | [Symphony No\. 5 in B\-Flat Major, D\. 485: II\. Andante con moto](https://open.spotify.com/track/65VJUSqyss1oS46GAPC8mb) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Chamber Orchestra of Europe](https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Schubert: Symphonies Nos.5 & 6 "The Little"](https://open.spotify.com/album/0hkg313TIK7KadbIs3H2FE) | 9:32 |
 | 44 | [Partita No\. 1 in B\-Flat Major, BWV 825: I\. Praeludium \- Recorded 2018](https://open.spotify.com/track/7wqHL8FiOtzuNuyDUYd2lQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Angela Hewitt](https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R) | [Bach: 6 Partitas, BWV 825\-830 \(2018 Recording\)](https://open.spotify.com/album/4YdycODhOgbqHAtmLI78an) | 1:58 |

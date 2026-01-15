@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain](/playlists/plain/37i9dQZF1DWU4aFimZ74X3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU4aFimZ74X3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain](/playlists/plain/37i9dQZF1DWU4aFimZ74X3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU4aFimZ74X3)
 
 ### [INITIAL D](https://open.spotify.com/playlist/37i9dQZF1DWU4aFimZ74X3)
 
 > Music from the street racing manga series, “INITIAL D”! （C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,374 likes - 35 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,977 likes - 35 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW12b3rLxoRJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW12b3rLxoRJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW12b3rLxoRJ)
+[pretty](/playlists/pretty/37i9dQZF1DWW12b3rLxoRJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW12b3rLxoRJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW12b3rLxoRJ)
 
 ### [La Firma Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWW12b3rLxoRJ)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0tkdz9yYluhlxVE9BuJOPm.md) - [plain](/playlists/plain/0tkdz9yYluhlxVE9BuJOPm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0tkdz9yYluhlxVE9BuJOPm)
+pretty - [cumulative](/playlists/cumulative/0tkdz9yYluhlxVE9BuJOPm.md) - [plain](/playlists/plain/0tkdz9yYluhlxVE9BuJOPm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0tkdz9yYluhlxVE9BuJOPm)
 
 ### [Spotify Sessions](https://open.spotify.com/playlist/0tkdz9yYluhlxVE9BuJOPm)
 
 > A collection of live, exclusive performances from the most exciting artists in the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,319 likes - 397 songs - 1 day 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,318 likes - 397 songs - 1 day 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

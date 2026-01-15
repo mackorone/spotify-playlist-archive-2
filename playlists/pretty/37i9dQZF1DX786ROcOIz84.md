@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX786ROcOIz84.md) - [plain](/playlists/plain/37i9dQZF1DX786ROcOIz84) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX786ROcOIz84)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX786ROcOIz84.md) - [plain](/playlists/plain/37i9dQZF1DX786ROcOIz84) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX786ROcOIz84)
 
 ### [best of new lofi 2025](https://open.spotify.com/playlist/37i9dQZF1DX786ROcOIz84)
 
 > the best beats from new lofi in 2025, picked by our editors\. focus, chill, see you in 2026\. cover: Leavv
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,530 likes - 100 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,087 likes - 100 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

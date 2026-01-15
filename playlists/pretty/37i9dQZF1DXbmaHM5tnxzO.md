@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain](/playlists/plain/37i9dQZF1DXbmaHM5tnxzO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbmaHM5tnxzO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain](/playlists/plain/37i9dQZF1DXbmaHM5tnxzO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbmaHM5tnxzO)
 
 ### [Pixar Hits](https://open.spotify.com/playlist/37i9dQZF1DXbmaHM5tnxzO)
 
 > Celebrate 30 years of friendship and beyond with Disney and Pixar's Toy Story.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,352 likes - 93 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,378 likes - 93 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

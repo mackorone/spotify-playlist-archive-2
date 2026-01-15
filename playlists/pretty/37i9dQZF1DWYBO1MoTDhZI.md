@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain](/playlists/plain/37i9dQZF1DWYBO1MoTDhZI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYBO1MoTDhZI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain](/playlists/plain/37i9dQZF1DWYBO1MoTDhZI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYBO1MoTDhZI)
 
 ### [Good Vibes](https://open.spotify.com/playlist/37i9dQZF1DWYBO1MoTDhZI)
 
 > Just good vibes all day long
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,599,670 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,598,661 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 | 99 | [Redbone](https://open.spotify.com/track/2Uvy6SkNqxvnH1W68dymxG) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/0jR6E4KQGrVLbnG6Fw3pe9) | 5:26 |
 | 100 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 
-Snapshot ID: `AAAAAH23gUgMXgPEbKiRKVcbB5koOzyw`
+Snapshot ID: `AAAAAEeqW1x6GUF0F/fvPhiUjlN8rssu`

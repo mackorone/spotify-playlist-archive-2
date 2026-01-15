@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1apRF10Iufr0NBBiF1u7E5.md) - cumulative - [plain](/playlists/plain/1apRF10Iufr0NBBiF1u7E5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1apRF10Iufr0NBBiF1u7E5)
+[pretty](/playlists/pretty/1apRF10Iufr0NBBiF1u7E5.md) - cumulative - [plain](/playlists/plain/1apRF10Iufr0NBBiF1u7E5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1apRF10Iufr0NBBiF1u7E5)
 
 ### [Valentine anger](https://open.spotify.com/playlist/1apRF10Iufr0NBBiF1u7E5)
 

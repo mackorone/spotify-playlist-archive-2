@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK6HkN7OS7c.md) - [plain](/playlists/plain/37i9dQZF1DWVK6HkN7OS7c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVK6HkN7OS7c)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK6HkN7OS7c.md) - [plain](/playlists/plain/37i9dQZF1DWVK6HkN7OS7c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVK6HkN7OS7c)
 
 ### [Mixtape \#8 Paul Mescal "Songs to make you feel something"](https://open.spotify.com/playlist/37i9dQZF1DWVK6HkN7OS7c)
 
 > Songs that make Paul Mescal feel something, including some from his new film All Of Us Strangers\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,945 likes - 48 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,281 likes - 48 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

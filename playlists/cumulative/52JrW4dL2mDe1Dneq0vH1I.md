@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/52JrW4dL2mDe1Dneq0vH1I.md) - cumulative - [plain](/playlists/plain/52JrW4dL2mDe1Dneq0vH1I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/52JrW4dL2mDe1Dneq0vH1I)
+[pretty](/playlists/pretty/52JrW4dL2mDe1Dneq0vH1I.md) - cumulative - [plain](/playlists/plain/52JrW4dL2mDe1Dneq0vH1I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/52JrW4dL2mDe1Dneq0vH1I)
 
 ### [Rodriguez](https://open.spotify.com/playlist/52JrW4dL2mDe1Dneq0vH1I)
 

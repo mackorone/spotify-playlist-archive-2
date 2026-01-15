@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7HQu1GUDVSx64GdCpaB88I.md) - cumulative - [plain](/playlists/plain/7HQu1GUDVSx64GdCpaB88I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7HQu1GUDVSx64GdCpaB88I)
+[pretty](/playlists/pretty/7HQu1GUDVSx64GdCpaB88I.md) - cumulative - [plain](/playlists/plain/7HQu1GUDVSx64GdCpaB88I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7HQu1GUDVSx64GdCpaB88I)
 
 ### [90's Hip Hop Don't Stop](https://open.spotify.com/playlist/7HQu1GUDVSx64GdCpaB88I)
 

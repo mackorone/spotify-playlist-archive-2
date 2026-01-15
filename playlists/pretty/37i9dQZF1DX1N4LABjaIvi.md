@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain](/playlists/plain/37i9dQZF1DX1N4LABjaIvi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1N4LABjaIvi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain](/playlists/plain/37i9dQZF1DX1N4LABjaIvi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1N4LABjaIvi)
 
 ### [This Is Luciano Pereyra](https://open.spotify.com/playlist/37i9dQZF1DX1N4LABjaIvi)
 

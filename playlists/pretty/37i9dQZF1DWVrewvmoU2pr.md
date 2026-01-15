@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain](/playlists/plain/37i9dQZF1DWVrewvmoU2pr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVrewvmoU2pr)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain](/playlists/plain/37i9dQZF1DWVrewvmoU2pr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVrewvmoU2pr)
 
 ### [想愛就愛](https://open.spotify.com/playlist/37i9dQZF1DWVrewvmoU2pr)
 
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 4 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 |
 | 5 | [黑彩虹](https://open.spotify.com/track/4UWoWjmD9MzzbREGsIZ0ik) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [黑彩虹](https://open.spotify.com/album/03x5AHLUVKl9N4Q6Ix9O5O) | 4:40 |
 | 6 | [我感覺到](https://open.spotify.com/track/1oKqn2ZQPjxyO5cHukLyJz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [我感覺到](https://open.spotify.com/album/29jfGvVKC2aJFTW01HB6fU) | 4:33 |
-| 7 | [禁色](https://open.spotify.com/track/4w58z1FlaaVsi75HUfS0NC) | [Tat Ming Pair](https://open.spotify.com/artist/2cvtzIo0OSIAkyr7LisIT6) | [你還愛我嗎?](https://open.spotify.com/album/7ALLotqAN9o72KeBEPGB1X) | 4:04 |
+| 7 | [禁色](https://open.spotify.com/track/4w58z1FlaaVsi75HUfS0NC) | [Tat Ming Pair](https://open.spotify.com/artist/2cvtzIo0OSIAkyr7LisIT6) | [你還愛我嗎？](https://open.spotify.com/album/7ALLotqAN9o72KeBEPGB1X) | 4:04 |
 | 8 | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/track/596MqWmYLojkoFvgygAteu) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/album/1GtTUDJrBUbRACKrBmmVTC) | 3:17 |
 | 9 | [內外](https://open.spotify.com/track/0GLxavYdjEYvGx9eN3lDv4) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [內外](https://open.spotify.com/album/1dMVJFOcO7aaDbrxyPuBqL) | 3:47 |
 | 10 | [吟鈴](https://open.spotify.com/track/27ytVYZJ0OWpMz3DxnOj2h) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [吟鈴](https://open.spotify.com/album/54iUsAIGzduKUSMwCMKYpF) | 2:58 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 42 | [麥當娜一吻](https://open.spotify.com/track/59zq7SZWp8iUgB8474qHTD) | [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [F](https://open.spotify.com/album/36ltQ6pWG0YtsqMXdt8h5F) | 2:59 |
 | 43 | [命硬](https://open.spotify.com/track/47RgWWTJno746wCInL4gQz) | [Justin Lo](https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC) | [From Justin Collection Of His First 3 Years](https://open.spotify.com/album/6pXr9g9r0p4Q32xJoBGKp1) | 3:37 |
 | 44 | [黃色大門](https://open.spotify.com/track/2WkZMfC3eTYciJrhXD7vQb) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [Hopelessly Romantic Collection](https://open.spotify.com/album/5YKPJa7K3n7TtLZHvr3UkB) | 3:46 |
-| 45 | [這麼遠, 那麼近](https://open.spotify.com/track/3al25dOepUordzWk36dz7r) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [ACOUSTIC…AND A LITTLE MORE](https://open.spotify.com/album/0sEHOciFFpApBnZnBssZOe) | 4:53 |
+| 45 | [這麼遠, 那麼近](https://open.spotify.com/track/3al25dOepUordzWk36dz7r) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [acoustic...and a little more](https://open.spotify.com/album/0sEHOciFFpApBnZnBssZOe) | 4:53 |
 | 46 | [汽水樽裡的咖啡](https://open.spotify.com/track/5B8OFNe5x4NLNX2MIsi8Lo) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [梁祝下世傳奇 \(2nd Version\)](https://open.spotify.com/album/26NCYcvfFhRwQeyJTK4iOG) | 5:13 |
 | 47 | [酷兒](https://open.spotify.com/track/5RibIH8j3FNOpJDBbyJWJs) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62) | [Nothing Lasts Forever](https://open.spotify.com/album/5CyypeOKTQJsDHXSuRvv47) | 4:19 |
 | 48 | [好朋友](https://open.spotify.com/track/0b110tCRwwA7Z7BD1qGM6f) | [Edmond Leung](https://open.spotify.com/artist/1THfyLd3iyJYJ6X2U36K0y) | [好朋友 \(華星40系列\)](https://open.spotify.com/album/5wYJgrAPKb6xreuSMyYVpO) | 3:15 |

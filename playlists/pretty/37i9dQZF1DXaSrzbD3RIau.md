@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSrzbD3RIau.md) - [plain](/playlists/plain/37i9dQZF1DXaSrzbD3RIau) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaSrzbD3RIau)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSrzbD3RIau.md) - [plain](/playlists/plain/37i9dQZF1DXaSrzbD3RIau) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaSrzbD3RIau)
 
 ### [랩:퍼블릭 \(RAP:PUBLIC\)](https://open.spotify.com/playlist/37i9dQZF1DXaSrzbD3RIau)
 
 > Listen to the soundtracks of RAP:PUBLIC\. \(랩:퍼블릭의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 196 likes - 22 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 206 likes - 22 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

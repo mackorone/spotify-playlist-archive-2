@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/44Ht3IACEyKqiLBZupIhIk.md) - cumulative - [plain](/playlists/plain/44Ht3IACEyKqiLBZupIhIk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/44Ht3IACEyKqiLBZupIhIk)
+[pretty](/playlists/pretty/44Ht3IACEyKqiLBZupIhIk.md) - cumulative - [plain](/playlists/plain/44Ht3IACEyKqiLBZupIhIk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/44Ht3IACEyKqiLBZupIhIk)
 
 ### [Sweetgrass](https://open.spotify.com/playlist/44Ht3IACEyKqiLBZupIhIk)
 

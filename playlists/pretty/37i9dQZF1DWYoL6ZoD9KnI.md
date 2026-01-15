@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain](/playlists/plain/37i9dQZF1DWYoL6ZoD9KnI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYoL6ZoD9KnI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain](/playlists/plain/37i9dQZF1DWYoL6ZoD9KnI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYoL6ZoD9KnI)
 
 ### [This Is 米津玄師 \- Kenshi Yonezu \- ](https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI)
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,339 likes - 88 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,132 likes - 88 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

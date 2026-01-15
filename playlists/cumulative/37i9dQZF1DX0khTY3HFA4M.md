@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0khTY3HFA4M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0khTY3HFA4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0khTY3HFA4M)
+[pretty](/playlists/pretty/37i9dQZF1DX0khTY3HFA4M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0khTY3HFA4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0khTY3HFA4M)
 
 ### [Chill Instrumental Beats](https://open.spotify.com/playlist/37i9dQZF1DX0khTY3HFA4M)
 

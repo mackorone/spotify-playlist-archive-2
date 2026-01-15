@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVbxH0H5oTi.md) - [plain](/playlists/plain/37i9dQZF1DXdVbxH0H5oTi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdVbxH0H5oTi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVbxH0H5oTi.md) - [plain](/playlists/plain/37i9dQZF1DXdVbxH0H5oTi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdVbxH0H5oTi)
 
 ### [Get Chores Done](https://open.spotify.com/playlist/37i9dQZF1DXdVbxH0H5oTi)
 

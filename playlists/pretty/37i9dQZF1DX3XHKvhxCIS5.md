@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHKvhxCIS5.md) - [plain](/playlists/plain/37i9dQZF1DX3XHKvhxCIS5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3XHKvhxCIS5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHKvhxCIS5.md) - [plain](/playlists/plain/37i9dQZF1DX3XHKvhxCIS5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3XHKvhxCIS5)
 
 ### [Best of Fresh Éire 2024](https://open.spotify.com/playlist/37i9dQZF1DX3XHKvhxCIS5)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6ClBNzH2PMh2jvkEuSFBFJ.md) - cumulative - [plain](/playlists/plain/6ClBNzH2PMh2jvkEuSFBFJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6ClBNzH2PMh2jvkEuSFBFJ)
+[pretty](/playlists/pretty/6ClBNzH2PMh2jvkEuSFBFJ.md) - cumulative - [plain](/playlists/plain/6ClBNzH2PMh2jvkEuSFBFJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6ClBNzH2PMh2jvkEuSFBFJ)
 
 ### [Gainsville Stockholm 2012](https://open.spotify.com/playlist/6ClBNzH2PMh2jvkEuSFBFJ)
 

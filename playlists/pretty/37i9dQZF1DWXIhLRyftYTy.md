@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIhLRyftYTy.md) - [plain](/playlists/plain/37i9dQZF1DWXIhLRyftYTy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXIhLRyftYTy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIhLRyftYTy.md) - [plain](/playlists/plain/37i9dQZF1DWXIhLRyftYTy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXIhLRyftYTy)
 
 ### [낭만닥터 김사부3 \(Dr\. Romantic 3\)](https://open.spotify.com/playlist/37i9dQZF1DWXIhLRyftYTy)
 

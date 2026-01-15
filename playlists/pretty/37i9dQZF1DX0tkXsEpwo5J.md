@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain](/playlists/plain/37i9dQZF1DX0tkXsEpwo5J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0tkXsEpwo5J)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain](/playlists/plain/37i9dQZF1DX0tkXsEpwo5J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0tkXsEpwo5J)
 
 ### [al cien](https://open.spotify.com/playlist/37i9dQZF1DX0tkXsEpwo5J)
 
 > canciones para andar bien al cien 🙂‍↕️
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,948 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,829 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

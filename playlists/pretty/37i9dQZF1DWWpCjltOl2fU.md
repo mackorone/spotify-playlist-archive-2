@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpCjltOl2fU.md) - [plain](/playlists/plain/37i9dQZF1DWWpCjltOl2fU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWpCjltOl2fU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpCjltOl2fU.md) - [plain](/playlists/plain/37i9dQZF1DWWpCjltOl2fU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWpCjltOl2fU)
 
 ### [EODM Play it Forward Campaign](https://open.spotify.com/playlist/37i9dQZF1DWWpCjltOl2fU)
 

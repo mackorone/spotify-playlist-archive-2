@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain](/playlists/plain/37i9dQZF1DWVFhnU8yozBd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVFhnU8yozBd)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain](/playlists/plain/37i9dQZF1DWVFhnU8yozBd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVFhnU8yozBd)
 
 ### [Sofia Kourtesis track IDs](https://open.spotify.com/playlist/37i9dQZF1DWVFhnU8yozBd)
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>' favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,669 likes - 118 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,739 likes - 118 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

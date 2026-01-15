@@ -472,7 +472,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 260952,
       "name": "AIR",
       "url": "https://open.spotify.com/track/3gSIjJhFk9GjUsgD7QjdrF"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 366400,
       "name": "Ascension Pt. II",
       "url": "https://open.spotify.com/track/24mn5vRHLCoRehW3bZdeMh"
@@ -4031,6 +4031,28 @@
     },
     {
       "album": {
+        "name": "Closer Than Ever (Arodes Remix)",
+        "url": "https://open.spotify.com/album/202837bwedJn5vTu0bC3ny"
+      },
+      "artists": [
+        {
+          "name": "Imbermind",
+          "url": "https://open.spotify.com/artist/2tWWexhcLvL1CN2fswv3xt"
+        },
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222604,
+      "name": "Closer Than Ever - Arodes Remix",
+      "url": "https://open.spotify.com/track/3jeFImBk9dH4GawbHaw3Nn"
+    },
+    {
+      "album": {
         "name": "Closer To The Floor",
         "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
       },
@@ -4784,7 +4806,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 469905,
       "name": "Day Dreams of Beaches",
       "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
@@ -4864,7 +4886,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149939,
       "name": "Deeplow",
       "url": "https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55"
@@ -6876,7 +6898,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 215040,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
@@ -10124,7 +10146,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 165500,
       "name": "Kuwe",
       "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
@@ -16654,7 +16676,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 163902,
       "name": "Rintintin",
       "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
@@ -16698,7 +16720,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 166451,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
@@ -16768,6 +16790,24 @@
       "duration_ms": 198873,
       "name": "ronju",
       "url": "https://open.spotify.com/track/26LNp0rYhFNLNh1I2fpaEA"
+    },
+    {
+      "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/7zBtA9nV22Xkz776jcA8Rh"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249999,
+      "name": "ROOTS",
+      "url": "https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra"
     },
     {
       "album": {
@@ -20442,7 +20482,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 175637,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/2P47oSY4wOA04R35miFEnn"
@@ -21992,7 +22032,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 513893,
       "name": "When We Play",
       "url": "https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc"

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQcxgTJZWi5.md) - [plain](/playlists/plain/37i9dQZF1DWYQcxgTJZWi5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYQcxgTJZWi5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQcxgTJZWi5.md) - [plain](/playlists/plain/37i9dQZF1DWYQcxgTJZWi5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYQcxgTJZWi5)
 
 ### [Rockeando desde la Cuna](https://open.spotify.com/playlist/37i9dQZF1DWYQcxgTJZWi5)
 
 > Grandes clásicos del rock para grandes y pequeños.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,248 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,321 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

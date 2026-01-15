@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain](/playlists/plain/37i9dQZF1DX5k2NQZIn7LE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5k2NQZIn7LE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain](/playlists/plain/37i9dQZF1DX5k2NQZIn7LE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5k2NQZIn7LE)
 
 ### [Best of: Coke Studio Fusion](https://open.spotify.com/playlist/37i9dQZF1DX5k2NQZIn7LE)
 
 > Fusion hits from Coke Studio Pakistan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,102 likes - 67 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,219 likes - 67 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

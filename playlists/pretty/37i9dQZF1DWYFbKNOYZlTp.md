@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFbKNOYZlTp.md) - [plain](/playlists/plain/37i9dQZF1DWYFbKNOYZlTp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYFbKNOYZlTp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFbKNOYZlTp.md) - [plain](/playlists/plain/37i9dQZF1DWYFbKNOYZlTp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYFbKNOYZlTp)
 
 ### [Best of Our Generation 2024](https://open.spotify.com/playlist/37i9dQZF1DWYFbKNOYZlTp)
 
 > Our editor’s picks for the best songs from Our Generation in 2024\. Cover: Rachel Chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

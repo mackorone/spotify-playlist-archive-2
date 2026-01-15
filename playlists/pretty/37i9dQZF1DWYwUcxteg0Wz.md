@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwUcxteg0Wz.md) - [plain](/playlists/plain/37i9dQZF1DWYwUcxteg0Wz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYwUcxteg0Wz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwUcxteg0Wz.md) - [plain](/playlists/plain/37i9dQZF1DWYwUcxteg0Wz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYwUcxteg0Wz)
 
 ### [Mixtape \#10 Matt Champion "SAP"](https://open.spotify.com/playlist/37i9dQZF1DWYwUcxteg0Wz)
 
 > "SAP" a playlist by <a href="spotify:artist:29Oq9Nv8zLgu3IvX1tIpbm">Matt Champion</a>\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,221 likes - 26 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,295 likes - 26 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

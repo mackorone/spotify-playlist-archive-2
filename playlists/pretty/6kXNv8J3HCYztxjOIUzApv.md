@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain](/playlists/plain/6kXNv8J3HCYztxjOIUzApv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6kXNv8J3HCYztxjOIUzApv)
+pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain](/playlists/plain/6kXNv8J3HCYztxjOIUzApv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6kXNv8J3HCYztxjOIUzApv)
 
 ### [Hard Rock Workout](https://open.spotify.com/playlist/6kXNv8J3HCYztxjOIUzApv)
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,374 likes - 213 songs - 13 hr 11 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,359 likes - 213 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

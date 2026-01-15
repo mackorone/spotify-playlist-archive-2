@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX57hHpm3vGiU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX57hHpm3vGiU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX57hHpm3vGiU)
+[pretty](/playlists/pretty/37i9dQZF1DX57hHpm3vGiU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX57hHpm3vGiU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX57hHpm3vGiU)
 
 ### [Cuencos Tibetanos](https://open.spotify.com/playlist/37i9dQZF1DX57hHpm3vGiU)
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-97 songs - 6 hr 23 min
+101 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,14 @@
 | [340 Hz Crystal Bowl \(Sound Bath\)](https://open.spotify.com/track/5trb6HdVFr7zQ2FieN1tSo) | [Aum Pro](https://open.spotify.com/artist/6sxGvi2ZDbc3zzQGr0u3Bu) | [340 Hz Crystal Bowl \(Sound Bath\)](https://open.spotify.com/album/7ovrUCBeHq6AZm9QROOVQn) | 2:16 | 2023-07-10 |  |
 | [3rd Jhana \- Equanimity](https://open.spotify.com/track/13Q2mB6MXVlsSFFDjtwCxT) | [Phil Thornton](https://open.spotify.com/artist/3R5NLRDm59J9sB9Q7Ec5Eo) | [Pure Tibetan Bowls](https://open.spotify.com/album/1mcbcxox0vOHK5bjCaa9xp) | 8:47 | 2022-07-18 |  |
 | [432 Hz Crystal Bowl](https://open.spotify.com/track/77E3mdW9Yyw2SoSxod4UgG) | [Tibetanian](https://open.spotify.com/artist/2w4slIer7XY7fDEehJLONJ) | [432 Hz Crystal Bowl](https://open.spotify.com/album/4swun98t4e747mTtz4qkxg) | 2:54 | 2022-07-18 |  |
+| [528 Hz Aural Cleanse](https://open.spotify.com/track/3wR0M6V0VWL4gUJyg6d05f) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [528 Hz Aural Cleanse](https://open.spotify.com/album/1JBWLYHgt7rhqRZgKHuXOq) | 2:41 | 2026-01-08 |  |
 | [528 Hz Singing Tibetan Bowl](https://open.spotify.com/track/5FlSEkinQuGnXatiZIs4XD) | [Chakra Shack](https://open.spotify.com/artist/3SeXI5wCsQRDEoReZONV4d) | [Awareness](https://open.spotify.com/album/6Sl36AMtt07HX5LVE6WG4a) | 2:15 | 2022-07-18 |  |
 | [Acoustic Amethyst in E](https://open.spotify.com/track/72tkGdvxeI9zOj8IKyWHeh) | [Tryshe Dhevney](https://open.spotify.com/artist/7FORWYOeK22jpjdYsdDtmQ) | [Crystal Bowl Sound Healing](https://open.spotify.com/album/2Wff7L22hXkiMnLIr4CsSL) | 10:37 | 2022-07-18 |  |
 | [Aether Whisper](https://open.spotify.com/track/1iMGEvfZOmurGHSaMkMGlc) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Aether Whisper](https://open.spotify.com/album/23DGAfZKA6yQX0Y8dMx3Tn) | 2:31 | 2024-07-16 |  |
 | [Anussati](https://open.spotify.com/track/5u9CXIWDseGEO4eunBRiYk) | [Dhyāna One](https://open.spotify.com/artist/0UFdIjW2UB80v8wuOMUrYC) | [Dhyāna](https://open.spotify.com/album/4aJArtbJHKy4F88Wy2pMn9) | 5:42 | 2022-07-18 |  |
 | [August](https://open.spotify.com/track/4ZbqtWFkXzlJS7HlmDmOrB) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Relaxing Tibetan Bowls](https://open.spotify.com/album/32WNC35kd87Lai664eZvwP) | 2:54 | 2022-07-18 |  |
 | [Aum Meditate](https://open.spotify.com/track/4w3TPh10uapmoxwbfgt6D6) | [Bah Zen](https://open.spotify.com/artist/6WOLPTN3uKvcpJUYHkRb6k) | [Positive Thinking](https://open.spotify.com/album/2lMNGjVYdKvRG5DosyhjOi) | 2:22 | 2022-07-18 |  |
+| [Auric Drift](https://open.spotify.com/track/06TDCIdj8a2776GkGGow4Y) | [Adrian Moor](https://open.spotify.com/artist/5J6jx2CjmC4r4QeNCeWYbB) | [Auric Drift](https://open.spotify.com/album/2DGKDfafiVgHVeIVt2GEwB) | 2:05 | 2026-01-08 |  |
 | [Awaken the Third Eye Chakra](https://open.spotify.com/track/7o7HUQi5RKGhdDRSjWprqg) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Light and Vibration](https://open.spotify.com/album/0BuTMBr9X9c6lc4VcMEDfW) | 4:05 | 2023-07-10 |  |
 | [Be Love Now](https://open.spotify.com/track/2roRyBtlHkiCdrEksPTeGs) | [Larrek](https://open.spotify.com/artist/6VFekblOut967g4jD8w46E) | [Be Love Now](https://open.spotify.com/album/2tnkj3KcWroc1xF6h56X4V) | 1:57 | 2022-09-06 |  |
 | [Bells And Bowls](https://open.spotify.com/track/71UCdDQmLAGy1is3CnfLwR) | [Tibetanian](https://open.spotify.com/artist/2w4slIer7XY7fDEehJLONJ) | [Tibetan Bowls](https://open.spotify.com/album/0pdhZQafghPcAYxtcbvwsf) | 2:44 | 2022-07-18 | 2024-07-17 |
@@ -35,6 +37,7 @@
 | [Crystal Bowl Dream](https://open.spotify.com/track/0f8DS6g7JIPQMzaONezO4g) | [iD8](https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z) | [Crystal Bowl Dream](https://open.spotify.com/album/6Bo4QllINweqhoOyn90NtA) | 2:15 | 2022-07-18 |  |
 | [Crystal Bowl Soundbath](https://open.spotify.com/track/4RK7ebcJcY5b71aGYiF9FS) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Crystal Bowl Tranquility](https://open.spotify.com/album/2eOJnGIAQA6NkUUDdE4NWQ) | 3:29 | 2022-09-06 |  |
 | [Enchantment](https://open.spotify.com/track/559FqeO9I9CRpClLNX7xp7) | [Lotus Mind](https://open.spotify.com/artist/4WJQ14cSIRntdUhIbMZ6vh) | [Enchantment](https://open.spotify.com/album/3xsfTJb3Nxow9MaAkfbO2f) | 3:01 | 2025-11-05 |  |
+| [Fire Within](https://open.spotify.com/track/0AOOvQJMngKs6ujU0okQRq) | [Bowls Of Serenity](https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz) | [Fire Within](https://open.spotify.com/album/3DM0lkZlZ3QR5fa3sNvdTn) | 3:27 | 2026-01-08 |  |
 | [Grounding Tone C](https://open.spotify.com/track/3hYJ8hohXUL9Cwki1lHFbd) | [Wychazel](https://open.spotify.com/artist/3Ha5NFzupiI1mSkVVVkXhN) | [Tibetan Bowls](https://open.spotify.com/album/3TMvm79PL70U27YH1ExMXE) | 6:00 | 2022-07-18 |  |
 | [Heal from Within](https://open.spotify.com/track/6S9x2GzYBktcfxNrYGmi3q) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Healing Sequences](https://open.spotify.com/album/0EhG6dsoA88n2TkpSPKdRn) | 3:13 | 2022-07-18 |  |
 | [Healing Mantra](https://open.spotify.com/track/4qNzM8Q6hYbm2bN0Q7lBOc) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 3:44 | 2022-07-18 |  |
@@ -99,6 +102,7 @@
 | [Tibetan Singing Bowls for Meditation](https://open.spotify.com/track/34cMqUnRsM1azvtiC4jruB) | [Tibetan Bowls](https://open.spotify.com/artist/0G5m6OVzOTqmac2C5PIDHs) | [Tibetan Singing Bowls for Meditation](https://open.spotify.com/album/4hrsQM2gZnb7UPoDA9ZC0m) | 4:39 | 2022-07-18 | 2024-07-17 |
 | [Tonal Zen](https://open.spotify.com/track/5HSKS1psRlLt2pht1VR8tu) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Mind Relaxation](https://open.spotify.com/album/2qDLrNXs9eHZIQuyxOKqJF) | 3:06 | 2022-07-18 |  |
 | [Total Zen](https://open.spotify.com/track/7FcouZsGNhXqHaOy4RlkNz) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Total Zen](https://open.spotify.com/album/44RX9xPZeQxUf4MrpbbYn6) | 2:48 | 2022-07-18 |  |
+| [Trancending Bowls](https://open.spotify.com/track/7xw6Krd1yCiY9vFiQN5QTv) | [Munnafurl](https://open.spotify.com/artist/0Sm6aVKkEf6RBbTJVnUc2M) | [Trancending Bowls](https://open.spotify.com/album/4E83vsCv1Td8d0IIzUUl2s) | 2:18 | 2026-01-08 |  |
 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 | 2022-07-18 |  |
 | [Universal Energy Healing](https://open.spotify.com/track/08GAV65HlXdgVGIrA0JmGM) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5EJ6ANuXXrCXfvUs6QvfqS) | 3:24 | 2022-09-06 | 2024-04-19 |
 | [Universal Energy Healing](https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u), [Meditación Chakra](https://open.spotify.com/artist/623eXZaRv6YsYpILhkDTtT) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5J4f7lqt7i7dl8cGgM4G2K) | 3:24 | 2022-07-18 |  |

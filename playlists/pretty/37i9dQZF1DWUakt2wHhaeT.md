@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain](/playlists/plain/37i9dQZF1DWUakt2wHhaeT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUakt2wHhaeT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain](/playlists/plain/37i9dQZF1DWUakt2wHhaeT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUakt2wHhaeT)
 
 ### [Broadway Rising](https://open.spotify.com/playlist/37i9dQZF1DWUakt2wHhaeT)
 
 > The best songs from the new shows and the buzziest hits\. Cover: Jonathan Groff in Just in Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,592 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,541 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

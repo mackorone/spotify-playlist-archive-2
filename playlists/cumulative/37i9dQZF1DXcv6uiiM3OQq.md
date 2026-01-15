@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcv6uiiM3OQq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcv6uiiM3OQq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcv6uiiM3OQq)
+[pretty](/playlists/pretty/37i9dQZF1DXcv6uiiM3OQq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcv6uiiM3OQq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcv6uiiM3OQq)
 
 ### [Jay Park  WORLD TOUR \[Serenades & Body Rolls\] In Seoul ](https://open.spotify.com/playlist/37i9dQZF1DXcv6uiiM3OQq)
 

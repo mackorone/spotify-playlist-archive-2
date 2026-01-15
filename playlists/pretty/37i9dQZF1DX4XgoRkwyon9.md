@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain](/playlists/plain/37i9dQZF1DX4XgoRkwyon9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4XgoRkwyon9)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain](/playlists/plain/37i9dQZF1DX4XgoRkwyon9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4XgoRkwyon9)
 
 ### [canciones para superar a tu ex ](https://open.spotify.com/playlist/37i9dQZF1DX4XgoRkwyon9)
 
 > Daniel, Me Estás Matando te deja las rolitas perfectas para que se las dediques al nadaqueverientx
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,624 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,675 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

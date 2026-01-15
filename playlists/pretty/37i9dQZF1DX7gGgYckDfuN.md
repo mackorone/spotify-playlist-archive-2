@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain](/playlists/plain/37i9dQZF1DX7gGgYckDfuN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7gGgYckDfuN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain](/playlists/plain/37i9dQZF1DX7gGgYckDfuN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7gGgYckDfuN)
 
 ### [JOJO's Bizarre Adventure](https://open.spotify.com/playlist/37i9dQZF1DX7gGgYckDfuN)
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,393 likes - 52 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,994 likes - 52 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

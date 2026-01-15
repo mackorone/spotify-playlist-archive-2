@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3a5epFDyqVvoo5wLyldV9d.md) - cumulative - [plain](/playlists/plain/3a5epFDyqVvoo5wLyldV9d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3a5epFDyqVvoo5wLyldV9d)
+[pretty](/playlists/pretty/3a5epFDyqVvoo5wLyldV9d.md) - cumulative - [plain](/playlists/plain/3a5epFDyqVvoo5wLyldV9d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3a5epFDyqVvoo5wLyldV9d)
 
 ### [Worldly](https://open.spotify.com/playlist/3a5epFDyqVvoo5wLyldV9d)
 
@@ -889,7 +889,7 @@
 | [ボラーレ](https://open.spotify.com/track/3L8aQMfWwafy66OHyAXRJK) | [高橋ユキヒロ](https://open.spotify.com/artist/0pkyrLngibQ5r4jqB08mH4) | [サラヴァ!](https://open.spotify.com/album/3R9KTFDBhl6SMgvOsObKUb) | 2:29 | 2022-02-28 |  |
 | [ルビーの指環](https://open.spotify.com/track/0d44Njo4glyy97W6AvvMLT) | [Akira Terao](https://open.spotify.com/artist/4iSwCQtRcHVKhxCbW1oHV6) | [Reflections](https://open.spotify.com/album/1xq0dT5qsTT4VVimv06o7Y) | 4:18 | 2025-08-05 |  |
 | [処女航海](https://open.spotify.com/track/2sgeR4J7gQwSZwfgtvVbQj) | [SHIGEO SEKITO](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-サマータイム\-](https://open.spotify.com/album/5STN9WkizILrlz9TmpNJkI) | 6:58 | 2021-06-07 |  |
-| [夢中人 \- 電影《重慶森林》歌曲](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [傳奇 \- 胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 | 2020-07-23 |  |
+| [夢中人 \- 電影《重慶森林》歌曲](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 | 2020-07-23 |  |
 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 | 2020-07-28 |  |
 | [手のひらの東京タワー](https://open.spotify.com/track/7tcop24Yr6auGwPMntLmZy) | [Seri Ishikawa](https://open.spotify.com/artist/3XL9BIKOjcccoxAVISLk0K) | [SERICEOUS NIGHT](https://open.spotify.com/album/7h7h6YOPJbKePI3osMaXWP) | 4:10 | 2024-11-05 |  |
 | [新しい人](https://open.spotify.com/track/5RXsyzFF3lve6Bpz3CIOQh) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [空中キャンプ](https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI) | 6:46 | 2022-08-05 |  |

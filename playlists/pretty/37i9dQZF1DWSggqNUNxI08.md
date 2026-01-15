@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain](/playlists/plain/37i9dQZF1DWSggqNUNxI08) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSggqNUNxI08)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain](/playlists/plain/37i9dQZF1DWSggqNUNxI08) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSggqNUNxI08)
 
 ### [Yu Su's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWSggqNUNxI08)
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,399 likes - 20 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,532 likes - 20 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

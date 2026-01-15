@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 288,
+  "num_followers": 300,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAA9uaWTZUuCYnMtHp29+lzUfrtTv0I",
+  "snapshot_id": "AAABCuVKZr++in+sma3m7F94j4ccbCsS",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -61,10 +61,10 @@
       "url": "https://open.spotify.com/track/240unn2aJKGurliwi6lJF2"
     },
     {
-      "added_at": "2025-10-21 18:23:22",
+      "added_at": "2025-09-12 15:11:46",
       "album": {
-        "name": "Sign Of The Horns",
-        "url": "https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4"
+        "name": "Just A Good Time 80s Jam",
+        "url": "https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
         }
       ],
-      "duration_ms": 187778,
-      "name": "Sign Of The Horns",
-      "url": "https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9"
+      "duration_ms": 154376,
+      "name": "Just A Good Time 80s Jam",
+      "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
     },
     {
       "added_at": "2025-09-23 13:17:41",
@@ -177,10 +177,10 @@
       "url": "https://open.spotify.com/track/5wKplKbLsM9GT7JnDy9TGh"
     },
     {
-      "added_at": "2025-09-12 15:11:46",
+      "added_at": "2025-10-21 18:23:22",
       "album": {
-        "name": "Just A Good Time 80s Jam",
-        "url": "https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq"
+        "name": "Sign Of The Horns",
+        "url": "https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
         }
       ],
-      "duration_ms": 154376,
-      "name": "Just A Good Time 80s Jam",
-      "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
+      "duration_ms": 187778,
+      "name": "Sign Of The Horns",
+      "url": "https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9"
     },
     {
       "added_at": "2025-09-30 23:52:54",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk"
     },
     {
-      "added_at": "2025-09-08 22:07:23",
-      "album": {
-        "name": "Cold as Ice",
-        "url": "https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM"
-      },
-      "artists": [
-        {
-          "name": "Tommy Schenker",
-          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
-        }
-      ],
-      "duration_ms": 187955,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2"
-    },
-    {
       "added_at": "2025-11-04 01:58:44",
       "album": {
         "name": "Borderline",
@@ -367,6 +351,22 @@
       "duration_ms": 364272,
       "name": "New Age",
       "url": "https://open.spotify.com/track/6P7QFrSStHdpMGfgQKaYWV"
+    },
+    {
+      "added_at": "2025-09-08 22:07:23",
+      "album": {
+        "name": "Cold as Ice",
+        "url": "https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM"
+      },
+      "artists": [
+        {
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
+        }
+      ],
+      "duration_ms": 187955,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2"
     },
     {
       "added_at": "2025-11-13 13:33:02",
@@ -975,6 +975,262 @@
       "duration_ms": 260127,
       "name": "What's Wrong With You?",
       "url": "https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS"
+    },
+    {
+      "added_at": "2026-01-06 03:42:28",
+      "album": {
+        "name": "Don't Forget the Roll",
+        "url": "https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk"
+      },
+      "artists": [
+        {
+          "name": "On-Off",
+          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Money Makes Money",
+      "url": "https://open.spotify.com/track/7262GNW8eQtESLlmOY5dy8"
+    },
+    {
+      "added_at": "2026-01-06 03:53:04",
+      "album": {
+        "name": "Death In The Alleyway",
+        "url": "https://open.spotify.com/album/2oEFL6epN37urGoWV0FsqD"
+      },
+      "artists": [
+        {
+          "name": "Steegmoord",
+          "url": "https://open.spotify.com/artist/7sxcNFKA2AvhOErpP570AL"
+        }
+      ],
+      "duration_ms": 282804,
+      "name": "Death In The Alleyway",
+      "url": "https://open.spotify.com/track/2OffIJ1L29OeLfcjaDb4ro"
+    },
+    {
+      "added_at": "2026-01-06 04:03:07",
+      "album": {
+        "name": "Luka Kolektif",
+        "url": "https://open.spotify.com/album/1kwx2yGZrJrVvBZbfiJQAW"
+      },
+      "artists": [
+        {
+          "name": "GONGPATI",
+          "url": "https://open.spotify.com/artist/3EcoH1mk7EzGfHUYtk4Zq8"
+        }
+      ],
+      "duration_ms": 243254,
+      "name": "New Money (OKB)",
+      "url": "https://open.spotify.com/track/6Ng2MIJihPGOqkCl6iKgwJ"
+    },
+    {
+      "added_at": "2026-01-06 14:45:05",
+      "album": {
+        "name": "Crazy Dance of Death",
+        "url": "https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS"
+      },
+      "artists": [
+        {
+          "name": "Ask The Dust",
+          "url": "https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND"
+        }
+      ],
+      "duration_ms": 191021,
+      "name": "Crazy Dance of Death",
+      "url": "https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU"
+    },
+    {
+      "added_at": "2026-01-07 02:12:00",
+      "album": {
+        "name": "Planned Obsolescence",
+        "url": "https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2"
+      },
+      "artists": [
+        {
+          "name": "The Galacticas",
+          "url": "https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Just Another Dying Hero",
+      "url": "https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz"
+    },
+    {
+      "added_at": "2026-01-07 02:44:39",
+      "album": {
+        "name": "Embrace The Noiz",
+        "url": "https://open.spotify.com/album/0pCuyOegRhg7KiPIZwwcbV"
+      },
+      "artists": [
+        {
+          "name": "Noiz Ritual",
+          "url": "https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "I Wanna Know",
+      "url": "https://open.spotify.com/track/0kyfqSQ5T3gp3WZbP9RVX2"
+    },
+    {
+      "added_at": "2026-01-07 02:57:53",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/4LUp5e5P4XxVkkENXdL7vE"
+      },
+      "artists": [
+        {
+          "name": "Demonios Del Cielo",
+          "url": "https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/4D03zGZazrn4H4eJhkV2pb"
+    },
+    {
+      "added_at": "2026-01-07 03:42:15",
+      "album": {
+        "name": "Daisyland",
+        "url": "https://open.spotify.com/album/7jDAk7n5r1qHQFNIFXGtM2"
+      },
+      "artists": [
+        {
+          "name": "no-ne",
+          "url": "https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "The Bee",
+      "url": "https://open.spotify.com/track/6tT2Oh2O2pAgnlbu02DpOv"
+    },
+    {
+      "added_at": "2026-01-10 04:13:23",
+      "album": {
+        "name": "Nastasia",
+        "url": "https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE"
+      },
+      "artists": [
+        {
+          "name": "Static Switch",
+          "url": "https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M"
+        }
+      ],
+      "duration_ms": 164279,
+      "name": "Nastasia",
+      "url": "https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH"
+    },
+    {
+      "added_at": "2026-01-10 04:17:33",
+      "album": {
+        "name": "Hero of My Life",
+        "url": "https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR"
+      },
+      "artists": [
+        {
+          "name": "Ghost Pepper Seeds",
+          "url": "https://open.spotify.com/artist/506uBknY803DW00wSWlH0u"
+        }
+      ],
+      "duration_ms": 324549,
+      "name": "Hero of My Life",
+      "url": "https://open.spotify.com/track/7nhckeFvgq2hFoPl0j9Zpx"
+    },
+    {
+      "added_at": "2026-01-10 04:35:09",
+      "album": {
+        "name": "C.A.R.O.L (Can't Always Rely On Logic)",
+        "url": "https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz"
+      },
+      "artists": [
+        {
+          "name": "FaveRiot",
+          "url": "https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN"
+        }
+      ],
+      "duration_ms": 146227,
+      "name": "C.A.R.O.L (Can't Always Rely On Logic)",
+      "url": "https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH"
+    },
+    {
+      "added_at": "2026-01-11 00:07:21",
+      "album": {
+        "name": "A Perfect Lie",
+        "url": "https://open.spotify.com/album/2rvHji4MrQC3S397HaUIRc"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gavl\u00e9n",
+          "url": "https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL"
+        }
+      ],
+      "duration_ms": 220736,
+      "name": "A Perfect Lie",
+      "url": "https://open.spotify.com/track/4p9PHyzfGtugOfdbik0i8b"
+    },
+    {
+      "added_at": "2026-01-11 19:02:36",
+      "album": {
+        "name": "Los Siervos",
+        "url": "https://open.spotify.com/album/38y1BjPHgoowBTW3tEDBvJ"
+      },
+      "artists": [
+        {
+          "name": "Meltdown",
+          "url": "https://open.spotify.com/artist/7EhOlL0RiB0D5PCyODayz0"
+        }
+      ],
+      "duration_ms": 190419,
+      "name": "Los Siervos",
+      "url": "https://open.spotify.com/track/1GseiTbEMbcnSODRE3Fddh"
+    },
+    {
+      "added_at": "2026-01-11 19:54:55",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/09qmqovsaeodwmhdnq81ou"
+      },
+      "artists": [
+        {
+          "name": "Uppercut",
+          "url": "https://open.spotify.com/artist/6iAaDvMyMRJm4gFFg0qTQA"
+        }
+      ],
+      "duration_ms": 190528,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/2YG4sw9fnCT0WGHBS3bWqp"
+    },
+    {
+      "added_at": "2026-01-11 21:03:53",
+      "album": {
+        "name": "Stay With You",
+        "url": "https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "duration_ms": 166401,
+      "name": "Stay With You",
+      "url": "https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY"
+    },
+    {
+      "added_at": "2026-01-15 11:39:58",
+      "album": {
+        "name": "Monkfish",
+        "url": "https://open.spotify.com/album/3l2BZD1mTenRPY5wkJRblP"
+      },
+      "artists": [
+        {
+          "name": "Salad Days.",
+          "url": "https://open.spotify.com/artist/1ogzEwTOLBa4ryvx0xgbP1"
+        }
+      ],
+      "duration_ms": 241191,
+      "name": "Monkfish",
+      "url": "https://open.spotify.com/track/4BvBGq0OroqEMATekQq2EW"
     }
   ],
   "unique_name": "Local Rock Bands",

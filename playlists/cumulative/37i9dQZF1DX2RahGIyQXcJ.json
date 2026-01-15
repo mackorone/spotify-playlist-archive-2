@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of Desi Hip-Hop! Cover: Flipperachi\n",
+  "description": "Best of Desi Hip-Hop! Cover: Cheema Y\n",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -246,6 +246,28 @@
       "duration_ms": 272197,
       "name": "3:59 AM",
       "url": "https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo"
+    },
+    {
+      "album": {
+        "name": "3AM AT FALLS",
+        "url": "https://open.spotify.com/album/4LEeXrCz2igHDFuxGuDSZz"
+      },
+      "artists": [
+        {
+          "name": "JJ47",
+          "url": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "3AM AT FALLS",
+      "url": "https://open.spotify.com/track/6AGm17Vuh8SSIw0UjOFDWA"
     },
     {
       "album": {
@@ -554,7 +576,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 144000,
       "name": "Aai Shappat",
       "url": "https://open.spotify.com/track/1IoKRvxWbyD8vVJU3bXWes"
@@ -680,7 +702,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210841,
       "name": "Aey Lok",
       "url": "https://open.spotify.com/track/5PZx7PQIodFZg9Gk8h3tOF"
@@ -1276,6 +1298,28 @@
       "duration_ms": 189746,
       "name": "BABAL",
       "url": "https://open.spotify.com/track/2y2YzMSzIECvFHjhkhWGOi"
+    },
+    {
+      "album": {
+        "name": "BABY CALL ME GANGSTER",
+        "url": "https://open.spotify.com/album/5gPfyIsme1YpfMiuaMRn2M"
+      },
+      "artists": [
+        {
+          "name": "AMANI KL10",
+          "url": "https://open.spotify.com/artist/0f9QWfK1JSGrmCo2MEXuMr"
+        },
+        {
+          "name": "MC Mushti",
+          "url": "https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183833,
+      "name": "BABY CALL ME GANGSTER",
+      "url": "https://open.spotify.com/track/4R3wna0tMjccTpSY68aQ5g"
     },
     {
       "album": {
@@ -2299,6 +2343,28 @@
     },
     {
       "album": {
+        "name": "Roshni",
+        "url": "https://open.spotify.com/album/4MMcwveAu8nkkq7IeSzpMS"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Chal Dil Mere",
+      "url": "https://open.spotify.com/track/5KChlGYLI6wIPnDR3OTaFK"
+    },
+    {
+      "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
       },
@@ -3073,6 +3139,32 @@
     },
     {
       "album": {
+        "name": "Dr. Jekyll & Mr. Hyde",
+        "url": "https://open.spotify.com/album/1mjrdGpHzUWk3HpI6Vdk5S"
+      },
+      "artists": [
+        {
+          "name": "Lazarus",
+          "url": "https://open.spotify.com/artist/5KZfRaQHfjizCZsoRV9vqA"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        },
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249230,
+      "name": "Dr. Jekyll & Mr. Hyde",
+      "url": "https://open.spotify.com/track/5KFvKoEeHUwlfbFGN69Ew2"
+    },
+    {
+      "album": {
         "name": "Ek Tha Raja",
         "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
       },
@@ -3188,6 +3280,28 @@
       "duration_ms": 150338,
       "name": "Dupatta Drill",
       "url": "https://open.spotify.com/track/6wwwaMSY04xYhDpU7IKzz3"
+    },
+    {
+      "album": {
+        "name": "The Simpsons",
+        "url": "https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206707,
+      "name": "DXB",
+      "url": "https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy"
     },
     {
       "album": {
@@ -3500,7 +3614,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184262,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/5Q8UstpjCBylnzpMYgmpCN"
@@ -4242,6 +4356,32 @@
       "duration_ms": 244285,
       "name": "Heartbreak Kid",
       "url": "https://open.spotify.com/track/1ktAfHym69UrvWIgx2qPPm"
+    },
+    {
+      "album": {
+        "name": "Hello Kitty",
+        "url": "https://open.spotify.com/album/2ShVLQWrcqmk6kTprcQ8AR"
+      },
+      "artists": [
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265955,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/1rOmmK1ev34M7DKuJJleQM"
     },
     {
       "album": {
@@ -6472,6 +6612,32 @@
       "duration_ms": 128659,
       "name": "misfit",
       "url": "https://open.spotify.com/track/1Rqth7S6ELJTliQtKBz6pq"
+    },
+    {
+      "album": {
+        "name": "CENTRAL KARACHI",
+        "url": "https://open.spotify.com/album/06cItssOm0tMoXpsuShPdt"
+      },
+      "artists": [
+        {
+          "name": "Mr Mani",
+          "url": "https://open.spotify.com/artist/7A2DOY8YaO8BWqwwG5vQT8"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Sami Amiri",
+          "url": "https://open.spotify.com/artist/5w3TIlNEAF51Ur9xSCcBzP"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217366,
+      "name": "Mister M",
+      "url": "https://open.spotify.com/track/1GFGSnH0fXRzrJ2VPI8vhb"
     },
     {
       "album": {
@@ -9366,7 +9532,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176551,
       "name": "Takkar",
       "url": "https://open.spotify.com/track/3cHiFevLL12b694Z0tlhAU"
@@ -9458,7 +9624,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 181340,
       "name": "Thaa",
       "url": "https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb"
@@ -9866,7 +10032,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 197593,
       "name": "Tuff Skin",
       "url": "https://open.spotify.com/track/7DGzvE9teWihdqDVpCHwOT"
@@ -9884,7 +10050,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195021,
       "name": "UNDERRATED",
       "url": "https://open.spotify.com/track/0whRR6wG8E9ZMdYCevnfpr"

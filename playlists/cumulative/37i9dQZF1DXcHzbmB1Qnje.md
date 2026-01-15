@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcHzbmB1Qnje.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcHzbmB1Qnje) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcHzbmB1Qnje)
+[pretty](/playlists/pretty/37i9dQZF1DXcHzbmB1Qnje.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcHzbmB1Qnje) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcHzbmB1Qnje)
 
 ### [12 Hours of White Noise Sleep](https://open.spotify.com/playlist/37i9dQZF1DXcHzbmB1Qnje)
 

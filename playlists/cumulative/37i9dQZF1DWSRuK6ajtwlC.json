@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. Los del North Texas y Los Primos del Este en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. La Fiera de Ojinaga en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -400,6 +400,24 @@
       "duration_ms": 189653,
       "name": "Amor Maldito",
       "url": "https://open.spotify.com/track/4lzlekHCZoJyd2415Q0eIU"
+    },
+    {
+      "album": {
+        "name": "AMOR SORPRESA",
+        "url": "https://open.spotify.com/album/0y9LCIbFI5NCtmn6naMWjV"
+      },
+      "artists": [
+        {
+          "name": "Los del Norte\u00f1o Sax",
+          "url": "https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167399,
+      "name": "AMOR SORPRESA",
+      "url": "https://open.spotify.com/track/35lJyMjmBeBAY5zBuwwHI7"
     },
     {
       "album": {
@@ -923,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/5W7CaLSXyXvaL1xNKDBps9"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163531,
+      "name": "Cerca de Ti",
+      "url": "https://open.spotify.com/track/3rPOaM4ZfTkipE7fm9fUtE"
+    },
+    {
+      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
       },
@@ -1103,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Contigo Me Caso",
+        "url": "https://open.spotify.com/album/5oKdrwPCY3TH0fANXDgxWQ"
+      },
+      "artists": [
+        {
+          "name": "D\u00c1MASO",
+          "url": "https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202399,
+      "name": "Contigo Me Caso",
+      "url": "https://open.spotify.com/track/3ba8ez37MuVZlrUAR6rmvd"
+    },
+    {
+      "album": {
         "name": "Saxy",
         "url": "https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk"
       },
@@ -1114,7 +1168,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160106,
       "name": "Contigo S\u00ed",
       "url": "https://open.spotify.com/track/33cIhDF0Hd4KWL5Y8GjJ5m"
@@ -1484,7 +1538,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205568,
       "name": "De lo Dem\u00e1s Me Encargo Yo",
       "url": "https://open.spotify.com/track/30pKKP4XA60CduoaJ3UqvC"
@@ -2200,7 +2254,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186866,
       "name": "Especial",
       "url": "https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK"
@@ -2558,7 +2612,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178050,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/4h3L3S6gEEKGETQHrGZafH"
@@ -4246,7 +4300,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 240133,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8"
@@ -4268,6 +4322,28 @@
       "duration_ms": 173426,
       "name": "Poema",
       "url": "https://open.spotify.com/track/7zVTdnX7aoY8GVaIuE9nba"
+    },
+    {
+      "album": {
+        "name": "Polvadera",
+        "url": "https://open.spotify.com/album/5V3ELpBeVlMsHz8Q5usOmt"
+      },
+      "artists": [
+        {
+          "name": "La Intervenci\u00f3n Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7xS5JTi6N1iPxOdY2TaLew"
+        },
+        {
+          "name": "Los Hijos De Kuatrero",
+          "url": "https://open.spotify.com/artist/3SqeCjEY6RNFj569RKpY16"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178406,
+      "name": "Polvadera",
+      "url": "https://open.spotify.com/track/18ehhsZJw5aohBeoSwjbU5"
     },
     {
       "album": {
@@ -4471,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Prov\u00f3came (En Vivo 45 Aniversario)",
+        "url": "https://open.spotify.com/album/3vTJLOrVFzvQ0vfvVBLud2"
+      },
+      "artists": [
+        {
+          "name": "El Primo Manolo Y Sus Rieleros",
+          "url": "https://open.spotify.com/artist/3h35pcOfc9nGveI4JBaCCh"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180280,
+      "name": "Prov\u00f3came (En Vivo 45 Aniversario)",
+      "url": "https://open.spotify.com/track/2JHJxI7O6s0uxajxWBkXLU"
+    },
+    {
+      "album": {
         "name": "P\u00eddeme",
         "url": "https://open.spotify.com/album/5VxCgnIHaW5x0CuuGefuti"
       },
@@ -4580,7 +4674,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 232680,
       "name": "Quiero Saber de Ti",
       "url": "https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET"
@@ -4710,7 +4804,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159519,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
@@ -4732,6 +4826,28 @@
       "duration_ms": 159519,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/7dMaqgQCxXnAmfHFRYXpNG"
+    },
+    {
+      "album": {
+        "name": "Se Te Da",
+        "url": "https://open.spotify.com/album/1K5I0CGcFW3703d4pClz1p"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zol\u00e1",
+          "url": "https://open.spotify.com/artist/0FVYluf2w0GQWomPKKnjVV"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161178,
+      "name": "Se Te Da",
+      "url": "https://open.spotify.com/track/2EZcmJy5JuKVlQJhHk4TRo"
     },
     {
       "album": {
@@ -5018,10 +5134,28 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 132711,
       "name": "Solo Por Bonita",
       "url": "https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI"
+    },
+    {
+      "album": {
+        "name": "Solo Quer\u00eda Decirte Que Te Amo",
+        "url": "https://open.spotify.com/album/63zw3stL29cPGKslxiS5Rt"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163136,
+      "name": "Solo Quer\u00eda Decirte Que Te Amo",
+      "url": "https://open.spotify.com/track/1qb2MyyscTL8aJmWOMlf3l"
     },
     {
       "album": {
@@ -5120,6 +5254,24 @@
       "duration_ms": 213546,
       "name": "Te Esperaba",
       "url": "https://open.spotify.com/track/4JyrzxhbHpubC0kfdYkCNy"
+    },
+    {
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1YBhVha9c4JSEOf2PwUbtX"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158848,
+      "name": "Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/5t1jwKd8l2Cu45iLVgkWyD"
     },
     {
       "album": {

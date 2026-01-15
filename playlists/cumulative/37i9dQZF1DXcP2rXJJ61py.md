@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcP2rXJJ61py.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcP2rXJJ61py) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcP2rXJJ61py)
+[pretty](/playlists/pretty/37i9dQZF1DXcP2rXJJ61py.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcP2rXJJ61py) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcP2rXJJ61py)
 
 ### [House of the Dragon: Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcP2rXJJ61py)
 

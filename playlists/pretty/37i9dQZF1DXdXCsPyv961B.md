@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain](/playlists/plain/37i9dQZF1DXdXCsPyv961B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdXCsPyv961B)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain](/playlists/plain/37i9dQZF1DXdXCsPyv961B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdXCsPyv961B)
 
 ### [Best of Indie Italia 2025](https://open.spotify.com/playlist/37i9dQZF1DXdXCsPyv961B)
 
 > Il meglio dell'indie italiano nel 2025, secondo i nostri Editor! Cover: Lucio Corsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,447 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,483 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 | 36 | [Spogliami](https://open.spotify.com/track/2WdlrPNpSLakH4Xy88ifAD) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [El Galactico](https://open.spotify.com/album/3Yf8E2R89HfMdjLXusDB9e) | 3:19 |
 | 37 | [Granturismo](https://open.spotify.com/track/31yvaOyCcsJTLR1tuSsXK1) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Chi È Nicola Felpieri?](https://open.spotify.com/album/4FH2q9Hpq7RYrnIYFqOJzM) | 2:43 |
 | 38 | [Zagara](https://open.spotify.com/track/39t65cFCSsP6XPguuOB2K7) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Zagara](https://open.spotify.com/album/5N9H0fJEfi0WPpZtr0NKq2) | 3:41 |
-| 39 | [A te](https://open.spotify.com/track/6F88d4qWZIQo0mHPkLVPn2) | [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Luna di Miele](https://open.spotify.com/album/1xDLw26FaQjLnRY62Bgwvg) | 2:57 |
+| 39 | [A te](https://open.spotify.com/track/6F88d4qWZIQo0mHPkLVPn2) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [Luna di Miele](https://open.spotify.com/album/1xDLw26FaQjLnRY62Bgwvg) | 2:57 |
 | 40 | [Buio](https://open.spotify.com/track/2kEesaNMfP5aXEeVUl5jCZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [Buio](https://open.spotify.com/album/3UdbcAYQCwWRIOX2ADdCk4) | 2:55 |
 | 41 | [SISTEMARSI](https://open.spotify.com/track/3fLzgb9uGcb1hJTkNFnwrc) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTROSPEZIONE](https://open.spotify.com/album/0j6Fj7S8xJ2yab0paEHRPI) | 2:44 |
 | 42 | [Aiuto](https://open.spotify.com/track/0Mu6W8dVtwdXdQf1UIbBGh) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Aiuto](https://open.spotify.com/album/0KB9RktfD3H7la1lnVEhCT) | 4:07 |

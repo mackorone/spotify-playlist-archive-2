@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lCCwWMB0TQ.md) - [plain](/playlists/plain/37i9dQZF1DX3lCCwWMB0TQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3lCCwWMB0TQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lCCwWMB0TQ.md) - [plain](/playlists/plain/37i9dQZF1DX3lCCwWMB0TQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3lCCwWMB0TQ)
 
 ### [Indie Brandneu presents: Best Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX3lCCwWMB0TQ)
 
 > Unsere Editors’ Picks: die besten Indie\-Songs des Jahres\. Cover: Zimmer90, Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,460 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,490 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

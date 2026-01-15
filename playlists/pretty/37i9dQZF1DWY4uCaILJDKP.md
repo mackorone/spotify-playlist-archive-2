@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain](/playlists/plain/37i9dQZF1DWY4uCaILJDKP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY4uCaILJDKP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain](/playlists/plain/37i9dQZF1DWY4uCaILJDKP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY4uCaILJDKP)
 
 ### [ヒャダイン Works](https://open.spotify.com/playlist/37i9dQZF1DWY4uCaILJDKP)
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,299 likes - 104 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,309 likes - 104 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

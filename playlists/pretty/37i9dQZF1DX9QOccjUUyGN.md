@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain](/playlists/plain/37i9dQZF1DX9QOccjUUyGN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9QOccjUUyGN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain](/playlists/plain/37i9dQZF1DX9QOccjUUyGN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9QOccjUUyGN)
 
 ### [TraPiseiro](https://open.spotify.com/playlist/37i9dQZF1DX9QOccjUUyGN)
 
 > trap 🤝 piseiro\. Foto: Mago de Tarso
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,879 likes - 43 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,874 likes - 43 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

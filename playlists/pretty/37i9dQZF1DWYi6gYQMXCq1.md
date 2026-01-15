@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi6gYQMXCq1.md) - [plain](/playlists/plain/37i9dQZF1DWYi6gYQMXCq1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYi6gYQMXCq1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi6gYQMXCq1.md) - [plain](/playlists/plain/37i9dQZF1DWYi6gYQMXCq1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYi6gYQMXCq1)
 
 ### [No Signal](https://open.spotify.com/playlist/37i9dQZF1DWYi6gYQMXCq1)
 
 > No Signal is taking over a stage at All Points East with Kirk Franklin \(cover\), Mariah The Scientist, CARI and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,358 likes - 25 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,310 likes - 25 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

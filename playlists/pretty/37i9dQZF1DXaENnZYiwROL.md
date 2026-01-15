@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaENnZYiwROL.md) - [plain](/playlists/plain/37i9dQZF1DXaENnZYiwROL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaENnZYiwROL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaENnZYiwROL.md) - [plain](/playlists/plain/37i9dQZF1DXaENnZYiwROL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaENnZYiwROL)
 
 ### [Rookie Cops \(너와 나의 경찰수업\)](https://open.spotify.com/playlist/37i9dQZF1DXaENnZYiwROL)
 
 > Enjoy the OSTs of Disney+'s   original drama "Rookie Cops" along with Spotify\-exclusive audio content\. \(디즈니+의 오리지널 드라마 "너와 나의 경찰수업"의 OST들을 스포티파이 독점 오디오 컨텐츠와 함께 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 323 likes - 61 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 348 likes - 61 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

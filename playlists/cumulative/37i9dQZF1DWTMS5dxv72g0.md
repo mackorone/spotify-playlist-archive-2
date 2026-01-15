@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTMS5dxv72g0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTMS5dxv72g0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTMS5dxv72g0)
+[pretty](/playlists/pretty/37i9dQZF1DWTMS5dxv72g0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTMS5dxv72g0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTMS5dxv72g0)
 
 ### [This Is: Iron & Wine](https://open.spotify.com/playlist/37i9dQZF1DWTMS5dxv72g0)
 

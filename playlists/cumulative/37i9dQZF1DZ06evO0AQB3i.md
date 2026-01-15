@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO0AQB3i.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0AQB3i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0AQB3i)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO0AQB3i.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0AQB3i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO0AQB3i)
 
 ### [This Is Alabama Shakes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AQB3i)
 

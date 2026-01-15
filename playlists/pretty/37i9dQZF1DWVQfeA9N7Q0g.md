@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain](/playlists/plain/37i9dQZF1DWVQfeA9N7Q0g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVQfeA9N7Q0g)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain](/playlists/plain/37i9dQZF1DWVQfeA9N7Q0g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVQfeA9N7Q0g)
 
 ### [Sanremo 2025](https://open.spotify.com/playlist/37i9dQZF1DWVQfeA9N7Q0g)
 
 > Olly ha vinto il festival di Sanremo! 💐
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,655 likes - 33 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,618 likes - 33 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6xUMHjAPsjdwBeDpfT42wg.md) - cumulative - [plain](/playlists/plain/6xUMHjAPsjdwBeDpfT42wg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6xUMHjAPsjdwBeDpfT42wg)
+[pretty](/playlists/pretty/6xUMHjAPsjdwBeDpfT42wg.md) - cumulative - [plain](/playlists/plain/6xUMHjAPsjdwBeDpfT42wg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6xUMHjAPsjdwBeDpfT42wg)
 
 ### [The Year was 1929](https://open.spotify.com/playlist/6xUMHjAPsjdwBeDpfT42wg)
 

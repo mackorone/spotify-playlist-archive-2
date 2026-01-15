@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0RBvdfnbMgXjWu7ywqURZc.md) - [plain](/playlists/plain/0RBvdfnbMgXjWu7ywqURZc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0RBvdfnbMgXjWu7ywqURZc)
+pretty - [cumulative](/playlists/cumulative/0RBvdfnbMgXjWu7ywqURZc.md) - [plain](/playlists/plain/0RBvdfnbMgXjWu7ywqURZc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0RBvdfnbMgXjWu7ywqURZc)
 
 ### [Hits Are Universal](https://open.spotify.com/playlist/0RBvdfnbMgXjWu7ywqURZc)
 
 > All the best hits from Shawn Mendes, Taylor Swift and more!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 1,590 likes - 67 songs - 3 hr 42 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 1,589 likes - 67 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

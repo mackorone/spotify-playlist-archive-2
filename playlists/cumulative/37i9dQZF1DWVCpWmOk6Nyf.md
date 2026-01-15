@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVCpWmOk6Nyf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVCpWmOk6Nyf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVCpWmOk6Nyf)
+[pretty](/playlists/pretty/37i9dQZF1DWVCpWmOk6Nyf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVCpWmOk6Nyf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVCpWmOk6Nyf)
 
 ### [영탁 콘서트 “TAK SHOW3” \(YOUNGTAK CONCERT "TAKSHOW3"\)](https://open.spotify.com/playlist/37i9dQZF1DWVCpWmOk6Nyf)
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-11",
-  "description": "spun from south london\u2019s windmill scene, a thread of community-driven experimental guitar music and constant evolution worldwide. Man/Woman/Chainsaw on the cover.",
+  "description": "spun from south london\u2019s windmill scene, a thread of community-driven experimental guitar music and constant evolution worldwide. Any Young Mechanic on the cover.",
   "name": "Spindle",
   "tracks": [
     {
@@ -1010,6 +1010,24 @@
       "duration_ms": 287813,
       "name": "Sleeping Dogs",
       "url": "https://open.spotify.com/track/048fPBqD9hIpKI3mCxGK65"
+    },
+    {
+      "album": {
+        "name": "Snug Barber",
+        "url": "https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw"
+      },
+      "artists": [
+        {
+          "name": "Any Young Mechanic",
+          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Snug Barber",
+      "url": "https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv"
     },
     {
       "album": {

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/43nYeA0PJvSQD6S1RZUMoT.md) - cumulative - [plain](/playlists/plain/43nYeA0PJvSQD6S1RZUMoT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/43nYeA0PJvSQD6S1RZUMoT)
+[pretty](/playlists/pretty/43nYeA0PJvSQD6S1RZUMoT.md) - cumulative - [plain](/playlists/plain/43nYeA0PJvSQD6S1RZUMoT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/43nYeA0PJvSQD6S1RZUMoT)
 
 ### [Top 2020 \(@squope\)](https://open.spotify.com/playlist/43nYeA0PJvSQD6S1RZUMoT)
 

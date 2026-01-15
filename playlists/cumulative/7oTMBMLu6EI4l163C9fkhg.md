@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7oTMBMLu6EI4l163C9fkhg.md) - cumulative - [plain](/playlists/plain/7oTMBMLu6EI4l163C9fkhg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7oTMBMLu6EI4l163C9fkhg)
+[pretty](/playlists/pretty/7oTMBMLu6EI4l163C9fkhg.md) - cumulative - [plain](/playlists/plain/7oTMBMLu6EI4l163C9fkhg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7oTMBMLu6EI4l163C9fkhg)
 
 ### [Best of Boybands and Girl Groups](https://open.spotify.com/playlist/7oTMBMLu6EI4l163C9fkhg)
 

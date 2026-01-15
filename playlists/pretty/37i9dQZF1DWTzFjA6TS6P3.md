@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzFjA6TS6P3.md) - [plain](/playlists/plain/37i9dQZF1DWTzFjA6TS6P3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTzFjA6TS6P3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzFjA6TS6P3.md) - [plain](/playlists/plain/37i9dQZF1DWTzFjA6TS6P3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTzFjA6TS6P3)
 
 ### [School Rapper \(고등래퍼\)](https://open.spotify.com/playlist/37i9dQZF1DWTzFjA6TS6P3)
 

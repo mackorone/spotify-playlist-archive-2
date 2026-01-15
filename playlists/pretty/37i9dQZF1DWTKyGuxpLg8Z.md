@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKyGuxpLg8Z.md) - [plain](/playlists/plain/37i9dQZF1DWTKyGuxpLg8Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTKyGuxpLg8Z)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKyGuxpLg8Z.md) - [plain](/playlists/plain/37i9dQZF1DWTKyGuxpLg8Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTKyGuxpLg8Z)
 
 ### [Blake’s 7: The Audio Series](https://open.spotify.com/playlist/37i9dQZF1DWTKyGuxpLg8Z)
 

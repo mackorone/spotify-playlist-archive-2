@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSkSBnkXgB7J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSkSBnkXgB7J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSkSBnkXgB7J)
+[pretty](/playlists/pretty/37i9dQZF1DWSkSBnkXgB7J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSkSBnkXgB7J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSkSBnkXgB7J)
 
 ### [RADAR ARABIA](https://open.spotify.com/playlist/37i9dQZF1DWSkSBnkXgB7J)
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: TURK
 
-170 songs - 8 hr 58 min
+172 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [AZOUL V3](https://open.spotify.com/track/7mB6gUSK0aPPisiUA3czNV) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [AZOUL V3](https://open.spotify.com/album/197mIxNXShd34q7VU71Him) | 2:20 | 2025-04-24 |  |
 | [Baadek Bizakerti](https://open.spotify.com/track/583BG3e4wpZzkwJTPbQc2W) | [Chris Moussa](https://open.spotify.com/artist/72DLvyPzbU6R4NZel6MaX5) | [Baadek Bizakerti](https://open.spotify.com/album/5CGX6rOvDdKLcB7usNXyNH) | 3:16 | 2022-06-24 | 2025-01-30 |
 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 | 2022-07-14 | 2024-05-15 |
-| [Bara L Koon](https://open.spotify.com/track/7fc5zsFu2iemGf2GTgx95z) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Bara L Koon](https://open.spotify.com/album/6iZPXJKS4cATmFcegbKjrL) | 2:48 | 2024-05-02 |  |
+| [Bara L Koon](https://open.spotify.com/track/7fc5zsFu2iemGf2GTgx95z) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Bara L Koon](https://open.spotify.com/album/6iZPXJKS4cATmFcegbKjrL) | 2:48 | 2024-05-02 | 2026-01-15 |
 | [Barki Byesmaani](https://open.spotify.com/track/0pdY5q4BOh6GflEQrC3PJy) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Barki Byesmaani](https://open.spotify.com/album/08QoXsgdXFkqowiniOio2x) | 1:54 | 2025-02-10 | 2025-11-18 |
 | [Baya3 Kalam](https://open.spotify.com/track/0lcWmChbpTnXfrKnHLZtV5) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Baya3 Kalam](https://open.spotify.com/album/4CSz0T7gbSOJYpzTkqOnZn) | 3:36 | 2022-06-24 | 2022-11-09 |
 | [Believer](https://open.spotify.com/track/4dXqIN9cZV5mKpD08gLkxE) | [Hamza Hawsawi](https://open.spotify.com/artist/2ZfxDAzauSIxjmFaQLsoLu) | [Believer](https://open.spotify.com/album/72O6heLEI3Nah3M3lYxDWn) | 3:51 | 2022-06-24 | 2022-11-09 |
@@ -42,6 +42,7 @@
 | [Canada](https://open.spotify.com/track/4YWvuZNkSVBz0PHN5SevAW) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [Canada](https://open.spotify.com/album/2gB64wXQ9JChyhhIi0sPBD) | 3:19 | 2025-03-24 |  |
 | [DeAd!](https://open.spotify.com/track/2KZlYhnbbKAKEcl5ihHnzH) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SAV!OR](https://open.spotify.com/album/15QrrCTSgLqBsj692zEViZ) | 2:28 | 2025-01-29 |  |
 | [DL \( FULL VERSION \)](https://open.spotify.com/track/20zZSDMYXmvoxdsIirws3F) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [DL \( FULL VERSION \)](https://open.spotify.com/album/1aO5QFHyWBTHiLhIKWCKID) | 4:08 | 2025-03-24 |  |
+| [Dorororo](https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Dorororo](https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br) | 2:44 | 2026-01-06 |  |
 | [Dounya](https://open.spotify.com/track/76MO9sT4OIQkEeRndLHveG) | [othmanouilki](https://open.spotify.com/artist/5tA7M2xqrIPJ0ax87b19w5) | [Dounya](https://open.spotify.com/album/7wPcqrlsQuPXO15iysENkm) | 3:35 | 2022-06-24 | 2025-01-30 |
 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 | 2022-11-08 | 2025-04-15 |
 | [Drama](https://open.spotify.com/track/3d4Tcv2Cjq51lPoTTU6dse) | [Alaa Al Hendi](https://open.spotify.com/artist/6r7at5fcu4jX0fRlZEyOxn) | [Drama](https://open.spotify.com/album/5rONkE94pV9zuGG7eiYjmg) | 3:12 | 2022-06-24 | 2023-06-07 |
@@ -91,12 +92,13 @@
 | [Mafish](https://open.spotify.com/track/1q5n5MjozgaxLUBBAAcfMt) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [Mafish](https://open.spotify.com/album/1pmFD1yEW5scNazsPtKLG1) | 2:35 | 2025-02-10 |  |
 | [Maghror Feek](https://open.spotify.com/track/0w0qNZagcCOBbgXOqVOKGU) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Maghror Feek](https://open.spotify.com/album/75XDoSO0iqvkQAWln9SXxL) | 3:02 | 2022-07-14 | 2025-01-30 |
 | [Mali](https://open.spotify.com/track/68usOQC8GTlFTsUxyBaFhU) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Mali](https://open.spotify.com/album/0N8j1mxPghNwB09CQy13aT) | 2:57 | 2025-04-30 |  |
+| [Maléfique](https://open.spotify.com/track/1PEwOfcUM7n6QNbLutvo0M) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [MALÉFIQUE MAIS MN LKHIR](https://open.spotify.com/album/2piAERwNixvl71USI4cOLf) | 2:42 | 2026-01-06 |  |
 | [Manni Asef](https://open.spotify.com/track/27Xo0Tkk9E8OftqyR98wXx) | [Ahmad Akkad](https://open.spotify.com/artist/38KYoTxMDeNvGClVdMVc7q) | [Manni Asef](https://open.spotify.com/album/0fEh4DmXGE7SIT7RudtOwo) | 3:30 | 2022-11-03 | 2025-01-30 |
 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 | 2022-06-24 | 2022-11-09 |
 | [Meen Ysadak](https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [Meen Ysadak](https://open.spotify.com/album/0vqR5QySiLJwGNHMnpQ4Hj) | 3:06 | 2025-01-29 |  |
 | [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 | 2022-06-24 | 2024-05-03 |
 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 | 2022-06-24 | 2023-06-07 |
-| [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-09 |  |
+| [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-09 | 2026-01-15 |
 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 | 2025-02-10 |  |
 | [MSKA D'SCHWEPPES](https://open.spotify.com/track/4ZTJMTiZK1O4KjixJGzDnu) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0) | [MSKA D'SCHWEPPES](https://open.spotify.com/album/7MIntEpAZYDeb2tDHkgXmY) | 3:15 | 2025-11-17 |  |
 | [my secrets](https://open.spotify.com/track/2FUMEJlBFVUaa8ikJD29lF) | [1Take](https://open.spotify.com/artist/52NTEGHT81WhaH9Npafc0G) | [my secrets](https://open.spotify.com/album/0OOKu50qAAcHsgNUUvHXI1) | 4:32 | 2023-10-05 | 2024-04-19 |

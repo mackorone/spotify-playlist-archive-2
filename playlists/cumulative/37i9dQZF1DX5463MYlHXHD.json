@@ -785,6 +785,32 @@
     },
     {
       "album": {
+        "name": "Bum Bum",
+        "url": "https://open.spotify.com/album/4Vhk3ggOJQ4ENvFWt67o8I"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        },
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        },
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128210,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/0S9isbW8EaRp9r3QkhXWsI"
+    },
+    {
+      "album": {
         "name": "Butakera",
         "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
       },
@@ -3069,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "LA CAMINERA",
+        "url": "https://open.spotify.com/album/3LzYkedn2MDVmjK68iDDcp"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146871,
+      "name": "LA CAMINERA",
+      "url": "https://open.spotify.com/track/5MnJQf7VclEHX5QnkOfVjM"
+    },
+    {
+      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -5182,7 +5226,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169680,
       "name": "Poco a Poco",
       "url": "https://open.spotify.com/track/7DOUhxMyjnZzwrZJafjxZ5"
@@ -5956,7 +6000,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 313190,
       "name": "Sentimiento Villero",
       "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"

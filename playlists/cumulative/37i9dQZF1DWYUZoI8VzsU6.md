@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYUZoI8VzsU6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYUZoI8VzsU6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYUZoI8VzsU6)
+[pretty](/playlists/pretty/37i9dQZF1DWYUZoI8VzsU6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYUZoI8VzsU6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYUZoI8VzsU6)
 
 ### [GRAVEL](https://open.spotify.com/playlist/37i9dQZF1DWYUZoI8VzsU6)
 
-> back roads up loud with Treaty Oak Revival
+> back roads up loud with Lakeview
 
-60 songs - 3 hr 22 min
+62 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,11 +19,13 @@
 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 | 2025-09-05 |  |
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2025-09-05 |  |
 | [But Me](https://open.spotify.com/track/59YllCm05PmwGE05i7NpXf) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Best of Me](https://open.spotify.com/album/1AZCl8H5vq5cVpLNRYkwd2) | 3:55 | 2025-09-05 |  |
+| [Can't Live Without](https://open.spotify.com/track/6deNzdi49NdTqyVtgVuQw6) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Can't Live Without](https://open.spotify.com/album/7yUsPsUryggm1KeEZQmDRi) | 2:53 | 2026-01-09 |  |
 | [Cowboys Did Cocaine](https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [Cowboys Did Cocaine](https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6) | 3:52 | 2025-09-05 |  |
 | [Cuckoo](https://open.spotify.com/track/3qGtdBULj8YlGAYYrPhUJF) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:28 | 2025-09-05 |  |
 | [Deep End](https://open.spotify.com/track/22U2iPJ728cC4DKSDuNAzi) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Bonfire Blackout](https://open.spotify.com/album/6yMlmWv8SIyaZ7KgNKzqBj) | 2:46 | 2025-09-05 |  |
 | [DEVIL YOU KNOW](https://open.spotify.com/track/7nbAWldYW0XcfYUsB2fQIl) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [devil and a prayer](https://open.spotify.com/album/0wXmEIIUIdZbvSk99P4QrK) | 3:12 | 2025-09-05 |  |
 | [Dust Till Dawn](https://open.spotify.com/track/2wuLvfJn8vqmgzgAXH0wAv) | [Mac Hankins and The Moonlighters](https://open.spotify.com/artist/7aJ7WbvSeDeZpXu33gDWAP), [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Dust Till Dawn](https://open.spotify.com/album/3SqnkOUBHjugq0J7VvSv4u) | 2:55 | 2025-09-19 |  |
+| [Everything You Hate](https://open.spotify.com/track/2Jcj2BcQACBfNEouhjtvhK) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Everything You Hate](https://open.spotify.com/album/2jfJpru4kTLGk6Yj827us9) | 3:54 | 2026-01-09 |  |
 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2025-09-05 |  |
 | [Four Leaf Clover](https://open.spotify.com/track/4rKwvkw0x1K3I9dr5lwRhg) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 3:11 | 2025-09-05 |  |
 | [GOOD FOR NOTHING](https://open.spotify.com/track/040v2JdDlfRRJEsXTMSPjn) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [LIFE OF THE PARTY AND THE DEATH OF ME](https://open.spotify.com/album/3AV1LhyX47AQQwJNGSI8SB) | 3:30 | 2025-09-05 |  |

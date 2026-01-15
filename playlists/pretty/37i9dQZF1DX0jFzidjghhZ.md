@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jFzidjghhZ.md) - [plain](/playlists/plain/37i9dQZF1DX0jFzidjghhZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0jFzidjghhZ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jFzidjghhZ.md) - [plain](/playlists/plain/37i9dQZF1DX0jFzidjghhZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0jFzidjghhZ)
 
 ### [Touche pas à ma planète](https://open.spotify.com/playlist/37i9dQZF1DX0jFzidjghhZ)
 
 > Des chansons pour sensibiliser vos enfants à la défense de l'environnement
 
-[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jFzidjghhZ.md) - [plain]
 | 14 | [Le marchand de quatre saisons](https://open.spotify.com/track/1j6QvPMvnb7jOKrGwDw347) | [Laurent Deschamps](https://open.spotify.com/artist/15b4BGqY8y10QYp7BI88ew) | [Le marchand de quatre saisons](https://open.spotify.com/album/6PfUipllFFMUME6uQudVA6) | 3:50 |
 | 15 | [Aux arbres citoyens](https://open.spotify.com/track/2poOtKwdjc39DRNmY6wRV2) | [Yannick Noah](https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv) | [Charango](https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c) | 3:15 |
 | 16 | [Respire 2020 \(feat\. Bigflo & Oli\)](https://open.spotify.com/track/7sR13ytKmJcEauzdW7oL8y) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF), [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Respire 2020 \(feat\. Bigflo & Oli\)](https://open.spotify.com/album/0BFWJrpuTVsOMFikFm9qQr) | 3:49 |
-| 17 | [2050\-2100 XXV](https://open.spotify.com/track/16GaWcOE3y1ecCkQJgz0c5) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ), [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [XXV](https://open.spotify.com/album/1TyMhNeROztf9IHUsPJ5M0) | 3:59 |
+| 17 | [2050\-2100 XXV](https://open.spotify.com/track/16GaWcOE3y1ecCkQJgz0c5) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ), [Ours](https://open.spotify.com/artist/5u1yDuCoxRODm86FhVqUU2) | [XXV](https://open.spotify.com/album/1TyMhNeROztf9IHUsPJ5M0) | 3:59 |
 | 18 | [Ça fait longtemps](https://open.spotify.com/track/5s3oIF51tKO0InxAmI7yqZ) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E), [Tibz](https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF) | [Green Team](https://open.spotify.com/album/0ZrX1TCsORaOOQT7pTPnhn) | 3:09 |
 | 19 | [L'Oiseau et l'enfant](https://open.spotify.com/track/5UUbAsd0HqHpedB2Ty1sCy) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs) | [Tout le bonheur du monde](https://open.spotify.com/album/2EP8Vum6V1W0BzLNmBR7t3) | 3:02 |
 | 20 | [Un lapin](https://open.spotify.com/track/3kWzCuajfopiCpw2AMKPnM) | [Chantal Goya](https://open.spotify.com/artist/4ObfuflhB2SBr5rxekhV6P) | [Voulez\-Vous Danser Grand\-Mère](https://open.spotify.com/album/5mPlar9g7OpyyT1Zs0nGxv) | 2:49 |

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09buIVUF0Gg.md) - [plain](/playlists/plain/37i9dQZF1DX09buIVUF0Gg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX09buIVUF0Gg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09buIVUF0Gg.md) - [plain](/playlists/plain/37i9dQZF1DX09buIVUF0Gg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX09buIVUF0Gg)
 
 ### [Thankful](https://open.spotify.com/playlist/37i9dQZF1DX09buIVUF0Gg)
 
 > For time with family + friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112 likes - 37 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 111 likes - 37 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

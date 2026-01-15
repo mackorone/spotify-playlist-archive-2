@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4xjcl7upl9u.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4xjcl7upl9u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4xjcl7upl9u)
+[pretty](/playlists/pretty/37i9dQZF1DX4xjcl7upl9u.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4xjcl7upl9u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4xjcl7upl9u)
 
 ### [Dada Life's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX4xjcl7upl9u)
 

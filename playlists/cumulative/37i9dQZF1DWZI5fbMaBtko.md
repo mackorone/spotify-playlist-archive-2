@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZI5fbMaBtko.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZI5fbMaBtko) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZI5fbMaBtko)
+[pretty](/playlists/pretty/37i9dQZF1DWZI5fbMaBtko.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZI5fbMaBtko) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZI5fbMaBtko)
 
 ### [Baila Reggaeton Presents: Best of 2025](https://open.spotify.com/playlist/37i9dQZF1DWZI5fbMaBtko)
 

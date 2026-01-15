@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX73LI7XFaKDi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX73LI7XFaKDi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX73LI7XFaKDi)
+[pretty](/playlists/pretty/37i9dQZF1DX73LI7XFaKDi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX73LI7XFaKDi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX73LI7XFaKDi)
 
 ### [Descendants Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX73LI7XFaKDi)
 

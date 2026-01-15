@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Yana Couto",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Karolina Charko",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -6712,7 +6712,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199590,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/2hUKpXMUPkQ80oCZ9UAZ0v"
@@ -6926,7 +6926,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 299097,
       "name": "Idzie zima - LIVE PRZESILENIE",
       "url": "https://open.spotify.com/track/269qiwMs9TJOD951C5ZYXq"
@@ -7082,7 +7082,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173049,
       "name": "Inne bogactwo",
       "url": "https://open.spotify.com/track/3vG91OIJetx5ROCLTayKux"
@@ -8650,6 +8650,28 @@
       "duration_ms": 205120,
       "name": "Koniec",
       "url": "https://open.spotify.com/track/71bxgWtZXnLiJwEYqywrwV"
+    },
+    {
+      "album": {
+        "name": "Koniec Mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/1MBB1tAFpzPsePaEt1FFa1"
+      },
+      "artists": [
+        {
+          "name": "INA WEST",
+          "url": "https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo"
+        },
+        {
+          "name": "Magda Kluz",
+          "url": "https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227071,
+      "name": "Koniec Mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/0u4u0BbacuC7Zc5dWF9toK"
     },
     {
       "album": {
@@ -10542,6 +10564,24 @@
       "duration_ms": 189560,
       "name": "Ma\u0142a \u015bmier\u0107",
       "url": "https://open.spotify.com/track/0Xp2tlF530SLSkUFJQ3DxH"
+    },
+    {
+      "album": {
+        "name": "MA\u0141O MI",
+        "url": "https://open.spotify.com/album/4cbrtPYCPs3ysMLdoIZZQR"
+      },
+      "artists": [
+        {
+          "name": "Roboty Na Wysoko\u015bci",
+          "url": "https://open.spotify.com/artist/7cuB1cUSHMoz2MgIu4C67x"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "MA\u0141O MI",
+      "url": "https://open.spotify.com/track/3XQB5xZ9uQQQVAuAS6AhqB"
     },
     {
       "album": {
@@ -14203,6 +14243,24 @@
     },
     {
       "album": {
+        "name": "Bartu\u015b",
+        "url": "https://open.spotify.com/album/6FTbAK7IP1NScabDO1Wi1l"
+      },
+      "artists": [
+        {
+          "name": "barekprzesta\u0144",
+          "url": "https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169235,
+      "name": "normalni ludzie",
+      "url": "https://open.spotify.com/track/0vm1Gt20ZGxfvWCxJvtvNK"
+    },
+    {
+      "album": {
         "name": "Nothing That I Know",
         "url": "https://open.spotify.com/album/1LwYe2M6Sux429Ds119pqL"
       },
@@ -16451,6 +16509,28 @@
     },
     {
       "album": {
+        "name": "Portamento",
+        "url": "https://open.spotify.com/album/3UxaRKMZ9i9dIlnuuZplX4"
+      },
+      "artists": [
+        {
+          "name": "Drowsy Fawn",
+          "url": "https://open.spotify.com/artist/4t3gqL8XGUEocHql23HlGy"
+        },
+        {
+          "name": "Cass",
+          "url": "https://open.spotify.com/artist/65GpH2n7jq5iMOaAUjVZl9"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "Portamento",
+      "url": "https://open.spotify.com/track/5b9tRWwstJQut2u3fnLoz1"
+    },
+    {
+      "album": {
         "name": "Marceli Bober & Friends vol.1",
         "url": "https://open.spotify.com/album/1BxERYreNUWYzj8v1aeQPj"
       },
@@ -17026,6 +17106,24 @@
       "duration_ms": 208421,
       "name": "Pustka",
       "url": "https://open.spotify.com/track/2xo5IWekHON3WMuPdExWeE"
+    },
+    {
+      "album": {
+        "name": "pusto tu",
+        "url": "https://open.spotify.com/album/2McDpLzlKTgrNnVg6gFKpP"
+      },
+      "artists": [
+        {
+          "name": "oswojeni",
+          "url": "https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "pusto tu",
+      "url": "https://open.spotify.com/track/3z9r2IqhHWAhbTjLkXPt5C"
     },
     {
       "album": {
@@ -18224,6 +18322,24 @@
       "duration_ms": 151133,
       "name": "Sen, kt\u00f3ry si\u0119 powtarza",
       "url": "https://open.spotify.com/track/5TWLguF47GizHYaNGJVSCu"
+    },
+    {
+      "album": {
+        "name": "Sentimental Value",
+        "url": "https://open.spotify.com/album/4AZsAwLC2BoPWw9sZYuJfi"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287210,
+      "name": "Sentimental Value",
+      "url": "https://open.spotify.com/track/1gxZmRsqEoxR6DoZelfHjj"
     },
     {
       "album": {
@@ -20867,6 +20983,24 @@
     },
     {
       "album": {
+        "name": "Fragile (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0ngt33D8YMRJUN3WbVd8tx"
+      },
+      "artists": [
+        {
+          "name": "Yana Couto",
+          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Touching",
+      "url": "https://open.spotify.com/track/2oDRWPfp5tJkfYySjRoQV3"
+    },
+    {
+      "album": {
         "name": "TRIK",
         "url": "https://open.spotify.com/album/55AvttSNVmQFfowzCqB5MV"
       },
@@ -21378,7 +21512,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 166033,
       "name": "T\u0119skni\u0119",
       "url": "https://open.spotify.com/track/3ADsVQbJsIAyEyevp8qwmY"
@@ -21396,7 +21530,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176128,
       "name": "T\u0119skni\u0119",
       "url": "https://open.spotify.com/track/6ZIExaf8SeE2WYDazQtrdZ"
@@ -24060,7 +24194,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162053,
       "name": "Zarezonuj",
       "url": "https://open.spotify.com/track/1VBqft9HpCqD4X4FklJzC0"
@@ -24484,6 +24618,24 @@
       "duration_ms": 237482,
       "name": "Zima",
       "url": "https://open.spotify.com/track/6X0Sj5M2LyBFvCDvm4J9m2"
+    },
+    {
+      "album": {
+        "name": "Zima",
+        "url": "https://open.spotify.com/album/4srprNArCGcJOrJqbbDibV"
+      },
+      "artists": [
+        {
+          "name": "Karolina Charko",
+          "url": "https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177933,
+      "name": "Zima",
+      "url": "https://open.spotify.com/track/0w87jcdqBn6KqCsYRebolf"
     },
     {
       "album": {

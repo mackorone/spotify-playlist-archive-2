@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2UwTnYkh7zZjMY6NEQdP95.md) - cumulative - [plain](/playlists/plain/2UwTnYkh7zZjMY6NEQdP95) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2UwTnYkh7zZjMY6NEQdP95)
+[pretty](/playlists/pretty/2UwTnYkh7zZjMY6NEQdP95.md) - cumulative - [plain](/playlists/plain/2UwTnYkh7zZjMY6NEQdP95) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2UwTnYkh7zZjMY6NEQdP95)
 
 ### [Grazia Daily: Summer 2013](https://open.spotify.com/playlist/2UwTnYkh7zZjMY6NEQdP95)
 

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "4ever (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/0xZoegWWQn3E0FT2yn10yo"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203602,
+      "name": "4ever - triple j Like A Version",
+      "url": "https://open.spotify.com/track/14lz4KBqBTg3BRzk1atbxC"
+    },
+    {
+      "album": {
         "name": "A Girl Like You",
         "url": "https://open.spotify.com/album/21bl39xHspuIISAteKFXoq"
       },
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 181058,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/1SoQtOBmEaGLFmzr8e0DCf"

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1EFDszK4cnuwgw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFDszK4cnuwgw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFDszK4cnuwgw)
+[pretty](/playlists/pretty/37i9dQZF1EFDszK4cnuwgw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFDszK4cnuwgw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFDszK4cnuwgw)
 
 ### [Written By Young M.A](https://open.spotify.com/playlist/37i9dQZF1EFDszK4cnuwgw)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-83 songs - 4 hr 29 min
+84 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Open Scars](https://open.spotify.com/track/5l2UlIRagkhJgn2qmA10ZV) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Open Scars](https://open.spotify.com/album/6oacjRp4wh0H64Mn944wgf) | 3:56 | 2024-06-13 |  |
 | [PettyWap](https://open.spotify.com/track/76pUKeKLQuxjFFfbXJ5dif) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:56 | 2024-06-13 |  |
 | [PettyWap 2 \(Bonus\)](https://open.spotify.com/track/3C1sgPi7KaTbQB93WvXYJG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:36 | 2024-06-13 |  |
-| [Pick A Side](https://open.spotify.com/track/6VC96yBUe4zgpQPXwgagjC) | [WAP5TAR](https://open.spotify.com/artist/3wk369fbina3PpKTz8f4na), [MA](https://open.spotify.com/artist/7mN9hXvyTCViY3fHNjxm7l) | [Writers Block](https://open.spotify.com/album/7akBwrKckxfE9wOY9XP2Da) | 3:38 | 2024-06-13 |  |
+| [Pick A Side](https://open.spotify.com/track/6VC96yBUe4zgpQPXwgagjC) | [WAP5TAR](https://open.spotify.com/artist/3wk369fbina3PpKTz8f4na), [MA](https://open.spotify.com/artist/7mN9hXvyTCViY3fHNjxm7l) | [Writers Block](https://open.spotify.com/album/7akBwrKckxfE9wOY9XP2Da) | 3:38 | 2024-06-13 | 2026-01-15 |
+| [Pick A Side](https://open.spotify.com/track/5NFMSNcyknf50vtZARzGx7) | [WAP5TAR](https://open.spotify.com/artist/3wk369fbina3PpKTz8f4na), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Freddy Back](https://open.spotify.com/album/5TPykdA03MtsKQkIr1Iylw) | 3:38 | 2026-01-14 |  |
 | [Praktice](https://open.spotify.com/track/6SqqsrQBdYGNuLJzo6oRQY) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Praktice](https://open.spotify.com/album/6zb0piw5wfvUjricnpHzUw) | 3:36 | 2024-06-13 |  |
 | [Quarantine Party](https://open.spotify.com/track/3JfHrQa2XzwhjfrbTXHVCS) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:05 | 2024-06-13 |  |
 | [Regular](https://open.spotify.com/track/3k5iWLAuPkriz4qf3E8rlb) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 3:16 | 2024-06-13 |  |

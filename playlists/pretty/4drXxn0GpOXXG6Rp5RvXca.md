@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/4drXxn0GpOXXG6Rp5RvXca.md) - [plain](/playlists/plain/4drXxn0GpOXXG6Rp5RvXca) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4drXxn0GpOXXG6Rp5RvXca)
+pretty - [cumulative](/playlists/cumulative/4drXxn0GpOXXG6Rp5RvXca.md) - [plain](/playlists/plain/4drXxn0GpOXXG6Rp5RvXca) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4drXxn0GpOXXG6Rp5RvXca)
 
 ### [Bread & Dub](https://open.spotify.com/playlist/4drXxn0GpOXXG6Rp5RvXca)
 

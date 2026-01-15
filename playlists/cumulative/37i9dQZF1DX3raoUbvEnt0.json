@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "The Ballad",
+        "url": "https://open.spotify.com/album/2MuMJqAeddgmVsgmklENyW"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209932,
+      "name": "The Ballad",
+      "url": "https://open.spotify.com/track/3qZJyfGVmggTOagP08zVlM"
+    },
+    {
+      "album": {
         "name": "TOKEIDAINOKANE",
         "url": "https://open.spotify.com/album/4KMBS3dCCe9dcKTh4YBkXd"
       },

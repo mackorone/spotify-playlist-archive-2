@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0sWg0jvufq5vIirWzlas0W.md) - [plain](/playlists/plain/0sWg0jvufq5vIirWzlas0W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0sWg0jvufq5vIirWzlas0W)
+pretty - [cumulative](/playlists/cumulative/0sWg0jvufq5vIirWzlas0W.md) - [plain](/playlists/plain/0sWg0jvufq5vIirWzlas0W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0sWg0jvufq5vIirWzlas0W)
 
 ### [Cottage Life](https://open.spotify.com/playlist/0sWg0jvufq5vIirWzlas0W)
 
 > Over 8 hours of music for hanging out at the cottage\. Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_CottageLife\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 69,312 likes - 125 songs - 8 hr 18 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 69,306 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

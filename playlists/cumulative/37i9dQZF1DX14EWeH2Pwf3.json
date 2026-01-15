@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Yugi e ANNA in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
+  "description": "Tony Boy in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167314,
       "name": "1 vs 1",
       "url": "https://open.spotify.com/track/73GjHCj5pJAF3LDJXp4o4C"
@@ -742,6 +742,28 @@
       "duration_ms": 173995,
       "name": "90 SPECIAL (feat. Sfera Ebbasta & Shiva)",
       "url": "https://open.spotify.com/track/5MmCEVccxedh3clyDoxubA"
+    },
+    {
+      "album": {
+        "name": "9MILLIMETRI",
+        "url": "https://open.spotify.com/album/1fNoI35Kz2ImcqXOzat0br"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168224,
+      "name": "9MILLIMETRI",
+      "url": "https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn"
     },
     {
       "album": {
@@ -4523,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188693,
+      "name": "Chicchi di caff\u00e8",
+      "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
+    },
+    {
+      "album": {
         "name": "Chill",
         "url": "https://open.spotify.com/album/4kgJXn6V8rscGUuTO8P9EF"
       },
@@ -4791,6 +4831,28 @@
     },
     {
       "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149651,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3VfHckaUvLwTmgTO4osxOi"
+    },
+    {
+      "album": {
         "name": "Colpa Mia",
         "url": "https://open.spotify.com/album/14hWXI41p18S5cmcOwMPHM"
       },
@@ -5026,7 +5088,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171500,
       "name": "Con Le Mie G (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1CGxpeDNpw9TfxIiwgm5K6"
@@ -7302,7 +7364,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148714,
       "name": "FLIP FLOP",
       "url": "https://open.spotify.com/track/65HCij9McdqrHcBn0Z3kMP"
@@ -10883,6 +10945,32 @@
     },
     {
       "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Celine G",
+          "url": "https://open.spotify.com/artist/7ztO12lZMunK43UpFs0VM3"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170637,
+      "name": "Loquito (with Celine G)",
+      "url": "https://open.spotify.com/track/12X6Xp0LYHgEFOnofZcGCn"
+    },
+    {
+      "album": {
         "name": "Lovebars",
         "url": "https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN"
       },
@@ -13854,7 +13942,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 151578,
       "name": "NULLA DI BELLO (feat. 22simba e Flaco G)",
       "url": "https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha"
@@ -15460,7 +15548,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 172166,
       "name": "PHANTOM (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/435NOlfzITSEghoaUNRle3"
@@ -16270,7 +16358,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150349,
       "name": "Problem Solver",
       "url": "https://open.spotify.com/track/3X5Zw8zkIGULZEnJUwwJwj"
@@ -17374,7 +17462,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 197955,
       "name": "SAYAN",
       "url": "https://open.spotify.com/track/3kv70BJZSKR7QJN73UwQU1"
@@ -18196,7 +18284,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170039,
       "name": "SNIPER (feat. Madame)",
       "url": "https://open.spotify.com/track/52vvy6T2EWtNTyLVDNFpec"
@@ -18296,6 +18384,24 @@
       "duration_ms": 177625,
       "name": "Sola (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/5LK1zfpswTVPO588AAw6bq"
+    },
+    {
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162709,
+      "name": "Solamente per amore",
+      "url": "https://open.spotify.com/track/0lmQ7cVyO4oU2hpsUuUnO2"
     },
     {
       "album": {
@@ -18612,6 +18718,32 @@
       "duration_ms": 124675,
       "name": "SPENDERE (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE"
+    },
+    {
+      "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Spendin (feat. Marracash)",
+      "url": "https://open.spotify.com/track/0ek2jtO8Ru1YrVImYFLSuW"
     },
     {
       "album": {

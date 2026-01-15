@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9W2w95RLbO.md) - [plain](/playlists/plain/37i9dQZF1DXb9W2w95RLbO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb9W2w95RLbO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9W2w95RLbO.md) - [plain](/playlists/plain/37i9dQZF1DXb9W2w95RLbO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb9W2w95RLbO)
 
 ### [Opening Numbers](https://open.spotify.com/playlist/37i9dQZF1DXb9W2w95RLbO)
 
 > It's time for curtain up! Cover: & Juliet
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,943 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,058 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

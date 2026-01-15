@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgE24f8i7FU.md) - [plain](/playlists/plain/37i9dQZF1DWYgE24f8i7FU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYgE24f8i7FU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgE24f8i7FU.md) - [plain](/playlists/plain/37i9dQZF1DWYgE24f8i7FU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYgE24f8i7FU)
 
 ### [This Is Lil Wayne \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWYgE24f8i7FU)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain](/playlists/plain/37i9dQZF1DWVrSccL9KVUt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVrSccL9KVUt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain](/playlists/plain/37i9dQZF1DWVrSccL9KVUt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVrSccL9KVUt)
 
 ### [Women of Faith](https://open.spotify.com/playlist/37i9dQZF1DWVrSccL9KVUt)
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Frannie Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,952 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,289 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain](/playlists/plain/37i9dQZF1DX19FiqS4SYCP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX19FiqS4SYCP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain](/playlists/plain/37i9dQZF1DX19FiqS4SYCP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX19FiqS4SYCP)
 
 ### [New Tejano](https://open.spotify.com/playlist/37i9dQZF1DX19FiqS4SYCP)
 

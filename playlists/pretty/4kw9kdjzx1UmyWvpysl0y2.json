@@ -1,13 +1,173 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124543,
+  "num_followers": 124491,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU9JlNwz2aMyK9T5wnH2a86TQSMQX3",
+  "snapshot_id": "AAAU/99Djv03GheFPFLF7XgCRhCFKAmJ",
   "tracks": [
+    {
+      "added_at": "2026-01-15 16:34:11",
+      "album": {
+        "name": "it's time to go home",
+        "url": "https://open.spotify.com/album/4nC28YyUh1VwVHsyUy7DYH"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "it's time to go home",
+      "url": "https://open.spotify.com/track/4ZAy0LodwsNIYPsXoffhGk"
+    },
+    {
+      "added_at": "2026-01-14 15:57:48",
+      "album": {
+        "name": "LIKE THAT",
+        "url": "https://open.spotify.com/album/6HKkzxHYCtsn7hgXvEJlmC"
+      },
+      "artists": [
+        {
+          "name": "YUSSI",
+          "url": "https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997"
+        },
+        {
+          "name": "M\u00c6DM",
+          "url": "https://open.spotify.com/artist/3f2JHeVMJvkFQbH8O81178"
+        }
+      ],
+      "duration_ms": 179657,
+      "name": "LIKE THAT",
+      "url": "https://open.spotify.com/track/27cN2bkTUkmG8X3Gp98G0z"
+    },
+    {
+      "added_at": "2026-01-13 14:46:07",
+      "album": {
+        "name": "Angel Montreal",
+        "url": "https://open.spotify.com/album/2jDJH1Ck7dyWEu8JxfFPt4"
+      },
+      "artists": [
+        {
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
+        },
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Angel Montreal",
+      "url": "https://open.spotify.com/track/6WHD2lj2ZfGmTtnGp8QL9h"
+    },
+    {
+      "added_at": "2026-01-12 15:17:13",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/4mhVMZM9F3TVxnMaJKuo1e"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/0E2fH6NozBE42Tn2iTdTbV"
+    },
+    {
+      "added_at": "2026-01-09 15:51:13",
+      "album": {
+        "name": "Use That Love",
+        "url": "https://open.spotify.com/album/25cNbRC8JeX7H6rkoBdHzQ"
+      },
+      "artists": [
+        {
+          "name": "Feint",
+          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
+        },
+        {
+          "name": "Voicians",
+          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 204313,
+      "name": "Use That Love",
+      "url": "https://open.spotify.com/track/7zsI93sw3ETJRVmcOsmssV"
+    },
+    {
+      "added_at": "2026-01-09 15:50:29",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1OuKovdj28l4GMHf7cM0qX"
+      },
+      "artists": [
+        {
+          "name": "Blood Groove & Kikis",
+          "url": "https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/4ZClsW1pvRVsFtzikoBnGy"
+    },
+    {
+      "added_at": "2026-01-08 15:34:35",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/3jSd2VBNQ9JWW0p9TrQ0xi"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 130872,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6DwnR2VRbtzix2VJsU07O7"
+    },
+    {
+      "added_at": "2026-01-07 15:53:52",
+      "album": {
+        "name": "Sh*t's On F*re",
+        "url": "https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Sh*t's On F*re",
+      "url": "https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP"
+    },
+    {
+      "added_at": "2026-01-06 15:44:56",
+      "album": {
+        "name": "Amber Glow",
+        "url": "https://open.spotify.com/album/5lG4nDEF6WFft5TvGsfQaI"
+      },
+      "artists": [
+        {
+          "name": "Approaching Black",
+          "url": "https://open.spotify.com/artist/0SfWu37246YXADKirimzyW"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Amber Glow",
+      "url": "https://open.spotify.com/track/6jUZwyDF8NsSp4OZyhaNhs"
+    },
     {
       "added_at": "2026-01-05 17:16:45",
       "album": {
@@ -967,234 +1127,6 @@
       "duration_ms": 182068,
       "name": "Dino Killer - Dodge & Fuski Remix",
       "url": "https://open.spotify.com/track/48BEoeZBILGunmflYqDFKG"
-    },
-    {
-      "added_at": "2025-10-14 14:10:59",
-      "album": {
-        "name": "Silk Selections 05",
-        "url": "https://open.spotify.com/album/7HG2xG1pVMdNaBekQU5U9v"
-      },
-      "artists": [
-        {
-          "name": "Archaellum",
-          "url": "https://open.spotify.com/artist/20USeJ3zyr7lnuWJMJqGUD"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/5gHAZ228Eemlq7icaCDHLH"
-    },
-    {
-      "added_at": "2025-10-14 14:10:33",
-      "album": {
-        "name": "Curry Goat",
-        "url": "https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        },
-        {
-          "name": "Solesky",
-          "url": "https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw"
-        }
-      ],
-      "duration_ms": 139064,
-      "name": "Curry Goat",
-      "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
-    },
-    {
-      "added_at": "2025-10-10 16:58:30",
-      "album": {
-        "name": "Palm Of Your Hand",
-        "url": "https://open.spotify.com/album/1gopiGew94SqUvLFFbxlio"
-      },
-      "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        },
-        {
-          "name": "Eloise Keeble",
-          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Palm Of Your Hand",
-      "url": "https://open.spotify.com/track/3mu8f4BXjYVvJNqIOeGqWp"
-    },
-    {
-      "added_at": "2025-10-09 14:48:44",
-      "album": {
-        "name": "Funk Machine",
-        "url": "https://open.spotify.com/album/4eJxnNlmXqUHzltXMWJ67K"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        }
-      ],
-      "duration_ms": 175124,
-      "name": "Funk Machine",
-      "url": "https://open.spotify.com/track/7eqYmCSmDl2UqcLfGJZegj"
-    },
-    {
-      "added_at": "2025-10-08 14:35:07",
-      "album": {
-        "name": "Believe What You Want (Tokyo Machine Remix)",
-        "url": "https://open.spotify.com/album/1M95lzVN1aCGVMdpd18ykb"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Believe What You Want - Tokyo Machine Remix",
-      "url": "https://open.spotify.com/track/4atZ397uEMc82psNuBd1Vs"
-    },
-    {
-      "added_at": "2025-10-07 14:17:46",
-      "album": {
-        "name": "Halcyon",
-        "url": "https://open.spotify.com/album/10Tnylky6pyR5dVSR68TIu"
-      },
-      "artists": [
-        {
-          "name": "terro",
-          "url": "https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g"
-        },
-        {
-          "name": "TMPST",
-          "url": "https://open.spotify.com/artist/59cVQmptpzY1hVL5jRHJoI"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/6qEH1WMq3t3ZrNejH3JJLs"
-    },
-    {
-      "added_at": "2025-10-06 14:12:46",
-      "album": {
-        "name": "UNDERTALE (10-Year Anniversary Remixes)",
-        "url": "https://open.spotify.com/album/6wfuhGODjpM5ru47Z7ks60"
-      },
-      "artists": [
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        },
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "MEGALOVANIA - Pegboard Nerds Remix",
-      "url": "https://open.spotify.com/track/5DuvEUkgu16gnEC08xfKSW"
-    },
-    {
-      "added_at": "2025-10-03 14:02:32",
-      "album": {
-        "name": "Reconnect (Moore Kismet Remix)",
-        "url": "https://open.spotify.com/album/2RUSPrTZz2gUvtOvnktsd7"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 199290,
-      "name": "Reconnect - Moore Kismet Remix",
-      "url": "https://open.spotify.com/track/5MIfvbqg3nylbpyO9E6wVC"
-    },
-    {
-      "added_at": "2025-10-02 14:40:08",
-      "album": {
-        "name": "2NITEE / GONE",
-        "url": "https://open.spotify.com/album/0PJu9ZzT3wXY5EEOAMnEAa"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "2NITEE",
-      "url": "https://open.spotify.com/track/2QCsOTuZFLqrNrQ21OREdk"
-    },
-    {
-      "added_at": "2025-10-01 14:17:46",
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/26JpOuYZeyN0ker0XjK6Ih"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        },
-        {
-          "name": "M\u00d8\u00d8NE",
-          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/0BnCCDEN50k16bZeGIZPz1"
-    },
-    {
-      "added_at": "2025-10-01 14:18:02",
-      "album": {
-        "name": "Sunset Kiss",
-        "url": "https://open.spotify.com/album/02A0ZhFNndBU0oMuqhOBlS"
-      },
-      "artists": [
-        {
-          "name": "Dokho",
-          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Sunset Kiss",
-      "url": "https://open.spotify.com/track/5R4Ii9nYR4PLmOVlpTwk3C"
-    },
-    {
-      "added_at": "2025-09-29 13:42:34",
-      "album": {
-        "name": "Death By Glamour (VGR Remix)",
-        "url": "https://open.spotify.com/album/3e0imWeYH9WbDF8FjhJpiY"
-      },
-      "artists": [
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        },
-        {
-          "name": "VGR",
-          "url": "https://open.spotify.com/artist/3pCoHlohSNQdXBNDxuWd12"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Death By Glamour - VGR Remix",
-      "url": "https://open.spotify.com/track/6e4imoBuqGLlvCQRTGf18a"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

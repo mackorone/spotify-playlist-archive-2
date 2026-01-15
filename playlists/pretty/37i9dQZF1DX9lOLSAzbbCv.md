@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain](/playlists/plain/37i9dQZF1DX9lOLSAzbbCv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9lOLSAzbbCv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain](/playlists/plain/37i9dQZF1DX9lOLSAzbbCv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9lOLSAzbbCv)
 
 ### [Реп хіти](https://open.spotify.com/playlist/37i9dQZF1DX9lOLSAzbbCv)
 
 > Хіти українського репу\. Обкладинка: KRBK
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,188 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,262 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

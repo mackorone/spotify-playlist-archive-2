@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1KNg2uX9Ngk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1KNg2uX9Ngk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1KNg2uX9Ngk)
+[pretty](/playlists/pretty/37i9dQZF1DX1KNg2uX9Ngk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1KNg2uX9Ngk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1KNg2uX9Ngk)
 
 ### [Oasis \| Live '25 Tour Official Setlist](https://open.spotify.com/playlist/37i9dQZF1DX1KNg2uX9Ngk)
 

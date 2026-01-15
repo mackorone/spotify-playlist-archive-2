@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3wpquH3X56H.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3wpquH3X56H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3wpquH3X56H)
+[pretty](/playlists/pretty/37i9dQZF1DX3wpquH3X56H.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3wpquH3X56H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3wpquH3X56H)
 
 ### [Best of New Ambient 2025](https://open.spotify.com/playlist/37i9dQZF1DX3wpquH3X56H)
 

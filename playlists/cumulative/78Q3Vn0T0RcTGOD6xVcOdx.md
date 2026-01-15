@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/78Q3Vn0T0RcTGOD6xVcOdx.md) - cumulative - [plain](/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx)
+[pretty](/playlists/pretty/78Q3Vn0T0RcTGOD6xVcOdx.md) - cumulative - [plain](/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx)
 
 ### [Today’s Top Hits ](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
 
 > 
 
-276 songs - 15 hr 46 min
+279 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Büitre](https://open.spotify.com/track/2SbXb00q4taXT4ewzyTVug) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [La Fuerza](https://open.spotify.com/album/5emGsXnZncj5fo2kVb2DId) | 4:12 | 2025-09-13 |  |
 | [Calatrava](https://open.spotify.com/track/3RfM4fbNZl8JBmhafNuZTE) | [Nínive](https://open.spotify.com/artist/7mEBZkzw2l3paNupTuTgLI) | [Calatrava](https://open.spotify.com/album/430VtJNF57nqZpMZWiJab4) | 3:00 | 2025-06-11 |  |
 | [Call Me \(Jam Version\)](https://open.spotify.com/track/1YShEig3ZEQHsuO472JvVL) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Call Me \(Jam Version\)](https://open.spotify.com/album/7aCO5xglVMZUwTjRMRaypk) | 4:01 | 2025-01-26 |  |
+| [Calle amanecer](https://open.spotify.com/track/6zRO3xl2W8zKqTLII5pJ4H) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Calle amanecer](https://open.spotify.com/album/4DsV2paVA0niwYG51jLEE5) | 3:32 | 2026-01-09 |  |
 | [candy](https://open.spotify.com/track/54cBgZkApMTMaee1BiPCD4) | [ms.ery](https://open.spotify.com/artist/10R5Hv2LU7E0sMFAyYzZ8s) | [candy](https://open.spotify.com/album/6hVbeEgp0E1OYaO9514lUk) | 2:43 | 2025-01-26 |  |
 | [Cartilla](https://open.spotify.com/track/0PIwPMv9b31pUk4oTHZOT9) | [Saga](https://open.spotify.com/artist/3BtN6ohTFdXA8yutrkE7J4) | [Cocotero](https://open.spotify.com/album/2X8u3MRvHp6WeWoLVuimiM) | 1:33 | 2025-03-04 |  |
 | [Casi Algo](https://open.spotify.com/track/0O76FJ8lDPgjFI462pEqhc) | [Smich](https://open.spotify.com/artist/1NJJAm9K4kishJ8O0YGjql), [Edu Schmidt](https://open.spotify.com/artist/7kNLKJ3eUza4CwbzgNes9W), [Bobbie LePage](https://open.spotify.com/artist/6UwgGu8p5nWsJY3tWG9Jsf) | [Casi Algo](https://open.spotify.com/album/5b1fZ90nbAuCzQF2fjNqFr) | 3:55 | 2025-08-05 |  |
@@ -122,6 +123,7 @@
 | [Hybrid](https://open.spotify.com/track/5e9SeIT1HWm9mALIGx0yhs) | [RoberWiz](https://open.spotify.com/artist/4s7i7GgPIAl0IIlXzHJCrJ) | [Hybrid](https://open.spotify.com/album/6yf0tQTE4FfFu2TJ4yKxY4) | 3:17 | 2025-05-05 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2025-01-24 |  |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2025-01-24 |  |
+| [Inconfundible](https://open.spotify.com/track/5cpxp9quQreC2AVjzzJulx) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Inconfundible](https://open.spotify.com/album/2IC8E1ZL9E44HJsOPtklsF) | 3:37 | 2026-01-09 |  |
 | [Irie Kilele](https://open.spotify.com/track/0nn77exK1ErfF5sP2EyznA) | [Munna Sound System](https://open.spotify.com/artist/6KqgD2tDajHkchXY1kgMsv) | [Irie Kilele](https://open.spotify.com/album/5Q9tzgoXsn0qSjcJ9ccDQI) | 2:50 | 2025-04-07 |  |
 | [It's Beginning to Look a Lot Like Christmas \- Live](https://open.spotify.com/track/5qicKEeKmLPWH6qRxfpcIx) | [David Zurita](https://open.spotify.com/artist/5XGAdmgRO0PKYzCHtO8qbx), [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Christmas Acoustic Sessions](https://open.spotify.com/album/3E1mzOZq2T7fgzVO13KkPu) | 3:10 | 2025-12-17 |  |
 | [Jardin](https://open.spotify.com/track/4Ui9Ect1oc0a7qOp5U7C2C) | [Afternoon Cocktail](https://open.spotify.com/artist/208Lok5tojubG2pQcyN3IY) | [Jardin](https://open.spotify.com/album/38sYRstMv3NvVVZTaZY7lk) | 3:59 | 2025-06-01 |  |
@@ -178,6 +180,7 @@
 | [Never Born, Never Die](https://open.spotify.com/track/29CVqOkWdST7RmGIdtK8Tp) | [DJ Grayhair](https://open.spotify.com/artist/2yOAYs0FIY2iKmxvcllee4) | [Never Born, Never Die](https://open.spotify.com/album/7vtXWB6FcyhXdqENR7hWoV) | 3:10 | 2025-01-26 |  |
 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 | 2025-01-24 |  |
 | [Next to me](https://open.spotify.com/track/5x2Kvjdy0xbtA15FV2R2Om) | [STⱯR](https://open.spotify.com/artist/6u7bRuPVSIKQhvcx2GJyh2) | [Next to me](https://open.spotify.com/album/6L66SJcMhPCyejqNC8IdR2) | 3:38 | 2025-05-01 |  |
+| [No Me Importa](https://open.spotify.com/track/1bBXt2ESu7Uvkq2MiOerLf) | [Nevenka Siberia](https://open.spotify.com/artist/0HWsF7Qh4xm5F3xBjnn97P) | [Cosas que Decir](https://open.spotify.com/album/2QnXMdTUqkfhfZfbSBvxTL) | 3:37 | 2026-01-09 |  |
 | [No Me Malinterpretes](https://open.spotify.com/track/4rRdgXCt06P5QiQ6RZMngB) | [Maralva](https://open.spotify.com/artist/6flMx7yW78NbeH2r7mV4iH) | [9 Caprichos](https://open.spotify.com/album/6CBVlWdf0YN6xeSMHdxNjg) | 3:17 | 2025-04-28 |  |
 | [No Me Mires Así](https://open.spotify.com/track/47ksOyGaKedXvXqp8bWQY3) | [Gletcher](https://open.spotify.com/artist/1koh2JIk9Q42FNn0llOpdi) | [Los Últimos Glaciares](https://open.spotify.com/album/3jhAfuqITr7l9pYlQ2EmwQ) | 4:15 | 2025-09-29 |  |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-01-24 |  |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX30w0JtSIv4j.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX30w0JtSIv4j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX30w0JtSIv4j)
+[pretty](/playlists/pretty/37i9dQZF1DX30w0JtSIv4j.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX30w0JtSIv4j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX30w0JtSIv4j)
 
 ### [Old School Hip\-Hop House Party](https://open.spotify.com/playlist/37i9dQZF1DX30w0JtSIv4j)
 

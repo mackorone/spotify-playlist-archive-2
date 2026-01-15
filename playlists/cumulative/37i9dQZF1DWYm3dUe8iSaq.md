@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYm3dUe8iSaq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYm3dUe8iSaq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYm3dUe8iSaq)
+[pretty](/playlists/pretty/37i9dQZF1DWYm3dUe8iSaq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYm3dUe8iSaq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYm3dUe8iSaq)
 
 ### [Lost In The Woods](https://open.spotify.com/playlist/37i9dQZF1DWYm3dUe8iSaq)
 
@@ -220,7 +220,7 @@
 | [Miles Away](https://open.spotify.com/track/1lbehCx8hANqaOquivcgi2) | [Ulysses Wells](https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB) | [Mend A Man](https://open.spotify.com/album/0p5Zy6S3IZb2p4BRAXWqFv) | 4:45 | 2022-10-07 | 2022-11-14 |
 | [Miles Away](https://open.spotify.com/track/5lrOPlJEIYYrecwt5kgj8P) | [Ulysses Wells](https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB) | [Miles Away](https://open.spotify.com/album/5ttHzLR58uxppFPtPdQCTK) | 4:45 | 2022-04-08 | 2022-11-09 |
 | [Miles Away](https://open.spotify.com/track/6H6cjoBykuGKzyLpNFHGib) | [Ulysses Wells](https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB) | [Miles Away](https://open.spotify.com/album/12FPMjwDOP2PPOGZFOaeLd) | 4:45 | 2022-10-07 | 2024-01-20 |
-| [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 | 2025-06-06 |  |
+| [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 | 2025-06-06 | 2026-01-15 |
 | [Minute Of Your Love](https://open.spotify.com/track/63uWX9R9I8NA4RcPMxh38V) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Minute Of Your Love](https://open.spotify.com/album/1jOAzcYT3AksjypjQehmb1) | 2:16 | 2022-04-08 | 2023-01-14 |
 | [Missing the Mark](https://open.spotify.com/track/7yjLdEv8sRozkE9CejRi7v) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Missing the Mark](https://open.spotify.com/album/1VyYNWUIaQRv9gX5R8CltB) | 2:32 | 2022-04-08 | 2022-08-27 |
 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 | 2022-07-01 |  |
@@ -314,7 +314,7 @@
 | [Sudden Death](https://open.spotify.com/track/5wYzMzDNycLtyBwrHdfavV) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Sudden Death](https://open.spotify.com/album/4QRpPCZnswhtBfRs1q6VLH) | 2:55 | 2022-05-20 | 2022-10-13 |
 | [summer in december](https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [wraith](https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC) | 4:05 | 2025-06-06 |  |
 | [SUNSHINE](https://open.spotify.com/track/4m9X1rLMhmD0cNQ42vthAz) | [Joseph O'Sullivan](https://open.spotify.com/artist/34ms1bLvHRmNOtYku3RkIo) | [SUNSHINE](https://open.spotify.com/album/7emMS696pJ7NpvjuOsH4pE) | 2:56 | 2022-11-18 | 2024-01-24 |
-| [Swing](https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Swing](https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws) | 2:45 | 2025-06-06 | 2025-12-21 |
+| [Swing](https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Swing](https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws) | 2:45 | 2025-06-06 |  |
 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 | 2022-04-08 |  |
 | [Take It Slow \- Organic Edit](https://open.spotify.com/track/1GrGjdBj3VeSm2deNGE6Pm) | [Michael Lane](https://open.spotify.com/artist/6UUPmOaF0syyjXaWHB68xK) | [Take It Slow \(Organic Edit\)](https://open.spotify.com/album/7DH3Z415tH4x2UYXJfd4C0) | 4:51 | 2022-04-08 | 2022-07-02 |
 | [Take This Body Home](https://open.spotify.com/track/0A9mEncnUg9FRtltjsd02R) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [Take This Body Home](https://open.spotify.com/album/4RDcDfbJrIzAiEQQkgvmGh) | 3:02 | 2024-06-07 | 2025-09-12 |

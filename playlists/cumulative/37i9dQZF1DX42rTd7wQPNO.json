@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Born Wicked",
+        "url": "https://open.spotify.com/album/4uThGfX50aFL3O8CgkxmBT"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Born Wicked",
+      "url": "https://open.spotify.com/track/4sa1m3H5Aoxo21etGRBFIb"
+    },
+    {
+      "album": {
         "name": "Beautiful People: The Greatest Hits of Melanie",
         "url": "https://open.spotify.com/album/0d0QHnq1JlNiBTQhC1eKRS"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186560,
       "name": "Bummin' Cigarettes",
       "url": "https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4"
@@ -2840,6 +2858,24 @@
       "duration_ms": 239001,
       "name": "Swallowed in the Sea",
       "url": "https://open.spotify.com/track/2u2WL5N3KnQnykOZi3fxL6"
+    },
+    {
+      "album": {
+        "name": "Tell Me It's Over",
+        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Tell Me It's Over",
+      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
     },
     {
       "album": {

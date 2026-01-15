@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KNg2uX9Ngk.md) - [plain](/playlists/plain/37i9dQZF1DX1KNg2uX9Ngk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1KNg2uX9Ngk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KNg2uX9Ngk.md) - [plain](/playlists/plain/37i9dQZF1DX1KNg2uX9Ngk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1KNg2uX9Ngk)
 
 ### [Oasis \| Live '25 Tour Official Setlist](https://open.spotify.com/playlist/37i9dQZF1DX1KNg2uX9Ngk)
 
 > This is it, this is happening\. The official setlist for Oasis \| Live '25 Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,580 likes - 23 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,090 likes - 23 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

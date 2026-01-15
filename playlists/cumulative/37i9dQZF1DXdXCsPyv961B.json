@@ -46,12 +46,12 @@
       },
       "artists": [
         {
-          "name": "Colombre",
-          "url": "https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1"
-        },
-        {
           "name": "Maria Antonietta",
           "url": "https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb"
+        },
+        {
+          "name": "Colombre",
+          "url": "https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1"
         }
       ],
       "date_added": "2025-12-03",

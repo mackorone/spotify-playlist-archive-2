@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain](/playlists/plain/37i9dQZF1DX4nGm7tTyA78) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4nGm7tTyA78)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain](/playlists/plain/37i9dQZF1DX4nGm7tTyA78) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4nGm7tTyA78)
 
 ### [Reggaeton Cristiano](https://open.spotify.com/playlist/37i9dQZF1DX4nGm7tTyA78)
 
 > Reggaeton pero al sabor de Cristo! Foto: Alexxander
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,387 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,721 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

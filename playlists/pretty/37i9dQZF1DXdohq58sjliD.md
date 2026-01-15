@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdohq58sjliD.md) - [plain](/playlists/plain/37i9dQZF1DXdohq58sjliD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdohq58sjliD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdohq58sjliD.md) - [plain](/playlists/plain/37i9dQZF1DXdohq58sjliD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdohq58sjliD)
 
 ### [One Day Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdohq58sjliD)
 
 > Twenty years\. Two people\. Listen to the music from and inspired by One Day, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,944 likes - 82 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,999 likes - 82 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3ukqAcaahACMyRzpkwHXew.md) - [plain](/playlists/plain/3ukqAcaahACMyRzpkwHXew) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3ukqAcaahACMyRzpkwHXew)
+pretty - [cumulative](/playlists/cumulative/3ukqAcaahACMyRzpkwHXew.md) - [plain](/playlists/plain/3ukqAcaahACMyRzpkwHXew) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3ukqAcaahACMyRzpkwHXew)
 
 ### [New year's eve by Icona Pop](https://open.spotify.com/playlist/3ukqAcaahACMyRzpkwHXew)
 

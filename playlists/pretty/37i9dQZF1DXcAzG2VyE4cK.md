@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAzG2VyE4cK.md) - [plain](/playlists/plain/37i9dQZF1DXcAzG2VyE4cK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcAzG2VyE4cK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAzG2VyE4cK.md) - [plain](/playlists/plain/37i9dQZF1DXcAzG2VyE4cK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcAzG2VyE4cK)
 
 ### [Acuario](https://open.spotify.com/playlist/37i9dQZF1DXcAzG2VyE4cK)
 

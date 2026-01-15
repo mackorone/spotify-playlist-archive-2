@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain](/playlists/plain/37i9dQZF1DX9sIqqvKsjG8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9sIqqvKsjG8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain](/playlists/plain/37i9dQZF1DX9sIqqvKsjG8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9sIqqvKsjG8)
 
 ### [Instrumental Study](https://open.spotify.com/playlist/37i9dQZF1DX9sIqqvKsjG8)
 
 > Soft and contemplative piano music to help you focus and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,816,243 likes - 183 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,819,697 likes - 183 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

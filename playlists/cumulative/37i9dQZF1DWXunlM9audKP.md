@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXunlM9audKP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXunlM9audKP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXunlM9audKP)
+[pretty](/playlists/pretty/37i9dQZF1DWXunlM9audKP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXunlM9audKP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXunlM9audKP)
 
 ### [Le Hit Del 2017](https://open.spotify.com/playlist/37i9dQZF1DWXunlM9audKP)
 

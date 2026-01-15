@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6PzNMpCPMDMo1pOUjNhDUC.md) - cumulative - [plain](/playlists/plain/6PzNMpCPMDMo1pOUjNhDUC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6PzNMpCPMDMo1pOUjNhDUC)
+[pretty](/playlists/pretty/6PzNMpCPMDMo1pOUjNhDUC.md) - cumulative - [plain](/playlists/plain/6PzNMpCPMDMo1pOUjNhDUC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6PzNMpCPMDMo1pOUjNhDUC)
 
 ### [Kids B\-day Party](https://open.spotify.com/playlist/6PzNMpCPMDMo1pOUjNhDUC)
 

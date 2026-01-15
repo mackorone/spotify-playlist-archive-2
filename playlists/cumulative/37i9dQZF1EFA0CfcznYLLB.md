@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1EFA0CfcznYLLB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFA0CfcznYLLB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFA0CfcznYLLB)
+[pretty](/playlists/pretty/37i9dQZF1EFA0CfcznYLLB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFA0CfcznYLLB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFA0CfcznYLLB)
 
 ### [Written By Murda Beatz](https://open.spotify.com/playlist/37i9dQZF1EFA0CfcznYLLB)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-411 songs - 21 hr 40 min
+413 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Hollywood](https://open.spotify.com/track/4GsIfzjwGJbC5uWKwIdsHN) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Garrafas e Bocas \(A Saideira\)](https://open.spotify.com/album/1OkHrSmhDHn8q4y6P4JYb6) | 3:07 | 2023-12-15 | 2025-06-28 |
 | [Hollywood](https://open.spotify.com/track/288BphIlN4jqBvndYM85eZ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Hollywood](https://open.spotify.com/album/4cwGmNixX4JhqPVr26enrO) | 3:35 | 2023-12-13 | 2024-02-02 |
 | [Hood Bitch Aesthetic](https://open.spotify.com/track/2rVMvrKpFmnpVRxRNWIywy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Hood Bitch Aesthetic](https://open.spotify.com/album/6am3JP04WcRJlPeqIYJJVj) | 3:14 | 2023-12-13 |  |
+| [Hood Politics](https://open.spotify.com/track/7lOFSXxqxVhSuu7lgL85sj) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hood Politics](https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU) | 3:14 | 2026-01-14 |  |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:22 | 2023-12-13 |  |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/4fFJKLWwKqUmMolFi7b7Vb) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/2WJp24bUYBKyBPRtHy08DV) | 3:24 | 2023-12-15 | 2024-01-29 |
 | [How](https://open.spotify.com/track/2b7rt5gCEy2p2zTp656s4U) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:01 | 2023-12-13 |  |
@@ -395,6 +396,7 @@
 | [Ways](https://open.spotify.com/track/5hEbP4TGH21HeaN42fR8zH) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:54 | 2023-12-13 |  |
 | [Welcome to the Life](https://open.spotify.com/track/1EVwLhyTvua5Mf9H7qEwAj) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Welcome to the Life](https://open.spotify.com/album/5nGuPNvQDGK5CAIoMnUFmJ) | 3:12 | 2025-05-31 |  |
 | [What It Do](https://open.spotify.com/track/0GvoFT7tQXuWpHKELqBjls) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:26 | 2023-12-13 |  |
+| [What She Like](https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:07 | 2026-01-14 |  |
 | [What Type of Games](https://open.spotify.com/track/2u1ctOsUchwMbWd2kyDgfu) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [TANTRA](https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK) | 3:03 | 2023-12-13 |  |
 | [Whip\-It](https://open.spotify.com/track/3gIk2QR7SdWfOcrNBItrYA) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7) | [Whip\-It](https://open.spotify.com/album/5ZSPQPfFMu0s3mpTL1sKpI) | 4:31 | 2023-12-13 | 2025-06-28 |
 | [Why](https://open.spotify.com/track/32i4H0NOOpFeDYk2MtDUJd) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU) | 4:22 | 2023-12-13 |  |

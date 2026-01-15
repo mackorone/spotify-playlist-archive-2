@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYRYaqBHPt12.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYRYaqBHPt12) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYRYaqBHPt12)
+[pretty](/playlists/pretty/37i9dQZF1DWYRYaqBHPt12.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYRYaqBHPt12) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYRYaqBHPt12)
 
 ### [PUBG: BATTLEGROUNDS  Thank you, 5urvivors](https://open.spotify.com/playlist/37i9dQZF1DWYRYaqBHPt12)
 

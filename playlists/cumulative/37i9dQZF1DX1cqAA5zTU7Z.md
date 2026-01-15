@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1cqAA5zTU7Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1cqAA5zTU7Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1cqAA5zTU7Z)
+[pretty](/playlists/pretty/37i9dQZF1DX1cqAA5zTU7Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1cqAA5zTU7Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1cqAA5zTU7Z)
 
 ### [Heated Rivalry Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX1cqAA5zTU7Z)
 
 > Based on the best\-selling book series\. Listen to the music from Heated Rivalry, now streaming on Crave and HBO Max.
 
-38 songs - 2 hr 18 min
+41 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Hungry Like a Tiger](https://open.spotify.com/track/09ndgOSqpMUVxTrw2IvawN) | [Jared Mees & The Grown Children](https://open.spotify.com/artist/2NFK5IzrMlp9jB8z5CEQMh) | [Only Good Thoughts Can Stay](https://open.spotify.com/album/55p883Q08Cw1aiMa7SbGFF) | 4:28 | 2025-12-12 |  |
 | [I Feel Free](https://open.spotify.com/track/5bOICm0YxfMAcCvAc7UDyL) | [DILLY DALLY](https://open.spotify.com/artist/6HcTkJKjlZEJgv3fR4CJCS) | [Heaven](https://open.spotify.com/album/3rAxkmi2vjbOyt2e7kVJNw) | 3:40 | 2025-12-12 |  |
 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 | 2025-12-12 |  |
+| [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-01-09 |  |
 | [L'anarchie des jours heureux \(chanson thème Le chalet\)](https://open.spotify.com/track/2dty520sn46L7iZRCRu6ro) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK) | [L'anarchie des jours heureux \(chanson thème Le chalet\)](https://open.spotify.com/album/4G8HerJwhjOkScJQlRPsdP) | 2:48 | 2025-12-26 |  |
 | [Lips](https://open.spotify.com/track/09nwO5Lbi3buIIFtsQiwIM) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O) | [It's a Pleasure](https://open.spotify.com/album/4B3U5Xmwc9zNVRsnEZEKul) | 3:05 | 2025-12-12 |  |
 | [Lost Time](https://open.spotify.com/track/4iEoZLI4gHzmMhoX56ooG6) | [Koett](https://open.spotify.com/artist/4n2kJNAAKNxoDZrjMRs4xz) | [Lost Time](https://open.spotify.com/album/1Bstt7sHUHUWrVuvN1ie1M) | 5:07 | 2025-12-12 |  |
@@ -32,8 +33,10 @@
 | [My Moon My Man](https://open.spotify.com/track/1NMFwd3TGPWYrVmYaBasz6) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/0gdO7WhaXPUpmWr81AOcMK) | 3:48 | 2025-12-12 |  |
 | [Never in a Million Years](https://open.spotify.com/track/04zarnGsuDBxfzCEB82eFB) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [Rock With Alvin](https://open.spotify.com/album/3zodV9957N1tL09XXbL7xy) | 3:24 | 2025-12-12 |  |
 | [No Brake$ \(feat\. Roshin\)](https://open.spotify.com/track/2q5egBQ2XINmx8j5uipF4t) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [No Brake$ \(feat\. Roshin\)](https://open.spotify.com/album/53rufUypsnaQPfU2Z7tYBv) | 2:36 | 2025-12-12 |  |
+| [No Feedback](https://open.spotify.com/track/2IdpxGvw13FtM9wfLK6IhL) | [Dan Kanvis](https://open.spotify.com/artist/3gBCldRCphtiItrLyjBQ4V) | [Understanding Dead Plants](https://open.spotify.com/album/6fmxcOLjCvkcz2O8HvgHr4) | 3:33 | 2026-01-09 |  |
 | [Oh My Bride](https://open.spotify.com/track/0cdn4rVGc4UC8mmE3OBO1e) | [The Deadly Snakes](https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0) | [Ode To Joy](https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM) | 2:16 | 2025-12-19 |  |
 | [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 | 2025-12-19 |  |
+| [Rivalry \- from "Heated Rivalry"](https://open.spotify.com/track/06bb202h8xCZ904uMx8Z28) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 2:09 | 2026-01-09 |  |
 | [Sealion](https://open.spotify.com/track/36Zrl0Kw93L6fyVULnYHlL) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/0gdO7WhaXPUpmWr81AOcMK) | 3:39 | 2025-12-12 |  |
 | [Serenity](https://open.spotify.com/track/1pq8cclkWXs5YQ8RFZMtJX) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Rising Sun](https://open.spotify.com/album/3f6kwkjwZXXxwvSFN0Kjai) | 7:53 | 2025-12-12 |  |
 | [Solutions to My Gloom](https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Unessential Oils](https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq) | 4:25 | 2025-12-19 |  |

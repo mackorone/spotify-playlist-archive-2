@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain](/playlists/plain/37i9dQZF1DWTLAuD69zHkT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTLAuD69zHkT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain](/playlists/plain/37i9dQZF1DWTLAuD69zHkT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTLAuD69zHkT)
 
 ### [Easy Blues](https://open.spotify.com/playlist/37i9dQZF1DWTLAuD69zHkT)
 

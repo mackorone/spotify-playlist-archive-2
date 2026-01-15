@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMCPjHG57gq.md) - [plain](/playlists/plain/37i9dQZF1DWZMCPjHG57gq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZMCPjHG57gq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMCPjHG57gq.md) - [plain](/playlists/plain/37i9dQZF1DWZMCPjHG57gq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZMCPjHG57gq)
 
 ### [This Is Al Green](https://open.spotify.com/playlist/37i9dQZF1DWZMCPjHG57gq)
 

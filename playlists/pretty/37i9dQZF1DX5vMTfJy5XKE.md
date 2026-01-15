@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain](/playlists/plain/37i9dQZF1DX5vMTfJy5XKE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5vMTfJy5XKE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain](/playlists/plain/37i9dQZF1DX5vMTfJy5XKE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5vMTfJy5XKE)
 
 ### [New Music Holiday](https://open.spotify.com/playlist/37i9dQZF1DX5vMTfJy5XKE)
 
 > 'Tis the season! All new holiday releases\. Cover: The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,712 likes - 241 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,078 likes - 241 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 129 | [I'll Be Home For Christmas](https://open.spotify.com/track/5PDscAg88Y8CanHm6T0AhI) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [I'll Be Home For Christmas](https://open.spotify.com/album/4gs5s9XTTgBAhyFICTqfYg) | 2:59 |
 | 130 | [Exatamente Igual](https://open.spotify.com/track/4sP8S3OWKfMu9IEtX1sYkS) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Prazer, Mamãe Noel](https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB) | 3:17 |
 | 131 | [Winter Wonderland](https://open.spotify.com/track/1ucrWudcEalcwSKlzjXUSy) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Winter Wonderland](https://open.spotify.com/album/6amqkrUiXL6INWYtO64oeq) | 4:52 |
-| 132 | [The Holiday](https://open.spotify.com/track/20pP3XAQUyd8lTgdwKB3Nc) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [The Holiday](https://open.spotify.com/album/6Y7ATU10sypGIp7X0uDNaj) | 4:00 |
+| 132 | [The Holiday \- Acoustic](https://open.spotify.com/track/20pP3XAQUyd8lTgdwKB3Nc) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [The Holiday](https://open.spotify.com/album/6Y7ATU10sypGIp7X0uDNaj) | 4:00 |
 | 133 | [O Holy Night](https://open.spotify.com/track/56Udu90nu3LoUyygPPpDLS) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [O Holy Night](https://open.spotify.com/album/6XmhNeoQjmUvTFCYWI2Htv) | 5:13 |
 | 134 | [Navidad Navidad](https://open.spotify.com/track/3TtB7oQnbmvBl7okHFw49s) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Navidad Navidad](https://open.spotify.com/album/7K2IiI8GdfNyUba7Z7CSWp) | 2:33 |
 | 135 | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |

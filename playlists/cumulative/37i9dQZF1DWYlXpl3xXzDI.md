@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYlXpl3xXzDI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYlXpl3xXzDI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYlXpl3xXzDI)
+[pretty](/playlists/pretty/37i9dQZF1DWYlXpl3xXzDI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYlXpl3xXzDI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYlXpl3xXzDI)
 
 ### [Easy On Monday](https://open.spotify.com/playlist/37i9dQZF1DWYlXpl3xXzDI)
 

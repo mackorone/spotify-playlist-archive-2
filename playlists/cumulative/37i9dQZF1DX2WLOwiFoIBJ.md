@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2WLOwiFoIBJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2WLOwiFoIBJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2WLOwiFoIBJ)
+[pretty](/playlists/pretty/37i9dQZF1DX2WLOwiFoIBJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2WLOwiFoIBJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2WLOwiFoIBJ)
 
 ### [COUNTER//CULTURE: Kevin Abstract](https://open.spotify.com/playlist/37i9dQZF1DX2WLOwiFoIBJ)
 

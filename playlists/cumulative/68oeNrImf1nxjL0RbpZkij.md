@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/68oeNrImf1nxjL0RbpZkij.md) - cumulative - [plain](/playlists/plain/68oeNrImf1nxjL0RbpZkij) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/68oeNrImf1nxjL0RbpZkij)
+[pretty](/playlists/pretty/68oeNrImf1nxjL0RbpZkij.md) - cumulative - [plain](/playlists/plain/68oeNrImf1nxjL0RbpZkij) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/68oeNrImf1nxjL0RbpZkij)
 
 ### [Early Morning Rise](https://open.spotify.com/playlist/68oeNrImf1nxjL0RbpZkij)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXHal8jERiRh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXHal8jERiRh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXHal8jERiRh)
+[pretty](/playlists/pretty/37i9dQZF1DWXHal8jERiRh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXHal8jERiRh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXHal8jERiRh)
 
 ### [7인의 탈출\(The Escape of the Seven\)](https://open.spotify.com/playlist/37i9dQZF1DWXHal8jERiRh)
 

@@ -583,6 +583,32 @@
     },
     {
       "album": {
+        "name": "GENTE BIEN LOCA",
+        "url": "https://open.spotify.com/album/2HfXRBBxJb2ukIQWC9GspV"
+      },
+      "artists": [
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Waldo pk",
+          "url": "https://open.spotify.com/artist/3DvTXg9qIkO2xrpYc0fNrk"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "GENTE BIEN LOCA",
+      "url": "https://open.spotify.com/track/2UoHzJeMiSbELwtrTwt7TW"
+    },
+    {
+      "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/1h4Z8hvxf9BIlEysjDv6Bv"
       },
@@ -1084,7 +1110,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194560,
       "name": "Morro Dolido",
       "url": "https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy"

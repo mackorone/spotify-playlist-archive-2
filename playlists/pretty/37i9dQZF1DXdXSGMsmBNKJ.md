@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXSGMsmBNKJ.md) - [plain](/playlists/plain/37i9dQZF1DXdXSGMsmBNKJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdXSGMsmBNKJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXSGMsmBNKJ.md) - [plain](/playlists/plain/37i9dQZF1DXdXSGMsmBNKJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdXSGMsmBNKJ)
 
 ### [사랑의 이해\(The Interest of Love\)](https://open.spotify.com/playlist/37i9dQZF1DXdXSGMsmBNKJ)
 

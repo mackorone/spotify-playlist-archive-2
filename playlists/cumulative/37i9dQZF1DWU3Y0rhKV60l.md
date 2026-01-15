@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWU3Y0rhKV60l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU3Y0rhKV60l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU3Y0rhKV60l)
+[pretty](/playlists/pretty/37i9dQZF1DWU3Y0rhKV60l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU3Y0rhKV60l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU3Y0rhKV60l)
 
 ### [White Waves](https://open.spotify.com/playlist/37i9dQZF1DWU3Y0rhKV60l)
 

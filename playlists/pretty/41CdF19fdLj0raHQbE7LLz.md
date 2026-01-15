@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/41CdF19fdLj0raHQbE7LLz.md) - [plain](/playlists/plain/41CdF19fdLj0raHQbE7LLz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/41CdF19fdLj0raHQbE7LLz)
+pretty - [cumulative](/playlists/cumulative/41CdF19fdLj0raHQbE7LLz.md) - [plain](/playlists/plain/41CdF19fdLj0raHQbE7LLz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/41CdF19fdLj0raHQbE7LLz)
 
 ### [Spektre's Selection](https://open.spotify.com/playlist/41CdF19fdLj0raHQbE7LLz)
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-[spektrelive](https://open.spotify.com/user/spektrelive) - 1,398 likes - 97 songs - 7 hr 58 min
+[spektrelive](https://open.spotify.com/user/spektrelive) - 1,397 likes - 97 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

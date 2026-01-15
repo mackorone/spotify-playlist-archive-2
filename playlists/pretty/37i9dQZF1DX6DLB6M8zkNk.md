@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain](/playlists/plain/37i9dQZF1DX6DLB6M8zkNk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6DLB6M8zkNk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain](/playlists/plain/37i9dQZF1DX6DLB6M8zkNk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6DLB6M8zkNk)
 
 ### [hopeless romantic](https://open.spotify.com/playlist/37i9dQZF1DX6DLB6M8zkNk)
 
 > you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,756 likes - 91 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,391 likes - 91 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 62502,
+  "num_followers": 62737,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -328,22 +328,6 @@
       },
       "artists": [
         {
-          "name": "Flor Sinque\u00f1a",
-          "url": "https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
-      },
-      "artists": [
-        {
           "name": "El Comunero de Los Andes",
           "url": "https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR"
         }
@@ -355,18 +339,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
       },
       "artists": [
         {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+          "name": "Flor Sinque\u00f1a",
+          "url": "https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe"
         }
       ],
-      "duration_ms": 173066,
-      "name": "Serenata Condemayta",
-      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
+      "duration_ms": 160640,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -383,6 +367,22 @@
       "duration_ms": 186360,
       "name": "Al Comp\u00e1s de Mi Guitarra",
       "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Serenata Condemayta",
+      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -412,25 +412,9 @@
           "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Adi\u00f3s Pueblo De Ayacucho",
-      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
-      },
-      "artists": [
-        {
-          "name": "Estudiantina Per\u00fa",
-          "url": "https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "Convoycito de Huancayo",
-      "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -467,6 +451,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+      },
+      "artists": [
+        {
+          "name": "Estudiantina Per\u00fa",
+          "url": "https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "Convoycito de Huancayo",
+      "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "La Nueva Expresi\u00f3n del Folklore de Bolivia",
         "url": "https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU"
       },
@@ -492,25 +492,9 @@
           "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Lo Mejor del Incomparable...Mario Mendoza",
-        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
-      },
-      "artists": [
-        {
-          "name": "Mario Mendoza",
-          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Tomando Cerveza",
-      "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
+      "duration_ms": 210560,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -527,6 +511,22 @@
       "duration_ms": 249155,
       "name": "Clavel de mi pecho",
       "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Lo Mejor del Incomparable...Mario Mendoza",
+        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
+      },
+      "artists": [
+        {
+          "name": "Mario Mendoza",
+          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Tomando Cerveza",
+      "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Yo Soy el Amor, Vol. 15",
-        "url": "https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Arqu\u00ednigo",
-          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
-        }
-      ],
-      "duration_ms": 340653,
-      "name": "Yo Soy el Amor",
-      "url": "https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Madre Andina",
         "url": "https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 238889,
       "name": "Koka kintucha",
       "url": "https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Yo Soy el Amor, Vol. 15",
+        "url": "https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Arqu\u00ednigo",
+          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
+        }
+      ],
+      "duration_ms": 340653,
+      "name": "Yo Soy el Amor",
+      "url": "https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "De Colores",
-        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
-      },
-      "artists": [
-        {
-          "name": "Yawar",
-          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Linda Warmisitay",
-      "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "La Santa Tierra",
         "url": "https://open.spotify.com/album/1Et11TUnb0Hw7NcqpmAZYC"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 264855,
       "name": "Expreso Puquio",
       "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "De Colores",
+        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
+      },
+      "artists": [
+        {
+          "name": "Yawar",
+          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Linda Warmisitay",
+      "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
     },
     {
       "added_at": "2024-06-24 17:38:16",

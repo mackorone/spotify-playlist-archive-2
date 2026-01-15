@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2idQpnxeioGlOsW66uaQ3U.md) - cumulative - [plain](/playlists/plain/2idQpnxeioGlOsW66uaQ3U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2idQpnxeioGlOsW66uaQ3U)
+[pretty](/playlists/pretty/2idQpnxeioGlOsW66uaQ3U.md) - cumulative - [plain](/playlists/plain/2idQpnxeioGlOsW66uaQ3U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2idQpnxeioGlOsW66uaQ3U)
 
 ### [Flex & Flow](https://open.spotify.com/playlist/2idQpnxeioGlOsW66uaQ3U)
 

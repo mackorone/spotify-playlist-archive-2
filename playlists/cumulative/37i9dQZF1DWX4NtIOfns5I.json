@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "jake minch. that's it.",
+  "description": "august ponthier on the cover",
   "name": "juniper",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 237809,
       "name": "At The Beach, In Every Life",
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
@@ -832,6 +832,24 @@
       "duration_ms": 240364,
       "name": "Best Guess",
       "url": "https://open.spotify.com/track/6b3VHyOfkhi6RnzDJuqceh"
+    },
+    {
+      "album": {
+        "name": "Best Waitress (v1)",
+        "url": "https://open.spotify.com/album/25DxXS2UHZlui1NW25r70X"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Rae",
+          "url": "https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165562,
+      "name": "Best Waitress (v1)",
+      "url": "https://open.spotify.com/track/3DD0xdjiHAkNF87jf4YWzt"
     },
     {
       "album": {
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217616,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg"
@@ -4062,7 +4080,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 257547,
       "name": "Goodbye (Don\u2019t Tell Me)",
       "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
@@ -4372,7 +4390,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 216120,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/5iBUS6fqRWhwqRXXfKu3tV"
@@ -5234,10 +5252,28 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226000,
       "name": "I'll Be Waving As You Drive Away",
       "url": "https://open.spotify.com/track/1rzowMemRF7dpGPsEWVlRu"
+    },
+    {
+      "album": {
+        "name": "I'm Crying, Are You?",
+        "url": "https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180153,
+      "name": "I'm Crying, Are You?",
+      "url": "https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ"
     },
     {
       "album": {
@@ -5386,7 +5422,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217273,
       "name": "If someone's gonna love you",
       "url": "https://open.spotify.com/track/7bfIjbeRDDOvIC5q1ULIPs"
@@ -5668,6 +5704,24 @@
       "duration_ms": 196226,
       "name": "It's Only You",
       "url": "https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW"
+    },
+    {
+      "album": {
+        "name": "Rivalry / It's You (from \"Heated Rivalry\" Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240491,
+      "name": "It's You - from \"Heated Rivalry\"",
+      "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
     },
     {
       "album": {
@@ -6126,6 +6180,24 @@
       "duration_ms": 187403,
       "name": "Like The Rain",
       "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
+    },
+    {
+      "album": {
+        "name": "limn",
+        "url": "https://open.spotify.com/album/26IJ29iCYAozdqslJSkUWw"
+      },
+      "artists": [
+        {
+          "name": "isobel",
+          "url": "https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207058,
+      "name": "limn",
+      "url": "https://open.spotify.com/track/69oIIqwBPHmM8m81cW1H5O"
     },
     {
       "album": {
@@ -9526,7 +9598,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 275749,
       "name": "Skink",
       "url": "https://open.spotify.com/track/0RgyEVoJDUHlzHYLp4ulKY"
@@ -10107,6 +10179,24 @@
     },
     {
       "album": {
+        "name": "At The Beach, In Every Life",
+        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303698,
+      "name": "Sugar Water",
+      "url": "https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7"
+    },
+    {
+      "album": {
         "name": "Whiplash",
         "url": "https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc"
       },
@@ -10607,7 +10697,7 @@
       "artists": [
         {
           "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe"
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
         }
       ],
       "date_added": "2025-11-07",
@@ -11836,7 +11926,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 142773,
       "name": "What I read on the labels in the fridge",
       "url": "https://open.spotify.com/track/6RRKLSoFj7lYlgEmC3t8n0"
@@ -12214,7 +12304,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205653,
       "name": "Wolf In Sheep\u2019s Clothes",
       "url": "https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6"

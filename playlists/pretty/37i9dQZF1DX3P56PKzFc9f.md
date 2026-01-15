@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3P56PKzFc9f.md) - [plain](/playlists/plain/37i9dQZF1DX3P56PKzFc9f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3P56PKzFc9f)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3P56PKzFc9f.md) - [plain](/playlists/plain/37i9dQZF1DX3P56PKzFc9f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3P56PKzFc9f)
 
 ### [Home Sweet Home](https://open.spotify.com/playlist/37i9dQZF1DX3P56PKzFc9f)
 

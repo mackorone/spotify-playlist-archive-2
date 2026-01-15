@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1ifjh7WmfEU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ifjh7WmfEU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ifjh7WmfEU)
+[pretty](/playlists/pretty/37i9dQZF1DX1ifjh7WmfEU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ifjh7WmfEU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1ifjh7WmfEU)
 
 ### [self care vibes](https://open.spotify.com/playlist/37i9dQZF1DX1ifjh7WmfEU)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2O0Nf9Mi5tM17PM7Ns6Fgu.md) - cumulative - [plain](/playlists/plain/2O0Nf9Mi5tM17PM7Ns6Fgu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2O0Nf9Mi5tM17PM7Ns6Fgu)
+[pretty](/playlists/pretty/2O0Nf9Mi5tM17PM7Ns6Fgu.md) - cumulative - [plain](/playlists/plain/2O0Nf9Mi5tM17PM7Ns6Fgu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2O0Nf9Mi5tM17PM7Ns6Fgu)
 
 ### [Guest List: Orb](https://open.spotify.com/playlist/2O0Nf9Mi5tM17PM7Ns6Fgu)
 

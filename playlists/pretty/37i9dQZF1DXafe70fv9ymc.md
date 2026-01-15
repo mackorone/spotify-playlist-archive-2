@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain](/playlists/plain/37i9dQZF1DXafe70fv9ymc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafe70fv9ymc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain](/playlists/plain/37i9dQZF1DXafe70fv9ymc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXafe70fv9ymc)
 
 ### [sexy afro](https://open.spotify.com/playlist/37i9dQZF1DXafe70fv9ymc)
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,216 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,230 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

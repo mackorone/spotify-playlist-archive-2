@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3BsFgzQX0G.md) - [plain](/playlists/plain/37i9dQZF1DXd3BsFgzQX0G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd3BsFgzQX0G)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3BsFgzQX0G.md) - [plain](/playlists/plain/37i9dQZF1DXd3BsFgzQX0G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXd3BsFgzQX0G)
 
 ### [언더커버 하이스쿨 \(Undercover Highschool\)](https://open.spotify.com/playlist/37i9dQZF1DXd3BsFgzQX0G)
 

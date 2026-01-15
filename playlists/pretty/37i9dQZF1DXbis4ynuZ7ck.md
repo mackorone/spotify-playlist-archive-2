@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbis4ynuZ7ck.md) - [plain](/playlists/plain/37i9dQZF1DXbis4ynuZ7ck) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbis4ynuZ7ck)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbis4ynuZ7ck.md) - [plain](/playlists/plain/37i9dQZF1DXbis4ynuZ7ck) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbis4ynuZ7ck)
 
 ### [Two Good: Lata & Mukesh](https://open.spotify.com/playlist/37i9dQZF1DXbis4ynuZ7ck)
 

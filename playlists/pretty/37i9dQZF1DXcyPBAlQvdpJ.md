@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain](/playlists/plain/37i9dQZF1DXcyPBAlQvdpJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcyPBAlQvdpJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain](/playlists/plain/37i9dQZF1DXcyPBAlQvdpJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcyPBAlQvdpJ)
 
 ### [Mother Funk](https://open.spotify.com/playlist/37i9dQZF1DXcyPBAlQvdpJ)
 

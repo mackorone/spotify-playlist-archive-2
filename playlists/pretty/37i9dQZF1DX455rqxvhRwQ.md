@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX455rqxvhRwQ.md) - [plain](/playlists/plain/37i9dQZF1DX455rqxvhRwQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX455rqxvhRwQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX455rqxvhRwQ.md) - [plain](/playlists/plain/37i9dQZF1DX455rqxvhRwQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX455rqxvhRwQ)
 
 ### [JRE Talks with Academics](https://open.spotify.com/playlist/37i9dQZF1DX455rqxvhRwQ)
 
 > Learn something new as Joe talks with academics, experts, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,377 likes - 13 songs - 1 day 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,368 likes - 13 songs - 1 day 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

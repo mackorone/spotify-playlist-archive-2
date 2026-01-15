@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5x2iaJA7ZpI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5x2iaJA7ZpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5x2iaJA7ZpI)
+[pretty](/playlists/pretty/37i9dQZF1DX5x2iaJA7ZpI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5x2iaJA7ZpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5x2iaJA7ZpI)
 
 ### [The SWEAT tour setlist](https://open.spotify.com/playlist/37i9dQZF1DX5x2iaJA7ZpI)
 

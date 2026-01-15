@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7fxXD138pp0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7fxXD138pp0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7fxXD138pp0)
+[pretty](/playlists/pretty/37i9dQZF1DX7fxXD138pp0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7fxXD138pp0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7fxXD138pp0)
 
 ### [K\-Pop & Corridos x La Invasora ](https://open.spotify.com/playlist/37i9dQZF1DX7fxXD138pp0)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain](/playlists/plain/37i9dQZF1DX2n9ZnoiY98G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2n9ZnoiY98G)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain](/playlists/plain/37i9dQZF1DX2n9ZnoiY98G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2n9ZnoiY98G)
 
 ### [Apple Cider Vinegar Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX2n9ZnoiY98G)
 
 > A true\-ish story based on a lie\. Listen to the music behind Apple Cider Vinegar, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,262 likes - 29 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,317 likes - 29 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

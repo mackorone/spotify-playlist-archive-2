@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain](/playlists/plain/37i9dQZF1DX1aJqrYHYkGX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1aJqrYHYkGX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain](/playlists/plain/37i9dQZF1DX1aJqrYHYkGX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1aJqrYHYkGX)
 
 ### [A Tranquil World](https://open.spotify.com/playlist/37i9dQZF1DX1aJqrYHYkGX)
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,302 likes - 157 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,857 likes - 157 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

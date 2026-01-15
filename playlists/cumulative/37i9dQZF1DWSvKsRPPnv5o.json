@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: PayGotti",
+  "description": "Holdin' it down for the westside. Cover: Larry June",
   "name": "Westside",
   "tracks": [
     {
@@ -1663,6 +1663,40 @@
     },
     {
       "album": {
+        "name": "Here For A Good Time",
+        "url": "https://open.spotify.com/album/24J2OigzhC1ujhAuCIbzpw"
+      },
+      "artists": [
+        {
+          "name": "Shady Blu",
+          "url": "https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa"
+        },
+        {
+          "name": "Tspokes",
+          "url": "https://open.spotify.com/artist/4d3Ck7g9nVRq4CDNTdSyiD"
+        },
+        {
+          "name": "Daj Dolla",
+          "url": "https://open.spotify.com/artist/2lT7Pwjv8WjrnxIrgV05kB"
+        },
+        {
+          "name": "Wray",
+          "url": "https://open.spotify.com/artist/4CKlrHikeQvvYg0ap5sS3W"
+        },
+        {
+          "name": "ladyyy",
+          "url": "https://open.spotify.com/artist/23rr0W4r85dmQMyLOVxT6e"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "All Of My Bitches",
+      "url": "https://open.spotify.com/track/7vTR3J8GuUZWne9NUbvrUd"
+    },
+    {
+      "album": {
         "name": "All That",
         "url": "https://open.spotify.com/album/0LPNDHInvkvdxtnUL0XMn2"
       },
@@ -2672,6 +2706,28 @@
       "duration_ms": 144449,
       "name": "Bag Of Something, Pt. 2",
       "url": "https://open.spotify.com/track/3C4WiQC8OShZN1PhFojJxg"
+    },
+    {
+      "album": {
+        "name": "Bag Walk",
+        "url": "https://open.spotify.com/album/74KfS9DQxcBWePL7aYUnpC"
+      },
+      "artists": [
+        {
+          "name": "JEW3LZ",
+          "url": "https://open.spotify.com/artist/2TIxX1Qr1jiXwUeYImYNBq"
+        },
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166809,
+      "name": "Bag Walk",
+      "url": "https://open.spotify.com/track/7mYZDjq3rOgSSZqMDsqDQ6"
     },
     {
       "album": {
@@ -3808,7 +3864,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182254,
       "name": "Blood Tears",
       "url": "https://open.spotify.com/track/1I9aXgTYebsxJNweImB0LG"
@@ -6792,7 +6848,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 137765,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/7HxZMCwfy8K9qvwGFX5bcN"
@@ -7853,6 +7909,24 @@
     },
     {
       "album": {
+        "name": "Don't Play With My Heart",
+        "url": "https://open.spotify.com/album/5kqM6ufz5al24SwGb5sLax"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109013,
+      "name": "Don't Play With My Heart",
+      "url": "https://open.spotify.com/track/3fqBsUKvgkkkpqUhu1pTVE"
+    },
+    {
+      "album": {
         "name": "Don't Say",
         "url": "https://open.spotify.com/album/7DD3mYOaPTQZyeRxs4DLw5"
       },
@@ -8325,7 +8399,7 @@
     },
     {
       "album": {
-        "name": "EAST 2 DA NORF",
+        "name": "East 2 Da Norf",
         "url": "https://open.spotify.com/album/3aIji3gF3g1Q2nZAycarSd"
       },
       "artists": [
@@ -8346,7 +8420,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188289,
-      "name": "EAST 2 DA NORF",
+      "name": "East 2 Da Norf",
       "url": "https://open.spotify.com/track/2SV4QQlL9PDKRryX3cTZWz"
     },
     {
@@ -10972,6 +11046,24 @@
       "duration_ms": 234893,
       "name": "Gangsta Boogie",
       "url": "https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t"
+    },
+    {
+      "album": {
+        "name": "HARD RESET",
+        "url": "https://open.spotify.com/album/7MFsT3NOGr4vCSrnKOakzi"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156988,
+      "name": "Gangster Movie",
+      "url": "https://open.spotify.com/track/2ASbGhYEb4xZBAGfCT3HqE"
     },
     {
       "album": {
@@ -14458,7 +14550,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 124904,
       "name": "Ima Fool",
       "url": "https://open.spotify.com/track/3kvZn6LZsLVVOVRV0PgPLd"
@@ -14738,7 +14830,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139416,
       "name": "Intro",
       "url": "https://open.spotify.com/track/4arEh3ZrPb0XqHjNfcp101"
@@ -17678,6 +17770,24 @@
       "duration_ms": 162701,
       "name": "Master Delux",
       "url": "https://open.spotify.com/track/4OtvbiIUxzqh6rY1iIbuAq"
+    },
+    {
+      "album": {
+        "name": "Me & Bae",
+        "url": "https://open.spotify.com/album/4PMtm5gnLL9kHfqPxQWpN8"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156158,
+      "name": "Me & Bae",
+      "url": "https://open.spotify.com/track/1Xdxi8JhTHweQTA8zcvfdR"
     },
     {
       "album": {
@@ -22136,7 +22246,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 121762,
       "name": "Pity Parties_BLUE",
       "url": "https://open.spotify.com/track/1MTcIRslTS4D9obQS5ddYf"
@@ -23384,7 +23494,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195728,
       "name": "Resume",
       "url": "https://open.spotify.com/track/6W54GsPLaZyYef4NWEfYn0"
@@ -26442,7 +26552,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213000,
       "name": "Step For Me",
       "url": "https://open.spotify.com/track/5gfL2PRP2Z1kbCkwFCVsWO"
@@ -28454,7 +28564,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192272,
       "name": "The Smooth Kind",
       "url": "https://open.spotify.com/track/4ISmCP4vmCPTW02dgh5rYN"
@@ -29274,6 +29384,32 @@
       "duration_ms": 177658,
       "name": "Trenches ft. 03 Greedo & Kee Riche$",
       "url": "https://open.spotify.com/track/17cuUSXBh8bDXSWEx6Dj2Q"
+    },
+    {
+      "album": {
+        "name": "triple 3",
+        "url": "https://open.spotify.com/album/5SEfMO7yAOLBU0bvgfI6hq"
+      },
+      "artists": [
+        {
+          "name": "1ndonlyjj",
+          "url": "https://open.spotify.com/artist/4TTI5AnbTElrYUYJ3DAGl3"
+        },
+        {
+          "name": "d1beezy",
+          "url": "https://open.spotify.com/artist/3CzrWZs0kSfUfoHaehm5JA"
+        },
+        {
+          "name": "bceezy",
+          "url": "https://open.spotify.com/artist/3r1dC1d6LrZGZio53fqV8I"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134191,
+      "name": "triple 3",
+      "url": "https://open.spotify.com/track/29x0ypYSLziBQi9ha9nq1i"
     },
     {
       "album": {
@@ -30843,6 +30979,24 @@
     },
     {
       "album": {
+        "name": "Who Coppin'",
+        "url": "https://open.spotify.com/album/307LIDS6NyJ4gvU3U8hACU"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Who Coppin'",
+      "url": "https://open.spotify.com/track/4hcMQJ8MInQQjm7r1sFBuv"
+    },
+    {
+      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -30950,6 +31104,28 @@
       "duration_ms": 158139,
       "name": "Winning",
       "url": "https://open.spotify.com/track/7qJ0p9gRH2EU5KgRZZjMC2"
+    },
+    {
+      "album": {
+        "name": "With A Thot",
+        "url": "https://open.spotify.com/album/0GMekrEtFcfZsA4ppakmi8"
+      },
+      "artists": [
+        {
+          "name": "EBK Young Joc",
+          "url": "https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS"
+        },
+        {
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134328,
+      "name": "With A Thot",
+      "url": "https://open.spotify.com/track/1FvuvOg0AZ1et4jaAUf5JJ"
     },
     {
       "album": {

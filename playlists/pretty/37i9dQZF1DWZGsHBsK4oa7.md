@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain](/playlists/plain/37i9dQZF1DWZGsHBsK4oa7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZGsHBsK4oa7)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain](/playlists/plain/37i9dQZF1DWZGsHBsK4oa7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZGsHBsK4oa7)
 
 ### [Pretty Guardian Sailor Moon](https://open.spotify.com/playlist/37i9dQZF1DWZGsHBsK4oa7)
 
 > Music From "Pretty Guardian Sailor Moon"! ©武内直子・PNP／劇場版「美少女戦士セーラームーンCosmos」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,154 likes - 57 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,247 likes - 57 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

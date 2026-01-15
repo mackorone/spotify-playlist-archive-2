@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain](/playlists/plain/37i9dQZF1DX7UE7qrnkvsf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7UE7qrnkvsf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain](/playlists/plain/37i9dQZF1DX7UE7qrnkvsf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7UE7qrnkvsf)
 
 ### [Jazz for Autumn](https://open.spotify.com/playlist/37i9dQZF1DX7UE7qrnkvsf)
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,966 likes - 200 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,807 likes - 200 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

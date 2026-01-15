@@ -1,12 +1,12 @@
 {
   "description": "This is System Of A Down. The essential tracks, all in one playlist.",
-  "num_followers": 1050691,
+  "num_followers": 1052292,
   "original_name": "This Is System Of A Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAAAjUoUtQsEd7CTQNUiCem+X",
+  "snapshot_id": "aWWLAAAAAACfHWR/evvYfNdP4uFUh2EQ",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG"
+        "name": "System Of A Down (Bonus Pack)",
+        "url": "https://open.spotify.com/album/2u4DfcR6ga2xHaaXjkc8Vi"
       },
       "artists": [
         {
@@ -134,7 +134,7 @@
       ],
       "duration_ms": 153800,
       "name": "Sugar",
-      "url": "https://open.spotify.com/track/1Ym3JWJG8HFJU2NbXavZ6a"
+      "url": "https://open.spotify.com/track/7jDhsoXLKVsKi3fk3s4M4Z"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw"
+      "duration_ms": 153773,
+      "name": "Innervision",
+      "url": "https://open.spotify.com/track/0Xmbtw7NhNiDnL4BWy5wDh"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steal This Album!",
-        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 153773,
-      "name": "Innervision",
-      "url": "https://open.spotify.com/track/0Xmbtw7NhNiDnL4BWy5wDh"
+      "duration_ms": 215066,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/3njyXewwWLp3B0p6rSMeyw"
     },
     {
       "added_at": null,

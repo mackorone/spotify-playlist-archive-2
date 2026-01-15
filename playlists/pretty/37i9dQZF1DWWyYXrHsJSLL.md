@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyYXrHsJSLL.md) - [plain](/playlists/plain/37i9dQZF1DWWyYXrHsJSLL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWyYXrHsJSLL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyYXrHsJSLL.md) - [plain](/playlists/plain/37i9dQZF1DWWyYXrHsJSLL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWyYXrHsJSLL)
 
 ### [Tune In with Brandon Edelman](https://open.spotify.com/playlist/37i9dQZF1DWWyYXrHsJSLL)
 

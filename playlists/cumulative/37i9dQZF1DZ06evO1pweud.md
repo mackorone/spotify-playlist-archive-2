@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1pweud.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1pweud) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1pweud)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1pweud.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1pweud) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1pweud)
 
 ### [This Is The Marías](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1pweud)
 

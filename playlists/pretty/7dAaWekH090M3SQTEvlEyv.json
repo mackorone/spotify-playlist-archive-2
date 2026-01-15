@@ -1,13 +1,85 @@
 {
   "description": "\u30cb\u30b3\u30cb\u30b3\u52d5\u753b\u4e0a\u306b\u304a\u3051\u308bVOCALOID\u66f2\u306e\u4eba\u6c17\u3092\u6e2c\u308b\u30c1\u30e3\u30fc\u30c8\u3002\u52d5\u753b\u518d\u751f\u6570\u3084\u3001\u4f5c\u6210\u6570\u3001\u30b3\u30e1\u30f3\u30c8\u6570\u3001\u3044\u3044\u306d\u6570\u306a\u3069\u306e\u30c7\u30fc\u30bf\u306b\u30d3\u30eb\u30dc\u30fc\u30c9\u304c\u72ec\u81ea\u958b\u767a\u3057\u305f\u4fc2\u6570\u3092\u4e57\u3058\u3066\u4e0a\u4f4d20\u4f4d\u307e\u3067\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3092\u751f\u6210\u3057\u3066\u3044\u307e\u3059\u3002Supported by \u30cb\u30b3\u30cb\u30b3",
-  "num_followers": 17,
+  "num_followers": 18,
   "original_name": "\u30cb\u30b3\u30cb\u30b3 VOCALOID SONGS TOP20",
   "owner": {
     "name": "U&R records",
     "url": "https://open.spotify.com/user/31e6dqbfoohkwlm47nh6e763jbnm"
   },
-  "snapshot_id": "AAACe9sw07109eaFoUs9JM0kXY13G3dv",
+  "snapshot_id": "AAACx1ephJ+YLb1qrUa0zj+VqeHojcWq",
   "tracks": [
+    {
+      "added_at": "2026-01-07 07:42:33",
+      "album": {
+        "name": "\u30c8\u30ea\u30c3\u30af\u30cf\u30fc\u30c8 (feat. \u91cd\u97f3\u30c6\u30c8)",
+        "url": "https://open.spotify.com/album/12NxuOI6ozeXa5PYhpSVJh"
+      },
+      "artists": [
+        {
+          "name": "MIMI",
+          "url": "https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "\u30c8\u30ea\u30c3\u30af\u30cf\u30fc\u30c8 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/6GCa6EDgz6InGi3EcHIH70"
+    },
+    {
+      "added_at": "2026-01-07 07:41:51",
+      "album": {
+        "name": "\u30d5\u30a1\u30b7\u30cd\u30a4\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/5AE7hv1Q9nv7Xeqb6wJN6a"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 198815,
+      "name": "\u30d5\u30a1\u30b7\u30cd\u30a4\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2iG8onYxllEzC7sBg2ruF4"
+    },
+    {
+      "added_at": "2026-01-14 04:12:44",
+      "album": {
+        "name": "\u306b\u3085\u30fc\uff01\u652f\u914d\u8005\u306e\u30ad\u30e3\u30ed\u30eb",
+        "url": "https://open.spotify.com/album/2H1Xkr16uqQxupBXnTDS68"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u539f\u30cf\u30ac\u30cd",
+          "url": "https://open.spotify.com/artist/0gM20ZoAYxtUaRC88N9AWr"
+        }
+      ],
+      "duration_ms": 167647,
+      "name": "\u306b\u3085\u30fc\uff01\u652f\u914d\u8005\u306e\u30ad\u30e3\u30ed\u30eb",
+      "url": "https://open.spotify.com/track/5wl8RPWqqkRONFfCrywNv5"
+    },
+    {
+      "added_at": "2026-01-14 04:13:18",
+      "album": {
+        "name": "\u30e9\u30b0\u30c8\u30ec\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/3SWMaAQxDt2hMCTBKQ4Ix2"
+      },
+      "artists": [
+        {
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "\u30e9\u30b0\u30c8\u30ec\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/3Kt6UReyCtmrYvbsHb3STj"
+    },
     {
       "added_at": "2025-10-01 07:01:06",
       "album": {
@@ -31,6 +103,146 @@
       "duration_ms": 156972,
       "name": "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ"
+    },
+    {
+      "added_at": "2026-01-07 07:43:47",
+      "album": {
+        "name": "\u30d0\u30a5\u30e0\u30af\u30a5\u30d8\u30f3\u30fb\u30a8\u30f3\u30c9\u30ed\u30a5\u30eb",
+        "url": "https://open.spotify.com/album/2a0rMNNzGFccHjjxI92pY3"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u826f",
+          "url": "https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "\u30d0\u30a5\u30e0\u30af\u30a5\u30d8\u30f3\u30fb\u30a8\u30f3\u30c9\u30ed\u30a5\u30eb",
+      "url": "https://open.spotify.com/track/1lxynUwEgOxUTUm18PitpF"
+    },
+    {
+      "added_at": "2026-01-14 04:14:28",
+      "album": {
+        "name": "\u71b1\u7570\u5e38 (feat. \u8db3\u7acb\u30ec\u30a4)",
+        "url": "https://open.spotify.com/album/7AAKGn0ffMdRy0GCeFijg6"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u3088\u308f",
+          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
+        },
+        {
+          "name": "\u8db3\u7acb\u30ec\u30a4",
+          "url": "https://open.spotify.com/artist/09LPuYjoLMEJWne9bpvIBG"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "\u71b1\u7570\u5e38 (feat. \u8db3\u7acb\u30ec\u30a4)",
+      "url": "https://open.spotify.com/track/7zlsqQxGfiWIkctQDeTvmv"
+    },
+    {
+      "added_at": "2025-12-03 05:44:07",
+      "album": {
+        "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
+        "url": "https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe"
+      },
+      "artists": [
+        {
+          "name": "NAKISO",
+          "url": "https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj"
+        }
+      ],
+      "duration_ms": 122482,
+      "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
+      "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
+    },
+    {
+      "added_at": "2025-12-03 05:44:25",
+      "album": {
+        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3"
+    },
+    {
+      "added_at": "2026-01-14 04:15:07",
+      "album": {
+        "name": "\u30eb\u30fc\u30d7\u30b6\u30eb\u30fc\u30e0 / \u30e9\u30f3\u30d9\u30f3\u30c8\u30a2\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/2hslbovaWV2N1qxZJbZFiz"
+      },
+      "artists": [
+        {
+          "name": "\u30eb\u30b7\u30ce",
+          "url": "https://open.spotify.com/artist/5gwVYKw4Bhbk1rGz37O3fy"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 134071,
+      "name": "\u30eb\u30fc\u30d7\u30b6\u30eb\u30fc\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6lcqXYjDSGxx69DurXx0rF"
+    },
+    {
+      "added_at": "2025-12-10 06:25:56",
+      "album": {
+        "name": "\u30c6\u30c8\u30ea\u30b9",
+        "url": "https://open.spotify.com/album/2oyxublk7MjXShFbm7ca0S"
+      },
+      "artists": [
+        {
+          "name": "\u67ca\u30de\u30b0\u30cd\u30bf\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx"
+        }
+      ],
+      "duration_ms": 142588,
+      "name": "\u30c6\u30c8\u30ea\u30b9",
+      "url": "https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv"
+    },
+    {
+      "added_at": "2026-01-14 04:15:33",
+      "album": {
+        "name": "\u30de\u30b8\u30c3\u30af\u30fb\u30e1\u30a4\u30c9 (feat. \u91cd\u97f3\u30c6\u30c8)",
+        "url": "https://open.spotify.com/album/6KN0arx25WdBuKs3soMElU"
+      },
+      "artists": [
+        {
+          "name": "MIMI",
+          "url": "https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u30de\u30b8\u30c3\u30af\u30fb\u30e1\u30a4\u30c9 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/0yzpKvNazBlg1Mq7a55nF4"
+    },
+    {
+      "added_at": "2026-01-14 04:15:47",
+      "album": {
+        "name": "\u5343\u672c\u685c",
+        "url": "https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh"
+      },
+      "artists": [
+        {
+          "name": "KuroUsa(WhiteFlame)",
+          "url": "https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF"
+        }
+      ],
+      "duration_ms": 252467,
+      "name": "\u5343\u672c\u685c",
+      "url": "https://open.spotify.com/track/38mUTswfszVFQ952r89AP8"
     },
     {
       "added_at": "2025-12-03 05:45:01",
@@ -57,142 +269,6 @@
       "url": "https://open.spotify.com/track/6J3pPfXLujwsWQpvR6XMgC"
     },
     {
-      "added_at": "2025-12-03 05:42:35",
-      "album": {
-        "name": "\u6563\u6b69\u306e\u90aa\u9b54",
-        "url": "https://open.spotify.com/album/3PRgwCMZpDUBEetbvQsbs8"
-      },
-      "artists": [
-        {
-          "name": "\u3044\u3088\u308f",
-          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
-        }
-      ],
-      "duration_ms": 181304,
-      "name": "\u6563\u6b69\u306e\u90aa\u9b54",
-      "url": "https://open.spotify.com/track/03LKxyUbFKaVSfxCbDI0Qf"
-    },
-    {
-      "added_at": "2025-12-24 05:34:37",
-      "album": {
-        "name": "\u5e55\u3092\u4e0b\u308d\u305d\u3046\u3001\u30d1\u30ec\u30fc\u30c9\u3078",
-        "url": "https://open.spotify.com/album/3cCoLKVY243Cj78OnKEtAn"
-      },
-      "artists": [
-        {
-          "name": "\u6d77\u8336",
-          "url": "https://open.spotify.com/artist/3paQO2O4bRCyWrnPKxY118"
-        },
-        {
-          "name": "\u7434\u8449 \u831c\u30fb\u8475",
-          "url": "https://open.spotify.com/artist/41awN5lnLFVoEQqsqGUJy5"
-        }
-      ],
-      "duration_ms": 215477,
-      "name": "\u5e55\u3092\u4e0b\u308d\u305d\u3046\u3001\u30d1\u30ec\u30fc\u30c9\u3078 (feat. \u7434\u8449 \u831c\u30fb\u8475)",
-      "url": "https://open.spotify.com/track/1Z3V8Xdq9MTuI4hrqmwy6B"
-    },
-    {
-      "added_at": "2025-12-24 05:35:04",
-      "album": {
-        "name": "\u30eb\u30fc\u30d7\u30b6\u30eb\u30fc\u30e0 / \u30e9\u30f3\u30d9\u30f3\u30c8\u30a2\u30ea\u30a2",
-        "url": "https://open.spotify.com/album/2hslbovaWV2N1qxZJbZFiz"
-      },
-      "artists": [
-        {
-          "name": "\u30eb\u30b7\u30ce",
-          "url": "https://open.spotify.com/artist/5gwVYKw4Bhbk1rGz37O3fy"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 134071,
-      "name": "\u30eb\u30fc\u30d7\u30b6\u30eb\u30fc\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6lcqXYjDSGxx69DurXx0rF"
-    },
-    {
-      "added_at": "2025-12-03 05:44:25",
-      "album": {
-        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3"
-    },
-    {
-      "added_at": "2025-12-10 06:24:55",
-      "album": {
-        "name": "\u30de\u30ae\u30a2\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/7oAYeiqY3PLaFi9QPDJOut"
-      },
-      "artists": [
-        {
-          "name": "\u716e\u30eb\u679c\u5b9f",
-          "url": "https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "\u30de\u30ae\u30a2\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/7lVXB7n2YTx3kxh5kepV3i"
-    },
-    {
-      "added_at": "2025-12-10 06:28:29",
-      "album": {
-        "name": "\u306d\u3080\u308b\u30d4\u30f3\u30af\u30ce\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/1NNcuKA3cpkH88r8trOCBy"
-      },
-      "artists": [
-        {
-          "name": "\u3044\u3088\u308f",
-          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
-        }
-      ],
-      "duration_ms": 253231,
-      "name": "IMAWANOKIWA",
-      "url": "https://open.spotify.com/track/1gStV6Xw1MRITx0y7rQTkr"
-    },
-    {
-      "added_at": "2025-12-03 05:44:07",
-      "album": {
-        "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
-        "url": "https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe"
-      },
-      "artists": [
-        {
-          "name": "NAKISO",
-          "url": "https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj"
-        }
-      ],
-      "duration_ms": 122482,
-      "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
-      "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
-    },
-    {
-      "added_at": "2025-12-17 05:36:05",
-      "album": {
-        "name": "\u30a2\u30f4\u30a1\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/6tjcL58JcghZh1NSS2jhm1"
-      },
-      "artists": [
-        {
-          "name": "32ki",
-          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "\u30a2\u30f4\u30a1\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/2DzCfvlMnSkXDN673Mrmt3"
-    },
-    {
       "added_at": "2025-12-24 05:35:48",
       "album": {
         "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
@@ -209,132 +285,20 @@
       "url": "https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg"
     },
     {
-      "added_at": "2025-12-10 06:29:59",
+      "added_at": "2026-01-14 04:16:19",
       "album": {
-        "name": "KAF+YOU KAFU COMPILATION ALBUM \u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR"
+        "name": "\u30ea\u30fc\u30d1\u30fc",
+        "url": "https://open.spotify.com/album/1BeFIC5B5d1htOp3aKqO7o"
       },
       "artists": [
         {
-          "name": "\u53ef\u4e0d",
-          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
-        },
-        {
-          "name": "\u30c4\u30df\u30ad",
-          "url": "https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh"
+          "name": "\u8aad\u8c37\u3042\u304b\u306d",
+          "url": "https://open.spotify.com/artist/6hmC01ibmH7YxREDOvLaqE"
         }
       ],
-      "duration_ms": 189884,
-      "name": "\u30d5\u30a9\u30cb\u30a4",
-      "url": "https://open.spotify.com/track/2UUwBDALzJuThY88Ro2lD2"
-    },
-    {
-      "added_at": "2025-12-10 06:25:56",
-      "album": {
-        "name": "\u30c6\u30c8\u30ea\u30b9",
-        "url": "https://open.spotify.com/album/2oyxublk7MjXShFbm7ca0S"
-      },
-      "artists": [
-        {
-          "name": "\u67ca\u30de\u30b0\u30cd\u30bf\u30a4\u30c8",
-          "url": "https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx"
-        }
-      ],
-      "duration_ms": 142588,
-      "name": "\u30c6\u30c8\u30ea\u30b9",
-      "url": "https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv"
-    },
-    {
-      "added_at": "2025-12-24 05:36:19",
-      "album": {
-        "name": "\u30a6\u30bd\u306e\u3064\u304d\u304b\u305f",
-        "url": "https://open.spotify.com/album/74quUVvVDRTxRAOQVrDtZl"
-      },
-      "artists": [
-        {
-          "name": "\u7a32\u3080\u308a",
-          "url": "https://open.spotify.com/artist/1mggtA8Vqg2mlE2bNmNkp2"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 225327,
-      "name": "\u5185\u7dd2\u306e\u30b5\u30f3\u30bf\u3055\u3093 (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/13hcsXqcf3Xclsj11z3lQW"
-    },
-    {
-      "added_at": "2025-12-10 06:29:45",
-      "album": {
-        "name": "\u76ee\u6483\uff01\u30c6\u30c831\u4e16 (feat. \u91cd\u97f3\u30c6\u30c8 & \u96e8\u8863)",
-        "url": "https://open.spotify.com/album/1ucimndIy6wDPsS3r2IZKY"
-      },
-      "artists": [
-        {
-          "name": "\u306f\u308d\u3051\u308b",
-          "url": "https://open.spotify.com/artist/0ylNiGoYUvxyWdDXthEDhF"
-        },
-        {
-          "name": "Teto Kasane",
-          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
-        },
-        {
-          "name": "\u96e8\u8863",
-          "url": "https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK"
-        }
-      ],
-      "duration_ms": 141871,
-      "name": "\u76ee\u6483\uff01\u30c6\u30c831\u4e16 (feat. \u91cd\u97f3\u30c6\u30c8 & \u96e8\u8863)",
-      "url": "https://open.spotify.com/track/7996vwXg0kRNxpIfa4zNEm"
-    },
-    {
-      "added_at": "2025-12-17 05:36:52",
-      "album": {
-        "name": "\u5343\u672c\u685c",
-        "url": "https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh"
-      },
-      "artists": [
-        {
-          "name": "KuroUsa(WhiteFlame)",
-          "url": "https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF"
-        }
-      ],
-      "duration_ms": 252467,
-      "name": "\u5343\u672c\u685c",
-      "url": "https://open.spotify.com/track/38mUTswfszVFQ952r89AP8"
-    },
-    {
-      "added_at": "2025-12-24 05:36:42",
-      "album": {
-        "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn"
-      },
-      "artists": [
-        {
-          "name": "Yoshida Yasei",
-          "url": "https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp"
-    },
-    {
-      "added_at": "2025-12-17 05:37:15",
-      "album": {
-        "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
-        "url": "https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9"
-      },
-      "artists": [
-        {
-          "name": "\u3044\u3088\u308f",
-          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
-      "url": "https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU"
+      "duration_ms": 226533,
+      "name": "\u30ea\u30fc\u30d1\u30fc",
+      "url": "https://open.spotify.com/track/0LoCnwczDj5IZiObRX8vXl"
     }
   ],
   "unique_name": "\u30cb\u30b3\u30cb\u30b3 VOCALOID SONGS TOP20",

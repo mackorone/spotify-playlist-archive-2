@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1DprPpyq8t7PpB6uLgBwSY.md) - cumulative - [plain](/playlists/plain/1DprPpyq8t7PpB6uLgBwSY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1DprPpyq8t7PpB6uLgBwSY)
+[pretty](/playlists/pretty/1DprPpyq8t7PpB6uLgBwSY.md) - cumulative - [plain](/playlists/plain/1DprPpyq8t7PpB6uLgBwSY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1DprPpyq8t7PpB6uLgBwSY)
 
 ### [Power Trip](https://open.spotify.com/playlist/1DprPpyq8t7PpB6uLgBwSY)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4UZCW3u80le.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4UZCW3u80le) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4UZCW3u80le)
+[pretty](/playlists/pretty/37i9dQZF1DX4UZCW3u80le.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4UZCW3u80le) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4UZCW3u80le)
 
 ### [2000s Pop](https://open.spotify.com/playlist/37i9dQZF1DX4UZCW3u80le)
 

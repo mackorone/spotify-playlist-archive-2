@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain](/playlists/plain/37i9dQZF1DX5KARSfd7WcM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5KARSfd7WcM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain](/playlists/plain/37i9dQZF1DX5KARSfd7WcM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5KARSfd7WcM)
 
 ### [Heartstopper Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM)
 
 > Fall hard, love harder\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,631 likes - 146 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,150 likes - 146 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

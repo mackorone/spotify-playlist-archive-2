@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain](/playlists/plain/37i9dQZF1DWWF3yivn1m3D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWF3yivn1m3D)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain](/playlists/plain/37i9dQZF1DWWF3yivn1m3D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWF3yivn1m3D)
 
 ### [This Is Hans Zimmer](https://open.spotify.com/playlist/37i9dQZF1DWWF3yivn1m3D)
 
 > The best of the legendary composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,479 likes - 85 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,054 likes - 85 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

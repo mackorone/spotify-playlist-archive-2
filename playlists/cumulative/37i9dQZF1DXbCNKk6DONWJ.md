@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbCNKk6DONWJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbCNKk6DONWJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbCNKk6DONWJ)
+[pretty](/playlists/pretty/37i9dQZF1DXbCNKk6DONWJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbCNKk6DONWJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbCNKk6DONWJ)
 
 ### [The Archies Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbCNKk6DONWJ)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZrhFFq3bnGV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZrhFFq3bnGV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZrhFFq3bnGV)
+[pretty](/playlists/pretty/37i9dQZF1DWZrhFFq3bnGV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZrhFFq3bnGV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZrhFFq3bnGV)
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 

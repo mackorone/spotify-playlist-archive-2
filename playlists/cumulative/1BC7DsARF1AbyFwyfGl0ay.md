@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1BC7DsARF1AbyFwyfGl0ay.md) - cumulative - [plain](/playlists/plain/1BC7DsARF1AbyFwyfGl0ay) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1BC7DsARF1AbyFwyfGl0ay)
+[pretty](/playlists/pretty/1BC7DsARF1AbyFwyfGl0ay.md) - cumulative - [plain](/playlists/plain/1BC7DsARF1AbyFwyfGl0ay) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1BC7DsARF1AbyFwyfGl0ay)
 
 ### [studying like oppenheimer ](https://open.spotify.com/playlist/1BC7DsARF1AbyFwyfGl0ay)
 

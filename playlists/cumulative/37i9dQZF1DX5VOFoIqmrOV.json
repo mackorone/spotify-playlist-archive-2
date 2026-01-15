@@ -1980,11 +1980,15 @@
         {
           "name": "Sid Sriram",
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Raghu Ram",
+          "url": "https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj"
         }
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 254999,
       "name": "Hey Idi Nenena",
       "url": "https://open.spotify.com/track/10nKbCaaU2OFTywWNvqHkX"
@@ -3544,7 +3548,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 222135,
       "name": "Nachavule Nachavule",
       "url": "https://open.spotify.com/track/262JdRWNmvNX8maNyOz0c7"
@@ -4034,13 +4038,13 @@
           "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
         },
         {
-          "name": "Ananta Sriram",
-          "url": "https://open.spotify.com/artist/0yzw4DhGyaUCd87BFCPjel"
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
         }
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 297391,
       "name": "Oo Aadapilla",
       "url": "https://open.spotify.com/track/6KJyZlCGIeGoyj6QKxUUBC"
@@ -4066,7 +4070,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223325,
       "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
@@ -4309,6 +4313,32 @@
     },
     {
       "album": {
+        "name": "Waltair Veerayya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6KKqrNC6yWb405hpsrcxMa"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Roll Rida",
+          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
+        },
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198197,
+      "name": "Poonakaalu Loading",
+      "url": "https://open.spotify.com/track/48bsZQGBWex5u1qNOrSMMU"
+    },
+    {
+      "album": {
         "name": "Janatha Garage",
         "url": "https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8"
       },
@@ -4432,7 +4462,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201130,
       "name": "Priya Mithunam (Telugu)",
       "url": "https://open.spotify.com/track/4wFU6Q4vInTg2HQ2mkko8x"
@@ -4934,10 +4964,32 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 250680,
       "name": "Seeti Maar",
       "url": "https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS"
+    },
+    {
+      "album": {
+        "name": "Dude (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4O6oeHbnla1SUNHYpMfrsk"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Singari",
+      "url": "https://open.spotify.com/track/2N96K0NT6IZ1f1OKrNoJZY"
     },
     {
       "album": {

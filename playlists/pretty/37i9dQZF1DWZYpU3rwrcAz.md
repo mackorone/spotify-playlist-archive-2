@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain](/playlists/plain/37i9dQZF1DWZYpU3rwrcAz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZYpU3rwrcAz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain](/playlists/plain/37i9dQZF1DWZYpU3rwrcAz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZYpU3rwrcAz)
 
 ### [Relaxing Chopin](https://open.spotify.com/playlist/37i9dQZF1DWZYpU3rwrcAz)
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,284 likes - 41 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,607 likes - 41 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

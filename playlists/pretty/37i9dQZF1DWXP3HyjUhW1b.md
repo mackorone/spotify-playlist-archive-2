@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain](/playlists/plain/37i9dQZF1DWXP3HyjUhW1b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXP3HyjUhW1b)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain](/playlists/plain/37i9dQZF1DWXP3HyjUhW1b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXP3HyjUhW1b)
 
 ### [Cancionero Mexicano](https://open.spotify.com/playlist/37i9dQZF1DWXP3HyjUhW1b)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7qoxrjdVUs.md) - [plain](/playlists/plain/37i9dQZF1DWZ7qoxrjdVUs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ7qoxrjdVUs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7qoxrjdVUs.md) - [plain](/playlists/plain/37i9dQZF1DWZ7qoxrjdVUs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ7qoxrjdVUs)
 
 ### [Beste van NL 2025](https://open.spotify.com/playlist/37i9dQZF1DWZ7qoxrjdVUs)
 
 > Spotify redacteuren kiezen de beste Nederlandse liedjes van 2025\. Cover: Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,905 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,977 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/74P6rQFO0JGrnlw6tqqtsX.md) - [plain](/playlists/plain/74P6rQFO0JGrnlw6tqqtsX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/74P6rQFO0JGrnlw6tqqtsX)
+pretty - [cumulative](/playlists/cumulative/74P6rQFO0JGrnlw6tqqtsX.md) - [plain](/playlists/plain/74P6rQFO0JGrnlw6tqqtsX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/74P6rQFO0JGrnlw6tqqtsX)
 
 ### [You – Jesse Powell](https://open.spotify.com/playlist/74P6rQFO0JGrnlw6tqqtsX)
 

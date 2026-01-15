@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHuf9Jbw0pv.md) - [plain](/playlists/plain/37i9dQZF1DXcHuf9Jbw0pv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcHuf9Jbw0pv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHuf9Jbw0pv.md) - [plain](/playlists/plain/37i9dQZF1DXcHuf9Jbw0pv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcHuf9Jbw0pv)
 
 ### [Parterre Paradise](https://open.spotify.com/playlist/37i9dQZF1DXcHuf9Jbw0pv)
 

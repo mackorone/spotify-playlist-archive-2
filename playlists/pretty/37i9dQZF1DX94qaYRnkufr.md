@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain](/playlists/plain/37i9dQZF1DX94qaYRnkufr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX94qaYRnkufr)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain](/playlists/plain/37i9dQZF1DX94qaYRnkufr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX94qaYRnkufr)
 
 ### [This Is Martin Garrix](https://open.spotify.com/playlist/37i9dQZF1DX94qaYRnkufr)
 

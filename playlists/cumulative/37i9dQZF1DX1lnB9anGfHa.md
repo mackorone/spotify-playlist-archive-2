@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1lnB9anGfHa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1lnB9anGfHa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1lnB9anGfHa)
+[pretty](/playlists/pretty/37i9dQZF1DX1lnB9anGfHa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1lnB9anGfHa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1lnB9anGfHa)
 
 ### [Terra Incognita](https://open.spotify.com/playlist/37i9dQZF1DX1lnB9anGfHa)
 

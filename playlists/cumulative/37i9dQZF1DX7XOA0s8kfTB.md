@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7XOA0s8kfTB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7XOA0s8kfTB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7XOA0s8kfTB)
+[pretty](/playlists/pretty/37i9dQZF1DX7XOA0s8kfTB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7XOA0s8kfTB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7XOA0s8kfTB)
 
 ### [Girls Band Cry](https://open.spotify.com/playlist/37i9dQZF1DX7XOA0s8kfTB)
 

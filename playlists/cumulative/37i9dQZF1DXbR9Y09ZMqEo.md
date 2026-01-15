@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbR9Y09ZMqEo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbR9Y09ZMqEo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbR9Y09ZMqEo)
+[pretty](/playlists/pretty/37i9dQZF1DXbR9Y09ZMqEo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbR9Y09ZMqEo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbR9Y09ZMqEo)
 
 ### [You Are So Not Invited to My Bat Mitzvah Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbR9Y09ZMqEo)
 

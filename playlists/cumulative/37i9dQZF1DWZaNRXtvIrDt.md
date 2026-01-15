@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZaNRXtvIrDt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZaNRXtvIrDt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZaNRXtvIrDt)
+[pretty](/playlists/pretty/37i9dQZF1DWZaNRXtvIrDt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZaNRXtvIrDt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZaNRXtvIrDt)
 
 ### [Portal](https://open.spotify.com/playlist/37i9dQZF1DWZaNRXtvIrDt)
 
 > A new world of alternative electronic music.
 
-1,087 songs - 3 day 5 hr 34 min
+1,088 songs - 3 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Foxes](https://open.spotify.com/track/3WLckRK4Skgl9kl7DYTxxU) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/3LOU5heFdUYrNutyEcHCoB) | 4:15 | 2023-11-30 | 2024-03-01 |
 | [Foxes](https://open.spotify.com/track/5rGtpIBaTXQKcFVDlrAerI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:15 | 2023-10-12 | 2024-01-26 |
 | [Fractal \- Original Mix](https://open.spotify.com/track/3ptiRqQCBmuc9CCoaTJh2S) | [Carista](https://open.spotify.com/artist/7HbRQEEsvAKurr1v8YjwzZ), [Lucas Tromer](https://open.spotify.com/artist/3XQQedtB5QU0SHvmclV8Oi) | [Fractal](https://open.spotify.com/album/62mhBbhZzQgkgx1eKq4bUd) | 5:16 | 2025-04-10 | 2025-06-06 |
+| [Frankie Knuckles](https://open.spotify.com/track/7Fkoz65bhhz0Nd11O3FHf7) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Frankie Knuckles](https://open.spotify.com/album/16LjPG5rGfRhrHuAYRRy09) | 3:32 | 2025-10-16 |  |
 | [Frauds \(DJ Plead Remix\)](https://open.spotify.com/track/5YgBTwMX7M1w6DZ7Ak4JOD) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg) | [Frauds \(Reworked\)](https://open.spotify.com/album/6QnPjjXrL8PBfwJHxtqSdm) | 3:28 | 2023-09-21 | 2023-11-10 |
 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 | 2023-03-16 | 2023-05-26 |
 | [Freaker](https://open.spotify.com/track/2LjcX9WmQTYWw7UYA7xbbw) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Freaker](https://open.spotify.com/album/3TcAQVAFJxk7Bb1JDIPEvO) | 4:39 | 2025-05-08 | 2025-10-13 |
@@ -969,7 +970,7 @@
 | [The Smoke](https://open.spotify.com/track/38XW0c5WhRj5a7dXMW6Pwk) | [EFESIAN](https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC) | [The Smoke](https://open.spotify.com/album/6QgmHsxolsHkbX0VQTwq5V) | 3:48 | 2023-10-05 | 2024-03-01 |
 | [The Take Away \- Jennifer Loveless Remix](https://open.spotify.com/track/3cLRlKjVCBr61lDdIoHPOS) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm), [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [The Take Away \(Jennifer Loveless Remix\)](https://open.spotify.com/album/5xViWLZvsAprRFT0ugo7WF) | 3:49 | 2022-12-08 | 2023-01-27 |
 | [The Vibe](https://open.spotify.com/track/0jqDQQ1fDmeB26Rr4I7vVf) | [DON'T THINK](https://open.spotify.com/artist/0JkeEwbkFQLU4C5voqbjFG) | [The Vibe](https://open.spotify.com/album/60nasWQVRbxlPcKQf1HZg1) | 3:02 | 2025-07-03 | 2025-10-13 |
-| [The Way I'm Feeling](https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [The Way I'm Feeling](https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT) | 4:17 | 2025-10-13 |  |
+| [The Way I'm Feeling](https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [The Way I'm Feeling](https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT) | 4:17 | 2025-10-13 | 2026-01-15 |
 | [THE WAY U](https://open.spotify.com/track/6Jr9hL05AlwXMmA7TADiHJ) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [THE WAY U](https://open.spotify.com/album/2IaG85yNLIgsj4PnRWfwwj) | 3:00 | 2023-09-28 | 2023-12-01 |
 | [there 4 u \- Radio Edit](https://open.spotify.com/track/7jGpjarEEOvmg0vECOxR6f) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [there 4 u](https://open.spotify.com/album/3icaAuFPNtCLDdAohACTV4) | 3:04 | 2025-07-24 | 2025-10-13 |
 | [Thin End of The Wedge](https://open.spotify.com/track/7bb3KaPURzWhAlxtVjyeOD) | [ELEANOR](https://open.spotify.com/artist/5mpHj6oERAP5gq8Nqwb4Tx) | [Thin End of The Wedge](https://open.spotify.com/album/1TKHWepuyDN4OlTA2OYaCX) | 4:01 | 2023-03-23 | 2023-04-28 |

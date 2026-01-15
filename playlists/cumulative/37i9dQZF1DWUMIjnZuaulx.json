@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 287709,
       "name": "ABLE",
       "url": "https://open.spotify.com/track/4n87FlxzdkEHb7ywcubA9g"
@@ -3966,7 +3966,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 264129,
       "name": "God Will Prevail",
       "url": "https://open.spotify.com/track/4hjTx4hNMRzTutCoXg9LnB"
@@ -8935,6 +8935,32 @@
     },
     {
       "album": {
+        "name": "HEART OF MINE (DELUXE)",
+        "url": "https://open.spotify.com/album/4qapKMn9FqBtBVCnRo4tV6"
+      },
+      "artists": [
+        {
+          "name": "Darrel Walls",
+          "url": "https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "MOVE - REMIX",
+      "url": "https://open.spotify.com/track/2nLwetZgv8pINkJzcdWWAV"
+    },
+    {
+      "album": {
         "name": "Mr. McClure",
         "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
       },
@@ -11346,7 +11372,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 420025,
       "name": "Shekinah",
       "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
@@ -14369,6 +14395,32 @@
     },
     {
       "album": {
+        "name": "When Will We Overcome?",
+        "url": "https://open.spotify.com/album/7IEgpmaYrmdhYabdctmOCA"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Kierre Bjorn",
+          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
+        },
+        {
+          "name": "The Aeolians",
+          "url": "https://open.spotify.com/artist/4kwid0FRiHxsFAeYPvEF7y"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262522,
+      "name": "When Will We Overcome?",
+      "url": "https://open.spotify.com/track/1GCe21Wv46xuhJvSt1Z9iU"
+    },
+    {
+      "album": {
         "name": "When You Say A Thing",
         "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
       },
@@ -14460,6 +14512,24 @@
       "duration_ms": 350000,
       "name": "With My Hands",
       "url": "https://open.spotify.com/track/5Lqz5GyhOwfwbSQLX7KJGp"
+    },
+    {
+      "album": {
+        "name": "With My Name",
+        "url": "https://open.spotify.com/album/5TjR8fM9WlOCcikQzHQXCB"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221743,
+      "name": "With My Name",
+      "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
       "album": {

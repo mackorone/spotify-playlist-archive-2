@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5I05jXm1F2M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5I05jXm1F2M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5I05jXm1F2M)
+[pretty](/playlists/pretty/37i9dQZF1DX5I05jXm1F2M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5I05jXm1F2M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5I05jXm1F2M)
 
 ### [Karaoke Hits ](https://open.spotify.com/playlist/37i9dQZF1DX5I05jXm1F2M)
 

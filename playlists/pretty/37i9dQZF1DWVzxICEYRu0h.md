@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzxICEYRu0h.md) - [plain](/playlists/plain/37i9dQZF1DWVzxICEYRu0h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVzxICEYRu0h)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzxICEYRu0h.md) - [plain](/playlists/plain/37i9dQZF1DWVzxICEYRu0h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVzxICEYRu0h)
 
 ### [RADAR Podcasters AL SUR](https://open.spotify.com/playlist/37i9dQZF1DWVzxICEYRu0h)
 
 > Aquí está tu próximo podcast favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668 likes - 18 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 667 likes - 18 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

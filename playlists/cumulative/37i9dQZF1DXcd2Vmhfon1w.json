@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. GRECAS.",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Al Safir.",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -1026,6 +1026,32 @@
       "duration_ms": 157500,
       "name": "Arabia",
       "url": "https://open.spotify.com/track/2x3y6FM0Ty44ee2uenURLW"
+    },
+    {
+      "album": {
+        "name": "ARRIVEDERCI",
+        "url": "https://open.spotify.com/album/2G5b4rkZl3t7ngFInYT1oD"
+      },
+      "artists": [
+        {
+          "name": "7loseey",
+          "url": "https://open.spotify.com/artist/7IO7OuaXHHZrg6TaWWKkxC"
+        },
+        {
+          "name": "balaclavx",
+          "url": "https://open.spotify.com/artist/4pWxCn4W08KR8uMmWVL0oQ"
+        },
+        {
+          "name": "Ro'Pittameglio",
+          "url": "https://open.spotify.com/artist/2k8bgdlFDmCqgdPx1sLPE2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232421,
+      "name": "ARRIVEDERCI",
+      "url": "https://open.spotify.com/track/4wwNSYm0PwvtPicbnXl4bR"
     },
     {
       "album": {
@@ -6638,7 +6664,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162000,
       "name": "Italiano",
       "url": "https://open.spotify.com/track/4AvygKuCUz6doZ7L7ahxWN"
@@ -8286,7 +8312,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184440,
       "name": "Lupin",
       "url": "https://open.spotify.com/track/7CFY34kDCYTBzVCIy4uzAZ"
@@ -8300,6 +8326,10 @@
         {
           "name": "Nadal015",
           "url": "https://open.spotify.com/artist/4XV4e5IqR6DKCJMJWuG7Vi"
+        },
+        {
+          "name": "Sundaypanic",
+          "url": "https://open.spotify.com/artist/6Aay10TzPZDIuj8PybgXu1"
         }
       ],
       "date_added": "2026-01-01",
@@ -11170,7 +11200,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185142,
       "name": "Por Quintana",
       "url": "https://open.spotify.com/track/4YXN3US4h4SaUhrvjr9b8b"
@@ -11306,6 +11336,28 @@
       "duration_ms": 154000,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/2dabNpFyjIQTVSZ18CPoLa"
+    },
+    {
+      "album": {
+        "name": "PR\u00cdNCIPE",
+        "url": "https://open.spotify.com/album/01BawTU18S6y8xvKtT0yvs"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "Richie Rasheed",
+          "url": "https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163630,
+      "name": "Pr\u00edncipe de Capitales",
+      "url": "https://open.spotify.com/track/1F9DW7Db5ZGhs1uEhfOTF2"
     },
     {
       "album": {
@@ -11666,6 +11718,32 @@
       "duration_ms": 184673,
       "name": "RAP DEL 2000 CIENTO Y PICO",
       "url": "https://open.spotify.com/track/1Q5gU9XHxGijlLM51vq3t2"
+    },
+    {
+      "album": {
+        "name": "RAP MACHINE",
+        "url": "https://open.spotify.com/album/2iXZNh3nRmBmH57r0BoSVH"
+      },
+      "artists": [
+        {
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+        },
+        {
+          "name": "La Dako Style",
+          "url": "https://open.spotify.com/artist/3hKcaMgSDjMmaQkSf6RLgR"
+        },
+        {
+          "name": "Dj Keru",
+          "url": "https://open.spotify.com/artist/0W8OiQzSH1G4o2rauWtZoE"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154562,
+      "name": "RAP MACHINE",
+      "url": "https://open.spotify.com/track/6Qn3I8kvnvQvHrVzSo0J4t"
     },
     {
       "album": {

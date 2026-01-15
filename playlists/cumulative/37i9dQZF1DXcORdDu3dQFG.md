@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcORdDu3dQFG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcORdDu3dQFG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcORdDu3dQFG)
+[pretty](/playlists/pretty/37i9dQZF1DXcORdDu3dQFG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcORdDu3dQFG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcORdDu3dQFG)
 
 ### [Holiday Music Videos](https://open.spotify.com/playlist/37i9dQZF1DXcORdDu3dQFG)
 

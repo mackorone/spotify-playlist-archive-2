@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTLlRxFAxbpj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTLlRxFAxbpj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTLlRxFAxbpj)
+[pretty](/playlists/pretty/37i9dQZF1DWTLlRxFAxbpj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTLlRxFAxbpj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTLlRxFAxbpj)
 
 ### [Spring Break 2025](https://open.spotify.com/playlist/37i9dQZF1DWTLlRxFAxbpj)
 

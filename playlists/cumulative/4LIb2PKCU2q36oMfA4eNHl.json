@@ -1811,6 +1811,28 @@
     },
     {
       "album": {
+        "name": "evening star",
+        "url": "https://open.spotify.com/album/6bvOvKEouwClqRp950OETX"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        },
+        {
+          "name": "sove",
+          "url": "https://open.spotify.com/artist/3qpcpvSv3LQSgRzofyKLlt"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125915,
+      "name": "evening star",
+      "url": "https://open.spotify.com/track/60sdtqLTxz49f3X8iGPKY0"
+    },
+    {
+      "album": {
         "name": "Missing Places I've Never Been",
         "url": "https://open.spotify.com/album/0PbMNDMPVfWieY0Mvl9p61"
       },
@@ -2920,6 +2942,24 @@
       "duration_ms": 430769,
       "name": "I'll Miss the System Here",
       "url": "https://open.spotify.com/track/1O5W8zxuyu5GWmuUbqnhCU"
+    },
+    {
+      "album": {
+        "name": "our lives entwined",
+        "url": "https://open.spotify.com/album/5s2Wb9fq6Uf86p4qBi1g7k"
+      },
+      "artists": [
+        {
+          "name": "Leaving Laurel",
+          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200797,
+      "name": "i: off the path,",
+      "url": "https://open.spotify.com/track/40BF06LcmTD7NK3wQ9hNNq"
     },
     {
       "album": {
@@ -4907,6 +4947,28 @@
     },
     {
       "album": {
+        "name": "25 Years Of Anjuna Mixed By Planet Of Souls",
+        "url": "https://open.spotify.com/album/5EEkfcI8dp5GBsGSrKOgb7"
+      },
+      "artists": [
+        {
+          "name": "Planet Of Souls",
+          "url": "https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu"
+        },
+        {
+          "name": "Lily Papas",
+          "url": "https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212067,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3dmYWFjHYZfhG1JpjsUCZr"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/3MQVX7noO0RlYMxE53TxIj"
       },
@@ -4922,7 +4984,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 212067,
       "name": "One",
       "url": "https://open.spotify.com/track/5WWAsENrvGXGb06IyToYA4"
@@ -4958,7 +5020,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 271466,
       "name": "Only You Can Tell - Original Mix",
       "url": "https://open.spotify.com/track/6feLDcYmUwbQgoHYxHD4qS"
@@ -5002,6 +5064,24 @@
       "duration_ms": 355373,
       "name": "Orange Coloured Liquid - Part II",
       "url": "https://open.spotify.com/track/0455mTvFJ1kbODAYHpFJBu"
+    },
+    {
+      "album": {
+        "name": "our lives entwined",
+        "url": "https://open.spotify.com/album/5s2Wb9fq6Uf86p4qBi1g7k"
+      },
+      "artists": [
+        {
+          "name": "Leaving Laurel",
+          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "our lives entwined - edit",
+      "url": "https://open.spotify.com/track/6GVqBIddPI2CPZrWM1SbbD"
     },
     {
       "album": {
@@ -5742,7 +5822,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 269873,
       "name": "Signal - Jean-Michel Blais Piano Version",
       "url": "https://open.spotify.com/track/0L5j9vktiQmWZ34gvf1UCM"
@@ -6482,7 +6562,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203731,
       "name": "The Light Is Still There - Peter Sandberg Remix",
       "url": "https://open.spotify.com/track/2DZNHwQHjsAExRxTlX98so"

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0NCspsyf0OS4BsPgGhkQXM.md) - cumulative - [plain](/playlists/plain/0NCspsyf0OS4BsPgGhkQXM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NCspsyf0OS4BsPgGhkQXM)
+[pretty](/playlists/pretty/0NCspsyf0OS4BsPgGhkQXM.md) - cumulative - [plain](/playlists/plain/0NCspsyf0OS4BsPgGhkQXM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0NCspsyf0OS4BsPgGhkQXM)
 
 ### [Trap Nation](https://open.spotify.com/playlist/0NCspsyf0OS4BsPgGhkQXM)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4winw66sZTE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4winw66sZTE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4winw66sZTE)
+[pretty](/playlists/pretty/37i9dQZF1DX4winw66sZTE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4winw66sZTE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4winw66sZTE)
 
 ### [2010년대 베스트](https://open.spotify.com/playlist/37i9dQZF1DX4winw66sZTE)
 

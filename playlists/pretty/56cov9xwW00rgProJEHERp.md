@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain](/playlists/plain/56cov9xwW00rgProJEHERp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/56cov9xwW00rgProJEHERp)
+pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain](/playlists/plain/56cov9xwW00rgProJEHERp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/56cov9xwW00rgProJEHERp)
 
 ### [But First Coffee](https://open.spotify.com/playlist/56cov9xwW00rgProJEHERp)
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,456 likes - 99 songs - 5 hr 37 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,477 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 97 | [Smooth Like Vinyl](https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Smooth Like Vinyl](https://open.spotify.com/album/5CYp5SgznyJC9iIoa2p2MH) | 3:39 |
 | 98 | [Suitcase](https://open.spotify.com/track/127t3pQNgzyKuQMbuw79ve) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Suitcase](https://open.spotify.com/album/63IfPTlXRgA4Sl62LFddNQ) | 2:38 |
 | 99 | [slow dance in the diner](https://open.spotify.com/track/44tkU5OWulSCRn01iTyAXK) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [slow dance in the diner](https://open.spotify.com/album/0m4mFKvycRZ4QstEEjzfKl) | 3:35 |
+| 100 | [The Banjo Song](https://open.spotify.com/track/7AQiFyoymWq9CUF3aRo64c) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/2diypD47uPTBpZmzIQbrAu) | 3:49 |
 
-Snapshot ID: `AAAWYHqSzr2jDqF4jeg/M5ERjwx08PcM`
+Snapshot ID: `AAAWYbVkX2Y1jN3Yjm4eQE3m3wK4FU+y`

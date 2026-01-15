@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dJwhR3LtVd.md) - [plain](/playlists/plain/37i9dQZF1DX4dJwhR3LtVd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4dJwhR3LtVd)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dJwhR3LtVd.md) - [plain](/playlists/plain/37i9dQZF1DX4dJwhR3LtVd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4dJwhR3LtVd)
 
 ### [Forecasting Love and Weather \(기상청 사람들\)](https://open.spotify.com/playlist/37i9dQZF1DX4dJwhR3LtVd)
 

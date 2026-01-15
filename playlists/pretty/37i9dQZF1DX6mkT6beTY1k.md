@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mkT6beTY1k.md) - [plain](/playlists/plain/37i9dQZF1DX6mkT6beTY1k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6mkT6beTY1k)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mkT6beTY1k.md) - [plain](/playlists/plain/37i9dQZF1DX6mkT6beTY1k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6mkT6beTY1k)
 
 ### [Slow Dance](https://open.spotify.com/playlist/37i9dQZF1DX6mkT6beTY1k)
 
 > time to confess your crush
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,876 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,029 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4C9mWYjVobPsfFXesGxYNf.md) - [plain](/playlists/plain/4C9mWYjVobPsfFXesGxYNf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4C9mWYjVobPsfFXesGxYNf)
+pretty - [cumulative](/playlists/cumulative/4C9mWYjVobPsfFXesGxYNf.md) - [plain](/playlists/plain/4C9mWYjVobPsfFXesGxYNf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4C9mWYjVobPsfFXesGxYNf)
 
 ### [All Classic Hits](https://open.spotify.com/playlist/4C9mWYjVobPsfFXesGxYNf)
 
 > Alleen de grootste hits allertijden vindt je hier\. \| <a href="spotify:user:digsternl">Meer playlists</a>.
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 11,863 likes - 90 songs - 6 hr 4 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 11,857 likes - 90 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

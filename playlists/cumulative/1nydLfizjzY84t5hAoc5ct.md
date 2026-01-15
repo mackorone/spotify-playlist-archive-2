@@ -1,14 +1,15 @@
-[pretty](/playlists/pretty/1nydLfizjzY84t5hAoc5ct.md) - cumulative - [plain](/playlists/plain/1nydLfizjzY84t5hAoc5ct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1nydLfizjzY84t5hAoc5ct)
+[pretty](/playlists/pretty/1nydLfizjzY84t5hAoc5ct.md) - cumulative - [plain](/playlists/plain/1nydLfizjzY84t5hAoc5ct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1nydLfizjzY84t5hAoc5ct)
 
 ### [Off Axis Gigs \. com](https://open.spotify.com/playlist/1nydLfizjzY84t5hAoc5ct)
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-116 songs - 7 hr 6 min
+123 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Table Reserved](https://open.spotify.com/track/3LNzCIrA0ONLKuHGmpWlWv) | [The Great Pleasure](https://open.spotify.com/artist/4rtT6yqwmkxRfG366YZjUU) | [A Table Reserved](https://open.spotify.com/album/3iAIcPD14LzkMTXdOzZUTW) | 3:16 | 2025-11-16 | 2025-11-24 |
+| [Accord](https://open.spotify.com/track/4HgfxY9KtyUbs6CDHjkHGo) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Accord](https://open.spotify.com/album/56IwbcuqxG5Zhf2pJvMvQS) | 4:18 | 2026-01-09 |  |
 | [All i need \(at Christmas time\)](https://open.spotify.com/track/138VUF1skOZc3UHYuC8uhV) | [Paul Martin](https://open.spotify.com/artist/1XIrTZoEDMzWssZ149WWZ8) | [All i need \(at Christmas time\)](https://open.spotify.com/album/3qxwTQRtZeP45Bl0AsXUPD) | 4:24 | 2025-12-18 | 2025-12-29 |
 | [All of my Hours](https://open.spotify.com/track/0kGMkB1AVVOQuht2I3xm21) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [All of my Hours](https://open.spotify.com/album/1AT97gEgwF831B6rkIlYjL) | 3:53 | 2025-11-30 | 2025-12-08 |
 | [Anytime Now](https://open.spotify.com/track/4ZmS5SLnbKNO1w5t4yei5d) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 2:44 | 2025-12-14 |  |
@@ -21,6 +22,7 @@
 | [Believe](https://open.spotify.com/track/6SHgxSFPPPPyqjVyc4s824) | [Ant Thomaz](https://open.spotify.com/artist/2feSaRrLlSdjoDPVyibesT) | [Believe](https://open.spotify.com/album/74K3Zzm007fjN2rfeiyl76) | 3:30 | 2025-11-16 | 2025-11-24 |
 | [Better Believe It](https://open.spotify.com/track/1lqjPIXelaXfIrdBp7STJ2) | [Deltamanic](https://open.spotify.com/artist/38Z9P9syEIsPB70vvJ1otB) | [Better Believe It](https://open.spotify.com/album/0LPbVatZzqqPtCCCqiDz7p) | 3:51 | 2025-11-16 |  |
 | [Better Years](https://open.spotify.com/track/2hBxjN90zcG7bXt4siiqsw) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [The Change \- EP](https://open.spotify.com/album/5xosQhKjMOteD54hwmMpqk) | 2:50 | 2025-11-16 | 2025-11-24 |
+| [Between The Lines](https://open.spotify.com/track/3ywzcG2aHeRaJqeEWWEmw4) | [The falls band](https://open.spotify.com/artist/2fVYWVFLpWFpLnuhCUhyuu) | [Between The Lines](https://open.spotify.com/album/1FH4C0yWe0psvavDUmCdDt) | 3:04 | 2026-01-09 |  |
 | [BIG + BAD](https://open.spotify.com/track/7d3CAVraS3OJsoW7UVtEeo) | [Beauty Sleep](https://open.spotify.com/artist/28Ok1CLqynsSq1X428Gj0U) | [The Whole Damn Cake](https://open.spotify.com/album/4uIRYDvvMsGHNwElSt1Rqr) | 2:42 | 2025-12-14 | 2025-12-19 |
 | [Black Rivers](https://open.spotify.com/track/5uuXFpGngMP8Kqs5JZ3Col) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 3:21 | 2025-12-14 |  |
 | [Block You](https://open.spotify.com/track/6PTOMw0u7T6mEtTMYYIRGl) | [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv) | [Block You](https://open.spotify.com/album/6yDUbii9DsAtIh31UPQk6l) | 4:09 | 2025-11-16 | 2025-11-24 |
@@ -66,6 +68,8 @@
 | [Heaven](https://open.spotify.com/track/16uyfRXUNtJPLMmnJUK9nj) | [Mercy Girl](https://open.spotify.com/artist/1lwbviKaSPeuUgIqAgNpdn) | [Closer](https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf) | 4:07 | 2025-12-07 | 2025-12-15 |
 | [Here To Stay](https://open.spotify.com/track/3Q0CCmpgxZ22Ul1t6OyWN6) | [Lewis Wiles](https://open.spotify.com/artist/5NE6yiNIyVj0T8tWCFbT4G) | [Here To Stay](https://open.spotify.com/album/3uJthhjP1KSDCHlmXTzUmz) | 3:23 | 2025-11-23 |  |
 | [Here You \(That'll Be Right\) \- Radio Edit](https://open.spotify.com/track/67lsooxlwFtjfMvQCorqlv) | [NEDS Kru](https://open.spotify.com/artist/5erm4j1rnqFa1D23o32ywc), [The Wee Man](https://open.spotify.com/artist/3rfQgxPo6eTlEL9BYTQJMx) | [Here You \(That'll Be Right\)](https://open.spotify.com/album/7IS99tos6UqfUpmQPYG1sp) | 3:15 | 2025-12-28 |  |
+| [i don't wanna care](https://open.spotify.com/track/1ELzMBhKYBTuhFpEpHILZ2) | [ivies](https://open.spotify.com/artist/7aV8iILLbGRnVynKsdOXa0) | [i don't wanna care](https://open.spotify.com/album/0MbGOLo5BgPCKmvimiEf49) | 3:42 | 2026-01-12 |  |
+| [I Don't Want War \(I Want Beauty Today\)](https://open.spotify.com/track/2zXZ98Ag5IZV9vO5s1O2BX) | [Calum Baird](https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk) | [I Don't Want War \(I Want Beauty Today\)](https://open.spotify.com/album/3CjGweamksIxEGyaswQL7h) | 3:05 | 2026-01-09 |  |
 | [I Feel Fine](https://open.spotify.com/track/6jhf0Wr4YPPq5V7L4x2PNk) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [I Feel Fine](https://open.spotify.com/album/01be9wmq5IkRSH2oo5CRal) | 2:23 | 2025-11-23 |  |
 | [I'm Not A Robot](https://open.spotify.com/track/4wFzMwyYhjGeG6aYNHBo9p) | [Lewis Wiles](https://open.spotify.com/artist/5NE6yiNIyVj0T8tWCFbT4G) | [I'm Not A Robot](https://open.spotify.com/album/1Yn8FAXPUpHQXbNZGXDzmR) | 3:28 | 2025-11-16 |  |
 | [I've Got You](https://open.spotify.com/track/5kFURYaEWjegfVvTq9b42C) | [San Jose](https://open.spotify.com/artist/4S7RqxJANGm2g4AmBQuCJr) | [I've Got You](https://open.spotify.com/album/4PVOuBiBS7B7WuTSgdb15s) | 3:56 | 2025-12-26 |  |
@@ -95,6 +99,7 @@
 | [Pesky Rain](https://open.spotify.com/track/6Q8jc9MeB97JUFyASh5o8U) | [Eleanor Hickey](https://open.spotify.com/artist/1onYQ6zhMsmt5yRvgwO4Rw) | [Pesky Rain](https://open.spotify.com/album/54yakR5tUjCAlLId0YzkDh) | 3:38 | 2025-11-16 |  |
 | [Play with My Ego](https://open.spotify.com/track/3G2VbE60uj5r1zFMOyqWYz) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [Play with My Ego](https://open.spotify.com/album/6UQmHByBb7otZ2nMK1tT8Y) | 3:08 | 2025-11-30 |  |
 | [Pontchartrain Beach](https://open.spotify.com/track/0lnNspmdFeUKUcsItuwkXo) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 2:44 | 2025-12-14 |  |
+| [Posers](https://open.spotify.com/track/5lDo83ASWT5BkJQtXPUmdh) | [Doss](https://open.spotify.com/artist/3csu8AxiaJammKmr2EPtSe) | [Posers](https://open.spotify.com/album/6WzoIYNawmqYwNFzZQOlTP) | 2:42 | 2026-01-11 |  |
 | [Resolve](https://open.spotify.com/track/3RpfSH6LHxSmobNd50FZo4) | [Socialites](https://open.spotify.com/artist/6viYhJ4Hkq8WrahWIOO1HR) | [Resolve](https://open.spotify.com/album/3OCIIDu3Yv1PfisV8LPHmL) | 4:37 | 2025-11-16 | 2025-12-01 |
 | [Run Away](https://open.spotify.com/track/4V0OaH2WJGf5iuDlQQAqju) | [Flair](https://open.spotify.com/artist/2FDBZdGWn8G6927XKL6cd4) | [Flair](https://open.spotify.com/album/2AfdH1P3nAPnYSzXBBplim) | 3:20 | 2025-11-16 |  |
 | [Scars](https://open.spotify.com/track/6KHI4YRxRA4CYq17tC0Rd4) | [Tom Collins](https://open.spotify.com/artist/1xNta7Lpbfs5kxVyCpMvgl) | [Scars](https://open.spotify.com/album/54FrVuIxgN0tATjPAw51WX) | 2:37 | 2025-12-18 |  |
@@ -112,9 +117,11 @@
 | [That's What Won't Stop Torturing Me](https://open.spotify.com/track/4co7zpcuZXZ3XEX8lvkHEb) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [That's What Won't Stop Torturing Me](https://open.spotify.com/album/0CAmXlMBKOwpjZyAVj00Xe) | 2:34 | 2025-11-16 |  |
 | [The Best](https://open.spotify.com/track/0oQza4EOTHoYatlRwNNBS3) | [The Suite](https://open.spotify.com/artist/10TpQjTeNbKzhlms00tsK4) | [The Best](https://open.spotify.com/album/4OOKDqmZpVdAv8fPGwHzMV) | 2:18 | 2025-11-16 | 2025-12-01 |
 | [The Meadows](https://open.spotify.com/track/5SlnDgMUVV4k4CC0eAGAEN) | [KATANES](https://open.spotify.com/artist/5Z9F67svL9FJQW3g4hpBYE) | [The Meadows](https://open.spotify.com/album/6xBiAvZYngBSrzuIol180j) | 3:30 | 2025-11-23 |  |
+| [The Mullets are Moving in](https://open.spotify.com/track/4HSQG4ln6ybxEup2PKwfHh) | [Doss](https://open.spotify.com/artist/3csu8AxiaJammKmr2EPtSe) | [The Mullets are Moving in](https://open.spotify.com/album/61Qwp1DqiJ3WcgsdfnsxZV) | 2:58 | 2026-01-11 |  |
 | [Too Wild To Last, Too Rare To Die](https://open.spotify.com/track/1DoOr5SQmYMisdMcUy0MtE) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [Too Wild To Last, Too Rare To Die](https://open.spotify.com/album/0BCU1vqSSANQ0IDqBw0DR1) | 2:07 | 2025-11-16 |  |
 | [Top \(I can see for miles\)](https://open.spotify.com/track/0kNruf2wYPoJHAzBiZIJT7) | [Delirium](https://open.spotify.com/artist/3OYzwHHHkiMSRo0bwhx8pO) | [Delirium \(home recordings\)](https://open.spotify.com/album/7KmenobD65pgvvV07IhcPl) | 4:48 | 2025-11-16 | 2025-11-24 |
 | [TURN AROUND](https://open.spotify.com/track/3uUP0YYjP04xMBIRJ2dtrp) | [MOG](https://open.spotify.com/artist/1PeU4PsYtNaksLeuMOJM6n), [Roo Geddes](https://open.spotify.com/artist/6XDO2rklQELJT2IVlbVMO5), [Neil Sutcliffe](https://open.spotify.com/artist/6jX2zm5LaKgwIaWyjoxpVp), [Ewan Hastie](https://open.spotify.com/artist/03ajVwie49KhJaWvSg17ES) | [Lab Raps](https://open.spotify.com/album/3XLtGJwNwsFBrGSCVBnOlA) | 3:15 | 2025-12-28 |  |
+| [Unconditionally](https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Unconditionally](https://open.spotify.com/album/5tDK0NIN6lhhu3K9eadq3J) | 3:46 | 2026-01-09 |  |
 | [Unstable Mabel](https://open.spotify.com/track/24tdhaAqsJUcHCue6iApD8) | [MANTEL](https://open.spotify.com/artist/5lrF1CXXspB352ZwLhO62d) | [Unstable Mabel](https://open.spotify.com/album/5H7MalTOtPa3uAbCdoaUeY) | 4:07 | 2025-11-23 |  |
 | [Up For Air](https://open.spotify.com/track/3ugL72Ej1a4UeeDhHdc1RM) | [Beauty Sleep](https://open.spotify.com/artist/28Ok1CLqynsSq1X428Gj0U) | [The Whole Damn Cake](https://open.spotify.com/album/4uIRYDvvMsGHNwElSt1Rqr) | 3:55 | 2025-11-23 |  |
 | [Venom](https://open.spotify.com/track/0YyzrNZkNhvko89UdtqUpM) | [Pelowska](https://open.spotify.com/artist/6HCIPCFFARpEL7rhF1AZjx) | [Venom](https://open.spotify.com/album/5WdKAIw4iLl4Q6ogryV1ZS) | 3:39 | 2025-11-16 |  |

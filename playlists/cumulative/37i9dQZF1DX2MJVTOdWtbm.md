@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2MJVTOdWtbm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2MJVTOdWtbm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2MJVTOdWtbm)
+[pretty](/playlists/pretty/37i9dQZF1DX2MJVTOdWtbm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2MJVTOdWtbm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2MJVTOdWtbm)
 
 ### [Latin R&B](https://open.spotify.com/playlist/37i9dQZF1DX2MJVTOdWtbm)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain](/playlists/plain/37i9dQZF1DXdipfKDeMPTE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdipfKDeMPTE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain](/playlists/plain/37i9dQZF1DXdipfKDeMPTE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdipfKDeMPTE)
 
 ### [Late Night Beats](https://open.spotify.com/playlist/37i9dQZF1DXdipfKDeMPTE)
 
 > Smooth beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,587 likes - 200 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,074 likes - 200 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

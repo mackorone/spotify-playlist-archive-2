@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO2Oo4IE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2Oo4IE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2Oo4IE)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO2Oo4IE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2Oo4IE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO2Oo4IE)
 
 ### [This Is Janis Joplin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Oo4IE)
 

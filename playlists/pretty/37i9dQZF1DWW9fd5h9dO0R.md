@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9fd5h9dO0R.md) - [plain](/playlists/plain/37i9dQZF1DWW9fd5h9dO0R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW9fd5h9dO0R)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9fd5h9dO0R.md) - [plain](/playlists/plain/37i9dQZF1DWW9fd5h9dO0R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW9fd5h9dO0R)
 
 ### [Fuego \- \#059 Sofia Bella's Mixtape](https://open.spotify.com/playlist/37i9dQZF1DWW9fd5h9dO0R)
 

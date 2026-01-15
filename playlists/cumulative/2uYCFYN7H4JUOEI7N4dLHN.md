@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2uYCFYN7H4JUOEI7N4dLHN.md) - cumulative - [plain](/playlists/plain/2uYCFYN7H4JUOEI7N4dLHN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2uYCFYN7H4JUOEI7N4dLHN)
+[pretty](/playlists/pretty/2uYCFYN7H4JUOEI7N4dLHN.md) - cumulative - [plain](/playlists/plain/2uYCFYN7H4JUOEI7N4dLHN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2uYCFYN7H4JUOEI7N4dLHN)
 
 ### [80s Rock](https://open.spotify.com/playlist/2uYCFYN7H4JUOEI7N4dLHN)
 

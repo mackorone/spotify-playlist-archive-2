@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbe38sCQvUx3.md) - [plain](/playlists/plain/37i9dQZF1DXbe38sCQvUx3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbe38sCQvUx3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbe38sCQvUx3.md) - [plain](/playlists/plain/37i9dQZF1DXbe38sCQvUx3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbe38sCQvUx3)
 
 ### [bélico y alucín](https://open.spotify.com/playlist/37i9dQZF1DXbe38sCQvUx3)
 
 > a la orden pa'l desorden
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,078 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,029 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

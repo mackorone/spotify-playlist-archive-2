@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain](/playlists/plain/37i9dQZF1DX3qlqnyl4p68) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3qlqnyl4p68)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain](/playlists/plain/37i9dQZF1DX3qlqnyl4p68) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3qlqnyl4p68)
 
 ### [Netflix & Chills](https://open.spotify.com/playlist/37i9dQZF1DX3qlqnyl4p68)
 
 > Every family has its demons\. Curated by Lee Daniels, Cover: The Deliverance
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,893 likes - 38 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,966 likes - 38 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

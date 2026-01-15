@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "A love song",
+        "url": "https://open.spotify.com/album/1pY0aFXnWug0kprGpU01k7"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255117,
+      "name": "A love song",
+      "url": "https://open.spotify.com/track/40omREcnBxztksjO7XTnP8"
+    },
+    {
+      "album": {
         "name": "A Love Story in Five Burroughs",
         "url": "https://open.spotify.com/album/2qluY0cuDzfXsx0VxcXCv7"
       },
@@ -862,7 +880,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 206372,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/3hvPSoMORtRuUl5tpITycv"
@@ -992,6 +1010,24 @@
       "duration_ms": 217502,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/2l0iO5UB8vLpgjjih8sUYD"
+    },
+    {
+      "album": {
+        "name": "Alice Corner",
+        "url": "https://open.spotify.com/album/27cypFRKmPqno5giELZOyT"
+      },
+      "artists": [
+        {
+          "name": "Downtown Caf\u00e9",
+          "url": "https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229730,
+      "name": "Alice Corner",
+      "url": "https://open.spotify.com/track/5vNmKXDjOHMuLmwEzFzRCs"
     },
     {
       "album": {
@@ -3333,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Continues to play...",
+        "url": "https://open.spotify.com/album/5cCVkabyOb7X7QKgPy7Li8"
+      },
+      "artists": [
+        {
+          "name": "Irvine Martin",
+          "url": "https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200019,
+      "name": "Continues to play...",
+      "url": "https://open.spotify.com/track/6WYEm8VzlFt5O1DHOBMNv1"
+    },
+    {
+      "album": {
         "name": "Cool Breeze",
         "url": "https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa"
       },
@@ -4040,6 +4094,24 @@
       "duration_ms": 139566,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6IP328KWUVyrLfKLtx6kA0"
+    },
+    {
+      "album": {
+        "name": "Easy lovin'",
+        "url": "https://open.spotify.com/album/0JCSXihza2TSsxW8KidUFI"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Chords",
+          "url": "https://open.spotify.com/artist/5vQv6osGja4opdIuGMTguW"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174329,
+      "name": "Easy lovin'",
+      "url": "https://open.spotify.com/track/0SGZNTJ0218QBimmLy4IAI"
     },
     {
       "album": {
@@ -5458,7 +5530,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 208500,
       "name": "Golden Moments",
       "url": "https://open.spotify.com/track/21G8HryJ6LWITBPNU9o2e1"
@@ -7006,7 +7078,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169770,
       "name": "If You & I",
       "url": "https://open.spotify.com/track/4if0PZ2yt6r8PTOHHy9bZP"
@@ -7852,7 +7924,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 231130,
       "name": "Journeying",
       "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
@@ -7892,6 +7964,24 @@
       "duration_ms": 205631,
       "name": "Juniper Leaves",
       "url": "https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce"
+    },
+    {
+      "album": {
+        "name": "Just a Dreamer",
+        "url": "https://open.spotify.com/album/0E2t2g9ZEZLsKIfyLhERE9"
+      },
+      "artists": [
+        {
+          "name": "David Parks & Silver",
+          "url": "https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214442,
+      "name": "Just a Dreamer",
+      "url": "https://open.spotify.com/track/36xoBBIo5X3e9jJhTefpHj"
     },
     {
       "album": {
@@ -9508,7 +9598,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182563,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5"
@@ -11459,6 +11549,24 @@
     },
     {
       "album": {
+        "name": "Out Of Shape",
+        "url": "https://open.spotify.com/album/6Wp0iL5218QBvcLABthxgD"
+      },
+      "artists": [
+        {
+          "name": "Ben Lively",
+          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Out Of Shape",
+      "url": "https://open.spotify.com/track/2tH35vPh5XwwO7idVhWI0Q"
+    },
+    {
+      "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI"
       },
@@ -12118,7 +12226,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192965,
       "name": "Rendezvous in Rhythm",
       "url": "https://open.spotify.com/track/5exvjomZSoKsSwZ2cWkKUy"
@@ -16299,6 +16407,24 @@
     },
     {
       "album": {
+        "name": "Velvet Rainfall",
+        "url": "https://open.spotify.com/album/2QU5r9BRohKWChdY76oaNr"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219477,
+      "name": "Velvet Rainfall",
+      "url": "https://open.spotify.com/track/3qWqFyXEJTa8fATKrwZeCv"
+    },
+    {
+      "album": {
         "name": "Venice",
         "url": "https://open.spotify.com/album/4kI2NkThwOtTQ8V0VGUtoh"
       },
@@ -16886,7 +17012,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223757,
       "name": "When I Was Yours",
       "url": "https://open.spotify.com/track/4xoijX1lySMC1oeffLMwxy"

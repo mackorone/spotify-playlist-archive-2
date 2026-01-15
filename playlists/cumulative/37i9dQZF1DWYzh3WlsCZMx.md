@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYzh3WlsCZMx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYzh3WlsCZMx)
+[pretty](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYzh3WlsCZMx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYzh3WlsCZMx)
 
 ### [HBO Rap Sh!t's Taste](https://open.spotify.com/playlist/37i9dQZF1DWYzh3WlsCZMx)
 

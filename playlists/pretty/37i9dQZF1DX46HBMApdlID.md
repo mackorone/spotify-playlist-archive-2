@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46HBMApdlID.md) - [plain](/playlists/plain/37i9dQZF1DX46HBMApdlID) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX46HBMApdlID)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46HBMApdlID.md) - [plain](/playlists/plain/37i9dQZF1DX46HBMApdlID) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX46HBMApdlID)
 
 ### [This Is The Chainsmokers](https://open.spotify.com/playlist/37i9dQZF1DX46HBMApdlID)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0BXZFUhCvDu1cTb1mX01ix.md) - cumulative - [plain](/playlists/plain/0BXZFUhCvDu1cTb1mX01ix) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0BXZFUhCvDu1cTb1mX01ix)
+[pretty](/playlists/pretty/0BXZFUhCvDu1cTb1mX01ix.md) - cumulative - [plain](/playlists/plain/0BXZFUhCvDu1cTb1mX01ix) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0BXZFUhCvDu1cTb1mX01ix)
 
 ### [90's Pop Party](https://open.spotify.com/playlist/0BXZFUhCvDu1cTb1mX01ix)
 

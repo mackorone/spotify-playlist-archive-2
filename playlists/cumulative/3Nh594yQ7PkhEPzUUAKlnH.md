@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3Nh594yQ7PkhEPzUUAKlnH.md) - cumulative - [plain](/playlists/plain/3Nh594yQ7PkhEPzUUAKlnH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3Nh594yQ7PkhEPzUUAKlnH)
+[pretty](/playlists/pretty/3Nh594yQ7PkhEPzUUAKlnH.md) - cumulative - [plain](/playlists/plain/3Nh594yQ7PkhEPzUUAKlnH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3Nh594yQ7PkhEPzUUAKlnH)
 
 ### [Let Loose](https://open.spotify.com/playlist/3Nh594yQ7PkhEPzUUAKlnH)
 

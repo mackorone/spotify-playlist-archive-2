@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain](/playlists/plain/37i9dQZF1DXdH7LJU45tsM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdH7LJU45tsM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain](/playlists/plain/37i9dQZF1DXdH7LJU45tsM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdH7LJU45tsM)
 
 ### [This Is Grupo Firme \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXdH7LJU45tsM)
 

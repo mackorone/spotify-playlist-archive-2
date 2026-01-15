@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1xHgjMaSpW.md) - [plain](/playlists/plain/37i9dQZF1DWU1xHgjMaSpW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU1xHgjMaSpW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1xHgjMaSpW.md) - [plain](/playlists/plain/37i9dQZF1DWU1xHgjMaSpW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU1xHgjMaSpW)
 
 ### [This Is: Merle Haggard](https://open.spotify.com/playlist/37i9dQZF1DWU1xHgjMaSpW)
 

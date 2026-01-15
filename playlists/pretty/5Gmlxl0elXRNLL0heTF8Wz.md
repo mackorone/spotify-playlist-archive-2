@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5Gmlxl0elXRNLL0heTF8Wz.md) - [plain](/playlists/plain/5Gmlxl0elXRNLL0heTF8Wz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5Gmlxl0elXRNLL0heTF8Wz)
+pretty - [cumulative](/playlists/cumulative/5Gmlxl0elXRNLL0heTF8Wz.md) - [plain](/playlists/plain/5Gmlxl0elXRNLL0heTF8Wz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5Gmlxl0elXRNLL0heTF8Wz)
 
 ### [Classical Sunday Morning](https://open.spotify.com/playlist/5Gmlxl0elXRNLL0heTF8Wz)
 
 > Cheerful classical music to wake up with or to accompany a leisurely breakfast\. Even if the sun isn’t shining it seems like it does! <a href="http://www.sinfinimusic.com/nl">Discover more classical music on Classics To Go.</a>
 
-[Classics To Go](https://open.spotify.com/user/sinfinimusic.nl) - 9,452 likes - 101 songs - 5 hr 25 min
+[Classics To Go](https://open.spotify.com/user/sinfinimusic.nl) - 9,464 likes - 101 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

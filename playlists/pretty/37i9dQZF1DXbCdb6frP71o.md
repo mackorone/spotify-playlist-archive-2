@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain](/playlists/plain/37i9dQZF1DXbCdb6frP71o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbCdb6frP71o)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain](/playlists/plain/37i9dQZF1DXbCdb6frP71o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbCdb6frP71o)
 
 ### [Hamd\-o\-Naat](https://open.spotify.com/playlist/37i9dQZF1DXbCdb6frP71o)
 
 > Devotional tracks for an immersive Ramadan\. Cover: Ali Zafar
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,701 likes - 74 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,695 likes - 74 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

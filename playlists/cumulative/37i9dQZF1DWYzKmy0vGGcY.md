@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYzKmy0vGGcY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYzKmy0vGGcY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYzKmy0vGGcY)
+[pretty](/playlists/pretty/37i9dQZF1DWYzKmy0vGGcY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYzKmy0vGGcY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYzKmy0vGGcY)
 
 ### [Soft 60s](https://open.spotify.com/playlist/37i9dQZF1DWYzKmy0vGGcY)
 

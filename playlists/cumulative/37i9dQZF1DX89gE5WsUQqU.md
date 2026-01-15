@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX89gE5WsUQqU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX89gE5WsUQqU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX89gE5WsUQqU)
+[pretty](/playlists/pretty/37i9dQZF1DX89gE5WsUQqU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX89gE5WsUQqU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX89gE5WsUQqU)
 
 ### [SPOTIFY HOUSE 서울](https://open.spotify.com/playlist/37i9dQZF1DX89gE5WsUQqU)
 

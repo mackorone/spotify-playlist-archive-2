@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain](/playlists/plain/37i9dQZF1DX657Vh1lw2BF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX657Vh1lw2BF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain](/playlists/plain/37i9dQZF1DX657Vh1lw2BF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX657Vh1lw2BF)
 
 ### [هوايَهْ عراقي](https://open.spotify.com/playlist/37i9dQZF1DX657Vh1lw2BF)
 
 > أفضل الاغاني العراقية\. الغلاف:حمزة المحمداوي
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,343 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,487 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1fDqEVwiD0yOMOy5Vdtlb6.md) - cumulative - [plain](/playlists/plain/1fDqEVwiD0yOMOy5Vdtlb6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1fDqEVwiD0yOMOy5Vdtlb6)
+[pretty](/playlists/pretty/1fDqEVwiD0yOMOy5Vdtlb6.md) - cumulative - [plain](/playlists/plain/1fDqEVwiD0yOMOy5Vdtlb6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1fDqEVwiD0yOMOy5Vdtlb6)
 
 ### [2000s Smash Hits](https://open.spotify.com/playlist/1fDqEVwiD0yOMOy5Vdtlb6)
 

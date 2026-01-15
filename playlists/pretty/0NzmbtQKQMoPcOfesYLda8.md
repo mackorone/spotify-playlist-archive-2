@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0NzmbtQKQMoPcOfesYLda8.md) - [plain](/playlists/plain/0NzmbtQKQMoPcOfesYLda8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NzmbtQKQMoPcOfesYLda8)
+pretty - [cumulative](/playlists/cumulative/0NzmbtQKQMoPcOfesYLda8.md) - [plain](/playlists/plain/0NzmbtQKQMoPcOfesYLda8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0NzmbtQKQMoPcOfesYLda8)
 
 ### [Essentials](https://open.spotify.com/playlist/0NzmbtQKQMoPcOfesYLda8)
 
 > ESSENTIALS <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 148,886 likes - 24 songs - 1 hr 42 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 148,805 likes - 24 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

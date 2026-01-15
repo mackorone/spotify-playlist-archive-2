@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain](/playlists/plain/37i9dQZF1DWWXmRdYIgq8J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWXmRdYIgq8J)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain](/playlists/plain/37i9dQZF1DWWXmRdYIgq8J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWXmRdYIgq8J)
 
 ### [Pass The Chutney](https://open.spotify.com/playlist/37i9dQZF1DWWXmRdYIgq8J)
 

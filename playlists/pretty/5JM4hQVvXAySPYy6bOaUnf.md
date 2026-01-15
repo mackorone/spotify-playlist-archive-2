@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5JM4hQVvXAySPYy6bOaUnf.md) - [plain](/playlists/plain/5JM4hQVvXAySPYy6bOaUnf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5JM4hQVvXAySPYy6bOaUnf)
+pretty - [cumulative](/playlists/cumulative/5JM4hQVvXAySPYy6bOaUnf.md) - [plain](/playlists/plain/5JM4hQVvXAySPYy6bOaUnf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5JM4hQVvXAySPYy6bOaUnf)
 
 ### [Late Night Thoughts](https://open.spotify.com/playlist/5JM4hQVvXAySPYy6bOaUnf)
 
@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/5JM4hQVvXAySPYy6bOaUnf.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Coffee Breath](https://open.spotify.com/track/2I9zHCCeKJRKMgJ6UJFN9W) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/7q0mdGYnuhBbn1hb4rNmG4) | 2:43 |
+| 1 | [Coffee Breath](https://open.spotify.com/track/2I9zHCCeKJRKMgJ6UJFN9W) | [Flicka Roe](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/7q0mdGYnuhBbn1hb4rNmG4) | 2:43 |
 | 2 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
 | 3 | [im closing my eyes \(Feat\. shiloh\)](https://open.spotify.com/track/7evUPABneVddplechlReII) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [Shiloh](https://open.spotify.com/artist/2hkB8tem6WtX6015adeOXU) | [im closing my eyes](https://open.spotify.com/album/3bkJ9kkMbsoqTi6wStZlBN) | 1:58 |
 | 4 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 |

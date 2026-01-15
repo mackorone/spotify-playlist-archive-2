@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1EFzEidMCVFNST.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFzEidMCVFNST) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFzEidMCVFNST)
+[pretty](/playlists/pretty/37i9dQZF1EFzEidMCVFNST.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFzEidMCVFNST) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFzEidMCVFNST)
 
 ### [Written By Vinicius Poeta](https://open.spotify.com/playlist/37i9dQZF1EFzEidMCVFNST)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-562 songs - 1 day 2 hr 42 min
+564 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [B.O\. \- Ao Vivo](https://open.spotify.com/track/6G7j8Yqeb7vbmyZhhSoKTm) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Clube Do Araújo \(Ao Vivo\)](https://open.spotify.com/album/5cBNpt7rpxOnPOBnh1NinO) | 3:21 | 2024-01-29 | 2025-06-28 |
 | [Bala e Canhão \- Ao Vivo](https://open.spotify.com/track/7mBMaIUFlshMAj2Yt2Tvhk) | [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Gabi Martins \(Ao Vivo\)](https://open.spotify.com/album/7FGiH5RmXYAVj0PShirIzn) | 2:29 | 2024-01-29 |  |
 | [Baqueou Demais](https://open.spotify.com/track/61oYBEmrhDiQway0suw7S7) | [Antony & Gabriel](https://open.spotify.com/artist/1uhE4e8omc2wKqIK88bqH4) | [Aquece DVD 2018](https://open.spotify.com/album/263CL2bEtQd89Z2oyMu8ft) | 2:41 | 2024-01-29 |  |
-| [Barbie de Chapéu](https://open.spotify.com/track/4gPTuFFq4wt2aqAjJzXA5a) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/32XxuSbQZrMPxi0Bu84ZFE) | 2:44 | 2025-05-31 |  |
+| [Barbie de Chapéu](https://open.spotify.com/track/4GqPbkwwt8bSaYZdzPY9s3) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/3SZRz2Vel2FdBWd7QALcHY) | 2:44 | 2026-01-14 |  |
+| [Barbie de Chapéu](https://open.spotify.com/track/4gPTuFFq4wt2aqAjJzXA5a) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/32XxuSbQZrMPxi0Bu84ZFE) | 2:44 | 2025-05-31 | 2026-01-15 |
 | [Bate Palminha pra Ela](https://open.spotify.com/track/1HWXovIGDnctwV4CqHF3nV) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [GD Trilogia](https://open.spotify.com/album/3K9vzIZ8MJpkgYvH3jMWTH) | 3:03 | 2024-01-29 |  |
 | [Beat The Speaker](https://open.spotify.com/track/73gEzDLKZNPJms5HkSwBmd) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 1:46 | 2025-06-27 | 2025-07-10 |
 | [Beba Mais](https://open.spotify.com/track/6rR6G2Jczsf9ldmewLhIRe) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beba Mais](https://open.spotify.com/album/27rNQ2moFYiYsdIMeIACUJ) | 2:55 | 2024-01-29 | 2025-11-14 |
@@ -501,7 +502,8 @@
 | [Só Uma Moralzinha](https://open.spotify.com/track/4DOP0kRotd1jtUSeKDRotB) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3) | [Só Uma Moralzinha](https://open.spotify.com/album/2qiGFLK06pAcMXaZ28AA4x) | 2:38 | 2024-01-29 | 2025-06-28 |
 | [Taca a Rabona \(Remix\)](https://open.spotify.com/track/2v90SY7eV1I7oArFwWiMOK) | [Dreysson Rodrigues](https://open.spotify.com/artist/5rtzvT3hqgWbiXrvywjQFR), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Taca a Rabona \(Remix\)](https://open.spotify.com/album/0J4HcCQmeC7kMYFbfCAzZQ) | 2:26 | 2024-01-29 |  |
 | [Te Esqueci de Vez \- Ao Vivo](https://open.spotify.com/track/4AG7wimElqkZEYx0E8MRRe) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \(Ao Vivo\)](https://open.spotify.com/album/5jy0SRd09cU87HeQgJ9BAQ) | 2:33 | 2024-01-29 |  |
-| [Tem a Senha](https://open.spotify.com/track/2XFlvQgefJIMVGkcZfMyW2) | [Artthurzinho](https://open.spotify.com/artist/0MHUejZdGYlArcSqjUsJ8q) | [Tem a Senha](https://open.spotify.com/album/7LkNcS5pEwLDMOeRAUmceh) | 2:39 | 2025-11-05 |  |
+| [Tem a Senha](https://open.spotify.com/track/2XFlvQgefJIMVGkcZfMyW2) | [Artthurzinho](https://open.spotify.com/artist/0MHUejZdGYlArcSqjUsJ8q) | [Tem a Senha](https://open.spotify.com/album/7LkNcS5pEwLDMOeRAUmceh) | 2:39 | 2025-11-05 | 2026-01-15 |
+| [Tem a Senha](https://open.spotify.com/track/4FgDiFNbLtUAYZdezDDELX) | [Artthurzinho](https://open.spotify.com/artist/0MHUejZdGYlArcSqjUsJ8q) | [Tem a Senha](https://open.spotify.com/album/6qnh3Lu6Rqobxs1s9MPhwO) | 2:39 | 2026-01-14 |  |
 | [Tem Que Ter Você \- Ao Vivo](https://open.spotify.com/track/4kGsTk6pmppL1k0HYq4a5H) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Ao Vivo Em São Paulo \(Deluxe\)](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 3:18 | 2024-01-29 |  |
 | [Temperatura](https://open.spotify.com/track/6sUcv0hrmhYyNsdAlxHHee) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 3:00 | 2025-03-29 |  |
 | [Temperatura \- Ao Vivo](https://open.spotify.com/track/0xYdUxzk58txwPsUe98wRj) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Hipnose Ao Vivo \- Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 3:00 | 2024-01-29 | 2024-08-19 |

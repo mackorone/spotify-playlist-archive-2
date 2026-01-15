@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/43rSnXFDoctqiZxvEqH14P.md) - [plain](/playlists/plain/43rSnXFDoctqiZxvEqH14P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/43rSnXFDoctqiZxvEqH14P)
+pretty - [cumulative](/playlists/cumulative/43rSnXFDoctqiZxvEqH14P.md) - [plain](/playlists/plain/43rSnXFDoctqiZxvEqH14P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/43rSnXFDoctqiZxvEqH14P)
 
 ### [Chill as Folk](https://open.spotify.com/playlist/43rSnXFDoctqiZxvEqH14P)
 
 > Your go\-to collection for just hanging out and doing nothing..\. or whatever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 858 likes - 56 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 859 likes - 56 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

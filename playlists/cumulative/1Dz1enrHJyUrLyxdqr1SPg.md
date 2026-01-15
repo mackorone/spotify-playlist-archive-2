@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/1Dz1enrHJyUrLyxdqr1SPg.md) - cumulative - [plain](/playlists/plain/1Dz1enrHJyUrLyxdqr1SPg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1Dz1enrHJyUrLyxdqr1SPg)
+[pretty](/playlists/pretty/1Dz1enrHJyUrLyxdqr1SPg.md) - cumulative - [plain](/playlists/plain/1Dz1enrHJyUrLyxdqr1SPg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1Dz1enrHJyUrLyxdqr1SPg)
 
 ### [MY FAVOURITE NEW ONES ](https://open.spotify.com/playlist/1Dz1enrHJyUrLyxdqr1SPg)
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-119 songs - 7 hr 1 min
+120 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Through The Eyes of a Child](https://open.spotify.com/track/4zPwvmMvuXL371fexapxcv) | [Rose Finn](https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz), [Tom Tyson](https://open.spotify.com/artist/1W81LzWQZwPBjjH8uSGmVV) | [Through The Eyes of a Child](https://open.spotify.com/album/0hxFTQ8m0YP9xGi1G7YCa1) | 3:14 | 2025-06-30 |  |
 | [Time and time again](https://open.spotify.com/track/0066mRINiFIlqjYUa7ersC) | [honeybomb](https://open.spotify.com/artist/6PuqPHk2UIvGzLjhT8COVx) | [Time and time again](https://open.spotify.com/album/3aP1feQ1RQ7VqYcgeMgIip) | 3:38 | 2025-12-15 |  |
 | [Time Slips](https://open.spotify.com/track/0hBqrgpdY2aDQUB39hlwBV) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [Time Slips](https://open.spotify.com/album/43tzbHCqFUTxzkPeRc4c9G) | 3:13 | 2023-10-19 |  |
+| [Tomorrow's Sun](https://open.spotify.com/track/0qkvFJ318yGiNYKahxlzld) | [Lars Gabriel](https://open.spotify.com/artist/63alNoSmyRWv1CCeAdDgWO) | [Tomorrow's Sun](https://open.spotify.com/album/45WEMdj0OAgsFOb30ucG2K) | 5:24 | 2026-01-15 |  |
 | [TRICK and TREAT](https://open.spotify.com/track/71wsNbnZ7S3NiOStYg8DVY) | [Dolly Demeli](https://open.spotify.com/artist/62iOQq0JgS45GsWjuUtVZU) | [TRICK and TREAT](https://open.spotify.com/album/1WPgTdmt0CCN1Ff81i4igu) | 1:30 | 2025-10-31 |  |
 | [Tu Imagen](https://open.spotify.com/track/2B5sxX32qVMWoEGYWMsykh) | [Enriclinare](https://open.spotify.com/artist/1qyUOKbIpa41amJCkeiAtP), [David SweetLow](https://open.spotify.com/artist/1dTDy7r7rI380Qnt5G9m5B) | [Tu Imagen](https://open.spotify.com/album/3P2oAZDMdDWzX6dMoNSEXM) | 3:01 | 2025-04-02 | 2025-12-17 |
 | [Unknown destinies](https://open.spotify.com/track/3NOVahQAgF72ycqqORcrMl) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Unknown destinies](https://open.spotify.com/album/1uvJnCKi7u0SmBVEzVb6OU) | 3:01 | 2025-04-11 | 2025-12-06 |

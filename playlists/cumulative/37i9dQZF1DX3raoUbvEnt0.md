@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3raoUbvEnt0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3raoUbvEnt0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3raoUbvEnt0)
+[pretty](/playlists/pretty/37i9dQZF1DX3raoUbvEnt0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3raoUbvEnt0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3raoUbvEnt0)
 
 ### [GOLDEN KAMUY](https://open.spotify.com/playlist/37i9dQZF1DX3raoUbvEnt0)
 
 > Music from "GOLDEN KAMUY"!
 
-85 songs - 4 hr 30 min
+86 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Sogeki](https://open.spotify.com/track/1uA6JO5BzM4O3PgqWpcxhf) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:39 | 2023-12-28 | 2024-04-19 |
 | [Subete ga Soko ni arimasuyouni.](https://open.spotify.com/track/3A06hBxdE9Rbzm8q6FUZGK) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [Subete ga Soko ni arimasuyouni.](https://open.spotify.com/album/6WBlDUA6FH7iDUQx3MI6JX) | 3:44 | 2023-12-28 | 2024-04-19 |
 | [Tabi no Makuake](https://open.spotify.com/track/1tCDUrZh8rGEiQgp2lPFTS) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 3:43 | 2023-12-28 | 2024-04-19 |
+| [The Ballad](https://open.spotify.com/track/3qZJyfGVmggTOagP08zVlM) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Ballad](https://open.spotify.com/album/2MuMJqAeddgmVsgmklENyW) | 3:29 | 2026-01-13 |  |
 | [TOKEIDAINOKANE](https://open.spotify.com/track/0qo22rgbhGwGqIYmPicqrY) | [eastern youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [TOKEIDAINOKANE](https://open.spotify.com/album/4KMBS3dCCe9dcKTh4YBkXd) | 4:13 | 2023-12-28 | 2024-04-19 |
 | [Uen Kamui](https://open.spotify.com/track/3lneD0mbfA5UxLYjgOF3vn) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 3:29 | 2023-12-28 | 2024-04-19 |
 | [Ushinawareta Kinkai](https://open.spotify.com/track/5Mzh6drZHNWitm8mpebSNf) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 3:50 | 2023-12-28 | 2024-04-19 |

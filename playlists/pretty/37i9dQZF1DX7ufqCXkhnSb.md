@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ufqCXkhnSb.md) - [plain](/playlists/plain/37i9dQZF1DX7ufqCXkhnSb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ufqCXkhnSb)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ufqCXkhnSb.md) - [plain](/playlists/plain/37i9dQZF1DX7ufqCXkhnSb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7ufqCXkhnSb)
 
 ### [La poésie française](https://open.spotify.com/playlist/37i9dQZF1DX7ufqCXkhnSb)
 

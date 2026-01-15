@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain](/playlists/plain/37i9dQZF1DXc29CDb7hd8Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc29CDb7hd8Z)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain](/playlists/plain/37i9dQZF1DXc29CDb7hd8Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc29CDb7hd8Z)
 
 ### [Music for Drawing & Painting](https://open.spotify.com/playlist/37i9dQZF1DXc29CDb7hd8Z)
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,906 likes - 140 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,935 likes - 140 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

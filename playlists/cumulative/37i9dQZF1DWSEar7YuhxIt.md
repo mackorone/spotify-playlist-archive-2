@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSEar7YuhxIt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSEar7YuhxIt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSEar7YuhxIt)
+[pretty](/playlists/pretty/37i9dQZF1DWSEar7YuhxIt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSEar7YuhxIt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSEar7YuhxIt)
 
 ### [Raised on Metal](https://open.spotify.com/playlist/37i9dQZF1DWSEar7YuhxIt)
 

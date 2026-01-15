@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RExasEAf6p.md) - [plain](/playlists/plain/37i9dQZF1DX0RExasEAf6p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0RExasEAf6p)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RExasEAf6p.md) - [plain](/playlists/plain/37i9dQZF1DX0RExasEAf6p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0RExasEAf6p)
 
 ### [anna x coffee shop ](https://open.spotify.com/playlist/37i9dQZF1DX0RExasEAf6p)
 
 > To: You, From: Anna <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,955 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,911 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

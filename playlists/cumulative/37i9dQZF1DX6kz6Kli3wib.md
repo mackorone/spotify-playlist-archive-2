@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6kz6Kli3wib.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6kz6Kli3wib) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6kz6Kli3wib)
+[pretty](/playlists/pretty/37i9dQZF1DX6kz6Kli3wib.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6kz6Kli3wib) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6kz6Kli3wib)
 
 ### [Dinner Lounge](https://open.spotify.com/playlist/37i9dQZF1DX6kz6Kli3wib)
 

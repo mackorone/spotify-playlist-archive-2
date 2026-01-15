@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/6Jpe4ShQ4FHHUAwgCKE2JO.md) - cumulative - [plain](/playlists/plain/6Jpe4ShQ4FHHUAwgCKE2JO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6Jpe4ShQ4FHHUAwgCKE2JO)
+[pretty](/playlists/pretty/6Jpe4ShQ4FHHUAwgCKE2JO.md) - cumulative - [plain](/playlists/plain/6Jpe4ShQ4FHHUAwgCKE2JO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6Jpe4ShQ4FHHUAwgCKE2JO)
 
 ### [The Body of America](https://open.spotify.com/playlist/6Jpe4ShQ4FHHUAwgCKE2JO)
 
 > This country is a corpse
 
-49 songs - 2 hr 57 min
+51 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Black Dresses](https://open.spotify.com/track/0ErVG3P2bJvIMiThIItcwj) | [The Builders and The Butchers](https://open.spotify.com/artist/3fwCB7lIrdjKWiFN4vz99j) | [The Builders and the Butchers](https://open.spotify.com/album/6SS996f1ts4ue2txHeDGyq) | 3:29 | 2023-05-15 |  |
 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 | 2023-05-21 |  |
 | [Born2Run](https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Born2Run](https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7) | 2:34 | 2024-01-17 |  |
+| [Brighter Than the Sun](https://open.spotify.com/track/0ikbufjXAgnd0OdhCjEBB3) | [Brick + Mortar](https://open.spotify.com/artist/7oHJbmt1VAj16Tm6nJpSqr) | [Dropped](https://open.spotify.com/album/1bNyo0wjihTTBvkrMz3doQ) | 3:16 | 2026-01-11 |  |
 | [C'mon Down](https://open.spotify.com/track/2OqfU8bYXte0FVWEKL10KC) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Providence](https://open.spotify.com/album/0mV9xVaTWHbakQC10LKtgL) | 2:37 | 2023-10-30 |  |
 | [Carolina Drama](https://open.spotify.com/track/2LN8mDsvMvG7JU69vtpLhk) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 5:55 | 2023-05-10 |  |
 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 | 2025-04-04 |  |
@@ -39,6 +40,7 @@
 | [Normalization Blues](https://open.spotify.com/track/73UkvR1L7OGsslFutaBvjp) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:39 | 2024-11-28 |  |
 | [Only a Pawn in Their Game](https://open.spotify.com/track/6lib77q4koq52srysevRfT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:32 | 2023-05-22 |  |
 | [Out With the Crow](https://open.spotify.com/track/3rkRWnb8aaiXMevBmf2Ul8) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Out With the Crow](https://open.spotify.com/album/1nbXKbgWArwy2KuLItW6qh) | 2:44 | 2024-09-16 |  |
+| [Papa Was a Rodeo](https://open.spotify.com/track/17XuaEj192gVfNsXDwV1rS) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB) | 5:01 | 2026-01-09 |  |
 | [Popular 2](https://open.spotify.com/track/5zAwyMgaYGiFFFAVc4wWri) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [It's Sorted](https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH) | 3:08 | 2025-03-15 |  |
 | [Providence](https://open.spotify.com/track/4VGR3mr2WbiD0splKGasFc) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Providence](https://open.spotify.com/album/0mV9xVaTWHbakQC10LKtgL) | 3:03 | 2023-10-30 |  |
 | [Quiet as a Rat](https://open.spotify.com/track/16k3poCtMzSsrlYEGwFX1O) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Born Against](https://open.spotify.com/album/4XEgfcc6oEc9KT1T9T4dn8) | 3:14 | 2024-12-09 |  |

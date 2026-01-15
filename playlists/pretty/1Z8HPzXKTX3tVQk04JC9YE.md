@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1Z8HPzXKTX3tVQk04JC9YE.md) - [plain](/playlists/plain/1Z8HPzXKTX3tVQk04JC9YE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1Z8HPzXKTX3tVQk04JC9YE)
+pretty - [cumulative](/playlists/cumulative/1Z8HPzXKTX3tVQk04JC9YE.md) - [plain](/playlists/plain/1Z8HPzXKTX3tVQk04JC9YE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1Z8HPzXKTX3tVQk04JC9YE)
 
 ### [As Seen on TV](https://open.spotify.com/playlist/1Z8HPzXKTX3tVQk04JC9YE)
 
 > All your favorite tracks from the hottest TV shows, commercials, and movies! Cover: Sofia Carson
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 28,132 likes - 52 songs - 3 hr 17 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 28,126 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8qc972EhRzd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8qc972EhRzd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8qc972EhRzd)
+[pretty](/playlists/pretty/37i9dQZF1DX8qc972EhRzd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8qc972EhRzd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8qc972EhRzd)
 
 ### [La película que me pasé contigo](https://open.spotify.com/playlist/37i9dQZF1DX8qc972EhRzd)
 

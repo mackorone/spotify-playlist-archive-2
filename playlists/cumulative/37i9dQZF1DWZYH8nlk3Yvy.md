@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZYH8nlk3Yvy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZYH8nlk3Yvy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZYH8nlk3Yvy)
+[pretty](/playlists/pretty/37i9dQZF1DWZYH8nlk3Yvy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZYH8nlk3Yvy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZYH8nlk3Yvy)
 
 ### [On Tour Japan: Coldplay](https://open.spotify.com/playlist/37i9dQZF1DWZYH8nlk3Yvy)
 

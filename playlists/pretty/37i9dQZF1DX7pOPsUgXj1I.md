@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pOPsUgXj1I.md) - [plain](/playlists/plain/37i9dQZF1DX7pOPsUgXj1I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7pOPsUgXj1I)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pOPsUgXj1I.md) - [plain](/playlists/plain/37i9dQZF1DX7pOPsUgXj1I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7pOPsUgXj1I)
 
 ### [Sintonia Playlist Oficial](https://open.spotify.com/playlist/37i9dQZF1DX7pOPsUgXj1I)
 
 > Escute a trilha sonora da primeira e segunda temporadas de "Sintonia", uma série Netflix x KondZilla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,024 likes - 27 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,025 likes - 27 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

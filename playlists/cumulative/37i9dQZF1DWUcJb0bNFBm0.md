@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUcJb0bNFBm0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUcJb0bNFBm0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUcJb0bNFBm0)
+[pretty](/playlists/pretty/37i9dQZF1DWUcJb0bNFBm0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUcJb0bNFBm0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUcJb0bNFBm0)
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  Cover: srwks\. \(Thailand\)
+> Noise distortion amongst the hazy clouds ☁️  Cover: We Are Imaginary \(Philippines\)
 
-316 songs - 21 hr 45 min
+317 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Long Goodbye](https://open.spotify.com/track/3sSO66ktjkZ8u6cEFsuJ4p) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Hope Hope Hope](https://open.spotify.com/album/5C0ZgBk5cZxBrwetX6Xgz2) | 5:04 | 2024-12-04 | 2025-02-08 |
 | [Lost](https://open.spotify.com/track/3Op63ZmpzYIpF92J3y5m9u) | [My Violainé Morning](https://open.spotify.com/artist/7fAZaqZKCfkyMnZpNLb2bR) | [Lost](https://open.spotify.com/album/5bQBMuWP3fq8UERgeq3oAB) | 6:25 | 2024-06-27 | 2025-10-10 |
 | [Lost](https://open.spotify.com/track/59AUz2usEfAG5a23Q3JIwP) | [Withered Whispers](https://open.spotify.com/artist/3uG0BjYEeeRvTRm75rWJD7) | [Lost](https://open.spotify.com/album/5NAiE3XSwBl0NicxOjpnOK) | 4:26 | 2024-10-31 | 2024-12-05 |
+| [Lost In Your Afterglow](https://open.spotify.com/track/5CrlccE2O1JmmceI8mL0Jr) | [We Are Imaginary](https://open.spotify.com/artist/3KdhDztHsa0h7cySaWrYvr), [Bea Dolloso](https://open.spotify.com/artist/6cWavbMyuL00FKxWXHoPum) | [We Are Imaginary](https://open.spotify.com/album/7e2Hbs2Nx9uxwLukMBSgKT) | 4:16 | 2026-01-12 |  |
 | [Loving You \(Isn't So Hard\)](https://open.spotify.com/track/4p4yq2tUiF5GBGhjxwE80t) | [Betre](https://open.spotify.com/artist/0LFjqFsBRILZ1usRkfwa6l) | [Loving You \(Isn't So Hard\)](https://open.spotify.com/album/2LpBEqfnEMjHRc9Laxems8) | 2:59 | 2024-06-27 | 2025-10-24 |
 | [Mad](https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6) | [aunt robert](https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9) | [Mad](https://open.spotify.com/album/7xr4n4xmcaLFEhlc76fjn4) | 2:34 | 2024-08-08 | 2024-12-05 |
 | [Malaise](https://open.spotify.com/track/68d70gUAWGHroKOssw94kj) | [Rebecca Theodora](https://open.spotify.com/artist/3gOsk0RYhnK0G4rhaCmvef) | [Malaise](https://open.spotify.com/album/6eKkUNG5HF10UtnSqN5oyt) | 5:31 | 2024-06-27 | 2025-10-17 |

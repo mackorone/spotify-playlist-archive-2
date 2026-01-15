@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtVG5o02Mg3.md) - [plain](/playlists/plain/37i9dQZF1DWWtVG5o02Mg3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWtVG5o02Mg3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtVG5o02Mg3.md) - [plain](/playlists/plain/37i9dQZF1DWWtVG5o02Mg3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWtVG5o02Mg3)
 
 ### [COUNTER//CULTURE: Poppy](https://open.spotify.com/playlist/37i9dQZF1DWWtVG5o02Mg3)
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv?si=afc0b53f965f42b8">Poppy's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,704 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,797 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

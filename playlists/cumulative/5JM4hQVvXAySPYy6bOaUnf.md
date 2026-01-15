@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5JM4hQVvXAySPYy6bOaUnf.md) - cumulative - [plain](/playlists/plain/5JM4hQVvXAySPYy6bOaUnf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5JM4hQVvXAySPYy6bOaUnf)
+[pretty](/playlists/pretty/5JM4hQVvXAySPYy6bOaUnf.md) - cumulative - [plain](/playlists/plain/5JM4hQVvXAySPYy6bOaUnf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5JM4hQVvXAySPYy6bOaUnf)
 
 ### [Late Night Thoughts](https://open.spotify.com/playlist/5JM4hQVvXAySPYy6bOaUnf)
 
@@ -17,7 +17,7 @@
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-06-07 |  |
 | [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 | 2020-12-17 |  |
 | [Clouds](https://open.spotify.com/track/0FiInivN1aBhzKM3UtHM3l) | [Before You Exit](https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw) | [Clouds](https://open.spotify.com/album/1bY9EfNogXstDTT1Q3sUCE) | 4:31 | 2021-03-03 |  |
-| [Coffee Breath](https://open.spotify.com/track/2I9zHCCeKJRKMgJ6UJFN9W) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/7q0mdGYnuhBbn1hb4rNmG4) | 2:43 | 2020-10-10 |  |
+| [Coffee Breath](https://open.spotify.com/track/2I9zHCCeKJRKMgJ6UJFN9W) | [Flicka Roe](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/7q0mdGYnuhBbn1hb4rNmG4) | 2:43 | 2020-10-10 |  |
 | [COLORFUL](https://open.spotify.com/track/4oNbnRaCAk6NNNVkvns7xV) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [BOARDING](https://open.spotify.com/album/32zpkIvqSz1poGJQo1pww3) | 3:36 | 2020-12-15 |  |
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2025-11-28 |  |
 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 | 2021-03-03 |  |

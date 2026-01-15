@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 265089,
       "name": "Always Win (Live)",
       "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 262211,
       "name": "Dependable",
       "url": "https://open.spotify.com/track/1IkzykEzwPkDovrZAcCCFP"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209927,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL"
@@ -1972,6 +1972,24 @@
       "duration_ms": 345588,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1uCwbsjZRAFOCV6bfJbdvR"
+    },
+    {
+      "album": {
+        "name": "Bold Right Life",
+        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Wave Your Banner",
+      "url": "https://open.spotify.com/track/55uc68Rku0EI2lTwvDHhoq"
     },
     {
       "album": {

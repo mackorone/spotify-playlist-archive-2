@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUSHGSJhLype.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUSHGSJhLype) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUSHGSJhLype)
+[pretty](/playlists/pretty/37i9dQZF1DWUSHGSJhLype.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUSHGSJhLype) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUSHGSJhLype)
 
-### [Puro Suco do Brasil](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
+### [Puro Suco do Verão](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Pedro Sampaio, Melody, MC Meno K
+> aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Ivete Sangalo
 
-536 songs - 1 day 2 hr 0 min
+537 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Cena De Filme](https://open.spotify.com/track/56GCHT7NiS8pR6Bk7vUlfV) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Cena De Filme](https://open.spotify.com/album/528WbC4aQg0ohpeOWv7Vld) | 2:05 | 2024-02-09 | 2024-03-09 |
 | [CHIHIRO](https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [MTG CHIHIRO](https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6) | 2:31 | 2024-07-19 | 2025-02-15 |
 | [Chuva de Mec](https://open.spotify.com/track/2vocrbYbrwshHuv43eXNx3) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [MC VN RJ](https://open.spotify.com/artist/1D3mXH19FJxGz3Iq9gaXYT), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm) | [Chuva de Mec](https://open.spotify.com/album/6fOBk2fXnKaOQLSc3BIJcp) | 2:42 | 2024-01-19 | 2024-02-10 |
-| [Chá de Sumiço](https://open.spotify.com/track/7BLuzGUOEWVOHb5608Z3aw) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Felipe Farra](https://open.spotify.com/artist/196g29aSKS8LrBlAVJ3N8Z), [Breno Major](https://open.spotify.com/artist/53cEbokP6S7cahtXPXvQ5c) | [Chá de Sumiço](https://open.spotify.com/album/3KuxcnaFb2Dor1ajjTyCWV) | 2:27 | 2025-12-05 |  |
+| [Chá de Sumiço](https://open.spotify.com/track/7BLuzGUOEWVOHb5608Z3aw) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Felipe Farra](https://open.spotify.com/artist/196g29aSKS8LrBlAVJ3N8Z), [Breno Major](https://open.spotify.com/artist/53cEbokP6S7cahtXPXvQ5c) | [Chá de Sumiço](https://open.spotify.com/album/3KuxcnaFb2Dor1ajjTyCWV) | 2:27 | 2025-12-05 | 2026-01-15 |
 | [Clack Bum](https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W) | [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [DJ Borest](https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46) | [Clack Bum](https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H) | 2:21 | 2024-07-19 | 2024-11-08 |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Coisas Que Eu Sei](https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn) | 3:12 | 2023-05-15 | 2024-12-27 |
 | [Coladin \(Minha Deusa\)](https://open.spotify.com/track/3xCkNUiap7EBjqnRldHSSh) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Indícios](https://open.spotify.com/album/3GCtOaO8rqzFGKGfaItCro) | 3:48 | 2023-05-15 | 2024-12-27 |
@@ -510,6 +510,7 @@
 | [Vai Vendo](https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Vai Vendo](https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5) | 2:42 | 2023-05-15 | 2023-07-22 |
 | [Vai Viver](https://open.spotify.com/track/60ILJutBf3XoAfmNafR8mz) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Vai Viver](https://open.spotify.com/album/0tmVFpNaA1in2fz5oK4NVp) | 2:28 | 2024-01-12 | 2024-02-21 |
 | [Vamo de Pagodin](https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Vamo de Pagodin](https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q) | 2:40 | 2024-07-05 |  |
+| [Vampirinha \- Ao Vivo](https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Vampirinha \(Ao Vivo\)](https://open.spotify.com/album/15uji3y7dXE6BVJFrPEk7U) | 3:11 | 2026-01-14 |  |
 | [Vaqueiro Apaixonado](https://open.spotify.com/track/26ArOjriQJspvgotGZgX1X) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [AgroPlay Verão Vol.2](https://open.spotify.com/album/3n88JkN3da4EPoxFTXl4o5) | 2:19 | 2023-05-15 | 2023-10-07 |
 | [Vem Desestressar](https://open.spotify.com/track/7j0N4df9g0jECdfSR07elf) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Vem Desestressar](https://open.spotify.com/album/2P7I1U6tqyLN2pvhYUoKgw) | 1:55 | 2024-05-09 | 2024-05-23 |
 | [Vem Galopar \(Adaptação De Pagode Russo\) \- Ao Vivo](https://open.spotify.com/track/59kjGHcI9eFZKWVZJao4DG) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [São Juão \(Ao Vivo\)](https://open.spotify.com/album/0BkC8Hwrl9wzBg2viFrKor) | 2:00 | 2024-06-14 | 2024-06-28 |

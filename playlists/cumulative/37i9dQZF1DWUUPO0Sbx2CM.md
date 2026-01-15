@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUUPO0Sbx2CM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUUPO0Sbx2CM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUUPO0Sbx2CM)
+[pretty](/playlists/pretty/37i9dQZF1DWUUPO0Sbx2CM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUUPO0Sbx2CM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUUPO0Sbx2CM)
 
 ### [Christian Party](https://open.spotify.com/playlist/37i9dQZF1DWUUPO0Sbx2CM)
 

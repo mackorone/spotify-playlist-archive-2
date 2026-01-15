@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0J0zp7fKKN.md) - [plain](/playlists/plain/37i9dQZF1DWY0J0zp7fKKN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY0J0zp7fKKN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0J0zp7fKKN.md) - [plain](/playlists/plain/37i9dQZF1DWY0J0zp7fKKN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY0J0zp7fKKN)
 
 ### [I Love My HBCU \(Texas Southern University\)](https://open.spotify.com/playlist/37i9dQZF1DWY0J0zp7fKKN)
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,158 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,853 likes - 62 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

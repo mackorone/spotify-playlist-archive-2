@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6SGM9ZiMSfayAmJMNFlX2u.md) - cumulative - [plain](/playlists/plain/6SGM9ZiMSfayAmJMNFlX2u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6SGM9ZiMSfayAmJMNFlX2u)
+[pretty](/playlists/pretty/6SGM9ZiMSfayAmJMNFlX2u.md) - cumulative - [plain](/playlists/plain/6SGM9ZiMSfayAmJMNFlX2u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6SGM9ZiMSfayAmJMNFlX2u)
 
 ### [country 90's](https://open.spotify.com/playlist/6SGM9ZiMSfayAmJMNFlX2u)
 

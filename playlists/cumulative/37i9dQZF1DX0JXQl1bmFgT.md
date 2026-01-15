@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0JXQl1bmFgT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0JXQl1bmFgT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0JXQl1bmFgT)
+[pretty](/playlists/pretty/37i9dQZF1DX0JXQl1bmFgT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0JXQl1bmFgT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0JXQl1bmFgT)
 
 ### [365 Days Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0JXQl1bmFgT)
 

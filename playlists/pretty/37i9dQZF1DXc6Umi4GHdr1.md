@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain](/playlists/plain/37i9dQZF1DXc6Umi4GHdr1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc6Umi4GHdr1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain](/playlists/plain/37i9dQZF1DXc6Umi4GHdr1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc6Umi4GHdr1)
 
 ### [Instrumental Guitar Focus](https://open.spotify.com/playlist/37i9dQZF1DXc6Umi4GHdr1)
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,026 likes - 182 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,160 likes - 182 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

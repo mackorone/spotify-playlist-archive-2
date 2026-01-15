@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0sGRBIx2RwGdIZo89tJabi.md) - [plain](/playlists/plain/0sGRBIx2RwGdIZo89tJabi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0sGRBIx2RwGdIZo89tJabi)
+pretty - [cumulative](/playlists/cumulative/0sGRBIx2RwGdIZo89tJabi.md) - [plain](/playlists/plain/0sGRBIx2RwGdIZo89tJabi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0sGRBIx2RwGdIZo89tJabi)
 
 ### [Story Time Selections with Ekonovah](https://open.spotify.com/playlist/0sGRBIx2RwGdIZo89tJabi)
 

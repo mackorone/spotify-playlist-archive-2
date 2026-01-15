@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxTsNp0Bzwq.md) - [plain](/playlists/plain/37i9dQZF1DXdxTsNp0Bzwq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdxTsNp0Bzwq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxTsNp0Bzwq.md) - [plain](/playlists/plain/37i9dQZF1DXdxTsNp0Bzwq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdxTsNp0Bzwq)
 
 ### [Gameday](https://open.spotify.com/playlist/37i9dQZF1DXdxTsNp0Bzwq)
 

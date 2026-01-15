@@ -367,6 +367,28 @@
     },
     {
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/19YGn9KmIHtc98O1NI9PTL"
+      },
+      "artists": [
+        {
+          "name": "Bailey Pickles",
+          "url": "https://open.spotify.com/artist/3wZmRluxJ9rnRvAymEFVG4"
+        },
+        {
+          "name": "Shelley Harland",
+          "url": "https://open.spotify.com/artist/0lvMuS0iXYOMFHKdnRr02n"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/7C34PGkLIWNIEU0mBFuCT0"
+    },
+    {
+      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -472,6 +494,24 @@
       "duration_ms": 191952,
       "name": "Alone on the Moon",
       "url": "https://open.spotify.com/track/4bnJC64uvoZ598bqwZ6L9L"
+    },
+    {
+      "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/1Z0aEovLpQHjeDUovtw0li"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181022,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/4ilbhTOfIZfNmjRg8zkODW"
     },
     {
       "album": {
@@ -3152,7 +3192,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171008,
       "name": "Flowers For You",
       "url": "https://open.spotify.com/track/0yXp9FN43YfDwYS8MTumW2"
@@ -3830,6 +3870,24 @@
       "duration_ms": 177568,
       "name": "Her",
       "url": "https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX"
+    },
+    {
+      "album": {
+        "name": "Platonic Romance",
+        "url": "https://open.spotify.com/album/0fOGZAml7Km4yrdvKgipLe"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218522,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/526W1GLtLsmwoCPbfMFPkm"
     },
     {
       "album": {
@@ -7828,7 +7886,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221405,
       "name": "ONLY U",
       "url": "https://open.spotify.com/track/3QLgzA5l763xGxsOyz0vrS"
@@ -10628,7 +10686,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 188712,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU"

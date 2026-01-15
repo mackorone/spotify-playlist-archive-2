@@ -709,6 +709,28 @@
     },
     {
       "album": {
+        "name": "Ba Ko Kae?",
+        "url": "https://open.spotify.com/album/20n2K6QSONtFvuKRf2amFJ"
+      },
+      "artists": [
+        {
+          "name": "Lelowhatsgood",
+          "url": "https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch"
+        },
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312648,
+      "name": "Ba Ko Kae?",
+      "url": "https://open.spotify.com/track/4D9Hs33ddPjAZQUijfhcyn"
+    },
+    {
+      "album": {
         "name": "Hayabusa EP",
         "url": "https://open.spotify.com/album/0xKjG7UJ9U4PzYKHX30kYF"
       },
@@ -5730,6 +5752,28 @@
       "duration_ms": 416338,
       "name": "KZN",
       "url": "https://open.spotify.com/track/1pBuaFqikz74StvxjAtf6f"
+    },
+    {
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/7uGZsVZSl9OIt6mkpQzi1d"
+      },
+      "artists": [
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        },
+        {
+          "name": "Solan Lo",
+          "url": "https://open.spotify.com/artist/1wSf79jCXrpZNR7ke1JHmq"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316547,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/5O6w0zFQ3ikygaOvRgfvkv"
     },
     {
       "album": {
@@ -10872,7 +10916,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 341812,
       "name": "Uze Nenye - Gqom Mix",
       "url": "https://open.spotify.com/track/0EusfJElB31aSRIfgduF3H"

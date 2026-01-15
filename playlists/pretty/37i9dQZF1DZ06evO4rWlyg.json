@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 151141,
+  "num_followers": 151421,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAAAgG4uvr8d72cfssIGpGX27",
+  "snapshot_id": "aWbcgAAAAABI4Bn9EaYt1TtZ/etSXp9v",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Venus As A Boy",
+      "url": "https://open.spotify.com/track/48oX55j4gqDw0G80KxzpaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oral",
         "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 282560,
-      "name": "Venus As A Boy",
-      "url": "https://open.spotify.com/track/48oX55j4gqDw0G80KxzpaQ"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00f3ga",
-        "url": "https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 305360,
-      "name": "J\u00f3ga",
-      "url": "https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 295360,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/17tCBb8odaNBZivCojHhvw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J\u00f3ga",
+        "url": "https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 305360,
+      "name": "J\u00f3ga",
+      "url": "https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 314866,
-      "name": "Pagan Poetry",
-      "url": "https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 252360,
       "name": "Human Behaviour",
       "url": "https://open.spotify.com/track/6MYYN85MjM7TARWshRwjyW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 314866,
+      "name": "Pagan Poetry",
+      "url": "https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 329360,
-      "name": "Hidden Place",
-      "url": "https://open.spotify.com/track/1Y4aFRwAwE5Ghm24vaYrnR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 236640,
       "name": "Big Time Sensuality",
       "url": "https://open.spotify.com/track/5diiEB0edX69v9x3e96NyO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 329360,
+      "name": "Hidden Place",
+      "url": "https://open.spotify.com/track/1Y4aFRwAwE5Ghm24vaYrnR"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 101506,
-      "name": "Frosti",
-      "url": "https://open.spotify.com/track/7kyQeUJ6g5GQNHUfV2f79v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 290906,
       "name": "Crying",
       "url": "https://open.spotify.com/track/1R2UhZCSxL1N4kcwa929Fu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 101506,
+      "name": "Frosti",
+      "url": "https://open.spotify.com/track/7kyQeUJ6g5GQNHUfV2f79v"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 308960,
-      "name": "It's Not Up To You",
-      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Enjoy",
-      "url": "https://open.spotify.com/track/4N4qSX4RpU7U5TW6PMg84a"
+      "duration_ms": 308960,
+      "name": "It's Not Up To You",
+      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
     },
     {
       "added_at": null,
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 268106,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri"
+      "duration_ms": 237000,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/4N4qSX4RpU7U5TW6PMg84a"
     },
     {
       "added_at": null,
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selma Songs",
-        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 329360,
-      "name": "I\u2019ve Seen It All",
-      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
+      "duration_ms": 268106,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 338400,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
+      "duration_ms": 329360,
+      "name": "I\u2019ve Seen It All",
+      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 204853,
-      "name": "Oceania",
-      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
+      "duration_ms": 338400,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
     },
     {
       "added_at": null,
@@ -567,6 +551,38 @@
       "duration_ms": 186266,
       "name": "Immature - Mark Bell's Version",
       "url": "https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Oceania",
+      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "History Of Touches",
+      "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "History Of Touches",
-      "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pagan Poetry",
         "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
       },
@@ -655,6 +655,38 @@
       "duration_ms": 146200,
       "name": "Batabid",
       "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 253453,
+      "name": "Declare Independence",
+      "url": "https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's In Our Hands, Vol. 1",
+        "url": "https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG"
     },
     {
       "added_at": null,
@@ -679,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's In Our Hands, Vol. 1",
-        "url": "https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU"
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
       },
       "artists": [
         {
@@ -688,9 +720,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 257519,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG"
+      "duration_ms": 306400,
+      "name": "Mutual Core",
+      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
     },
     {
       "added_at": null,
@@ -715,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
       "artists": [
         {
@@ -724,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 306400,
-      "name": "Mutual Core",
-      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
+      "duration_ms": 368693,
+      "name": "Lionsong",
+      "url": "https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL"
     },
     {
       "added_at": null,
@@ -767,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 368693,
-      "name": "Lionsong",
-      "url": "https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selma Songs",
         "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 218154,
       "name": "Ovule",
       "url": "https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cornucopia Live",
-        "url": "https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 110319,
-      "name": "Show Me Forgiveness - Live",
-      "url": "https://open.spotify.com/track/6aUT7SsRiPfsTbwBreSujj"
     },
     {
       "added_at": null,

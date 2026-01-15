@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/22SFGl79ttWFeXmEF9KsOt.md) - [plain](/playlists/plain/22SFGl79ttWFeXmEF9KsOt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/22SFGl79ttWFeXmEF9KsOt)
+pretty - [cumulative](/playlists/cumulative/22SFGl79ttWFeXmEF9KsOt.md) - [plain](/playlists/plain/22SFGl79ttWFeXmEF9KsOt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/22SFGl79ttWFeXmEF9KsOt)
 
 ### [Dance classics](https://open.spotify.com/playlist/22SFGl79ttWFeXmEF9KsOt)
 

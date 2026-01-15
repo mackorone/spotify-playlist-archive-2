@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjc0HVidGAU.md) - [plain](/playlists/plain/37i9dQZF1DWSjc0HVidGAU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSjc0HVidGAU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjc0HVidGAU.md) - [plain](/playlists/plain/37i9dQZF1DWSjc0HVidGAU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSjc0HVidGAU)
 
 ### [굿보이 \(GOOD BOY\)](https://open.spotify.com/playlist/37i9dQZF1DWSjc0HVidGAU)
 
 > Listen to the soundtracks of GOOD BOY\. \(굿보이의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,620 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,706 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

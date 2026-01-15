@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcLnINu2mUk0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcLnINu2mUk0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcLnINu2mUk0)
+[pretty](/playlists/pretty/37i9dQZF1DXcLnINu2mUk0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcLnINu2mUk0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcLnINu2mUk0)
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Mizzy Miles
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Harold
 
-822 songs - 1 day 19 hr 27 min
+823 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [festa bem louca](https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [festa bem louca](https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l) | 3:08 | 2025-01-24 |  |
 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 | 2022-07-07 |  |
 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 | 2023-06-15 | 2024-11-16 |
-| [Fica À Espera](https://open.spotify.com/track/4n7NYDk3R0InjDTUMWyQ07) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Fica À Espera](https://open.spotify.com/album/47pnlWiEK2a1Weg7OiMbfF) | 3:21 | 2025-08-29 |  |
+| [Fica À Espera](https://open.spotify.com/track/4n7NYDk3R0InjDTUMWyQ07) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Fica À Espera](https://open.spotify.com/album/47pnlWiEK2a1Weg7OiMbfF) | 3:21 | 2025-08-29 | 2026-01-15 |
 | [Ficar Por Cima](https://open.spotify.com/track/4FbFdhugp8J1gEAKoyNVgC) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Ficar Por Cima](https://open.spotify.com/album/5lKdTetLS6JNpekrmmMLMT) | 2:51 | 2025-07-03 | 2025-09-02 |
 | [Ficas Ou Vens](https://open.spotify.com/track/2KKkQxHfoVKXxaCWxuV9L4) | [Tio Edson](https://open.spotify.com/artist/168mcXORIjYn3eugUKAgu2), [Eudreezy](https://open.spotify.com/artist/4SSvV9YET4ifk8VPTHHH24) | [Santíssima Trindade](https://open.spotify.com/album/4D8iaMJdGwf8kl8ZKpJa5T) | 3:23 | 2025-02-21 | 2025-03-21 |
 | [Ficou Tudo Bem](https://open.spotify.com/track/1vWvJFkIrMZUnkxA4A0IUU) | [Sara Monteiro](https://open.spotify.com/artist/5HELMWN5G2dNC2AOXn2VNu) | [Ficou Tudo Bem](https://open.spotify.com/album/7BT0ho7Rb4dlFIkFiHrqqC) | 3:23 | 2023-03-17 | 2023-03-31 |
@@ -499,6 +499,7 @@
 | [No One](https://open.spotify.com/track/6wTAfWC8AfDl9EygNe95o2) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [Biox](https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM) | [No One](https://open.spotify.com/album/19tUNod8E8GEUFfOH5Gk17) | 3:10 | 2024-02-09 | 2024-03-08 |
 | [No Stress No Money](https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [No Stress No Money](https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l) | 2:57 | 2022-08-04 | 2022-09-02 |
 | [Noites Que Vivemos](https://open.spotify.com/track/541PcUR69GcPpoDBo83vys) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [Noites Que Vivemos](https://open.spotify.com/album/4iU0kHCPV9WMLIUkShArY1) | 2:43 | 2024-05-02 | 2024-06-06 |
+| [Nome](https://open.spotify.com/track/3xVRBV0qAmdPH57EkAWodj) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3) | [Nome](https://open.spotify.com/album/3GkHrHQ1o3ZygiZdeSKwTk) | 2:17 | 2026-01-09 |  |
 | [Normal](https://open.spotify.com/track/0zew2jGUrcp12u0wmaWtgQ) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Normal](https://open.spotify.com/album/6z0rQqq8tF8hrRVDlb02wl) | 2:52 | 2024-07-04 | 2025-02-07 |
 | [Nossa História](https://open.spotify.com/track/0FMhIO3swGDiXrxEwX7JFh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Nossa História](https://open.spotify.com/album/6C9301eC7ZSUcIGJMUyOfu) | 3:33 | 2022-09-16 | 2022-10-07 |
 | [Nossa História](https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nossa História](https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT) | 4:13 | 2025-11-14 |  |
@@ -671,8 +672,8 @@
 | [Selva](https://open.spotify.com/track/7M7fp3ErAQQuIAfqUAJ2Ot) | [Cabaceira](https://open.spotify.com/artist/28rxpmIYnxElyIqc1bJDBp) | [Selva](https://open.spotify.com/album/0n9luoSJgWYbZus7nU6qXJ) | 2:54 | 2023-12-22 | 2024-01-19 |
 | [Sem Parar](https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN) | [Vicente Augusto](https://open.spotify.com/artist/50bEMb8JJd2GxHQF1AoOV7), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [Sem Parar](https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV) | 3:16 | 2023-08-17 | 2023-09-08 |
 | [Sem Ti](https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6) | [None](https://open.spotify.com/artist/2DUnriCSKtsAbjjnvROh9x) | [Sem Ti](https://open.spotify.com/album/70lTT4A9jPNXaAgbTgw2f7) | 3:06 | 2023-12-08 | 2024-01-19 |
-| [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 | 2023-06-29 | 2026-01-05 |
-| [Semana](https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Amanheceu](https://open.spotify.com/album/2esz1lg35mDAU8SrNlxrGr) | 2:41 | 2025-07-10 |  |
+| [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 | 2023-06-29 |  |
+| [Semana](https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Amanheceu](https://open.spotify.com/album/2esz1lg35mDAU8SrNlxrGr) | 2:41 | 2025-07-10 | 2026-01-15 |
 | [Sentimento Claro](https://open.spotify.com/track/2fFMcXmF5eTXRymJe4CM0n) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Sentimento Claro](https://open.spotify.com/album/41xlHVxJaHyXSUBD6Vl9vw) | 3:10 | 2022-10-06 | 2022-10-28 |
 | [Sentimentos Acabam](https://open.spotify.com/track/7MDv6pCAscqW0spDgAoGaW) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [PILOTO](https://open.spotify.com/artist/4XYL8fTHht0gOWOPH9PXHJ), [Young Andrews Rockstar](https://open.spotify.com/artist/4fmagPKHMZvVVuofJ04q4i) | [Sentimentos Acabam](https://open.spotify.com/album/1yigosoZEhjG0G8r9pZQjB) | 3:39 | 2022-07-21 | 2022-07-29 |
 | [Ser Tua](https://open.spotify.com/track/5FbRfLcCPfony92UnLd2vQ) | [Mia Rose](https://open.spotify.com/artist/6yzNtbywm70v7PTGZSKqU2), [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Ser Tua](https://open.spotify.com/album/3eC2nn5A7uEXKNKTcrspu6) | 2:56 | 2023-03-01 | 2023-06-30 |

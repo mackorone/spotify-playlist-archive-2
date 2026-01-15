@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQxwX56Xjpe.md) - [plain](/playlists/plain/37i9dQZF1DXcQxwX56Xjpe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcQxwX56Xjpe)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQxwX56Xjpe.md) - [plain](/playlists/plain/37i9dQZF1DXcQxwX56Xjpe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcQxwX56Xjpe)
 
 ### [COUNTER//CULTURE: Lenny Kravitz](https://open.spotify.com/playlist/37i9dQZF1DXcQxwX56Xjpe)
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7?si=fb9c4fa1bdc64f0e">Lenny Kravitz's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,060 likes - 32 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,191 likes - 32 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

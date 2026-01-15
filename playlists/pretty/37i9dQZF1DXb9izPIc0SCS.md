@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9izPIc0SCS.md) - [plain](/playlists/plain/37i9dQZF1DXb9izPIc0SCS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb9izPIc0SCS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9izPIc0SCS.md) - [plain](/playlists/plain/37i9dQZF1DXb9izPIc0SCS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb9izPIc0SCS)
 
 ### [Indie Rock Hits](https://open.spotify.com/playlist/37i9dQZF1DXb9izPIc0SCS)
 
 > True indie rock hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,145 likes - 109 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,664 likes - 109 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

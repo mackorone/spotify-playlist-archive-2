@@ -11514,10 +11514,32 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 237000,
       "name": "When A Cowboy Prays",
       "url": "https://open.spotify.com/track/5El4el5fJrMq0onm31WEDo"
+    },
+    {
+      "album": {
+        "name": "When A Cowboy Prays (with Cody Johnson)",
+        "url": "https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "When A Cowboy Prays - with Cody Johnson",
+      "url": "https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo"
     },
     {
       "album": {

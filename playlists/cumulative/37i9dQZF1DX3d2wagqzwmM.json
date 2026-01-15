@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 181117,
       "name": "Bring Back The Techno",
       "url": "https://open.spotify.com/track/4eFSZCcdSnSSjdA72LoDbo"
@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210857,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/4eIimnSW4vhd4Mljoqbaqx"
@@ -5578,7 +5578,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162578,
       "name": "Hypnotising",
       "url": "https://open.spotify.com/track/3dMeC0ZvUkklhOHIEzQcfH"
@@ -11514,7 +11514,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186315,
       "name": "Sound of the Underground",
       "url": "https://open.spotify.com/track/6izkirLr49VxNFpHJvi37a"
@@ -12720,7 +12720,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139100,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/6XW6hJhSEqp9Jev6UbcLTk"
@@ -13221,6 +13221,32 @@
     },
     {
       "album": {
+        "name": "Transmission",
+        "url": "https://open.spotify.com/album/6SAmBQXySShXE2X5Cm2SuN"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        },
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/4mibonjnCp3wKEzoEphoTs"
+    },
+    {
+      "album": {
         "name": "Tunnel",
         "url": "https://open.spotify.com/album/2ZIE7kvVdqeS6cuQr9yCkR"
       },
@@ -13316,6 +13342,24 @@
       "duration_ms": 155076,
       "name": "Ultimate Seduction",
       "url": "https://open.spotify.com/track/4SvUSuY1PbkN2OqZvAUwlT"
+    },
+    {
+      "album": {
+        "name": "Unfaithful",
+        "url": "https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231891,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8"
     },
     {
       "album": {
@@ -13654,6 +13698,28 @@
       "duration_ms": 199687,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/17IEdpDXGZdtrJxjTWoZIL"
+    },
+    {
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/5h68xM7y94PgItlUJrSK7M"
+      },
+      "artists": [
+        {
+          "name": "Manse",
+          "url": "https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y"
+        },
+        {
+          "name": "Fedo",
+          "url": "https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187617,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/74a9POPKLVfLqqrYY65JmC"
     },
     {
       "album": {

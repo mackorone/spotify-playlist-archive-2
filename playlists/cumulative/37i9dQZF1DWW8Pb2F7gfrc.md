@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW8Pb2F7gfrc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW8Pb2F7gfrc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW8Pb2F7gfrc)
+[pretty](/playlists/pretty/37i9dQZF1DWW8Pb2F7gfrc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW8Pb2F7gfrc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW8Pb2F7gfrc)
 
 ### [Asian Pop Festival 2025 \[아시안 팝 페스티벌\]](https://open.spotify.com/playlist/37i9dQZF1DWW8Pb2F7gfrc)
 
@@ -366,7 +366,7 @@
 | [Wild Flower](https://open.spotify.com/track/4pT0CQMdBUXa6m9hIO1Rm9) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [Wild Flower \(Kim Seong\-geun's Winter Vacation X THE SOLUTIONS\) \[Original Soundtrack\]](https://open.spotify.com/album/3xM4PS68um9nTMv8UYXaSL) | 3:51 | 2025-07-07 |  |
 | [Will We Be a Melody](https://open.spotify.com/track/5D4ZBKq21jlQW1HUIsg5UZ) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [New Century Masterpiece Cinema](https://open.spotify.com/album/5KwPMypuECPYBPTNTxKfmy) | 4:58 | 2025-06-13 |  |
 | [Windy Afternoon](https://open.spotify.com/track/3ggXaHkbtPpTWIa4ljIbUr) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Soyokaze Apartment Room 201](https://open.spotify.com/album/05b7MdxKhnHe7zA3HRVw2c) | 4:53 | 2025-07-07 |  |
-| [Wish](https://open.spotify.com/track/5D4Hn1f5oiy2JaAyfTRZJ8) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [Wish](https://open.spotify.com/album/4CkHdnVpJ7mZGZ6vzmbpmB) | 4:37 | 2025-07-07 |  |
+| [Wish](https://open.spotify.com/track/5D4Hn1f5oiy2JaAyfTRZJ8) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.02](https://open.spotify.com/album/4CkHdnVpJ7mZGZ6vzmbpmB) | 4:37 | 2025-07-07 |  |
 | [Wish](https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY) | 5:55 | 2025-06-13 |  |
 | [Woof](https://open.spotify.com/track/53h22PaazdM3gIFSZnrPpL) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 1:38 | 2025-07-07 |  |
 | [Youngsunwi](https://open.spotify.com/track/6ltUEOv4UaOLG3xt0iRFri) | [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp), [Nekoseopsyan](https://open.spotify.com/artist/1dp4s4kKQhB40Rpgw3hNmL) | [KPOP Rhythm, Flow & Tone Vol\. 8](https://open.spotify.com/album/25EL3RTwABUvViWf4I1Qok) | 4:17 | 2025-06-13 | 2025-07-08 |

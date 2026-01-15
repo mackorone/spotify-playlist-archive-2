@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/61rq4jJEn9oH7o63cCmT2t.md) - cumulative - [plain](/playlists/plain/61rq4jJEn9oH7o63cCmT2t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/61rq4jJEn9oH7o63cCmT2t)
+[pretty](/playlists/pretty/61rq4jJEn9oH7o63cCmT2t.md) - cumulative - [plain](/playlists/plain/61rq4jJEn9oH7o63cCmT2t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/61rq4jJEn9oH7o63cCmT2t)
 
 ### [I Don't Want to Adult This Week](https://open.spotify.com/playlist/61rq4jJEn9oH7o63cCmT2t)
 

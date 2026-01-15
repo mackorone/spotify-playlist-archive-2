@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoOVMmVDtz6.md) - [plain](/playlists/plain/37i9dQZF1DWVoOVMmVDtz6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVoOVMmVDtz6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoOVMmVDtz6.md) - [plain](/playlists/plain/37i9dQZF1DWVoOVMmVDtz6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVoOVMmVDtz6)
 
 ### [Upstate](https://open.spotify.com/playlist/37i9dQZF1DWVoOVMmVDtz6)
 
 > greenery & humid air 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,619 likes - 103 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,141 likes - 103 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoOVMmVDtz6.md) - [plain]
 | 102 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 103 | [All My Days](https://open.spotify.com/track/6imKHLNom4xjEj2n3ZbKHr) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/39xSDFXhE1RmrqR6mF2bXU) | 4:57 |
 
-Snapshot ID: `AAAAAFkNhZGHGT/AlOfIqG9N6eRcEWb1`
+Snapshot ID: `AAAAAJ16sDNq3avKbTA7zHceE1QmRI9t`

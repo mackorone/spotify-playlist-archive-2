@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain](/playlists/plain/37i9dQZF1DX8dPxJstGRJY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8dPxJstGRJY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain](/playlists/plain/37i9dQZF1DX8dPxJstGRJY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8dPxJstGRJY)
 
 ### [Classical Crossover](https://open.spotify.com/playlist/37i9dQZF1DX8dPxJstGRJY)
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,565 likes - 84 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,047 likes - 84 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/1WbjnZYjrqJtumqrSBwlMb.md) - cumulative - [plain](/playlists/plain/1WbjnZYjrqJtumqrSBwlMb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1WbjnZYjrqJtumqrSBwlMb)
+[pretty](/playlists/pretty/1WbjnZYjrqJtumqrSBwlMb.md) - cumulative - [plain](/playlists/plain/1WbjnZYjrqJtumqrSBwlMb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1WbjnZYjrqJtumqrSBwlMb)
 
 ### [The True Benny Mix](https://open.spotify.com/playlist/1WbjnZYjrqJtumqrSBwlMb)
 
 > Objectively good music
 
-1,254 songs - 3 day 4 hr 51 min
+1,256 songs - 3 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Battlefield](https://open.spotify.com/track/2Y0DLfSAncXNhn2tOjmvSD) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 1:54 | 2025-03-07 |  |
 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 | 2022-10-18 |  |
 | [Be Your Drug](https://open.spotify.com/track/73KET3327jJ8M42hVqRIEw) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Happy](https://open.spotify.com/album/0SVNUvUTd8ab9VmvguVIQf) | 2:28 | 2024-05-10 | 2024-05-20 |
+| [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2026-01-07 |  |
 | [Beautiful World](https://open.spotify.com/track/4f4CAiVf1lTCNJgBi1mVKn) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 2:35 | 2025-12-10 |  |
 | [Before The Day Is Over](https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:33 | 2022-11-06 |  |
 | [Before You Were Mine](https://open.spotify.com/track/2hy7LS3pvWnPrPMAoCN6ys) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [If This Isn’t Nice, I Don’t Know What Is](https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP) | 2:15 | 2021-08-16 |  |
@@ -477,6 +478,7 @@
 | [Home \(Metro Boomin & Don Toliver, Lil Uzi Vert\)](https://open.spotify.com/track/2qlBAT108lYOzlXhBxBqEv) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:15 | 2023-06-16 |  |
 | [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:23 | 2023-12-15 |  |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2023-05-29 |  |
+| [Hooray Hooray Hooray](https://open.spotify.com/track/7iqvMonmnWHm9ExEW9LimS) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:32 | 2026-01-08 |  |
 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5gguiSurLMRJwKPTGbEj5r) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/album/1AhoopChurKE2aAHPbh9Lo) | 3:57 | 2025-04-19 |  |
 | [Hot Knifer](https://open.spotify.com/track/51jG0OlS5GWuunFH05NyC6) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 4:08 | 2022-08-30 |  |
 | [HOT WIND BLOWS \(feat\. Lil Wayne\)](https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:35 | 2022-07-21 |  |

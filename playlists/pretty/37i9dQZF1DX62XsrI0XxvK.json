@@ -1,13 +1,29 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Nabila Ellisa, Bianura",
-  "num_followers": 13721,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Aziz Hedra",
+  "num_followers": 13735,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0OZINHpUnScyb15qEDZS2BLXbt",
+  "snapshot_id": "AAAAAB7mc58ckkhnvJZiHw9T+wNGp/lU",
   "tracks": [
+    {
+      "added_at": "2026-01-08 19:00:28",
+      "album": {
+        "name": "I Don't Know Anymore (Live Session)",
+        "url": "https://open.spotify.com/album/7LC8lDS175rIUcWD83IAzo"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "I Don't Know Anymore (Live Session)",
+      "url": "https://open.spotify.com/track/2sxP2jSVMq59dDj5nVpoTn"
+    },
     {
       "added_at": "2025-12-11 18:00:19",
       "album": {
@@ -661,26 +677,6 @@
       "url": "https://open.spotify.com/track/3Vn8GxxDb2RVsKXccq8C5l"
     },
     {
-      "added_at": "2025-10-23 17:00:26",
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/3fG3Pg6tLeTfXlWySGuE1v"
-      },
-      "artists": [
-        {
-          "name": "Elmand",
-          "url": "https://open.spotify.com/artist/5Ajt8UGOkZoTRDGA1sqyxz"
-        },
-        {
-          "name": "New Sound Generation",
-          "url": "https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/5jtVY2GJNGMLr4HuPQWwKp"
-    },
-    {
       "added_at": "2025-10-02 17:00:33",
       "album": {
         "name": "Ibukota",
@@ -991,22 +987,6 @@
       "duration_ms": 214956,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1IHGk33iYHS1m5yX6ucRyl"
-    },
-    {
-      "added_at": "2025-08-14 19:00:04",
-      "album": {
-        "name": "Lupa Daratan",
-        "url": "https://open.spotify.com/album/7zqXHDGTJuEkTKiOUyM2sM"
-      },
-      "artists": [
-        {
-          "name": "Ticya",
-          "url": "https://open.spotify.com/artist/0NbMfuIv1DlbPuBZqqhK27"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Lupa Daratan",
-      "url": "https://open.spotify.com/track/0ze5tL5lom0zD3MFrH0Gz3"
     },
     {
       "added_at": "2025-08-21 19:00:33",
@@ -1641,7 +1621,7 @@
         }
       ],
       "duration_ms": 238997,
-      "name": "Status Palsu",
+      "name": "status palsu",
       "url": "https://open.spotify.com/track/2Q0glA9LEusp3MlGl26VNS"
     },
     {
@@ -1663,22 +1643,6 @@
       "duration_ms": 241088,
       "name": "Sialan",
       "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Senopati in the Rain",
-        "url": "https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31"
-      },
-      "artists": [
-        {
-          "name": "Jordan Susanto",
-          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
-        }
-      ],
-      "duration_ms": 260790,
-      "name": "Senopati in the Rain",
-      "url": "https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt"
     },
     {
       "added_at": "2025-06-05 17:05:22",

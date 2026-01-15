@@ -1,6 +1,6 @@
 {
   "description": "Il meglio dell'indie italiano nel 2025, secondo i nostri Editor! Cover: Lucio Corsi",
-  "num_followers": 18447,
+  "num_followers": 18483,
   "original_name": "Best of Indie Italia 2025",
   "owner": {
     "name": "Spotify",
@@ -664,12 +664,12 @@
       },
       "artists": [
         {
-          "name": "Colombre",
-          "url": "https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1"
-        },
-        {
           "name": "Maria Antonietta",
           "url": "https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb"
+        },
+        {
+          "name": "Colombre",
+          "url": "https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1"
         }
       ],
       "duration_ms": 177148,

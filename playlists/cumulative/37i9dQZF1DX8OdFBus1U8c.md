@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8OdFBus1U8c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8OdFBus1U8c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8OdFBus1U8c)
+[pretty](/playlists/pretty/37i9dQZF1DX8OdFBus1U8c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8OdFBus1U8c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8OdFBus1U8c)
 
 ### [RAP 91 Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 

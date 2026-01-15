@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain](/playlists/plain/37i9dQZF1DXb02clgTq0N7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb02clgTq0N7)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain](/playlists/plain/37i9dQZF1DXb02clgTq0N7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb02clgTq0N7)
 
 ### [Corridos con Banda](https://open.spotify.com/playlist/37i9dQZF1DXb02clgTq0N7)
 

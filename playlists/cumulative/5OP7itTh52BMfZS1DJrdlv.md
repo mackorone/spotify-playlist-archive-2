@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5OP7itTh52BMfZS1DJrdlv.md) - cumulative - [plain](/playlists/plain/5OP7itTh52BMfZS1DJrdlv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5OP7itTh52BMfZS1DJrdlv)
+[pretty](/playlists/pretty/5OP7itTh52BMfZS1DJrdlv.md) - cumulative - [plain](/playlists/plain/5OP7itTh52BMfZS1DJrdlv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5OP7itTh52BMfZS1DJrdlv)
 
 ### [100 Greatest Christmas Songs Ever](https://open.spotify.com/playlist/5OP7itTh52BMfZS1DJrdlv)
 

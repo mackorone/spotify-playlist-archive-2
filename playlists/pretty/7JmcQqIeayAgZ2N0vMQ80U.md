@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7JmcQqIeayAgZ2N0vMQ80U.md) - [plain](/playlists/plain/7JmcQqIeayAgZ2N0vMQ80U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7JmcQqIeayAgZ2N0vMQ80U)
+pretty - [cumulative](/playlists/cumulative/7JmcQqIeayAgZ2N0vMQ80U.md) - [plain](/playlists/plain/7JmcQqIeayAgZ2N0vMQ80U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7JmcQqIeayAgZ2N0vMQ80U)
 
 ### [Clean Pop Hits](https://open.spotify.com/playlist/7JmcQqIeayAgZ2N0vMQ80U)
 
 > Clean Versions of Your Favourite Hits! Includes The Weeknd, Justin Bieber, Shawn Mendes and more! Cover: Taylor Swift
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 4,525 likes - 87 songs - 4 hr 33 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 4,522 likes - 87 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

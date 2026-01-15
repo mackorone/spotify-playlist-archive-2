@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZeis6l3TaSE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZeis6l3TaSE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZeis6l3TaSE)
+[pretty](/playlists/pretty/37i9dQZF1DWZeis6l3TaSE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZeis6l3TaSE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZeis6l3TaSE)
 
 ### [Everything Now Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWZeis6l3TaSE)
 

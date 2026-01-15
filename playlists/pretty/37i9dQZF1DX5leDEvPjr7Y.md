@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5leDEvPjr7Y.md) - [plain](/playlists/plain/37i9dQZF1DX5leDEvPjr7Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5leDEvPjr7Y)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5leDEvPjr7Y.md) - [plain](/playlists/plain/37i9dQZF1DX5leDEvPjr7Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5leDEvPjr7Y)
 
 ### [Mixtape \#11 Maya Hawke "Enlightened and Completely Hopeless" ](https://open.spotify.com/playlist/37i9dQZF1DX5leDEvPjr7Y)
 
 > A playlist by <a href="spotify:artist:4e9vQfyvvDlcQAkjSdFE4x">Maya Hawke</a> inspired by "Big Idea" from her new album <a href="spotify:album:5AyYM1rZBAiLO0EcgLEaJ2">Chaos Angel</a> \. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,688 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,843 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

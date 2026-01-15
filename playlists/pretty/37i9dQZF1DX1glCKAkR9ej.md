@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1glCKAkR9ej.md) - [plain](/playlists/plain/37i9dQZF1DX1glCKAkR9ej) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1glCKAkR9ej)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1glCKAkR9ej.md) - [plain](/playlists/plain/37i9dQZF1DX1glCKAkR9ej) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1glCKAkR9ej)
 
 ### [Plaqueboymax's Taste](https://open.spotify.com/playlist/37i9dQZF1DX1glCKAkR9ej)
 
 > Sophisticated palates only\. Curated by: Plaqueboymax
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,720 likes - 34 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,985 likes - 34 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

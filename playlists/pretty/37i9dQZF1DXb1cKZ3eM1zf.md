@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain](/playlists/plain/37i9dQZF1DXb1cKZ3eM1zf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb1cKZ3eM1zf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain](/playlists/plain/37i9dQZF1DXb1cKZ3eM1zf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb1cKZ3eM1zf)
 
 ### [Pinkpop Best of \- 2024](https://open.spotify.com/playlist/37i9dQZF1DXb1cKZ3eM1zf)
 

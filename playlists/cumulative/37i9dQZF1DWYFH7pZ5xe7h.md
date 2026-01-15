@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYFH7pZ5xe7h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYFH7pZ5xe7h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYFH7pZ5xe7h)
+[pretty](/playlists/pretty/37i9dQZF1DWYFH7pZ5xe7h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYFH7pZ5xe7h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYFH7pZ5xe7h)
 
 ### [This Is Mahler](https://open.spotify.com/playlist/37i9dQZF1DWYFH7pZ5xe7h)
 

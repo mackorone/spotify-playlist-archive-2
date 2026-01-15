@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwWInfdJ5vk.md) - [plain](/playlists/plain/37i9dQZF1DWXwWInfdJ5vk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXwWInfdJ5vk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwWInfdJ5vk.md) - [plain](/playlists/plain/37i9dQZF1DWXwWInfdJ5vk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXwWInfdJ5vk)
 
 ### [This Is Wiz Khalifa](https://open.spotify.com/playlist/37i9dQZF1DWXwWInfdJ5vk)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92BFLq2w5m5.md) - [plain](/playlists/plain/37i9dQZF1DX92BFLq2w5m5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX92BFLq2w5m5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92BFLq2w5m5.md) - [plain](/playlists/plain/37i9dQZF1DX92BFLq2w5m5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX92BFLq2w5m5)
 
 ### [Windrush: The Legacy](https://open.spotify.com/playlist/37i9dQZF1DX92BFLq2w5m5)
 
 > A playlist curated by Ezra Collective celebrating the legacy the Windrush Generation has on the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,453 likes - 45 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,490 likes - 45 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

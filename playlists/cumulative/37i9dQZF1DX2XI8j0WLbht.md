@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2XI8j0WLbht.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2XI8j0WLbht) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2XI8j0WLbht)
+[pretty](/playlists/pretty/37i9dQZF1DX2XI8j0WLbht.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2XI8j0WLbht) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2XI8j0WLbht)
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Kevin Kaarl en portada.
+> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-249 songs - 16 hr 15 min
+250 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Hasta la Piel](https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 4:01 | 2025-05-30 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2025-05-30 |  |
 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 | 2023-02-22 | 2025-05-31 |
+| [High in the sky](https://open.spotify.com/track/1vbE1yM9H7CVm4Gh5ElvQy) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [High in the sky](https://open.spotify.com/album/7bvIpDC81g837GCCRTlLmF) | 2:33 | 2026-01-09 |  |
 | [Hoy Vine Aquí](https://open.spotify.com/track/2apPcRsJaMNm8Bbsr9qDZP) | [Ramita de Cedro](https://open.spotify.com/artist/4QWlbXuMrZRkeRIKbsyRpJ), [RC](https://open.spotify.com/artist/6qRRkW7d2ptDGSc50FdxVZ) | [Ramita de Cedro](https://open.spotify.com/album/5VOnaIGOP0PruYLBwu7F0w) | 5:35 | 2022-03-04 | 2025-05-31 |
 | [Igual No Debo](https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Igual No Debo](https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso) | 2:43 | 2024-10-11 | 2025-05-31 |
 | [La Bamba Rebelde](https://open.spotify.com/track/61eRbW77tBH1SjQrGkZvdt) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/0o4Yp01humYmlsZ4Jnhs3g) | 5:21 | 2022-03-04 | 2024-10-12 |
@@ -207,7 +208,7 @@
 | [Señor Presidente](https://open.spotify.com/track/6z3BlkIqrvrHBn2nPJVJFh) | [Los Mocosos](https://open.spotify.com/artist/3iZwn8c4lsHa2r6M4BKVAT) | [American Us](https://open.spotify.com/album/39hfHdufLFVsNpymfhyrsh) | 4:52 | 2022-03-04 | 2024-04-19 |
 | [si me esperas](https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [si me esperas](https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r) | 3:00 | 2025-05-30 |  |
 | [Si te mentí](https://open.spotify.com/track/5wFWF4ykbDm9mXdLY5qmdc) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Si te mentí](https://open.spotify.com/album/1h5Ms3dB19s0Ne5bWT6Gqq) | 2:53 | 2025-06-24 |  |
-| [Siempre Simón y Nunca Nel](https://open.spotify.com/track/3jE7MBxIJgBPD28W10UKpe) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 4:01 | 2025-05-30 |  |
+| [Siempre Simón y Nunca Nel](https://open.spotify.com/track/3jE7MBxIJgBPD28W10UKpe) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 4:01 | 2025-05-30 | 2026-01-15 |
 | [Siempre Te Busqué](https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:25 | 2025-05-30 |  |
 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 | 2025-05-30 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2025-05-30 |  |

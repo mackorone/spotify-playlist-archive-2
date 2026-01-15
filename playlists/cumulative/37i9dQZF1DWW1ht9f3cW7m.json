@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "peach is an indie pop playlist \ud83e\udd64\ncover: Deyaz",
+  "description": "peach is an indie pop playlist \ud83e\udd64\ncover: Jenny On Holiday",
   "name": "peach",
   "tracks": [
     {
@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "always you",
+        "url": "https://open.spotify.com/album/3XqYJsC1bP3vYG7XU8SZtJ"
+      },
+      "artists": [
+        {
+          "name": "Orlando",
+          "url": "https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174461,
+      "name": "always you",
+      "url": "https://open.spotify.com/track/570WBFl758IxWNP59GA9an"
+    },
+    {
+      "album": {
         "name": "Amelie",
         "url": "https://open.spotify.com/album/6cX0wcvYOyANX14cz9hm27"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 270472,
       "name": "Back in Town - Stripped with Samia",
       "url": "https://open.spotify.com/track/6AGeddC5JsYE9l2WsebYtc"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171753,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
@@ -1349,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Brighter Than Before",
+        "url": "https://open.spotify.com/album/6lldZ0qMr4lFrmGYSJbtgd"
+      },
+      "artists": [
+        {
+          "name": "Raynor",
+          "url": "https://open.spotify.com/artist/6tPWER6b155VUhE7eIJdtb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146491,
+      "name": "Brighter Than Before",
+      "url": "https://open.spotify.com/track/1Mu3Eu833Ry0rbdiOBTF5F"
+    },
+    {
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG"
       },
@@ -1414,7 +1450,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213250,
       "name": "Bully",
       "url": "https://open.spotify.com/track/7hhofXZVulCPtTtDH27e0o"
@@ -1562,6 +1598,24 @@
       "duration_ms": 234228,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
+    },
+    {
+      "album": {
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177421,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
     },
     {
       "album": {
@@ -1886,7 +1940,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 102408,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/07Kz28z67deFipYAFwOHZJ"
@@ -2128,6 +2182,28 @@
       "duration_ms": 195803,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/5kAH1wvro8j2S2GPczmGlI"
+    },
+    {
+      "album": {
+        "name": "Dare To Yearn",
+        "url": "https://open.spotify.com/album/0sjZbi1xl7L7gbEskDtEZY"
+      },
+      "artists": [
+        {
+          "name": "SANDY",
+          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
+        },
+        {
+          "name": "Phoebe Isobel",
+          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153581,
+      "name": "Dare To Yearn",
+      "url": "https://open.spotify.com/track/0vTKjpGGsaSjQl6wJiMly3"
     },
     {
       "album": {
@@ -2438,6 +2514,24 @@
       "duration_ms": 163998,
       "name": "DPYB",
       "url": "https://open.spotify.com/track/28yZyKhLOsBmIXnvgMqZix"
+    },
+    {
+      "album": {
+        "name": "Dream Of Mine",
+        "url": "https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243570,
+      "name": "Dream Of Mine",
+      "url": "https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB"
     },
     {
       "album": {
@@ -2752,7 +2846,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 191595,
       "name": "Fault Line",
       "url": "https://open.spotify.com/track/16hJb6Q1lb22hVc4IsJoCo"
@@ -3328,7 +3422,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 222106,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
@@ -3346,7 +3440,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178025,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/0P5PPuVLKdyHnWdjbOeMxa"
@@ -3494,7 +3588,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193539,
       "name": "HABITS",
       "url": "https://open.spotify.com/track/5bU8vnw8Yv4v7IJXz0BhVD"
@@ -4082,6 +4176,24 @@
       "duration_ms": 168712,
       "name": "I Want To",
       "url": "https://open.spotify.com/track/6Qy3Cu6LR03vzYlR2og4i4"
+    },
+    {
+      "album": {
+        "name": "I'm Crying, Are You?",
+        "url": "https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180153,
+      "name": "I'm Crying, Are You?",
+      "url": "https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ"
     },
     {
       "album": {
@@ -5076,7 +5188,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 288945,
       "name": "Middle Man",
       "url": "https://open.spotify.com/track/0zPWBQTSVyn7dS2OXU7Ng9"
@@ -5717,6 +5829,24 @@
     },
     {
       "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/2ffPAuQMKRWs4vOoeonRuo"
+      },
+      "artists": [
+        {
+          "name": "Connie Talbot",
+          "url": "https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189129,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/0OpVvLqe7KImD3RXXDizTt"
+    },
+    {
+      "album": {
         "name": "Pacemaker",
         "url": "https://open.spotify.com/album/620asHETGznhXwYUUFP3TB"
       },
@@ -6135,6 +6265,24 @@
     },
     {
       "album": {
+        "name": "The Crux Deluxe",
+        "url": "https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248026,
+      "name": "Purgatory Silverstar",
+      "url": "https://open.spotify.com/track/2YhtFbFMTbMgGj7F0PCK3A"
+    },
+    {
+      "album": {
         "name": "Pylonz (feat. SOFY)",
         "url": "https://open.spotify.com/album/41DncHDKfjpnIUmbDMiFWb"
       },
@@ -6172,6 +6320,24 @@
       "duration_ms": 258829,
       "name": "Quick Fix",
       "url": "https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq"
+    },
+    {
+      "album": {
+        "name": "Quicksand Heart",
+        "url": "https://open.spotify.com/album/7mkv6Reo0oxld8GyMNWVs8"
+      },
+      "artists": [
+        {
+          "name": "Jenny on Holiday",
+          "url": "https://open.spotify.com/artist/3wHAE4ulAeuwZfQOMWArXD"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221129,
+      "name": "Quicksand Heart",
+      "url": "https://open.spotify.com/track/10sBS8Ko7OdndQKsGNSpBA"
     },
     {
       "album": {
@@ -6553,6 +6719,24 @@
     },
     {
       "album": {
+        "name": "say that!",
+        "url": "https://open.spotify.com/album/4jpziBw6gukWVJvttTIjSp"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "say that!",
+      "url": "https://open.spotify.com/track/39Qfofwh7Ejs5Yl8x3hNXX"
+    },
+    {
+      "album": {
         "name": "Saying \u201cNo\u201d",
         "url": "https://open.spotify.com/album/4enPd0cof71ZE5VSIi4zQ3"
       },
@@ -6802,7 +6986,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 230500,
       "name": "Shine For You",
       "url": "https://open.spotify.com/track/03miJFn1qdHp8HRHCS9bHO"
@@ -6932,6 +7116,24 @@
       "duration_ms": 194520,
       "name": "Sisyphus",
       "url": "https://open.spotify.com/track/3Hcd9r6HVXQAV0vYBIo1ea"
+    },
+    {
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/0uOyPUidLoP5Ykkrw1eY2V"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208412,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw"
     },
     {
       "album": {
@@ -7526,7 +7728,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209640,
       "name": "The Desire To Be Perfect",
       "url": "https://open.spotify.com/track/5U0CEs4WVWQoeH9E042oxO"
@@ -7839,6 +8041,24 @@
     },
     {
       "album": {
+        "name": "Turns Out I'm Amazing",
+        "url": "https://open.spotify.com/album/641tMgvBwVOhW7HzaisxHS"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207336,
+      "name": "Turns Out I'm Amazing",
+      "url": "https://open.spotify.com/track/362gyXf96N1s6Zir6oM6vM"
+    },
+    {
+      "album": {
         "name": "TV Show",
         "url": "https://open.spotify.com/album/758tMDw0wXQKLlhmbTErqI"
       },
@@ -8030,7 +8250,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 124590,
       "name": "use me!!!!!!!",
       "url": "https://open.spotify.com/track/5Kq49f1Yae96EXQgWKUbMM"

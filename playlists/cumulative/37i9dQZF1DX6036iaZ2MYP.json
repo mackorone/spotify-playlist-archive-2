@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Khaid",
+  "description": "Tracks popping off in the Afro scene. Cover: Fiokee",
   "name": "Afro Station",
   "tracks": [
     {
@@ -4440,7 +4440,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182960,
       "name": "Commando (feat. Ophi)",
       "url": "https://open.spotify.com/track/3HRNABcad5M45prcLaBi7n"
@@ -5642,7 +5642,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 152783,
       "name": "Dis-moi que tu m'aimes",
       "url": "https://open.spotify.com/track/1w4skI13FluHsfYl3PRwe0"
@@ -5986,6 +5986,32 @@
       "duration_ms": 147136,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3t2UkOpuNwp89xhvRYzLuT"
+    },
+    {
+      "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/1VE7SpwPGgN6O1fFoUNOPa"
+      },
+      "artists": [
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        },
+        {
+          "name": "Saffeh",
+          "url": "https://open.spotify.com/artist/6eSYjiVkHcfFiHz8tBlSOz"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137083,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/4vUJrd0JQ3CdLiBeHJUsvp"
     },
     {
       "album": {
@@ -8602,7 +8628,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 214368,
       "name": "Goodboy (Kweku)",
       "url": "https://open.spotify.com/track/3g3nt6cCAUIgJ3pRl0pRb5"
@@ -9764,10 +9790,36 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 142344,
       "name": "Italienne",
       "url": "https://open.spotify.com/track/3FIuUxbYPsMGYwKxyFPCF2"
+    },
+    {
+      "album": {
+        "name": "Iz Hawt 2.0",
+        "url": "https://open.spotify.com/album/6QixrDHwVhpvXOafNWoUCQ"
+      },
+      "artists": [
+        {
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
+        },
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Iz Hawt 2.0",
+      "url": "https://open.spotify.com/track/0Xec3fWLl3JWKx3BfbcV6Y"
     },
     {
       "album": {
@@ -15584,6 +15636,24 @@
       "duration_ms": 161515,
       "name": "Pami",
       "url": "https://open.spotify.com/track/089MJDjJ7qJmMWcmD3J4c8"
+    },
+    {
+      "album": {
+        "name": "Panama",
+        "url": "https://open.spotify.com/album/6lbofmwCHQvWMeRJFpSiqg"
+      },
+      "artists": [
+        {
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/3tsgXW0J2AhnaKh9hTnT3W"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/1qZUI6ShqOrekieXlhtMjE"
     },
     {
       "album": {

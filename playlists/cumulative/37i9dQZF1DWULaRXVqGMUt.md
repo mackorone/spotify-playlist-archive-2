@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWULaRXVqGMUt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWULaRXVqGMUt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWULaRXVqGMUt)
+[pretty](/playlists/pretty/37i9dQZF1DWULaRXVqGMUt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWULaRXVqGMUt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWULaRXVqGMUt)
 
 ### [Boogie\-woogie Blues](https://open.spotify.com/playlist/37i9dQZF1DWULaRXVqGMUt)
 

@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 230242,
       "name": "Communication",
       "url": "https://open.spotify.com/track/0bggrJP8JznNdTkB97U85F"
@@ -2176,6 +2176,24 @@
       "duration_ms": 352500,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/00qAbeH5Xf0VGvxQa9IOS8"
+    },
+    {
+      "album": {
+        "name": "Face the Sun",
+        "url": "https://open.spotify.com/album/6S0u9RRu1rzslCNQjkWvMN"
+      },
+      "artists": [
+        {
+          "name": "Diality",
+          "url": "https://open.spotify.com/artist/0O36IQxYC1LSy9GHRn7zTM"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218535,
+      "name": "Face the Sun",
+      "url": "https://open.spotify.com/track/1aY8annkvFrPcJd5ynOU2u"
     },
     {
       "album": {
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 358500,
       "name": "I'm Gonna Move",
       "url": "https://open.spotify.com/track/5L6WspHxqJWBPKyC7pdpR4"
@@ -4026,7 +4044,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 241871,
       "name": "Modulator",
       "url": "https://open.spotify.com/track/7wbUd8CtSNaT96tKhBhoGR"
@@ -4286,6 +4304,24 @@
       "duration_ms": 345827,
       "name": "My Own Game - Oliver Koletzki Remix",
       "url": "https://open.spotify.com/track/1lfRXV7oyRHSGBiTPLvC3y"
+    },
+    {
+      "album": {
+        "name": "Ceibora Igniflora",
+        "url": "https://open.spotify.com/album/4uAUjyubenGKFMd1ezfC4H"
+      },
+      "artists": [
+        {
+          "name": "Gaston Fiore",
+          "url": "https://open.spotify.com/artist/3uqt6nGempzAwX3uap01qn"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279858,
+      "name": "My Requiem",
+      "url": "https://open.spotify.com/track/4AVtGocGEvcMuY0fAX4ePD"
     },
     {
       "album": {
@@ -5734,6 +5770,24 @@
       "duration_ms": 292913,
       "name": "Speak Your Truth",
       "url": "https://open.spotify.com/track/3zyNnvdvhR6uYkpkuFfLNB"
+    },
+    {
+      "album": {
+        "name": "Abyssal / Spellbound / Silessa",
+        "url": "https://open.spotify.com/album/0j0A9CmK563dwd7WrL10kf"
+      },
+      "artists": [
+        {
+          "name": "CAMILA (AR)",
+          "url": "https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/0U6S5b94d8ZSgTct8N14pL"
     },
     {
       "album": {

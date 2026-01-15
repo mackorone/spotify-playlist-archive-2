@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY77tub05nHz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY77tub05nHz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY77tub05nHz)
+[pretty](/playlists/pretty/37i9dQZF1DWY77tub05nHz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY77tub05nHz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY77tub05nHz)
 
 ### [Comptines & Chansons](https://open.spotify.com/playlist/37i9dQZF1DWY77tub05nHz)
 

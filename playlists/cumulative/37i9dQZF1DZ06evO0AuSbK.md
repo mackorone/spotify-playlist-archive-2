@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO0AuSbK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0AuSbK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0AuSbK)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO0AuSbK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0AuSbK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO0AuSbK)
 
 ### [This Is Limp Bizkit](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AuSbK)
 

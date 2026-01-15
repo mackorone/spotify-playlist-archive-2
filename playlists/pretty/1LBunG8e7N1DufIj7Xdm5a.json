@@ -1,13 +1,189 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 267,
+  "num_followers": 277,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGq+S83dMCoxkhXNxrPpoWocTPPO43",
+  "snapshot_id": "AAAGwiKbZdnBpeQtXJ9x9wGl0eNJ8Pao",
   "tracks": [
+    {
+      "added_at": "2026-01-15 10:17:09",
+      "album": {
+        "name": "MICHAEL 2",
+        "url": "https://open.spotify.com/album/4voAERiKo3EYGvhKXJqz5U"
+      },
+      "artists": [
+        {
+          "name": "BB",
+          "url": "https://open.spotify.com/artist/79IIXXtsmNkpN2btrkbIot"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "JUST WAIT",
+      "url": "https://open.spotify.com/track/0jn4pFs4qJhAILTDIIUlSb"
+    },
+    {
+      "added_at": "2026-01-15 10:11:19",
+      "album": {
+        "name": "Interval",
+        "url": "https://open.spotify.com/album/1eHBowrHCdbfR3TgrFr0wK"
+      },
+      "artists": [
+        {
+          "name": "Popgang",
+          "url": "https://open.spotify.com/artist/69jNhtjLutxw7rGbsiqcGS"
+        }
+      ],
+      "duration_ms": 313420,
+      "name": "Interval",
+      "url": "https://open.spotify.com/track/7vPtwSlExgXZv9QoSYAySi"
+    },
+    {
+      "added_at": "2026-01-14 09:28:21",
+      "album": {
+        "name": "Zigga\u2011Zigga Night Bite",
+        "url": "https://open.spotify.com/album/51swdvcBBbPEzRWtKz9OMo"
+      },
+      "artists": [
+        {
+          "name": "NEON VIPERS",
+          "url": "https://open.spotify.com/artist/3cjnOyasWuvHhm4ULWKbyg"
+        }
+      ],
+      "duration_ms": 225864,
+      "name": "Zigga\u2011Zigga Night Bite",
+      "url": "https://open.spotify.com/track/0RLb9JlWVTqVyXg9jz0AbA"
+    },
+    {
+      "added_at": "2026-01-13 16:32:45",
+      "album": {
+        "name": "Senza punto di fuga",
+        "url": "https://open.spotify.com/album/6Av5fDmC2fc88KswFpbzr3"
+      },
+      "artists": [
+        {
+          "name": "Pietro Contenti (Montecristo)",
+          "url": "https://open.spotify.com/artist/1hElnwNn7P1EbfblsN7SWA"
+        }
+      ],
+      "duration_ms": 244735,
+      "name": "Senza punto di fuga",
+      "url": "https://open.spotify.com/track/67UTK6sgaBw20sW0H8f3O6"
+    },
+    {
+      "added_at": "2026-01-13 14:46:40",
+      "album": {
+        "name": "7even // System Error!",
+        "url": "https://open.spotify.com/album/1H3lwu2xarqYog8RAtqLhQ"
+      },
+      "artists": [
+        {
+          "name": "Luca Taglioni",
+          "url": "https://open.spotify.com/artist/3u3GahUlmZTKMyfTwUby8U"
+        }
+      ],
+      "duration_ms": 135348,
+      "name": "Ira",
+      "url": "https://open.spotify.com/track/4f1U7j1XN4m584jeRYDmwp"
+    },
+    {
+      "added_at": "2026-01-13 11:52:46",
+      "album": {
+        "name": "Resti addosso e poi scompari",
+        "url": "https://open.spotify.com/album/3ICdbjJ7OIouie81R0cD4P"
+      },
+      "artists": [
+        {
+          "name": "Gin Ozz",
+          "url": "https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Resti addosso e poi scompari",
+      "url": "https://open.spotify.com/track/0agxfqN1nPIXw72KDMl78t"
+    },
+    {
+      "added_at": "2026-01-12 10:39:08",
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ"
+      },
+      "artists": [
+        {
+          "name": "Miguel De La Wiest",
+          "url": "https://open.spotify.com/artist/26hbbPnAg9VCscmcsIGXY6"
+        }
+      ],
+      "duration_ms": 278528,
+      "name": "Peacemakers",
+      "url": "https://open.spotify.com/track/7K8F1C4dcNao9gJOUiR8mc"
+    },
+    {
+      "added_at": "2026-01-10 23:52:02",
+      "album": {
+        "name": "In Training",
+        "url": "https://open.spotify.com/album/263UBnTGtpwkrwjIZ0bp3V"
+      },
+      "artists": [
+        {
+          "name": "Caleb Sample",
+          "url": "https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "One Day at a Time",
+      "url": "https://open.spotify.com/track/7l77vgHFap2UbzxXEm27Dt"
+    },
+    {
+      "added_at": "2026-01-09 18:21:18",
+      "album": {
+        "name": "Forbidden Woods",
+        "url": "https://open.spotify.com/album/3HT4YfGFtwwGn2KfYZi41h"
+      },
+      "artists": [
+        {
+          "name": "TSIMECA",
+          "url": "https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy"
+        }
+      ],
+      "duration_ms": 265264,
+      "name": "What About Us?",
+      "url": "https://open.spotify.com/track/0knAZRU1iJZP3gaFwdCs8b"
+    },
+    {
+      "added_at": "2026-01-08 10:46:27",
+      "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/4g9E1R8MCCsiisYAjQ7t4q"
+      },
+      "artists": [
+        {
+          "name": "Brian Grey",
+          "url": "https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2"
+        }
+      ],
+      "duration_ms": 163428,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/7c4xH2X2ht6LN26G7TRa3S"
+    },
+    {
+      "added_at": "2026-01-06 09:05:36",
+      "album": {
+        "name": "Smail Repairs",
+        "url": "https://open.spotify.com/album/1TctB1UrjnVOQRyoHds3xp"
+      },
+      "artists": [
+        {
+          "name": "Mari Andri",
+          "url": "https://open.spotify.com/artist/1hwSTTmts2CZ4Zf2z7DuSI"
+        }
+      ],
+      "duration_ms": 182787,
+      "name": "Smail Repairs",
+      "url": "https://open.spotify.com/track/52mU4L93uVEW8d1xiUeycE"
+    },
     {
       "added_at": "2026-01-04 16:44:45",
       "album": {
@@ -62772,7 +62948,7 @@
           "url": "https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR"
         }
       ],
-      "duration_ms": 164392,
+      "duration_ms": 320666,
       "name": "Remember That Time - Demo",
       "url": "https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW"
     },
@@ -63143,6 +63319,198 @@
       "duration_ms": 198191,
       "name": "Get Off Of My Cloud",
       "url": "https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui"
+    },
+    {
+      "added_at": "2026-01-06 11:33:57",
+      "album": {
+        "name": "Letters From My Inner Demon",
+        "url": "https://open.spotify.com/album/4PDsVpGc3chCW6ddO7C2ct"
+      },
+      "artists": [
+        {
+          "name": "Silent Warriors",
+          "url": "https://open.spotify.com/artist/0iUpiqOFyg6m3eFHlGBHN2"
+        }
+      ],
+      "duration_ms": 257195,
+      "name": "Love Being You",
+      "url": "https://open.spotify.com/track/4wI0HGz85GYrjSZpzfglXc"
+    },
+    {
+      "added_at": "2026-01-07 20:10:41",
+      "album": {
+        "name": "Shiny New Shoes",
+        "url": "https://open.spotify.com/album/6L9fw3jeaxuCVIFHpzhXJv"
+      },
+      "artists": [
+        {
+          "name": "Susan Salidor",
+          "url": "https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Fine Finkelstein",
+      "url": "https://open.spotify.com/track/7LVYyElp73APGl7qzFarOH"
+    },
+    {
+      "added_at": "2026-01-07 20:12:33",
+      "album": {
+        "name": "Ghost car",
+        "url": "https://open.spotify.com/album/564IjC4lOheJkpMhgZcEA3"
+      },
+      "artists": [
+        {
+          "name": "NicoWGH",
+          "url": "https://open.spotify.com/artist/0vk1XCo2hhWJP7I51wR04c"
+        }
+      ],
+      "duration_ms": 174442,
+      "name": "Ghost car",
+      "url": "https://open.spotify.com/track/5cuVBjtTVYpxJl71tMuISb"
+    },
+    {
+      "added_at": "2026-01-08 10:36:44",
+      "album": {
+        "name": "Smoke & Mirrors",
+        "url": "https://open.spotify.com/album/5ckSJdh2stkM5Z6CkQpqcJ"
+      },
+      "artists": [
+        {
+          "name": "Jodi Stapler",
+          "url": "https://open.spotify.com/artist/4WdzM51AF4SAryiDVc4RvK"
+        }
+      ],
+      "duration_ms": 246479,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/7zjOFk9le4tiTWvq3hYYuF"
+    },
+    {
+      "added_at": "2026-01-08 10:37:25",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Broadcast",
+          "url": "https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ"
+        }
+      ],
+      "duration_ms": 176106,
+      "name": "Ouroboros",
+      "url": "https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F"
+    },
+    {
+      "added_at": "2026-01-09 14:11:20",
+      "album": {
+        "name": "Demo Cracia",
+        "url": "https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe"
+      },
+      "artists": [
+        {
+          "name": "Ladr\u00e3o",
+          "url": "https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W"
+        }
+      ],
+      "duration_ms": 163140,
+      "name": "Pre\u00e7o",
+      "url": "https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf"
+    },
+    {
+      "added_at": "2026-01-10 23:59:29",
+      "album": {
+        "name": "Point Blank",
+        "url": "https://open.spotify.com/album/4dERb041ujbOvXGUJurgez"
+      },
+      "artists": [
+        {
+          "name": "Tilt 360",
+          "url": "https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x"
+        }
+      ],
+      "duration_ms": 187312,
+      "name": "Point Blank",
+      "url": "https://open.spotify.com/track/5dfzwXpEpeeM6szvocxFBR"
+    },
+    {
+      "added_at": "2026-01-12 01:09:24",
+      "album": {
+        "name": "Fuck Ash",
+        "url": "https://open.spotify.com/album/39gYOvXyX3wCjQH4cvomqM"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff"
+        }
+      ],
+      "duration_ms": 117580,
+      "name": "Fuck Ash",
+      "url": "https://open.spotify.com/track/1FC9PSUMsfbRvxCCJwAbTj"
+    },
+    {
+      "added_at": "2026-01-12 13:30:37",
+      "album": {
+        "name": "BLACK STAR (SINGOLO)",
+        "url": "https://open.spotify.com/album/6DrwTjhBvwsIpDHGdGRUdi"
+      },
+      "artists": [
+        {
+          "name": "yogyety",
+          "url": "https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "BLACK STAR - SINGOLO",
+      "url": "https://open.spotify.com/track/7In4JGEpZPLTyuckV69bBV"
+    },
+    {
+      "added_at": "2026-01-13 07:46:32",
+      "album": {
+        "name": "UNA DANZA SENZA FINE",
+        "url": "https://open.spotify.com/album/240vYhl7VOgdme2OPuIRmq"
+      },
+      "artists": [
+        {
+          "name": "ian3celia",
+          "url": "https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "LE LINGUE",
+      "url": "https://open.spotify.com/track/55nl8mnWrS5cSisYRKZlnd"
+    },
+    {
+      "added_at": "2026-01-13 09:34:02",
+      "album": {
+        "name": "Life goes on",
+        "url": "https://open.spotify.com/album/45a7pL38m9hkThDfPxmdMM"
+      },
+      "artists": [
+        {
+          "name": "Apex89",
+          "url": "https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ"
+        }
+      ],
+      "duration_ms": 213639,
+      "name": "Life goes on",
+      "url": "https://open.spotify.com/track/4zfXcdpq3jpUqhYkzAHcUJ"
+    },
+    {
+      "added_at": "2026-01-14 10:20:26",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F"
+      },
+      "artists": [
+        {
+          "name": "Superstar Nomads",
+          "url": "https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ"
+        }
+      ],
+      "duration_ms": 270521,
+      "name": "El Camino",
+      "url": "https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl"
     }
   ],
   "unique_name": "playlist spotify free",

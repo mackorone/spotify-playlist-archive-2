@@ -1,15 +1,47 @@
 {
   "description": "Enjoy music from Anime \"Frieren\". \u00a9\u5c71\u7530\u9418\u4eba\u30fb\u30a2\u30d9\u30c4\u30ab\u30b5\uff0f\u5c0f\u5b66\u9928\uff0f\u300c\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a\n",
-  "num_followers": 91349,
+  "num_followers": 93550,
   "original_name": "Frieren: Beyond Journey's End",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOYq5yQcf/SRkAzXQ1GhB322A2nc",
+  "snapshot_id": "AAAAAEEdMwv/U2ShZcRNnVFDlsJViDht",
   "tracks": [
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
+      "album": {
+        "name": "lulu.",
+        "url": "https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 270626,
+      "name": "lulu.",
+      "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
+    },
+    {
+      "added_at": "2026-01-15 15:00:27",
+      "album": {
+        "name": "The Story of Us",
+        "url": "https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "The Story of Us",
+      "url": "https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq"
+    },
+    {
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "\u6674\u308b",
         "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "Anytime Anywhere",
         "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "Anytime Anywhere",
         "url": "https://open.spotify.com/album/0yiK7Xlg6Fbhn7UtxrWzxa"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/3UMRhdJ5UDK68YiW0AqDtH"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/0ZpugAMYdppMFqp8FAGidT"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/142gj9xTrRX8YQ55Jha4rT"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/2TCWAQkRBCeJeUD7zR7smV"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/2J5kjWpOvoojHcghpErQOf"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/5REuZbHvPSPieO9GmI9cTT"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/6ICxX5qwSprZz0e5M1oeaY"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/3lheivdWrfPuP14x0d0FMG"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -201,7 +233,7 @@
       "url": "https://open.spotify.com/track/0685eTA9oi3n3serdzggVo"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -217,7 +249,7 @@
       "url": "https://open.spotify.com/track/3tDf9KhhVIhR43uM0pVc4k"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -233,7 +265,7 @@
       "url": "https://open.spotify.com/track/5bq5rl5kqzCgFQ48y0G2RJ"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -249,7 +281,7 @@
       "url": "https://open.spotify.com/track/68xZaWTa9X2H2XqWKp3nar"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/0KmjLxoc8iUadQSL1JbCnk"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/3IQfe1CaR2vuk3CJwjTDCz"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/3d6No9aPavYmsvMmaspbUe"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -313,7 +345,7 @@
       "url": "https://open.spotify.com/track/5336SqUUjOBZr5xZs9yrgh"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -329,7 +361,7 @@
       "url": "https://open.spotify.com/track/2ecZhrO5ooamDycWn4GUUz"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -345,7 +377,7 @@
       "url": "https://open.spotify.com/track/3endcVk8KT1zYMotlTGShH"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -361,7 +393,7 @@
       "url": "https://open.spotify.com/track/2SD8CjeCcB7CEfxMKSY52Y"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -377,7 +409,7 @@
       "url": "https://open.spotify.com/track/6aai5wE0UtIaVhDidqApOv"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -393,7 +425,7 @@
       "url": "https://open.spotify.com/track/62busNTCImp4bT9fHxa2mh"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/3LNKHUtutR1b67kmXDTD8T"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/0DwBATQQMO1KXrOlIPt6oW"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/4hlLGBsjnVhfx5dr0HGuv4"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/7u0owvcC7QNGWW6LYuqQE2"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/0BIBe7a741zmbUduRUJngu"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/7x3c2cBpqNoObprhoOkvHN"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/2iTct7Iga9vMHRgM4u6os0"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/7MvJLVHlE3SOjyh2ECJv5Z"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/3LNZmDdFDbG7HaBecENB0m"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/2qtZx06qknOj8MxqtLKcZ6"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/1CYTatSzbHlFbGZMhdtukM"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/6a4bSEuSSJS1qk6FOOpIJG"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/0btZAQtDXf2GiadZHhYdU1"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -617,7 +649,7 @@
       "url": "https://open.spotify.com/track/1Bu2Kdo2b25Szu4v0smu3U"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/2iINoja2xZSIWonLH6Duui"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/35MdP70gRap6PkNxUurOMA"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/5e5D4w6BlnzzCgCh6AdZdn"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/5EykDknIi0VOOhVQIIHKX5"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/5FF8mOgxM7veYg66bo0372"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/6l9mWX2k6RnNelUT9sEu6P"
     },
     {
-      "added_at": "2025-01-24 16:21:37",
+      "added_at": "2026-01-15 15:00:27",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O"

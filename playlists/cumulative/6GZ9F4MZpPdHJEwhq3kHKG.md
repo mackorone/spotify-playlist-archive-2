@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6GZ9F4MZpPdHJEwhq3kHKG.md) - cumulative - [plain](/playlists/plain/6GZ9F4MZpPdHJEwhq3kHKG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6GZ9F4MZpPdHJEwhq3kHKG)
+[pretty](/playlists/pretty/6GZ9F4MZpPdHJEwhq3kHKG.md) - cumulative - [plain](/playlists/plain/6GZ9F4MZpPdHJEwhq3kHKG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6GZ9F4MZpPdHJEwhq3kHKG)
 
 ### [Classic Soul With Seth Rogen](https://open.spotify.com/playlist/6GZ9F4MZpPdHJEwhq3kHKG)
 

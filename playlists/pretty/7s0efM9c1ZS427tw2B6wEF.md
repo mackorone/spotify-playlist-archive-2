@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7s0efM9c1ZS427tw2B6wEF.md) - [plain](/playlists/plain/7s0efM9c1ZS427tw2B6wEF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7s0efM9c1ZS427tw2B6wEF)
+pretty - [cumulative](/playlists/cumulative/7s0efM9c1ZS427tw2B6wEF.md) - [plain](/playlists/plain/7s0efM9c1ZS427tw2B6wEF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7s0efM9c1ZS427tw2B6wEF)
 
 ### [Top Tracks in Workout](https://open.spotify.com/playlist/7s0efM9c1ZS427tw2B6wEF)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,406 likes - 25 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,392 likes - 25 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

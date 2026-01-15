@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWrKm37olqYM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWrKm37olqYM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWrKm37olqYM)
+[pretty](/playlists/pretty/37i9dQZF1DWWrKm37olqYM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWrKm37olqYM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWrKm37olqYM)
 
 ### [Baltimore Club](https://open.spotify.com/playlist/37i9dQZF1DWWrKm37olqYM)
 

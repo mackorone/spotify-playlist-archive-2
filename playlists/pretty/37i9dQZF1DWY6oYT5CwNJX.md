@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6oYT5CwNJX.md) - [plain](/playlists/plain/37i9dQZF1DWY6oYT5CwNJX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY6oYT5CwNJX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6oYT5CwNJX.md) - [plain](/playlists/plain/37i9dQZF1DWY6oYT5CwNJX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY6oYT5CwNJX)
 
 ### [fuzzed](https://open.spotify.com/playlist/37i9dQZF1DWY6oYT5CwNJX)
 
 > fuzz, grit, feedback and feelings\. a guitar revival\. <br/>Cover: Wunderhorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,039 likes - 86 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,092 likes - 86 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

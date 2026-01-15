@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLCdAc18EmN.md) - [plain](/playlists/plain/37i9dQZF1DWWLCdAc18EmN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWLCdAc18EmN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLCdAc18EmN.md) - [plain](/playlists/plain/37i9dQZF1DWWLCdAc18EmN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWLCdAc18EmN)
 
 ### [Wish Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWWLCdAc18EmN)
 
 > Be careful what you wish for...Listen to the music from the Wish, available now on digital.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,486 likes - 56 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,514 likes - 56 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

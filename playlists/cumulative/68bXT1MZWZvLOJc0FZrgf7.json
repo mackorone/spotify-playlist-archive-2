@@ -4313,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
+    },
+    {
+      "album": {
         "name": "Face",
         "url": "https://open.spotify.com/album/1semThNRoxCeYqerwMftAQ"
       },
@@ -6515,6 +6533,32 @@
     },
     {
       "album": {
+        "name": "Hope You're Happy",
+        "url": "https://open.spotify.com/album/36SUUzyI3tIIp2WfAQdHzX"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        },
+        {
+          "name": "Alex Brazi",
+          "url": "https://open.spotify.com/artist/0WdWav4c5CmYSgyqraxHg6"
+        },
+        {
+          "name": "LIINII",
+          "url": "https://open.spotify.com/artist/3NQqBSVanWYYIa7Y7deMgA"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144006,
+      "name": "Hope You're Happy",
+      "url": "https://open.spotify.com/track/1sdjksfgXUmc6FQI73Ksjc"
+    },
+    {
+      "album": {
         "name": "Hopeless Romantic (220 KID Remix)",
         "url": "https://open.spotify.com/album/62u2eGZgxzyckcAoUrxjmD"
       },
@@ -6743,6 +6787,24 @@
     },
     {
       "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/7uIjXkwhKE5eXFmPGxrJra"
+      },
+      "artists": [
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/6QhSOFWrmmakzmMmBx8ucx"
+    },
+    {
+      "album": {
         "name": "I Can See You Everywhere",
         "url": "https://open.spotify.com/album/4kIzChFsBsfhXQSAE2EnHE"
       },
@@ -6912,7 +6974,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213913,
       "name": "I HAVEN'T SAID ENOUGH - Shallou Remix",
       "url": "https://open.spotify.com/track/5FDeBI6hUUHiJIWsOtdjKJ"
@@ -8102,7 +8164,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185358,
       "name": "Lemon Drop (TOPPINGS Drift Ver.)",
       "url": "https://open.spotify.com/track/3jcxoeKoSiAzLDaVBwRCEQ"
@@ -9537,6 +9599,24 @@
     },
     {
       "album": {
+        "name": "Mi Fav",
+        "url": "https://open.spotify.com/album/2GUrSAPLnmrIo6jeHakQfM"
+      },
+      "artists": [
+        {
+          "name": "Nico Parga",
+          "url": "https://open.spotify.com/artist/1ah3rkTMCdKDGtshxvCUyo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285500,
+      "name": "Mi Fav",
+      "url": "https://open.spotify.com/track/5oII1LxCVKK0E4slIaIdEg"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
       },
@@ -10062,7 +10142,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201512,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/0AEymXR4R7Qi8nzb2L6zCg"
@@ -12900,7 +12980,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 296533,
       "name": "Shadowverse",
       "url": "https://open.spotify.com/track/2bvYWrqwG2XB85JG0xNzVH"

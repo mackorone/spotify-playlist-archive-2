@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVmLl2r5kAOQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVmLl2r5kAOQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVmLl2r5kAOQ)
+[pretty](/playlists/pretty/37i9dQZF1DWVmLl2r5kAOQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVmLl2r5kAOQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVmLl2r5kAOQ)
 
 ### [Kids & Family Favourites UK](https://open.spotify.com/playlist/37i9dQZF1DWVmLl2r5kAOQ)
 

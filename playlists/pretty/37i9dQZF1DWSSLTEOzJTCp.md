@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain](/playlists/plain/37i9dQZF1DWSSLTEOzJTCp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSSLTEOzJTCp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain](/playlists/plain/37i9dQZF1DWSSLTEOzJTCp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSSLTEOzJTCp)
 
 ### [Editors' Picks: Best Bass Songs of 2025 ](https://open.spotify.com/playlist/37i9dQZF1DWSSLTEOzJTCp)
 
 > Spotify editors' picks for the best bass songs of 2025\. Featuring Skrillex 🤘
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,455 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,724 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

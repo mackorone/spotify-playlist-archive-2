@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2W1m46ACTOImuguYXVAXjs.md) - [plain](/playlists/plain/2W1m46ACTOImuguYXVAXjs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2W1m46ACTOImuguYXVAXjs)
+pretty - [cumulative](/playlists/cumulative/2W1m46ACTOImuguYXVAXjs.md) - [plain](/playlists/plain/2W1m46ACTOImuguYXVAXjs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2W1m46ACTOImuguYXVAXjs)
 
 ### [Top Notch New Releases](https://open.spotify.com/playlist/2W1m46ACTOImuguYXVAXjs)
 
 > De nieuwste tracks van Top Notch &amp; Noah's Ark
 
-[Top Notch](https://open.spotify.com/user/topnotchnl) - 11,935 likes - 200 songs - 10 hr 12 min
+[Top Notch](https://open.spotify.com/user/topnotchnl) - 11,921 likes - 200 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

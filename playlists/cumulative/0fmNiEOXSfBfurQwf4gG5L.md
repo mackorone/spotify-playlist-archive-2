@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0fmNiEOXSfBfurQwf4gG5L.md) - cumulative - [plain](/playlists/plain/0fmNiEOXSfBfurQwf4gG5L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0fmNiEOXSfBfurQwf4gG5L)
+[pretty](/playlists/pretty/0fmNiEOXSfBfurQwf4gG5L.md) - cumulative - [plain](/playlists/plain/0fmNiEOXSfBfurQwf4gG5L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0fmNiEOXSfBfurQwf4gG5L)
 
 ### [Best of 2016: Folk & Americana](https://open.spotify.com/playlist/0fmNiEOXSfBfurQwf4gG5L)
 

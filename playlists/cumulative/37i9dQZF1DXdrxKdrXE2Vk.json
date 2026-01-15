@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 363421,
       "name": "Death of Death - Live",
       "url": "https://open.spotify.com/track/4q8ufHt2dA1Qb9hdomGqq4"
@@ -4105,6 +4105,36 @@
     },
     {
       "album": {
+        "name": "I Believe (Live)",
+        "url": "https://open.spotify.com/album/7h9xVZ71g9jaNPLj6mvM70"
+      },
+      "artists": [
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+        },
+        {
+          "name": "Rich & Lydia Dicas",
+          "url": "https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY"
+        },
+        {
+          "name": "Manuella Attoh",
+          "url": "https://open.spotify.com/artist/38iUQVSp1B8QUwGp6BSLte"
+        },
+        {
+          "name": "Shelby Freitas",
+          "url": "https://open.spotify.com/artist/0e0QCpb8bhPH7IR3Xx4DuY"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328288,
+      "name": "I Believe - Live",
+      "url": "https://open.spotify.com/track/7D8ZzN0TDoc2EO83SxnK2e"
+    },
+    {
+      "album": {
         "name": "I Believe (Live At Shepherd Church)",
         "url": "https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q"
       },
@@ -4560,7 +4590,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 457179,
       "name": "In The Room - Live",
       "url": "https://open.spotify.com/track/2I2ZLGiTZQagD88SjJuCsG"
@@ -5028,6 +5058,28 @@
       "duration_ms": 305478,
       "name": "Keep On Proving It - Live",
       "url": "https://open.spotify.com/track/1YjQcIfdUki3GZemDcgqgW"
+    },
+    {
+      "album": {
+        "name": "King Jesus (Live)",
+        "url": "https://open.spotify.com/album/4fS8S5XghmD3B7OLK7XvAc"
+      },
+      "artists": [
+        {
+          "name": "Shoreline City Music",
+          "url": "https://open.spotify.com/artist/6uQK6LaPw0JVRBuFTweq95"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522261,
+      "name": "King Jesus - Live",
+      "url": "https://open.spotify.com/track/3o3BfKHPjl3h5Cctpoqz4i"
     },
     {
       "album": {
@@ -6172,7 +6224,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 269693,
       "name": "My Labour is Not in Vain - Live",
       "url": "https://open.spotify.com/track/26K5nTbirgaTT9SaEBYjx3"
@@ -9584,6 +9636,28 @@
       "duration_ms": 361568,
       "name": "We Lift Up Jesus - Live",
       "url": "https://open.spotify.com/track/6AKnezQRLF3jDF69Dg1nDe"
+    },
+    {
+      "album": {
+        "name": "We Lift You Up (Live)",
+        "url": "https://open.spotify.com/album/5liVTFUIqjuVKqmi9tqptX"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Kyle Howard",
+          "url": "https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496653,
+      "name": "We Lift You Up - Live",
+      "url": "https://open.spotify.com/track/6m5G6wxD26gIaZo4ZM1aiO"
     },
     {
       "album": {

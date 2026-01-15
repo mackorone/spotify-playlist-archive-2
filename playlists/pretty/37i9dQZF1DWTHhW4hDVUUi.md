@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHhW4hDVUUi.md) - [plain](/playlists/plain/37i9dQZF1DWTHhW4hDVUUi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTHhW4hDVUUi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHhW4hDVUUi.md) - [plain](/playlists/plain/37i9dQZF1DWTHhW4hDVUUi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTHhW4hDVUUi)
 
 ### [Halftime Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTHhW4hDVUUi)
 
 > Check out Jennifer Lopez's Official Halftime playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,060 likes - 30 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,055 likes - 30 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

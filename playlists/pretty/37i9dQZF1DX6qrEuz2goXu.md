@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qrEuz2goXu.md) - [plain](/playlists/plain/37i9dQZF1DX6qrEuz2goXu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6qrEuz2goXu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qrEuz2goXu.md) - [plain](/playlists/plain/37i9dQZF1DX6qrEuz2goXu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6qrEuz2goXu)
 
 ### [Storybots Super Songs Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6qrEuz2goXu)
 
 > Listen to family\-favorite tunes from the hit series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,060 likes - 115 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,067 likes - 115 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

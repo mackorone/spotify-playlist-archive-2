@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-01",
-  "description": "Best of the EDM scene in India. Cover- Ritviz",
+  "description": "Best of the EDM scene in India. Cover- Nucleya",
   "name": "EDM in India",
   "tracks": [
     {
@@ -339,6 +339,28 @@
     },
     {
       "album": {
+        "name": "Diggi Bumba",
+        "url": "https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Arya Dhayal",
+          "url": "https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160601,
+      "name": "Death Roll (VIP)",
+      "url": "https://open.spotify.com/track/30bmJj5nt77ZTixSvDkLtK"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/2ZUXqOCce6uUxWYD7ZTfiU"
       },
@@ -398,6 +420,28 @@
       "duration_ms": 214545,
       "name": "DHA",
       "url": "https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh"
+    },
+    {
+      "album": {
+        "name": "Diggi Bumba",
+        "url": "https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205128,
+      "name": "Diggi Bumba",
+      "url": "https://open.spotify.com/track/5Mw91jYPnrCj49eF0O9CY9"
     },
     {
       "album": {
@@ -562,6 +606,28 @@
       "duration_ms": 257463,
       "name": "Ghar Aao Na (Techno Mix)",
       "url": "https://open.spotify.com/track/4Cz7oBICpLdh5LTdpbGLz0"
+    },
+    {
+      "album": {
+        "name": "Diggi Bumba",
+        "url": "https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "RjDV",
+          "url": "https://open.spotify.com/artist/264ZfvqPku4wBB1KPCwomL"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Gup Chup",
+      "url": "https://open.spotify.com/track/67zEZyUvA2JiveDQjuMCdz"
     },
     {
       "album": {

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdPcuTtZNPGI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdPcuTtZNPGI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdPcuTtZNPGI)
+[pretty](/playlists/pretty/37i9dQZF1DXdPcuTtZNPGI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdPcuTtZNPGI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdPcuTtZNPGI)
 
 ### [This Is Ado](https://open.spotify.com/playlist/37i9dQZF1DXdPcuTtZNPGI)
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-164 songs - 10 hr 51 min
+165 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Shikabanese](https://open.spotify.com/track/4AwdxLIctXZhUnrTP9zGVy) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Shikabanese](https://open.spotify.com/album/6u4UgWp2FnrOGIlfmgKFhi) | 4:16 | 2022-10-09 | 2024-04-19 |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-09-05 | 2024-02-09 |
 | [Show \- Jax Jones Remix](https://open.spotify.com/track/6dp3IPheUZdVbusysJ5CbW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Show \(Jax Jones Remix\)](https://open.spotify.com/album/39RbmQuAmqNG6787RZ1Vqp) | 2:34 | 2023-12-31 | 2024-02-10 |
+| [soldier game](https://open.spotify.com/track/6EjqikavIw48BKxg7Z8gGQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [LoveLive! Series 15th Anniversary Tribute Album](https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi) | 3:41 | 2026-01-13 |  |
 | [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 | 2025-06-12 |  |
 | [Stick Candy](https://open.spotify.com/track/4UxpuTRGpbqUouLUQ0G0jY) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stick Candy](https://open.spotify.com/album/54qjvu2FrHsLXR1YIb6SUv) | 1:41 | 2022-10-09 | 2024-04-19 |
 | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/track/078JVWjAyUkRfly410J2aN) | [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/album/6VS4SEHRy0J5SCMEUQ3gqO) | 1:41 | 2024-02-22 |  |

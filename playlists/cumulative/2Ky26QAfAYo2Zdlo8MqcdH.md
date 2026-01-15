@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2Ky26QAfAYo2Zdlo8MqcdH.md) - cumulative - [plain](/playlists/plain/2Ky26QAfAYo2Zdlo8MqcdH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2Ky26QAfAYo2Zdlo8MqcdH)
+[pretty](/playlists/pretty/2Ky26QAfAYo2Zdlo8MqcdH.md) - cumulative - [plain](/playlists/plain/2Ky26QAfAYo2Zdlo8MqcdH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2Ky26QAfAYo2Zdlo8MqcdH)
 
 ### [Punkcake](https://open.spotify.com/playlist/2Ky26QAfAYo2Zdlo8MqcdH)
 

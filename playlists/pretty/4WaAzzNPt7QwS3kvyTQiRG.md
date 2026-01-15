@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4WaAzzNPt7QwS3kvyTQiRG.md) - [plain](/playlists/plain/4WaAzzNPt7QwS3kvyTQiRG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4WaAzzNPt7QwS3kvyTQiRG)
+pretty - [cumulative](/playlists/cumulative/4WaAzzNPt7QwS3kvyTQiRG.md) - [plain](/playlists/plain/4WaAzzNPt7QwS3kvyTQiRG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4WaAzzNPt7QwS3kvyTQiRG)
 
 ### [80s Smash Hits](https://open.spotify.com/playlist/4WaAzzNPt7QwS3kvyTQiRG)
 
 > Chart topping icons, forgotten classics and all out guilty pleasures \- this is the 80s.
 
-[Smash Hits](https://open.spotify.com/user/smash_hits) - 7,486 likes - 100 songs - 6 hr 55 min
+[Smash Hits](https://open.spotify.com/user/smash_hits) - 7,489 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

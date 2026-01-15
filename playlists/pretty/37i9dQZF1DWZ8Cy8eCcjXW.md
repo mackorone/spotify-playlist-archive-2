@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain](/playlists/plain/37i9dQZF1DWZ8Cy8eCcjXW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ8Cy8eCcjXW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain](/playlists/plain/37i9dQZF1DWZ8Cy8eCcjXW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ8Cy8eCcjXW)
 
 ### [This Is SZA](https://open.spotify.com/playlist/37i9dQZF1DWZ8Cy8eCcjXW)
 
 > The genre\-bending singer's essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,590 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,382 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain]
 | 50 | [Warm Winds \(feat\. Isaiah Rashad\)](https://open.spotify.com/track/0Kz9aGVgFvndWkcaiylIt5) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 5:50 |
 | 51 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/3hBBKuWJfxlIlnd9QFoC8k) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Jmq5HEJeA9kNi2SgQul4U) | 3:19 |
 
-Snapshot ID: `AAAAAByO3jzvRfrbaV1CdONLLwBszw3X`
+Snapshot ID: `AAAAAJf9mW6r4e6Tpoao4uqYa83bgeii`

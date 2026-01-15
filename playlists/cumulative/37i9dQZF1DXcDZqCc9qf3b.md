@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcDZqCc9qf3b.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcDZqCc9qf3b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcDZqCc9qf3b)
+[pretty](/playlists/pretty/37i9dQZF1DXcDZqCc9qf3b.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcDZqCc9qf3b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcDZqCc9qf3b)
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 

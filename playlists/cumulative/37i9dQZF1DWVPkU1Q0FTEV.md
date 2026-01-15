@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVPkU1Q0FTEV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVPkU1Q0FTEV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVPkU1Q0FTEV)
+[pretty](/playlists/pretty/37i9dQZF1DWVPkU1Q0FTEV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVPkU1Q0FTEV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVPkU1Q0FTEV)
 
 ### [Fatima Hajji's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWVPkU1Q0FTEV)
 

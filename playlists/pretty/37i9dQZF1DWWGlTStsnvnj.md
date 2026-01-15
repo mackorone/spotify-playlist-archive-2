@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain](/playlists/plain/37i9dQZF1DWWGlTStsnvnj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWGlTStsnvnj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain](/playlists/plain/37i9dQZF1DWWGlTStsnvnj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWGlTStsnvnj)
 
 ### [Langgam Jawa](https://open.spotify.com/playlist/37i9dQZF1DWWGlTStsnvnj)
 
 > Tembang Jowo lawas pancen saget nrenyuhake ati
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,944 likes - 33 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,003 likes - 33 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

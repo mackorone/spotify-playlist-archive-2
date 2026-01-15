@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX33zOH1eHKGE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX33zOH1eHKGE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX33zOH1eHKGE)
+[pretty](/playlists/pretty/37i9dQZF1DX33zOH1eHKGE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX33zOH1eHKGE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX33zOH1eHKGE)
 
 ### [Dance All Day](https://open.spotify.com/playlist/37i9dQZF1DX33zOH1eHKGE)
 

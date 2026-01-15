@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain](/playlists/plain/37i9dQZF1DX8NMUtC3b3gL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8NMUtC3b3gL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain](/playlists/plain/37i9dQZF1DX8NMUtC3b3gL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8NMUtC3b3gL)
 
 ### [lofi summer haze](https://open.spotify.com/playlist/37i9dQZF1DX8NMUtC3b3gL)
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,478 likes - 200 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,411 likes - 200 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

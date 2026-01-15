@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVYasTznT0KT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVYasTznT0KT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVYasTznT0KT)
+[pretty](/playlists/pretty/37i9dQZF1DWVYasTznT0KT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVYasTznT0KT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVYasTznT0KT)
 
 ### [needle drop Presents Best TV & Movie Tracks of 2024](https://open.spotify.com/playlist/37i9dQZF1DWVYasTznT0KT)
 

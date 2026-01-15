@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6RbMTl2YnQ8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6RbMTl2YnQ8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6RbMTl2YnQ8)
+[pretty](/playlists/pretty/37i9dQZF1DX6RbMTl2YnQ8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6RbMTl2YnQ8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6RbMTl2YnQ8)
 
 ### [Rock en Español: Los 2000](https://open.spotify.com/playlist/37i9dQZF1DX6RbMTl2YnQ8)
 

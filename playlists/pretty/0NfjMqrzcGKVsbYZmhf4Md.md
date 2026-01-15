@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain](/playlists/plain/0NfjMqrzcGKVsbYZmhf4Md) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NfjMqrzcGKVsbYZmhf4Md)
+pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain](/playlists/plain/0NfjMqrzcGKVsbYZmhf4Md) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0NfjMqrzcGKVsbYZmhf4Md)
 
 ### [Classic Honky Tonk](https://open.spotify.com/playlist/0NfjMqrzcGKVsbYZmhf4Md)
 
 > All songs about drinking, cheating, heartaches and everything else going on in a classic honky tonk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,541 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,546 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

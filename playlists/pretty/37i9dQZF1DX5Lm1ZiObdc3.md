@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lm1ZiObdc3.md) - [plain](/playlists/plain/37i9dQZF1DX5Lm1ZiObdc3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Lm1ZiObdc3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lm1ZiObdc3.md) - [plain](/playlists/plain/37i9dQZF1DX5Lm1ZiObdc3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5Lm1ZiObdc3)
 
 ### [Feel Good Classical](https://open.spotify.com/playlist/37i9dQZF1DX5Lm1ZiObdc3)
 
 > Classical tunes to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,423 likes - 81 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,271 likes - 81 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

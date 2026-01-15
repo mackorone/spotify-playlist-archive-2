@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Csi2otB2wp.md) - [plain](/playlists/plain/37i9dQZF1DX4Csi2otB2wp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Csi2otB2wp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Csi2otB2wp.md) - [plain](/playlists/plain/37i9dQZF1DX4Csi2otB2wp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4Csi2otB2wp)
 
 ### [mexican doomer](https://open.spotify.com/playlist/37i9dQZF1DX4Csi2otB2wp)
 
 > una lloradita tranqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,890 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,082 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

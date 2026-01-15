@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain](/playlists/plain/37i9dQZF1DX45xYefy6tIi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX45xYefy6tIi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain](/playlists/plain/37i9dQZF1DX45xYefy6tIi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX45xYefy6tIi)
 
 ### [ESPN Top Plays](https://open.spotify.com/playlist/37i9dQZF1DX45xYefy6tIi)
 
 > Summer road trip songs selected by your favorite SportsCenter anchors
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,765 likes - 64 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,747 likes - 64 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

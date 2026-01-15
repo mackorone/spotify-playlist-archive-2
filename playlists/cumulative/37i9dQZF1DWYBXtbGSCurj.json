@@ -3306,7 +3306,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 144298,
       "name": "Armamento Russo",
       "url": "https://open.spotify.com/track/4XTm8UtcMCVvc6R26uGzwK"
@@ -7241,6 +7241,32 @@
     },
     {
       "album": {
+        "name": "CARA PRETA",
+        "url": "https://open.spotify.com/album/1bA3JsdE4OiuCjlfAmXdt4"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "JOTA",
+          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207004,
+      "name": "CARA PRETA",
+      "url": "https://open.spotify.com/track/47xidjAwGohxviJVbUubaF"
+    },
+    {
+      "album": {
         "name": "Caranguejo do Trap",
         "url": "https://open.spotify.com/album/2FcEqf4hGkHkJ1bV4toLXO"
       },
@@ -7882,6 +7908,28 @@
       "duration_ms": 162506,
       "name": "Celine",
       "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
+    },
+    {
+      "album": {
+        "name": "CEN\u00c1RIO DE HORROR",
+        "url": "https://open.spotify.com/album/2jydjUll3DfRs7PDpJS7aV"
+      },
+      "artists": [
+        {
+          "name": "FRESH",
+          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "CEN\u00c1RIO DE HORROR",
+      "url": "https://open.spotify.com/track/1cjM394LsQ3IoLQ6MgHLkc"
     },
     {
       "album": {
@@ -8884,7 +8932,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 261930,
       "name": "Colheita",
       "url": "https://open.spotify.com/track/1FLCxgmaHyHssgFooefoss"
@@ -14376,7 +14424,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184192,
       "name": "escalade",
       "url": "https://open.spotify.com/track/7ffk4cTP4E4xtXZBldtvcc"
@@ -17928,7 +17976,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 146086,
       "name": "Freestyle Depois da Cadeia",
       "url": "https://open.spotify.com/track/1VbJ9rEBlTfqpVQA7tGLqo"
@@ -18556,6 +18604,24 @@
       "duration_ms": 75572,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/1vsNCiWZUNfOAUmK6W8Llz"
+    },
+    {
+      "album": {
+        "name": "GANA",
+        "url": "https://open.spotify.com/album/7inohy3tgV0UYfHR9mLSJV"
+      },
+      "artists": [
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "GANA",
+      "url": "https://open.spotify.com/track/3RZGqZDuEBMQWbIjCnuB62"
     },
     {
       "album": {
@@ -33639,6 +33705,28 @@
     },
     {
       "album": {
+        "name": "placo no pulso",
+        "url": "https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X"
+      },
+      "artists": [
+        {
+          "name": "Men\u00f3 Felps",
+          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+        },
+        {
+          "name": "Caio Shock",
+          "url": "https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176511,
+      "name": "placo no pulso",
+      "url": "https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf"
+    },
+    {
+      "album": {
         "name": "Plano B",
         "url": "https://open.spotify.com/album/3KTMISZZKChj5kjb5r0IlN"
       },
@@ -34760,7 +34848,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141176,
       "name": "PREFIRO SUMI",
       "url": "https://open.spotify.com/track/2zs9FbBNGjjca8coua5iwb"
@@ -46499,7 +46587,7 @@
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187888,
+      "duration_ms": 188132,
       "name": "w my mano",
       "url": "https://open.spotify.com/track/5ZCCLQBiwqKK125jV2idPR"
     },
@@ -46572,6 +46660,28 @@
       "duration_ms": 158533,
       "name": "WAR",
       "url": "https://open.spotify.com/track/7BM9PAFxTqYEYGmT23VuBV"
+    },
+    {
+      "album": {
+        "name": "Wave (2021)",
+        "url": "https://open.spotify.com/album/4gw0MRtIA4z8WFvpYYoLkz"
+      },
+      "artists": [
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        },
+        {
+          "name": "Leozin",
+          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Wave (2021)",
+      "url": "https://open.spotify.com/track/4bT9jt4qg4f3z5kMQGY2u5"
     },
     {
       "album": {

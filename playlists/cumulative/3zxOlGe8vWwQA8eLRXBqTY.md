@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3zxOlGe8vWwQA8eLRXBqTY.md) - cumulative - [plain](/playlists/plain/3zxOlGe8vWwQA8eLRXBqTY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3zxOlGe8vWwQA8eLRXBqTY)
+[pretty](/playlists/pretty/3zxOlGe8vWwQA8eLRXBqTY.md) - cumulative - [plain](/playlists/plain/3zxOlGe8vWwQA8eLRXBqTY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3zxOlGe8vWwQA8eLRXBqTY)
 
 ### [Alicia Keys](https://open.spotify.com/playlist/3zxOlGe8vWwQA8eLRXBqTY)
 

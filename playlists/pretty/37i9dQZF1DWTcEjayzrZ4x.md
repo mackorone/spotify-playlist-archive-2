@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain](/playlists/plain/37i9dQZF1DWTcEjayzrZ4x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTcEjayzrZ4x)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain](/playlists/plain/37i9dQZF1DWTcEjayzrZ4x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTcEjayzrZ4x)
 
 ### [Lazy Jazz Cat](https://open.spotify.com/playlist/37i9dQZF1DWTcEjayzrZ4x)
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,826 likes - 210 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,104 likes - 210 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

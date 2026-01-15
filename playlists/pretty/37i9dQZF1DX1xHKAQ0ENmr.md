@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xHKAQ0ENmr.md) - [plain](/playlists/plain/37i9dQZF1DX1xHKAQ0ENmr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1xHKAQ0ENmr)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xHKAQ0ENmr.md) - [plain](/playlists/plain/37i9dQZF1DX1xHKAQ0ENmr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1xHKAQ0ENmr)
 
 ### [忘却バッテリー Shunpei's playlist](https://open.spotify.com/playlist/37i9dQZF1DX1xHKAQ0ENmr)
 
 > 祝・漫画『<a href="https://promo.shonenjump.com/boukyaku/memorial\-party/">忘却バッテリー</a>』コミックス20巻発売！千早瞬平が聴いている楽曲をセレクト！Ⓒみかわ絵子／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,444 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,479 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

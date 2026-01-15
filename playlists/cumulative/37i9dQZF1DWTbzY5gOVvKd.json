@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 128520,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/0pbEgA27VE15Y7uKOQzzfF"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185129,
       "name": "Moonlight Serenade",
       "url": "https://open.spotify.com/track/6Tw9p1kBeDyv9opkP7oDuF"
@@ -3583,6 +3583,24 @@
     },
     {
       "album": {
+        "name": "The Shadow of Your Smile",
+        "url": "https://open.spotify.com/album/5e6Mvofhqbm5loZPV38rDr"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211257,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/49BtWl8kqoffmJPKzP1ffJ"
+    },
+    {
+      "album": {
         "name": "An Englishman in Love in LA",
         "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
       },
@@ -4114,6 +4132,24 @@
       "duration_ms": 343055,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
+    },
+    {
+      "album": {
+        "name": "Wild Woman Tells All",
+        "url": "https://open.spotify.com/album/2fvQLg0izPKs5QeweZskcT"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344800,
+      "name": "You Are There (Orchestral Version)",
+      "url": "https://open.spotify.com/track/4pwPTfmcuwKetSybXcQl9i"
     },
     {
       "album": {

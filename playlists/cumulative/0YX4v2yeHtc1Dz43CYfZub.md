@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0YX4v2yeHtc1Dz43CYfZub.md) - cumulative - [plain](/playlists/plain/0YX4v2yeHtc1Dz43CYfZub) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0YX4v2yeHtc1Dz43CYfZub)
+[pretty](/playlists/pretty/0YX4v2yeHtc1Dz43CYfZub.md) - cumulative - [plain](/playlists/plain/0YX4v2yeHtc1Dz43CYfZub) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0YX4v2yeHtc1Dz43CYfZub)
 
 ### [Only Lovers Left Alive \- Playlist by Jim Jarmusch and Carter Logan of SQÜRL](https://open.spotify.com/playlist/0YX4v2yeHtc1Dz43CYfZub)
 

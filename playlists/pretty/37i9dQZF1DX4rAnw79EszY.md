@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rAnw79EszY.md) - [plain](/playlists/plain/37i9dQZF1DX4rAnw79EszY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4rAnw79EszY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rAnw79EszY.md) - [plain](/playlists/plain/37i9dQZF1DX4rAnw79EszY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4rAnw79EszY)
 
 ### [Beste van Liever Hollands 2023](https://open.spotify.com/playlist/37i9dQZF1DX4rAnw79EszY)
 

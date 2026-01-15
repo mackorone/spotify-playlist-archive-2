@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/45sMfdAKJExVmFvBd2TwmU.md) - cumulative - [plain](/playlists/plain/45sMfdAKJExVmFvBd2TwmU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/45sMfdAKJExVmFvBd2TwmU)
+[pretty](/playlists/pretty/45sMfdAKJExVmFvBd2TwmU.md) - cumulative - [plain](/playlists/plain/45sMfdAKJExVmFvBd2TwmU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/45sMfdAKJExVmFvBd2TwmU)
 
 ### [Dil Ka Sukoon](https://open.spotify.com/playlist/45sMfdAKJExVmFvBd2TwmU)
 

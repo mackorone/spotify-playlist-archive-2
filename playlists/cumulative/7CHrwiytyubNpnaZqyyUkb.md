@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7CHrwiytyubNpnaZqyyUkb.md) - cumulative - [plain](/playlists/plain/7CHrwiytyubNpnaZqyyUkb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7CHrwiytyubNpnaZqyyUkb)
+[pretty](/playlists/pretty/7CHrwiytyubNpnaZqyyUkb.md) - cumulative - [plain](/playlists/plain/7CHrwiytyubNpnaZqyyUkb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7CHrwiytyubNpnaZqyyUkb)
 
 ### [Beer 'n Burgers](https://open.spotify.com/playlist/7CHrwiytyubNpnaZqyyUkb)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ym1547AToj.md) - [plain](/playlists/plain/37i9dQZF1DX7ym1547AToj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ym1547AToj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ym1547AToj.md) - [plain](/playlists/plain/37i9dQZF1DX7ym1547AToj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7ym1547AToj)
 
 ### [Comme au cinéma](https://open.spotify.com/playlist/37i9dQZF1DX7ym1547AToj)
 
 > Retrouvez les chansons de vos films préférés en version originale
 
-[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

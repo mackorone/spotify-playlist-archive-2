@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain](/playlists/plain/37i9dQZF1DXb2gEu1155ig) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb2gEu1155ig)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain](/playlists/plain/37i9dQZF1DXb2gEu1155ig) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb2gEu1155ig)
 
 ### [Cumbias Playeras ☀️](https://open.spotify.com/playlist/37i9dQZF1DXb2gEu1155ig)
 
 > Cumbias tropicales para ponerse de buen humor 🌴🥳
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,730 likes - 174 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,240 likes - 174 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain](/playlists/plain/37i9dQZF1DWYotlhbgVGaH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYotlhbgVGaH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain](/playlists/plain/37i9dQZF1DWYotlhbgVGaH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYotlhbgVGaH)
 
 ### [Swing Revival](https://open.spotify.com/playlist/37i9dQZF1DWYotlhbgVGaH)
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,753 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,783 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

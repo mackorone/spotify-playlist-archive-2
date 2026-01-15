@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain](/playlists/plain/37i9dQZF1DXa8n42306eJB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa8n42306eJB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain](/playlists/plain/37i9dQZF1DXa8n42306eJB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXa8n42306eJB)
 
 ### [Reggae Party](https://open.spotify.com/playlist/37i9dQZF1DXa8n42306eJB)
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,650 likes - 81 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,753 likes - 81 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

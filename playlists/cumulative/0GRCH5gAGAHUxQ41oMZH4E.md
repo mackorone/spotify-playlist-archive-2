@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0GRCH5gAGAHUxQ41oMZH4E.md) - cumulative - [plain](/playlists/plain/0GRCH5gAGAHUxQ41oMZH4E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0GRCH5gAGAHUxQ41oMZH4E)
+[pretty](/playlists/pretty/0GRCH5gAGAHUxQ41oMZH4E.md) - cumulative - [plain](/playlists/plain/0GRCH5gAGAHUxQ41oMZH4E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0GRCH5gAGAHUxQ41oMZH4E)
 
 ### [GGP Mixtape 2025](https://open.spotify.com/playlist/0GRCH5gAGAHUxQ41oMZH4E)
 

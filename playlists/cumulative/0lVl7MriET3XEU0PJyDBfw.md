@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/0lVl7MriET3XEU0PJyDBfw.md) - cumulative - [plain](/playlists/plain/0lVl7MriET3XEU0PJyDBfw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0lVl7MriET3XEU0PJyDBfw)
+[pretty](/playlists/pretty/0lVl7MriET3XEU0PJyDBfw.md) - cumulative - [plain](/playlists/plain/0lVl7MriET3XEU0PJyDBfw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0lVl7MriET3XEU0PJyDBfw)
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Only the best Tech House 🔥 Submit: tstack.link&\#x2F;bassline\-therapy
+> House Music\. Period.
 
 904 songs - 1 day 23 hr 52 min
 

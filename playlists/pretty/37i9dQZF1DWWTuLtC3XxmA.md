@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain](/playlists/plain/37i9dQZF1DWWTuLtC3XxmA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWTuLtC3XxmA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain](/playlists/plain/37i9dQZF1DWWTuLtC3XxmA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWTuLtC3XxmA)
 
 ### [Contemporary Christmas](https://open.spotify.com/playlist/37i9dQZF1DWWTuLtC3XxmA)
 

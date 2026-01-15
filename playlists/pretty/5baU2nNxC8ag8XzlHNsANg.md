@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5baU2nNxC8ag8XzlHNsANg.md) - [plain](/playlists/plain/5baU2nNxC8ag8XzlHNsANg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5baU2nNxC8ag8XzlHNsANg)
+pretty - [cumulative](/playlists/cumulative/5baU2nNxC8ag8XzlHNsANg.md) - [plain](/playlists/plain/5baU2nNxC8ag8XzlHNsANg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5baU2nNxC8ag8XzlHNsANg)
 
 ### [Bring Back the 2000s](https://open.spotify.com/playlist/5baU2nNxC8ag8XzlHNsANg)
 
 > All your favorite hits from the decade you love most!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,433 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,432 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

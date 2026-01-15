@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5hmeg2ngrrAFbz1Gu05PXi.md) - cumulative - [plain](/playlists/plain/5hmeg2ngrrAFbz1Gu05PXi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5hmeg2ngrrAFbz1Gu05PXi)
+[pretty](/playlists/pretty/5hmeg2ngrrAFbz1Gu05PXi.md) - cumulative - [plain](/playlists/plain/5hmeg2ngrrAFbz1Gu05PXi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5hmeg2ngrrAFbz1Gu05PXi)
 
 ### [Pure Flow Coding](https://open.spotify.com/playlist/5hmeg2ngrrAFbz1Gu05PXi)
 

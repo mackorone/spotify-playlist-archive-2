@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Mujeres.",
-  "name": "Rock 2025",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Lisasinson.",
+  "name": "Rock 2026",
   "tracks": [
     {
       "album": {
@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209878,
       "name": "Como el trigo",
       "url": "https://open.spotify.com/track/3d2T0VU0RHo5EakNtdykC0"
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174571,
       "name": "El Amor Te Da Miedo",
       "url": "https://open.spotify.com/track/6JIcEyLlVyR9j4KzoyBFl4"
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154127,
       "name": "Especialista",
       "url": "https://open.spotify.com/track/7yWhTh5ZaS2QfLlyYu93hG"
@@ -4291,6 +4291,24 @@
     },
     {
       "album": {
+        "name": "Pelo De Foca",
+        "url": "https://open.spotify.com/album/7IaN8e5ag5SEFaHLBmKBss"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185882,
+      "name": "La Basura",
+      "url": "https://open.spotify.com/track/1qriTCY9QIrATYur0FTI7J"
+    },
+    {
+      "album": {
         "name": "La batalla final",
         "url": "https://open.spotify.com/album/3mWHJ42U15jnObX3pCDNJN"
       },
@@ -4812,7 +4830,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 216187,
       "name": "las cosas bien",
       "url": "https://open.spotify.com/track/7hEazLRuPCLsPIoil61a8D"
@@ -4906,7 +4924,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 222789,
       "name": "LIMFJORDEN",
       "url": "https://open.spotify.com/track/3th1pOknv0ULG3uCMi2ogJ"
@@ -4964,6 +4982,24 @@
       "duration_ms": 211087,
       "name": "Lo de siempre",
       "url": "https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB"
+    },
+    {
+      "album": {
+        "name": "Lo que queda por sentir",
+        "url": "https://open.spotify.com/album/7C8WHBJ9yrNN7YxHWuQI4S"
+      },
+      "artists": [
+        {
+          "name": "Periferia",
+          "url": "https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188381,
+      "name": "Lo que queda por sentir",
+      "url": "https://open.spotify.com/track/2u3WxJjLNRbXb3WoMVPGPZ"
     },
     {
       "album": {
@@ -5144,7 +5180,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223621,
       "name": "Los Managers",
       "url": "https://open.spotify.com/track/1BU48UTJMQmfZtBHN91CH4"
@@ -5589,6 +5625,24 @@
     },
     {
       "album": {
+        "name": "Me Acostumbr\u00e9",
+        "url": "https://open.spotify.com/album/5lt8llvT3c5gBSC3Qn2WxP"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248748,
+      "name": "Me Acostumbr\u00e9",
+      "url": "https://open.spotify.com/track/16rKe7kcB103azq4tuvPjF"
+    },
+    {
+      "album": {
         "name": "Me cago en el amor",
         "url": "https://open.spotify.com/album/1fEK3rpRawN8R3kCnznIDi"
       },
@@ -5604,7 +5658,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 188842,
       "name": "Me cago en el amor",
       "url": "https://open.spotify.com/track/2HacRkVR8a0uO5TTKUHLTM"
@@ -6207,6 +6261,24 @@
     },
     {
       "album": {
+        "name": "Nadie nos prepar\u00f3",
+        "url": "https://open.spotify.com/album/0lT3HCAFqAFbA3FuxB7oGd"
+      },
+      "artists": [
+        {
+          "name": "Parasidney",
+          "url": "https://open.spotify.com/artist/4csGX1D3jkTRx4jq0p11Xu"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269706,
+      "name": "Nadie nos prepar\u00f3",
+      "url": "https://open.spotify.com/track/1saTSIH5flwTWPrLMUcgvV"
+    },
+    {
+      "album": {
         "name": "Nadie Se Muere De Amor",
         "url": "https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO"
       },
@@ -6406,6 +6478,24 @@
       "duration_ms": 184984,
       "name": "No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
+    },
+    {
+      "album": {
+        "name": "No Quiero Envejecer",
+        "url": "https://open.spotify.com/album/2GFwBwGvrs8l6K3dgJ1FER"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145008,
+      "name": "No Quiero Envejecer",
+      "url": "https://open.spotify.com/track/0n49GQNvH8NcMz17WB0p1x"
     },
     {
       "album": {
@@ -6919,6 +7009,24 @@
     },
     {
       "album": {
+        "name": "Palomas",
+        "url": "https://open.spotify.com/album/6kNXX68cdAoj9CMwExz19G"
+      },
+      "artists": [
+        {
+          "name": "Linze",
+          "url": "https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238871,
+      "name": "Palomas",
+      "url": "https://open.spotify.com/track/7BI3kNzigH6ZPv0VUjAOd9"
+    },
+    {
+      "album": {
         "name": "Palos y Piedras",
         "url": "https://open.spotify.com/album/0vL4rwFaRMQPaffWRHGATE"
       },
@@ -7374,7 +7482,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 117948,
       "name": "Polillas",
       "url": "https://open.spotify.com/track/7iZoAgYxzJ3kRoM1N3egxU"
@@ -7984,6 +8092,24 @@
       "duration_ms": 207771,
       "name": "R\u00c1PIDO, R\u00c1PIDO, R\u00c1PIDO!",
       "url": "https://open.spotify.com/track/6q9RCwnXBS98HEzp33DqbY"
+    },
+    {
+      "album": {
+        "name": "sabes tan bien",
+        "url": "https://open.spotify.com/album/6t2sNuqTraTxLV1vksycyj"
+      },
+      "artists": [
+        {
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159186,
+      "name": "sabes tan bien",
+      "url": "https://open.spotify.com/track/32weZn2PvlMTSdyXpALOqF"
     },
     {
       "album": {
@@ -9306,6 +9432,24 @@
       "duration_ms": 213676,
       "name": "T\u00fa Crees",
       "url": "https://open.spotify.com/track/6qTCDNZq0LUbq1XGmlMait"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Me Dejaste De Querer",
+        "url": "https://open.spotify.com/album/5CezIfYlHiZ374VhyZWyuN"
+      },
+      "artists": [
+        {
+          "name": "Corizonas",
+          "url": "https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200174,
+      "name": "T\u00fa Me Dejaste De Querer",
+      "url": "https://open.spotify.com/track/2TEORcb3kMFCmc4dwAF7Ik"
     },
     {
       "album": {

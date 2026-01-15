@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain](/playlists/plain/37i9dQZF1DX8h3zQNo57xG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8h3zQNo57xG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain](/playlists/plain/37i9dQZF1DX8h3zQNo57xG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8h3zQNo57xG)
 
 ### [Binaural Beats: Sleep](https://open.spotify.com/playlist/37i9dQZF1DX8h3zQNo57xG)
 

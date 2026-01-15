@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSon4ExGiVD.md) - [plain](/playlists/plain/37i9dQZF1DWVSon4ExGiVD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVSon4ExGiVD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSon4ExGiVD.md) - [plain](/playlists/plain/37i9dQZF1DWVSon4ExGiVD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVSon4ExGiVD)
 
 ### [Darkchild's Taste](https://open.spotify.com/playlist/37i9dQZF1DWVSon4ExGiVD)
 
 > Sophisticated palates only\. Curated by: Darkchild
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,058 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,109 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXblapgdEq7WZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXblapgdEq7WZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXblapgdEq7WZ)
+[pretty](/playlists/pretty/37i9dQZF1DXblapgdEq7WZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXblapgdEq7WZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXblapgdEq7WZ)
 
 ### [This Is Canserbero](https://open.spotify.com/playlist/37i9dQZF1DXblapgdEq7WZ)
 

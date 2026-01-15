@@ -1,6 +1,6 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Kerr Mercer",
-  "num_followers": 219026,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Julia Campbell",
+  "num_followers": 219041,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,54 @@
   },
   "snapshot_id": "AAAAAHQIuFQykFbsbiTUyJLnT4skWTJW",
   "tracks": [
+    {
+      "added_at": "2026-01-06 19:25:50",
+      "album": {
+        "name": "Almost Did",
+        "url": "https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 145129,
+      "name": "Almost Did",
+      "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
+    },
+    {
+      "added_at": "2026-01-06 19:25:50",
+      "album": {
+        "name": "All My Songs",
+        "url": "https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "All My Songs",
+      "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
+    },
+    {
+      "added_at": "2026-01-06 19:25:50",
+      "album": {
+        "name": "Thinking \u2018bout You",
+        "url": "https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 140586,
+      "name": "Thinking \u2018bout You",
+      "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
+    },
     {
       "added_at": "2025-11-21 05:00:30",
       "album": {
@@ -23,6 +71,22 @@
       "duration_ms": 199173,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1"
+    },
+    {
+      "added_at": "2026-01-06 19:25:50",
+      "album": {
+        "name": "Blood On Your Hands",
+        "url": "https://open.spotify.com/album/4H1vvsGMtKJP6A8n8zcS1l"
+      },
+      "artists": [
+        {
+          "name": "Conall Cafferty",
+          "url": "https://open.spotify.com/artist/6d1qaR3dUpxiSxOJVVwGMc"
+        }
+      ],
+      "duration_ms": 183354,
+      "name": "Blood On Your Hands",
+      "url": "https://open.spotify.com/track/1Fpddj7WijZoyPLhPhHIUu"
     },
     {
       "added_at": "2025-12-09 22:19:13",
@@ -71,6 +135,22 @@
       "duration_ms": 234699,
       "name": "In Between",
       "url": "https://open.spotify.com/track/6MpH0CFS4ikDVF8nc8mEY3"
+    },
+    {
+      "added_at": "2026-01-06 19:25:50",
+      "album": {
+        "name": "Overkill",
+        "url": "https://open.spotify.com/album/3UAhzKyLSrVek7nUGN7bnO"
+      },
+      "artists": [
+        {
+          "name": "Aidan Jones",
+          "url": "https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK"
+        }
+      ],
+      "duration_ms": 240229,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/1PQdDXskvuR7wvPmotXC1d"
     },
     {
       "added_at": "2025-11-21 05:00:30",
@@ -257,7 +337,7 @@
       "artists": [
         {
           "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe"
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
         }
       ],
       "duration_ms": 190476,

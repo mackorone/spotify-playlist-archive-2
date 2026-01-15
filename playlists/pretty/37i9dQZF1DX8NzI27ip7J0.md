@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzI27ip7J0.md) - [plain](/playlists/plain/37i9dQZF1DX8NzI27ip7J0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8NzI27ip7J0)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzI27ip7J0.md) - [plain](/playlists/plain/37i9dQZF1DX8NzI27ip7J0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8NzI27ip7J0)
 
 ### [Top K\-Pop Tracks of 2O2O](https://open.spotify.com/playlist/37i9dQZF1DX8NzI27ip7J0)
 

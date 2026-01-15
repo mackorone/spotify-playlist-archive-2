@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSZlCPJ6VZl.md) - [plain](/playlists/plain/37i9dQZF1DWVSZlCPJ6VZl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVSZlCPJ6VZl)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSZlCPJ6VZl.md) - [plain](/playlists/plain/37i9dQZF1DWVSZlCPJ6VZl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVSZlCPJ6VZl)
 
 ### [8 Hours of Brown Noise Sleep](https://open.spotify.com/playlist/37i9dQZF1DWVSZlCPJ6VZl)
 

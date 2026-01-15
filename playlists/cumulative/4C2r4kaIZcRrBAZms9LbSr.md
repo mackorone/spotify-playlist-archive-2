@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4C2r4kaIZcRrBAZms9LbSr.md) - cumulative - [plain](/playlists/plain/4C2r4kaIZcRrBAZms9LbSr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4C2r4kaIZcRrBAZms9LbSr)
+[pretty](/playlists/pretty/4C2r4kaIZcRrBAZms9LbSr.md) - cumulative - [plain](/playlists/plain/4C2r4kaIZcRrBAZms9LbSr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4C2r4kaIZcRrBAZms9LbSr)
 
 ### [Rough Trade Recommends](https://open.spotify.com/playlist/4C2r4kaIZcRrBAZms9LbSr)
 

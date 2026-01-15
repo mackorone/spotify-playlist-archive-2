@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cg4h2PoN9y.md) - [plain](/playlists/plain/37i9dQZF1DX6cg4h2PoN9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6cg4h2PoN9y)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cg4h2PoN9y.md) - [plain](/playlists/plain/37i9dQZF1DX6cg4h2PoN9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6cg4h2PoN9y)
 
 ### [This Is Billie Eilish](https://open.spotify.com/playlist/37i9dQZF1DX6cg4h2PoN9y)
 
 > All things Billie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,618,022 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,620,668 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

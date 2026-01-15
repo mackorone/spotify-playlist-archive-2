@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXHa19SBc9xY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXHa19SBc9xY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXHa19SBc9xY)
+[pretty](/playlists/pretty/37i9dQZF1DWXHa19SBc9xY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXHa19SBc9xY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXHa19SBc9xY)
 
 ### [Pôr do sol na areia](https://open.spotify.com/playlist/37i9dQZF1DWXHa19SBc9xY)
 

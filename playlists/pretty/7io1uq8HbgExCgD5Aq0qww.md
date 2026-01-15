@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7io1uq8HbgExCgD5Aq0qww.md) - [plain](/playlists/plain/7io1uq8HbgExCgD5Aq0qww) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7io1uq8HbgExCgD5Aq0qww)
+pretty - [cumulative](/playlists/cumulative/7io1uq8HbgExCgD5Aq0qww.md) - [plain](/playlists/plain/7io1uq8HbgExCgD5Aq0qww) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7io1uq8HbgExCgD5Aq0qww)
 
 ### [The Bard](https://open.spotify.com/playlist/7io1uq8HbgExCgD5Aq0qww)
 

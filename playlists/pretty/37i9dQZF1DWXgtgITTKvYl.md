@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain](/playlists/plain/37i9dQZF1DWXgtgITTKvYl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXgtgITTKvYl)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain](/playlists/plain/37i9dQZF1DWXgtgITTKvYl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXgtgITTKvYl)
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
 > A collection of best Prog Rock tracks\. Cover: Dream Theater
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,253 likes - 75 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,744 likes - 75 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

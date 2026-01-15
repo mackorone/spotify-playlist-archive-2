@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6sLOMujY5ZJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6sLOMujY5ZJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6sLOMujY5ZJ)
+[pretty](/playlists/pretty/37i9dQZF1DX6sLOMujY5ZJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6sLOMujY5ZJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6sLOMujY5ZJ)
 
 ### [COUNTER//CULTURE: Teezo Touchdown](https://open.spotify.com/playlist/37i9dQZF1DX6sLOMujY5ZJ)
 

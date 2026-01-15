@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 719328,
+  "num_followers": 719045,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAZe50/6L/JvVE0cEFxFDdkYblG8TP6",
+  "snapshot_id": "AAAZgeS6M2WqvcAu/WV9oM1Sd7X73UOj",
   "tracks": [
     {
       "added_at": "2025-08-12 14:16:00",
@@ -49,6 +49,26 @@
       "url": "https://open.spotify.com/track/01GqGjLGRvDjbclq4bgHiv"
     },
     {
+      "added_at": "2026-01-13 09:13:40",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/5EiTne8PGfHcnCsr86Lpml"
+      },
+      "artists": [
+        {
+          "name": "nuphory",
+          "url": "https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija"
+        },
+        {
+          "name": "Chikaya",
+          "url": "https://open.spotify.com/artist/3V9ypEhalXAf4ZBYprdI3J"
+        }
+      ],
+      "duration_ms": 161220,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/376fY1NGArTxUOBQNZSYsj"
+    },
+    {
       "added_at": "2025-12-26 10:09:25",
       "album": {
         "name": "Don't Wake Me Up",
@@ -63,6 +83,82 @@
       "duration_ms": 151731,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/0gnZukG3p3XcRt2BF8ZcoU"
+    },
+    {
+      "added_at": "2026-01-09 11:00:50",
+      "album": {
+        "name": "Fly High",
+        "url": "https://open.spotify.com/album/1pEThpCM1fVR1F6EtuBvP1"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        }
+      ],
+      "duration_ms": 146800,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/6ojtXsiSUApLM0FSzurWdt"
+    },
+    {
+      "added_at": "2026-01-15 10:06:50",
+      "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/1bbedyCgIrSX1hQSfUALky"
+      },
+      "artists": [
+        {
+          "name": "Schrandy",
+          "url": "https://open.spotify.com/artist/16DOlPH2Uh5OyntSN9qlxz"
+        }
+      ],
+      "duration_ms": 142703,
+      "name": "Cash Out",
+      "url": "https://open.spotify.com/track/4VIhfUoqGVL67qzjGDecDX"
+    },
+    {
+      "added_at": "2026-01-09 11:02:42",
+      "album": {
+        "name": "Hundred Proof",
+        "url": "https://open.spotify.com/album/2xEY8LLCO6Sjqu7Ibat2r0"
+      },
+      "artists": [
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+        },
+        {
+          "name": "HXPETRAIN",
+          "url": "https://open.spotify.com/artist/58Kb5i2Bxw4XM6Cj8a5hbi"
+        }
+      ],
+      "duration_ms": 173877,
+      "name": "Hundred Proof",
+      "url": "https://open.spotify.com/track/75oWBSE3Oj61HDoa44Fa3l"
+    },
+    {
+      "added_at": "2026-01-06 10:27:30",
+      "album": {
+        "name": "DROWNING",
+        "url": "https://open.spotify.com/album/7GNYixshGxWNqdAt5qojbw"
+      },
+      "artists": [
+        {
+          "name": "RXMALIAN",
+          "url": "https://open.spotify.com/artist/23UlCUKuFzLESvbMhtxK9x"
+        },
+        {
+          "name": "TSVNEO",
+          "url": "https://open.spotify.com/artist/7F4A00lMbWDfcU1AI9ykPF"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "DROWNING",
+      "url": "https://open.spotify.com/track/7wLcZGZBOvZQZK8eNoKatc"
     },
     {
       "added_at": "2025-12-11 10:09:56",

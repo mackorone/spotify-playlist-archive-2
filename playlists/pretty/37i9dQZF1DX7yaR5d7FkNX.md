@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain](/playlists/plain/37i9dQZF1DX7yaR5d7FkNX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7yaR5d7FkNX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain](/playlists/plain/37i9dQZF1DX7yaR5d7FkNX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7yaR5d7FkNX)
 
 ### [Rockmánticxs ](https://open.spotify.com/playlist/37i9dQZF1DX7yaR5d7FkNX)
 
 > ✨❤️🌹Para Rocanlovers en compañía de Enjambre
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,946 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,877 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

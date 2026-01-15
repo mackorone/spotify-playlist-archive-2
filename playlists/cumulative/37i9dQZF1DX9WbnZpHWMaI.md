@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9WbnZpHWMaI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9WbnZpHWMaI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9WbnZpHWMaI)
+[pretty](/playlists/pretty/37i9dQZF1DX9WbnZpHWMaI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9WbnZpHWMaI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9WbnZpHWMaI)
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Kelly Lee Owens.
 
-728 songs - 1 day 21 hr 38 min
+730 songs - 1 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Bad Dream](https://open.spotify.com/track/6UTQKc4s4UVSiEVHSdgRhB) | [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Bad Dream](https://open.spotify.com/album/5zfJPZUTL7A9B5tQTuT3Zs) | 3:42 | 2024-04-19 | 2024-06-29 |
 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 | 2025-08-01 | 2025-10-04 |
 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 | 2025-04-18 |  |
+| [Bakk2thafuture](https://open.spotify.com/track/5DaYqyXcCFmgtd1OWFmfpn) | [Ms\. Mada](https://open.spotify.com/artist/5Q2AHnOl7BbmHN3Q8Rgh3K) | [Bakk2thafuture](https://open.spotify.com/album/3ZQh0QFIhMuc6i1DEYWIzH) | 2:59 | 2026-01-09 |  |
 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-07 | 2025-05-17 |
 | [Be Together](https://open.spotify.com/track/7AT2oRWEvDWDsfjrSFA26n) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Be Together](https://open.spotify.com/album/5I2jtUtvKbzAvDcnpFMXP3) | 2:36 | 2025-02-14 | 2025-07-12 |
 | [Because They Want Our Seat](https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Because They Want Our Seat](https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9) | 3:51 | 2024-09-06 | 2025-01-08 |
@@ -150,7 +151,7 @@
 | [Dancing With My Boyz](https://open.spotify.com/track/3xAP0b5O1NwVT7bud4foiF) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe) | [Dancing With My Boyz](https://open.spotify.com/album/2wAmFZUuvaR7O5Lm2iKNig) | 2:24 | 2024-03-22 | 2024-06-08 |
 | [dark place](https://open.spotify.com/track/3RrPdmhquZWhdHaU9Ijcql) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [dark place](https://open.spotify.com/album/2H6TvilDrWYC0qs9rNrJtg) | 2:47 | 2024-11-22 | 2025-05-03 |
 | [Dark Waters](https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Dark Waters](https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl) | 3:33 | 2025-02-28 | 2025-06-21 |
-| [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 | 2025-10-10 |  |
+| [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 | 2025-10-10 | 2026-01-15 |
 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 | 2024-03-01 | 2024-05-03 |
 | [Dede](https://open.spotify.com/track/1rYHkSLAn0kcdkpmVeHhxd) | [Nora Toure](https://open.spotify.com/artist/3Mo1ZXmpbD9cckUQTtXiBS) | [Dede](https://open.spotify.com/album/0bePC9TQQn0AQmnckyTuXd) | 3:44 | 2024-03-01 | 2024-05-03 |
 | [Deep Inside Love \- Edit](https://open.spotify.com/track/2aZTZK0TiD44o5HyzKz9uE) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Deep Inside Love](https://open.spotify.com/album/2q8QCvf45Ti8KSBMJgpQNF) | 4:04 | 2025-04-18 | 2025-07-26 |
@@ -409,7 +410,7 @@
 | [Lose My Mind](https://open.spotify.com/track/1lGEcInvPd6WnV6q6MScSu) | [mini bear](https://open.spotify.com/artist/0mpWTPgmk0s1ZZ7PbkYunA) | [Lose My Mind](https://open.spotify.com/album/7jc6pO43Vz9AsDo8ZLEopu) | 4:31 | 2024-03-01 | 2024-03-30 |
 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-08 |  |
 | [Lost My Way](https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Lost My Way](https://open.spotify.com/album/5H5zxFoWa7WZkwG9SiXBQ7) | 3:06 | 2024-03-01 | 2024-05-11 |
-| [Love Crimes](https://open.spotify.com/track/0bbyII7PP0Gg6NWgclzZxE) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 2:40 | 2025-11-14 |  |
+| [Love Crimes](https://open.spotify.com/track/0bbyII7PP0Gg6NWgclzZxE) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 2:40 | 2025-11-14 | 2026-01-15 |
 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 | 2024-07-12 | 2025-10-25 |
 | [LSD](https://open.spotify.com/track/3SAhh2tNNY30Pooge2BHNT) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [LSD](https://open.spotify.com/album/6HdKlMf1ruC1csb7dwS70o) | 2:48 | 2025-03-28 | 2025-07-19 |
 | [Luigi](https://open.spotify.com/track/69YvkNAeruX4u8ZjgjA6B4) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Luigi](https://open.spotify.com/album/2xChiS8O1UfNzBQbutOhlX) | 3:39 | 2025-05-02 | 2025-05-24 |
@@ -441,6 +442,7 @@
 | [Monochrome](https://open.spotify.com/track/2kskTbid8dwX2CWRr0PHTI) | [Dea Magna](https://open.spotify.com/artist/2CV829PespIwQonuSPIClv) | [Monochrome](https://open.spotify.com/album/5hgyxNLlJI41T8ZRiMxmSB) | 3:32 | 2024-05-03 | 2024-08-03 |
 | [Mothearth](https://open.spotify.com/track/6v7qPWc49BjNyq1Ei9pY3p) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Mothearth](https://open.spotify.com/album/1xl2husfsmtDRLATtpiIto) | 5:27 | 2025-03-14 | 2025-11-22 |
 | [MOVE](https://open.spotify.com/track/7fqonSY5E0ot4r02igxTrn) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [MOVE](https://open.spotify.com/album/77mHoOr31GlywElEi2zucF) | 3:03 | 2024-08-16 | 2024-09-21 |
+| [Move & Flow](https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Move & Flow](https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK) | 3:56 | 2026-01-09 |  |
 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 | 2022-03-08 | 2023-03-08 |
 | [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-03-01 | 2023-02-02 |
 | [Mr\. Cool](https://open.spotify.com/track/5vRvTccr05SrSnqVvNAmVX) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Mr\. Cool](https://open.spotify.com/album/0WWOtu5YJdA6KPxZj9Z6dn) | 3:49 | 2025-06-20 |  |

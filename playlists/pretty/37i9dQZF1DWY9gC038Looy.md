@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9gC038Looy.md) - [plain](/playlists/plain/37i9dQZF1DWY9gC038Looy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY9gC038Looy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9gC038Looy.md) - [plain](/playlists/plain/37i9dQZF1DWY9gC038Looy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY9gC038Looy)
 
 ### [Ejercicio en casa](https://open.spotify.com/playlist/37i9dQZF1DWY9gC038Looy)
 

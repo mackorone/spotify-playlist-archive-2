@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzRFK4Kp5Dk.md) - [plain](/playlists/plain/37i9dQZF1DWVzRFK4Kp5Dk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVzRFK4Kp5Dk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzRFK4Kp5Dk.md) - [plain](/playlists/plain/37i9dQZF1DWVzRFK4Kp5Dk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVzRFK4Kp5Dk)
 
 ### [Ragnarok Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVzRFK4Kp5Dk)
 
 > Listen to the music from all 3 seasons of Ragnarok, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,806 likes - 35 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,831 likes - 35 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

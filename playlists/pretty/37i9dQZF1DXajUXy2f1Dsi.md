@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain](/playlists/plain/37i9dQZF1DXajUXy2f1Dsi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajUXy2f1Dsi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain](/playlists/plain/37i9dQZF1DXajUXy2f1Dsi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXajUXy2f1Dsi)
 
 ### [Top Latin Classical](https://open.spotify.com/playlist/37i9dQZF1DXajUXy2f1Dsi)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyZ45Ayi9S.md) - [plain](/playlists/plain/37i9dQZF1DX0lyZ45Ayi9S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0lyZ45Ayi9S)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyZ45Ayi9S.md) - [plain](/playlists/plain/37i9dQZF1DX0lyZ45Ayi9S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0lyZ45Ayi9S)
 
 ### [Best of Indie 2023](https://open.spotify.com/playlist/37i9dQZF1DX0lyZ45Ayi9S)
 
 > Our editorial picks of 2023's best indie songs, featuring Mitski.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,364 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,299 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

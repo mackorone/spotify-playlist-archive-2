@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain](/playlists/plain/37i9dQZF1DX6JJBnsLRONu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6JJBnsLRONu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain](/playlists/plain/37i9dQZF1DX6JJBnsLRONu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6JJBnsLRONu)
 
 ### [The Frontier](https://open.spotify.com/playlist/37i9dQZF1DX6JJBnsLRONu)
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,471 likes - 69 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,503 likes - 69 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 53 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/3tLvxAAZi8EWFT5fW6R763) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/67O2wOdn2nqHitF5e3Yim3) | 3:55 |
 | 54 | [clarity](https://open.spotify.com/track/7smjNSQAciZfQHDyF1Nxp2) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [clarity](https://open.spotify.com/album/08yhzYG1zpG0HxfXX2hjHE) | 2:19 |
 | 55 | [Teek](https://open.spotify.com/track/5pbRRA6wZm1OtBDXQl464D) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV), [Ralph Farris](https://open.spotify.com/artist/7MqERo1Nx2kIaJJF9xjrUN) | [Modern Yesterdays](https://open.spotify.com/album/4pgnnkCEHdnCMzx2WS9tAI) | 4:31 |
-| 56 | [American Dipper](https://open.spotify.com/track/1PJvxtfe6W1aeQKiXjGmSc) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [American Dipper](https://open.spotify.com/album/648j3s2wgIRU0v1YiVTLil) | 3:55 |
+| 56 | [American Dipper](https://open.spotify.com/track/1PJvxtfe6W1aeQKiXjGmSc) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [American Dipper](https://open.spotify.com/album/648j3s2wgIRU0v1YiVTLil) | 3:55 |
 | 57 | [Home](https://open.spotify.com/track/3OOW0UYCJ4cBJ3Tm0vsWzx) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Promise](https://open.spotify.com/album/0oXfn8vzQ1yicX2dBkLgf4) | 5:37 |
 | 58 | [Bumblin' Creed](https://open.spotify.com/track/1NT4NQQgQmnqyI4ur5W4qf) | [Padang Food Tigers & Sigbjørn Apeland](https://open.spotify.com/artist/0vXLxVov9wThTze1YI6rIU) | [Bumblin' Creed](https://open.spotify.com/album/5xqGo1QHYYGAYHVsRBqyFp) | 3:04 |
 | 59 | [Horns](https://open.spotify.com/track/5cnGwWAFTrisjuOGyPIoKy) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Valley Of The Sun](https://open.spotify.com/album/6fZ3Hx3Fzsswmto7mC3rP5) | 5:00 |

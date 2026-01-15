@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXd2wjSut3Yfb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd2wjSut3Yfb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd2wjSut3Yfb)
+[pretty](/playlists/pretty/37i9dQZF1DXd2wjSut3Yfb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd2wjSut3Yfb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXd2wjSut3Yfb)
 
 ### [PRIDE: New Orleans](https://open.spotify.com/playlist/37i9dQZF1DXd2wjSut3Yfb)
 

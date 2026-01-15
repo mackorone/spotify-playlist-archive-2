@@ -952,7 +952,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 278203,
       "name": "Follow - Live From Passion 2024",
       "url": "https://open.spotify.com/track/0sBm2lZBspg3kCFgwVtz5S"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 410958,
       "name": "He Who Is To Come",
       "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 390020,
       "name": "He Who Is To Come - Live From Passion 2024",
       "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
@@ -1661,6 +1661,32 @@
     },
     {
       "album": {
+        "name": "I've Witnessed It",
+        "url": "https://open.spotify.com/album/7uVGz2MwAs5yqo8GKphpxC"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301639,
+      "name": "I've Witnessed It",
+      "url": "https://open.spotify.com/track/1ifHULdO8CKHtMr1CkCcIh"
+    },
+    {
+      "album": {
         "name": "I've Witnessed It (Live From Passion 2023)",
         "url": "https://open.spotify.com/album/6cZsocVNtYfoi59Ipy6mke"
       },
@@ -1698,7 +1724,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 470046,
       "name": "I've Witnessed It - Live From Passion 2023",
       "url": "https://open.spotify.com/track/3pTB9klLSJ2QZWxRZFfd56"
@@ -2032,7 +2058,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 325280,
       "name": "O Praise Him (All This For A King) - Live",
       "url": "https://open.spotify.com/track/2EVF3pxll6FplxIUyXGZOd"
@@ -2120,7 +2146,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 305971,
       "name": "Praise Yahweh - Live From Passion 2025",
       "url": "https://open.spotify.com/track/5HoGXGQSe3S29goGeaLsYp"
@@ -2274,7 +2300,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 221477,
       "name": "Shout To The Lord - Live From LIFT: Creative Conference",
       "url": "https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL"

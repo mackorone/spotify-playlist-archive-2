@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO4drHIS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4drHIS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4drHIS)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO4drHIS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4drHIS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO4drHIS)
 
 ### [This Is Majo Aguilar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4drHIS)
 
@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [16,437 Días \(Con Majo Aguilar\)](https://open.spotify.com/track/6H36P2H784fay5czIbRyBw) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [16,437 Días \(Con Majo Aguilar\)](https://open.spotify.com/album/1z1xhHvkd8OQ6fg01d9fqC) | 3:48 | 2025-12-17 |  |
+| [16,437 Días \(con Majo Aguilar\)](https://open.spotify.com/track/6H36P2H784fay5czIbRyBw) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [16,437 Días \(con Majo Aguilar\)](https://open.spotify.com/album/1z1xhHvkd8OQ6fg01d9fqC) | 3:48 | 2025-12-17 |  |
 | [A Ningún Lugar](https://open.spotify.com/track/5EQYAVVQZe9EI5AMjkkqA8) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [A Ningún Lugar](https://open.spotify.com/album/4nprLl0cQBLb3YS2FmcTYR) | 2:47 | 2025-02-02 |  |
 | [A Tu Lado \- En Vivo](https://open.spotify.com/track/3kbGKVSXvxgA04evWzb4cw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo \(En Vivo\)](https://open.spotify.com/album/00iE6vaOpZFNBohCo83MiI) | 4:53 | 2025-05-25 | 2025-06-21 |
 | [A Tu Lado \- En Vivo](https://open.spotify.com/track/3mIHpW3Nqu8BAXJJlGdAvQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [A Tu Lado \(En Vivo\)](https://open.spotify.com/album/4pYSMP0E5pP9Yd2kgJtZ44) | 4:53 | 2025-06-21 |  |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4pAtJteyweQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4pAtJteyweQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4pAtJteyweQ)
+[pretty](/playlists/pretty/37i9dQZF1DX4pAtJteyweQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4pAtJteyweQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4pAtJteyweQ)
 
 ### [Valentine's Day Love](https://open.spotify.com/playlist/37i9dQZF1DX4pAtJteyweQ)
 

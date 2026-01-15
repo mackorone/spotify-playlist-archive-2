@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain](/playlists/plain/37i9dQZF1DX3XHbM3c2ftZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3XHbM3c2ftZ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain](/playlists/plain/37i9dQZF1DX3XHbM3c2ftZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3XHbM3c2ftZ)
 
 ### [World's Best Dad](https://open.spotify.com/playlist/37i9dQZF1DX3XHbM3c2ftZ)
 

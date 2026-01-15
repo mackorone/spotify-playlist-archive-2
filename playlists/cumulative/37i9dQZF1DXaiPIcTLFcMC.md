@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaiPIcTLFcMC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaiPIcTLFcMC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaiPIcTLFcMC)
+[pretty](/playlists/pretty/37i9dQZF1DXaiPIcTLFcMC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaiPIcTLFcMC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaiPIcTLFcMC)
 
 ### [바니와 오빠들 \(Crushology 101\)](https://open.spotify.com/playlist/37i9dQZF1DXaiPIcTLFcMC)
 

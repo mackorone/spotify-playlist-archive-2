@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain](/playlists/plain/37i9dQZF1DX6syac0fWYdV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6syac0fWYdV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain](/playlists/plain/37i9dQZF1DX6syac0fWYdV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6syac0fWYdV)
 
 ### [Cocktail Lounge](https://open.spotify.com/playlist/37i9dQZF1DX6syac0fWYdV)
 
 > Sultry house beats to accompany your cocktail drinks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,028 likes - 275 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,274 likes - 275 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 | 274 | [Night Sky](https://open.spotify.com/track/5yod397p7CachKvxcY8Xxg) | [Noiseway](https://open.spotify.com/artist/5ewcFklbngFYknFlviWYHb) | [Night Sky](https://open.spotify.com/album/2E9HWlJhGZsjDuuFpPh0gH) | 2:24 |
 | 275 | [Baobab](https://open.spotify.com/track/71jIFEkjgtvByWaQNu9Vza) | [Bagarn](https://open.spotify.com/artist/7u9VmLWduhshKEs2KOlSYz) | [Baobab](https://open.spotify.com/album/0u1eGcBzx5xbYFM5MA3rES) | 2:11 |
 
-Snapshot ID: `AAAAAH6IPPQY2PZ82JMQBJFEg3+xEZz8`
+Snapshot ID: `AAAAAD44ObyGrYNEOhWmhaEuyT+v4Edz`

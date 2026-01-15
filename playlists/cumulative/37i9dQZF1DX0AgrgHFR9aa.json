@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Guerta",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Doria",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -4184,7 +4184,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153802,
       "name": "M16 GTR COMMANDO",
       "url": "https://open.spotify.com/track/3gaXsEis07uOKi0MZcBA3U"
@@ -4893,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "ON REPART LES MAINS VIDES",
+        "url": "https://open.spotify.com/album/6xZRNUdkMbY3VlebILm4kw"
+      },
+      "artists": [
+        {
+          "name": "Civil",
+          "url": "https://open.spotify.com/artist/696uf26etJndy1oI0wiFYm"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163720,
+      "name": "ONLYFANS",
+      "url": "https://open.spotify.com/track/5hPr1THWrdI70T3UwT1GiT"
+    },
+    {
+      "album": {
         "name": "paire polo assortis",
         "url": "https://open.spotify.com/album/5VkBQO7gzFk4lkvwr6r7gV"
       },
@@ -5566,7 +5584,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 286271,
       "name": "R.A.P",
       "url": "https://open.spotify.com/track/6dTMjsMC9VHEvUNvmJkx1J"
@@ -6002,7 +6020,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 142346,
       "name": "Si tu savais",
       "url": "https://open.spotify.com/track/5FoOP6i4oKvQazBZCln3mF"
@@ -6727,6 +6745,24 @@
     },
     {
       "album": {
+        "name": "Verbatim",
+        "url": "https://open.spotify.com/album/5KOJ28klWJ6bV2TkwX5efD"
+      },
+      "artists": [
+        {
+          "name": "Doria",
+          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Verbatim",
+      "url": "https://open.spotify.com/track/0KYjom6J4LXH7lQ2M90EWs"
+    },
+    {
+      "album": {
         "name": "Dose h\u00e9ro\u00efque",
         "url": "https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq"
       },
@@ -6866,6 +6902,28 @@
       "duration_ms": 233528,
       "name": "ZUSHILEAKS",
       "url": "https://open.spotify.com/track/355udD8YFn3mFf5Tkru8J2"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9ro joy",
+        "url": "https://open.spotify.com/album/6uSzJtairD1ZEjQDdsLPXQ"
+      },
+      "artists": [
+        {
+          "name": "rob",
+          "url": "https://open.spotify.com/artist/73Ifh3j4V2PI6R5JNkcIyz"
+        },
+        {
+          "name": "Celestino",
+          "url": "https://open.spotify.com/artist/6zk1BCMMPwfeVoYWYWzsUP"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "Z\u00e9ro joy",
+      "url": "https://open.spotify.com/track/4yG2ndgUzMVsKbs2Zo5oVI"
     },
     {
       "album": {

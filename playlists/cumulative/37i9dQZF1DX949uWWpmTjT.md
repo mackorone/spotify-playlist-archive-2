@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX949uWWpmTjT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX949uWWpmTjT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX949uWWpmTjT)
+[pretty](/playlists/pretty/37i9dQZF1DX949uWWpmTjT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX949uWWpmTjT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX949uWWpmTjT)
 
 ### [Soft Jazz](https://open.spotify.com/playlist/37i9dQZF1DX949uWWpmTjT)
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,125 songs - 3 day 0 hr 28 min
+1,128 songs - 3 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-11-10 | 2025-10-01 |
 | [Everytime We Fall](https://open.spotify.com/track/4ZGlMy7TmvZNYTacuIyqSo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Everytime We Fall](https://open.spotify.com/album/7DCCFRB1jWvUpP9lDZh03Y) | 3:43 | 2023-02-09 | 2024-04-11 |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 | 2023-03-09 | 2024-03-08 |
+| [Eyes Meet at Midnight](https://open.spotify.com/track/7oomkX3XCsIBOZ62xThBW6) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Eyes Meet at Midnight](https://open.spotify.com/album/1GlMAT3hSxyxMaXdK9DnOk) | 3:35 | 2026-01-09 |  |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-12-08 | 2024-05-24 |
 | [Fading Skies](https://open.spotify.com/track/1dyjTzH2OBunqoXYhDPRUn) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Fading Skies](https://open.spotify.com/album/10t4J4mFT0ChaEJUnSYpdF) | 3:01 | 2023-10-20 | 2025-11-29 |
 | [Falling In Love With Love](https://open.spotify.com/track/22KchPj2ebXOCwdvK4azrZ) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Falling In Love With Love](https://open.spotify.com/album/3K9sLxweNS6ILqTRFSYiJB) | 2:54 | 2023-05-04 | 2025-11-29 |
@@ -711,6 +712,7 @@
 | [Numbers](https://open.spotify.com/track/6SDA08SDIvOubZQXGsNBRo) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Numbers](https://open.spotify.com/album/1O4evJabwDBsEixzbR0eRO) | 3:26 | 2023-08-10 | 2025-10-01 |
 | [Numerous Occasions](https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Numerous Occasions](https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et) | 3:31 | 2023-01-19 |  |
 | [Oak Street](https://open.spotify.com/track/7dCQqBmb0oLRilEHTWdRvA) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Oak Street](https://open.spotify.com/album/5KucJe0AhO0ajwSXBLfYpd) | 5:08 | 2023-02-02 |  |
+| [Ocean's Embrace](https://open.spotify.com/track/0Gskcb03fG6YbFKSjVlcHO) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Ocean's Embrace](https://open.spotify.com/album/08iAQlbUHYs1OEA0fjLXbB) | 2:54 | 2026-01-09 |  |
 | [Odd Duck](https://open.spotify.com/track/4ag4ypxQnkSVuZHvfwyzo1) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Odd Duck](https://open.spotify.com/album/506EOu4vBoIkR1D8Kw7rSG) | 3:23 | 2023-05-04 | 2025-10-01 |
 | [Offscreen](https://open.spotify.com/track/0SejxxbVr8Hj7YPu5uqqvV) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Offscreen](https://open.spotify.com/album/7iyVs4uXiQVYxpPX4npAqN) | 2:35 | 2023-08-10 | 2025-11-29 |
 | [Ol' Man River](https://open.spotify.com/track/0iJhcm8EqkYjSLKb29oOwp) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods, Vol\. 2](https://open.spotify.com/album/0SKWC5kJ00WXtjynZVWF0O) | 5:42 | 2023-08-10 | 2024-02-11 |
@@ -735,6 +737,7 @@
 | [Our Bluewhale Dives Deep](https://open.spotify.com/track/4Wrvjm0Ck8JpG1V0lKTttV) | [Josh Nelson](https://open.spotify.com/artist/4Cgwe3ziy4LemKhAj6nFcZ) | [Our Bluewhale Dives Deep](https://open.spotify.com/album/5ceyd6SIA2UTWbdzdkqseD) | 4:43 | 2025-11-28 |  |
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-14 |  |
 | [Out In Post](https://open.spotify.com/track/2XO9bcTTRv8RVozy7NtW16) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Out In Post](https://open.spotify.com/album/4jyYeF6yp4Q2g6zmItpBAg) | 3:36 | 2023-06-01 |  |
+| [Out Of Shape](https://open.spotify.com/track/2tH35vPh5XwwO7idVhWI0Q) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Out Of Shape](https://open.spotify.com/album/6Wp0iL5218QBvcLABthxgD) | 3:25 | 2026-01-09 |  |
 | [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-02-09 | 2025-11-29 |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 | 2025-11-29 |
 | [Over The Rainbow](https://open.spotify.com/track/69XmGDda7Gd8UITZ80n1HD) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:42 | 2022-04-13 | 2022-11-11 |

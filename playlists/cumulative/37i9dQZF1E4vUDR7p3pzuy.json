@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Splitter Conspiracy, JUST LIZZY, Golem Dance Cult and more",
+  "description": "With Rob Harrowven, JUST LIZZY, Splitter Conspiracy and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 229226,
       "name": "A Song to Joy",
       "url": "https://open.spotify.com/track/0f2hn5zzy9ySomyM3m0gGF"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176470,
       "name": "Attack Of The Killer Coffee Beans",
       "url": "https://open.spotify.com/track/4D9oghIDt7j22TVXxWSBbw"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "AD/2",
+        "url": "https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB"
+      },
+      "artists": [
+        {
+          "name": "SCHANZ",
+          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271388,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/4jhV1n0o9UDs0AWdqsow6R"
+    },
+    {
+      "album": {
         "name": "bloodsports",
         "url": "https://open.spotify.com/album/39HzHBGmHiKKa8rznT4nm6"
       },
@@ -482,7 +500,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210789,
       "name": "bloodsports",
       "url": "https://open.spotify.com/track/7IXsMgRqVCUv7ZeH23D4Ba"
@@ -598,7 +616,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 179867,
       "name": "Call of the Wendigo",
       "url": "https://open.spotify.com/track/1jRF9SJgxRqqghUkFmCgGJ"
@@ -620,7 +638,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -1165,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/3Nq5UKI7XbjqUMhPbbEOnQ"
+      },
+      "artists": [
+        {
+          "name": "Sister May",
+          "url": "https://open.spotify.com/artist/5F0tJ7xaH82xK4nkT60LEN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230632,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/3BK1JxQdTgK1gMzsFRFJNP"
+    },
+    {
+      "album": {
         "name": "Electric Love",
         "url": "https://open.spotify.com/album/177BhxFET5l4YG89GwFMIq"
       },
@@ -1187,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Eleison",
+        "url": "https://open.spotify.com/album/4Oam0N9p16M9kXCByu4gG9"
+      },
+      "artists": [
+        {
+          "name": "From Atoms",
+          "url": "https://open.spotify.com/artist/4PmF58BUAiQ7sdDHKxcu6U"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Eleison",
+      "url": "https://open.spotify.com/track/5hi2uovu1ZkX1wsbeyw7MK"
+    },
+    {
+      "album": {
         "name": "Embers Are My Crown",
         "url": "https://open.spotify.com/album/7pRniM5SuqfWgqFTpzpyWC"
       },
@@ -1198,7 +1252,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
@@ -1436,7 +1490,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 151430,
       "name": "For You",
       "url": "https://open.spotify.com/track/4XZin6WEIbTjqb0lQFZjJ5"
@@ -1541,6 +1595,28 @@
     },
     {
       "album": {
+        "name": "Murmurs Under Memphis",
+        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "Chinos",
+          "url": "https://open.spotify.com/artist/2VBV2v6soBsoAfTep9VlJZ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
+    },
+    {
+      "album": {
         "name": "Three levels of dark and dance",
         "url": "https://open.spotify.com/album/5K9cBKybtRjLXUptnrR12G"
       },
@@ -1570,7 +1646,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -1639,6 +1715,28 @@
     },
     {
       "album": {
+        "name": "HAIR KILLER",
+        "url": "https://open.spotify.com/album/4OOjEheTxm1p6RKdjy6qLD"
+      },
+      "artists": [
+        {
+          "name": "Black Marine",
+          "url": "https://open.spotify.com/artist/4ldRd8z0FkjQw4RTbQI8VN"
+        },
+        {
+          "name": "MX the American",
+          "url": "https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175982,
+      "name": "HAIR KILLER",
+      "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
+    },
+    {
+      "album": {
         "name": "Half the Glass",
         "url": "https://open.spotify.com/album/3VK3YQqGTt50h9bqgYh2hJ"
       },
@@ -1668,7 +1766,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -1744,6 +1842,24 @@
       "duration_ms": 100593,
       "name": "HEATER",
       "url": "https://open.spotify.com/track/5qX0m8gwkAqOcm6fNOtbj3"
+    },
+    {
+      "album": {
+        "name": "Here And Now",
+        "url": "https://open.spotify.com/album/35kIg46z8pcSYg4lb7ZNxD"
+      },
+      "artists": [
+        {
+          "name": "Missing Persons",
+          "url": "https://open.spotify.com/artist/5CT7RBitS0e0u78T8tRBWQ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203726,
+      "name": "Here And Now",
+      "url": "https://open.spotify.com/track/1me7dnRitdwH0wGuspiZ8g"
     },
     {
       "album": {
@@ -1956,7 +2072,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201600,
       "name": "I Never Had The Chance - Instrumental",
       "url": "https://open.spotify.com/track/1u5nNIXufOky5fASaMu81b"
@@ -2064,7 +2180,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 301639,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/1KMdBomB8g7qQtPu5ZfpAO"
@@ -2176,7 +2292,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182553,
       "name": "It's My Dream",
       "url": "https://open.spotify.com/track/56zKYHY2WdaobxMrXM3HO6"
@@ -2212,7 +2328,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 200275,
       "name": "Jumpers",
       "url": "https://open.spotify.com/track/1VPeXyzkJbm1iF6BR0BJ1n"
@@ -2466,6 +2582,24 @@
       "duration_ms": 266048,
       "name": "Lies",
       "url": "https://open.spotify.com/track/1EQbt7iZzp3ZTxRTFDLqnz"
+    },
+    {
+      "album": {
+        "name": "Lifetime after Lifetime",
+        "url": "https://open.spotify.com/album/2LOM13hCndLOWvxvL2svtI"
+      },
+      "artists": [
+        {
+          "name": "Lauren River",
+          "url": "https://open.spotify.com/artist/5FM6nstcOmtbNuLMOShtmU"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213682,
+      "name": "Lifetime after Lifetime",
+      "url": "https://open.spotify.com/track/0vTyD8HiKwyRn6e5xq37Jm"
     },
     {
       "album": {
@@ -2985,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "Orange Juice",
+        "url": "https://open.spotify.com/album/1QnQRmvLa85EsQrtTJJrAk"
+      },
+      "artists": [
+        {
+          "name": "Madams Last Discovery",
+          "url": "https://open.spotify.com/artist/6kfnnVrKU3yY2abSyCUljW"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180456,
+      "name": "Orange Juice",
+      "url": "https://open.spotify.com/track/6lkUfXe7LMYv6HgXCCI77e"
+    },
+    {
+      "album": {
         "name": "Paid Holiday",
         "url": "https://open.spotify.com/album/7F9VLJgtMr8QSNaP6zFLO9"
       },
@@ -3094,6 +3246,24 @@
       "duration_ms": 228000,
       "name": "Pleasure Slaves - Vick Vapors Remix",
       "url": "https://open.spotify.com/track/6Jrld5sN3t7pgwGuxxhe18"
+    },
+    {
+      "album": {
+        "name": "Plowjob",
+        "url": "https://open.spotify.com/album/0JkXi9At3NRosJbpJFy7Al"
+      },
+      "artists": [
+        {
+          "name": "Fotocrime",
+          "url": "https://open.spotify.com/artist/4FISVeBOWY3NwQsTUc7aVE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "Plowjob",
+      "url": "https://open.spotify.com/track/4vOKuH7gOHQqKv6YVhajoP"
     },
     {
       "album": {
@@ -3272,7 +3442,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190480,
       "name": "Quiet Ones",
       "url": "https://open.spotify.com/track/7nkhh20RXO5pCuXepkosz5"
@@ -3348,7 +3518,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 256777,
       "name": "Red and Gold",
       "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
@@ -3442,7 +3612,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 215250,
       "name": "Say Something - 2025",
       "url": "https://open.spotify.com/track/67OMaD4imBm8uAnZheZ8bD"
@@ -3504,7 +3674,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -3790,7 +3960,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 231000,
       "name": "Somebody\u2019s Gotta Love Me",
       "url": "https://open.spotify.com/track/1lwufybnww08ET5zglBSnf"
@@ -3812,7 +3982,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 315154,
       "name": "Song For Brian",
       "url": "https://open.spotify.com/track/7qnLaq2TcTyOVRcrE80pqF"
@@ -3942,7 +4112,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 222309,
       "name": "Stepping Stone",
       "url": "https://open.spotify.com/track/1ZzWvgURb4Z7YhgnHJfW1K"
@@ -4036,7 +4206,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 238627,
       "name": "Sunset in the Water",
       "url": "https://open.spotify.com/track/1fUvoPPEn8aAZAmgHUnlnU"
@@ -4185,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "Pleasure Loss Desire",
+        "url": "https://open.spotify.com/album/2MiShmQoZYG5JPl9Umy5KZ"
+      },
+      "artists": [
+        {
+          "name": "Talk To Her",
+          "url": "https://open.spotify.com/artist/3TUKY2mo7nyRxZU35FYJyq"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202926,
+      "name": "The Half Light",
+      "url": "https://open.spotify.com/track/3wJMMP4tuwGsJpUicfyDnv"
+    },
+    {
+      "album": {
         "name": "The Internet",
         "url": "https://open.spotify.com/album/6tKueLDkCdKmS8yuNP9l0i"
       },
@@ -4268,7 +4456,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 278779,
       "name": "THEREISAMOON",
       "url": "https://open.spotify.com/track/3hJssZi5Bx6KWSOHFUwAcF"
@@ -4308,7 +4496,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 251066,
       "name": "Threats",
       "url": "https://open.spotify.com/track/1cvyjW2mE3WVNBMFF2day4"
@@ -4326,7 +4514,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190955,
       "name": "Through The Looking Glass",
       "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"
@@ -4442,6 +4630,24 @@
       "duration_ms": 321777,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/151MFSvaUCyiStAQbCp7xT"
+    },
+    {
+      "album": {
+        "name": "True Canadian (Unplugged)",
+        "url": "https://open.spotify.com/album/7yM3ASxV2n82bYvq94cBYd"
+      },
+      "artists": [
+        {
+          "name": "JZ",
+          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167471,
+      "name": "True Canadian - Unplugged",
+      "url": "https://open.spotify.com/track/2BPyNLvT1ibItzJwqsKsBr"
     },
     {
       "album": {
@@ -4800,7 +5006,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196000,
       "name": "Wire Drums",
       "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"

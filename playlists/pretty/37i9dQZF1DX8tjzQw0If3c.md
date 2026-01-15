@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain](/playlists/plain/37i9dQZF1DX8tjzQw0If3c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8tjzQw0If3c)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain](/playlists/plain/37i9dQZF1DX8tjzQw0If3c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8tjzQw0If3c)
 
 ### [Best of RADAR SG & MY 2025](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
 > Featuring our Top RADAR SG & MY Artists of 2025, Nadeera, ICEBOX, and editor’s picks of the best songs from each of our RADAR artists this year!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,174 likes - 39 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,173 likes - 39 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

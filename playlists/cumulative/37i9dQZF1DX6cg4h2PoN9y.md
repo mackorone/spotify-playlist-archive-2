@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6cg4h2PoN9y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6cg4h2PoN9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6cg4h2PoN9y)
+[pretty](/playlists/pretty/37i9dQZF1DX6cg4h2PoN9y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6cg4h2PoN9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6cg4h2PoN9y)
 
 ### [This Is Billie Eilish](https://open.spotify.com/playlist/37i9dQZF1DX6cg4h2PoN9y)
 

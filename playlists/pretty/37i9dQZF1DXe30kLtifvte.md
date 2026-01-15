@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe30kLtifvte.md) - [plain](/playlists/plain/37i9dQZF1DXe30kLtifvte) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe30kLtifvte)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe30kLtifvte.md) - [plain](/playlists/plain/37i9dQZF1DXe30kLtifvte) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe30kLtifvte)
 
 ### [AmyElle DJ Mix: My Garage is Finally A Studio](https://open.spotify.com/playlist/37i9dQZF1DXe30kLtifvte)
 

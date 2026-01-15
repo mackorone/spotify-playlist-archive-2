@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4mijKNOBDNw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4mijKNOBDNw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4mijKNOBDNw)
+[pretty](/playlists/pretty/37i9dQZF1DX4mijKNOBDNw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4mijKNOBDNw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4mijKNOBDNw)
 
 ### [Himnos de Sororidad](https://open.spotify.com/playlist/37i9dQZF1DX4mijKNOBDNw)
 

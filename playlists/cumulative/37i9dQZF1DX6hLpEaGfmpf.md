@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6hLpEaGfmpf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6hLpEaGfmpf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6hLpEaGfmpf)
+[pretty](/playlists/pretty/37i9dQZF1DX6hLpEaGfmpf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6hLpEaGfmpf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6hLpEaGfmpf)
 
 ### [Eladio Carrion: Sol María's Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6hLpEaGfmpf)
 

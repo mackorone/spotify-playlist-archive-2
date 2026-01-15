@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/78tPw9siuiq0XkhByNnYdR.md) - cumulative - [plain](/playlists/plain/78tPw9siuiq0XkhByNnYdR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/78tPw9siuiq0XkhByNnYdR)
+[pretty](/playlists/pretty/78tPw9siuiq0XkhByNnYdR.md) - cumulative - [plain](/playlists/plain/78tPw9siuiq0XkhByNnYdR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/78tPw9siuiq0XkhByNnYdR)
 
 ### [RnB Old Skool](https://open.spotify.com/playlist/78tPw9siuiq0XkhByNnYdR)
 

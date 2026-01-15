@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO3186ek.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3186ek) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3186ek)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO3186ek.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3186ek) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO3186ek)
 
 ### [This Is Maverick City Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3186ek)
 

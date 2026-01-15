@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSO8slqRqgGK.md) - [plain](/playlists/plain/37i9dQZF1DWSO8slqRqgGK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSO8slqRqgGK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSO8slqRqgGK.md) - [plain](/playlists/plain/37i9dQZF1DWSO8slqRqgGK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSO8slqRqgGK)
 
 ### [Mixtape \#16 Addison Rae "Suck my toes"](https://open.spotify.com/playlist/37i9dQZF1DWSO8slqRqgGK)
 
 > by Addison Rae\. The title says it all\. Just dance\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,018 likes - 27 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,200 likes - 27 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

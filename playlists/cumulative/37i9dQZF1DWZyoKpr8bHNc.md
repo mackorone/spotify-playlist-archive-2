@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZyoKpr8bHNc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZyoKpr8bHNc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZyoKpr8bHNc)
+[pretty](/playlists/pretty/37i9dQZF1DWZyoKpr8bHNc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZyoKpr8bHNc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZyoKpr8bHNc)
 
 ### [Arabic Classics](https://open.spotify.com/playlist/37i9dQZF1DWZyoKpr8bHNc)
 

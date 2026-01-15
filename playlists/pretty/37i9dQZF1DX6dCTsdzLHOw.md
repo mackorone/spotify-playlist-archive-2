@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain](/playlists/plain/37i9dQZF1DX6dCTsdzLHOw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6dCTsdzLHOw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain](/playlists/plain/37i9dQZF1DX6dCTsdzLHOw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6dCTsdzLHOw)
 
 ### [Fright Fest](https://open.spotify.com/playlist/37i9dQZF1DX6dCTsdzLHOw)
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,461 likes - 63 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,462 likes - 63 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 20 | [Start](https://open.spotify.com/track/2nnbS5LoXq3hgcl17UXIqg) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly) | [The Long Walk \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/299JMlozzQsRunxVSje81v) | 1:42 |
 | 21 | [M3gan 2.0](https://open.spotify.com/track/13hsy8OpS8Or2fjiq4JsXX) | [Chris Bacon](https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO) | [M3GAN 2.0 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Am6FG1X8kaAsmB2ptZDMK) | 1:01 |
 | 22 | [The Pattern](https://open.spotify.com/track/7erZ2gViLmk7nh5wMxzk8P) | [Marie\-Hélène L\. Delorme](https://open.spotify.com/artist/4uAWtRkxSbiWIzyF8tCvWB) | [Wayward \(Soundtrack from the Netflix Limited Series\)](https://open.spotify.com/album/3vof1aWYyf2cZsgxe52wOX) | 3:51 |
-| 23 | [Dracula\- The Beginning](https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad) | [Bram Stoker's Dracula: Original Motion Picture Soundtrack](https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr) | 6:40 |
+| 23 | [Dracula\- The Beginning \(From "Bram Stoker's Dracula" Soundtrack\)](https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad) | [Bram Stoker's Dracula: Original Motion Picture Soundtrack](https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr) | 6:40 |
 | 24 | [Transylvania 1887](https://open.spotify.com/track/5aiYeHriQN24oORufX8KrT) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Van Helsing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VckGtju6IjUW2SbRl4FTb) | 1:26 |
 | 25 | [Lullaby Variation](https://open.spotify.com/track/1qflgCdJ1A7a2U5wtfK31h) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Crimson Peak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1h4VIVpLvycmVgk021TBpM) | 1:41 |
 | 26 | [Overlay of Evil / Main Title](https://open.spotify.com/track/1bBvch0ad2VfBuPUXJTV8I) | [Harry Manfredini](https://open.spotify.com/artist/7JDEsW5jacLggSSdqqWpdu) | [Friday the 13th \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pI4R0WAaQLHywFINSqaHl) | 3:32 |

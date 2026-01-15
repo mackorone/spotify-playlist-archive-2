@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/4A01B3wh6uv7yOpzYdVLR3.md) - [plain](/playlists/plain/4A01B3wh6uv7yOpzYdVLR3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4A01B3wh6uv7yOpzYdVLR3)
+pretty - [cumulative](/playlists/cumulative/4A01B3wh6uv7yOpzYdVLR3.md) - [plain](/playlists/plain/4A01B3wh6uv7yOpzYdVLR3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4A01B3wh6uv7yOpzYdVLR3)
 
 ### [TeamSupreme Selects](https://open.spotify.com/playlist/4A01B3wh6uv7yOpzYdVLR3)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain](/playlists/plain/37i9dQZF1DWYLoJq8d80ds) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYLoJq8d80ds)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain](/playlists/plain/37i9dQZF1DWYLoJq8d80ds) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYLoJq8d80ds)
 
 ### [FOLKLORE CARNAVALERO](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
 > Para bailar hasta el amanecer\. Foto: Campedrinos
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,771 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,036 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

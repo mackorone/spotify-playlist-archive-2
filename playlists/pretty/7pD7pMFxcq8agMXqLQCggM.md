@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7pD7pMFxcq8agMXqLQCggM.md) - [plain](/playlists/plain/7pD7pMFxcq8agMXqLQCggM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7pD7pMFxcq8agMXqLQCggM)
+pretty - [cumulative](/playlists/cumulative/7pD7pMFxcq8agMXqLQCggM.md) - [plain](/playlists/plain/7pD7pMFxcq8agMXqLQCggM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7pD7pMFxcq8agMXqLQCggM)
 
 ### [Rock & Roots](https://open.spotify.com/playlist/7pD7pMFxcq8agMXqLQCggM)
 

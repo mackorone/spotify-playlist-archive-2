@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0IWthTyxilL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0IWthTyxilL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0IWthTyxilL)
+[pretty](/playlists/pretty/37i9dQZF1DX0IWthTyxilL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0IWthTyxilL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0IWthTyxilL)
 
 ### [Sons da Floresta](https://open.spotify.com/playlist/37i9dQZF1DX0IWthTyxilL)
 

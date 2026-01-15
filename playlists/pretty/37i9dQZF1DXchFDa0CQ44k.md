@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain](/playlists/plain/37i9dQZF1DXchFDa0CQ44k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXchFDa0CQ44k)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain](/playlists/plain/37i9dQZF1DXchFDa0CQ44k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXchFDa0CQ44k)
 
 ### [دبكة ‎ Dabke](https://open.spotify.com/playlist/37i9dQZF1DXchFDa0CQ44k)
 
 > Levant Folk Dance for the joyous moments\. Cover: Omar Souleyman
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,692 likes - 40 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,787 likes - 40 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

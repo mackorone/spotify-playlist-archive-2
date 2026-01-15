@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4qstWgP2KMRSiTY3a1fF2R.md) - cumulative - [plain](/playlists/plain/4qstWgP2KMRSiTY3a1fF2R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4qstWgP2KMRSiTY3a1fF2R)
+[pretty](/playlists/pretty/4qstWgP2KMRSiTY3a1fF2R.md) - cumulative - [plain](/playlists/plain/4qstWgP2KMRSiTY3a1fF2R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4qstWgP2KMRSiTY3a1fF2R)
 
 ### [Beat Down Your Morning](https://open.spotify.com/playlist/4qstWgP2KMRSiTY3a1fF2R)
 

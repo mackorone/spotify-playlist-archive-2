@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZmwe0RTeFj4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZmwe0RTeFj4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZmwe0RTeFj4)
+[pretty](/playlists/pretty/37i9dQZF1DWZmwe0RTeFj4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZmwe0RTeFj4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZmwe0RTeFj4)
 
 ### [Norteño Mix](https://open.spotify.com/playlist/37i9dQZF1DWZmwe0RTeFj4)
 

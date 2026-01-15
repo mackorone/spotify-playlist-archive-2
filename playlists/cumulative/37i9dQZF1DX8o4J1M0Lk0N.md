@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8o4J1M0Lk0N.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8o4J1M0Lk0N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8o4J1M0Lk0N)
+[pretty](/playlists/pretty/37i9dQZF1DX8o4J1M0Lk0N.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8o4J1M0Lk0N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8o4J1M0Lk0N)
 
 ### [Soul in the Background](https://open.spotify.com/playlist/37i9dQZF1DX8o4J1M0Lk0N)
 

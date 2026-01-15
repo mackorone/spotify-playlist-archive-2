@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain](/playlists/plain/37i9dQZF1DX7ZnkueJ7u5w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ZnkueJ7u5w)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain](/playlists/plain/37i9dQZF1DX7ZnkueJ7u5w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7ZnkueJ7u5w)
 
 ### [Carnaval en México](https://open.spotify.com/playlist/37i9dQZF1DX7ZnkueJ7u5w)
 

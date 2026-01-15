@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 130636,
+  "num_followers": 130558,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -197,22 +197,6 @@
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "SPRINTER",
-        "url": "https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj"
-      },
-      "artists": [
-        {
-          "name": "KARMA",
-          "url": "https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9"
-        }
-      ],
-      "duration_ms": 187744,
-      "name": "SPRINTER",
-      "url": "https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha"
-    },
-    {
       "added_at": "2025-12-18 13:00:08",
       "album": {
         "name": "HARDSTYLE 2",
@@ -235,6 +219,22 @@
       "duration_ms": 286285,
       "name": "HARDSTYLE 2",
       "url": "https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "SPRINTER",
+        "url": "https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj"
+      },
+      "artists": [
+        {
+          "name": "KARMA",
+          "url": "https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9"
+        }
+      ],
+      "duration_ms": 187744,
+      "name": "SPRINTER",
+      "url": "https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -271,26 +271,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "The Heads That Know",
-        "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 423244,
-      "name": "The Heads That Know (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "The Heads That Know",
+        "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 423244,
+      "name": "The Heads That Know (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -385,6 +385,22 @@
       "url": "https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw"
     },
     {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "A Hundred Days Off",
+        "url": "https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 548560,
+      "name": "Two Months Off",
+      "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
+    },
+    {
       "added_at": "2025-12-18 13:00:08",
       "album": {
         "name": "All Night Long",
@@ -423,18 +439,18 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "A Hundred Days Off",
-        "url": "https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg"
+        "name": "Groovy Thang",
+        "url": "https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC"
       },
       "artists": [
         {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+          "name": "DTAILR",
+          "url": "https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e"
         }
       ],
-      "duration_ms": 548560,
-      "name": "Two Months Off",
-      "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
+      "duration_ms": 167535,
+      "name": "Groovy Thang",
+      "url": "https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -459,38 +475,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Groovy Thang",
-        "url": "https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC"
-      },
-      "artists": [
-        {
-          "name": "DTAILR",
-          "url": "https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e"
-        }
-      ],
-      "duration_ms": 167535,
-      "name": "Groovy Thang",
-      "url": "https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP"
-    },
-    {
-      "added_at": "2025-12-18 13:00:08",
-      "album": {
-        "name": "Home Is True",
-        "url": "https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 252393,
-      "name": "Let Me Say This",
-      "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Feel The Friction",
         "url": "https://open.spotify.com/album/14AhXf3h67J8auGzUzBWLi"
       },
@@ -503,6 +487,26 @@
       "duration_ms": 182410,
       "name": "Feel The Friction",
       "url": "https://open.spotify.com/track/3drghRAvtI2VrNDZsHsmlZ"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Heaven Scent",
+        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        },
+        {
+          "name": "Chloe Sevigny",
+          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
+        }
+      ],
+      "duration_ms": 283424,
+      "name": "Heaven Scent",
+      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
     },
     {
       "added_at": "2025-12-18 13:00:08",
@@ -545,24 +549,20 @@
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
     },
     {
-      "added_at": "2025-10-16 13:00:01",
+      "added_at": "2025-12-18 13:00:08",
       "album": {
-        "name": "Heaven Scent",
-        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
+        "name": "Home Is True",
+        "url": "https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH"
       },
       "artists": [
         {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        },
-        {
-          "name": "Chloe Sevigny",
-          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
         }
       ],
-      "duration_ms": 283424,
-      "name": "Heaven Scent",
-      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+      "duration_ms": 252393,
+      "name": "Let Me Say This",
+      "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -599,22 +599,6 @@
       "duration_ms": 84942,
       "name": "Back To Reality - Original Mix - Mixed",
       "url": "https://open.spotify.com/track/5LM5D4axlHlw25FSLB9yqN"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Ooo",
-        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 239823,
-      "name": "Ooo",
-      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -687,22 +671,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Safe In My Arms / YourLove",
-        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 172129,
-      "name": "YourLove",
-      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Desire to Stay",
         "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
       },
@@ -719,22 +687,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Where You Need To Be",
-        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 253478,
-      "name": "Where You Need To Be",
-      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Mad",
         "url": "https://open.spotify.com/album/4pDwGAeGYaZB0Nee3q13ch"
       },
@@ -747,6 +699,126 @@
       "duration_ms": 238571,
       "name": "Mad",
       "url": "https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Ooo",
+        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 239823,
+      "name": "Ooo",
+      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Safe In My Arms / YourLove",
+        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 172129,
+      "name": "YourLove",
+      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
+        "url": "https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 229107,
+      "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
+      "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Fuck My Computer",
+        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 190577,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
+    },
+    {
+      "added_at": "2025-12-18 13:00:08",
+      "album": {
+        "name": "132 TECHNO",
+        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 334584,
+      "name": "132 TECHNO",
+      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "You're Not a Popstar",
+        "url": "https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 224958,
+      "name": "You're Not a Popstar",
+      "url": "https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Where You Need To Be",
+        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 253478,
+      "name": "Where You Need To Be",
+      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -775,62 +847,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
-        "url": "https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 229107,
-      "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
-      "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
-    },
-    {
-      "added_at": "2025-12-18 13:00:08",
-      "album": {
-        "name": "132 TECHNO",
-        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 334584,
-      "name": "132 TECHNO",
-      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Fuck My Computer",
-        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 190577,
-      "name": "Fuck My Computer",
-      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Cascade",
         "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 286274,
       "name": "Birth4000",
       "url": "https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "The Way I'm Feeling",
-        "url": "https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 257766,
-      "name": "The Way I'm Feeling",
-      "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -883,8 +883,8 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "You're Not a Popstar",
-        "url": "https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW"
+        "name": "Frankie Knuckles",
+        "url": "https://open.spotify.com/album/16LjPG5rGfRhrHuAYRRy09"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
         }
       ],
-      "duration_ms": 224958,
-      "name": "You're Not a Popstar",
-      "url": "https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA"
+      "duration_ms": 212173,
+      "name": "Frankie Knuckles",
+      "url": "https://open.spotify.com/track/7Fkoz65bhhz0Nd11O3FHf7"
     },
     {
       "added_at": "2025-10-16 13:00:01",

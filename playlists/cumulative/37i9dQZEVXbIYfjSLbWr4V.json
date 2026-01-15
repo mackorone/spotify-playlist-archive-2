@@ -3407,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "Helicopter",
+        "url": "https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165288,
+      "name": "Helicopter",
+      "url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
+    },
+    {
+      "album": {
         "name": "\u041c\u0435\u043d\u044c\u0448\u0435 \u0447\u0435\u043c \u0442\u0440\u0438",
         "url": "https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k"
       },
@@ -8356,7 +8374,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 131729,
       "name": "What You Saying",
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
@@ -8560,7 +8578,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 171995,
       "name": "Who (Rock Remix)",
       "url": "https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf"
@@ -9752,7 +9770,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 99681,
       "name": "\u0432\u043a\u043b\u0443\u0431\u0435",
       "url": "https://open.spotify.com/track/3jy14G6E0lcNdK9i6h4Uup"
@@ -9994,6 +10012,24 @@
       "duration_ms": 168274,
       "name": "\u0412\u044b\u0448\u0435 \u043e\u0431\u043b\u0430\u043a\u043e\u0432",
       "url": "https://open.spotify.com/track/6wboSbezFzHT8rOgc2MjcN"
+    },
+    {
+      "album": {
+        "name": "\u0413\u0434\u0435 \u0431\u044b \u044f \u043d\u0438 \u0431\u044b\u043b",
+        "url": "https://open.spotify.com/album/0rAoXNfpD9MheTbbvYd762"
+      },
+      "artists": [
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141971,
+      "name": "\u0413\u0434\u0435 \u0431\u044b \u044f \u043d\u0438 \u0431\u044b\u043b",
+      "url": "https://open.spotify.com/track/6KJ63CHxX3U4E9cpgd4gh5"
     },
     {
       "album": {
@@ -12040,7 +12076,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 255796,
       "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/5DeaUQWxyUxRC9dRFWV1g1"
@@ -12120,7 +12156,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 120397,
       "name": "\u043c\u0438\u043b\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0448\u044c\u0441\u044f",
       "url": "https://open.spotify.com/track/4clWtg8OzmLO0TFBY7FGRm"
@@ -14946,7 +14982,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143294,
       "name": "\u0421\u043b\u043e\u043c\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/4OjB6FkYwCeWqsSpTFF7O9"
@@ -15854,7 +15890,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 105200,
       "name": "\u0423 \u0431\u0430\u0442\u0430\u0440\u0435\u0439",
       "url": "https://open.spotify.com/track/5sGKghKnKrufLzx3fwTr0i"
@@ -16844,7 +16880,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 91875,
       "name": "\u044f \u043c\u043e\u043b\u043e\u0434\u043e\u0439 \u0432\u0430\u043c\u043f\u0438\u0440 vamp",
       "url": "https://open.spotify.com/track/6wkSonQhYvYe1LPeEswTYk"

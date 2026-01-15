@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY7srJwuLUWi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY7srJwuLUWi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY7srJwuLUWi)
+[pretty](/playlists/pretty/37i9dQZF1DWY7srJwuLUWi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY7srJwuLUWi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY7srJwuLUWi)
 
 ### [The Golden Spoon \(금수저\)](https://open.spotify.com/playlist/37i9dQZF1DWY7srJwuLUWi)
 

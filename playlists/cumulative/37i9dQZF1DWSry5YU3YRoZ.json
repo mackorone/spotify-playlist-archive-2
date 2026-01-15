@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 233520,
       "name": "Call me now",
       "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 294230,
       "name": "glow",
       "url": "https://open.spotify.com/track/0mAUb2FmExBeOgERHkKRBx"
@@ -834,6 +834,24 @@
       "duration_ms": 297173,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+    },
+    {
+      "album": {
+        "name": "Your Letter (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/1KPgxV8aJDJh26Z3Ff7N5p"
     },
     {
       "album": {
@@ -946,6 +964,24 @@
       "duration_ms": 237504,
       "name": "Haze",
       "url": "https://open.spotify.com/track/1AIeM0tVZYsi9KCMjNECUx"
+    },
+    {
+      "album": {
+        "name": "Our favorite words",
+        "url": "https://open.spotify.com/album/2EzTLl67eHnTqGXLt0T3rJ"
+      },
+      "artists": [
+        {
+          "name": "jin hwi Park",
+          "url": "https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219186,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/6KyuDhGGy47zCoJYgOrQNs"
     },
     {
       "album": {
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "In Other Words",
       "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
@@ -1699,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Night, Snow",
+        "url": "https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229625,
+      "name": "Night, Snow",
+      "url": "https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki"
+    },
+    {
+      "album": {
         "name": "When the dawn calls me abruptly",
         "url": "https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt"
       },
@@ -1822,7 +1876,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 204463,
       "name": "Prayers of a Hedgehog",
       "url": "https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C"
@@ -2096,7 +2150,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 250453,
       "name": "Stay",
       "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
@@ -2370,6 +2424,24 @@
       "duration_ms": 203833,
       "name": "universe",
       "url": "https://open.spotify.com/track/60uVTCslbHChF3XLXn8st9"
+    },
+    {
+      "album": {
+        "name": "unveil",
+        "url": "https://open.spotify.com/album/0BIAqguwVanHkVwo2zZOly"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234634,
+      "name": "unveil",
+      "url": "https://open.spotify.com/track/77SopjIoX4QGTAWpQnp7fT"
     },
     {
       "album": {
@@ -2792,7 +2864,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217085,
       "name": "\ud488",
       "url": "https://open.spotify.com/track/14vbDsZympKPZsSJvGsYhg"

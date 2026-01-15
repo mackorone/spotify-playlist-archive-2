@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXTfdxNcD5sS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXTfdxNcD5sS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXTfdxNcD5sS)
+[pretty](/playlists/pretty/37i9dQZF1DWXTfdxNcD5sS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXTfdxNcD5sS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXTfdxNcD5sS)
 
 ### [Return to the Rave](https://open.spotify.com/playlist/37i9dQZF1DWXTfdxNcD5sS)
 

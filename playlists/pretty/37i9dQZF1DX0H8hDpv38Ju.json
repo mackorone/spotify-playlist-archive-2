@@ -1,6 +1,6 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 863370,
+  "num_followers": 863883,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "The Best Of Stephanie Mills",
-        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "On The Rise",
         "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 416733,
       "name": "Tell Me If You Still Care",
       "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Best Of Stephanie Mills",
+        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
     },
     {
       "added_at": "2021-07-01 19:39:13",
@@ -435,6 +435,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
+      },
+      "artists": [
+        {
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+        }
+      ],
+      "duration_ms": 364946,
+      "name": "Love Come Down",
+      "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 232133,
       "name": "Back To Life (However Do You Want Me)",
       "url": "https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 364946,
-      "name": "Love Come Down",
-      "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -535,6 +535,38 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "The Pleasure Principle",
+      "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/1RuIZ3XuB6TFN11ApV2tgG"
+      },
+      "artists": [
+        {
+          "name": "Starpoint",
+          "url": "https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Object of My Desire",
+      "url": "https://open.spotify.com/track/63Ql2zSLiBryLRPihaUToK"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Funkin' For Jamaica",
         "url": "https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq"
       },
@@ -567,38 +599,6 @@
       "duration_ms": 521693,
       "name": "Saturday Love - 12\" Extended Version",
       "url": "https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 297973,
-      "name": "The Pleasure Principle",
-      "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/1RuIZ3XuB6TFN11ApV2tgG"
-      },
-      "artists": [
-        {
-          "name": "Starpoint",
-          "url": "https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Object of My Desire",
-      "url": "https://open.spotify.com/track/63Ql2zSLiBryLRPihaUToK"
     },
     {
       "added_at": "2021-07-01 19:39:13",

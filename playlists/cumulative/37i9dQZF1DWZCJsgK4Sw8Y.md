@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZCJsgK4Sw8Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZCJsgK4Sw8Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZCJsgK4Sw8Y)
+[pretty](/playlists/pretty/37i9dQZF1DWZCJsgK4Sw8Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZCJsgK4Sw8Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZCJsgK4Sw8Y)
 
 ### [Cornerstones](https://open.spotify.com/playlist/37i9dQZF1DWZCJsgK4Sw8Y)
 

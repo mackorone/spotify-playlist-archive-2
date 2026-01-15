@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain](/playlists/plain/37i9dQZF1DX1jG0L1fT9fh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1jG0L1fT9fh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain](/playlists/plain/37i9dQZF1DX1jG0L1fT9fh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1jG0L1fT9fh)
 
 ### [KENGAN ASHURA](https://open.spotify.com/playlist/37i9dQZF1DX1jG0L1fT9fh)
 
 > Enjoy music from "KENGAN ASHURA"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,693 likes - 44 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,760 likes - 44 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

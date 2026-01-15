@@ -1044,10 +1044,32 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218894,
       "name": "Pick A Side",
       "url": "https://open.spotify.com/track/6VC96yBUe4zgpQPXwgagjC"
+    },
+    {
+      "album": {
+        "name": "Freddy Back",
+        "url": "https://open.spotify.com/album/5TPykdA03MtsKQkIr1Iylw"
+      },
+      "artists": [
+        {
+          "name": "WAP5TAR",
+          "url": "https://open.spotify.com/artist/3wk369fbina3PpKTz8f4na"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218894,
+      "name": "Pick A Side",
+      "url": "https://open.spotify.com/track/5NFMSNcyknf50vtZARzGx7"
     },
     {
       "album": {

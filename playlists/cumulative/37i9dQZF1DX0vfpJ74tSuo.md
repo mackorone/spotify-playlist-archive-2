@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0vfpJ74tSuo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0vfpJ74tSuo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0vfpJ74tSuo)
+[pretty](/playlists/pretty/37i9dQZF1DX0vfpJ74tSuo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0vfpJ74tSuo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0vfpJ74tSuo)
 
 ### [Morning Blues](https://open.spotify.com/playlist/37i9dQZF1DX0vfpJ74tSuo)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain](/playlists/plain/37i9dQZF1DWWfZHTa5oacf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWfZHTa5oacf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain](/playlists/plain/37i9dQZF1DWWfZHTa5oacf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWfZHTa5oacf)
 
 ### [Bollywood Sundowner](https://open.spotify.com/playlist/37i9dQZF1DWWfZHTa5oacf)
 
 > Kickstart your sundowner party with these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,437 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,480 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 | 32 | [Illegal Weapon 2.0](https://open.spotify.com/track/7CY0CmCpSglfUKCBOOiRfw) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Street Dancer 3D](https://open.spotify.com/album/50FHINh9xisewZgfucGbVL) | 3:08 |
 | 33 | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx) | [Ved Sharma](https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy) | 4:47 |
 | 34 | [Sooraj Ki Baahon Mein](https://open.spotify.com/track/723xQva0yBF7M6K3nDAG8R) | [Dominique Cerejo](https://open.spotify.com/artist/2DwWEmeVaWxwkjbnyPlNZT), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 3:22 |
-| 35 | [Tu Meri](https://open.spotify.com/track/0800NFKDicegzMbus9LiuH) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52gSIQvhLN9EeGNtHJELEu) | 4:17 |
+| 35 | [Tu Meri](https://open.spotify.com/track/0800NFKDicegzMbus9LiuH) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52gSIQvhLN9EeGNtHJELEu) | 4:17 |
 | 36 | [Mileya Mileya](https://open.spotify.com/track/1aqfzt5mpPoi7kYTFlfnIi) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Priya Andrews](https://open.spotify.com/artist/27RvbKA1WxAFTWwQc712tY) | [Happy Ending \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5eXEoPmxkMPmxOeLIMNoeY) | 4:26 |
 | 37 | [The Humma Song](https://open.spotify.com/track/7heMX7gyHP0mhTlNgd7Lxd) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 2:59 |
 | 38 | [Ik Junoon \(Paint It Red\)](https://open.spotify.com/track/7e6qTHVfRdaYsio90s1fHC) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 4:59 |

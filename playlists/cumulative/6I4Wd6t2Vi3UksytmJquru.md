@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6I4Wd6t2Vi3UksytmJquru.md) - cumulative - [plain](/playlists/plain/6I4Wd6t2Vi3UksytmJquru) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6I4Wd6t2Vi3UksytmJquru)
+[pretty](/playlists/pretty/6I4Wd6t2Vi3UksytmJquru.md) - cumulative - [plain](/playlists/plain/6I4Wd6t2Vi3UksytmJquru) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6I4Wd6t2Vi3UksytmJquru)
 
 ### [Pub Songs 🍺](https://open.spotify.com/playlist/6I4Wd6t2Vi3UksytmJquru)
 

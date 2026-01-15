@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain](/playlists/plain/37i9dQZF1DX717gvXLoUJP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX717gvXLoUJP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain](/playlists/plain/37i9dQZF1DX717gvXLoUJP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX717gvXLoUJP)
 
 ### [Nina Kraviz' track IDs](https://open.spotify.com/playlist/37i9dQZF1DX717gvXLoUJP)
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,945 likes - 54 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,966 likes - 54 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

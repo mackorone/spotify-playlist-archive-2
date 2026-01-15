@@ -1,13 +1,37 @@
 {
-  "description": "Every song that's Trending NOW from Malayalam! \nCover: Aashaan",
-  "num_followers": 591157,
+  "description": "Every song that's Trending NOW from Malayalam! \nCover: Sarvam Maya",
+  "num_followers": 596952,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLBDzVhh9no8d/OnOarKKSfe/rT",
+  "snapshot_id": "AAAAAFwC/8DrJ+IOZc2YFkkUY9JJUHnF",
   "tracks": [
+    {
+      "added_at": "2026-01-07 07:41:31",
+      "album": {
+        "name": "Vellarathaaram (From \"Sarvam Maya\")",
+        "url": "https://open.spotify.com/album/76xhNcZY5zLItrivJ5Bz3Z"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Manu Manjith",
+          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Vellarathaaram (From \"Sarvam Maya\")",
+      "url": "https://open.spotify.com/track/2LzLaaGYFBzg7esTGqmpDR"
+    },
     {
       "added_at": "2025-11-26 07:40:57",
       "album": {
@@ -83,6 +107,30 @@
       "duration_ms": 142666,
       "name": "Vazhikatti - Kizhakku Suryan",
       "url": "https://open.spotify.com/track/1UpbpQDIKTc1XxRyF3Xgi0"
+    },
+    {
+      "added_at": "2026-01-07 07:39:10",
+      "album": {
+        "name": "Puthu Mazha (From \"Sarvam Maya\")",
+        "url": "https://open.spotify.com/album/5E9ISq5cIQmCvtefXz0Wn9"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Manu Manjith",
+          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+        }
+      ],
+      "duration_ms": 262285,
+      "name": "Puthu Mazha (From \"Sarvam Maya\")",
+      "url": "https://open.spotify.com/track/1T2BaoynY8mttTMb6t51gF"
     },
     {
       "added_at": "2025-10-06 04:58:08",
@@ -1127,54 +1175,6 @@
       "duration_ms": 247164,
       "name": "Kondal Vedan Song (From \"Kondal\")",
       "url": "https://open.spotify.com/track/0FhmVYnbnWocY6mOgjeMlz"
-    },
-    {
-      "added_at": "2024-09-04 08:10:57",
-      "album": {
-        "name": "Vaazha (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx"
-      },
-      "artists": [
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        },
-        {
-          "name": "Parvatish Pradeep",
-          "url": "https://open.spotify.com/artist/5vjgwPGSteudan2MIvGjlu"
-        },
-        {
-          "name": "B.K. Harinarayanan",
-          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
-        }
-      ],
-      "duration_ms": 272142,
-      "name": "Makane",
-      "url": "https://open.spotify.com/track/67wW2Ic4V2m5kUSh9M6yWf"
-    },
-    {
-      "added_at": "2025-07-09 05:01:16",
-      "album": {
-        "name": "Lion (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7HQe0XxXc7m4XdFd4oD6hS"
-      },
-      "artists": [
-        {
-          "name": "Deepak Dev",
-          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 340977,
-      "name": "Sundaree Onnu Parayoo - Version, 1",
-      "url": "https://open.spotify.com/track/1HELfOdMwHZRwjyekjrrXx"
     }
   ],
   "unique_name": "Trending Now Malayalam",

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain](/playlists/plain/37i9dQZF1DWYILo9WhOOw6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYILo9WhOOw6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain](/playlists/plain/37i9dQZF1DWYILo9WhOOw6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYILo9WhOOw6)
 
 ### [Binaural Beats: Deeper Sleep](https://open.spotify.com/playlist/37i9dQZF1DWYILo9WhOOw6)
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,076 likes - 139 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,954 likes - 139 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

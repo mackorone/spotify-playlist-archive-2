@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Gilga Sahid",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Ndarboy Genk",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -342,6 +342,24 @@
       "duration_ms": 318239,
       "name": "Aku Tenang",
       "url": "https://open.spotify.com/track/1bmOl3WYltXNAWDFcyOrmc"
+    },
+    {
+      "album": {
+        "name": "Aku Tetep Bali",
+        "url": "https://open.spotify.com/album/5QfBk6Y3qSYYrE9cnVAQR9"
+      },
+      "artists": [
+        {
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Aku Tetep Bali",
+      "url": "https://open.spotify.com/track/1J9IHbIfkabPZSxZt3LoWG"
     },
     {
       "album": {
@@ -744,6 +762,24 @@
       "duration_ms": 312195,
       "name": "ASMORO",
       "url": "https://open.spotify.com/track/0cbBmjXTKuTcv1J1cUFlTw"
+    },
+    {
+      "album": {
+        "name": "Atiku Ajur",
+        "url": "https://open.spotify.com/album/1axIrJ3djL3B1tbDwzlN3H"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472000,
+      "name": "Atiku Ajur",
+      "url": "https://open.spotify.com/track/730ZF1fdxa1Ule8TNVFeA7"
     },
     {
       "album": {
@@ -1350,7 +1386,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 326000,
       "name": "Cerito Manis Gawe Tangis",
       "url": "https://open.spotify.com/track/7BBC3HQTJX5WOutky9bE1Q"
@@ -2974,7 +3010,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 253000,
       "name": "Judeg",
       "url": "https://open.spotify.com/track/3fhPsPOGxESkQPej3HEzga"
@@ -9101,6 +9137,24 @@
     },
     {
       "album": {
+        "name": "Sewates Gandrung",
+        "url": "https://open.spotify.com/album/5P2jxvTbCeXpP2207z7IZT"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262372,
+      "name": "Sewates Gandrung",
+      "url": "https://open.spotify.com/track/6uvS6ZHcvNaI1zo6cWHhbT"
+    },
+    {
+      "album": {
         "name": "Sewates Selingan",
         "url": "https://open.spotify.com/album/3BdjmcDFz0NoNayRc77Cr3"
       },
@@ -9312,7 +9366,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 321150,
       "name": "Sinarengan",
       "url": "https://open.spotify.com/track/1YOczwofxo6MxtkjPBYdNV"
@@ -9449,6 +9503,28 @@
     },
     {
       "album": {
+        "name": "Tak Kancani",
+        "url": "https://open.spotify.com/album/1fFsyjJk6UuGmLA6Qqvflm"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Fauzi Haidi",
+          "url": "https://open.spotify.com/artist/16GONCEkIfXCfSzgsuJBBJ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322496,
+      "name": "Tak Kancani",
+      "url": "https://open.spotify.com/track/4tecElKdvmVd5G5Uwgl834"
+    },
+    {
+      "album": {
         "name": "Tak Lalekne Kowe",
         "url": "https://open.spotify.com/album/7zwWjfvz7dD1kOGLSmMf9h"
       },
@@ -9580,6 +9656,28 @@
       "duration_ms": 316316,
       "name": "Takdire Pisah",
       "url": "https://open.spotify.com/track/5jMO4LPNKOkhgqxiknYMwa"
+    },
+    {
+      "album": {
+        "name": "Tamu Undangan",
+        "url": "https://open.spotify.com/album/20JtqOI34lztz19QHU385C"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Erlangga Gusfian",
+          "url": "https://open.spotify.com/artist/6wspxA4TXBDkLVTkMiPsbw"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484000,
+      "name": "Tamu Undangan",
+      "url": "https://open.spotify.com/track/4OracLPKE8BQq1yt0KsL6l"
     },
     {
       "album": {
@@ -10112,7 +10210,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 396000,
       "name": "Tresna Humiring Waspa",
       "url": "https://open.spotify.com/track/0drcthbqtGMyctaauFIhZt"

@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5628,
+  "num_followers": 5651,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Als Het Om De Liefde Gaat (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf"
-      },
-      "artists": [
-        {
-          "name": "Sandra & Andres",
-          "url": "https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Als Het Om De Liefde Gaat",
-      "url": "https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "The Albums 1970-73",
         "url": "https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Lo Mejor de Jos\u00e9 Velez",
-        "url": "https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8"
+        "name": "Als Het Om De Liefde Gaat (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Velez",
-          "url": "https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm"
+          "name": "Sandra & Andres",
+          "url": "https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Bailemos un Vals",
-      "url": "https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj"
+      "duration_ms": 176026,
+      "name": "Als Het Om De Liefde Gaat",
+      "url": "https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -263,6 +247,22 @@
       "duration_ms": 172240,
       "name": "Occhi di ragazza",
       "url": "https://open.spotify.com/track/1w7ID6DNVqWTkFigG5bHgE"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Lo Mejor de Jos\u00e9 Velez",
+        "url": "https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Velez",
+          "url": "https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Bailemos un Vals",
+      "url": "https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Angelique",
-        "url": "https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq"
-      },
-      "artists": [
-        {
-          "name": "Dario Campeotto",
-          "url": "https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Angelique",
-      "url": "https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Bobby Solo Cantaitalia",
         "url": "https://open.spotify.com/album/6ESzygL26GaA2DNaG8UHNy"
       },
@@ -411,6 +395,42 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "16 Hits",
+        "url": "https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN"
+      },
+      "artists": [
+        {
+          "name": "Grethe Ingmann",
+          "url": "https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs"
+        },
+        {
+          "name": "J\u00f8rgen Ingmann",
+          "url": "https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Dansevise",
+      "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Angelique",
+        "url": "https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq"
+      },
+      "artists": [
+        {
+          "name": "Dario Campeotto",
+          "url": "https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Angelique",
+      "url": "https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Pure... France",
         "url": "https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 181033,
       "name": "Un banc, un arbre, une rue",
       "url": "https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "16 Hits",
-        "url": "https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN"
-      },
-      "artists": [
-        {
-          "name": "Grethe Ingmann",
-          "url": "https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs"
-        },
-        {
-          "name": "J\u00f8rgen Ingmann",
-          "url": "https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Dansevise",
-      "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Marion Rung",
-        "url": "https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL"
-      },
-      "artists": [
-        {
-          "name": "Marion Rung",
-          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Tipi-tii",
-      "url": "https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Het Beste Van Louis Neefs",
         "url": "https://open.spotify.com/album/4r46h8MXFOtBI7Ea7b6J8O"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 145920,
       "name": "Oh Oh Ik Heb Zorgen",
       "url": "https://open.spotify.com/track/6pXIN9tdQzQINm6IRgm6v0"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Marion Rung",
+        "url": "https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL"
+      },
+      "artists": [
+        {
+          "name": "Marion Rung",
+          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Tipi-tii",
+      "url": "https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Sol och v\u00e5r",
+        "url": "https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE"
+      },
+      "artists": [
+        {
+          "name": "Inger Berggren",
+          "url": "https://open.spotify.com/artist/1M9FpVD8zpLVz1Ec4A70cS"
+        }
+      ],
+      "duration_ms": 188173,
+      "name": "Sol och v\u00e5r",
+      "url": "https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "1971",
         "url": "https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 191240,
       "name": "Vita vidder",
       "url": "https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
-      },
-      "artists": [
-        {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
-        }
-      ],
-      "duration_ms": 264013,
-      "name": "Parlez-vous francais?",
-      "url": "https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Sol och v\u00e5r",
-        "url": "https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
       },
       "artists": [
         {
-          "name": "Inger Berggren",
-          "url": "https://open.spotify.com/artist/1M9FpVD8zpLVz1Ec4A70cS"
+          "name": "Baccara",
+          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
         }
       ],
-      "duration_ms": 188173,
-      "name": "Sol och v\u00e5r",
-      "url": "https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H"
+      "duration_ms": 264013,
+      "name": "Parlez-vous francais?",
+      "url": "https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Non ho l\u00b4eta (Remastered)",
-        "url": "https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl"
-      },
-      "artists": [
-        {
-          "name": "Gigliola Cinquetti",
-          "url": "https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh"
-        }
-      ],
-      "duration_ms": 196519,
-      "name": "Non ho l'et\u00e0 - Remastered",
-      "url": "https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Shadows - The Collection",
         "url": "https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 170600,
       "name": "Let Me Be the One",
       "url": "https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Non ho l\u00b4eta (Remastered)",
+        "url": "https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl"
+      },
+      "artists": [
+        {
+          "name": "Gigliola Cinquetti",
+          "url": "https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Non ho l'et\u00e0 - Remastered",
+      "url": "https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "L'essentiel",
-        "url": "https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd"
-      },
-      "artists": [
-        {
-          "name": "Pierre Rapsat",
-          "url": "https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Judy et cie",
-      "url": "https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Collection: Sergio Endrigo",
         "url": "https://open.spotify.com/album/3I41nPHRdOpInP57Noytru"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 190080,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "L'essentiel",
+        "url": "https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd"
+      },
+      "artists": [
+        {
+          "name": "Pierre Rapsat",
+          "url": "https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Judy et cie",
+      "url": "https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Nicole Rieu",
+        "url": "https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl"
+      },
+      "artists": [
+        {
+          "name": "Nicole Rieu",
+          "url": "https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "Et Bonjour A Toi l'Artiste",
+      "url": "https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Primaballerina",
         "url": "https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Nicole Rieu",
-        "url": "https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl"
+        "name": "Golden Girls",
+        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
       },
       "artists": [
         {
-          "name": "Nicole Rieu",
-          "url": "https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC"
+          "name": "Silver Convention",
+          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
         }
       ],
-      "duration_ms": 222493,
-      "name": "Et Bonjour A Toi l'Artiste",
-      "url": "https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q"
+      "duration_ms": 183373,
+      "name": "Telegram",
+      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Golden Girls",
-        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
+        "name": "Big-5: Marion",
+        "url": "https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U"
       },
       "artists": [
         {
-          "name": "Silver Convention",
-          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
+          "name": "Marion Rung",
+          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
         }
       ],
-      "duration_ms": 183373,
-      "name": "Telegram",
-      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
+      "duration_ms": 175746,
+      "name": "Tom Tom Tom",
+      "url": "https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1123,22 +1139,6 @@
       "duration_ms": 142552,
       "name": "Le chant de Mallory",
       "url": "https://open.spotify.com/track/5ATFYzJdCMISJUUVRDUHMA"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Big-5: Marion",
-        "url": "https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U"
-      },
-      "artists": [
-        {
-          "name": "Marion Rung",
-          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "Tom Tom Tom",
-      "url": "https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg"
     }
   ],
   "unique_name": "Eurovision Gold",

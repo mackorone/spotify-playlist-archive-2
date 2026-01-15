@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7yNDQ30MDO6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7yNDQ30MDO6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7yNDQ30MDO6)
+[pretty](/playlists/pretty/37i9dQZF1DX7yNDQ30MDO6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7yNDQ30MDO6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7yNDQ30MDO6)
 
 ### [This Is Biffy Clyro](https://open.spotify.com/playlist/37i9dQZF1DX7yNDQ30MDO6)
 

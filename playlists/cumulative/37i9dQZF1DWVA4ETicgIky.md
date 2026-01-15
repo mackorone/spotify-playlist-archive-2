@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVA4ETicgIky.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVA4ETicgIky) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVA4ETicgIky)
+[pretty](/playlists/pretty/37i9dQZF1DWVA4ETicgIky.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVA4ETicgIky) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVA4ETicgIky)
 
 ### [Fiesta 80era](https://open.spotify.com/playlist/37i9dQZF1DWVA4ETicgIky)
 

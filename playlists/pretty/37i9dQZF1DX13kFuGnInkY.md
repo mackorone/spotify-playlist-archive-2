@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain](/playlists/plain/37i9dQZF1DX13kFuGnInkY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX13kFuGnInkY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain](/playlists/plain/37i9dQZF1DX13kFuGnInkY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX13kFuGnInkY)
 
 ### [ACM Awards 2025](https://open.spotify.com/playlist/37i9dQZF1DX13kFuGnInkY)
 
 > Congratulations to all of the ACM Awards nominees and winners! Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,616 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,484 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

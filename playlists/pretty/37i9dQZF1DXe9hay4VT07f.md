@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain](/playlists/plain/37i9dQZF1DXe9hay4VT07f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe9hay4VT07f)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain](/playlists/plain/37i9dQZF1DXe9hay4VT07f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe9hay4VT07f)
 
 ### [Dancehall Party](https://open.spotify.com/playlist/37i9dQZF1DXe9hay4VT07f)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/54LbSpjd64NjKPUyYAGkNU.md) - [plain](/playlists/plain/54LbSpjd64NjKPUyYAGkNU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/54LbSpjd64NjKPUyYAGkNU)
+pretty - [cumulative](/playlists/cumulative/54LbSpjd64NjKPUyYAGkNU.md) - [plain](/playlists/plain/54LbSpjd64NjKPUyYAGkNU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/54LbSpjd64NjKPUyYAGkNU)
 
 ### [Hours of Ours](https://open.spotify.com/playlist/54LbSpjd64NjKPUyYAGkNU)
 
 > Beatiful, mellow jazz for romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374 likes - 23 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,371 likes - 23 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

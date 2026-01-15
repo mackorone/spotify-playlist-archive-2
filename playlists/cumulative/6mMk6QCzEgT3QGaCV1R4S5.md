@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/6mMk6QCzEgT3QGaCV1R4S5.md) - cumulative - [plain](/playlists/plain/6mMk6QCzEgT3QGaCV1R4S5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6mMk6QCzEgT3QGaCV1R4S5)
+[pretty](/playlists/pretty/6mMk6QCzEgT3QGaCV1R4S5.md) - cumulative - [plain](/playlists/plain/6mMk6QCzEgT3QGaCV1R4S5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6mMk6QCzEgT3QGaCV1R4S5)
 
 ### [Dancefloor Beats](https://open.spotify.com/playlist/6mMk6QCzEgT3QGaCV1R4S5)
 
 > Get moving on the dancefloor with some big room beats with the biggest dance hits in 2025
 
-306 songs - 16 hr 12 min
+307 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 | 2025-04-11 | 2025-12-19 |
 | [Lil Boo Thang \- Galantis Remix](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Lil Boo Thang \(Galantis Remix\)](https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5) | 2:09 | 2023-12-15 | 2024-09-04 |
 | [Lil Boo Thang \- Luca Schreiner Remix](https://open.spotify.com/track/3QlC3KNNrJ7D13GRWcYcDF) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lil Boo Thang \(Luca Schreiner Remix\)](https://open.spotify.com/album/0UUCrCIuu5A6FleEa3NWtW) | 2:01 | 2023-12-08 | 2023-12-16 |
+| [Loitering \(ft\. Kodak Black\)](https://open.spotify.com/track/1jMhBGKs5FSWcFSqXOlyW9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [d00mscrvll](https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [d00mscrvll](https://open.spotify.com/album/7oopgknSuc08RQ5jR0aBjy) | 2:40 | 2026-01-09 |  |
 | [Lonely Tonight \(feat\. Justin Jesso & Parson James\)](https://open.spotify.com/track/6IybPItcMGSzx7lHeNCHKk) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 2:35 | 2025-05-23 | 2025-12-19 |
 | [Lonestar \- VIP](https://open.spotify.com/track/6dlYv7FOAYyxTT0yCvbs9M) | [Mia Kirkland](https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD), [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG) | [Lonestar \(VIP\)](https://open.spotify.com/album/1RIhyZKU9wTTF6Lacm1OpO) | 3:47 | 2025-09-02 | 2025-09-06 |
 | [Long Way Down \(feat\. Badlook\)](https://open.spotify.com/track/5AuZZDslOUpGGSFU4vUJoK) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Badlook](https://open.spotify.com/artist/0X1pUgwNe1hDigWHccoRvo) | [Long Way Down \(feat\. Badlook\)](https://open.spotify.com/album/1jBMug2yq6r4F4IpLEAL9W) | 3:49 | 2025-04-04 | 2025-12-19 |

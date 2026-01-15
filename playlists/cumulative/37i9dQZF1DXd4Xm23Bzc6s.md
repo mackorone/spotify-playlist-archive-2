@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXd4Xm23Bzc6s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd4Xm23Bzc6s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd4Xm23Bzc6s)
+[pretty](/playlists/pretty/37i9dQZF1DXd4Xm23Bzc6s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd4Xm23Bzc6s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXd4Xm23Bzc6s)
 
 ### [Mixtape \#21 Cuco "playlist for the playlistener"](https://open.spotify.com/playlist/37i9dQZF1DXd4Xm23Bzc6s)
 

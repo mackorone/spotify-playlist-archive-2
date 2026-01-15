@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain](/playlists/plain/37i9dQZF1DX0CM2xT3aAkN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0CM2xT3aAkN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain](/playlists/plain/37i9dQZF1DX0CM2xT3aAkN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0CM2xT3aAkN)
 
 ### [Renaissance Classics](https://open.spotify.com/playlist/37i9dQZF1DX0CM2xT3aAkN)
 
 > Relaxing choral and instrumental classical music from the Renaissance era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,258 likes - 79 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,715 likes - 79 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/01pNIDYGqmeawppy32wr3D.md) - cumulative - [plain](/playlists/plain/01pNIDYGqmeawppy32wr3D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/01pNIDYGqmeawppy32wr3D)
+[pretty](/playlists/pretty/01pNIDYGqmeawppy32wr3D.md) - cumulative - [plain](/playlists/plain/01pNIDYGqmeawppy32wr3D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/01pNIDYGqmeawppy32wr3D)
 
 ### [2000s Hip Hop](https://open.spotify.com/playlist/01pNIDYGqmeawppy32wr3D)
 

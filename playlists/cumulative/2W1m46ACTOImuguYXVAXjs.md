@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2W1m46ACTOImuguYXVAXjs.md) - cumulative - [plain](/playlists/plain/2W1m46ACTOImuguYXVAXjs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2W1m46ACTOImuguYXVAXjs)
+[pretty](/playlists/pretty/2W1m46ACTOImuguYXVAXjs.md) - cumulative - [plain](/playlists/plain/2W1m46ACTOImuguYXVAXjs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2W1m46ACTOImuguYXVAXjs)
 
 ### [Top Notch New Releases](https://open.spotify.com/playlist/2W1m46ACTOImuguYXVAXjs)
 

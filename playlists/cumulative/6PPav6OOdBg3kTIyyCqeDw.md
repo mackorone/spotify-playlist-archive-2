@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6PPav6OOdBg3kTIyyCqeDw.md) - cumulative - [plain](/playlists/plain/6PPav6OOdBg3kTIyyCqeDw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6PPav6OOdBg3kTIyyCqeDw)
+[pretty](/playlists/pretty/6PPav6OOdBg3kTIyyCqeDw.md) - cumulative - [plain](/playlists/plain/6PPav6OOdBg3kTIyyCqeDw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6PPav6OOdBg3kTIyyCqeDw)
 
 ### [RE:VERSAL \- DANCE THROUGH THE DECADES ](https://open.spotify.com/playlist/6PPav6OOdBg3kTIyyCqeDw)
 

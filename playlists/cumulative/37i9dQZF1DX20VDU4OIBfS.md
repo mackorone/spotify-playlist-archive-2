@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX20VDU4OIBfS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX20VDU4OIBfS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX20VDU4OIBfS)
+[pretty](/playlists/pretty/37i9dQZF1DX20VDU4OIBfS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX20VDU4OIBfS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX20VDU4OIBfS)
 
 ### [Canciones del Recuerdo](https://open.spotify.com/playlist/37i9dQZF1DX20VDU4OIBfS)
 

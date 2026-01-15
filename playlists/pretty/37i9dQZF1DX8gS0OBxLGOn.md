@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS0OBxLGOn.md) - [plain](/playlists/plain/37i9dQZF1DX8gS0OBxLGOn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8gS0OBxLGOn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS0OBxLGOn.md) - [plain](/playlists/plain/37i9dQZF1DX8gS0OBxLGOn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8gS0OBxLGOn)
 
 ### [This Is Los Caligaris](https://open.spotify.com/playlist/37i9dQZF1DX8gS0OBxLGOn)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdkgnpy3H1Kz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdkgnpy3H1Kz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdkgnpy3H1Kz)
+[pretty](/playlists/pretty/37i9dQZF1DXdkgnpy3H1Kz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdkgnpy3H1Kz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdkgnpy3H1Kz)
 
 ### [Ellen Allien's track IDs](https://open.spotify.com/playlist/37i9dQZF1DXdkgnpy3H1Kz)
 

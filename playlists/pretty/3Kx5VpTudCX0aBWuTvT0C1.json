@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd00 Hit shuffle &amp; meet new artists &amp; pop rock song. \u271a Each track also joins tailored playlists.  By @faceless.diversum \ud83d\udcf8 Insta. Follow, save &amp; share ! Submit here : ",
-  "num_followers": 1225,
+  "num_followers": 1277,
   "original_name": "Pop Rock | \u2260 ",
   "owner": {
     "name": "DIVERSUM WORLD",
     "url": "https://open.spotify.com/user/1163990293"
   },
-  "snapshot_id": "AAACbTdr7GKxLbM+fcjgOyKA1qkx61Xa",
+  "snapshot_id": "AAACcmVI1Np/uYNhGr4LQsBr53wKIzoq",
   "tracks": [
     {
       "added_at": "2025-09-24 22:16:32",
@@ -584,7 +584,7 @@
           "url": "https://open.spotify.com/artist/5kTeo0SHSNeFvUQP4mhtxj"
         }
       ],
-      "duration_ms": 211626,
+      "duration_ms": 211153,
       "name": "Weaker",
       "url": "https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1"
     },
@@ -1011,6 +1011,90 @@
       "duration_ms": 223711,
       "name": "wild",
       "url": "https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq"
+    },
+    {
+      "added_at": "2026-01-06 14:45:31",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L"
+      },
+      "artists": [
+        {
+          "name": "Flying Earrings",
+          "url": "https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy"
+        }
+      ],
+      "duration_ms": 405666,
+      "name": "Warpaint",
+      "url": "https://open.spotify.com/track/3YUxt5V51agQZDIBTn2Wp2"
+    },
+    {
+      "added_at": "2026-01-06 22:48:00",
+      "album": {
+        "name": "wild",
+        "url": "https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32"
+      },
+      "artists": [
+        {
+          "name": "Courtney Nord",
+          "url": "https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX"
+        }
+      ],
+      "duration_ms": 195144,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW"
+    },
+    {
+      "added_at": "2026-01-10 17:26:40",
+      "album": {
+        "name": "Make Love",
+        "url": "https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS"
+      },
+      "artists": [
+        {
+          "name": "CLARASCHEIN",
+          "url": "https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w"
+        },
+        {
+          "name": "Vittorio Longobardi",
+          "url": "https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o"
+    },
+    {
+      "added_at": "2026-01-10 17:26:50",
+      "album": {
+        "name": "Punto Cero",
+        "url": "https://open.spotify.com/album/6SxhGvhfo2FBsGjZgNgvrO"
+      },
+      "artists": [
+        {
+          "name": "Valira",
+          "url": "https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u"
+        }
+      ],
+      "duration_ms": 221669,
+      "name": "Punto Cero",
+      "url": "https://open.spotify.com/track/1I21Ts3OdQHSF82lz1VyFv"
+    },
+    {
+      "added_at": "2026-01-14 02:21:40",
+      "album": {
+        "name": "Huckleberry",
+        "url": "https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ"
+      },
+      "artists": [
+        {
+          "name": "Brandon Bing",
+          "url": "https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR"
+        }
+      ],
+      "duration_ms": 191363,
+      "name": "Broken Soul",
+      "url": "https://open.spotify.com/track/3uF5OHTajylu7acBQfqGCj"
     }
   ],
   "unique_name": "Pop Rock | \u2260 ",

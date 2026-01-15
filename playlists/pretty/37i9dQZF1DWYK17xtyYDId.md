@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK17xtyYDId.md) - [plain](/playlists/plain/37i9dQZF1DWYK17xtyYDId) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYK17xtyYDId)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK17xtyYDId.md) - [plain](/playlists/plain/37i9dQZF1DWYK17xtyYDId) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYK17xtyYDId)
 
 ### [This is SuperM](https://open.spotify.com/playlist/37i9dQZF1DWYK17xtyYDId)
 

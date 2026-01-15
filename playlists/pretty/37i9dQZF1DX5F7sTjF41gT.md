@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5F7sTjF41gT.md) - [plain](/playlists/plain/37i9dQZF1DX5F7sTjF41gT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5F7sTjF41gT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5F7sTjF41gT.md) - [plain](/playlists/plain/37i9dQZF1DX5F7sTjF41gT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5F7sTjF41gT)
 
 ### [Ring Walk](https://open.spotify.com/playlist/37i9dQZF1DX5F7sTjF41gT)
 
 > Your time is now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,319 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,559 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

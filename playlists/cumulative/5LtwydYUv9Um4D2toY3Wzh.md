@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5LtwydYUv9Um4D2toY3Wzh.md) - cumulative - [plain](/playlists/plain/5LtwydYUv9Um4D2toY3Wzh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5LtwydYUv9Um4D2toY3Wzh)
+[pretty](/playlists/pretty/5LtwydYUv9Um4D2toY3Wzh.md) - cumulative - [plain](/playlists/plain/5LtwydYUv9Um4D2toY3Wzh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5LtwydYUv9Um4D2toY3Wzh)
 
 ### [Singing in the Shower...](https://open.spotify.com/playlist/5LtwydYUv9Um4D2toY3Wzh)
 

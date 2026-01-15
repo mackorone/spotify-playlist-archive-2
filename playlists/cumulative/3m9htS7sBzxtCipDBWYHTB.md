@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3m9htS7sBzxtCipDBWYHTB.md) - cumulative - [plain](/playlists/plain/3m9htS7sBzxtCipDBWYHTB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3m9htS7sBzxtCipDBWYHTB)
+[pretty](/playlists/pretty/3m9htS7sBzxtCipDBWYHTB.md) - cumulative - [plain](/playlists/plain/3m9htS7sBzxtCipDBWYHTB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3m9htS7sBzxtCipDBWYHTB)
 
 ### [The Dissociation Station](https://open.spotify.com/playlist/3m9htS7sBzxtCipDBWYHTB)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain](/playlists/plain/37i9dQZF1DWUvZBXGjNCU4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUvZBXGjNCU4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain](/playlists/plain/37i9dQZF1DWUvZBXGjNCU4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUvZBXGjNCU4)
 
 ### [Sweater Weather Instrumentals](https://open.spotify.com/playlist/37i9dQZF1DWUvZBXGjNCU4)
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,707 likes - 153 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,157 likes - 153 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

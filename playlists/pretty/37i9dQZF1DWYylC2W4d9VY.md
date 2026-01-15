@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYylC2W4d9VY.md) - [plain](/playlists/plain/37i9dQZF1DWYylC2W4d9VY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYylC2W4d9VY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYylC2W4d9VY.md) - [plain](/playlists/plain/37i9dQZF1DWYylC2W4d9VY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYylC2W4d9VY)
 
 ### [COUNTER//CULTURE: Osgood Perkins](https://open.spotify.com/playlist/37i9dQZF1DWYylC2W4d9VY)
 
 > These are the songs that have shaped acclaimed director, Osgood Perkins', alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,929 likes - 35 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,035 likes - 35 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

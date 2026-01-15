@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4UXJpyUjVGJRf6ki6xqBxd.md) - [plain](/playlists/plain/4UXJpyUjVGJRf6ki6xqBxd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4UXJpyUjVGJRf6ki6xqBxd)
+pretty - [cumulative](/playlists/cumulative/4UXJpyUjVGJRf6ki6xqBxd.md) - [plain](/playlists/plain/4UXJpyUjVGJRf6ki6xqBxd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4UXJpyUjVGJRf6ki6xqBxd)
 
 ### [Songs I Heard On TikTok](https://open.spotify.com/playlist/4UXJpyUjVGJRf6ki6xqBxd)
 
 > 
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 21,766 likes - 71 songs - 3 hr 28 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 21,750 likes - 71 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

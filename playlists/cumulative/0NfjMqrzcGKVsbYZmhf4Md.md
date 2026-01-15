@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0NfjMqrzcGKVsbYZmhf4Md.md) - cumulative - [plain](/playlists/plain/0NfjMqrzcGKVsbYZmhf4Md) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NfjMqrzcGKVsbYZmhf4Md)
+[pretty](/playlists/pretty/0NfjMqrzcGKVsbYZmhf4Md.md) - cumulative - [plain](/playlists/plain/0NfjMqrzcGKVsbYZmhf4Md) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0NfjMqrzcGKVsbYZmhf4Md)
 
 ### [Classic Honky Tonk](https://open.spotify.com/playlist/0NfjMqrzcGKVsbYZmhf4Md)
 

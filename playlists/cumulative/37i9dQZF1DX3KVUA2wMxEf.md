@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3KVUA2wMxEf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3KVUA2wMxEf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3KVUA2wMxEf)
+[pretty](/playlists/pretty/37i9dQZF1DX3KVUA2wMxEf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3KVUA2wMxEf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3KVUA2wMxEf)
 
 ### [Reggae Luv](https://open.spotify.com/playlist/37i9dQZF1DX3KVUA2wMxEf)
 

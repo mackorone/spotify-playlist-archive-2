@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/2NoR0KhNZ8oZnC3HoNt2FV.md) - cumulative - [plain](/playlists/plain/2NoR0KhNZ8oZnC3HoNt2FV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2NoR0KhNZ8oZnC3HoNt2FV)
+[pretty](/playlists/pretty/2NoR0KhNZ8oZnC3HoNt2FV.md) - cumulative - [plain](/playlists/plain/2NoR0KhNZ8oZnC3HoNt2FV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2NoR0KhNZ8oZnC3HoNt2FV)
 
 ### [Hip\-Hop and Play: Playboi Carti Takeover](https://open.spotify.com/playlist/2NoR0KhNZ8oZnC3HoNt2FV)
 
 > 
 
-1,233 songs - 2 day 20 hr 29 min
+1,234 songs - 2 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1193,6 +1193,7 @@
 | [What It Sound Like \(feat\. B\-Real\)](https://open.spotify.com/track/4wnXIdWJnzomFK6u00cT5Y) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [RICO](https://open.spotify.com/album/0J3hclSnZfuOPYi0SMJLjH) | 4:13 | 2024-01-25 | 2025-03-28 |
 | [What You Need](https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 3:16 | 2024-01-25 |  |
 | [What You Say \(feat\. Post Malone & The Kid LAROI\)](https://open.spotify.com/track/112EmZwJNonJymivU3KOVl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 4:03 | 2024-01-25 |  |
+| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-07 |  |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-02-26 |  |
 | [Wheelz of Steel](https://open.spotify.com/track/5qKqRkWnRTXNVWbEOOmGxk) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:03 | 2024-01-25 | 2025-03-28 |
 | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ) | 3:21 | 2024-01-25 |  |

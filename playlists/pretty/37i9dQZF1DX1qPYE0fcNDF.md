@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain](/playlists/plain/37i9dQZF1DX1qPYE0fcNDF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1qPYE0fcNDF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain](/playlists/plain/37i9dQZF1DX1qPYE0fcNDF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1qPYE0fcNDF)
 
 ### [Hip\-Hop Holiday](https://open.spotify.com/playlist/37i9dQZF1DX1qPYE0fcNDF)
 
 > Hip\-Hop and Happy Holidays!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,163 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,850 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

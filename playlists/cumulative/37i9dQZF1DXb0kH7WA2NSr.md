@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXb0kH7WA2NSr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb0kH7WA2NSr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb0kH7WA2NSr)
+[pretty](/playlists/pretty/37i9dQZF1DXb0kH7WA2NSr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb0kH7WA2NSr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb0kH7WA2NSr)
 
 ### [Kevin Saunderson's track IDs](https://open.spotify.com/playlist/37i9dQZF1DXb0kH7WA2NSr)
 

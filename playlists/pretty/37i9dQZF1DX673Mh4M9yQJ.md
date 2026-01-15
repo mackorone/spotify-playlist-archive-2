@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX673Mh4M9yQJ.md) - [plain](/playlists/plain/37i9dQZF1DX673Mh4M9yQJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX673Mh4M9yQJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX673Mh4M9yQJ.md) - [plain](/playlists/plain/37i9dQZF1DX673Mh4M9yQJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX673Mh4M9yQJ)
 
 ### [Black Britain: Soul Sisters](https://open.spotify.com/playlist/37i9dQZF1DX673Mh4M9yQJ)
 
 > The British sisters who paved the way for today's young stars to shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,872 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,993 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

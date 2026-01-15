@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdlpBrO6fF3s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdlpBrO6fF3s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdlpBrO6fF3s)
+[pretty](/playlists/pretty/37i9dQZF1DXdlpBrO6fF3s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdlpBrO6fF3s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdlpBrO6fF3s)
 
 ### [This Is ATEEZ](https://open.spotify.com/playlist/37i9dQZF1DXdlpBrO6fF3s)
 

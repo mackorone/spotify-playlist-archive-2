@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0op6xwVK9pVhcxozSQPEsJ.md) - [plain](/playlists/plain/0op6xwVK9pVhcxozSQPEsJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0op6xwVK9pVhcxozSQPEsJ)
+pretty - [cumulative](/playlists/cumulative/0op6xwVK9pVhcxozSQPEsJ.md) - [plain](/playlists/plain/0op6xwVK9pVhcxozSQPEsJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0op6xwVK9pVhcxozSQPEsJ)
 
 ### [Namaste](https://open.spotify.com/playlist/0op6xwVK9pVhcxozSQPEsJ)
 
 > Take some time out of your day to recharge your mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,195 likes - 93 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,193 likes - 93 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

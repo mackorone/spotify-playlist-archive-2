@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAK58Yov6Re.md) - [plain](/playlists/plain/37i9dQZF1DWUAK58Yov6Re) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUAK58Yov6Re)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAK58Yov6Re.md) - [plain](/playlists/plain/37i9dQZF1DWUAK58Yov6Re) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUAK58Yov6Re)
 
 ### [Liner Voice+ SiM『PLAYDEAD』](https://open.spotify.com/playlist/37i9dQZF1DWUAK58Yov6Re)
 
 > Enjoy SiM's newest album "PLAYDEAD" along with MAH's Video interview!! Interview by TAKUTO ONUKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208 likes - 27 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209 likes - 27 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQm3ZVg9Z2X.md) - [plain](/playlists/plain/37i9dQZF1DXaQm3ZVg9Z2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaQm3ZVg9Z2X)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQm3ZVg9Z2X.md) - [plain](/playlists/plain/37i9dQZF1DXaQm3ZVg9Z2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaQm3ZVg9Z2X)
 
 ### [This Is Coldplay](https://open.spotify.com/playlist/37i9dQZF1DXaQm3ZVg9Z2X)
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,181,797 likes - 57 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,182,362 likes - 57 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

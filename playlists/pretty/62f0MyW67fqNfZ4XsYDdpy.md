@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/62f0MyW67fqNfZ4XsYDdpy.md) - [plain](/playlists/plain/62f0MyW67fqNfZ4XsYDdpy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62f0MyW67fqNfZ4XsYDdpy)
+pretty - [cumulative](/playlists/cumulative/62f0MyW67fqNfZ4XsYDdpy.md) - [plain](/playlists/plain/62f0MyW67fqNfZ4XsYDdpy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/62f0MyW67fqNfZ4XsYDdpy)
 
 ### [Sonic Youth Stuff](https://open.spotify.com/playlist/62f0MyW67fqNfZ4XsYDdpy)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain](/playlists/plain/37i9dQZF1DWTSWzScBKziy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTSWzScBKziy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain](/playlists/plain/37i9dQZF1DWTSWzScBKziy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTSWzScBKziy)
 
 ### [Christian Rising](https://open.spotify.com/playlist/37i9dQZF1DWTSWzScBKziy)
 
 > All new Contemporary Christian songs on the rise! Cover: We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,836 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,649 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

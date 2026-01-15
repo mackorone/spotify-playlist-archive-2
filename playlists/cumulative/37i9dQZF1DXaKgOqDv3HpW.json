@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Dionaea",
+        "url": "https://open.spotify.com/album/6cxGXZaeM5mpqZauFZl2Dj"
+      },
+      "artists": [
+        {
+          "name": "Loch Lua",
+          "url": "https://open.spotify.com/artist/1JJPFtcxFOpLgrbnhtvyqO"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Dionaea",
+      "url": "https://open.spotify.com/track/4dwh3E8q2QRX3CoWdOOLIZ"
+    },
+    {
+      "album": {
         "name": "Dream Light",
         "url": "https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9"
       },
@@ -2583,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Foldlight",
+        "url": "https://open.spotify.com/album/154AjL2xhWUk2Y0iwwVhlX"
+      },
+      "artists": [
+        {
+          "name": "Solen Taylor",
+          "url": "https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Foldlight",
+      "url": "https://open.spotify.com/track/084sF0a4BzMG6CM1TIvdGC"
+    },
+    {
+      "album": {
         "name": "For A Moment",
         "url": "https://open.spotify.com/album/6fezkyDVsT5rzLctv7qAzz"
       },
@@ -2706,6 +2742,24 @@
       "duration_ms": 217200,
       "name": "Galaxy River",
       "url": "https://open.spotify.com/track/4qoE30s1SzfR9aylJwSULq"
+    },
+    {
+      "album": {
+        "name": "Gathering Air",
+        "url": "https://open.spotify.com/album/3JZwbtaUkKIi6AckDaNMXH"
+      },
+      "artists": [
+        {
+          "name": "Konradism",
+          "url": "https://open.spotify.com/artist/4uA8U0JA9Wg48FEmhekfFk"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Gathering Air",
+      "url": "https://open.spotify.com/track/3XD2C228jwgCL9yw1YKumV"
     },
     {
       "album": {
@@ -3858,6 +3912,24 @@
       "duration_ms": 158529,
       "name": "Lux Mane",
       "url": "https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3"
+    },
+    {
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7dqNpS4QL361g068w0Ws6p"
+      },
+      "artists": [
+        {
+          "name": "\u1eb9mi",
+          "url": "https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/4XcKeNbgkG5pqfoS2sweFx"
     },
     {
       "album": {
@@ -5935,6 +6007,24 @@
     },
     {
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/7ilI45wKU6OEa18OH1fyCq"
+      },
+      "artists": [
+        {
+          "name": "Felix Vidal",
+          "url": "https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154439,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/6DRF5CsxkXGve7XnAWuhLK"
+    },
+    {
+      "album": {
         "name": "Skaisti",
         "url": "https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV"
       },
@@ -6310,6 +6400,24 @@
       "duration_ms": 254344,
       "name": "Star Fallen",
       "url": "https://open.spotify.com/track/0pXHLfZ33II05CmcqiEzlG"
+    },
+    {
+      "album": {
+        "name": "Stars at dusk",
+        "url": "https://open.spotify.com/album/0OHXGMgUTMYPbcznB9fzs9"
+      },
+      "artists": [
+        {
+          "name": "Casmo Rivers",
+          "url": "https://open.spotify.com/artist/5riJ5eF94qvL94CjaGCfB5"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160243,
+      "name": "Stars at dusk",
+      "url": "https://open.spotify.com/track/4dyIB3QL5hqVUvZl47Eo2T"
     },
     {
       "album": {
@@ -6706,6 +6814,24 @@
       "duration_ms": 209144,
       "name": "Tikal",
       "url": "https://open.spotify.com/track/1tCbkqQkZBAEaMd1gqX5LO"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0KA4v8yBXUwNMLzAJ4mUhy"
+      },
+      "artists": [
+        {
+          "name": "Magenta Dust",
+          "url": "https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158417,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3evfhQ5oIj8QjPIPNYfw7y"
     },
     {
       "album": {

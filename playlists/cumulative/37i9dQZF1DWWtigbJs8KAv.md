@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWtigbJs8KAv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWtigbJs8KAv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWtigbJs8KAv)
+[pretty](/playlists/pretty/37i9dQZF1DWWtigbJs8KAv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWtigbJs8KAv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWtigbJs8KAv)
 
 ### [comer, dormir, perrear, repetir](https://open.spotify.com/playlist/37i9dQZF1DWWtigbJs8KAv)
 

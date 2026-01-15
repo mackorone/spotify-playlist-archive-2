@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqsHDiHLF4k.md) - [plain](/playlists/plain/37i9dQZF1DWTqsHDiHLF4k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTqsHDiHLF4k)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqsHDiHLF4k.md) - [plain](/playlists/plain/37i9dQZF1DWTqsHDiHLF4k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTqsHDiHLF4k)
 
 ### [Mixtape \#19 "Circular" Editors' Choice](https://open.spotify.com/playlist/37i9dQZF1DWTqsHDiHLF4k)
 
 > Innately spellbinding & meditative, absent of endings & beginnings\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,440 likes - 67 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,633 likes - 67 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

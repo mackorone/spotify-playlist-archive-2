@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0mfbHbmy45RZa77K1Us3cd.md) - [plain](/playlists/plain/0mfbHbmy45RZa77K1Us3cd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0mfbHbmy45RZa77K1Us3cd)
+pretty - [cumulative](/playlists/cumulative/0mfbHbmy45RZa77K1Us3cd.md) - [plain](/playlists/plain/0mfbHbmy45RZa77K1Us3cd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0mfbHbmy45RZa77K1Us3cd)
 
 ### [Top Streaming Artists of 2022](https://open.spotify.com/playlist/0mfbHbmy45RZa77K1Us3cd)
 
 > Hit songs from the top 22 most streamed artists on the UnitedMasters platform in 2022.
 
-[unitedmasters](https://open.spotify.com/user/unitedmasters) - 7,755 likes - 22 songs - 59 min 7 sec
+[unitedmasters](https://open.spotify.com/user/unitedmasters) - 7,753 likes - 22 songs - 59 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/0mfbHbmy45RZa77K1Us3cd.md) - [plain]
 | 12 | [High John](https://open.spotify.com/track/55liByWjb2T7j0vohSel10) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Laughing so Hard, it Hurts](https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ) | 2:10 |
 | 13 | [Mania](https://open.spotify.com/track/5IqLGk70rh1GLGmyfhvnoC) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [Codex I](https://open.spotify.com/album/0AOr2GhEniQECPJs7MWd64) | 3:24 |
 | 14 | [AMERICAN WASTELAND](https://open.spotify.com/track/6BB5mSsRYtOILdHMYZKmRz) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [AMERICAN WASTELAND](https://open.spotify.com/album/6AWs0Ua0ne6bblYs9EajUP) | 1:30 |
-| 15 | [Plenty](https://open.spotify.com/track/0jpyhIyvdVZUagbPP9IiZI) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Plenty](https://open.spotify.com/album/097aY57QMnEguasSbYWyoW) | 3:58 |
+| 15 | [Plenty](https://open.spotify.com/track/0jpyhIyvdVZUagbPP9IiZI) | [Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Plenty](https://open.spotify.com/album/097aY57QMnEguasSbYWyoW) | 3:58 |
 | 16 | [PG\-13](https://open.spotify.com/track/5rulkonJlp5t8eXikqjKQD) | [Yus Gz](https://open.spotify.com/artist/3RMAZkh3T3IO2EUMuZMlOE) | [PG\-13](https://open.spotify.com/album/0RVKDsIlm41pi8TmNsdpQT) | 1:54 |
 | 17 | [I'd Hate Me Too](https://open.spotify.com/track/7dTTlQbEBPnU1qA4YYVLqj) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Here, just for now](https://open.spotify.com/album/0BWf5eWNguuvgPwxHvPQAh) | 2:08 |
 | 18 | [Lights Out](https://open.spotify.com/track/0aFAGKktg3GEbdg0f0Ix7d) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Lush Life](https://open.spotify.com/album/5e0AwfXWMbFCC3qNDedM9j) | 2:18 |

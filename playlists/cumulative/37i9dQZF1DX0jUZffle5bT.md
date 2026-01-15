@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0jUZffle5bT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0jUZffle5bT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0jUZffle5bT)
+[pretty](/playlists/pretty/37i9dQZF1DX0jUZffle5bT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0jUZffle5bT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0jUZffle5bT)
 
 ### [Los 20s](https://open.spotify.com/playlist/37i9dQZF1DX0jUZffle5bT)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain](/playlists/plain/37i9dQZF1DWUrPBdYfoJvz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUrPBdYfoJvz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain](/playlists/plain/37i9dQZF1DWUrPBdYfoJvz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUrPBdYfoJvz)
 
 ### [Ambient Essentials](https://open.spotify.com/playlist/37i9dQZF1DWUrPBdYfoJvz)
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,967 likes - 126 songs - 14 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,381 likes - 126 songs - 14 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

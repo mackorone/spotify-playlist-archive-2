@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3zwZ4R1dXab.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3zwZ4R1dXab) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3zwZ4R1dXab)
+[pretty](/playlists/pretty/37i9dQZF1DX3zwZ4R1dXab.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3zwZ4R1dXab) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3zwZ4R1dXab)
 
 ### [PAUSE: Anxiety](https://open.spotify.com/playlist/37i9dQZF1DX3zwZ4R1dXab)
 

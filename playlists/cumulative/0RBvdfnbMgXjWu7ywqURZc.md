@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0RBvdfnbMgXjWu7ywqURZc.md) - cumulative - [plain](/playlists/plain/0RBvdfnbMgXjWu7ywqURZc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0RBvdfnbMgXjWu7ywqURZc)
+[pretty](/playlists/pretty/0RBvdfnbMgXjWu7ywqURZc.md) - cumulative - [plain](/playlists/plain/0RBvdfnbMgXjWu7ywqURZc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0RBvdfnbMgXjWu7ywqURZc)
 
 ### [Hits Are Universal](https://open.spotify.com/playlist/0RBvdfnbMgXjWu7ywqURZc)
 

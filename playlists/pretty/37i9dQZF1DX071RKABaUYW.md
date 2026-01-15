@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain](/playlists/plain/37i9dQZF1DX071RKABaUYW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX071RKABaUYW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain](/playlists/plain/37i9dQZF1DX071RKABaUYW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX071RKABaUYW)
 
 ### [The Basement](https://open.spotify.com/playlist/37i9dQZF1DX071RKABaUYW)
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Pollyfromthedirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,128 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,146 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Achy Breaky Heart",
+        "url": "https://open.spotify.com/album/0TS7aDn70EQPTiR35Po0b0"
+      },
+      "artists": [
+        {
+          "name": "Old Soul",
+          "url": "https://open.spotify.com/artist/5orz7uUoNsj0ernM4RQ6Ao"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194959,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/5G9yaq7e0sS1oW8WBA3D9N"
+    },
+    {
+      "album": {
         "name": "act ii: date @ 8",
         "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
       },
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135576,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
@@ -10969,6 +10987,44 @@
     },
     {
       "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333451,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
+    },
+    {
+      "album": {
         "name": "NANA",
         "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
       },
@@ -11792,7 +11848,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 299468,
       "name": "No Turning Back II",
       "url": "https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ"
@@ -15577,6 +15633,24 @@
     },
     {
       "album": {
+        "name": "The Good Die Young",
+        "url": "https://open.spotify.com/album/3b5pjh0iN82fs3nUb0PtOn"
+      },
+      "artists": [
+        {
+          "name": "FIZZY SA",
+          "url": "https://open.spotify.com/artist/5wCu1FMWM7PLxdGVHPiM6Y"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204919,
+      "name": "The Good Die Young",
+      "url": "https://open.spotify.com/track/4K1GpqZFdGgj18o3nThXXp"
+    },
+    {
+      "album": {
         "name": "The King's Affirmation",
         "url": "https://open.spotify.com/album/5n7GrqzEmcmhhuXmJhHBbD"
       },
@@ -16746,7 +16820,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 259709,
       "name": "Uyoncengwa Unyoko",
       "url": "https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx"
@@ -17444,7 +17518,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184440,
       "name": "wgft (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"

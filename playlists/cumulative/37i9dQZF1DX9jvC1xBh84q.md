@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9jvC1xBh84q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9jvC1xBh84q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9jvC1xBh84q)
+[pretty](/playlists/pretty/37i9dQZF1DX9jvC1xBh84q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9jvC1xBh84q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9jvC1xBh84q)
 
 ### [Summer Rizz](https://open.spotify.com/playlist/37i9dQZF1DX9jvC1xBh84q)
 

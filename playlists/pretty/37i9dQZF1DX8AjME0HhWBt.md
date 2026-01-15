@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AjME0HhWBt.md) - [plain](/playlists/plain/37i9dQZF1DX8AjME0HhWBt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8AjME0HhWBt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AjME0HhWBt.md) - [plain](/playlists/plain/37i9dQZF1DX8AjME0HhWBt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8AjME0HhWBt)
 
 ### [This Is: Rombai](https://open.spotify.com/playlist/37i9dQZF1DX8AjME0HhWBt)
 

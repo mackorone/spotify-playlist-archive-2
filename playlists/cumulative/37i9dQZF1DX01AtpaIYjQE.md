@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX01AtpaIYjQE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX01AtpaIYjQE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX01AtpaIYjQE)
+[pretty](/playlists/pretty/37i9dQZF1DX01AtpaIYjQE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX01AtpaIYjQE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX01AtpaIYjQE)
 
 ### [This Is LiSA](https://open.spotify.com/playlist/37i9dQZF1DX01AtpaIYjQE)
 

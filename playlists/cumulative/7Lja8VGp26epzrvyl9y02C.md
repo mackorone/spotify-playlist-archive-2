@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7Lja8VGp26epzrvyl9y02C.md) - cumulative - [plain](/playlists/plain/7Lja8VGp26epzrvyl9y02C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7Lja8VGp26epzrvyl9y02C)
+[pretty](/playlists/pretty/7Lja8VGp26epzrvyl9y02C.md) - cumulative - [plain](/playlists/plain/7Lja8VGp26epzrvyl9y02C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7Lja8VGp26epzrvyl9y02C)
 
 ### [PlayStation Year In Music](https://open.spotify.com/playlist/7Lja8VGp26epzrvyl9y02C)
 

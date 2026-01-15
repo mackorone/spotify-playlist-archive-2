@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3dD0LM7ij4.md) - [plain](/playlists/plain/37i9dQZF1DWW3dD0LM7ij4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW3dD0LM7ij4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3dD0LM7ij4.md) - [plain](/playlists/plain/37i9dQZF1DWW3dD0LM7ij4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW3dD0LM7ij4)
 
 ### [Pink Floyd Live](https://open.spotify.com/playlist/37i9dQZF1DWW3dD0LM7ij4)
 

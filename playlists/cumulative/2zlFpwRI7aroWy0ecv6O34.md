@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2zlFpwRI7aroWy0ecv6O34.md) - cumulative - [plain](/playlists/plain/2zlFpwRI7aroWy0ecv6O34) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2zlFpwRI7aroWy0ecv6O34)
+[pretty](/playlists/pretty/2zlFpwRI7aroWy0ecv6O34.md) - cumulative - [plain](/playlists/plain/2zlFpwRI7aroWy0ecv6O34) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2zlFpwRI7aroWy0ecv6O34)
 
 ### [Evening Serenades](https://open.spotify.com/playlist/2zlFpwRI7aroWy0ecv6O34)
 

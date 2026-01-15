@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV7xFZCVx23.md) - [plain](/playlists/plain/37i9dQZF1DWSV7xFZCVx23) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSV7xFZCVx23)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV7xFZCVx23.md) - [plain](/playlists/plain/37i9dQZF1DWSV7xFZCVx23) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSV7xFZCVx23)
 
 ### [Snowdrop \(설강화\)](https://open.spotify.com/playlist/37i9dQZF1DWSV7xFZCVx23)
 
 > Enjoy the JTBC drama 'Snowdrop,' OSTs in a different way with the lines in the drama\. You can watch this drama on Disney + as well\. \(JTBC 드라마 '설강화'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. 디즈니 플러스에서도 설강화를 감상하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

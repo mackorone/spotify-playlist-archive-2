@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqpnwZqnPLY.md) - [plain](/playlists/plain/37i9dQZF1DXcqpnwZqnPLY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcqpnwZqnPLY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqpnwZqnPLY.md) - [plain](/playlists/plain/37i9dQZF1DXcqpnwZqnPLY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcqpnwZqnPLY)
 
 ### [PLAVE Asia Tour  \[DASH: Quantum Leap\] ](https://open.spotify.com/playlist/37i9dQZF1DXcqpnwZqnPLY)
 
 > enjoy the PLAVE Asia Tour  \[DASH: Quantum Leap\] LIVE SET including the voices of them on stage! \(플레이브의 무대 멘트와 목소리가 포함된 \[DASH: Quantum Leap\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,524 likes - 23 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,700 likes - 23 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

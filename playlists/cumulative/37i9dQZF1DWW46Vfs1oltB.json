@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: JOOHONEY(\uc8fc\ud5cc))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Dynamic Duo(\ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
@@ -6347,6 +6347,28 @@
     },
     {
       "album": {
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231386,
+      "name": "Chool Check (Feat. Naul For Brown Eyed Soul)",
+      "url": "https://open.spotify.com/track/4ZF6Qks7QaEr0lxaLoCxQP"
+    },
+    {
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -7258,6 +7280,24 @@
       "duration_ms": 169586,
       "name": "Crimson (Prod. Czaer)",
       "url": "https://open.spotify.com/track/19pgQAtjHTpDW8hq67uz8e"
+    },
+    {
+      "album": {
+        "name": "SEOUL",
+        "url": "https://open.spotify.com/album/0Rw1Rp1AqY2qEpSQpG4r3a"
+      },
+      "artists": [
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "CROWN",
+      "url": "https://open.spotify.com/track/2mBHRSMBkz8tg6MoeBHW9G"
     },
     {
       "album": {
@@ -10330,7 +10370,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-28",
+      "date_removed": null,
       "duration_ms": 423866,
       "name": "FASHO",
       "url": "https://open.spotify.com/track/3CcOvobFZW42wJBh5oXd7Q"
@@ -11706,7 +11746,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 243453,
       "name": "Garion (Feat. Dynamicduo) (Prod. Primary)",
       "url": "https://open.spotify.com/track/3ulX3obs7oJGzluQNzcIDX"
@@ -12016,6 +12056,32 @@
       "duration_ms": 175626,
       "name": "Ghost of You",
       "url": "https://open.spotify.com/track/5rFOzYdjlRgKlFImcFmtTC"
+    },
+    {
+      "album": {
+        "name": "Ghostcity",
+        "url": "https://open.spotify.com/album/1b52sbwZGKb9ojYHS8RQTe"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Choi Seong",
+          "url": "https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216932,
+      "name": "Ghostcity",
+      "url": "https://open.spotify.com/track/4HuO81Aq0uPieJJp2I0dtD"
     },
     {
       "album": {
@@ -13361,7 +13427,7 @@
     },
     {
       "album": {
-        "name": "Band of Dynamic Brothers",
+        "name": "Band Of Dynamic Brothers",
         "url": "https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1"
       },
       "artists": [
@@ -13372,7 +13438,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 224893,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl"
@@ -15635,6 +15701,28 @@
     },
     {
       "album": {
+        "name": "Double Dynamite",
+        "url": "https://open.spotify.com/album/2oHuPOq6vuhx8mJkaZUnae"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269466,
+      "name": "I Know (Feat. Paloalto)",
+      "url": "https://open.spotify.com/track/1U7vLmcbfFZlON91MLXjxz"
+    },
+    {
+      "album": {
         "name": "HOMESICK",
         "url": "https://open.spotify.com/album/1N9N45rliehKL52ZGAdFZm"
       },
@@ -15786,7 +15874,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 134750,
       "name": "I swear",
       "url": "https://open.spotify.com/track/0WWlInoj7dC7gpZL5TxuAq"
@@ -18066,7 +18154,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 3002,
       "name": "KrOWN - Gaeko of Dynamic Duo",
       "url": "https://open.spotify.com/track/07WKwqwNf51FnsJdDNkKtV"
@@ -18088,6 +18176,24 @@
       "duration_ms": 2000,
       "name": "KrOWN _Paloalto",
       "url": "https://open.spotify.com/track/7hYGG19q8AOJ0w20tPqEgn"
+    },
+    {
+      "album": {
+        "name": "KrOWN: The Interview",
+        "url": "https://open.spotify.com/album/3JrcIcYWyEUAp9gufWziSN"
+      },
+      "artists": [
+        {
+          "name": "KrOWN: The Interview",
+          "url": "https://open.spotify.com/show/3JrcIcYWyEUAp9gufWziSN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346602,
+      "name": "KrOWN: Interview with Dynamicduo",
+      "url": "https://open.spotify.com/episode/6aV8LfejNJtVjJQKIHCSJO"
     },
     {
       "album": {
@@ -18228,7 +18334,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 1466,
       "name": "KrOWN_Simon Dominic",
       "url": "https://open.spotify.com/track/3Gi9wz0A1aM0AOLYBEoASw"
@@ -18264,7 +18370,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 1874,
       "name": "KrOWN_Tiger JK & Yoon Mirae",
       "url": "https://open.spotify.com/track/6tzJNiVAvg8uX3I3nF2SKk"
@@ -21024,7 +21130,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192378,
       "name": "McNasty",
       "url": "https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF"
@@ -22095,6 +22201,24 @@
     },
     {
       "album": {
+        "name": "SHOT CALLERS",
+        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208495,
+      "name": "Moonwalkin'",
+      "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
+    },
+    {
+      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -22194,6 +22318,28 @@
       "duration_ms": 244703,
       "name": "MOSS (Feat. MINO, BOBBY) (Prod. MINO)",
       "url": "https://open.spotify.com/track/1cYDmIZtF2SGveyqhc7X1Y"
+    },
+    {
+      "album": {
+        "name": "Last Days",
+        "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Ra.D",
+          "url": "https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249680,
+      "name": "Mother's Soulfood (Feat. Ra.D)",
+      "url": "https://open.spotify.com/track/1UVA0j0lkxiq8bqnVsYQZ1"
     },
     {
       "album": {
@@ -22440,7 +22586,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 217626,
       "name": "MSG (Feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6UgKRF9v8QTi7W6COkRU0v"
@@ -26000,7 +26146,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 206173,
       "name": "PITAPA (Feat. pH-1, JUNNY)",
       "url": "https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4"
@@ -27548,6 +27694,24 @@
       "duration_ms": 171933,
       "name": "Reset (Feat. pH-1)",
       "url": "https://open.spotify.com/track/0xErW6hiZXYK4MlpkTej93"
+    },
+    {
+      "album": {
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279146,
+      "name": "Resume Pt.2",
+      "url": "https://open.spotify.com/track/5sA1HmiHPAUpAC5blsGeDp"
     },
     {
       "album": {
@@ -30402,7 +30566,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 209546,
       "name": "Smoke (Prod. Dynamicduo, Padi)",
       "url": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
@@ -34349,6 +34513,32 @@
     },
     {
       "album": {
+        "name": "SUJI",
+        "url": "https://open.spotify.com/album/3MEafRR73bc02D1xhjlBnp"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151403,
+      "name": "Trippin\u2032 (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/6QCzWMWJSSRk671GThuYlt"
+    },
+    {
+      "album": {
         "name": "Trippy",
         "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
       },
@@ -37085,6 +37275,28 @@
     },
     {
       "album": {
+        "name": "AMBITION 1/10",
+        "url": "https://open.spotify.com/album/01o6k7dxnn5nR7fJ6Zpdzv"
+      },
+      "artists": [
+        {
+          "name": "Nosun",
+          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
+        },
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143198,
+      "name": "whodafuq",
+      "url": "https://open.spotify.com/track/5GNbzvcgrLny9ciBwKLCD4"
+    },
+    {
+      "album": {
         "name": "WHY",
         "url": "https://open.spotify.com/album/2bjo0diwdlxXoldCfOrVXv"
       },
@@ -39484,6 +39696,24 @@
       "duration_ms": 202479,
       "name": "\uc798 \uc788\uc9c0",
       "url": "https://open.spotify.com/track/0zKLeUwWcJ8ZpCBzAodfWs"
+    },
+    {
+      "album": {
+        "name": "1393",
+        "url": "https://open.spotify.com/album/4BlRPpY5kcRYwl8KsO6RyY"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "\uc7a0",
+      "url": "https://open.spotify.com/track/6WG2W94TmO97VsVdpn1duc"
     },
     {
       "album": {

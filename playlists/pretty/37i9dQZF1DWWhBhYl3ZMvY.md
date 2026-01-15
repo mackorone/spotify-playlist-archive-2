@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhBhYl3ZMvY.md) - [plain](/playlists/plain/37i9dQZF1DWWhBhYl3ZMvY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWhBhYl3ZMvY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhBhYl3ZMvY.md) - [plain](/playlists/plain/37i9dQZF1DWWhBhYl3ZMvY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWhBhYl3ZMvY)
 
 ### [This Is Rihanna \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWWhBhYl3ZMvY)
 

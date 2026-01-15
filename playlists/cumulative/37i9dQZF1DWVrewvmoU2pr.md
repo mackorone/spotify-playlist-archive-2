@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVrewvmoU2pr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVrewvmoU2pr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVrewvmoU2pr)
+[pretty](/playlists/pretty/37i9dQZF1DWVrewvmoU2pr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVrewvmoU2pr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVrewvmoU2pr)
 
 ### [想愛就愛](https://open.spotify.com/playlist/37i9dQZF1DWVrewvmoU2pr)
 
@@ -113,7 +113,7 @@
 | [烈](https://open.spotify.com/track/2024tyuk9RzkIZBdTY1fWJ) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [潮騷](https://open.spotify.com/album/3GiLdQbnsPgQ7mTuVUZ2l3) | 4:26 | 2022-06-23 | 2022-07-29 |
 | [男孩像你](https://open.spotify.com/track/0Yi8lfqXkblPopcXNUZlha) | [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [Funnygirl](https://open.spotify.com/album/2TnnjbuiDL5MMkvCmfvhvr) | 4:34 | 2023-01-27 |  |
 | [禁色](https://open.spotify.com/track/4uYbgvebdLWtzWp9qyzhUi) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [禁色](https://open.spotify.com/album/2nMUSLSbXExbxhQ84jSTaV) | 3:54 | 2022-06-23 | 2022-07-29 |
-| [禁色](https://open.spotify.com/track/4w58z1FlaaVsi75HUfS0NC) | [Tat Ming Pair](https://open.spotify.com/artist/2cvtzIo0OSIAkyr7LisIT6) | [你還愛我嗎?](https://open.spotify.com/album/7ALLotqAN9o72KeBEPGB1X) | 4:04 | 2023-01-27 |  |
+| [禁色](https://open.spotify.com/track/4w58z1FlaaVsi75HUfS0NC) | [Tat Ming Pair](https://open.spotify.com/artist/2cvtzIo0OSIAkyr7LisIT6) | [你還愛我嗎？](https://open.spotify.com/album/7ALLotqAN9o72KeBEPGB1X) | 4:04 | 2023-01-27 |  |
 | [私奔記](https://open.spotify.com/track/0XRRL7HKdhOF3AADcuZ4mE) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [私奔記](https://open.spotify.com/album/5WcEqKh7qlndDxeUdM1Evz) | 4:20 | 2023-01-27 |  |
 | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/track/596MqWmYLojkoFvgygAteu) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/album/1GtTUDJrBUbRACKrBmmVTC) | 3:17 | 2023-01-27 |  |
 | [精神餵飼](https://open.spotify.com/track/7dksLBc7Ql8IOto9V9G8Be) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Obsessions](https://open.spotify.com/album/0hJnpLmbJAViHaxCWvO40z) | 3:49 | 2022-06-23 | 2022-07-29 |
@@ -124,7 +124,7 @@
 | [蜚蜚](https://open.spotify.com/track/5LauAY4lEriiCul4br4Hz6) | [Sita Chan](https://open.spotify.com/artist/42FjIZQ8ICjxyXedscgA2n) | [Let Me Find Love](https://open.spotify.com/album/7o7YbsS8u22o2fxLbh1eCv) | 3:36 | 2023-01-27 |  |
 | [裸泳](https://open.spotify.com/track/0xVdZpDb2RnpF9oTJJTD78) | [鍾舒祺](https://open.spotify.com/artist/7D3ifs7oGF0VJ3o8axspUu) | [裸泳](https://open.spotify.com/album/2CjL1ETXisPRUlU30OEbeE) | 3:38 | 2022-06-23 | 2022-07-29 |
 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 | 2022-04-07 | 2022-06-24 |
-| [這麼遠, 那麼近](https://open.spotify.com/track/3al25dOepUordzWk36dz7r) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [ACOUSTIC…AND A LITTLE MORE](https://open.spotify.com/album/0sEHOciFFpApBnZnBssZOe) | 4:53 | 2023-01-27 |  |
+| [這麼遠, 那麼近](https://open.spotify.com/track/3al25dOepUordzWk36dz7r) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [acoustic...and a little more](https://open.spotify.com/album/0sEHOciFFpApBnZnBssZOe) | 4:53 | 2023-01-27 |  |
 | [酷兒](https://open.spotify.com/track/5RibIH8j3FNOpJDBbyJWJs) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62) | [Nothing Lasts Forever](https://open.spotify.com/album/5CyypeOKTQJsDHXSuRvv47) | 4:19 | 2023-01-27 |  |
 | [醫生我無病 \(feat\. Matt Force\)](https://open.spotify.com/track/6QyIXQKduhkVn0BGtrq7Aq) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N) | [醫生我無病 \(feat\. Matt Force\)](https://open.spotify.com/album/5LVoFQpbeUgvMu1E16UhDw) | 4:37 | 2022-07-28 | 2023-01-28 |
 | [金絲雀](https://open.spotify.com/track/7c4dpeQDvVtJaLUCP18U6E) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [火鳥](https://open.spotify.com/album/5vBlNsWb6xpDue03z2Fums) | 4:13 | 2022-06-23 | 2022-07-29 |

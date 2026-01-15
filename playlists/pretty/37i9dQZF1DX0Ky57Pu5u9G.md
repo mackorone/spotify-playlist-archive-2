@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain](/playlists/plain/37i9dQZF1DX0Ky57Pu5u9G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0Ky57Pu5u9G)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain](/playlists/plain/37i9dQZF1DX0Ky57Pu5u9G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0Ky57Pu5u9G)
 
 ### [Sing Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0Ky57Pu5u9G)
 
 > Where will your dreams take you? Listen to the music from Sing and Sing 2!
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,797 likes - 67 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,196 likes - 67 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

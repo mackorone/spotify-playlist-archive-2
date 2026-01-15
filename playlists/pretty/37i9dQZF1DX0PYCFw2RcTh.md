@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain](/playlists/plain/37i9dQZF1DX0PYCFw2RcTh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0PYCFw2RcTh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain](/playlists/plain/37i9dQZF1DX0PYCFw2RcTh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0PYCFw2RcTh)
 
 ### [RADAR Creators Sweden](https://open.spotify.com/playlist/37i9dQZF1DX0PYCFw2RcTh)
 

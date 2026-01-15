@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9Fgg5RrYu6I.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Fgg5RrYu6I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Fgg5RrYu6I)
+[pretty](/playlists/pretty/37i9dQZF1DX9Fgg5RrYu6I.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Fgg5RrYu6I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9Fgg5RrYu6I)
 
 ### [세자가 사라졌다 \(Missing Crown Prince\)](https://open.spotify.com/playlist/37i9dQZF1DX9Fgg5RrYu6I)
 

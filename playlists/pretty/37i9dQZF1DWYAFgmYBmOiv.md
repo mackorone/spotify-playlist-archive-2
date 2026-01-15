@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain](/playlists/plain/37i9dQZF1DWYAFgmYBmOiv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYAFgmYBmOiv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain](/playlists/plain/37i9dQZF1DWYAFgmYBmOiv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYAFgmYBmOiv)
 
 ### [POV Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWYAFgmYBmOiv)
 
 > pov:  \~Seoul\~ searching with your besties, curated by Anna Cathcart \. Cover: XO, Kitty cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,470 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,698 likes - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

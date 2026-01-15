@@ -455,6 +455,28 @@
     },
     {
       "album": {
+        "name": "Du e alt",
+        "url": "https://open.spotify.com/album/1aPSvlsvzK5SS25EEGvYP0"
+      },
+      "artists": [
+        {
+          "name": "Espen Lind",
+          "url": "https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167634,
+      "name": "Du e alt",
+      "url": "https://open.spotify.com/track/7jZGOiZmOe82oivSkLcGin"
+    },
+    {
+      "album": {
         "name": "Du er mere verdt enn all verdens gull",
         "url": "https://open.spotify.com/album/6fvtuUoyDE6Gc6HyZYI2R4"
       },
@@ -906,6 +928,28 @@
       "duration_ms": 152379,
       "name": "Havanna",
       "url": "https://open.spotify.com/track/3JbeuZeZh6yHtE5liAMFsj"
+    },
+    {
+      "album": {
+        "name": "Hun er min",
+        "url": "https://open.spotify.com/album/1cfv2DweUnm6xq5upPQe6s"
+      },
+      "artists": [
+        {
+          "name": "Musti",
+          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153187,
+      "name": "Hun er min",
+      "url": "https://open.spotify.com/track/2KTDmyM03kIcL8MwGBS1FY"
     },
     {
       "album": {
@@ -2061,6 +2105,28 @@
     },
     {
       "album": {
+        "name": "Ta meg tilbake",
+        "url": "https://open.spotify.com/album/4MEv4WVjc2R9bbnfUBOdXu"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156177,
+      "name": "Ta meg tilbake",
+      "url": "https://open.spotify.com/track/1GHQGB1flCcYhEHFi2rls9"
+    },
+    {
+      "album": {
         "name": "Ta tak i deg sj\u00f8l",
         "url": "https://open.spotify.com/album/2moOnbPMMspfatSYXSmqDL"
       },
@@ -2277,6 +2343,54 @@
     },
     {
       "album": {
+        "name": "Under v\u00e5re laken",
+        "url": "https://open.spotify.com/album/5yODFEPfLq1PmKRuNwyAQ3"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237212,
+      "name": "Under v\u00e5re laken",
+      "url": "https://open.spotify.com/track/4sMY1lEwenHvbSuE8HkTQM"
+    },
+    {
+      "album": {
+        "name": "Ust\u00f8 grunn",
+        "url": "https://open.spotify.com/album/2hiHbCiwFtDWIe0imwEDb0"
+      },
+      "artists": [
+        {
+          "name": "Espen Lind",
+          "url": "https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8"
+        },
+        {
+          "name": "Marion Ravn",
+          "url": "https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165184,
+      "name": "Ust\u00f8 grunn",
+      "url": "https://open.spotify.com/track/1mYopdmy5HldMIsTRa9DLL"
+    },
+    {
+      "album": {
         "name": "Vi Skal V\u00e5kne",
         "url": "https://open.spotify.com/album/12OXsvP6QgwG8zzeS1hAeU"
       },
@@ -2296,6 +2410,50 @@
       "duration_ms": 153506,
       "name": "Vi Skal V\u00e5kne",
       "url": "https://open.spotify.com/track/0QD0dWZzlq7EYyNREsQi80"
+    },
+    {
+      "album": {
+        "name": "Vi trenger ikke preke om det",
+        "url": "https://open.spotify.com/album/3qQRUvBOhiJbCl5bbMYa0u"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140240,
+      "name": "Vi trenger ikke preke om det",
+      "url": "https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp"
+    },
+    {
+      "album": {
+        "name": "Viss ein song kan gje meg deg",
+        "url": "https://open.spotify.com/album/1rxPhA1N3aEcKUj3A4rZKG"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210416,
+      "name": "Viss ein song kan gje meg deg",
+      "url": "https://open.spotify.com/track/4Bu9bJgLS4TgR2Y9VQdbIX"
     },
     {
       "album": {

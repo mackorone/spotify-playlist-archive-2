@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7oTMBMLu6EI4l163C9fkhg.md) - [plain](/playlists/plain/7oTMBMLu6EI4l163C9fkhg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7oTMBMLu6EI4l163C9fkhg)
+pretty - [cumulative](/playlists/cumulative/7oTMBMLu6EI4l163C9fkhg.md) - [plain](/playlists/plain/7oTMBMLu6EI4l163C9fkhg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7oTMBMLu6EI4l163C9fkhg)
 
 ### [Best of Boybands and Girl Groups](https://open.spotify.com/playlist/7oTMBMLu6EI4l163C9fkhg)
 
 > Remember the glory days when boy bands and girl groups ruled the radio? Listen to this playlist and bring the Spice Girls, Hanson, and Destiny's Child back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,418 likes - 41 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,402 likes - 41 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

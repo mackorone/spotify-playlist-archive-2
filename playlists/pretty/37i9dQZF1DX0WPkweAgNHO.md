@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WPkweAgNHO.md) - [plain](/playlists/plain/37i9dQZF1DX0WPkweAgNHO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0WPkweAgNHO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WPkweAgNHO.md) - [plain](/playlists/plain/37i9dQZF1DX0WPkweAgNHO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0WPkweAgNHO)
 
 ### [Soda Stereo: Para volar](https://open.spotify.com/playlist/37i9dQZF1DX0WPkweAgNHO)
 
 > Cierra los ojos, y deja que la música haga el resto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,610 likes - 16 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,668 likes - 16 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

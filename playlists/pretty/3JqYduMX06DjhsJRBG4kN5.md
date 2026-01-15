@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3JqYduMX06DjhsJRBG4kN5.md) - [plain](/playlists/plain/3JqYduMX06DjhsJRBG4kN5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3JqYduMX06DjhsJRBG4kN5)
+pretty - [cumulative](/playlists/cumulative/3JqYduMX06DjhsJRBG4kN5.md) - [plain](/playlists/plain/3JqYduMX06DjhsJRBG4kN5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3JqYduMX06DjhsJRBG4kN5)
 
 ### [Putte i Parken 2013](https://open.spotify.com/playlist/3JqYduMX06DjhsJRBG4kN5)
 

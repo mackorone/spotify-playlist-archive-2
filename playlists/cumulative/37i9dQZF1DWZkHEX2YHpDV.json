@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "pop punk, alt, emo, post-hardcore & more. Cover: Yellowcard",
+  "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
   "name": "The Scene",
   "tracks": [
     {
@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147546,
       "name": "Alameda County Fair",
       "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185873,
       "name": "American Psycho",
       "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
@@ -3258,6 +3258,24 @@
       "duration_ms": 220315,
       "name": "Box for My Organs",
       "url": "https://open.spotify.com/track/3x3pgmn0vj4bpRl0QmMlJS"
+    },
+    {
+      "album": {
+        "name": "Box In The Basement",
+        "url": "https://open.spotify.com/album/2N13X4HNaRNqzjYL1nHPoF"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Box In The Basement",
+      "url": "https://open.spotify.com/track/44r3djxJsaQTlddoeW5hjh"
     },
     {
       "album": {
@@ -5494,7 +5512,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 224888,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
@@ -6452,7 +6470,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 158999,
       "name": "Don't Let Me Get Too Low",
       "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
@@ -6626,7 +6644,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 268397,
       "name": "DOUBT",
       "url": "https://open.spotify.com/track/24KYmcYFdSIzKJbKYpyOPO"
@@ -8192,7 +8210,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 219000,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt"
@@ -9245,6 +9263,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3j2H05IR3iTMMQ3FeYQXt7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149558,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO"
+    },
+    {
+      "album": {
         "name": "Giant's Despair",
         "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
       },
@@ -9459,6 +9495,24 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/2ivoPkuZrmLFojrt3BCfJo"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281518,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/22Gq06C855NgtL0xzq1QuG"
+    },
+    {
+      "album": {
         "name": "Goddamn",
         "url": "https://open.spotify.com/album/5sMtDt5VelI2X0IWY3PBuF"
       },
@@ -9662,7 +9716,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 260885,
       "name": "Goodbye For Now (feat. Julien Baker)",
       "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
@@ -11741,6 +11795,24 @@
     },
     {
       "album": {
+        "name": "I Know Where Mark Chen Lives",
+        "url": "https://open.spotify.com/album/6J0USYx5H0mtsqxVwEREHN"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110101,
+      "name": "I Know Where Mark Chen Lives",
+      "url": "https://open.spotify.com/track/6ZzUmrPFLDuMM51uuVSb0h"
+    },
+    {
+      "album": {
         "name": "I Lie To Me",
         "url": "https://open.spotify.com/album/01F35E1FtRdjpYzmyPl3d9"
       },
@@ -11824,7 +11896,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 124416,
       "name": "I really am feeling better",
       "url": "https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw"
@@ -13749,6 +13821,24 @@
     },
     {
       "album": {
+        "name": "Let It Rip!",
+        "url": "https://open.spotify.com/album/7qaHe7DGj6wKO6UheiSWNF"
+      },
+      "artists": [
+        {
+          "name": "red sun",
+          "url": "https://open.spotify.com/artist/2EBOAZfR66SwpO9mGKsaul"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138040,
+      "name": "Let It Rip!",
+      "url": "https://open.spotify.com/track/7u0VKZznH48naGIpAWK2t3"
+    },
+    {
+      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/5rDxPjoUTOo4XcD1SLfgYr"
       },
@@ -14248,6 +14338,24 @@
       "duration_ms": 160760,
       "name": "Long Distance",
       "url": "https://open.spotify.com/track/5I7FOcPuZUPCNsm3PWKqT5"
+    },
+    {
+      "album": {
+        "name": "Long Goodbye",
+        "url": "https://open.spotify.com/album/3Zx9cVmNoXfyGWoyi9LLAm"
+      },
+      "artists": [
+        {
+          "name": "Seahaven",
+          "url": "https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135872,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/5GLbz72rtTQ7k9qu0cQJN0"
     },
     {
       "album": {
@@ -16181,6 +16289,24 @@
     },
     {
       "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181098,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
+    },
+    {
+      "album": {
         "name": "No Cure",
         "url": "https://open.spotify.com/album/2f8PtESjnAVCnIohsbYQcj"
       },
@@ -17102,7 +17228,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 182454,
       "name": "only overnight",
       "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
@@ -19174,7 +19300,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194896,
       "name": "saturate",
       "url": "https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9"
@@ -21720,7 +21846,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194273,
       "name": "Straight Up (Needy)",
       "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
@@ -22110,6 +22236,24 @@
       "duration_ms": 206709,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/0Ky4D8Dy9i3NJfB5svu381"
+    },
+    {
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/6viagaceTb3j1WujffjlAa"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224128,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/63Qij63nda9bW8xlNBWTdH"
     },
     {
       "album": {
@@ -23696,6 +23840,24 @@
       "duration_ms": 182040,
       "name": "Timebomb (feat. MOD SUN)",
       "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
+    },
+    {
+      "album": {
+        "name": "tiptoeing",
+        "url": "https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154554,
+      "name": "tiptoeing",
+      "url": "https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX"
     },
     {
       "album": {

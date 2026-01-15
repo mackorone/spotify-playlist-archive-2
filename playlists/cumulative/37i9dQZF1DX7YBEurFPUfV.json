@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-08",
-  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Samara",
+  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Ktyb",
   "name": "RapTounsi",
   "tracks": [
     {
@@ -394,6 +394,24 @@
       "duration_ms": 161937,
       "name": "Amach",
       "url": "https://open.spotify.com/track/2QCKG199FIJrm8x8DF0BiC"
+    },
+    {
+      "album": {
+        "name": "Amir Al Bihar",
+        "url": "https://open.spotify.com/album/3ZzxEG1zKE7kq372gxXgyG"
+      },
+      "artists": [
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182790,
+      "name": "Amir Al Bihar",
+      "url": "https://open.spotify.com/track/4eDl7rpLj1JCSLaqbIQ6h5"
     },
     {
       "album": {
@@ -926,7 +944,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 243400,
       "name": "GELBI T3AB (feat. Samara)",
       "url": "https://open.spotify.com/track/5O0rw93ajyfd3gIDvH4AFL"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 247067,
       "name": "Ghazali",
       "url": "https://open.spotify.com/track/1IWlR9Ld9K2teqAiJGpCzn"
@@ -1180,6 +1198,28 @@
       "duration_ms": 220543,
       "name": "Hkayet",
       "url": "https://open.spotify.com/track/0KRjzTajjH5yheFIl8qBZr"
+    },
+    {
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX"
+      },
+      "artists": [
+        {
+          "name": "Ktyb",
+          "url": "https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa"
+        },
+        {
+          "name": "John Six",
+          "url": "https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201138,
+      "name": "HOODOO",
+      "url": "https://open.spotify.com/track/2sZzwOGUoFka8R6BxNAD0F"
     },
     {
       "album": {
@@ -1464,7 +1504,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 247692,
       "name": "Klem",
       "url": "https://open.spotify.com/track/5IjtjlAJVe6mFCKzhr0YKt"
@@ -1708,6 +1748,24 @@
       "duration_ms": 209820,
       "name": "Lili Lili",
       "url": "https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK"
+    },
+    {
+      "album": {
+        "name": "Lili Wala Sbe7 (Demo)",
+        "url": "https://open.spotify.com/album/1GkVd8003ojeJAId0GohK5"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240140,
+      "name": "Lili Wala Sbe7 (Demo)",
+      "url": "https://open.spotify.com/track/1CbUpKk52t8R0bzxTFHJdH"
     },
     {
       "album": {
@@ -2352,10 +2410,32 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190412,
       "name": "Ntir B3id",
       "url": "https://open.spotify.com/track/5LxeJ3R89aHSDzRBIwfUtE"
+    },
+    {
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX"
+      },
+      "artists": [
+        {
+          "name": "Ktyb",
+          "url": "https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa"
+        },
+        {
+          "name": "John Six",
+          "url": "https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173472,
+      "name": "OKHTOOBOOT",
+      "url": "https://open.spotify.com/track/1bcrgO5rwQXotNG8jopDNJ"
     },
     {
       "album": {

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWT43b6u5hZFk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT43b6u5hZFk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT43b6u5hZFk)
+[pretty](/playlists/pretty/37i9dQZF1DWT43b6u5hZFk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT43b6u5hZFk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT43b6u5hZFk)
 
 ### [This Is JENNIE](https://open.spotify.com/playlist/37i9dQZF1DWT43b6u5hZFk)
 

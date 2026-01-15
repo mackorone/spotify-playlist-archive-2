@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain](/playlists/plain/37i9dQZF1DX7QHBSGN4rag) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7QHBSGN4rag)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain](/playlists/plain/37i9dQZF1DX7QHBSGN4rag) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7QHBSGN4rag)
 
 ### [E人](https://open.spotify.com/playlist/37i9dQZF1DX7QHBSGN4rag)
 
 > 做自己，驚咩啊
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,125 likes - 19 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,124 likes - 19 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

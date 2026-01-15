@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Ede.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Chini Tacchini.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157448,
       "name": "80 cerillas",
       "url": "https://open.spotify.com/track/2XRLIpEXlFGIPi3XzxxZNf"
@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "dame + luz",
+        "url": "https://open.spotify.com/album/72wduEoKa06jAtMFmWOVz1"
+      },
+      "artists": [
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208502,
+      "name": "dame + luz",
+      "url": "https://open.spotify.com/track/4235GW7xYKOMFEKm4DtONz"
+    },
+    {
+      "album": {
         "name": "Dame Otro Motivo",
         "url": "https://open.spotify.com/album/2NX8LBGpXHEs2D71mdWauD"
       },
@@ -2713,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "desde arriba",
+        "url": "https://open.spotify.com/album/1cpioneGnMei1teo1xmSRv"
+      },
+      "artists": [
+        {
+          "name": "NAZZZ",
+          "url": "https://open.spotify.com/artist/6wTmJT0q2BgbcGTYRxEI9j"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124618,
+      "name": "desde arriba",
+      "url": "https://open.spotify.com/track/4FduMcpNb8tgXqlnl1NfRg"
+    },
+    {
+      "album": {
         "name": "Desde el amor",
         "url": "https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee"
       },
@@ -2952,6 +2988,28 @@
       "duration_ms": 202429,
       "name": "Drama en el Sonorama",
       "url": "https://open.spotify.com/track/4tDilCqVje9Wdx9a9USlPS"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XUQA2rv1IKp7Gtky0XIft"
+      },
+      "artists": [
+        {
+          "name": "Calequi y Las Panteras",
+          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131871,
+      "name": "Dulce Picante",
+      "url": "https://open.spotify.com/track/0hqd6HkeWkQWou5uvOF4Zx"
     },
     {
       "album": {
@@ -3708,7 +3766,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203793,
       "name": "En la oscuridad",
       "url": "https://open.spotify.com/track/0XQX6llWiz7O3Yre6Nw5W1"
@@ -4162,6 +4220,24 @@
       "duration_ms": 161354,
       "name": "estonovabien",
       "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
+    },
+    {
+      "album": {
+        "name": "ESTOY ENFERMO",
+        "url": "https://open.spotify.com/album/7vul6nj87izTaxxJQ8q46R"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172358,
+      "name": "ESTOY ENFERMO",
+      "url": "https://open.spotify.com/track/2Hqj4iuaUwKGysehM9bLsJ"
     },
     {
       "album": {
@@ -5054,7 +5130,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 259707,
       "name": "Historias de mi madre",
       "url": "https://open.spotify.com/track/0KYPXalufEdTN32XRy7hHf"
@@ -5260,7 +5336,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 235754,
       "name": "Incandescente",
       "url": "https://open.spotify.com/track/6ZNWbn4fN8K2sJXV32Fm3I"
@@ -9294,8 +9370,8 @@
       },
       "artists": [
         {
-          "name": "Maria Blaya",
-          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
+          "name": "Blaya",
+          "url": "https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A"
         }
       ],
       "date_added": "2025-11-27",
@@ -9456,6 +9532,24 @@
       "duration_ms": 316877,
       "name": "Poquita fe",
       "url": "https://open.spotify.com/track/3g7XcFKoNGej70VChSIigw"
+    },
+    {
+      "album": {
+        "name": "Por la hierba",
+        "url": "https://open.spotify.com/album/2cZaYH3zb4XveFzF0WrJWC"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Stanich",
+          "url": "https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294173,
+      "name": "Por la hierba",
+      "url": "https://open.spotify.com/track/7gFD6p6tWqbPzf94eZ7Vw5"
     },
     {
       "album": {
@@ -10636,7 +10730,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217560,
       "name": "Sin lucka",
       "url": "https://open.spotify.com/track/0qcLKUOc3Ux10zOd9PGQrz"
@@ -11758,7 +11852,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174467,
       "name": "tu pel\u00edcula",
       "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
@@ -11997,6 +12091,24 @@
     },
     {
       "album": {
+        "name": "Un Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222648,
+      "name": "Un Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak"
+    },
+    {
+      "album": {
         "name": "Una amapola",
         "url": "https://open.spotify.com/album/7x9bxnGEaUwGr3Fwp9PHs7"
       },
@@ -12048,7 +12160,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 105000,
       "name": "una chica buena de manual",
       "url": "https://open.spotify.com/track/7A0bfUrsnuc1JgIz6y5EMR"
@@ -12708,6 +12820,24 @@
       "duration_ms": 180893,
       "name": "Y SI SE ABREN LOS CIELOS",
       "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
+    },
+    {
+      "album": {
+        "name": "Ya No Quiero Saber",
+        "url": "https://open.spotify.com/album/5Qhe2CzqRkF0HJnO3fSU4H"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147541,
+      "name": "Ya No Quiero Saber",
+      "url": "https://open.spotify.com/track/116he6Jm6sjfVdgjC3Aynw"
     },
     {
       "album": {

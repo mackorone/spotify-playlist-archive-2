@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1QBiXlEscYkB1YauNmOcUS.md) - [plain](/playlists/plain/1QBiXlEscYkB1YauNmOcUS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1QBiXlEscYkB1YauNmOcUS)
+pretty - [cumulative](/playlists/cumulative/1QBiXlEscYkB1YauNmOcUS.md) - [plain](/playlists/plain/1QBiXlEscYkB1YauNmOcUS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1QBiXlEscYkB1YauNmOcUS)
 
 ### [Top Party Hits 2025](https://open.spotify.com/playlist/1QBiXlEscYkB1YauNmOcUS)
 
 > Party hits.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,208 likes - 71 songs - 3 hr 44 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,204 likes - 71 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

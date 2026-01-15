@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCxWmiA1Zy3.md) - [plain](/playlists/plain/37i9dQZF1DWZCxWmiA1Zy3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZCxWmiA1Zy3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCxWmiA1Zy3.md) - [plain](/playlists/plain/37i9dQZF1DWZCxWmiA1Zy3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZCxWmiA1Zy3)
 
 ### [O Melhor de Pátria Rock 2023](https://open.spotify.com/playlist/37i9dQZF1DWZCxWmiA1Zy3)
 
 > Pátria Rock apresenta.\. O Melhor do Rock 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,638 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,671 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

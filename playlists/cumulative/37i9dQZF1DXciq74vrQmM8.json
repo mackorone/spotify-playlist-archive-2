@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. Pretty Sick",
+  "description": "welcome to our universe ft. A$AP Rocky ",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 290110,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
@@ -3976,7 +3976,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 187968,
       "name": "Coming Up",
       "url": "https://open.spotify.com/track/35xajnbGwbIiPf0QBU0O68"
@@ -7708,6 +7708,24 @@
       "duration_ms": 183826,
       "name": "Friends In Low Places",
       "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
+    },
+    {
+      "album": {
+        "name": "frissioN",
+        "url": "https://open.spotify.com/album/23s5RyusUkg6bnYVrD8suY"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173676,
+      "name": "frissioN",
+      "url": "https://open.spotify.com/track/1n0ucSZzAV8X752YGTKHav"
     },
     {
       "album": {
@@ -12232,7 +12250,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211772,
       "name": "Lapinou",
       "url": "https://open.spotify.com/track/2GSTQtsqF1ISi2FWzTSPqY"
@@ -13530,7 +13548,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 255286,
       "name": "Mariah's Song",
       "url": "https://open.spotify.com/track/7ipDhQ3TgJnQNchsc82Xrz"
@@ -16778,7 +16796,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 251976,
       "name": "Prized Possession",
       "url": "https://open.spotify.com/track/0a65KzuGdGYMGAee4idItb"
@@ -16872,6 +16890,24 @@
       "duration_ms": 200500,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa"
+    },
+    {
+      "album": {
+        "name": "Punk Rocky",
+        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235344,
+      "name": "Punk Rocky",
+      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
     },
     {
       "album": {
@@ -17444,7 +17480,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178637,
       "name": "Replicant",
       "url": "https://open.spotify.com/track/3ETl4a5nliboBVpOZNzrRh"
@@ -19850,7 +19886,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 131079,
       "name": "Target Practice",
       "url": "https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD"

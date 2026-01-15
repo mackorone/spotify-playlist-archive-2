@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain](/playlists/plain/37i9dQZF1DWUrmUI5ur5GK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUrmUI5ur5GK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain](/playlists/plain/37i9dQZF1DWUrmUI5ur5GK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUrmUI5ur5GK)
 
 ### [Irish Pub Songs](https://open.spotify.com/playlist/37i9dQZF1DWUrmUI5ur5GK)
 
 > Classic drinking singalongs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,364 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,467 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7hD3xpkU4gL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7hD3xpkU4gL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7hD3xpkU4gL)
+[pretty](/playlists/pretty/37i9dQZF1DX7hD3xpkU4gL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7hD3xpkU4gL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7hD3xpkU4gL)
 
 ### [Las 100 mejores baladas románticas](https://open.spotify.com/playlist/37i9dQZF1DX7hD3xpkU4gL)
 

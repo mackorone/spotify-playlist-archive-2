@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain](/playlists/plain/37i9dQZF1DWZAK3RRptBVW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZAK3RRptBVW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain](/playlists/plain/37i9dQZF1DWZAK3RRptBVW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZAK3RRptBVW)
 
 ### [Yılın Çıkışları 2025 Türkiye](https://open.spotify.com/playlist/37i9dQZF1DWZAK3RRptBVW)
 
 > Bu yıl yıldızı parlayanlar, editörlerimizin seçkisiyle\. Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,819 likes - 30 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,787 likes - 30 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

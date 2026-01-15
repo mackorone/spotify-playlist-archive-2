@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "Almost Gone",
+        "url": "https://open.spotify.com/album/4UIBfBc8b4ySZjFcZSf6Cw"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164411,
+      "name": "Almost Gone",
+      "url": "https://open.spotify.com/track/1i8Jbd86KzsTPOOP7H2Knt"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0AM7bvqCGGqBmRDCKgj63l"
       },
@@ -2092,7 +2114,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203437,
       "name": "come home",
       "url": "https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv"

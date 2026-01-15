@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain](/playlists/plain/37i9dQZF1DWYuC8hQpLKaY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYuC8hQpLKaY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain](/playlists/plain/37i9dQZF1DWYuC8hQpLKaY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYuC8hQpLKaY)
 
 ### [probably needed a hug...](https://open.spotify.com/playlist/37i9dQZF1DWYuC8hQpLKaY)
 
 > but listened to this instead ❤️‍🩹 healing  piano covers of your fav hits
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,328 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,811 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

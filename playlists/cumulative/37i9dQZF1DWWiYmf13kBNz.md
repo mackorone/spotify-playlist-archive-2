@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWiYmf13kBNz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWiYmf13kBNz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWiYmf13kBNz)
+[pretty](/playlists/pretty/37i9dQZF1DWWiYmf13kBNz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWiYmf13kBNz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWiYmf13kBNz)
 
 ### [Black & White Film](https://open.spotify.com/playlist/37i9dQZF1DWWiYmf13kBNz)
 

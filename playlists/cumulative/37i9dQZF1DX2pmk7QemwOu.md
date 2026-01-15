@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2pmk7QemwOu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2pmk7QemwOu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2pmk7QemwOu)
+[pretty](/playlists/pretty/37i9dQZF1DX2pmk7QemwOu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2pmk7QemwOu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2pmk7QemwOu)
 
 ### [This Is TOMORROW X TOGETHER](https://open.spotify.com/playlist/37i9dQZF1DX2pmk7QemwOu)
 

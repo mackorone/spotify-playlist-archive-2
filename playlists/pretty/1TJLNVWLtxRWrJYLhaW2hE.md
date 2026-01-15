@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain](/playlists/plain/1TJLNVWLtxRWrJYLhaW2hE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1TJLNVWLtxRWrJYLhaW2hE)
+pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain](/playlists/plain/1TJLNVWLtxRWrJYLhaW2hE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1TJLNVWLtxRWrJYLhaW2hE)
 
 ### [Good Trouble Official Playlist](https://open.spotify.com/playlist/1TJLNVWLtxRWrJYLhaW2hE)
 
 > Good Trouble official playlist \~ featuring songs from each episode.
 
-[Freeform](https://open.spotify.com/user/abcfamily) - 9,914 likes - 664 songs - 1 day 15 hr 37 min
+[Freeform](https://open.spotify.com/user/abcfamily) - 9,922 likes - 664 songs - 1 day 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

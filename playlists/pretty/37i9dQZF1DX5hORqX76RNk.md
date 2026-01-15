@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hORqX76RNk.md) - [plain](/playlists/plain/37i9dQZF1DX5hORqX76RNk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5hORqX76RNk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hORqX76RNk.md) - [plain](/playlists/plain/37i9dQZF1DX5hORqX76RNk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5hORqX76RNk)
 
 ### [2023: the sad version](https://open.spotify.com/playlist/37i9dQZF1DX5hORqX76RNk)
 
 > 😭💔 Surullisia biisejä, joiden avulla selvisimme vuonna 2023 läpi kyynelten ja särkyneiden sydänten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 967 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 964 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

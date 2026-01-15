@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain](/playlists/plain/37i9dQZF1DWUtDvJFa147B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUtDvJFa147B)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain](/playlists/plain/37i9dQZF1DWUtDvJFa147B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUtDvJFa147B)
 
 ### [Begin Again \(비긴어게인\)](https://open.spotify.com/playlist/37i9dQZF1DWUtDvJFa147B)
 

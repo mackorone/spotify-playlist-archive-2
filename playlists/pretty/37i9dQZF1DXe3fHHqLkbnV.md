@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain](/playlists/plain/37i9dQZF1DXe3fHHqLkbnV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe3fHHqLkbnV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain](/playlists/plain/37i9dQZF1DXe3fHHqLkbnV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe3fHHqLkbnV)
 
 ### [90s Easy Rock](https://open.spotify.com/playlist/37i9dQZF1DXe3fHHqLkbnV)
 

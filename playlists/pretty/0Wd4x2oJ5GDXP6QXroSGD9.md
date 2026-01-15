@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0Wd4x2oJ5GDXP6QXroSGD9.md) - [plain](/playlists/plain/0Wd4x2oJ5GDXP6QXroSGD9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Wd4x2oJ5GDXP6QXroSGD9)
+pretty - [cumulative](/playlists/cumulative/0Wd4x2oJ5GDXP6QXroSGD9.md) - [plain](/playlists/plain/0Wd4x2oJ5GDXP6QXroSGD9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0Wd4x2oJ5GDXP6QXroSGD9)
 
 ### [lofi hip hop chill/study music](https://open.spotify.com/playlist/0Wd4x2oJ5GDXP6QXroSGD9)
 

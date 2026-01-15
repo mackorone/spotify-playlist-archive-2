@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain](/playlists/plain/1S4JPQeJxtsN37X8as5EPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1S4JPQeJxtsN37X8as5EPk)
+pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain](/playlists/plain/1S4JPQeJxtsN37X8as5EPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1S4JPQeJxtsN37X8as5EPk)
 
 ### [Back to the Roots](https://open.spotify.com/playlist/1S4JPQeJxtsN37X8as5EPk)
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,740 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,732 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

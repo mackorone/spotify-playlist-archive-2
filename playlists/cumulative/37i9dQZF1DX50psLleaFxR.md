@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX50psLleaFxR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX50psLleaFxR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX50psLleaFxR)
+[pretty](/playlists/pretty/37i9dQZF1DX50psLleaFxR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX50psLleaFxR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX50psLleaFxR)
 
 ### [Shermanology DJ Mix: The Sound of D'EAUPE ](https://open.spotify.com/playlist/37i9dQZF1DX50psLleaFxR)
 

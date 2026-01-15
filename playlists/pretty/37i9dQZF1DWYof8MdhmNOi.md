@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYof8MdhmNOi.md) - [plain](/playlists/plain/37i9dQZF1DWYof8MdhmNOi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYof8MdhmNOi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYof8MdhmNOi.md) - [plain](/playlists/plain/37i9dQZF1DWYof8MdhmNOi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYof8MdhmNOi)
 
 ### [I Love My HBCU \(Bowie State University\)](https://open.spotify.com/playlist/37i9dQZF1DWYof8MdhmNOi)
 
 > HBCU Anthems! Curated by Bowie State University's own <a href="spotify:artist:1dbTwUlL11ZYdC1YAR07AM">Foggieraw</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,537 likes - 32 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,883 likes - 32 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

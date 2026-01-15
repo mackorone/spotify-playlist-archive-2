@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdw9vRvRM79.md) - [plain](/playlists/plain/37i9dQZF1DXcdw9vRvRM79) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcdw9vRvRM79)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdw9vRvRM79.md) - [plain](/playlists/plain/37i9dQZF1DXcdw9vRvRM79) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcdw9vRvRM79)
 
 ### [Sleepy Rain Music](https://open.spotify.com/playlist/37i9dQZF1DXcdw9vRvRM79)
 
 > Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,655 likes - 208 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,485 likes - 208 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

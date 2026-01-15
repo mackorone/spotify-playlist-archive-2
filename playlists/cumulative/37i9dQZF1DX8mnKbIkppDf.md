@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8mnKbIkppDf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8mnKbIkppDf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8mnKbIkppDf)
+[pretty](/playlists/pretty/37i9dQZF1DX8mnKbIkppDf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8mnKbIkppDf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8mnKbIkppDf)
 
 ### [Edisons Pop 2025](https://open.spotify.com/playlist/37i9dQZF1DX8mnKbIkppDf)
 

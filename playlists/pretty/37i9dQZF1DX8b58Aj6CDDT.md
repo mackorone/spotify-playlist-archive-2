@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain](/playlists/plain/37i9dQZF1DX8b58Aj6CDDT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8b58Aj6CDDT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain](/playlists/plain/37i9dQZF1DX8b58Aj6CDDT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8b58Aj6CDDT)
 
 ### [Lo mejor del Indie y Rock 2022](https://open.spotify.com/playlist/37i9dQZF1DX8b58Aj6CDDT)
 

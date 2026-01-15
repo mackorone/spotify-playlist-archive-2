@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6ziVCJnEm59.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6ziVCJnEm59) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6ziVCJnEm59)
+[pretty](/playlists/pretty/37i9dQZF1DX6ziVCJnEm59.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6ziVCJnEm59) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6ziVCJnEm59)
 
 ### [Your Favorite Coffeehouse](https://open.spotify.com/playlist/37i9dQZF1DX6ziVCJnEm59)
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-330 songs - 19 hr 51 min
+331 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Pool \- NPR Tiny Desk Version](https://open.spotify.com/track/0SskmLpG3bX0e2iwFB6cm6) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby \(5th Anniversary Edition\)](https://open.spotify.com/album/0psSmeA56xuOptTm4N8meu) | 3:42 | 2025-09-26 |  |
 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 | 2022-06-06 | 2024-04-19 |
 | [Portland, Maine](https://open.spotify.com/track/6u1E03WKp0QsOfK5FEzzGr) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Portland, Maine](https://open.spotify.com/album/1JdFJfWFPgE8UWUOd3R2gm) | 3:23 | 2019-09-29\* |  |
+| [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 | 2026-01-13 |  |
 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-26 |  |
 | [Rainstorm](https://open.spotify.com/track/0QEweNusTHFbDPp2lXVzut) | [The Sea The Sea](https://open.spotify.com/artist/3uKFW2tuZB4NFThJfHJtZ1) | [Stumbling Home](https://open.spotify.com/album/4wiWyprlpvO3CPxTmS2bHJ) | 3:36 | 2020-10-06 | 2021-04-15 |
 | [Rambling Blade](https://open.spotify.com/track/44GJU8UBKFfwZnvZgyPMJo) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/6yhpvD3T1rlfsGUAoYcIeL) | 2:45 | 2020-10-06 | 2021-01-29 |

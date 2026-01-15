@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6LY1QKuuZv6rtPKsHJSsnF.md) - cumulative - [plain](/playlists/plain/6LY1QKuuZv6rtPKsHJSsnF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6LY1QKuuZv6rtPKsHJSsnF)
+[pretty](/playlists/pretty/6LY1QKuuZv6rtPKsHJSsnF.md) - cumulative - [plain](/playlists/plain/6LY1QKuuZv6rtPKsHJSsnF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6LY1QKuuZv6rtPKsHJSsnF)
 
 ### [Mountain Session](https://open.spotify.com/playlist/6LY1QKuuZv6rtPKsHJSsnF)
 

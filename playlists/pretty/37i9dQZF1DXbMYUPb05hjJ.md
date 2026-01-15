@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain](/playlists/plain/37i9dQZF1DXbMYUPb05hjJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbMYUPb05hjJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain](/playlists/plain/37i9dQZF1DXbMYUPb05hjJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbMYUPb05hjJ)
 
 ### [Garage Rock Revival](https://open.spotify.com/playlist/37i9dQZF1DXbMYUPb05hjJ)
 

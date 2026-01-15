@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2K2376Q0zTJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2K2376Q0zTJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2K2376Q0zTJ)
+[pretty](/playlists/pretty/37i9dQZF1DX2K2376Q0zTJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2K2376Q0zTJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2K2376Q0zTJ)
 
-### [Best of EQUAL Japan 2025](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
+### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 2025年にプレイリスト「EQUAL Japan」で聴かれた楽曲を総まとめ。cover: ちゃんみな
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 3li¥en
 
-1,425 songs - 3 day 11 hr 41 min
+1,428 songs - 3 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Dreamin'](https://open.spotify.com/track/10WraFpY8iNurYHAwZAvvb) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [パレードが続くなら](https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ) | 4:29 | 2023-02-01 | 2023-03-01 |
 | [Drive My Car](https://open.spotify.com/track/2tFwftU9bB8WIS1spfZPIf) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 5:04 | 2022-10-04 | 2022-11-09 |
 | [Drop](https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Drop](https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E) | 2:28 | 2025-02-04 | 2025-07-23 |
-| [Drop](https://open.spotify.com/track/4ujiGt8LsQUoZF7wR0BZxW) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk) | 2:29 | 2025-12-03 |  |
+| [Drop](https://open.spotify.com/track/4ujiGt8LsQUoZF7wR0BZxW) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk) | 2:29 | 2025-12-03 | 2026-01-15 |
 | [Dude on horse \(feat\. ZOMBIE\-CHANG\)](https://open.spotify.com/track/3qN8WkiKM71PdpkNzDNgm3) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj), [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Dude on horse \(feat\. ZOMBIE\-CHANG\)](https://open.spotify.com/album/2uZZaP77XsIkDxjKr9oJ9A) | 2:31 | 2023-02-01 | 2023-03-01 |
 | [Déconstruction](https://open.spotify.com/track/08TCJTR4MrhByX6prkVZ2A) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:47 | 2022-07-05 | 2022-12-07 |
 | [Déconstruction](https://open.spotify.com/track/5bBL2i3CzZucj2fkjfCEu9) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [春火燎原](https://open.spotify.com/album/0PuAbMj3Q0pg3XuNTYY9yM) | 3:47 | 2022-07-05 | 2022-07-29 |
@@ -316,6 +316,7 @@
 | [Good Die Young](https://open.spotify.com/track/1K4TaXWCCk2JvqSSu57mRX) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Youngin Season 2](https://open.spotify.com/album/6iHakq1HeVPDTvvPInxYOg) | 3:30 | 2023-05-02 | 2023-06-07 |
 | [Good end](https://open.spotify.com/track/1Zs0ZOrWk7QhEIC7JMAnTr) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [Someone's melody](https://open.spotify.com/album/0mUMRgmYGOEfDvbDM4IOHt) | 3:59 | 2023-01-03 | 2024-04-19 |
 | [GOOD GAME](https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [GOOD GAME](https://open.spotify.com/album/0bjtXbZa2wuFABI2UiTlTc) | 3:19 | 2023-04-04 | 2023-05-03 |
+| [Good Life](https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 3:02 | 2026-01-06 |  |
 | [good morning](https://open.spotify.com/track/1lEw1IpmtXhKH6jszQ3pc6) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [utopia](https://open.spotify.com/album/51h8VWaL5aTvrBsfF5aWc1) | 3:01 | 2024-01-09 | 2024-02-07 |
 | [Good to me](https://open.spotify.com/track/2Y7fg9l57DCD1W5iYqAsFB) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 2:50 | 2025-01-17 | 2025-12-04 |
 | [Good to me](https://open.spotify.com/track/2eCJSkC7zKOd4D4TflEKkI) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Good to me](https://open.spotify.com/album/5MGvOR8zMkSkW6gzYH7uSt) | 2:50 | 2025-12-03 |  |
@@ -628,6 +629,7 @@
 | [No.5](https://open.spotify.com/track/5kXmyxToZp5zMN67Pek2UV) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [No.5](https://open.spotify.com/album/7rMxnxMlaCnxSBhqYXxu3H) | 3:05 | 2024-11-05 | 2024-11-13 |
 | [NOCTURNE](https://open.spotify.com/track/2OzaeZLlOIHXpbV7udgFJC) | [Nina Utashiro](https://open.spotify.com/artist/6pct0KG6KUqWQBOrLJ4AmH) | [OPERETTA HYSTERIA](https://open.spotify.com/album/6ubnCsejkhRU5TAd28oqCT) | 2:32 | 2022-07-05 | 2022-08-03 |
 | [NOKINAMI](https://open.spotify.com/track/5sT4F1U3aOVx6GixtNVhHk) | [Rei\(C\)hi](https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D) | [NOKINAMI](https://open.spotify.com/album/2ywOrbb3VKCzg1aOzIDJID) | 3:20 | 2022-04-05 | 2022-05-05 |
+| [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 | 2026-01-06 |  |
 | [Noraneko](https://open.spotify.com/track/6TZpDKmOUd4qyKnd6qmw4i) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/3iAhfsGy6MoXFv5fQqQ6f7) | 4:01 | 2025-03-25 | 2025-04-02 |
 | [Nordlig Ängel](https://open.spotify.com/track/1WjwsnHZFFLOwml2PWJCd1) | [Ms.Machine](https://open.spotify.com/artist/1yQ3avKs2mL4Qjd1nakH3z) | [Ms.Machine](https://open.spotify.com/album/6751FqqoDIMJ7286GgGBtP) | 3:16 | 2022-11-08 | 2022-12-07 |
 | [Nordlig Ängel](https://open.spotify.com/track/616YAMVIXOnIvhqCOnBVMJ) | [Ms.Machine](https://open.spotify.com/artist/1yQ3avKs2mL4Qjd1nakH3z) | [Ms.Machine](https://open.spotify.com/album/7Dxr6lvnj2A1LsN9qfv9gG) | 3:16 | 2022-05-04 | 2022-06-01 |
@@ -765,6 +767,7 @@
 | [salvation](https://open.spotify.com/track/2AbocYmJLREUEZlSBkbsAe) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [salvation](https://open.spotify.com/album/5JOp4contbA28JuaELOKQW) | 3:24 | 2022-07-05 | 2022-08-03 |
 | [Save us?](https://open.spotify.com/track/5NZrLtqoYZNZiRNaUCKAQQ) | [uyuni](https://open.spotify.com/artist/2RKWObN13uSEWLSr866rSn), [Neon Nonthana](https://open.spotify.com/artist/5wMTr5Xt9bqktsgr5UDQKn) | [Sugarless Days](https://open.spotify.com/album/6sRyAcfCpBNa0jSaW8YBQG) | 2:16 | 2023-05-02 | 2023-06-07 |
 | [Save us?](https://open.spotify.com/track/63n9gGSFjFxKcSPan6oBQu) | [uyuni](https://open.spotify.com/artist/2RKWObN13uSEWLSr866rSn), [Neon Nonthana](https://open.spotify.com/artist/5wMTr5Xt9bqktsgr5UDQKn) | [Sugarless Days](https://open.spotify.com/album/5ris25zLEOGTtCYIAtlTQB) | 2:16 | 2022-04-05 | 2022-05-05 |
+| [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 | 2026-01-06 |  |
 | [SAY LESS](https://open.spotify.com/track/7HfhpWNWj7LsnZr5NH4CgL) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [SAY LESS](https://open.spotify.com/album/3uD3JRNLEcAfsqsAYGEWTc) | 2:55 | 2023-02-01 | 2023-02-13 |
 | [SAY LESS](https://open.spotify.com/track/6Ce3oziSiUdni2pWQHpUkK) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Flash Back](https://open.spotify.com/album/2eI02EhwOSl2b3sHdHCCBL) | 2:55 | 2023-02-01 | 2023-03-01 |
 | [SAYONARA](https://open.spotify.com/track/0uNZ5d4P6Ae8uYHExfBeG4) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [STRONGER](https://open.spotify.com/album/0BcMPgGXqmezPBvaFfZcTK) | 3:31 | 2022-04-05 | 2022-05-05 |

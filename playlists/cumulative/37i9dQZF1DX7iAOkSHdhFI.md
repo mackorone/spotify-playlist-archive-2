@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7iAOkSHdhFI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7iAOkSHdhFI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7iAOkSHdhFI)
+[pretty](/playlists/pretty/37i9dQZF1DX7iAOkSHdhFI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7iAOkSHdhFI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7iAOkSHdhFI)
 
 ### [Green Day: The Early Years](https://open.spotify.com/playlist/37i9dQZF1DX7iAOkSHdhFI)
 

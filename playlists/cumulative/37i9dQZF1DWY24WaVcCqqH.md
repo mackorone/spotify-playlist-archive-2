@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY24WaVcCqqH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY24WaVcCqqH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY24WaVcCqqH)
+[pretty](/playlists/pretty/37i9dQZF1DWY24WaVcCqqH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY24WaVcCqqH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY24WaVcCqqH)
 
 ### [This Is Little Mix](https://open.spotify.com/playlist/37i9dQZF1DWY24WaVcCqqH)
 

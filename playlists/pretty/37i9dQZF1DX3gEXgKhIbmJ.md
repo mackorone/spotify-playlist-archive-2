@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain](/playlists/plain/37i9dQZF1DX3gEXgKhIbmJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3gEXgKhIbmJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain](/playlists/plain/37i9dQZF1DX3gEXgKhIbmJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3gEXgKhIbmJ)
 
 ### [Jersey BR](https://open.spotify.com/playlist/37i9dQZF1DX3gEXgKhIbmJ)
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,004 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,114 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 30 | [Me Permita](https://open.spotify.com/track/4wW2WQzCdiPZ3GKUgHkYi3) | [Tlust](https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [Me Permita](https://open.spotify.com/album/5rYeOdwr8Rr8Ml6AuEkyGv) | 3:04 |
 | 31 | [Devagar](https://open.spotify.com/track/1Pq1ZyRXgFXZwmCbIFCfOP) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT) | [Paisagem](https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo) | 3:28 |
 | 32 | [Mortal pra trás!](https://open.spotify.com/track/3Hk0otwsBfoQ3kIZcOJCfW) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Mortal pra trás!](https://open.spotify.com/album/0MxPITt7zk0AVwf3iXyLQz) | 2:41 |
-| 33 | [Baquear](https://open.spotify.com/track/3sDLNzXtt7F4bU9hH8Cn1k) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Gabriel Lucchini](https://open.spotify.com/artist/4wm6Of8OD4MeU9AYpQ9Ocs), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [PABLO JUAN](https://open.spotify.com/album/5s4m5jhLmY4DRsPWemfc6k) | 2:56 |
+| 33 | [Baquear](https://open.spotify.com/track/3sDLNzXtt7F4bU9hH8Cn1k) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Lucchini](https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [PABLO JUAN](https://open.spotify.com/album/5s4m5jhLmY4DRsPWemfc6k) | 2:56 |
 | 34 | [feeling low](https://open.spotify.com/track/10DyF9LBhS7GQKUGVSPzlp) | [wanted](https://open.spotify.com/artist/4DjEjm6U5an0Kq5xPWsa1c) | [feeling low](https://open.spotify.com/album/6fKh2r1j8Y4QWKxrirqmZB) | 2:14 |
 | 35 | [Sábado](https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Voos Internacionais, Vol\. 2](https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj) | 2:23 |
 | 36 | [Metade](https://open.spotify.com/track/1iuUeZ8aHteYKTypUpHU8M) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [MUITA LUTA MIXTAPE](https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD) | 2:08 |

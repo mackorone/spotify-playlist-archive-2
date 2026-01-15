@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcClkEWm327.md) - [plain](/playlists/plain/37i9dQZF1DWUcClkEWm327) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUcClkEWm327)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcClkEWm327.md) - [plain](/playlists/plain/37i9dQZF1DWUcClkEWm327) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUcClkEWm327)
 
 ### [ディズニー・リラクシング・オルゴール](https://open.spotify.com/playlist/37i9dQZF1DWUcClkEWm327)
 
 > ディズニーの名曲をオルゴール・サウンドで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,084 likes - 144 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,140 likes - 144 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

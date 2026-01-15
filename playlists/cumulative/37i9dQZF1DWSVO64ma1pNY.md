@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSVO64ma1pNY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSVO64ma1pNY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSVO64ma1pNY)
+[pretty](/playlists/pretty/37i9dQZF1DWSVO64ma1pNY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSVO64ma1pNY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSVO64ma1pNY)
 
 ### [Anger Management](https://open.spotify.com/playlist/37i9dQZF1DWSVO64ma1pNY)
 

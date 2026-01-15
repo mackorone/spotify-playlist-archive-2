@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain](/playlists/plain/37i9dQZF1DX0D3bsYM560s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0D3bsYM560s)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain](/playlists/plain/37i9dQZF1DX0D3bsYM560s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0D3bsYM560s)
 
 ### [Women of Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DX0D3bsYM560s)
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Sierra Hull
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,399 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,486 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

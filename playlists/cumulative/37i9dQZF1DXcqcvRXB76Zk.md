@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcqcvRXB76Zk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcqcvRXB76Zk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcqcvRXB76Zk)
+[pretty](/playlists/pretty/37i9dQZF1DXcqcvRXB76Zk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcqcvRXB76Zk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcqcvRXB76Zk)
 
 ### [네이버에서 스포티파이를](https://open.spotify.com/playlist/37i9dQZF1DXcqcvRXB76Zk)
 

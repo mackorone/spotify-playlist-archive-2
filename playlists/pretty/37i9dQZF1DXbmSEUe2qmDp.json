@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Gabriel Borges, Luiza Martins",
-  "num_followers": 482514,
+  "num_followers": 482525,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
+        "name": "Aqui Tem Sentimento, Ep.3",
+        "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Henrique",
+          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
+        }
+      ],
+      "duration_ms": 193283,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
         "name": "Propaganda Enganosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5dKOpvNGqgpuyMLhfnCL2R"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Aqui Tem Sentimento, Ep.3",
-        "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Henrique",
-          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
-        }
-      ],
-      "duration_ms": 193283,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
         "name": "Sentimento Esquisito (Ao Vivo)",
         "url": "https://open.spotify.com/album/67PxrfpS60IGoALhgMwvuk"
       },
@@ -179,26 +179,6 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Muvuca",
-        "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
-      },
-      "artists": [
-        {
-          "name": "Leo Balbinotti",
-          "url": "https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx"
-        },
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        }
-      ],
-      "duration_ms": 150051,
-      "name": "Muvuca - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
         "name": "Liberdade ou Solid\u00e3o",
         "url": "https://open.spotify.com/album/3U2cBR6yaH8Thy4QMwLqZb"
       },
@@ -211,42 +191,6 @@
       "duration_ms": 159291,
       "name": "Liberdade ou Solid\u00e3o",
       "url": "https://open.spotify.com/track/0yoPjwsYqLl4pIzkLkFROC"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
-        "name": "Mete Marcha no Paran\u00e1, Ep. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1DwSp5Uvg4yO8lJew7Npef"
-      },
-      "artists": [
-        {
-          "name": "Augusto & At\u00edlio",
-          "url": "https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ"
-        }
-      ],
-      "duration_ms": 156443,
-      "name": "Morena do Paran\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/64SGg3SpBhtI7375NbLC8q"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
-        "name": "Junt\u00f4 Deu Moda, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0BgGNhtdZMjNJu7RV7aATL"
-      },
-      "artists": [
-        {
-          "name": "Alex & Medina",
-          "url": "https://open.spotify.com/artist/19kz4jwLOVYjW1ReTInsNh"
-        },
-        {
-          "name": "Junt\u00f4 Deu Moda",
-          "url": "https://open.spotify.com/artist/0ErXaGpo4jhtoNv38bBWyk"
-        }
-      ],
-      "duration_ms": 157376,
-      "name": "S\u00f3 Disse que Amou - Ao Vivo",
-      "url": "https://open.spotify.com/track/2DlgzO5JQ5aCGzaCvTCfpJ"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -271,22 +215,42 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Trenz\u00e3o",
-        "url": "https://open.spotify.com/album/0eae7DFMxNR1POOCEPPfp3"
+        "name": "Muvuca",
+        "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
       },
       "artists": [
         {
-          "name": "Breno e Bernardo",
-          "url": "https://open.spotify.com/artist/2gsNxDIZmMfEF4LIr2QDF0"
+          "name": "Leo Balbinotti",
+          "url": "https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx"
         },
         {
-          "name": "Jo\u00e3o Neto & Frederico",
-          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
         }
       ],
-      "duration_ms": 154607,
-      "name": "Trenz\u00e3o",
-      "url": "https://open.spotify.com/track/2aJNpEOjTGtHrX34e76FXl"
+      "duration_ms": 150051,
+      "name": "Muvuca - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
+        "name": "Junt\u00f4 Deu Moda, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0BgGNhtdZMjNJu7RV7aATL"
+      },
+      "artists": [
+        {
+          "name": "Alex & Medina",
+          "url": "https://open.spotify.com/artist/19kz4jwLOVYjW1ReTInsNh"
+        },
+        {
+          "name": "Junt\u00f4 Deu Moda",
+          "url": "https://open.spotify.com/artist/0ErXaGpo4jhtoNv38bBWyk"
+        }
+      ],
+      "duration_ms": 157376,
+      "name": "S\u00f3 Disse que Amou - Ao Vivo",
+      "url": "https://open.spotify.com/track/2DlgzO5JQ5aCGzaCvTCfpJ"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -307,6 +271,42 @@
       "duration_ms": 169386,
       "name": "Baila Que Baila - Ao Vivo",
       "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
+        "name": "Mete Marcha no Paran\u00e1, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1DwSp5Uvg4yO8lJew7Npef"
+      },
+      "artists": [
+        {
+          "name": "Augusto & At\u00edlio",
+          "url": "https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ"
+        }
+      ],
+      "duration_ms": 156443,
+      "name": "Morena do Paran\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/64SGg3SpBhtI7375NbLC8q"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
+        "name": "Trenz\u00e3o",
+        "url": "https://open.spotify.com/album/0eae7DFMxNR1POOCEPPfp3"
+      },
+      "artists": [
+        {
+          "name": "Breno e Bernardo",
+          "url": "https://open.spotify.com/artist/2gsNxDIZmMfEF4LIr2QDF0"
+        },
+        {
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        }
+      ],
+      "duration_ms": 154607,
+      "name": "Trenz\u00e3o",
+      "url": "https://open.spotify.com/track/2aJNpEOjTGtHrX34e76FXl"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -343,18 +343,18 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Eu Lembro",
-        "url": "https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m"
+        "name": "De S\u00e3o Paulo pra Goi\u00e1s (Ao Vivo)",
+        "url": "https://open.spotify.com/album/52hMW6q9KXlAwaz8nVw1AH"
       },
       "artists": [
         {
-          "name": "Maur\u00edcio & Eduardo",
-          "url": "https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc"
+          "name": "Thallys e Thiago",
+          "url": "https://open.spotify.com/artist/0UeKlFw6vkDEQ9pSqUaoPG"
         }
       ],
-      "duration_ms": 152138,
-      "name": "Eu Lembro",
-      "url": "https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE"
+      "duration_ms": 188963,
+      "name": "De S\u00e3o Paulo pra Goi\u00e1s - Ao Vivo",
+      "url": "https://open.spotify.com/track/7brmhdHVul2MddNLraIqal"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -379,34 +379,18 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "De S\u00e3o Paulo pra Goi\u00e1s (Ao Vivo)",
-        "url": "https://open.spotify.com/album/52hMW6q9KXlAwaz8nVw1AH"
+        "name": "Eu Lembro",
+        "url": "https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m"
       },
       "artists": [
         {
-          "name": "Thallys e Thiago",
-          "url": "https://open.spotify.com/artist/0UeKlFw6vkDEQ9pSqUaoPG"
+          "name": "Maur\u00edcio & Eduardo",
+          "url": "https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc"
         }
       ],
-      "duration_ms": 188963,
-      "name": "De S\u00e3o Paulo pra Goi\u00e1s - Ao Vivo",
-      "url": "https://open.spotify.com/track/7brmhdHVul2MddNLraIqal"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
-        "name": "Susto",
-        "url": "https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Henrique",
-          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
-        }
-      ],
-      "duration_ms": 190513,
-      "name": "Susto",
-      "url": "https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB"
+      "duration_ms": 152138,
+      "name": "Eu Lembro",
+      "url": "https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -431,38 +415,18 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Aqui N\u00e3o Passarinho",
-        "url": "https://open.spotify.com/album/5FOha8UP275jrNJu5K5u2e"
+        "name": "Susto",
+        "url": "https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0"
       },
       "artists": [
         {
-          "name": "Thauane",
-          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+          "name": "Cleber & Henrique",
+          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
         }
       ],
-      "duration_ms": 155409,
-      "name": "Aqui N\u00e3o Passarinho",
-      "url": "https://open.spotify.com/track/71iPheXSdoCF1BxgjwKo05"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
-        "name": "Show de Solteiro",
-        "url": "https://open.spotify.com/album/0B3F3DZhELEiu3PGf0mQm1"
-      },
-      "artists": [
-        {
-          "name": "Jonatha e Cristiano",
-          "url": "https://open.spotify.com/artist/4ZIYJpELcoJlJcro8xZF20"
-        },
-        {
-          "name": "Eric Land",
-          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
-        }
-      ],
-      "duration_ms": 124581,
-      "name": "Show de Solteiro",
-      "url": "https://open.spotify.com/track/5Z1IcAAJ34h5Ha5kT2W9V8"
+      "duration_ms": 190513,
+      "name": "Susto",
+      "url": "https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -503,22 +467,18 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Bate-Volta",
-        "url": "https://open.spotify.com/album/1nKommPLM7t2AIzRU5TIot"
+        "name": "Aqui N\u00e3o Passarinho",
+        "url": "https://open.spotify.com/album/5FOha8UP275jrNJu5K5u2e"
       },
       "artists": [
         {
-          "name": "Matheus Marcolino",
-          "url": "https://open.spotify.com/artist/2XQpug45cVZnFbLlpe58HQ"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
         }
       ],
-      "duration_ms": 158106,
-      "name": "Bate-Volta",
-      "url": "https://open.spotify.com/track/6bWIGsHaPL4gfOCDpzn0SF"
+      "duration_ms": 155409,
+      "name": "Aqui N\u00e3o Passarinho",
+      "url": "https://open.spotify.com/track/71iPheXSdoCF1BxgjwKo05"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -543,6 +503,62 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
+        "name": "Bate-Volta",
+        "url": "https://open.spotify.com/album/1nKommPLM7t2AIzRU5TIot"
+      },
+      "artists": [
+        {
+          "name": "Matheus Marcolino",
+          "url": "https://open.spotify.com/artist/2XQpug45cVZnFbLlpe58HQ"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "Bate-Volta",
+      "url": "https://open.spotify.com/track/6bWIGsHaPL4gfOCDpzn0SF"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
+        "name": "Pra Qu\u00ea?",
+        "url": "https://open.spotify.com/album/5Alq7ae59MD1VcVadX79ud"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fava",
+          "url": "https://open.spotify.com/artist/2rsn8MkxTWrYUgLYmhIh4w"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Pra Qu\u00ea?",
+      "url": "https://open.spotify.com/track/72LPt2vbT19P7GXXfzr2gS"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
+        "name": "Show de Solteiro",
+        "url": "https://open.spotify.com/album/0B3F3DZhELEiu3PGf0mQm1"
+      },
+      "artists": [
+        {
+          "name": "Jonatha e Cristiano",
+          "url": "https://open.spotify.com/artist/4ZIYJpELcoJlJcro8xZF20"
+        },
+        {
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
+        }
+      ],
+      "duration_ms": 124581,
+      "name": "Show de Solteiro",
+      "url": "https://open.spotify.com/track/5Z1IcAAJ34h5Ha5kT2W9V8"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
         "name": "Pernoite (Ao Vivo)",
         "url": "https://open.spotify.com/album/23Y3OOrhanr45POrAGCSAy"
       },
@@ -563,34 +579,18 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "N\u00e3o Vai Seco",
-        "url": "https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh"
+        "name": "Meus Versos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ifVaO01lv5UdptFfSSOmZ"
       },
       "artists": [
         {
-          "name": "Pedro Henrique e Jo\u00e3o Victor",
-          "url": "https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef"
+          "name": "Z\u00e9 Luccas",
+          "url": "https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo"
         }
       ],
-      "duration_ms": 140228,
-      "name": "N\u00e3o Vai Seco",
-      "url": "https://open.spotify.com/track/4nm0sdoLEaASMA4rjpR66a"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
-        "name": "Pra Qu\u00ea?",
-        "url": "https://open.spotify.com/album/5Alq7ae59MD1VcVadX79ud"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Fava",
-          "url": "https://open.spotify.com/artist/2rsn8MkxTWrYUgLYmhIh4w"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Pra Qu\u00ea?",
-      "url": "https://open.spotify.com/track/72LPt2vbT19P7GXXfzr2gS"
+      "duration_ms": 199375,
+      "name": "Eu Posso Ser - Ao Vivo",
+      "url": "https://open.spotify.com/track/0cT5esb6ng9FcBcFb0jBN8"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Meus Versos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ifVaO01lv5UdptFfSSOmZ"
+        "name": "N\u00e3o Vai Seco",
+        "url": "https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Luccas",
-          "url": "https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo"
+          "name": "Pedro Henrique e Jo\u00e3o Victor",
+          "url": "https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef"
         }
       ],
-      "duration_ms": 199375,
-      "name": "Eu Posso Ser - Ao Vivo",
-      "url": "https://open.spotify.com/track/0cT5esb6ng9FcBcFb0jBN8"
+      "duration_ms": 140228,
+      "name": "N\u00e3o Vai Seco",
+      "url": "https://open.spotify.com/track/4nm0sdoLEaASMA4rjpR66a"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -659,6 +659,26 @@
       "duration_ms": 171834,
       "name": "Voc\u00ea \u00e9 Voc\u00ea",
       "url": "https://open.spotify.com/track/0PCpcj9LfR988741kQXCAB"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
+        "name": "Sorriso De Desespero (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6rTOrVUEmXAGwiDTUJO9qC"
+      },
+      "artists": [
+        {
+          "name": "Arielly Dara",
+          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
+        },
+        {
+          "name": "Cristinas",
+          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
+        }
+      ],
+      "duration_ms": 180223,
+      "name": "Sorriso De Desespero - Ao Vivo",
+      "url": "https://open.spotify.com/track/0j8E4O6qwcpIWIVy4Med76"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -699,26 +719,6 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Sorriso De Desespero (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6rTOrVUEmXAGwiDTUJO9qC"
-      },
-      "artists": [
-        {
-          "name": "Arielly Dara",
-          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
-        },
-        {
-          "name": "Cristinas",
-          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
-        }
-      ],
-      "duration_ms": 180223,
-      "name": "Sorriso De Desespero - Ao Vivo",
-      "url": "https://open.spotify.com/track/0j8E4O6qwcpIWIVy4Med76"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
         "name": "Simplesmente Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/625q4hSNT1fDIOUv79hbEj"
       },
@@ -731,26 +731,6 @@
       "duration_ms": 146206,
       "name": "Garrafa De \u00c1gua - Ao Vivo",
       "url": "https://open.spotify.com/track/7yKssIU8nf7pgZLtpq9y4b"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
-        "name": "Vou Ou N\u00e3o Vou",
-        "url": "https://open.spotify.com/album/14eHYsCEWDXWxkcO0CjEmd"
-      },
-      "artists": [
-        {
-          "name": "Breno e Bernardo",
-          "url": "https://open.spotify.com/artist/2gsNxDIZmMfEF4LIr2QDF0"
-        },
-        {
-          "name": "Thauane",
-          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
-        }
-      ],
-      "duration_ms": 171526,
-      "name": "Vou ou N\u00e3o Vou",
-      "url": "https://open.spotify.com/track/5MbLwOO7IGcDSD3r7NYSJQ"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -771,6 +751,26 @@
       "duration_ms": 175918,
       "name": "Carioca",
       "url": "https://open.spotify.com/track/3o4BERtAquRCu5RvYaEqjh"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
+        "name": "Vou Ou N\u00e3o Vou",
+        "url": "https://open.spotify.com/album/14eHYsCEWDXWxkcO0CjEmd"
+      },
+      "artists": [
+        {
+          "name": "Breno e Bernardo",
+          "url": "https://open.spotify.com/artist/2gsNxDIZmMfEF4LIr2QDF0"
+        },
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        }
+      ],
+      "duration_ms": 171526,
+      "name": "Vou ou N\u00e3o Vou",
+      "url": "https://open.spotify.com/track/5MbLwOO7IGcDSD3r7NYSJQ"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
-        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
-      },
-      "artists": [
-        {
-          "name": "Murilo e Romario",
-          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
-      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
         "name": "Lado Ruim",
         "url": "https://open.spotify.com/album/4FUTn5dOYJr0bJZgmSeOgq"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
+        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
+        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
+      },
+      "artists": [
+        {
+          "name": "Murilo e Romario",
+          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
+      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
         "name": "M\u00e3os Juntas",
         "url": "https://open.spotify.com/album/7sckhZS1n1hp0ucF9muWTK"
       },
@@ -863,26 +863,6 @@
       "duration_ms": 214571,
       "name": "M\u00e3os Juntas",
       "url": "https://open.spotify.com/track/1cd046aQyr3pb0jzsOPkRE"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
-        "name": "Sofrer De Boa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4MzDK1qM9ATKVckhTF9Sr9"
-      },
-      "artists": [
-        {
-          "name": "William Couto e Adriano",
-          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
-        },
-        {
-          "name": "Traia V\u00e9ia",
-          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Sofrer De Boa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5wJJmKHa17nSxB5ROCUiAp"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -903,22 +883,6 @@
       "duration_ms": 128059,
       "name": "Vestidinho - Ao Vivo",
       "url": "https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
-        "name": "Ao Vivo em Campo Grande",
-        "url": "https://open.spotify.com/album/1LFp8sGCyinS0DuCCxW5vo"
-      },
-      "artists": [
-        {
-          "name": "Thiago & Graciano",
-          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "Deixa Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/0cRJu8sb2Wtx7jaElJpGXd"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -959,6 +923,42 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
+        "name": "Sofrer De Boa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4MzDK1qM9ATKVckhTF9Sr9"
+      },
+      "artists": [
+        {
+          "name": "William Couto e Adriano",
+          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
+        },
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "Sofrer De Boa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5wJJmKHa17nSxB5ROCUiAp"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
+        "name": "Ao Vivo em Campo Grande",
+        "url": "https://open.spotify.com/album/1LFp8sGCyinS0DuCCxW5vo"
+      },
+      "artists": [
+        {
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "Deixa Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0cRJu8sb2Wtx7jaElJpGXd"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
         "name": "Resenha Do Interior (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KNtxYtVX0pK3h4z8hUSxh"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 138816,
       "name": "Resenha Do Interior (Ao Vivo)",
       "url": "https://open.spotify.com/track/1zYdQv7Ee1fX0k1IwULBZS"
+    },
+    {
+      "added_at": "2025-12-12 03:03:07",
+      "album": {
+        "name": "Resenha das Braba",
+        "url": "https://open.spotify.com/album/3wwcnDA29ACJXXCm3cJ2qA"
+      },
+      "artists": [
+        {
+          "name": "Day e Lara",
+          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
+        }
+      ],
+      "duration_ms": 149909,
+      "name": "Nunca \u00e9 Demais",
+      "url": "https://open.spotify.com/track/4IMlU0sY3X6lgvQwJWwmws"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -991,22 +1007,6 @@
       "duration_ms": 208235,
       "name": "Segunda Prioridade - Ao Vivo",
       "url": "https://open.spotify.com/track/0zxzWWqJcp0kIzRgkv9WiA"
-    },
-    {
-      "added_at": "2025-12-12 03:03:07",
-      "album": {
-        "name": "Resenha das Braba",
-        "url": "https://open.spotify.com/album/3wwcnDA29ACJXXCm3cJ2qA"
-      },
-      "artists": [
-        {
-          "name": "Day e Lara",
-          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
-        }
-      ],
-      "duration_ms": 149909,
-      "name": "Nunca \u00e9 Demais",
-      "url": "https://open.spotify.com/track/4IMlU0sY3X6lgvQwJWwmws"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -1111,18 +1111,26 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Choveu",
-        "url": "https://open.spotify.com/album/2LT6D8p1K73t7tH02STswq"
+        "name": "Sinal De Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1THDmWZtr9NR2CB199hLkx"
       },
       "artists": [
         {
-          "name": "Bianca e Beatriz",
-          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
+          "name": "Vitor e Diogo",
+          "url": "https://open.spotify.com/artist/4oc7nvQf2ARkeRRoqzFjJC"
+        },
+        {
+          "name": "Luccas & Rodrigo",
+          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
+        },
+        {
+          "name": "Matheus Kennedy",
+          "url": "https://open.spotify.com/artist/5B4betFiqzVyxKPfXGlgOD"
         }
       ],
-      "duration_ms": 158885,
-      "name": "Choveu",
-      "url": "https://open.spotify.com/track/0rmy34atB4k5LOACKtsMJM"
+      "duration_ms": 132307,
+      "name": "Sinal De Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/56x2ACF7tligu8QhveJRbE"
     },
     {
       "added_at": "2025-12-12 03:03:07",
@@ -1167,26 +1175,18 @@
     {
       "added_at": "2025-12-12 03:03:07",
       "album": {
-        "name": "Sinal De Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1THDmWZtr9NR2CB199hLkx"
+        "name": "Choveu",
+        "url": "https://open.spotify.com/album/2LT6D8p1K73t7tH02STswq"
       },
       "artists": [
         {
-          "name": "Vitor e Diogo",
-          "url": "https://open.spotify.com/artist/4oc7nvQf2ARkeRRoqzFjJC"
-        },
-        {
-          "name": "Luccas & Rodrigo",
-          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
-        },
-        {
-          "name": "Matheus Kennedy",
-          "url": "https://open.spotify.com/artist/5B4betFiqzVyxKPfXGlgOD"
+          "name": "Bianca e Beatriz",
+          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
         }
       ],
-      "duration_ms": 132307,
-      "name": "Sinal De Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/56x2ACF7tligu8QhveJRbE"
+      "duration_ms": 158885,
+      "name": "Choveu",
+      "url": "https://open.spotify.com/track/0rmy34atB4k5LOACKtsMJM"
     },
     {
       "added_at": "2025-12-12 03:03:07",

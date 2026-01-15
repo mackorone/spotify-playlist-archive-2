@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2n3NOV9DaFp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2n3NOV9DaFp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2n3NOV9DaFp)
+[pretty](/playlists/pretty/37i9dQZF1DX2n3NOV9DaFp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2n3NOV9DaFp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2n3NOV9DaFp)
 
 ### [Rolling Loud Miami 2022](https://open.spotify.com/playlist/37i9dQZF1DX2n3NOV9DaFp)
 

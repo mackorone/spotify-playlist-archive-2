@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4WaAzzNPt7QwS3kvyTQiRG.md) - cumulative - [plain](/playlists/plain/4WaAzzNPt7QwS3kvyTQiRG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4WaAzzNPt7QwS3kvyTQiRG)
+[pretty](/playlists/pretty/4WaAzzNPt7QwS3kvyTQiRG.md) - cumulative - [plain](/playlists/plain/4WaAzzNPt7QwS3kvyTQiRG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4WaAzzNPt7QwS3kvyTQiRG)
 
 ### [80s Smash Hits](https://open.spotify.com/playlist/4WaAzzNPt7QwS3kvyTQiRG)
 

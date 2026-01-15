@@ -525,6 +525,32 @@
     },
     {
       "album": {
+        "name": "All I See Is Us",
+        "url": "https://open.spotify.com/album/57hzAtjFnZoRea1DXpytuh"
+      },
+      "artists": [
+        {
+          "name": "KASIA",
+          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+        },
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166570,
+      "name": "All I See Is Us",
+      "url": "https://open.spotify.com/track/10MnGddpdyhyJqlxR9MCqO"
+    },
+    {
+      "album": {
         "name": "All Of The Lights",
         "url": "https://open.spotify.com/album/19xDuqTUZT8JS8zOeJ847E"
       },
@@ -2523,7 +2549,7 @@
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 243779,
+      "duration_ms": 243967,
       "name": "Coming On Strong",
       "url": "https://open.spotify.com/track/3OxO5qycdP6Rg6dFgefWFZ"
     },
@@ -3946,7 +3972,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217213,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
@@ -5258,6 +5284,40 @@
       "duration_ms": 285000,
       "name": "Fool's Paradise - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
+    },
+    {
+      "album": {
+        "name": "Dark Matter Remixes",
+        "url": "https://open.spotify.com/album/63vQpCdklHB6wh13qeVVbz"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        },
+        {
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240714,
+      "name": "For a Feeling (feat. RHODES) - Adam Sellouk & Y do I Remix",
+      "url": "https://open.spotify.com/track/17g0qkplMw3ejgGpDd2GJj"
     },
     {
       "album": {
@@ -7628,7 +7688,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174252,
       "name": "Inside Your Mind",
       "url": "https://open.spotify.com/track/16h1oek8xjdszxudIyjFg3"
@@ -10406,7 +10466,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203947,
       "name": "Nina",
       "url": "https://open.spotify.com/track/57C4WkNxsGbr6Xrd77ZcW2"
@@ -13722,6 +13782,28 @@
       "duration_ms": 322519,
       "name": "Skynet",
       "url": "https://open.spotify.com/track/24NYldsWLPZ9a1vgEYpQJh"
+    },
+    {
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/22I27stS8FtlJTNfgQGaXW"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "MORGANJ",
+          "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217619,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/3bMNTSJxDBUQyk2mDtvWPG"
     },
     {
       "album": {

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o0sjdAbiLJ.md) - [plain](/playlists/plain/37i9dQZF1DX9o0sjdAbiLJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9o0sjdAbiLJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o0sjdAbiLJ.md) - [plain](/playlists/plain/37i9dQZF1DX9o0sjdAbiLJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9o0sjdAbiLJ)
 
 ### [NIOH \-仁王\-](https://open.spotify.com/playlist/37i9dQZF1DX9o0sjdAbiLJ)
 
 > Immerse yourself in the world of NIOH, an intense action RPG experience in Sengoku Era in Japan\. <br/>ダーク戦国アクションRPG, 「仁王」の世界へ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,101 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,115 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

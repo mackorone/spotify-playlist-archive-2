@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain](/playlists/plain/37i9dQZF1DX73LI7XFaKDi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX73LI7XFaKDi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain](/playlists/plain/37i9dQZF1DX73LI7XFaKDi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX73LI7XFaKDi)
 
 ### [Descendants Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX73LI7XFaKDi)
 
 > There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red, streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,418 likes - 76 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,437 likes - 76 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

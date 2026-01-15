@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaYP4U0VPZgc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaYP4U0VPZgc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaYP4U0VPZgc)
+[pretty](/playlists/pretty/37i9dQZF1DXaYP4U0VPZgc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaYP4U0VPZgc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaYP4U0VPZgc)
 
 ### [Yuki Kajiura Works](https://open.spotify.com/playlist/37i9dQZF1DXaYP4U0VPZgc)
 

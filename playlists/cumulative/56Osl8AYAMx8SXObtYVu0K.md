@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/56Osl8AYAMx8SXObtYVu0K.md) - cumulative - [plain](/playlists/plain/56Osl8AYAMx8SXObtYVu0K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/56Osl8AYAMx8SXObtYVu0K)
+[pretty](/playlists/pretty/56Osl8AYAMx8SXObtYVu0K.md) - cumulative - [plain](/playlists/plain/56Osl8AYAMx8SXObtYVu0K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/56Osl8AYAMx8SXObtYVu0K)
 
 ### [KARENTセレクション バレンタインSongs](https://open.spotify.com/playlist/56Osl8AYAMx8SXObtYVu0K)
 

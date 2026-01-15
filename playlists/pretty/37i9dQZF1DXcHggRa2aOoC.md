@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHggRa2aOoC.md) - [plain](/playlists/plain/37i9dQZF1DXcHggRa2aOoC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcHggRa2aOoC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHggRa2aOoC.md) - [plain](/playlists/plain/37i9dQZF1DXcHggRa2aOoC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcHggRa2aOoC)
 
 ### [فيروزيات الصباح](https://open.spotify.com/playlist/37i9dQZF1DXcHggRa2aOoC)
 
 > You know that all mornings call for Fairuz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,279 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,324 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

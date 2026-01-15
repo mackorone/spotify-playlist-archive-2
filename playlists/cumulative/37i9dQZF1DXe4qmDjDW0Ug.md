@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXe4qmDjDW0Ug.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe4qmDjDW0Ug) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe4qmDjDW0Ug)
+[pretty](/playlists/pretty/37i9dQZF1DXe4qmDjDW0Ug.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe4qmDjDW0Ug) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe4qmDjDW0Ug)
 
 ### [국내 R&B 메가 히트](https://open.spotify.com/playlist/37i9dQZF1DXe4qmDjDW0Ug)
 

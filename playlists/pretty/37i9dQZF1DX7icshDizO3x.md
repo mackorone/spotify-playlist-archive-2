@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain](/playlists/plain/37i9dQZF1DX7icshDizO3x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7icshDizO3x)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain](/playlists/plain/37i9dQZF1DX7icshDizO3x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7icshDizO3x)
 
 ### [On Tour Japan: Stray Kids](https://open.spotify.com/playlist/37i9dQZF1DX7icshDizO3x)
 
 > \[LIVE Blu\-ray『Stray Kids Fan Connecting 2024 “SKZ TOY WORLD”』発売記念\]<br/>最終日の一部MC音声入りセットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,653 likes - 24 songs - 56 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 83,726 likes - 24 songs - 56 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

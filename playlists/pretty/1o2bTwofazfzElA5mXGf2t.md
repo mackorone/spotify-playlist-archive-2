@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1o2bTwofazfzElA5mXGf2t.md) - [plain](/playlists/plain/1o2bTwofazfzElA5mXGf2t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1o2bTwofazfzElA5mXGf2t)
+pretty - [cumulative](/playlists/cumulative/1o2bTwofazfzElA5mXGf2t.md) - [plain](/playlists/plain/1o2bTwofazfzElA5mXGf2t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1o2bTwofazfzElA5mXGf2t)
 
 ### [Breakup Blues](https://open.spotify.com/playlist/1o2bTwofazfzElA5mXGf2t)
 
 > From denial and pleading to anger and acceptance, this genre\-blending playlist will carry you through each stage of your breakup blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 205 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

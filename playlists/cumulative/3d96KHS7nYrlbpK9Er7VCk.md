@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3d96KHS7nYrlbpK9Er7VCk.md) - cumulative - [plain](/playlists/plain/3d96KHS7nYrlbpK9Er7VCk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3d96KHS7nYrlbpK9Er7VCk)
+[pretty](/playlists/pretty/3d96KHS7nYrlbpK9Er7VCk.md) - cumulative - [plain](/playlists/plain/3d96KHS7nYrlbpK9Er7VCk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3d96KHS7nYrlbpK9Er7VCk)
 
 ### [cold, cold man](https://open.spotify.com/playlist/3d96KHS7nYrlbpK9Er7VCk)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7DcfXNVB5WpzYwCkqBaVDx.md) - [plain](/playlists/plain/7DcfXNVB5WpzYwCkqBaVDx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7DcfXNVB5WpzYwCkqBaVDx)
+pretty - [cumulative](/playlists/cumulative/7DcfXNVB5WpzYwCkqBaVDx.md) - [plain](/playlists/plain/7DcfXNVB5WpzYwCkqBaVDx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7DcfXNVB5WpzYwCkqBaVDx)
 
 ### [Peace & Love 2012](https://open.spotify.com/playlist/7DcfXNVB5WpzYwCkqBaVDx)
 

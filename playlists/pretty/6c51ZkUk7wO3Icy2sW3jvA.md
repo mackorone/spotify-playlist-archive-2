@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/6c51ZkUk7wO3Icy2sW3jvA.md) - [plain](/playlists/plain/6c51ZkUk7wO3Icy2sW3jvA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6c51ZkUk7wO3Icy2sW3jvA)
+pretty - [cumulative](/playlists/cumulative/6c51ZkUk7wO3Icy2sW3jvA.md) - [plain](/playlists/plain/6c51ZkUk7wO3Icy2sW3jvA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6c51ZkUk7wO3Icy2sW3jvA)
 
 ### [Daniel Adams\-Ray](https://open.spotify.com/playlist/6c51ZkUk7wO3Icy2sW3jvA)
 

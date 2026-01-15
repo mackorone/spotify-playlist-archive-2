@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/4muFXNJjmJvLWdHmx0PKYO.md) - [plain](/playlists/plain/4muFXNJjmJvLWdHmx0PKYO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4muFXNJjmJvLWdHmx0PKYO)
+pretty - [cumulative](/playlists/cumulative/4muFXNJjmJvLWdHmx0PKYO.md) - [plain](/playlists/plain/4muFXNJjmJvLWdHmx0PKYO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4muFXNJjmJvLWdHmx0PKYO)
 
 ### [Emmaboda 2012](https://open.spotify.com/playlist/4muFXNJjmJvLWdHmx0PKYO)
 

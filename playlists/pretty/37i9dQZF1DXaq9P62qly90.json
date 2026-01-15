@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 15407,
+  "num_followers": 15478,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "The Change I'm Seeking",
-        "url": "https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR"
-      },
-      "artists": [
-        {
-          "name": "Mike Love",
-          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
-        }
-      ],
-      "duration_ms": 482173,
-      "name": "Permanent Holiday",
-      "url": "https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Jahta Beat: The Lotus Memoirs",
         "url": "https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 240973,
       "name": "Nectar Drop",
       "url": "https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "The Change I'm Seeking",
+        "url": "https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR"
+      },
+      "artists": [
+        {
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
+        }
+      ],
+      "duration_ms": 482173,
+      "name": "Permanent Holiday",
+      "url": "https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "You're It!",
+        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
+      },
+      "artists": [
+        {
+          "name": "Wookiefoot",
+          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Don't Hold Your Breath",
+      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Everyday Life, Everyday People",
         "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 241306,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "You're It!",
-        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
-      },
-      "artists": [
-        {
-          "name": "Wookiefoot",
-          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Don't Hold Your Breath",
-      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Kulture",
-        "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
-      },
-      "artists": [
-        {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 276017,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Stay Human Vol. II",
         "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 169689,
       "name": "Just to Say I Love You",
       "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Kulture",
+        "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
+      },
+      "artists": [
+        {
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+        }
+      ],
+      "duration_ms": 276017,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Rebel Frequency",
-        "url": "https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR"
-      },
-      "artists": [
-        {
-          "name": "Nattali Rize",
-          "url": "https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "One People",
-      "url": "https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Nation of Truth",
         "url": "https://open.spotify.com/album/4OmqPZxOg43jtP8un2twB2"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 220186,
       "name": "Nation of Truth",
       "url": "https://open.spotify.com/track/0EJFzeHiwdTdJxi4aQY1c8"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Rebel Frequency",
+        "url": "https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR"
+      },
+      "artists": [
+        {
+          "name": "Nattali Rize",
+          "url": "https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "One People",
+      "url": "https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Love Overflowing",
-        "url": "https://open.spotify.com/album/3gkTud0H2xXXfVXlwtU2Wu"
-      },
-      "artists": [
-        {
-          "name": "Mike Love",
-          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
-        }
-      ],
-      "duration_ms": 322028,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 191562,
       "name": "Family Tree",
       "url": "https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Love Overflowing",
+        "url": "https://open.spotify.com/album/3gkTud0H2xXXfVXlwtU2Wu"
+      },
+      "artists": [
+        {
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
+        }
+      ],
+      "duration_ms": 322028,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/0vYG3TaFXfpIqNXLvTo4GL"
+        "name": "Call on the Wolves",
+        "url": "https://open.spotify.com/album/3ne5IY3MK0FoaxXccvBvR4"
       },
       "artists": [
         {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+          "name": "Dustin Thomas",
+          "url": "https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK"
         }
       ],
-      "duration_ms": 233978,
-      "name": "Warm Under the Light",
-      "url": "https://open.spotify.com/track/5p4ydBPTPRhhQ6mWTWswXJ"
+      "duration_ms": 333818,
+      "name": "Call on the Wolves",
+      "url": "https://open.spotify.com/track/1h1rjRbZwiVc1y2jNqYphX"
     }
   ],
   "unique_name": "Peace Of Mind",

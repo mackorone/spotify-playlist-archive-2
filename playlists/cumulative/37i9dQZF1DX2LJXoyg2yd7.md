@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2LJXoyg2yd7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2LJXoyg2yd7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2LJXoyg2yd7)
+[pretty](/playlists/pretty/37i9dQZF1DX2LJXoyg2yd7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2LJXoyg2yd7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2LJXoyg2yd7)
 
 ### [Yemen Sounds](https://open.spotify.com/playlist/37i9dQZF1DX2LJXoyg2yd7)
 

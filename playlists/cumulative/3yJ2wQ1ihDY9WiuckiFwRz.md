@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3yJ2wQ1ihDY9WiuckiFwRz.md) - cumulative - [plain](/playlists/plain/3yJ2wQ1ihDY9WiuckiFwRz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3yJ2wQ1ihDY9WiuckiFwRz)
+[pretty](/playlists/pretty/3yJ2wQ1ihDY9WiuckiFwRz.md) - cumulative - [plain](/playlists/plain/3yJ2wQ1ihDY9WiuckiFwRz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3yJ2wQ1ihDY9WiuckiFwRz)
 
 ### [MY LOVELY BEAUTIFUL AMAZING GORGEOUS WIFE ](https://open.spotify.com/playlist/3yJ2wQ1ihDY9WiuckiFwRz)
 

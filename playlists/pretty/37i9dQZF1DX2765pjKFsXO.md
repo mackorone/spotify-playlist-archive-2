@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain](/playlists/plain/37i9dQZF1DX2765pjKFsXO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2765pjKFsXO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain](/playlists/plain/37i9dQZF1DX2765pjKFsXO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2765pjKFsXO)
 
 ### [Alternatywna Polska 2025](https://open.spotify.com/playlist/37i9dQZF1DX2765pjKFsXO)
 
 > Największe polskie alternatywne kawałki w 2025 według naszej redakcji\. Cover: Dawid Podsiadło, Kaśka Sochacka
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,956 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,035 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

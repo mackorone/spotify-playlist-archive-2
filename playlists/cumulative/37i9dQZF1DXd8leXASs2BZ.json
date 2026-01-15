@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Worldwide Skippa\n",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: sheidA\n",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -464,6 +464,28 @@
       "duration_ms": 102600,
       "name": "2025 Freestyle",
       "url": "https://open.spotify.com/track/4ZOps6xTaAjxdkFMYR5rwm"
+    },
+    {
+      "album": {
+        "name": "2026 (feat. Fisong)",
+        "url": "https://open.spotify.com/album/6Balhl94RCLaCDBxoK9wxZ"
+      },
+      "artists": [
+        {
+          "name": "10black",
+          "url": "https://open.spotify.com/artist/01tVO70t4qMcX6z6IQFuo5"
+        },
+        {
+          "name": "Fisong",
+          "url": "https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "2026 (feat. Fisong)",
+      "url": "https://open.spotify.com/track/4jczSJXaOJT6Dq1df6otFF"
     },
     {
       "album": {
@@ -2072,7 +2094,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192287,
       "name": "Backrooted",
       "url": "https://open.spotify.com/track/1v81WO1jntFL3krIjtdlp0"
@@ -2228,7 +2250,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169620,
       "name": "BANCHO GEEK (feat. Worldwide Skippa & Yachi)",
       "url": "https://open.spotify.com/track/2suHMsKAYw28idLp9HMIGx"
@@ -8289,6 +8311,24 @@
     },
     {
       "album": {
+        "name": "GET",
+        "url": "https://open.spotify.com/album/5xoxDOhqNl6Hi8xGLw2c4p"
+      },
+      "artists": [
+        {
+          "name": "JETG",
+          "url": "https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160300,
+      "name": "GET",
+      "url": "https://open.spotify.com/track/4vqTrbUWdEMBgcMbxb6SyG"
+    },
+    {
+      "album": {
         "name": "Get Dirty",
         "url": "https://open.spotify.com/album/2N6dfCa4f0nga3tCaxLmCI"
       },
@@ -10622,7 +10662,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 179000,
       "name": "In The Sky",
       "url": "https://open.spotify.com/track/0txmA3JAGwVexETZav673g"
@@ -12562,7 +12602,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178696,
       "name": "LNB Cypher",
       "url": "https://open.spotify.com/track/6UwDLc0EQXl8OTiO5L1qIg"
@@ -13719,6 +13759,24 @@
     },
     {
       "album": {
+        "name": "MONEY TALK $TUDIO",
+        "url": "https://open.spotify.com/album/2F6dKd3RTqrRPLpa6Mtwiu"
+      },
+      "artists": [
+        {
+          "name": "DOUBLE UP",
+          "url": "https://open.spotify.com/artist/1bufnt2arEhPCXTuDXhO07"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "MONEY TALK $TUDIO",
+      "url": "https://open.spotify.com/track/2nnIyR8rqm19eotbEJh0Sw"
+    },
+    {
+      "album": {
         "name": "MONSTER",
         "url": "https://open.spotify.com/album/2jPBH5Zj4Sm0kNKXXlwkAl"
       },
@@ -13950,7 +14008,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147698,
       "name": "MVP (feat. Watson)",
       "url": "https://open.spotify.com/track/77wQJsasG7MdCYqbgyTPXF"
@@ -14136,7 +14194,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198620,
       "name": "N side Nostalgia",
       "url": "https://open.spotify.com/track/2YX1I8Lfl1jhDh5IE5DG1M"
@@ -16249,6 +16307,24 @@
     },
     {
       "album": {
+        "name": "past",
+        "url": "https://open.spotify.com/album/2D9AK05kH6jRUWzgbz0MPN"
+      },
+      "artists": [
+        {
+          "name": "J1rock",
+          "url": "https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85794,
+      "name": "past",
+      "url": "https://open.spotify.com/track/47KZgDwcb0z6X2sqWbwJYp"
+    },
+    {
+      "album": {
         "name": "Pay",
         "url": "https://open.spotify.com/album/29I2wbRPfFbexR3EjBJ4RS"
       },
@@ -16748,6 +16824,24 @@
       "duration_ms": 167341,
       "name": "PUFFY",
       "url": "https://open.spotify.com/track/2VNMDF9XndbjbyZasqfcje"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/5xsIGUBxkvpStINwCNl8CW"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150726,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2sT9opGdkzq1rKE9toXJTb"
     },
     {
       "album": {
@@ -17350,7 +17444,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182857,
       "name": "Reflex Blue",
       "url": "https://open.spotify.com/track/4hCj3SLz5K5tA5vsBCLXgk"
@@ -18151,6 +18245,28 @@
     },
     {
       "album": {
+        "name": "ZOOM IN PEOPLE",
+        "url": "https://open.spotify.com/album/1fG7X6oyx5KB0hBMp2adEM"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201398,
+      "name": "SAKURA",
+      "url": "https://open.spotify.com/track/3rFbWHG2YFfXWIYYQaqpEC"
+    },
+    {
+      "album": {
         "name": "SALVIA",
         "url": "https://open.spotify.com/album/2hwOnbxNyj3aZ1nCqjUW3R"
       },
@@ -18838,6 +18954,28 @@
       "duration_ms": 125142,
       "name": "Shibuya",
       "url": "https://open.spotify.com/track/4Um8NyP5SrQIfDFeDd2pQ3"
+    },
+    {
+      "album": {
+        "name": "SHIGEKI",
+        "url": "https://open.spotify.com/album/24hfgy8bnQ4TOecPVIGAYn"
+      },
+      "artists": [
+        {
+          "name": "ULTRA SMASH",
+          "url": "https://open.spotify.com/artist/0yMAf7raVNCa4Lb1M0NwyI"
+        },
+        {
+          "name": "Hanemii",
+          "url": "https://open.spotify.com/artist/7un3CBibLdJpaUssEQ0eny"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "SHIGEKI",
+      "url": "https://open.spotify.com/track/3QjJyrMpZ6iouqwcyJb7C4"
     },
     {
       "album": {
@@ -20448,7 +20586,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141500,
       "name": "Swipe",
       "url": "https://open.spotify.com/track/7LK97nk7F53jlmKcD34UFQ"
@@ -20502,7 +20640,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 172444,
       "name": "TAIDA",
       "url": "https://open.spotify.com/track/30eBqNSZ3asy95CY7uwewZ"
@@ -20554,6 +20692,24 @@
       "duration_ms": 160661,
       "name": "TAKE-OFF",
       "url": "https://open.spotify.com/track/5ZPsgg1WhMxoovwZVYHbIB"
+    },
+    {
+      "album": {
+        "name": "P.A.R.T.Y.",
+        "url": "https://open.spotify.com/album/0tUV3SYOE1cqoFtDQPLKpR"
+      },
+      "artists": [
+        {
+          "name": "sheidA",
+          "url": "https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126233,
+      "name": "TakeItxxx",
+      "url": "https://open.spotify.com/track/4WohZ94x2FC7hBhXgXredc"
     },
     {
       "album": {
@@ -21310,7 +21466,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157522,
       "name": "town/city (feat. M.O.C, RH JayDee & Tete)",
       "url": "https://open.spotify.com/track/3bzNyRYOpJ6Zd4YjNUbKD6"
@@ -21332,6 +21488,28 @@
       "duration_ms": 139893,
       "name": "TOYOTA CAROLLA",
       "url": "https://open.spotify.com/track/1BZ7SR2PchuoUPfP4pP3px"
+    },
+    {
+      "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/03ltiNKy7ZpCbiCw6cruz5"
+      },
+      "artists": [
+        {
+          "name": "IKE",
+          "url": "https://open.spotify.com/artist/2jABWw2VBAvwYyWSLxjUcX"
+        },
+        {
+          "name": "KennyDoes",
+          "url": "https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218192,
+      "name": "Training Week",
+      "url": "https://open.spotify.com/track/5OI3bV8Nv87yJp7iXLO6HP"
     },
     {
       "album": {
@@ -21951,6 +22129,24 @@
     },
     {
       "album": {
+        "name": "VERETTA FLOW",
+        "url": "https://open.spotify.com/album/6AppuztUCk5C1pDnWz6H0l"
+      },
+      "artists": [
+        {
+          "name": "Tete",
+          "url": "https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "VERETTA FLOW",
+      "url": "https://open.spotify.com/track/7oHyMlb4FCzFlVWNeyDQ65"
+    },
+    {
+      "album": {
         "name": "New Stars Swag",
         "url": "https://open.spotify.com/album/19tG0IyvryThuOfTC8wTCk"
       },
@@ -22508,7 +22704,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 250523,
       "name": "We Don't Trust (feat. Fisong, SiX FXXT UNDXR & Worldwide Skippa) - Remix",
       "url": "https://open.spotify.com/track/1D12j2E7NWfPRK2QwIk1m3"
@@ -24614,6 +24810,24 @@
       "duration_ms": 159120,
       "name": "\u5927\u6f01",
       "url": "https://open.spotify.com/track/7gBbP15PmK3KyaSjbEBM0A"
+    },
+    {
+      "album": {
+        "name": "MY TRUE SELF",
+        "url": "https://open.spotify.com/album/3OM85x6vAT41sQ3EKTFY8M"
+      },
+      "artists": [
+        {
+          "name": "sh1t",
+          "url": "https://open.spotify.com/artist/3IchFX2kpT6ARyP7hURWyo"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121537,
+      "name": "\u5927\u9ed2\u67f1",
+      "url": "https://open.spotify.com/track/0b8KLxBjSQ5Y7MIOdi5kQN"
     },
     {
       "album": {

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5lf3ULcD47BmEgIjAgSW2X.md) - cumulative - [plain](/playlists/plain/5lf3ULcD47BmEgIjAgSW2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5lf3ULcD47BmEgIjAgSW2X)
+[pretty](/playlists/pretty/5lf3ULcD47BmEgIjAgSW2X.md) - cumulative - [plain](/playlists/plain/5lf3ULcD47BmEgIjAgSW2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5lf3ULcD47BmEgIjAgSW2X)
 
 ### [Jazz For Study](https://open.spotify.com/playlist/5lf3ULcD47BmEgIjAgSW2X)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain](/playlists/plain/37i9dQZF1DXdxFkXW4j8RX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdxFkXW4j8RX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain](/playlists/plain/37i9dQZF1DXdxFkXW4j8RX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdxFkXW4j8RX)
 
 ### [Rap Chileno](https://open.spotify.com/playlist/37i9dQZF1DXdxFkXW4j8RX)
 
 > La casa de lxs MC's\. Foto: Ceaese
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,055 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,036 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain](/playlists/plain/37i9dQZF1DX4ve1H90mNWg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4ve1H90mNWg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain](/playlists/plain/37i9dQZF1DX4ve1H90mNWg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4ve1H90mNWg)
 
 ### [Ripple Effect: South](https://open.spotify.com/playlist/37i9dQZF1DX4ve1H90mNWg)
 
 > Southern music breaking waves\. <br/>Curated by: <a href="spotify:artist:5QJ1y0hIIbgStShX3562mw">Turbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,117 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,224 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

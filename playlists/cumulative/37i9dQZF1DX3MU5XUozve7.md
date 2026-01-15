@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3MU5XUozve7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3MU5XUozve7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3MU5XUozve7)
+[pretty](/playlists/pretty/37i9dQZF1DX3MU5XUozve7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3MU5XUozve7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3MU5XUozve7)
 
 ### [Skatepark Punks](https://open.spotify.com/playlist/37i9dQZF1DX3MU5XUozve7)
 
@@ -248,7 +248,7 @@
 | [Heavy Gloom](https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [The Story So Far](https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5) | 2:49 | 2021-10-09 | 2025-05-24 |
 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 | 2021-01-23 |  |
 | [Here I Am](https://open.spotify.com/track/30QcBbuGx1K2B4OymiNWNa) | [The Explosion](https://open.spotify.com/artist/7n6XZV14NcegGvyBFBU62z) | [Black Tape](https://open.spotify.com/album/6fKI9LW1GQ3jXesSPb74yh) | 2:47 | 2020-03-22 | 2022-07-27 |
-| [Here In Your Bedroom](https://open.spotify.com/track/0e0qRLVKIW1JNkLZg14bQF) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:11 | 2021-01-23 | 2025-12-11 |
+| [Here In Your Bedroom](https://open.spotify.com/track/0e0qRLVKIW1JNkLZg14bQF) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:11 | 2021-01-23 |  |
 | [Hey Boff!](https://open.spotify.com/track/1UyNBbOqRNjzvGeXXtqwfx) | [Snuff](https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3) | [Hey Boff!](https://open.spotify.com/album/0PFb7N8ieO7B38JRfdo9Rv) | 2:57 | 2020-03-21 | 2022-07-08 |
 | [High School Never Ends \- Main Version \- Explicit](https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [The Great Burrito Extortion Case](https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2) | 3:29 | 2021-10-12 |  |
 | [History Of A Boring Town](https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:22 | 2020-03-25 |  |
@@ -311,7 +311,7 @@
 | [K6](https://open.spotify.com/track/3JeMY2mw8gN7aOnBaqipwj) | [The Lillingtons](https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX) | [Stella Sapiente](https://open.spotify.com/album/7gGDcdgx5VMonqIVOaPeNh) | 2:27 | 2020-03-20\* | 2022-07-25 |
 | [Keep on Chasing](https://open.spotify.com/track/352s3lxFuWqTuP9p1wjbdo) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:03 | 2020-12-12 | 2022-07-28 |
 | [Keep This Up](https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 2:26 | 2020-03-21 |  |
-| [Kids](https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3) | 3:30 | 2020-03-30 |  |
+| [Kids](https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3) | 3:30 | 2020-03-30 | 2026-01-15 |
 | [Kill Em All](https://open.spotify.com/track/3HGToWWnpWDYe8sd5UcnH2) | [Part Time Killer](https://open.spotify.com/artist/1PDjdSn9YCXz1reA1PUcC0) | [Kill Em All](https://open.spotify.com/album/3VM7ycOlsqm59FOGjZfjKk) | 3:10 | 2020-03-23 | 2022-03-05 |
 | [Kitty Sucker](https://open.spotify.com/track/457BpNlDPJnuf94rY1fuWw) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf) | 3:44 | 2020-03-21 | 2022-10-13 |
 | [Kitty Sucker](https://open.spotify.com/track/7ajm14wJT1HiZOVCf4d00F) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/3hS3M535B8REpnp1gCK2v6) | 3:44 | 2022-07-26 | 2022-12-18 |

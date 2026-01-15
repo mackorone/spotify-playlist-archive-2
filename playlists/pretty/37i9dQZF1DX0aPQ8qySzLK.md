@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain](/playlists/plain/37i9dQZF1DX0aPQ8qySzLK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0aPQ8qySzLK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain](/playlists/plain/37i9dQZF1DX0aPQ8qySzLK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0aPQ8qySzLK)
 
 ### [Best Folk Songs of 2021 Canada](https://open.spotify.com/playlist/37i9dQZF1DX0aPQ8qySzLK)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVMPm8eZaQf.md) - [plain](/playlists/plain/37i9dQZF1DWVVMPm8eZaQf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVVMPm8eZaQf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVMPm8eZaQf.md) - [plain](/playlists/plain/37i9dQZF1DWVVMPm8eZaQf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVVMPm8eZaQf)
 
 ### [Post Malone: Covered](https://open.spotify.com/playlist/37i9dQZF1DWVVMPm8eZaQf)
 
 > Fresh takes and unexpected covers of songs originally written by Post Malone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,991 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,990 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

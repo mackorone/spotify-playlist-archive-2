@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1omLAKnMAhhkMSe2IGisUZ.md) - cumulative - [plain](/playlists/plain/1omLAKnMAhhkMSe2IGisUZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1omLAKnMAhhkMSe2IGisUZ)
+[pretty](/playlists/pretty/1omLAKnMAhhkMSe2IGisUZ.md) - cumulative - [plain](/playlists/plain/1omLAKnMAhhkMSe2IGisUZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1omLAKnMAhhkMSe2IGisUZ)
 
 ### [The Beach Boys: The Real Best Of...](https://open.spotify.com/playlist/1omLAKnMAhhkMSe2IGisUZ)
 

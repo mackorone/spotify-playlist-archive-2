@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbVDG8SANkRQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbVDG8SANkRQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbVDG8SANkRQ)
+[pretty](/playlists/pretty/37i9dQZF1DXbVDG8SANkRQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbVDG8SANkRQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbVDG8SANkRQ)
 
 ### [히어로는 아닙니다만 \(The Atypical Family\)](https://open.spotify.com/playlist/37i9dQZF1DXbVDG8SANkRQ)
 

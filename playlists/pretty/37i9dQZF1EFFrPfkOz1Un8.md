@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain](/playlists/plain/37i9dQZF1EFFrPfkOz1Un8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFFrPfkOz1Un8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain](/playlists/plain/37i9dQZF1EFFrPfkOz1Un8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFFrPfkOz1Un8)
 
 ### [Written By Kyle Evans](https://open.spotify.com/playlist/37i9dQZF1EFFrPfkOz1Un8)
 
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 20 | [Belly of the Beast](https://open.spotify.com/track/1OGAPgVLjy4bcGRfCdixWL) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Belly of the Beast](https://open.spotify.com/album/6WxfYPn97IT8RxjaoujNoI) | 2:58 |
 | 21 | [Spaghetti](https://open.spotify.com/track/7j0AjRMQ5f2AFMLgn9aQHm) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:32 |
 | 22 | [House Invasions](https://open.spotify.com/track/6TrMQVbL9seEPxMZLg45st) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [House Invasions](https://open.spotify.com/album/2eTNPQfnIfX1juKgPspDY8) | 3:29 |
-| 23 | [Prey](https://open.spotify.com/track/18LlKZ31XlvDOpMK6NAAZs) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 3:05 |
-| 24 | [She Wanna](https://open.spotify.com/track/13CqoBKII7rdFn1f6NSjsW) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Frosty](https://open.spotify.com/artist/2uaGbYYR6MVKSR371T3a7p) | [Rap Game Awful](https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl) | 3:33 |
+| 23 | [She Wanna](https://open.spotify.com/track/13CqoBKII7rdFn1f6NSjsW) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Frosty](https://open.spotify.com/artist/2uaGbYYR6MVKSR371T3a7p) | [Rap Game Awful](https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl) | 3:33 |
+| 24 | [Prey](https://open.spotify.com/track/18LlKZ31XlvDOpMK6NAAZs) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 3:05 |
 | 25 | [100K](https://open.spotify.com/track/5uWkFrjcqCXGWaQF82FvFG) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:59 |
 | 26 | [L.S.O.M](https://open.spotify.com/track/0mG9n0MOdSfMRHGQwE8Wxs) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/4gX0D6oS2t2a85RJNMvjIK) | 3:08 |
 | 27 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 32 | [Crazy](https://open.spotify.com/track/3XcD1khvzlkPVvDSpwDlLx) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:43 |
 | 33 | [Full Moon](https://open.spotify.com/track/7IUpteTNUxLrbu6nl7kiWz) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:55 |
 
-Snapshot ID: `AcGKsgAAAADuZIn2UbOHePRCzZiJvOu0`
+Snapshot ID: `AcHAhgAAAACK8Xmx+4y1R25mr3xOqMcV`

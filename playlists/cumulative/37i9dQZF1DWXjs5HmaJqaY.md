@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXjs5HmaJqaY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXjs5HmaJqaY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXjs5HmaJqaY)
+[pretty](/playlists/pretty/37i9dQZF1DWXjs5HmaJqaY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXjs5HmaJqaY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXjs5HmaJqaY)
 
 ### [Boris Brejcha's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWXjs5HmaJqaY)
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-363 songs - 1 day 9 hr 36 min
+364 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Create](https://open.spotify.com/track/4yAK1AUtAxayjyuQDEoMSv) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Create](https://open.spotify.com/album/7caWffjtRMvvY2zvEvvVDq) | 3:54 | 2023-02-10 | 2023-05-06 |
 | [Crispy Bacon](https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [30](https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn) | 5:52 | 2025-02-14 |  |
 | [Cut The Midrange \- Ryan McCormack Remix](https://open.spotify.com/track/4F50ZMSQuNew7uzG9b3Myu) | [Watchman](https://open.spotify.com/artist/3ovvDDRUrwfCMz7RsBzxj6), [Ryan McCormack](https://open.spotify.com/artist/5JB4gxjkwdXPkP4ACEzWbQ) | [Plastic City Radio Show Season Nine \- Part 4](https://open.spotify.com/album/76JDFLjDgL2UflBm1JkXfT) | 7:26 | 2023-06-23 | 2023-11-08 |
+| [Dancing Penguins](https://open.spotify.com/track/1JWxMJR4RF00BQIXvag03G) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dancing Penguins](https://open.spotify.com/album/6xo8gu7kxXiT6SG5bmzHIT) | 7:58 | 2026-01-09 |  |
 | [Dante \- Radio Edit](https://open.spotify.com/track/3fXawkPGNLWANy8rBXgAXK) | [Virage](https://open.spotify.com/artist/5yvuGxgNA8Y3geZBWSYTpm) | [From Hell EP](https://open.spotify.com/album/0Hw8RmAjgMV5hPiVqxcnxf) | 3:16 | 2023-12-08 | 2024-03-20 |
 | [Dark City Angels](https://open.spotify.com/track/3QLLqEVbSBL2iOfC6oHOZK) | [Humantronic](https://open.spotify.com/artist/76hRRAuRxt9Ic0ljjHHoLQ) | [Desidero](https://open.spotify.com/album/4NnLjhzrqPqO1aAjQlW6CF) | 6:15 | 2023-10-27 | 2024-11-09 |
 | [Dark Waves](https://open.spotify.com/track/1BpjHYLMMGzCgfBa5NYze5) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Dark Waves](https://open.spotify.com/album/1jFxs3VUgiaGLCjrRqLciY) | 4:37 | 2023-02-17 | 2023-05-27 |

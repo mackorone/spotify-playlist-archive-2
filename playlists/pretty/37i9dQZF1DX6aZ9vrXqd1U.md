@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain](/playlists/plain/37i9dQZF1DX6aZ9vrXqd1U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6aZ9vrXqd1U)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain](/playlists/plain/37i9dQZF1DX6aZ9vrXqd1U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6aZ9vrXqd1U)
 
 ### [GUNDAM SERIES](https://open.spotify.com/playlist/37i9dQZF1DX6aZ9vrXqd1U)
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,566 likes - 160 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,695 likes - 160 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

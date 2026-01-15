@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6CtFkSNozwg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6CtFkSNozwg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6CtFkSNozwg)
+[pretty](/playlists/pretty/37i9dQZF1DX6CtFkSNozwg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6CtFkSNozwg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6CtFkSNozwg)
 
 ### [Mixtape \#18 Lucy Dacus "Old school love & heartache" ](https://open.spotify.com/playlist/37i9dQZF1DX6CtFkSNozwg)
 

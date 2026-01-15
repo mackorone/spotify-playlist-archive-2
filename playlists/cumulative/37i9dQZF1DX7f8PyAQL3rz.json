@@ -1063,6 +1063,36 @@
     },
     {
       "album": {
+        "name": "Amor N\u00e3o Sai de Moda",
+        "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Malu Original",
+          "url": "https://open.spotify.com/artist/3UgDjYJgPcLRrFoLa1YzTY"
+        },
+        {
+          "name": "Arthur Martiins",
+          "url": "https://open.spotify.com/artist/5sKb333g6csR2GXkhyw0UX"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216600,
+      "name": "Amor N\u00e3o Sai de Moda",
+      "url": "https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP"
+    },
+    {
+      "album": {
         "name": "Set Final de Ano",
         "url": "https://open.spotify.com/album/3pBhYZe8hfAyYTAgA0FjNC"
       },
@@ -1382,6 +1412,32 @@
       "duration_ms": 274015,
       "name": "Assault (Joias no Pulso)",
       "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
+    },
+    {
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
+      },
+      "artists": [
+        {
+          "name": "yollirum",
+          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
+        },
+        {
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133064,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
     },
     {
       "album": {
@@ -4590,7 +4646,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190588,
       "name": "EDWARD",
       "url": "https://open.spotify.com/track/4rR3Z2yrPPTT9JupJ25KWa"
@@ -10241,6 +10297,36 @@
     },
     {
       "album": {
+        "name": "N\u00e3o rouba minha brisa",
+        "url": "https://open.spotify.com/album/1WraDe4hRoB8eFZ2F96TLW"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "rod shawty",
+          "url": "https://open.spotify.com/artist/0HdnynTCwfciA6uEqbXask"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242963,
+      "name": "N\u00e3o rouba minha brisa",
+      "url": "https://open.spotify.com/track/5KOBNthxPSlby8DGqNRrSX"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Sai da Minha Mente (feat. Lionel)",
         "url": "https://open.spotify.com/album/5qpJt1uCoons7XTDQXp29Q"
       },
@@ -12294,7 +12380,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193770,
       "name": "Princ\u00edpios de um Campe\u00e3o",
       "url": "https://open.spotify.com/track/2HEz8ZjpxnJ328u99lnbpK"
@@ -15690,6 +15776,10 @@
         {
           "name": "Marquinho no Beat",
           "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Thurts",
+          "url": "https://open.spotify.com/artist/0Gt2Yy7O5Dgf3PheRhZghi"
         }
       ],
       "date_added": "2025-12-19",
@@ -16018,7 +16108,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 137142,
       "name": "Vem Kikando",
       "url": "https://open.spotify.com/track/6ALL8MZRuGe4lUY4lAy2RE"

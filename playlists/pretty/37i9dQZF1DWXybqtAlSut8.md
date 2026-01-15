@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain](/playlists/plain/37i9dQZF1DWXybqtAlSut8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXybqtAlSut8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain](/playlists/plain/37i9dQZF1DWXybqtAlSut8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXybqtAlSut8)
 
 ### [Christian Instrumentals](https://open.spotify.com/playlist/37i9dQZF1DWXybqtAlSut8)
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,369 likes - 90 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,994 likes - 90 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

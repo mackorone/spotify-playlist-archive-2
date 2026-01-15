@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTAam0w6i0dI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTAam0w6i0dI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTAam0w6i0dI)
+[pretty](/playlists/pretty/37i9dQZF1DWTAam0w6i0dI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTAam0w6i0dI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTAam0w6i0dI)
 
 ### [TWICE FANMEETING \[HOME 9ROUND\]](https://open.spotify.com/playlist/37i9dQZF1DWTAam0w6i0dI)
 

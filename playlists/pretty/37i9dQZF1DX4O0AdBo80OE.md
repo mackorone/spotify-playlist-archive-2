@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain](/playlists/plain/37i9dQZF1DX4O0AdBo80OE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4O0AdBo80OE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain](/playlists/plain/37i9dQZF1DX4O0AdBo80OE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4O0AdBo80OE)
 
 ### [romanze digital](https://open.spotify.com/playlist/37i9dQZF1DX4O0AdBo80OE)
 
 > mami pon la webcam con AQUIHAYAQUIHAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,530 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,488 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

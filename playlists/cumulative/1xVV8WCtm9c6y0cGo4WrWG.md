@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/1xVV8WCtm9c6y0cGo4WrWG.md) - cumulative - [plain](/playlists/plain/1xVV8WCtm9c6y0cGo4WrWG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1xVV8WCtm9c6y0cGo4WrWG)
+[pretty](/playlists/pretty/1xVV8WCtm9c6y0cGo4WrWG.md) - cumulative - [plain](/playlists/plain/1xVV8WCtm9c6y0cGo4WrWG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1xVV8WCtm9c6y0cGo4WrWG)
 
 ### [Hip\-Hop Pulse](https://open.spotify.com/playlist/1xVV8WCtm9c6y0cGo4WrWG)
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Lil Baby
 
-454 songs - 23 hr 3 min
+455 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Big Diamonds \(feat\. 21 Savage\)](https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:19 | 2023-11-17 | 2023-12-02 |
 | [Big Dog \(with Lil Wayne\)](https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Big Dog](https://open.spotify.com/album/5N1Y4h6H1fiS7tIL0fPivM) | 4:13 | 2023-11-03 | 2024-02-19 |
 | [Big Foot](https://open.spotify.com/track/587Ks4sb6Wd2qRVS5i9fdW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Big Foot](https://open.spotify.com/album/3b80v2noU4EEZmCefjinoO) | 4:22 | 2024-02-02 | 2024-02-06 |
+| [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 | 2026-01-13 |  |
 | [bigger thën everything](https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [bigger thën everything](https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9) | 3:38 | 2023-11-03 | 2024-02-19 |
 | [Birthday](https://open.spotify.com/track/24b5TbtIBm5xRixapLABo7) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Birthday](https://open.spotify.com/album/1xnYdPt8wEZyOwH8Q9GCNY) | 3:59 | 2024-04-05 | 2024-05-06 |
 | [Black](https://open.spotify.com/track/45k6Qexq0mavylcq1hNl4G) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:08 | 2023-11-03 | 2024-05-06 |
@@ -303,7 +304,7 @@
 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 | 2024-11-15 | 2025-06-10 |
 | [Pakistan](https://open.spotify.com/track/4iZTNyPJuxpWmfjUQRDwBY) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [DBE World](https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82) | 2:54 | 2023-11-03 | 2024-05-02 |
 | [PALMA WISE](https://open.spotify.com/track/7kMTgdhWi1H8b3wwMJq5Tr) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [Leo Negro](https://open.spotify.com/album/14peIqE6IPE4sjgXpyHonM) | 4:08 | 2025-09-05 |  |
-| [Paper Low](https://open.spotify.com/track/3xZT6OEmmI8bpMKkmGIlwt) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Paper Low](https://open.spotify.com/album/39voM6TwNAHV12EJ2lAAnl) | 2:42 | 2025-12-19 |  |
+| [Paper Low](https://open.spotify.com/track/3xZT6OEmmI8bpMKkmGIlwt) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Paper Low](https://open.spotify.com/album/39voM6TwNAHV12EJ2lAAnl) | 2:42 | 2025-12-19 | 2026-01-15 |
 | [Passion](https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Passion](https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm) | 2:29 | 2024-07-12 | 2024-09-10 |
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2023-11-03 | 2024-02-19 |
 | [Phat Butt](https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi) | 2:09 | 2024-06-21 | 2024-07-27 |

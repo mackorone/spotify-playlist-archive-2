@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain](/playlists/plain/37i9dQZF1DX1uaml3UXYLk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1uaml3UXYLk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain](/playlists/plain/37i9dQZF1DX1uaml3UXYLk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1uaml3UXYLk)
 
 ### [Coffee Beats](https://open.spotify.com/playlist/37i9dQZF1DX1uaml3UXYLk)
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,445 likes - 227 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,015 likes - 227 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 226 | [Sensory](https://open.spotify.com/track/1pBLGEfo6rW6n5FbbWkOAj) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [Sensory](https://open.spotify.com/album/3vL8gAf8xi5jeTL6qSel0Z) | 2:20 |
 | 227 | [I Believe in You](https://open.spotify.com/track/4BV9srmcvMsuGglNB4B2pY) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [I Believe in You](https://open.spotify.com/album/1Urw2zRd4RlouNewCqbz7R) | 3:58 |
 
-Snapshot ID: `AAAAABZxkViOt+dCaeSbJ4XZG9DhapT/`
+Snapshot ID: `AAAAAF26y6DeC8qA7MO0RzVlHT8F8S7e`

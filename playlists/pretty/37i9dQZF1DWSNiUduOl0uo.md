@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNiUduOl0uo.md) - [plain](/playlists/plain/37i9dQZF1DWSNiUduOl0uo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSNiUduOl0uo)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNiUduOl0uo.md) - [plain](/playlists/plain/37i9dQZF1DWSNiUduOl0uo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSNiUduOl0uo)
 
 ### [Girl Power](https://open.spotify.com/playlist/37i9dQZF1DWSNiUduOl0uo)
 
 > Relive the glory days of the 90s and 00s when Girl Power ruled the music world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,729 likes - 55 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,862 likes - 55 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

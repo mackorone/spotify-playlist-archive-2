@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5ENxuuyTX48.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5ENxuuyTX48) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ENxuuyTX48)
+[pretty](/playlists/pretty/37i9dQZF1DX5ENxuuyTX48.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5ENxuuyTX48) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5ENxuuyTX48)
 
 ### [OTW](https://open.spotify.com/playlist/37i9dQZF1DX5ENxuuyTX48)
 
@@ -420,7 +420,7 @@
 | [Crush](https://open.spotify.com/track/0Gu3afSvsi2doKPPTKy6Ur) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Crush](https://open.spotify.com/album/6cM3IfZGLJdrq5awnftJfI) | 3:35 | 2023-08-03 | 2023-08-11 |
 | [crying over nothing \(wah wah\)](https://open.spotify.com/track/1pkjS4ml1e7c5n6HNPHdeh) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [cryin over nothin \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:53 | 2024-01-12 | 2024-01-20 |
 | [Cukup](https://open.spotify.com/track/4ckN01pAGtUBI3hyyieGgz) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA) | [Cukup](https://open.spotify.com/album/3yhx3n2NSZiuRMAj6lJfRW) | 4:09 | 2023-11-17 | 2023-11-25 |
-| [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2023-09-15 |  |
+| [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2023-09-15 | 2026-01-15 |
 | [Cukup Dewasa](https://open.spotify.com/track/1XW9zp8BY4DJbpiQhJYKc6) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Cukup Dewasa](https://open.spotify.com/album/56yIPEP86mvgwosDxhx3di) | 3:56 | 2025-04-25 | 2025-05-03 |
 | [Cukuplah](https://open.spotify.com/track/67Waz67okfBOlMVpg1UitI) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [A.R](https://open.spotify.com/album/5Jearm6TNWQC1QF2pu7ojR) | 3:34 | 2023-11-24 | 2023-12-02 |
 | [CURAHKAN HIDAYAHMU](https://open.spotify.com/track/1ZL1sOZI1MrbgHKggVea9i) | [Ihsan Tarore](https://open.spotify.com/artist/21rZZMlJPMBJx2w3ohzGqN) | [CURAHKAN HIDAYAHMU](https://open.spotify.com/album/0Gt2aidGb7r9UnkDh2lFej) | 4:54 | 2025-02-28 | 2025-03-08 |
@@ -1883,7 +1883,7 @@
 | [troy](https://open.spotify.com/track/0G0LDsxvVish4579MADppT) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [tiny shiny beautiful](https://open.spotify.com/album/5vZ5Ozvnz98s9pgh3pU014) | 3:08 | 2024-10-03 | 2025-01-11 |
 | [Try Again](https://open.spotify.com/track/3KcA0bHgVxjIWMPlh9mBuZ) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW), [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [Try Again](https://open.spotify.com/album/7mfN9bmmT4IP21G064FOJz) | 4:14 | 2024-01-12 | 2024-01-20 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-26 | 2024-08-09 |
-| [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2025-10-09 | 2025-11-27 |
+| [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2025-10-09 |  |
 | [Tukar Lalu](https://open.spotify.com/track/6iVQIRPVzCUZwWI0Z3BJXp) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ), [Dimansyah Laitupa](https://open.spotify.com/artist/6WrP3SWOhy8mjiONxXFEuB) | [Tukar Lalu](https://open.spotify.com/album/1sBuoGfIJ1AsnTqbodaKGw) | 4:06 | 2023-11-24 | 2023-12-02 |
 | [Tunggu](https://open.spotify.com/track/1IzpHmWzA5wvggTNpyiy5S) | [Zalelo](https://open.spotify.com/artist/7oIoEMjF4BysMurJ32HZQh) | [Tunggu](https://open.spotify.com/album/57GFDf7wqHWCExXlz7D2dR) | 3:10 | 2023-05-11 | 2023-05-19 |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-09-06 | 2025-09-27 |

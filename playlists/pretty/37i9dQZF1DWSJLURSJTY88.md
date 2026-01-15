@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJLURSJTY88.md) - [plain](/playlists/plain/37i9dQZF1DWSJLURSJTY88) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSJLURSJTY88)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJLURSJTY88.md) - [plain](/playlists/plain/37i9dQZF1DWSJLURSJTY88) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSJLURSJTY88)
 
 ### [Bedouin's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWSJLURSJTY88)
 

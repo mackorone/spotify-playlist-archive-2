@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnwXAaJZdpo.md) - [plain](/playlists/plain/37i9dQZF1DWUnwXAaJZdpo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUnwXAaJZdpo)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnwXAaJZdpo.md) - [plain](/playlists/plain/37i9dQZF1DWUnwXAaJZdpo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUnwXAaJZdpo)
 
 ### [This Is RBD](https://open.spotify.com/playlist/37i9dQZF1DWUnwXAaJZdpo)
 
 > ¡Yo digo R, tú dices BD! ¡RBD!
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,152 likes - 55 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,013 likes - 55 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

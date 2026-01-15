@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: Hef",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: sor",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -315,6 +315,32 @@
     },
     {
       "album": {
+        "name": "Af En Toe",
+        "url": "https://open.spotify.com/album/0AgL090JXM8vnwccThYTy8"
+      },
+      "artists": [
+        {
+          "name": "Boufi",
+          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
+        },
+        {
+          "name": "Safouu",
+          "url": "https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy"
+        },
+        {
+          "name": "Curved",
+          "url": "https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138016,
+      "name": "Af En Toe",
+      "url": "https://open.spotify.com/track/5CE9TUXkcQ6g6pBuhWLeI5"
+    },
+    {
+      "album": {
         "name": "AGRESSIEF",
         "url": "https://open.spotify.com/album/725pifQFSUf2kXZRr9xIJP"
       },
@@ -626,7 +652,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140978,
       "name": "Beemsterstraat",
       "url": "https://open.spotify.com/track/41htoqaciyMHG4NELcoI6h"
@@ -2558,7 +2584,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 244989,
       "name": "Koning Winter (feat. Chivv)",
       "url": "https://open.spotify.com/track/3tX0OsoZ6u4l20LN3narOr"
@@ -2668,7 +2694,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154285,
       "name": "Laatste Sprint",
       "url": "https://open.spotify.com/track/4yhHbAWlikLy3ZBNkNXepz"
@@ -3130,7 +3156,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143529,
       "name": "Micky van de Ven",
       "url": "https://open.spotify.com/track/3nu6AgVIOB5cZO4X49vred"
@@ -3298,7 +3324,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 118000,
       "name": "MOTORSPORT",
       "url": "https://open.spotify.com/track/26h6jPN791M6FR3wSgb93U"
@@ -3342,10 +3368,28 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 144500,
       "name": "m\u2019n type",
       "url": "https://open.spotify.com/track/4byfxBnrwirWzHHwAt58IB"
+    },
+    {
+      "album": {
+        "name": "Navigatie \u2013 Freestyle #2",
+        "url": "https://open.spotify.com/album/2Ti880oJoVrpgFqILk7JEN"
+      },
+      "artists": [
+        {
+          "name": "Leblanco",
+          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198485,
+      "name": "Navigatie \u2013 Freestyle #2",
+      "url": "https://open.spotify.com/track/5IFIK55onVh7sonND8yWFX"
     },
     {
       "album": {
@@ -3438,7 +3482,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169600,
       "name": "NIEUWE BOETE",
       "url": "https://open.spotify.com/track/62VWxxGcdh4TDRfqyAJ8jU"
@@ -3486,6 +3530,54 @@
       "duration_ms": 152238,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/3vBsGaCsCF0QfhsGZ3Qufs"
+    },
+    {
+      "album": {
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        },
+        {
+          "name": "Ray Fuego",
+          "url": "https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162148,
+      "name": "nighttime",
+      "url": "https://open.spotify.com/track/5SVfiHZp9gQ9buPXzqXqco"
+    },
+    {
+      "album": {
+        "name": "NO DAYS OFF",
+        "url": "https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186438,
+      "name": "NO DAYS OFF",
+      "url": "https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB"
     },
     {
       "album": {
@@ -3833,6 +3925,36 @@
     },
     {
       "album": {
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Leafs",
+          "url": "https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il"
+        },
+        {
+          "name": "Jacin Trill",
+          "url": "https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248633,
+      "name": "parasomnia",
+      "url": "https://open.spotify.com/track/24J4u22qqHx0qaHU8u524O"
+    },
+    {
+      "album": {
         "name": "Parttime",
         "url": "https://open.spotify.com/album/7cqcpWvRJoOz3tkEID2Bxh"
       },
@@ -3848,6 +3970,28 @@
       "duration_ms": 153756,
       "name": "Parttime",
       "url": "https://open.spotify.com/track/58MfUokWWPz42ll8YTs7HG"
+    },
+    {
+      "album": {
+        "name": "Pasje",
+        "url": "https://open.spotify.com/album/2b0RA4TtBRGv3ZhtXKLDUg"
+      },
+      "artists": [
+        {
+          "name": "Flo",
+          "url": "https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180754,
+      "name": "Pasje",
+      "url": "https://open.spotify.com/track/3g4pObI6su3KsbOAdosPVm"
     },
     {
       "album": {
@@ -5243,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Vertrek 3",
+        "url": "https://open.spotify.com/album/08EgIDBQf24QqbNktr0J7d"
+      },
+      "artists": [
+        {
+          "name": "SKEEKS",
+          "url": "https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149138,
+      "name": "Vertrek 3",
+      "url": "https://open.spotify.com/track/31Q5H6Mue5WfP30A0usBId"
+    },
+    {
+      "album": {
         "name": "Vertrouwen",
         "url": "https://open.spotify.com/album/40nEaz0B6Oj6tpBftNnbjz"
       },
@@ -5254,7 +5416,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136833,
       "name": "Vertrouwen",
       "url": "https://open.spotify.com/track/2DmQS3IIH1w9gwo1MRWCVj"
@@ -5401,6 +5563,32 @@
     },
     {
       "album": {
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        },
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        },
+        {
+          "name": "Lusho",
+          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220273,
+      "name": "walgelijk",
+      "url": "https://open.spotify.com/track/5qv5qNOlYJCXgYj4Fmlt6d"
+    },
+    {
+      "album": {
         "name": "Warming up",
         "url": "https://open.spotify.com/album/7aZsDpLkUujdXXwmCeefIf"
       },
@@ -5434,7 +5622,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169560,
       "name": "Was Het Waard",
       "url": "https://open.spotify.com/track/5o4Dxn2jRnUDv41Dd2iu5Z"
@@ -5624,6 +5812,24 @@
       "duration_ms": 173684,
       "name": "Wijngaard Convo\u2019s",
       "url": "https://open.spotify.com/track/4oCjYPHI1pVHpEyO6oCIsh"
+    },
+    {
+      "album": {
+        "name": "Winterbanden",
+        "url": "https://open.spotify.com/album/1iGu5Gm0mCfwJ1eO6chiza"
+      },
+      "artists": [
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185581,
+      "name": "Winterbanden",
+      "url": "https://open.spotify.com/track/0S1jSwK33ilIaRwmPlWnvV"
     },
     {
       "album": {

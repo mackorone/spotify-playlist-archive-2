@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain](/playlists/plain/37i9dQZF1DX8E3bYEzXAcD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8E3bYEzXAcD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain](/playlists/plain/37i9dQZF1DX8E3bYEzXAcD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8E3bYEzXAcD)
 
 ### [Hoofd Heet](https://open.spotify.com/playlist/37i9dQZF1DX8E3bYEzXAcD)
 
 > Rustig aan, ff ademen jij.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,207 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,316 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

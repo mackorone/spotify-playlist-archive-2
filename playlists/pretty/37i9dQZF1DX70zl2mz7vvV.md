@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain](/playlists/plain/37i9dQZF1DX70zl2mz7vvV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX70zl2mz7vvV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain](/playlists/plain/37i9dQZF1DX70zl2mz7vvV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX70zl2mz7vvV)
 
 ### [Legendary Labels: VP Records](https://open.spotify.com/playlist/37i9dQZF1DX70zl2mz7vvV)
 

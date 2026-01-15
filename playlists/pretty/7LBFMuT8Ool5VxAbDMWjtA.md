@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7LBFMuT8Ool5VxAbDMWjtA.md) - [plain](/playlists/plain/7LBFMuT8Ool5VxAbDMWjtA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7LBFMuT8Ool5VxAbDMWjtA)
+pretty - [cumulative](/playlists/cumulative/7LBFMuT8Ool5VxAbDMWjtA.md) - [plain](/playlists/plain/7LBFMuT8Ool5VxAbDMWjtA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7LBFMuT8Ool5VxAbDMWjtA)
 
 ### [Witch House Nights](https://open.spotify.com/playlist/7LBFMuT8Ool5VxAbDMWjtA)
 
 > Dark trap beats and ethereal synth arpeggios.
 
-[Spotify Official](https://open.spotify.com/user/tj0g0uiiz4rscm97u8kuqyadv) - 5,927 likes - 44 songs - 2 hr 40 min
+[Spotify Official](https://open.spotify.com/user/tj0g0uiiz4rscm97u8kuqyadv) - 5,923 likes - 44 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 139595,
+  "num_followers": 139857,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292875,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
@@ -99,18 +83,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 245296,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+      "duration_ms": 292875,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -131,6 +115,22 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 245296,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -143,22 +143,6 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 198294,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -191,6 +175,22 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 198294,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -355,34 +355,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
       "artists": [
         {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280586,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -399,6 +383,22 @@
       "duration_ms": 260573,
       "name": "Every Little Thing She Does Is Magic",
       "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280586,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 318687,
+      "name": "Man in the Mirror - 2012 Remaster",
+      "url": "https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
         "name": "We Are The World",
         "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
       },
@@ -563,18 +579,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Bad (Remastered)",
-        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+        "name": "Tropico",
+        "url": "https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
         }
       ],
-      "duration_ms": 318687,
-      "name": "Man in the Mirror - 2012 Remaster",
-      "url": "https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt"
+      "duration_ms": 221133,
+      "name": "We Belong",
+      "url": "https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -611,22 +627,6 @@
       "duration_ms": 304506,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
-        "name": "Tropico",
-        "url": "https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "We Belong",
-      "url": "https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Running In The Family",
-        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
-      },
-      "artists": [
-        {
-          "name": "Level 42",
-          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "Lessons In Love",
-      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Gold - The Best of Spandau Ballet",
         "url": "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 231480,
       "name": "Gold",
       "url": "https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Running In The Family",
+        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "Lessons In Love",
+      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -807,26 +807,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Platinum & Gold Collection",
-        "url": "https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc"
-      },
-      "artists": [
-        {
-          "name": "Bill Medley",
-          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
-        },
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Seven and the Ragged Tiger (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0jBIq5EY9zRBZJuCE9iuM1"
       },
@@ -843,18 +823,22 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Best Of The 80's",
-        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
+        "name": "Platinum & Gold Collection",
+        "url": "https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Bill Medley",
+          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
         }
       ],
-      "duration_ms": 228120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
+      "duration_ms": 289066,
+      "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -887,6 +871,22 @@
       "duration_ms": 379266,
       "name": "1999",
       "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Best Of The 80's",
+        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "Slippery People - Live",
-      "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Millennium Edition",
         "url": "https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Drukwerk",
-        "url": "https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL"
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
       "artists": [
         {
-          "name": "Drukwerk",
-          "url": "https://open.spotify.com/artist/5k1FBxAglBtDC8H26LOo4F"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 206360,
-      "name": "Je Loog Tegen Mij",
-      "url": "https://open.spotify.com/track/53348QPO1Bhkd8oFABaGYK"
+      "duration_ms": 240960,
+      "name": "Slippery People - Live",
+      "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1083,18 +1067,34 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Hold The Line: The Ultimate Toto Collection",
-        "url": "https://open.spotify.com/album/2suiqJpTmKoWWY84sOT3XN"
+        "name": "Drukwerk",
+        "url": "https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "Drukwerk",
+          "url": "https://open.spotify.com/artist/5k1FBxAglBtDC8H26LOo4F"
         }
       ],
-      "duration_ms": 296000,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/5tJjo5JDF9zhzYD7yQfATH"
+      "duration_ms": 206360,
+      "name": "Je Loog Tegen Mij",
+      "url": "https://open.spotify.com/track/53348QPO1Bhkd8oFABaGYK"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295520,
+      "name": "With Or Without You - Remastered 2007",
+      "url": "https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+        "name": "Hold The Line: The Ultimate Toto Collection",
+        "url": "https://open.spotify.com/album/2suiqJpTmKoWWY84sOT3XN"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 295520,
-      "name": "With Or Without You - Remastered 2007",
-      "url": "https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS"
+      "duration_ms": 296000,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/5tJjo5JDF9zhzYD7yQfATH"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Annabel En Andere Grote Hits",
-        "url": "https://open.spotify.com/album/5x0sWY505mKv9as3L2Caqf"
-      },
-      "artists": [
-        {
-          "name": "Hans De Booij",
-          "url": "https://open.spotify.com/artist/7cdRThov7spzODFHbygauO"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Annabel",
-      "url": "https://open.spotify.com/track/41Wklq87430ovCkiHchbN2"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Too Rye Ay",
         "url": "https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 273933,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Annabel En Andere Grote Hits",
+        "url": "https://open.spotify.com/album/5x0sWY505mKv9as3L2Caqf"
+      },
+      "artists": [
+        {
+          "name": "Hans De Booij",
+          "url": "https://open.spotify.com/artist/7cdRThov7spzODFHbygauO"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Annabel",
+      "url": "https://open.spotify.com/track/41Wklq87430ovCkiHchbN2"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
+        "name": "Greatest Hits: 40 Trips Around The Sun",
+        "url": "https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 332645,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/65vEK65KeqeH11s3Ym8BWO"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
         "name": "Monsterhits",
         "url": "https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Greatest Hits: 40 Trips Around The Sun",
-        "url": "https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 332645,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/65vEK65KeqeH11s3Ym8BWO"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Whitesnake (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 275693,
       "name": "Here I Go Again - 1987 Version; 2017 Remaster",
       "url": "https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da"
-      },
-      "artists": [
-        {
-          "name": "Time Bandits",
-          "url": "https://open.spotify.com/artist/23DeFeMRFRhnfMfawvqFne"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "I'm Specialized in You",
-      "url": "https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1339,6 +1323,22 @@
       "duration_ms": 241339,
       "name": "I Knew You Were Waiting (For Me)",
       "url": "https://open.spotify.com/track/58lTbZKr7XkkR4zEpoLhYH"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da"
+      },
+      "artists": [
+        {
+          "name": "Time Bandits",
+          "url": "https://open.spotify.com/artist/23DeFeMRFRhnfMfawvqFne"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "I'm Specialized in You",
+      "url": "https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "De Top 10 Van",
-        "url": "https://open.spotify.com/album/02G0YlzB2Tu9mrWE21cl7i"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jacketti & The Scooters",
-          "url": "https://open.spotify.com/artist/0tncX2ikoA4Vzhu2a3Paun"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "I Save The Day",
-      "url": "https://open.spotify.com/track/3Ciofce12krSe0kpBO7UpL"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Behind Those Eyes",
         "url": "https://open.spotify.com/album/3SOELAr03f95mbmVE5ys6w"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 241226,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/5VkAKKliyRHqeEL3N2vlJq"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "De Top 10 Van",
+        "url": "https://open.spotify.com/album/02G0YlzB2Tu9mrWE21cl7i"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jacketti & The Scooters",
+          "url": "https://open.spotify.com/artist/0tncX2ikoA4Vzhu2a3Paun"
+        }
+      ],
+      "duration_ms": 192413,
+      "name": "I Save The Day",
+      "url": "https://open.spotify.com/track/3Ciofce12krSe0kpBO7UpL"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Het Allerbeste Van Toontje Lager (Top 20)",
-        "url": "https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf"
-      },
-      "artists": [
-        {
-          "name": "Toontje Lager",
-          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Stiekem Gedanst",
-      "url": "https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Nits?",
         "url": "https://open.spotify.com/album/6788gpjJOOwR9gJV4v2uTb"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 286626,
       "name": "Nescio",
       "url": "https://open.spotify.com/track/0zvjLrRGZsBXYkb7gWvTzD"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Het Allerbeste Van Toontje Lager (Top 20)",
+        "url": "https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf"
+      },
+      "artists": [
+        {
+          "name": "Toontje Lager",
+          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Stiekem Gedanst",
+      "url": "https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx"
     },
     {
       "added_at": "2024-07-09 16:44:07",

@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 95630,
+  "num_followers": 96076,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,26 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
+        "name": "Egwu",
+        "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 136132,
+      "name": "Egwu",
+      "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
+    },
+    {
+      "added_at": "2025-12-05 02:54:31",
+      "album": {
         "name": "Bhebha (feat. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy)",
         "url": "https://open.spotify.com/album/1KLpiUVZQVXglbMCLI10n7"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 343146,
       "name": "Bhebha (feat. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy)",
       "url": "https://open.spotify.com/track/1SB1UdyYs3DMyzHVxZg0QE"
-    },
-    {
-      "added_at": "2025-12-05 02:54:31",
-      "album": {
-        "name": "Egwu",
-        "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 136132,
-      "name": "Egwu",
-      "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
     },
     {
       "added_at": "2025-12-05 02:54:31",
@@ -647,26 +647,6 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
-        "name": "Turn Off The Lights",
-        "url": "https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR"
-      },
-      "artists": [
-        {
-          "name": "TxC",
-          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
-        },
-        {
-          "name": "Tony Duardo",
-          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
-        }
-      ],
-      "duration_ms": 504703,
-      "name": "Turn Off The Lights",
-      "url": "https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc"
-    },
-    {
-      "added_at": "2025-12-05 02:54:31",
-      "album": {
         "name": "Uyavala",
         "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 348357,
       "name": "Uyavala",
       "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
+    },
+    {
+      "added_at": "2025-12-05 02:54:31",
+      "album": {
+        "name": "Turn Off The Lights",
+        "url": "https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        }
+      ],
+      "duration_ms": 504703,
+      "name": "Turn Off The Lights",
+      "url": "https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc"
     },
     {
       "added_at": "2025-12-05 02:54:31",
@@ -727,26 +727,6 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
-        "name": "Down The Drain",
-        "url": "https://open.spotify.com/album/4RrEXzYVPDRdYUufiCw2W2"
-      },
-      "artists": [
-        {
-          "name": "Njelic",
-          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
-        },
-        {
-          "name": "Thabza Tee",
-          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
-        }
-      ],
-      "duration_ms": 368610,
-      "name": "Down The Drain",
-      "url": "https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7"
-    },
-    {
-      "added_at": "2025-12-05 02:54:31",
-      "album": {
         "name": "Umona",
         "url": "https://open.spotify.com/album/2h86FnfcyRYsYWFkoUDq8q"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 368588,
       "name": "Umona",
       "url": "https://open.spotify.com/track/26YYPFHWxEnft8x64CsTxW"
+    },
+    {
+      "added_at": "2025-12-05 02:54:31",
+      "album": {
+        "name": "Down The Drain",
+        "url": "https://open.spotify.com/album/4RrEXzYVPDRdYUufiCw2W2"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Thabza Tee",
+          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
+        }
+      ],
+      "duration_ms": 368610,
+      "name": "Down The Drain",
+      "url": "https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7"
     },
     {
       "added_at": "2025-12-05 02:54:31",
@@ -1111,26 +1111,22 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
-        "name": "Pure Bliss",
-        "url": "https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn"
+        "name": "Woza La",
+        "url": "https://open.spotify.com/album/0uszDQSCIPfgXo8nEAPnaA"
       },
       "artists": [
         {
-          "name": "Luzyo Keys",
-          "url": "https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk"
+          "name": "King P",
+          "url": "https://open.spotify.com/artist/47afOpYr8n2njpPNQKuQfc"
         },
         {
-          "name": "2woBunnies",
-          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
-        },
-        {
-          "name": "DBN Gogo",
-          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+          "name": "Tumilemang",
+          "url": "https://open.spotify.com/artist/0zdAH79ZRnudDRbmuSJFHl"
         }
       ],
-      "duration_ms": 450425,
-      "name": "Pure Bliss",
-      "url": "https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe"
+      "duration_ms": 416532,
+      "name": "Woza La",
+      "url": "https://open.spotify.com/track/6XK0BdLYoXJyfb1JfuN4BQ"
     },
     {
       "added_at": "2025-12-05 02:54:31",
@@ -1151,22 +1147,26 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
-        "name": "Woza La",
-        "url": "https://open.spotify.com/album/0uszDQSCIPfgXo8nEAPnaA"
+        "name": "Pure Bliss",
+        "url": "https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn"
       },
       "artists": [
         {
-          "name": "King P",
-          "url": "https://open.spotify.com/artist/47afOpYr8n2njpPNQKuQfc"
+          "name": "Luzyo Keys",
+          "url": "https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk"
         },
         {
-          "name": "Tumilemang",
-          "url": "https://open.spotify.com/artist/0zdAH79ZRnudDRbmuSJFHl"
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
         }
       ],
-      "duration_ms": 416532,
-      "name": "Woza La",
-      "url": "https://open.spotify.com/track/6XK0BdLYoXJyfb1JfuN4BQ"
+      "duration_ms": 450425,
+      "name": "Pure Bliss",
+      "url": "https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe"
     },
     {
       "added_at": "2025-12-05 02:54:31",
@@ -1219,30 +1219,6 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
-        "name": "NDEYA NDEYA",
-        "url": "https://open.spotify.com/album/2PYbwckWnjwkGJNjRQaj8M"
-      },
-      "artists": [
-        {
-          "name": "Ishuu Industry",
-          "url": "https://open.spotify.com/artist/3Hr5ykjtyukkx2xrvTa4sU"
-        },
-        {
-          "name": "Ntate Stunna",
-          "url": "https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL"
-        },
-        {
-          "name": "2owfresh",
-          "url": "https://open.spotify.com/artist/0K77l2jjeKxBgG8FPG4boH"
-        }
-      ],
-      "duration_ms": 407925,
-      "name": "NDEYA NDEYA",
-      "url": "https://open.spotify.com/track/2Q5e57805Ey1A4fkZGGQBO"
-    },
-    {
-      "added_at": "2025-12-05 02:54:31",
-      "album": {
         "name": "The EEQualizer",
         "url": "https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 361116,
       "name": "Rekisa Kapela (feat. Certified Dyan)",
       "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"
+    },
+    {
+      "added_at": "2025-12-05 02:54:31",
+      "album": {
+        "name": "NDEYA NDEYA",
+        "url": "https://open.spotify.com/album/2PYbwckWnjwkGJNjRQaj8M"
+      },
+      "artists": [
+        {
+          "name": "Ishuu Industry",
+          "url": "https://open.spotify.com/artist/3Hr5ykjtyukkx2xrvTa4sU"
+        },
+        {
+          "name": "Ntate Stunna",
+          "url": "https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL"
+        },
+        {
+          "name": "2owfresh",
+          "url": "https://open.spotify.com/artist/0K77l2jjeKxBgG8FPG4boH"
+        }
+      ],
+      "duration_ms": 407925,
+      "name": "NDEYA NDEYA",
+      "url": "https://open.spotify.com/track/2Q5e57805Ey1A4fkZGGQBO"
     },
     {
       "added_at": "2025-12-05 02:54:31",

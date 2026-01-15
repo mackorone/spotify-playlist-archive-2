@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5lf3ULcD47BmEgIjAgSW2X.md) - [plain](/playlists/plain/5lf3ULcD47BmEgIjAgSW2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5lf3ULcD47BmEgIjAgSW2X)
+pretty - [cumulative](/playlists/cumulative/5lf3ULcD47BmEgIjAgSW2X.md) - [plain](/playlists/plain/5lf3ULcD47BmEgIjAgSW2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5lf3ULcD47BmEgIjAgSW2X)
 
 ### [Jazz For Study](https://open.spotify.com/playlist/5lf3ULcD47BmEgIjAgSW2X)
 
 > Features jazz instrumental music designed to help you focus.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 5,861 likes - 103 songs - 8 hr 32 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 5,859 likes - 103 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX49H7UBWpZWR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX49H7UBWpZWR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX49H7UBWpZWR)
+[pretty](/playlists/pretty/37i9dQZF1DX49H7UBWpZWR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX49H7UBWpZWR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX49H7UBWpZWR)
 
 ### [With Love, An Artist](https://open.spotify.com/playlist/37i9dQZF1DX49H7UBWpZWR)
 

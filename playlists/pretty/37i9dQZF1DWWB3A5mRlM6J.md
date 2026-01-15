@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3A5mRlM6J.md) - [plain](/playlists/plain/37i9dQZF1DWWB3A5mRlM6J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWB3A5mRlM6J)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3A5mRlM6J.md) - [plain](/playlists/plain/37i9dQZF1DWWB3A5mRlM6J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWB3A5mRlM6J)
 
 ### [Dynamicduo Concert \[가끔씩 오래 보자\]](https://open.spotify.com/playlist/37i9dQZF1DWWB3A5mRlM6J)
 
 > Enjoy the Dynamic Duo Seoul concert LIVE SET including the voices of them on stage! \(다이나믹 듀오의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000 likes - 42 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXkVfVmXHa7l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXkVfVmXHa7l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXkVfVmXHa7l)
+[pretty](/playlists/pretty/37i9dQZF1DWXkVfVmXHa7l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXkVfVmXHa7l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXkVfVmXHa7l)
 
 ### [Attack on Titan](https://open.spotify.com/playlist/37i9dQZF1DWXkVfVmXHa7l)
 

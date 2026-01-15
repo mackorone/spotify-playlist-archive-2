@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZabZ8cxclR.md) - [plain](/playlists/plain/37i9dQZF1DX5ZabZ8cxclR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ZabZ8cxclR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZabZ8cxclR.md) - [plain](/playlists/plain/37i9dQZF1DX5ZabZ8cxclR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5ZabZ8cxclR)
 
 ### [Broker \(브로커\)](https://open.spotify.com/playlist/37i9dQZF1DX5ZabZ8cxclR)
 

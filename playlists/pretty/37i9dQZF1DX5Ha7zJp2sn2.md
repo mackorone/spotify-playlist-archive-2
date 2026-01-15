@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain](/playlists/plain/37i9dQZF1DX5Ha7zJp2sn2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Ha7zJp2sn2)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain](/playlists/plain/37i9dQZF1DX5Ha7zJp2sn2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5Ha7zJp2sn2)
 
 ### [Folk Itinerante](https://open.spotify.com/playlist/37i9dQZF1DX5Ha7zJp2sn2)
 
 > El sonido de la nueva canción latinoamericana\. Foto: Mónica Giraldo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,736 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,761 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

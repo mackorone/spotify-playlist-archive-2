@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain](/playlists/plain/37i9dQZF1DWVy2Fygel8HO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVy2Fygel8HO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain](/playlists/plain/37i9dQZF1DWVy2Fygel8HO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVy2Fygel8HO)
 
 ### [Quiet Time](https://open.spotify.com/playlist/37i9dQZF1DWVy2Fygel8HO)
 
 > Soft, soothing piano for you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,035 likes - 81 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,405 likes - 81 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

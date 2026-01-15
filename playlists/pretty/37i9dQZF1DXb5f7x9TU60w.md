@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain](/playlists/plain/37i9dQZF1DXb5f7x9TU60w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb5f7x9TU60w)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain](/playlists/plain/37i9dQZF1DXb5f7x9TU60w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb5f7x9TU60w)
 
 ### [Disney Guitar](https://open.spotify.com/playlist/37i9dQZF1DXb5f7x9TU60w)
 
 > Sit back and relax by listening to guitar renditions of your favorite Disney songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,199 likes - 132 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,212 likes - 132 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

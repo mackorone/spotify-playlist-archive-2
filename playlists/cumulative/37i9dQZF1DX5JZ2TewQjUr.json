@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Teddy Fan & \u7c73\u723a ",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: GDJYB \u96de\u86cb\u84b8\u8089\u9905\n",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -3364,6 +3364,28 @@
       "duration_ms": 175450,
       "name": "Count to Three",
       "url": "https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2"
+    },
+    {
+      "album": {
+        "name": "Coven (Loisey Remix)",
+        "url": "https://open.spotify.com/album/5pyi6qTzNjXPMO7XJZ02jH"
+      },
+      "artists": [
+        {
+          "name": "The Crush",
+          "url": "https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb"
+        },
+        {
+          "name": "Loisey",
+          "url": "https://open.spotify.com/artist/4mkRfl4lbz4A0O9jNlPnqN"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140838,
+      "name": "Coven - Loisey Remix",
+      "url": "https://open.spotify.com/track/0WrCAhp6lKWCmMv65Un8Ef"
     },
     {
       "album": {
@@ -10117,6 +10139,28 @@
     },
     {
       "album": {
+        "name": "OP4",
+        "url": "https://open.spotify.com/album/0FxvI7akrT8BOYdjmjk5cK"
+      },
+      "artists": [
+        {
+          "name": "Yung Raise",
+          "url": "https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k"
+        },
+        {
+          "name": "Drogas",
+          "url": "https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200597,
+      "name": "LOSE MY COOL",
+      "url": "https://open.spotify.com/track/3BDP7o34ilWsSIiwRoRy5g"
+    },
+    {
+      "album": {
         "name": "Losing Game",
         "url": "https://open.spotify.com/album/45GELGJ5FlEcA80P31GYVk"
       },
@@ -15307,6 +15351,28 @@
     },
     {
       "album": {
+        "name": "silly girl",
+        "url": "https://open.spotify.com/album/0kKneEl5Li53Nri2QLgOMk"
+      },
+      "artists": [
+        {
+          "name": "Takeem",
+          "url": "https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1"
+        },
+        {
+          "name": "Kelvin T",
+          "url": "https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "silly girl",
+      "url": "https://open.spotify.com/track/4PuIFuzpXrhONqIqdpo13K"
+    },
+    {
+      "album": {
         "name": "Silver Moon",
         "url": "https://open.spotify.com/album/08ZaD67fJjapODvopQrDxX"
       },
@@ -20397,6 +20463,24 @@
     },
     {
       "album": {
+        "name": "\u9245\u4e16\u7121\u907a",
+        "url": "https://open.spotify.com/album/58onE2X5lpIypHYGrnF15l"
+      },
+      "artists": [
+        {
+          "name": "PetPetShawn",
+          "url": "https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164067,
+      "name": "\u4e09\u5f35",
+      "url": "https://open.spotify.com/track/1WLnyDNgahmGxWLwHIif3p"
+    },
+    {
+      "album": {
         "name": "\u4e0a\u8f09\u4e2d",
         "url": "https://open.spotify.com/album/6ancWREeaAWceAyHlGIsDs"
       },
@@ -20804,6 +20888,24 @@
       "duration_ms": 169112,
       "name": "\u4e2d\u4e8c\u5b85\u6025\u4fbf",
       "url": "https://open.spotify.com/track/1gLKCI5Wks0K60xUNkHEtw"
+    },
+    {
+      "album": {
+        "name": "\u4e5c\u90fd\u6703\u8a66",
+        "url": "https://open.spotify.com/album/6ErlhktcY1XlQxSJpBc5Dh"
+      },
+      "artists": [
+        {
+          "name": "Takeem",
+          "url": "https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109655,
+      "name": "\u4e5c\u90fd\u6703\u8a66",
+      "url": "https://open.spotify.com/track/5LEg6V8yyGfjEjnlHUwTez"
     },
     {
       "album": {
@@ -24999,6 +25101,24 @@
     },
     {
       "album": {
+        "name": "\u63a9\u4e0a\u4e86\u7a7a\u767d",
+        "url": "https://open.spotify.com/album/1zNjjSWIidj419SXCdUrGr"
+      },
+      "artists": [
+        {
+          "name": "C14 Music Ministry",
+          "url": "https://open.spotify.com/artist/6aFnCdOOtWN7Xiq4A6DMw5"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194919,
+      "name": "\u63a9\u4e0a\u4e86\u7a7a\u767d",
+      "url": "https://open.spotify.com/track/14EZMdxVt3bAHNQ0VTABgO"
+    },
+    {
+      "album": {
         "name": "\u63db\u6211",
         "url": "https://open.spotify.com/album/0XLXFnADRmgz6ZiyAX6ou1"
       },
@@ -25170,6 +25290,24 @@
       "duration_ms": 227386,
       "name": "\u65b0\u3057\u3044\u5922",
       "url": "https://open.spotify.com/track/6EiynkTuHZlV4pZNDa0gVs"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u4eba\u4e00\u6a23",
+        "url": "https://open.spotify.com/album/0mogeA6CTAVlvOHbtY4T0n"
+      },
+      "artists": [
+        {
+          "name": "CONSTANCE",
+          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130267,
+      "name": "\u65b0\u4eba\u4e00\u6a23",
+      "url": "https://open.spotify.com/track/6db0M7RIAFNt5zGwducPRD"
     },
     {
       "album": {
@@ -28558,6 +28696,24 @@
       "duration_ms": 203418,
       "name": "\u82b1\u958b\u6709\u6bd2",
       "url": "https://open.spotify.com/track/0bZU5NSgkGKnQyHrC86WJa"
+    },
+    {
+      "album": {
+        "name": "<=P:r0J3CT 2222/>",
+        "url": "https://open.spotify.com/album/1gycyhTqFh9fVwH91yo4qM"
+      },
+      "artists": [
+        {
+          "name": "GDJYB \u96de\u86cb\u84b8\u8089\u9905",
+          "url": "https://open.spotify.com/artist/06LP6816j1i658mANtPNVc"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250624,
+      "name": "\u8349\u897f",
+      "url": "https://open.spotify.com/track/3jFv65hSmXNh8XUuFbcDJ0"
     },
     {
       "album": {

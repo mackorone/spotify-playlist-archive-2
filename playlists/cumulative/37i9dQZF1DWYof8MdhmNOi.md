@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYof8MdhmNOi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYof8MdhmNOi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYof8MdhmNOi)
+[pretty](/playlists/pretty/37i9dQZF1DWYof8MdhmNOi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYof8MdhmNOi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYof8MdhmNOi)
 
 ### [I Love My HBCU \(Bowie State University\)](https://open.spotify.com/playlist/37i9dQZF1DWYof8MdhmNOi)
 

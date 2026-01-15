@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTsdpx69Vjw.md) - [plain](/playlists/plain/37i9dQZF1DWXTsdpx69Vjw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXTsdpx69Vjw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTsdpx69Vjw.md) - [plain](/playlists/plain/37i9dQZF1DWXTsdpx69Vjw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXTsdpx69Vjw)
 
 ### [The Pentaverate Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWXTsdpx69Vjw)
 
 > The official playlist for The Pentaverate\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513 likes - 18 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 512 likes - 18 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

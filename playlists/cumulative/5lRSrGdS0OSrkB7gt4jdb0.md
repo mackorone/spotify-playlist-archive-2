@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5lRSrGdS0OSrkB7gt4jdb0.md) - cumulative - [plain](/playlists/plain/5lRSrGdS0OSrkB7gt4jdb0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5lRSrGdS0OSrkB7gt4jdb0)
+[pretty](/playlists/pretty/5lRSrGdS0OSrkB7gt4jdb0.md) - cumulative - [plain](/playlists/plain/5lRSrGdS0OSrkB7gt4jdb0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5lRSrGdS0OSrkB7gt4jdb0)
 
 ### [Finna Stab a Bitch](https://open.spotify.com/playlist/5lRSrGdS0OSrkB7gt4jdb0)
 

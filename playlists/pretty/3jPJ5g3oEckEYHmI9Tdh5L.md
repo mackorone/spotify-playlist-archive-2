@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3jPJ5g3oEckEYHmI9Tdh5L.md) - [plain](/playlists/plain/3jPJ5g3oEckEYHmI9Tdh5L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3jPJ5g3oEckEYHmI9Tdh5L)
+pretty - [cumulative](/playlists/cumulative/3jPJ5g3oEckEYHmI9Tdh5L.md) - [plain](/playlists/plain/3jPJ5g3oEckEYHmI9Tdh5L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3jPJ5g3oEckEYHmI9Tdh5L)
 
 ### [My body is the earth, my mind the sky](https://open.spotify.com/playlist/3jPJ5g3oEckEYHmI9Tdh5L)
 

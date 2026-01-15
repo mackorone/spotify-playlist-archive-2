@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain](/playlists/plain/0fmLn46c92nP4dePQSZlsz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0fmLn46c92nP4dePQSZlsz)
+pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain](/playlists/plain/0fmLn46c92nP4dePQSZlsz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0fmLn46c92nP4dePQSZlsz)
 
 ### [Secretly Indie](https://open.spotify.com/playlist/0fmLn46c92nP4dePQSZlsz)
 
 > Secretly's collection of the best new music from independent artists and labels everywhere\. Updates bi\-weekly\. Cover star: <a href="https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw?si=8crPuqYdRJWHd6szEoIQuQ">Japanese Breakfast</a>
 
-[Secretly Society](https://open.spotify.com/user/secretlygroup) - 17,335 likes - 65 songs - 4 hr 5 min
+[Secretly Society](https://open.spotify.com/user/secretlygroup) - 17,328 likes - 65 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

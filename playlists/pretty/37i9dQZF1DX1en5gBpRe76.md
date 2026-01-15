@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1en5gBpRe76.md) - [plain](/playlists/plain/37i9dQZF1DX1en5gBpRe76) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1en5gBpRe76)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1en5gBpRe76.md) - [plain](/playlists/plain/37i9dQZF1DX1en5gBpRe76) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1en5gBpRe76)
 
 ### [Motown Family](https://open.spotify.com/playlist/37i9dQZF1DX1en5gBpRe76)
 

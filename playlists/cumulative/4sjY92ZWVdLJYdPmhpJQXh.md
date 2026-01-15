@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4sjY92ZWVdLJYdPmhpJQXh.md) - cumulative - [plain](/playlists/plain/4sjY92ZWVdLJYdPmhpJQXh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4sjY92ZWVdLJYdPmhpJQXh)
+[pretty](/playlists/pretty/4sjY92ZWVdLJYdPmhpJQXh.md) - cumulative - [plain](/playlists/plain/4sjY92ZWVdLJYdPmhpJQXh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4sjY92ZWVdLJYdPmhpJQXh)
 
 ### [Atlantic Records: Presents](https://open.spotify.com/playlist/4sjY92ZWVdLJYdPmhpJQXh)
 

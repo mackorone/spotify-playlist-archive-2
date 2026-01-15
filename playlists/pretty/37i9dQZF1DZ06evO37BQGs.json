@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAABB3eYK3eICARVigsNVORLD",
+  "snapshot_id": "aWbcgAAAAAD03yRwnbDfMv+jYjSZtOGg",
   "tracks": [
     {
       "added_at": null,
@@ -92,7 +92,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 196186,
-      "name": "It Suits You",
-      "url": "https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2"
+      "duration_ms": 239000,
+      "name": "Glorious Sunset",
+      "url": "https://open.spotify.com/track/5nH0UPZ7FJcGvueuiJ7lyr"
     },
     {
       "added_at": null,
@@ -164,70 +164,6 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Glorious Sunset",
-      "url": "https://open.spotify.com/track/5nH0UPZ7FJcGvueuiJ7lyr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shatterproof Is Not A Challenge",
-        "url": "https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kill Your Own",
-        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "Feed The Fire",
-      "url": "https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ideas Above Our Station",
-        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 275173,
-      "name": "Falter",
-      "url": "https://open.spotify.com/track/00vvVPPl3DHNtez3liGp8Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
       "duration_ms": 215960,
       "name": "Replicate",
       "url": "https://open.spotify.com/track/3VvWADtitcT75nZvKtfS7Q"
@@ -276,15 +212,15 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/4BLboQozqbi0wfghh4fV1a"
+      "duration_ms": 275173,
+      "name": "Falter",
+      "url": "https://open.spotify.com/track/00vvVPPl3DHNtez3liGp8Q"
     },
     {
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
+        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
       },
       "artists": [
         {
@@ -292,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 257838,
-      "name": "Wave Form",
-      "url": "https://open.spotify.com/track/5FjFC56lrbiHcO3aE3nG5T"
+      "duration_ms": 196186,
+      "name": "It Suits You",
+      "url": "https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2"
     },
     {
       "added_at": null,
@@ -308,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 228373,
-      "name": "Still Be Here",
-      "url": "https://open.spotify.com/track/3Yee35jWZXXB3c2osYsrGI"
+      "duration_ms": 219160,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
     },
     {
       "added_at": null,
@@ -324,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 212333,
-      "name": "The Chance",
-      "url": "https://open.spotify.com/track/3YuzzHz8Ogx62Czbqr2GZg"
+      "duration_ms": 229266,
+      "name": "Feed The Fire",
+      "url": "https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE"
     },
     {
       "added_at": null,
@@ -340,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Dissolve",
-      "url": "https://open.spotify.com/track/5iQ0DPeLDn8Dn9HF52kWsE"
+      "duration_ms": 193666,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/4BLboQozqbi0wfghh4fV1a"
     },
     {
       "added_at": null,
@@ -372,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Savanna",
-      "url": "https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k"
+      "duration_ms": 228373,
+      "name": "Still Be Here",
+      "url": "https://open.spotify.com/track/3Yee35jWZXXB3c2osYsrGI"
     },
     {
       "added_at": null,
@@ -395,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quick The Word Sharp The Action",
-        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
+        "name": "Ideas Above Our Station",
+        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
       },
       "artists": [
         {
@@ -404,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 256106,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s"
+      "duration_ms": 228613,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/5iQ0DPeLDn8Dn9HF52kWsE"
     },
     {
       "added_at": null,
@@ -423,6 +359,70 @@
       "duration_ms": 229573,
       "name": "New Glasses",
       "url": "https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shatterproof Is Not A Challenge",
+        "url": "https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 119226,
+      "name": "The Great Test",
+      "url": "https://open.spotify.com/track/29AGJhFoJ0y31oZ49r7J6D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quick The Word Sharp The Action",
+        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "Sick Little Masquerade",
+      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill Your Own",
+        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "The Chance",
+      "url": "https://open.spotify.com/track/3YuzzHz8Ogx62Czbqr2GZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glorious Sunset",
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 257838,
+      "name": "Wave Form",
+      "url": "https://open.spotify.com/track/5FjFC56lrbiHcO3aE3nG5T"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 222493,
-      "name": "Sick Little Masquerade",
-      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
+      "duration_ms": 256106,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s"
     },
     {
       "added_at": null,

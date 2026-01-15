@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXc7RvXTzD4rW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc7RvXTzD4rW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc7RvXTzD4rW)
+[pretty](/playlists/pretty/37i9dQZF1DXc7RvXTzD4rW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc7RvXTzD4rW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc7RvXTzD4rW)
 
 ### [声優、歌う Sing Like Talking](https://open.spotify.com/playlist/37i9dQZF1DXc7RvXTzD4rW)
 

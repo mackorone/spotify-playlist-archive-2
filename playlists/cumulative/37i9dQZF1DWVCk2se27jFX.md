@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVCk2se27jFX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVCk2se27jFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVCk2se27jFX)
+[pretty](/playlists/pretty/37i9dQZF1DWVCk2se27jFX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVCk2se27jFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVCk2se27jFX)
 
 ### [Indie Colombia](https://open.spotify.com/playlist/37i9dQZF1DWVCk2se27jFX)
 

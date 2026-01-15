@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4PP3DA4J0N8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4PP3DA4J0N8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4PP3DA4J0N8)
+[pretty](/playlists/pretty/37i9dQZF1DX4PP3DA4J0N8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4PP3DA4J0N8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4PP3DA4J0N8)
 
 ### [Nature Sounds](https://open.spotify.com/playlist/37i9dQZF1DX4PP3DA4J0N8)
 
 > Sounds of birds, rain, and forest ambience.
 
-211 songs - 10 hr 7 min
+212 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Walk in the Country](https://open.spotify.com/track/4XgSBvtZjKvFIAE3r4B49p) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Forest Sounds of Relaxation](https://open.spotify.com/album/1l30XEyglzmyIh2ex9n6C3) | 3:19 | 2022-03-25 | 2022-04-29 |
 | [Agua De Playa](https://open.spotify.com/track/5h1MJISxaTvTRYP1sMNl6C) | [Olas Glaciares](https://open.spotify.com/artist/0J9Whb1aS7peILZ3faOiMj) | [Agua De Playa](https://open.spotify.com/album/4cw4d0MjRb0WYcsuKcKSIj) | 1:15 | 2022-03-25 | 2022-07-05 |
 | [Amazon Rain](https://open.spotify.com/track/416OmlQ43aOViS4Hum4KRd) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Under the Acacia Tree](https://open.spotify.com/album/2Ga4V14nlEEAkv7rzQbnqM) | 3:28 | 2022-07-04 | 2023-09-21 |
-| [Ambience of Tayrona National Park](https://open.spotify.com/track/11oTjrpsMVRG26SBmu2CeM) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Ambience of Tayrona National Park](https://open.spotify.com/album/68zndYRfCtweSEgZbg5JSf) | 4:00 | 2024-12-03 | 2026-01-03 |
+| [Ambience of Tayrona National Park](https://open.spotify.com/track/11oTjrpsMVRG26SBmu2CeM) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Ambience of Tayrona National Park](https://open.spotify.com/album/68zndYRfCtweSEgZbg5JSf) | 4:00 | 2024-12-03 |  |
 | [Ambient Woods](https://open.spotify.com/track/3UaXmGGrnybMEdNe5rh941) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Forest Sounds For Relaxation](https://open.spotify.com/album/03M9bEN52lhF5BHCbrml7D) | 2:08 | 2022-03-25 | 2024-03-27 |
 | [Amour D'oiseau](https://open.spotify.com/track/5HUvWmP7XJ6vpzdmMBBZle) | [La Nature](https://open.spotify.com/artist/7AS6fHy7sK2j8EKoL5ygXT) | [Amour D'oiseau](https://open.spotify.com/album/5yDIfRt5KSttJ3tdvPCqDW) | 2:22 | 2022-04-29 |  |
 | [Andorran Forest River](https://open.spotify.com/track/6RybNJHwhOCOWUfih3xIek) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Streaming Waters](https://open.spotify.com/album/2S1r91o8tF7X2mxaT8DV4A) | 3:21 | 2025-09-23 |  |
@@ -67,8 +67,9 @@
 | [Cool Air & Rain](https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH) | [Bien Dorm](https://open.spotify.com/artist/0g6EfUCgC19RgPQHGYlbhH) | [Drizzle Down](https://open.spotify.com/album/4IyIBXlsDileK31SIIQCnc) | 2:11 | 2022-03-25 |  |
 | [Creek Rain With Brids And Thunder \- Seamless](https://open.spotify.com/track/5cbC6ObMsFLXW9co3vlUMk) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:06 | 2024-08-15 |  |
 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 | 2023-09-20 |  |
+| [Dawn Birds near the River](https://open.spotify.com/track/1z60VwPt22jll8r46NAphF) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Dawn Birds near the River](https://open.spotify.com/album/3Houzr9zjYd97R8GyT6Eiq) | 4:09 | 2025-11-11 |  |
 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 | 2022-03-25 | 2022-04-29 |
-| [dense leaf canopy](https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 3:03 | 2025-07-24 |  |
+| [dense leaf canopy](https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 3:03 | 2025-07-24 | 2026-01-15 |
 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 | 2022-03-25 | 2024-03-27 |
 | [Down Stream](https://open.spotify.com/track/7x50aLAvwia2rd5YX5Jz2a) | [Drifting Streams](https://open.spotify.com/artist/7GdXNgwObAO7mvdQcDT0Yo) | [Down Stream](https://open.spotify.com/album/51pQpU9fLo5xTjSBQ4NwtP) | 5:14 | 2022-03-25 |  |
 | [Drifting Through Birdsong](https://open.spotify.com/track/6VvQIvgcal9w3tOgd76blm) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Drifting Through Birdsong](https://open.spotify.com/album/6P490oFAW66ie6kcwq7PDH) | 2:50 | 2025-09-23 |  |
@@ -110,7 +111,7 @@
 | [Morning Bird Symphony](https://open.spotify.com/track/2DG4GclEMtxZEFbXixAGxq) | [Himalaya Nature](https://open.spotify.com/artist/7IlmN5ipzDWqSbLNsjDMU8) | [Himalaya Bird Sounds](https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x) | 4:36 | 2022-03-25 |  |
 | [Morning Calm Water Stream](https://open.spotify.com/track/31wvp2QgO981pppVCALAdu) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Morning Calm Water Stream](https://open.spotify.com/album/0zZf1uBvtd8UoQSRoy60wO) | 4:32 | 2025-11-11 |  |
 | [Morning in Scotland](https://open.spotify.com/track/3wNGiwpHA6AMTSlLN71IjW) | [Hermelo](https://open.spotify.com/artist/0sJWDshSokRwvOqYo7W3iV) | [Morning in Scotland](https://open.spotify.com/album/176L5jSWsdkfgou23TPydl) | 1:53 | 2023-09-20 |  |
-| [Morning Rain](https://open.spotify.com/track/4rOmpvrIMLau6Hig9GSmp1) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:10 | 2022-03-25 |  |
+| [Morning Rain](https://open.spotify.com/track/4rOmpvrIMLau6Hig9GSmp1) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:10 | 2022-03-25 | 2026-01-15 |
 | [Multiple birds at dawn](https://open.spotify.com/track/031M3L3hN4j19SKjYuRo1i) | [Watertowers](https://open.spotify.com/artist/7DcNhZNSWzYyhuDm2SyQnt) | [Multiple birds at dawn](https://open.spotify.com/album/6xdKRRuxNPQGGNv74XTD2p) | 4:03 | 2025-11-11 | 2025-12-13 |
 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 | 2022-03-25 |  |
 | [Nature Sounds](https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:08 | 2022-03-25 |  |

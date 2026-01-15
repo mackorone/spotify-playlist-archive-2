@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4pUKG1kS0Ac.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4pUKG1kS0Ac) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4pUKG1kS0Ac)
+[pretty](/playlists/pretty/37i9dQZF1DX4pUKG1kS0Ac.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4pUKG1kS0Ac) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4pUKG1kS0Ac)
 
 ### [Guilty Pleasures](https://open.spotify.com/playlist/37i9dQZF1DX4pUKG1kS0Ac)
 

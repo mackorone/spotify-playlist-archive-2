@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctZGldNPWLR.md) - [plain](/playlists/plain/37i9dQZF1DXctZGldNPWLR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXctZGldNPWLR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctZGldNPWLR.md) - [plain](/playlists/plain/37i9dQZF1DXctZGldNPWLR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXctZGldNPWLR)
 
 ### [Lo Que Suena](https://open.spotify.com/playlist/37i9dQZF1DXctZGldNPWLR)
 

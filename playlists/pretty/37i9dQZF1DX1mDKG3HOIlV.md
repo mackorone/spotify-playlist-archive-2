@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mDKG3HOIlV.md) - [plain](/playlists/plain/37i9dQZF1DX1mDKG3HOIlV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1mDKG3HOIlV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mDKG3HOIlV.md) - [plain](/playlists/plain/37i9dQZF1DX1mDKG3HOIlV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1mDKG3HOIlV)
 
 ### [Le Hit Del 2005](https://open.spotify.com/playlist/37i9dQZF1DX1mDKG3HOIlV)
 

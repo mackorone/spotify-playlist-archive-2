@@ -1,12 +1,12 @@
 {
   "description": "Lush Life finally having it's time in the Midnight Sun!",
-  "num_followers": 218251,
+  "num_followers": 220602,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHGsZGiZ1px9xhaexsKC7neGGWFG",
+  "snapshot_id": "AAAAAKHSBxJvSx6dyoYmvAAV59inz0xW",
   "tracks": [
     {
       "added_at": "2025-12-27 16:24:52",
@@ -25,6 +25,54 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
+      "added_at": "2026-01-09 05:00:44",
+      "album": {
+        "name": "Love4Life",
+        "url": "https://open.spotify.com/album/2kFAnmsfslBSfxxOfWo1Ju"
+      },
+      "artists": [
+        {
+          "name": "Willa Ford",
+          "url": "https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u"
+        }
+      ],
+      "duration_ms": 208149,
+      "name": "Love4Life",
+      "url": "https://open.spotify.com/track/26guYLFX9jh5vNpHuhfiIp"
+    },
+    {
+      "added_at": "2026-01-09 05:00:44",
+      "album": {
+        "name": "Dance The Pain Away",
+        "url": "https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Dance The Pain Away",
+      "url": "https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD"
+    },
+    {
+      "added_at": "2025-12-27 16:24:52",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
       "added_at": "2025-12-05 05:00:22",
       "album": {
         "name": "THAT'S SHOWBIZ BABY! THE ENCORE",
@@ -41,36 +89,88 @@
       "url": "https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn"
     },
     {
-      "added_at": "2025-12-12 05:00:46",
+      "added_at": "2026-01-09 05:00:44",
       "album": {
-        "name": "Lucky You're A Star",
-        "url": "https://open.spotify.com/album/68k75gFpf9NRtXcQ5AJYzH"
+        "name": "Sexistential / Talk To Me",
+        "url": "https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk"
       },
       "artists": [
         {
-          "name": "Valencia Grace",
-          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 212075,
-      "name": "Lucky You're A Star",
-      "url": "https://open.spotify.com/track/5FZW41OweIMbQNMuYxyKAa"
+      "duration_ms": 199561,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
     },
     {
-      "added_at": "2025-12-12 05:00:46",
+      "added_at": "2026-01-09 05:00:44",
       "album": {
-        "name": "When He Treats You Wrong",
-        "url": "https://open.spotify.com/album/6owNr7PFpaWrk8run4legP"
+        "name": "cul-de-sac",
+        "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
       },
       "artists": [
         {
-          "name": "West Gura",
-          "url": "https://open.spotify.com/artist/2TOCJEnGdD4AkavOoxmZ2W"
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
         }
       ],
-      "duration_ms": 184313,
-      "name": "When He Treats You Wrong",
-      "url": "https://open.spotify.com/track/2EL4T4hNBeBoMmgi3nB1ak"
+      "duration_ms": 196700,
+      "name": "cul-de-sac",
+      "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Stateside + Zara Larsson",
+        "url": "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
+    },
+    {
+      "added_at": "2026-01-06 20:39:33",
+      "album": {
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 184678,
+      "name": "WAKE UP",
+      "url": "https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj"
+    },
+    {
+      "added_at": "2026-01-09 05:00:44",
+      "album": {
+        "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
+        "url": "https://open.spotify.com/album/37EsuQ9TUWNuxc0lLGh5dM"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 171115,
+      "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
+      "url": "https://open.spotify.com/track/3QsCqPFpctYwsNTAMp15P5"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -87,6 +187,62 @@
       "duration_ms": 132666,
       "name": "MINISKIRT",
       "url": "https://open.spotify.com/track/7ClDf2wywGCTrjeUzcBgpj"
+    },
+    {
+      "added_at": "2025-09-26 04:00:24",
+      "album": {
+        "name": "diva",
+        "url": "https://open.spotify.com/album/4eXW7vxt1U6IZavAfbyLTo"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 159153,
+      "name": "diva",
+      "url": "https://open.spotify.com/track/2NKFd6Oibct12j0RMpGLyS"
+    },
+    {
+      "added_at": "2026-01-09 05:00:44",
+      "album": {
+        "name": "A Rush of You",
+        "url": "https://open.spotify.com/album/7y0TDcWa0BgrYzDjEBqGLI"
+      },
+      "artists": [
+        {
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+        },
+        {
+          "name": "Julietta",
+          "url": "https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV"
+        },
+        {
+          "name": "command+M",
+          "url": "https://open.spotify.com/artist/2iVoor2wzTLqv8pUEjuz7a"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "A Rush of You",
+      "url": "https://open.spotify.com/track/2ozy7riT1NRGwa7dLYQ9PW"
+    },
+    {
+      "added_at": "2025-12-12 05:00:46",
+      "album": {
+        "name": "Lucky You're A Star",
+        "url": "https://open.spotify.com/album/68k75gFpf9NRtXcQ5AJYzH"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "duration_ms": 212075,
+      "name": "Lucky You're A Star",
+      "url": "https://open.spotify.com/track/5FZW41OweIMbQNMuYxyKAa"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -109,6 +265,22 @@
       "url": "https://open.spotify.com/track/28FqRQFfbGrwGu9CmY4K9X"
     },
     {
+      "added_at": "2025-12-12 05:00:46",
+      "album": {
+        "name": "When He Treats You Wrong",
+        "url": "https://open.spotify.com/album/6owNr7PFpaWrk8run4legP"
+      },
+      "artists": [
+        {
+          "name": "West Gura",
+          "url": "https://open.spotify.com/artist/2TOCJEnGdD4AkavOoxmZ2W"
+        }
+      ],
+      "duration_ms": 184313,
+      "name": "When He Treats You Wrong",
+      "url": "https://open.spotify.com/track/2EL4T4hNBeBoMmgi3nB1ak"
+    },
+    {
       "added_at": "2025-11-14 05:00:35",
       "album": {
         "name": "Dopamine",
@@ -123,22 +295,6 @@
       "duration_ms": 215000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
-      "added_at": "2025-12-27 16:24:52",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2025-11-21 05:00:40",
@@ -179,42 +335,6 @@
       "duration_ms": 134181,
       "name": "Boy Bye",
       "url": "https://open.spotify.com/track/4O6tEQJRrV4TA1YDR0OjuD"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "Stateside + Zara Larsson",
-        "url": "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
-    },
-    {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "diva",
-        "url": "https://open.spotify.com/album/4eXW7vxt1U6IZavAfbyLTo"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 159153,
-      "name": "diva",
-      "url": "https://open.spotify.com/track/2NKFd6Oibct12j0RMpGLyS"
     },
     {
       "added_at": "2025-11-28 05:21:59",
@@ -263,6 +383,22 @@
       "duration_ms": 203073,
       "name": "Joshua Tree",
       "url": "https://open.spotify.com/track/6HzNXN730dXkoUeSlPFWrv"
+    },
+    {
+      "added_at": "2026-01-09 05:00:44",
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/4NjMGJVHtDJu1QlrQA8VgR"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/1WMMFcmzxdoR7CQL8jpzJg"
     },
     {
       "added_at": "2025-11-07 05:00:57",
@@ -639,38 +775,6 @@
     {
       "added_at": "2025-11-14 05:00:35",
       "album": {
-        "name": "Mean To Me",
-        "url": "https://open.spotify.com/album/5IIRP1vjVpiFrJQkdVQSFA"
-      },
-      "artists": [
-        {
-          "name": "ili",
-          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
-        }
-      ],
-      "duration_ms": 124913,
-      "name": "Mean To Me",
-      "url": "https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD"
-    },
-    {
-      "added_at": "2025-10-24 04:21:35",
-      "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 185155,
-      "name": "In The Dark - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
         "name": "NO RE-ENTRY",
         "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
@@ -699,22 +803,6 @@
       "duration_ms": 213145,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx"
-    },
-    {
-      "added_at": "2025-11-14 05:00:35",
-      "album": {
-        "name": "Push Pop",
-        "url": "https://open.spotify.com/album/1wyYIU9SUyMyqcS2KWRNVT"
-      },
-      "artists": [
-        {
-          "name": "Disco Shrine",
-          "url": "https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA"
-        }
-      ],
-      "duration_ms": 174921,
-      "name": "Push Pop",
-      "url": "https://open.spotify.com/track/2inHClKJ2CJX6ad9wKQd7r"
     },
     {
       "added_at": "2025-11-07 05:00:57",
@@ -1233,22 +1321,6 @@
       "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 216259,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4"
-    },
-    {
       "added_at": "2025-09-26 04:00:24",
       "album": {
         "name": "First Original Thought",
@@ -1513,22 +1585,6 @@
       "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
     },
     {
-      "added_at": "2025-08-01 07:07:01",
-      "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Kiss It Kiss It",
-      "url": "https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC"
-    },
-    {
       "added_at": "2025-07-25 04:01:00",
       "album": {
         "name": "BOYS AIN'T SHIT",
@@ -1563,38 +1619,6 @@
       "duration_ms": 162253,
       "name": "TITS OUT",
       "url": "https://open.spotify.com/track/56RMAqQ9kPsKColsqZ6xPo"
-    },
-    {
-      "added_at": "2025-08-04 14:36:20",
-      "album": {
-        "name": "Handsy",
-        "url": "https://open.spotify.com/album/6EbxmI2QVjZHKzInZkeO4n"
-      },
-      "artists": [
-        {
-          "name": "Kyra Machida",
-          "url": "https://open.spotify.com/artist/4yedjyL6mOCHvzO8CbaMT6"
-        }
-      ],
-      "duration_ms": 133364,
-      "name": "Handsy",
-      "url": "https://open.spotify.com/track/5C9vsLZPOfAVx3devbfsU9"
-    },
-    {
-      "added_at": "2025-07-11 04:00:20",
-      "album": {
-        "name": "My First Album",
-        "url": "https://open.spotify.com/album/0xhEFd2ho7aRNpFN8X1mlS"
-      },
-      "artists": [
-        {
-          "name": "Jessica Winter",
-          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
-        }
-      ],
-      "duration_ms": 182154,
-      "name": "Worst Person In The World",
-      "url": "https://open.spotify.com/track/0TRDbUttY6W44UL9xwURPC"
     },
     {
       "added_at": "2025-07-11 04:00:20",
@@ -1655,22 +1679,6 @@
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
-    },
-    {
-      "added_at": "2025-02-28 05:00:40",
-      "album": {
-        "name": "SALVATION",
-        "url": "https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
-        }
-      ],
-      "duration_ms": 205634,
-      "name": "Twist The Knife",
-      "url": "https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg"
     },
     {
       "added_at": "2025-04-04 04:00:30",

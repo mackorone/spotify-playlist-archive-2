@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVvyzVe2A3W.md) - [plain](/playlists/plain/37i9dQZF1DWUVvyzVe2A3W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUVvyzVe2A3W)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVvyzVe2A3W.md) - [plain](/playlists/plain/37i9dQZF1DWUVvyzVe2A3W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUVvyzVe2A3W)
 
 ### [Ainsi font font font](https://open.spotify.com/playlist/37i9dQZF1DWUVvyzVe2A3W)
 
 > Chantez ces comptines à vos enfants..\. et n'oubliez pas les gestes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141 likes - 50 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 144 likes - 50 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain](/playlists/plain/1Dz1enrHJyUrLyxdqr1SPg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1Dz1enrHJyUrLyxdqr1SPg)
+pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain](/playlists/plain/1Dz1enrHJyUrLyxdqr1SPg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1Dz1enrHJyUrLyxdqr1SPg)
 
 ### [MY FAVOURITE NEW ONES ](https://open.spotify.com/playlist/1Dz1enrHJyUrLyxdqr1SPg)
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,027 likes - 95 songs - 5 hr 31 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,025 likes - 96 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,5 +103,6 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 93 | [Be My Vision \(Hallelujah\)](https://open.spotify.com/track/6De6TugTjDof65byiPH7Mu) | [Honey Ribar](https://open.spotify.com/artist/1O72lyfUkS9GlDtqgavp9c) | [Be My Vision \(Hallelujah\)](https://open.spotify.com/album/63LiqwbeQHf6MsYSRLGVUu) | 2:21 |
 | 94 | [Film](https://open.spotify.com/track/0g1pfaF11B4Lo8oO8RgtW2) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Film](https://open.spotify.com/album/0gsJfbVgA2BL7xsGXuT9JO) | 4:18 |
 | 95 | [Hold It](https://open.spotify.com/track/4cwHnEyUIhunVkmFNQhvLr) | [RCKYLNDN](https://open.spotify.com/artist/5WSiPMaJ4FK3v4v7mqXewG) | [Hold It](https://open.spotify.com/album/62H7ur3rSL5Wwe0GW8FTqH) | 4:58 |
+| 96 | [Tomorrow's Sun](https://open.spotify.com/track/0qkvFJ318yGiNYKahxlzld) | [Lars Gabriel](https://open.spotify.com/artist/63alNoSmyRWv1CCeAdDgWO) | [Tomorrow's Sun](https://open.spotify.com/album/45WEMdj0OAgsFOb30ucG2K) | 5:24 |
 
-Snapshot ID: `AABizgtcT+qMcDnO5J1j1r60X8sUTDS7`
+Snapshot ID: `AABiz3rP8EkEPCJSwKupgqQgDpCQO9PY`

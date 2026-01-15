@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXPoAK0p4FcE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXPoAK0p4FcE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXPoAK0p4FcE)
+[pretty](/playlists/pretty/37i9dQZF1DWXPoAK0p4FcE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXPoAK0p4FcE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXPoAK0p4FcE)
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: AYLA's
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: YEW
 
 156 songs - 10 hr 50 min
 

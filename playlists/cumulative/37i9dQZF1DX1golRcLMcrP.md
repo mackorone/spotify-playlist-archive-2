@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1golRcLMcrP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1golRcLMcrP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1golRcLMcrP)
+[pretty](/playlists/pretty/37i9dQZF1DX1golRcLMcrP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1golRcLMcrP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1golRcLMcrP)
 
 ### [무인도의 디바 \(Castaway Diva\)](https://open.spotify.com/playlist/37i9dQZF1DX1golRcLMcrP)
 

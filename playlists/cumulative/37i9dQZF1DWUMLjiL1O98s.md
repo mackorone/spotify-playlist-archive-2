@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUMLjiL1O98s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUMLjiL1O98s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUMLjiL1O98s)
+[pretty](/playlists/pretty/37i9dQZF1DWUMLjiL1O98s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUMLjiL1O98s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUMLjiL1O98s)
 
 ### [calorcito afrobeats](https://open.spotify.com/playlist/37i9dQZF1DWUMLjiL1O98s)
 

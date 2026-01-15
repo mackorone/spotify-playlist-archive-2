@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7EqpAEG8F4f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7EqpAEG8F4f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7EqpAEG8F4f)
+[pretty](/playlists/pretty/37i9dQZF1DX7EqpAEG8F4f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7EqpAEG8F4f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7EqpAEG8F4f)
 
 ### [Top Viral Hits of 2024](https://open.spotify.com/playlist/37i9dQZF1DX7EqpAEG8F4f)
 

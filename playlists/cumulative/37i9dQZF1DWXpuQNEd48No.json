@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: The LeKhak",
+  "description": "Best of Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147000,
       "name": "2-Inchi",
       "url": "https://open.spotify.com/track/208HDkrYaG25gAQsIzJnig"
@@ -7532,7 +7532,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 142811,
       "name": "Nazra Ke Teer",
       "url": "https://open.spotify.com/track/1IQigeqI67gdhS8MSHfpNC"
@@ -7978,6 +7978,24 @@
       "duration_ms": 182399,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/6NiI4lT0odRC70uRJ4Bg77"
+    },
+    {
+      "album": {
+        "name": "Not Guilty",
+        "url": "https://open.spotify.com/album/2ArzqdKnu0N93P4Z206F7c"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Not Guilty",
+      "url": "https://open.spotify.com/track/4YPSg93DDJW9Uf4IgklCHc"
     },
     {
       "album": {
@@ -10546,6 +10564,32 @@
       "duration_ms": 220129,
       "name": "TORSION",
       "url": "https://open.spotify.com/track/1giRNoUCag2UZV5r466wC6"
+    },
+    {
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/71P9Ez49rEozCuXodmSQrb"
+      },
+      "artists": [
+        {
+          "name": "Rawme Hooda",
+          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
+        },
+        {
+          "name": "Nishael",
+          "url": "https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX"
+        },
+        {
+          "name": "Riyaazi",
+          "url": "https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229870,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2UnJTK5NiGTD9L9wsYz1Az"
     },
     {
       "album": {

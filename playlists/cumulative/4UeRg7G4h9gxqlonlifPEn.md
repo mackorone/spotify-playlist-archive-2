@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4UeRg7G4h9gxqlonlifPEn.md) - cumulative - [plain](/playlists/plain/4UeRg7G4h9gxqlonlifPEn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4UeRg7G4h9gxqlonlifPEn)
+[pretty](/playlists/pretty/4UeRg7G4h9gxqlonlifPEn.md) - cumulative - [plain](/playlists/plain/4UeRg7G4h9gxqlonlifPEn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4UeRg7G4h9gxqlonlifPEn)
 
 ### [Turnt Mode – Rap Pregame](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 

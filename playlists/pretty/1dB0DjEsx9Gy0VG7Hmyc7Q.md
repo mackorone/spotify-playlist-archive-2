@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1dB0DjEsx9Gy0VG7Hmyc7Q.md) - [plain](/playlists/plain/1dB0DjEsx9Gy0VG7Hmyc7Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1dB0DjEsx9Gy0VG7Hmyc7Q)
+pretty - [cumulative](/playlists/cumulative/1dB0DjEsx9Gy0VG7Hmyc7Q.md) - [plain](/playlists/plain/1dB0DjEsx9Gy0VG7Hmyc7Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1dB0DjEsx9Gy0VG7Hmyc7Q)
 
 ### [Happy Birthday Nicole!](https://open.spotify.com/playlist/1dB0DjEsx9Gy0VG7Hmyc7Q)
 

@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 264613,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/6mAOmvG8Yd9EG8eImGiUZq"
@@ -798,6 +798,28 @@
       "duration_ms": 188250,
       "name": "Couldn't Sleep",
       "url": "https://open.spotify.com/track/0v3sEZxO7KG6GUR9Sb7RYs"
+    },
+    {
+      "album": {
+        "name": "Crazy Excuse",
+        "url": "https://open.spotify.com/album/7vndsEEj6Bxl351Ddg51I4"
+      },
+      "artists": [
+        {
+          "name": "Lee Ye Joon",
+          "url": "https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby"
+        },
+        {
+          "name": "Ja Jung",
+          "url": "https://open.spotify.com/artist/4eOSz0kdCi6Ed4xzcJ1XJK"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Crazy Excuse",
+      "url": "https://open.spotify.com/track/1b5lEXjKIC3LwU4nd9J59z"
     },
     {
       "album": {
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198000,
       "name": "If We Could Meet Again",
       "url": "https://open.spotify.com/track/6m1XkkjDHvc0ig0SZ1YHFF"
@@ -4193,6 +4215,24 @@
     },
     {
       "album": {
+        "name": "RETURN",
+        "url": "https://open.spotify.com/album/2fRNX64p671eap9jMUMUtY"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "RETURN",
+      "url": "https://open.spotify.com/track/4I076YFZbGheb8JXMe3rBA"
+    },
+    {
+      "album": {
         "name": "Run from you",
         "url": "https://open.spotify.com/album/5pAHpZo7WsjNthkDgna0m3"
       },
@@ -4978,7 +5018,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 240266,
       "name": "The Island",
       "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
@@ -5390,6 +5430,24 @@
       "duration_ms": 282280,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/177RNC6mpCBnry2nF66rYT"
+    },
+    {
+      "album": {
+        "name": "When the First Snow Falls",
+        "url": "https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "When the First Snow Falls",
+      "url": "https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj"
     },
     {
       "album": {

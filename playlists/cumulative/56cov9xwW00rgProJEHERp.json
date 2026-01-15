@@ -5925,6 +5925,24 @@
     },
     {
       "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/2diypD47uPTBpZmzIQbrAu"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/7AQiFyoymWq9CUF3aRo64c"
+    },
+    {
+      "album": {
         "name": "The Banks of The Lough Erne (feat. Erin Rae)",
         "url": "https://open.spotify.com/album/4C5wWyXwZ6XthXF7GfjhUB"
       },

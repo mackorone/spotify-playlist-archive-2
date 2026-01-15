@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6POS73ero2jRR6OpAffzSr.md) - [plain](/playlists/plain/6POS73ero2jRR6OpAffzSr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6POS73ero2jRR6OpAffzSr)
+pretty - [cumulative](/playlists/cumulative/6POS73ero2jRR6OpAffzSr.md) - [plain](/playlists/plain/6POS73ero2jRR6OpAffzSr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6POS73ero2jRR6OpAffzSr)
 
 ### [MELISMAS & FALSETES VOCAL](https://open.spotify.com/playlist/6POS73ero2jRR6OpAffzSr)
 
 > 
 
-[Viny C](https://open.spotify.com/user/rzmh45lxncul8drutf0bu2p2n) - 209 likes - 37 songs - 3 hr 3 min
+[Viny C](https://open.spotify.com/user/rzmh45lxncul8drutf0bu2p2n) - 210 likes - 37 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

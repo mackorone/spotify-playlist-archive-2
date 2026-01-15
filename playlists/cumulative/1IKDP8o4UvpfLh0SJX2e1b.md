@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1IKDP8o4UvpfLh0SJX2e1b.md) - cumulative - [plain](/playlists/plain/1IKDP8o4UvpfLh0SJX2e1b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1IKDP8o4UvpfLh0SJX2e1b)
+[pretty](/playlists/pretty/1IKDP8o4UvpfLh0SJX2e1b.md) - cumulative - [plain](/playlists/plain/1IKDP8o4UvpfLh0SJX2e1b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1IKDP8o4UvpfLh0SJX2e1b)
 
 ### [The New Bohemian](https://open.spotify.com/playlist/1IKDP8o4UvpfLh0SJX2e1b)
 

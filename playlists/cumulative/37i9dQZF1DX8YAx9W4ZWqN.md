@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8YAx9W4ZWqN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8YAx9W4ZWqN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8YAx9W4ZWqN)
+[pretty](/playlists/pretty/37i9dQZF1DX8YAx9W4ZWqN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8YAx9W4ZWqN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8YAx9W4ZWqN)
 
 ### [Le Hit Del 2010](https://open.spotify.com/playlist/37i9dQZF1DX8YAx9W4ZWqN)
 

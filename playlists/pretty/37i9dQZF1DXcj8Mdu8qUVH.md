@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj8Mdu8qUVH.md) - [plain](/playlists/plain/37i9dQZF1DXcj8Mdu8qUVH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcj8Mdu8qUVH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj8Mdu8qUVH.md) - [plain](/playlists/plain/37i9dQZF1DXcj8Mdu8qUVH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcj8Mdu8qUVH)
 
 ### [Flute Meditation](https://open.spotify.com/playlist/37i9dQZF1DXcj8Mdu8qUVH)
 
 > Tranquil flute music from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,758 likes - 218 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,678 likes - 218 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJMiQ53rTyJ.md) - [plain](/playlists/plain/37i9dQZF1DXbJMiQ53rTyJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbJMiQ53rTyJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJMiQ53rTyJ.md) - [plain](/playlists/plain/37i9dQZF1DXbJMiQ53rTyJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbJMiQ53rTyJ)
 
 ### [Top Tracks of 2025 USA](https://open.spotify.com/playlist/37i9dQZF1DXbJMiQ53rTyJ)
 
 > The most streamed songs of 2025 in the USA Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,911 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,507 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

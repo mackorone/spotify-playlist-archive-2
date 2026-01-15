@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain](/playlists/plain/37i9dQZF1DX9owDoKZZXV5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9owDoKZZXV5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain](/playlists/plain/37i9dQZF1DX9owDoKZZXV5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9owDoKZZXV5)
 
 ### [This Is j\-hope](https://open.spotify.com/playlist/37i9dQZF1DX9owDoKZZXV5)
 
 > Welcome to the Hope World! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,601 likes - 54 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,016 likes - 54 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

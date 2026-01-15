@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbFR6m9YbAYz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbFR6m9YbAYz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbFR6m9YbAYz)
+[pretty](/playlists/pretty/37i9dQZF1DXbFR6m9YbAYz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbFR6m9YbAYz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbFR6m9YbAYz)
 
 ### [Country Gaming](https://open.spotify.com/playlist/37i9dQZF1DXbFR6m9YbAYz)
 

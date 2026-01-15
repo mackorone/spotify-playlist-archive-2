@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3XjJqhm9fqD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3XjJqhm9fqD)
+[pretty](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3XjJqhm9fqD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3XjJqhm9fqD)
 
 ### [Haitian Heat](https://open.spotify.com/playlist/37i9dQZF1DX3XjJqhm9fqD)
 

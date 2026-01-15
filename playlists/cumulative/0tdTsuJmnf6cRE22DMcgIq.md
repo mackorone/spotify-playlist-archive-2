@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0tdTsuJmnf6cRE22DMcgIq.md) - cumulative - [plain](/playlists/plain/0tdTsuJmnf6cRE22DMcgIq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0tdTsuJmnf6cRE22DMcgIq)
+[pretty](/playlists/pretty/0tdTsuJmnf6cRE22DMcgIq.md) - cumulative - [plain](/playlists/plain/0tdTsuJmnf6cRE22DMcgIq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0tdTsuJmnf6cRE22DMcgIq)
 
 ### [The 2016 AMAs](https://open.spotify.com/playlist/0tdTsuJmnf6cRE22DMcgIq)
 

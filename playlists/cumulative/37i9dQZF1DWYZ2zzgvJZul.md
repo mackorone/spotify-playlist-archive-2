@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYZ2zzgvJZul.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYZ2zzgvJZul) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYZ2zzgvJZul)
+[pretty](/playlists/pretty/37i9dQZF1DWYZ2zzgvJZul.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYZ2zzgvJZul) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYZ2zzgvJZul)
 
 ### [Nuevo Rock Latino](https://open.spotify.com/playlist/37i9dQZF1DWYZ2zzgvJZul)
 

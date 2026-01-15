@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/214Nwj78JwTfjSeQxbGxeX.md) - cumulative - [plain](/playlists/plain/214Nwj78JwTfjSeQxbGxeX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/214Nwj78JwTfjSeQxbGxeX)
+[pretty](/playlists/pretty/214Nwj78JwTfjSeQxbGxeX.md) - cumulative - [plain](/playlists/plain/214Nwj78JwTfjSeQxbGxeX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/214Nwj78JwTfjSeQxbGxeX)
 
 ### [Alternative New Year's Eve](https://open.spotify.com/playlist/214Nwj78JwTfjSeQxbGxeX)
 

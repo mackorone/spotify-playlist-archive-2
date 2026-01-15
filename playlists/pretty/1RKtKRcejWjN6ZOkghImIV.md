@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1RKtKRcejWjN6ZOkghImIV.md) - [plain](/playlists/plain/1RKtKRcejWjN6ZOkghImIV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1RKtKRcejWjN6ZOkghImIV)
+pretty - [cumulative](/playlists/cumulative/1RKtKRcejWjN6ZOkghImIV.md) - [plain](/playlists/plain/1RKtKRcejWjN6ZOkghImIV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1RKtKRcejWjN6ZOkghImIV)
 
 ### [Bullet for Hell](https://open.spotify.com/playlist/1RKtKRcejWjN6ZOkghImIV)
 
 > Slipknot, Mudvayne, Hatebreed\. Turn the volume all the way up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,173 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,164 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

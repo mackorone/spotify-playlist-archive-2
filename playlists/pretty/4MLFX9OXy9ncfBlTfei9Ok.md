@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/4MLFX9OXy9ncfBlTfei9Ok.md) - [plain](/playlists/plain/4MLFX9OXy9ncfBlTfei9Ok) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4MLFX9OXy9ncfBlTfei9Ok)
+pretty - [cumulative](/playlists/cumulative/4MLFX9OXy9ncfBlTfei9Ok.md) - [plain](/playlists/plain/4MLFX9OXy9ncfBlTfei9Ok) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4MLFX9OXy9ncfBlTfei9Ok)
 
 ### [Nightly Meditations](https://open.spotify.com/playlist/4MLFX9OXy9ncfBlTfei9Ok)
 

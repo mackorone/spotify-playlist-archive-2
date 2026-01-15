@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain](/playlists/plain/37i9dQZF1DXblsWWYXYYVu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXblsWWYXYYVu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain](/playlists/plain/37i9dQZF1DXblsWWYXYYVu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXblsWWYXYYVu)
 
 ### [Take it Slow](https://open.spotify.com/playlist/37i9dQZF1DXblsWWYXYYVu)
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,329 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,331 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

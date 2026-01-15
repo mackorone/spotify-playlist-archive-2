@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andia",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Erika Isac",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -1282,8 +1282,8 @@
       },
       "artists": [
         {
-          "name": "ADI",
-          "url": "https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo"
+          "name": "Adi Istrate",
+          "url": "https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m"
         }
       ],
       "date_added": "2025-10-30",
@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 144115,
       "name": "Hora fetelor",
       "url": "https://open.spotify.com/track/4axfTALAQ2kM35X35fCnc7"
@@ -4240,6 +4240,24 @@
       "duration_ms": 201882,
       "name": "Miss Univers",
       "url": "https://open.spotify.com/track/1fknBAWpK9tsHawJKmh5cG"
+    },
+    {
+      "album": {
+        "name": "STUDIO 54",
+        "url": "https://open.spotify.com/album/016friOleRKnFkeP5ohkQQ"
+      },
+      "artists": [
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197067,
+      "name": "MISSY ELLIOTT",
+      "url": "https://open.spotify.com/track/4XA5rwdOzxiGHLf5CYtLHx"
     },
     {
       "album": {
@@ -6772,12 +6790,12 @@
       },
       "artists": [
         {
-          "name": "ADI",
-          "url": "https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo"
-        },
-        {
           "name": "Emilian",
           "url": "https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd"
+        },
+        {
+          "name": "Adi Istrate",
+          "url": "https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m"
         }
       ],
       "date_added": "2025-09-18",

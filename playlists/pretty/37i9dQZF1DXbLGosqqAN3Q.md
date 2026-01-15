@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLGosqqAN3Q.md) - [plain](/playlists/plain/37i9dQZF1DXbLGosqqAN3Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbLGosqqAN3Q)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLGosqqAN3Q.md) - [plain](/playlists/plain/37i9dQZF1DXbLGosqqAN3Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbLGosqqAN3Q)
 
 ### [Genesis of Aquarion](https://open.spotify.com/playlist/37i9dQZF1DXbLGosqqAN3Q)
 
 > Music From "Genesis of Aquarion"!\(C\)2004 河森正治・サテライト/Project AQUARION
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,042 likes - 46 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,054 likes - 46 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

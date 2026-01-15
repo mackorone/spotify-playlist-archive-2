@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain](/playlists/plain/37i9dQZF1DWSGaMpjluQpy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSGaMpjluQpy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain](/playlists/plain/37i9dQZF1DWSGaMpjluQpy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSGaMpjluQpy)
 
 ### [Jazz in the Rain](https://open.spotify.com/playlist/37i9dQZF1DWSGaMpjluQpy)
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,014 likes - 130 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,968 likes - 130 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/23sHdrU9wnUTqYjHZQ101O.md) - [plain](/playlists/plain/23sHdrU9wnUTqYjHZQ101O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/23sHdrU9wnUTqYjHZQ101O)
+pretty - [cumulative](/playlists/cumulative/23sHdrU9wnUTqYjHZQ101O.md) - [plain](/playlists/plain/23sHdrU9wnUTqYjHZQ101O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/23sHdrU9wnUTqYjHZQ101O)
 
 ### [Top 100 tracks of 2014 \- Sweden](https://open.spotify.com/playlist/23sHdrU9wnUTqYjHZQ101O)
 
 > Sweden couldn&\#x27;t get enough of these tracks in 2014! See how the rest of the world listened at spotify.com&\#x2F;2014\. \*Includes artists currently available on Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,164 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,158 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1aA8os1ylFZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1aA8os1ylFZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1aA8os1ylFZ)
+[pretty](/playlists/pretty/37i9dQZF1DX1aA8os1ylFZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1aA8os1ylFZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1aA8os1ylFZ)
 
 ### [R&B Magic](https://open.spotify.com/playlist/37i9dQZF1DX1aA8os1ylFZ)
 

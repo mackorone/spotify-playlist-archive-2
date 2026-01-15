@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain](/playlists/plain/37i9dQZF1DX41cLva7hoYQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX41cLva7hoYQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain](/playlists/plain/37i9dQZF1DX41cLva7hoYQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX41cLva7hoYQ)
 
 ### [Workday Jazz](https://open.spotify.com/playlist/37i9dQZF1DX41cLva7hoYQ)
 
 > Jazz piano ballads to help you focus during the workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,384 likes - 469 songs - 1 day 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,726 likes - 469 songs - 1 day 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4G8YMEnXpljdSERHuKCbxD.md) - [plain](/playlists/plain/4G8YMEnXpljdSERHuKCbxD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4G8YMEnXpljdSERHuKCbxD)
+pretty - [cumulative](/playlists/cumulative/4G8YMEnXpljdSERHuKCbxD.md) - [plain](/playlists/plain/4G8YMEnXpljdSERHuKCbxD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4G8YMEnXpljdSERHuKCbxD)
 
 ### [Now Playing at Warner Records](https://open.spotify.com/playlist/4G8YMEnXpljdSERHuKCbxD)
 
 > Listen to the same playlist that’s playing through the halls of the world famous Warner Records!
 
-[Warner Records](https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h) - 7,132 likes - 69 songs - 3 hr 39 min
+[Warner Records](https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h) - 7,116 likes - 69 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

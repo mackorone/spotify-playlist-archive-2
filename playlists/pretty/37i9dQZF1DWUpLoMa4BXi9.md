@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUpLoMa4BXi9.md) - [plain](/playlists/plain/37i9dQZF1DWUpLoMa4BXi9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUpLoMa4BXi9)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUpLoMa4BXi9.md) - [plain](/playlists/plain/37i9dQZF1DWUpLoMa4BXi9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUpLoMa4BXi9)
 
 ### [Disney Storytime](https://open.spotify.com/playlist/37i9dQZF1DWUpLoMa4BXi9)
 
 > Listen to narrated stories from your family's favorite Disney movies like The Lion King, Toy Story, and The Little Mermaid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,718 likes - 30 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,831 likes - 30 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

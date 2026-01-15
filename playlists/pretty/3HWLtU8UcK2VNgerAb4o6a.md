@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain](/playlists/plain/3HWLtU8UcK2VNgerAb4o6a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3HWLtU8UcK2VNgerAb4o6a)
+pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain](/playlists/plain/3HWLtU8UcK2VNgerAb4o6a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3HWLtU8UcK2VNgerAb4o6a)
 
 ### [Haunted House](https://open.spotify.com/playlist/3HWLtU8UcK2VNgerAb4o6a)
 

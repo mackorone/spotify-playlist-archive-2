@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7smcyWmMxpr2nqnefrh792.md) - cumulative - [plain](/playlists/plain/7smcyWmMxpr2nqnefrh792) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7smcyWmMxpr2nqnefrh792)
+[pretty](/playlists/pretty/7smcyWmMxpr2nqnefrh792.md) - cumulative - [plain](/playlists/plain/7smcyWmMxpr2nqnefrh792) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7smcyWmMxpr2nqnefrh792)
 
 ### [💀 Punk\-O\-Rama](https://open.spotify.com/playlist/7smcyWmMxpr2nqnefrh792)
 

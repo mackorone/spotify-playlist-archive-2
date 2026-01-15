@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain](/playlists/plain/37i9dQZF1DX3oSqvXoB6jV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3oSqvXoB6jV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain](/playlists/plain/37i9dQZF1DX3oSqvXoB6jV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3oSqvXoB6jV)
 
 ### [나쁜엄마 \(The Good Bad Mother\)](https://open.spotify.com/playlist/37i9dQZF1DX3oSqvXoB6jV)
 

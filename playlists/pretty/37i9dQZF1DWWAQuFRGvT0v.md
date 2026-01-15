@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAQuFRGvT0v.md) - [plain](/playlists/plain/37i9dQZF1DWWAQuFRGvT0v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWAQuFRGvT0v)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAQuFRGvT0v.md) - [plain](/playlists/plain/37i9dQZF1DWWAQuFRGvT0v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWAQuFRGvT0v)
 
 ### [KISS OF LIFE WORLD TOUR \[KISS ROAD\]](https://open.spotify.com/playlist/37i9dQZF1DWWAQuFRGvT0v)
 
 > Enjoy the KISS OF LIFE tour concert LIVE SET including the voices of them on stage! \(키스오브라이프의 무대 멘트와 목소리가 포함된 팬 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,570 likes - 29 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,560 likes - 29 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

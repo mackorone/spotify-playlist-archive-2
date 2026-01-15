@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbzvkbLgvQvI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbzvkbLgvQvI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbzvkbLgvQvI)
+[pretty](/playlists/pretty/37i9dQZF1DXbzvkbLgvQvI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbzvkbLgvQvI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbzvkbLgvQvI)
 
 ### [Viva Latino No\. 1s](https://open.spotify.com/playlist/37i9dQZF1DXbzvkbLgvQvI)
 

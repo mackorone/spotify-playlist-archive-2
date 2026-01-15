@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain](/playlists/plain/37i9dQZF1DX9udeSemCofA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9udeSemCofA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain](/playlists/plain/37i9dQZF1DX9udeSemCofA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9udeSemCofA)
 
 ### [Heavy Dub](https://open.spotify.com/playlist/37i9dQZF1DX9udeSemCofA)
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Gustavo 51",
+  "description": "Cover: ElGrandeToto",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -2735,6 +2735,28 @@
     },
     {
       "album": {
+        "name": "Fatigu\u00e9",
+        "url": "https://open.spotify.com/album/25imMsY4ERBPsHl8JcLCGj"
+      },
+      "artists": [
+        {
+          "name": "VALEN",
+          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
+        },
+        {
+          "name": "Yvzid",
+          "url": "https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Fatigu\u00e9",
+      "url": "https://open.spotify.com/track/1bVkc6XXIHlCNPmFtGhDCa"
+    },
+    {
+      "album": {
         "name": "Faux D\u00e9part",
         "url": "https://open.spotify.com/album/6qvNXxEmDlVAcplTG2ybPM"
       },
@@ -3330,7 +3352,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 187280,
       "name": "HACHICH/TOSEINA",
       "url": "https://open.spotify.com/track/5m441qiFI5yqfzG19ZLqIJ"
@@ -3632,6 +3654,28 @@
       "duration_ms": 141582,
       "name": "INJAZAT",
       "url": "https://open.spotify.com/track/5bnwj4m2Wdzpe4vdTIN4OL"
+    },
+    {
+      "album": {
+        "name": "INSOMNIA HOTEL",
+        "url": "https://open.spotify.com/album/3kT1lgMRNW7eAx2ObKdTRN"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159635,
+      "name": "INSOMNIA HOTEL",
+      "url": "https://open.spotify.com/track/6AdlRsXVF7FppB7d02xfFm"
     },
     {
       "album": {
@@ -5643,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "B4",
+        "url": "https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5"
+      },
+      "artists": [
+        {
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Nabra",
+      "url": "https://open.spotify.com/track/0bQzTbyG0KppLpnMkS9SSe"
+    },
+    {
+      "album": {
         "name": "Nadi Canadi",
         "url": "https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE"
       },
@@ -5770,7 +5832,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176551,
       "name": "Ni9ach",
       "url": "https://open.spotify.com/track/1u1NDVqoVVOckG9tSYa4ln"
@@ -7862,7 +7924,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162461,
       "name": "Tayer",
       "url": "https://open.spotify.com/track/0WGrLatfM7KSRJXmvkiJIp"

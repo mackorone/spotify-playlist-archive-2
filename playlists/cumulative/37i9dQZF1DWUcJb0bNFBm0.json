@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  Cover: srwks. (Thailand)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  Cover: We Are Imaginary (Philippines)",
   "name": "Haze ",
   "tracks": [
     {
@@ -2708,6 +2708,28 @@
       "duration_ms": 266086,
       "name": "Lost",
       "url": "https://open.spotify.com/track/59AUz2usEfAG5a23Q3JIwP"
+    },
+    {
+      "album": {
+        "name": "We Are Imaginary",
+        "url": "https://open.spotify.com/album/7e2Hbs2Nx9uxwLukMBSgKT"
+      },
+      "artists": [
+        {
+          "name": "We Are Imaginary",
+          "url": "https://open.spotify.com/artist/3KdhDztHsa0h7cySaWrYvr"
+        },
+        {
+          "name": "Bea Dolloso",
+          "url": "https://open.spotify.com/artist/6cWavbMyuL00FKxWXHoPum"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256493,
+      "name": "Lost In Your Afterglow",
+      "url": "https://open.spotify.com/track/5CrlccE2O1JmmceI8mL0Jr"
     },
     {
       "album": {

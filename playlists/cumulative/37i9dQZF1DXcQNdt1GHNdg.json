@@ -2749,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "God Did",
+        "url": "https://open.spotify.com/album/5WVHUqcMoOmqdBlhwkEbCN"
+      },
+      "artists": [
+        {
+          "name": "NIJJAR",
+          "url": "https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158934,
+      "name": "God Did",
+      "url": "https://open.spotify.com/track/6uXLkl9s5ER4ztOT77d1pa"
+    },
+    {
+      "album": {
         "name": "UNDISPUTED",
         "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
       },
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169642,
       "name": "Hollow Point",
       "url": "https://open.spotify.com/track/4P2Yc0lk4YnOmnppqI1V2i"
@@ -5307,6 +5325,28 @@
     },
     {
       "album": {
+        "name": "Raatan Lambiyan",
+        "url": "https://open.spotify.com/album/5xSbGRVE5ZNp1FCInuj4nD"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151536,
+      "name": "Raatan Lambiyan",
+      "url": "https://open.spotify.com/track/6Qh9iwFRM3z9UyRdg5tvRE"
+    },
+    {
+      "album": {
         "name": "Parlo (The Apocalypse)",
         "url": "https://open.spotify.com/album/7L8GDegx2s2U5B6ST0RgFe"
       },
@@ -6780,7 +6820,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198454,
       "name": "War Anthem",
       "url": "https://open.spotify.com/track/6zbNHpRQDOj6fcrVTSZjSB"

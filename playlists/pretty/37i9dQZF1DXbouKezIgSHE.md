@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbouKezIgSHE.md) - [plain](/playlists/plain/37i9dQZF1DXbouKezIgSHE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbouKezIgSHE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbouKezIgSHE.md) - [plain](/playlists/plain/37i9dQZF1DXbouKezIgSHE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbouKezIgSHE)
 
 ### [Long Live DnB](https://open.spotify.com/playlist/37i9dQZF1DXbouKezIgSHE)
 
 > Where drum & bass comes alive\. Cover: Shockone
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,070 likes - 96 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,077 likes - 96 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

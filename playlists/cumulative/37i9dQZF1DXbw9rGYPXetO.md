@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbw9rGYPXetO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbw9rGYPXetO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbw9rGYPXetO)
+[pretty](/playlists/pretty/37i9dQZF1DXbw9rGYPXetO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbw9rGYPXetO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbw9rGYPXetO)
 
 ### [Best of: Coke Studio Bharat](https://open.spotify.com/playlist/37i9dQZF1DXbw9rGYPXetO)
 

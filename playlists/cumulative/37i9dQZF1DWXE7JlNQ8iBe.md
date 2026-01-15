@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXE7JlNQ8iBe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXE7JlNQ8iBe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXE7JlNQ8iBe)
+[pretty](/playlists/pretty/37i9dQZF1DWXE7JlNQ8iBe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXE7JlNQ8iBe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXE7JlNQ8iBe)
 
 ### [La Catrina](https://open.spotify.com/playlist/37i9dQZF1DWXE7JlNQ8iBe)
 

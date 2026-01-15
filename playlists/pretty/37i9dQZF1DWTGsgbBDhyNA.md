@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain](/playlists/plain/37i9dQZF1DWTGsgbBDhyNA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTGsgbBDhyNA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain](/playlists/plain/37i9dQZF1DWTGsgbBDhyNA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTGsgbBDhyNA)
 
 ### [Aldito Core](https://open.spotify.com/playlist/37i9dQZF1DWTGsgbBDhyNA)
 
 > Y esa playlist nueva? 👀 Genuinamente las rolitas más virales para andar con madre… o no? por Aldo De Nigris
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,435 likes - 42 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,521 likes - 42 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

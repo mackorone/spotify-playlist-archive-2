@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVXbA4kjkg6G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVXbA4kjkg6G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVXbA4kjkg6G)
+[pretty](/playlists/pretty/37i9dQZF1DWVXbA4kjkg6G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVXbA4kjkg6G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVXbA4kjkg6G)
 
 ### [Trip Hop](https://open.spotify.com/playlist/37i9dQZF1DWVXbA4kjkg6G)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9xbwLJcOKSh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9xbwLJcOKSh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9xbwLJcOKSh)
+[pretty](/playlists/pretty/37i9dQZF1DX9xbwLJcOKSh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9xbwLJcOKSh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9xbwLJcOKSh)
 
 ### [菅野よう子 Yoko Kanno Works](https://open.spotify.com/playlist/37i9dQZF1DX9xbwLJcOKSh)
 

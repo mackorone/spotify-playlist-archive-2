@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1zriHsmiRJmTThtQk8UWPk.md) - cumulative - [plain](/playlists/plain/1zriHsmiRJmTThtQk8UWPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1zriHsmiRJmTThtQk8UWPk)
+[pretty](/playlists/pretty/1zriHsmiRJmTThtQk8UWPk.md) - cumulative - [plain](/playlists/plain/1zriHsmiRJmTThtQk8UWPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1zriHsmiRJmTThtQk8UWPk)
 
 ### [Women in Music \| Stories & Songs](https://open.spotify.com/playlist/1zriHsmiRJmTThtQk8UWPk)
 

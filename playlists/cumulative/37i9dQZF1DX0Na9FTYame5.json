@@ -3415,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "Spotify Wrapped 2025 Live",
+        "url": "https://open.spotify.com/album/7F2IsC9qTegf5ZsWbybETk"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156724,
+      "name": "L\u00fcg mich nicht mehr an - Spotify Wrapped 2025 Live",
+      "url": "https://open.spotify.com/track/3i7CdwsTy8XU7PgC0OPNXp"
+    },
+    {
+      "album": {
         "name": "Ma Baby 2",
         "url": "https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY"
       },
@@ -4065,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "Spotify Wrapped 2025 Live",
+        "url": "https://open.spotify.com/album/7F2IsC9qTegf5ZsWbybETk"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164094,
+      "name": "Number One - Spotify Wrapped 2025 Live",
+      "url": "https://open.spotify.com/track/5FKM6UlL5QWO8WadPrX8sF"
+    },
+    {
+      "album": {
         "name": "Nur die Nacht",
         "url": "https://open.spotify.com/album/3RCctNgHRIN53VyRkOrLeV"
       },
@@ -4484,7 +4520,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 206209,
       "name": "RED CUPS (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
@@ -5092,7 +5128,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 175370,
       "name": "Song 4 ft Ansu",
       "url": "https://open.spotify.com/track/2u9aJAojnjrhQfMtyjDv7v"

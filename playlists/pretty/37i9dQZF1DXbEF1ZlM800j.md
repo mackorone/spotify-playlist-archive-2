@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain](/playlists/plain/37i9dQZF1DXbEF1ZlM800j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbEF1ZlM800j)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain](/playlists/plain/37i9dQZF1DXbEF1ZlM800j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbEF1ZlM800j)
 
 ### [Family Hanukkah Party](https://open.spotify.com/playlist/37i9dQZF1DXbEF1ZlM800j)
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,695 likes - 45 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,684 likes - 45 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

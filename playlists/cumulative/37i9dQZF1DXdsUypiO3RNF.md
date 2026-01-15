@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdsUypiO3RNF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdsUypiO3RNF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdsUypiO3RNF)
+[pretty](/playlists/pretty/37i9dQZF1DXdsUypiO3RNF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdsUypiO3RNF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdsUypiO3RNF)
 
 ### [639 Hz  Heart Chakra Healing](https://open.spotify.com/playlist/37i9dQZF1DXdsUypiO3RNF)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1517hhPIVwA9EN41krpZo3.md) - [plain](/playlists/plain/1517hhPIVwA9EN41krpZo3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1517hhPIVwA9EN41krpZo3)
+pretty - [cumulative](/playlists/cumulative/1517hhPIVwA9EN41krpZo3.md) - [plain](/playlists/plain/1517hhPIVwA9EN41krpZo3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1517hhPIVwA9EN41krpZo3)
 
 ### [Best of 2016: Ultimate Indie](https://open.spotify.com/playlist/1517hhPIVwA9EN41krpZo3)
 
 > Check out the top streamed indie tracks of 2016!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,339 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,336 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

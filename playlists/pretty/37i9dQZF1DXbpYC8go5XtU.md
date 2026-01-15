@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain](/playlists/plain/37i9dQZF1DXbpYC8go5XtU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbpYC8go5XtU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain](/playlists/plain/37i9dQZF1DXbpYC8go5XtU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbpYC8go5XtU)
 
 ### [Wild Ambience](https://open.spotify.com/playlist/37i9dQZF1DXbpYC8go5XtU)
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,427 likes - 144 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,981 likes - 144 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

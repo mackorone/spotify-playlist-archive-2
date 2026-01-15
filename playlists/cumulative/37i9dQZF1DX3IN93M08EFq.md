@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3IN93M08EFq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3IN93M08EFq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3IN93M08EFq)
+[pretty](/playlists/pretty/37i9dQZF1DX3IN93M08EFq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3IN93M08EFq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3IN93M08EFq)
 
 ### [Indieklassiker](https://open.spotify.com/playlist/37i9dQZF1DX3IN93M08EFq)
 
@@ -44,7 +44,7 @@
 | [Delivery](https://open.spotify.com/track/5T9ir6tlqhhbKVzIC0ssbs) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Shotter's Nation](https://open.spotify.com/album/3riBfJ503oK9oDH4TRXWfF) | 2:41 | 2021-06-15 |  |
 | [Det snurrar i min skalle](https://open.spotify.com/track/23UV5TbYN0sq5QBBmKtNyU) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Det snurrar i min skalle](https://open.spotify.com/album/39wDQgQH43nFmvuV6FSFF3) | 4:14 | 2021-06-15 | 2022-11-13 |
 | [Det snurrar i min skalle](https://open.spotify.com/track/3b7fBk9K03QWUg6F3w1G12) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Det snurrar i min skalle](https://open.spotify.com/album/32ibUTOKkJKjojt6x3cuQr) | 4:14 | 2021-06-15 | 2022-07-29 |
-| [Din tid kommer](https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Din tid kommer](https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd) | 4:41 | 2021-06-15 | 2025-12-21 |
+| [Din tid kommer](https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Din tid kommer](https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd) | 4:41 | 2021-06-15 |  |
 | [Dom andra](https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Vapen & ammunition](https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y) | 3:46 | 2021-06-15 |  |
 | [Don't Look Back In Anger](https://open.spotify.com/track/7ppPZa3TRUSGKaks9wH7VT) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:47 | 2021-06-15 | 2022-11-13 |
 | [Don't Look Back In Anger](https://open.spotify.com/track/2Hvt5gu7Xavgec3vcurQtd) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Stop The Clocks](https://open.spotify.com/album/5VkPS9sK4VYUUeHG0icQmI) | 4:51 | 2021-06-15 | 2022-07-15 |
@@ -107,7 +107,7 @@
 | [My Best Friend](https://open.spotify.com/track/2WYUZcrkZuyXGgKE05UhEC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Introducing Hello Saferide](https://open.spotify.com/album/347HqBDFv4qUEXErlEkOD3) | 2:58 | 2021-06-15 | 2022-07-26 |
 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 | 2021-06-15 |  |
 | [Ovningskora](https://open.spotify.com/track/5vn6pVxzLeWJweGa9zqxGD) | [Slagsmålsklubben](https://open.spotify.com/artist/4TzSCfS4LS5SVChh2AB2wH) | [Den Svenske Disco](https://open.spotify.com/album/3zUb63cczBzNuA3dMHQLpe) | 3:21 | 2021-06-15 | 2025-02-17 |
-| [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 | 2021-06-15 |  |
+| [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 | 2021-06-15 | 2026-01-15 |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2021-06-15 | 2024-04-19 |
 | [Paper Planes](https://open.spotify.com/track/1lKrkGoVEsc1a4xcllm7S2) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Paper Planes \- Homeland Security Remixes](https://open.spotify.com/album/4GG44VSWcotck92vWZYpS5) | 3:25 | 2021-06-15 | 2022-11-13 |
 | [Paper Planes](https://open.spotify.com/track/1wgqttlPacpvmX5DKVboOa) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/23vvbZr2ZDlJNZftFAkCqO) | 3:25 | 2021-06-15 | 2022-03-22 |

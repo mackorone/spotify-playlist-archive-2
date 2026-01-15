@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2FmMinHNFfX3Apt34AwEqc.md) - [plain](/playlists/plain/2FmMinHNFfX3Apt34AwEqc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2FmMinHNFfX3Apt34AwEqc)
+pretty - [cumulative](/playlists/cumulative/2FmMinHNFfX3Apt34AwEqc.md) - [plain](/playlists/plain/2FmMinHNFfX3Apt34AwEqc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2FmMinHNFfX3Apt34AwEqc)
 
 ### [Top Gaming Tracks: One Year Together](https://open.spotify.com/playlist/2FmMinHNFfX3Apt34AwEqc)
 

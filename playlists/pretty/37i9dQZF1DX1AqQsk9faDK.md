@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain](/playlists/plain/37i9dQZF1DX1AqQsk9faDK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1AqQsk9faDK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain](/playlists/plain/37i9dQZF1DX1AqQsk9faDK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1AqQsk9faDK)
 
 ### [Fé Pelo Ouvir: Julliany Souza](https://open.spotify.com/playlist/37i9dQZF1DX1AqQsk9faDK)
 
 > Mensagens de Fé por Julliany Souza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,943 likes - 31 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,258 likes - 31 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

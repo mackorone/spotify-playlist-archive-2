@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2NqKEeHOjzud83Vdktcp6A.md) - cumulative - [plain](/playlists/plain/2NqKEeHOjzud83Vdktcp6A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2NqKEeHOjzud83Vdktcp6A)
+[pretty](/playlists/pretty/2NqKEeHOjzud83Vdktcp6A.md) - cumulative - [plain](/playlists/plain/2NqKEeHOjzud83Vdktcp6A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2NqKEeHOjzud83Vdktcp6A)
 
 ### [Intro to Furry](https://open.spotify.com/playlist/2NqKEeHOjzud83Vdktcp6A)
 

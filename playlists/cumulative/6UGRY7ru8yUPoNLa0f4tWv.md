@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6UGRY7ru8yUPoNLa0f4tWv.md) - cumulative - [plain](/playlists/plain/6UGRY7ru8yUPoNLa0f4tWv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6UGRY7ru8yUPoNLa0f4tWv)
+[pretty](/playlists/pretty/6UGRY7ru8yUPoNLa0f4tWv.md) - cumulative - [plain](/playlists/plain/6UGRY7ru8yUPoNLa0f4tWv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6UGRY7ru8yUPoNLa0f4tWv)
 
 ### [Clubland Classix](https://open.spotify.com/playlist/6UGRY7ru8yUPoNLa0f4tWv)
 

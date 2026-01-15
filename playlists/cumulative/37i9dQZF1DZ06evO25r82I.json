@@ -236,7 +236,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180800,
       "name": "Call It In The Air",
       "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
@@ -582,6 +582,24 @@
       "duration_ms": 202986,
       "name": "Here It Goes",
       "url": "https://open.spotify.com/track/0BXtDzijBaHpqlBkMOIJFl"
+    },
+    {
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Higher Devotion",
+      "url": "https://open.spotify.com/track/7in2N2NYFVCzBE02o7Y5H0"
     },
     {
       "album": {

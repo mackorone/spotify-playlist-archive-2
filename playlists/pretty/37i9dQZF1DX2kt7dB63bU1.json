@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Ledisi",
-  "num_followers": 163966,
+  "num_followers": 164225,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL",
+  "snapshot_id": "AAAAAM0clBjyURyPC/qXmxX9kXjlkyP8",
   "tracks": [
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Dans les rues de Qu\u00e9bec",
+        "url": "https://open.spotify.com/album/5mIAWf2Ba7Lk8LxuBVt3TL"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 153369,
+      "name": "Dans les rues de Qu\u00e9bec",
+      "url": "https://open.spotify.com/track/4JWc2mhiHfdLkcqBKS6dqs"
+    },
     {
       "added_at": "2025-11-14 05:00:20",
       "album": {
@@ -1677,22 +1693,6 @@
       "url": "https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8"
     },
     {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Five Senses",
-        "url": "https://open.spotify.com/album/4cl84AfjXk8k6xtBaxqete"
-      },
-      "artists": [
-        {
-          "name": "Cassidy Place",
-          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
-        }
-      ],
-      "duration_ms": 142238,
-      "name": "Five Senses",
-      "url": "https://open.spotify.com/track/2v5Rvh6gdKE7XaSMykpEJ8"
-    },
-    {
       "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Peace of Mind",
@@ -1863,22 +1863,6 @@
       "duration_ms": 169703,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/3Y5onKZN1Im4FxoTUMnEzb"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "A Seasonal Thing...Winter",
-        "url": "https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lewis",
-          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
-        }
-      ],
-      "duration_ms": 280624,
-      "name": "Wonder in the Waiting",
-      "url": "https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet"
     }
   ],
   "unique_name": "Vocal Jazz",

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xTLpzJybMI.md) - [plain](/playlists/plain/37i9dQZF1DX4xTLpzJybMI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4xTLpzJybMI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xTLpzJybMI.md) - [plain](/playlists/plain/37i9dQZF1DX4xTLpzJybMI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4xTLpzJybMI)
 
 ### [SEOUL SISTAS](https://open.spotify.com/playlist/37i9dQZF1DX4xTLpzJybMI)
 
 > The baddest & talented Korean female rappers \(Cover: MIRANI\(미란이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 267 likes - 119 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 277 likes - 119 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

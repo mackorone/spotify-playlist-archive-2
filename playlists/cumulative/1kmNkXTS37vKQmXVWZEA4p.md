@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1kmNkXTS37vKQmXVWZEA4p.md) - cumulative - [plain](/playlists/plain/1kmNkXTS37vKQmXVWZEA4p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1kmNkXTS37vKQmXVWZEA4p)
+[pretty](/playlists/pretty/1kmNkXTS37vKQmXVWZEA4p.md) - cumulative - [plain](/playlists/plain/1kmNkXTS37vKQmXVWZEA4p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1kmNkXTS37vKQmXVWZEA4p)
 
 ### [all hail the mountain goat](https://open.spotify.com/playlist/1kmNkXTS37vKQmXVWZEA4p)
 

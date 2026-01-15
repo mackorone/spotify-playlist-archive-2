@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain](/playlists/plain/4ugml2yTfIJzuEpytnzJYP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ugml2yTfIJzuEpytnzJYP)
+pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain](/playlists/plain/4ugml2yTfIJzuEpytnzJYP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4ugml2yTfIJzuEpytnzJYP)
 
 ### [Deep Bass / Melodic Bass / 140](https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP)
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 7,318 likes - 28 songs - 1 hr 35 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 7,317 likes - 28 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

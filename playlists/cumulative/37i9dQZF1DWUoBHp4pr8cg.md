@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUoBHp4pr8cg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUoBHp4pr8cg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUoBHp4pr8cg)
+[pretty](/playlists/pretty/37i9dQZF1DWUoBHp4pr8cg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUoBHp4pr8cg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUoBHp4pr8cg)
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 

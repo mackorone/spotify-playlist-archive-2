@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXkKR3NnPZR.md) - [plain](/playlists/plain/37i9dQZF1DWSXkKR3NnPZR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSXkKR3NnPZR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXkKR3NnPZR.md) - [plain](/playlists/plain/37i9dQZF1DWSXkKR3NnPZR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSXkKR3NnPZR)
 
 ### [Dos Íconos: Luis Miguel x Alejandro Fernández](https://open.spotify.com/playlist/37i9dQZF1DWSXkKR3NnPZR)
 
 > Los grandes éxitos de Luis Miguel y Alejandro Fernández en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,830 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,198 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

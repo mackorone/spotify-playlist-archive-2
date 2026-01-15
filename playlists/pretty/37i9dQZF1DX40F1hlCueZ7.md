@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain](/playlists/plain/37i9dQZF1DX40F1hlCueZ7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX40F1hlCueZ7)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain](/playlists/plain/37i9dQZF1DX40F1hlCueZ7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX40F1hlCueZ7)
 
 ### [Todo Indie: Lo mejor de 2025](https://open.spotify.com/playlist/37i9dQZF1DX40F1hlCueZ7)
 
 > Lo mejor del año  del mundo indie y alternativo, como Amaia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,071 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,351 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

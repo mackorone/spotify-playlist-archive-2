@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain](/playlists/plain/37i9dQZF1DWUvvUj1074WH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUvvUj1074WH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain](/playlists/plain/37i9dQZF1DWUvvUj1074WH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUvvUj1074WH)
 
 ### [mirando al techo](https://open.spotify.com/playlist/37i9dQZF1DWUvvUj1074WH)
 
 > se alejan cositas
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,044 likes - 86 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,129 likes - 86 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

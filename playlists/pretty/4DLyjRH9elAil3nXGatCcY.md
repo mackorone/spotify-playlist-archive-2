@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain](/playlists/plain/4DLyjRH9elAil3nXGatCcY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4DLyjRH9elAil3nXGatCcY)
+pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain](/playlists/plain/4DLyjRH9elAil3nXGatCcY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4DLyjRH9elAil3nXGatCcY)
 
 ### [Projekt Melody Official Playlist](https://open.spotify.com/playlist/4DLyjRH9elAil3nXGatCcY)
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,569 likes - 543 songs - 1 day 11 hr 35 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,567 likes - 543 songs - 1 day 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

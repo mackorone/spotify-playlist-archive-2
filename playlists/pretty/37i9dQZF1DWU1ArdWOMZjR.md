@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain](/playlists/plain/37i9dQZF1DWU1ArdWOMZjR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU1ArdWOMZjR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain](/playlists/plain/37i9dQZF1DWU1ArdWOMZjR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU1ArdWOMZjR)
 
 ### [Netflix & Nostalgia](https://open.spotify.com/playlist/37i9dQZF1DWU1ArdWOMZjR)
 
 > Wake me up before you go\-go! Check out Wham!'s top tracks to celebrate their documentary, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,469 likes - 22 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,467 likes - 22 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

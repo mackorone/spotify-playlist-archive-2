@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3yw5kZsheMK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3yw5kZsheMK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3yw5kZsheMK)
+[pretty](/playlists/pretty/37i9dQZF1DX3yw5kZsheMK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3yw5kZsheMK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3yw5kZsheMK)
 
 ### [Lullabies for Little Ones](https://open.spotify.com/playlist/37i9dQZF1DX3yw5kZsheMK)
 

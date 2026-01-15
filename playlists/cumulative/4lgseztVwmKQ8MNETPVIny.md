@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4lgseztVwmKQ8MNETPVIny.md) - cumulative - [plain](/playlists/plain/4lgseztVwmKQ8MNETPVIny) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4lgseztVwmKQ8MNETPVIny)
+[pretty](/playlists/pretty/4lgseztVwmKQ8MNETPVIny.md) - cumulative - [plain](/playlists/plain/4lgseztVwmKQ8MNETPVIny) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4lgseztVwmKQ8MNETPVIny)
 
 ### [foodora dinner playlist](https://open.spotify.com/playlist/4lgseztVwmKQ8MNETPVIny)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0fK21q3rVTX5AlC3dZRf2J.md) - [plain](/playlists/plain/0fK21q3rVTX5AlC3dZRf2J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0fK21q3rVTX5AlC3dZRf2J)
+pretty - [cumulative](/playlists/cumulative/0fK21q3rVTX5AlC3dZRf2J.md) - [plain](/playlists/plain/0fK21q3rVTX5AlC3dZRf2J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0fK21q3rVTX5AlC3dZRf2J)
 
 ### [💗kittydog songs featured playlist💙](https://open.spotify.com/playlist/0fK21q3rVTX5AlC3dZRf2J)
 
 > my original music featured playlist, whether its fully original songs, covers, collabs, or songs i featured in!! \[does not include instrumentals\]
 
-[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 1,014 likes - 115 songs - 3 hr 45 min
+[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 1,016 likes - 115 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

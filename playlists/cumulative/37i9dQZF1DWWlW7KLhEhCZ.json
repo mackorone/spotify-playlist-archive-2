@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169620,
       "name": "A Loja",
       "url": "https://open.spotify.com/track/58DuZMKB5awnyxrYSOtEws"
@@ -3155,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/63OZVtNT6wriIkPqTZNlnh"
+      },
+      "artists": [
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192366,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/3plkhBKYEJ22iEhp2xcDt8"
+    },
+    {
+      "album": {
         "name": "Aten\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2kZqWv63nuNhWiFQqxKwLb"
       },
@@ -3432,6 +3450,32 @@
       "duration_ms": 181417,
       "name": "Aut\u00eantica",
       "url": "https://open.spotify.com/track/4OhPvoDH9W9dwbNDsheGK7"
+    },
+    {
+      "album": {
+        "name": "SEXsemTAPE",
+        "url": "https://open.spotify.com/album/4aV0UpRr39YPZoYIhdHRtU"
+      },
+      "artists": [
+        {
+          "name": "Micaa",
+          "url": "https://open.spotify.com/artist/6x89eP03c4mgUPv9zz8Mf1"
+        },
+        {
+          "name": "skyee",
+          "url": "https://open.spotify.com/artist/3PozmM7nxb10YiFqIQyLfA"
+        },
+        {
+          "name": "resay",
+          "url": "https://open.spotify.com/artist/3zo9uub7BvvqxCJkmAjuA9"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108330,
+      "name": "AX\u00c9",
+      "url": "https://open.spotify.com/track/5IwUrbCCmyf51VlS4ODpzE"
     },
     {
       "album": {
@@ -3958,7 +4002,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195000,
       "name": "Bala",
       "url": "https://open.spotify.com/track/6cuVMT669LLP4AfocnkZMQ"
@@ -7688,7 +7732,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185002,
       "name": "CHAMPAGNE & BAUNILHA",
       "url": "https://open.spotify.com/track/1bxzOedscREbvW1fluFp1w"
@@ -26468,7 +26512,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193918,
       "name": "N\u00e3o me entrego",
       "url": "https://open.spotify.com/track/7dvGKMnDyxEY2wmKRrCoGM"
@@ -27540,7 +27584,7 @@
           "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
         },
         {
-          "name": "BeatByDrey",
+          "name": "DJ DREY",
           "url": "https://open.spotify.com/artist/368y69JDrGHLlxFv2MLdBT"
         },
         {
@@ -29158,6 +29202,28 @@
       "duration_ms": 156000,
       "name": "Pesadelo",
       "url": "https://open.spotify.com/track/6Mik2crWqQwxvy2K562fN5"
+    },
+    {
+      "album": {
+        "name": "Pesando na minha",
+        "url": "https://open.spotify.com/album/2KEM0zFHVIb4YkWOeprJlQ"
+      },
+      "artists": [
+        {
+          "name": "OGCapitu",
+          "url": "https://open.spotify.com/artist/3DV512qhStQiF9X2caGAhD"
+        },
+        {
+          "name": "Xizoh",
+          "url": "https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Pesando na minha",
+      "url": "https://open.spotify.com/track/7qOETrT7abggpU7AgZvOm5"
     },
     {
       "album": {
@@ -39131,6 +39197,28 @@
     },
     {
       "album": {
+        "name": "VADIA DO PRIV",
+        "url": "https://open.spotify.com/album/5MHJkzErIqAn7FD9qKdCWi"
+      },
+      "artists": [
+        {
+          "name": "Zares",
+          "url": "https://open.spotify.com/artist/1yXn7j84tP9bcA0k4OgIaF"
+        },
+        {
+          "name": "Biazotto",
+          "url": "https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124714,
+      "name": "VADIA DO PRIV",
+      "url": "https://open.spotify.com/track/2b4x1wP32ZekuWZ0qvyfdY"
+    },
+    {
+      "album": {
         "name": "O MUNDO \u00c9 DOS ESPERTOS",
         "url": "https://open.spotify.com/album/0dSKMT4IKgxQAjAlePfaGN"
       },
@@ -39442,16 +39530,16 @@
           "url": "https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF"
         },
         {
-          "name": "Baby",
-          "url": "https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V"
-        },
-        {
           "name": "Neckklace",
           "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
         },
         {
-          "name": "jaykay",
-          "url": "https://open.spotify.com/artist/2LiubholhUTdG6vySC5oBS"
+          "name": "Baby",
+          "url": "https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V"
+        },
+        {
+          "name": "Tuti",
+          "url": "https://open.spotify.com/artist/3Ff18fP2gp1bup70cxOaYM"
         }
       ],
       "date_added": "2025-12-19",

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain](/playlists/plain/1UAAXbCUqhTWG7W1XehHbK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1UAAXbCUqhTWG7W1XehHbK)
+pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain](/playlists/plain/1UAAXbCUqhTWG7W1XehHbK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1UAAXbCUqhTWG7W1XehHbK)
 
 ### [Indie Music Artists Essentials](https://open.spotify.com/playlist/1UAAXbCUqhTWG7W1XehHbK)
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 585 likes - 91 songs - 5 hr 24 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 585 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,12 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 89 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 |
 | 90 | [El Último Te Amo](https://open.spotify.com/track/40UIMV9iL8ZJcPCPWm4eEB) | [Ictiandro](https://open.spotify.com/artist/0365tcdDwVM8LlpEBnVWvD) | [El Último Te Amo](https://open.spotify.com/album/2XhAsiav3xMp7EQDyuoli4) | 4:43 |
 | 91 | [Puppets Know](https://open.spotify.com/track/0VwH13oGDjk5biSprNZHZH) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Puppets Know](https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy) | 5:12 |
+| 92 | [Pockets On My Sleeves](https://open.spotify.com/track/1xJYUGYCgqMUoXiqeAU5Hp) | [Soma Please](https://open.spotify.com/artist/5cjvGfRe1qk7NqfksQQHRQ) | [Pockets On My Sleeves](https://open.spotify.com/album/4M95XJRI1kNS948NTj2jWW) | 3:13 |
+| 93 | [Right on Time](https://open.spotify.com/track/5QbFE1cog9kL3v2LIzRPeI) | [Mitchell Waynez](https://open.spotify.com/artist/4d97ZEVqMQF3NkO9X9qZId), [Thirzdae Knight](https://open.spotify.com/artist/2CvZs40Q87z1wOcGQENwps) | [Right on Time](https://open.spotify.com/album/4SdnbCjRYzkbAUwVizkFRF) | 2:30 |
+| 94 | [No Antidote](https://open.spotify.com/track/2uNqGhSdKFgtvAnwDECH0F) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [The Ceiling, Thanks For Asking](https://open.spotify.com/album/4wzlhKDOBKZh92zNHFUbAg) | 4:05 |
+| 95 | [It Was Not Death, For I stood Up](https://open.spotify.com/track/6d4FpKbyG2g8RJ5W6thimb) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [Tara Sings Emily](https://open.spotify.com/album/4i30jA4w77ttt2uSZxclJl) | 2:52 |
+| 96 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 |
+| 97 | [Off Script](https://open.spotify.com/track/0ryKfzgxsC8lOq4m1IQHro) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [Off Script](https://open.spotify.com/album/4MCbJBMllQlTQUGP3X3diz) | 2:50 |
+| 98 | [The Only Path](https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [The Only Path](https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw) | 3:04 |
 
-Snapshot ID: `AAADsA58IrFGu7vO7zMpZMGgTae+SfCG`
+Snapshot ID: `AAADt2NQlUvCsFZo1egUEP+DlB/8ahA9`

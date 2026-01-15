@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ktmiEP972G.md) - [plain](/playlists/plain/37i9dQZF1DX9ktmiEP972G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9ktmiEP972G)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ktmiEP972G.md) - [plain](/playlists/plain/37i9dQZF1DX9ktmiEP972G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9ktmiEP972G)
 
 ### [Our Game, Our Sound](https://open.spotify.com/playlist/37i9dQZF1DX9ktmiEP972G)
 
 > This championship summer, football icons across Europe have teamed up to curate a playlist to bring people together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,803 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,875 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

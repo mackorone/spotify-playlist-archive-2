@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2DiIDykg1Rd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2DiIDykg1Rd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2DiIDykg1Rd)
+[pretty](/playlists/pretty/37i9dQZF1DX2DiIDykg1Rd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2DiIDykg1Rd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2DiIDykg1Rd)
 
 ### [JuJu Watkins Taste](https://open.spotify.com/playlist/37i9dQZF1DX2DiIDykg1Rd)
 

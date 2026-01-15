@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY0ymO6q3FGL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY0ymO6q3FGL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY0ymO6q3FGL)
+[pretty](/playlists/pretty/37i9dQZF1DWY0ymO6q3FGL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY0ymO6q3FGL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY0ymO6q3FGL)
 
 ### [Minecraft Essentials ](https://open.spotify.com/playlist/37i9dQZF1DWY0ymO6q3FGL)
 

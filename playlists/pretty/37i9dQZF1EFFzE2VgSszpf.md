@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain](/playlists/plain/37i9dQZF1EFFzE2VgSszpf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFFzE2VgSszpf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain](/playlists/plain/37i9dQZF1EFFzE2VgSszpf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFFzE2VgSszpf)
 
 ### [Written By Kadhja Bonet](https://open.spotify.com/playlist/37i9dQZF1EFFzE2VgSszpf)
 
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 47 | [Shall Not Be Moved](https://open.spotify.com/track/622yds0g4cL2ls2Dk8hwLQ) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Love is the Message](https://open.spotify.com/album/2NsotSuPYSPjhEOqPofobT) | 3:49 |
 | 48 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 |
 
-Snapshot ID: `AcGKngAAAADFOlsfAxb0nYTzVck0Gnmj`
+Snapshot ID: `AcHAhgAAAAAPG8zFhIB8njZ5/pmEux+9`

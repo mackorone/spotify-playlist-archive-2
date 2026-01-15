@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350117,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/7uB6KGAyiz2fNmsYY2NdsX"
+    },
+    {
+      "album": {
         "name": "It Was Divine",
         "url": "https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85"
       },
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 170920,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1dHhX4kzzge5XYRL6S2L6q"
@@ -2416,6 +2434,24 @@
       "duration_ms": 246625,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/45LbqIkc6xVfyOxBVU8efO"
+    },
+    {
+      "album": {
+        "name": "LOVE.JONES",
+        "url": "https://open.spotify.com/album/1xcouduCLDsvfyp3pltKqO"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215320,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4"
     },
     {
       "album": {

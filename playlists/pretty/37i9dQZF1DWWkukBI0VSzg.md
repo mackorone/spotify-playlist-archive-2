@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkukBI0VSzg.md) - [plain](/playlists/plain/37i9dQZF1DWWkukBI0VSzg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWkukBI0VSzg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkukBI0VSzg.md) - [plain](/playlists/plain/37i9dQZF1DWWkukBI0VSzg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWkukBI0VSzg)
 
 ### [Princess Power Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWWkukBI0VSzg)
 
 > Listen to all of the music from the new Netflix series, Princess Power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,973 likes - 20 songs - 40 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,976 likes - 20 songs - 40 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

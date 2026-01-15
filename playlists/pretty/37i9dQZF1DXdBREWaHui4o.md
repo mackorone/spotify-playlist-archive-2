@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain](/playlists/plain/37i9dQZF1DXdBREWaHui4o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdBREWaHui4o)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain](/playlists/plain/37i9dQZF1DXdBREWaHui4o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdBREWaHui4o)
 
 ### [Best of Anime Now 2025](https://open.spotify.com/playlist/37i9dQZF1DXdBREWaHui4o)
 
 > Editors pick the best songs from Anime Now in 2025\.  2025年にプレイリスト「Anime Now」で聴かれた楽曲を総まとめ。cover: Aina the End アイナ・ジ・エンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,507 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,301 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

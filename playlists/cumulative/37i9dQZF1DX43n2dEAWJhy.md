@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX43n2dEAWJhy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX43n2dEAWJhy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX43n2dEAWJhy)
+[pretty](/playlists/pretty/37i9dQZF1DX43n2dEAWJhy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX43n2dEAWJhy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX43n2dEAWJhy)
 
 ### [Jessica Audiffred DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX43n2dEAWJhy)
 

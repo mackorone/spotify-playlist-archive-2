@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DMDp286rY0.md) - [plain](/playlists/plain/37i9dQZF1DX6DMDp286rY0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6DMDp286rY0)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DMDp286rY0.md) - [plain](/playlists/plain/37i9dQZF1DX6DMDp286rY0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6DMDp286rY0)
 
 ### [Spotlight: Brown Girl Mag](https://open.spotify.com/playlist/37i9dQZF1DX6DMDp286rY0)
 
 > SAHM is here! Celebrate it with this playlist by Brown Girl Mag featuring music with South Asian notes and frequencies\. Cover: Jasmine Sandlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 641 likes - 37 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 643 likes - 37 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

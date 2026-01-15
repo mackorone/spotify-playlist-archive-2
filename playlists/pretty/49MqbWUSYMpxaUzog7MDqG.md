@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/49MqbWUSYMpxaUzog7MDqG.md) - [plain](/playlists/plain/49MqbWUSYMpxaUzog7MDqG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/49MqbWUSYMpxaUzog7MDqG)
+pretty - [cumulative](/playlists/cumulative/49MqbWUSYMpxaUzog7MDqG.md) - [plain](/playlists/plain/49MqbWUSYMpxaUzog7MDqG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/49MqbWUSYMpxaUzog7MDqG)
 
 ### [Late Night Music](https://open.spotify.com/playlist/49MqbWUSYMpxaUzog7MDqG)
 
 > Chill out and relax with a moody mix of modern classics ranging from R&amp;B to Indie to Pop\. Cover: David Kushner
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,256 likes - 269 songs - 15 hr 46 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,241 likes - 269 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain](/playlists/plain/37i9dQZF1DX47STdWoPX6D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX47STdWoPX6D)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain](/playlists/plain/37i9dQZF1DX47STdWoPX6D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX47STdWoPX6D)
 
 ### [The Blaze](https://open.spotify.com/playlist/37i9dQZF1DX47STdWoPX6D)
 
 > The latest and the greatest of CHH!  Cover: Ryan Trey
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,362 likes - 99 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,505 likes - 99 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

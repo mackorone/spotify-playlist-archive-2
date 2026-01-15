@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbBHo5sKcpSI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbBHo5sKcpSI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbBHo5sKcpSI)
+[pretty](/playlists/pretty/37i9dQZF1DXbBHo5sKcpSI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbBHo5sKcpSI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbBHo5sKcpSI)
 
 ### [On Tour Ado: Final](https://open.spotify.com/playlist/37i9dQZF1DXbBHo5sKcpSI)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain](/playlists/plain/37i9dQZF1EFQ7aAZ6BFHpN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFQ7aAZ6BFHpN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain](/playlists/plain/37i9dQZF1EFQ7aAZ6BFHpN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFQ7aAZ6BFHpN)
 
 ### [Written By George Gershwin](https://open.spotify.com/playlist/37i9dQZF1EFQ7aAZ6BFHpN)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576 likes - 159 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 580 likes - 159 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 15 | [One Of These Mornings](https://open.spotify.com/track/2Mbo5NxUBF3dMsTLUxhSwO) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 3:11 |
 | 16 | [Lullaby for String Quartet](https://open.spotify.com/track/2bOqEAbpUbCNeZmkUDJQo2) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Alexander String Quartet](https://open.spotify.com/artist/2d1RMcATjG2ZpHdFxxKhKS) | [Gershwin & Kern](https://open.spotify.com/album/4GNR8G5ihQV4gwm1FNC4ch) | 7:11 |
 | 17 | [RING THE ALARM pt.1 pt.2 pt.3](https://open.spotify.com/track/1ssT0otwEbYRU2D0paC5gY) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 5:58 |
-| 18 | [I Got Rhythm](https://open.spotify.com/track/1rT171Y1QcruR0URX61Xf4) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Harlem On My Mind](https://open.spotify.com/album/1ymg54xClk2ikSzKU4dr1f) | 3:05 |
+| 18 | [I Got Rhythm](https://open.spotify.com/track/631sp2Rj7VCtOVfHB9Ao0O) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Discover my Baby](https://open.spotify.com/album/1uw1WK8VlAo1gQNArCgnMV) | 3:06 |
 | 19 | [They All Laughed](https://open.spotify.com/track/5s44vQBcE1dK8VxRk3VMqr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 1:48 |
 | 20 | [Bricks & Bags](https://open.spotify.com/track/3XhRkia2pZ0apnY1Yp2DfK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:42 |
 | 21 | [WISH \- Japanese Ver.](https://open.spotify.com/track/0KLLSLbR0UA2818dmAc20n) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:05 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 49 | [I Like That You Can't Take That Away From Me](https://open.spotify.com/track/0ZsWdOc919i76q32pmlz1r) | [Jae Millz](https://open.spotify.com/artist/0qWtta2AJnHQITmWvhcehs), [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Mashonda](https://open.spotify.com/artist/5SyhqYagv3kA1s7xbI8QGi), [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Take The Lead](https://open.spotify.com/album/5pjfujDJYCQoOZJ87KezQV) | 2:27 |
 | 50 | [Gone, Gone, Gone](https://open.spotify.com/track/7JXspV8huWhAauiO8cGVLr) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 2:03 |
 | 51 | [Cuban Overture](https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd) | [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin: An American In Paris / Porgy And Bess](https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ) | 10:42 |
-| 52 | [Prayer \(Oh Doctor Jesus\)](https://open.spotify.com/track/6qzOPSNPZwTkQVLTuzofok) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:38 |
-| 53 | [For You, For Me, For Evermore](https://open.spotify.com/track/3xFNCOi1LdKAwTkzoABx2R) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH), [Richard Hayman & His Orchestra](https://open.spotify.com/artist/6rUa5Spu1A7O98MketkcX7) | [For You, For Me, Forevermore](https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq) | 3:07 |
+| 52 | [For You, For Me, For Evermore](https://open.spotify.com/track/3xFNCOi1LdKAwTkzoABx2R) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH), [Richard Hayman & His Orchestra](https://open.spotify.com/artist/6rUa5Spu1A7O98MketkcX7) | [For You, For Me, Forevermore](https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq) | 3:07 |
+| 53 | [Prayer \(Oh Doctor Jesus\)](https://open.spotify.com/track/6qzOPSNPZwTkQVLTuzofok) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:38 |
 | 54 | [I Can't Be Bothered Now](https://open.spotify.com/track/0BfvhXg1QoYQy3x3cvMyzQ) | [Kirby Ward](https://open.spotify.com/artist/3CP3fz5qpw93t4feU2qLoP), [The "Crazy for You" Female Ensemble](https://open.spotify.com/artist/2Gz3Ta2IFXlZrhehCZSZOI) | [Crazy For You \(Original London Cast Recording\)](https://open.spotify.com/album/2VSXE30vimrdGB8ELKfWLZ) | 4:14 |
 | 55 | [On The Double](https://open.spotify.com/track/5DgvQdgGwYLqG4yK8owSRr) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [H.F.M\. 2 \(Hunger For More 2\)](https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS) | 2:49 |
 | 56 | [Fishermen, Strawberry and Devil Crab](https://open.spotify.com/track/1mLNo7bMtOrHWwcNKqNbKV) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:06 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 158 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 159 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcGKngAAAAAhC1BFl5f5QGRml5QQEvsd`
+Snapshot ID: `AcHAfAAAAADe4JZ4SLcfC5rYm9uuWQ0J`

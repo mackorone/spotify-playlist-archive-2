@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain](/playlists/plain/37i9dQZF1DWZoF06RIo9el) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZoF06RIo9el)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain](/playlists/plain/37i9dQZF1DWZoF06RIo9el) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZoF06RIo9el)
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
 > Lo mejor de diciembre 2025\. Cover: Romeo Santos & Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,157 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,739 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [BB \(with Blessd\)](https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BB \(with Blessd\)](https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR) | 3:00 |
 | 50 | [Falta Algo](https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Falta Algo](https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv) | 3:23 |
 
-Snapshot ID: `AAAAAL+l3Kv0ZOa0uQWUhh34PMWf3dd9`
+Snapshot ID: `AAAAAKE9W3wqsISRnokDJ1LKdCR1wasv`

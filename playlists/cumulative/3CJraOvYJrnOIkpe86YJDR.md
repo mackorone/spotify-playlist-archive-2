@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3CJraOvYJrnOIkpe86YJDR.md) - cumulative - [plain](/playlists/plain/3CJraOvYJrnOIkpe86YJDR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3CJraOvYJrnOIkpe86YJDR)
+[pretty](/playlists/pretty/3CJraOvYJrnOIkpe86YJDR.md) - cumulative - [plain](/playlists/plain/3CJraOvYJrnOIkpe86YJDR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3CJraOvYJrnOIkpe86YJDR)
 
 ### [Mental illness: a lifestyle ](https://open.spotify.com/playlist/3CJraOvYJrnOIkpe86YJDR)
 

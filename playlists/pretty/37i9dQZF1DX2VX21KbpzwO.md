@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VX21KbpzwO.md) - [plain](/playlists/plain/37i9dQZF1DX2VX21KbpzwO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2VX21KbpzwO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VX21KbpzwO.md) - [plain](/playlists/plain/37i9dQZF1DX2VX21KbpzwO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2VX21KbpzwO)
 
 ### [Arab Bangers](https://open.spotify.com/playlist/37i9dQZF1DX2VX21KbpzwO)
 

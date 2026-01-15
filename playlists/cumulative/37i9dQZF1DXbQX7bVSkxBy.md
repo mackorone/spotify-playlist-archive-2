@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbQX7bVSkxBy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbQX7bVSkxBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbQX7bVSkxBy)
+[pretty](/playlists/pretty/37i9dQZF1DXbQX7bVSkxBy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbQX7bVSkxBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbQX7bVSkxBy)
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
 > Raise a voice and testify the goodness of God\.  Cover: Moses Bliss
 
-507 songs - 1 day 16 hr 56 min
+508 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Na Only Me Know](https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Na Only Me Know](https://open.spotify.com/album/6ESZpB5iJUCma2fBqJZzl3) | 6:10 | 2025-12-05 |  |
 | [Na You](https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:44 | 2023-12-05 | 2023-12-13 |
 | [Na You Be God \(Remix\) \[feat\. Ibk & Xtreme\]](https://open.spotify.com/track/0xmGgQUiXR4OhXi9RWDoRl) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [IBK](https://open.spotify.com/artist/2ux4hl4BNE4i7mfHek88W3), [Xtreme](https://open.spotify.com/artist/0JyPOK4PQYaOEqdSwN16NT) | [Na You Be God \(Remix\) \[feat\. Ibk & Xtreme\]](https://open.spotify.com/album/2wDwXXHbSCdG6qwFtbCX5W) | 5:26 | 2023-04-07 | 2023-04-15 |
-| [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2023-04-07 |  |
+| [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2023-04-07 | 2026-01-15 |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2023-04-07 | 2025-11-29 |
 | [Never](https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Never](https://open.spotify.com/album/1DdKZXJOtsK4N1YKMcGN9f) | 3:34 | 2023-12-29 | 2024-02-04 |
 | [Never Change](https://open.spotify.com/track/4cZcAPFcCXWchJkR6m12M3) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Ore Clarke](https://open.spotify.com/artist/42v1UjLH8XdFav1CTqwpqm) | [Never Change](https://open.spotify.com/album/1jQIesG0o91ZVUnFZ3b3Rh) | 4:08 | 2025-10-17 | 2025-11-22 |
@@ -383,6 +383,7 @@
 | [Pariwo](https://open.spotify.com/track/57MJfukjIG6gh9G0MCITjM) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Pariwo](https://open.spotify.com/album/0tMmM6g7bPyYIQtDrsm07C) | 2:37 | 2023-12-05 | 2023-12-13 |
 | [perfect union](https://open.spotify.com/track/5J62LqX6Sz0oisKKDkfcFK) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [perfect union](https://open.spotify.com/album/53HnNVVIVvgsRMNI49KLip) | 3:30 | 2024-09-30 | 2024-10-18 |
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2024-12-06 |  |
+| [Praise The Lord](https://open.spotify.com/track/1HqRXs13YtE39CtwWJLIgM) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Praise The Lord](https://open.spotify.com/album/72yCxn0wYqAfnhuNSKIEL4) | 1:45 | 2026-01-09 |  |
 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 | 2023-12-29 | 2024-04-19 |
 | [Praise The Lord](https://open.spotify.com/track/5APwmucVFdiD71vniIvihw) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Praise The Lord](https://open.spotify.com/album/6Y6ASzdPqY7GNO3GWADUux) | 3:58 | 2025-10-03 | 2025-10-17 |
 | [PRAISE THROUGH STORMS](https://open.spotify.com/track/6mSIQVXz4QuyTSGX8noDGd) | [Kevin Adams & Voices of Praise](https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV), [Dariodmusic](https://open.spotify.com/artist/3i3SZMOjdT1T7xowjjtBLU) | [PRAISE THROUGH STORMS](https://open.spotify.com/album/66LyPFemNQwvmvBRrK4eU8) | 3:57 | 2025-09-05 | 2025-09-26 |

@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 269413,
       "name": "22:23",
       "url": "https://open.spotify.com/track/0TjAjZ6Hp7smLH8qUBlNuR"
@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "The Long Way Round (Deluxe)",
+        "url": "https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211844,
+      "name": "I Love You, But",
+      "url": "https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp"
+    },
+    {
+      "album": {
         "name": "I Wanna Dance With Somebody",
         "url": "https://open.spotify.com/album/7HWYxsxmncXzKUjOgA178r"
       },
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 213263,
       "name": "Slow Steps in the Snow",
       "url": "https://open.spotify.com/track/5OlRXnce75LJjS29TGnY3Z"
@@ -3890,10 +3908,32 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177446,
       "name": "Somebody To You",
       "url": "https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE"
+    },
+    {
+      "album": {
+        "name": "Sooner",
+        "url": "https://open.spotify.com/album/2kI8sTprcpyySpmMQEAJDR"
+      },
+      "artists": [
+        {
+          "name": "Waves",
+          "url": "https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH"
+        },
+        {
+          "name": "Artistic Palace",
+          "url": "https://open.spotify.com/artist/1JOgYdFUQOpNlAq7oetsmK"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207187,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/30RggWBun99ELYfeCaQ0Dw"
     },
     {
       "album": {
@@ -4100,7 +4140,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 172300,
       "name": "sunflower \u201824",
       "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
@@ -4262,7 +4302,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 200243,
       "name": "The Bed Unfold",
       "url": "https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd"

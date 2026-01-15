@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
+  "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
   "name": "Southern Comfort",
   "tracks": [
     {
@@ -846,6 +846,28 @@
       "duration_ms": 298702,
       "name": "Born to Roam",
       "url": "https://open.spotify.com/track/3MSXNZZuIEAWmtCkLJMtG0"
+    },
+    {
+      "album": {
+        "name": "Bowery (feat. Kings of Leon)",
+        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215720,
+      "name": "Bowery (feat. Kings of Leon)",
+      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
     },
     {
       "album": {
@@ -2097,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "West Texas Degenerate",
+        "url": "https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202219,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/05sPFoHZwxWs9lPI72gBOK"
+    },
+    {
+      "album": {
         "name": "Heavy Shoes",
         "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
       },
@@ -2310,7 +2350,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 179413,
       "name": "High Road (feat. Jessie Murph)",
       "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
@@ -2672,7 +2712,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 207230,
       "name": "INSIGNIFICANT OTHER - feat. Sam Canty & Lance Vanley",
       "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
@@ -2842,7 +2882,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 243047,
       "name": "Lady Mine (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/0afR9bRVOepZeNYj3pKCuq"
@@ -2932,7 +2972,7 @@
       ],
       "date_added": "2020-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217786,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze"
@@ -3152,7 +3192,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171937,
       "name": "Middle Finger Motto",
       "url": "https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871"
@@ -3692,7 +3732,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178786,
       "name": "On To The Next",
       "url": "https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw"
@@ -3795,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "Part Of My Story",
+        "url": "https://open.spotify.com/album/3HnOK1mvSj2R5uHWWwkHxi"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204986,
+      "name": "Part Of My Story",
+      "url": "https://open.spotify.com/track/6jKrVj1uKwNUA1GUOf4efE"
+    },
+    {
+      "album": {
         "name": "Deep in the Trouble",
         "url": "https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me"
       },
@@ -3846,6 +3904,24 @@
       "duration_ms": 286626,
       "name": "Problem Solution",
       "url": "https://open.spotify.com/track/5HPX2MLZTlP1vxCqdzydTQ"
+    },
+    {
+      "album": {
+        "name": "Profane Prophecy and Pharmacy Chronicles",
+        "url": "https://open.spotify.com/album/3mbekn6ySDgzBW57jz6B1U"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247639,
+      "name": "Profane Prophecy",
+      "url": "https://open.spotify.com/track/5EIMb9DtKFDvq9JSHgmVbs"
     },
     {
       "album": {
@@ -4008,7 +4084,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203042,
       "name": "Rock and Roll (Ain't No Simple Thing)",
       "url": "https://open.spotify.com/track/76kfV1gUWJ4wskDtiMfK36"
@@ -4375,6 +4451,24 @@
     },
     {
       "album": {
+        "name": "Southwestern Son",
+        "url": "https://open.spotify.com/album/4yzBdne4esVUyikVtaya9E"
+      },
+      "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Southwestern Son",
+      "url": "https://open.spotify.com/track/4Y4dS8T0Cqr7Ml3i6GeGTi"
+    },
+    {
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/1K2rmMC661DhMwzUp6iuMk"
       },
@@ -4574,6 +4668,24 @@
       "duration_ms": 280065,
       "name": "Tabasco & Sweet Tea",
       "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
+    },
+    {
+      "album": {
+        "name": "Whomp Whack Thunder",
+        "url": "https://open.spotify.com/album/2aR3LbCAYgpurZIgyjBlOs"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Tailspin",
+      "url": "https://open.spotify.com/track/1U57Ci0IemusE0acBCCrgc"
     },
     {
       "album": {
@@ -4841,6 +4953,24 @@
     },
     {
       "album": {
+        "name": "EP #2",
+        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190536,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/7ojmifXZn0fnEwHKTkKLJN"
+    },
+    {
+      "album": {
         "name": "Ohio Players",
         "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
@@ -5061,6 +5191,28 @@
     },
     {
       "album": {
+        "name": "We're Onto Something (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222721,
+      "name": "We're Onto Something (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+    },
+    {
+      "album": {
         "name": "Welcome 2 Club XIII",
         "url": "https://open.spotify.com/album/5eEe392vaoKZOsVrEIyLsT"
       },
@@ -5278,7 +5430,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 247364,
       "name": "xoxo",
       "url": "https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH"

@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 399961,
+  "num_followers": 400264,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHhgPCS2+S0ZxA/jIdKvWiMUq5Ql",
+  "snapshot_id": "AAAAAFEuN5VnO3be9ztDZVc8zIl2Emeb",
   "tracks": [
     {
       "added_at": "2025-12-29 17:53:07",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Quand la musique est bonne",
-        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Quand la musique est bonne",
-      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 282813,
       "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Quand la musique est bonne",
+        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Quand la musique est bonne",
+      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -91,18 +91,18 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
+        "name": "Paris, France (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
       },
       "artists": [
         {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
         }
       ],
-      "duration_ms": 312533,
-      "name": "Trois nuits par semaine",
-      "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
+      "duration_ms": 273626,
+      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 312533,
+      "name": "Trois nuits par semaine",
+      "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
         "name": "Non homologu\u00e9",
         "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 265400,
       "name": "Je te donne",
       "url": "https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
-        "name": "Paris, France (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Rita Mitsouko",
-        "url": "https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k"
-      },
-      "artists": [
-        {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
-        }
-      ],
-      "duration_ms": 335746,
-      "name": "Marcia Ba\u00efla",
-      "url": "https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Dure limite (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
       },
@@ -255,18 +239,18 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Les d\u00e9mons de minuit",
-        "url": "https://open.spotify.com/album/6hOGy2ogj9tbIIpfQ5aQOO"
+        "name": "Rita Mitsouko",
+        "url": "https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k"
       },
       "artists": [
         {
-          "name": "Images",
-          "url": "https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf"
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
         }
       ],
-      "duration_ms": 231410,
-      "name": "Les d\u00e9mons de minuit",
-      "url": "https://open.spotify.com/track/2ne2QYNb5DjByvKPOtzQaM"
+      "duration_ms": 335746,
+      "name": "Marcia Ba\u00efla",
+      "url": "https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -287,6 +271,22 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
+        "name": "Les d\u00e9mons de minuit",
+        "url": "https://open.spotify.com/album/6hOGy2ogj9tbIIpfQ5aQOO"
+      },
+      "artists": [
+        {
+          "name": "Images",
+          "url": "https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf"
+        }
+      ],
+      "duration_ms": 231410,
+      "name": "Les d\u00e9mons de minuit",
+      "url": "https://open.spotify.com/track/2ne2QYNb5DjByvKPOtzQaM"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
         "name": "C'est comme vous voulez",
         "url": "https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1"
       },
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Mademoiselle Chante",
-        "url": "https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7"
-      },
-      "artists": [
-        {
-          "name": "Patricia Kaas",
-          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
-        }
-      ],
-      "duration_ms": 253666,
-      "name": "Mon mec \u00e0 moi",
-      "url": "https://open.spotify.com/track/1UZGVlCoNGQ6ps64QDvydQ"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Africa - EP",
         "url": "https://open.spotify.com/album/4NR83WiSh5Zs9jL1VtkpRr"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 216125,
       "name": "Africa",
       "url": "https://open.spotify.com/track/1YXH5a44usvJyNKeMt8NMo"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Mademoiselle Chante",
+        "url": "https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7"
+      },
+      "artists": [
+        {
+          "name": "Patricia Kaas",
+          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
+        }
+      ],
+      "duration_ms": 253666,
+      "name": "Mon mec \u00e0 moi",
+      "url": "https://open.spotify.com/track/1UZGVlCoNGQ6ps64QDvydQ"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -399,18 +399,18 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Eve l\u00e8ve-toi",
-        "url": "https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w"
+        "name": "L'essentiel",
+        "url": "https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym"
       },
       "artists": [
         {
-          "name": "Julie Pietri",
-          "url": "https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG"
+          "name": "Elsa",
+          "url": "https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1"
         }
       ],
-      "duration_ms": 272160,
-      "name": "Eve l\u00e8ve-toi",
-      "url": "https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG"
+      "duration_ms": 328266,
+      "name": "T'en va pas",
+      "url": "https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -431,18 +431,18 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "L'essentiel",
-        "url": "https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym"
+        "name": "Eve l\u00e8ve-toi",
+        "url": "https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w"
       },
       "artists": [
         {
-          "name": "Elsa",
-          "url": "https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1"
+          "name": "Julie Pietri",
+          "url": "https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG"
         }
       ],
-      "duration_ms": 328266,
-      "name": "T'en va pas",
-      "url": "https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8"
+      "duration_ms": 272160,
+      "name": "Eve l\u00e8ve-toi",
+      "url": "https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
+        "name": "Ainsi Soit Je",
+        "url": "https://open.spotify.com/album/69x2VirNYhaRWQDxV1EX7F"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "Pourvu qu'elles soient douces",
+      "url": "https://open.spotify.com/track/2gNyCHDGyHrw3lCpT9LqlY"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
         "name": "Best of Jeanne Mas 2004",
         "url": "https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx"
       },
@@ -543,18 +559,34 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Ainsi Soit Je",
-        "url": "https://open.spotify.com/album/69x2VirNYhaRWQDxV1EX7F"
+        "name": "Cargo - EP (2024 Remaster)",
+        "url": "https://open.spotify.com/album/6qDDn1u921qNWzS8FqHfk5"
       },
       "artists": [
         {
-          "name": "Myl\u00e8ne Farmer",
-          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+          "name": "Axel Bauer",
+          "url": "https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd"
         }
       ],
-      "duration_ms": 292466,
-      "name": "Pourvu qu'elles soient douces",
-      "url": "https://open.spotify.com/track/2gNyCHDGyHrw3lCpT9LqlY"
+      "duration_ms": 290600,
+      "name": "Cargo - 2024 Remaster",
+      "url": "https://open.spotify.com/track/60WiEteADDUQKn62YIrlBx"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Pop Satori (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0epJLxAqo8DfByqlQs1Xdb"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Duel au soleil - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0DmECgkk7chNyhf4kaHaLN"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -591,38 +623,6 @@
       "duration_ms": 251026,
       "name": "Joue pas",
       "url": "https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
-        "name": "Pop Satori (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0epJLxAqo8DfByqlQs1Xdb"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "Duel au soleil - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0DmECgkk7chNyhf4kaHaLN"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
-        "name": "Cargo - EP (2024 Remaster)",
-        "url": "https://open.spotify.com/album/6qDDn1u921qNWzS8FqHfk5"
-      },
-      "artists": [
-        {
-          "name": "Axel Bauer",
-          "url": "https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd"
-        }
-      ],
-      "duration_ms": 290600,
-      "name": "Cargo - 2024 Remaster",
-      "url": "https://open.spotify.com/track/60WiEteADDUQKn62YIrlBx"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -675,38 +675,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "C'est la ouate",
-        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
-      },
-      "artists": [
-        {
-          "name": "Caroline Loeb",
-          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "C'est la ouate - Radio Edit Original Version 1987",
-      "url": "https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
-        "name": "Tropique",
-        "url": "https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO"
-      },
-      "artists": [
-        {
-          "name": "Muriel Dacq",
-          "url": "https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP"
-        }
-      ],
-      "duration_ms": 212002,
-      "name": "Tropique",
-      "url": "https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -727,6 +695,38 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
+        "name": "Tropique",
+        "url": "https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO"
+      },
+      "artists": [
+        {
+          "name": "Muriel Dacq",
+          "url": "https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP"
+        }
+      ],
+      "duration_ms": 212002,
+      "name": "Tropique",
+      "url": "https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "C'est la ouate",
+        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
+      },
+      "artists": [
+        {
+          "name": "Caroline Loeb",
+          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "C'est la ouate - Radio Edit Original Version 1987",
+      "url": "https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
         "name": "EP La P'tite Lady",
         "url": "https://open.spotify.com/album/0Lg340OEMHB1qyi919yiZQ"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 215840,
       "name": "La p'tite Lady",
       "url": "https://open.spotify.com/track/7jeK414Hj68dYeLzEUVGe8"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
-        "name": "Les brunes comptent pas pour des prunes",
-        "url": "https://open.spotify.com/album/48Hn4QRWsu9vLDNLdmBPxb"
-      },
-      "artists": [
-        {
-          "name": "Lio",
-          "url": "https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Les brunes comptent pas pour des prunes",
-      "url": "https://open.spotify.com/track/2FO8AfQVGJsmxgg6RlI5jK"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -787,6 +771,22 @@
       "duration_ms": 180106,
       "name": "M\u00e9lissa",
       "url": "https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Les brunes comptent pas pour des prunes",
+        "url": "https://open.spotify.com/album/48Hn4QRWsu9vLDNLdmBPxb"
+      },
+      "artists": [
+        {
+          "name": "Lio",
+          "url": "https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Les brunes comptent pas pour des prunes",
+      "url": "https://open.spotify.com/track/2FO8AfQVGJsmxgg6RlI5jK"
     },
     {
       "added_at": "2025-12-29 17:53:07",

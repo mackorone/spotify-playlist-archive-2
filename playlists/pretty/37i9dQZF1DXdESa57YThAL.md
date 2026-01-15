@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdESa57YThAL.md) - [plain](/playlists/plain/37i9dQZF1DXdESa57YThAL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdESa57YThAL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdESa57YThAL.md) - [plain](/playlists/plain/37i9dQZF1DXdESa57YThAL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdESa57YThAL)
 
 ### [Mushoku Tensei: Jobless Reincarnation](https://open.spotify.com/playlist/37i9dQZF1DXdESa57YThAL)
 
 > Music from "Mushoku Tensei: Jobless Reincarnation" ©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,659 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,815 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

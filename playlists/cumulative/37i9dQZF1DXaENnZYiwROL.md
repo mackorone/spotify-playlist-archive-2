@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaENnZYiwROL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaENnZYiwROL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaENnZYiwROL)
+[pretty](/playlists/pretty/37i9dQZF1DXaENnZYiwROL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaENnZYiwROL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaENnZYiwROL)
 
 ### [Rookie Cops \(너와 나의 경찰수업\)](https://open.spotify.com/playlist/37i9dQZF1DXaENnZYiwROL)
 

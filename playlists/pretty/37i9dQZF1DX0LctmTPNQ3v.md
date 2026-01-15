@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain](/playlists/plain/37i9dQZF1DX0LctmTPNQ3v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0LctmTPNQ3v)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain](/playlists/plain/37i9dQZF1DX0LctmTPNQ3v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0LctmTPNQ3v)
 
 ### [Metal Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0LctmTPNQ3v)
 
 > Your soundtrack for a not\-so\-silent night\. Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,681 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,244 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaLI8a395lse.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaLI8a395lse) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaLI8a395lse)
+[pretty](/playlists/pretty/37i9dQZF1DXaLI8a395lse.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaLI8a395lse) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaLI8a395lse)
 
 ### [Alternative 90s](https://open.spotify.com/playlist/37i9dQZF1DXaLI8a395lse)
 

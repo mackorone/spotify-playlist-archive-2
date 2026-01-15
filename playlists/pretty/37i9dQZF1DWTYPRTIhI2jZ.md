@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYPRTIhI2jZ.md) - [plain](/playlists/plain/37i9dQZF1DWTYPRTIhI2jZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTYPRTIhI2jZ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYPRTIhI2jZ.md) - [plain](/playlists/plain/37i9dQZF1DWTYPRTIhI2jZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTYPRTIhI2jZ)
 
 ### [Honey Dijon's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWTYPRTIhI2jZ)
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,725 likes - 61 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,769 likes - 61 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

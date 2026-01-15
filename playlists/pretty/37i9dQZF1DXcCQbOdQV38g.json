@@ -1,12 +1,12 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59975,
+  "num_followers": 59940,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKsn4HcsamHbEVskWPHuCC15PH+3",
+  "snapshot_id": "AAAAAONcGBNigYeMLVb/m1kxYiP9n+mb",
   "tracks": [
     {
       "added_at": "2025-12-26 23:00:21",
@@ -211,38 +211,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Waarom Nou Niet (Kleuren)",
-        "url": "https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA"
-      },
-      "artists": [
-        {
-          "name": "Quido van de Graaf",
-          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
-        }
-      ],
-      "duration_ms": 169147,
-      "name": "Waarom Nou Niet (Kleuren)",
-      "url": "https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
-        "name": "Jammer Dan",
-        "url": "https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        }
-      ],
-      "duration_ms": 185137,
-      "name": "Jammer Dan",
-      "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Als Ik Je Weer Zie",
         "url": "https://open.spotify.com/album/5m1URbxyOpdcKwbvexXPdI"
       },
@@ -267,6 +235,62 @@
       "duration_ms": 207733,
       "name": "Als Ik Je Weer Zie",
       "url": "https://open.spotify.com/track/3yraHvsUkmnJjGhOrx1CSg"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Jammer Dan",
+        "url": "https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 185137,
+      "name": "Jammer Dan",
+      "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Waarom Nou Niet (Kleuren)",
+        "url": "https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "duration_ms": 169147,
+      "name": "Waarom Nou Niet (Kleuren)",
+      "url": "https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Tussen Jou en Mij",
+        "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
+      },
+      "artists": [
+        {
+          "name": "Willem & Jan",
+          "url": "https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq"
+        },
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        },
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "duration_ms": 178708,
+      "name": "Tussen Jou en Mij",
+      "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -323,30 +347,6 @@
       "duration_ms": 206250,
       "name": "Viva Cerveza",
       "url": "https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
-        "name": "Tussen Jou en Mij",
-        "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
-      },
-      "artists": [
-        {
-          "name": "Willem & Jan",
-          "url": "https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq"
-        },
-        {
-          "name": "Waylon",
-          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
-        },
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        }
-      ],
-      "duration_ms": 178708,
-      "name": "Tussen Jou en Mij",
-      "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -423,18 +423,26 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Zolang Je Bij Me Bent",
-        "url": "https://open.spotify.com/album/5XtfG950glREhIpc0pWQzA"
+        "name": "Missen Zou",
+        "url": "https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE"
       },
       "artists": [
         {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+          "name": "Thomas Acda",
+          "url": "https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
         }
       ],
-      "duration_ms": 171293,
-      "name": "Zolang Je Bij Me Bent",
-      "url": "https://open.spotify.com/track/7aAWfzW0L6448bUNxNVYIo"
+      "duration_ms": 167209,
+      "name": "Missen Zou",
+      "url": "https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -471,30 +479,6 @@
       "duration_ms": 152226,
       "name": "Gooi 'm Dicht",
       "url": "https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
-        "name": "Missen Zou",
-        "url": "https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE"
-      },
-      "artists": [
-        {
-          "name": "Thomas Acda",
-          "url": "https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y"
-        },
-        {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
-        },
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 167209,
-      "name": "Missen Zou",
-      "url": "https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -539,22 +523,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Honderd Keer",
-        "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "Honderd Keer",
-      "url": "https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Doe Je Dansie",
         "url": "https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv"
       },
@@ -567,6 +535,22 @@
       "duration_ms": 148000,
       "name": "Doe Je Dansie",
       "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Honderd Keer",
+        "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 196034,
+      "name": "Honderd Keer",
+      "url": "https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -711,26 +695,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Blijven Slapen",
-        "url": "https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        }
-      ],
-      "duration_ms": 170991,
-      "name": "Blijven Slapen",
-      "url": "https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Sexy Lady",
         "url": "https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu"
       },
@@ -763,22 +727,6 @@
       "duration_ms": 191590,
       "name": "Laat Me Lekker Leven",
       "url": "https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
-        "name": "Hoe Zou Het Zijn Geweest",
-        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Hoe Zou Het Zijn Geweest",
-      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -819,6 +767,22 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
+        "name": "Se\u00f1orita, Meisje van de nacht",
+        "url": "https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 176012,
+      "name": "Se\u00f1orita, Meisje van de nacht",
+      "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
         "name": "Laat Mij Nu Alleen",
         "url": "https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR"
       },
@@ -843,18 +807,90 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Se\u00f1orita, Meisje van de nacht",
-        "url": "https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj"
+        "name": "Nog Geen Si\u00ebsta",
+        "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
       },
       "artists": [
         {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        },
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
         }
       ],
-      "duration_ms": 176012,
-      "name": "Se\u00f1orita, Meisje van de nacht",
-      "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"
+      "duration_ms": 159843,
+      "name": "Nog Geen Si\u00ebsta",
+      "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Blijven Slapen",
+        "url": "https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 170991,
+      "name": "Blijven Slapen",
+      "url": "https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Hoe Zou Het Zijn Geweest",
+        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Hoe Zou Het Zijn Geweest",
+      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Ontspanje",
+        "url": "https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 160123,
+      "name": "Ontspanje",
+      "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Als Ik Naar Malaga Ga",
+        "url": "https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "duration_ms": 143203,
+      "name": "Als Ik Naar Malaga Ga",
+      "url": "https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -895,28 +931,24 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Nog Geen Si\u00ebsta",
-        "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
+        "name": "Pi\u00f1a Colada",
+        "url": "https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ"
       },
       "artists": [
         {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        },
-        {
-          "name": "Monique Smit",
-          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
         }
       ],
-      "duration_ms": 159843,
-      "name": "Nog Geen Si\u00ebsta",
-      "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
+      "duration_ms": 166849,
+      "name": "Pi\u00f1a Colada",
+      "url": "https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ"
     },
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Ontspanje",
-        "url": "https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N"
+        "name": "Eiland",
+        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
       },
       "artists": [
         {
@@ -924,9 +956,9 @@
           "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         }
       ],
-      "duration_ms": 160123,
-      "name": "Ontspanje",
-      "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
+      "duration_ms": 126239,
+      "name": "Eiland",
+      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -975,50 +1007,22 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Als Ik Naar Malaga Ga",
-        "url": "https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X"
+        "name": "Het Lijkt Hier Wel Ibiza",
+        "url": "https://open.spotify.com/album/6njQsNf4hEvlm2HOY7XLyg"
       },
       "artists": [
         {
-          "name": "Arjon Oostrom",
-          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
-        }
-      ],
-      "duration_ms": 143203,
-      "name": "Als Ik Naar Malaga Ga",
-      "url": "https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
-        "name": "Pi\u00f1a Colada",
-        "url": "https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ"
-      },
-      "artists": [
+          "name": "Jaman",
+          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
+        },
         {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
         }
       ],
-      "duration_ms": 166849,
-      "name": "Pi\u00f1a Colada",
-      "url": "https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
-        "name": "Eiland",
-        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 126239,
-      "name": "Eiland",
-      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
+      "duration_ms": 146514,
+      "name": "Het Lijkt Hier Wel Ibiza",
+      "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -1043,18 +1047,30 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+        "name": "(Die Man Is) Verliefd [Bonte Carlo - Holiday Remix]",
+        "url": "https://open.spotify.com/album/4qAk37jJHhAD1mFtJT3kgN"
       },
       "artists": [
         {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        },
+        {
+          "name": "Jeffrey Parmentier",
+          "url": "https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0"
+        },
+        {
+          "name": "Bonte Carlo",
+          "url": "https://open.spotify.com/artist/3mnbX3HtlkbxMRIhSDLa1M"
         }
       ],
-      "duration_ms": 167244,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+      "duration_ms": 205448,
+      "name": "(Die Man Is) Verliefd - Bonte Carlo - Holiday Remix",
+      "url": "https://open.spotify.com/track/21zH6hBqyOu64HWOLkOPqx"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -1075,6 +1091,22 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
         "name": "Zomernacht In Griekenland",
         "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
       },
@@ -1091,22 +1123,34 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Het Lijkt Hier Wel Ibiza",
-        "url": "https://open.spotify.com/album/6njQsNf4hEvlm2HOY7XLyg"
+        "name": "Wat Heb Ik Nu Toch Weer Gedaan",
+        "url": "https://open.spotify.com/album/2RmlLauXc2lfxohFWE6UYz"
       },
       "artists": [
         {
-          "name": "Jaman",
-          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
         }
       ],
-      "duration_ms": 146514,
-      "name": "Het Lijkt Hier Wel Ibiza",
-      "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
+      "duration_ms": 181640,
+      "name": "Wat Heb Ik Nu Toch Weer Gedaan",
+      "url": "https://open.spotify.com/track/6RjHgisPKvOdEQbcXxJSG6"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Leven",
+        "url": "https://open.spotify.com/album/0Fixqp0C0A2NQfvSMeHjl9"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Leven",
+      "url": "https://open.spotify.com/track/6f3vDmoE9ssTrOdLpJKxzT"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -1147,34 +1191,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "(Die Man Is) Verliefd [Bonte Carlo - Holiday Remix]",
-        "url": "https://open.spotify.com/album/4qAk37jJHhAD1mFtJT3kgN"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        },
-        {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
-        },
-        {
-          "name": "Jeffrey Parmentier",
-          "url": "https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0"
-        },
-        {
-          "name": "Bonte Carlo",
-          "url": "https://open.spotify.com/artist/3mnbX3HtlkbxMRIhSDLa1M"
-        }
-      ],
-      "duration_ms": 205448,
-      "name": "(Die Man Is) Verliefd - Bonte Carlo - Holiday Remix",
-      "url": "https://open.spotify.com/track/21zH6hBqyOu64HWOLkOPqx"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Zij Wil Mij",
         "url": "https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Wat Heb Ik Nu Toch Weer Gedaan",
-        "url": "https://open.spotify.com/album/2RmlLauXc2lfxohFWE6UYz"
+        "name": "Sangria",
+        "url": "https://open.spotify.com/album/7JHsHb3SG7oXD8r9GJPu2H"
       },
       "artists": [
         {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
         }
       ],
-      "duration_ms": 181640,
-      "name": "Wat Heb Ik Nu Toch Weer Gedaan",
-      "url": "https://open.spotify.com/track/6RjHgisPKvOdEQbcXxJSG6"
+      "duration_ms": 156050,
+      "name": "Sangria",
+      "url": "https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -1275,54 +1291,34 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Leven",
-        "url": "https://open.spotify.com/album/0Fixqp0C0A2NQfvSMeHjl9"
+        "name": "Un Chance",
+        "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
       },
       "artists": [
         {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Leven",
-      "url": "https://open.spotify.com/track/6f3vDmoE9ssTrOdLpJKxzT"
+      "duration_ms": 172385,
+      "name": "Un Chance",
+      "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
     },
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Sangria",
-        "url": "https://open.spotify.com/album/7JHsHb3SG7oXD8r9GJPu2H"
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4"
       },
       "artists": [
         {
-          "name": "Arjon Oostrom",
-          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
         }
       ],
-      "duration_ms": 156050,
-      "name": "Sangria",
-      "url": "https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
-        "name": "Kijk Ons Nou",
-        "url": "https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Metejoor",
-          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
-        }
-      ],
-      "duration_ms": 163709,
-      "name": "Kijk Ons Nou",
-      "url": "https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi"
+      "duration_ms": 198000,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb"
     }
   ],
   "unique_name": "Nederlandse Zomerhits 2026",

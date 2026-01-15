@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2d27idkCNWu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2d27idkCNWu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2d27idkCNWu)
+[pretty](/playlists/pretty/37i9dQZF1DX2d27idkCNWu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2d27idkCNWu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2d27idkCNWu)
 
 ### [Pop Acústico](https://open.spotify.com/playlist/37i9dQZF1DX2d27idkCNWu)
 

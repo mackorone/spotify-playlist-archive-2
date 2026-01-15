@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3byfICXn1tEvIDpgTYzeXx.md) - cumulative - [plain](/playlists/plain/3byfICXn1tEvIDpgTYzeXx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3byfICXn1tEvIDpgTYzeXx)
+[pretty](/playlists/pretty/3byfICXn1tEvIDpgTYzeXx.md) - cumulative - [plain](/playlists/plain/3byfICXn1tEvIDpgTYzeXx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3byfICXn1tEvIDpgTYzeXx)
 
 ### [🌓 Light Night Group Playlist](https://open.spotify.com/playlist/3byfICXn1tEvIDpgTYzeXx)
 

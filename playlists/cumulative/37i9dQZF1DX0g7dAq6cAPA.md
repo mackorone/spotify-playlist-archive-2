@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0g7dAq6cAPA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0g7dAq6cAPA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0g7dAq6cAPA)
+[pretty](/playlists/pretty/37i9dQZF1DX0g7dAq6cAPA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0g7dAq6cAPA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0g7dAq6cAPA)
 
 ### [Puella Magi Madoka Magica](https://open.spotify.com/playlist/37i9dQZF1DX0g7dAq6cAPA)
 

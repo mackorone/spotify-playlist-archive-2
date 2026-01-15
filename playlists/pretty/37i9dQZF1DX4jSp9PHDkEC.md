@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain](/playlists/plain/37i9dQZF1DX4jSp9PHDkEC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4jSp9PHDkEC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain](/playlists/plain/37i9dQZF1DX4jSp9PHDkEC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4jSp9PHDkEC)
 
 ### [Melancolía Indie](https://open.spotify.com/playlist/37i9dQZF1DX4jSp9PHDkEC)
 

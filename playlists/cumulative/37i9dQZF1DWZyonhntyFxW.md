@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZyonhntyFxW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZyonhntyFxW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZyonhntyFxW)
+[pretty](/playlists/pretty/37i9dQZF1DWZyonhntyFxW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZyonhntyFxW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZyonhntyFxW)
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: أبيوسف
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: زياد ظاظا
 
-442 songs - 21 hr 33 min
+443 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Brrr Brrr Brrr](https://open.spotify.com/track/56toH670HEUhhOYEbubXYr) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Brrr Brrr Brrr](https://open.spotify.com/album/6jCUduTAISjBcTXtfiU0x3) | 3:27 | 2022-05-10 | 2023-03-07 |
 | [Buffon](https://open.spotify.com/track/1z80McM0pmXmdxxazZZW0S) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Setta Bel Hob](https://open.spotify.com/album/1HpTWXpf8aNEX2LQGnn2cu) | 3:26 | 2022-08-08 | 2022-12-07 |
 | [BŃŅIT](https://open.spotify.com/track/3d7rmWQj2AaH81tdD2qrRB) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [PRJKTBLUBEAM](https://open.spotify.com/album/0rJxCuUYsfbFQZomCBLWtc) | 2:31 | 2024-08-15 | 2024-11-30 |
-| [CA$HETA](https://open.spotify.com/track/5nJlh46X5vg65P4tLhKWtT) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [CA$HETA](https://open.spotify.com/album/578xeeJvGaezmhcHQLM7Ex) | 1:29 | 2025-10-02 |  |
+| [CA$HETA](https://open.spotify.com/track/5nJlh46X5vg65P4tLhKWtT) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [CA$HETA](https://open.spotify.com/album/578xeeJvGaezmhcHQLM7Ex) | 1:29 | 2025-10-02 | 2026-01-15 |
 | [CA7BY](https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 2:54 | 2022-07-20 | 2022-09-28 |
 | [CAP MERCEDES](https://open.spotify.com/track/1e6lP3m32MeLVEtZ2W1tnI) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [CAP MERCEDES](https://open.spotify.com/album/5Xw5WVvVrPJTU96wj5gHgV) | 2:46 | 2023-07-26 | 2023-08-18 |
 | [Caravan](https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ) | 2:29 | 2023-01-18 | 2023-05-23 |
@@ -226,6 +226,7 @@
 | [Ma 3Aleena](https://open.spotify.com/track/5QGPHt2jSENWFe6rHjMOz5) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Ma 3Aleena](https://open.spotify.com/album/1AO98h2bmjf2IOy0aRuRlc) | 3:26 | 2023-01-31 | 2023-03-10 |
 | [Ma3lesh Ana Toht](https://open.spotify.com/track/5bWMX0CAw3ZSuUmBStnI23) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ma3lesh Ana Toht](https://open.spotify.com/album/1Bto2XiqyMEb9FHB1BkGFI) | 3:33 | 2022-05-10 | 2022-06-21 |
 | [Ma3rafnish](https://open.spotify.com/track/35f5B1FqqHkHIJhi85wDYz) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:40 | 2023-05-25 | 2023-06-16 |
+| [Maalosh Beymot Leh ?](https://open.spotify.com/track/3RiDHz3sX2V0hyKUnzcrLR) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [OQAY OQAY](https://open.spotify.com/album/1uWQcxrrmMmkdG8lO0YB7M) | 2:17 | 2026-01-12 |  |
 | [MADARETSH](https://open.spotify.com/track/20ug862pGPnJRSuENJp3ae) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [SALEM](https://open.spotify.com/album/3B8uIcXsXw8SA8FU6oTZjM) | 2:28 | 2024-02-03 | 2024-04-19 |
 | [Mafesh Mane3](https://open.spotify.com/track/3oE8bLxqY4L14n7GPLSRR3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Mafesh Mane3](https://open.spotify.com/album/3pkXXciOn1FgsroRvaR9Lj) | 3:40 | 2023-08-08 | 2023-08-18 |
 | [MAGANEEN](https://open.spotify.com/track/128stPZbUIBhJU6cYiyNrU) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51) | [MAGANEEN](https://open.spotify.com/album/7qDjmgVN6jRPH2Kue0njD8) | 4:00 | 2023-09-09 | 2023-10-01 |

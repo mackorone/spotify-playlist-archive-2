@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain](/playlists/plain/37i9dQZF1DX2WSz2bIXl9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2WSz2bIXl9B)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain](/playlists/plain/37i9dQZF1DX2WSz2bIXl9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2WSz2bIXl9B)
 
 ### [RADAR Creators España](https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B)
 
 > Pódcasts que necesitas mantener en tu RADAR: Mamarracha, No Todo Vale, Me Cago Vivo, Fluir con el Caos, Te la pinto<br/><br/>En portada, Te la pinto
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,467 likes - 10 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,466 likes - 10 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

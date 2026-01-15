@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5CrSNP0mzoZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5CrSNP0mzoZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5CrSNP0mzoZ)
+[pretty](/playlists/pretty/37i9dQZF1DX5CrSNP0mzoZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5CrSNP0mzoZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5CrSNP0mzoZ)
 
 ### [This is: Sir George Martin](https://open.spotify.com/playlist/37i9dQZF1DX5CrSNP0mzoZ)
 

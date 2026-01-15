@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain](/playlists/plain/37i9dQZF1DX7rqPov2ZRCB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7rqPov2ZRCB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain](/playlists/plain/37i9dQZF1DX7rqPov2ZRCB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7rqPov2ZRCB)
 
 ### [Merengue Típico](https://open.spotify.com/playlist/37i9dQZF1DX7rqPov2ZRCB)
 

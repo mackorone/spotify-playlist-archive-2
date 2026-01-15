@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain](/playlists/plain/37i9dQZF1DX6BbeVFYBeZs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6BbeVFYBeZs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain](/playlists/plain/37i9dQZF1DX6BbeVFYBeZs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6BbeVFYBeZs)
 
 ### [Relaxing Guitar](https://open.spotify.com/playlist/37i9dQZF1DX6BbeVFYBeZs)
 

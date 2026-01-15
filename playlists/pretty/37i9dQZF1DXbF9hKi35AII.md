@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbF9hKi35AII.md) - [plain](/playlists/plain/37i9dQZF1DXbF9hKi35AII) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbF9hKi35AII)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbF9hKi35AII.md) - [plain](/playlists/plain/37i9dQZF1DXbF9hKi35AII) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbF9hKi35AII)
 
 ### [Best of Hot Hits Suomi 2025](https://open.spotify.com/playlist/37i9dQZF1DXbF9hKi35AII)
 
 > Hot Hits Suomi \-soittolistan parhaat biisit vuodelta 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,716 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,713 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

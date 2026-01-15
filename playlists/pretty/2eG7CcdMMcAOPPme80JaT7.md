@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2eG7CcdMMcAOPPme80JaT7.md) - [plain](/playlists/plain/2eG7CcdMMcAOPPme80JaT7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2eG7CcdMMcAOPPme80JaT7)
+pretty - [cumulative](/playlists/cumulative/2eG7CcdMMcAOPPme80JaT7.md) - [plain](/playlists/plain/2eG7CcdMMcAOPPme80JaT7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2eG7CcdMMcAOPPme80JaT7)
 
 ### [Musical Hits ](https://open.spotify.com/playlist/2eG7CcdMMcAOPPme80JaT7)
 
 > From films to Broadway and London's West End\. Cover: Marisha Wallace
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 165,582 likes - 85 songs - 5 hr 6 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 165,543 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

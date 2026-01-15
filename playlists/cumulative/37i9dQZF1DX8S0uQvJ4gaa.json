@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Abbey Cone",
+  "description": "Break them in, wear them out. Cover: Owen Riegling",
   "name": "New Boots",
   "tracks": [
     {
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218066,
       "name": "Back In The Bottle",
       "url": "https://open.spotify.com/track/3vwHO9kxPM4hvTnaiiVdkl"
@@ -5087,6 +5087,24 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211991,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV"
+    },
+    {
+      "album": {
         "name": "Born Here Live Here Die Here",
         "url": "https://open.spotify.com/album/7u1Tix9DQQ5he0AESSfGkp"
       },
@@ -6563,6 +6581,28 @@
     },
     {
       "album": {
+        "name": "Call You A Friend",
+        "url": "https://open.spotify.com/album/28Wioq6mQO9LGm1UqUdXcn"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        },
+        {
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178607,
+      "name": "Call You A Friend",
+      "url": "https://open.spotify.com/track/4MUUXOI3Afk9CXtDS3SsUo"
+    },
+    {
+      "album": {
         "name": "Call You Names",
         "url": "https://open.spotify.com/album/4vbq9kUCiAAeJMjt06RIw4"
       },
@@ -7340,6 +7380,24 @@
       "duration_ms": 165493,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/5sE5w8lzxAg5fNeXbSWIOw"
+    },
+    {
+      "album": {
+        "name": "Cherry Rose",
+        "url": "https://open.spotify.com/album/1Tf3drcnCApPov4zMkoQgj"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234939,
+      "name": "Cherry Rose",
+      "url": "https://open.spotify.com/track/5VRjDEwfUu07wC5iTpdbG8"
     },
     {
       "album": {
@@ -17831,6 +17889,24 @@
     },
     {
       "album": {
+        "name": "Hard Pill",
+        "url": "https://open.spotify.com/album/15PD9rnBxeUhFfA13qkXVO"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199714,
+      "name": "Hard Pill",
+      "url": "https://open.spotify.com/track/1MKBNca9hluUAqgsUV4qMG"
+    },
+    {
+      "album": {
         "name": "Hard Run (feat. Marcus King)",
         "url": "https://open.spotify.com/album/70PRo84253KIh13gwGnocD"
       },
@@ -19097,6 +19173,24 @@
     },
     {
       "album": {
+        "name": "Hell If I Know",
+        "url": "https://open.spotify.com/album/5W1rWBh46qMcop5xhvWga5"
+      },
+      "artists": [
+        {
+          "name": "Tyler Nance",
+          "url": "https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177430,
+      "name": "Hell If I Know",
+      "url": "https://open.spotify.com/track/3bCpA607HnEb6OZcbpiS1i"
+    },
+    {
+      "album": {
         "name": "Hell is a Dance Floor",
         "url": "https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY"
       },
@@ -19296,7 +19390,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 231766,
       "name": "Help You Remember",
       "url": "https://open.spotify.com/track/0NDbgxEjozJOUUWk7amahQ"
@@ -19318,6 +19412,24 @@
       "duration_ms": 193255,
       "name": "Her and My Hometown",
       "url": "https://open.spotify.com/track/7ceqEoMEkQ5XNM548hpCNP"
+    },
+    {
+      "album": {
+        "name": "Her Favorite Color",
+        "url": "https://open.spotify.com/album/16aAAmxXMg7zIo3nIUZjNO"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197700,
+      "name": "Her Favorite Color",
+      "url": "https://open.spotify.com/track/2j6ZIBYQaozfDdcfzKlNnO"
     },
     {
       "album": {
@@ -26956,7 +27068,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 239250,
       "name": "Looking Down Proud",
       "url": "https://open.spotify.com/track/6pTpcZkX1EiUmAvC1DPgA1"
@@ -34512,7 +34624,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 187119,
       "name": "Phone Call From Home",
       "url": "https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf"
@@ -36533,6 +36645,24 @@
     },
     {
       "album": {
+        "name": "From Me To You",
+        "url": "https://open.spotify.com/album/13brJO9Tx8ZSehe6wtmU9G"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266621,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/2oaKm8emuYSTV4q1cmWrnI"
+    },
+    {
+      "album": {
         "name": "Rocky Mountain Low (feat. Koe Wetzel)",
         "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
       },
@@ -38282,7 +38412,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190649,
       "name": "Shovel",
       "url": "https://open.spotify.com/track/0RAJTCyUgzXqct9qXcQhjk"
@@ -44510,7 +44640,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217800,
       "name": "Things You Didn't See",
       "url": "https://open.spotify.com/track/6eh9G4frVtE4zXRQ9hc2Vn"
@@ -51080,7 +51210,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 247423,
       "name": "Wouldn't Be Gone",
       "url": "https://open.spotify.com/track/636bwZW0wnyLmE8jOftTLF"

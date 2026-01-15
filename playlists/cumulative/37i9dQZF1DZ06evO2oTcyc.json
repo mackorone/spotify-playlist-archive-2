@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 158986,
       "name": "Endless Nights (feat. Gunna)",
       "url": "https://open.spotify.com/track/6k8pPJi8jbFSopEQA0rffn"
@@ -1879,6 +1879,32 @@
     },
     {
       "album": {
+        "name": "d00mscrvll",
+        "url": "https://open.spotify.com/album/7oopgknSuc08RQ5jR0aBjy"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "d00mscrvll",
+          "url": "https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160806,
+      "name": "Loitering (ft. Kodak Black)",
+      "url": "https://open.spotify.com/track/1jMhBGKs5FSWcFSqXOlyW9"
+    },
+    {
+      "album": {
         "name": "Back For Everything",
         "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
       },
@@ -2206,7 +2232,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192036,
       "name": "On Everything",
       "url": "https://open.spotify.com/track/3SgWgfBoO5JCJnpCwKd9DM"

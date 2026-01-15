@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3fRquEp6m8D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3fRquEp6m8D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3fRquEp6m8D)
+[pretty](/playlists/pretty/37i9dQZF1DX3fRquEp6m8D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3fRquEp6m8D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3fRquEp6m8D)
 
 ### [This Is Dua Lipa](https://open.spotify.com/playlist/37i9dQZF1DX3fRquEp6m8D)
 

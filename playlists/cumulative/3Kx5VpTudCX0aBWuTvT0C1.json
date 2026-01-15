@@ -1093,6 +1093,28 @@
     },
     {
       "album": {
+        "name": "Make Love",
+        "url": "https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS"
+      },
+      "artists": [
+        {
+          "name": "CLARASCHEIN",
+          "url": "https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w"
+        },
+        {
+          "name": "Vittorio Longobardi",
+          "url": "https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o"
+    },
+    {
+      "album": {
         "name": "Fracasos",
         "url": "https://open.spotify.com/album/2o6E8Qg3KGW0Dw9HS1dGDX"
       },
@@ -1394,6 +1416,42 @@
       "duration_ms": 187083,
       "name": "Perro insensible",
       "url": "https://open.spotify.com/track/61sja73d8He0LLeEFtznED"
+    },
+    {
+      "album": {
+        "name": "wild",
+        "url": "https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32"
+      },
+      "artists": [
+        {
+          "name": "Courtney Nord",
+          "url": "https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195144,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW"
+    },
+    {
+      "album": {
+        "name": "Punto Cero",
+        "url": "https://open.spotify.com/album/6SxhGvhfo2FBsGjZgNgvrO"
+      },
+      "artists": [
+        {
+          "name": "Valira",
+          "url": "https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221669,
+      "name": "Punto Cero",
+      "url": "https://open.spotify.com/track/1I21Ts3OdQHSF82lz1VyFv"
     },
     {
       "album": {
@@ -1823,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L"
+      },
+      "artists": [
+        {
+          "name": "Flying Earrings",
+          "url": "https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405666,
+      "name": "Warpaint",
+      "url": "https://open.spotify.com/track/3YUxt5V51agQZDIBTn2Wp2"
+    },
+    {
+      "album": {
         "name": "We're Not Going Back !",
         "url": "https://open.spotify.com/album/24RpqAI2h0N71yyWZAHjUR"
       },
@@ -1853,7 +1929,7 @@
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 211626,
+      "duration_ms": 211153,
       "name": "Weaker",
       "url": "https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1"
     },

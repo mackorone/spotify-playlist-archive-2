@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mugoicuosu.md) - [plain](/playlists/plain/37i9dQZF1DX4mugoicuosu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4mugoicuosu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mugoicuosu.md) - [plain](/playlists/plain/37i9dQZF1DX4mugoicuosu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4mugoicuosu)
 
 ### [Nowe Rozdanie: Rhythm + Flow Polska Oficjalna Playlista](https://open.spotify.com/playlist/37i9dQZF1DX4mugoicuosu)
 
 > Posłuchaj muzyki z Nowego Rozdania: Rhythm + Flow Polska\. Oglądaj wszystkie odcinki w Netflixie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,089 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,092 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

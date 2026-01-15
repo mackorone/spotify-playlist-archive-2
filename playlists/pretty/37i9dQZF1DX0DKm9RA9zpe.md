@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain](/playlists/plain/37i9dQZF1DX0DKm9RA9zpe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0DKm9RA9zpe)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain](/playlists/plain/37i9dQZF1DX0DKm9RA9zpe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0DKm9RA9zpe)
 
 ### [SUPER BAND \(슈퍼밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX0DKm9RA9zpe)
 

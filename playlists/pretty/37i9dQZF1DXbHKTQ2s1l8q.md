@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain](/playlists/plain/37i9dQZF1DXbHKTQ2s1l8q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbHKTQ2s1l8q)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain](/playlists/plain/37i9dQZF1DXbHKTQ2s1l8q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbHKTQ2s1l8q)
 
 ### [Breezy Acoustic](https://open.spotify.com/playlist/37i9dQZF1DXbHKTQ2s1l8q)
 

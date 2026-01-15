@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Justin Quiles, Lenny Tav\u00e1rez y Blessd.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Fronti y Ozuna ",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -14131,6 +14131,28 @@
     },
     {
       "album": {
+        "name": "La Hermandad",
+        "url": "https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK"
+      },
+      "artists": [
+        {
+          "name": "La Vendicion",
+          "url": "https://open.spotify.com/artist/0Yp8VHUZMjHleknMfdBsyh"
+        },
+        {
+          "name": "La Obsesion",
+          "url": "https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165293,
+      "name": "LADYHOY",
+      "url": "https://open.spotify.com/track/2GGVKT0t4s594JTy9z29fI"
+    },
+    {
+      "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
@@ -14252,7 +14274,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203833,
       "name": "LAS NEAS",
       "url": "https://open.spotify.com/track/4VPetBH68wPQ67N8LwwJAI"
@@ -20470,7 +20492,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 188694,
       "name": "Para\u00edso de los malos",
       "url": "https://open.spotify.com/track/1OAswJQpR5c4O8PmaXnMwX"
@@ -22397,6 +22419,32 @@
     },
     {
       "album": {
+        "name": "QUIEBRA CINTURA",
+        "url": "https://open.spotify.com/album/3aKxsplwX3UWkW54um1nzF"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156937,
+      "name": "QUIEBRA CINTURA",
+      "url": "https://open.spotify.com/track/34zsECd7hSOb37M6uifwcY"
+    },
+    {
+      "album": {
         "name": "Le Clique: Vida Rockstar (X)",
         "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
       },
@@ -22736,7 +22784,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139200,
       "name": "REGGAET\u00d3N MEXA",
       "url": "https://open.spotify.com/track/43wSjuhR6i2AXBLUoeHDIN"
@@ -27432,6 +27480,28 @@
       "duration_ms": 218883,
       "name": "UN DESEO",
       "url": "https://open.spotify.com/track/2ECSDcH0Fk1yRO5KkVZwKn"
+    },
+    {
+      "album": {
+        "name": "Un Kiss (Remix)",
+        "url": "https://open.spotify.com/album/4GL0bdlzyYP7pGbYyoYeLu"
+      },
+      "artists": [
+        {
+          "name": "Fronti",
+          "url": "https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142756,
+      "name": "Un Kiss - Remix",
+      "url": "https://open.spotify.com/track/2TzuzFUxKULFs9psxgHQIF"
     },
     {
       "album": {

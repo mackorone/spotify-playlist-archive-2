@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TbM1BxdqS.md) - [plain](/playlists/plain/37i9dQZF1DX56TbM1BxdqS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX56TbM1BxdqS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TbM1BxdqS.md) - [plain](/playlists/plain/37i9dQZF1DX56TbM1BxdqS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX56TbM1BxdqS)
 
 ### [Starring Raj Kapoor](https://open.spotify.com/playlist/37i9dQZF1DX56TbM1BxdqS)
 
 > Remembering the showman Raj Kapoor with his biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,016 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,047 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

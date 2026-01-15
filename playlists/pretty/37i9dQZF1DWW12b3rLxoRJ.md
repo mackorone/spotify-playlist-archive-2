@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW12b3rLxoRJ.md) - [plain](/playlists/plain/37i9dQZF1DWW12b3rLxoRJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW12b3rLxoRJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW12b3rLxoRJ.md) - [plain](/playlists/plain/37i9dQZF1DWW12b3rLxoRJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW12b3rLxoRJ)
 
 ### [La Firma Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWW12b3rLxoRJ)
 
 > Súbele el volumen a La Firma\. Escucha los hits de esta competencia de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 75 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 75 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

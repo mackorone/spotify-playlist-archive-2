@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXb9I5xoXLjp.md) - [plain](/playlists/plain/37i9dQZF1DWXb9I5xoXLjp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXb9I5xoXLjp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXb9I5xoXLjp.md) - [plain](/playlists/plain/37i9dQZF1DWXb9I5xoXLjp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXb9I5xoXLjp)
 
 ### [The Most Romantic Songs in the World](https://open.spotify.com/playlist/37i9dQZF1DWXb9I5xoXLjp)
 

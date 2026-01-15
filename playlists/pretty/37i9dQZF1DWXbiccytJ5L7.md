@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain](/playlists/plain/37i9dQZF1DWXbiccytJ5L7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXbiccytJ5L7)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain](/playlists/plain/37i9dQZF1DWXbiccytJ5L7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXbiccytJ5L7)
 
 ### [Country Rap](https://open.spotify.com/playlist/37i9dQZF1DWXbiccytJ5L7)
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,844 likes - 111 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,861 likes - 111 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

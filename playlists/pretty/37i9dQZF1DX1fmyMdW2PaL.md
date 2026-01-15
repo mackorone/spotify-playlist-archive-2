@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain](/playlists/plain/37i9dQZF1DX1fmyMdW2PaL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1fmyMdW2PaL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain](/playlists/plain/37i9dQZF1DX1fmyMdW2PaL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1fmyMdW2PaL)
 
 ### [Complete Chaos](https://open.spotify.com/playlist/37i9dQZF1DX1fmyMdW2PaL)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5x0KLud2Zf0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5x0KLud2Zf0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5x0KLud2Zf0)
+[pretty](/playlists/pretty/37i9dQZF1DX5x0KLud2Zf0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5x0KLud2Zf0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5x0KLud2Zf0)
 
 ### [Cancionero Horacio Palencia](https://open.spotify.com/playlist/37i9dQZF1DX5x0KLud2Zf0)
 

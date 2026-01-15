@@ -1,13 +1,49 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Georgia</a>",
-  "num_followers": 61597,
+  "num_followers": 61552,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAARJzliQcFyWFui0BsdIVK0Ho86Z7E3",
+  "snapshot_id": "AAARXd8WavtzKOkPZNgJ7RfL8gNlnbQC",
   "tracks": [
+    {
+      "added_at": "2026-01-08 12:30:12",
+      "album": {
+        "name": "They Keep Trying To Find You",
+        "url": "https://open.spotify.com/album/1Na5NJdxuRYWAA8Xb9QLUT"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Prince Billy",
+          "url": "https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV"
+        }
+      ],
+      "duration_ms": 277075,
+      "name": "They Keep Trying To Find You",
+      "url": "https://open.spotify.com/track/2DCq0pOJN2gWXuVqOw5toB"
+    },
+    {
+      "added_at": "2026-01-08 12:30:10",
+      "album": {
+        "name": "Haze (Midnight Version)",
+        "url": "https://open.spotify.com/album/00zPUzJg4iPDpM6QRdy22K"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Ellie",
+          "url": "https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S"
+        }
+      ],
+      "duration_ms": 345312,
+      "name": "Haze - Midnight Version",
+      "url": "https://open.spotify.com/track/2jKirPgYvSeQKXsnFOyifX"
+    },
     {
       "added_at": "2025-12-17 10:48:24",
       "album": {
@@ -57,7 +93,7 @@
       "url": "https://open.spotify.com/track/0o0Xu2i0V3bkv1SV1Epbkc"
     },
     {
-      "added_at": "2025-12-17 10:48:24",
+      "added_at": "2026-01-14 11:45:55",
       "album": {
         "name": "The Orchids",
         "url": "https://open.spotify.com/album/4lBAWfH8QNQ33Y24KolwYs"
@@ -73,7 +109,7 @@
       "url": "https://open.spotify.com/track/31aiWi0crrBvSOQ0TdUyhO"
     },
     {
-      "added_at": "2025-12-17 10:48:24",
+      "added_at": "2026-01-14 11:45:12",
       "album": {
         "name": "Mad Rooter / Ghost Rider",
         "url": "https://open.spotify.com/album/1UkX698qcQWwip6PvYkEun"
@@ -89,7 +125,7 @@
       "url": "https://open.spotify.com/track/7eVuR1A1cvCuPSqmS6pFKX"
     },
     {
-      "added_at": "2025-12-17 10:48:24",
+      "added_at": "2026-01-14 11:45:30",
       "album": {
         "name": "joyride",
         "url": "https://open.spotify.com/album/4jqtWbVBqPK5GPni1dvIyT"
@@ -105,7 +141,7 @@
       "url": "https://open.spotify.com/track/3anTf4RJqj0hiIRkT4IyA1"
     },
     {
-      "added_at": "2025-12-17 10:48:24",
+      "added_at": "2026-01-14 11:48:21",
       "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/3wsylXpUbE28OFvEXVeg7m"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/0OVuprhFXX26YJPGbe05hZ"
     },
     {
-      "added_at": "2025-12-17 10:48:24",
+      "added_at": "2026-01-14 11:47:02",
       "album": {
         "name": "wet glass",
         "url": "https://open.spotify.com/album/2e15qb9h9SUzF3czPW8bEh"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/6NMeyLSTAeFsoQyODhZYPo"
     },
     {
-      "added_at": "2025-12-17 10:48:24",
+      "added_at": "2026-01-14 11:49:31",
       "album": {
         "name": "Holo Boy",
         "url": "https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB"
@@ -151,70 +187,6 @@
       "duration_ms": 100913,
       "name": "SF & GG",
       "url": "https://open.spotify.com/track/5tZrVj5v9aKMHOmcb6MDlZ"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
-        "name": "canary whorf",
-        "url": "https://open.spotify.com/album/51HUbZF7OBRzDeDIzhA0oL"
-      },
-      "artists": [
-        {
-          "name": "Wykin",
-          "url": "https://open.spotify.com/artist/6vbukajCHA9dxTQPOzVRhu"
-        }
-      ],
-      "duration_ms": 213300,
-      "name": "canary whorf",
-      "url": "https://open.spotify.com/track/1c11ygh9oLfFW6npYz44sZ"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
-        "name": "Blizzard",
-        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 165460,
-      "name": "Pale Song",
-      "url": "https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
-        "name": "Ant\u00eddoto",
-        "url": "https://open.spotify.com/album/4FgoEm9Ylb6Btd2UUWSEtB"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 389435,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/7LUz1OBtSiaGVjY4k5xR3C"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
-        "name": "Balloon Balloon Balloon",
-        "url": "https://open.spotify.com/album/4rCduWuK1sHdM4TNILadHp"
-      },
-      "artists": [
-        {
-          "name": "Sharp Pins",
-          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "(I Wanna) Be Your Girl",
-      "url": "https://open.spotify.com/track/7sKbeh17F1qTfHkgV3y7t0"
     },
     {
       "added_at": "2025-12-17 10:48:24",
@@ -263,22 +235,6 @@
       "duration_ms": 181376,
       "name": "Chrysalis",
       "url": "https://open.spotify.com/track/3A5QbUGc4iQoUdzMKP2XG7"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
-        "name": "Tranquilizer",
-        "url": "https://open.spotify.com/album/4nOjUCw5rOroJp1JHcLZau"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "D.I.S.",
-      "url": "https://open.spotify.com/track/1AWVySdGojdnQDRyNd6Y2s"
     },
     {
       "added_at": "2025-12-17 10:48:24",
@@ -407,22 +363,6 @@
       "duration_ms": 240492,
       "name": "U DO",
       "url": "https://open.spotify.com/track/6LTPzG9ONMja1bvY2yDYZt"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
-        "name": "Hits Hits Hits (Live at Konk Studios)",
-        "url": "https://open.spotify.com/album/4dsQLfcgifxzQywjSRDD8e"
-      },
-      "artists": [
-        {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
-        }
-      ],
-      "duration_ms": 290319,
-      "name": "Hits Hits Hits - Live at Konk Studios",
-      "url": "https://open.spotify.com/track/2oSWBcnrEpuwLQFmKaBFAd"
     },
     {
       "added_at": "2025-12-17 10:48:24",
@@ -559,22 +499,6 @@
     {
       "added_at": "2025-12-17 10:48:24",
       "album": {
-        "name": "Fallen Cloud",
-        "url": "https://open.spotify.com/album/6MonCuHwaHWT2dXu5PwMOK"
-      },
-      "artists": [
-        {
-          "name": "Austra",
-          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
-        }
-      ],
-      "duration_ms": 276662,
-      "name": "Fallen Cloud",
-      "url": "https://open.spotify.com/track/2eYz2ZEoHun4Lepj7nBM3S"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
         "name": "Be Free",
         "url": "https://open.spotify.com/album/22EzpDu4EgPaPuPiUtHZLw"
       },
@@ -627,26 +551,6 @@
     {
       "added_at": "2025-12-17 10:48:24",
       "album": {
-        "name": "Tremor",
-        "url": "https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "Ellie",
-          "url": "https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S"
-        }
-      ],
-      "duration_ms": 236951,
-      "name": "Haze",
-      "url": "https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
         "name": "Nobody Wants To Be Here And Nobody Wants To Leave (Demos)",
         "url": "https://open.spotify.com/album/0Kq9hw7z2wmAxnpXJnmJOg"
       },
@@ -679,26 +583,6 @@
     {
       "added_at": "2025-12-17 10:48:24",
       "album": {
-        "name": "In the Earth Again",
-        "url": "https://open.spotify.com/album/5KFvhZwejSylBaPatTFVBA"
-      },
-      "artists": [
-        {
-          "name": "Chat Pile",
-          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
-        },
-        {
-          "name": "Hayden Pedigo",
-          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "The Magic of the World",
-      "url": "https://open.spotify.com/track/5E0HFc9EgQTH91dOXxBccs"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
         "name": "The Man I'm Supposed to Be",
         "url": "https://open.spotify.com/album/7sZ7r9GjMQqoyFsHyIj9h3"
       },
@@ -715,46 +599,6 @@
     {
       "added_at": "2025-12-17 10:48:24",
       "album": {
-        "name": "Covet",
-        "url": "https://open.spotify.com/album/4HkBkz9biK7ue7gEnNcrUV"
-      },
-      "artists": [
-        {
-          "name": "Tanzana",
-          "url": "https://open.spotify.com/artist/2mwOkIqXhMvuo4NIOf2vqQ"
-        }
-      ],
-      "duration_ms": 195029,
-      "name": "Covet",
-      "url": "https://open.spotify.com/track/5sKUeYGEoLOGZfbrc0yzO4"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
-        "name": "Snocaps",
-        "url": "https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad"
-      },
-      "artists": [
-        {
-          "name": "Snocaps",
-          "url": "https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "Allison Crutchfield",
-          "url": "https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj"
-        }
-      ],
-      "duration_ms": 160924,
-      "name": "Cherry Hard Candy",
-      "url": "https://open.spotify.com/track/6L6zjdrq9tk2a3orhgTSPa"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
         "name": "ICONOCLASTS",
         "url": "https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN"
       },
@@ -767,54 +611,6 @@
       "duration_ms": 191346,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/1XNGWVLE89kJYPxL3Hkzi5"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
-        "name": "Anoraks",
-        "url": "https://open.spotify.com/album/6Fb96dkJ6yip1nB1svQ2Cu"
-      },
-      "artists": [
-        {
-          "name": "Tunng",
-          "url": "https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa"
-        }
-      ],
-      "duration_ms": 267122,
-      "name": "Anoraks",
-      "url": "https://open.spotify.com/track/3oCmL4SQKPtX57zjvLTlp8"
-    },
-    {
-      "added_at": "2025-12-17 10:48:24",
-      "album": {
-        "name": "Build a Box Then Break It",
-        "url": "https://open.spotify.com/album/6yIJZ0KDXmax9PYFdDvPwc"
-      },
-      "artists": [
-        {
-          "name": "Ulrika Spacek",
-          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
-        }
-      ],
-      "duration_ms": 329453,
-      "name": "Build a Box Then Break It",
-      "url": "https://open.spotify.com/track/6MO1JraG2cetl3gjJ5gSln"
     },
     {
       "added_at": "2025-12-17 10:48:24",
@@ -849,6 +645,22 @@
       "url": "https://open.spotify.com/track/7qWmyeJ4GQzYJ44Tf8L5Yq"
     },
     {
+      "added_at": "2026-01-14 11:47:37",
+      "album": {
+        "name": "Face Of God",
+        "url": "https://open.spotify.com/album/212GSKbV7595aV6uQ2Opef"
+      },
+      "artists": [
+        {
+          "name": "Lush Duck",
+          "url": "https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Face Of God",
+      "url": "https://open.spotify.com/track/1TPWOE9KMPihB44CTXyYHE"
+    },
+    {
       "added_at": "2025-12-17 10:48:24",
       "album": {
         "name": "Again",
@@ -863,6 +675,190 @@
       "duration_ms": 192936,
       "name": "Smiling",
       "url": "https://open.spotify.com/track/4luX73X27vMHgj0j22H4ax"
+    },
+    {
+      "added_at": "2026-01-07 09:46:36",
+      "album": {
+        "name": "All That Is Over",
+        "url": "https://open.spotify.com/album/0oqLmxhxIu8moVRQZLfsYQ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 372971,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6BZ26qRE7TRgLhVSvSUyvX"
+    },
+    {
+      "added_at": "2026-01-07 09:46:49",
+      "album": {
+        "name": "Famous Last Words",
+        "url": "https://open.spotify.com/album/3aNfU7QqGoJrWbZEWUi879"
+      },
+      "artists": [
+        {
+          "name": "CASISDEAD",
+          "url": "https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs"
+        },
+        {
+          "name": "LATER",
+          "url": "https://open.spotify.com/artist/6KobHxLpC6dESaUvuo1w3Q"
+        }
+      ],
+      "duration_ms": 263050,
+      "name": "Before This",
+      "url": "https://open.spotify.com/track/4ieitALo8bLoLfVxabdieZ"
+    },
+    {
+      "added_at": "2026-01-07 09:47:03",
+      "album": {
+        "name": "Plowing Into the Field of Love",
+        "url": "https://open.spotify.com/album/1uxE3o03No4rPsWVyS0ZMS"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 291816,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6Hf3nqyIqLQjvtKzacVYVu"
+    },
+    {
+      "added_at": "2026-01-07 09:47:26",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 188271,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
+    },
+    {
+      "added_at": "2026-01-07 09:47:39",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/38xLFACKJBodx4HiYqwfUi"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "A Title Comes",
+      "url": "https://open.spotify.com/track/7wm2MVxaFYtGJuuVXh1pMk"
+    },
+    {
+      "added_at": "2026-01-07 09:47:49",
+      "album": {
+        "name": "Micrographia",
+        "url": "https://open.spotify.com/album/4bmmNR4lULAnrGbHMLCpLj"
+      },
+      "artists": [
+        {
+          "name": "Bug Teeth",
+          "url": "https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Thin Circle",
+      "url": "https://open.spotify.com/track/3qaYp431qLh8NvKUQlWd5v"
+    },
+    {
+      "added_at": "2026-01-07 09:48:03",
+      "album": {
+        "name": "Hold Me In A New Way",
+        "url": "https://open.spotify.com/album/1ek0nOpDFtLfigBkbJoTIA"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 271250,
+      "name": "Hold Me In A New Way",
+      "url": "https://open.spotify.com/track/1djA3jM4PEwMqLvUwkakpb"
+    },
+    {
+      "added_at": "2026-01-07 09:48:25",
+      "album": {
+        "name": "Thank You for Almost Everything",
+        "url": "https://open.spotify.com/album/5bvnIPBtewSFLftfn7LONj"
+      },
+      "artists": [
+        {
+          "name": "Headache",
+          "url": "https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH"
+        },
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 237941,
+      "name": "I Appreciate You",
+      "url": "https://open.spotify.com/track/32o6lh8To65xPSBPCtJGsL"
+    },
+    {
+      "added_at": "2026-01-14 11:41:58",
+      "album": {
+        "name": "Balloon Balloon Balloon",
+        "url": "https://open.spotify.com/album/4rCduWuK1sHdM4TNILadHp"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "duration_ms": 176812,
+      "name": "Popafangout",
+      "url": "https://open.spotify.com/track/7bEHAHKACvKJNtxdTmm0fG"
+    },
+    {
+      "added_at": "2026-01-14 11:42:14",
+      "album": {
+        "name": "True (feelings for you)",
+        "url": "https://open.spotify.com/album/1hIyAU2h2e9h8oCR2u2Fb6"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 227730,
+      "name": "True (feelings for you)",
+      "url": "https://open.spotify.com/track/2xmFiiYZXgAJF9Eu3FOaYQ"
+    },
+    {
+      "added_at": "2026-01-14 11:42:45",
+      "album": {
+        "name": "Great Divide / Ballister",
+        "url": "https://open.spotify.com/album/2ZtFlSC7rRW96l8KyMQNjW"
+      },
+      "artists": [
+        {
+          "name": "Akasha System",
+          "url": "https://open.spotify.com/artist/0TuxD3IK2QvHwgvacDPk9Q"
+        }
+      ],
+      "duration_ms": 308280,
+      "name": "Great Divide",
+      "url": "https://open.spotify.com/track/6gpk1BUGzSqFBPwpmUx4Hh"
     }
   ],
   "unique_name": "Domino Sound System",

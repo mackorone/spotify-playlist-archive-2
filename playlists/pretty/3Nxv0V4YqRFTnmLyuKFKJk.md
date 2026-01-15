@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain](/playlists/plain/3Nxv0V4YqRFTnmLyuKFKJk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3Nxv0V4YqRFTnmLyuKFKJk)
+pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain](/playlists/plain/3Nxv0V4YqRFTnmLyuKFKJk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3Nxv0V4YqRFTnmLyuKFKJk)
 
 ### [Country Classics 🤠 Top Country Songs of All Time](https://open.spotify.com/playlist/3Nxv0V4YqRFTnmLyuKFKJk)
 
 > Classic Country Hits 🤠 Top Most Streamed Country Music of All Time \| Best Country Playlist \| Cover: Randy Travis
 
-[Topsify](https://open.spotify.com/user/topsify) - 58,800 likes - 125 songs - 7 hr 16 min
+[Topsify](https://open.spotify.com/user/topsify) - 58,739 likes - 125 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

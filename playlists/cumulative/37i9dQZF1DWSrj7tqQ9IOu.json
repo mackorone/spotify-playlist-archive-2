@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : M\u00f8me",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Papooz",
   "name": "Indie France",
   "tracks": [
     {
@@ -182,6 +182,32 @@
       "duration_ms": 174545,
       "name": "a ride",
       "url": "https://open.spotify.com/track/7zIynZNxk2CBmIkjp1CcjP"
+    },
+    {
+      "album": {
+        "name": "A Rush of You",
+        "url": "https://open.spotify.com/album/7y0TDcWa0BgrYzDjEBqGLI"
+      },
+      "artists": [
+        {
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+        },
+        {
+          "name": "Julietta",
+          "url": "https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV"
+        },
+        {
+          "name": "command+M",
+          "url": "https://open.spotify.com/artist/2iVoor2wzTLqv8pUEjuz7a"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "A Rush of You",
+      "url": "https://open.spotify.com/track/2ozy7riT1NRGwa7dLYQ9PW"
     },
     {
       "album": {
@@ -2806,7 +2832,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199062,
       "name": "Dans quelques ann\u00e9es",
       "url": "https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE"
@@ -3925,6 +3951,28 @@
     },
     {
       "album": {
+        "name": "Exception",
+        "url": "https://open.spotify.com/album/30UM3cOuBYspOxp11wvl6H"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198380,
+      "name": "Exception",
+      "url": "https://open.spotify.com/track/2ze6bfDonvd1CL5pD3rUwW"
+    },
+    {
+      "album": {
         "name": "R\u00eave parti",
         "url": "https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9"
       },
@@ -4340,6 +4388,28 @@
       "duration_ms": 167626,
       "name": "Free demain",
       "url": "https://open.spotify.com/track/2LYU4dW1b5IljPsZQi5fCk"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/6I8YtUNtTpKIU2SJPRVfId"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208821,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/1pwyINL3fwBKV95x0l4A1n"
     },
     {
       "album": {
@@ -6194,7 +6264,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147413,
       "name": "Je-m'en-foutisme",
       "url": "https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr"
@@ -6578,7 +6648,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 260502,
       "name": "L'intranquillit\u00e9",
       "url": "https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z"
@@ -6934,6 +7004,24 @@
       "duration_ms": 261104,
       "name": "La nuit est entr\u00e9e en lui",
       "url": "https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK"
+    },
+    {
+      "album": {
+        "name": "La pomme",
+        "url": "https://open.spotify.com/album/2XW2k6zgPuyMyf72H0XGZZ"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134846,
+      "name": "La pomme",
+      "url": "https://open.spotify.com/track/2RmBJ4b1fDRCuxD3UWIj9R"
     },
     {
       "album": {
@@ -7512,7 +7600,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 240000,
       "name": "LES PASSANTES",
       "url": "https://open.spotify.com/track/3dk69hKEv7q7UeEV3EJPoL"
@@ -8338,7 +8426,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218130,
       "name": "MICHAEL",
       "url": "https://open.spotify.com/track/37Yqh5GKMVPaGjfOSNhqJ0"
@@ -9081,6 +9169,28 @@
     },
     {
       "album": {
+        "name": "The Initio Mixtape",
+        "url": "https://open.spotify.com/album/6pDIC9zwfrPYcelZM941qa"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        },
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "No Holding Back",
+      "url": "https://open.spotify.com/track/2nYWyLn7ysU7JrlV7shQ9o"
+    },
+    {
+      "album": {
         "name": "NO ONE ELSE",
         "url": "https://open.spotify.com/album/0yoOQg6R0Ds8TaCtXFZXNz"
       },
@@ -9508,6 +9618,24 @@
       "duration_ms": 152485,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/3yIGWpmhul23xz9C3PXPQ2"
+    },
+    {
+      "album": {
+        "name": "Offset EP",
+        "url": "https://open.spotify.com/album/2otOzSJZolNF87xsnTFdnl"
+      },
+      "artists": [
+        {
+          "name": "Velour",
+          "url": "https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "Offset",
+      "url": "https://open.spotify.com/track/6EEGalBJEDyMBjKOhDUlI7"
     },
     {
       "album": {
@@ -11676,7 +11804,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174994,
       "name": "Souvenir sentimental",
       "url": "https://open.spotify.com/track/7oBoFe5xWsaocjSZIhCW1t"

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaPK7HyVedIT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaPK7HyVedIT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaPK7HyVedIT)
+[pretty](/playlists/pretty/37i9dQZF1DXaPK7HyVedIT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaPK7HyVedIT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaPK7HyVedIT)
 
 ### [Dance Paradise](https://open.spotify.com/playlist/37i9dQZF1DXaPK7HyVedIT)
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-794 songs - 1 day 20 hr 1 min
+795 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Beggin' \- ZAC Remix](https://open.spotify.com/track/1NpBHGPBlC191Nx40nWAU4) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [Beggin' \(ZAC Remix\)](https://open.spotify.com/album/33YxPl0rbDdi1tp4yQBmXE) | 3:06 | 2025-06-20 | 2025-10-03 |
 | [Begging For Healing](https://open.spotify.com/track/1baO6Is68Eh4vhpPHwdfp6) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Patrus](https://open.spotify.com/artist/6B3adjXTdWVjypvXfYnR8D) | [Begging for Healing](https://open.spotify.com/album/2FH3Uiw6KBcTpSiFYtXeMQ) | 3:39 | 2024-04-19 | 2024-07-13 |
 | [Believe](https://open.spotify.com/track/6k7jFZVd514FE8EjMIcosg) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Believe](https://open.spotify.com/album/2WYyVhWlTNxhjhOdl2DEq1) | 3:05 | 2024-09-27 | 2025-01-25 |
-| [Bem Melhor](https://open.spotify.com/track/6EIpJudgMmPuvzlSFfObX1) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Bem Melhor EP](https://open.spotify.com/album/1UYehMogvP90fwnGzPzrFf) | 2:31 | 2025-12-12 |  |
+| [Bem Melhor](https://open.spotify.com/track/6EIpJudgMmPuvzlSFfObX1) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Bem Melhor EP](https://open.spotify.com/album/1UYehMogvP90fwnGzPzrFf) | 2:30 | 2025-12-12 |  |
 | [BENDAI](https://open.spotify.com/track/54f3sDAW39cx4gp49yvOte) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [BENDAI](https://open.spotify.com/album/53vV4VGldrLsNgcPwh6FRW) | 4:33 | 2024-03-22 | 2024-06-15 |
 | [Better Together](https://open.spotify.com/track/4l3oc6geC2DGxqt4G1KvQQ) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL) | [Better Together](https://open.spotify.com/album/6FbJYgs69DIOjy0rGFHnI6) | 2:51 | 2024-03-22 | 2024-04-06 |
 | [Bhajare \- Juicce Remix](https://open.spotify.com/track/69gW5UK6fhWE7j2tAkGgOz) | [Pandora](https://open.spotify.com/artist/1vkTF1jlPj9F6rTj9MGE4z), [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Bhajare \(Juicce Remix\)](https://open.spotify.com/album/5jC8jdB25j99s5eHomgGkJ) | 2:47 | 2025-06-13 | 2025-09-26 |
@@ -457,6 +457,7 @@
 | [Mahaba](https://open.spotify.com/track/76QYDYnFoaUBkkk4gei84D) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Mahaba](https://open.spotify.com/album/3XlArIGlspDya8mQlmYTAL) | 3:43 | 2025-05-02 | 2025-08-22 |
 | [Make It Loud](https://open.spotify.com/track/4lXEBALFOZ9cxp3NgSWDhN) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Make It Loud](https://open.spotify.com/album/0Zl7Eez8Eu49Ssp30wzLBd) | 3:56 | 2024-05-24 | 2024-08-24 |
 | [Make It Right](https://open.spotify.com/track/2iw3LpeCoQnsz8Ip9KZFuW) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [Make It Right](https://open.spotify.com/album/2d02o3jAuy4Rnyd7bdy8PO) | 3:35 | 2024-04-05 | 2024-04-27 |
+| [Malabaris](https://open.spotify.com/track/0hLNnH60GDK1TZxDNxhVfT) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Malabaris](https://open.spotify.com/album/6W2NbGfbvj5YlYqhaUWvAc) | 3:06 | 2026-01-09 |  |
 | [Mami Mami](https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Mami Mami](https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85) | 2:01 | 2023-07-21 | 2023-09-02 |
 | [Mansion Party](https://open.spotify.com/track/03GR21kKZdgwJr5PcNDbie) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Mansion Party](https://open.spotify.com/album/6jEvxraH3S5aj1r7SeA2YR) | 3:20 | 2024-08-23 | 2024-12-13 |
 | [Maradona](https://open.spotify.com/track/02CDik7aZFqov5naPitg6x) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Maradona](https://open.spotify.com/album/0NnNlrpnAopMAd4SySSg6x) | 3:13 | 2024-10-25 | 2025-03-07 |

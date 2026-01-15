@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYOkVTse9lln.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYOkVTse9lln) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYOkVTse9lln)
+[pretty](/playlists/pretty/37i9dQZF1DWYOkVTse9lln.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYOkVTse9lln) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYOkVTse9lln)
 
 ### [Karaoke en Español](https://open.spotify.com/playlist/37i9dQZF1DWYOkVTse9lln)
 

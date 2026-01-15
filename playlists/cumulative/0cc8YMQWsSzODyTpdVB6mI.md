@@ -1,6 +1,6 @@
-[pretty](/playlists/pretty/0cc8YMQWsSzODyTpdVB6mI.md) - cumulative - [plain](/playlists/plain/0cc8YMQWsSzODyTpdVB6mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0cc8YMQWsSzODyTpdVB6mI)
+[pretty](/playlists/pretty/0cc8YMQWsSzODyTpdVB6mI.md) - cumulative - [plain](/playlists/plain/0cc8YMQWsSzODyTpdVB6mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0cc8YMQWsSzODyTpdVB6mI)
 
-### [Kitsuné Musique Essentials](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
+### [Kitsuné Musique Essentials \(2026\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
 > Music around the world ✈️
 

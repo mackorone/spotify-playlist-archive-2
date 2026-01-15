@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X4eYJIURJC.md) - [plain](/playlists/plain/37i9dQZF1DX1X4eYJIURJC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1X4eYJIURJC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X4eYJIURJC.md) - [plain](/playlists/plain/37i9dQZF1DX1X4eYJIURJC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1X4eYJIURJC)
 
 ### [Tijdloze Liefdesliedjes](https://open.spotify.com/playlist/37i9dQZF1DX1X4eYJIURJC)
 
 > De mooiste Nederlandse liefdesliedjes verzameld
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,998 likes - 55 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,035 likes - 55 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

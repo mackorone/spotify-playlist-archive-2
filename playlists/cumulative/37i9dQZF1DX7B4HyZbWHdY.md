@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7B4HyZbWHdY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7B4HyZbWHdY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7B4HyZbWHdY)
+[pretty](/playlists/pretty/37i9dQZF1DX7B4HyZbWHdY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7B4HyZbWHdY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7B4HyZbWHdY)
 
 ### [Pinay Voices](https://open.spotify.com/playlist/37i9dQZF1DX7B4HyZbWHdY)
 

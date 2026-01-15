@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain](/playlists/plain/37i9dQZF1DX7cZxYLqLUJl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7cZxYLqLUJl)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain](/playlists/plain/37i9dQZF1DX7cZxYLqLUJl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7cZxYLqLUJl)
 
 ### [Wake Up Gently](https://open.spotify.com/playlist/37i9dQZF1DX7cZxYLqLUJl)
 
 > Wake up at your own pace with gentle piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,622 likes - 85 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,847 likes - 85 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

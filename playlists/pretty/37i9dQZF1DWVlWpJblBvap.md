@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain](/playlists/plain/37i9dQZF1DWVlWpJblBvap) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVlWpJblBvap)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain](/playlists/plain/37i9dQZF1DWVlWpJblBvap) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVlWpJblBvap)
 
 ### [Worship Hits](https://open.spotify.com/playlist/37i9dQZF1DWVlWpJblBvap)
 
 > All of your recent Worship hits in one place!  Cover: Seph Schlueter
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,397 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,762 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

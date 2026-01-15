@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XAs7CuJn4t.md) - [plain](/playlists/plain/37i9dQZF1DX0XAs7CuJn4t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0XAs7CuJn4t)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XAs7CuJn4t.md) - [plain](/playlists/plain/37i9dQZF1DX0XAs7CuJn4t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0XAs7CuJn4t)
 
 ### [Kabza De Small's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX0XAs7CuJn4t)
 
 > <a href="spotify:artist:1bNjWBFWsAAzZSR59lRdpR">Kabza De Small</a>'s favorite tracks\. Updated regularly\. Curated by Kabza De Small\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,847 likes - 49 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,475 likes - 49 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

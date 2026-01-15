@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMVjvqDxZQX.md) - [plain](/playlists/plain/37i9dQZF1DWYMVjvqDxZQX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYMVjvqDxZQX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMVjvqDxZQX.md) - [plain](/playlists/plain/37i9dQZF1DWYMVjvqDxZQX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYMVjvqDxZQX)
 
 ### [Kelly Lee Owens' track IDs](https://open.spotify.com/playlist/37i9dQZF1DWYMVjvqDxZQX)
 
 > <a href="spotify:artist:5eitAUlYmlha3LLWg7aBn5">Kelly Lee Owens</a>'s favorite tracks\. Updated regularly\. Curated by Kelly Lee Owens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,999 likes - 45 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,042 likes - 45 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

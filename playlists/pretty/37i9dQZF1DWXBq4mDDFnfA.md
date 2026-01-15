@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain](/playlists/plain/37i9dQZF1DWXBq4mDDFnfA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXBq4mDDFnfA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain](/playlists/plain/37i9dQZF1DWXBq4mDDFnfA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXBq4mDDFnfA)
 
 ### [Relaxing Classical Guitar](https://open.spotify.com/playlist/37i9dQZF1DWXBq4mDDFnfA)
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,452 likes - 58 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,039 likes - 58 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

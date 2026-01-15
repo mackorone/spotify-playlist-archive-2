@@ -1,6 +1,6 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 256306,
+  "num_followers": 256822,
   "original_name": "Women of Blues",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Please Come On Inside",
-        "url": "https://open.spotify.com/album/0e9xNTI1NdsipqtLvJPPFu"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 292933,
-      "name": "Please Come On Inside",
-      "url": "https://open.spotify.com/track/2DdpwpB9Pw4yiPQmrijHYj"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
@@ -287,18 +271,34 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "State of Mind",
-        "url": "https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO"
+        "name": "Please Come On Inside",
+        "url": "https://open.spotify.com/album/0e9xNTI1NdsipqtLvJPPFu"
       },
       "artists": [
         {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 164792,
-      "name": "Drag Me Back In",
-      "url": "https://open.spotify.com/track/1NBT9s0MCm99zja0rfoUpd"
+      "duration_ms": 292933,
+      "name": "Please Come On Inside",
+      "url": "https://open.spotify.com/track/2DdpwpB9Pw4yiPQmrijHYj"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Heavy Soul",
+        "url": "https://open.spotify.com/album/5aB8PFHLBHOLWfrSGGGIjF"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 317893,
+      "name": "Sweet 'Lil Lies",
+      "url": "https://open.spotify.com/track/4nhOHTX4tKPt0qLAjwPkz8"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Heavy Soul",
-        "url": "https://open.spotify.com/album/5aB8PFHLBHOLWfrSGGGIjF"
+        "name": "State of Mind",
+        "url": "https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
         }
       ],
-      "duration_ms": 317893,
-      "name": "Sweet 'Lil Lies",
-      "url": "https://open.spotify.com/track/4nhOHTX4tKPt0qLAjwPkz8"
+      "duration_ms": 164792,
+      "name": "Drag Me Back In",
+      "url": "https://open.spotify.com/track/1NBT9s0MCm99zja0rfoUpd"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/3HWjeQxqdhEPVyoKgGYse2"
-      },
-      "artists": [
-        {
-          "name": "Wiyaala",
-          "url": "https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7"
-        }
-      ],
-      "duration_ms": 268923,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/5yAGJ1mWBFihXhvOJ4VYU8"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Moon Goes Missing",
         "url": "https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3HWjeQxqdhEPVyoKgGYse2"
+      },
+      "artists": [
+        {
+          "name": "Wiyaala",
+          "url": "https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7"
+        }
+      ],
+      "duration_ms": 268923,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5yAGJ1mWBFihXhvOJ4VYU8"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "Throw Away Your Blues",
         "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Ain't Gonna Hush!",
-        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
-      },
-      "artists": [
-        {
-          "name": "Saffire-The Uppity Blues Women",
-          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "Ain't Gonna Hush",
-      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Presumed Innocent",
         "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
       },
@@ -507,22 +491,6 @@
       "duration_ms": 343866,
       "name": "Let The Tears Roll Down",
       "url": "https://open.spotify.com/track/5jGTsMUMWHXrgcTHyJrLho"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Time...",
-        "url": "https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ"
-      },
-      "artists": [
-        {
-          "name": "Shakura S'Aida",
-          "url": "https://open.spotify.com/artist/1k7Twp5a4e1lULiRJy6BXw"
-        }
-      ],
-      "duration_ms": 277760,
-      "name": "Geechee Woman",
-      "url": "https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -547,6 +515,38 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Ain't Gonna Hush!",
+        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
+      },
+      "artists": [
+        {
+          "name": "Saffire-The Uppity Blues Women",
+          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "Ain't Gonna Hush",
+      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Time...",
+        "url": "https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ"
+      },
+      "artists": [
+        {
+          "name": "Shakura S'Aida",
+          "url": "https://open.spotify.com/artist/1k7Twp5a4e1lULiRJy6BXw"
+        }
+      ],
+      "duration_ms": 277760,
+      "name": "Geechee Woman",
+      "url": "https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "Live My Life",
         "url": "https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp"
       },
@@ -559,26 +559,6 @@
       "duration_ms": 349066,
       "name": "If Trouble Was Money",
       "url": "https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C"
-      },
-      "artists": [
-        {
-          "name": "Candye Kane",
-          "url": "https://open.spotify.com/artist/70svT4F0xhbyQ5lQx6UE4b"
-        },
-        {
-          "name": "Stephen Hodges",
-          "url": "https://open.spotify.com/artist/1dEhcM1DuKdrIb3iudblIp"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "You Need Love",
-      "url": "https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -615,6 +595,26 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C"
+      },
+      "artists": [
+        {
+          "name": "Candye Kane",
+          "url": "https://open.spotify.com/artist/70svT4F0xhbyQ5lQx6UE4b"
+        },
+        {
+          "name": "Stephen Hodges",
+          "url": "https://open.spotify.com/artist/1dEhcM1DuKdrIb3iudblIp"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "You Need Love",
+      "url": "https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 306680,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Bitter Sweet Blues",
-        "url": "https://open.spotify.com/album/053qUnFHyBEyu3HrRq2xRY"
-      },
-      "artists": [
-        {
-          "name": "Gaye Adegbalola",
-          "url": "https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "She Just Wants To Dance",
-      "url": "https://open.spotify.com/track/32jhfaxUgrYIAvhrYElR8R"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -663,6 +647,22 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Bitter Sweet Blues",
+        "url": "https://open.spotify.com/album/053qUnFHyBEyu3HrRq2xRY"
+      },
+      "artists": [
+        {
+          "name": "Gaye Adegbalola",
+          "url": "https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "She Just Wants To Dance",
+      "url": "https://open.spotify.com/track/32jhfaxUgrYIAvhrYElR8R"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/7z5F3gDwpJ74b4lHSrJ9FX"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Tough Mother",
-        "url": "https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 254776,
-      "name": "Tough Mother",
-      "url": "https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "10,000 Feet Below",
         "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 264521,
       "name": "You Ain't My Dog No More",
       "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Tough Mother",
+        "url": "https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 254776,
+      "name": "Tough Mother",
+      "url": "https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Hard Times, Bad Decisions",
-        "url": "https://open.spotify.com/album/4woumpJLb24RBzibZkh3OB"
-      },
-      "artists": [
-        {
-          "name": "Lisa Mann",
-          "url": "https://open.spotify.com/artist/119v7X6k46bE5xgwuWawbt"
-        }
-      ],
-      "duration_ms": 271866,
-      "name": "Hard Times, Bad Decisions",
-      "url": "https://open.spotify.com/track/3Y7UdjWcTTYUwzJlhQb1nU"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Texas Hold 'Em",
         "url": "https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 207640,
       "name": "Love's Truly Blind",
       "url": "https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Hard Times, Bad Decisions",
+        "url": "https://open.spotify.com/album/4woumpJLb24RBzibZkh3OB"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mann",
+          "url": "https://open.spotify.com/artist/119v7X6k46bE5xgwuWawbt"
+        }
+      ],
+      "duration_ms": 271866,
+      "name": "Hard Times, Bad Decisions",
+      "url": "https://open.spotify.com/track/3Y7UdjWcTTYUwzJlhQb1nU"
     },
     {
       "added_at": "2024-08-13 17:16:13",

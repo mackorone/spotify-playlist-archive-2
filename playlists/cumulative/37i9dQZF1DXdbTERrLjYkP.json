@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Kerr Mercer",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Julia Campbell",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "All My Songs",
+        "url": "https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "All My Songs",
+      "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
+    },
+    {
+      "album": {
         "name": "Subject To Change",
         "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
       },
@@ -806,6 +824,24 @@
       "duration_ms": 220920,
       "name": "All Our Friends Are Splitting Up",
       "url": "https://open.spotify.com/track/1EuUY6pUpeonLyCNQzrsTY"
+    },
+    {
+      "album": {
+        "name": "Almost Did",
+        "url": "https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145129,
+      "name": "Almost Did",
+      "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
     },
     {
       "album": {
@@ -1922,6 +1958,24 @@
       "duration_ms": 291834,
       "name": "Blood Moon",
       "url": "https://open.spotify.com/track/4cXAWD76lMGYjXxezJIKin"
+    },
+    {
+      "album": {
+        "name": "Blood On Your Hands",
+        "url": "https://open.spotify.com/album/4H1vvsGMtKJP6A8n8zcS1l"
+      },
+      "artists": [
+        {
+          "name": "Conall Cafferty",
+          "url": "https://open.spotify.com/artist/6d1qaR3dUpxiSxOJVVwGMc"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183354,
+      "name": "Blood On Your Hands",
+      "url": "https://open.spotify.com/track/1Fpddj7WijZoyPLhPhHIUu"
     },
     {
       "album": {
@@ -11661,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "Overkill",
+        "url": "https://open.spotify.com/album/3UAhzKyLSrVek7nUGN7bnO"
+      },
+      "artists": [
+        {
+          "name": "Aidan Jones",
+          "url": "https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240229,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/1PQdDXskvuR7wvPmotXC1d"
+    },
+    {
+      "album": {
         "name": "Spiderwebs",
         "url": "https://open.spotify.com/album/3TnME8m1KogRglQjiOz9Qo"
       },
@@ -15179,7 +15251,7 @@
       "artists": [
         {
           "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe"
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
         }
       ],
       "date_added": "2025-11-07",
@@ -15462,6 +15534,24 @@
       "duration_ms": 207546,
       "name": "Thinking Of Her",
       "url": "https://open.spotify.com/track/4Xfi3MOi2UMx0vJAePqr2A"
+    },
+    {
+      "album": {
+        "name": "Thinking \u2018bout You",
+        "url": "https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140586,
+      "name": "Thinking \u2018bout You",
+      "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
     },
     {
       "album": {

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain](/playlists/plain/37i9dQZF1DXcIJGgaOURNE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcIJGgaOURNE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain](/playlists/plain/37i9dQZF1DXcIJGgaOURNE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcIJGgaOURNE)
 
 ### [Jamie xx's track IDs](https://open.spotify.com/playlist/37i9dQZF1DXcIJGgaOURNE)
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,120 likes - 136 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,131 likes - 136 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

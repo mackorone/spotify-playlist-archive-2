@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Zc2C2regQe.md) - [plain](/playlists/plain/37i9dQZF1DX0Zc2C2regQe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0Zc2C2regQe)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Zc2C2regQe.md) - [plain](/playlists/plain/37i9dQZF1DX0Zc2C2regQe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0Zc2C2regQe)
 
 ### [Tune In with Eli Rallo](https://open.spotify.com/playlist/37i9dQZF1DX0Zc2C2regQe)
 

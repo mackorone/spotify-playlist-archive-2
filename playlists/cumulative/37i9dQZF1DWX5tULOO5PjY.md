@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWX5tULOO5PjY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX5tULOO5PjY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX5tULOO5PjY)
+[pretty](/playlists/pretty/37i9dQZF1DWX5tULOO5PjY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX5tULOO5PjY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX5tULOO5PjY)
 
 ### [80s Boogie](https://open.spotify.com/playlist/37i9dQZF1DWX5tULOO5PjY)
 

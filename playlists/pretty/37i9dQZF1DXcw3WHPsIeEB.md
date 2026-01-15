@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain](/playlists/plain/37i9dQZF1DXcw3WHPsIeEB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcw3WHPsIeEB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain](/playlists/plain/37i9dQZF1DXcw3WHPsIeEB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcw3WHPsIeEB)
 
 ### [Night Vision](https://open.spotify.com/playlist/37i9dQZF1DXcw3WHPsIeEB)
 

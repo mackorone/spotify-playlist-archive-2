@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uq4r3Htg4F.md) - [plain](/playlists/plain/37i9dQZF1DX9Uq4r3Htg4F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Uq4r3Htg4F)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uq4r3Htg4F.md) - [plain](/playlists/plain/37i9dQZF1DX9Uq4r3Htg4F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9Uq4r3Htg4F)
 
 ### [마에스트라 \(Maestra: Strings of Truth\)](https://open.spotify.com/playlist/37i9dQZF1DX9Uq4r3Htg4F)
 

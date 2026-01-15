@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQKhuz8pGsw.md) - [plain](/playlists/plain/37i9dQZF1DWSQKhuz8pGsw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSQKhuz8pGsw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQKhuz8pGsw.md) - [plain](/playlists/plain/37i9dQZF1DWSQKhuz8pGsw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSQKhuz8pGsw)
 
 ### [La Cuna del Reggaetón](https://open.spotify.com/playlist/37i9dQZF1DWSQKhuz8pGsw)
 

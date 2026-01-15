@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain](/playlists/plain/37i9dQZF1DWXLbJb1PtkXq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLbJb1PtkXq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain](/playlists/plain/37i9dQZF1DWXLbJb1PtkXq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXLbJb1PtkXq)
 
 ### [Hits Français 90](https://open.spotify.com/playlist/37i9dQZF1DWXLbJb1PtkXq)
 
 > Les plus grands hits français des années 90\. Photo: Céline Dion
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,711 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,020 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

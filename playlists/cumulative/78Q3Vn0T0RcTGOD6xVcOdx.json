@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Calle amanecer",
+        "url": "https://open.spotify.com/album/4DsV2paVA0niwYG51jLEE5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mira",
+          "url": "https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212090,
+      "name": "Calle amanecer",
+      "url": "https://open.spotify.com/track/6zRO3xl2W8zKqTLII5pJ4H"
+    },
+    {
+      "album": {
         "name": "candy",
         "url": "https://open.spotify.com/album/6hVbeEgp0E1OYaO9514lUk"
       },
@@ -2165,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Inconfundible",
+        "url": "https://open.spotify.com/album/2IC8E1ZL9E44HJsOPtklsF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mira",
+          "url": "https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Inconfundible",
+      "url": "https://open.spotify.com/track/5cpxp9quQreC2AVjzzJulx"
+    },
+    {
+      "album": {
         "name": "Irie Kilele",
         "url": "https://open.spotify.com/album/5Q9tzgoXsn0qSjcJ9ccDQI"
       },
@@ -3230,6 +3266,24 @@
       "duration_ms": 218388,
       "name": "Next to me",
       "url": "https://open.spotify.com/track/5x2Kvjdy0xbtA15FV2R2Om"
+    },
+    {
+      "album": {
+        "name": "Cosas que Decir",
+        "url": "https://open.spotify.com/album/2QnXMdTUqkfhfZfbSBvxTL"
+      },
+      "artists": [
+        {
+          "name": "Nevenka Siberia",
+          "url": "https://open.spotify.com/artist/0HWsF7Qh4xm5F3xBjnn97P"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217829,
+      "name": "No Me Importa",
+      "url": "https://open.spotify.com/track/1bBXt2ESu7Uvkq2MiOerLf"
     },
     {
       "album": {

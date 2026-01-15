@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain](/playlists/plain/37i9dQZF1DX6yabeKM0YaX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6yabeKM0YaX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain](/playlists/plain/37i9dQZF1DX6yabeKM0YaX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6yabeKM0YaX)
 
 ### [Precure](https://open.spotify.com/playlist/37i9dQZF1DX6yabeKM0YaX)
 
 > Music From "Pretty Cure" series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,221 likes - 36 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,326 likes - 36 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

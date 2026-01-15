@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6j2ZnN1A2xcWQMELm6hcdI.md) - cumulative - [plain](/playlists/plain/6j2ZnN1A2xcWQMELm6hcdI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6j2ZnN1A2xcWQMELm6hcdI)
+[pretty](/playlists/pretty/6j2ZnN1A2xcWQMELm6hcdI.md) - cumulative - [plain](/playlists/plain/6j2ZnN1A2xcWQMELm6hcdI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6j2ZnN1A2xcWQMELm6hcdI)
 
 ### [Influence 💅 Hot Girl Era 2025](https://open.spotify.com/playlist/6j2ZnN1A2xcWQMELm6hcdI)
 

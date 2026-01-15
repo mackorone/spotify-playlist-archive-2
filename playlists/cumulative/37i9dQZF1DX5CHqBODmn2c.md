@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5CHqBODmn2c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5CHqBODmn2c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5CHqBODmn2c)
+[pretty](/playlists/pretty/37i9dQZF1DX5CHqBODmn2c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5CHqBODmn2c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5CHqBODmn2c)
 
 ### [Best of 2018: K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX5CHqBODmn2c)
 

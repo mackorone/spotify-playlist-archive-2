@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5mB2C8gBeUM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5mB2C8gBeUM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5mB2C8gBeUM)
+[pretty](/playlists/pretty/37i9dQZF1DX5mB2C8gBeUM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5mB2C8gBeUM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5mB2C8gBeUM)
 
 ### [Buckwild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 

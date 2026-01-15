@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8peoGqrSg0H.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8peoGqrSg0H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8peoGqrSg0H)
+[pretty](/playlists/pretty/37i9dQZF1DX8peoGqrSg0H.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8peoGqrSg0H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8peoGqrSg0H)
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PiXXiE
+> เพลย์ลิสต์พิเศษวันเด็ก T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: DICE
 
-821 songs - 2 day 0 hr 19 min
+822 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [SUPER SECRET](https://open.spotify.com/track/1ce3wQmpaMYZjl0zFUFUif) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [SUPER SECRET](https://open.spotify.com/album/7v0R2Et2LvpJLj9wK5uVyW) | 3:16 | 2024-12-05 | 2024-12-19 |
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 | 2022-12-09 |
 | [SWEET LIES](https://open.spotify.com/track/7CP4aJWUEgzMzkFlul94OE) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [SWEET LIES](https://open.spotify.com/album/2KeENmP6MKkxZy4R8OpP66) | 3:13 | 2025-09-11 | 2025-09-26 |
-| [Switch It Up](https://open.spotify.com/track/2ywzV7tZPvczDPPRGevBtt) | [CIR\*CRL](https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL) | [Switch It Up](https://open.spotify.com/album/0d9GGNk8eJQxXOo5gaMavJ) | 2:51 | 2025-12-25 |  |
+| [SWIPE UP](https://open.spotify.com/track/3PdlXtVedjuSJSKVU0IIEi) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [SWIPE UP](https://open.spotify.com/album/23N1hOJjHAlQN79sUwG6wW) | 3:58 | 2026-01-15 |  |
+| [Switch It Up](https://open.spotify.com/track/2ywzV7tZPvczDPPRGevBtt) | [CIR\*CRL](https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL) | [Switch It Up](https://open.spotify.com/album/0d9GGNk8eJQxXOo5gaMavJ) | 2:51 | 2025-12-25 | 2026-01-15 |
 | [T2T](https://open.spotify.com/track/5xXUqyjaTqPQ7XnIThviQ9) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [T2T](https://open.spotify.com/album/36tmLHUiLvhRAiEihPDTmI) | 3:20 | 2025-12-18 |  |
 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 | 2024-10-31 | 2025-03-13 |
 | [Time Flies](https://open.spotify.com/track/11HnMOQnOVC0jIiFTY8fKX) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Time Flies](https://open.spotify.com/album/4HWxA9IkxlZHJzv3SNbXdX) | 4:01 | 2025-09-18 |  |

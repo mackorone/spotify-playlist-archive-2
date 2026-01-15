@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSwFS0Z6E1ep.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSwFS0Z6E1ep) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSwFS0Z6E1ep)
+[pretty](/playlists/pretty/37i9dQZF1DWSwFS0Z6E1ep.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSwFS0Z6E1ep) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSwFS0Z6E1ep)
 
 ### [50s Party](https://open.spotify.com/playlist/37i9dQZF1DWSwFS0Z6E1ep)
 

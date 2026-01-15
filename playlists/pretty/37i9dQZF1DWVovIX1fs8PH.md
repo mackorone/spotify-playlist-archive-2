@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovIX1fs8PH.md) - [plain](/playlists/plain/37i9dQZF1DWVovIX1fs8PH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVovIX1fs8PH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovIX1fs8PH.md) - [plain](/playlists/plain/37i9dQZF1DWVovIX1fs8PH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVovIX1fs8PH)
 
 ### [Mufasa: The Lion King Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVovIX1fs8PH)
 
 > From "Circle of Life" to "Hakuna Matata", listen to all the songs from The Lion King, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,638 likes - 97 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,465 likes - 97 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

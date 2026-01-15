@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4rfX4vYAfTY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4rfX4vYAfTY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4rfX4vYAfTY)
+[pretty](/playlists/pretty/37i9dQZF1DX4rfX4vYAfTY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4rfX4vYAfTY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4rfX4vYAfTY)
 
 ### [BOYNEXTDOOR TOUR \[KNOCK ON Vol.1\] IN INCHEON](https://open.spotify.com/playlist/37i9dQZF1DX4rfX4vYAfTY)
 

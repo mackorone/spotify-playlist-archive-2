@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\uc9c0\uae08 \ub178\ub798\ubc29\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Fancy belting out your favorite Korean songs?) (Cover: WOODZ(\uc6b0\uc988))",
+  "description": "\uc9c0\uae08 \ub178\ub798\ubc29\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Fancy belting out your favorite Korean songs?) (Cover: \uc815\uc2b9\ud658 (Jung Seung Hwan))",
   "name": "\ub178\ub798\ubc29 \uc778\uae30\uac00\uc694 (Karaoke K-Pop Bests)",
   "tracks": [
     {
@@ -4458,6 +4458,24 @@
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
+    },
+    {
+      "album": {
+        "name": "The Snowman",
+        "url": "https://open.spotify.com/album/0agY1C6NrdlTu2hkB1l7x0"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236071,
+      "name": "The Snowman",
+      "url": "https://open.spotify.com/track/6PeZIUwTsJGshizDi61wbe"
     },
     {
       "album": {

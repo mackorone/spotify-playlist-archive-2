@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5jBIc56hjiz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5jBIc56hjiz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5jBIc56hjiz)
+[pretty](/playlists/pretty/37i9dQZF1DX5jBIc56hjiz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5jBIc56hjiz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5jBIc56hjiz)
 
 ### [Stephen A\. Smith's Taste](https://open.spotify.com/playlist/37i9dQZF1DX5jBIc56hjiz)
 

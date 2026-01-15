@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL?si=SyuRhRzGRsisgugnfbIUdQ\">Dope Caesar</a>'s favorite tracks. Updated regularly. Curated by Dope Caesar. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 12138,
+  "num_followers": 12539,
   "original_name": "Dope Caesar's track IDs",
   "owner": {
     "name": "Spotify",
@@ -11,13 +11,17 @@
     {
       "added_at": "2025-06-19 23:00:19",
       "album": {
-        "name": "Shabba Madda Pot - Single",
+        "name": "Shabba Madda Pot",
         "url": "https://open.spotify.com/album/6blB91ubI6Ul0TFz6X2Non"
       },
       "artists": [
         {
           "name": "Dexta Daps",
           "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        },
+        {
+          "name": "Daseca",
+          "url": "https://open.spotify.com/artist/4bTPICxfdk6NnzLH7HGgiX"
         }
       ],
       "duration_ms": 142978,

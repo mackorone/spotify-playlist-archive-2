@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6ZkpoSfbVoUoMm6rvrQEUm.md) - cumulative - [plain](/playlists/plain/6ZkpoSfbVoUoMm6rvrQEUm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6ZkpoSfbVoUoMm6rvrQEUm)
+[pretty](/playlists/pretty/6ZkpoSfbVoUoMm6rvrQEUm.md) - cumulative - [plain](/playlists/plain/6ZkpoSfbVoUoMm6rvrQEUm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6ZkpoSfbVoUoMm6rvrQEUm)
 
 ### [FRIDAY HAUS \- " PLAYLIST BY BLEU CLAIR "](https://open.spotify.com/playlist/6ZkpoSfbVoUoMm6rvrQEUm)
 

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Act Of Courtesy",
+        "url": "https://open.spotify.com/album/00kjHWVG65E86i7EAS431H"
+      },
+      "artists": [
+        {
+          "name": "Arnar Egilsson",
+          "url": "https://open.spotify.com/artist/1zpMLqhMMTg2vzSf5BC5eI"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Act Of Courtesy",
+      "url": "https://open.spotify.com/track/58muj8yjz6V4SUvPFWDQpD"
+    },
+    {
+      "album": {
         "name": "Adjustments",
         "url": "https://open.spotify.com/album/1YzQ1qTia4TW6Xs0gXuVgw"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169350,
       "name": "Arriving",
       "url": "https://open.spotify.com/track/5W7NobmNkI7WLYfK8FeUHb"
@@ -1467,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/5r871FtHz86ls2V9c97fJK"
+      },
+      "artists": [
+        {
+          "name": "Nelson Robert",
+          "url": "https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139800,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/5aRP2RFKtIaZ5HcXOJddfP"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/6eNxA6nl36qz8bWE1nrjoB"
       },
@@ -1946,7 +1982,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139459,
       "name": "Bookmark",
       "url": "https://open.spotify.com/track/2ojHNZ16YTEkzizLgzRFq6"
@@ -3347,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Connect the Dots",
+        "url": "https://open.spotify.com/album/7yu0HiUCt5hTrG05x2Hi6x"
+      },
+      "artists": [
+        {
+          "name": "Novienne",
+          "url": "https://open.spotify.com/artist/2tE6mCpV3QeiqQFqbhOzRj"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141530,
+      "name": "Connect the Dots",
+      "url": "https://open.spotify.com/track/2PO5LrGt9ASfsPluDQ58PT"
+    },
+    {
+      "album": {
         "name": "Connected",
         "url": "https://open.spotify.com/album/0JTZ5Tiwwn9mCUfSEmkHXS"
       },
@@ -4406,7 +4460,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174324,
       "name": "Drift Above",
       "url": "https://open.spotify.com/track/6PH7cv5VRpzKf3zDeAXVLL"
@@ -4611,6 +4665,42 @@
     },
     {
       "album": {
+        "name": "Echo Branches",
+        "url": "https://open.spotify.com/album/5uE7OpuM8N1oo5IllhELGe"
+      },
+      "artists": [
+        {
+          "name": "Astral Voyager",
+          "url": "https://open.spotify.com/artist/6Bj7oeWzckGjkZdSwfKJHa"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Echo Branches",
+      "url": "https://open.spotify.com/track/4NaokS7WwvNDq1tIozGscA"
+    },
+    {
+      "album": {
+        "name": "Echo Patterns",
+        "url": "https://open.spotify.com/album/1kin6qQCyPWFkek0kYXnTx"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157085,
+      "name": "Echo Patterns",
+      "url": "https://open.spotify.com/track/6y4xDmb8LoxFPB1MELrjWU"
+    },
+    {
+      "album": {
         "name": "Echoed Memory",
         "url": "https://open.spotify.com/album/4YPcKVNUkNycSD4tdfsWDh"
       },
@@ -4698,6 +4788,24 @@
       "duration_ms": 131721,
       "name": "Eclosion",
       "url": "https://open.spotify.com/track/03VSAx4NPQO6zu2NYSj8Ie"
+    },
+    {
+      "album": {
+        "name": "Edge of Silence",
+        "url": "https://open.spotify.com/album/2CqhbsArmGNI1yx8qrHR9z"
+      },
+      "artists": [
+        {
+          "name": "Elijah Edwards",
+          "url": "https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143597,
+      "name": "Edge of Silence",
+      "url": "https://open.spotify.com/track/31oyFnRAl3hmAiG3KKM2IQ"
     },
     {
       "album": {
@@ -4896,6 +5004,24 @@
       "duration_ms": 142500,
       "name": "Endless Horizons",
       "url": "https://open.spotify.com/track/4aX9oNml3NCLc7BymvyKwi"
+    },
+    {
+      "album": {
+        "name": "Endless Radiance",
+        "url": "https://open.spotify.com/album/5P9SE4Pxq5GOAorS9a3m5H"
+      },
+      "artists": [
+        {
+          "name": "Laurent Emmmerling",
+          "url": "https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151424,
+      "name": "Endless Radiance",
+      "url": "https://open.spotify.com/track/4eeuYnDJ5XlzgVYs2FGhbl"
     },
     {
       "album": {
@@ -5684,7 +5810,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165000,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/6hScEb9ereML1pZNr3c2uC"
@@ -7261,6 +7387,24 @@
     },
     {
       "album": {
+        "name": "Herradura",
+        "url": "https://open.spotify.com/album/0O2sJDoFs8RdkBjDIDdx3V"
+      },
+      "artists": [
+        {
+          "name": "Egon Alram",
+          "url": "https://open.spotify.com/artist/4fHSfGpd33bVmfX6nKObBs"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "Herradura",
+      "url": "https://open.spotify.com/track/3jakVKIeR1t8CnBsLBm632"
+    },
+    {
+      "album": {
         "name": "Hibernation",
         "url": "https://open.spotify.com/album/1JLRPkXnnI9Gj5xrG8UAXl"
       },
@@ -7582,6 +7726,24 @@
       "duration_ms": 150769,
       "name": "Horizon City",
       "url": "https://open.spotify.com/track/2hDX1D1mQvbBGjIG423gpj"
+    },
+    {
+      "album": {
+        "name": "Horizon Drift",
+        "url": "https://open.spotify.com/album/4fFG0JaEHd3FjLj87kJnXN"
+      },
+      "artists": [
+        {
+          "name": "Jo Anand",
+          "url": "https://open.spotify.com/artist/3BwTil5deMArBtcIhEUJXw"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141743,
+      "name": "Horizon Drift",
+      "url": "https://open.spotify.com/track/2tAXo2Ej9MHBqWpShZSsWw"
     },
     {
       "album": {
@@ -9259,6 +9421,24 @@
     },
     {
       "album": {
+        "name": "Liquid Light",
+        "url": "https://open.spotify.com/album/7L0lHLkzITeHKbertakFQG"
+      },
+      "artists": [
+        {
+          "name": "Seijaku",
+          "url": "https://open.spotify.com/artist/31A7W2UBGyTjbMEEgIMfTV"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151567,
+      "name": "Liquid Light",
+      "url": "https://open.spotify.com/track/0TJqC7lwtlua6pLN9FgF0L"
+    },
+    {
+      "album": {
         "name": "Little Moon",
         "url": "https://open.spotify.com/album/4Btv1BPwbebQTCXQY0uuMG"
       },
@@ -9742,6 +9922,24 @@
       "duration_ms": 147202,
       "name": "Lunar Tones",
       "url": "https://open.spotify.com/track/42uuyjwxaXjNPduURmzMaw"
+    },
+    {
+      "album": {
+        "name": "Lunar Waves",
+        "url": "https://open.spotify.com/album/6eWhoMq5f2KSPYIFoTyIrE"
+      },
+      "artists": [
+        {
+          "name": "Asher Stone",
+          "url": "https://open.spotify.com/artist/6zcBamrOeX3F7csLC8vtzz"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159229,
+      "name": "Lunar Waves",
+      "url": "https://open.spotify.com/track/0pfQoBHepc5zOplOhLDgSh"
     },
     {
       "album": {
@@ -13047,6 +13245,24 @@
     },
     {
       "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/0mT36EFPIw7A98RZFOyHCs"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8sk Skriner",
+          "url": "https://open.spotify.com/artist/373GwyozV3SJ9WC59MtwZu"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137391,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/0R3nhKQ5OpdALI3HNp6AQ4"
+    },
+    {
+      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/21HRbFxgdYeTeNSwgEglyZ"
       },
@@ -13400,7 +13616,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 138857,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/37uLBflB8czcIr1tHY66i7"
@@ -18438,6 +18654,24 @@
       "duration_ms": 262000,
       "name": "When They Come",
       "url": "https://open.spotify.com/track/100jBpD7nuiMriR7ErXQ9S"
+    },
+    {
+      "album": {
+        "name": "When We Fall",
+        "url": "https://open.spotify.com/album/4mArWm0yjIx1hNtencArhy"
+      },
+      "artists": [
+        {
+          "name": "Selren",
+          "url": "https://open.spotify.com/artist/589FTOFfoFJkqfKwDL9fR9"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134681,
+      "name": "When We Fall",
+      "url": "https://open.spotify.com/track/5xBCuOtpJML24VN7FQJ5Kk"
     },
     {
       "album": {

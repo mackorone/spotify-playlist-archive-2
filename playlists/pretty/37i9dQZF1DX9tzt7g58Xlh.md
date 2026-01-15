@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain](/playlists/plain/37i9dQZF1DX9tzt7g58Xlh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9tzt7g58Xlh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain](/playlists/plain/37i9dQZF1DX9tzt7g58Xlh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9tzt7g58Xlh)
 
 ### [This Is Imagine Dragons](https://open.spotify.com/playlist/37i9dQZF1DX9tzt7g58Xlh)
 

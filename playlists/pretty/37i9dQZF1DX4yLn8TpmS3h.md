@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain](/playlists/plain/37i9dQZF1DX4yLn8TpmS3h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4yLn8TpmS3h)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain](/playlists/plain/37i9dQZF1DX4yLn8TpmS3h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4yLn8TpmS3h)
 
 ### [Years & Years: Pride](https://open.spotify.com/playlist/37i9dQZF1DX4yLn8TpmS3h)
 

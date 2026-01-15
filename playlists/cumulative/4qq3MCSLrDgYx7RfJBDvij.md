@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4qq3MCSLrDgYx7RfJBDvij.md) - cumulative - [plain](/playlists/plain/4qq3MCSLrDgYx7RfJBDvij) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4qq3MCSLrDgYx7RfJBDvij)
+[pretty](/playlists/pretty/4qq3MCSLrDgYx7RfJBDvij.md) - cumulative - [plain](/playlists/plain/4qq3MCSLrDgYx7RfJBDvij) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4qq3MCSLrDgYx7RfJBDvij)
 
 ### [The Bridge](https://open.spotify.com/playlist/4qq3MCSLrDgYx7RfJBDvij)
 

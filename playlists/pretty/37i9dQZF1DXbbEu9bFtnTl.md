@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain](/playlists/plain/37i9dQZF1DXbbEu9bFtnTl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbbEu9bFtnTl)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain](/playlists/plain/37i9dQZF1DXbbEu9bFtnTl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbbEu9bFtnTl)
 
 ### [ERROR 404 ](https://open.spotify.com/playlist/37i9dQZF1DXbbEu9bFtnTl)
 
 > no c k poner xd  👾 Saramalacara en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,450 likes - 99 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,781 likes - 99 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

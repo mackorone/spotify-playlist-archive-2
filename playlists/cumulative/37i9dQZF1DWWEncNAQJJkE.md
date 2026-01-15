@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWEncNAQJJkE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWEncNAQJJkE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWEncNAQJJkE)
+[pretty](/playlists/pretty/37i9dQZF1DWWEncNAQJJkE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWEncNAQJJkE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWEncNAQJJkE)
 
 ### [Northern Bars presents: Best Hip\-Hop Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DWWEncNAQJJkE)
 

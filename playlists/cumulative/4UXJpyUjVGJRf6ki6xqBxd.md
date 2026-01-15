@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4UXJpyUjVGJRf6ki6xqBxd.md) - cumulative - [plain](/playlists/plain/4UXJpyUjVGJRf6ki6xqBxd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4UXJpyUjVGJRf6ki6xqBxd)
+[pretty](/playlists/pretty/4UXJpyUjVGJRf6ki6xqBxd.md) - cumulative - [plain](/playlists/plain/4UXJpyUjVGJRf6ki6xqBxd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4UXJpyUjVGJRf6ki6xqBxd)
 
 ### [Songs I Heard On TikTok](https://open.spotify.com/playlist/4UXJpyUjVGJRf6ki6xqBxd)
 

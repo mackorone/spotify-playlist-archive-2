@@ -1,19 +1,19 @@
-pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain](/playlists/plain/1wkT3U3e6gnsgvi0dqMCEE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1wkT3U3e6gnsgvi0dqMCEE)
+pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain](/playlists/plain/1wkT3U3e6gnsgvi0dqMCEE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1wkT3U3e6gnsgvi0dqMCEE)
 
 ### [UMUSIC Rediscover](https://open.spotify.com/playlist/1wkT3U3e6gnsgvi0dqMCEE)
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,591 likes - 277 songs - 18 hr 36 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,588 likes - 277 songs - 18 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nothin'](https://open.spotify.com/track/49u9MlLKXc0NLg6m775ecd) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Nothin'](https://open.spotify.com/album/6BieAhfPQAUAISRIaNP5ER) | 4:23 |
-| 2 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 |
-| 3 | [Atlas](https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Atlas](https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb) | 3:58 |
-| 4 | [Real Love \(2025 Mix\)](https://open.spotify.com/track/3QA599capcsQEvh952BNYx) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Anthology 4](https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ) | 3:34 |
-| 5 | [Hot Cocoa](https://open.spotify.com/track/7hTFtyYGqtJBJAHVv1oXQ9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/1i5Mfk31QPBTMH5dbZjavr) | 3:38 |
-| 6 | [Silent Night \- Live At Knox Church, Stratford, Ontario / 2021](https://open.spotify.com/track/101cKHyvczyACPwU2B94cn) | [Loreena McKennitt](https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a) | [Under A Winter's Moon \(Expanded Edition\)](https://open.spotify.com/album/20DqT1aA6l0v1oMRWnBgko) | 3:18 |
+| 2 | [Been Undone \- Dark\-Side Mix](https://open.spotify.com/track/2vXCiisu266PttmAVDOFtF) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Been Undone \(Dark\-Side Mix\)](https://open.spotify.com/album/3cm8NmlOZKcPoUN3YrpxIc) | 7:39 |
+| 3 | [Said It All \- Jax Jones Rework](https://open.spotify.com/track/4k4UUPYRJPorm3TgoaKCtG) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Said It All \(Jax Jones Rework\)](https://open.spotify.com/album/3loRhkIFInpLsSdFU75EFa) | 3:28 |
+| 4 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 |
+| 5 | [Atlas](https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Atlas](https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb) | 3:58 |
+| 6 | [Real Love \(2025 Mix\)](https://open.spotify.com/track/3QA599capcsQEvh952BNYx) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Anthology 4](https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ) | 3:34 |
 | 7 | [I Love Ladies](https://open.spotify.com/track/3rovxBzeIaryiwGpKnQQx1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Black And Blue \(Super Deluxe\)](https://open.spotify.com/album/5wEUIEpxAFSr5fEbQv1fud) | 5:30 |
 | 8 | [The Luck Of The Irish \- Live At The Crisler Arena, Ann Arbor, Michigan](https://open.spotify.com/track/69soP40pssuJ7yfcWyk0xF) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Elephants Memory](https://open.spotify.com/artist/7vlen6lzkmCst6naOmK3Et), [David Peel & The Lower East Side](https://open.spotify.com/artist/22GJv3acSHNKnqVi8GLAIt) | [Power To The People \(Live Jam\)](https://open.spotify.com/album/7nxGGJ2fKc6UIQfe1nNMIa) | 3:27 |
 | 9 | [Here Is No Why \- Live In Los Angeles, 2/4/96](https://open.spotify.com/track/1AiJu6ePWKtvlDsuJh01Nh) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Here Is No Why / Geek U.S.A\. \(Live\)](https://open.spotify.com/album/2jO8IYiBlgJv6MgDioqZ8G) | 3:36 |
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 276 | [Whiskey In The Jar](https://open.spotify.com/track/6YH9hWz9ypmvbHl1LpCMFz) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 5:47 |
 | 277 | [Someone Saved My Life Tonight \- Captain Fantastic Live / 2005](https://open.spotify.com/track/0AZOzB8mMGS2Gsu6CMn7Hw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy \(50th Anniversary Edition\)](https://open.spotify.com/album/3zRjCT3nLkeYanSFYHfQPu) | 7:43 |
 
-Snapshot ID: `AAADNhwO0lNLqjpXZXy8vGFQwot6wt52`
+Snapshot ID: `AAADOy9XROIee4AT/BXBksdwFV+jiSvD`

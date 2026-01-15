@@ -1,34 +1,70 @@
 {
-  "description": "New jazz for open minds. Cover: Joel Ross",
-  "num_followers": 950405,
+  "description": "New jazz for open minds. Cover: Nubiyan Twist",
+  "num_followers": 950477,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFcTJFJ6tOpsb6/qj1xIt//RUQQf",
+  "snapshot_id": "AAAAACCH8LA8opjsVu87uGLhxTK7gkuQ",
   "tracks": [
     {
-      "added_at": "2025-12-12 05:30:00",
+      "added_at": "2026-01-09 05:00:24",
       "album": {
-        "name": "Wisdom Is Eternal (For Barry Harris)",
-        "url": "https://open.spotify.com/album/07PWUfIc6P2tDrzoEusUyx"
+        "name": "La Sentencia",
+        "url": "https://open.spotify.com/album/1ByZNnTMqYnzhDCvdZvaEh"
       },
       "artists": [
         {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
         }
       ],
-      "duration_ms": 273190,
-      "name": "Wisdom Is Eternal (For Barry Harris)",
-      "url": "https://open.spotify.com/track/4N2yukzkAEVo5vRlVsaHZ7"
+      "duration_ms": 277597,
+      "name": "La Sentencia",
+      "url": "https://open.spotify.com/track/0w7QdJZVUSgkvtCqSY3AjV"
     },
     {
-      "added_at": "2025-12-12 05:30:00",
+      "added_at": "2026-01-09 05:00:24",
       "album": {
-        "name": "Talking Drum",
-        "url": "https://open.spotify.com/album/3YRPgLHPObFfpBEUrcGThH"
+        "name": "Red Herring",
+        "url": "https://open.spotify.com/album/4t4goUpjyk86iqV8HVTJkH"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Red Herring",
+      "url": "https://open.spotify.com/track/3IpC0acr0nUhVtyud4Obj5"
+    },
+    {
+      "added_at": "2026-01-09 05:00:24",
+      "album": {
+        "name": "Saturday Spin",
+        "url": "https://open.spotify.com/album/6QRxprqYsThnDDV4ClgMTR"
+      },
+      "artists": [
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        }
+      ],
+      "duration_ms": 245260,
+      "name": "Saturday Spin",
+      "url": "https://open.spotify.com/track/25IsRCpUTWaCkjrmIY8sBF"
+    },
+    {
+      "added_at": "2026-01-09 05:00:24",
+      "album": {
+        "name": "Night Shade",
+        "url": "https://open.spotify.com/album/4Fy4sIenNFyRAJE07CgB9F"
       },
       "artists": [
         {
@@ -48,9 +84,57 @@
           "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
         }
       ],
-      "duration_ms": 306733,
-      "name": "Talking Drum",
-      "url": "https://open.spotify.com/track/0lLFgw2lZ6W2UVuITu4wAU"
+      "duration_ms": 444000,
+      "name": "Night Shade",
+      "url": "https://open.spotify.com/track/2QMZqnxIjogPks2MmkS8DK"
+    },
+    {
+      "added_at": "2026-01-09 05:00:24",
+      "album": {
+        "name": "One Body, One Blood",
+        "url": "https://open.spotify.com/album/1LsoDC0XhSqN92JPGZfpki"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "duration_ms": 264297,
+      "name": "One Body, One Blood",
+      "url": "https://open.spotify.com/track/41HV8PYAK48RhYq50CS77M"
+    },
+    {
+      "added_at": "2026-01-09 05:00:24",
+      "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/34ijbgWMgC7neOzDvNLeI1"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 226053,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/3F1qRkttfSFbYcMWjQ6Tm6"
+    },
+    {
+      "added_at": "2026-01-09 05:00:24",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/7Bl9aIDEdyIU2jtOqI34mw"
+      },
+      "artists": [
+        {
+          "name": "Makoto Ozone",
+          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/5AHCGY9OE9ZxsqVrXrmyfc"
     },
     {
       "added_at": "2025-12-12 05:30:00",
@@ -335,22 +419,6 @@
     {
       "added_at": "2025-11-07 16:37:26",
       "album": {
-        "name": "Dardahan",
-        "url": "https://open.spotify.com/album/7oa7KIxJa6veQsehgkgsEm"
-      },
-      "artists": [
-        {
-          "name": "Tigran Hamasyan",
-          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
-        }
-      ],
-      "duration_ms": 252269,
-      "name": "Dardahan",
-      "url": "https://open.spotify.com/track/2amCysmN3ggs031rEW9Sh1"
-    },
-    {
-      "added_at": "2025-11-07 16:37:26",
-      "album": {
         "name": "North London Pace",
         "url": "https://open.spotify.com/album/479mcTmLjF8psjuJLRmh99"
       },
@@ -471,26 +539,6 @@
       "duration_ms": 443480,
       "name": "8/4 Beat",
       "url": "https://open.spotify.com/track/3epFwp7ZHkBXYPdfa5zy5F"
-    },
-    {
-      "added_at": "2025-10-31 04:00:33",
-      "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 274680,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB"
     },
     {
       "added_at": "2025-10-31 04:00:33",
@@ -941,26 +989,6 @@
       "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
     },
     {
-      "added_at": "2025-05-16 04:00:24",
-      "album": {
-        "name": "For Roy 2.0",
-        "url": "https://open.spotify.com/album/6ornfnDFJgrGHDBh0G1JT2"
-      },
-      "artists": [
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        },
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        }
-      ],
-      "duration_ms": 275634,
-      "name": "For Roy 2.0",
-      "url": "https://open.spotify.com/track/14zlS6eVyZdV8kbcMv46xb"
-    },
-    {
       "added_at": "2025-05-02 04:00:27",
       "album": {
         "name": "Found A Light (Beale Street)",
@@ -1345,30 +1373,6 @@
       "url": "https://open.spotify.com/track/27MWj3buZO5OOZYpXJgAkx"
     },
     {
-      "added_at": "2025-05-23 04:00:21",
-      "album": {
-        "name": "Sin Forma",
-        "url": "https://open.spotify.com/album/0XgS30wt2tth832y3Qdj17"
-      },
-      "artists": [
-        {
-          "name": "Anibal Seminario",
-          "url": "https://open.spotify.com/artist/7n3f7wHCA7cB2bqrjjRD6p"
-        },
-        {
-          "name": "Dayhan D\u00edaz",
-          "url": "https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa"
-        },
-        {
-          "name": "Anibal Seminario Big Band",
-          "url": "https://open.spotify.com/artist/5YuMzi9SwR687RDHqIMDQS"
-        }
-      ],
-      "duration_ms": 348012,
-      "name": "Sin Forma",
-      "url": "https://open.spotify.com/track/2aVeWCuIyYNHcpylIH2Oz1"
-    },
-    {
       "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Dinosaur Song",
@@ -1403,22 +1407,6 @@
       "duration_ms": 495240,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/0QqUHWMLAdlWg7Znj7Il5n"
-    },
-    {
-      "added_at": "2025-05-30 04:00:22",
-      "album": {
-        "name": "MINDRUM",
-        "url": "https://open.spotify.com/album/037bkOWUIHZpZqUgwilw2e"
-      },
-      "artists": [
-        {
-          "name": "40 Winks",
-          "url": "https://open.spotify.com/artist/1Sayx62gnPCTawjndMhbnb"
-        }
-      ],
-      "duration_ms": 162289,
-      "name": "MINDRUM",
-      "url": "https://open.spotify.com/track/3ZWu8J5rjhOZ6QM6FHUSJV"
     },
     {
       "added_at": "2025-06-06 04:00:13",

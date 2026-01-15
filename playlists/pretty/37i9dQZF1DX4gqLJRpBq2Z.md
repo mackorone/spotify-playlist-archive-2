@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain](/playlists/plain/37i9dQZF1DX4gqLJRpBq2Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4gqLJRpBq2Z)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain](/playlists/plain/37i9dQZF1DX4gqLJRpBq2Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4gqLJRpBq2Z)
 
 ### [Barracuda Queens Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX4gqLJRpBq2Z)
 
 > All the music from Barracuda Queens..\. now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,715 likes - 22 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,711 likes - 22 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain](/playlists/plain/37i9dQZF1DX2SaVGyZ9hsv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2SaVGyZ9hsv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain](/playlists/plain/37i9dQZF1DX2SaVGyZ9hsv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2SaVGyZ9hsv)
 
 ### [Best New Artist](https://open.spotify.com/playlist/37i9dQZF1DX2SaVGyZ9hsv)
 
 > Congratulations to all the nominees for Best New Artist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,423 likes - 16 songs - 54 min 3 sec
+[Spotify](https://open.spotify.com/user/spotify) - 148,412 likes - 16 songs - 54 min 3 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

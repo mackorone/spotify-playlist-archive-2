@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain](/playlists/plain/37i9dQZF1DX5Fwg8YKJGG1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Fwg8YKJGG1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain](/playlists/plain/37i9dQZF1DX5Fwg8YKJGG1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5Fwg8YKJGG1)
 
 ### [Christmas Baby Bells](https://open.spotify.com/playlist/37i9dQZF1DX5Fwg8YKJGG1)
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,058 likes - 44 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,032 likes - 44 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

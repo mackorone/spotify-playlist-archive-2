@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/50k252B7pn6AaVisjCIt9w.md) - [plain](/playlists/plain/50k252B7pn6AaVisjCIt9w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/50k252B7pn6AaVisjCIt9w)
+pretty - [cumulative](/playlists/cumulative/50k252B7pn6AaVisjCIt9w.md) - [plain](/playlists/plain/50k252B7pn6AaVisjCIt9w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/50k252B7pn6AaVisjCIt9w)
 
 ### [Country Is Universal](https://open.spotify.com/playlist/50k252B7pn6AaVisjCIt9w)
 

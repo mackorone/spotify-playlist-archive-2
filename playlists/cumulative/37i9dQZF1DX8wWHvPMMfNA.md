@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8wWHvPMMfNA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8wWHvPMMfNA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8wWHvPMMfNA)
+[pretty](/playlists/pretty/37i9dQZF1DX8wWHvPMMfNA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8wWHvPMMfNA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8wWHvPMMfNA)
 
 ### [Focus Jazz](https://open.spotify.com/playlist/37i9dQZF1DX8wWHvPMMfNA)
 
@@ -406,7 +406,7 @@
 | [Into Your Arms](https://open.spotify.com/track/4j1WoGCsyNS1Ja1JE9Zcuk) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Into Your Arms](https://open.spotify.com/album/1Em9KboxpeR2GXE5tBueVh) | 2:51 | 2024-02-23 |  |
 | [Irridescent Mountains](https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Irridescent Mountains](https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq) | 3:19 | 2023-06-01 |  |
 | [Isle of Skye](https://open.spotify.com/track/73LQCAFiw2kiWQnqwlQPGg) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Isle of Skye](https://open.spotify.com/album/3dhOnlhtjBOIZYO3Dxmn04) | 3:36 | 2024-05-10 |  |
-| [Islington](https://open.spotify.com/track/1BAUtnyRhDLfwK4l5RO4bN) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Maywood In My Heart](https://open.spotify.com/album/6tROLpe9FmmzMgVdOIhocn) | 3:14 | 2023-06-01 |  |
+| [Islington](https://open.spotify.com/track/1BAUtnyRhDLfwK4l5RO4bN) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Maywood In My Heart](https://open.spotify.com/album/6tROLpe9FmmzMgVdOIhocn) | 3:14 | 2023-06-01 | 2026-01-15 |
 | [Isn’t this nice?](https://open.spotify.com/track/2IUs8ie4cwrxxQhHjw6gn3) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Isn’t this nice?](https://open.spotify.com/album/6J0s9bF3L1td3B8QvOKiCP) | 3:13 | 2023-06-01 | 2025-09-10 |
 | [It Ain't Necessarily So](https://open.spotify.com/track/1yebi3DYxcHXzSFjbeLGMP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 4:46 | 2021-12-16 | 2022-11-11 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-11-11 |  |
@@ -469,7 +469,7 @@
 | [Linda´s Dream](https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Linda´s Dream](https://open.spotify.com/album/0q30Csvy0pQmqQ9plA1jLZ) | 2:49 | 2023-06-22 |  |
 | [Little Birdy Bean](https://open.spotify.com/track/4vkgxZq0GhzUt6Ta7e4RFO) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Little Birdy Bean](https://open.spotify.com/album/5yjGBYwU32GcZvR9GKD0Ja) | 3:15 | 2024-02-23 |  |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-23 |  |
-| [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-11-11 | 2026-01-05 |
+| [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-11-11 |  |
 | [Locals](https://open.spotify.com/track/0hJLXx1jRHsYyS9oaTC5wd) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Locals](https://open.spotify.com/album/1n2qGaHUFwfkobTJE3OO5r) | 2:39 | 2024-06-11 | 2024-07-16 |
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-08 |  |
 | [Lonely Avenue](https://open.spotify.com/track/7Af5x0oUmCHEpmvSK6U2zS) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Lonely Avenue](https://open.spotify.com/album/3IYk8IZhaNiz2JETes8Cbd) | 3:39 | 2024-02-02 |  |

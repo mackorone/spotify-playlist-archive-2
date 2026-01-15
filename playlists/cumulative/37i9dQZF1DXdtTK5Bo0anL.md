@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdtTK5Bo0anL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdtTK5Bo0anL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdtTK5Bo0anL)
+[pretty](/playlists/pretty/37i9dQZF1DXdtTK5Bo0anL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdtTK5Bo0anL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdtTK5Bo0anL)
 
 ### [Deborah De Luca's track IDs](https://open.spotify.com/playlist/37i9dQZF1DXdtTK5Bo0anL)
 

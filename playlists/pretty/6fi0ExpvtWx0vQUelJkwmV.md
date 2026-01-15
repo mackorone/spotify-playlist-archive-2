@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6fi0ExpvtWx0vQUelJkwmV.md) - [plain](/playlists/plain/6fi0ExpvtWx0vQUelJkwmV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6fi0ExpvtWx0vQUelJkwmV)
+pretty - [cumulative](/playlists/cumulative/6fi0ExpvtWx0vQUelJkwmV.md) - [plain](/playlists/plain/6fi0ExpvtWx0vQUelJkwmV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6fi0ExpvtWx0vQUelJkwmV)
 
 ### [Hip Hop Club Bangers](https://open.spotify.com/playlist/6fi0ExpvtWx0vQUelJkwmV)
 
 > The hardest beats from the rap game Photo: MoStack
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 443,757 likes - 62 songs - 3 hr 22 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 442,804 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

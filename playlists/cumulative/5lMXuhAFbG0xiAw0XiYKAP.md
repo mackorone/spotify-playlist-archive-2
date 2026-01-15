@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5lMXuhAFbG0xiAw0XiYKAP.md) - cumulative - [plain](/playlists/plain/5lMXuhAFbG0xiAw0XiYKAP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5lMXuhAFbG0xiAw0XiYKAP)
+[pretty](/playlists/pretty/5lMXuhAFbG0xiAw0XiYKAP.md) - cumulative - [plain](/playlists/plain/5lMXuhAFbG0xiAw0XiYKAP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5lMXuhAFbG0xiAw0XiYKAP)
 
 ### [Top Dads on Spotify](https://open.spotify.com/playlist/5lMXuhAFbG0xiAw0XiYKAP)
 

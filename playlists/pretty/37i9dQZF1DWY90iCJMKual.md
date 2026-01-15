@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain](/playlists/plain/37i9dQZF1DWY90iCJMKual) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY90iCJMKual)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain](/playlists/plain/37i9dQZF1DWY90iCJMKual) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY90iCJMKual)
 
 ### [Best of Pinas Vibes 2025](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
 > Most streamed Pinoy R&B tracks in 2025\. Cover: ALLMO$T
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,150 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,683 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

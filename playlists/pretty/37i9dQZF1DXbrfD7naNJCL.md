@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrfD7naNJCL.md) - [plain](/playlists/plain/37i9dQZF1DXbrfD7naNJCL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbrfD7naNJCL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrfD7naNJCL.md) - [plain](/playlists/plain/37i9dQZF1DXbrfD7naNJCL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbrfD7naNJCL)
 
 ### [The Little Mermaid Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbrfD7naNJCL)
 
 > All\-new performances by the cast and exclusive content\. How many wonders can one playlist hold?
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,094 likes - 167 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,015 likes - 167 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

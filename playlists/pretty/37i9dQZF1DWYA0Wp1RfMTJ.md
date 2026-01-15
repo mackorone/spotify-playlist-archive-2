@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYA0Wp1RfMTJ.md) - [plain](/playlists/plain/37i9dQZF1DWYA0Wp1RfMTJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYA0Wp1RfMTJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYA0Wp1RfMTJ.md) - [plain](/playlists/plain/37i9dQZF1DWYA0Wp1RfMTJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYA0Wp1RfMTJ)
 
 ### [Blue Box アオのハコ ](https://open.spotify.com/playlist/37i9dQZF1DWYA0Wp1RfMTJ)
 
 > Music from "Blue Box"! /アニメ「アオのハコ」の世界を彩る楽曲をプレイリストで。©三浦糀／集英社・「アオのハコ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,664 likes - 79 songs - 17 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,721 likes - 79 songs - 17 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

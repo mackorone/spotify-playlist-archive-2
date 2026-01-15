@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain](/playlists/plain/37i9dQZF1DWUomyMFpoR0R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUomyMFpoR0R)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain](/playlists/plain/37i9dQZF1DWUomyMFpoR0R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUomyMFpoR0R)
 
 ### [Maceo Plex's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWUomyMFpoR0R)
 
 > <a href="spotify:artist:3TXQ1ddouwQAI78hV4hXDjj">Maceo Plex</a>'s favorite tracks\. Curated by Maceo Plex\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,213 likes - 40 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,276 likes - 40 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

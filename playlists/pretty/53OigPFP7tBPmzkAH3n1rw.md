@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain](/playlists/plain/53OigPFP7tBPmzkAH3n1rw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/53OigPFP7tBPmzkAH3n1rw)
+pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain](/playlists/plain/53OigPFP7tBPmzkAH3n1rw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/53OigPFP7tBPmzkAH3n1rw)
 
 ### [Ginny & Georgia Official Playlist](https://open.spotify.com/playlist/53OigPFP7tBPmzkAH3n1rw)
 
 > Listen to the Ginny &amp; Georgia Official Playlist\. <a href="https://www.netflix.com/title/81025696">Watch only on Netflix</a>
 
-[Netflix](https://open.spotify.com/user/netflixmusic) - 131,851 likes - 404 songs - 21 hr 17 min
+[Netflix](https://open.spotify.com/user/netflixmusic) - 132,001 likes - 404 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

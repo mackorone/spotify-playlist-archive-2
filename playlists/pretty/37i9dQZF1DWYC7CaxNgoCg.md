@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7CaxNgoCg.md) - [plain](/playlists/plain/37i9dQZF1DWYC7CaxNgoCg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYC7CaxNgoCg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7CaxNgoCg.md) - [plain](/playlists/plain/37i9dQZF1DWYC7CaxNgoCg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYC7CaxNgoCg)
 
 ### [Motown](https://open.spotify.com/playlist/37i9dQZF1DWYC7CaxNgoCg)
 
 > Music that broke barriers and moved souls\. Cover: The Temptations
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,065 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,641 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

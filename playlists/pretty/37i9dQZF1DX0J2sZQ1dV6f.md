@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain](/playlists/plain/37i9dQZF1DX0J2sZQ1dV6f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0J2sZQ1dV6f)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain](/playlists/plain/37i9dQZF1DX0J2sZQ1dV6f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0J2sZQ1dV6f)
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Jimmy Guzman, Alan Arrieta
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,715 likes - 104 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,703 likes - 104 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 | 103 | [DURO](https://open.spotify.com/track/7D2pw1k24KdVVRkD2RzXoV) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [DURO](https://open.spotify.com/album/7s3uEJa4VwAiij9v3N0DMW) | 2:45 |
 | 104 | [En El Audi](https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [En El Audi](https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C) | 3:18 |
 
-Snapshot ID: `AAAAAHZ4JAtVq1OI+ffyWDrwEg9rLtNz`
+Snapshot ID: `AAAAAKDg5LUpQm1NZcT2lfdHTiMT19FU`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Ken Carson, Autumn! and more",
+  "description": "With Yeat, Autumn!, Duwap Kaine and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -50,10 +50,28 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Ain't No Love (feat. BabyChiefDoit & BAK Jay)",
       "url": "https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei"
+    },
+    {
+      "album": {
+        "name": "Everybody Hates 10",
+        "url": "https://open.spotify.com/album/2Ljs7S5f0oExfgdCPJKko1"
+      },
+      "artists": [
+        {
+          "name": "10cellphones",
+          "url": "https://open.spotify.com/artist/3IBVsmzlYvtNgo76uhM2Pv"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106728,
+      "name": "Air Bender",
+      "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
     },
     {
       "album": {
@@ -200,7 +218,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -262,6 +280,36 @@
       "duration_ms": 116480,
       "name": "Blood On The Leaves (Remix)",
       "url": "https://open.spotify.com/track/1pxal7Zs5xxABW7Jf01RpL"
+    },
+    {
+      "album": {
+        "name": "It Starts Here 2",
+        "url": "https://open.spotify.com/album/4Ld1UydP1EfVCuETjJR824"
+      },
+      "artists": [
+        {
+          "name": "1mirs",
+          "url": "https://open.spotify.com/artist/1jQfAstIhnIaUoEMYaxHSq"
+        },
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "Ybcdul",
+          "url": "https://open.spotify.com/artist/5gMYyYkabVhQUt6FuaUJbC"
+        },
+        {
+          "name": "YoungBagChasers",
+          "url": "https://open.spotify.com/artist/2GzyKAB2qWkYXeuk0RtYYw"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133815,
+      "name": "Bowls In The Underworld",
+      "url": "https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr"
     },
     {
       "album": {
@@ -450,10 +498,28 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140307,
       "name": "DAMN HOMIE (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/3YJP7MFR6D4R1zFDXmv35p"
+    },
+    {
+      "album": {
+        "name": "Stranger Things",
+        "url": "https://open.spotify.com/album/5tX3fmoSQsJMbPsLSmjqe8"
+      },
+      "artists": [
+        {
+          "name": "5ive",
+          "url": "https://open.spotify.com/artist/1amQb9Uw9xQGWXyZjW42H1"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160333,
+      "name": "Dead Dreams",
+      "url": "https://open.spotify.com/track/35TfrWUWR0cdePPQR5E5QU"
     },
     {
       "album": {
@@ -486,7 +552,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136045,
       "name": "Disagree",
       "url": "https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r"
@@ -508,7 +574,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 137971,
       "name": "Don\u2019t Know How To Feel",
       "url": "https://open.spotify.com/track/5pzFqoFSlmzK4toMpy78Bn"
@@ -596,7 +662,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -618,7 +684,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195433,
       "name": "Fuck Good Business - Remix",
       "url": "https://open.spotify.com/track/43McxIOhxbphUzPBUFS2Mk"
@@ -736,7 +802,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143511,
       "name": "Great White",
       "url": "https://open.spotify.com/track/7Audfj7uXjCpZJbmu2ULut"
@@ -780,6 +846,28 @@
       "duration_ms": 137305,
       "name": "Higher Than Yall - feat. KARRAHBOOO",
       "url": "https://open.spotify.com/track/5NpzNMgZJYcgDf7ay92fsw"
+    },
+    {
+      "album": {
+        "name": "What They Want",
+        "url": "https://open.spotify.com/album/5NkIQPzchxlzzrd6dj5AMh"
+      },
+      "artists": [
+        {
+          "name": "Nsg Rue",
+          "url": "https://open.spotify.com/artist/6D4FdJFkaRNFwSdPe45Fu2"
+        },
+        {
+          "name": "Lil Reese",
+          "url": "https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126082,
+      "name": "Hoop Ass Nigga",
+      "url": "https://open.spotify.com/track/5Fr3Tsw7WvayQ0ec1r6DaS"
     },
     {
       "album": {
@@ -837,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Intervals",
+        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
+      },
+      "artists": [
+        {
+          "name": "\u0141ee",
+          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143775,
+      "name": "Intervals",
+      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
+    },
+    {
+      "album": {
         "name": "Guapo Ep 5ive \"B Side\"",
         "url": "https://open.spotify.com/album/5voDVenL8jfpVojUTa8OCN"
       },
@@ -848,7 +954,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130168,
       "name": "It's a Stick Up",
       "url": "https://open.spotify.com/track/26HB2IAUsyDenlJWmkD4zk"
@@ -1026,7 +1132,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150383,
       "name": "Mark William Lewis flow",
       "url": "https://open.spotify.com/track/1HeRtLBfJwP8sde2ZZtxTD"
@@ -1044,7 +1150,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 136062,
       "name": "Moe Texas",
       "url": "https://open.spotify.com/track/4Q2ZgILbVW5bViFhaRwmnT"
@@ -1062,7 +1168,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
@@ -1124,7 +1230,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 117120,
       "name": "NBA BALLERZ - Bonus",
       "url": "https://open.spotify.com/track/4ilBeqxoiy22rcDCxLJ2or"
@@ -1348,7 +1454,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 138017,
       "name": "P!NK GUN",
       "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
@@ -1384,7 +1490,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 112483,
       "name": "petrol",
       "url": "https://open.spotify.com/track/3JBtFRUOBOSTUTMNu9s3MM"
@@ -1402,7 +1508,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 132293,
       "name": "POETRY",
       "url": "https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3"
@@ -1420,7 +1526,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -1442,6 +1548,24 @@
       "duration_ms": 194594,
       "name": "Pub Sub",
       "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
+    },
+    {
+      "album": {
+        "name": "pull off",
+        "url": "https://open.spotify.com/album/4ufciFofFM0Kw7r9WP1a59"
+      },
+      "artists": [
+        {
+          "name": "junesforever",
+          "url": "https://open.spotify.com/artist/5lwt02zQQ3wqkUyXCeJB4f"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151062,
+      "name": "pull off",
+      "url": "https://open.spotify.com/track/4pOLfBnRTOI9bqsL3PNVle"
     },
     {
       "album": {
@@ -1510,7 +1634,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141316,
       "name": "Rubbin Of The Pain x New Flesh",
       "url": "https://open.spotify.com/track/1CK8VKNerVf4TH5vxd787M"
@@ -1571,6 +1695,32 @@
     },
     {
       "album": {
+        "name": "Spanglish",
+        "url": "https://open.spotify.com/album/0rOykZHoTWuBpRhdh3Bb8h"
+      },
+      "artists": [
+        {
+          "name": "novanitys",
+          "url": "https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP"
+        },
+        {
+          "name": "wonder",
+          "url": "https://open.spotify.com/artist/4egc04cPnCS54Cp5Hz3IuE"
+        },
+        {
+          "name": "Saltyngget",
+          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222876,
+      "name": "Spanglish",
+      "url": "https://open.spotify.com/track/5uTlnTxi8kQv6EuMvR725n"
+    },
+    {
+      "album": {
         "name": "Bring It On",
         "url": "https://open.spotify.com/album/4UgsOL75dhtNtwVPhfN8tW"
       },
@@ -1582,7 +1732,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 110545,
       "name": "Spectacular 2",
       "url": "https://open.spotify.com/track/7cRSJZxsujmH1FENsQySBf"
@@ -1781,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Trifling",
+        "url": "https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e"
+      },
+      "artists": [
+        {
+          "name": "acleast",
+          "url": "https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211931,
+      "name": "Trifling",
+      "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"
+    },
+    {
+      "album": {
         "name": "UP!",
         "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
       },
@@ -1944,7 +2112,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 106533,
       "name": "Yale",
       "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"

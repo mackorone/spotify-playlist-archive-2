@@ -1,13 +1,29 @@
 {
   "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Eliza Maturan",
-  "num_followers": 193598,
+  "num_followers": 193848,
   "original_name": "OPM Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACHmb0LL+qiy1GzwmasfJxYR9Qyb",
+  "snapshot_id": "AAAAAF2CKu8m+h2370FwsffrCRsn6Niq",
   "tracks": [
+    {
+      "added_at": "2026-01-08 16:00:18",
+      "album": {
+        "name": "Sabihin Mo Lang",
+        "url": "https://open.spotify.com/album/2PgrN7s5f9iQ5cMGVFbYXE"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Sabihin Mo Lang",
+      "url": "https://open.spotify.com/track/7JGChCgGGxVdPMxopSTzzN"
+    },
     {
       "added_at": "2025-12-19 07:56:43",
       "album": {
@@ -27,6 +43,74 @@
       "duration_ms": 255137,
       "name": "Tahanan (feat. SB19)",
       "url": "https://open.spotify.com/track/6XOT8LCjly8StKCooz6pp1"
+    },
+    {
+      "added_at": "2026-01-08 16:00:18",
+      "album": {
+        "name": "Malabo",
+        "url": "https://open.spotify.com/album/5u92oijHjzzb1IUlqXPAbt"
+      },
+      "artists": [
+        {
+          "name": "Petsanity",
+          "url": "https://open.spotify.com/artist/1OVaCQucAYwylVm6HxeqXm"
+        },
+        {
+          "name": "El Manu",
+          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Malabo",
+      "url": "https://open.spotify.com/track/3da177OlgQtJx6IF3Ivrz0"
+    },
+    {
+      "added_at": "2025-12-19 07:56:43",
+      "album": {
+        "name": "Biglaan",
+        "url": "https://open.spotify.com/album/65ZsDDYYF9faaSYfDfuJ0O"
+      },
+      "artists": [
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "Biglaan",
+      "url": "https://open.spotify.com/track/5zWr9QbKqCYQnEQ3gennV8"
+    },
+    {
+      "added_at": "2026-01-08 16:00:18",
+      "album": {
+        "name": "Kung Magugunaw ang Mundo",
+        "url": "https://open.spotify.com/album/1geXyQplbxyXhpCcbRyjzs"
+      },
+      "artists": [
+        {
+          "name": "LEYO",
+          "url": "https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg"
+        }
+      ],
+      "duration_ms": 231391,
+      "name": "Kung Magugunaw ang Mundo",
+      "url": "https://open.spotify.com/track/0lDhTznSyQ4QwDdAM4LFHN"
+    },
+    {
+      "added_at": "2026-01-08 16:00:18",
+      "album": {
+        "name": "Masunog Man",
+        "url": "https://open.spotify.com/album/3KQHSKJK0Kgtq7NdJq3blO"
+      },
+      "artists": [
+        {
+          "name": "Maymay Entrata",
+          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
+        }
+      ],
+      "duration_ms": 207727,
+      "name": "Masunog Man",
+      "url": "https://open.spotify.com/track/1DlJsnh0xE51pkSAWXz4W3"
     },
     {
       "added_at": "2025-12-19 07:56:43",
@@ -79,22 +163,6 @@
       "duration_ms": 190568,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/7ocY2A46ZK9kgnSAGfQ1F0"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
-        "name": "Biglaan",
-        "url": "https://open.spotify.com/album/65ZsDDYYF9faaSYfDfuJ0O"
-      },
-      "artists": [
-        {
-          "name": "Eliza Maturan",
-          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "Biglaan",
-      "url": "https://open.spotify.com/track/5zWr9QbKqCYQnEQ3gennV8"
     },
     {
       "added_at": "2025-12-19 07:56:43",
@@ -1467,54 +1535,6 @@
     {
       "added_at": "2025-12-19 07:56:43",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/09xwz7U4Ho2qNALirus13F"
-      },
-      "artists": [
-        {
-          "name": "Justin Vasquez",
-          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/096GsV4auvK0bXfBjQzbpt"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
-        "name": "You Deserve It!",
-        "url": "https://open.spotify.com/album/0koTalvdyimyaKXLcvkgE6"
-      },
-      "artists": [
-        {
-          "name": "James Reid",
-          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
-        }
-      ],
-      "duration_ms": 186039,
-      "name": "You Deserve It!",
-      "url": "https://open.spotify.com/track/4G4BPh9ESJ6qFQLcrzghic"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
-        "name": "Bulay-bulayin",
-        "url": "https://open.spotify.com/album/3nnEq3ZXXsOVyXCZ60MD5E"
-      },
-      "artists": [
-        {
-          "name": "Similar Sky",
-          "url": "https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45"
-        }
-      ],
-      "duration_ms": 187812,
-      "name": "Bulay-bulayin",
-      "url": "https://open.spotify.com/track/4lIKuDqhx8q3pUSpsAKlY0"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
         "name": "Laro",
         "url": "https://open.spotify.com/album/1tryiZ8ELSSko2XcSJJ1Jd"
       },
@@ -1527,42 +1547,6 @@
       "duration_ms": 228684,
       "name": "Laro",
       "url": "https://open.spotify.com/track/06pA8vxowvqlRCe2hteMsB"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
-        "name": "Bye 3x",
-        "url": "https://open.spotify.com/album/17UjsMHzFxuETWRC7mkpon"
-      },
-      "artists": [
-        {
-          "name": "Mika Yusay",
-          "url": "https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bye 3x",
-      "url": "https://open.spotify.com/track/7q2fWxTVz2g6ZERBlfs5ow"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
-        "name": "Balang Araw",
-        "url": "https://open.spotify.com/album/4oY8fDfCIWUu66qBZfFOvf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ely",
-          "url": "https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0"
-        },
-        {
-          "name": "Ame",
-          "url": "https://open.spotify.com/artist/5FBMWQ27y0de4TaZawQ7bN"
-        }
-      ],
-      "duration_ms": 329500,
-      "name": "Balang Araw",
-      "url": "https://open.spotify.com/track/1FDczJipkMHmpzdX0zvcn7"
     },
     {
       "added_at": "2025-12-19 07:56:43",
@@ -1599,22 +1583,6 @@
     {
       "added_at": "2025-12-19 07:56:43",
       "album": {
-        "name": "Andalucia",
-        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
-      },
-      "artists": [
-        {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 180803,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
         "name": "La Loba",
         "url": "https://open.spotify.com/album/3NKI08Hye3rR6FlOp2KwRp"
       },
@@ -1627,22 +1595,6 @@
       "duration_ms": 212125,
       "name": "La Loba",
       "url": "https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
-        "name": "Lalapit?",
-        "url": "https://open.spotify.com/album/7yXl6AtxQFNhWhtH0RpMV0"
-      },
-      "artists": [
-        {
-          "name": "Brxn",
-          "url": "https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF"
-        }
-      ],
-      "duration_ms": 230154,
-      "name": "Lalapit?",
-      "url": "https://open.spotify.com/track/6EiNfnUrSbiouZqFx7kxHf"
     },
     {
       "added_at": "2025-12-19 07:56:43",
@@ -1695,7 +1647,7 @@
     {
       "added_at": "2025-12-19 07:56:43",
       "album": {
-        "name": "Ikaw Lagi",
+        "name": "IKAW LAGI",
         "url": "https://open.spotify.com/album/4gLUT2vvF4Hx64G7xtbskK"
       },
       "artists": [
@@ -1705,7 +1657,7 @@
         }
       ],
       "duration_ms": 234511,
-      "name": "Ikaw Lagi",
+      "name": "IKAW LAGI",
       "url": "https://open.spotify.com/track/3USJfZzJ3TwIQyXqbkFOmd"
     },
     {
@@ -1727,54 +1679,6 @@
       "duration_ms": 288705,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/5qXeovL9nd59JoVcnhbf1L"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
-        "name": "Pagupit",
-        "url": "https://open.spotify.com/album/6BS73UPtV72Z5dDLrABBjO"
-      },
-      "artists": [
-        {
-          "name": "REVISORS",
-          "url": "https://open.spotify.com/artist/4mu4RXtz0hl6uJfkeuCmNc"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Pagupit",
-      "url": "https://open.spotify.com/track/5z9X9Q2mZaWdGUrOj62rkw"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
-        "name": "Dalawa",
-        "url": "https://open.spotify.com/album/2EW0Kwp3taQjsc9ZcUmYk1"
-      },
-      "artists": [
-        {
-          "name": "Jason Dhakal",
-          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Dalawa",
-      "url": "https://open.spotify.com/track/2PPVwTRihaBQHirGqhBhdB"
-    },
-    {
-      "added_at": "2025-12-19 07:56:43",
-      "album": {
-        "name": "AYOS LANG",
-        "url": "https://open.spotify.com/album/1kDAyu74Or1EPw4rHRojlH"
-      },
-      "artists": [
-        {
-          "name": "DEMI",
-          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
-        }
-      ],
-      "duration_ms": 141369,
-      "name": "AYOS LANG",
-      "url": "https://open.spotify.com/track/5ao7bBo7bVdG83EV4qyhAf"
     }
   ],
   "unique_name": "OPM Rising",

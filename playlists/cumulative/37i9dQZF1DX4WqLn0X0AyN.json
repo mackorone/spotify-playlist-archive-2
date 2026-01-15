@@ -1071,13 +1071,17 @@
     },
     {
       "album": {
-        "name": "Shabba Madda Pot - Single",
+        "name": "Shabba Madda Pot",
         "url": "https://open.spotify.com/album/6blB91ubI6Ul0TFz6X2Non"
       },
       "artists": [
         {
           "name": "Dexta Daps",
           "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        },
+        {
+          "name": "Daseca",
+          "url": "https://open.spotify.com/artist/4bTPICxfdk6NnzLH7HGgiX"
         }
       ],
       "date_added": "2025-06-19",

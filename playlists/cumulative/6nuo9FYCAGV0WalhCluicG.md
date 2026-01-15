@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6nuo9FYCAGV0WalhCluicG.md) - cumulative - [plain](/playlists/plain/6nuo9FYCAGV0WalhCluicG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6nuo9FYCAGV0WalhCluicG)
+[pretty](/playlists/pretty/6nuo9FYCAGV0WalhCluicG.md) - cumulative - [plain](/playlists/plain/6nuo9FYCAGV0WalhCluicG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6nuo9FYCAGV0WalhCluicG)
 
 ### [UK Rap 2025](https://open.spotify.com/playlist/6nuo9FYCAGV0WalhCluicG)
 

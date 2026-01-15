@@ -6618,7 +6618,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 253709,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/0lKd4m2zzpkQLnDSeqkKGm"
@@ -9568,7 +9568,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 158832,
       "name": "Close to ghosts",
       "url": "https://open.spotify.com/track/0MWFt1jeFkUt2CX4v1SNjD"
@@ -10502,7 +10502,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 295464,
       "name": "Corrections",
       "url": "https://open.spotify.com/track/1STobMYemaTslRnDRHNoLp"
@@ -16604,6 +16604,24 @@
       "duration_ms": 238000,
       "name": "Eres Tu",
       "url": "https://open.spotify.com/track/2WvPpSzYHXlzruEoFCxtS2"
+    },
+    {
+      "album": {
+        "name": "Tres formas de caer de pie",
+        "url": "https://open.spotify.com/album/2BBasp0r19RFhlviCRcbor"
+      },
+      "artists": [
+        {
+          "name": "DanyCelta",
+          "url": "https://open.spotify.com/artist/1snVR75o14kLvuDQl7SxAb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178259,
+      "name": "Es tu deseo que me salga mal",
+      "url": "https://open.spotify.com/track/0yfzNOY2QzdtKylXb5wbuy"
     },
     {
       "album": {
@@ -27180,7 +27198,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174657,
       "name": "If You Wanna Hate Me (Then Go Ahead)",
       "url": "https://open.spotify.com/track/20tLitUbDbywXhKvv3c5P9"
@@ -29412,7 +29430,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 356989,
       "name": "Juno",
       "url": "https://open.spotify.com/track/0FYVWVHYWDFpgXmc96ZjtB"
@@ -43009,6 +43027,32 @@
     },
     {
       "album": {
+        "name": "Per Aspera Ad Astra",
+        "url": "https://open.spotify.com/album/2W2zIsdGgYUg0eQeaoN8js"
+      },
+      "artists": [
+        {
+          "name": "Enter The Animus",
+          "url": "https://open.spotify.com/artist/6eK3Q6dKMsZdt2rPs6V0o4"
+        },
+        {
+          "name": "The Anima Effect",
+          "url": "https://open.spotify.com/artist/6ICayNqPXIZuqvJFEK8LMV"
+        },
+        {
+          "name": "Chiasma",
+          "url": "https://open.spotify.com/artist/3JUPiGh995t6SFMmax0Rn6"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Per Aspera Ad Astra",
+      "url": "https://open.spotify.com/track/7pUVVItL46oPLIdPlXyTlG"
+    },
+    {
+      "album": {
         "name": "Percussion in Orbit",
         "url": "https://open.spotify.com/album/7xla2eUl4x3x1YZrxnXr5G"
       },
@@ -51979,6 +52023,24 @@
     },
     {
       "album": {
+        "name": "Stand My Ground",
+        "url": "https://open.spotify.com/album/0qh12nwOJec44slnbjD3wR"
+      },
+      "artists": [
+        {
+          "name": "Symphony Of Sweden",
+          "url": "https://open.spotify.com/artist/6AvBsDOrRn8rAdJdj3srdJ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171786,
+      "name": "Stand My Ground",
+      "url": "https://open.spotify.com/track/2g15Gnq7ps0l50KzOQAf4b"
+    },
+    {
+      "album": {
         "name": "standby",
         "url": "https://open.spotify.com/album/2lSxvrtLRhjacQbN3S1tlX"
       },
@@ -58008,7 +58070,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 187500,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/3YVRwJnYfK4KaKeI8Zr9RJ"
@@ -58832,7 +58894,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 274956,
       "name": "T\u00e5lamod",
       "url": "https://open.spotify.com/track/3uuKRCOlw3FbDkC7HNjkZD"
@@ -58890,6 +58952,24 @@
       "duration_ms": 181301,
       "name": "U-Haul's Drag Race",
       "url": "https://open.spotify.com/track/71TOGGiUVJtIhp8YLjEhPI"
+    },
+    {
+      "album": {
+        "name": "U.N.I.T.Y. Demo",
+        "url": "https://open.spotify.com/album/6EP3n2lbq5114sLZQU3y5B"
+      },
+      "artists": [
+        {
+          "name": "The Big Hurt",
+          "url": "https://open.spotify.com/artist/66koa39z8kBfqOvtHkh4uz"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118477,
+      "name": "U.N.I.T.Y.",
+      "url": "https://open.spotify.com/track/1XZO7hnM9buSDUbmR3xPZC"
     },
     {
       "album": {
@@ -59730,6 +59810,24 @@
       "duration_ms": 298089,
       "name": "Uyisimanga - Live from Moags",
       "url": "https://open.spotify.com/track/6jshhZlt72C8y4AFdYkjc5"
+    },
+    {
+      "album": {
+        "name": "V Honda",
+        "url": "https://open.spotify.com/album/7KCfoaN5vXp3eLilRXCAvU"
+      },
+      "artists": [
+        {
+          "name": "Jumal Velho",
+          "url": "https://open.spotify.com/artist/5HZeWJteVCHn2PLNSIhoAy"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181970,
+      "name": "V Honda",
+      "url": "https://open.spotify.com/track/0BCuTFbk7AoQ4pYwiFBDwx"
     },
     {
       "album": {
@@ -62114,6 +62212,24 @@
       "duration_ms": 225587,
       "name": "What Could I Ever Do",
       "url": "https://open.spotify.com/track/2lhSgRej0UEcdGXp0skrvJ"
+    },
+    {
+      "album": {
+        "name": "Selfishly",
+        "url": "https://open.spotify.com/album/16oHdmV1oknYQUnXQ0JJEo"
+      },
+      "artists": [
+        {
+          "name": "Lyric",
+          "url": "https://open.spotify.com/artist/5CwmMqJxraGLXvJydreBIU"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290922,
+      "name": "What Do You See_",
+      "url": "https://open.spotify.com/track/5riFnAUMFj81nWRXQxbkvI"
     },
     {
       "album": {
@@ -64540,7 +64656,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 134952,
       "name": "You're Not Nice",
       "url": "https://open.spotify.com/track/47JjQ1m8fFZr8IvprOW15h"
@@ -65350,7 +65466,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154666,
       "name": "\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u044f\u044f",
       "url": "https://open.spotify.com/track/3rjCoZqOYQVyES5hhojuo8"

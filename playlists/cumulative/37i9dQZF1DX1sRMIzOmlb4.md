@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1sRMIzOmlb4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1sRMIzOmlb4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1sRMIzOmlb4)
+[pretty](/playlists/pretty/37i9dQZF1DX1sRMIzOmlb4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1sRMIzOmlb4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1sRMIzOmlb4)
 
 ### [Latin Hits 2015](https://open.spotify.com/playlist/37i9dQZF1DX1sRMIzOmlb4)
 

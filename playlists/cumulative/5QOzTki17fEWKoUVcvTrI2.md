@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5QOzTki17fEWKoUVcvTrI2.md) - cumulative - [plain](/playlists/plain/5QOzTki17fEWKoUVcvTrI2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5QOzTki17fEWKoUVcvTrI2)
+[pretty](/playlists/pretty/5QOzTki17fEWKoUVcvTrI2.md) - cumulative - [plain](/playlists/plain/5QOzTki17fEWKoUVcvTrI2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5QOzTki17fEWKoUVcvTrI2)
 
 ### [Top Picks Rock](https://open.spotify.com/playlist/5QOzTki17fEWKoUVcvTrI2)
 

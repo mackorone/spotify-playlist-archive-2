@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: DENNYH",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover:  DENNYH",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211584,
       "name": "Buqu\u00ea",
       "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159470,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/55YjkKc9coxXYdzXyfNZrV"
@@ -6499,6 +6499,24 @@
     },
     {
       "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/1k39SuSj88m1zPHwdSKj8h"
+      },
+      "artists": [
+        {
+          "name": "Jey V",
+          "url": "https://open.spotify.com/artist/02aXxScVRfbF0xFjGvi1mu"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195610,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/6Zn0rZeWpHTPLVGGXZbMnB"
+    },
+    {
+      "album": {
         "name": "Meu Marido",
         "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
       },
@@ -7946,13 +7964,13 @@
       },
       "artists": [
         {
-          "name": "Gasso",
+          "name": "Gasso Franco",
           "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
         }
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 216127,
       "name": "O Jeito Dela - Radio Edit",
       "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
@@ -9818,7 +9836,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 245374,
       "name": "Senge",
       "url": "https://open.spotify.com/track/3LpxdPWjzUQC0vHGDROxgb"
@@ -12460,6 +12478,28 @@
       "duration_ms": 172666,
       "name": "Vir de Longe",
       "url": "https://open.spotify.com/track/3KOr0Kvi9Gc4o4QJsxvxsP"
+    },
+    {
+      "album": {
+        "name": "Viver pra Ti",
+        "url": "https://open.spotify.com/album/7tLXv6EKwiLX3GnXkzjQEi"
+      },
+      "artists": [
+        {
+          "name": "Young Double",
+          "url": "https://open.spotify.com/artist/7uxVtHLLKggSUN4MNqqBfY"
+        },
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190445,
+      "name": "Viver pra Ti",
+      "url": "https://open.spotify.com/track/0ngqThz7sP2YPJBVy8xDix"
     },
     {
       "album": {

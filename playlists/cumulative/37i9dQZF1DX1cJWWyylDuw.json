@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of the best modern Deathcore tracks. Cover: Lorna Shore",
+  "description": "A mix of the best modern Deathcore tracks. Cover: Face Yourself",
   "name": "Deathcore",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 228606,
       "name": "-seven",
       "url": "https://open.spotify.com/track/2jO5ebT82RTMLfkCQM1kOX"
@@ -2128,6 +2128,24 @@
       "duration_ms": 184106,
       "name": "Carnage in Despair",
       "url": "https://open.spotify.com/track/6ZrHf3qvDCMPaDR83ojn24"
+    },
+    {
+      "album": {
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/1fCrRUykhfUC1sGg4QMoDu"
+      },
+      "artists": [
+        {
+          "name": "Face Yourself",
+          "url": "https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242575,
+      "name": "Carousel of Violence",
+      "url": "https://open.spotify.com/track/7hEC48yRQYWacYgTCNWG8N"
     },
     {
       "album": {
@@ -5734,7 +5752,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 195370,
       "name": "God Of Mine",
       "url": "https://open.spotify.com/track/5C2H5w6b3FJSoikWsSHGUp"
@@ -6578,7 +6596,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 312466,
       "name": "Hymns in Dissonance",
       "url": "https://open.spotify.com/track/4CuCHhr5zHzEwcflWD2jUT"
@@ -6596,7 +6614,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 312466,
       "name": "Hymns in Dissonance",
       "url": "https://open.spotify.com/track/6KukQLPGIVCyPYHSG9aiIU"
@@ -9388,7 +9406,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226936,
       "name": "Ov Agony",
       "url": "https://open.spotify.com/track/4tpFij80eKDaM7r4YyzBvN"
@@ -11341,6 +11359,28 @@
     },
     {
       "album": {
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214193,
+      "name": "Song 3",
+      "url": "https://open.spotify.com/track/7DaLKhSP0YlBa3z3fp6xTq"
+    },
+    {
+      "album": {
         "name": "Song 3",
         "url": "https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias"
       },
@@ -11862,7 +11902,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 274826,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f"
@@ -13736,7 +13776,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194223,
       "name": "Wet Dreams",
       "url": "https://open.spotify.com/track/5p2UtO28Oc6k1ymLHSarYZ"
@@ -14254,6 +14294,24 @@
       "duration_ms": 162894,
       "name": "You Must Die",
       "url": "https://open.spotify.com/track/68gyFtYJzoe6rI7elhTNpc"
+    },
+    {
+      "album": {
+        "name": "The Black Crown",
+        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
     },
     {
       "album": {

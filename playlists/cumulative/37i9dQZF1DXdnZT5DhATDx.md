@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdnZT5DhATDx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdnZT5DhATDx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdnZT5DhATDx)
+[pretty](/playlists/pretty/37i9dQZF1DXdnZT5DhATDx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdnZT5DhATDx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdnZT5DhATDx)
 
 ### [Game of Thrones: The Official Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DXdnZT5DhATDx)
 

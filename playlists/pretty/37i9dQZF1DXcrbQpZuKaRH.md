@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain](/playlists/plain/37i9dQZF1DXcrbQpZuKaRH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcrbQpZuKaRH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain](/playlists/plain/37i9dQZF1DXcrbQpZuKaRH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcrbQpZuKaRH)
 
 ### [Meditate by the Ocean](https://open.spotify.com/playlist/37i9dQZF1DXcrbQpZuKaRH)
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,988 likes - 133 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,472 likes - 133 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

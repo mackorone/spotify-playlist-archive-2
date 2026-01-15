@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain](/playlists/plain/37i9dQZF1DX5qNE4zrflL7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5qNE4zrflL7)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain](/playlists/plain/37i9dQZF1DX5qNE4zrflL7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5qNE4zrflL7)
 
 ### [Alternative 60s](https://open.spotify.com/playlist/37i9dQZF1DX5qNE4zrflL7)
 
 > The songs that influenced everything that has happened since\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,085 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,530 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

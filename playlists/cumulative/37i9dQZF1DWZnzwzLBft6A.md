@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZnzwzLBft6A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZnzwzLBft6A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZnzwzLBft6A)
+[pretty](/playlists/pretty/37i9dQZF1DWZnzwzLBft6A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZnzwzLBft6A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZnzwzLBft6A)
 
 ### [This Is Bach](https://open.spotify.com/playlist/37i9dQZF1DWZnzwzLBft6A)
 

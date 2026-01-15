@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyp9KgPL31Y.md) - [plain](/playlists/plain/37i9dQZF1DWZyp9KgPL31Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZyp9KgPL31Y)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyp9KgPL31Y.md) - [plain](/playlists/plain/37i9dQZF1DWZyp9KgPL31Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZyp9KgPL31Y)
 
 ### [This Is The Shins](https://open.spotify.com/playlist/37i9dQZF1DWZyp9KgPL31Y)
 

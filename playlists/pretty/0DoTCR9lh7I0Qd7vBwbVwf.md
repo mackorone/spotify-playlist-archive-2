@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain](/playlists/plain/0DoTCR9lh7I0Qd7vBwbVwf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0DoTCR9lh7I0Qd7vBwbVwf)
+pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain](/playlists/plain/0DoTCR9lh7I0Qd7vBwbVwf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0DoTCR9lh7I0Qd7vBwbVwf)
 
 ### [FOCUS MUSIC 🎧☁️✨ music for deep focus, deep work, study concentration music](https://open.spotify.com/playlist/0DoTCR9lh7I0Qd7vBwbVwf)
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard <a href="https://whatsapp.com/channel/0029Vb77aIy0G0XoQL0UJX0W">Daily Study Tips here</a>
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,086 likes - 199 songs - 6 hr 19 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,087 likes - 199 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

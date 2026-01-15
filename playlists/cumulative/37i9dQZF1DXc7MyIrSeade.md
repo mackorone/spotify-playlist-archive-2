@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXc7MyIrSeade.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc7MyIrSeade) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc7MyIrSeade)
+[pretty](/playlists/pretty/37i9dQZF1DXc7MyIrSeade.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc7MyIrSeade) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc7MyIrSeade)
 
 ### [Best of Hiturile de azi 2025](https://open.spotify.com/playlist/37i9dQZF1DXc7MyIrSeade)
 
@@ -13,7 +13,7 @@
 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 | 2024-12-04 | 2025-12-04 |
 | [Ador, Ador](https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Ador, Ador](https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K) | 2:30 | 2024-12-04 | 2025-12-04 |
 | [ae](https://open.spotify.com/track/2Oy2SGDK3K0rDOaiCRJWJA) | [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb) | [ae](https://open.spotify.com/album/2WsF40BvTPOczOKR5OeMyr) | 3:07 | 2023-11-29 | 2024-12-05 |
-| [Aer](https://open.spotify.com/track/2A9p4yIFJ3jHmqNZ0GSPh6) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Aer](https://open.spotify.com/album/3uMCrLbQ09OfbwQReNItOU) | 2:58 | 2025-12-03 |  |
+| [Aer](https://open.spotify.com/track/2A9p4yIFJ3jHmqNZ0GSPh6) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Adi Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Aer](https://open.spotify.com/album/3uMCrLbQ09OfbwQReNItOU) | 2:58 | 2025-12-03 |  |
 | [Ai fost \(cu Mario Fresh\)](https://open.spotify.com/track/4MyHuRtOyiKMrmd3lUlLpg) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Ai fost \(cu Mario Fresh\)](https://open.spotify.com/album/4Lb1X9Ah2bFMN9iMaindit) | 3:18 | 2023-11-29 | 2024-12-05 |
 | [Aia e](https://open.spotify.com/track/4DtQZIcQCsZx89Ur1ouilo) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Aia e](https://open.spotify.com/album/4s0J0btBWf0rBRV62rdp0C) | 2:52 | 2023-11-29 | 2024-12-05 |
 | [Alo, Alo](https://open.spotify.com/track/6BAiMNsmT4NPGlbz2O4Qfu) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Vescan](https://open.spotify.com/artist/5V5qYIV17KGvP5vSMaoY4Y) | [Alo, Alo](https://open.spotify.com/album/3HM1ME9215CF4GbQeP4GLg) | 3:19 | 2023-11-29 | 2024-12-05 |

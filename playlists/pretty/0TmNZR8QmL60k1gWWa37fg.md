@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0TmNZR8QmL60k1gWWa37fg.md) - [plain](/playlists/plain/0TmNZR8QmL60k1gWWa37fg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0TmNZR8QmL60k1gWWa37fg)
+pretty - [cumulative](/playlists/cumulative/0TmNZR8QmL60k1gWWa37fg.md) - [plain](/playlists/plain/0TmNZR8QmL60k1gWWa37fg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0TmNZR8QmL60k1gWWa37fg)
 
 ### [Macy's Thanksgiving Day Parade 2013](https://open.spotify.com/playlist/0TmNZR8QmL60k1gWWa37fg)
 

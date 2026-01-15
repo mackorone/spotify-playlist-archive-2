@@ -416,10 +416,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 252720,
       "name": "Me and The Dog",
       "url": "https://open.spotify.com/track/5kQrDtjNb2c3l9SfvNOXzq"
+    },
+    {
+      "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254546,
+      "name": "Me and The Dog",
+      "url": "https://open.spotify.com/track/1bSjk3hGtX6jWtJ7pz87o6"
     },
     {
       "album": {

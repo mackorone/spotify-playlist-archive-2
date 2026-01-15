@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a0Za4aWsLU.md) - [plain](/playlists/plain/37i9dQZF1DX8a0Za4aWsLU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8a0Za4aWsLU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a0Za4aWsLU.md) - [plain](/playlists/plain/37i9dQZF1DX8a0Za4aWsLU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8a0Za4aWsLU)
 
 ### [homesick](https://open.spotify.com/playlist/37i9dQZF1DX8a0Za4aWsLU)
 
 > melodies to comfort you for when you miss home
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,515 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,526 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmITxTSYkn1.md) - [plain](/playlists/plain/37i9dQZF1DWWmITxTSYkn1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWmITxTSYkn1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmITxTSYkn1.md) - [plain](/playlists/plain/37i9dQZF1DWWmITxTSYkn1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWmITxTSYkn1)
 
 ### [SUGA \| Agust D \[D\-DAY TOUR\]](https://open.spotify.com/playlist/37i9dQZF1DWWmITxTSYkn1)
 
 > Enjoy the SUGA \| Agust D Seoul concert LIVE SET including the voices of him on stage! \(SUGA \| Agust D의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,567 likes - 29 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,891 likes - 29 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8pdK1PVpBQz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8pdK1PVpBQz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8pdK1PVpBQz)
+[pretty](/playlists/pretty/37i9dQZF1DX8pdK1PVpBQz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8pdK1PVpBQz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8pdK1PVpBQz)
 
 ### [Best of Fresh Finds AU & NZ 2025](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
@@ -3020,7 +3020,7 @@
 | [PRAY I'M NOT UR RIVAL](https://open.spotify.com/track/39IhYOLjQpUrz7d2XkymAD) | [Kid Rey](https://open.spotify.com/artist/7o3qyJI8ODvWje1f5U52jp), [NINTANDO](https://open.spotify.com/artist/2x1Xr2B03sS0lqMIdTEaDx) | [PRAY I'M NOT UR RIVAL](https://open.spotify.com/album/3LvJj0h6k2cuBVeTVMgkjS) | 2:42 | 2023-08-09 | 2023-08-31 |
 | [Prayer for a Situationship](https://open.spotify.com/track/26krDeXi7fWMIxEY7sxaiR) | [Medhanit](https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7) | [Prayer for a Situationship](https://open.spotify.com/album/5hexRhvTNiqECOgLxrXqXu) | 2:23 | 2025-06-10 | 2025-07-09 |
 | [Prayin'](https://open.spotify.com/track/1oyFb5GZKy9EZPUBiHT8Tw) | [Yung Gwopp](https://open.spotify.com/artist/11T18BfcT9H4yKtTcHEEJL) | [Prayin'](https://open.spotify.com/album/4TDRmPQik93Nvk94rwPGK8) | 2:55 | 2023-03-01 | 2023-03-16 |
-| [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:55 | 2025-11-25 |  |
+| [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 | 2025-11-25 |  |
 | [Precious Dragonfly](https://open.spotify.com/track/0UMokNhih49alBjYRSyb4q) | [Hector Morlet](https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A) | [Precious Dragonfly](https://open.spotify.com/album/0k6cdnNVMdPVZhYqeqNl5t) | 3:11 | 2022-04-06 | 2022-04-27 |
 | [Premonition](https://open.spotify.com/track/2cpfLPbGfznWsB83wpP1Xn) | [Merpire](https://open.spotify.com/artist/4oTaPrNvNtZW1MwNmmhxuY) | [Premonition](https://open.spotify.com/album/2DYNGD8itIK8y9WNuY0HLm) | 2:58 | 2025-02-18 | 2025-04-16 |
 | [Preppers](https://open.spotify.com/track/448p5kZA0Lh7NMhEsMf8dX) | [Shoe](https://open.spotify.com/artist/7zPM2TtfM5n6zFLdKiVpx6) | [Preppers](https://open.spotify.com/album/2NXh0905l0qBb2enlnx9Uv) | 4:28 | 2023-08-09 | 2023-09-07 |

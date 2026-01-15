@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9ROcoR0cTZM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9ROcoR0cTZM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9ROcoR0cTZM)
+[pretty](/playlists/pretty/37i9dQZF1DX9ROcoR0cTZM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9ROcoR0cTZM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9ROcoR0cTZM)
 
 ### [This Is Jin](https://open.spotify.com/playlist/37i9dQZF1DX9ROcoR0cTZM)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYUCqLrWKr4p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYUCqLrWKr4p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYUCqLrWKr4p)
+[pretty](/playlists/pretty/37i9dQZF1DWYUCqLrWKr4p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYUCqLrWKr4p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYUCqLrWKr4p)
 
 ### [60s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWYUCqLrWKr4p)
 

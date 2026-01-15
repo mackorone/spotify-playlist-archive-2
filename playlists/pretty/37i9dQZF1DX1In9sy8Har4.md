@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1In9sy8Har4.md) - [plain](/playlists/plain/37i9dQZF1DX1In9sy8Har4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1In9sy8Har4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1In9sy8Har4.md) - [plain](/playlists/plain/37i9dQZF1DX1In9sy8Har4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1In9sy8Har4)
 
 ### [Snabba Cash Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX1In9sy8Har4)
 
 > The Official Snabba Cash Playlist\. Season 2 out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,825 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,830 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Kerser",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Headie One",
   "name": "A1",
   "tracks": [
     {
@@ -7783,6 +7783,28 @@
     },
     {
       "album": {
+        "name": "LiFE 4 A LiFE",
+        "url": "https://open.spotify.com/album/64i9QChgaRNAJVHVBSl6wQ"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179588,
+      "name": "LiFE 4 A LiFE",
+      "url": "https://open.spotify.com/track/6CrpAztWyhMb4Ve2kcg5sK"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/0oErFSXWknrwNESSfMrfBk"
       },
@@ -10105,6 +10127,28 @@
     },
     {
       "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/2glAiy9pJLk6x42sYeQlOi"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129986,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/0QDpFGGK0vPADxypanLHVz"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
@@ -10642,7 +10686,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155628,
       "name": "prIDe",
       "url": "https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX"
@@ -14368,7 +14412,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160533,
       "name": "Walk Down (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"

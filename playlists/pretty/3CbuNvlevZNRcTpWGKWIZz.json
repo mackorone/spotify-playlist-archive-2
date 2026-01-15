@@ -1,13 +1,33 @@
 {
   "description": "A few of our recent favorites including the latest tracks from our label <a href=\"https://open.spotify.com/playlist/6wf7OjL38XBl60m7cLIe6Z\">Foreign Family Collective</a>. ",
-  "num_followers": 53286,
+  "num_followers": 53279,
   "original_name": "ODESZA - ESSENTIALS",
   "owner": {
     "name": "ODESZA",
     "url": "https://open.spotify.com/user/odesza"
   },
-  "snapshot_id": "AAAD7b8EbBR4TEl7zZ55uww9xIYdE08C",
+  "snapshot_id": "AAAD74ZYPxeT84PHJ70hg6oa3yYuw60e",
   "tracks": [
+    {
+      "added_at": "2026-01-14 22:41:14",
+      "album": {
+        "name": "A Moment Apart",
+        "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Naomi Wild",
+          "url": "https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg"
+        }
+      ],
+      "duration_ms": 215130,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/7KT7VGnPU5QVXN3q1BOeqb"
+    },
     {
       "added_at": "2024-05-31 18:23:04",
       "album": {

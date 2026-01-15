@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuvTm9NMIGt.md) - [plain](/playlists/plain/37i9dQZF1DXbuvTm9NMIGt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbuvTm9NMIGt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuvTm9NMIGt.md) - [plain](/playlists/plain/37i9dQZF1DXbuvTm9NMIGt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbuvTm9NMIGt)
 
 ### [This Is Red Hot Chili Peppers](https://open.spotify.com/playlist/37i9dQZF1DXbuvTm9NMIGt)
 

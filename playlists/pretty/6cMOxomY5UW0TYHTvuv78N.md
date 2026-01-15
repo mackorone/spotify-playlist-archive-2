@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6cMOxomY5UW0TYHTvuv78N.md) - [plain](/playlists/plain/6cMOxomY5UW0TYHTvuv78N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6cMOxomY5UW0TYHTvuv78N)
+pretty - [cumulative](/playlists/cumulative/6cMOxomY5UW0TYHTvuv78N.md) - [plain](/playlists/plain/6cMOxomY5UW0TYHTvuv78N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6cMOxomY5UW0TYHTvuv78N)
 
 ### [Dock Rockers](https://open.spotify.com/playlist/6cMOxomY5UW0TYHTvuv78N)
 
 > Celebrate cottage life with this collection  of classics that are perfect for summer holiday fun.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 105,556 likes - 113 songs - 7 hr 47 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 105,216 likes - 113 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

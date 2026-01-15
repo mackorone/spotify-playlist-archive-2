@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXe5boXKbYwAF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe5boXKbYwAF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe5boXKbYwAF)
+[pretty](/playlists/pretty/37i9dQZF1DXe5boXKbYwAF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe5boXKbYwAF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe5boXKbYwAF)
 
 ### [屋根裏のラジャー The Imaginary](https://open.spotify.com/playlist/37i9dQZF1DXe5boXKbYwAF)
 

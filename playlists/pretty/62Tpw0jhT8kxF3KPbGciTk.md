@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/62Tpw0jhT8kxF3KPbGciTk.md) - [plain](/playlists/plain/62Tpw0jhT8kxF3KPbGciTk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62Tpw0jhT8kxF3KPbGciTk)
+pretty - [cumulative](/playlists/cumulative/62Tpw0jhT8kxF3KPbGciTk.md) - [plain](/playlists/plain/62Tpw0jhT8kxF3KPbGciTk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/62Tpw0jhT8kxF3KPbGciTk)
 
 ### [Sweet Winter Songs](https://open.spotify.com/playlist/62Tpw0jhT8kxF3KPbGciTk)
 
 > As the snow falls outside, cozy up and relax with this collection of soothing acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 956 likes - 104 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 955 likes - 104 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

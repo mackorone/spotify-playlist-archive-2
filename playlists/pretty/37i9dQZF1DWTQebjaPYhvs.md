@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain](/playlists/plain/37i9dQZF1DWTQebjaPYhvs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTQebjaPYhvs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain](/playlists/plain/37i9dQZF1DWTQebjaPYhvs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTQebjaPYhvs)
 
 ### [Yellowstone Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTQebjaPYhvs)
 
 > Generations of blood have lead to this\. Listen to the music from Yellowstone, airing Sundays on Paramount Network.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,405 likes - 219 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,157 likes - 219 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

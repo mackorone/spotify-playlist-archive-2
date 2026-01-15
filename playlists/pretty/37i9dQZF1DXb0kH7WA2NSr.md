@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0kH7WA2NSr.md) - [plain](/playlists/plain/37i9dQZF1DXb0kH7WA2NSr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb0kH7WA2NSr)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0kH7WA2NSr.md) - [plain](/playlists/plain/37i9dQZF1DXb0kH7WA2NSr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb0kH7WA2NSr)
 
 ### [Kevin Saunderson's track IDs](https://open.spotify.com/playlist/37i9dQZF1DXb0kH7WA2NSr)
 
 > <a href="spotify:artist:0jS6VTFGujWxinY5TSQwOG">Kevin Saunderson</a>'s favorite tracks\. Updated regularly\. Curated by Kevin Saunderson\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,088 likes - 30 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,187 likes - 30 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWV2mRphxMWjR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV2mRphxMWjR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV2mRphxMWjR)
+[pretty](/playlists/pretty/37i9dQZF1DWV2mRphxMWjR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV2mRphxMWjR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWV2mRphxMWjR)
 
 ### [ONE PIECE FILM RED](https://open.spotify.com/playlist/37i9dQZF1DWV2mRphxMWjR)
 

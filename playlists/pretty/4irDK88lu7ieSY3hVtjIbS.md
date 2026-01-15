@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain](/playlists/plain/4irDK88lu7ieSY3hVtjIbS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4irDK88lu7ieSY3hVtjIbS)
+pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain](/playlists/plain/4irDK88lu7ieSY3hVtjIbS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4irDK88lu7ieSY3hVtjIbS)
 
 ### [Horny Furry Music AKA Yiffery](https://open.spotify.com/playlist/4irDK88lu7ieSY3hVtjIbS)
 
 > Degeneracy at its finest!
 
-[\-=Taq=\-](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 2,605 likes - 81 songs - 3 hr 29 min
+[\-=Taq=\-](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 2,638 likes - 81 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

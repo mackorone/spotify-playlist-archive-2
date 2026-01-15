@@ -1,14 +1,15 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYXEO3u0YOMv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYXEO3u0YOMv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYXEO3u0YOMv)
+[pretty](/playlists/pretty/37i9dQZF1DWYXEO3u0YOMv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYXEO3u0YOMv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYXEO3u0YOMv)
 
 ### [This Is MAPPA](https://open.spotify.com/playlist/37i9dQZF1DWYXEO3u0YOMv)
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-257 songs - 16 hr 32 min
+261 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [404](https://open.spotify.com/track/2Mfpv9ZgcNFbPhIlSrXyzb) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「ドロヘドロ」EDテーマソングアルバム「混沌の中で踊れ」](https://open.spotify.com/album/2AQmibfA2tvP4LzmRyE4Pv) | 3:29 | 2025-09-18 |  |
+| [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-01-13 |  |
 | [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 | 2022-10-11 | 2022-11-13 |
 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-05-10 | 2024-04-19 |
 | [AlegriA](https://open.spotify.com/track/2IpweUPafBsEGOsv9Anblr) | [D\-selections](https://open.spotify.com/artist/3XBLtyAdNpfVKQGnVh0nTL) | [AlegriA](https://open.spotify.com/album/3IaYkVi9q4MoXPWMBm3BxO) | 4:42 | 2022-05-10 |  |
@@ -93,6 +94,7 @@
 | [My Hero](https://open.spotify.com/track/39tfADijIMpnct8jrJSAId) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [My Hero/Find You](https://open.spotify.com/album/4bSpXIHdk8poBUBIAFDtSn) | 4:23 | 2025-09-18 |  |
 | [Night SURFING](https://open.spotify.com/track/4SzXKKh96fW297VNNVTKKA) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「ドロヘドロ」EDテーマソングアルバム「混沌の中で踊れ」](https://open.spotify.com/album/2AQmibfA2tvP4LzmRyE4Pv) | 3:43 | 2025-09-18 |  |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-25 |  |
+| [PERSONAL \(ED Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/track/2EopAWJR4qdSHbpAspdQ5P) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [PERSONAL](https://open.spotify.com/album/5CsVRUgb6wdd38OjA2YlzB) | 4:35 | 2026-01-13 |  |
 | [Prayer X](https://open.spotify.com/track/0r2PAeROizyyoFMpu0fvwI) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Sympa](https://open.spotify.com/album/6Z3LT9uIwXDnbgypLFrBQb) | 3:15 | 2022-05-10 | 2025-09-19 |
 | [Prayer X](https://open.spotify.com/track/6VvXSjTQMP6eInrjz4kq2W) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Prayer X](https://open.spotify.com/album/5oqxo7mNVyuFWsTgUAWy3H) | 3:17 | 2025-09-18 |  |
 | [Promise](https://open.spotify.com/track/6GEt5U689z7r5ycwHwUliB) | [Chihiro Yonekura](https://open.spotify.com/artist/4vhezQRmmI48a5uigqV180) | [HOWLING SWORD / Promise](https://open.spotify.com/album/76nuiDphNdHV2j0sdNu0Us) | 5:01 | 2025-09-18 |  |
@@ -148,6 +150,7 @@
 | [Zen](https://open.spotify.com/track/060MftY3uM3R3r1miNh9ys) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/2yehRSY8pf27Md0UT6T6uW) | 3:34 | 2025-09-18 |  |
 | [あんたなんて。](https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [あんたなんて。](https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2) | 4:01 | 2025-09-18 |  |
 | [いってらっしゃい](https://open.spotify.com/track/4DF77S38RM9jX4ojH5qgl0) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [いってらっしゃい](https://open.spotify.com/album/7M3ulwJM8aT734IcjPIQkC) | 3:55 | 2025-09-18 |  |
+| [かすかなはな \- Kasuka na Hana \- \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [かすかなはな \- Kasuka na Hana \- \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/album/0FHpLaGsQPsr31VcXEx9Yq) | 3:07 | 2026-01-13 |  |
 | [さよならごっこ](https://open.spotify.com/track/4uaDZpr45ITw4GJVeSlpNc) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [さよならごっこ](https://open.spotify.com/album/7Bem3SrpoToqS0wryrKpyG) | 4:30 | 2025-09-18 |  |
 | [さよならごっこ](https://open.spotify.com/track/7H09NfuWbm1lhCqtPb5M5s) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [ボイコット](https://open.spotify.com/album/3L2UTa9fUGVuIGtrOqsMGX) | 4:32 | 2022-05-10 | 2025-09-19 |
 | [さよならごっこ](https://open.spotify.com/track/7ha9B32izQ0Ni2RtSzm2C4) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [BOYCOTT](https://open.spotify.com/album/1PdHNXd6zUwYxcadffHHBX) | 4:32 | 2022-05-10 | 2022-10-03 |
@@ -161,6 +164,7 @@
 | [またたく宇宙（ソラ）に憧れて](https://open.spotify.com/track/4vutL5MOKfY8KTXXMmrsVB) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [ゾンビランドサガ ゆめぎんがパラダイス フランシュシュ The Best Paradise](https://open.spotify.com/album/1k0m2BAv3UyuhSZp1yV8T1) | 4:58 | 2025-10-28 |  |
 | [まっさら](https://open.spotify.com/track/3ZlbFeHjcbZOX43v4peFWZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [まっさら](https://open.spotify.com/album/4hBvsx4tu4hXaYTXveupAp) | 4:54 | 2022-05-10 |  |
 | [みぎてのうた](https://open.spotify.com/track/1PJwtyi6jDAxGQUNwKj49W) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 4:49 | 2025-09-18 |  |
+| [よあけのうた \- Yoake no uta](https://open.spotify.com/track/5EiVeDviICNBtdhZwGxp0Z) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [よあけのうた \- Yoake no uta \- JUJUTSU KAISEN The Culling Game part1 Ending Theme Song](https://open.spotify.com/album/58vU4Ix3CBflsbWDI9HpaZ) | 3:19 | 2026-01-13 |  |
 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 | 2024-01-25 |  |
 | [アルタイル](https://open.spotify.com/track/6ZDIqgS06Rr5gHXLP6c3Xb) | [秦 基博 meets 坂道のアポロン](https://open.spotify.com/artist/6zbJYUN1FfUnEUAJpLHwCD) | [アルタイル](https://open.spotify.com/album/6DjXIcH9EZBhPeL4auVFf7) | 6:01 | 2025-10-09 |  |
 | [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2024-04-14 |  |

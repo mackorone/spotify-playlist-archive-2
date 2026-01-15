@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain](/playlists/plain/37i9dQZF1DWZC2yew0xGiz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZC2yew0xGiz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain](/playlists/plain/37i9dQZF1DWZC2yew0xGiz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZC2yew0xGiz)
 
 ### [Film & TV Favorites: 90s Black Cinema](https://open.spotify.com/playlist/37i9dQZF1DWZC2yew0xGiz)
 
 > R.I.P\. Malcolm\-Jamal Warner
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,447 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,011 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

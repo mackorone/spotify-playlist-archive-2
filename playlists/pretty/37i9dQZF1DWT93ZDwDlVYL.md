@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain](/playlists/plain/37i9dQZF1DWT93ZDwDlVYL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT93ZDwDlVYL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain](/playlists/plain/37i9dQZF1DWT93ZDwDlVYL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT93ZDwDlVYL)
 
 ### [RADAR Creators Italia](https://open.spotify.com/playlist/37i9dQZF1DWT93ZDwDlVYL)
 
 > Podcast che devi avere sul tuo RADAR: Capiamo, HYPERSIMPOSIO, Made IT \- Storie Italiane di Successo, STREETSMART<br/>Cover: Made IT
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,716 likes - 8 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,717 likes - 8 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

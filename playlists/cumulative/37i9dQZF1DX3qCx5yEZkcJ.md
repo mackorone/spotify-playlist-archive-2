@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3qCx5yEZkcJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ)
+[pretty](/playlists/pretty/37i9dQZF1DX3qCx5yEZkcJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ)
 
 ### [Mellow Beats](https://open.spotify.com/playlist/37i9dQZF1DX3qCx5yEZkcJ)
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-580 songs - 1 day 0 hr 7 min
+581 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Dusk](https://open.spotify.com/track/6h2oA9xLnB4EdUeXCB9oIL) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Dusk](https://open.spotify.com/album/4VoDJObA9HYgoPHkfX9Nmr) | 2:29 | 2022-07-28 | 2022-12-13 |
 | [Dusted](https://open.spotify.com/track/3XcmdZcd9I6XT2q0IxW1KI) | [Ufa Palava](https://open.spotify.com/artist/7DsWT0ekMbWSCtT9yBFX3U), [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM) | [Dusted](https://open.spotify.com/album/4P6JH6cCJ0RQidBruu0phX) | 1:58 | 2020-06-29 | 2021-10-29 |
 | [D’s Swing](https://open.spotify.com/track/6t19DdPFNoNbclHt3stXZ8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D’s Swing](https://open.spotify.com/album/7E2Dz8BSnXj0gAq86v43xX) | 3:38 | 2022-03-03 | 2022-07-29 |
-| [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 | 2022-04-13 |  |
+| [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 | 2022-04-13 | 2026-01-15 |
 | [Education](https://open.spotify.com/track/4SwV9qy9H2ObCS5y3G32Cw) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Education](https://open.spotify.com/album/6kYy5w6Uv33REXcaaxdXk3) | 4:34 | 2020-06-19 | 2022-01-07 |
 | [Elephant & Castle](https://open.spotify.com/track/54RcQpS4FNCxBwCceX96JJ) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM) | [Soho / Elephant & Castle](https://open.spotify.com/album/0TfiwhVL0ZXqVy7z3deGCr) | 2:14 | 2019-05-26\* | 2019-06-15 |
 | [Elevator \- Remastered](https://open.spotify.com/track/1OleyH3ir8AfmOMCpGfNyN) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [Elevator \(Remastered\)](https://open.spotify.com/album/41s25Wuzr8YVh0OIyacx8G) | 3:27 | 2019-06-14 | 2022-07-29 |
@@ -496,7 +496,7 @@
 | [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 | 2023-01-12 | 2025-06-16 |
 | [Sunday Afternoon](https://open.spotify.com/track/2zdlHufpRwuVnyTTolms55) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/49duPTHJJzvzXch9KUQhtU) | 1:30 | 2019-05-26\* | 2020-06-19 |
 | [Sunny Side Up](https://open.spotify.com/track/0s2hmzyQlyqbNCfaLWJYGA) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [Tales of 16 Pads](https://open.spotify.com/album/6BRSjqcNOOyuZ50x9ukHhQ) | 1:52 | 2019-05-26\* | 2020-01-14 |
-| [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 | 2025-10-24 | 2026-01-05 |
+| [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 | 2025-10-24 |  |
 | [sunset cruise](https://open.spotify.com/track/1Hg3AkNPFx7fBAbfhktzKy) | [aimless](https://open.spotify.com/artist/5dGqZk0lZFQB6MIus08k8e) | [Dreamscape](https://open.spotify.com/album/7wGmkGKrf6utupIkjMh4ms) | 1:34 | 2020-06-19 | 2022-06-21 |
 | [Supafly](https://open.spotify.com/track/1DwsEp8t2WNadeuG9KwDrS) | [Cardo Grandz](https://open.spotify.com/artist/35XjW3cHxFFqSKAvPr6hsN) | [Supafly](https://open.spotify.com/album/2lWW5JkIQgUTnoohN6HKTB) | 2:50 | 2019-05-26\* | 2019-08-31 |
 | [Superhero](https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Superhero](https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g) | 2:46 | 2021-05-08 | 2022-07-29 |
@@ -567,6 +567,7 @@
 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 | 2020-06-29 |  |
 | [Whenever](https://open.spotify.com/track/0XpWIznCUOlkgOT0mqiBsV) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Whenever](https://open.spotify.com/album/3C6POtsAahtLiVCRyIGTHz) | 2:00 | 2023-04-27 | 2023-04-29 |
 | [Whenever](https://open.spotify.com/track/4zH1IA6sy4kU4CXavEvOqi) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Whenever](https://open.spotify.com/album/1lQ6jOdtPJXrVAit9k7UzZ) | 2:00 | 2023-04-27 | 2024-04-19 |
+| [Wherever](https://open.spotify.com/track/2LfpFFKcs6F2CY7WjPjGgb) | [Tamotsu LeftGroove](https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx), [ichimi](https://open.spotify.com/artist/1ChuYhzwGRbLDx97Q9o3th) | [Wherever](https://open.spotify.com/album/4evOGy6Fre6EO6uCy8oH4Q) | 3:45 | 2026-01-09 |  |
 | [Whiskey Sour](https://open.spotify.com/track/2VfsGpk0cMWyzM42hqKu5r) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Whiskey Sour / Strammer Max](https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8) | 1:42 | 2020-07-18 | 2025-03-09 |
 | [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 | 2023-03-02 | 2025-06-28 |
 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [dr\. nibbles](https://open.spotify.com/artist/0NAtU3NLFUmAHbEgdZqP1G) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 | 2019-06-14 |  |
@@ -583,7 +584,7 @@
 | [You and I](https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa) | [GeGe E.P.](https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX) | 3:32 | 2023-08-31 | 2025-08-15 |
 | [Yugure](https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Yugure](https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ) | 2:06 | 2025-01-10 |  |
 | [zen](https://open.spotify.com/track/5jpqTv9D0BFsaYa0SkMbNx) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi), [OONOO](https://open.spotify.com/artist/3N0ZLLAp4RBTBt2zMlRUiw), [botanik](https://open.spotify.com/artist/0KvCRbWbiJwKJWTYGrKi81) | [zen](https://open.spotify.com/album/4BF3jUWMuRqxlqp9ZCRaVx) | 2:37 | 2024-06-14 | 2024-10-05 |
-| [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-07-18 |  |
+| [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-07-18 | 2026-01-15 |
 | [Zimzilla](https://open.spotify.com/track/5KBh3fUwv6xrDFO6wZzmFI) | [Mad Q](https://open.spotify.com/artist/7IxHBmCE0jN2vhoLKQSZR6) | [Zimzilla](https://open.spotify.com/album/5LVHMBwC8BMucytnEejcTj) | 3:28 | 2019-05-26\* | 2019-08-13 |
 | [夜桜](https://open.spotify.com/track/5p0XdPnjJGBe3939Ythxil) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夜桜](https://open.spotify.com/album/0sZamxxWUgGiRSDf98w8KE) | 2:06 | 2022-04-07 | 2022-07-28 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-10 | 2022-07-29 |

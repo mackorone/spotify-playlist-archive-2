@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain](/playlists/plain/0NCspsyf0OS4BsPgGhkQXM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NCspsyf0OS4BsPgGhkQXM)
+pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain](/playlists/plain/0NCspsyf0OS4BsPgGhkQXM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0NCspsyf0OS4BsPgGhkQXM)
 
 ### [Trap Nation](https://open.spotify.com/playlist/0NCspsyf0OS4BsPgGhkQXM)
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,022,915 likes - 151 songs - 7 hr 51 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,022,611 likes - 151 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

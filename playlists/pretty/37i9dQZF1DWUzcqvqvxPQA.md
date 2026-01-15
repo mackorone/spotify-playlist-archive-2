@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain](/playlists/plain/37i9dQZF1DWUzcqvqvxPQA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUzcqvqvxPQA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain](/playlists/plain/37i9dQZF1DWUzcqvqvxPQA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUzcqvqvxPQA)
 
 ### [Winter Spirit](https://open.spotify.com/playlist/37i9dQZF1DWUzcqvqvxPQA)
 
 > The weather is cooler out! It's time to slow down and get cozy as you listen to these songs of faith and encouragement!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,308 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,370 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 49 | [Hallelujah \(Glory to the Lamb\)](https://open.spotify.com/track/0S0cgkLr5nPLbOcJ28zQuE) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Hallelujah \(Glory to the Lamb\)](https://open.spotify.com/album/3iuG6dnhImXLYdiHx8gXd5) | 7:36 |
 | 50 | [This Little Light](https://open.spotify.com/track/4QPw5vMjdmmTbyLGxUOOI4) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [This Little Light](https://open.spotify.com/album/0uwNyqu5fmJNpWc9oq1T9L) | 3:57 |
 
-Snapshot ID: `AAAAABja5iO5moKC+UhsHiJxiLC9Jj0X`
+Snapshot ID: `AAAAAANKWJ+VpFlxNQUcrOqEqfY+pbkZ`

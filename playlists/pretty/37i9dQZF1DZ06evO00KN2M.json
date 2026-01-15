@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1143507,
+  "num_followers": 1145611,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAADdURjXlFFTW296Cr+T37qp",
+  "snapshot_id": "aWbcgAAAAAByoi0/RU8pgpBdVoP+vdAM",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "50 Years - Don't Stop",
-        "url": "https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf"
+        "name": "Mystery to Me",
+        "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 260013,
-      "name": "As Long as You Follow - 2018 Remaster",
-      "url": "https://open.spotify.com/track/12HlWPk7XLbogenA99DV6c"
+      "duration_ms": 289200,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mystery to Me",
-        "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
       },
       "artists": [
         {
@@ -372,9 +372,25 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr"
+      "duration_ms": 250760,
+      "name": "Peacekeeper",
+      "url": "https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "As Long as You Follow",
+      "url": "https://open.spotify.com/track/0TevBnk5pL8DEqKixmcgt9"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say You Will",
-        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Peacekeeper",
-      "url": "https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -423,38 +423,6 @@
       "duration_ms": 196853,
       "name": "I Don't Want to Know - 2004 Remaster",
       "url": "https://open.spotify.com/track/6mGTiazKYI1BHT2uc9wTUL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tusk (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 330746,
-      "name": "Storms - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3h9T2wLTy4FEKulLDkUjlX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "English Rose",
-        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Albatross",
-      "url": "https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP"
     },
     {
       "added_at": null,
@@ -475,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tusk (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 330746,
+      "name": "Storms - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3h9T2wLTy4FEKulLDkUjlX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mirage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 249995,
       "name": "Only over You - 2016 Remaster",
       "url": "https://open.spotify.com/track/6zAwSWQywmeEFP11tK7t5W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "English Rose",
+        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Albatross",
+      "url": "https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "English Rose",
-        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 166653,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/2SL0h7FKhJ1O5DcvmvPqU5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 190377,
       "name": "That's Alright - 2016 Remaster",
       "url": "https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "English Rose",
+        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 166653,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/2SL0h7FKhJ1O5DcvmvPqU5"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tusk (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "Over & Over - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
         "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 202400,
       "name": "Oh Well, Pt. 1 - 2013 Remaster",
       "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fleetwood Mac's Greatest Hits",
-        "url": "https://open.spotify.com/album/4eBD6gIQk7KA2GTG5HzXes"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Need Your Love So Bad",
-      "url": "https://open.spotify.com/track/6J1NKcC7xlbz5yrATZZ1X0"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dance",
-        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
+        "name": "Fleetwood Mac's Greatest Hits",
+        "url": "https://open.spotify.com/album/4eBD6gIQk7KA2GTG5HzXes"
       },
       "artists": [
         {
@@ -692,25 +692,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 268200,
-      "name": "Landslide - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
-      "url": "https://open.spotify.com/track/06h9kk12VjJ2bqcBc6IScR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mystery to Me",
-        "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/4GspmdJjNjZKCHtjJ0fWxb"
+      "duration_ms": 233360,
+      "name": "Need Your Love So Bad",
+      "url": "https://open.spotify.com/track/6J1NKcC7xlbz5yrATZZ1X0"
     },
     {
       "added_at": null,
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+        "name": "Mystery to Me",
+        "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
       },
       "artists": [
         {
@@ -740,25 +724,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 274666,
-      "name": "Over & Over - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 48373,
-      "name": "Intro - Live 1977",
-      "url": "https://open.spotify.com/track/7iPabscOgrBuDkjZAvOVRD"
+      "duration_ms": 214973,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/4GspmdJjNjZKCHtjJ0fWxb"
     },
     {
       "added_at": null,
@@ -775,6 +743,38 @@
       "duration_ms": 190666,
       "name": "Sunny Side of Heaven",
       "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 268200,
+      "name": "Landslide - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
+      "url": "https://open.spotify.com/track/06h9kk12VjJ2bqcBc6IScR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 48373,
+      "name": "Intro - Live 1977",
+      "url": "https://open.spotify.com/track/7iPabscOgrBuDkjZAvOVRD"
     },
     {
       "added_at": null,

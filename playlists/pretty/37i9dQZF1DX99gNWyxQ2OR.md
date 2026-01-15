@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain](/playlists/plain/37i9dQZF1DX99gNWyxQ2OR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX99gNWyxQ2OR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain](/playlists/plain/37i9dQZF1DX99gNWyxQ2OR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX99gNWyxQ2OR)
 
 ### [Chopin Nocturnes](https://open.spotify.com/playlist/37i9dQZF1DX99gNWyxQ2OR)
 
 > A complete collection of Chopin's Nocturnes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,175 likes - 21 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,570 likes - 21 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

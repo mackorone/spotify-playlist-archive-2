@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWfSNTZNgABD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWfSNTZNgABD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWfSNTZNgABD)
+[pretty](/playlists/pretty/37i9dQZF1DWWfSNTZNgABD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWfSNTZNgABD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWfSNTZNgABD)
 
 ### [Los 00s](https://open.spotify.com/playlist/37i9dQZF1DWWfSNTZNgABD)
 

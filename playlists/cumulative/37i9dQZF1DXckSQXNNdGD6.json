@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La banda sonora de tu orgullo. Foto: Sof\u00eda Amores.",
+  "description": "La banda sonora de tu orgullo. Foto: Luna Ki.",
   "name": "Glow Espa\u00f1a",
   "tracks": [
     {
@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Bomba de Amor",
+        "url": "https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173851,
+      "name": "Bomba de Amor",
+      "url": "https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry"
+    },
+    {
+      "album": {
         "name": "BOMBEROS",
         "url": "https://open.spotify.com/album/3lS6litcoyERbZEcK4gv0O"
       },
@@ -894,6 +912,28 @@
       "duration_ms": 131376,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
+    },
+    {
+      "album": {
+        "name": "CONEJITA PLAYBOY",
+        "url": "https://open.spotify.com/album/206r467aoLTOWH9u436PKi"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "CONEJITA PLAYBOY",
+      "url": "https://open.spotify.com/track/42U40DG6b3VVCBfgeBSxGH"
     },
     {
       "album": {
@@ -2649,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "las guapas no morimos de verdad",
+        "url": "https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210946,
+      "name": "las guapas no morimos de verdad",
+      "url": "https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N"
+    },
+    {
+      "album": {
         "name": "Las Mismas Canciones",
         "url": "https://open.spotify.com/album/5TT4KUBenv8ZxVH7jor44M"
       },
@@ -2864,6 +2922,24 @@
       "duration_ms": 193412,
       "name": "LOKADEM\u00c1S",
       "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
+    },
+    {
+      "album": {
+        "name": "Los que me salvaron",
+        "url": "https://open.spotify.com/album/3p2TdjupbCBuWbqatEmBpL"
+      },
+      "artists": [
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200853,
+      "name": "Los que me salvaron",
+      "url": "https://open.spotify.com/track/4xY1WAvXeGrsB3dA20kxJr"
     },
     {
       "album": {
@@ -3396,7 +3472,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 183529,
       "name": "Negras Malas, J\u00f3venes y Atormentadas",
       "url": "https://open.spotify.com/track/2PbcErqw3k0KH6tvriBMUL"
@@ -4018,7 +4094,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211433,
       "name": "pies sin plomo",
       "url": "https://open.spotify.com/track/4CLP5XEbqjJAMbg03kO2S5"
@@ -4728,7 +4804,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 257250,
       "name": "Si me muero ma\u00f1ana",
       "url": "https://open.spotify.com/track/5TxfmcbrqqMnlhKYIpf1ou"
@@ -4826,7 +4902,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 208095,
       "name": "Sindy Cato",
       "url": "https://open.spotify.com/track/0XBbgoqkB59vxQqcEcnIw3"
@@ -5231,6 +5307,28 @@
     },
     {
       "album": {
+        "name": "Un Mundo Feliz",
+        "url": "https://open.spotify.com/album/7qbBtYrC3VJMH2T5S1cwqC"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        },
+        {
+          "name": "Massiel",
+          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271383,
+      "name": "Un Mundo Feliz",
+      "url": "https://open.spotify.com/track/1UwbvBUt2EZYpP5pM6dzfH"
+    },
+    {
+      "album": {
         "name": "una chica buena de manual",
         "url": "https://open.spotify.com/album/2Ujaf4ZyGp4u3hSTCXNfVY"
       },
@@ -5516,7 +5614,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 179138,
       "name": "\u00e9chame la culpa <3",
       "url": "https://open.spotify.com/track/1gP1B96HTPu2tl6DOORxHw"

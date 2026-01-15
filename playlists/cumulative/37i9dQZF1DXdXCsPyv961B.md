@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdXCsPyv961B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdXCsPyv961B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdXCsPyv961B)
+[pretty](/playlists/pretty/37i9dQZF1DXdXCsPyv961B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdXCsPyv961B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdXCsPyv961B)
 
 ### [Best of Indie Italia 2025](https://open.spotify.com/playlist/37i9dQZF1DXdXCsPyv961B)
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [2minuti](https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:34 | 2023-11-29 | 2024-12-05 |
 | [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2K7RvOPKTw9wYr7uMDE8ZL) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET EXPLORER](https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp) | 2:58 | 2025-12-03 |  |
-| [A te](https://open.spotify.com/track/6F88d4qWZIQo0mHPkLVPn2) | [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Luna di Miele](https://open.spotify.com/album/1xDLw26FaQjLnRY62Bgwvg) | 2:57 | 2025-12-03 |  |
+| [A te](https://open.spotify.com/track/6F88d4qWZIQo0mHPkLVPn2) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [Luna di Miele](https://open.spotify.com/album/1xDLw26FaQjLnRY62Bgwvg) | 2:57 | 2025-12-03 |  |
 | [Acqua ossigenata](https://open.spotify.com/track/3Q8UZcTEBbaVcg9RhShnY0) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Sconosciuti superstar](https://open.spotify.com/album/4DFhDSOSXmgIXXFd2VUNzg) | 2:35 | 2024-12-04 | 2025-12-04 |
 | [Adriatico \(feat\. Chiello\)](https://open.spotify.com/track/5ZCCq30CPSRUwSxVKnHPJ1) | [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Realismo magico in Adriatico](https://open.spotify.com/album/36TeJbAahP1WfXXPuQdZdC) | 3:24 | 2023-11-29 | 2024-12-05 |
 | [AGOSTO MORSICA](https://open.spotify.com/track/1q79rPUGSJr9fHHcvzIW4U) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [AGOSTO MORSICA](https://open.spotify.com/album/1dfU6CJaCoxJW9pNYyk1I8) | 3:21 | 2023-11-29 | 2024-12-05 |

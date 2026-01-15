@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXnscMH24yOc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXnscMH24yOc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXnscMH24yOc)
+[pretty](/playlists/pretty/37i9dQZF1DWXnscMH24yOc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXnscMH24yOc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXnscMH24yOc)
 
 ### [Chill Covers](https://open.spotify.com/playlist/37i9dQZF1DWXnscMH24yOc)
 
@@ -100,7 +100,7 @@
 | [Gone](https://open.spotify.com/track/3VrjecrZEW669XSGrwWAtS) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Gone](https://open.spotify.com/album/0WafilLsmpre2Omt7hkM9Y) | 3:16 | 2022-03-22 | 2022-04-20 |
 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 | 2022-03-22 | 2024-04-19 |
 | [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 | 2022-03-22 | 2022-12-02 |
-| [Half The World Away](https://open.spotify.com/track/7LZPUnAC0rBCXSLIflzE3I) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Half The World Away](https://open.spotify.com/album/39fIDjKtTsHshDosVQuB9i) | 3:18 | 2021-10-21 |  |
+| [Half The World Away](https://open.spotify.com/track/7LZPUnAC0rBCXSLIflzE3I) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Half The World Away](https://open.spotify.com/album/39fIDjKtTsHshDosVQuB9i) | 3:18 | 2021-10-21 | 2026-01-15 |
 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 | 2021-10-21 |  |
 | [Halo \(Beyonce Cover\) \[Live On Icelandic National Radio\]](https://open.spotify.com/track/2i9ArJ8VpPu5scoaIG0OkZ) | [Hjaltalín](https://open.spotify.com/artist/3NQUtyu0fGDFqYzG5xhslP) | [Crack in a Stone](https://open.spotify.com/album/3aJ1ZQpcwIgZTbbGtKlTRG) | 3:21 | 2021-10-21 | 2022-04-20 |
 | [Hammond Song](https://open.spotify.com/track/2AGwwYTVRgXUb2D7PIogdK) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Hammond Song](https://open.spotify.com/album/4cKTbNNaExr5S7MFeWENAy) | 5:00 | 2021-10-21 | 2022-07-29 |
@@ -158,7 +158,7 @@
 | [Landslide](https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO) | 2:50 | 2022-03-22 | 2024-04-19 |
 | [Last Kiss](https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn) | 3:38 | 2022-03-22 |  |
 | [Latch](https://open.spotify.com/track/0RL9bV2bBVPfVRgoBtP3dJ) | [Moonrise Nation](https://open.spotify.com/artist/3V3ttZhwHpekK6Hcvwv5ju) | [Latch](https://open.spotify.com/album/63pLcJGxLkvqbS5UHnspCa) | 3:27 | 2021-10-21 | 2022-07-29 |
-| [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 | 2021-10-21 | 2025-12-02 |
+| [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 | 2021-10-21 |  |
 | [Lean On](https://open.spotify.com/track/1iKAIOE8QYxWQdqfltEAh3) | [Like Swimming](https://open.spotify.com/artist/543nkD3pI1o2QGj0Pk715k) | [Lean On](https://open.spotify.com/album/3RzEN3vIKUNrDF6Ebp5Yyx) | 4:41 | 2022-03-22 | 2022-04-19 |
 | [Learn To Fly](https://open.spotify.com/track/5E25h3rC8rrQx2MCaksjsJ) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Learn To Fly](https://open.spotify.com/album/3amCnOhgzFI0gtEb3qW3DP) | 2:43 | 2022-03-22 | 2022-04-21 |
 | [Let Me Love You](https://open.spotify.com/track/64c5q8c5j09YueRimGw4l2) | [The Luck](https://open.spotify.com/artist/1ZiLKiDuHyrckm1ubrrYtK) | [Let Me Love You](https://open.spotify.com/album/6sgv89amcLYzxSUoxjaLls) | 3:04 | 2022-03-22 |  |

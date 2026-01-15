@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Weekly update for Indie releases. Cover: Chet Faker",
+  "description": "Weekly update for Indie releases. Cover: Father John Misty",
   "name": "Indie Update",
   "tracks": [
     {
@@ -549,6 +549,28 @@
     },
     {
       "album": {
+        "name": "Always The Same (feat. St. Vincent)",
+        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256875,
+      "name": "Always The Same (feat. St. Vincent)",
+      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
+    },
+    {
+      "album": {
         "name": "Always You",
         "url": "https://open.spotify.com/album/3HZgyRARQloNzM1MygO9UY"
       },
@@ -780,7 +802,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 181306,
       "name": "Are You Bored Yet?",
       "url": "https://open.spotify.com/track/2Kbil8mt1vXxPlk1dseF86"
@@ -1665,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Built To Collide",
+        "url": "https://open.spotify.com/album/4GIqEnw4A0BTE2xchvLldj"
+      },
+      "artists": [
+        {
+          "name": "Tessa Rose Jackson",
+          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225513,
+      "name": "Built To Collide",
+      "url": "https://open.spotify.com/track/69saRCWp2ov8jBLOprFAfE"
+    },
+    {
+      "album": {
         "name": "Forever Is A Feeling",
         "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
       },
@@ -1824,7 +1864,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 264518,
       "name": "California",
       "url": "https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap"
@@ -1968,7 +2008,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 183519,
       "name": "Can't Wait",
       "url": "https://open.spotify.com/track/0mnWWzktNppllYkkEVMTXw"
@@ -2416,7 +2456,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186280,
       "name": "Coming Up For Air",
       "url": "https://open.spotify.com/track/0RLcjBN3TYa1ofpcu5mJlW"
@@ -2600,7 +2640,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 214405,
       "name": "Damage",
       "url": "https://open.spotify.com/track/63gk2AZacanF0mUg2TLfd7"
@@ -2818,6 +2858,24 @@
       "duration_ms": 240040,
       "name": "Dive (feat. Pitou)",
       "url": "https://open.spotify.com/track/6jPG58CblDA29dE38FWMUb"
+    },
+    {
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/17gxG3lYgvANFNR8FI7Frp"
+      },
+      "artists": [
+        {
+          "name": "Crybabies",
+          "url": "https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233093,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/4Vxl7MqmLnB1U6mCMdmIPG"
     },
     {
       "album": {
@@ -3092,7 +3150,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169920,
       "name": "Dulce Perro",
       "url": "https://open.spotify.com/track/1Neey2oqU4yz7yRsfQoLn7"
@@ -4621,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "Here Comes The Summer",
+        "url": "https://open.spotify.com/album/6WT7wDTt8ZUawLduyUKRTs"
+      },
+      "artists": [
+        {
+          "name": "tjels",
+          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216542,
+      "name": "Here Comes The Summer",
+      "url": "https://open.spotify.com/track/1o3VBLCPBjwM9npexE4Ig0"
+    },
+    {
+      "album": {
         "name": "Hey Now (feat. Tessa Rose Jackson)",
         "url": "https://open.spotify.com/album/0Djgc0OCahAYIzs5BryJeo"
       },
@@ -5459,6 +5535,24 @@
     },
     {
       "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/3V3DIzf7HGM31BUoE7ONCD"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197848,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/1uo7rtWHJQOdi7CmEPEeQQ"
+    },
+    {
+      "album": {
         "name": "Jaouad",
         "url": "https://open.spotify.com/album/5ffS5umIscQePcvQf9ToCD"
       },
@@ -5780,7 +5874,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 256481,
       "name": "leave it all behind, Mike",
       "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
@@ -5842,7 +5936,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 208365,
       "name": "Leave What You Know",
       "url": "https://open.spotify.com/track/3vjphofNUulNuDxlAhLE2N"
@@ -6444,7 +6538,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213640,
       "name": "Maelstrom",
       "url": "https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG"
@@ -7313,6 +7407,24 @@
     },
     {
       "album": {
+        "name": "Never The Same",
+        "url": "https://open.spotify.com/album/3CAxVVqXBj0dLifmh3TdxI"
+      },
+      "artists": [
+        {
+          "name": "The Cribs",
+          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170533,
+      "name": "Never The Same",
+      "url": "https://open.spotify.com/track/4OM1Ljxiq04Ma2noNGsXTB"
+    },
+    {
+      "album": {
         "name": "Neverland / Chalk",
         "url": "https://open.spotify.com/album/6dOcx3mVozgW3EBMqwvH9T"
       },
@@ -7490,7 +7602,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194454,
       "name": "Normaal Toen",
       "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
@@ -7822,6 +7934,24 @@
       "duration_ms": 220226,
       "name": "Ordinary Creature",
       "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
+    },
+    {
+      "album": {
+        "name": "Orgulho",
+        "url": "https://open.spotify.com/album/0ihdWB6qIJ2IJdLvbh6c1Y"
+      },
+      "artists": [
+        {
+          "name": "\u00c3o",
+          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248109,
+      "name": "Orgulho",
+      "url": "https://open.spotify.com/track/76VKddiLu5mIxtjsImvxVH"
     },
     {
       "album": {
@@ -8504,6 +8634,24 @@
       "duration_ms": 229386,
       "name": "Private",
       "url": "https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6"
+    },
+    {
+      "album": {
+        "name": "Punk Rocky",
+        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235344,
+      "name": "Punk Rocky",
+      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
     },
     {
       "album": {
@@ -9586,7 +9734,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195306,
       "name": "Something To Die For",
       "url": "https://open.spotify.com/track/6mQnKSJd8mJnGbqRdVVmuB"
@@ -10961,6 +11109,24 @@
     },
     {
       "album": {
+        "name": "The Old Law",
+        "url": "https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281988,
+      "name": "The Old Law",
+      "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
+    },
+    {
+      "album": {
         "name": "The Party",
         "url": "https://open.spotify.com/album/328tFpB1jqwp66zSUDk65l"
       },
@@ -11228,7 +11394,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210400,
       "name": "Time Time Time (I'm in the Palm of Your Hand)",
       "url": "https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD"
@@ -11286,6 +11452,24 @@
       "duration_ms": 154958,
       "name": "tired",
       "url": "https://open.spotify.com/track/7fTN1weFWy0iOSat8nILIs"
+    },
+    {
+      "album": {
+        "name": "To Do What",
+        "url": "https://open.spotify.com/album/4RL66ahnkaqKchcSX3P5RC"
+      },
+      "artists": [
+        {
+          "name": "Pitou",
+          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "To Do What",
+      "url": "https://open.spotify.com/track/1WVBfHU9GTNZrX9fPZlSL4"
     },
     {
       "album": {
@@ -11901,6 +12085,24 @@
     },
     {
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/25rBBo3pvrTuiyEsOg579G"
+      },
+      "artists": [
+        {
+          "name": "Steve French",
+          "url": "https://open.spotify.com/artist/47Sk6sHHksjzDyH3tUaw64"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145971,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/2isJ9hHrPFR9LGhJ4pwPyE"
+    },
+    {
+      "album": {
         "name": "We Tried",
         "url": "https://open.spotify.com/album/69IhLswBPVjFm52fjf19Yo"
       },
@@ -12468,6 +12670,24 @@
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei"
+    },
+    {
+      "album": {
+        "name": "Youman",
+        "url": "https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216128,
+      "name": "Youman",
+      "url": "https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu"
     },
     {
       "album": {

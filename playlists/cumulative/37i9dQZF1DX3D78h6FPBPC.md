@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3D78h6FPBPC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3D78h6FPBPC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3D78h6FPBPC)
+[pretty](/playlists/pretty/37i9dQZF1DX3D78h6FPBPC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3D78h6FPBPC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3D78h6FPBPC)
 
 ### [This Is ABBA](https://open.spotify.com/playlist/37i9dQZF1DX3D78h6FPBPC)
 

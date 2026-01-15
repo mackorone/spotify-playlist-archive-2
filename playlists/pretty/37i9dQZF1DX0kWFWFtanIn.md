@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kWFWFtanIn.md) - [plain](/playlists/plain/37i9dQZF1DX0kWFWFtanIn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0kWFWFtanIn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kWFWFtanIn.md) - [plain](/playlists/plain/37i9dQZF1DX0kWFWFtanIn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0kWFWFtanIn)
 
 ### [Pregnancy Yoga](https://open.spotify.com/playlist/37i9dQZF1DX0kWFWFtanIn)
 

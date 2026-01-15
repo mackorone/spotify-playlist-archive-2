@@ -9435,6 +9435,24 @@
     },
     {
       "album": {
+        "name": "Stranger on the Loose",
+        "url": "https://open.spotify.com/album/59gdNk2u8EJaA8eTZmPNA4"
+      },
+      "artists": [
+        {
+          "name": "Marcoca",
+          "url": "https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311092,
+      "name": "Stranger on the Loose",
+      "url": "https://open.spotify.com/track/542nv7m5c3NRgATOrgaBO0"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts"
       },

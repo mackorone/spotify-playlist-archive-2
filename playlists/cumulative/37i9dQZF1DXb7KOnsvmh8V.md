@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXb7KOnsvmh8V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb7KOnsvmh8V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb7KOnsvmh8V)
+[pretty](/playlists/pretty/37i9dQZF1DXb7KOnsvmh8V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb7KOnsvmh8V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb7KOnsvmh8V)
 
 ### [Christmas Coffeehouse](https://open.spotify.com/playlist/37i9dQZF1DXb7KOnsvmh8V)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain](/playlists/plain/37i9dQZF1DX7NeseHaSkSz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7NeseHaSkSz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain](/playlists/plain/37i9dQZF1DX7NeseHaSkSz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7NeseHaSkSz)
 
 ### [Temple of Dreams](https://open.spotify.com/playlist/37i9dQZF1DX7NeseHaSkSz)
 
 > Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,078 likes - 182 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,013 likes - 182 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

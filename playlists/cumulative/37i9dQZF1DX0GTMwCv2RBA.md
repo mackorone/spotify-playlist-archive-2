@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0GTMwCv2RBA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0GTMwCv2RBA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0GTMwCv2RBA)
+[pretty](/playlists/pretty/37i9dQZF1DX0GTMwCv2RBA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0GTMwCv2RBA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0GTMwCv2RBA)
 
 ### [Superman Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0GTMwCv2RBA)
 

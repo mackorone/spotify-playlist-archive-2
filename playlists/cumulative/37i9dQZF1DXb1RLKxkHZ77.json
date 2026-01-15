@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Alpha",
+  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Dato' Sri Siti Nurhaliza, Ade Govinda",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Bahagia Lagi",
+        "url": "https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX"
+      },
+      "artists": [
+        {
+          "name": "Piche Kota",
+          "url": "https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227415,
+      "name": "Bahagia Lagi",
+      "url": "https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5"
+    },
+    {
+      "album": {
         "name": "Bahagiakan Dia",
         "url": "https://open.spotify.com/album/7bGFqrSeIEOqnljdDI4EVJ"
       },
@@ -1668,6 +1686,24 @@
       "duration_ms": 225680,
       "name": "Bahagiamu Tujuanku",
       "url": "https://open.spotify.com/track/0KFiqNPnETw3mH4rprMYE6"
+    },
+    {
+      "album": {
+        "name": "Bahan Terlarang",
+        "url": "https://open.spotify.com/album/0x3bd6lWLLKzUFMdrhrHXi"
+      },
+      "artists": [
+        {
+          "name": "Fiq7",
+          "url": "https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Bahan Terlarang",
+      "url": "https://open.spotify.com/track/2xtNDC3uQ5PmHdf8ZSVa1M"
     },
     {
       "album": {
@@ -2952,7 +2988,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169525,
       "name": "Bukan Kita",
       "url": "https://open.spotify.com/track/7E1rSrUZfM4qgL1oHktRG3"
@@ -3256,7 +3292,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199436,
       "name": "Busy Ke?",
       "url": "https://open.spotify.com/track/5PlqbHH4vxUSqeIar3dHor"
@@ -3638,6 +3674,28 @@
       "duration_ms": 143040,
       "name": "Cinta Ini",
       "url": "https://open.spotify.com/track/76yLhPFFk1Wxab5OV0V70m"
+    },
+    {
+      "album": {
+        "name": "Cinta Kita",
+        "url": "https://open.spotify.com/album/6E18fqcJuU2qEFicknkdgM"
+      },
+      "artists": [
+        {
+          "name": "Tohpati",
+          "url": "https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN"
+        },
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262700,
+      "name": "Cinta Kita",
+      "url": "https://open.spotify.com/track/65nZbfJLykiRVfuh2RHsii"
     },
     {
       "album": {
@@ -4518,7 +4576,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 249279,
       "name": "Diari Air Mata",
       "url": "https://open.spotify.com/track/17eineJLl5NXPcJ4ZXAOYR"
@@ -4834,7 +4892,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 246750,
       "name": "Gagal Setia",
       "url": "https://open.spotify.com/track/0EVuKlxjdgOb43rZU1HP8T"
@@ -6480,7 +6538,7 @@
       },
       "artists": [
         {
-          "name": "Kaer",
+          "name": "Kaer Azami",
           "url": "https://open.spotify.com/artist/4Bu1m3sghjg9h15BfnvDuy"
         }
       ],
@@ -9588,6 +9646,24 @@
       "duration_ms": 169707,
       "name": "Masa",
       "url": "https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO"
+    },
+    {
+      "album": {
+        "name": "EUNOIA",
+        "url": "https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275935,
+      "name": "Masa ini, Nanti, dan Masa Indah Lainnya",
+      "url": "https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v"
     },
     {
       "album": {
@@ -13011,6 +13087,24 @@
     },
     {
       "album": {
+        "name": "Rutinitas",
+        "url": "https://open.spotify.com/album/4SbeXXziAUz0hKhRxMbrnz"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "Rutinitas",
+      "url": "https://open.spotify.com/track/18g9AKRtXqa2D4sMpjsfc9"
+    },
+    {
+      "album": {
         "name": "Saat Kau Pergi",
         "url": "https://open.spotify.com/album/4Sf3yMxm2adH49CffAi7tE"
       },
@@ -13374,7 +13468,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 296235,
       "name": "sampai bila bila",
       "url": "https://open.spotify.com/track/7Dd8cjtC83OQ9JDAEIIOkz"
@@ -13990,7 +14084,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223857,
       "name": "Seketika",
       "url": "https://open.spotify.com/track/2xQRsNBeZXbRV8QcmNC1E2"
@@ -14338,6 +14432,28 @@
       "duration_ms": 254900,
       "name": "Semusim",
       "url": "https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2"
+    },
+    {
+      "album": {
+        "name": "INI DIA",
+        "url": "https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR"
+      },
+      "artists": [
+        {
+          "name": "dia",
+          "url": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
+        },
+        {
+          "name": "Tenxi",
+          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153698,
+      "name": "SENCY",
+      "url": "https://open.spotify.com/track/1vUQYZpgqGrQVEOxk3JuSU"
     },
     {
       "album": {
@@ -16752,7 +16868,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 239832,
       "name": "Tinggal Kenangan",
       "url": "https://open.spotify.com/track/0QSQRTxRr5NMCi0hcsLLoQ"
@@ -16778,6 +16894,24 @@
       "duration_ms": 275200,
       "name": "Toksik",
       "url": "https://open.spotify.com/track/5aZrcT2cab2giTD1bXgsvp"
+    },
+    {
+      "album": {
+        "name": "Tolong",
+        "url": "https://open.spotify.com/album/0S9xhzQD0mh12aUBK15GCq"
+      },
+      "artists": [
+        {
+          "name": "Irfan Haris",
+          "url": "https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231692,
+      "name": "Tolong",
+      "url": "https://open.spotify.com/track/1veWWHgGp7iuISNaMNfxtU"
     },
     {
       "album": {

@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/1bbedyCgIrSX1hQSfUALky"
+      },
+      "artists": [
+        {
+          "name": "Schrandy",
+          "url": "https://open.spotify.com/artist/16DOlPH2Uh5OyntSN9qlxz"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142703,
+      "name": "Cash Out",
+      "url": "https://open.spotify.com/track/4VIhfUoqGVL67qzjGDecDX"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2cEvSMNPmlpODdf2NKQTTd"
       },
@@ -2834,6 +2852,28 @@
       "duration_ms": 144761,
       "name": "Flow",
       "url": "https://open.spotify.com/track/3ZE0FgsjBycgnNKBzp67ic"
+    },
+    {
+      "album": {
+        "name": "Fly High",
+        "url": "https://open.spotify.com/album/1pEThpCM1fVR1F6EtuBvP1"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146800,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/6ojtXsiSUApLM0FSzurWdt"
     },
     {
       "album": {

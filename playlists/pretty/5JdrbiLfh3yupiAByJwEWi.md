@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5JdrbiLfh3yupiAByJwEWi.md) - [plain](/playlists/plain/5JdrbiLfh3yupiAByJwEWi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5JdrbiLfh3yupiAByJwEWi)
+pretty - [cumulative](/playlists/cumulative/5JdrbiLfh3yupiAByJwEWi.md) - [plain](/playlists/plain/5JdrbiLfh3yupiAByJwEWi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5JdrbiLfh3yupiAByJwEWi)
 
 ### [2000s Pop Party](https://open.spotify.com/playlist/5JdrbiLfh3yupiAByJwEWi)
 
 > The best party hits from the decade that gave you Katy Perry, Rihanna, Lady Gaga and more! Cover: Nelly Furtado
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 15,255 likes - 100 songs - 6 hr 36 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 15,251 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

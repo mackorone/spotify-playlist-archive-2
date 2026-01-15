@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0jFzidjghhZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0jFzidjghhZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0jFzidjghhZ)
+[pretty](/playlists/pretty/37i9dQZF1DX0jFzidjghhZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0jFzidjghhZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0jFzidjghhZ)
 
 ### [Touche pas à ma planète](https://open.spotify.com/playlist/37i9dQZF1DX0jFzidjghhZ)
 
@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2050\-2100 XXV](https://open.spotify.com/track/16GaWcOE3y1ecCkQJgz0c5) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ), [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [XXV](https://open.spotify.com/album/1TyMhNeROztf9IHUsPJ5M0) | 3:59 | 2021-04-28 |  |
+| [2050\-2100 XXV](https://open.spotify.com/track/16GaWcOE3y1ecCkQJgz0c5) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ), [Ours](https://open.spotify.com/artist/5u1yDuCoxRODm86FhVqUU2) | [XXV](https://open.spotify.com/album/1TyMhNeROztf9IHUsPJ5M0) | 3:59 | 2021-04-28 |  |
 | [Au feu les pompiers](https://open.spotify.com/track/0rzhMjev4LM3q5HimfKpyc) | [Vincent Malone](https://open.spotify.com/artist/5deGLIzMGQhnJcmW5eT1mf) | [Les plus jolies chansons de notre enfance](https://open.spotify.com/album/66o7YifnA9eCAI03d3k9UV) | 0:40 | 2021-04-28 |  |
 | [Aux arbres citoyens](https://open.spotify.com/track/2poOtKwdjc39DRNmY6wRV2) | [Yannick Noah](https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv) | [Charango](https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c) | 3:15 | 2021-04-28 |  |
 | [C'est de l'eau](https://open.spotify.com/track/4opsI1IRo5Wz8JbdvLI2YD) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [Vive l'eau vive !](https://open.spotify.com/album/2ns6xYlnN4khkmvYD0XhdH) | 4:26 | 2021-04-28 |  |

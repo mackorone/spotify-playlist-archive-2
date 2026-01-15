@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain](/playlists/plain/37i9dQZF1DX0wMD4IoQ5aJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0wMD4IoQ5aJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain](/playlists/plain/37i9dQZF1DX0wMD4IoQ5aJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0wMD4IoQ5aJ)
 
 ### [Electronic Focus](https://open.spotify.com/playlist/37i9dQZF1DX0wMD4IoQ5aJ)
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,402 likes - 257 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,117 likes - 257 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,4 +266,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 256 | [Better Now](https://open.spotify.com/track/7vWrnIvoGCVxpBMGJO9Nbi) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Better Now](https://open.spotify.com/album/4x50U3vN98fEii4vIbLNVA) | 3:21 |
 | 257 | [Futuristic](https://open.spotify.com/track/1KH8pNMx5vEFaKBJ3BGrtA) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Futuristic](https://open.spotify.com/album/1SRiesxh26igFvJRRELjeB) | 3:20 |
 
-Snapshot ID: `AAAAAEd9itpea1+U9varKI1ySEsu98z7`
+Snapshot ID: `AAAAACqjZwRVV/adT67VSCp8sFc+FuK6`

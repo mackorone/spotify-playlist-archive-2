@@ -116,6 +116,24 @@
     {
       "album": {
         "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170891,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
+    },
+    {
+      "album": {
+        "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
       },
       "artists": [
@@ -134,7 +152,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165299,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
@@ -2049,6 +2067,24 @@
     },
     {
       "album": {
+        "name": "Like A Prayer",
+        "url": "https://open.spotify.com/album/3vHGOMDZB5fnz9bxgl54LN"
+      },
+      "artists": [
+        {
+          "name": "Alphajack",
+          "url": "https://open.spotify.com/artist/16QqxKys1labZDMzVuZ8D9"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Like A Prayer",
+      "url": "https://open.spotify.com/track/5Ojjh0PUsxva1bP5JkQiYQ"
+    },
+    {
+      "album": {
         "name": "Like A Prayer (feat. Charla K)",
         "url": "https://open.spotify.com/album/5mPeCuhPdfuifGDXEBhnvY"
       },
@@ -2072,7 +2108,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164160,
       "name": "Like A Prayer (feat. Charla K)",
       "url": "https://open.spotify.com/track/6HjdL6nsBMykh2ehTv1kbb"

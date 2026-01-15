@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/6LUikHsZgw4VLRsYg49YU0.md) - cumulative - [plain](/playlists/plain/6LUikHsZgw4VLRsYg49YU0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6LUikHsZgw4VLRsYg49YU0)
+[pretty](/playlists/pretty/6LUikHsZgw4VLRsYg49YU0.md) - cumulative - [plain](/playlists/plain/6LUikHsZgw4VLRsYg49YU0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6LUikHsZgw4VLRsYg49YU0)
 
 ### [Anime Songs](https://open.spotify.com/playlist/6LUikHsZgw4VLRsYg49YU0)
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-290 songs - 16 hr 46 min
+291 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [\[Solo\-Leveling\]SymphonicSuite\-Lv.8](https://open.spotify.com/track/0WYhgrgXCa7LmgOq4dbNeO) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [\[Solo\-Leveling\]SymphonicSuite\-Lv.8](https://open.spotify.com/album/33PJlQUa6r9BgLwhZJe4Hn) | 2:41 | 2024-02-02 | 2025-11-01 |
 | [A Remix of The Marukane Department Store Jingle \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/0l0g1LNR1kUBMOFvzDJSKr) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [FeatherHATS](https://open.spotify.com/artist/6fOlx8VF1ozQaZJbn0qArC) | [A Remix of The Marukane Department Store Jingle \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/3HEAYfZrvGu71xe7i5OnVy) | 1:46 | 2025-06-27 |  |
 | [After Howl](https://open.spotify.com/track/3UyG8wL4PHNs12ODcsfZ6X) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Spice and Wolf: MERCHANT MEETS THE WISE WOLF \(Original Soundtrack\) \[Volume 2\]](https://open.spotify.com/album/37SRJg1KPKebYZyYdEef9F) | 3:41 | 2024-06-21 |  |
+| [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-01-09 |  |
 | [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 | 2023-01-13 | 2024-10-12 |
 | [All This](https://open.spotify.com/track/5OBX7Rctz74QUse0SZeyjN) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ) | [Family Portrait EP](https://open.spotify.com/album/6vtMs29mzabSqMhWnJXBy3) | 3:56 | 2022-02-18 | 2022-12-10 |
 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 | 2023-12-08 | 2025-09-27 |

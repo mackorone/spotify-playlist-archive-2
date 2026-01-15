@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcbK8HZQNxAq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcbK8HZQNxAq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcbK8HZQNxAq)
+[pretty](/playlists/pretty/37i9dQZF1DXcbK8HZQNxAq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcbK8HZQNxAq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcbK8HZQNxAq)
 
 ### [Indie Classical: Composed In 21st Century](https://open.spotify.com/playlist/37i9dQZF1DXcbK8HZQNxAq)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX57Z5f7AULjf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX57Z5f7AULjf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX57Z5f7AULjf)
+[pretty](/playlists/pretty/37i9dQZF1DX57Z5f7AULjf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX57Z5f7AULjf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX57Z5f7AULjf)
 
 ### [We Outside!](https://open.spotify.com/playlist/37i9dQZF1DX57Z5f7AULjf)
 

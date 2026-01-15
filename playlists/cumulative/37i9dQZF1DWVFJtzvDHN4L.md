@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVFJtzvDHN4L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVFJtzvDHN4L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVFJtzvDHN4L)
+[pretty](/playlists/pretty/37i9dQZF1DWVFJtzvDHN4L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVFJtzvDHN4L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVFJtzvDHN4L)
 
 ### [Cinematic Chillout](https://open.spotify.com/playlist/37i9dQZF1DWVFJtzvDHN4L)
 
@@ -95,7 +95,7 @@
 | [The Causeway](https://open.spotify.com/track/5yQk9aR8FvzRKEf8UdFYU6) | [Dickon Hinchliffe](https://open.spotify.com/artist/3SzIzpOIDpgwKNWaKL4FG4) | [The Third Day: Winter \(Music from the Limited Series\)](https://open.spotify.com/album/6v5IzkegCELuYXWl4B4QAY) | 3:47 | 2021-11-19 |  |
 | [The Chair](https://open.spotify.com/track/1EcJYWBoOiF8TlcUyYPVY3) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [The Chair](https://open.spotify.com/album/22Y2C5UQbkvxQOzEUdjDG9) | 4:31 | 2021-11-19 |  |
 | [The Forest](https://open.spotify.com/track/262rHXdxQM3dj5Ju8uDSC3) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Jay Kelly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jWUOYVx3c4nejJmSsTB29) | 1:39 | 2025-12-23 |  |
-| [The Gift Of Mortality \- Instrumental](https://open.spotify.com/track/4ZnQXH7WqUCbzffYaeSMRM) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Bicentennial Man \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7zp6npGMq8bwq6z9944ExA) | 6:10 | 2021-11-19 |  |
+| [The Gift Of Mortality \(From "Bicentennial Man" Soundtrack\) \- Instrumental](https://open.spotify.com/track/4ZnQXH7WqUCbzffYaeSMRM) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Bicentennial Man \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7zp6npGMq8bwq6z9944ExA) | 6:10 | 2021-11-19 |  |
 | [The Globe Newsroom](https://open.spotify.com/track/5b5f2QcUDRvwj7Pz9HPlEr) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Spotlight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3u04rTgOYkILUtXzreNszQ) | 2:02 | 2021-11-19 |  |
 | [The House in the Woods](https://open.spotify.com/track/2uFgIdXhAbXiqEH6oIojwS) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [The Room Next Door \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6JDpsgYpOF3vNviR6CaCGS) | 2:50 | 2024-11-19 |  |
 | [The Last Dinner](https://open.spotify.com/track/3JHiWZFos4wuk8TzKslK8h) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ur6MeJuL3o7YqnLPRzolr) | 1:50 | 2021-11-19 |  |

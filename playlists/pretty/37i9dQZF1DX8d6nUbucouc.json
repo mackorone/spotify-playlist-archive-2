@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 64362,
+  "num_followers": 64535,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -79,18 +79,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Papierwerk",
-        "url": "https://open.spotify.com/album/4eE6K4BieWnK08jWexTF9q"
+        "name": "Freddy & Bundy",
+        "url": "https://open.spotify.com/album/1ngvghSiq9Ze5hMaTLIIO8"
       },
       "artists": [
+        {
+          "name": "Crooks",
+          "url": "https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k"
+        },
         {
           "name": "Hef",
           "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
         }
       ],
-      "duration_ms": 192200,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/51W4oxlhGggEUa2CPDnlix"
+      "duration_ms": 164875,
+      "name": "Bijna",
+      "url": "https://open.spotify.com/track/4eVOPP0rkxpyYDWdPqP7Rs"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -111,22 +115,38 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Freddy & Bundy",
-        "url": "https://open.spotify.com/album/1ngvghSiq9Ze5hMaTLIIO8"
+        "name": "Papierwerk",
+        "url": "https://open.spotify.com/album/4eE6K4BieWnK08jWexTF9q"
       },
       "artists": [
-        {
-          "name": "Crooks",
-          "url": "https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k"
-        },
         {
           "name": "Hef",
           "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
         }
       ],
-      "duration_ms": 164875,
-      "name": "Bijna",
-      "url": "https://open.spotify.com/track/4eVOPP0rkxpyYDWdPqP7Rs"
+      "duration_ms": 192200,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/51W4oxlhGggEUa2CPDnlix"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Fresku",
+        "url": "https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW"
+      },
+      "artists": [
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        },
+        {
+          "name": "Winne",
+          "url": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Nieuwe Dag",
+      "url": "https://open.spotify.com/track/7gq3uwW3kjZFupbrOtLvxQ"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -163,26 +183,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Fresku",
-        "url": "https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW"
-      },
-      "artists": [
-        {
-          "name": "Fresku",
-          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
-        },
-        {
-          "name": "Winne",
-          "url": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Nieuwe Dag",
-      "url": "https://open.spotify.com/track/7gq3uwW3kjZFupbrOtLvxQ"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Ik Ga Hard",
         "url": "https://open.spotify.com/album/5h6BEWVTml6KaB7pL4V2ir"
       },
@@ -211,6 +211,26 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Freddy & Bundy",
+        "url": "https://open.spotify.com/album/1ngvghSiq9Ze5hMaTLIIO8"
+      },
+      "artists": [
+        {
+          "name": "Crooks",
+          "url": "https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k"
+        },
+        {
+          "name": "Hef",
+          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
+        }
+      ],
+      "duration_ms": 200611,
+      "name": "Begraaf Me Als Een G",
+      "url": "https://open.spotify.com/track/4oW3qbGwpOxDe7wrwblpdQ"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Mystery Repeats",
         "url": "https://open.spotify.com/album/0cYv2ncIFqmNYjOIeWGn3M"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 166466,
       "name": "Mystery Repeats",
       "url": "https://open.spotify.com/track/409C0oCpMq7DNRojawi1cH"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Freddy & Bundy",
-        "url": "https://open.spotify.com/album/1ngvghSiq9Ze5hMaTLIIO8"
-      },
-      "artists": [
-        {
-          "name": "Crooks",
-          "url": "https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k"
-        },
-        {
-          "name": "Hef",
-          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
-        }
-      ],
-      "duration_ms": 200611,
-      "name": "Begraaf Me Als Een G",
-      "url": "https://open.spotify.com/track/4oW3qbGwpOxDe7wrwblpdQ"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Superstuntwerk",
+        "url": "https://open.spotify.com/album/0wSDzGeN8VmYNV4zqpVBjE"
+      },
+      "artists": [
+        {
+          "name": "Flinke Namen",
+          "url": "https://open.spotify.com/artist/1pl6zHy7TssEvPr4d6hMgK"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Als Zij Langsloopt",
+      "url": "https://open.spotify.com/track/4SoDQVbhz2VRRNfgGm3HbR"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Tijdmachine",
         "url": "https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Superstuntwerk",
-        "url": "https://open.spotify.com/album/0wSDzGeN8VmYNV4zqpVBjE"
-      },
-      "artists": [
-        {
-          "name": "Flinke Namen",
-          "url": "https://open.spotify.com/artist/1pl6zHy7TssEvPr4d6hMgK"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Als Zij Langsloopt",
-      "url": "https://open.spotify.com/track/4SoDQVbhz2VRRNfgGm3HbR"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Eigen Wereld",
         "url": "https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG"
       },
@@ -399,6 +399,26 @@
       "duration_ms": 325466,
       "name": "Tante Lien",
       "url": "https://open.spotify.com/track/6lj0yxC8lnP3nHpits0vBa"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Hard Van Buiten, Gebroken Van Binnen",
+        "url": "https://open.spotify.com/album/6gAjlhxCZHluNBCghWD1l6"
+      },
+      "artists": [
+        {
+          "name": "Feis",
+          "url": "https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc"
+        },
+        {
+          "name": "Winne",
+          "url": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
+        }
+      ],
+      "duration_ms": 213504,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4NtGAQJXUXfqIni5ouifAX"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -443,26 +463,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Hard Van Buiten, Gebroken Van Binnen",
-        "url": "https://open.spotify.com/album/6gAjlhxCZHluNBCghWD1l6"
-      },
-      "artists": [
-        {
-          "name": "Feis",
-          "url": "https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc"
-        },
-        {
-          "name": "Winne",
-          "url": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
-        }
-      ],
-      "duration_ms": 213504,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/4NtGAQJXUXfqIni5ouifAX"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Vloeistof",
         "url": "https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Hefvermogen",
-        "url": "https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P"
-      },
-      "artists": [
-        {
-          "name": "Hef",
-          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
-        }
-      ],
-      "duration_ms": 146986,
-      "name": "Get Money",
-      "url": "https://open.spotify.com/track/6GaAIbK70c7PTacYXO9IcK"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "De Ark De Triomf",
         "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 278066,
       "name": "Regen Op Warm Asfalt",
       "url": "https://open.spotify.com/track/0HxlygG0MffYR6BffSGzuL"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Hefvermogen",
+        "url": "https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P"
+      },
+      "artists": [
+        {
+          "name": "Hef",
+          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
+        }
+      ],
+      "duration_ms": 146986,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/6GaAIbK70c7PTacYXO9IcK"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Aap-O-Theek",
-        "url": "https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT"
-      },
-      "artists": [
-        {
-          "name": "DuvelDuvel",
-          "url": "https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Wie Is Ut?",
-      "url": "https://open.spotify.com/track/0wigYjF9exiXBoXN5Br2py"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Colucci Era (Standard version)",
         "url": "https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 247946,
       "name": "Colucci",
       "url": "https://open.spotify.com/track/6nUZPNbKCePGt0MdjwiTqE"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Aap-O-Theek",
+        "url": "https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT"
+      },
+      "artists": [
+        {
+          "name": "DuvelDuvel",
+          "url": "https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Wie Is Ut?",
+      "url": "https://open.spotify.com/track/0wigYjF9exiXBoXN5Br2py"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Colucci Era (Standard version)",
+        "url": "https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0"
+      },
+      "artists": [
+        {
+          "name": "Fakkelbrigade",
+          "url": "https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Groen Gras",
+      "url": "https://open.spotify.com/track/5wXlDrQxS9w7bYHH0XUTEA"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Jayh.nl",
         "url": "https://open.spotify.com/album/3piHncMB0TEczcyL2w39w8"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 257120,
       "name": "Mijn Hossel",
       "url": "https://open.spotify.com/track/3yIqk7jtR7frUAMhterXDN"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Colucci Era (Standard version)",
-        "url": "https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0"
-      },
-      "artists": [
-        {
-          "name": "Fakkelbrigade",
-          "url": "https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Groen Gras",
-      "url": "https://open.spotify.com/track/5wXlDrQxS9w7bYHH0XUTEA"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -847,30 +847,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
-        },
-        {
-          "name": "Big2",
-          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
-        },
-        {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
-        }
-      ],
-      "duration_ms": 315826,
-      "name": "Duivelszoon",
-      "url": "https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Du Zoon",
         "url": "https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU"
       },
@@ -911,6 +887,30 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        },
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        },
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        }
+      ],
+      "duration_ms": 315826,
+      "name": "Duivelszoon",
+      "url": "https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Tussen Licht En Lucht",
         "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
       },
@@ -947,18 +947,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "De Avonturen...",
-        "url": "https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX"
+        "name": "Ambiance",
+        "url": "https://open.spotify.com/album/46EmL72r47VNWRUhRnELKC"
       },
       "artists": [
         {
-          "name": "Extince",
-          "url": "https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5"
+          "name": "Jiggy Dj\u00e9",
+          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
+        },
+        {
+          "name": "Sticks",
+          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
         }
       ],
-      "duration_ms": 203609,
-      "name": "Spraakwater Lest De Dorst!",
-      "url": "https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT"
+      "duration_ms": 240170,
+      "name": "Ambiance",
+      "url": "https://open.spotify.com/track/6QcH6GjDPcjixgieMwPr4j"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -979,18 +983,34 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Documents (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e"
+        "name": "Klokkenluiders Van Amsterdam",
+        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
       },
       "artists": [
         {
-          "name": "Postmen",
-          "url": "https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We"
+          "name": "Spookrijders",
+          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Crisis",
-      "url": "https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp"
+      "duration_ms": 388840,
+      "name": "Klokkenluiders",
+      "url": "https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "De Avonturen...",
+        "url": "https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX"
+      },
+      "artists": [
+        {
+          "name": "Extince",
+          "url": "https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5"
+        }
+      ],
+      "duration_ms": 203609,
+      "name": "Spraakwater Lest De Dorst!",
+      "url": "https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1023,6 +1043,42 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "De Ark De Triomf",
+        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Dj\u00e9",
+          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
+        },
+        {
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Ik Heb Je",
+      "url": "https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Documents (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e"
+      },
+      "artists": [
+        {
+          "name": "Postmen",
+          "url": "https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Great Minds",
         "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
       },
@@ -1032,25 +1088,9 @@
           "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
         }
       ],
-      "duration_ms": 315826,
-      "name": "Nog 1 Keer",
-      "url": "https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Klokkenluiders Van Amsterdam",
-        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
-      },
-      "artists": [
-        {
-          "name": "Spookrijders",
-          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
-        }
-      ],
-      "duration_ms": 388840,
-      "name": "Klokkenluiders",
-      "url": "https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs"
+      "duration_ms": 242040,
+      "name": "De Flexte",
+      "url": "https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1071,26 +1111,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Ambiance",
-        "url": "https://open.spotify.com/album/46EmL72r47VNWRUhRnELKC"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Dj\u00e9",
-          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
-        },
-        {
-          "name": "Sticks",
-          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
-        }
-      ],
-      "duration_ms": 240170,
-      "name": "Ambiance",
-      "url": "https://open.spotify.com/track/6QcH6GjDPcjixgieMwPr4j"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "De Fik Erin",
         "url": "https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W"
       },
@@ -1107,18 +1127,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Great Minds",
-        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
+        "name": "Noah's Ark",
+        "url": "https://open.spotify.com/album/3qopX9Swa3jLMlk0UvhD5D"
       },
       "artists": [
         {
-          "name": "Great Minds",
-          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
+          "name": "Jiggy Dj\u00e9",
+          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
         }
       ],
-      "duration_ms": 242040,
-      "name": "De Flexte",
-      "url": "https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL"
+      "duration_ms": 203800,
+      "name": "De Kleren Van De Keyser",
+      "url": "https://open.spotify.com/track/2eABN9qCm4iAUQgedUxrCP"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1143,6 +1163,22 @@
       "duration_ms": 250840,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/7LfLyolgPekxCKXoIZUWBS"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Great Minds",
+        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
+      },
+      "artists": [
+        {
+          "name": "Great Minds",
+          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
+        }
+      ],
+      "duration_ms": 315826,
+      "name": "Nog 1 Keer",
+      "url": "https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1195,42 +1231,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "De Ark De Triomf",
-        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Dj\u00e9",
-          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
-        },
-        {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Ik Heb Je",
-      "url": "https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "In Kleur",
-        "url": "https://open.spotify.com/album/4ihEfLKv4RGrqb3xBhclSQ"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 197304,
-      "name": "Ze Zeggen",
-      "url": "https://open.spotify.com/track/473KmP1rRwpPL5Jaq8Jaix"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Mystery Repeats",
         "url": "https://open.spotify.com/album/0cYv2ncIFqmNYjOIeWGn3M"
       },
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "In Kleur",
+        "url": "https://open.spotify.com/album/4ihEfLKv4RGrqb3xBhclSQ"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 197304,
+      "name": "Ze Zeggen",
+      "url": "https://open.spotify.com/track/473KmP1rRwpPL5Jaq8Jaix"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Bliksemschicht",
         "url": "https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp"
       },
@@ -1267,38 +1283,6 @@
       "duration_ms": 259240,
       "name": "Vanaf Nu/Rauwe Hop",
       "url": "https://open.spotify.com/track/4QflCpkH3K3A64KYiZS2df"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Boulimia",
-        "url": "https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV"
-      },
-      "artists": [
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Arbeidersklasse",
-      "url": "https://open.spotify.com/track/1Jh20M0XvpKmMogn6lVtXd"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Noah's Ark",
-        "url": "https://open.spotify.com/album/3qopX9Swa3jLMlk0UvhD5D"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Dj\u00e9",
-          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "De Kleren Van De Keyser",
-      "url": "https://open.spotify.com/track/2eABN9qCm4iAUQgedUxrCP"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Bliksemschicht",
-        "url": "https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp"
+        "name": "Boulimia",
+        "url": "https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV"
       },
       "artists": [
         {
-          "name": "Zwart Licht",
-          "url": "https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ"
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
         }
       ],
-      "duration_ms": 198320,
-      "name": "Bliksemschicht",
-      "url": "https://open.spotify.com/track/72guUBKzk2X2jlVgNxoS18"
+      "duration_ms": 180360,
+      "name": "Arbeidersklasse",
+      "url": "https://open.spotify.com/track/1Jh20M0XvpKmMogn6lVtXd"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1363,6 +1347,22 @@
       "duration_ms": 348093,
       "name": "Doorhalen",
       "url": "https://open.spotify.com/track/4KxNh4U7UFEIzmzwvpZxUe"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Bliksemschicht",
+        "url": "https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp"
+      },
+      "artists": [
+        {
+          "name": "Zwart Licht",
+          "url": "https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "Bliksemschicht",
+      "url": "https://open.spotify.com/track/72guUBKzk2X2jlVgNxoS18"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Buiten Westen",
+        "url": "https://open.spotify.com/album/2hVxejRtyWEtdiAUbCtw57"
+      },
+      "artists": [
+        {
+          "name": "Kubus",
+          "url": "https://open.spotify.com/artist/7cL6ZaJzLj5pFUF5iQbzDz"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Buiten West",
+      "url": "https://open.spotify.com/track/6AIp4pG2ngu3CV8K69B40E"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "De Onderbaas",
         "url": "https://open.spotify.com/album/1NjbJNfN6CoKqJncMSxe5h"
       },
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Buiten Westen",
-        "url": "https://open.spotify.com/album/2hVxejRtyWEtdiAUbCtw57"
+        "name": "Groeispurt",
+        "url": "https://open.spotify.com/album/5h3NZaXuW2Y4yHKE4REwVG"
       },
       "artists": [
         {
-          "name": "Kubus",
-          "url": "https://open.spotify.com/artist/7cL6ZaJzLj5pFUF5iQbzDz"
+          "name": "Sticks",
+          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
         }
       ],
-      "duration_ms": 246240,
-      "name": "Buiten West",
-      "url": "https://open.spotify.com/track/6AIp4pG2ngu3CV8K69B40E"
+      "duration_ms": 232539,
+      "name": "Groeispurt",
+      "url": "https://open.spotify.com/track/7ybQ4HIwxVc1EH2htkDFUE"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Groeispurt",
-        "url": "https://open.spotify.com/album/5h3NZaXuW2Y4yHKE4REwVG"
-      },
-      "artists": [
-        {
-          "name": "Sticks",
-          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
-        }
-      ],
-      "duration_ms": 232539,
-      "name": "Groeispurt",
-      "url": "https://open.spotify.com/track/7ybQ4HIwxVc1EH2htkDFUE"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Ut Zwarte Aap",
         "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 137426,
       "name": "Plakka",
       "url": "https://open.spotify.com/track/1bPQ0PV4DWY2rnYjXs5bek"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Thuis (feat. Per.verz)",
+        "url": "https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0"
+      },
+      "artists": [
+        {
+          "name": "Engel & Just",
+          "url": "https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM"
+        }
+      ],
+      "duration_ms": 244089,
+      "name": "Thuis (feat. Per.verz)",
+      "url": "https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Thuis (feat. Per.verz)",
-        "url": "https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0"
+        "name": "Soms Gaat Het Mis",
+        "url": "https://open.spotify.com/album/7hreym7UT47rKfIqhfnLMf"
       },
       "artists": [
         {
-          "name": "Engel & Just",
-          "url": "https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM"
+          "name": "Raymtzer",
+          "url": "https://open.spotify.com/artist/3ybiWTDJvKidAlwSqwCU8p"
         }
       ],
-      "duration_ms": 244089,
-      "name": "Thuis (feat. Per.verz)",
-      "url": "https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC"
+      "duration_ms": 193773,
+      "name": "Soms Gaat Het Mis",
+      "url": "https://open.spotify.com/track/788HqVM9tvdzeVeHqp60VW"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1527,6 +1543,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Ut Zwarte Aap",
+        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
+      },
+      "artists": [
+        {
+          "name": "Jawat",
+          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Batterij",
+      "url": "https://open.spotify.com/track/6lcwYclQz58gfAZrgAmBBx"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Boulimia",
         "url": "https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV"
       },
@@ -1543,22 +1575,6 @@
       "duration_ms": 220026,
       "name": "Punt",
       "url": "https://open.spotify.com/track/48CfE8EAxOnx0OlWz51Zv5"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Ut Zwarte Aap",
-        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
-      },
-      "artists": [
-        {
-          "name": "Jawat",
-          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Batterij",
-      "url": "https://open.spotify.com/track/6lcwYclQz58gfAZrgAmBBx"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Soms Gaat Het Mis",
-        "url": "https://open.spotify.com/album/7hreym7UT47rKfIqhfnLMf"
-      },
-      "artists": [
-        {
-          "name": "Raymtzer",
-          "url": "https://open.spotify.com/artist/3ybiWTDJvKidAlwSqwCU8p"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "Soms Gaat Het Mis",
-      "url": "https://open.spotify.com/track/788HqVM9tvdzeVeHqp60VW"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Klokkenluiders Van Amsterdam",
         "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Mijn Manier",
-        "url": "https://open.spotify.com/album/0hBGB9cgria5UdV15puxAJ"
-      },
-      "artists": [
-        {
-          "name": "Brainpower",
-          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Mijn Manier",
-      "url": "https://open.spotify.com/track/6YmDH07CvDvrJPQC68OeK2"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Opgeduveld",
         "url": "https://open.spotify.com/album/5rpa2P52leivrXWEOU0vdL"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 263786,
       "name": "Generaal",
       "url": "https://open.spotify.com/track/2uE3STwXESU4UvO5rZkkVC"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Mijn Manier",
+        "url": "https://open.spotify.com/album/0hBGB9cgria5UdV15puxAJ"
+      },
+      "artists": [
+        {
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Mijn Manier",
+      "url": "https://open.spotify.com/track/6YmDH07CvDvrJPQC68OeK2"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1831,26 +1831,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Boulimia",
-        "url": "https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV"
+        "name": "Rayalistisch (Reissue)",
+        "url": "https://open.spotify.com/album/7vrpUK5hOOuI2y1jSGuaVq"
       },
       "artists": [
         {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        },
-        {
-          "name": "Turk",
-          "url": "https://open.spotify.com/artist/3CCnfGrTPgEJoHFk4UOe0O"
-        },
-        {
-          "name": "Spacekees",
-          "url": "https://open.spotify.com/artist/4qGhPy6Sl7Efs3D7a230wM"
+          "name": "Raymzter",
+          "url": "https://open.spotify.com/artist/5ZntjOpn1ADiQnLx3W9Eja"
         }
       ],
-      "duration_ms": 241893,
-      "name": "On Top Of De",
-      "url": "https://open.spotify.com/track/4VknnXlY83VkUGxblL06Uy"
+      "duration_ms": 243986,
+      "name": "9 tot 5",
+      "url": "https://open.spotify.com/track/0tUZPEifyYlDfqH0MrvCnh"
     }
   ],
   "unique_name": "Grondleggers",

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdmEA1VNX4s0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdmEA1VNX4s0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdmEA1VNX4s0)
+[pretty](/playlists/pretty/37i9dQZF1DXdmEA1VNX4s0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdmEA1VNX4s0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdmEA1VNX4s0)
 
 ### [Mixtape \#17 "Editors' choice"](https://open.spotify.com/playlist/37i9dQZF1DXdmEA1VNX4s0)
 

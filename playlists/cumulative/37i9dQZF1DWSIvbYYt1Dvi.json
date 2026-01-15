@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "melhor ser um guerreiro num jardim do que um jardineiro numa guerra",
+  "description": "sotam podia ter dito 'podia ser a gente' mas dando AULAS assim \u00e9 bem melhor ",
   "name": "AULAS",
   "tracks": [
     {
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 266024,
       "name": "Devoto",
       "url": "https://open.spotify.com/track/5wZ3pAozhIMrbwpioCRbDN"
@@ -3556,7 +3556,7 @@
       },
       "artists": [
         {
-          "name": "AJULIACOSTA",
+          "name": "AJULLIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
@@ -5077,6 +5077,28 @@
     },
     {
       "album": {
+        "name": "Homens de Neg\u00f3cio",
+        "url": "https://open.spotify.com/album/6C2TmhVZ83ZGOZzvcKG7UH"
+      },
+      "artists": [
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Homens de Neg\u00f3cio",
+      "url": "https://open.spotify.com/track/2vfACVbjl5dptW2BWlo5Fk"
+    },
+    {
+      "album": {
         "name": "Imprevisto",
         "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
       },
@@ -6481,6 +6503,32 @@
     },
     {
       "album": {
+        "name": "MEIO",
+        "url": "https://open.spotify.com/album/5bHcDbSR4QwxFzXilcnFIx"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Mc Marechal",
+          "url": "https://open.spotify.com/artist/5YZEcrC3yHeiZ1bBvwKRUF"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195805,
+      "name": "MEIO",
+      "url": "https://open.spotify.com/track/1sRUG7Fko07ugdPVxfmT3D"
+    },
+    {
+      "album": {
         "name": "Melhor Momento, Pt. 2",
         "url": "https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh"
       },
@@ -7770,7 +7818,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 156500,
       "name": "O que a Julia vai ser?",
       "url": "https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks"
@@ -9610,7 +9658,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217000,
       "name": "Que Eu Sofra",
       "url": "https://open.spotify.com/track/02LnHINalMTrvzwEJnpapv"
@@ -11834,7 +11882,7 @@
       },
       "artists": [
         {
-          "name": "AJULIACOSTA",
+          "name": "AJULLIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
@@ -12480,7 +12528,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163192,
       "name": "Vis\u00f5es",
       "url": "https://open.spotify.com/track/298ionVvjnAHlD0IqYVYfC"

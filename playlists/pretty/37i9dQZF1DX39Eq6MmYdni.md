@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain](/playlists/plain/37i9dQZF1DX39Eq6MmYdni) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX39Eq6MmYdni)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain](/playlists/plain/37i9dQZF1DX39Eq6MmYdni) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX39Eq6MmYdni)
 
 ### [Rompiendo: Texas](https://open.spotify.com/playlist/37i9dQZF1DX39Eq6MmYdni)
 
 > Lo que suena in the lone star state\. Texas\. Cover: LOS DOS DE TAMAULIPAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,900 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,864 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

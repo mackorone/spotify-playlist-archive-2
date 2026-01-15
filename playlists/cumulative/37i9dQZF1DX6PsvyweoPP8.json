@@ -689,6 +689,32 @@
     },
     {
       "album": {
+        "name": "At\u00e9 o Final...",
+        "url": "https://open.spotify.com/album/1h16snRSBNGcYIplkdQ6Z8"
+      },
+      "artists": [
+        {
+          "name": "ROSA",
+          "url": "https://open.spotify.com/artist/7ETMJjD28rBX72iAxN5fvu"
+        },
+        {
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176145,
+      "name": "At\u00e9 o Final...",
+      "url": "https://open.spotify.com/track/6v0kEmk2K9GKOqjVulWjxP"
+    },
+    {
+      "album": {
         "name": "Babal\u00fa",
         "url": "https://open.spotify.com/album/3jryV1YzSn8RAxxgCtaDoc"
       },
@@ -2975,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "MIXTAPE DE VER\u00c3O: GOSTOSAS OUVEM TZ",
+        "url": "https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160650,
+      "name": "FOD*SE (explicit)",
+      "url": "https://open.spotify.com/track/27qJ6wASSruF2SVCgVljZU"
+    },
+    {
+      "album": {
         "name": "Foge Comigo",
         "url": "https://open.spotify.com/album/33wOP9OMTbFxS2VC7cd2e4"
       },
@@ -3358,7 +3402,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 248625,
       "name": "H\u00c1BITOS",
       "url": "https://open.spotify.com/track/4H1haNn3ZwxgMjfuRCwX7l"
@@ -5384,6 +5428,32 @@
       "duration_ms": 144000,
       "name": "Pente e Rala",
       "url": "https://open.spotify.com/track/0rziLToFoDPVwBWEYt2lIA"
+    },
+    {
+      "album": {
+        "name": "Perfil #129 - Meiga e Singela",
+        "url": "https://open.spotify.com/album/0ueO84dd0UdhF3Rgs3CDjx"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Italo Melo",
+          "url": "https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8"
+        },
+        {
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130919,
+      "name": "Perfil #129 - Meiga e Singela",
+      "url": "https://open.spotify.com/track/2f9ICEXnqkUyTekTiTkGE9"
     },
     {
       "album": {
@@ -7454,7 +7524,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 137142,
       "name": "Vazio",
       "url": "https://open.spotify.com/track/5HSAWjfTr4rrgNAdeIJXJw"
@@ -7602,7 +7672,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174564,
       "name": "Vil\u00e3",
       "url": "https://open.spotify.com/track/3RZvocIuAggwRb9CPDiH0W"

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain](/playlists/plain/37i9dQZF1DWYcDQ1hSjOpY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYcDQ1hSjOpY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain](/playlists/plain/37i9dQZF1DWYcDQ1hSjOpY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYcDQ1hSjOpY)
 
 ### [Deep Sleep](https://open.spotify.com/playlist/37i9dQZF1DWYcDQ1hSjOpY)
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,093,723 likes - 375 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,096,649 likes - 375 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -384,4 +384,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 374 | [Jákvæð](https://open.spotify.com/track/1uqPoBuNXpJ6UsEf8bj4vL) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Jákvæð](https://open.spotify.com/album/0E8U4MXhURoj9gzmF0bd6N) | 3:16 |
 | 375 | [Dark Lines](https://open.spotify.com/track/2Sc7CxUDp0zCpJeLNUkK2P) | [Draumur](https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv) | [Dark Lines](https://open.spotify.com/album/0jUS6bsTaTgcwyn0E3OQUY) | 2:50 |
 
-Snapshot ID: `AAAAAPvB2v4YsZsXfzj4z9Ezi1hx6PSH`
+Snapshot ID: `AAAAACCH/3TFIrRXWaSzG6iXwYylb4Hg`

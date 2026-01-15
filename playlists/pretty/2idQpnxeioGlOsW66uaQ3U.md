@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2idQpnxeioGlOsW66uaQ3U.md) - [plain](/playlists/plain/2idQpnxeioGlOsW66uaQ3U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2idQpnxeioGlOsW66uaQ3U)
+pretty - [cumulative](/playlists/cumulative/2idQpnxeioGlOsW66uaQ3U.md) - [plain](/playlists/plain/2idQpnxeioGlOsW66uaQ3U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2idQpnxeioGlOsW66uaQ3U)
 
 ### [Flex & Flow](https://open.spotify.com/playlist/2idQpnxeioGlOsW66uaQ3U)
 
 > This eclectic, electric\-leaning collection is perfect for focusing on your flow and extending your flexibility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 23 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 121 likes - 23 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

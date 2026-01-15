@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9Uv7i7ODBAM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Uv7i7ODBAM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Uv7i7ODBAM)
+[pretty](/playlists/pretty/37i9dQZF1DX9Uv7i7ODBAM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Uv7i7ODBAM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9Uv7i7ODBAM)
 
 ### [My Hero Academia](https://open.spotify.com/playlist/37i9dQZF1DX9Uv7i7ODBAM)
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-168 songs - 9 hr 43 min
+169 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Jet Set Run](https://open.spotify.com/track/3jRwb8NABDs7n8YsYyHO8c) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:45 | 2023-03-14 | 2024-04-19 |
 | [Jet Set Run](https://open.spotify.com/track/7L7XzsEDNRGgVsAixpiba4) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 3:45 | 2022-10-01 |  |
 | [Jet Set Run](https://open.spotify.com/track/3teojSwo5lqcCIYHndCBPI) | [林ゆうき](https://open.spotify.com/artist/3WVnDzwxJm470Nog8Gza8R) | [TVアニメ「僕のヒーローアカデミア」サウンドトラックセレクション 2016\~2018](https://open.spotify.com/album/2NWlZqCr8lFt98s2psLjSN) | 3:45 | 2023-03-14 | 2024-03-28 |
+| [Kani Umainen](https://open.spotify.com/track/6xuECRfiMOAxtCFREJS9cc) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [中島啓輔](https://open.spotify.com/artist/6mKZpoE2PZy7hSGPFsay54) | [Kani Umainen](https://open.spotify.com/album/0NMKQL4qhIeP0jHiUM3xCW) | 1:04 | 2026-01-13 |  |
 | [Let me suck some blood?](https://open.spotify.com/track/5ICwOp7Q4zo4pT4vpMbArg) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 2:18 | 2024-07-07 |  |
 | [Make my story](https://open.spotify.com/track/3VB2Q9iWutZLTiBYNcNFHO) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [Montage](https://open.spotify.com/album/0vf0vTcCmQGZoSLq5ho5NA) | 4:27 | 2022-10-01 | 2024-04-19 |
 | [Make my story](https://open.spotify.com/track/07X9vVzKciQRl5wkfM1Jre) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [Make my story](https://open.spotify.com/album/310PBtTNAvA9QNwaRf6SUE) | 4:28 | 2022-10-11 | 2022-11-13 |

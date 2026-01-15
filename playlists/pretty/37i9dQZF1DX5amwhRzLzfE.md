@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5amwhRzLzfE.md) - [plain](/playlists/plain/37i9dQZF1DX5amwhRzLzfE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5amwhRzLzfE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5amwhRzLzfE.md) - [plain](/playlists/plain/37i9dQZF1DX5amwhRzLzfE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5amwhRzLzfE)
 
 ### [YURI!!! on ICE \-ユーリ!!! on ICE\-](https://open.spotify.com/playlist/37i9dQZF1DX5amwhRzLzfE)
 
 > Enjoy music from the world\-famous figure skating anime <a href="https://yurionice.com/">"YURI!!! on ICE"</a> \. <a href="spotify:album:1YCzHcY9H5X6309OyGCEQ3">「ユーリ!!! on CONCERT」</a>Live CD好評発売中！©HTP／YoIP
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,291 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,410 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

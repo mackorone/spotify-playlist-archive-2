@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXDLXXRhX6X.md) - [plain](/playlists/plain/37i9dQZF1DXdXDLXXRhX6X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdXDLXXRhX6X)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXDLXXRhX6X.md) - [plain](/playlists/plain/37i9dQZF1DXdXDLXXRhX6X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdXDLXXRhX6X)
 
 ### [lyric therapy](https://open.spotify.com/playlist/37i9dQZF1DXdXDLXXRhX6X)
 
 > notes from the girls that get it
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,070 likes - 115 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,018 likes - 115 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

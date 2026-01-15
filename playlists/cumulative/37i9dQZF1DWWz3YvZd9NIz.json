@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193704,
       "name": "Axel F",
       "url": "https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 150348,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
@@ -1768,6 +1768,32 @@
       "duration_ms": 182903,
       "name": "Feel Love",
       "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
+    },
+    {
+      "album": {
+        "name": "Feel Your Love (Dimitri Vegas Vinyl Only Remix)",
+        "url": "https://open.spotify.com/album/4LsSYsEha18DTVcoLlddlv"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138189,
+      "name": "Feel Your Love - Dimitri Vegas Vinyl Only Remix",
+      "url": "https://open.spotify.com/track/5qoKitu0k9f0ANt1mtwTzb"
     },
     {
       "album": {
@@ -5448,7 +5474,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218709,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/1rFlpdaPT8NrBK7p3vHbZY"

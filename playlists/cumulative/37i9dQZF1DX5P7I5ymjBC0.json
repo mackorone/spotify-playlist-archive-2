@@ -898,7 +898,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 224874,
       "name": "Dil Ke Behlane Ki",
       "url": "https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37"
@@ -1723,6 +1723,32 @@
     },
     {
       "album": {
+        "name": "Azaad Sangeet: Season 1",
+        "url": "https://open.spotify.com/album/18ioVk51leOrhxraxLA4zp"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Pandit",
+          "url": "https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        },
+        {
+          "name": "Vidhya Gopal",
+          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245500,
+      "name": "Khaare Khaare",
+      "url": "https://open.spotify.com/track/36x6lepWionjFYfvUdbnsx"
+    },
+    {
+      "album": {
         "name": "Khalasi | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq"
       },
@@ -1994,6 +2020,32 @@
       "duration_ms": 749466,
       "name": "Making Music",
       "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
+    },
+    {
+      "album": {
+        "name": "Mannde Ji Mala",
+        "url": "https://open.spotify.com/album/7JDF0aiEXvmMQ63Gvll3qh"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Vela Ghana Bhil",
+          "url": "https://open.spotify.com/artist/2riag1dR98hqvRbTagutOg"
+        },
+        {
+          "name": "Nirali Kartik",
+          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329200,
+      "name": "Mannde Ji Mala",
+      "url": "https://open.spotify.com/track/1Wf25igBukyJcb684oEYvY"
     },
     {
       "album": {
@@ -3736,7 +3788,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 364018,
       "name": "Tarana",
       "url": "https://open.spotify.com/track/4mEhKVLzUW1GsBbPLp60S1"

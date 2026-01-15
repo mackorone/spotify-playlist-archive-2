@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain](/playlists/plain/37i9dQZF1DX2J9h4w9E0Xj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2J9h4w9E0Xj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain](/playlists/plain/37i9dQZF1DX2J9h4w9E0Xj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2J9h4w9E0Xj)
 
 ### [Rock Rising](https://open.spotify.com/playlist/37i9dQZF1DX2J9h4w9E0Xj)
 

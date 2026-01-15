@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 181366,
       "name": "Auror\u00e1",
       "url": "https://open.spotify.com/track/25u93aSOn21m8zWmSgL3cV"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180475,
       "name": "Bird Bath Opus",
       "url": "https://open.spotify.com/track/0JdkqE8WG3f638p5SRHhZ2"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184647,
       "name": "Domestic Waters",
       "url": "https://open.spotify.com/track/7ssngwB7w7olN4CwMkrDcB"
@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Dulcet",
+        "url": "https://open.spotify.com/album/3SOzzSfeGOHvDNla7w5zEN"
+      },
+      "artists": [
+        {
+          "name": "Mokusei",
+          "url": "https://open.spotify.com/artist/65lB2N7RSIyYSkLyDiFGuu"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "Dulcet",
+      "url": "https://open.spotify.com/track/7lvWStTudtQ6sy8AW9o1CN"
+    },
+    {
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/02FzOAmjWh3mXlw5A0gEp6"
       },
@@ -1244,6 +1262,24 @@
       "duration_ms": 136483,
       "name": "Ebb",
       "url": "https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ"
+    },
+    {
+      "album": {
+        "name": "Echo Branches",
+        "url": "https://open.spotify.com/album/5uE7OpuM8N1oo5IllhELGe"
+      },
+      "artists": [
+        {
+          "name": "Astral Voyager",
+          "url": "https://open.spotify.com/artist/6Bj7oeWzckGjkZdSwfKJHa"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Echo Branches",
+      "url": "https://open.spotify.com/track/4NaokS7WwvNDq1tIozGscA"
     },
     {
       "album": {
@@ -3145,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "Morning Spring",
+        "url": "https://open.spotify.com/album/4x0WU6pozeMkcND1zJlifI"
+      },
+      "artists": [
+        {
+          "name": "Solfjord",
+          "url": "https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/2z8607a6qDX2eUFsjI4LM4"
+    },
+    {
+      "album": {
         "name": "Morning Yoga",
         "url": "https://open.spotify.com/album/02rCmVAY6NsJXNxFOM1HOa"
       },
@@ -3336,7 +3390,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162645,
       "name": "Nature's Canvas",
       "url": "https://open.spotify.com/track/3gn4qQjNar63wHcK5DOJYU"
@@ -3840,7 +3894,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148000,
       "name": "Radiant Recovery",
       "url": "https://open.spotify.com/track/6vrIfscwRw6648jkgY5JUO"
@@ -4621,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "Stillness Within",
+        "url": "https://open.spotify.com/album/1fs79wJdEOXxyv0GUxfOuJ"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Embrace",
+          "url": "https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149166,
+      "name": "Stillness Within",
+      "url": "https://open.spotify.com/track/49nLhd2akfHVZaYLgEg5lD"
+    },
+    {
+      "album": {
         "name": "Stone Lantern",
         "url": "https://open.spotify.com/album/3Jl4h0y1fq5lpmPUejIzyu"
       },
@@ -4726,6 +4798,24 @@
       "duration_ms": 143045,
       "name": "Swells of Peace",
       "url": "https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R"
+    },
+    {
+      "album": {
+        "name": "Taigara",
+        "url": "https://open.spotify.com/album/4vDUobGl0tDNkhC45JOZYD"
+      },
+      "artists": [
+        {
+          "name": "Pristeen",
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156641,
+      "name": "Taigara",
+      "url": "https://open.spotify.com/track/7K7ZAr3k3yiDTkBbYjTn3r"
     },
     {
       "album": {
@@ -5032,6 +5122,24 @@
       "duration_ms": 246060,
       "name": "Tibetan Bowl Peace",
       "url": "https://open.spotify.com/track/1ZAcQ8bAiiRMITWLqZ3gFW"
+    },
+    {
+      "album": {
+        "name": "Trace",
+        "url": "https://open.spotify.com/album/7ubIk8MvGIJ4TYXTiGGPOF"
+      },
+      "artists": [
+        {
+          "name": "Cuatico",
+          "url": "https://open.spotify.com/artist/7uwkc1ZXfm0rVruHw8a91m"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137903,
+      "name": "Trace",
+      "url": "https://open.spotify.com/track/4zRFYGwWtpFj25EesmqzcL"
     },
     {
       "album": {
@@ -5500,7 +5608,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 231423,
       "name": "Wilderness (Sound Bath)",
       "url": "https://open.spotify.com/track/2MHG83f4G7CnoxuRrvDc68"

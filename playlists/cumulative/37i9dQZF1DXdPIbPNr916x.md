@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdPIbPNr916x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdPIbPNr916x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdPIbPNr916x)
+[pretty](/playlists/pretty/37i9dQZF1DXdPIbPNr916x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdPIbPNr916x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdPIbPNr916x)
 
 ### [Easy Winter](https://open.spotify.com/playlist/37i9dQZF1DXdPIbPNr916x)
 

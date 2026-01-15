@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYWddJiPzbvb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYWddJiPzbvb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYWddJiPzbvb)
+[pretty](/playlists/pretty/37i9dQZF1DWYWddJiPzbvb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYWddJiPzbvb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYWddJiPzbvb)
 
 ### [Comfort Zone](https://open.spotify.com/playlist/37i9dQZF1DWYWddJiPzbvb)
 

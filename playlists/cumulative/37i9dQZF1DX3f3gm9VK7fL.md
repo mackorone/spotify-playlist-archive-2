@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3f3gm9VK7fL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3f3gm9VK7fL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3f3gm9VK7fL)
+[pretty](/playlists/pretty/37i9dQZF1DX3f3gm9VK7fL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3f3gm9VK7fL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3f3gm9VK7fL)
 
 ### [Anime Hits 20's](https://open.spotify.com/playlist/37i9dQZF1DX3f3gm9VK7fL)
 

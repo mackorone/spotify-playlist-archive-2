@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3krFAzyOjl0.md) - [plain](/playlists/plain/37i9dQZF1DX3krFAzyOjl0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3krFAzyOjl0)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3krFAzyOjl0.md) - [plain](/playlists/plain/37i9dQZF1DX3krFAzyOjl0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3krFAzyOjl0)
 
 ### [2025 BTS FESTA : 우리들의 열두번째 여름을 기억하며](https://open.spotify.com/playlist/37i9dQZF1DX3krFAzyOjl0)
 
 > BTS Festa를 기념하며 멤버들이 직접 뽑은 BTS 베스트 곡을 들어보세요! \(To celebrate BTS Festa, listen to the best BTS songs chosen by the members themselves!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,100 likes - 21 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,035 likes - 21 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

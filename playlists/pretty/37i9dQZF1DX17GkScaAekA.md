@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain](/playlists/plain/37i9dQZF1DX17GkScaAekA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX17GkScaAekA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain](/playlists/plain/37i9dQZF1DX17GkScaAekA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX17GkScaAekA)
 
 ### [Dark Academia Classical](https://open.spotify.com/playlist/37i9dQZF1DX17GkScaAekA)
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,436 likes - 112 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,711 likes - 112 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

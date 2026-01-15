@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain](/playlists/plain/37i9dQZF1DXea1st93LZrc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXea1st93LZrc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain](/playlists/plain/37i9dQZF1DXea1st93LZrc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXea1st93LZrc)
 
 ### [Korifaioi kallitexnes Ellada 2025](https://open.spotify.com/playlist/37i9dQZF1DXea1st93LZrc)
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2025\. Εξώφυλλο: TOQUEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,592 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,635 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

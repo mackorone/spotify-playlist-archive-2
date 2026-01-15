@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcdjiQ3xtMUy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcdjiQ3xtMUy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcdjiQ3xtMUy)
+[pretty](/playlists/pretty/37i9dQZF1DXcdjiQ3xtMUy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcdjiQ3xtMUy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcdjiQ3xtMUy)
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: LILA
 
-231 songs - 11 hr 55 min
+232 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Einai Xristougenna](https://open.spotify.com/track/0YyfBNnNimq3ounL4W0zdc) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Einai Xristougenna](https://open.spotify.com/album/7HdKvSEBkRfiYnalxp43j0) | 2:55 | 2024-11-21 | 2025-01-17 |
 | [Eipes](https://open.spotify.com/track/6hetSa5ChpVZ30jcxQNRZf) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Eipes](https://open.spotify.com/album/1H3ahuX2TFGViiP3fon6kh) | 3:40 | 2024-06-27 | 2024-10-25 |
 | [Eisai Arrostia Megali](https://open.spotify.com/track/2B6VyDw2eA81pHbAeaGDcl) | [Titos](https://open.spotify.com/artist/6aY3YOhrxa0IvDoRhta5oJ), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Eisai Arrostia Megali](https://open.spotify.com/album/5zjGTOt4Zi7yZRS4lO5tFn) | 3:04 | 2024-06-27 | 2024-07-12 |
-| [Ekdoxi](https://open.spotify.com/track/2YgXfudmeCpYNWwvpqDdz5) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [Tha Grapsoume Istoria](https://open.spotify.com/album/4nGB4DVaULjQR7xYQ9JPVI) | 3:42 | 2025-07-10 |  |
+| [Ekdoxi](https://open.spotify.com/track/2YgXfudmeCpYNWwvpqDdz5) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [Tha Grapsoume Istoria](https://open.spotify.com/album/4nGB4DVaULjQR7xYQ9JPVI) | 3:42 | 2025-07-10 | 2026-01-15 |
 | [ELA ELA](https://open.spotify.com/track/2lByStAOzPu4XHPp7ZPX7V) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [ELA ELA](https://open.spotify.com/album/0MvDvf4Zv43yfDVVlXDGd5) | 2:56 | 2025-03-27 | 2025-09-26 |
 | [ELATOMA](https://open.spotify.com/track/7mKZSn3sScAiLzlPeUk7NP) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [ELATOMA](https://open.spotify.com/album/3wNW6TYNZP0qLCq83zadeU) | 2:31 | 2025-12-18 |  |
 | [EMMONI IDEA](https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [EMMONI IDEA](https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb) | 3:07 | 2025-03-20 | 2025-10-17 |
@@ -90,6 +90,7 @@
 | [Evaisthisies](https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Evaisthisies](https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ) | 4:00 | 2024-06-27 | 2024-10-04 |
 | [everywhere<3](https://open.spotify.com/track/0x3iQHDSInr7mrFcfYIlYJ) | [TEO.x3](https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH), [Christian Cherry](https://open.spotify.com/artist/6rmnezB7LuaNkZ8OKeB3tK) | [everywhere<3](https://open.spotify.com/album/01TqDuPEdX1W40TYDMAZkA) | 2:46 | 2025-10-23 |  |
 | [Exeis Ta Matia 2024](https://open.spotify.com/track/6o9Zntn1IUDML3m45AwKp0) | [Thelxi](https://open.spotify.com/artist/7s6h5FkIxQL153eAozGzM7), [Ayman](https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Exeis Ta Matia 2024](https://open.spotify.com/album/7lXjuneALZsQQfsfaKdiwH) | 2:46 | 2024-07-11 | 2025-02-21 |
+| [Exeresi Esi](https://open.spotify.com/track/11VI8fCs5NyWgTy7QOiHc4) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Exeresi Esi](https://open.spotify.com/album/6phSz3O5j3LccfLBZRLtqj) | 3:35 | 2026-01-08 |  |
 | [Fainomeno](https://open.spotify.com/track/4oiw93wniQggi1ZFB7VQ8P) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Fainomeno](https://open.spotify.com/album/7o1M8VMkQ2Jvun0FWbqoU1) | 2:41 | 2025-06-13 |  |
 | [FASHION KILLAH \- Club Version](https://open.spotify.com/track/2WQKp9lLeNT3tyeLIvbYNX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Tso](https://open.spotify.com/artist/5RPYuOBwxiNV9K3rnyowEu) | [FASHION KILLAH](https://open.spotify.com/album/5NMPn7gWVgvJrHrdWUsqMa) | 2:19 | 2025-07-03 | 2025-08-01 |
 | [Feggaria Kalokairina](https://open.spotify.com/track/2xOqLMz8ZKBaWYHy3s5Wyo) | [Theo Evan](https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj) | [Feggaria Kalokairina](https://open.spotify.com/album/5hovDIv5CFnb2owJjW8cN4) | 2:37 | 2025-06-05 | 2025-06-20 |

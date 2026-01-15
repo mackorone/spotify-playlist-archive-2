@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-10",
-  "description": "Strictly Nigerian worship songs. Cover: <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=P8rKhOF7RgKSexcLlO48SQ>Ebuka Songs</a>",
+  "description": "Strictly Nigerian worship songs. Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=g3a-0y-4SVKK0vhrWKGw7w>Sunmisola Agbebi</a>",
   "name": "Naija Worship",
   "tracks": [
     {
@@ -274,6 +274,28 @@
       "duration_ms": 547701,
       "name": "Amen - Live",
       "url": "https://open.spotify.com/track/0I4Mtcz94osb6CNmsTV58I"
+    },
+    {
+      "album": {
+        "name": "Amioluwa",
+        "url": "https://open.spotify.com/album/7syagUQVNcJnnRg9ZIHQfd"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607129,
+      "name": "Amioluwa",
+      "url": "https://open.spotify.com/track/2taXjxwpS0Mrl3PqdwWHPu"
     },
     {
       "album": {
@@ -596,6 +618,24 @@
       "duration_ms": 769365,
       "name": "BARUCH HASHEM ADONAI - Live",
       "url": "https://open.spotify.com/track/6TZjhz17cbEJDdrjudmufT"
+    },
+    {
+      "album": {
+        "name": "Be Ti Tobi To",
+        "url": "https://open.spotify.com/album/6ZesxPBH9QLyRRH8CPdhJY"
+      },
+      "artists": [
+        {
+          "name": "Alice Peters",
+          "url": "https://open.spotify.com/artist/3QgTVlHmMjek7wGGRsvi6U"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257088,
+      "name": "Be Ti Tobi To",
+      "url": "https://open.spotify.com/track/1s6OlVqAujuBidxTtksNVo"
     },
     {
       "album": {
@@ -3452,7 +3492,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186000,
       "name": "Mighty God",
       "url": "https://open.spotify.com/track/2JJCz6F82dhrqqfEP6Lhdz"
@@ -4611,7 +4651,7 @@
         },
         {
           "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+          "url": "https://open.spotify.com/artist/47TA6v1bwrl7FS0Cq0fSus"
         }
       ],
       "date_added": "2026-01-02",

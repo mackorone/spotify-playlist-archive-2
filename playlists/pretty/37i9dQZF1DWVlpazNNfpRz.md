@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlpazNNfpRz.md) - [plain](/playlists/plain/37i9dQZF1DWVlpazNNfpRz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVlpazNNfpRz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlpazNNfpRz.md) - [plain](/playlists/plain/37i9dQZF1DWVlpazNNfpRz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVlpazNNfpRz)
 
 ### [Guaracha](https://open.spotify.com/playlist/37i9dQZF1DWVlpazNNfpRz)
 
 > When the beat drops, that's Guaracha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,523 likes - 90 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,748 likes - 90 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

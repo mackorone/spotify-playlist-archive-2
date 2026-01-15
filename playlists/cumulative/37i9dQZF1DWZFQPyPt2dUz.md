@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZFQPyPt2dUz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZFQPyPt2dUz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZFQPyPt2dUz)
+[pretty](/playlists/pretty/37i9dQZF1DWZFQPyPt2dUz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZFQPyPt2dUz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZFQPyPt2dUz)
 
 ### [The Selected W\. B\. Yeats](https://open.spotify.com/playlist/37i9dQZF1DWZFQPyPt2dUz)
 

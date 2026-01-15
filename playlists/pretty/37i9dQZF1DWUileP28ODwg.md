@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain](/playlists/plain/37i9dQZF1DWUileP28ODwg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUileP28ODwg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain](/playlists/plain/37i9dQZF1DWUileP28ODwg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUileP28ODwg)
 
 ### [Top Contemporary Christian](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,378 likes - 79 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,899 likes - 79 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 13 | [What An Awesome God](https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [What An Awesome God](https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc) | 3:31 |
 | 14 | [Let It Be A Hallelujah](https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Let It Be A Hallelujah](https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc) | 3:58 |
 | 15 | [My Family](https://open.spotify.com/track/5FjpyEnGS7PbM9YXcllENi) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [My Family](https://open.spotify.com/album/44DKKlkJe7qIEAjK3qsyTS) | 3:46 |
-| 16 | [When A Cowboy Prays](https://open.spotify.com/track/5El4el5fJrMq0onm31WEDo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [When A Cowboy Prays](https://open.spotify.com/album/331sTX4A9LVS7dydeAaZR2) | 3:57 |
-| 17 | [Get Behind Me \(feat\. Zach Williams\)](https://open.spotify.com/track/1TQoteChnevdwvlnOzYmDB) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Get Behind Me \(feat\. Zach Williams\)](https://open.spotify.com/album/5cWfdqq6E688gmDTSWgHXP) | 3:13 |
+| 16 | [Get Behind Me \(feat\. Zach Williams\)](https://open.spotify.com/track/1TQoteChnevdwvlnOzYmDB) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Get Behind Me \(feat\. Zach Williams\)](https://open.spotify.com/album/5cWfdqq6E688gmDTSWgHXP) | 3:13 |
+| 17 | [When A Cowboy Prays \- with Cody Johnson](https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [When A Cowboy Prays \(with Cody Johnson\)](https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn) | 3:57 |
 | 18 | [Say It That Way](https://open.spotify.com/track/2ySEQMJMCHuV1afLRhKl6B) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Say It That Way](https://open.spotify.com/album/71wNiGMvXe4dUP7DSfToHW) | 3:55 |
 | 19 | [Letters To Heaven](https://open.spotify.com/track/3yetakf9ED4buJVMTTh9pU) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Letters To Heaven](https://open.spotify.com/album/65znZ3ee5OJ7YDaT9SAXRT) | 4:13 |
 | 20 | [Carry Me](https://open.spotify.com/track/4q3Y80rmbaIaZqR8PcRhie) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Carry Me](https://open.spotify.com/album/0JKuT0K56zJYmCnXrI13sy) | 3:13 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 78 | [Something You Can Be Proud Of](https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Something You Can Be Proud Of](https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD) | 3:28 |
 | 79 | [Set Me Free](https://open.spotify.com/track/5uYR8Fm4aTxx3zmTy7XJnf) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Set Me Free](https://open.spotify.com/album/74yVQv7tnnKINqKgYtwRdP) | 3:31 |
 
-Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`
+Snapshot ID: `AAAAAHMNkvnSulwoSj6BDLVOHVaSaQ0o`

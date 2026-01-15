@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 555,
+  "num_followers": 563,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABZ4ETr8W2qg2Noccp7rQhAjJvmI0Q",
+  "snapshot_id": "AAABajYWyjie6vWi/Dsz33WecPcV1bvb",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8235,6 +8235,54 @@
       "duration_ms": 180653,
       "name": "Lembran\u00e7as",
       "url": "https://open.spotify.com/track/651f19oW8uV5tpCEioy2Kb"
+    },
+    {
+      "added_at": "2026-01-12 05:50:05",
+      "album": {
+        "name": "Dealer of dreams",
+        "url": "https://open.spotify.com/album/6agNfuer5d7ZRmrcNjHHIP"
+      },
+      "artists": [
+        {
+          "name": "NeKKoN",
+          "url": "https://open.spotify.com/artist/0Rj4a2UfZQS4VoMFpSHPtA"
+        }
+      ],
+      "duration_ms": 281778,
+      "name": "Dealer of dreams",
+      "url": "https://open.spotify.com/track/7FX95R5DwzQz9l5v0t2qWu"
+    },
+    {
+      "added_at": "2026-01-13 17:50:23",
+      "album": {
+        "name": "2low",
+        "url": "https://open.spotify.com/album/1Qvs6xJkLDJD0SMda9h3iy"
+      },
+      "artists": [
+        {
+          "name": "moraux",
+          "url": "https://open.spotify.com/artist/2rKXaL6gHUA4OUaCn0EHZt"
+        }
+      ],
+      "duration_ms": 126927,
+      "name": "2low",
+      "url": "https://open.spotify.com/track/6PuttdMRpU6Ond6z7n5cIs"
+    },
+    {
+      "added_at": "2026-01-13 17:50:29",
+      "album": {
+        "name": "Greatness Abandoned",
+        "url": "https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo"
+      },
+      "artists": [
+        {
+          "name": "The Burying Game",
+          "url": "https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK"
+        }
+      ],
+      "duration_ms": 230054,
+      "name": "Greatness Abandoned",
+      "url": "https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i"
     }
   ],
   "unique_name": "New Music Daily",

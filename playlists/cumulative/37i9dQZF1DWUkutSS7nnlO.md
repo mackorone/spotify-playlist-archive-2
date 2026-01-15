@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUkutSS7nnlO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUkutSS7nnlO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUkutSS7nnlO)
+[pretty](/playlists/pretty/37i9dQZF1DWUkutSS7nnlO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUkutSS7nnlO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUkutSS7nnlO)
 
 ### [Soul Dance Party](https://open.spotify.com/playlist/37i9dQZF1DWUkutSS7nnlO)
 

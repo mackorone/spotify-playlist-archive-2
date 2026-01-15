@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8AT3JQY6jMQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8AT3JQY6jMQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8AT3JQY6jMQ)
+[pretty](/playlists/pretty/37i9dQZF1DX8AT3JQY6jMQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8AT3JQY6jMQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8AT3JQY6jMQ)
 
 ### [Legendary Aussie Classics](https://open.spotify.com/playlist/37i9dQZF1DX8AT3JQY6jMQ)
 

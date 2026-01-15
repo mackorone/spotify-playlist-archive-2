@@ -1,15 +1,15 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain](/playlists/plain/37i9dQZF1DWY5zqHqQrusq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY5zqHqQrusq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain](/playlists/plain/37i9dQZF1DWY5zqHqQrusq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY5zqHqQrusq)
 
 ### [Barefoot and Free](https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq)
 
 > Chill, take a long walk and clear your mind\. Cover: Caleb Awiti
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,161 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,182 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 |
-| 2 | [Greenland](https://open.spotify.com/track/66Nj1QNmgmEM6O4MZAOOBP) | [Athieno](https://open.spotify.com/artist/2Mkt9y1gnzybZCa5R8CNBr), [Noel Grass](https://open.spotify.com/artist/1a6i0GGbOBR2MQykr2H1vG) | [Greenland](https://open.spotify.com/album/1YbhnfrTvpigmqeZMm2nu4) | 3:41 |
+| 2 | [Greenland](https://open.spotify.com/track/66Nj1QNmgmEM6O4MZAOOBP) | [ATTHIENO](https://open.spotify.com/artist/5nUoAiLFVvbPAvuJds1vvw), [Noel Grass](https://open.spotify.com/artist/1a6i0GGbOBR2MQykr2H1vG) | [Greenland](https://open.spotify.com/album/1YbhnfrTvpigmqeZMm2nu4) | 3:41 |
 | 3 | [EAST2HWOOD](https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [EAST2HWOOD](https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV) | 3:28 |
 | 4 | [Sexy In Chanel](https://open.spotify.com/track/4MkgXmqA9xpmAAr4Mp1grJ) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [I WISH I WAS HONEST](https://open.spotify.com/album/1Tv0ZJXSTMZ7lI47lFvY1J) | 3:26 |
 | 5 | [OASIS](https://open.spotify.com/track/4mY9viBrQYRVOOINLmwI1I) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 3:34 |

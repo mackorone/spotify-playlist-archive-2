@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQFf8ygD236.md) - [plain](/playlists/plain/37i9dQZF1DWUQFf8ygD236) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUQFf8ygD236)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQFf8ygD236.md) - [plain](/playlists/plain/37i9dQZF1DWUQFf8ygD236) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUQFf8ygD236)
 
 ### [SAHM Spotlight: Asim Azhar](https://open.spotify.com/playlist/37i9dQZF1DWUQFf8ygD236)
 

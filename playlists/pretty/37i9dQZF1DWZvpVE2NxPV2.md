@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain](/playlists/plain/37i9dQZF1DWZvpVE2NxPV2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZvpVE2NxPV2)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain](/playlists/plain/37i9dQZF1DWZvpVE2NxPV2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZvpVE2NxPV2)
 
 ### [Hatha Yoga](https://open.spotify.com/playlist/37i9dQZF1DWZvpVE2NxPV2)
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,459 likes - 173 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,637 likes - 173 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

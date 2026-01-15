@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKJzTTeHfTN.md) - [plain](/playlists/plain/37i9dQZF1DWWKJzTTeHfTN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWKJzTTeHfTN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKJzTTeHfTN.md) - [plain](/playlists/plain/37i9dQZF1DWWKJzTTeHfTN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWKJzTTeHfTN)
 
 ### [TOMORROW X TOGETHER WORLD TOUR <ACT : SWEET MIRAGE> FINALE](https://open.spotify.com/playlist/37i9dQZF1DWWKJzTTeHfTN)
 
 > Enjoy theTOMORROW X TOGETHER Seoul world tour LIVE SET including the voices of them on stage! \(투머로우바이투게더의 무대 멘트와 목소리가 포함된 서울 월드투어 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,900 likes - 25 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,915 likes - 25 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

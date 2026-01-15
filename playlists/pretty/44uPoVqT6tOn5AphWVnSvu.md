@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/44uPoVqT6tOn5AphWVnSvu.md) - [plain](/playlists/plain/44uPoVqT6tOn5AphWVnSvu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/44uPoVqT6tOn5AphWVnSvu)
+pretty - [cumulative](/playlists/cumulative/44uPoVqT6tOn5AphWVnSvu.md) - [plain](/playlists/plain/44uPoVqT6tOn5AphWVnSvu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/44uPoVqT6tOn5AphWVnSvu)
 
 ### [Happy Birthday Prince!](https://open.spotify.com/playlist/44uPoVqT6tOn5AphWVnSvu)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 228 likes - 46 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 227 likes - 46 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

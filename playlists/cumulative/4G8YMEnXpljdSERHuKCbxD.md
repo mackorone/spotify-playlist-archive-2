@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4G8YMEnXpljdSERHuKCbxD.md) - cumulative - [plain](/playlists/plain/4G8YMEnXpljdSERHuKCbxD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4G8YMEnXpljdSERHuKCbxD)
+[pretty](/playlists/pretty/4G8YMEnXpljdSERHuKCbxD.md) - cumulative - [plain](/playlists/plain/4G8YMEnXpljdSERHuKCbxD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4G8YMEnXpljdSERHuKCbxD)
 
 ### [Now Playing at Warner Records](https://open.spotify.com/playlist/4G8YMEnXpljdSERHuKCbxD)
 

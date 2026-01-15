@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain](/playlists/plain/37i9dQZF1DX8OjqpsBZy3r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8OjqpsBZy3r)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain](/playlists/plain/37i9dQZF1DX8OjqpsBZy3r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8OjqpsBZy3r)
 
 ### [Viral Country](https://open.spotify.com/playlist/37i9dQZF1DX8OjqpsBZy3r)
 
 > They call him Mr\. Saturday Night...
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,860 likes - 95 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,865 likes - 95 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

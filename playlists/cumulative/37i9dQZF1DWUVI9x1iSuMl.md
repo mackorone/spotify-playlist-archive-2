@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUVI9x1iSuMl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUVI9x1iSuMl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUVI9x1iSuMl)
+[pretty](/playlists/pretty/37i9dQZF1DWUVI9x1iSuMl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUVI9x1iSuMl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUVI9x1iSuMl)
 
 ### [Ambient X Takeover: Foam and Sand](https://open.spotify.com/playlist/37i9dQZF1DWUVI9x1iSuMl)
 

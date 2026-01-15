@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain](/playlists/plain/37i9dQZF1DXd5DCuoVuFY3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd5DCuoVuFY3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain](/playlists/plain/37i9dQZF1DXd5DCuoVuFY3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXd5DCuoVuFY3)
 
 ### [House Party w/ Confidence Man](https://open.spotify.com/playlist/37i9dQZF1DXd5DCuoVuFY3)
 
 > Con Man just pulled up to your party!! Crank with maximum intent 🔊
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,672 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,210 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

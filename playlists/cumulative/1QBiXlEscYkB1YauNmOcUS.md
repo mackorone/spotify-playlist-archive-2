@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1QBiXlEscYkB1YauNmOcUS.md) - cumulative - [plain](/playlists/plain/1QBiXlEscYkB1YauNmOcUS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1QBiXlEscYkB1YauNmOcUS)
+[pretty](/playlists/pretty/1QBiXlEscYkB1YauNmOcUS.md) - cumulative - [plain](/playlists/plain/1QBiXlEscYkB1YauNmOcUS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1QBiXlEscYkB1YauNmOcUS)
 
 ### [Top Party Hits 2025](https://open.spotify.com/playlist/1QBiXlEscYkB1YauNmOcUS)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcRTDTjL53b.md) - [plain](/playlists/plain/37i9dQZF1DWVcRTDTjL53b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVcRTDTjL53b)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcRTDTjL53b.md) - [plain](/playlists/plain/37i9dQZF1DWVcRTDTjL53b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVcRTDTjL53b)
 
 ### [Coup de foudre](https://open.spotify.com/playlist/37i9dQZF1DWVcRTDTjL53b)
 
 > La bande son des premiers amours
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,761 likes - 44 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,801 likes - 44 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

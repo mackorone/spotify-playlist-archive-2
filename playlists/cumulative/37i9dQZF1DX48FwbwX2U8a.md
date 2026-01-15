@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX48FwbwX2U8a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX48FwbwX2U8a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX48FwbwX2U8a)
+[pretty](/playlists/pretty/37i9dQZF1DX48FwbwX2U8a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX48FwbwX2U8a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX48FwbwX2U8a)
 
 ### [Sopa y Seco](https://open.spotify.com/playlist/37i9dQZF1DX48FwbwX2U8a)
 

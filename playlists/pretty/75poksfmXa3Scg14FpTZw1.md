@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/75poksfmXa3Scg14FpTZw1.md) - [plain](/playlists/plain/75poksfmXa3Scg14FpTZw1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/75poksfmXa3Scg14FpTZw1)
+pretty - [cumulative](/playlists/cumulative/75poksfmXa3Scg14FpTZw1.md) - [plain](/playlists/plain/75poksfmXa3Scg14FpTZw1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/75poksfmXa3Scg14FpTZw1)
 
 ### [TPA x TuneCore: Hype List](https://open.spotify.com/playlist/75poksfmXa3Scg14FpTZw1)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW2c0C8Vb2IR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW2c0C8Vb2IR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW2c0C8Vb2IR)
+[pretty](/playlists/pretty/37i9dQZF1DWW2c0C8Vb2IR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW2c0C8Vb2IR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW2c0C8Vb2IR)
 
 ### [All New Jazz](https://open.spotify.com/playlist/37i9dQZF1DWW2c0C8Vb2IR)
 

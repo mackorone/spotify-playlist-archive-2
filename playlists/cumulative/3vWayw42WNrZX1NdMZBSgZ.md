@@ -1,6 +1,6 @@
-[pretty](/playlists/pretty/3vWayw42WNrZX1NdMZBSgZ.md) - cumulative - [plain](/playlists/plain/3vWayw42WNrZX1NdMZBSgZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3vWayw42WNrZX1NdMZBSgZ)
+[pretty](/playlists/pretty/3vWayw42WNrZX1NdMZBSgZ.md) - cumulative - [plain](/playlists/plain/3vWayw42WNrZX1NdMZBSgZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3vWayw42WNrZX1NdMZBSgZ)
 
-### [Pop Latin Hits 2025](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
+### [Pop Latin Hits 2026](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro  Shakira, and more!!! Cover:Trueno
 

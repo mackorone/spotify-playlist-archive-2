@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain](/playlists/plain/37i9dQZF1DWXzvsDswCrbR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXzvsDswCrbR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain](/playlists/plain/37i9dQZF1DWXzvsDswCrbR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXzvsDswCrbR)
 
 ### [The Sound of Bounce](https://open.spotify.com/playlist/37i9dQZF1DWXzvsDswCrbR)
 

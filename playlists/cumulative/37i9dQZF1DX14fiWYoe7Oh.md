@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX14fiWYoe7Oh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX14fiWYoe7Oh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX14fiWYoe7Oh)
+[pretty](/playlists/pretty/37i9dQZF1DX14fiWYoe7Oh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX14fiWYoe7Oh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX14fiWYoe7Oh)
 
 ### [K\-Pop Generations](https://open.spotify.com/playlist/37i9dQZF1DX14fiWYoe7Oh)
 

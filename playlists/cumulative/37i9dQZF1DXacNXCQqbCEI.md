@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXacNXCQqbCEI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXacNXCQqbCEI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXacNXCQqbCEI)
+[pretty](/playlists/pretty/37i9dQZF1DXacNXCQqbCEI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXacNXCQqbCEI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXacNXCQqbCEI)
 
 ### [Eléctrica Selvática](https://open.spotify.com/playlist/37i9dQZF1DXacNXCQqbCEI)
 

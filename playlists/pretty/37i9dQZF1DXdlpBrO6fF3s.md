@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlpBrO6fF3s.md) - [plain](/playlists/plain/37i9dQZF1DXdlpBrO6fF3s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdlpBrO6fF3s)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlpBrO6fF3s.md) - [plain](/playlists/plain/37i9dQZF1DXdlpBrO6fF3s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdlpBrO6fF3s)
 
 ### [This Is ATEEZ](https://open.spotify.com/playlist/37i9dQZF1DXdlpBrO6fF3s)
 
 > I'm The One! A TEEnager Z is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,883 likes - 190 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,246 likes - 190 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0I2w6UmIBm1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0I2w6UmIBm1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0I2w6UmIBm1)
+[pretty](/playlists/pretty/37i9dQZF1DX0I2w6UmIBm1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0I2w6UmIBm1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0I2w6UmIBm1)
 
 ### [Faith & Folk](https://open.spotify.com/playlist/37i9dQZF1DX0I2w6UmIBm1)
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Land of Color
 
-148 songs - 8 hr 29 min
+150 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [abundant life](https://open.spotify.com/track/2XLOqOErZ5fLwBSmTSelqv) | [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [abundant life](https://open.spotify.com/album/3bmvdIubWYfE1XTAmcdrmv) | 4:10 | 2025-11-07 |  |
 | [Adaline](https://open.spotify.com/track/51uzqL3BJQVRRRrjK2xNAj) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Adaline](https://open.spotify.com/album/6PM3WozGlwU0vMzOBZqoJX) | 2:23 | 2025-06-13 |  |
 | [After All This Time](https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [After All This Time](https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2) | 3:38 | 2025-11-07 |  |
+| [All My Love](https://open.spotify.com/track/16V6PZgE0c35dOdiWXvWuA) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [All My Love](https://open.spotify.com/album/1RZZDgzZS5YuNydRqvV8jg) | 2:41 | 2026-01-10 |  |
 | [All That I Am](https://open.spotify.com/track/1cmSJaNKWE4lJ1Eqiaiyyh) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Hannah Boesen](https://open.spotify.com/artist/3jcuHlyRJaIgJEaAE4MPv9) | [All That I Am](https://open.spotify.com/album/1RlQyS6TsQgEdTBjwC0LKN) | 4:01 | 2025-11-07 |  |
 | [Aloha Goodbye](https://open.spotify.com/track/1BWDndcC1Padly51LgTu8z) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Aloha Goodbye](https://open.spotify.com/album/31qmUHsGqAFGllGRFmbyv3) | 2:03 | 2025-06-13 | 2025-08-09 |
 | [Alone With You](https://open.spotify.com/track/7isyx7w05tPTItfoheZ7TA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [The Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/2IDUIQkIrI8EREUvVNPxm2) | 2:34 | 2025-06-13 | 2025-08-09 |
@@ -38,6 +39,7 @@
 | [Cold Of The Night](https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7) | [Ivan Castro](https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14) | [Cold Of The Night](https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV) | 3:43 | 2025-11-07 |  |
 | [Come Back To Me \(Father's Song\)](https://open.spotify.com/track/2gLXY5Hrqik8eZo5cNliur) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Come Back To Me \(Father's Song\)](https://open.spotify.com/album/0Hhn9qin0XYC4ExuVaGMmn) | 3:58 | 2025-07-11 |  |
 | [Coming Clean](https://open.spotify.com/track/6pkstlQTfCmJ8kILpfFx1R) | [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd), [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez), [William Toll](https://open.spotify.com/artist/14Lp3dCGN7nxtcR7tmwWSv) | [Coming Clean](https://open.spotify.com/album/7lAOoGeKqTxs8OC5pV7DhS) | 2:23 | 2025-08-08 | 2025-11-08 |
+| [Dead of Winter](https://open.spotify.com/track/2AmyiYMxIRUMeayl63jSAx) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Dead of Winter](https://open.spotify.com/album/6KJLsuuF099A0N4LAA0c2H) | 3:27 | 2026-01-10 |  |
 | [Difference Maker](https://open.spotify.com/track/7yWunlBSRiy8Flcq6OjWw1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Difference Maker](https://open.spotify.com/album/3cEFhJEwZV810Zdb3rxFyQ) | 5:07 | 2025-11-07 |  |
 | [Don't Miss It](https://open.spotify.com/track/4oARfHBqPe7kmCTqfm5lq1) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Don't Miss It](https://open.spotify.com/album/1JCtzOCHls5nw2ZZi0rDUW) | 3:15 | 2025-12-12 |  |
 | [Dopamine and Jesus](https://open.spotify.com/track/4iVq3rMJb1QnJXFoSphDy7) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [Dopamine and Jesus](https://open.spotify.com/album/4Y4rMsVeJAuiICzHEngfEN) | 3:24 | 2025-06-13 | 2025-11-08 |
@@ -121,7 +123,7 @@
 | [superbloom \- Acoustic](https://open.spotify.com/track/0sUj4GFs3WP6g8aNKx5roi) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5) | [superbloom \(Acoustic\)](https://open.spotify.com/album/2YfNOmiriEXVBMjDx501Tc) | 2:41 | 2025-06-13 | 2025-08-09 |
 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 | 2025-06-13 |  |
 | [Thankful](https://open.spotify.com/track/2SsKKBjgtKjOhsrKNeM5nN) | [John Long](https://open.spotify.com/artist/3MvG2GuTUyc26loK7bjclg) | [Thankful](https://open.spotify.com/album/7wtPj6xMVB7Bp3ojKG5k6x) | 4:46 | 2025-12-12 |  |
-| [The Cross Once Was a Tree](https://open.spotify.com/track/72e6iXRqXnyb66UGLHti02) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [The Cross Once Was a Tree](https://open.spotify.com/album/1XKTgbCFGPsg9Xk3N5Vvd4) | 4:29 | 2025-12-12 |  |
+| [The Cross Once Was a Tree](https://open.spotify.com/track/72e6iXRqXnyb66UGLHti02) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [The Cross Once Was a Tree](https://open.spotify.com/album/1XKTgbCFGPsg9Xk3N5Vvd4) | 4:29 | 2025-12-12 | 2026-01-15 |
 | [The Fence](https://open.spotify.com/track/0Zm5s1se6F6ns4y9s3JLxl) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [The Fence](https://open.spotify.com/album/7lEbC8i3ZWrsCPgvMHUHXP) | 3:22 | 2025-06-13 | 2025-11-08 |
 | [The Lord Is My Shepherd](https://open.spotify.com/track/06XwBbs5yjVtjHA1vcWbyL) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o), [Valerie Guerra](https://open.spotify.com/artist/5stAPRk6DmzRWm3jCLSzmw) | [Jesus](https://open.spotify.com/album/4jMmHLhkvQToncD10srcty) | 3:24 | 2025-06-13 |  |
 | [The Man I Could Be](https://open.spotify.com/track/1qV7E6ySEKvA07R3gtREZZ) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [The Man I Could Be](https://open.spotify.com/album/6iJEVynFX3iB3z2zohedvN) | 3:07 | 2025-12-12 |  |
@@ -137,7 +139,7 @@
 | [true north](https://open.spotify.com/track/5OCFDgJg0sWhE1wGjagdUi) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [true north](https://open.spotify.com/album/4zI2Uz63Zc8Bem3Z35sX00) | 2:41 | 2025-06-13 | 2025-08-09 |
 | [Trust In God \- Acoustic](https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Trust In God \(Acoustic\)](https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay) | 5:07 | 2025-06-13 |  |
 | [Unknown](https://open.spotify.com/track/7moDLPBLOul0Kg9SG17Ovl) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO) | [Unknown](https://open.spotify.com/album/20Ienx71C0YfecRGtXsgWt) | 2:19 | 2025-08-08 | 2025-11-08 |
-| [Unlike Anything Else](https://open.spotify.com/track/0Trizx3u37AblSR9b7QknM) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Unlike Anything Else](https://open.spotify.com/album/4o51hE5KQFS9j86RbcsFWI) | 2:17 | 2025-12-12 |  |
+| [Unlike Anything Else](https://open.spotify.com/track/0Trizx3u37AblSR9b7QknM) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Unlike Anything Else](https://open.spotify.com/album/4o51hE5KQFS9j86RbcsFWI) | 2:17 | 2025-12-12 | 2026-01-15 |
 | [Useless](https://open.spotify.com/track/3aHCy6JN3Rd50zYSyvqWcm) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Useless](https://open.spotify.com/album/31FsHpo1uaTCxGQyQIg1sl) | 2:58 | 2025-11-07 |  |
 | [Wait \- Radio Version](https://open.spotify.com/track/5e6dXG9W7VFpTbeaErPMyr) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait](https://open.spotify.com/album/4vaz0lbQo1hsa7rfUliz3R) | 3:44 | 2025-08-08 |  |
 | [Wake Me Up](https://open.spotify.com/track/54cIR0H4ZykDay7XViCS47) | [Justin Gambino](https://open.spotify.com/artist/6hlIXwl3renjvnuITo9NH5) | [Just Like Jesus](https://open.spotify.com/album/1JpAKQDmxRSIM2QpMnITfL) | 3:32 | 2025-08-08 |  |

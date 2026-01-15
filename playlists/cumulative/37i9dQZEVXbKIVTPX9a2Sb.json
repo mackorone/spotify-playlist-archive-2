@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Only Hits",
+        "url": "https://open.spotify.com/album/4LqKKEC8ghEvbMW2xcs4eZ"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version",
+      "url": "https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD"
+    },
+    {
+      "album": {
         "name": "-10 000 AURA",
         "url": "https://open.spotify.com/album/2EAd8wCF6Dux2M7MZco95m"
       },
@@ -1884,7 +1906,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 171722,
       "name": "AM4",
       "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
@@ -4142,7 +4164,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173917,
       "name": "Bbejbb",
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
@@ -5340,7 +5362,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 168000,
       "name": "BlockSuperstars",
       "url": "https://open.spotify.com/track/0PL98bBO5gSxfyMEotVAvz"
@@ -20555,6 +20577,32 @@
     },
     {
       "album": {
+        "name": "BOYBAND",
+        "url": "https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB"
+      },
+      "artists": [
+        {
+          "name": "GUFRAU",
+          "url": "https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q"
+        },
+        {
+          "name": "Victor Kal.",
+          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Jak Robot",
+      "url": "https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H"
+    },
+    {
+      "album": {
         "name": "Detektor III",
         "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
       },
@@ -29852,7 +29900,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221202,
       "name": "Nem\u00e1me",
       "url": "https://open.spotify.com/track/7k7FJqta8D0oq9vmMytl3p"
@@ -32130,7 +32178,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 253376,
       "name": "OHEN",
       "url": "https://open.spotify.com/track/7IaMtCrTS0d9wZ6OFCXDyK"
@@ -33497,6 +33545,32 @@
     },
     {
       "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/7BBGsKeuO9m0shHaMpHCTk"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279962,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB"
+    },
+    {
+      "album": {
         "name": "Papapa",
         "url": "https://open.spotify.com/album/1fOaQ3oF3ZiK4A6D0Vnblp"
       },
@@ -34850,7 +34924,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192113,
       "name": "Posledn\u00e1",
       "url": "https://open.spotify.com/track/2SyvFB1QnBAZene0lOV786"
@@ -38102,7 +38176,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
@@ -42636,7 +42710,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 158010,
       "name": "St\u00e1le som",
       "url": "https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA"
@@ -43170,7 +43244,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165618,
       "name": "Svoboda",
       "url": "https://open.spotify.com/track/6QMXFOrO3SLcemX2lGRVP1"
@@ -46342,6 +46416,28 @@
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+    },
+    {
+      "album": {
+        "name": "TVOJE O\u010cI",
+        "url": "https://open.spotify.com/album/5yzjPwskfgaow94xwL68Ru"
+      },
+      "artists": [
+        {
+          "name": "4rano",
+          "url": "https://open.spotify.com/artist/2yzKg373IWFA1nZINR8J8f"
+        },
+        {
+          "name": "krystuffek",
+          "url": "https://open.spotify.com/artist/4XVM1ust5o0V7SdEPNnjdc"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120119,
+      "name": "TVOJE O\u010cI",
+      "url": "https://open.spotify.com/track/14sgVMJqy2XtkjrToAvtgS"
     },
     {
       "album": {
@@ -51376,6 +51472,24 @@
       "duration_ms": 233093,
       "name": "Z ul\u00edc von",
       "url": "https://open.spotify.com/track/2DaJR1064J9edEgFbMRcrt"
+    },
+    {
+      "album": {
+        "name": "ZA KATREM",
+        "url": "https://open.spotify.com/album/5gsrZMbTqY6UfDcdOLymLN"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ZA KATREM",
+      "url": "https://open.spotify.com/track/7m2qiAZor7LHaDXk2DeuyI"
     },
     {
       "album": {

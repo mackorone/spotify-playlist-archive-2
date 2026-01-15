@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTAZo89d5U6t.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTAZo89d5U6t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTAZo89d5U6t)
+[pretty](/playlists/pretty/37i9dQZF1DWTAZo89d5U6t.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTAZo89d5U6t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTAZo89d5U6t)
 
 ### [Teasing Master Takagi\-san からかい上手の高木さん](https://open.spotify.com/playlist/37i9dQZF1DWTAZo89d5U6t)
 

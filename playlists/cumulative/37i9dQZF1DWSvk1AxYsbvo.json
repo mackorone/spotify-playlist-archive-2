@@ -724,7 +724,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139285,
       "name": "Chocolate, candy, bread, love and dreams!",
       "url": "https://open.spotify.com/track/0Jj5gPHhsrk4m6VQVuhKpU"
@@ -2773,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "Night, Snow",
+        "url": "https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229625,
+      "name": "Night, Snow",
+      "url": "https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki"
+    },
+    {
+      "album": {
         "name": "Notting Hill",
         "url": "https://open.spotify.com/album/5mo4kRrvgpr13QAxNrkBn3"
       },
@@ -4016,7 +4034,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
@@ -4088,7 +4106,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 232956,
       "name": "To you.",
       "url": "https://open.spotify.com/track/60KO4Jd3LaG7XOJflLZ224"
@@ -4395,6 +4413,24 @@
     },
     {
       "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "While You're Sleeping, I Am",
+      "url": "https://open.spotify.com/track/4kuXj6o4xIeUMNYK0NmrDf"
+    },
+    {
+      "album": {
         "name": "Willow Tree",
         "url": "https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV"
       },
@@ -4562,6 +4598,24 @@
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
+    },
+    {
+      "album": {
+        "name": "35th YOO JAE HA MUSIC CONCOURS",
+        "url": "https://open.spotify.com/album/7xszfeG9bdeA55y2xHg8rG"
+      },
+      "artists": [
+        {
+          "name": "YeBon Oh",
+          "url": "https://open.spotify.com/artist/7joAnohBJxINddodolidFi"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/1S3L6HqrQKcVkPoFbRVy7P"
     },
     {
       "album": {

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain](/playlists/plain/37i9dQZF1DWXlntHTG08uC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXlntHTG08uC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain](/playlists/plain/37i9dQZF1DWXlntHTG08uC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXlntHTG08uC)
 
 ### [Sleep Frequency](https://open.spotify.com/playlist/37i9dQZF1DWXlntHTG08uC)
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,217 likes - 188 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,360 likes - 188 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

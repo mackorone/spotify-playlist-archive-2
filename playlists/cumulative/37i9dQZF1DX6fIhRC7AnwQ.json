@@ -187,7 +187,7 @@
     },
     {
       "album": {
-        "name": "The Lark Ascending collection",
+        "name": "The Lark Ascending Collection",
         "url": "https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy"
       },
       "artists": [
@@ -196,12 +196,12 @@
           "url": "https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm"
         },
         {
-          "name": "Vernon Handley",
-          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
-        },
-        {
           "name": "London Philharmonic Orchestra",
           "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
         }
       ],
       "date_added": "2021-04-20",

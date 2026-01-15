@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWV0NdeXmnYpT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV0NdeXmnYpT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV0NdeXmnYpT)
+[pretty](/playlists/pretty/37i9dQZF1DWV0NdeXmnYpT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV0NdeXmnYpT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWV0NdeXmnYpT)
 
 ### [The Disastrous Life of Saiki K\. 斉木楠雄のΨ難 ](https://open.spotify.com/playlist/37i9dQZF1DWV0NdeXmnYpT)
 

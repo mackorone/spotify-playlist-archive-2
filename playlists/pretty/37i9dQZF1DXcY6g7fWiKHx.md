@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain](/playlists/plain/37i9dQZF1DXcY6g7fWiKHx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcY6g7fWiKHx)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain](/playlists/plain/37i9dQZF1DXcY6g7fWiKHx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcY6g7fWiKHx)
 
 ### [Myd's track IDs](https://open.spotify.com/playlist/37i9dQZF1DXcY6g7fWiKHx)
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,149 likes - 311 songs - 1 day 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,231 likes - 311 songs - 1 day 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

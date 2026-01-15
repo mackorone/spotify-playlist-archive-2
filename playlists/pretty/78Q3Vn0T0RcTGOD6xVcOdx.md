@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain](/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx)
+pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain](/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx)
 
 ### [Today’s Top Hits ](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
 
 > 
 
-[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 474 likes - 276 songs - 15 hr 46 min
+[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 476 likes - 279 songs - 15 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,5 +284,8 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 274 | [It's Beginning to Look a Lot Like Christmas \- Live](https://open.spotify.com/track/5qicKEeKmLPWH6qRxfpcIx) | [David Zurita](https://open.spotify.com/artist/5XGAdmgRO0PKYzCHtO8qbx), [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Christmas Acoustic Sessions](https://open.spotify.com/album/3E1mzOZq2T7fgzVO13KkPu) | 3:10 |
 | 275 | [Ageless and Evergreen](https://open.spotify.com/track/53wavi3G6qo2YaTXeOInZl) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Ageless and Evergreen](https://open.spotify.com/album/4EkG6nIOlVAyi5yoJqFvXy) | 3:06 |
 | 276 | [Gold \- Radio Edit](https://open.spotify.com/track/1uSzgdzEJaTqGlPmduRzgg) | [Rob le Duc](https://open.spotify.com/artist/1sTi49hyM8Eu6oqU39raFt) | [Gold](https://open.spotify.com/album/4dVtF1fyCW3lp2Uxov1VfE) | 3:36 |
+| 277 | [No Me Importa](https://open.spotify.com/track/1bBXt2ESu7Uvkq2MiOerLf) | [Nevenka Siberia](https://open.spotify.com/artist/0HWsF7Qh4xm5F3xBjnn97P) | [Cosas que Decir](https://open.spotify.com/album/2QnXMdTUqkfhfZfbSBvxTL) | 3:37 |
+| 278 | [Inconfundible](https://open.spotify.com/track/5cpxp9quQreC2AVjzzJulx) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Inconfundible](https://open.spotify.com/album/2IC8E1ZL9E44HJsOPtklsF) | 3:37 |
+| 279 | [Calle amanecer](https://open.spotify.com/track/6zRO3xl2W8zKqTLII5pJ4H) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Calle amanecer](https://open.spotify.com/album/4DsV2paVA0niwYG51jLEE5) | 3:32 |
 
-Snapshot ID: `AAAA8iDkHA+0jJi3VDYjDCBzezgwtUzb`
+Snapshot ID: `AAAA9XY6icAVlEgkihN94wXbWzKyjaqR`

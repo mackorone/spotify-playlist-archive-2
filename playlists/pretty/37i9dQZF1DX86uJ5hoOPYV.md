@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX86uJ5hoOPYV.md) - [plain](/playlists/plain/37i9dQZF1DX86uJ5hoOPYV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX86uJ5hoOPYV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX86uJ5hoOPYV.md) - [plain](/playlists/plain/37i9dQZF1DX86uJ5hoOPYV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX86uJ5hoOPYV)
 
 ### [SAHM Spotlight: Sharmeen Obaid Chinoy](https://open.spotify.com/playlist/37i9dQZF1DX86uJ5hoOPYV)
 

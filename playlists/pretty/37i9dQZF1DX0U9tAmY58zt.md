@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9tAmY58zt.md) - [plain](/playlists/plain/37i9dQZF1DX0U9tAmY58zt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0U9tAmY58zt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9tAmY58zt.md) - [plain](/playlists/plain/37i9dQZF1DX0U9tAmY58zt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0U9tAmY58zt)
 
 ### [Corona Capital Forever](https://open.spotify.com/playlist/37i9dQZF1DX0U9tAmY58zt)
 

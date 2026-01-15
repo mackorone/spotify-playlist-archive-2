@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Calin",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: GUFRAU, Victor Kal.",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -578,7 +578,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165245,
       "name": "Chiary Sv\u011bt",
       "url": "https://open.spotify.com/track/4JxpY16R7m9JDv9HYCivfk"
@@ -1554,6 +1554,32 @@
       "duration_ms": 188936,
       "name": "In\u00e9 Plemen\u00e1",
       "url": "https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr"
+    },
+    {
+      "album": {
+        "name": "BOYBAND",
+        "url": "https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB"
+      },
+      "artists": [
+        {
+          "name": "GUFRAU",
+          "url": "https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q"
+        },
+        {
+          "name": "Victor Kal.",
+          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Jak Robot",
+      "url": "https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H"
     },
     {
       "album": {

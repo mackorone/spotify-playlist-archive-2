@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1MXbpQ8OiNsYtQxiXexPJ7.md) - [plain](/playlists/plain/1MXbpQ8OiNsYtQxiXexPJ7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1MXbpQ8OiNsYtQxiXexPJ7)
+pretty - [cumulative](/playlists/cumulative/1MXbpQ8OiNsYtQxiXexPJ7.md) - [plain](/playlists/plain/1MXbpQ8OiNsYtQxiXexPJ7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1MXbpQ8OiNsYtQxiXexPJ7)
 
 ### [Sunset in Austin](https://open.spotify.com/playlist/1MXbpQ8OiNsYtQxiXexPJ7)
 

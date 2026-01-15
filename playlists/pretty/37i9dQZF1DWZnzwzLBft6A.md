@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnzwzLBft6A.md) - [plain](/playlists/plain/37i9dQZF1DWZnzwzLBft6A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZnzwzLBft6A)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnzwzLBft6A.md) - [plain](/playlists/plain/37i9dQZF1DWZnzwzLBft6A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZnzwzLBft6A)
 
 ### [This Is Bach](https://open.spotify.com/playlist/37i9dQZF1DWZnzwzLBft6A)
 
 > He perfected counterpoint, set the bar for cello suites, and absolutely loved a curly white wig: JS Bach played a huge part in shaping all the classical music we enjoy today\. Discover why, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,569 likes - 72 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,271 likes - 72 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

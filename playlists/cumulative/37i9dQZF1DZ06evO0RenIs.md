@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO0RenIs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0RenIs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0RenIs)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO0RenIs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0RenIs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO0RenIs)
 
 ### [This Is Phoenix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RenIs)
 

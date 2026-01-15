@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain](/playlists/plain/37i9dQZF1DWXN6CDDJDZSt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXN6CDDJDZSt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain](/playlists/plain/37i9dQZF1DWXN6CDDJDZSt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXN6CDDJDZSt)
 
 ### [This Is Puccini](https://open.spotify.com/playlist/37i9dQZF1DWXN6CDDJDZSt)
 
 > An introduction to Giacomo Puccini, one of the great Italian opera composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,231 likes - 72 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,390 likes - 72 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

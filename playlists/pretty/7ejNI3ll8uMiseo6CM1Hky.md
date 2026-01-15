@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain](/playlists/plain/7ejNI3ll8uMiseo6CM1Hky) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7ejNI3ll8uMiseo6CM1Hky)
+pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain](/playlists/plain/7ejNI3ll8uMiseo6CM1Hky) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7ejNI3ll8uMiseo6CM1Hky)
 
 ### [Songs that remind me I'm a furry](https://open.spotify.com/playlist/7ejNI3ll8uMiseo6CM1Hky)
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 3,910 likes - 172 songs - 9 hr 44 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 3,947 likes - 172 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain](/playlists/plain/37i9dQZF1DWT47jrFbmL3z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT47jrFbmL3z)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain](/playlists/plain/37i9dQZF1DWT47jrFbmL3z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT47jrFbmL3z)
 
 ### [This is NIKI](https://open.spotify.com/playlist/37i9dQZF1DWT47jrFbmL3z)
 
 > Take a chance with NIKI because even if she lets go, you’ll still be in her heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,341 likes - 76 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,083 likes - 76 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

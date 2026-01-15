@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX04PBTahKVhU.md) - [plain](/playlists/plain/37i9dQZF1DX04PBTahKVhU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX04PBTahKVhU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX04PBTahKVhU.md) - [plain](/playlists/plain/37i9dQZF1DX04PBTahKVhU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX04PBTahKVhU)
 
 ### [My Fault: London Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX04PBTahKVhU)
 
 > When love is your biggest risk, is it worth taking? Listen to the music from My Fault: London, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,305 likes - 27 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,382 likes - 27 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

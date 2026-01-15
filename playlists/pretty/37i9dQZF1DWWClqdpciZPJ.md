@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWClqdpciZPJ.md) - [plain](/playlists/plain/37i9dQZF1DWWClqdpciZPJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWClqdpciZPJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWClqdpciZPJ.md) - [plain](/playlists/plain/37i9dQZF1DWWClqdpciZPJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWClqdpciZPJ)
 
 ### [The Irregular at Magic High School \-魔法科高校の劣等生\-](https://open.spotify.com/playlist/37i9dQZF1DWWClqdpciZPJ)
 
 > Music from "The Irregular at Magic High School"! /音楽で辿る「魔法科高校の劣等生」の世界。©2023 佐島 勤/KADOKAWA/魔法科高校3製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,116 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,137 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

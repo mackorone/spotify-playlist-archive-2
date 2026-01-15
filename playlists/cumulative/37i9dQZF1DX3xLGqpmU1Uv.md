@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3xLGqpmU1Uv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3xLGqpmU1Uv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3xLGqpmU1Uv)
+[pretty](/playlists/pretty/37i9dQZF1DX3xLGqpmU1Uv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3xLGqpmU1Uv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3xLGqpmU1Uv)
 
 ### [Los 60 México](https://open.spotify.com/playlist/37i9dQZF1DX3xLGqpmU1Uv)
 

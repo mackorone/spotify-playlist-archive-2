@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XkcocBAgP3.md) - [plain](/playlists/plain/37i9dQZF1DX4XkcocBAgP3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4XkcocBAgP3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XkcocBAgP3.md) - [plain](/playlists/plain/37i9dQZF1DX4XkcocBAgP3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4XkcocBAgP3)
 
 ### [This Is Luke Combs \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX4XkcocBAgP3)
 

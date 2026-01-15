@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX351Wyvsvwou.md) - [plain](/playlists/plain/37i9dQZF1DX351Wyvsvwou) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX351Wyvsvwou)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX351Wyvsvwou.md) - [plain](/playlists/plain/37i9dQZF1DX351Wyvsvwou) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX351Wyvsvwou)
 
 ### [Marvel Villains](https://open.spotify.com/playlist/37i9dQZF1DX351Wyvsvwou)
 
 > The most villainous songs from the Marvel Cinematic Universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,820 likes - 46 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,888 likes - 46 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

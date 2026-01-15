@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbpJ5ASfvLOo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbpJ5ASfvLOo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbpJ5ASfvLOo)
+[pretty](/playlists/pretty/37i9dQZF1DXbpJ5ASfvLOo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbpJ5ASfvLOo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbpJ5ASfvLOo)
 
 ### [Bro and Marble \(브로 앤 마블\)](https://open.spotify.com/playlist/37i9dQZF1DXbpJ5ASfvLOo)
 

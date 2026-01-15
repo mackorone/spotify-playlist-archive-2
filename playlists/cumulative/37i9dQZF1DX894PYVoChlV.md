@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX894PYVoChlV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX894PYVoChlV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX894PYVoChlV)
+[pretty](/playlists/pretty/37i9dQZF1DX894PYVoChlV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX894PYVoChlV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX894PYVoChlV)
 
 ### [Luis Miguel: Romances](https://open.spotify.com/playlist/37i9dQZF1DX894PYVoChlV)
 

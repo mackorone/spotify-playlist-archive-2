@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6spPs4oxQEPSWXyXzqg8CR.md) - cumulative - [plain](/playlists/plain/6spPs4oxQEPSWXyXzqg8CR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6spPs4oxQEPSWXyXzqg8CR)
+[pretty](/playlists/pretty/6spPs4oxQEPSWXyXzqg8CR.md) - cumulative - [plain](/playlists/plain/6spPs4oxQEPSWXyXzqg8CR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6spPs4oxQEPSWXyXzqg8CR)
 
 ### [Top Picks Urban](https://open.spotify.com/playlist/6spPs4oxQEPSWXyXzqg8CR)
 

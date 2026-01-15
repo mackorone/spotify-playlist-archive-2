@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain](/playlists/plain/6r8hObcpBOeuCd7Zua3L5E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6r8hObcpBOeuCd7Zua3L5E)
+pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain](/playlists/plain/6r8hObcpBOeuCd7Zua3L5E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6r8hObcpBOeuCd7Zua3L5E)
 
 ### [sped up songs \(2\)](https://open.spotify.com/playlist/6r8hObcpBOeuCd7Zua3L5E)
 
 > <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Sped up songs on the internet\. Sped up versions\. Sped up audio\. Speed audio\. Speed audios\. Speed up songs\. Nightcore\. Sped up nightcore.
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 23,786 likes - 51 songs - 2 hr 25 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 23,782 likes - 51 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

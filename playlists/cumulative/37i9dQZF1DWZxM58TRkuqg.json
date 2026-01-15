@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Maudy Ayunda",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Tohpati, Fabio Asher",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 265000,
       "name": "Bila (feat. Barsena Bestandhi) - Live From See You On Wednesday",
       "url": "https://open.spotify.com/track/6TAwbjw1LYQYXc5y0J9jKB"
@@ -2006,6 +2006,28 @@
       "duration_ms": 243087,
       "name": "Cinta Aku Bisa Apa",
       "url": "https://open.spotify.com/track/4nJoJe7PspYQMpqYch5ADK"
+    },
+    {
+      "album": {
+        "name": "Cinta Kita",
+        "url": "https://open.spotify.com/album/6E18fqcJuU2qEFicknkdgM"
+      },
+      "artists": [
+        {
+          "name": "Tohpati",
+          "url": "https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN"
+        },
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262700,
+      "name": "Cinta Kita",
+      "url": "https://open.spotify.com/track/65nZbfJLykiRVfuh2RHsii"
     },
     {
       "album": {
@@ -3417,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "I Don't Know Anymore (Live Session)",
+        "url": "https://open.spotify.com/album/7LC8lDS175rIUcWD83IAzo"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263906,
+      "name": "I Don't Know Anymore (Live Session)",
+      "url": "https://open.spotify.com/track/2sxP2jSVMq59dDj5nVpoTn"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Wanna Go Back Home",
         "url": "https://open.spotify.com/album/1yiw1YFdwvGrIuNjJ8uFMu"
       },
@@ -3494,7 +3534,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 172425,
       "name": "Ibu",
       "url": "https://open.spotify.com/track/7703o7Xvt7e5qxzjCEZJUy"
@@ -3816,6 +3856,24 @@
       "duration_ms": 197118,
       "name": "Jangan Lupa Pulang - Live at Aquarius Studio",
       "url": "https://open.spotify.com/track/25UXwOFQbSagKZfFEq6tlt"
+    },
+    {
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4"
+      },
+      "artists": [
+        {
+          "name": "Ifan Seventeen",
+          "url": "https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "Jangan Paksa Rindu - Beda",
+      "url": "https://open.spotify.com/track/79tbBuciPV221EozY3RKQv"
     },
     {
       "album": {
@@ -4918,7 +4976,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 208533,
       "name": "Kusedang Sayang-Sayangnya",
       "url": "https://open.spotify.com/track/2fKFVspszUehimxaizGrmt"
@@ -6559,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "Nyaman Yang Ku Pilih",
+        "url": "https://open.spotify.com/album/2wBKz6lJ27GQ98rsC8P8IU"
+      },
+      "artists": [
+        {
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Nyaman Yang Ku Pilih",
+      "url": "https://open.spotify.com/track/0DPLckXVQ5szKNjnYCVw25"
+    },
+    {
+      "album": {
         "name": "Membangun & Menghancurkan",
         "url": "https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86"
       },
@@ -7406,6 +7482,24 @@
       "duration_ms": 258845,
       "name": "Rumah",
       "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
+    },
+    {
+      "album": {
+        "name": "Rutinitas",
+        "url": "https://open.spotify.com/album/4SbeXXziAUz0hKhRxMbrnz"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "Rutinitas",
+      "url": "https://open.spotify.com/track/18g9AKRtXqa2D4sMpjsfc9"
     },
     {
       "album": {

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8Az5Y1rWM7C.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Az5Y1rWM7C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Az5Y1rWM7C)
+[pretty](/playlists/pretty/37i9dQZF1DX8Az5Y1rWM7C.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Az5Y1rWM7C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8Az5Y1rWM7C)
 
 ### [TRAPPERZ Presenta: Lo mejor del 2020](https://open.spotify.com/playlist/37i9dQZF1DX8Az5Y1rWM7C)
 

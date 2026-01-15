@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain](/playlists/plain/37i9dQZF1DWU65QzegR429) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU65QzegR429)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain](/playlists/plain/37i9dQZF1DWU65QzegR429) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU65QzegR429)
 
 ### [Latin Frequency](https://open.spotify.com/playlist/37i9dQZF1DWU65QzegR429)
 
 > Latin music making waves\. Cover: Apache & Reke
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,994 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,968 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

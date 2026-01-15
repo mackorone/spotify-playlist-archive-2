@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain](/playlists/plain/6Jpe4ShQ4FHHUAwgCKE2JO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6Jpe4ShQ4FHHUAwgCKE2JO)
+pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain](/playlists/plain/6Jpe4ShQ4FHHUAwgCKE2JO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6Jpe4ShQ4FHHUAwgCKE2JO)
 
 ### [The Body of America](https://open.spotify.com/playlist/6Jpe4ShQ4FHHUAwgCKE2JO)
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 49 songs - 2 hr 57 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 47 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 | 48 | [WWIII Revisited](https://open.spotify.com/track/5Y7Ks0U3IXUe3jRESgbLIf) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 1:23 |
 | 49 | [Fingers To The Bone](https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:11 |
+| 50 | [Papa Was a Rodeo](https://open.spotify.com/track/17XuaEj192gVfNsXDwV1rS) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB) | 5:01 |
+| 51 | [Brighter Than the Sun](https://open.spotify.com/track/0ikbufjXAgnd0OdhCjEBB3) | [Brick + Mortar](https://open.spotify.com/artist/7oHJbmt1VAj16Tm6nJpSqr) | [Dropped](https://open.spotify.com/album/1bNyo0wjihTTBvkrMz3doQ) | 3:16 |
 
-Snapshot ID: `AAAAQZD0uR9znjOgQeshrEOxQJGa5oCt`
+Snapshot ID: `AAAAQ6at8sVk8+Pko4TImIIBLahQkW2l`

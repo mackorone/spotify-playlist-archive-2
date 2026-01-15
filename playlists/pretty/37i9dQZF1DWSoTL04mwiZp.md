@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain](/playlists/plain/37i9dQZF1DWSoTL04mwiZp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSoTL04mwiZp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain](/playlists/plain/37i9dQZF1DWSoTL04mwiZp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSoTL04mwiZp)
 
 ### [Mother's Day](https://open.spotify.com/playlist/37i9dQZF1DWSoTL04mwiZp)
 
 > Special songs for mothers of all kinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,961 likes - 72 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,933 likes - 72 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

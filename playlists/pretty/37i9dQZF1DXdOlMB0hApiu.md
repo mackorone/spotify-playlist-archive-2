@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOlMB0hApiu.md) - [plain](/playlists/plain/37i9dQZF1DXdOlMB0hApiu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdOlMB0hApiu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOlMB0hApiu.md) - [plain](/playlists/plain/37i9dQZF1DXdOlMB0hApiu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdOlMB0hApiu)
 
 ### [The Selected D\. H\. Lawrence](https://open.spotify.com/playlist/37i9dQZF1DXdOlMB0hApiu)
 

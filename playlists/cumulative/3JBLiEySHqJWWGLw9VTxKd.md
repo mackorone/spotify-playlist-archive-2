@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3JBLiEySHqJWWGLw9VTxKd.md) - cumulative - [plain](/playlists/plain/3JBLiEySHqJWWGLw9VTxKd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3JBLiEySHqJWWGLw9VTxKd)
+[pretty](/playlists/pretty/3JBLiEySHqJWWGLw9VTxKd.md) - cumulative - [plain](/playlists/plain/3JBLiEySHqJWWGLw9VTxKd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3JBLiEySHqJWWGLw9VTxKd)
 
 ### [Morning Coffee \- Wake Up](https://open.spotify.com/playlist/3JBLiEySHqJWWGLw9VTxKd)
 

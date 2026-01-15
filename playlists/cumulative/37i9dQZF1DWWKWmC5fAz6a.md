@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWKWmC5fAz6a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWKWmC5fAz6a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWKWmC5fAz6a)
+[pretty](/playlists/pretty/37i9dQZF1DWWKWmC5fAz6a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWKWmC5fAz6a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWKWmC5fAz6a)
 
 ### [Heartstopper: Tao and Elle](https://open.spotify.com/playlist/37i9dQZF1DWWKWmC5fAz6a)
 

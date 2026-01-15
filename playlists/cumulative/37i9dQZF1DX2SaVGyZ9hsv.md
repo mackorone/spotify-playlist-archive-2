@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2SaVGyZ9hsv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2SaVGyZ9hsv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2SaVGyZ9hsv)
+[pretty](/playlists/pretty/37i9dQZF1DX2SaVGyZ9hsv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2SaVGyZ9hsv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2SaVGyZ9hsv)
 
 ### [Best New Artist](https://open.spotify.com/playlist/37i9dQZF1DX2SaVGyZ9hsv)
 

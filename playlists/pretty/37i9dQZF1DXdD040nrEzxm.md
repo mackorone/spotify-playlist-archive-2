@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain](/playlists/plain/37i9dQZF1DXdD040nrEzxm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdD040nrEzxm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain](/playlists/plain/37i9dQZF1DXdD040nrEzxm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdD040nrEzxm)
 
 ### [Best of African Heat 2025](https://open.spotify.com/playlist/37i9dQZF1DXdD040nrEzxm)
 
 > Our editor’s picks for best African songs of 2025.<br/> Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=\_2t2Q3XnSt\-HMj4xs90UsQ">Davido</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,331 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,796 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

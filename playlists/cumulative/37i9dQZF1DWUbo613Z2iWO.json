@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover:  TheARTI$T",
+  "description": "R&B of the moment by the artists of the future. Cover: Jaymin",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194666,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/1MZu21tsJWN8t6ZqUhhlZQ"
@@ -5684,6 +5684,28 @@
       "duration_ms": 208149,
       "name": "Come First",
       "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
+    },
+    {
+      "album": {
+        "name": "Come Get My Love",
+        "url": "https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK"
+      },
+      "artists": [
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/0IpxUOafBaV2PPkm3b4E60"
+        },
+        {
+          "name": "ZaeFyeHunnit",
+          "url": "https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218998,
+      "name": "Come Get My Love",
+      "url": "https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH"
     },
     {
       "album": {
@@ -12358,6 +12380,28 @@
     {
       "album": {
         "name": "History",
+        "url": "https://open.spotify.com/album/025WWoX4KV2uNCUWoaKD2d"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "History",
+      "url": "https://open.spotify.com/track/0kbfiqVhGoEtv6ANAHpHC6"
+    },
+    {
+      "album": {
+        "name": "History",
         "url": "https://open.spotify.com/album/3pqOqlgUJ39OPL3F2EqPcN"
       },
       "artists": [
@@ -13110,7 +13154,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140689,
       "name": "i like just how you like me",
       "url": "https://open.spotify.com/track/5kJ45QtERi21dHsz2rrOyG"
@@ -15034,6 +15078,24 @@
       "duration_ms": 203274,
       "name": "Know It's Wrong",
       "url": "https://open.spotify.com/track/4QEtedNdEUJSusAF0m1NOu"
+    },
+    {
+      "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/2e4r2CiCRc5aAY7OlaL09O"
+      },
+      "artists": [
+        {
+          "name": "V. Cartier",
+          "url": "https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200460,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/2kwszkUHGtCPgshacWrivq"
     },
     {
       "album": {
@@ -21622,6 +21684,24 @@
       "duration_ms": 264826,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/5xLNXjrIKQsSl07l6WrWW1"
+      },
+      "artists": [
+        {
+          "name": "Choker",
+          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163360,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/7eT7KkcYXFwELw4nzAzUdJ"
     },
     {
       "album": {
@@ -28827,6 +28907,24 @@
     },
     {
       "album": {
+        "name": "Wamu",
+        "url": "https://open.spotify.com/album/1roAVtZDlgq9fr1BM8LXCM"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186890,
+      "name": "Wamu",
+      "url": "https://open.spotify.com/track/1SKKJYMiJpZ6y67BC7sPXp"
+    },
+    {
+      "album": {
         "name": "Gap Year!",
         "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
       },
@@ -29892,6 +29990,28 @@
       "duration_ms": 195976,
       "name": "Wickedest (feat. Haile)",
       "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"
+    },
+    {
+      "album": {
+        "name": "Win Or Lose",
+        "url": "https://open.spotify.com/album/7IdvSR8Nzsoyi2tVBoIw9y"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187248,
+      "name": "Win Or Lose",
+      "url": "https://open.spotify.com/track/4YUU0sam6DtijJ847SqjYf"
     },
     {
       "album": {

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGroohc3jeg.md) - [plain](/playlists/plain/37i9dQZF1DWWGroohc3jeg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWGroohc3jeg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGroohc3jeg.md) - [plain](/playlists/plain/37i9dQZF1DWWGroohc3jeg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWGroohc3jeg)
 
 ### [Confidence for Kids & Families](https://open.spotify.com/playlist/37i9dQZF1DWWGroohc3jeg)
 

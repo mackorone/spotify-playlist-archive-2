@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY902or0QqdY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY902or0QqdY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY902or0QqdY)
+[pretty](/playlists/pretty/37i9dQZF1DWY902or0QqdY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY902or0QqdY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY902or0QqdY)
 
 ### [El Club de los Corazones Rotos](https://open.spotify.com/playlist/37i9dQZF1DWY902or0QqdY)
 

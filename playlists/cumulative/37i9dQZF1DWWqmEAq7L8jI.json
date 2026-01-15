@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "1313",
+        "url": "https://open.spotify.com/album/1zWZlasiNxxLSqRtjL48au"
+      },
+      "artists": [
+        {
+          "name": "Q_ARE",
+          "url": "https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141177,
+      "name": "1313",
+      "url": "https://open.spotify.com/track/1yRiznUykpaj2jR27sU8fD"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 184080,
       "name": "Algo Tiene",
       "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
@@ -666,7 +684,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163682,
       "name": "Antiguo y moderno",
       "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 227469,
       "name": "cuando pase la tormenta",
       "url": "https://open.spotify.com/track/4psutYuD6A6lSLp0ODrkUD"
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 174801,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
@@ -5385,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "DRAMA",
+        "url": "https://open.spotify.com/album/6zGhSRE7Ho7GIC5RZ7ptSg"
+      },
+      "artists": [
+        {
+          "name": "Chuk Funes",
+          "url": "https://open.spotify.com/artist/6M6p60eIsNREInx8sW6x7p"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "OTRA VEZ",
+      "url": "https://open.spotify.com/track/4Sk1A34oQ8mVlAc2nTZuvw"
+    },
+    {
+      "album": {
         "name": "Otro amor",
         "url": "https://open.spotify.com/album/4tFivtsWo4v3ZTTMVocZ3T"
       },
@@ -5724,7 +5760,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 142597,
       "name": "Pienso en vos",
       "url": "https://open.spotify.com/track/67Au9vtl15BqbThPO9mV4I"
@@ -6296,7 +6332,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177825,
       "name": "Santo Domingo",
       "url": "https://open.spotify.com/track/6EpL8McChbTODU3hCK0bGT"
@@ -6782,7 +6818,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209049,
       "name": "Son S\u00f3lo D\u00edas",
       "url": "https://open.spotify.com/track/5JTH0Fq7VkQICkwQF5iZ2u"
@@ -7058,6 +7094,24 @@
       "duration_ms": 161757,
       "name": "Talk talk",
       "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
+    },
+    {
+      "album": {
+        "name": "Tan f\u00e1cil",
+        "url": "https://open.spotify.com/album/2Mc3okZIvTnW3vXikb4rzN"
+      },
+      "artists": [
+        {
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Tan f\u00e1cil",
+      "url": "https://open.spotify.com/track/2TCBSgAiuGGH3mENcP6VR7"
     },
     {
       "album": {
@@ -7594,7 +7648,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 151680,
       "name": "TUS MENTIRAS",
       "url": "https://open.spotify.com/track/40ynUNzp6WcWT2hFHTaVJS"

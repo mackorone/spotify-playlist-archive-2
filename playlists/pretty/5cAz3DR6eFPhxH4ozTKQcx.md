@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain](/playlists/plain/5cAz3DR6eFPhxH4ozTKQcx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5cAz3DR6eFPhxH4ozTKQcx)
+pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain](/playlists/plain/5cAz3DR6eFPhxH4ozTKQcx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5cAz3DR6eFPhxH4ozTKQcx)
 
 ### [Summer Throwback Party ](https://open.spotify.com/playlist/5cAz3DR6eFPhxH4ozTKQcx)
 
 > The perfect summer pop playlist.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 18,171 likes - 70 songs - 4 hr 24 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 18,159 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

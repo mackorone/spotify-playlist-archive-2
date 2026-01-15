@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TNYCX6wdOv.md) - [plain](/playlists/plain/37i9dQZF1DX8TNYCX6wdOv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8TNYCX6wdOv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TNYCX6wdOv.md) - [plain](/playlists/plain/37i9dQZF1DX8TNYCX6wdOv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8TNYCX6wdOv)
 
 ### [Best of Rising 65 2025](https://open.spotify.com/playlist/37i9dQZF1DX8TNYCX6wdOv)
 
 > Editor's picks of the best of Rising 65 this year\. Cover: karan
 
-[Spotify](https://open.spotify.com/user/spotify) - 387 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 388 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! CD9 en portada \ud83d\udda4\u2764\ufe0f\ud83e\udd0d",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! EMJAY en portada",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -458,6 +458,24 @@
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
+    },
+    {
+      "album": {
+        "name": "Ah\u00ed Voy",
+        "url": "https://open.spotify.com/album/04lZnCUHDdYOx2MEwwKakm"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178743,
+      "name": "Ah\u00ed Voy",
+      "url": "https://open.spotify.com/track/5N8HdHYq8PAkroeoVidxSe"
     },
     {
       "album": {
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155400,
       "name": "Chance",
       "url": "https://open.spotify.com/track/5drb4uv0RawamdFtMkaFck"
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149888,
       "name": "Chevrolet, Mercedes-Benz",
       "url": "https://open.spotify.com/track/1tIiTQUkUsZjQMVdGEpn4K"
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 160322,
       "name": "Cuando Estamos Solas",
       "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
@@ -5396,7 +5414,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 168592,
       "name": "Las Damas y El Vagabundo",
       "url": "https://open.spotify.com/track/1acMpf22usGPeT2a2gXR2i"
@@ -5480,6 +5498,24 @@
       "duration_ms": 212821,
       "name": "Lento",
       "url": "https://open.spotify.com/track/6H7tS5QBrDzU1H79g10J1y"
+    },
+    {
+      "album": {
+        "name": "veme as\u00ed (Live performance)",
+        "url": "https://open.spotify.com/album/3PDqU6Qle7lCGzTXbcPVoj"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246688,
+      "name": "lento - Live performance",
+      "url": "https://open.spotify.com/track/1N6yObVx8jtcgcjaE7HKQN"
     },
     {
       "album": {
@@ -8291,6 +8327,24 @@
     },
     {
       "album": {
+        "name": "prometo no llamar",
+        "url": "https://open.spotify.com/album/0tIuwpBUugenweMLiL2UqO"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164374,
+      "name": "prometo no llamar",
+      "url": "https://open.spotify.com/track/6O6reRnGeZYqdJRYjiYcyt"
+    },
+    {
+      "album": {
         "name": "Psycho B**ch",
         "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
       },
@@ -8660,7 +8714,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210000,
       "name": "Qu\u00e9date a dormir",
       "url": "https://open.spotify.com/track/6DcuRt9RlipUllglXSWuDq"
@@ -10792,7 +10846,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162424,
       "name": "un g que no siente",
       "url": "https://open.spotify.com/track/1GukOqG5DazqjAZhhEBCNO"
@@ -11394,7 +11448,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 193342,
       "name": "\u00bfEs En Serio?",
       "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSL7w3snV7Gw.md) - [plain](/playlists/plain/37i9dQZF1DWSL7w3snV7Gw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSL7w3snV7Gw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSL7w3snV7Gw.md) - [plain](/playlists/plain/37i9dQZF1DWSL7w3snV7Gw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSL7w3snV7Gw)
 
 ### [This Is: Glenn Gould](https://open.spotify.com/playlist/37i9dQZF1DWSL7w3snV7Gw)
 

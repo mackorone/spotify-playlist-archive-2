@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8wplbC2YhV.md) - [plain](/playlists/plain/37i9dQZF1DXb8wplbC2YhV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb8wplbC2YhV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8wplbC2YhV.md) - [plain](/playlists/plain/37i9dQZF1DXb8wplbC2YhV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb8wplbC2YhV)
 
 ### [100 Greatest Hip\-Hop Songs of the Streaming Era](https://open.spotify.com/playlist/37i9dQZF1DXb8wplbC2YhV)
 
 > Our editor's picks for hip\-hop songs that have defined the streaming era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,782 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,968 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1789,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "Cocaine Inside My Blunts (Tape B Remix)",
+        "url": "https://open.spotify.com/album/0Mfw5FWUUwxJ7Dof1OnV4L"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Cocaine Inside My Blunts (Tape B Remix)",
+      "url": "https://open.spotify.com/track/5uCOhMc7WQy7jawqJbdhh2"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6UDJu02Yx57vyNTqAfEMr7"
       },
@@ -2558,7 +2580,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 161708,
       "name": "F.Y.U.",
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
@@ -6190,7 +6212,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 219230,
       "name": "PAYBACK",
       "url": "https://open.spotify.com/track/4RIqJleQdPOg4KSo6uTmtK"
@@ -7738,6 +7760,24 @@
       "duration_ms": 181069,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2"
+    },
+    {
+      "album": {
+        "name": "Sh*t's On F*re",
+        "url": "https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Sh*t's On F*re",
+      "url": "https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP"
     },
     {
       "album": {

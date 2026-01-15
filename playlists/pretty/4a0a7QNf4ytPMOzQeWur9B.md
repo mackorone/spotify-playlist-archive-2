@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain](/playlists/plain/4a0a7QNf4ytPMOzQeWur9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4a0a7QNf4ytPMOzQeWur9B)
+pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain](/playlists/plain/4a0a7QNf4ytPMOzQeWur9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4a0a7QNf4ytPMOzQeWur9B)
 
 ### [The Pulse of Glitchbreak](https://open.spotify.com/playlist/4a0a7QNf4ytPMOzQeWur9B)
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-[Particle Detector](https://open.spotify.com/user/particledetector) - 176 likes - 200 songs - 10 hr 6 min
+[Particle Detector](https://open.spotify.com/user/particledetector) - 175 likes - 200 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

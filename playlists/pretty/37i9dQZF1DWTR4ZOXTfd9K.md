@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain](/playlists/plain/37i9dQZF1DWTR4ZOXTfd9K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTR4ZOXTfd9K)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain](/playlists/plain/37i9dQZF1DWTR4ZOXTfd9K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTR4ZOXTfd9K)
 
 ### [Jazz Classics Blue Note Edition](https://open.spotify.com/playlist/37i9dQZF1DWTR4ZOXTfd9K)
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,966 likes - 100 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,542 likes - 100 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

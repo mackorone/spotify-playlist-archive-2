@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUTC08ZxLjSQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUTC08ZxLjSQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUTC08ZxLjSQ)
+[pretty](/playlists/pretty/37i9dQZF1DWUTC08ZxLjSQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUTC08ZxLjSQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUTC08ZxLjSQ)
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: LINA\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Khofash\. Artwork: Isu Kim
 
 481 songs - 1 day 1 hr 18 min
 
@@ -19,7 +19,7 @@
 | [3YUN](https://open.spotify.com/track/3ccOgc5CTi7ojPMFEhjj4i) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh) | [3YUN](https://open.spotify.com/album/4ooVsSAZab7GwCi98j6w3j) | 2:52 | 2024-06-26 | 2024-10-02 |
 | [70's](https://open.spotify.com/track/4Blh7kOHMqddHNw9dihg3y) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [70's](https://open.spotify.com/album/5sWPxAhokrsRcZfKiIaX0v) | 2:51 | 2025-04-05 |  |
 | [7doude](https://open.spotify.com/track/1neLWhWm0gw1pHjb0qdkZh) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [7doude](https://open.spotify.com/album/2qJw5ynTpaVIFfICGu1fId) | 3:00 | 2022-11-23 | 2023-01-18 |
-| [7ISSAN ASSWAD B JNA7OU \- Version 2](https://open.spotify.com/track/2QcqzU2JMA8L2BotCVMu2D) | [Aymane Haqqi](https://open.spotify.com/artist/3cUrnRpKj3DHqa1GHKwrCw) | [THE BACKSTORY OF GALILEE](https://open.spotify.com/album/3V84qYJgHBbIZgtPauwfla) | 2:18 | 2025-12-17 |  |
+| [7ISSAN ASSWAD B JNA7OU](https://open.spotify.com/track/2QcqzU2JMA8L2BotCVMu2D) | [Aymane Haqqi](https://open.spotify.com/artist/3cUrnRpKj3DHqa1GHKwrCw) | [THE BACKSTORY OF GALILEE](https://open.spotify.com/album/3V84qYJgHBbIZgtPauwfla) | 2:18 | 2025-12-17 |  |
 | [A7LAM](https://open.spotify.com/track/3jbYNSnx1vFpcA7KkLe9O3) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh) | [A7LAM](https://open.spotify.com/album/0xT0gItY4yBFkBofDdYJGf) | 2:40 | 2024-08-13 | 2024-11-27 |
 | [Aadi](https://open.spotify.com/track/4TVVx3bzRfcFLB1U4Zfz2H) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Aadi](https://open.spotify.com/album/5XmwW8gJIcjsUM771uXqNP) | 3:45 | 2024-10-01 | 2025-02-18 |
 | [Aalam Al Ahlam](https://open.spotify.com/track/5qC4xHoM6d1cKUTG22ONOp) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc) | [Aalam Al Ahlam](https://open.spotify.com/album/0Bpu81JbeYcjSDdlk17Wwy) | 5:01 | 2024-04-30 | 2024-08-14 |

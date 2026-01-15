@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain](/playlists/plain/37i9dQZF1DWSuqJGcMjUOz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSuqJGcMjUOz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain](/playlists/plain/37i9dQZF1DWSuqJGcMjUOz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSuqJGcMjUOz)
 
 ### [Francos de Montréal 2025](https://open.spotify.com/playlist/37i9dQZF1DWSuqJGcMjUOz)
 
 > Découvrez les artistes à l'affiche de l’édition 2025 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,308 likes - 91 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,318 likes - 91 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

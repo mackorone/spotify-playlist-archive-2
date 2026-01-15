@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain](/playlists/plain/34MpPqqkyDUqlkXJzpMTWg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/34MpPqqkyDUqlkXJzpMTWg)
+pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain](/playlists/plain/34MpPqqkyDUqlkXJzpMTWg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/34MpPqqkyDUqlkXJzpMTWg)
 
 ### [Beste van 2025 \| Best Of 2025 \| 2025 Wrapped NL](https://open.spotify.com/playlist/34MpPqqkyDUqlkXJzpMTWg)
 
 > 2025 is a wrap! Luister hier naar de beste songs van het jaar.
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,208 likes - 80 songs - 4 hr 11 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,180 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 | 56 | [Don Julio Daddy](https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Don Julio Daddy](https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH) | 2:56 |
 | 57 | [PRETTY GIRLS](https://open.spotify.com/track/0dT0g3uNGWwSzvVvszdVd4) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PINK SUMMER](https://open.spotify.com/album/4MIoqg6Yjw6RqCDWH9rBGP) | 2:25 |
 | 58 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/2CNEYpTPdchKPmMEj0udQ9) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
-| 59 | [Rokershok](https://open.spotify.com/track/612O0CiLSNJ7LSa50n0HIp) | [Levi Otto](https://open.spotify.com/artist/18fb2BDza1aOquqWrxdjuW) | [Rokershok](https://open.spotify.com/album/55ZrhSivfv06r4Y7uIXwGG) | 2:26 |
+| 59 | [Rokershok](https://open.spotify.com/track/612O0CiLSNJ7LSa50n0HIp) | [Otje8](https://open.spotify.com/artist/18fb2BDza1aOquqWrxdjuW) | [Rokershok](https://open.spotify.com/album/55ZrhSivfv06r4Y7uIXwGG) | 2:26 |
 | 60 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 |
 | 61 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/04QcbYejUo4D8zEfhLJ5HL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 3:21 |
 | 62 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 |

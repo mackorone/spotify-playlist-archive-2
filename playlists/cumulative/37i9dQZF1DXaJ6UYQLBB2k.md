@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaJ6UYQLBB2k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaJ6UYQLBB2k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaJ6UYQLBB2k)
+[pretty](/playlists/pretty/37i9dQZF1DXaJ6UYQLBB2k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaJ6UYQLBB2k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaJ6UYQLBB2k)
 
 ### [Ambient 1990s](https://open.spotify.com/playlist/37i9dQZF1DXaJ6UYQLBB2k)
 

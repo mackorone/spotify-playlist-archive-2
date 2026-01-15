@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1nqdhonDP4w4Sb12Av45fC.md) - cumulative - [plain](/playlists/plain/1nqdhonDP4w4Sb12Av45fC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1nqdhonDP4w4Sb12Av45fC)
+[pretty](/playlists/pretty/1nqdhonDP4w4Sb12Av45fC.md) - cumulative - [plain](/playlists/plain/1nqdhonDP4w4Sb12Av45fC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1nqdhonDP4w4Sb12Av45fC)
 
 ### [90s Smash Hits](https://open.spotify.com/playlist/1nqdhonDP4w4Sb12Av45fC)
 
@@ -86,7 +86,7 @@
 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2025-08-23 |  |
 | [Vogue \- Edit](https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 4:49 | 2025-08-23 |  |
 | [Walking in Memphis](https://open.spotify.com/track/60Pwcnt2y9ML9VP4gwrcxm) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [It's a Man's World](https://open.spotify.com/album/2PnxssdlO80Mt9ipZnu7MF) | 3:55 | 2025-08-23 |  |
-| [What Can I Do](https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W), [Tin Tin Out](https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 4:19 | 2025-08-23 |  |
+| [What Can I Do](https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W), [Tin Tin Out](https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 4:14 | 2025-08-23 |  |
 | [You Might Need Somebody](https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Much Love](https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz) | 4:51 | 2025-08-23 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

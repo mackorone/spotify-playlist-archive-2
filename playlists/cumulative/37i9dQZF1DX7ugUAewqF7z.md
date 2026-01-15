@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7ugUAewqF7z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ugUAewqF7z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ugUAewqF7z)
+[pretty](/playlists/pretty/37i9dQZF1DX7ugUAewqF7z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ugUAewqF7z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7ugUAewqF7z)
 
 ### [Ssuply \(썰플리\)](https://open.spotify.com/playlist/37i9dQZF1DX7ugUAewqF7z)
 

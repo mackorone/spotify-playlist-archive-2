@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8YCtenpeKiJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8YCtenpeKiJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8YCtenpeKiJ)
+[pretty](/playlists/pretty/37i9dQZF1DX8YCtenpeKiJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8YCtenpeKiJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8YCtenpeKiJ)
 
 ### [Spooky Sounds for Halloween](https://open.spotify.com/playlist/37i9dQZF1DX8YCtenpeKiJ)
 

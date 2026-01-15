@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJwuOjo3cW.md) - [plain](/playlists/plain/37i9dQZF1DXcuJwuOjo3cW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcuJwuOjo3cW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJwuOjo3cW.md) - [plain](/playlists/plain/37i9dQZF1DXcuJwuOjo3cW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcuJwuOjo3cW)
 
 ### [It Ends With Us Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcuJwuOjo3cW)
 
 > We love, we break, we pick up the pieces\. Listen to the music from It Ends With Us, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,996 likes - 44 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,961 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

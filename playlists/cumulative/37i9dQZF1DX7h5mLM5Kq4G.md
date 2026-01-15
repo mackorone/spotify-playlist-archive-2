@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7h5mLM5Kq4G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7h5mLM5Kq4G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7h5mLM5Kq4G)
+[pretty](/playlists/pretty/37i9dQZF1DX7h5mLM5Kq4G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7h5mLM5Kq4G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7h5mLM5Kq4G)
 
 ### [Party Hits 2020s](https://open.spotify.com/playlist/37i9dQZF1DX7h5mLM5Kq4G)
 

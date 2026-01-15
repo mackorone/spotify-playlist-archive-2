@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4OQqDGyEiDU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4OQqDGyEiDU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OQqDGyEiDU)
+[pretty](/playlists/pretty/37i9dQZF1DX4OQqDGyEiDU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4OQqDGyEiDU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4OQqDGyEiDU)
 
 ### [君が生きてなくてよかった](https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU)
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-647 songs - 1 day 12 hr 9 min
+651 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [B.B.M\. \(feat\. ピノキオピー\)](https://open.spotify.com/track/73PSS7LzOveJNlOp7Z3q55) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:06 | 2025-06-24 | 2025-10-15 |
 | [Bad ∞ End ∞ Night](https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [After the partY](https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw) | 4:08 | 2022-11-24 | 2022-12-14 |
 | [Bakrom](https://open.spotify.com/track/3NV8rXGmXkmwnUb4XEx6aF) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK) | [Bakrom](https://open.spotify.com/album/7LwH7kDmcnOP5L6NcTVEW0) | 3:24 | 2022-06-23 | 2022-07-14 |
-| [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 | 2024-01-18 |  |
+| [Baumkuchen\_EndCredits](https://open.spotify.com/track/3W9qs513ZgVEqK0EN9Okjt) | [amala](https://open.spotify.com/artist/6gsYua8nnnutLOGReIJHsK) | [Baumkuchen\_EndCredits](https://open.spotify.com/album/1X4eosGFqxc1vzqAkWnWq4) | 2:24 | 2026-01-06 |  |
+| [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 | 2024-01-18 | 2026-01-15 |
 | [Black Out](https://open.spotify.com/track/1xoSc615wdQJiegfuJ8wPH) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA) | [PERSON](https://open.spotify.com/album/3TNRXnBvhF8ZzELhMuBo9m) | 4:29 | 2022-06-09 | 2022-07-27 |
 | [Black Out](https://open.spotify.com/track/0My5K0w80efxzM1wOTAheP) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Black Out](https://open.spotify.com/album/4cKFsbtDAMnopqSzC1GZm5) | 2:15 | 2022-06-14 | 2022-07-27 |
 | [BLUE BACK](https://open.spotify.com/track/0JjkwOcFfKrplqaBOgfoO3) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [BLUE BACK](https://open.spotify.com/album/6xxjl1vXNuqwAdpiZkRj6j) | 3:09 | 2025-02-18 | 2025-02-28 |
@@ -130,6 +131,7 @@
 | [Maos para cima! \~手を上げな\~ \(feat\. 初音ミク\)](https://open.spotify.com/track/24wK5OjDeJMvIigC3ULXfP) | [めろくる](https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Maos para cima! \~手を上げな\~](https://open.spotify.com/album/0LJ5foFNMYUOa6oCxkT8IO) | 2:45 | 2025-02-27 | 2025-05-17 |
 | [Marshmary](https://open.spotify.com/track/5dKykKE5h3zapzslkcGDBE) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [Marshmary](https://open.spotify.com/album/0D6NbvI5QAXu10qoQxcWRk) | 3:33 | 2022-06-23 | 2022-07-28 |
 | [May I fold down my seat,Grandma?](https://open.spotify.com/track/0n879xEufV4tlbrVaO5spT) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 1:59 | 2023-11-28 | 2023-12-27 |
+| [megami \(feat\. KASANE TETO\)](https://open.spotify.com/track/1RK5fakFKAFnjzWX1GRGXE) | [otonaesper](https://open.spotify.com/artist/7rSKSwWJ0LWfk2FQBcOw3V), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [megami \(feat\. KASANE TETO\)](https://open.spotify.com/album/2XA7zzb1wZspvIPvH8ve4V) | 2:49 | 2026-01-06 |  |
 | [METEOR](https://open.spotify.com/track/5wHdoGVofJZUGc6Z6t5wZ5) | [DIVELA](https://open.spotify.com/artist/3uoFD08dOvDpdyl1IGH4dt) | [METEOR](https://open.spotify.com/album/0tOjjdPOA63W3waKTrKObc) | 4:34 | 2022-06-23 | 2022-07-06 |
 | [METEOR](https://open.spotify.com/track/0MhQa3QKc26ECpVzhaJCfQ) | [DIVELA](https://open.spotify.com/artist/3uoFD08dOvDpdyl1IGH4dt) | [ミライコレクション](https://open.spotify.com/album/2DzfW4dqIF1J7KCM0y2i2d) | 4:34 | 2022-06-09 | 2022-06-26 |
 | [Mikansei egoizumu](https://open.spotify.com/track/18CPQqeQvpwvzgfurOwEbR) | [Yukino ito](https://open.spotify.com/artist/6AVpVZNEeBihxUCWVPdMnu) | [Mikansei egoizumu](https://open.spotify.com/album/3q3ClObPLKRhC0xaH8sxqd) | 3:26 | 2023-03-29 | 2023-04-12 |
@@ -160,6 +162,7 @@
 | [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 | 2023-05-16 | 2023-08-25 |
 | [Posinega\*Mistakers](https://open.spotify.com/track/2klkz5Ab8cFgekyiBv7Nez) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Mirai Eve](https://open.spotify.com/album/1JXumAYnk57JaFj4CGt0gh) | 3:39 | 2023-07-06 | 2023-07-21 |
 | [Posinega\*Mistakers](https://open.spotify.com/track/1oXvFoHLJjzAN6kKT8mNXR) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Posinega\*Mistakers](https://open.spotify.com/album/3a2R7c96YfWXx5A1emBcgW) | 3:40 | 2023-06-13 | 2023-07-11 |
+| [PPPP \(feat\. Hatsune Miku, Kasane Teto\)](https://open.spotify.com/track/6J3pPfXLujwsWQpvR6XMgC) | [TAK](https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [PPPP](https://open.spotify.com/album/2YpnTJLH8a1xxEL3HXAWQQ) | 2:34 | 2026-01-06 |  |
 | [PSYCH\-OUT HYPE](https://open.spotify.com/track/22TfrEixusP1XRXDkIVnL8) | [Sumia](https://open.spotify.com/artist/4BLujE72GZNP6LiJASz5R6) | [PSYCH\-OUT HYPE](https://open.spotify.com/album/3N8Olo9GpFM0JaFpTG8nYQ) | 2:56 | 2025-07-22 | 2025-08-06 |
 | [Q](https://open.spotify.com/track/2WgDt1Kuh0boQmwytT840h) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [アルターワー・セツナポップ](https://open.spotify.com/album/7DoSwfUqVHcgLtuh2MIR46) | 4:18 | 2022-06-09 | 2022-07-11 |
 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 | 2022-08-18 | 2024-04-19 |
@@ -232,7 +235,7 @@
 | [からくりピエロ \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/0f6Z1Kbo3PzA1sTtoaBbqK) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:15 | 2022-06-21 | 2022-07-29 |
 | [きゅうくらりん](https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [きゅうくらりん](https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9) | 3:37 | 2022-06-09 |  |
 | [ぎゅって](https://open.spotify.com/track/769ISKdISCYhy6OoMaQaQw) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [ぎゅって](https://open.spotify.com/album/10PE8hE6oXfIVwKvuMk7Wv) | 2:02 | 2022-06-21 | 2022-07-27 |
-| [くるみ割り女王](https://open.spotify.com/track/28pyRtDvblWqbhflI7HuXh) | [NanahoshiKangengakudan](https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo) | [くるみ割り女王](https://open.spotify.com/album/75lUGnMSDpXIkll6vJNtp9) | 2:20 | 2025-12-16 |  |
+| [くるみ割り女王](https://open.spotify.com/track/28pyRtDvblWqbhflI7HuXh) | [NanahoshiKangengakudan](https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo) | [くるみ割り女王](https://open.spotify.com/album/75lUGnMSDpXIkll6vJNtp9) | 2:20 | 2025-12-16 | 2026-01-15 |
 | [ごめんごめん](https://open.spotify.com/track/5EJmQHqTGkMvJuxZIYhQXm) | [100回嘔吐](https://open.spotify.com/artist/7dH8GwbARXVbB3wuwUiX08) | [\[Others\]](https://open.spotify.com/album/25LGqPioJgsG8wMRwkvyN2) | 2:28 | 2022-06-30 | 2022-07-25 |
 | [さる](https://open.spotify.com/track/07nkUID2uOhDorHup53dJL) | [虻瀬](https://open.spotify.com/artist/3YIQKMfnZY6lNTDNUJ7wUX) | [OMOIBANA](https://open.spotify.com/album/1rKsgM93PgXaEIUItdd34G) | 3:58 | 2022-06-30 | 2022-07-03 |
 | [しかばねの踊り](https://open.spotify.com/track/6a0G8hYEyxqvEkebVLU5VK) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 3:48 | 2022-07-26 | 2022-10-14 |
@@ -287,6 +290,7 @@
 | [アンチジョーカー](https://open.spotify.com/track/74s77M1EYsZDjDiCGg5A8K) | [マイキP](https://open.spotify.com/artist/524nuNftJJIuQvPhkRl5Mp) | [アンチジョーカー](https://open.spotify.com/album/5GhivkEsjcmUmHIjxmYP88) | 4:00 | 2022-06-21 | 2022-07-23 |
 | [アンノウンフィルタ](https://open.spotify.com/track/74xLYeg88SbmN1XbhmNZBt) | [Nqsi](https://open.spotify.com/artist/2FZi0Xj9ERRmQAFRWlLGcS) | [アンノウンフィルタ](https://open.spotify.com/album/44xEQqloDnzaScjS6Bo6KM) | 2:12 | 2022-06-09 | 2022-07-23 |
 | [アンプランド・アポトーシス](https://open.spotify.com/track/2TwVplURaIUB1WoPeVjaLs) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [アンプランド・アポトーシス](https://open.spotify.com/album/1GhG2xOYhaBJkLdmpeK39Q) | 3:00 | 2022-06-30 | 2022-07-27 |
+| [アヴァート](https://open.spotify.com/track/2DzCfvlMnSkXDN673Mrmt3) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX) | [アヴァート](https://open.spotify.com/album/6tjcL58JcghZh1NSS2jhm1) | 3:29 | 2026-01-06 |  |
 | [イカサマライフゲイム](https://open.spotify.com/track/3eGoU7axuRs95XEg2bHgLJ) | [Kemu](https://open.spotify.com/artist/1XdtlhxEDsae1fePHTX4bn) | [イカサマライフゲイム](https://open.spotify.com/album/1FrxMJLctKQwGiXifCEqoz) | 4:06 | 2022-06-09 | 2022-06-21 |
 | [イガク](https://open.spotify.com/track/6r5PYnGBu1hkQrk3zPkt1I) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [イガク](https://open.spotify.com/album/39ZWZuqNYMhzNsIkHt5tEr) | 2:00 | 2024-04-18 | 2025-04-06 |
 | [イリア](https://open.spotify.com/track/51qRTszFLIUGU2pBrQsH6b) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [イリア](https://open.spotify.com/album/1m430rtn5iIGbqvgN9ojCG) | 2:37 | 2023-07-06 | 2023-07-08 |
@@ -497,7 +501,7 @@
 | [ヴァンパイア](https://open.spotify.com/track/0m9QPTZzjtqCWY9Jg8poHc) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ヴァンパイア](https://open.spotify.com/album/75jCfqufoVvMLzpBXsbbjL) | 2:58 | 2022-06-09 | 2024-06-01 |
 | [ヴィラン](https://open.spotify.com/track/5CSVNJBsEPH3cM7S2iQgax) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [ヴィラン](https://open.spotify.com/album/4TOyg0s7b94h6HcFk8HL0U) | 3:20 | 2022-07-05 | 2022-07-10 |
 | [ヸシュヌ \(feat\. 初音ミク\)](https://open.spotify.com/track/3KNa2aUL6JttpHA7Q6nkDW) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [ヸシュヌ](https://open.spotify.com/album/2EhvXAkJ79B4AVfrYjHWsj) | 3:37 | 2022-06-28 | 2022-07-01 |
-| [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 | 2025-01-23 |  |
+| [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 | 2025-01-23 | 2026-01-15 |
 | [一心不乱](https://open.spotify.com/track/75EGAQg5gJhUz69GSYufBt) | [UMETORA](https://open.spotify.com/artist/5ZjOsH8VbUcUs5LoDjeYOE) | [一心不乱](https://open.spotify.com/album/3A00yiXvch1ZRGBlMfr3hP) | 3:17 | 2022-06-09 | 2022-07-27 |
 | [一角獣](https://open.spotify.com/track/6OcfNne5vPOrkthIvwPe9a) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [一角獣](https://open.spotify.com/album/3JtEzwAfXhTcRr3FbONylo) | 3:37 | 2022-06-09 | 2022-07-28 |
 | [万物流転](https://open.spotify.com/track/5b1itBKmlv5u0Ge3PEi1qb) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [万物流転](https://open.spotify.com/album/25d8d4FfPeE5qwY4ziazKa) | 3:49 | 2023-08-10 | 2023-08-12 |
@@ -618,7 +622,7 @@
 | [眼裏の懐疑](https://open.spotify.com/track/1zWJAGQsgKw4MNwNta4qpZ) | [CIEL](https://open.spotify.com/artist/3br9le9sNFSVAVBDTjdOn4) | [眼裏の懐疑](https://open.spotify.com/album/5IP7TZ7tJG8fpOxiQcd7E2) | 2:58 | 2022-07-24 | 2022-07-26 |
 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 | 2022-06-09 |  |
 | [礼儀作法](https://open.spotify.com/track/5Frog41jAAKuWwLB2p8ilm) | [一二三](https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO) | [礼儀作法](https://open.spotify.com/album/75QzuNQW9aXdmPGNbeTTu8) | 3:05 | 2022-06-09 | 2022-07-17 |
-| [神っぽいな](https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [神っぽいな](https://open.spotify.com/album/5NQnpToG5tTdZ6aGVfx35J) | 3:23 | 2022-06-09 |  |
+| [神っぽいな](https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [神っぽいな](https://open.spotify.com/album/5NQnpToG5tTdZ6aGVfx35J) | 3:23 | 2022-06-09 | 2026-01-15 |
 | [紗痲](https://open.spotify.com/track/1d29gcKxV4Mgg5If0XA633) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [NOMAN](https://open.spotify.com/album/0TvuU4JKAZeEFOGPBCOfOt) | 3:25 | 2022-06-14 | 2022-07-28 |
 | [素直じゃなくてごめんなさい。](https://open.spotify.com/track/3P07XWzNy76vDdJzE3SrRY) | [青谷](https://open.spotify.com/artist/2L59O3tsVyxesyJmOmqj3n) | [全然、きれいじゃない。](https://open.spotify.com/album/7tGi8uMsM5UukBgeAexdjt) | 3:46 | 2022-07-24 | 2022-07-27 |
 | [終焉逃避行](https://open.spotify.com/track/3L1l6mxmglni1S8HdvH2Fl) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [終焉逃避行](https://open.spotify.com/album/55PljDonBsFZ60MUDCatIy) | 2:59 | 2022-06-30 | 2022-07-27 |

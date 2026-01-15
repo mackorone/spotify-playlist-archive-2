@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/30nRN1DuqfzOaiAG4taLua.md) - cumulative - [plain](/playlists/plain/30nRN1DuqfzOaiAG4taLua) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/30nRN1DuqfzOaiAG4taLua)
+[pretty](/playlists/pretty/30nRN1DuqfzOaiAG4taLua.md) - cumulative - [plain](/playlists/plain/30nRN1DuqfzOaiAG4taLua) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/30nRN1DuqfzOaiAG4taLua)
 
 ### [Work From House](https://open.spotify.com/playlist/30nRN1DuqfzOaiAG4taLua)
 

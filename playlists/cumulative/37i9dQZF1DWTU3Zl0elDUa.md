@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTU3Zl0elDUa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTU3Zl0elDUa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTU3Zl0elDUa)
+[pretty](/playlists/pretty/37i9dQZF1DWTU3Zl0elDUa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTU3Zl0elDUa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTU3Zl0elDUa)
 
 ### [90s House Classics](https://open.spotify.com/playlist/37i9dQZF1DWTU3Zl0elDUa)
 

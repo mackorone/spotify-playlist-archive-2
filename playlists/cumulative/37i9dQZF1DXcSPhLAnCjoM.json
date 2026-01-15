@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\" Tant pis pour elle \" de Charlotte Cardin est le Grand Hit de la semaine.  ",
+  "description": "\" Autrement \" de Julien Lieb est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 200000,
       "name": "Caf\u00e9 froid",
       "url": "https://open.spotify.com/track/07oi5madXoMf04rMP51MQ6"
@@ -3962,6 +3962,24 @@
       "duration_ms": 173160,
       "name": "Mille fois",
       "url": "https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN"
+    },
+    {
+      "album": {
+        "name": "Millions de c\u0153urs",
+        "url": "https://open.spotify.com/album/6uf0F3mJbYYKwBUauYsA9u"
+      },
+      "artists": [
+        {
+          "name": "Achile",
+          "url": "https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159765,
+      "name": "Millions de c\u0153urs",
+      "url": "https://open.spotify.com/track/4hQEDPRaNyFXoYfbPgasUx"
     },
     {
       "album": {

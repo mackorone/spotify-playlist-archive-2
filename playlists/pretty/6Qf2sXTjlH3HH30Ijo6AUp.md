@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain](/playlists/plain/6Qf2sXTjlH3HH30Ijo6AUp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6Qf2sXTjlH3HH30Ijo6AUp)
+pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain](/playlists/plain/6Qf2sXTjlH3HH30Ijo6AUp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6Qf2sXTjlH3HH30Ijo6AUp)
 
 ### [100 Uplifting Songs](https://open.spotify.com/playlist/6Qf2sXTjlH3HH30Ijo6AUp)
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-[Topsify](https://open.spotify.com/user/topsify) - 477,340 likes - 101 songs - 5 hr 55 min
+[Topsify](https://open.spotify.com/user/topsify) - 476,862 likes - 101 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdF699XuZIvg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdF699XuZIvg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdF699XuZIvg)
+[pretty](/playlists/pretty/37i9dQZF1DXdF699XuZIvg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdF699XuZIvg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdF699XuZIvg)
 
 ### [Highway to Yell](https://open.spotify.com/playlist/37i9dQZF1DXdF699XuZIvg)
 

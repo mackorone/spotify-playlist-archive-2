@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6Gp3E89xD6vRQtuAKFizMo.md) - cumulative - [plain](/playlists/plain/6Gp3E89xD6vRQtuAKFizMo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6Gp3E89xD6vRQtuAKFizMo)
+[pretty](/playlists/pretty/6Gp3E89xD6vRQtuAKFizMo.md) - cumulative - [plain](/playlists/plain/6Gp3E89xD6vRQtuAKFizMo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6Gp3E89xD6vRQtuAKFizMo)
 
 ### [Dim Mak New Releases](https://open.spotify.com/playlist/6Gp3E89xD6vRQtuAKFizMo)
 

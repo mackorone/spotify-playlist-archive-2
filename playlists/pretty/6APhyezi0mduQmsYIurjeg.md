@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain](/playlists/plain/6APhyezi0mduQmsYIurjeg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6APhyezi0mduQmsYIurjeg)
+pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain](/playlists/plain/6APhyezi0mduQmsYIurjeg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6APhyezi0mduQmsYIurjeg)
 
 ### [Rock Frequency \(2\)](https://open.spotify.com/playlist/6APhyezi0mduQmsYIurjeg)
 

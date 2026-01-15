@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn8nHPShikF.md) - [plain](/playlists/plain/37i9dQZF1DWXn8nHPShikF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXn8nHPShikF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn8nHPShikF.md) - [plain](/playlists/plain/37i9dQZF1DWXn8nHPShikF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXn8nHPShikF)
 
 ### [사랑한다고 말해줘 \(Tell Me That You Love Me\)](https://open.spotify.com/playlist/37i9dQZF1DWXn8nHPShikF)
 

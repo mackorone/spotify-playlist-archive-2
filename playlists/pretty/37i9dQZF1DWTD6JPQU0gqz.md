@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain](/playlists/plain/37i9dQZF1DWTD6JPQU0gqz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTD6JPQU0gqz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain](/playlists/plain/37i9dQZF1DWTD6JPQU0gqz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTD6JPQU0gqz)
 
 ### [Orgullo Afro\-Latino](https://open.spotify.com/playlist/37i9dQZF1DWTD6JPQU0gqz)
 

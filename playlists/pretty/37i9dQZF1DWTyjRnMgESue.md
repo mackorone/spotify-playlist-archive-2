@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain](/playlists/plain/37i9dQZF1DWTyjRnMgESue) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTyjRnMgESue)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain](/playlists/plain/37i9dQZF1DWTyjRnMgESue) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTyjRnMgESue)
 
 ### [Today's Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DWTyjRnMgESue)
 
 > The best new songs from modern singer\-songwriters\. Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,357 likes - 128 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,467 likes - 128 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

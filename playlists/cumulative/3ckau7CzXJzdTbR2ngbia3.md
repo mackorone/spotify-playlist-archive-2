@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3ckau7CzXJzdTbR2ngbia3.md) - cumulative - [plain](/playlists/plain/3ckau7CzXJzdTbR2ngbia3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3ckau7CzXJzdTbR2ngbia3)
+[pretty](/playlists/pretty/3ckau7CzXJzdTbR2ngbia3.md) - cumulative - [plain](/playlists/plain/3ckau7CzXJzdTbR2ngbia3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3ckau7CzXJzdTbR2ngbia3)
 
 ### [10s HITS \- 100 Greatest Songs of the 2010s](https://open.spotify.com/playlist/3ckau7CzXJzdTbR2ngbia3)
 

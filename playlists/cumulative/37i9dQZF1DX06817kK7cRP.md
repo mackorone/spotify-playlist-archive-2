@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX06817kK7cRP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX06817kK7cRP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX06817kK7cRP)
+[pretty](/playlists/pretty/37i9dQZF1DX06817kK7cRP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX06817kK7cRP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX06817kK7cRP)
 
 ### [Smooth Jazz Beats](https://open.spotify.com/playlist/37i9dQZF1DX06817kK7cRP)
 
@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Good Run](https://open.spotify.com/track/69vhTmt6CEyYHrM6rA1B4P) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [A Good Run](https://open.spotify.com/album/6uNvmepdDMBSTwWWVzBBzG) | 2:16 | 2024-11-12 |  |
+| [A Good Run](https://open.spotify.com/track/69vhTmt6CEyYHrM6rA1B4P) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [A Good Run](https://open.spotify.com/album/6uNvmepdDMBSTwWWVzBBzG) | 2:16 | 2024-11-12 | 2026-01-15 |
 | [Abduction](https://open.spotify.com/track/0tQHFnqCqhvR6tv0COYl6o) | [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Monaqee](https://open.spotify.com/artist/4EGwgTccVIMRAeJbpcIlaq), [Vanis](https://open.spotify.com/artist/3tMBRTfZnB4VrAvooWzbrz) | [Abduction](https://open.spotify.com/album/5D9Rzhx22E3YGaZ9wGlKjy) | 2:30 | 2023-01-12 |  |
 | [act n' chill](https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [act n' chill](https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1) | 2:12 | 2024-06-07 |  |
 | [AI\-Music](https://open.spotify.com/track/3Av9I4jCysxCP4IscYJ3wJ) | [Dean Staffs](https://open.spotify.com/artist/36e0RyjykLGS9GkOp7rG8W) | [AI\-Music](https://open.spotify.com/album/5c8MgxHLFTH0vrBGoFvldU) | 3:35 | 2023-04-27 | 2023-06-02 |
@@ -51,7 +51,7 @@
 | [Day After](https://open.spotify.com/track/16Dlzc8aUsqzI6oDseP04u) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [Myuga](https://open.spotify.com/artist/1PGBkdt38wLMukl1HUX6ED) | [Day After](https://open.spotify.com/album/4F2kBATpwTeKETYpX57u68) | 2:22 | 2024-06-28 | 2024-07-13 |
 | [Daydreams](https://open.spotify.com/track/0i175zzCfpfTWA40Y3uqjs) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Daydreams](https://open.spotify.com/album/4EG75OgsOjd6ukj9IzpsFb) | 2:16 | 2023-01-12 |  |
 | [Daygrooves](https://open.spotify.com/track/60ypA21Lm4l9A19fR7FJuB) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Equilibrium](https://open.spotify.com/album/3kqWqfzGCVESFoN7vI1kbt) | 1:59 | 2023-01-12 | 2023-03-29 |
-| [Delta](https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Delta](https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv) | 2:08 | 2023-01-12 | 2025-12-09 |
+| [Delta](https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Delta](https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv) | 2:08 | 2023-01-12 |  |
 | [Dew Point](https://open.spotify.com/track/1h6pKwYlbxjV2rouBmol9T) | [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [Dew Point](https://open.spotify.com/album/4paxIGuHZFBrESPdMnx6uX) | 2:14 | 2023-01-12 |  |
 | [Dinner Party](https://open.spotify.com/track/0jTs2pJwZX2XHNyPyO4p2h) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Dinner Party](https://open.spotify.com/album/1misnUF0YhwPZiEWP7ugsf) | 1:42 | 2024-07-12 | 2025-12-25 |
 | [Dive In!](https://open.spotify.com/track/6Y5w1dN90F0jreQGos2ypf) | [Lavender Box](https://open.spotify.com/artist/4qQYvOHb8QQ0E3mwOTPQk9) | [Dive In!](https://open.spotify.com/album/5ZnX85acDURGkTmsOKTUq5) | 2:58 | 2023-10-20 |  |

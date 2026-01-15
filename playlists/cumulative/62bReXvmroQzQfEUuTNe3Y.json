@@ -1377,6 +1377,28 @@
     },
     {
       "album": {
+        "name": "Clocks",
+        "url": "https://open.spotify.com/album/3K0xnDDCyXlhJFjoXYQoHY"
+      },
+      "artists": [
+        {
+          "name": "Daydream Affiliate",
+          "url": "https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV"
+        },
+        {
+          "name": "Reiny",
+          "url": "https://open.spotify.com/artist/7h94PcS9flGlPpsM66SD24"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192603,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/1khdndUaPoIDrJ1Yo5E6xO"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/45SzO3Sw87Hqma1EQJ3kFn"
       },
@@ -2949,6 +2971,28 @@
     },
     {
       "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/0zlZOM02nHtKzCLWDBBVDb"
+      },
+      "artists": [
+        {
+          "name": "MIND",
+          "url": "https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118846,
+      "name": "Ghost in My Stereo",
+      "url": "https://open.spotify.com/track/2HQFM1sf9TBARmdedUqgUN"
+    },
+    {
+      "album": {
         "name": "Girls Come By",
         "url": "https://open.spotify.com/album/6APuHfgE3OdgE8bAS2s0ik"
       },
@@ -3198,7 +3242,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205647,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/7qX8Vl5H5IxQiXGWXHa0kD"
@@ -4556,6 +4600,24 @@
       "duration_ms": 184426,
       "name": "In the Air Tonight - Croatia Squad Remix",
       "url": "https://open.spotify.com/track/290mugjWLag8AcrR9BEBnE"
+    },
+    {
+      "album": {
+        "name": "Clocks",
+        "url": "https://open.spotify.com/album/3K0xnDDCyXlhJFjoXYQoHY"
+      },
+      "artists": [
+        {
+          "name": "Daydream Affiliate",
+          "url": "https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176870,
+      "name": "In the Mood",
+      "url": "https://open.spotify.com/track/4jLKmiPkJn7ABpDAQv4efT"
     },
     {
       "album": {
@@ -7249,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "Clocks",
+        "url": "https://open.spotify.com/album/3K0xnDDCyXlhJFjoXYQoHY"
+      },
+      "artists": [
+        {
+          "name": "Daydream Affiliate",
+          "url": "https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140185,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/1cIwWZ0UUervIBRfl8mwzc"
+    },
+    {
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
       },
@@ -7369,6 +7449,24 @@
     },
     {
       "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/0zlZOM02nHtKzCLWDBBVDb"
+      },
+      "artists": [
+        {
+          "name": "MIND",
+          "url": "https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153722,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/1szjH2vBFaXJCpI16CPIqq"
+    },
+    {
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/2SX0qBoYe3jmkpFP6L8QBu"
       },
@@ -7380,7 +7478,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153722,
       "name": "Push It",
       "url": "https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"
@@ -7578,7 +7676,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167034,
       "name": "Regret",
       "url": "https://open.spotify.com/track/2oBje7u1mBFIxurtNHBbjF"
@@ -7976,10 +8074,28 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171289,
       "name": "Satellite Signal",
       "url": "https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu"
+    },
+    {
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/0zlZOM02nHtKzCLWDBBVDb"
+      },
+      "artists": [
+        {
+          "name": "MIND",
+          "url": "https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171289,
+      "name": "Satellite Signal",
+      "url": "https://open.spotify.com/track/4PYX2NIrOiFmtpPPCBmZpD"
     },
     {
       "album": {
@@ -9258,7 +9374,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 127500,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg"
@@ -10726,7 +10842,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 133306,
       "name": "Wild",
       "url": "https://open.spotify.com/track/7z8grMV3fvfgDgEFrCdaAU"

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXadlZCyb9AB3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXadlZCyb9AB3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXadlZCyb9AB3)
+[pretty](/playlists/pretty/37i9dQZF1DXadlZCyb9AB3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXadlZCyb9AB3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXadlZCyb9AB3)
 
 ### [Riot Grrrl](https://open.spotify.com/playlist/37i9dQZF1DXadlZCyb9AB3)
 

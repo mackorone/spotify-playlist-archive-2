@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain](/playlists/plain/7y7llrZikzuEGrtH4sfxRA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7y7llrZikzuEGrtH4sfxRA)
+pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain](/playlists/plain/7y7llrZikzuEGrtH4sfxRA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7y7llrZikzuEGrtH4sfxRA)
 
 ### [TERMINAL UNDERGROUND WEEKLY HITTERS](https://open.spotify.com/playlist/7y7llrZikzuEGrtH4sfxRA)
 

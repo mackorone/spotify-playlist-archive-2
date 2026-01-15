@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/71WgbCkbVXGzAltJTAT6lD.md) - cumulative - [plain](/playlists/plain/71WgbCkbVXGzAltJTAT6lD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/71WgbCkbVXGzAltJTAT6lD)
+[pretty](/playlists/pretty/71WgbCkbVXGzAltJTAT6lD.md) - cumulative - [plain](/playlists/plain/71WgbCkbVXGzAltJTAT6lD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/71WgbCkbVXGzAltJTAT6lD)
 
 ### [\(Descent\) A Beginning](https://open.spotify.com/playlist/71WgbCkbVXGzAltJTAT6lD)
 

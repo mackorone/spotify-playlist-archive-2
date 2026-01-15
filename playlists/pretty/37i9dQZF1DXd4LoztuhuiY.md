@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain](/playlists/plain/37i9dQZF1DXd4LoztuhuiY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd4LoztuhuiY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain](/playlists/plain/37i9dQZF1DXd4LoztuhuiY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXd4LoztuhuiY)
 
 ### [My Liberation Notes \(나의 해방일지\)](https://open.spotify.com/playlist/37i9dQZF1DXd4LoztuhuiY)
 

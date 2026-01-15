@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd659n2DsKUL.md) - [plain](/playlists/plain/37i9dQZF1DXd659n2DsKUL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd659n2DsKUL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd659n2DsKUL.md) - [plain](/playlists/plain/37i9dQZF1DXd659n2DsKUL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXd659n2DsKUL)
 
 ### [vamos pal prom](https://open.spotify.com/playlist/37i9dQZF1DXd659n2DsKUL)
 

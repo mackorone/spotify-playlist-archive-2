@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain](/playlists/plain/0rsqS3HgjHgpjcvfZX8OmF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0rsqS3HgjHgpjcvfZX8OmF)
+pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain](/playlists/plain/0rsqS3HgjHgpjcvfZX8OmF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0rsqS3HgjHgpjcvfZX8OmF)
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
 > The best and latest rock and alternative\. Cover:  Arkells
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,645 likes - 100 songs - 6 hr 7 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,636 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

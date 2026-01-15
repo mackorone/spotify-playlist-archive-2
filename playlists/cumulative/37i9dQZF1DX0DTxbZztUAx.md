@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0DTxbZztUAx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0DTxbZztUAx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0DTxbZztUAx)
+[pretty](/playlists/pretty/37i9dQZF1DX0DTxbZztUAx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0DTxbZztUAx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0DTxbZztUAx)
 
 ### [Tyler Perry's Beauty in Black Official Playlist ](https://open.spotify.com/playlist/37i9dQZF1DX0DTxbZztUAx)
 

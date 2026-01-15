@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTR6lD3pmkqP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTR6lD3pmkqP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTR6lD3pmkqP)
+[pretty](/playlists/pretty/37i9dQZF1DWTR6lD3pmkqP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTR6lD3pmkqP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTR6lD3pmkqP)
 
 ### [21st Century Jazz](https://open.spotify.com/playlist/37i9dQZF1DWTR6lD3pmkqP)
 

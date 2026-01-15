@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain](/playlists/plain/44XJR1i3Vl2B3acOEYwinE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/44XJR1i3Vl2B3acOEYwinE)
+pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain](/playlists/plain/44XJR1i3Vl2B3acOEYwinE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/44XJR1i3Vl2B3acOEYwinE)
 
 ### [Power Ballads \(2\)](https://open.spotify.com/playlist/44XJR1i3Vl2B3acOEYwinE)
 
 > You know you love them...\. Get ready to sing like no one is listening to scores of timeless pop and rock power ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,050 likes - 79 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 79 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

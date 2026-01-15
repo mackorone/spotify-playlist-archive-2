@@ -792,7 +792,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 158338,
       "name": "Baddest In The Room",
       "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149268,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/7pvSteyWYiQoqCnGEkBgMT"
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173682,
       "name": "DND",
       "url": "https://open.spotify.com/track/0T1rQV6AKYpktPNXArEqmz"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213333,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/4ccsBKXOJ6DqwQUzMnekQD"
@@ -4067,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/3B3dVRAqlBAuiVpIspOa2y"
+      },
+      "artists": [
+        {
+          "name": "ziploq bag",
+          "url": "https://open.spotify.com/artist/6JzIk06l66NVoAsqIYR9i8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158288,
+      "name": "Ivory",
+      "url": "https://open.spotify.com/track/6wBAWqNNNWUpu2zxaqyC88"
+    },
+    {
+      "album": {
         "name": "Islah (Deluxe)",
         "url": "https://open.spotify.com/album/5Hs43ta4vAYKRRRR7DKjt9"
       },
@@ -4308,6 +4326,40 @@
       "duration_ms": 193849,
       "name": "Last Time (feat. Snoh Aalegra)",
       "url": "https://open.spotify.com/track/2UcZEi2BIfz4wz2fxr6K3a"
+    },
+    {
+      "album": {
+        "name": "Leave Em Alone",
+        "url": "https://open.spotify.com/album/5KUB5SrzL7i7vNlUFd0wXH"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171980,
+      "name": "Leave Em Alone",
+      "url": "https://open.spotify.com/track/1bIEvOOqf2V3QBrFiClE3Y"
     },
     {
       "album": {
@@ -4590,7 +4642,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153684,
       "name": "Love Is An Action",
       "url": "https://open.spotify.com/track/4p5vOaWbhfLMdXmfHkPvEW"
@@ -6102,7 +6154,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 310520,
       "name": "Pretty Wings - uncut",
       "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
@@ -6120,7 +6172,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199487,
       "name": "PRETTY WOMAN (WICKED)",
       "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
@@ -7996,10 +8048,28 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143996,
       "name": "Try To Love",
       "url": "https://open.spotify.com/track/23En19UauVOU4UxVL7H7lv"
+    },
+    {
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186089,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF"
     },
     {
       "album": {

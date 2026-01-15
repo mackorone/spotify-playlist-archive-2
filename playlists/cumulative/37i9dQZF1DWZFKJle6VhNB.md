@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZFKJle6VhNB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZFKJle6VhNB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZFKJle6VhNB)
+[pretty](/playlists/pretty/37i9dQZF1DWZFKJle6VhNB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZFKJle6VhNB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZFKJle6VhNB)
 
 ### [Louça Infinita](https://open.spotify.com/playlist/37i9dQZF1DWZFKJle6VhNB)
 

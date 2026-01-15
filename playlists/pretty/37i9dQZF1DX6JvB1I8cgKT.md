@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JvB1I8cgKT.md) - [plain](/playlists/plain/37i9dQZF1DX6JvB1I8cgKT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6JvB1I8cgKT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JvB1I8cgKT.md) - [plain](/playlists/plain/37i9dQZF1DX6JvB1I8cgKT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6JvB1I8cgKT)
 
 ### [The Idol Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6JvB1I8cgKT)
 
 > We all crave things that aren't good for us\. Listen to music from the HBO Original series The Idol, streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,157 likes - 42 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,102 likes - 42 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

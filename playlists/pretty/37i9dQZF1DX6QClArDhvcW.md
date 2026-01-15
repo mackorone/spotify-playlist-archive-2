@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain](/playlists/plain/37i9dQZF1DX6QClArDhvcW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6QClArDhvcW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain](/playlists/plain/37i9dQZF1DX6QClArDhvcW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6QClArDhvcW)
 
 ### [mellow lofi morning](https://open.spotify.com/playlist/37i9dQZF1DX6QClArDhvcW)
 
 > laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,012 likes - 100 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,012 likes - 100 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

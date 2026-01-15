@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1s2jwVSrmxKxxvvDoMWl32.md) - cumulative - [plain](/playlists/plain/1s2jwVSrmxKxxvvDoMWl32) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1s2jwVSrmxKxxvvDoMWl32)
+[pretty](/playlists/pretty/1s2jwVSrmxKxxvvDoMWl32.md) - cumulative - [plain](/playlists/plain/1s2jwVSrmxKxxvvDoMWl32) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1s2jwVSrmxKxxvvDoMWl32)
 
 ### [Sub Pop: The Grunge Years](https://open.spotify.com/playlist/1s2jwVSrmxKxxvvDoMWl32)
 

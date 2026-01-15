@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdWqzsS4CEhX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdWqzsS4CEhX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdWqzsS4CEhX)
+[pretty](/playlists/pretty/37i9dQZF1DXdWqzsS4CEhX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdWqzsS4CEhX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdWqzsS4CEhX)
 
 ### [Balada Americana](https://open.spotify.com/playlist/37i9dQZF1DXdWqzsS4CEhX)
 

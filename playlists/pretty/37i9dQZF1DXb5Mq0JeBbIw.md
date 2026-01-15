@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain](/playlists/plain/37i9dQZF1DXb5Mq0JeBbIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb5Mq0JeBbIw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain](/playlists/plain/37i9dQZF1DXb5Mq0JeBbIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb5Mq0JeBbIw)
 
 ### [Soft Morning](https://open.spotify.com/playlist/37i9dQZF1DXb5Mq0JeBbIw)
 

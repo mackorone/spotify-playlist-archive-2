@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0H4GV8vMFV1wLkuywC64LE.md) - [plain](/playlists/plain/0H4GV8vMFV1wLkuywC64LE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0H4GV8vMFV1wLkuywC64LE)
+pretty - [cumulative](/playlists/cumulative/0H4GV8vMFV1wLkuywC64LE.md) - [plain](/playlists/plain/0H4GV8vMFV1wLkuywC64LE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0H4GV8vMFV1wLkuywC64LE)
 
 ### [Antimatter \- a radio mixtape](https://open.spotify.com/playlist/0H4GV8vMFV1wLkuywC64LE)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2hirOuzhv3EK3AgEV2nKZn.md) - cumulative - [plain](/playlists/plain/2hirOuzhv3EK3AgEV2nKZn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2hirOuzhv3EK3AgEV2nKZn)
+[pretty](/playlists/pretty/2hirOuzhv3EK3AgEV2nKZn.md) - cumulative - [plain](/playlists/plain/2hirOuzhv3EK3AgEV2nKZn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2hirOuzhv3EK3AgEV2nKZn)
 
 ### [Hats The Way I Like It: Ascot 2013](https://open.spotify.com/playlist/2hirOuzhv3EK3AgEV2nKZn)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain](/playlists/plain/37i9dQZF1DWXN0bYSgIbPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXN0bYSgIbPk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain](/playlists/plain/37i9dQZF1DWXN0bYSgIbPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXN0bYSgIbPk)
 
 ### [Uncle Waffles' track IDs](https://open.spotify.com/playlist/37i9dQZF1DWXN0bYSgIbPk)
 
 > <a href="spotify:artist:68McnNC9twEtiynOAJRRgZ">Uncle Waffles</a>' favorite tracks\. Updated regularly\. Curated by Uncle Waffles\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,099 likes - 48 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,206 likes - 48 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

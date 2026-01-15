@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IuS2Zk3m9h.md) - [plain](/playlists/plain/37i9dQZF1DX6IuS2Zk3m9h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6IuS2Zk3m9h)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IuS2Zk3m9h.md) - [plain](/playlists/plain/37i9dQZF1DX6IuS2Zk3m9h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6IuS2Zk3m9h)
 
 ### [Auntie Nae's Taste](https://open.spotify.com/playlist/37i9dQZF1DX6IuS2Zk3m9h)
 
 > Sophisticated palates only\. Curated by: Auntie Nae
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,328 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,597 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

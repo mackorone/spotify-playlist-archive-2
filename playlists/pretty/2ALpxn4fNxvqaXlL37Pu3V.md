@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2ALpxn4fNxvqaXlL37Pu3V.md) - [plain](/playlists/plain/2ALpxn4fNxvqaXlL37Pu3V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2ALpxn4fNxvqaXlL37Pu3V)
+pretty - [cumulative](/playlists/cumulative/2ALpxn4fNxvqaXlL37Pu3V.md) - [plain](/playlists/plain/2ALpxn4fNxvqaXlL37Pu3V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2ALpxn4fNxvqaXlL37Pu3V)
 
 ### [A Dark Sort of Mood](https://open.spotify.com/playlist/2ALpxn4fNxvqaXlL37Pu3V)
 

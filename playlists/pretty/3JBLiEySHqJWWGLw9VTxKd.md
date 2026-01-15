@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3JBLiEySHqJWWGLw9VTxKd.md) - [plain](/playlists/plain/3JBLiEySHqJWWGLw9VTxKd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3JBLiEySHqJWWGLw9VTxKd)
+pretty - [cumulative](/playlists/cumulative/3JBLiEySHqJWWGLw9VTxKd.md) - [plain](/playlists/plain/3JBLiEySHqJWWGLw9VTxKd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3JBLiEySHqJWWGLw9VTxKd)
 
 ### [Morning Coffee \- Wake Up](https://open.spotify.com/playlist/3JBLiEySHqJWWGLw9VTxKd)
 
 > 
 
-[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 8,751 likes - 30 songs - 2 hr 28 min
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 8,749 likes - 30 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

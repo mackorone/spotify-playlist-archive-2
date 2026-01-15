@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Moglii",
+  "description": "New music off the beaten track. Cover: Robyn",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221186,
       "name": "Amor",
       "url": "https://open.spotify.com/track/4hzdmoapP0OQoFyhl3EvCp"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 259712,
       "name": "An Echo Skips A Name - alternate take",
       "url": "https://open.spotify.com/track/6jJZkZvEQFAVAhZXxCupLE"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193436,
       "name": "Busy DJ",
       "url": "https://open.spotify.com/track/3izu8EuDc1x8KrFc4lnXJl"
@@ -3476,6 +3476,24 @@
       "duration_ms": 202809,
       "name": "Catching feelings",
       "url": "https://open.spotify.com/track/5WZL03aLF9GVNaa5Q6ATNe"
+    },
+    {
+      "album": {
+        "name": "Caught in the Blink of an Eye",
+        "url": "https://open.spotify.com/album/4hitWgjEDey6LrzfeVkceD"
+      },
+      "artists": [
+        {
+          "name": "Ladytron",
+          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224021,
+      "name": "Caught in the Blink of an Eye",
+      "url": "https://open.spotify.com/track/173kMYy5NX6OLGXi3256mT"
     },
     {
       "album": {
@@ -23383,6 +23401,24 @@
     },
     {
       "album": {
+        "name": "Sexistential / Talk To Me",
+        "url": "https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199561,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
+    },
+    {
+      "album": {
         "name": "Tangerine (Roosevelt Remix)",
         "url": "https://open.spotify.com/album/2XYqsS5wPQIbQ872hW0umK"
       },
@@ -27636,6 +27672,32 @@
       "duration_ms": 218929,
       "name": "You Belong To No-One",
       "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
+    },
+    {
+      "album": {
+        "name": "You Get Me So High",
+        "url": "https://open.spotify.com/album/3AI5uV0laCcMMUR67GtnWU"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Erobique",
+          "url": "https://open.spotify.com/artist/2Gde0DBcgb2YE6AV1lqLxH"
+        },
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208949,
+      "name": "You Get Me So High",
+      "url": "https://open.spotify.com/track/3EhnPwX1FR8qxWwiZT4Izp"
     },
     {
       "album": {

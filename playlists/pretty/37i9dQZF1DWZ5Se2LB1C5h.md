@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain](/playlists/plain/37i9dQZF1DWZ5Se2LB1C5h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ5Se2LB1C5h)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain](/playlists/plain/37i9dQZF1DWZ5Se2LB1C5h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ5Se2LB1C5h)
 
 ### [EUPHORIA](https://open.spotify.com/playlist/37i9dQZF1DWZ5Se2LB1C5h)
 
 > Únete a la extravaganza del neón\. TOMORA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,618 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,955 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

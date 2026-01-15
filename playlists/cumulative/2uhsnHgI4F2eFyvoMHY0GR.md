@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2uhsnHgI4F2eFyvoMHY0GR.md) - cumulative - [plain](/playlists/plain/2uhsnHgI4F2eFyvoMHY0GR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2uhsnHgI4F2eFyvoMHY0GR)
+[pretty](/playlists/pretty/2uhsnHgI4F2eFyvoMHY0GR.md) - cumulative - [plain](/playlists/plain/2uhsnHgI4F2eFyvoMHY0GR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2uhsnHgI4F2eFyvoMHY0GR)
 
 ### [Instrumental Rock](https://open.spotify.com/playlist/2uhsnHgI4F2eFyvoMHY0GR)
 

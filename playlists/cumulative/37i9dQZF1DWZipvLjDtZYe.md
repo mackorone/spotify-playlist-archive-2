@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZipvLjDtZYe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZipvLjDtZYe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZipvLjDtZYe)
+[pretty](/playlists/pretty/37i9dQZF1DWZipvLjDtZYe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZipvLjDtZYe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZipvLjDtZYe)
 
 ### [This Is 初音ミク \(HATSUNE MIKU\)](https://open.spotify.com/playlist/37i9dQZF1DWZipvLjDtZYe)
 

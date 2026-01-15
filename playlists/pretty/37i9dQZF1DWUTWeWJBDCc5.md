@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain](/playlists/plain/37i9dQZF1DWUTWeWJBDCc5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUTWeWJBDCc5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain](/playlists/plain/37i9dQZF1DWUTWeWJBDCc5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUTWeWJBDCc5)
 
 ### [Editor's Picks: Best Songs of 2025 Korea](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
 > 스포티파이 뮤직 에디터가 선정한 2025 올해의 노래를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,526 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,464 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

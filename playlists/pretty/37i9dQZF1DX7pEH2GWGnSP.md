@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain](/playlists/plain/37i9dQZF1DX7pEH2GWGnSP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7pEH2GWGnSP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain](/playlists/plain/37i9dQZF1DX7pEH2GWGnSP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7pEH2GWGnSP)
 
 ### [This Is LE SSERAFIM](https://open.spotify.com/playlist/37i9dQZF1DX7pEH2GWGnSP)
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playli..\. DODODOK!
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,036 likes - 91 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,973 likes - 91 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 342345,
+  "num_followers": 342714,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAAA9ljBpWk/O6lP0Tcn6rQKJ",
+  "snapshot_id": "aWbcgAAAAACM9XKmurWo0nAH1M+roz7/",
   "tracks": [
     {
       "added_at": null,
@@ -223,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/0MKsMtUgIIJ0ITShmUqs8M"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 153173,
-      "name": "Hermos\u00edsimo Lucero",
-      "url": "https://open.spotify.com/track/6BoMeHQItchMLEc8Uz93u2"
+      "duration_ms": 180025,
+      "name": "Armando Aguirre",
+      "url": "https://open.spotify.com/track/1DKgGGbLAkBCOVDZZLFvSD"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/0MKsMtUgIIJ0ITShmUqs8M"
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 180025,
-      "name": "Armando Aguirre",
-      "url": "https://open.spotify.com/track/1DKgGGbLAkBCOVDZZLFvSD"
+      "duration_ms": 153173,
+      "name": "Hermos\u00edsimo Lucero",
+      "url": "https://open.spotify.com/track/6BoMeHQItchMLEc8Uz93u2"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n De Oro De Chalino S\u00e1nchez, Vol. 2: Corridos",
-        "url": "https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 191541,
-      "name": "La Muerte Del Pela Vacas",
-      "url": "https://open.spotify.com/track/7runa07mWUPQiou4sIWBsx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
       },
@@ -511,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A Chalino",
-        "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
+        "name": "Colecci\u00f3n De Oro De Chalino S\u00e1nchez, Vol. 2: Corridos",
+        "url": "https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y"
       },
       "artists": [
         {
@@ -520,9 +504,9 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 174927,
-      "name": "El P\u00e1vido N\u00e1vido",
-      "url": "https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q"
+      "duration_ms": 191541,
+      "name": "La Muerte Del Pela Vacas",
+      "url": "https://open.spotify.com/track/7runa07mWUPQiou4sIWBsx"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recordando A Chalino",
+        "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 174927,
+      "name": "El P\u00e1vido N\u00e1vido",
+      "url": "https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Quisiera Ser Pajarillo",
-      "url": "https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 242439,
       "name": "Mario Portillo",
       "url": "https://open.spotify.com/track/0HXYmIG0cO3y0ASrZiezJx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Quisiera Ser Pajarillo",
+      "url": "https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n De Oro De Chalino S\u00e1nchez, Vol. 2: Corridos",
-        "url": "https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "El Dos Dedos",
-      "url": "https://open.spotify.com/track/3oBmCyq6ABjudJWo5qYO6V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Los F\u00e9lix Y Los Quintero",
         "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
       },
@@ -783,6 +767,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chalino S\u00e1nchez Con Banda Brava",
+        "url": "https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 212613,
+      "name": "Rigo Coria",
+      "url": "https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colecci\u00f3n De Oro De Chalino S\u00e1nchez, Vol. 2: Corridos",
+        "url": "https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "El Dos Dedos",
+      "url": "https://open.spotify.com/track/3oBmCyq6ABjudJWo5qYO6V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Gallo de Sinaloa",
         "url": "https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H"
       },
@@ -795,22 +815,6 @@
       "duration_ms": 207866,
       "name": "El Gallo de Sinaloa",
       "url": "https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Que Me Entierren Cantando",
-      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
     },
     {
       "added_at": null,
@@ -855,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez Con Banda Brava",
-        "url": "https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF"
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 212613,
-      "name": "Rigo Coria",
-      "url": "https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz"
+      "duration_ms": 163546,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
     },
     {
       "added_at": null,

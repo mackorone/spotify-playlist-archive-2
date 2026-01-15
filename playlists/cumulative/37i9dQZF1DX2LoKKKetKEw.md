@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2LoKKKetKEw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2LoKKKetKEw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2LoKKKetKEw)
+[pretty](/playlists/pretty/37i9dQZF1DX2LoKKKetKEw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2LoKKKetKEw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2LoKKKetKEw)
 
 ### [Best of AfroGospel 2025](https://open.spotify.com/playlist/37i9dQZF1DX2LoKKKetKEw)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXv0oqj7VoL4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXv0oqj7VoL4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXv0oqj7VoL4)
+[pretty](/playlists/pretty/37i9dQZF1DWXv0oqj7VoL4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXv0oqj7VoL4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXv0oqj7VoL4)
 
 ### [Dr.STONE](https://open.spotify.com/playlist/37i9dQZF1DWXv0oqj7VoL4)
 

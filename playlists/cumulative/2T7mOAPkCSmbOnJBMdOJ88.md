@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2T7mOAPkCSmbOnJBMdOJ88.md) - cumulative - [plain](/playlists/plain/2T7mOAPkCSmbOnJBMdOJ88) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2T7mOAPkCSmbOnJBMdOJ88)
+[pretty](/playlists/pretty/2T7mOAPkCSmbOnJBMdOJ88.md) - cumulative - [plain](/playlists/plain/2T7mOAPkCSmbOnJBMdOJ88) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2T7mOAPkCSmbOnJBMdOJ88)
 
 ### [Songs For The Bullet Train by Superorganism](https://open.spotify.com/playlist/2T7mOAPkCSmbOnJBMdOJ88)
 

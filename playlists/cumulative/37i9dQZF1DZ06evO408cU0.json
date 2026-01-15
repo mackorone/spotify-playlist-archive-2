@@ -946,10 +946,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 214706,
       "name": "La Doble Cara",
       "url": "https://open.spotify.com/track/0PX1p94jkveuUOZ31rjHak"
+    },
+    {
+      "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/0C9n9K785fkiXtR584JcOg"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "La Doble Cara",
+      "url": "https://open.spotify.com/track/2uwqirVqRqfvheLbsizzAW"
     },
     {
       "album": {
@@ -2090,10 +2108,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223920,
       "name": "Y Te Vas",
       "url": "https://open.spotify.com/track/1kOA9u9k9l2LzCn8jmbkhg"
+    },
+    {
+      "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/0C9n9K785fkiXtR584JcOg"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Y Te Vas",
+      "url": "https://open.spotify.com/track/4ZD7Np5r6s211dhZHospvV"
     },
     {
       "album": {

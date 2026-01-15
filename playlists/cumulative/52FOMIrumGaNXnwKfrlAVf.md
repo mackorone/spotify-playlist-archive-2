@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/52FOMIrumGaNXnwKfrlAVf.md) - cumulative - [plain](/playlists/plain/52FOMIrumGaNXnwKfrlAVf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/52FOMIrumGaNXnwKfrlAVf)
+[pretty](/playlists/pretty/52FOMIrumGaNXnwKfrlAVf.md) - cumulative - [plain](/playlists/plain/52FOMIrumGaNXnwKfrlAVf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/52FOMIrumGaNXnwKfrlAVf)
 
 ### [The Roots of..\. Vampire Weekend](https://open.spotify.com/playlist/52FOMIrumGaNXnwKfrlAVf)
 

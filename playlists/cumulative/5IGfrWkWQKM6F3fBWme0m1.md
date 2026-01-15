@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5IGfrWkWQKM6F3fBWme0m1.md) - cumulative - [plain](/playlists/plain/5IGfrWkWQKM6F3fBWme0m1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5IGfrWkWQKM6F3fBWme0m1)
+[pretty](/playlists/pretty/5IGfrWkWQKM6F3fBWme0m1.md) - cumulative - [plain](/playlists/plain/5IGfrWkWQKM6F3fBWme0m1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5IGfrWkWQKM6F3fBWme0m1)
 
 ### [JG \~ Dusk Til..\. 💫](https://open.spotify.com/playlist/5IGfrWkWQKM6F3fBWme0m1)
 

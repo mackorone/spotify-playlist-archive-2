@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Danilo e Davi",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Luan Pereira, Ana Castela",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -1098,6 +1098,28 @@
       "duration_ms": 194211,
       "name": "CACO DE GENTE - Ao Vivo",
       "url": "https://open.spotify.com/track/6saU47oJ8952GeNfpbpl7d"
+    },
+    {
+      "album": {
+        "name": "NATORA 10 ANOS (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fwejSaIPGhFi0grEtdrX0"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142970,
+      "name": "Cadeira Amarela - Ao Vivo",
+      "url": "https://open.spotify.com/track/7j5IUWdULEj2lFx0NApMyw"
     },
     {
       "album": {
@@ -4961,6 +4983,24 @@
     },
     {
       "album": {
+        "name": "Energia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CPz0EKECvXACXt3IdYN4Y"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165376,
+      "name": "Pega Esse Carro - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HY7YlBwdZMTh69E1gkYm3"
+    },
+    {
+      "album": {
         "name": "Feito \u00c0 M\u00e3o Vol. 01",
         "url": "https://open.spotify.com/album/40jGnqAXzR8Bta84lEI5mc"
       },
@@ -6650,7 +6690,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 207136,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/1mnMkTvrPi4iTblXaRvOoi"
@@ -7050,7 +7090,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150449,
       "name": "\u00daltima Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/1wubETHu3SeJHfbz9itEH0"

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTZ8jTY8g4MU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTZ8jTY8g4MU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTZ8jTY8g4MU)
+[pretty](/playlists/pretty/37i9dQZF1DWTZ8jTY8g4MU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTZ8jTY8g4MU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTZ8jTY8g4MU)
 
 ### [ شيلات](https://open.spotify.com/playlist/37i9dQZF1DWTZ8jTY8g4MU)
 
 > شيلات تشيل الليلة\. الغلاف: بدر العزي
 
-280 songs - 18 hr 36 min
+281 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [الزمن دوار](https://open.spotify.com/track/1CTX0NAUvAZN3X2rUhoqfR) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [الزمن دوار](https://open.spotify.com/album/2PF6wJILCDKZ8mAHci19Eu) | 3:52 | 2022-08-31 | 2023-03-15 |
 | [الزمن دوار](https://open.spotify.com/track/4XSZa8zr5ya13NcLkSTHM1) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الزمن دوار](https://open.spotify.com/album/7tHMNHXeNILzhr7Hcd2nEk) | 3:52 | 2022-06-13 | 2022-11-03 |
 | [الزين القوي](https://open.spotify.com/track/2DL9axGXUKv7oP9xcKSljz) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm), [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [الزين القوي](https://open.spotify.com/album/7EO8MwFRrTD66x1NJQFNxJ) | 3:12 | 2023-07-27 | 2023-09-02 |
+| [السلامه دوروها](https://open.spotify.com/track/54YGb5mVHcPSDCGiJIJajK) | [الجفراني](https://open.spotify.com/artist/19K8bnhJe9d8nW2rtdcRtf) | [السلامه دوروها](https://open.spotify.com/album/5PXL7hERuHJQQYe0A5wt96) | 8:46 | 2026-01-07 |  |
 | [الشوق نار](https://open.spotify.com/track/5pes4S9GNVJpFurFUJJrmy) | [ماجد خضير](https://open.spotify.com/artist/3y1gBdIcu9SoeBqdePgppN) | [الشوق نار](https://open.spotify.com/album/0pWmGDdYkwOtq8kVgNRt5d) | 3:21 | 2023-11-30 | 2024-06-27 |
 | [الظروف أكبر](https://open.spotify.com/track/3xMPwNuK59wMx8HzmoRcB2) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [الظروف أكبر](https://open.spotify.com/album/5s2Y0spf2Jz2Vvn0FxquXp) | 4:07 | 2024-05-09 |  |
 | [العزله احسن](https://open.spotify.com/track/5aD10saKZMJqh7NrtK9BUT) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [العزله احسن](https://open.spotify.com/album/7osyeXcZDSclHumvwAEQLj) | 4:15 | 2023-12-08 | 2025-12-19 |

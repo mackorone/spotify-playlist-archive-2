@@ -606,7 +606,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 191475,
       "name": "All Dressed Up",
       "url": "https://open.spotify.com/track/16tDIaiRiKwpMa0fPClD4f"
@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Brave the Weather",
+        "url": "https://open.spotify.com/album/0l3G6BGVy83pvirPMbO10G"
+      },
+      "artists": [
+        {
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263720,
+      "name": "Brave the Weather",
+      "url": "https://open.spotify.com/track/776QfJDeMP0o89mIioNAlU"
+    },
+    {
+      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF"
       },
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 232000,
       "name": "Cowboy Gangster Politician",
       "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
@@ -3511,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2dRkKwcfkvxt6KQVaGSZZ5"
+      },
+      "artists": [
+        {
+          "name": "Clay Street Unit",
+          "url": "https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240173,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5d6CGmi7gCLHVkd8njXwKB"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/0bZj1q5JoFdce7tg98qxs8"
       },
@@ -3544,6 +3580,24 @@
       "duration_ms": 182015,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ"
+    },
+    {
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151472,
+      "name": "Dry Deserts",
+      "url": "https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt"
     },
     {
       "album": {
@@ -3692,7 +3746,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 215506,
       "name": "Elderberry Wine",
       "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
@@ -5012,7 +5066,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198456,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
@@ -5486,7 +5540,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195029,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/6O605cAYlcAAKWTkkXdcPa"
@@ -6714,7 +6768,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195436,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6uENx8T98jT6kVM9hyFnfz"
@@ -7597,6 +7651,24 @@
     },
     {
       "album": {
+        "name": "Matter of Taste",
+        "url": "https://open.spotify.com/album/4oceTxYsabV8hMlvbo4pIG"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244366,
+      "name": "Matter of Taste",
+      "url": "https://open.spotify.com/track/54t1dWYSvY6XaBdFdhV20C"
+    },
+    {
+      "album": {
         "name": "Me More Cowboy Than You (Demo)",
         "url": "https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS"
       },
@@ -7948,7 +8020,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 229795,
       "name": "Much Ado About Nothing",
       "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
@@ -8064,7 +8136,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198577,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV"
@@ -8086,6 +8158,24 @@
       "duration_ms": 227573,
       "name": "No Cowboys",
       "url": "https://open.spotify.com/track/19fuc8JoaMoK5dNpKNTwVu"
+    },
+    {
+      "album": {
+        "name": "No Direction",
+        "url": "https://open.spotify.com/album/7pyRDQ0rpwa1nk8xIH5HZB"
+      },
+      "artists": [
+        {
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176158,
+      "name": "No Direction",
+      "url": "https://open.spotify.com/track/7v2nfYwLfuGkjyjp4RY2B4"
     },
     {
       "album": {
@@ -8610,6 +8700,28 @@
       "duration_ms": 191506,
       "name": "Parallel",
       "url": "https://open.spotify.com/track/0s0ExKwCRYPLZVw8qkGvbv"
+    },
+    {
+      "album": {
+        "name": "XXV",
+        "url": "https://open.spotify.com/album/21leL21C3hRYCcLCclAYpU"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213794,
+      "name": "Past My Prime (feat. Nathaniel Rateliff)",
+      "url": "https://open.spotify.com/track/01qfpfvaO6DUsbL4bdEVjZ"
     },
     {
       "album": {
@@ -9353,6 +9465,24 @@
     },
     {
       "album": {
+        "name": "Riot of the Red",
+        "url": "https://open.spotify.com/album/3C9rtB39aiZ86y1L052vpr"
+      },
+      "artists": [
+        {
+          "name": "Lou Hazel",
+          "url": "https://open.spotify.com/artist/0XIZk0xgmde4G5jaFMjCoe"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208440,
+      "name": "Riot of the Red",
+      "url": "https://open.spotify.com/track/2VdbAia2Chh60vG85MCZ18"
+    },
+    {
+      "album": {
         "name": "Road Runner",
         "url": "https://open.spotify.com/album/78omrT8twYQBzaZWhy275N"
       },
@@ -9704,7 +9834,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211546,
       "name": "Scared of the Dark",
       "url": "https://open.spotify.com/track/4JBPgWBmn7HnLn7dxJ50JK"
@@ -9946,7 +10076,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 229799,
       "name": "Sincerely, Your Son",
       "url": "https://open.spotify.com/track/4Avhm4TheMNptgXdaQN52O"
@@ -11757,6 +11887,24 @@
     },
     {
       "album": {
+        "name": "Turn Around",
+        "url": "https://open.spotify.com/album/1Y7q8TV01i91wASfDCcqLf"
+      },
+      "artists": [
+        {
+          "name": "Drayton Farley",
+          "url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267973,
+      "name": "Turn Around",
+      "url": "https://open.spotify.com/track/1A5EBgeEUC3yMvZlKbU2ba"
+    },
+    {
+      "album": {
         "name": "Two Timin'",
         "url": "https://open.spotify.com/album/404XRPTtRC0I56OL6lcACE"
       },
@@ -13090,6 +13238,24 @@
       "duration_ms": 171480,
       "name": "You Asked Me To",
       "url": "https://open.spotify.com/track/6APPu400DTzDIZ1ZXSprnJ"
+    },
+    {
+      "album": {
+        "name": "You Can't Look At Me Like That (Alternate Version)",
+        "url": "https://open.spotify.com/album/1SjUNDr2EZQSuSSfZwIfwK"
+      },
+      "artists": [
+        {
+          "name": "Levi Foster",
+          "url": "https://open.spotify.com/artist/0xFMNzkJIY4RWwslgSkM63"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287363,
+      "name": "You Can't Look At Me Like That - Alternate Version",
+      "url": "https://open.spotify.com/track/6CqRukzmd5kXblACwQBNHW"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Ice Spice",
-  "num_followers": 161519,
+  "num_followers": 161652,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEQ/pyQKlwSg8JUY6RomXxvlIK9E",
+  "snapshot_id": "AAAAACDMXVMHpdkHauUEC3g3dNXYyZOm",
   "tracks": [
     {
       "added_at": "2025-11-19 16:56:09",
@@ -59,6 +59,30 @@
       "duration_ms": 190822,
       "name": "Zoo - From \"Zootopia 2\"",
       "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
+    },
+    {
+      "added_at": "2026-01-09 05:00:23",
+      "album": {
+        "name": "All is Summer",
+        "url": "https://open.spotify.com/album/51qZK00yCuVTx4Oo2ePrvk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Blumberg",
+          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
+        },
+        {
+          "name": "Amanda Seyfried",
+          "url": "https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u"
+        },
+        {
+          "name": "The Testament of Ann Lee Cast",
+          "url": "https://open.spotify.com/artist/3smhfWwJ3vixdJGOU8b01L"
+        }
+      ],
+      "duration_ms": 161920,
+      "name": "All is Summer",
+      "url": "https://open.spotify.com/track/3dgpYYu0fHl9jyMY3izzXc"
     },
     {
       "added_at": "2025-11-14 05:00:19",
@@ -907,22 +931,6 @@
       "duration_ms": 241306,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/7K2IeEefMiK8sDL8RBvXw2"
-    },
-    {
-      "added_at": "2025-08-22 04:00:12",
-      "album": {
-        "name": "Make It Happen (from the Netflix Film \"My Oxford Year\") [Bonus Track]",
-        "url": "https://open.spotify.com/album/5e9hEW32MYM1Xeserz0wfw"
-      },
-      "artists": [
-        {
-          "name": "Laura Welsh",
-          "url": "https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Make It Happen (from the Netflix Film \"My Oxford Year\") - Bonus Track",
-      "url": "https://open.spotify.com/track/0dr2EXxuBWpVuamDRSMdtH"
     },
     {
       "added_at": "2025-07-11 10:07:31",

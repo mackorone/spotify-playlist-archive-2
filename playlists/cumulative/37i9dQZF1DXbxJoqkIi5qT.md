@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbxJoqkIi5qT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbxJoqkIi5qT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbxJoqkIi5qT)
+[pretty](/playlists/pretty/37i9dQZF1DXbxJoqkIi5qT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbxJoqkIi5qT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbxJoqkIi5qT)
 
 ### [Tune In with Hayley Kiyoko ](https://open.spotify.com/playlist/37i9dQZF1DXbxJoqkIi5qT)
 

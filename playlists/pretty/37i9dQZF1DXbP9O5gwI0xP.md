@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbP9O5gwI0xP.md) - [plain](/playlists/plain/37i9dQZF1DXbP9O5gwI0xP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbP9O5gwI0xP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbP9O5gwI0xP.md) - [plain](/playlists/plain/37i9dQZF1DXbP9O5gwI0xP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbP9O5gwI0xP)
 
 ### [This Is Oasis](https://open.spotify.com/playlist/37i9dQZF1DXbP9O5gwI0xP)
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242,492 likes - 65 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243,849 likes - 65 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain](/playlists/plain/37i9dQZF1DX16doZpno3Aw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX16doZpno3Aw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain](/playlists/plain/37i9dQZF1DX16doZpno3Aw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX16doZpno3Aw)
 
 ### [trending moods](https://open.spotify.com/playlist/37i9dQZF1DX16doZpno3Aw)
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,550 likes - 113 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,686 likes - 113 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

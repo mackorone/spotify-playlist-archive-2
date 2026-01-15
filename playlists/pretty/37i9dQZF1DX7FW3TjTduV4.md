@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FW3TjTduV4.md) - [plain](/playlists/plain/37i9dQZF1DX7FW3TjTduV4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FW3TjTduV4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FW3TjTduV4.md) - [plain](/playlists/plain/37i9dQZF1DX7FW3TjTduV4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7FW3TjTduV4)
 
 ### [This Is: Dirty Projectors](https://open.spotify.com/playlist/37i9dQZF1DX7FW3TjTduV4)
 

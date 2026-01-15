@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain](/playlists/plain/37i9dQZF1DXbuw9ZO9Mfq5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbuw9ZO9Mfq5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain](/playlists/plain/37i9dQZF1DXbuw9ZO9Mfq5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbuw9ZO9Mfq5)
 
 ### [2025 Dove Awards ](https://open.spotify.com/playlist/37i9dQZF1DXbuw9ZO9Mfq5)
 
 > The official playlist for the 56th <a href="https://doveawards.com/">Dove Awards.</a> Watch the show on Fri., Oct\. 10th at 7:30 & 10 pm ET on <a href="https://www.tbn.org/2025doveawards">TBN</a> & the TBN+ app\.  Cover \(Host\): <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,719 likes - 135 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,716 likes - 135 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX17faKmFJMpl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX17faKmFJMpl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX17faKmFJMpl)
+[pretty](/playlists/pretty/37i9dQZF1DX17faKmFJMpl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX17faKmFJMpl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX17faKmFJMpl)
 
 ### [올드스쿨 한국힙합 베스트](https://open.spotify.com/playlist/37i9dQZF1DX17faKmFJMpl)
 

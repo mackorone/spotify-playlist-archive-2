@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain](/playlists/plain/37i9dQZF1DWYAI2XQZF5zW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYAI2XQZF5zW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain](/playlists/plain/37i9dQZF1DWYAI2XQZF5zW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYAI2XQZF5zW)
 
 ### [Bow Wow Reggae](https://open.spotify.com/playlist/37i9dQZF1DWYAI2XQZF5zW)
 

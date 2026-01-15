@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2rusQ7rLIMFYI2WaTpaaZr.md) - cumulative - [plain](/playlists/plain/2rusQ7rLIMFYI2WaTpaaZr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2rusQ7rLIMFYI2WaTpaaZr)
+[pretty](/playlists/pretty/2rusQ7rLIMFYI2WaTpaaZr.md) - cumulative - [plain](/playlists/plain/2rusQ7rLIMFYI2WaTpaaZr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2rusQ7rLIMFYI2WaTpaaZr)
 
 ### [Im a Goddamn Worker](https://open.spotify.com/playlist/2rusQ7rLIMFYI2WaTpaaZr)
 

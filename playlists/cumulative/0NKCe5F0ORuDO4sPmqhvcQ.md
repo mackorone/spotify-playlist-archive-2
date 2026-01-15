@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0NKCe5F0ORuDO4sPmqhvcQ.md) - cumulative - [plain](/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ)
+[pretty](/playlists/pretty/0NKCe5F0ORuDO4sPmqhvcQ.md) - cumulative - [plain](/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ)
 
 ### [Moving Castle Monthly](https://open.spotify.com/playlist/0NKCe5F0ORuDO4sPmqhvcQ)
 

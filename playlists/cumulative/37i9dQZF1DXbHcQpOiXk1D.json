@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: \noreglo",
+  "description": "The best from Britain's vibrant scene. Cover: \nAmy Gadiaga",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -1632,6 +1632,24 @@
       "duration_ms": 244120,
       "name": "Blessed Love",
       "url": "https://open.spotify.com/track/6pSHeOzu96EdyVRaqfWkge"
+    },
+    {
+      "album": {
+        "name": "Schism",
+        "url": "https://open.spotify.com/album/5aPDLmcYcgV8CKipAp4vyd"
+      },
+      "artists": [
+        {
+          "name": "Mike de Souza",
+          "url": "https://open.spotify.com/artist/5amuwSXGocWv4MZ5PhrT4d"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355963,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/3F3rxHeVip60UIolkWpuEx"
     },
     {
       "album": {
@@ -5632,7 +5650,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 246317,
       "name": "Higher Spirit",
       "url": "https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq"
@@ -7790,7 +7808,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190211,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/617iJNSnWz4F4qez3b304m"
@@ -15276,6 +15294,24 @@
       "duration_ms": 190466,
       "name": "Who Am I (eh-eh)",
       "url": "https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY"
+    },
+    {
+      "album": {
+        "name": "who knows",
+        "url": "https://open.spotify.com/album/38hhGCLfuJZOmU0cnDrsRB"
+      },
+      "artists": [
+        {
+          "name": "Amy Gadiaga",
+          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189948,
+      "name": "who knows",
+      "url": "https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw"
     },
     {
       "album": {

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2yMdqzOp3gbcNz17locUz4.md) - [plain](/playlists/plain/2yMdqzOp3gbcNz17locUz4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2yMdqzOp3gbcNz17locUz4)
+pretty - [cumulative](/playlists/cumulative/2yMdqzOp3gbcNz17locUz4.md) - [plain](/playlists/plain/2yMdqzOp3gbcNz17locUz4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2yMdqzOp3gbcNz17locUz4)
 
 ### [indieAnthro](https://open.spotify.com/playlist/2yMdqzOp3gbcNz17locUz4)
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH?si=rp\_WtEGDQ1WW7vZ6JzOEAg">polyana</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,665 likes - 116 songs - 6 hr 24 min
+[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,663 likes - 116 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

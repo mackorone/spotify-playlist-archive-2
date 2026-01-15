@@ -1,13 +1,93 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 44027,
+  "num_followers": 44232,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1QStdKEFaQSMJji2ptV0OxKK4J",
+  "snapshot_id": "AAAAAD3fO1KyucMY7II58m5lMphQQs+c",
   "tracks": [
+    {
+      "added_at": "2026-01-15 06:57:45",
+      "album": {
+        "name": "Fouad 26",
+        "url": "https://open.spotify.com/album/77qvt0BWKIxomLI9SQGCkQ"
+      },
+      "artists": [
+        {
+          "name": "Fouad Abdulwahed",
+          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
+        }
+      ],
+      "duration_ms": 223304,
+      "name": "Ya Mobdaa",
+      "url": "https://open.spotify.com/track/0f58OrUbfGpiF4q7lPMIuZ"
+    },
+    {
+      "added_at": "2026-01-08 11:28:43",
+      "album": {
+        "name": "Mareed | \u0645\u0631\u064a\u0636 (Piano Version)",
+        "url": "https://open.spotify.com/album/6ofuQiP910Yc3sg1lWmIx3"
+      },
+      "artists": [
+        {
+          "name": "Maha Ftouni",
+          "url": "https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn"
+        }
+      ],
+      "duration_ms": 103000,
+      "name": "Mareed | \u0645\u0631\u064a\u0636 (Piano Version)",
+      "url": "https://open.spotify.com/track/4obDYY1P5dRkxp6WOZpZZO"
+    },
+    {
+      "added_at": "2026-01-08 11:28:43",
+      "album": {
+        "name": "Enta",
+        "url": "https://open.spotify.com/album/7yLZnKqA3C1koUhVnW9o73"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "duration_ms": 263684,
+      "name": "Enta",
+      "url": "https://open.spotify.com/track/3ngFB96ifMSfbwcTCvKKSZ"
+    },
+    {
+      "added_at": "2026-01-15 06:57:45",
+      "album": {
+        "name": "Fouad 26",
+        "url": "https://open.spotify.com/album/77qvt0BWKIxomLI9SQGCkQ"
+      },
+      "artists": [
+        {
+          "name": "Fouad Abdulwahed",
+          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "Haak Glbi",
+      "url": "https://open.spotify.com/track/4ZNHWvR3qwB2r91uWFCzfY"
+    },
+    {
+      "added_at": "2026-01-08 11:28:43",
+      "album": {
+        "name": "Arja3 Le An",
+        "url": "https://open.spotify.com/album/1zlShYHGAXpworkwciHUI6"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "duration_ms": 310778,
+      "name": "Arja3 Le An",
+      "url": "https://open.spotify.com/track/3b4Fb82NgUrPeW6fIr9AKH"
+    },
     {
       "added_at": "2025-12-24 10:06:55",
       "album": {
@@ -527,22 +607,6 @@
     {
       "added_at": "2025-06-18 10:16:45",
       "album": {
-        "name": "Ensan Thani",
-        "url": "https://open.spotify.com/album/5rSKzPtgn1JVRYBtCgwAZ9"
-      },
-      "artists": [
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
-        }
-      ],
-      "duration_ms": 178441,
-      "name": "Ensan Thani",
-      "url": "https://open.spotify.com/track/0tT5jeodTu0FnUcuNl1KhO"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
         "name": "Yeshbah lak Aljaw",
         "url": "https://open.spotify.com/album/2gzokC633j9ojBjcAfSxvy"
       },
@@ -555,102 +619,6 @@
       "duration_ms": 196225,
       "name": "Yeshbah lak Aljaw",
       "url": "https://open.spotify.com/track/2YnkBkoDFhwBt1cEU28iHZ"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "Aijrah From Ayed Album 2025",
-        "url": "https://open.spotify.com/album/3uKcFQCnZ8G4fk27UHr83J"
-      },
-      "artists": [
-        {
-          "name": "Ayed",
-          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
-        }
-      ],
-      "duration_ms": 254571,
-      "name": "Aijrah From Ayed Album 2025",
-      "url": "https://open.spotify.com/track/1gEcBjWIseeYTHAIZjq8oV"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "Al Enaq Al Akheer - Part 1",
-        "url": "https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm"
-      },
-      "artists": [
-        {
-          "name": "Ahlam",
-          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
-        }
-      ],
-      "duration_ms": 257092,
-      "name": "Ah Men Qalbi",
-      "url": "https://open.spotify.com/track/4IKkoJtURxPMEgWtT6Prtv"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "Momken Aeesh",
-        "url": "https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ"
-      },
-      "artists": [
-        {
-          "name": "Haneen Hussain",
-          "url": "https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ"
-        }
-      ],
-      "duration_ms": 287692,
-      "name": "Momken Aeesh",
-      "url": "https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "\u062a\u0639\u0627\u0646\u062f\u064a\u0646\u064a",
-        "url": "https://open.spotify.com/album/7sdHl5bjjIQMAZGS7WeqAs"
-      },
-      "artists": [
-        {
-          "name": "Djmubarak",
-          "url": "https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ"
-        }
-      ],
-      "duration_ms": 189904,
-      "name": "\u062a\u0639\u0627\u0646\u062f\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/1be4SUHehMtF6qAqRkU2yU"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "\u0623\u0644\u0645\u062d \u0644\u0643",
-        "url": "https://open.spotify.com/album/0QQUrE9rkF9TWSsK4zapDZ"
-      },
-      "artists": [
-        {
-          "name": "Balqees",
-          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
-        }
-      ],
-      "duration_ms": 172197,
-      "name": "\u0623\u0644\u0645\u062d \u0644\u0643",
-      "url": "https://open.spotify.com/track/3NKkS7QOGTOSLD6B5aMi9r"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "\u0628\u0634\u0627\u0631 \u0627\u0644\u0634\u0637\u064a \u0662\u0660\u0662\u0665",
-        "url": "https://open.spotify.com/album/2r0N6tR20cIbndXE6TjTxo"
-      },
-      "artists": [
-        {
-          "name": "Bashar AlShatti",
-          "url": "https://open.spotify.com/artist/6fqcvzx5yorkIOK2HwL9hU"
-        }
-      ],
-      "duration_ms": 225754,
-      "name": "\u0623\u0648\u0644 \u062d\u0628",
-      "url": "https://open.spotify.com/track/534RVKGLxnWrjIYSKZKtOA"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

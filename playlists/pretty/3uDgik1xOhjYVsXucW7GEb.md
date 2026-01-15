@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3uDgik1xOhjYVsXucW7GEb.md) - [plain](/playlists/plain/3uDgik1xOhjYVsXucW7GEb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3uDgik1xOhjYVsXucW7GEb)
+pretty - [cumulative](/playlists/cumulative/3uDgik1xOhjYVsXucW7GEb.md) - [plain](/playlists/plain/3uDgik1xOhjYVsXucW7GEb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3uDgik1xOhjYVsXucW7GEb)
 
 ### [A Bite Out Of The Afternoon](https://open.spotify.com/playlist/3uDgik1xOhjYVsXucW7GEb)
 

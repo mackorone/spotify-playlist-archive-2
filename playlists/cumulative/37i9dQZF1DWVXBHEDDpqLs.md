@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVXBHEDDpqLs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVXBHEDDpqLs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVXBHEDDpqLs)
+[pretty](/playlists/pretty/37i9dQZF1DWVXBHEDDpqLs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVXBHEDDpqLs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVXBHEDDpqLs)
 
 ### [Club Culture](https://open.spotify.com/playlist/37i9dQZF1DWVXBHEDDpqLs)
 
-> the best cuts from the underground 💎 featuring QRTR 💎 mixed by Spotify editors
+> the best cuts from the underground 💎 featuring QRTR 💎
 
-882 songs - 2 day 14 hr 34 min
+883 songs - 2 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 | 2024-07-12 | 2024-10-02 |
 | [ASCEND](https://open.spotify.com/track/20cOEyAbHE1aq1FUaPCs1N) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [ASCEND](https://open.spotify.com/album/5QRbzvr5etZIqrGonFYr58) | 3:23 | 2025-10-10 |  |
 | [Ascend](https://open.spotify.com/track/380kcVQTdRwczzyjUWpSrS) | [not even noticed](https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo) | [Ascend](https://open.spotify.com/album/00QbjS3zx2KHH8A4IfPRLB) | 5:38 | 2024-07-18 | 2024-10-02 |
+| [ASSNSAOPAULO](https://open.spotify.com/track/6Lt2lmjnRB9iEZaJcFpJGA) | [Oak City Slums](https://open.spotify.com/artist/43ifmDjzO1yhzrsHJhN0cV) | [Untitled](https://open.spotify.com/album/6DoqrAbsrV8f3T8D1Dy2sW) | 5:11 | 2026-01-09 |  |
 | [Atomic](https://open.spotify.com/track/4JLOOh4uSHUv7bp14Gte2i) | [The 83rd](https://open.spotify.com/artist/1FtqY5JirHxqGfhTDJxNBC) | [Atomic](https://open.spotify.com/album/1Qbu3AQwfnrDiabbgYQaPh) | 1:26 | 2022-07-22 | 2022-07-29 |
 | [attachment \(she wanna love\)](https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC), [Kanii Archive](https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv) | [attachment \(she wanna love\)](https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl) | 1:28 | 2022-12-12 | 2023-02-25 |
 | [Automatic](https://open.spotify.com/track/6MIrLGtq5t0I3v3IV28fPk) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Automatic / Gentle Gaze](https://open.spotify.com/album/0UhTNCAmqaeJKXje7377P7) | 3:43 | 2025-05-23 | 2025-06-29 |
@@ -782,7 +783,7 @@
 | [Thicc!](https://open.spotify.com/track/4rO57uyJjDWkeML2AsRgQZ) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz), [Martyn Bootyspoon](https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC) | [Thicc!](https://open.spotify.com/album/1jZ338hTF7NlYIelRciKD4) | 4:15 | 2024-07-12 | 2024-08-03 |
 | [Thinking About You](https://open.spotify.com/track/7llDFqI7CEsHzeT7L5Au8Z) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Thinking About You](https://open.spotify.com/album/75SlnGZsGCrIUY3Skf2vA8) | 5:14 | 2025-03-24 | 2025-05-10 |
 | [Thirst](https://open.spotify.com/track/7sD9Y6qy01sSMaR7XNVTDl) | [Bodhi](https://open.spotify.com/artist/1C545778m57qWQwISWGAHD) | [Fade](https://open.spotify.com/album/5KqRrS3Qa2CpQCZMeA2B02) | 5:15 | 2025-11-07 |  |
-| [Three Dot](https://open.spotify.com/track/34j5OD6lAAO2LrwiMLTJXQ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Three Dot](https://open.spotify.com/album/1fpDxLGsE3DyWw641lVaMH) | 3:42 | 2025-12-05 |  |
+| [Three Dot](https://open.spotify.com/track/34j5OD6lAAO2LrwiMLTJXQ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Three Dot](https://open.spotify.com/album/1fpDxLGsE3DyWw641lVaMH) | 3:42 | 2025-12-05 | 2026-01-15 |
 | [Three Foxes Chasing Each Other](https://open.spotify.com/track/29w9L75FEZgCB9C3EZHGCX) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Three Foxes Chasing Each Other](https://open.spotify.com/album/4Oxx3dkxEELjYheEQKGOXZ) | 7:13 | 2025-02-28 | 2025-05-17 |
 | [Tighten Up](https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT) | [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p) | [Tighten Up](https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3) | 2:03 | 2021-12-10 | 2024-07-13 |
 | [Tinfoil](https://open.spotify.com/track/5cT0FWFW8cdUsaz7CWdcs1) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK), [Astrolith](https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I) | [Tinfoil](https://open.spotify.com/album/57ixMubBbJtKAUCSACUTxB) | 4:25 | 2024-07-12 | 2024-07-27 |

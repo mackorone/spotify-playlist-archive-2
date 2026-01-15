@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1430468,
+  "num_followers": 1431131,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAADvp4Jx6OY3jPRvQxeQDS/N",
+  "snapshot_id": "aWbcgAAAAADSTDSQSSQPJzZyxiVTFtjt",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 212760,
-      "name": "Tally",
-      "url": "https://open.spotify.com/track/0DGf6s54MQ3Oht41mj6s6K"
+      "duration_ms": 163160,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/5QzlDlRuT9D5LdpybJoNYi"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 163160,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/5QzlDlRuT9D5LdpybJoNYi"
+      "duration_ms": 212760,
+      "name": "Tally",
+      "url": "https://open.spotify.com/track/0DGf6s54MQ3Oht41mj6s6K"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 203826,
-      "name": "Drum Show",
-      "url": "https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph"
+      "duration_ms": 196666,
+      "name": "Garbage",
+      "url": "https://open.spotify.com/track/6YJYhPKP7MRzJSHqe3QI9K"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 196666,
-      "name": "Garbage",
-      "url": "https://open.spotify.com/track/6YJYhPKP7MRzJSHqe3QI9K"
+      "duration_ms": 203826,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 322066,
-      "name": "City Walls",
-      "url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb"
+      "duration_ms": 228173,
+      "name": "Center Mass",
+      "url": "https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Oh Ms Believer",
-      "url": "https://open.spotify.com/track/4JdJ95CXOA0loxFxO288iK"
+      "duration_ms": 182000,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty One Pilots",
-        "url": "https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa"
+        "name": "Level of Concern",
+        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50"
+      "duration_ms": 220051,
+      "name": "Level of Concern",
+      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
       "duration_ms": 223065,
       "name": "Choker",
       "url": "https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Level of Concern",
-        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 220051,
-      "name": "Level of Concern",
-      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
     },
     {
       "added_at": null,

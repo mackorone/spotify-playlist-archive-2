@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO146luW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO146luW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO146luW)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO146luW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO146luW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO146luW)
 
 ### [This Is Koe Wetzel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO146luW)
 

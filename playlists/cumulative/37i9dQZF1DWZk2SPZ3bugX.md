@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZk2SPZ3bugX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZk2SPZ3bugX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZk2SPZ3bugX)
+[pretty](/playlists/pretty/37i9dQZF1DWZk2SPZ3bugX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZk2SPZ3bugX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZk2SPZ3bugX)
 
 ### [Apéro !](https://open.spotify.com/playlist/37i9dQZF1DWZk2SPZ3bugX)
 
 > 🍾
 
-265 songs - 15 hr 12 min
+266 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Body Over Here](https://open.spotify.com/track/53apPgrnpFAtIsUwWTKbv3) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Body Over Here](https://open.spotify.com/album/1rjEOqtI2JV6Qm7AIrxLdZ) | 2:39 | 2025-09-18 | 2025-10-03 |
 | [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 | 2023-03-24 |  |
 | [Breathin](https://open.spotify.com/track/0CfX8IKYaD3jd774RRcZJJ) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Breathin](https://open.spotify.com/album/0eFJJh3m1gu97k5cSEWpbF) | 3:20 | 2022-12-08 | 2023-09-23 |
+| [By My Side](https://open.spotify.com/track/4s6Yv9iUvqQEUIanfZinaw) | [Sam Quealy](https://open.spotify.com/artist/0GLGeVG3XTA2KmlmAd05T8), [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs) | [By My Side](https://open.spotify.com/album/0IXlTgFTZuN73vfQOxED6N) | 2:47 | 2026-01-09 |  |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2022-12-08 | 2023-09-23 |
 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 | 2023-01-04 | 2024-12-07 |
 | [Calvin](https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Calvin](https://open.spotify.com/album/7lN3wA0cM16Sdg1qdF86Yn) | 3:03 | 2023-02-24 | 2025-01-17 |

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain](/playlists/plain/37i9dQZF1DX5U6zglSmV86) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5U6zglSmV86)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain](/playlists/plain/37i9dQZF1DX5U6zglSmV86) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5U6zglSmV86)
 
 ### [HUSTLEANDO](https://open.spotify.com/playlist/37i9dQZF1DX5U6zglSmV86)
 
 > Nuestra escuela es la calle\. Pirlo en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,318 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,277 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LF9iFWv9Ie.md) - [plain](/playlists/plain/37i9dQZF1DX2LF9iFWv9Ie) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2LF9iFWv9Ie)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LF9iFWv9Ie.md) - [plain](/playlists/plain/37i9dQZF1DX2LF9iFWv9Ie) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2LF9iFWv9Ie)
 
 ### [Pop Punk Throwback Videos](https://open.spotify.com/playlist/37i9dQZF1DX2LF9iFWv9Ie)
 
 > It was never just a phase\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,536 likes - 15 songs - 48 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,149 likes - 15 songs - 48 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

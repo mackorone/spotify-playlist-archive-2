@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -4116,7 +4116,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 152026,
-      "name": "Mountain Greenery",
+      "name": "Mountain Greenery (From \"Cafe Society\" Soundtrack)",
       "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
     },
     {
@@ -6039,6 +6039,24 @@
     },
     {
       "album": {
+        "name": "Cryin' for the Beloved",
+        "url": "https://open.spotify.com/album/2ImphuVAP1tbkMdJ8ftrjM"
+      },
+      "artists": [
+        {
+          "name": "Ruth Etting",
+          "url": "https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Ten Cents a Dance",
+      "url": "https://open.spotify.com/track/7qeVNINPtcDeQZVcg5VPQz"
+    },
+    {
+      "album": {
         "name": "You're the Cream in My Coffee (Original Recordings 1928 -1931)",
         "url": "https://open.spotify.com/album/2zFmeMO8LogbcrxoemRx2L"
       },
@@ -6050,7 +6068,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195466,
       "name": "Ten Cents a Dance",
       "url": "https://open.spotify.com/track/1I06bhpXDt43BoVkRrwD8g"
@@ -8006,7 +8024,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 164173,
       "name": "You'll Never Walk Alone - Stereo; 1997 Remaster",
       "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"

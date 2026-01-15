@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1k0OdTn3ZMX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1k0OdTn3ZMX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1k0OdTn3ZMX)
+[pretty](/playlists/pretty/37i9dQZF1DX1k0OdTn3ZMX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1k0OdTn3ZMX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1k0OdTn3ZMX)
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
@@ -163,7 +163,7 @@
 | [Homebound](https://open.spotify.com/track/6ViU8p8KmjL02ZzWwYBGYu) | [dEMOTIONAL](https://open.spotify.com/artist/0RuPWYczjuZmLc4omO51GN) | [Homebound](https://open.spotify.com/album/0ViSCyRzZDIQceh1OXLrlk) | 4:52 | 2025-05-16 | 2025-11-22 |
 | [HOPELESS](https://open.spotify.com/track/7A9Tk8yUzaqgN8gt6jdaKV) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [HOPELESS](https://open.spotify.com/album/2JB2vd2M2Z1HwU2xdEbd8E) | 3:18 | 2025-08-01 |  |
 | [Human](https://open.spotify.com/track/042GkzRN9bEVHPUqLqk5vi) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Human](https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb) | 3:44 | 2024-06-21 | 2024-10-12 |
-| [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 | 2025-08-29 |  |
+| [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:27 | 2025-08-29 |  |
 | [Hype Man](https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Hype Man](https://open.spotify.com/album/2Gmcj6USDIZh2tGg0Z3068) | 4:08 | 2025-08-29 | 2025-09-20 |
 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 | 2024-05-03 | 2025-06-28 |
 | [I Remember](https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [I Remember](https://open.spotify.com/album/6hP42dqjbIWOS8gdHXWueK) | 3:08 | 2023-09-13 | 2024-04-06 |

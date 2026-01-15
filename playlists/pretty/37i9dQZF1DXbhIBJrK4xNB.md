@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhIBJrK4xNB.md) - [plain](/playlists/plain/37i9dQZF1DXbhIBJrK4xNB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbhIBJrK4xNB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhIBJrK4xNB.md) - [plain](/playlists/plain/37i9dQZF1DXbhIBJrK4xNB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbhIBJrK4xNB)
 
 ### [Raised on Motown](https://open.spotify.com/playlist/37i9dQZF1DXbhIBJrK4xNB)
 

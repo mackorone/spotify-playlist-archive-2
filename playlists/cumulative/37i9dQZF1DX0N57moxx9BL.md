@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0N57moxx9BL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0N57moxx9BL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0N57moxx9BL)
+[pretty](/playlists/pretty/37i9dQZF1DX0N57moxx9BL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0N57moxx9BL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0N57moxx9BL)
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Art of Dying
 
-275 songs - 17 hr 35 min
+276 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [I Won't Look Back](https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [I Won't Look Back](https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn) | 3:20 | 2021-05-28 | 2025-03-15 |
 | [I'm Done](https://open.spotify.com/track/2TRCXH1RCQKi6jhYO8Cfmu) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [I'm Done](https://open.spotify.com/album/0qgFmorqdP4mfdCYG4sXLS) | 4:48 | 2025-05-09 | 2025-09-27 |
 | [I'm Living Righteous](https://open.spotify.com/track/1nxEUqqYeq2UCObsrZ30y4) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [I'm Living Righteous](https://open.spotify.com/album/0ciyefHKuOKaPFTmMStdea) | 2:40 | 2023-02-17 | 2024-05-06 |
-| [Identity Theft](https://open.spotify.com/track/3GNyLio1Z2VueMc8RSMvfj) | [Mr\. Weaverface](https://open.spotify.com/artist/4153J2W6MAMlUO3P7E46UU) | [Identity Theft](https://open.spotify.com/album/0Nb2zlQ9n4qZRIbdanPO8H) | 3:58 | 2025-11-07 |  |
+| [Identity Theft](https://open.spotify.com/track/3GNyLio1Z2VueMc8RSMvfj) | [Mr\. Weaverface](https://open.spotify.com/artist/4153J2W6MAMlUO3P7E46UU) | [Identity Theft](https://open.spotify.com/album/0Nb2zlQ9n4qZRIbdanPO8H) | 3:58 | 2025-11-07 | 2026-01-15 |
 | [If You Say So](https://open.spotify.com/track/6i6ICL9Dtjb1ksZiWN24NP) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [If You Say So](https://open.spotify.com/album/1WjUgogBBdknbnDVkbTuur) | 3:46 | 2024-11-01 | 2025-03-29 |
 | [In Christ Alone](https://open.spotify.com/track/0nAN6wiyy71swNbb0ece0j) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Skyler Murray](https://open.spotify.com/artist/2GOIrJCT3ZzhSWeX6fxChI) | [In Christ Alone](https://open.spotify.com/album/3biVnabt12iMMpVIQXh6jG) | 4:21 | 2024-08-09 | 2025-03-29 |
 | [In Defiance](https://open.spotify.com/track/17VvT0RZ6HcRkpMbw1xgn3) | [Matt Sassano](https://open.spotify.com/artist/57qdENESO67xX6tvTXTLtk) | [In Defiance](https://open.spotify.com/album/10V2CzomOo7tBR27HsKon5) | 3:26 | 2023-11-17 | 2025-06-01 |
@@ -277,6 +277,7 @@
 | [Word of God](https://open.spotify.com/track/0TZ1y9Q1lyZkx9pnBaDRNb) | [Peyton Parrish](https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc) | [EvangelCore 1](https://open.spotify.com/album/49QQ8irqKZowFRo3vrquyj) | 3:13 | 2025-12-12 |  |
 | [Words of Fire](https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Words of Fire](https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H) | 4:11 | 2022-10-29 | 2024-06-29 |
 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-06-28 | 2025-06-14 |
+| [Writing on the Wall](https://open.spotify.com/track/33rKDtjJQF9AnqG7Xs1JR8) | [Mr\. Weaverface](https://open.spotify.com/artist/4153J2W6MAMlUO3P7E46UU) | [Writing on the Wall](https://open.spotify.com/album/2TJ1HqBEj12H1VKEOHsESC) | 4:48 | 2026-01-10 |  |
 | [You Are](https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [You Are](https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51) | 3:31 | 2022-01-14 | 2025-07-26 |
 | [You Say](https://open.spotify.com/track/0azNnZ6nCehFPSVBVYUfCM) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [You Say](https://open.spotify.com/album/2ojTEofDHQgxdJtrtFdxZl) | 4:14 | 2025-12-12 |  |
 | [Your Cross Is Everything](https://open.spotify.com/track/0ze66t6iOmallLyPADgeZ3) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Your Cross Is Everything](https://open.spotify.com/album/6HWTO02Y2LAPsPQ8vuaVXR) | 3:55 | 2024-11-01 |  |

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWggFU8R1w.md) - [plain](/playlists/plain/37i9dQZF1DX1IWggFU8R1w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1IWggFU8R1w)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWggFU8R1w.md) - [plain](/playlists/plain/37i9dQZF1DX1IWggFU8R1w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1IWggFU8R1w)
 
 ### [The Witcher Official Playlist ](https://open.spotify.com/playlist/37i9dQZF1DX1IWggFU8R1w)
 
 > The worst monsters are the ones we create\. Listen to the music from The Witcher, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,802 likes - 215 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,978 likes - 215 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

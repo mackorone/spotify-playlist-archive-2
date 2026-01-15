@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PpnjmttPui.md) - [plain](/playlists/plain/37i9dQZF1DX9PpnjmttPui) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9PpnjmttPui)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PpnjmttPui.md) - [plain](/playlists/plain/37i9dQZF1DX9PpnjmttPui) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9PpnjmttPui)
 
 ### [Mixtape \#13 Clairo "Charming to Me"](https://open.spotify.com/playlist/37i9dQZF1DX9PpnjmttPui)
 
 > <a href="spotify:artist:3l0CmX0FuQjFxr8SK7Vqag">Clairo</a> shares the songs she finds charming ✨ Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,614 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,959 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

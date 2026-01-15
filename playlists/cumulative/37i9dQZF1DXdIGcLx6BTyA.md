@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdIGcLx6BTyA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdIGcLx6BTyA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdIGcLx6BTyA)
+[pretty](/playlists/pretty/37i9dQZF1DXdIGcLx6BTyA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdIGcLx6BTyA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdIGcLx6BTyA)
 
 ### [Americana Drive ](https://open.spotify.com/playlist/37i9dQZF1DXdIGcLx6BTyA)
 

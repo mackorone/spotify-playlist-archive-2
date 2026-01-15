@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3JX984v2WSM9LZQGVkE1Pu.md) - cumulative - [plain](/playlists/plain/3JX984v2WSM9LZQGVkE1Pu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3JX984v2WSM9LZQGVkE1Pu)
+[pretty](/playlists/pretty/3JX984v2WSM9LZQGVkE1Pu.md) - cumulative - [plain](/playlists/plain/3JX984v2WSM9LZQGVkE1Pu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3JX984v2WSM9LZQGVkE1Pu)
 
 ### [Best of Verve Records](https://open.spotify.com/playlist/3JX984v2WSM9LZQGVkE1Pu)
 

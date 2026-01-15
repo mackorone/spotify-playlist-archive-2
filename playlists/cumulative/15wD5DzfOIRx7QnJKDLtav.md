@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/15wD5DzfOIRx7QnJKDLtav.md) - cumulative - [plain](/playlists/plain/15wD5DzfOIRx7QnJKDLtav) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/15wD5DzfOIRx7QnJKDLtav)
+[pretty](/playlists/pretty/15wD5DzfOIRx7QnJKDLtav.md) - cumulative - [plain](/playlists/plain/15wD5DzfOIRx7QnJKDLtav) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/15wD5DzfOIRx7QnJKDLtav)
 
 ### [Austin Pops](https://open.spotify.com/playlist/15wD5DzfOIRx7QnJKDLtav)
 

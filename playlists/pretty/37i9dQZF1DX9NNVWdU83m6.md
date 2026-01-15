@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain](/playlists/plain/37i9dQZF1DX9NNVWdU83m6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9NNVWdU83m6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain](/playlists/plain/37i9dQZF1DX9NNVWdU83m6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9NNVWdU83m6)
 
 ### [Prog Jazz](https://open.spotify.com/playlist/37i9dQZF1DX9NNVWdU83m6)
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,537 likes - 131 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,618 likes - 131 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 11 | [The Kingdom](https://open.spotify.com/track/7xg5pETbe5jWXqTekOnx57) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW) | [The Kingdom](https://open.spotify.com/album/65s29DEqLyU9oQ0ay95XM6) | 3:29 |
 | 12 | [Tiny Desk Submission](https://open.spotify.com/track/1r6KSq9LLJa6b25AJNTDyc) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [TyC](https://open.spotify.com/artist/2VjJ70ddXIbIGaeR5h35Ry), [Gabe Jones](https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP) | [Tiny Desk Submission](https://open.spotify.com/album/0oJ8BwJ4oKO6cUCfagE0jH) | 3:45 |
 | 13 | [Notbad](https://open.spotify.com/track/2BRWFZdMZpWdEcS13RmVoB) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Notbad](https://open.spotify.com/album/6ysbCFN1LoILYOj5Y46yVb) | 4:09 |
-| 14 | [Closer](https://open.spotify.com/track/3B5Wk1AhqKSSB4EQAP7WBO) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Dario Chiazzolino](https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Closer](https://open.spotify.com/album/5FmLzaMLG8dIHvYNpJrgWu) | 5:27 |
+| 14 | [Closer](https://open.spotify.com/track/3B5Wk1AhqKSSB4EQAP7WBO) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Dario Chiazzolino](https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21) | [Closer](https://open.spotify.com/album/5FmLzaMLG8dIHvYNpJrgWu) | 5:27 |
 | 15 | [Excusezmoi](https://open.spotify.com/track/0Qn6rpAQjlEzCeTOYvZ2GV) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Excusezmoi](https://open.spotify.com/album/2tCpO2yN4h0LIsbwEGmvEW) | 3:01 |
 | 16 | [Sands Of Time](https://open.spotify.com/track/4i3jOeue9K8kh73ZXW7All) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Sands Of Time](https://open.spotify.com/album/0mLsY0d1yTovXfhEAWqwAi) | 2:07 |
 | 17 | [Spanish Eddie](https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt) | [The Aristocrats](https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth) | [You Know What...?](https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw) | 6:56 |

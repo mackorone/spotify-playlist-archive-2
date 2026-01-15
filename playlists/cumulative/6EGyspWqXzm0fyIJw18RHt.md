@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6EGyspWqXzm0fyIJw18RHt.md) - cumulative - [plain](/playlists/plain/6EGyspWqXzm0fyIJw18RHt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6EGyspWqXzm0fyIJw18RHt)
+[pretty](/playlists/pretty/6EGyspWqXzm0fyIJw18RHt.md) - cumulative - [plain](/playlists/plain/6EGyspWqXzm0fyIJw18RHt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6EGyspWqXzm0fyIJw18RHt)
 
 ### [Halloween](https://open.spotify.com/playlist/6EGyspWqXzm0fyIJw18RHt)
 

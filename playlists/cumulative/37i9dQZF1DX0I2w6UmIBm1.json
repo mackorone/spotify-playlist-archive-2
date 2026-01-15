@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/1RZZDgzZS5YuNydRqvV8jg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/16V6PZgE0c35dOdiWXvWuA"
+    },
+    {
+      "album": {
         "name": "All That I Am",
         "url": "https://open.spotify.com/album/1RlQyS6TsQgEdTBjwC0LKN"
       },
@@ -586,6 +604,24 @@
       "duration_ms": 143358,
       "name": "Coming Clean",
       "url": "https://open.spotify.com/track/6pkstlQTfCmJ8kILpfFx1R"
+    },
+    {
+      "album": {
+        "name": "Dead of Winter",
+        "url": "https://open.spotify.com/album/6KJLsuuF099A0N4LAA0c2H"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207050,
+      "name": "Dead of Winter",
+      "url": "https://open.spotify.com/track/2AmyiYMxIRUMeayl63jSAx"
     },
     {
       "album": {
@@ -2166,7 +2202,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 269233,
       "name": "The Cross Once Was a Tree",
       "url": "https://open.spotify.com/track/72e6iXRqXnyb66UGLHti02"
@@ -2462,7 +2498,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 137274,
       "name": "Unlike Anything Else",
       "url": "https://open.spotify.com/track/0Trizx3u37AblSR9b7QknM"

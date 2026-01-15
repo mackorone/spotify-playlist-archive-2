@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JuPU62sIoU.md) - [plain](/playlists/plain/37i9dQZF1DX6JuPU62sIoU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6JuPU62sIoU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JuPU62sIoU.md) - [plain](/playlists/plain/37i9dQZF1DX6JuPU62sIoU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6JuPU62sIoU)
 
 ### [This Is Nickelback](https://open.spotify.com/playlist/37i9dQZF1DX6JuPU62sIoU)
 

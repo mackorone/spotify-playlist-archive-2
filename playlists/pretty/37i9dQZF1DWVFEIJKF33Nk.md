@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFEIJKF33Nk.md) - [plain](/playlists/plain/37i9dQZF1DWVFEIJKF33Nk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVFEIJKF33Nk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFEIJKF33Nk.md) - [plain](/playlists/plain/37i9dQZF1DWVFEIJKF33Nk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVFEIJKF33Nk)
 
 ### [APIHM Takeover: Amanda Nguyen](https://open.spotify.com/playlist/37i9dQZF1DWVFEIJKF33Nk)
 

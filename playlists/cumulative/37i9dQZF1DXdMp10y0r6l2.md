@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdMp10y0r6l2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdMp10y0r6l2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdMp10y0r6l2)
+[pretty](/playlists/pretty/37i9dQZF1DXdMp10y0r6l2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdMp10y0r6l2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdMp10y0r6l2)
 
 ### [Dark and Furious](https://open.spotify.com/playlist/37i9dQZF1DXdMp10y0r6l2)
 
@@ -108,7 +108,7 @@
 | [Contraluz](https://open.spotify.com/track/1ddJYTi53EUmc01dyaj3cK) | [Joliette](https://open.spotify.com/artist/7JOp3kPMRLD0DfV7xxkIE2) | [Contraluz](https://open.spotify.com/album/3Pvdkx8s7TBBnVs3BtL2Sp) | 3:46 | 2025-07-29 | 2025-12-27 |
 | [Coven Maleficia](https://open.spotify.com/track/01nTf6RoEk2HTyDXuHr3qx) | [In Obscurity Revealed](https://open.spotify.com/artist/1zYUInYNfj4e7BO4ia4xMv) | [Glorious Impurity](https://open.spotify.com/album/5z2lGGj2wtbSnBmybzsdcC) | 3:37 | 2024-08-20 | 2024-10-22 |
 | [Crucifixion Justified \(Roman Supremacy\)](https://open.spotify.com/track/6cgpCmuMuclMThXs8E3pVi) | [Ancient Rites](https://open.spotify.com/artist/0okB1HEJFLD98VkNzLtTBJ) | [The Diabolic Serenades](https://open.spotify.com/album/0ozRNwjj1kWzPPQb94UKzA) | 3:55 | 2025-08-28 | 2025-09-27 |
-| [Cry All Month](https://open.spotify.com/track/6JucJVJofpzjawz7Ey0deY) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Cry All Month](https://open.spotify.com/album/4QbeJQGDwYkZmwqp4r5Eow) | 3:09 | 2025-12-26 |  |
+| [Cry All Month](https://open.spotify.com/track/6JucJVJofpzjawz7Ey0deY) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Pain\. // Cry All Month](https://open.spotify.com/album/4QbeJQGDwYkZmwqp4r5Eow) | 3:09 | 2025-12-26 |  |
 | [Crystallized](https://open.spotify.com/track/3ctwSUWZthMTGyfzg7tKsb) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Crystallized](https://open.spotify.com/album/1Fg205cxocQXFvnOSC12TP) | 3:01 | 2023-09-22 | 2024-01-26 |
 | [Cut the Cord](https://open.spotify.com/track/0S1KbLQ5R6bRA0MquaPnQl) | [Necrot](https://open.spotify.com/artist/5jWIRPU5rVBm6ky8Atq7AW) | [Lifeless Birth](https://open.spotify.com/album/05kOE4UkPAJW5a0FuRxs4X) | 5:16 | 2025-08-28 | 2025-09-27 |
 | [Cyntefyns Fountain \- Re\-Mastered Version 2025](https://open.spotify.com/track/2a5sHVxK0nnG7nN3kiUVjX) | [Absu](https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP) | [The Sun Of Tiphareth \(30th anniversary edition\)](https://open.spotify.com/album/3SMxFvjeNZGMdlGxsYhtNH) | 3:46 | 2025-08-28 | 2025-09-27 |

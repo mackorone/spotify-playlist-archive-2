@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain](/playlists/plain/37i9dQZF1DX6scD2GXri65) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6scD2GXri65)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain](/playlists/plain/37i9dQZF1DX6scD2GXri65) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6scD2GXri65)
 
 ### [Hardstyle Gym 💪](https://open.spotify.com/playlist/37i9dQZF1DX6scD2GXri65)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaFm6IhSHlyi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaFm6IhSHlyi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaFm6IhSHlyi)
+[pretty](/playlists/pretty/37i9dQZF1DXaFm6IhSHlyi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaFm6IhSHlyi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaFm6IhSHlyi)
 
 ### [Ballads International](https://open.spotify.com/playlist/37i9dQZF1DXaFm6IhSHlyi)
 

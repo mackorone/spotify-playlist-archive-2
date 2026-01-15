@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain](/playlists/plain/7wCNxGSjlhWAooeoqthbpT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7wCNxGSjlhWAooeoqthbpT)
+pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain](/playlists/plain/7wCNxGSjlhWAooeoqthbpT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7wCNxGSjlhWAooeoqthbpT)
 
 ### [EPIC VIBES](https://open.spotify.com/playlist/7wCNxGSjlhWAooeoqthbpT)
 
 > Check your vibe with Epic Records\. cover: Future &amp; Metro Boomin
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,847 likes - 39 songs - 1 hr 59 min
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,845 likes - 39 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

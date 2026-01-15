@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain](/playlists/plain/2peJPuYDQJMsmEpjqMALnl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2peJPuYDQJMsmEpjqMALnl)
+pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain](/playlists/plain/2peJPuYDQJMsmEpjqMALnl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2peJPuYDQJMsmEpjqMALnl)
 
 ### [80s Classic Hits \| The Best of the 80s](https://open.spotify.com/playlist/2peJPuYDQJMsmEpjqMALnl)
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 324,233 likes - 115 songs - 8 hr 4 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 324,188 likes - 115 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 114 | [Don't Stand So Close To Me \- Remastered 2003](https://open.spotify.com/track/0OSNeMv5ik3W4NP401qRzz) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Police](https://open.spotify.com/album/6kuekO4YJcEqW3iPzUMTOU) | 4:01 |
 | 115 | [Hurts So Good](https://open.spotify.com/track/5bdV3YXrlYSw1pwJIrEpF4) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [The Best That I Could Do 1978 \- 1988](https://open.spotify.com/album/2ssc6teLS9Pr9JV7AuXUS4) | 3:39 |
 
-Snapshot ID: `AAAFhimUY+/S5cl1PRrC4edazr+tA7W3`
+Snapshot ID: `AAAFiFWE5aHYT24FqUFdvNXKrqYRnS2f`

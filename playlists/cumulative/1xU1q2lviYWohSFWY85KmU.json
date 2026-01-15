@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221860,
       "name": "Artifact (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/25a28jcbgjocfD2jWlZ1Ay"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 220773,
       "name": "OGRE (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6z8HYX9as3LhByjjMi91IR"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 234664,
       "name": "Si Lo Puedes ReconoceR",
       "url": "https://open.spotify.com/track/3P0K2zIqh8rVtyzQj1MGEx"
@@ -1714,6 +1714,46 @@
       "duration_ms": 182500,
       "name": "\u3044\u3063\u3071\u3044\u30ad\u30e3\u30d1\u30b7\u30c6\u30a3 (feat. VOICEVOX:\u6625\u65e5\u90e8\u3064\u3080\u304e&VOICEVOX:\u305a\u3093\u3060\u3082\u3093)",
       "url": "https://open.spotify.com/track/6tgaOotGVRIzmNT1jC4Nxa"
+    },
+    {
+      "album": {
+        "name": "\u3046\u3064\u308d\u304b\u305a\u3089",
+        "url": "https://open.spotify.com/album/290fGJzp18Mn0UCp0gYZPP"
+      },
+      "artists": [
+        {
+          "name": "\u4e00\u4e8c\u4e09",
+          "url": "https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217241,
+      "name": "\u3046\u3064\u308d\u304b\u305a\u3089",
+      "url": "https://open.spotify.com/track/0ufEoCQCYAqJWOHnm4swmk"
+    },
+    {
+      "album": {
+        "name": "\u3046\u306a\u3063\u3066\uff01\u30b9\u30d0\u30e9\u30b7\u30fc\uff01",
+        "url": "https://open.spotify.com/album/4aD8ueQH7u1zB1QJfsBCmg"
+      },
+      "artists": [
+        {
+          "name": "kinoshita",
+          "url": "https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5"
+        },
+        {
+          "name": "\u97f3\u8857\u30a6\u30ca",
+          "url": "https://open.spotify.com/artist/3vx4KtiD9ciUsGOamm2ZcA"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "\u3046\u306a\u3063\u3066\uff01\u30b9\u30d0\u30e9\u30b7\u30fc\uff01 (feat. \u97f3\u8857\u30a6\u30ca)",
+      "url": "https://open.spotify.com/track/148MqwbOAYp1D13FwOigw8"
     },
     {
       "album": {
@@ -2910,7 +2950,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 276000,
       "name": "\u30a4\u30f3\u30c6\u30b0\u30e9\u30eb (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/041CKBkhEV1clFi9vYqUsP"
@@ -3222,6 +3262,28 @@
       "duration_ms": 151752,
       "name": "\u30ab\u30a4\u30b3",
       "url": "https://open.spotify.com/track/6Srgvq9ryPxhr2coAYl7RZ"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30eb\u30fb\u30c6\u30c8\u5168\u96c6",
+        "url": "https://open.spotify.com/album/2k5M9SKEKZSRYnraqcI9sr"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30ad\u30b7\u30a6\u30ad\u30e7\u30a6",
+          "url": "https://open.spotify.com/artist/1FngzSsckjFKWwUgcxqTo1"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247053,
+      "name": "\u30ab\u30eb\u30fb\u30c6\u30c8\uff081\u5e74\u3042\u308a\u304c\u3068\u611f\u8b1d\u6b4c\uff09 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/4cdITqj3SasafE8wcBkM1b"
     },
     {
       "album": {
@@ -4567,6 +4629,28 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30ed\u30fc\u30a4\u30a8\u30ed\u30fc\u30ae\u30e3\u30e9\u30af\u30b7\u30fc",
+        "url": "https://open.spotify.com/album/5FLWGG6OziUQq2jY38GUCf"
+      },
+      "artists": [
+        {
+          "name": "\u30bf\u30b1\u30ce\u30b3\u5c11\u5e74",
+          "url": "https://open.spotify.com/artist/1B1jSMK8pabW2JPBgYvF0K"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176544,
+      "name": "\u30cf\u30ed\u30fc\u30a4\u30a8\u30ed\u30fc\u30ae\u30e3\u30e9\u30af\u30b7\u30fc (feat. \u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/343spLbX8eXOw5YScltf7r"
+    },
+    {
+      "album": {
         "name": "\u305d\u306e\u82b1\u306f\u900f\u660e\u306b\u63fa\u3089\u3044\u3060",
         "url": "https://open.spotify.com/album/4CmPZjwkdHIT5NtguDDMGP"
       },
@@ -5116,7 +5200,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171400,
       "name": "\u30de\u30b7\u30e5\u30de\u30ed",
       "url": "https://open.spotify.com/track/5xHiOqr0nATQdZYVGUO9iW"
@@ -6882,6 +6966,28 @@
       "duration_ms": 172349,
       "name": "\u5f81\u3051 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/3k0XR0sZUmBnt1wCJPnjtr"
+    },
+    {
+      "album": {
+        "name": "\u5f92\u82b1\u306e\u30a2\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/3LvcX1rDD0p8D7R3IB7YHg"
+      },
+      "artists": [
+        {
+          "name": "\u3057\u3044\u304b",
+          "url": "https://open.spotify.com/artist/6fUQHzr8CMhyBI7fzCNd9q"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206267,
+      "name": "\u5f92\u82b1\u306e\u30a2\u30ea\u30a2 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3xdAr1E93InSHH9MyxCah4"
     },
     {
       "album": {

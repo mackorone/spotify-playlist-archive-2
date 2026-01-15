@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain](/playlists/plain/37i9dQZF1DXbIqU3eEXwop) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbIqU3eEXwop)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain](/playlists/plain/37i9dQZF1DXbIqU3eEXwop) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbIqU3eEXwop)
 
 ### [Ultimate Summer Party](https://open.spotify.com/playlist/37i9dQZF1DXbIqU3eEXwop)
 
 > Les indispensables de l'été.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,111 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,061 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

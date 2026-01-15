@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Drake",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Nafe Smallz & NorthSideBenji",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -274,6 +274,28 @@
       "duration_ms": 181608,
       "name": "1800-GRASSWAYS",
       "url": "https://open.spotify.com/track/3ijY1FStYw0rShkS7qIIGw"
+    },
+    {
+      "album": {
+        "name": "18th",
+        "url": "https://open.spotify.com/album/33odwoGDalioz1Nsxjpndn"
+      },
+      "artists": [
+        {
+          "name": "L.Teez",
+          "url": "https://open.spotify.com/artist/1EmB5R56dDKiZEapIvJYOL"
+        },
+        {
+          "name": "1000joules",
+          "url": "https://open.spotify.com/artist/5ZAvdhTpqHgx29fmUQvAuY"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "18th",
+      "url": "https://open.spotify.com/track/3UqVu7F3HJSOz0V8CrFEfp"
     },
     {
       "album": {
@@ -2162,7 +2184,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 246530,
       "name": "All Night",
       "url": "https://open.spotify.com/track/69B9ZflUw6zPbnqxXv03zF"
@@ -3334,6 +3356,28 @@
       "duration_ms": 211764,
       "name": "Back Outside",
       "url": "https://open.spotify.com/track/5sjEO4n21rWRZtzjlearQG"
+    },
+    {
+      "album": {
+        "name": "Lavish Nights",
+        "url": "https://open.spotify.com/album/4EDl8UU7EZ90KqhbHJaz1O"
+      },
+      "artists": [
+        {
+          "name": "8OND",
+          "url": "https://open.spotify.com/artist/2fIXVJyjdQAhvCx7Dzt5Ew"
+        },
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148824,
+      "name": "Back Seat (feat. Luh Kel)",
+      "url": "https://open.spotify.com/track/4qL9d0bYh0KYV0FMBIStfs"
     },
     {
       "album": {
@@ -6472,7 +6516,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 126150,
       "name": "Can I Be Real",
       "url": "https://open.spotify.com/track/0gICWRgW2FSmPNDgtOqgKZ"
@@ -8564,7 +8608,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196772,
       "name": "CRASH DUMMY",
       "url": "https://open.spotify.com/track/4XTP5kqNyJ6mgaap9Imo7W"
@@ -9116,7 +9160,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211200,
       "name": "Danse sans fin",
       "url": "https://open.spotify.com/track/71nLshcLairxeRl4VZMMZw"
@@ -10156,6 +10200,28 @@
       "duration_ms": 204497,
       "name": "Dollar & A Dream",
       "url": "https://open.spotify.com/track/3arQ3FXS8fgowXZtpNbpnZ"
+    },
+    {
+      "album": {
+        "name": "Dollarama",
+        "url": "https://open.spotify.com/album/2SkKoW90Z3r6RndySD4i7T"
+      },
+      "artists": [
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Killah Dilla",
+          "url": "https://open.spotify.com/artist/5eKcZxeKrvHfoorsNEVH0T"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "Dollarama",
+      "url": "https://open.spotify.com/track/5uRO218NcBTLkthoevZQDP"
     },
     {
       "album": {
@@ -11729,6 +11795,24 @@
     },
     {
       "album": {
+        "name": "Extraordinary",
+        "url": "https://open.spotify.com/album/3pWw7Rafnt3TcjCF7n6n3v"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156438,
+      "name": "Extraordinary",
+      "url": "https://open.spotify.com/track/36rlkP3ybzHPC4HcUBeasa"
+    },
+    {
+      "album": {
         "name": "EYE LANGUAGE",
         "url": "https://open.spotify.com/album/13JpN9rflHdSwWGvSw284v"
       },
@@ -11908,6 +11992,28 @@
       "duration_ms": 291175,
       "name": "Fair Trade (with Travis Scott)",
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+    },
+    {
+      "album": {
+        "name": "Faith, Pt. 1",
+        "url": "https://open.spotify.com/album/2MZxQhIri07lf6n7ardNbF"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Faith, Pt. 1",
+      "url": "https://open.spotify.com/track/0hrR28IofCUiGDfL5eT2S4"
     },
     {
       "album": {
@@ -15318,6 +15424,24 @@
       "duration_ms": 148837,
       "name": "GRAVITY",
       "url": "https://open.spotify.com/track/0oddRg0UA25rYpkdodmUFH"
+    },
+    {
+      "album": {
+        "name": "Riicch SZN",
+        "url": "https://open.spotify.com/album/2mL0ShrzbPrgiaaGUOvI0m"
+      },
+      "artists": [
+        {
+          "name": "Riicch",
+          "url": "https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Gravity Man",
+      "url": "https://open.spotify.com/track/0AepWfpG1fxCaY2cibbKQR"
     },
     {
       "album": {
@@ -25443,6 +25567,24 @@
     },
     {
       "album": {
+        "name": "North Face",
+        "url": "https://open.spotify.com/album/17QOr7tFsDT9fFOgiCaK7h"
+      },
+      "artists": [
+        {
+          "name": "MOULA 1ST",
+          "url": "https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115343,
+      "name": "North Face",
+      "url": "https://open.spotify.com/track/3AWjT5pGNUfZV94MmzLyJN"
+    },
+    {
+      "album": {
         "name": "Northside",
         "url": "https://open.spotify.com/album/3ty9OGJlns562i4GeVMiXF"
       },
@@ -25998,7 +26140,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185907,
       "name": "OH SHIT!!!",
       "url": "https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl"
@@ -27728,7 +27870,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 134205,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/6EcV1iIpSaWpj9mYVaBbca"
@@ -28274,7 +28416,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177500,
       "name": "Pierre Tombale",
       "url": "https://open.spotify.com/track/219X7dFBSgS5f7lU4mwqPJ"
@@ -29482,6 +29624,28 @@
       "duration_ms": 179161,
       "name": "Pz Don't Trip",
       "url": "https://open.spotify.com/track/6w8Q0SRDEk7dtucfFbpzoq"
+    },
+    {
+      "album": {
+        "name": "QTB Bidness",
+        "url": "https://open.spotify.com/album/1hNMhdXT10jQ3pBHKsuN6l"
+      },
+      "artists": [
+        {
+          "name": "Why G",
+          "url": "https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB"
+        },
+        {
+          "name": "QTB camp",
+          "url": "https://open.spotify.com/artist/6nvFPj3455qsbbyd2d711L"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126863,
+      "name": "QTB Bidness",
+      "url": "https://open.spotify.com/track/5K40zYcwTCNlmuzllT1jWP"
     },
     {
       "album": {
@@ -32066,7 +32230,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 127991,
       "name": "Seen It All",
       "url": "https://open.spotify.com/track/1hXWfzrOSFuLKN3poRClCw"
@@ -33894,7 +34058,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 108243,
       "name": "Stepper (avec Mike Shabb)",
       "url": "https://open.spotify.com/track/78YLR3EwAgUnc8tvFzfhly"
@@ -34416,7 +34580,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165517,
       "name": "Street Lights",
       "url": "https://open.spotify.com/track/0tqaaiTDU7Hy52Z4YaVGND"
@@ -34478,6 +34642,28 @@
       "duration_ms": 104150,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/2kmNLoZhbtuAJ4Zv0feZNe"
+    },
+    {
+      "album": {
+        "name": "STRUGGLE LOOK EASY (feat. NorthSideBenji)",
+        "url": "https://open.spotify.com/album/0HXanxiDDsM31jXhoyCcVp"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "STRUGGLE LOOK EASY (feat. NorthSideBenji)",
+      "url": "https://open.spotify.com/track/3Eg3uVYNTFIE4Mp7TTB3Xj"
     },
     {
       "album": {
@@ -34628,6 +34814,28 @@
       "duration_ms": 142122,
       "name": "Subhuman",
       "url": "https://open.spotify.com/track/6ptLqwWk1mIXXv3SyrFXrk"
+    },
+    {
+      "album": {
+        "name": "Subordinate",
+        "url": "https://open.spotify.com/album/6yCXODqPCr1uLr4gQVsRwU"
+      },
+      "artists": [
+        {
+          "name": "Dub J",
+          "url": "https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE"
+        },
+        {
+          "name": "Layla Hendryx",
+          "url": "https://open.spotify.com/artist/3ZE7V0WdT5nFZAWSW7iDZR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174388,
+      "name": "Subordinate",
+      "url": "https://open.spotify.com/track/3pbAhz984DAMLgTFkk56Jr"
     },
     {
       "album": {
@@ -40720,7 +40928,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 152680,
       "name": "Winds Of Change",
       "url": "https://open.spotify.com/track/4Qzbe5tWzxtRX1lEIjRYO4"
@@ -41414,6 +41622,24 @@
       "duration_ms": 205134,
       "name": "Yellow Diamonds",
       "url": "https://open.spotify.com/track/0VJnARijlKyC0jOvcQlYfE"
+    },
+    {
+      "album": {
+        "name": "YellowGreenBlue",
+        "url": "https://open.spotify.com/album/7IRJ0Q7GCqoqGaURNKbqlP"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103847,
+      "name": "YellowGreenBlue",
+      "url": "https://open.spotify.com/track/37Pt6RacSdDNeR7CiEsiFX"
     },
     {
       "album": {

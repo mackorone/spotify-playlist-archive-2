@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain](/playlists/plain/37i9dQZF1DX3bxj1vnytuY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3bxj1vnytuY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain](/playlists/plain/37i9dQZF1DX3bxj1vnytuY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3bxj1vnytuY)
 
 ### [Dunes](https://open.spotify.com/playlist/37i9dQZF1DX3bxj1vnytuY)
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,583 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,624 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 14 | [Mbi' Yalo](https://open.spotify.com/track/62HeayCc2OmjETgDlp28NK) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Le Laz](https://open.spotify.com/artist/2sowQcfwmExKi9OQBiwXg8) | [Mbi' Yalo EP](https://open.spotify.com/album/6sFg7qzfWiAicumpmi1hNi) | 3:48 |
 | 15 | [Feel Good](https://open.spotify.com/track/39oL5jhAS61DRY3szh9qrG) | [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y), [Mosii](https://open.spotify.com/artist/30cqa2CuqgbfqOXWCRS3Hz) | [Feel Good](https://open.spotify.com/album/4LZwueq8Uvb3MkEGAph37S) | 2:29 |
 | 16 | [ZiD LMal](https://open.spotify.com/track/2rJwUjyFDFPkJxhRJn1CqP) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Youssef Ouhssaine](https://open.spotify.com/artist/3kHx8h01GUXAtbFbwK4wK0), [Ksser Essouق](https://open.spotify.com/artist/7FKQdUHsaz9Gu5vcyL452S) | [ZiD LMal](https://open.spotify.com/album/5Yr3tVX9IGkbg6GVjBBrsv) | 5:17 |
-| 17 | [Khuluma](https://open.spotify.com/track/0SYdObjxkqX2kzrYqbC0Yx) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q), [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Khuluma](https://open.spotify.com/album/51YuQukYsxQaPF638pgdLR) | 5:58 |
+| 17 | [Khuluma](https://open.spotify.com/track/0SYdObjxkqX2kzrYqbC0Yx) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Khuluma](https://open.spotify.com/album/51YuQukYsxQaPF638pgdLR) | 5:58 |
 | 18 | [Robina](https://open.spotify.com/track/5AGTB3Uo8CNSnw6FytD5tE) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Robina](https://open.spotify.com/album/6SItL6ZoLsz5IAgPioUTU2) | 5:22 |
 | 19 | [Evrybdy](https://open.spotify.com/track/3EcOPQQKuUMmWqqCLNEvJF) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Evrybdy](https://open.spotify.com/album/5X8O7MaVByCPJZ0544qkcK) | 2:45 |
 | 20 | [Majnuna](https://open.spotify.com/track/0vRJHjSohvyNnhSQ3HI1Sl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Randoree](https://open.spotify.com/artist/7Arbq4rNJORXYyGHv9ujPa) | [Majnuna](https://open.spotify.com/album/74GnYkFWUuQkU7C6Mkbi0d) | 1:38 |

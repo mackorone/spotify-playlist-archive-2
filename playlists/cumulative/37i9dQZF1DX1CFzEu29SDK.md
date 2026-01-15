@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1CFzEu29SDK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1CFzEu29SDK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1CFzEu29SDK)
+[pretty](/playlists/pretty/37i9dQZF1DX1CFzEu29SDK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1CFzEu29SDK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1CFzEu29SDK)
 
 ### [John Summit's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX1CFzEu29SDK)
 

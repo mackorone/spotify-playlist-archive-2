@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2SiqF4iBnmO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2SiqF4iBnmO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2SiqF4iBnmO)
+[pretty](/playlists/pretty/37i9dQZF1DX2SiqF4iBnmO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2SiqF4iBnmO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2SiqF4iBnmO)
 
 ### [808 Classics](https://open.spotify.com/playlist/37i9dQZF1DX2SiqF4iBnmO)
 

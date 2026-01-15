@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwf6UlOz1Hs.md) - [plain](/playlists/plain/37i9dQZF1DWTwf6UlOz1Hs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTwf6UlOz1Hs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwf6UlOz1Hs.md) - [plain](/playlists/plain/37i9dQZF1DWTwf6UlOz1Hs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTwf6UlOz1Hs)
 
 ### [Fuego \#052 \- Regina's Fan Mixtape](https://open.spotify.com/playlist/37i9dQZF1DWTwf6UlOz1Hs)
 

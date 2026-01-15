@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3hR94iGaotWbCFv5eDe0gZ.md) - [plain](/playlists/plain/3hR94iGaotWbCFv5eDe0gZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3hR94iGaotWbCFv5eDe0gZ)
+pretty - [cumulative](/playlists/cumulative/3hR94iGaotWbCFv5eDe0gZ.md) - [plain](/playlists/plain/3hR94iGaotWbCFv5eDe0gZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3hR94iGaotWbCFv5eDe0gZ)
 
 ### [Shady Records Spotify Picks](https://open.spotify.com/playlist/3hR94iGaotWbCFv5eDe0gZ)
 

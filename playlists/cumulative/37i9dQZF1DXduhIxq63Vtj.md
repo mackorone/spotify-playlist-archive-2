@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXduhIxq63Vtj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXduhIxq63Vtj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXduhIxq63Vtj)
+[pretty](/playlists/pretty/37i9dQZF1DXduhIxq63Vtj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXduhIxq63Vtj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXduhIxq63Vtj)
 
 ### [canciones migajeras](https://open.spotify.com/playlist/37i9dQZF1DXduhIxq63Vtj)
 

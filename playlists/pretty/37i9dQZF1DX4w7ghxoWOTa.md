@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain](/playlists/plain/37i9dQZF1DX4w7ghxoWOTa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4w7ghxoWOTa)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain](/playlists/plain/37i9dQZF1DX4w7ghxoWOTa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4w7ghxoWOTa)
 
 ### [畑 亜貴 Works](https://open.spotify.com/playlist/37i9dQZF1DX4w7ghxoWOTa)
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,891 likes - 53 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,899 likes - 53 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

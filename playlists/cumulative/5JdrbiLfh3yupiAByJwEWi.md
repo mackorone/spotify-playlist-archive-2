@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5JdrbiLfh3yupiAByJwEWi.md) - cumulative - [plain](/playlists/plain/5JdrbiLfh3yupiAByJwEWi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5JdrbiLfh3yupiAByJwEWi)
+[pretty](/playlists/pretty/5JdrbiLfh3yupiAByJwEWi.md) - cumulative - [plain](/playlists/plain/5JdrbiLfh3yupiAByJwEWi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5JdrbiLfh3yupiAByJwEWi)
 
 ### [2000s Pop Party](https://open.spotify.com/playlist/5JdrbiLfh3yupiAByJwEWi)
 

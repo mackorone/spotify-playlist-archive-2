@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2ZMfoURN2ZwapN17Yb5d1k.md) - [plain](/playlists/plain/2ZMfoURN2ZwapN17Yb5d1k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2ZMfoURN2ZwapN17Yb5d1k)
+pretty - [cumulative](/playlists/cumulative/2ZMfoURN2ZwapN17Yb5d1k.md) - [plain](/playlists/plain/2ZMfoURN2ZwapN17Yb5d1k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2ZMfoURN2ZwapN17Yb5d1k)
 
 ### [Undiscovered bands](https://open.spotify.com/playlist/2ZMfoURN2ZwapN17Yb5d1k)
 

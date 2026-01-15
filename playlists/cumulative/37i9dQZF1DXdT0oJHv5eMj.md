@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdT0oJHv5eMj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdT0oJHv5eMj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdT0oJHv5eMj)
+[pretty](/playlists/pretty/37i9dQZF1DXdT0oJHv5eMj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdT0oJHv5eMj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdT0oJHv5eMj)
 
 ### [Country Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DXdT0oJHv5eMj)
 

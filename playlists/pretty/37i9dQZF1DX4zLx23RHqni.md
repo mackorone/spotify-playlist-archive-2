@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain](/playlists/plain/37i9dQZF1DX4zLx23RHqni) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4zLx23RHqni)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain](/playlists/plain/37i9dQZF1DX4zLx23RHqni) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4zLx23RHqni)
 
 ### [Tamil Indie : Romance](https://open.spotify.com/playlist/37i9dQZF1DX4zLx23RHqni)
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Amrit Ramnath
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,880 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,926 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

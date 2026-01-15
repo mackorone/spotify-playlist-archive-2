@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbtA6H6FCiTv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbtA6H6FCiTv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbtA6H6FCiTv)
+[pretty](/playlists/pretty/37i9dQZF1DXbtA6H6FCiTv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbtA6H6FCiTv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbtA6H6FCiTv)
 
 ### [SEVENTEEN TOUR 'FOLLOW'](https://open.spotify.com/playlist/37i9dQZF1DXbtA6H6FCiTv)
 

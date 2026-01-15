@@ -1889,6 +1889,28 @@
     },
     {
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/3PlRq4JCgzjRHLClgtLiTv"
+      },
+      "artists": [
+        {
+          "name": "ZYRS",
+          "url": "https://open.spotify.com/artist/5NiAPSRIyDQ5HtUpvwz4yX"
+        },
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174025,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2u55jYKM1ABf1gowucOPEJ"
+    },
+    {
+      "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
@@ -2262,7 +2284,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160645,
       "name": "Before You",
       "url": "https://open.spotify.com/track/7ogew07r4DgLABYGA2xcwu"
@@ -5752,7 +5774,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 133548,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/2rYmLVCRao7S4l3NQ5rPRT"
@@ -7000,7 +7022,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 124616,
       "name": "Drown In Your Love",
       "url": "https://open.spotify.com/track/4bY2GvE2w4L4R283b3JbwT"
@@ -10324,7 +10346,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 133475,
       "name": "Haven",
       "url": "https://open.spotify.com/track/3UIcBILSKwze021TGlanVo"
@@ -11348,6 +11370,28 @@
       "duration_ms": 138282,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0gqqAONtAf4bfHGvQIlpjU"
+    },
+    {
+      "album": {
+        "name": "Hollow Light",
+        "url": "https://open.spotify.com/album/0RH5dCteeQfTBC4Y16zFdf"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        },
+        {
+          "name": "YVMV",
+          "url": "https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Hollow Light",
+      "url": "https://open.spotify.com/track/29RCZ4hNIT7mFJEhN5EA6L"
     },
     {
       "album": {
@@ -13160,7 +13204,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 137500,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/7mYjGdvLLsjV9P6WvumWJv"
@@ -17075,6 +17119,24 @@
     },
     {
       "album": {
+        "name": "More Than Ever (Umbrella)",
+        "url": "https://open.spotify.com/album/6K54u3J2VvxzMEbdUQXHJ1"
+      },
+      "artists": [
+        {
+          "name": "LEDUC",
+          "url": "https://open.spotify.com/artist/0PX2pq6qcOfKp3NQOJMGvz"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "More Than Ever (Umbrella)",
+      "url": "https://open.spotify.com/track/4uKulth6B1icBKdUQlQZhd"
+    },
+    {
+      "album": {
         "name": "More Than Friends",
         "url": "https://open.spotify.com/album/7HFC00VfckLNnfWqlAQuSN"
       },
@@ -19238,7 +19300,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140952,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0uVZiBza1iFPhkaXgX4Oeg"
@@ -19798,7 +19860,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 144590,
       "name": "Overflowing",
       "url": "https://open.spotify.com/track/5kRMyZiVmoYNtNtobW3xTJ"
@@ -20028,7 +20090,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 126026,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/7C4RQsv0hPdQRn6eVChDdw"
@@ -21732,7 +21794,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 195799,
       "name": "Save Me Now",
       "url": "https://open.spotify.com/track/7B3PU2dr2c3trv92tgyG6U"
@@ -23179,6 +23241,24 @@
     },
     {
       "album": {
+        "name": "sorry",
+        "url": "https://open.spotify.com/album/3sUjlov6HHpznUA1pwNguA"
+      },
+      "artists": [
+        {
+          "name": "clarity.",
+          "url": "https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137058,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2ZQSWCZ0xs0JQiGiHr9Zg6"
+    },
+    {
+      "album": {
         "name": "Space 2 Breathe",
         "url": "https://open.spotify.com/album/2nG2hYjwC3QexiUJKr2Vdg"
       },
@@ -23710,7 +23790,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6ENEG1qOaRbgu6vbFeFuqR"
@@ -25450,6 +25530,24 @@
     {
       "album": {
         "name": "There For You",
+        "url": "https://open.spotify.com/album/7m7TiLJUQeSys6WE9rwcRI"
+      },
+      "artists": [
+        {
+          "name": "Willow",
+          "url": "https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174952,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/3TPYOpX9qaLUv2mVWYkhBD"
+    },
+    {
+      "album": {
+        "name": "There For You",
         "url": "https://open.spotify.com/album/62H7U1XbShQDiRaGtGWlBo"
       },
       "artists": [
@@ -25678,7 +25776,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143606,
       "name": "Till We Meet Again",
       "url": "https://open.spotify.com/track/1RDZGuOmVLbBpjk9FsPpZg"
@@ -28008,7 +28106,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 168509,
       "name": "Whoop",
       "url": "https://open.spotify.com/track/5YkmdLvb5eKiNCQoJBCjEs"
@@ -28152,6 +28250,24 @@
       "duration_ms": 170604,
       "name": "Wilder Woods",
       "url": "https://open.spotify.com/track/56cW7me7gAyY9dhxJtvtzl"
+    },
+    {
+      "album": {
+        "name": "Wings Of The Dawn",
+        "url": "https://open.spotify.com/album/2s3mZb7HanjWOEV7fkiBSH"
+      },
+      "artists": [
+        {
+          "name": "Alande",
+          "url": "https://open.spotify.com/artist/2MHMRT2fOZGbDU3C10l7AM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Wings of the Dawn",
+      "url": "https://open.spotify.com/track/2CVaqJ9zts3QtNuguCbSIY"
     },
     {
       "album": {

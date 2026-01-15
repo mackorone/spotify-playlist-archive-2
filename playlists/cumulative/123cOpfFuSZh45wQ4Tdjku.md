@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/123cOpfFuSZh45wQ4Tdjku.md) - cumulative - [plain](/playlists/plain/123cOpfFuSZh45wQ4Tdjku) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/123cOpfFuSZh45wQ4Tdjku)
+[pretty](/playlists/pretty/123cOpfFuSZh45wQ4Tdjku.md) - cumulative - [plain](/playlists/plain/123cOpfFuSZh45wQ4Tdjku) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/123cOpfFuSZh45wQ4Tdjku)
 
 ### [My favourite furry songs](https://open.spotify.com/playlist/123cOpfFuSZh45wQ4Tdjku)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/4pL8YJw0ts5YcpxEgl1LiL.md) - [plain](/playlists/plain/4pL8YJw0ts5YcpxEgl1LiL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4pL8YJw0ts5YcpxEgl1LiL)
+pretty - [cumulative](/playlists/cumulative/4pL8YJw0ts5YcpxEgl1LiL.md) - [plain](/playlists/plain/4pL8YJw0ts5YcpxEgl1LiL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4pL8YJw0ts5YcpxEgl1LiL)
 
 ### [Of Monsters and Men](https://open.spotify.com/playlist/4pL8YJw0ts5YcpxEgl1LiL)
 

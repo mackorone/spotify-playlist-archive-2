@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSZIKOOemBft.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSZIKOOemBft) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSZIKOOemBft)
+[pretty](/playlists/pretty/37i9dQZF1DWSZIKOOemBft.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSZIKOOemBft) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSZIKOOemBft)
 
 ### [The Broody Black\-Haired MC](https://open.spotify.com/playlist/37i9dQZF1DWSZIKOOemBft)
 

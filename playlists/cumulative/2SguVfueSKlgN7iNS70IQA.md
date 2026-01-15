@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2SguVfueSKlgN7iNS70IQA.md) - cumulative - [plain](/playlists/plain/2SguVfueSKlgN7iNS70IQA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2SguVfueSKlgN7iNS70IQA)
+[pretty](/playlists/pretty/2SguVfueSKlgN7iNS70IQA.md) - cumulative - [plain](/playlists/plain/2SguVfueSKlgN7iNS70IQA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2SguVfueSKlgN7iNS70IQA)
 
 ### [I’m an old old man and this is my gift to EJ ](https://open.spotify.com/playlist/2SguVfueSKlgN7iNS70IQA)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0C2766By5p.md) - [plain](/playlists/plain/37i9dQZF1DWZ0C2766By5p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ0C2766By5p)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0C2766By5p.md) - [plain](/playlists/plain/37i9dQZF1DWZ0C2766By5p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ0C2766By5p)
 
 ### [Deep Dive \- 90s Metal](https://open.spotify.com/playlist/37i9dQZF1DWZ0C2766By5p)
 

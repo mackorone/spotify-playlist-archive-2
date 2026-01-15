@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6OeIIMFsdtsL9VUyL6PDvX.md) - cumulative - [plain](/playlists/plain/6OeIIMFsdtsL9VUyL6PDvX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6OeIIMFsdtsL9VUyL6PDvX)
+[pretty](/playlists/pretty/6OeIIMFsdtsL9VUyL6PDvX.md) - cumulative - [plain](/playlists/plain/6OeIIMFsdtsL9VUyL6PDvX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6OeIIMFsdtsL9VUyL6PDvX)
 
 ### [Indie One Stop](https://open.spotify.com/playlist/6OeIIMFsdtsL9VUyL6PDvX)
 

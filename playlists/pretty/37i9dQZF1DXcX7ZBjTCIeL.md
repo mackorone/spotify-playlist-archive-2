@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcX7ZBjTCIeL.md) - [plain](/playlists/plain/37i9dQZF1DXcX7ZBjTCIeL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcX7ZBjTCIeL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcX7ZBjTCIeL.md) - [plain](/playlists/plain/37i9dQZF1DXcX7ZBjTCIeL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcX7ZBjTCIeL)
 
 ### [Musicaliza: Turf](https://open.spotify.com/playlist/37i9dQZF1DXcX7ZBjTCIeL)
 

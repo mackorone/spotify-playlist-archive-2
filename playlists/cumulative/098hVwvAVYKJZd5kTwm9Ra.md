@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/098hVwvAVYKJZd5kTwm9Ra.md) - cumulative - [plain](/playlists/plain/098hVwvAVYKJZd5kTwm9Ra) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/098hVwvAVYKJZd5kTwm9Ra)
+[pretty](/playlists/pretty/098hVwvAVYKJZd5kTwm9Ra.md) - cumulative - [plain](/playlists/plain/098hVwvAVYKJZd5kTwm9Ra) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/098hVwvAVYKJZd5kTwm9Ra)
 
 ### [BBQ Classics \| 70s 80s 90s Barbecue](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
 

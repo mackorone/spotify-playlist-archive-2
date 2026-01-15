@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRYaqBHPt12.md) - [plain](/playlists/plain/37i9dQZF1DWYRYaqBHPt12) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYRYaqBHPt12)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRYaqBHPt12.md) - [plain](/playlists/plain/37i9dQZF1DWYRYaqBHPt12) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYRYaqBHPt12)
 
 ### [PUBG: BATTLEGROUNDS  Thank you, 5urvivors](https://open.spotify.com/playlist/37i9dQZF1DWYRYaqBHPt12)
 
 > Check out the playlist celebrating the 5th anniversary of PUBG: BATTLEGROUNDS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,119 likes - 22 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,168 likes - 22 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2b9oUJWXOaZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2b9oUJWXOaZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2b9oUJWXOaZ)
+[pretty](/playlists/pretty/37i9dQZF1DX2b9oUJWXOaZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2b9oUJWXOaZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2b9oUJWXOaZ)
 
 ### [APIHM Takeover: CAPE](https://open.spotify.com/playlist/37i9dQZF1DX2b9oUJWXOaZ)
 

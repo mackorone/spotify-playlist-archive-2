@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain](/playlists/plain/6j2ZnN1A2xcWQMELm6hcdI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6j2ZnN1A2xcWQMELm6hcdI)
+pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain](/playlists/plain/6j2ZnN1A2xcWQMELm6hcdI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6j2ZnN1A2xcWQMELm6hcdI)
 
 ### [Influence 💅 Hot Girl Era 2025](https://open.spotify.com/playlist/6j2ZnN1A2xcWQMELm6hcdI)
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Latto
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 324,721 likes - 150 songs - 7 hr 28 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 324,206 likes - 150 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

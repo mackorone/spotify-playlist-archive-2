@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1YGlW3ovCv9Vek4CPnV0mZ.md) - [plain](/playlists/plain/1YGlW3ovCv9Vek4CPnV0mZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1YGlW3ovCv9Vek4CPnV0mZ)
+pretty - [cumulative](/playlists/cumulative/1YGlW3ovCv9Vek4CPnV0mZ.md) - [plain](/playlists/plain/1YGlW3ovCv9Vek4CPnV0mZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1YGlW3ovCv9Vek4CPnV0mZ)
 
 ### [Great Love Ballads](https://open.spotify.com/playlist/1YGlW3ovCv9Vek4CPnV0mZ)
 
 > There's no greater feeling than love, which means that it requires great music\. Here is a collection of some of the most breathtaking ballads about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,878 likes - 41 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,875 likes - 41 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

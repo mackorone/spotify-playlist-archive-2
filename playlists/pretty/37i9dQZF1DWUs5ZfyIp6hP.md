@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain](/playlists/plain/37i9dQZF1DWUs5ZfyIp6hP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUs5ZfyIp6hP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain](/playlists/plain/37i9dQZF1DWUs5ZfyIp6hP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUs5ZfyIp6hP)
 
 ### [4th of July Family Fun](https://open.spotify.com/playlist/37i9dQZF1DWUs5ZfyIp6hP)
 

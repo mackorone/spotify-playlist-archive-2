@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/25zEHXJzEQZU1eyF6eqEzD.md) - [plain](/playlists/plain/25zEHXJzEQZU1eyF6eqEzD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/25zEHXJzEQZU1eyF6eqEzD)
+pretty - [cumulative](/playlists/cumulative/25zEHXJzEQZU1eyF6eqEzD.md) - [plain](/playlists/plain/25zEHXJzEQZU1eyF6eqEzD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/25zEHXJzEQZU1eyF6eqEzD)
 
 ### [Barista Blend](https://open.spotify.com/playlist/25zEHXJzEQZU1eyF6eqEzD)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO4s0KkM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4s0KkM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4s0KkM)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO4s0KkM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4s0KkM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO4s0KkM)
 
 ### [This Is Dropkick Murphys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s0KkM)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain](/playlists/plain/37i9dQZF1DXbcyu3IeUDtp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbcyu3IeUDtp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain](/playlists/plain/37i9dQZF1DXbcyu3IeUDtp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbcyu3IeUDtp)
 
 ### [Ela Minus' track IDs](https://open.spotify.com/playlist/37i9dQZF1DXbcyu3IeUDtp)
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,843 likes - 155 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,906 likes - 155 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1z7Tel.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1z7Tel) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1z7Tel)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1z7Tel.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1z7Tel) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1z7Tel)
 
 ### [This Is Carlos Y Jose](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z7Tel)
 

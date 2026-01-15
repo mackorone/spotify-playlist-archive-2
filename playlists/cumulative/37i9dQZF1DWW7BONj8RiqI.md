@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW7BONj8RiqI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW7BONj8RiqI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW7BONj8RiqI)
+[pretty](/playlists/pretty/37i9dQZF1DWW7BONj8RiqI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW7BONj8RiqI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW7BONj8RiqI)
 
 ### [Massive Soca Hits](https://open.spotify.com/playlist/37i9dQZF1DWW7BONj8RiqI)
 

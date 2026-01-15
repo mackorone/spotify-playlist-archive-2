@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain](/playlists/plain/37i9dQZF1DX48OvCv93avz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX48OvCv93avz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain](/playlists/plain/37i9dQZF1DX48OvCv93avz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX48OvCv93avz)
 
 ### [Demon Slayer](https://open.spotify.com/playlist/37i9dQZF1DX48OvCv93avz)
 
 > Music from "Demon Slayer"\. <br/>  ©吾峠呼世晴／集英社・アニプレックス・ufotable
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,560 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,180 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain]
 | 49 | [大団円](https://open.spotify.com/track/3cFpmIKUmifiAhvkH3TrxV) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」遊郭編 オリジナルサウンドトラック](https://open.spotify.com/album/5czFPP3dehjE4C3PeP4HO4) | 3:23 |
 | 50 | [感謝の見送り](https://open.spotify.com/track/7COP718eNyYdXOzmQxOVvC) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック](https://open.spotify.com/album/3XWluQCHEe2W1M0NvbPQOq) | 0:54 |
 
-Snapshot ID: `AAAAAFXCRBTZC+8+zEgQ1i3B/uG1haAw`
+Snapshot ID: `AAAAAA050KWrFEwo1Of8gL/gWg98xvXr`

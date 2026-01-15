@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHf6fzlf1u.md) - [plain](/playlists/plain/37i9dQZF1DX1lHf6fzlf1u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1lHf6fzlf1u)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHf6fzlf1u.md) - [plain](/playlists/plain/37i9dQZF1DX1lHf6fzlf1u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1lHf6fzlf1u)
 
 ### [Made in Scotland](https://open.spotify.com/playlist/37i9dQZF1DX1lHf6fzlf1u)
 
 > ‘There is magic in Scotland.’ \-Gayle Rankin
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,975 likes - 76 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,031 likes - 76 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

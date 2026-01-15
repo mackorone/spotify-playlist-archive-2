@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCzCaPxQ3nx.md) - [plain](/playlists/plain/37i9dQZF1DWSCzCaPxQ3nx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSCzCaPxQ3nx)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCzCaPxQ3nx.md) - [plain](/playlists/plain/37i9dQZF1DWSCzCaPxQ3nx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSCzCaPxQ3nx)
 
 ### [Rai Classics](https://open.spotify.com/playlist/37i9dQZF1DWSCzCaPxQ3nx)
 
 > Les incontournables du Raï.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,644 likes - 49 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,324 likes - 49 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

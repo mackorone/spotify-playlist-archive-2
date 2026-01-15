@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Nko, Plaza, Artie e Nerissima in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Kid Yugi e ANNA in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -942,6 +942,28 @@
       "duration_ms": 119400,
       "name": "9.19",
       "url": "https://open.spotify.com/track/4xlVDf8pSGnjJGwTT6dyXw"
+    },
+    {
+      "album": {
+        "name": "9MILLIMETRI",
+        "url": "https://open.spotify.com/album/1fNoI35Kz2ImcqXOzat0br"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168224,
+      "name": "9MILLIMETRI",
+      "url": "https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn"
     },
     {
       "album": {
@@ -6104,7 +6126,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171370,
       "name": "Dio Non C'\u00e8 (feat. Alessandra Amoroso)",
       "url": "https://open.spotify.com/track/6zWGONZ4N03Yknef4scWZa"
@@ -6440,6 +6462,28 @@
       "duration_ms": 133548,
       "name": "DRIP (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr"
+    },
+    {
+      "album": {
+        "name": "Drip a noleggio RMX",
+        "url": "https://open.spotify.com/album/1bewdfHlagWUwghDqo4tf8"
+      },
+      "artists": [
+        {
+          "name": "Joejoe",
+          "url": "https://open.spotify.com/artist/2SGdTSyPqPFhyv74y6WEiD"
+        },
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Drip a noleggio RMX",
+      "url": "https://open.spotify.com/track/4n40OaH0OmsGD6M2CqPs2M"
     },
     {
       "album": {
@@ -9374,7 +9418,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 118361,
       "name": "IL MIO DEAL (feat. Young Hash)",
       "url": "https://open.spotify.com/track/7egBWl4HwkQ80GYjX63DI5"
@@ -10566,7 +10610,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130222,
       "name": "LA TRAP NON MUORE MAI",
       "url": "https://open.spotify.com/track/60BuXgxuJ94cYQid5myouo"
@@ -13129,6 +13173,32 @@
     },
     {
       "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147390,
+      "name": "Nato & Cresciuto (feat. Promessa)",
+      "url": "https://open.spotify.com/track/6hdaO2a3AsdZFm7Yrgy7CQ"
+    },
+    {
+      "album": {
         "name": "Nato Per Questo",
         "url": "https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v"
       },
@@ -15040,7 +15110,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 172166,
       "name": "PHANTOM (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/435NOlfzITSEghoaUNRle3"
@@ -15764,7 +15834,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143998,
       "name": "Prega X Noi",
       "url": "https://open.spotify.com/track/2evObuXNzBUnxDlzoJ8dbf"
@@ -18247,6 +18317,32 @@
     },
     {
       "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Spendin (feat. Marracash)",
+      "url": "https://open.spotify.com/track/0ek2jtO8Ru1YrVImYFLSuW"
+    },
+    {
+      "album": {
         "name": "Speranza (feat. Diss Gacha)",
         "url": "https://open.spotify.com/album/3aY3G5ljgdYzeMsuU1jduq"
       },
@@ -18362,7 +18458,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 151384,
       "name": "SQUALO 2 (feat. Gu\u00e8 & Nerissima Serpe)",
       "url": "https://open.spotify.com/track/5f1QY8JXcVD1zCz0zVXPZO"

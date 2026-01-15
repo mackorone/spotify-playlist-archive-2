@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain](/playlists/plain/37i9dQZF1DXdeoRwG5yUKg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdeoRwG5yUKg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain](/playlists/plain/37i9dQZF1DXdeoRwG5yUKg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdeoRwG5yUKg)
 
 ### [Blue Ballads](https://open.spotify.com/playlist/37i9dQZF1DXdeoRwG5yUKg)
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,136 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,564 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

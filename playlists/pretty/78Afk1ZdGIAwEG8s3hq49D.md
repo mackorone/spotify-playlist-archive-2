@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/78Afk1ZdGIAwEG8s3hq49D.md) - [plain](/playlists/plain/78Afk1ZdGIAwEG8s3hq49D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/78Afk1ZdGIAwEG8s3hq49D)
+pretty - [cumulative](/playlists/cumulative/78Afk1ZdGIAwEG8s3hq49D.md) - [plain](/playlists/plain/78Afk1ZdGIAwEG8s3hq49D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/78Afk1ZdGIAwEG8s3hq49D)
 
 ### [The Roots of..\. Mumford & Sons](https://open.spotify.com/playlist/78Afk1ZdGIAwEG8s3hq49D)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 533 likes - 28 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 532 likes - 28 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSHg3zCMrBDf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSHg3zCMrBDf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSHg3zCMrBDf)
+[pretty](/playlists/pretty/37i9dQZF1DWSHg3zCMrBDf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSHg3zCMrBDf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSHg3zCMrBDf)
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 

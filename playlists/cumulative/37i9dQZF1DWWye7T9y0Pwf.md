@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWye7T9y0Pwf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWye7T9y0Pwf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWye7T9y0Pwf)
+[pretty](/playlists/pretty/37i9dQZF1DWWye7T9y0Pwf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWye7T9y0Pwf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWye7T9y0Pwf)
 
 ### [Populous' track IDs](https://open.spotify.com/playlist/37i9dQZF1DWWye7T9y0Pwf)
 

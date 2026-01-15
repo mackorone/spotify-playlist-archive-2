@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc720\ub77c (youra)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc7a5\uc218\ube48 (Jang Soo Bin)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -2179,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4e5cub7bCm8o61uKKaAVFW"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4wZ4Mb2u58AcVPbNNXKQwL"
+    },
+    {
+      "album": {
         "name": "Blue & Lemonade (Feat. Choi Cello)",
         "url": "https://open.spotify.com/album/285AagckaF30HANKbEQnxd"
       },
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164867,
       "name": "Box of Old News",
       "url": "https://open.spotify.com/track/6pJbzsU11saTTCBEQERybY"
@@ -5854,7 +5872,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165293,
       "name": "Feeling You",
       "url": "https://open.spotify.com/track/5wvADQcJzUbNE1s1SnKTC3"
@@ -6268,6 +6286,24 @@
       "duration_ms": 173836,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/0Pc4zYHIdyI636YLBaOEL0"
+    },
+    {
+      "album": {
+        "name": "For a Long Time",
+        "url": "https://open.spotify.com/album/712hfheO6b7WDAnZKDmO9Z"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "For a Long Time",
+      "url": "https://open.spotify.com/track/5hFnrECr3m8GzPI21BepWZ"
     },
     {
       "album": {
@@ -7446,7 +7482,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210000,
       "name": "Hamba Kahle",
       "url": "https://open.spotify.com/track/314EYx2dRG3rTJWdATgmPW"
@@ -11081,6 +11117,24 @@
     },
     {
       "album": {
+        "name": "Love Highway",
+        "url": "https://open.spotify.com/album/1XHWY0HUxW2T6RwbOyco2c"
+      },
+      "artists": [
+        {
+          "name": "Blue Smile",
+          "url": "https://open.spotify.com/artist/5rQwjCpFxybGzLiIBMGsXv"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256306,
+      "name": "Love Highway",
+      "url": "https://open.spotify.com/track/6Es5m3mqOjmEgD0gBWXM8d"
+    },
+    {
+      "album": {
         "name": "COLOR PAPER HOTEL",
         "url": "https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ"
       },
@@ -12206,7 +12260,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 239333,
       "name": "Mirror Love (Feat. NIve)",
       "url": "https://open.spotify.com/track/3i6tUg0L5wVklyUfZ1igji"
@@ -13303,6 +13357,24 @@
     },
     {
       "album": {
+        "name": "No Worry Salon",
+        "url": "https://open.spotify.com/album/6gTnFa78SoCnX1yRFn7leu"
+      },
+      "artists": [
+        {
+          "name": "sanha",
+          "url": "https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "No Worry Salon",
+      "url": "https://open.spotify.com/track/0qTny0XZx8NOzJLjiOLQoU"
+    },
+    {
+      "album": {
         "name": "PREVIEW - Vincent Park",
         "url": "https://open.spotify.com/album/5SZJbfMzxp0QTJBhBm2eR0"
       },
@@ -13992,6 +14064,24 @@
       "duration_ms": 262743,
       "name": "Paindrops",
       "url": "https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0QKQxo7eE6uDCn31vcPavp"
+      },
+      "artists": [
+        {
+          "name": "Band Nah",
+          "url": "https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3hBdLJdJQnVXASDXFrXVYW"
     },
     {
       "album": {
@@ -16846,7 +16936,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160746,
       "name": "socks",
       "url": "https://open.spotify.com/track/7wkUcJctXuRrG7eNVD8Ivx"
@@ -19522,7 +19612,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 428116,
       "name": "Truthbuster",
       "url": "https://open.spotify.com/track/31u7mbAxSEkG0Ap3EA3QCG"
@@ -21922,6 +22012,24 @@
       "duration_ms": 361426,
       "name": "Youth",
       "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
+    },
+    {
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/5RmJvM2QkPYcgEMNAoqOLg"
+      },
+      "artists": [
+        {
+          "name": "Kim Siwon",
+          "url": "https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204086,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/6clmN7YzxNFd8FR2O7yrtz"
     },
     {
       "album": {

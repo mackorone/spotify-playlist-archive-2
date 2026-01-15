@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUoAkqFHJmQZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUoAkqFHJmQZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUoAkqFHJmQZ)
+[pretty](/playlists/pretty/37i9dQZF1DWUoAkqFHJmQZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUoAkqFHJmQZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUoAkqFHJmQZ)
 
 ### [Game Zone](https://open.spotify.com/playlist/37i9dQZF1DWUoAkqFHJmQZ)
 

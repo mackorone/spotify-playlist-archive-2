@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 102400,
       "name": "4AM",
       "url": "https://open.spotify.com/track/1NfA2flJzq8n6OOyu1bBhY"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 166744,
       "name": "Be Kind, Rewind",
       "url": "https://open.spotify.com/track/3zJjy40rYBjYqhame6q11B"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 118518,
       "name": "Between Lines",
       "url": "https://open.spotify.com/track/6SclOVpNh2ywfJqvL4AI4X"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 105488,
       "name": "cozed",
       "url": "https://open.spotify.com/track/6aWWO5gx9NYP7mhdf2XQbd"
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 100793,
       "name": "Cozy Jazz",
       "url": "https://open.spotify.com/track/2Wt1NfsZbDZEz8xRnFjSvt"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 110689,
       "name": "Easy Spin",
       "url": "https://open.spotify.com/track/50jExTGkk9iGKeY1XkCRMd"
@@ -3728,7 +3728,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 119538,
       "name": "Evening at Rosalita's Roadhouse",
       "url": "https://open.spotify.com/track/4yXKM3P49hdOsUS6G39Zv4"
@@ -4748,7 +4748,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 114285,
       "name": "glitter & suede",
       "url": "https://open.spotify.com/track/0mmfpQJnGSi0bHfzfKQn9C"
@@ -4766,7 +4766,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 111661,
       "name": "Glitz",
       "url": "https://open.spotify.com/track/6O3jMWP1iS9r6rw7eDiysW"
@@ -4988,7 +4988,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184719,
       "name": "Got Flava",
       "url": "https://open.spotify.com/track/2nUsvJZWIOko1JCWWHwfdp"
@@ -7542,7 +7542,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155996,
       "name": "Machine Learning",
       "url": "https://open.spotify.com/track/2fDdgDW0h5Udw5s9zRZiL9"
@@ -7687,6 +7687,28 @@
     },
     {
       "album": {
+        "name": "Mayan",
+        "url": "https://open.spotify.com/album/3obJ3kkaPuQYSgNT8Pbald"
+      },
+      "artists": [
+        {
+          "name": "Boukas",
+          "url": "https://open.spotify.com/artist/59yn6qYpXksMH0N6y42Hnj"
+        },
+        {
+          "name": "Likeness",
+          "url": "https://open.spotify.com/artist/7beo4CkiVsXl84woBYelxy"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132375,
+      "name": "Mayan",
+      "url": "https://open.spotify.com/track/1OE6DUbMhfX8IRYmnjTLMN"
+    },
+    {
+      "album": {
         "name": "Maywind",
         "url": "https://open.spotify.com/album/2fel2GzJzOIbTk2oNFB04h"
       },
@@ -7764,6 +7786,24 @@
       "duration_ms": 128274,
       "name": "Melted",
       "url": "https://open.spotify.com/track/6Fw30XaRdMsdihm4UwYmrn"
+    },
+    {
+      "album": {
+        "name": "metropolis",
+        "url": "https://open.spotify.com/album/1FbAAO44v3BQx3dwUPFQA2"
+      },
+      "artists": [
+        {
+          "name": "7th Realm",
+          "url": "https://open.spotify.com/artist/4UtJ3cnpM9ptMHY6LSfMUs"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89302,
+      "name": "metropolis",
+      "url": "https://open.spotify.com/track/6Xi2KmRSVB9uOh94aSw57x"
     },
     {
       "album": {
@@ -7902,7 +7942,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135529,
       "name": "might rain tomorrow",
       "url": "https://open.spotify.com/track/6vc52uv9RJMpV9Xf5aEVlR"
@@ -8238,7 +8278,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 124782,
       "name": "mooncircle",
       "url": "https://open.spotify.com/track/5r3Sg4xhb0Ww8Amyx8ztla"
@@ -8710,7 +8750,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 124235,
       "name": "New Approaches",
       "url": "https://open.spotify.com/track/1XfpfUsHR7ELrheHZcmXRz"
@@ -9196,7 +9236,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140307,
       "name": "Off Season",
       "url": "https://open.spotify.com/track/71O6ntodzPWh3czF1rzhse"
@@ -9214,7 +9254,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135529,
       "name": "Offering",
       "url": "https://open.spotify.com/track/31v9af4C5QPLWH9NgslGfH"
@@ -9770,7 +9810,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 133500,
       "name": "Parc Mercier",
       "url": "https://open.spotify.com/track/4W35aBRFyjBsfxJg12iSxY"
@@ -10578,7 +10618,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 113737,
       "name": "Regular",
       "url": "https://open.spotify.com/track/4jOkdygSToNBliVP0SsQj5"
@@ -10596,7 +10636,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 126517,
       "name": "Remember",
       "url": "https://open.spotify.com/track/7HgF1AyYrPazAUtBKppd10"
@@ -10826,6 +10866,24 @@
       "duration_ms": 160000,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR"
+    },
+    {
+      "album": {
+        "name": "Rivulet",
+        "url": "https://open.spotify.com/album/1wKrT5RmqZz9k8PpGaUHti"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112240,
+      "name": "Rivulet",
+      "url": "https://open.spotify.com/track/2Vxfssc3Zg1XBrUB3m8mw4"
     },
     {
       "album": {
@@ -11438,7 +11496,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 118536,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2cC0dkN1nkcjOaSWPbAwce"
@@ -11803,6 +11861,24 @@
     },
     {
       "album": {
+        "name": "Sophie's Eyes",
+        "url": "https://open.spotify.com/album/2uOqVUGBwJzHvy8U9JzRGZ"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119812,
+      "name": "Sophie's Eyes",
+      "url": "https://open.spotify.com/track/2ucQEIGQpdRky8r7An7cGo"
+    },
+    {
+      "album": {
         "name": "Soul Garden",
         "url": "https://open.spotify.com/album/2ojpfqyVlSteol0iPPRbGG"
       },
@@ -11924,7 +12000,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 127228,
       "name": "Sparkles",
       "url": "https://open.spotify.com/track/5dyCpsSNa115m84rtDDHqI"
@@ -12066,7 +12142,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Spring Season",
       "url": "https://open.spotify.com/track/0vs2BZ04zODRZbcVw5YN3q"
@@ -13888,7 +13964,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 105600,
       "name": "Timeless Love",
       "url": "https://open.spotify.com/track/6HiuLGbL1SpX6ntPloBMr2"
@@ -14120,7 +14196,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 122000,
       "name": "Twice",
       "url": "https://open.spotify.com/track/2xGheB7VD7uz0WHrjeN3eY"
@@ -14324,6 +14400,28 @@
       "duration_ms": 151932,
       "name": "Up and Down",
       "url": "https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh"
+    },
+    {
+      "album": {
+        "name": "Up North",
+        "url": "https://open.spotify.com/album/1rAhv72s6bD0kFYeLUkUWC"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Viktor Minsky",
+          "url": "https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Up North",
+      "url": "https://open.spotify.com/track/32QUBrhJolygmHBIJevE9n"
     },
     {
       "album": {
@@ -14910,7 +15008,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-28",
+      "date_removed": null,
       "duration_ms": 117108,
       "name": "warm oceans",
       "url": "https://open.spotify.com/track/49J1knV6TE0yZw3qFh5vdi"
@@ -15201,6 +15299,32 @@
     },
     {
       "album": {
+        "name": "Whipped Cream",
+        "url": "https://open.spotify.com/album/4ZmMwxcjIKNLSSLbUsSf2e"
+      },
+      "artists": [
+        {
+          "name": "uBeyond",
+          "url": "https://open.spotify.com/artist/1fg6FOcNJXJNFg2ejI6ZXc"
+        },
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        },
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Whipped Cream",
+      "url": "https://open.spotify.com/track/1jVoZ9548ZVdU8oEA3NHwY"
+    },
+    {
+      "album": {
         "name": "white nights",
         "url": "https://open.spotify.com/album/3Bb4hgXKhJtDmLT6lsUxEe"
       },
@@ -15292,7 +15416,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 120000,
       "name": "Windows",
       "url": "https://open.spotify.com/track/3zKzJPjP2XBhQfZ9SQOa2U"

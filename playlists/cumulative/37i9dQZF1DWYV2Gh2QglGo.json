@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Kelsi Mayne",
+  "description": "The home of Canadian country music. Cover: Owen Riegling",
   "name": "North Country",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177362,
       "name": "As Long As There's A Bar",
       "url": "https://open.spotify.com/track/06L3jDgNDAuyQfLYTNS0KO"
@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211991,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV"
+    },
+    {
+      "album": {
         "name": "Born to Lose",
         "url": "https://open.spotify.com/album/1IvI41efUdVWK0Kk5N3OcO"
       },
@@ -876,7 +894,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210215,
       "name": "Both Can Be True",
       "url": "https://open.spotify.com/track/18oBIkNn8F7ACUvppfjE8n"
@@ -974,6 +992,24 @@
       "duration_ms": 225764,
       "name": "Burn the Boats",
       "url": "https://open.spotify.com/track/2KrEkvgkkqQo0PapU8OCm9"
+    },
+    {
+      "album": {
+        "name": "Call Again",
+        "url": "https://open.spotify.com/album/3Xe3ReUIuziqbELyLxRs1f"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173785,
+      "name": "Call Again",
+      "url": "https://open.spotify.com/track/689BrIveR3izCSttLw9UUh"
     },
     {
       "album": {
@@ -1688,7 +1724,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 152748,
       "name": "Day One (feat. Madeline Merlo)",
       "url": "https://open.spotify.com/track/1UykuOxBRThpGGvgtOlIAC"
@@ -1962,7 +1998,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148031,
       "name": "Drink Around",
       "url": "https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv"
@@ -2175,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Everywhere a man can be",
+        "url": "https://open.spotify.com/album/4nCDkkBS1cSsrjQ2XCQ7Vn"
+      },
+      "artists": [
+        {
+          "name": "Zachary Lucky",
+          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253773,
+      "name": "Everywhere a man can be",
+      "url": "https://open.spotify.com/track/45G9lRDmps5iw1UujkBlH9"
+    },
+    {
+      "album": {
         "name": "Family First",
         "url": "https://open.spotify.com/album/3UpphRVmpfImtobnjhFn3p"
       },
@@ -2244,7 +2298,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192660,
       "name": "Feels Like Forever",
       "url": "https://open.spotify.com/track/7owsUFh4Oc4zwtq8uYCESH"
@@ -2758,7 +2812,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192617,
       "name": "Going Somewhere",
       "url": "https://open.spotify.com/track/4gF1D5LJCybgj9wC7p8PB1"
@@ -3455,6 +3509,28 @@
     },
     {
       "album": {
+        "name": "Hometown Heroes (feat. Dean Brody)",
+        "url": "https://open.spotify.com/album/7oNjPhQc4OEP93PWPFecsp"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        },
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223538,
+      "name": "Hometown Heroes (feat. Dean Brody)",
+      "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
+    },
+    {
+      "album": {
         "name": "Hope You Do",
         "url": "https://open.spotify.com/album/3bbbW5q5DF2xwadNnIn8yS"
       },
@@ -3626,7 +3702,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184613,
       "name": "Hurtin' Songs",
       "url": "https://open.spotify.com/track/7AxaVrXiFMkDmyNSsyMWXU"
@@ -4300,7 +4376,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 183321,
       "name": "Knew It All Along (With Nic D)",
       "url": "https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL"
@@ -4582,6 +4658,42 @@
       "duration_ms": 217253,
       "name": "Like I've Never Been Loved Before",
       "url": "https://open.spotify.com/track/3sFmswCWEcyG08M1lFSODo"
+    },
+    {
+      "album": {
+        "name": "Listen To Jones",
+        "url": "https://open.spotify.com/album/1UZ5gjFrqUw1yswMRd1pMf"
+      },
+      "artists": [
+        {
+          "name": "Chris Buck Band",
+          "url": "https://open.spotify.com/artist/0ns82mvA25By3a6t2S2Lxr"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181084,
+      "name": "Listen To Jones",
+      "url": "https://open.spotify.com/track/3s7rjsKo9ruMCo0LxuN11r"
+    },
+    {
+      "album": {
+        "name": "Little Man",
+        "url": "https://open.spotify.com/album/5ocrpDgSOxbxctRGe0FmOA"
+      },
+      "artists": [
+        {
+          "name": "Justin Tyler",
+          "url": "https://open.spotify.com/artist/2FKvcZLG5cDJ0PrjpfEQvg"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209375,
+      "name": "Little Man",
+      "url": "https://open.spotify.com/track/5ZWayyXEDiSrYy6fD9qYDd"
     },
     {
       "album": {
@@ -5864,7 +5976,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177565,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/4gReEWsdCfxdRzd1GwRr7K"
@@ -5918,7 +6030,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 204364,
       "name": "One Two Step",
       "url": "https://open.spotify.com/track/26mL1lQ5FbOtgw4Y5gmB9P"
@@ -6589,6 +6701,24 @@
     },
     {
       "album": {
+        "name": "Golden Child (The Final Chapter)",
+        "url": "https://open.spotify.com/album/0HqvCRbmTmx7liSWmFhI6m"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232718,
+      "name": "Safe Place To Break",
+      "url": "https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA"
+    },
+    {
+      "album": {
         "name": "Said My Name",
         "url": "https://open.spotify.com/album/7ASgCL4HylBG7KJBPjzpdc"
       },
@@ -7098,7 +7228,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177482,
       "name": "Sober You Ain\u2019t Thinkin\u2019",
       "url": "https://open.spotify.com/track/0r8QhXiZmVxEFVETQGVzN3"
@@ -7188,7 +7318,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 191194,
       "name": "Someone Who Knows",
       "url": "https://open.spotify.com/track/5Op72ozs7L69n5l0LfBPg6"
@@ -7538,7 +7668,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186003,
       "name": "Taillight This Town",
       "url": "https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY"
@@ -7830,7 +7960,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 146854,
       "name": "The Oil\u2019s Back In Town - Musora Session",
       "url": "https://open.spotify.com/track/42XQcesZHzFr5K8CkfYzxY"
@@ -8054,6 +8184,32 @@
       "duration_ms": 257608,
       "name": "Till The Morning",
       "url": "https://open.spotify.com/track/74ARTs57w7D0GDablsiLpk"
+    },
+    {
+      "album": {
+        "name": "Till The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/5yjUESbR9eAe5GutYGSiP7"
+      },
+      "artists": [
+        {
+          "name": "The Road Hammers",
+          "url": "https://open.spotify.com/artist/1JEhLfoNDGbqu40txdS8go"
+        },
+        {
+          "name": "Tyler Connolly",
+          "url": "https://open.spotify.com/artist/39ZGpCbM3dvIl4okiBMtA4"
+        },
+        {
+          "name": "Ian Thornley",
+          "url": "https://open.spotify.com/artist/4UOnZpz8ci9OxltbLvGXjg"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200985,
+      "name": "Till The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/0otT7ehFIPb3GgqrMieC74"
     },
     {
       "album": {
@@ -8483,6 +8639,24 @@
     },
     {
       "album": {
+        "name": "Wealthy",
+        "url": "https://open.spotify.com/album/1ZOpMNTntCqVv5s6NHDREE"
+      },
+      "artists": [
+        {
+          "name": "Ethan Miller",
+          "url": "https://open.spotify.com/artist/4ZFU6OpvQZjWGe4fUJ9Dw1"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199131,
+      "name": "Wealthy",
+      "url": "https://open.spotify.com/track/1nbDD9O5irpoD252ONLfAK"
+    },
+    {
+      "album": {
         "name": "West End Queen (Abattoir)",
         "url": "https://open.spotify.com/album/0UB1d5HW9rHaSpRgOhgESp"
       },
@@ -8664,6 +8838,24 @@
       "duration_ms": 216338,
       "name": "What Were You Thinking",
       "url": "https://open.spotify.com/track/3JcxcgGRPVSIkey9OHwveg"
+    },
+    {
+      "album": {
+        "name": "When Do We Stop Talking",
+        "url": "https://open.spotify.com/album/0Aw1GSjpqOgct55qda6dNH"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186959,
+      "name": "When Do We Stop Talking",
+      "url": "https://open.spotify.com/track/2dlTZcFwslAbXKufGp3zXV"
     },
     {
       "album": {

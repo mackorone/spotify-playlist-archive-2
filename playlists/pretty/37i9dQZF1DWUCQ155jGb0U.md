@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain](/playlists/plain/37i9dQZF1DWUCQ155jGb0U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUCQ155jGb0U)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain](/playlists/plain/37i9dQZF1DWUCQ155jGb0U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUCQ155jGb0U)
 
 ### [Rock Me](https://open.spotify.com/playlist/37i9dQZF1DWUCQ155jGb0U)
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,471 likes - 104 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,197 likes - 104 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

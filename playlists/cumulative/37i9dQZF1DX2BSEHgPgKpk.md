@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2BSEHgPgKpk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2BSEHgPgKpk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2BSEHgPgKpk)
+[pretty](/playlists/pretty/37i9dQZF1DX2BSEHgPgKpk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2BSEHgPgKpk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2BSEHgPgKpk)
 
 ### [サザンオールスターズ：ArtistCHRONICLE](https://open.spotify.com/playlist/37i9dQZF1DX2BSEHgPgKpk)
 

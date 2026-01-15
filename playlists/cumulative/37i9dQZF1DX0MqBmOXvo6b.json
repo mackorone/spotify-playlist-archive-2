@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155000,
       "name": "Ballerina Waltz",
       "url": "https://open.spotify.com/track/7FGh1RBfCJLd0zdJYUuHFr"
@@ -5219,6 +5219,24 @@
     },
     {
       "album": {
+        "name": "Into the Unknown",
+        "url": "https://open.spotify.com/album/4LEyZZo2zNN9kmBiaQSKiR"
+      },
+      "artists": [
+        {
+          "name": "Mont Eval",
+          "url": "https://open.spotify.com/artist/0QRraRSvyFyBeQLp44amC4"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172097,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/58fzqWnRTNaQsUM8pVeyoY"
+    },
+    {
+      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR"
       },
@@ -7253,6 +7271,24 @@
     },
     {
       "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/5CUoTSDPsTd5mfpJsWIbz3"
+      },
+      "artists": [
+        {
+          "name": "Dalby",
+          "url": "https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146801,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/5XaDdPqb8MTApJ5kqReqgg"
+    },
+    {
+      "album": {
         "name": "New Spring",
         "url": "https://open.spotify.com/album/6Pr066uYJSXjLGJKpyjjos"
       },
@@ -8006,6 +8042,24 @@
       "duration_ms": 134500,
       "name": "Passage sombre",
       "url": "https://open.spotify.com/track/5smttO5h6jZ8dQor21hMkE"
+    },
+    {
+      "album": {
+        "name": "Passing Clouds",
+        "url": "https://open.spotify.com/album/6yPyotkHUgjWsdzxLiC0jz"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195518,
+      "name": "Passing Clouds",
+      "url": "https://open.spotify.com/track/3n2jtELNk0pDk60WEFELvw"
     },
     {
       "album": {
@@ -8992,7 +9046,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174426,
       "name": "Rest",
       "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
@@ -9698,6 +9752,24 @@
       "duration_ms": 198557,
       "name": "Seine",
       "url": "https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5"
+    },
+    {
+      "album": {
+        "name": "Selune",
+        "url": "https://open.spotify.com/album/0xBoXnHXJiGTKaZMOEOxEW"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Montoya",
+          "url": "https://open.spotify.com/artist/4XBctiZfMg9kgOPlqfLgFA"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Selune",
+      "url": "https://open.spotify.com/track/7F15kgxMXvvLXOwJvDXMjo"
     },
     {
       "album": {
@@ -11330,6 +11402,24 @@
       "duration_ms": 137361,
       "name": "The Garden Level",
       "url": "https://open.spotify.com/track/5Ku72stdcggstX5jSNeMxN"
+    },
+    {
+      "album": {
+        "name": "The Heart Remembers",
+        "url": "https://open.spotify.com/album/328whVCkslvYFWvreH7BAJ"
+      },
+      "artists": [
+        {
+          "name": "Kaspar Riedenthal",
+          "url": "https://open.spotify.com/artist/60nYiV2Ny5FO2Z8MhmYlUu"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153681,
+      "name": "The Heart Remembers",
+      "url": "https://open.spotify.com/track/0yLqLsRqfODfUMYyUbOnqb"
     },
     {
       "album": {

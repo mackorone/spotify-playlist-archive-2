@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Hdbt1R3mYP.md) - [plain](/playlists/plain/37i9dQZF1DX3Hdbt1R3mYP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Hdbt1R3mYP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Hdbt1R3mYP.md) - [plain](/playlists/plain/37i9dQZF1DX3Hdbt1R3mYP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3Hdbt1R3mYP)
 
 ### [This Is Laura Marling](https://open.spotify.com/playlist/37i9dQZF1DX3Hdbt1R3mYP)
 

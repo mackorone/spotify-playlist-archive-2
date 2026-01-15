@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Al James",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: GA Chillerong Ghetto and Paul N Ballin",
   "name": "KALYE",
   "tracks": [
     {
@@ -6512,7 +6512,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 151924,
       "name": "Space Cake",
       "url": "https://open.spotify.com/track/6xE2B3AyqqfYix6JYG0TYG"
@@ -6758,6 +6758,28 @@
       "duration_ms": 196875,
       "name": "TABE",
       "url": "https://open.spotify.com/track/3b8peYAPBoZISUhz4WMmMi"
+    },
+    {
+      "album": {
+        "name": "Tagay",
+        "url": "https://open.spotify.com/album/6cSKh6b7HAJpb23eDO1XWX"
+      },
+      "artists": [
+        {
+          "name": "Gloc-9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        },
+        {
+          "name": "A$tro",
+          "url": "https://open.spotify.com/artist/5794gAYyVyxoZKIhyN9OUq"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219204,
+      "name": "Tagay",
+      "url": "https://open.spotify.com/track/5VlTPHwnAaK5jtomWCqEv4"
     },
     {
       "album": {

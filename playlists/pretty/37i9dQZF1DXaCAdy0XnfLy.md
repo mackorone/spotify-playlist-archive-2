@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain](/playlists/plain/37i9dQZF1DXaCAdy0XnfLy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaCAdy0XnfLy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain](/playlists/plain/37i9dQZF1DXaCAdy0XnfLy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaCAdy0XnfLy)
 
 ### [You People Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXaCAdy0XnfLy)
 
 > Opposites attract...families don't\. Listen to music from and inspired by You People, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,561 likes - 39 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,560 likes - 39 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

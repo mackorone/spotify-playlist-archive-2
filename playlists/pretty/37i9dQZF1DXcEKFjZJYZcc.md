@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain](/playlists/plain/37i9dQZF1DXcEKFjZJYZcc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcEKFjZJYZcc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain](/playlists/plain/37i9dQZF1DXcEKFjZJYZcc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcEKFjZJYZcc)
 
 ### [Feel Good Piano](https://open.spotify.com/playlist/37i9dQZF1DXcEKFjZJYZcc)
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,922 likes - 134 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,421 likes - 134 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

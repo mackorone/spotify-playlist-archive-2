@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdzGIPNRTvyN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdzGIPNRTvyN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdzGIPNRTvyN)
+[pretty](/playlists/pretty/37i9dQZF1DXdzGIPNRTvyN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdzGIPNRTvyN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdzGIPNRTvyN)
 
 ### [Dreamy Forest Music](https://open.spotify.com/playlist/37i9dQZF1DXdzGIPNRTvyN)
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-380 songs - 17 hr 58 min
+383 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,11 +46,12 @@
 | [Bonvoya](https://open.spotify.com/track/312nTGasaGeNatMGWsjc56) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bonvoya](https://open.spotify.com/album/0WzgkSpotQa1C2cDhrJDu1) | 2:37 | 2024-10-03 |  |
 | [Botanical Creek](https://open.spotify.com/track/0yprfzL1FDEhQ2q0ez80o4) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Botanical Creek](https://open.spotify.com/album/1WVPOp90EnS4O7jVvHxatZ) | 2:54 | 2024-11-11 |  |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-01-24 | 2024-11-29 |
+| [Breath Work](https://open.spotify.com/track/7vd5m5le18O6Go6u8bGDrT) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Breath Work](https://open.spotify.com/album/3shFhxKMLHC5mTfCOzRPTl) | 3:15 | 2025-12-18 |  |
 | [breeze](https://open.spotify.com/track/4dd6Kd9lOuAFvtnicFmopl) | [mistral bark](https://open.spotify.com/artist/19VIhs2q6YQ5J23OrTknU7) | [breeze](https://open.spotify.com/album/5mD3888H5sHSeIHm8ngWPA) | 3:08 | 2025-04-29 |  |
 | [Bubbling Waters](https://open.spotify.com/track/1zaF9aOvpI9FXLY4vmqzSn) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bubbling Waters](https://open.spotify.com/album/44zvhAbyyWLmQPlVaZAEFE) | 3:10 | 2024-03-05 |  |
 | [By the Creek](https://open.spotify.com/track/2wNyMwLskL0yAYyipYOdyI) | [Between Worlds](https://open.spotify.com/artist/0HBncYc0ljDrJAqog1F1Qi) | [By the Creek](https://open.spotify.com/album/3T9saIz1K5izcdTVJt3ohu) | 2:23 | 2025-04-29 |  |
-| [By The River](https://open.spotify.com/track/2PMTTEuXOznRQEZubxiPrd) | [I thought about time](https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8) | [By The River](https://open.spotify.com/album/4zd6B4p1VWTVpM0i2Pww4V) | 3:07 | 2023-12-18 |  |
-| [By Your Side](https://open.spotify.com/track/5Fr4RpT1YVZHJ5L7CkCDfn) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [By Your Side](https://open.spotify.com/album/05oAUZkTZCoE8vaJjIeaEy) | 3:07 | 2024-09-06 |  |
+| [By The River](https://open.spotify.com/track/2PMTTEuXOznRQEZubxiPrd) | [I thought about time](https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8) | [By The River](https://open.spotify.com/album/4zd6B4p1VWTVpM0i2Pww4V) | 3:07 | 2023-12-18 | 2026-01-15 |
+| [By Your Side](https://open.spotify.com/track/5Fr4RpT1YVZHJ5L7CkCDfn) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [By Your Side](https://open.spotify.com/album/05oAUZkTZCoE8vaJjIeaEy) | 3:07 | 2024-09-06 | 2026-01-15 |
 | [Caelum Aqua](https://open.spotify.com/track/0pyfGww35DJV75icw9b3zD) | [Maja Balder](https://open.spotify.com/artist/2HxNtfNbAA1Pxjx9BHu1GB) | [Caelum Aqua](https://open.spotify.com/album/4obMeYnz4UrSyXqiuVybSI) | 2:34 | 2024-04-01 | 2025-10-02 |
 | [Calling](https://open.spotify.com/track/7KooASXXdp3fKGWGbp7CBE) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Calling](https://open.spotify.com/album/7zQFpHbJgeMcJPAK0pnStL) | 3:23 | 2023-05-19 | 2025-03-20 |
 | [Calm Mind](https://open.spotify.com/track/6Gt0dkoMbaXGkHegYj9mXC) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Calm Mind](https://open.spotify.com/album/4hQSRlCnpDXUoeqguI05tc) | 2:29 | 2025-10-24 |  |
@@ -109,6 +110,7 @@
 | [Equilibrium \(432 Hz\)](https://open.spotify.com/track/1OEENaIBAy5lcmVM5Qzrkk) | [Astral Yu](https://open.spotify.com/artist/4T5QX9jKXqbgoXxQ1IlecR) | [Equilibrium \(432 Hz\)](https://open.spotify.com/album/7foHel5iyncJ9SwoaQr2fV) | 2:39 | 2025-04-01 |  |
 | [Erinqua](https://open.spotify.com/track/5BXODXcSiGC1U7U2UN616z) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Erinqua](https://open.spotify.com/album/092vTKrHnXisCe1erfZ89C) | 2:20 | 2025-10-01 | 2025-12-20 |
 | [Essence of Nature](https://open.spotify.com/track/00DOpzqbE0PBgVnxFIlvVB) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Essence of Nature](https://open.spotify.com/album/5sPBaR7sHLYfp53tlhizVk) | 2:00 | 2025-03-14 |  |
+| [Eternally](https://open.spotify.com/track/6ee3Zz8m66BxfnB4ARUWSA) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Eternally](https://open.spotify.com/album/4ZXUEUdcDJEqKwdtXFxojg) | 3:04 | 2025-12-18 |  |
 | [Everyday Wonders & Sunday Mornings](https://open.spotify.com/track/1TBF5kZA7FR0e70lEuyr43) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXI](https://open.spotify.com/album/3UzefjAhmOfaPoySM0gHR4) | 2:18 | 2023-01-24 | 2024-11-29 |
 | [Everything's okay](https://open.spotify.com/track/2SZ2yUWp0iHGFetUo5MJay) | [RA\-UL](https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt) | [Everything's okay](https://open.spotify.com/album/0eXgqijm4ijx968hQbO3uG) | 3:07 | 2023-01-24 | 2023-05-20 |
 | [Far Away](https://open.spotify.com/track/7l1XV19coB7tAqnpuU3oHf) | [Divine Moments](https://open.spotify.com/artist/4rK7cbO86S7SvbdVdSNhKf) | [Far Away](https://open.spotify.com/album/1loIi1focCClaqBK1gScgK) | 2:17 | 2023-05-19 | 2025-10-29 |
@@ -135,7 +137,7 @@
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-01-24 | 2024-04-02 |
 | [Fresh Air](https://open.spotify.com/track/0MUmZdQ9bbmNERdOGWVydX) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Fresh Air](https://open.spotify.com/album/0rwJL6Y78HNXm7CfXhTkOv) | 3:15 | 2024-08-22 |  |
 | [Friður](https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Friður](https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO) | 3:14 | 2023-09-28 |  |
-| [From a Hill](https://open.spotify.com/track/4bvGaHgG1z0uLX5kItReO2) | [Azure Aura](https://open.spotify.com/artist/6mBfByzjieXdCvg1gTm0TR) | [From a Hill](https://open.spotify.com/album/1d9k3ldWgjuHRxOPO91zUA) | 2:33 | 2025-10-01 | 2025-12-08 |
+| [From a Hill](https://open.spotify.com/track/4bvGaHgG1z0uLX5kItReO2) | [Azure Aura](https://open.spotify.com/artist/6mBfByzjieXdCvg1gTm0TR) | [From a Hill](https://open.spotify.com/album/1d9k3ldWgjuHRxOPO91zUA) | 2:33 | 2025-10-01 |  |
 | [Gentle Awakening](https://open.spotify.com/track/2Ic1x3G8n6VusjdfiMpbd5) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Gentle Awakening](https://open.spotify.com/album/7LAOipW1fwh42MHfQx2ZH0) | 3:15 | 2025-12-18 |  |
 | [Gentle Awakening](https://open.spotify.com/track/3Nhb2tW6P3QgBosxqmdACc) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Gentle Awakening](https://open.spotify.com/album/3orIz0nqcl54GFcbyyYYWJ) | 3:18 | 2025-04-11 |  |
 | [Gentle Reflections](https://open.spotify.com/track/36IHCuPESIozkc5HqauNxl) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Gentle Reflections](https://open.spotify.com/album/685evcbNM8dVvZReGt0RBf) | 3:16 | 2024-03-05 |  |
@@ -249,7 +251,7 @@
 | [Only you](https://open.spotify.com/track/3CqQsTiEYjy3LQXvxmdBws) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [Only You](https://open.spotify.com/album/12UfG7di9fD2S65HGnlslw) | 3:00 | 2023-07-28 | 2025-08-14 |
 | [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-10-24 |  |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-01-24 | 2024-08-23 |
-| [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 |  |
+| [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 | 2026-01-15 |
 | [Orange Sky \(Nature\)](https://open.spotify.com/track/5IulPk0sJRudaIxh5JbMgz) | [Clyde Price](https://open.spotify.com/artist/4xt2fTrl6aOgGVoVaeuh2Y) | [Orange Sky \(Meditation\)](https://open.spotify.com/album/3w2N8w1puVbjmFDp5kI54h) | 2:38 | 2023-09-28 |  |
 | [Organica](https://open.spotify.com/track/4Xuh7a0a5z0WbI6SZ0v5Co) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Organica](https://open.spotify.com/album/2EvzFQ2SIe2gvNGtb71MwT) | 3:12 | 2024-06-03 |  |
 | [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 | 2024-05-01 | 2025-07-02 |
@@ -276,7 +278,7 @@
 | [Piccola Valle Verde](https://open.spotify.com/track/1luHl5aJg7nei9z6bXhw1a) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Piccola Valle Verde](https://open.spotify.com/album/331p32IoM4u2VYT264nO4g) | 2:57 | 2023-04-06 | 2024-06-04 |
 | [Places Of Placidity](https://open.spotify.com/track/5oZNphGYdRj0rJNGgStbly) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Places Of Placidity](https://open.spotify.com/album/1x3a9URe9AivSduWwuo6m4) | 3:00 | 2023-03-13 | 2024-09-07 |
 | [Plucked Strings Near the Fountain](https://open.spotify.com/track/3jOkyCBEH03P0QoEJm8IuH) | [Local Abroad](https://open.spotify.com/artist/6fzGY6vXqUv1OJxFTVlMfu) | [Plucked Strings Near the Fountain](https://open.spotify.com/album/334aFwHh9YQoUmGWDbcqPW) | 2:33 | 2023-11-18 |  |
-| [Pneuma](https://open.spotify.com/track/1RcsFHk4cpJXZD7HvKtPdr) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Pneuma](https://open.spotify.com/album/22R3fV6MCMZZl6DJN4UNxI) | 3:25 | 2023-10-26 |  |
+| [Pneuma](https://open.spotify.com/track/1RcsFHk4cpJXZD7HvKtPdr) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Pneuma](https://open.spotify.com/album/22R3fV6MCMZZl6DJN4UNxI) | 3:25 | 2023-10-26 | 2026-01-15 |
 | [Practicing Zen](https://open.spotify.com/track/29rvpxK8xiy7ojQvtnrGPd) | [Hannes Holm](https://open.spotify.com/artist/0lMiEQ2kYIGuFLR0Hdj8c7) | [Practicing Zen](https://open.spotify.com/album/1Djv6M8f1UCud5NQxSPlrm) | 4:04 | 2023-03-13 | 2025-02-11 |
 | [Prakrti](https://open.spotify.com/track/72WBF6dxJLFHsuyWnLYqja) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Prakrti](https://open.spotify.com/album/0HlFC6UnZo6M0yZTC39sYM) | 2:57 | 2023-07-28 |  |
 | [Prayer For Peace](https://open.spotify.com/track/6vy6tvn35Xdg5xXKPEqep1) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Prayer For Peace](https://open.spotify.com/album/4pW97ofmIZv4xnIEP9GKH0) | 3:03 | 2023-10-26 | 2025-07-02 |
@@ -332,6 +334,7 @@
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-28 |  |
 | [Soothing Journey](https://open.spotify.com/track/1fIfPOUHkSzqoBPmnxC0DN) | [Shaman’s Sounds](https://open.spotify.com/artist/7AdZtYUjhn0MYo1jO1JbTK) | [Soothing Journey](https://open.spotify.com/album/6jIQpZH08z2csxVXWMMPWC) | 3:57 | 2023-03-13 | 2023-12-19 |
 | [Sostenuto](https://open.spotify.com/track/5qD6H1TpKDs9oHobHFymJw) | [Asanka](https://open.spotify.com/artist/5UhSxhd4fYQX6TkzBK0EEF) | [Sostenuto](https://open.spotify.com/album/5W9F1QyOghWMU7vln1Lvhn) | 4:29 | 2023-03-13 |  |
+| [Soul of the Forest](https://open.spotify.com/track/3Evie0ZEPWWHpo1Iu2q3px) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Soul of the Forest](https://open.spotify.com/album/7j5LGI6TQiwb7qVgFuBqlf) | 3:09 | 2025-12-18 |  |
 | [Soulful Stillness](https://open.spotify.com/track/6NwnfeMjU4jZ7pNvQkKprw) | [Estela Brillo](https://open.spotify.com/artist/23bHOz8UNu33GhJXVwadtu) | [Soulful Stillness](https://open.spotify.com/album/5qZgaQCkX5Xj8lUmbmJ7kC) | 3:48 | 2024-11-28 | 2025-04-21 |
 | [Spa Rituals](https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Spa Rituals](https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb) | 2:31 | 2024-03-01 | 2024-12-05 |
 | [Spiritual Sleep](https://open.spotify.com/track/3YuYnf5gPQPmzKW3UtEQ0M) | [Queens of the Dream World](https://open.spotify.com/artist/3CyLUmnwr7NReZg4Hm4EWz) | [Queen of Spiritual Sleep](https://open.spotify.com/album/3lkICAnE41Hj074kuJDeit) | 2:36 | 2023-01-24 | 2023-03-29 |

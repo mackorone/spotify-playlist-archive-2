@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain](/playlists/plain/37i9dQZF1DX3wAe03Gabbq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3wAe03Gabbq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain](/playlists/plain/37i9dQZF1DX3wAe03Gabbq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3wAe03Gabbq)
 
 ### [Rock Rotation presents: Best Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX3wAe03Gabbq)
 
 > Unsere Editors’ Picks: die besten Rock\-Songs des Jahres\. Cover: Poppy, Amy Lee, Courtney LaPlante
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,282 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,424 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

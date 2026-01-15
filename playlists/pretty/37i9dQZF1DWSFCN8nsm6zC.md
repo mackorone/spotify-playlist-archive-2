@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain](/playlists/plain/37i9dQZF1DWSFCN8nsm6zC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSFCN8nsm6zC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain](/playlists/plain/37i9dQZF1DWSFCN8nsm6zC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSFCN8nsm6zC)
 
 ### [Rock Road Trip](https://open.spotify.com/playlist/37i9dQZF1DWSFCN8nsm6zC)
 

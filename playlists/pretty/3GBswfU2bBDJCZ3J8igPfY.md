@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3GBswfU2bBDJCZ3J8igPfY.md) - [plain](/playlists/plain/3GBswfU2bBDJCZ3J8igPfY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3GBswfU2bBDJCZ3J8igPfY)
+pretty - [cumulative](/playlists/cumulative/3GBswfU2bBDJCZ3J8igPfY.md) - [plain](/playlists/plain/3GBswfU2bBDJCZ3J8igPfY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3GBswfU2bBDJCZ3J8igPfY)
 
 ### [Fun In The Sun​](https://open.spotify.com/playlist/3GBswfU2bBDJCZ3J8igPfY)
 

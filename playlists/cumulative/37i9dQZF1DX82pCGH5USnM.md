@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX82pCGH5USnM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX82pCGH5USnM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX82pCGH5USnM)
+[pretty](/playlists/pretty/37i9dQZF1DX82pCGH5USnM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX82pCGH5USnM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX82pCGH5USnM)
 
 ### [Soft Lounge](https://open.spotify.com/playlist/37i9dQZF1DX82pCGH5USnM)
 
 > Soft house music for your laidback moments.
 
-975 songs - 2 day 4 hr 3 min
+982 songs - 2 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Connectivity Dub](https://open.spotify.com/track/7wO6beL28YzqSvqEal0S47) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Resonance](https://open.spotify.com/album/1LXSTaP6BPL4ywBG3nZYEd) | 6:46 | 2021-08-20 | 2021-09-22 |
 | [Contact](https://open.spotify.com/track/5D9Zb33dhecRZAse6D8kqr) | [Monte Lux](https://open.spotify.com/artist/0DU0hCMRwnxPLYH6a8D67m) | [Contact](https://open.spotify.com/album/5OVVkyuTYHYEuJDmvpzjgY) | 2:32 | 2025-11-21 |  |
 | [cookie crumbs](https://open.spotify.com/track/3Kw2Aj0lEPnCXbkOWXdKTP) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [cookie crumbs](https://open.spotify.com/album/763bZkMX3tLOULMzPfsRYY) | 2:31 | 2024-07-14 |  |
-| [Cooking](https://open.spotify.com/track/7jUPFQuuEgrmae7d3nsHVO) | [frotteee](https://open.spotify.com/artist/2mKzge5uoouLNQlK8kzzVp) | [Cooking](https://open.spotify.com/album/5ZDE91xtdyjMFqQJBXaxEc) | 2:18 | 2024-02-13 |  |
+| [Cooking](https://open.spotify.com/track/7jUPFQuuEgrmae7d3nsHVO) | [frotteee](https://open.spotify.com/artist/2mKzge5uoouLNQlK8kzzVp) | [Cooking](https://open.spotify.com/album/5ZDE91xtdyjMFqQJBXaxEc) | 2:18 | 2024-02-13 | 2026-01-15 |
 | [Copacabana](https://open.spotify.com/track/7m3TmUwQJYQkJvzvomijDd) | [Alex Caipirinha](https://open.spotify.com/artist/1usKVVJQ2IcqqB8RjvpGKv) | [Copacabana](https://open.spotify.com/album/2VcIx9AWHOSRanlFEnvSup) | 2:45 | 2021-04-15 | 2021-08-20 |
 | [Copenhagen](https://open.spotify.com/track/3rwIf7BFzYPV2vrDhDJeXb) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Copenhagen](https://open.spotify.com/album/0AwequrjSToDDbsFWhI2H1) | 2:46 | 2022-11-25 | 2025-01-11 |
 | [Coquelicot](https://open.spotify.com/track/1yMiMLEVBWals38tiLThLR) | [OYOANNE](https://open.spotify.com/artist/54SxhcvIgW6e7A4R2UKNrL) | [Coquelicot](https://open.spotify.com/album/6i5EmMp0z55VIZsnZUSxLJ) | 2:33 | 2021-11-08 | 2025-02-22 |
@@ -685,6 +685,7 @@
 | [Reflections](https://open.spotify.com/track/4TbcZUOwyywPPC1gbpnLqW) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Sunday Morning Dub](https://open.spotify.com/album/0QD0AJntZBIYlwSwpLNNmd) | 5:56 | 2021-09-09 | 2022-04-06 |
 | [refresh](https://open.spotify.com/track/4X3C9qAi8WOorLF84X0ZPA) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [refresh](https://open.spotify.com/album/6tKkXDxmTNpJNZNOuFEV2o) | 2:14 | 2024-11-29 |  |
 | [Relaxing Pulse](https://open.spotify.com/track/6peccsbRf9GTFIriaGxfRX) | [Kellyz](https://open.spotify.com/artist/6XqfCXzvMBvXqwRNo9c3Ik) | [Relaxing Pulse](https://open.spotify.com/album/6GoE75PDUvKV5H9u6BgGsL) | 1:24 | 2020-11-11 | 2020-11-19 |
+| [Rendezvous](https://open.spotify.com/track/24lEmxq9Y1JE8fFD4gr3pl) | [Kim Chee](https://open.spotify.com/artist/3DtAik5iqWq1T26oOhJkwJ) | [Rendezvous](https://open.spotify.com/album/05g6vB9qvVvX0HdFIjYTHj) | 2:04 | 2026-01-12 |  |
 | [Reserved Only](https://open.spotify.com/track/6ZGntxXkwV2rEKEdARBYIM) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Reserved Only](https://open.spotify.com/album/1BChI7BycutVE2YP4QGQ6o) | 2:22 | 2025-01-10 | 2025-12-20 |
 | [Rested](https://open.spotify.com/track/2ssp2O5R8rnNFlZU1BtAkI) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Vivid](https://open.spotify.com/album/1UeNYoQ1jRhOGHgiKppMZX) | 3:21 | 2022-10-28 | 2024-12-14 |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2020-08-26 | 2021-08-20 |
@@ -708,6 +709,7 @@
 | [Run Me](https://open.spotify.com/track/7CvCHcwtlfSAZZJWCVFsn9) | [Sun Fighters](https://open.spotify.com/artist/3MI5lIsreyUVcmNEFMd32S) | [Run Me](https://open.spotify.com/album/6D95Y6njtIyZT9aD26lwPk) | 2:04 | 2025-11-21 |  |
 | [Rung](https://open.spotify.com/track/22x9QfhMz3VHpupWk0F1Tt) | [Owen Ni](https://open.spotify.com/artist/2MmrSvDip3ZAMG8GYwRyYk), [rhythmrobot](https://open.spotify.com/artist/2SoUEIeMw1icFbdv4b1a81) | [Crate Diggin' / Rung](https://open.spotify.com/album/4SIVh8m5VFVdM28mOHGxRa) | 5:31 | 2021-03-18 | 2021-03-25 |
 | [Safari](https://open.spotify.com/track/2sVWZpx2SYdy5zsCbNt93g) | [David Bume](https://open.spotify.com/artist/1eqMf09fOHETYtHLfTITCv) | [Safari](https://open.spotify.com/album/6wL1ZfIwEDzrsQGpP5ixXf) | 3:16 | 2020-11-11 | 2021-09-22 |
+| [Sage Afternoon](https://open.spotify.com/track/0xRz7YYYMDOytOdKkuQfED) | [Mare](https://open.spotify.com/artist/37VYyGD4iL6inSd3jluhV8) | [Sage Afternoon](https://open.spotify.com/album/6P5TVDbRrz0PpueGTTUEEe) | 2:26 | 2026-01-12 |  |
 | [Saint Tropez](https://open.spotify.com/track/4JO8HC0O0wJAjjiC01OISb) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Saint Tropez](https://open.spotify.com/album/3zvW548gu7s9f5k2fndTej) | 2:35 | 2021-04-21 | 2021-08-20 |
 | [Saints](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Saints](https://open.spotify.com/album/2cUal4h6gvOSWY3tCc6eOK) | 2:49 | 2022-05-10 | 2025-08-12 |
 | [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2021-07-08 | 2023-02-10 |
@@ -718,6 +720,7 @@
 | [Sanctuary](https://open.spotify.com/track/1FuzDLB36P5vkEB8Mycm8y) | [Ze Bastien](https://open.spotify.com/artist/5xgeMqQk800VnaiY0coBlD) | [Sanctuary](https://open.spotify.com/album/3a2AyP4rQr3JUQdKs2I4VG) | 2:42 | 2021-11-08 | 2024-09-28 |
 | [Sandcastle](https://open.spotify.com/track/6SzYND0PpIDdbmvtaV9yOj) | [Francois Lé](https://open.spotify.com/artist/7b8S7uo3rDxdm0W1fJv7BX) | [Sandcastle](https://open.spotify.com/album/3WFtwcVbhmxj9GJ5lDDpOI) | 2:14 | 2024-03-26 | 2024-08-31 |
 | [Sandcastle](https://open.spotify.com/track/2aa3MeAeZSG9xHWwaXAl5U) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Sandcastle](https://open.spotify.com/album/7gpt7M3rfV2dbANIs9Viss) | 2:30 | 2024-11-29 |  |
+| [sandfall](https://open.spotify.com/track/3rYbrv1e6QJisOY0LxAEHn) | [Koula](https://open.spotify.com/artist/034RhN3Li8n0IrciAYGjSV) | [sandfall](https://open.spotify.com/album/5OhjTqsTS7nhclUBk6rUoG) | 2:11 | 2026-01-12 |  |
 | [Sanguine](https://open.spotify.com/track/5P0DX8MZCqmRAmcfpvSzLd) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Soul Spectral EP](https://open.spotify.com/album/4URtVxo78Lf8RjBmWkAVyS) | 6:10 | 2021-03-18 | 2021-06-16 |
 | [Santa Fe](https://open.spotify.com/track/46hBN101eELE1lhjYPauSx) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [Santa Fe](https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa) | 2:57 | 2021-01-18 | 2021-09-22 |
 | [Santorini](https://open.spotify.com/track/6VGUeTXGsyKU44hkPtAqHY) | [Beau Vallon](https://open.spotify.com/artist/5K0wrtw39gjYV1Gf63auL4) | [Santorini](https://open.spotify.com/album/19kbmsNTquJGW3l5f0y0Vn) | 2:50 | 2024-12-13 | 2025-12-20 |
@@ -776,6 +779,7 @@
 | [Slightly Irregular](https://open.spotify.com/track/2c04Oaz220QLDR3mP5xC6j) | [longwayfromhome](https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh) | [Slightly Irregular](https://open.spotify.com/album/4DaNYBdickKB4XtsKGRBJw) | 2:56 | 2023-06-19 | 2025-12-20 |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2021-03-06 | 2022-01-22 |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2020-12-09 | 2021-09-22 |
+| [Slowcook](https://open.spotify.com/track/2bAs3AunhEJqq07XcXqB1l) | [Oxi](https://open.spotify.com/artist/2i36rWo1mtym8tWIodrIKw) | [Slowcook](https://open.spotify.com/album/6ZNclI5vo9VNWVAIs8oJ2U) | 2:18 | 2026-01-12 |  |
 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2021-08-20 | 2022-09-23 |
 | [Smear](https://open.spotify.com/track/5d5MGTGygirIvYMCC6IxUs) | [Alan Peach](https://open.spotify.com/artist/3p9DUgWUfQNduHS1FiffTX) | [3X](https://open.spotify.com/album/5SeTh6wHnrEFboMoQ4oGo5) | 2:05 | 2021-01-05 | 2021-06-02 |
 | [Smek \- Rey&Kjavik Remix](https://open.spotify.com/track/1PyfWp1rg8omX2DOtg65pR) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Smek \(Rey&Kjavik Remix\)](https://open.spotify.com/album/55BVCDc7BpOqS2MbzgO3x6) | 6:06 | 2020-11-04 | 2020-11-19 |
@@ -901,6 +905,7 @@
 | [Together Forever](https://open.spotify.com/track/3zfzHaKtAAey6JIzkDZZwS) | [Alba Petersen](https://open.spotify.com/artist/7iAYNShn0GIFTAUqxabBWb) | [Together Forever](https://open.spotify.com/album/3wRz3weljJwo7QnC9CK0Cy) | 2:12 | 2021-02-24 | 2022-09-02 |
 | [Tomtebo](https://open.spotify.com/track/1Rks0AsEen5Ef9mc0kvZ7S) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Tomtebo](https://open.spotify.com/album/1pm7p9wuOepnYKPIsnbXXC) | 3:24 | 2021-01-27 | 2022-06-24 |
 | [too bright](https://open.spotify.com/track/3suSesOhgUyg3nMVqqB7Yi) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [too bright](https://open.spotify.com/album/7Hdyos0LAXd6ddXj5Lydu3) | 2:51 | 2024-11-15 | 2025-12-20 |
+| [Touch of Indigo](https://open.spotify.com/track/4R48kbPpT4zzcYLcOBqkAz) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Touch of Indigo](https://open.spotify.com/album/6xemqjfp3Oml8JyKOZsue6) | 2:42 | 2026-01-12 |  |
 | [Toyama](https://open.spotify.com/track/0fNvCaHFdc8gmP5c3OJLgs) | [Moy\-ya](https://open.spotify.com/artist/5khRduXj2TwOW0awj5q0zS) | [Toyama](https://open.spotify.com/album/11CN73XzqHhOor1vuqIzHt) | 3:18 | 2022-08-05 | 2024-07-25 |
 | [Tracer Arcs](https://open.spotify.com/track/0f8LcCSouQTN5iE8qVrHsp) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Tracer Arcs](https://open.spotify.com/album/2NuBMVkXAAMI9Yi2duG8Ek) | 3:18 | 2022-09-02 | 2023-01-07 |
 | [Train 201](https://open.spotify.com/track/2e5y1McoTrDZLsZyzqbT65) | [Raytone](https://open.spotify.com/artist/2NPLOBwaiAlh3vy1F37Fsy) | [Train 201](https://open.spotify.com/album/2scuU0RdnanOlrCaws9EyH) | 3:41 | 2020-04-03\* | 2021-03-06 |
@@ -935,8 +940,10 @@
 | [Veesha](https://open.spotify.com/track/40TVYUkRQ5GgLApjXOxq3O) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Veesha](https://open.spotify.com/album/37F3Q7SpyF9cdrqsrrnnYB) | 2:33 | 2024-01-19 |  |
 | [Vei](https://open.spotify.com/track/6RgMpjc2jIoCAAtAykmTgE) | [Travertia](https://open.spotify.com/artist/2hw9kXvOh4i601W9hPC6GB) | [Vei](https://open.spotify.com/album/3y2u7rDyyfKTbEuwFnIBGD) | 8:15 | 2021-01-27 | 2021-02-10 |
 | [Velvet Booth](https://open.spotify.com/track/7nr7FBOjNubyavoqhoRkMb) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Velvet Booth](https://open.spotify.com/album/3VInFJGz32nL7s5aCWRxIa) | 2:14 | 2025-09-12 |  |
+| [Velvet Breath](https://open.spotify.com/track/4D82UJAMKwMdv7uhWjo05j) | [Hello Carmelo](https://open.spotify.com/artist/05cbHwa8AL8Lq5Ezkb0RxC) | [Velvet Breath](https://open.spotify.com/album/0vOGJGa6E8nYWRbPCgzs79) | 2:52 | 2026-01-12 |  |
 | [Verum](https://open.spotify.com/track/6u4H3xjl3hrUj8CItVHbtR) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Fiducia](https://open.spotify.com/album/5Z9GD0MJpZHslJ7OHljnwD) | 3:45 | 2020-04-21 | 2020-08-26 |
 | [Very Simple](https://open.spotify.com/track/6mqNxdwau1QWYX7yChJSYF) | [Hasse Hans](https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW) | [Very Simple](https://open.spotify.com/album/16dLJ0Cp895Vm3BdpkYzxP) | 2:08 | 2022-11-25 | 2025-01-25 |
+| [Vespucci](https://open.spotify.com/track/1PALoshmsCO1isn1mOp1wC) | [Bare Resonance](https://open.spotify.com/artist/1fKCu7sONna4yjdFZA4xww) | [Vespucci](https://open.spotify.com/album/61y04ItippRByj1lv6qQT1) | 2:13 | 2026-01-12 |  |
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2021-11-08 | 2024-09-28 |
 | [Vilt](https://open.spotify.com/track/2grom1VkzViZwJ1y2e0qAB) | [Chill Motion](https://open.spotify.com/artist/7uxTNkHkgq1ZLC9tNCxgde) | [Vilt](https://open.spotify.com/album/0C2F1rwIPka00gIbi2KlRE) | 2:58 | 2025-05-30 |  |
 | [Visionary](https://open.spotify.com/track/20YRX2bwUvbAI4iJRBre5s) | [Alfa State](https://open.spotify.com/artist/09XYEnqYotzkQdZIyltRtW), [Mystic District](https://open.spotify.com/artist/2PDVBt3lvTrglJpt2yYGaF) | [Chinook EP](https://open.spotify.com/album/4bhtTw2nU27UZEpxHH4RfG) | 8:33 | 2020-12-16 | 2021-01-05 |

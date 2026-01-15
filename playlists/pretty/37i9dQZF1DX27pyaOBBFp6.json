@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 24826,
+  "num_followers": 24885,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAAhEqxsYNEfsW/IFz3kTHLfVczfJ",
   "tracks": [
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Het Beste van Armand",
-        "url": "https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6"
-      },
-      "artists": [
-        {
-          "name": "Armand",
-          "url": "https://open.spotify.com/artist/2TjgWhGv4T3pGRalEQmiwV"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "Ben Ik Te Min",
-      "url": "https://open.spotify.com/track/5s6yU2Gfs9oCTxiX2LNbHC"
-    },
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 195333,
       "name": "Testament",
       "url": "https://open.spotify.com/track/0iqLx1WpZdKT3E2oqLLO3f"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Het Beste van Armand",
+        "url": "https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6"
+      },
+      "artists": [
+        {
+          "name": "Armand",
+          "url": "https://open.spotify.com/artist/2TjgWhGv4T3pGRalEQmiwV"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "Ben Ik Te Min",
+      "url": "https://open.spotify.com/track/5s6yU2Gfs9oCTxiX2LNbHC"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Glimlach Van Een Kind",
-        "url": "https://open.spotify.com/album/3WrB41PCSnKDQRj95rGpIq"
-      },
-      "artists": [
-        {
-          "name": "Willy Alberti",
-          "url": "https://open.spotify.com/artist/4V3RSGZYyjAoaDrZqPmzUM"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Glimlach Van Een Kind",
-      "url": "https://open.spotify.com/track/0MGZGTjmBQGPuu0zFHQgkM"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste Van Boudewijn De Groot",
         "url": "https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 178533,
       "name": "Het Land Van Maas En Waal",
       "url": "https://open.spotify.com/track/2nk4SnUS6xe1iB5SeIBbgo"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "De Glimlach Van Een Kind",
+        "url": "https://open.spotify.com/album/3WrB41PCSnKDQRj95rGpIq"
+      },
+      "artists": [
+        {
+          "name": "Willy Alberti",
+          "url": "https://open.spotify.com/artist/4V3RSGZYyjAoaDrZqPmzUM"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Glimlach Van Een Kind",
+      "url": "https://open.spotify.com/track/0MGZGTjmBQGPuu0zFHQgkM"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Ramses Shaffy - Laat Me",
-        "url": "https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73"
-      },
-      "artists": [
-        {
-          "name": "Ramses Shaffy",
-          "url": "https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4"
-        }
-      ],
-      "duration_ms": 134186,
-      "name": "Sammy",
-      "url": "https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Boudewijn De Groot",
         "url": "https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Ramses Shaffy - Laat Me",
+        "url": "https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73"
+      },
+      "artists": [
+        {
+          "name": "Ramses Shaffy",
+          "url": "https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4"
+        }
+      ],
+      "duration_ms": 134186,
+      "name": "Sammy",
+      "url": "https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Die Goeie Ouwe Tijd Top 100",
         "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
@@ -239,22 +239,6 @@
       "duration_ms": 205080,
       "name": "Op Een Mooie Pinksterdag",
       "url": "https://open.spotify.com/track/7JQszt5pkJe43vlr0MUtLJ"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Zai Zai Zai",
-        "url": "https://open.spotify.com/album/6RXvitAivy3iW8ebDORM2t"
-      },
-      "artists": [
-        {
-          "name": "Ben Cramer",
-          "url": "https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U"
-        }
-      ],
-      "duration_ms": 185138,
-      "name": "Zai Zai Zai",
-      "url": "https://open.spotify.com/track/2RJb5Fm0dre38McoUXLACa"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -291,6 +275,38 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Zai Zai Zai",
+        "url": "https://open.spotify.com/album/6RXvitAivy3iW8ebDORM2t"
+      },
+      "artists": [
+        {
+          "name": "Ben Cramer",
+          "url": "https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U"
+        }
+      ],
+      "duration_ms": 185138,
+      "name": "Zai Zai Zai",
+      "url": "https://open.spotify.com/track/2RJb5Fm0dre38McoUXLACa"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
+        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
+      },
+      "artists": [
+        {
+          "name": "Rein De Vries",
+          "url": "https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "Patsy",
+      "url": "https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Die Goeie Ouwe Tijd Top 100",
         "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
@@ -312,22 +328,6 @@
       },
       "artists": [
         {
-          "name": "Rein De Vries",
-          "url": "https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Patsy",
-      "url": "https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
-        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
-      },
-      "artists": [
-        {
           "name": "Patricia Paay",
           "url": "https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd"
         }
@@ -335,22 +335,6 @@
       "duration_ms": 161786,
       "name": "Je Bent Niet Hip",
       "url": "https://open.spotify.com/track/0658jhE6xvdROR3mYKvn7P"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Warm Is De Liefde - 50 Gouden Herinneringen",
-        "url": "https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im"
-      },
-      "artists": [
-        {
-          "name": "Anneke Gronloh",
-          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
-        }
-      ],
-      "duration_ms": 171040,
-      "name": "Brandend Zand",
-      "url": "https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -431,6 +415,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Warm Is De Liefde - 50 Gouden Herinneringen",
+        "url": "https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im"
+      },
+      "artists": [
+        {
+          "name": "Anneke Gronloh",
+          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "Brandend Zand",
+      "url": "https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "The Real... Will Tura",
         "url": "https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6"
       },
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Jasperina de Jong",
+          "url": "https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "De Wandelclub",
+      "url": "https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Warm Is De Liefde - 50 Gouden Herinneringen",
         "url": "https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 173733,
       "name": "De Wereld Is Leeg Zonder Jou",
       "url": "https://open.spotify.com/track/3GWOmCm7y2lobaykZbkjpm"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Jasperina de Jong",
-          "url": "https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "De Wandelclub",
-      "url": "https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
-        "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
-      },
-      "artists": [
-        {
-          "name": "Anneke Gronloh",
-          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "Paradiso",
-      "url": "https://open.spotify.com/track/37Yccv8dpwJKc0wYCDRBuM"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Mooiste Van Willeke Alberti",
         "url": "https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 147640,
       "name": "Spiegelbeeld",
       "url": "https://open.spotify.com/track/0dQB5T7YTLhS0jI41u92hP"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
+        "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
+      },
+      "artists": [
+        {
+          "name": "Anneke Gronloh",
+          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "Paradiso",
+      "url": "https://open.spotify.com/track/37Yccv8dpwJKc0wYCDRBuM"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollands Glorie",
-        "url": "https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8"
-      },
-      "artists": [
-        {
-          "name": "Het Cocktail Trio",
-          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Batje Vier",
-      "url": "https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Die Goeie Ouwe Tijd Top 100",
         "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 200146,
       "name": "Morgen Ben Ik De Bruid",
       "url": "https://open.spotify.com/track/78cz0SmR2T67fHKdhGdtfx"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Hollands Glorie",
+        "url": "https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8"
+      },
+      "artists": [
+        {
+          "name": "Het Cocktail Trio",
+          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "Hup, hup, hup",
+      "url": "https://open.spotify.com/track/1s3fYerkhuwUJ0HvaczqLJ"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollands Glorie",
-        "url": "https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8"
-      },
-      "artists": [
-        {
-          "name": "Het Cocktail Trio",
-          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
-        }
-      ],
-      "duration_ms": 155760,
-      "name": "Hup, hup, hup",
-      "url": "https://open.spotify.com/track/1s3fYerkhuwUJ0HvaczqLJ"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Die Goeie Ouwe Tijd Top 100",
         "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
@@ -759,18 +743,50 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Mooiste Liedjes, Vol.1",
-        "url": "https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA"
+        "name": "Hollands Glorie",
+        "url": "https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8"
       },
       "artists": [
         {
-          "name": "Ria Valk",
-          "url": "https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j"
+          "name": "Het Cocktail Trio",
+          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
         }
       ],
-      "duration_ms": 197853,
-      "name": "Hou Je Echt Nog Van Mij Rockin Billy !",
-      "url": "https://open.spotify.com/track/32MfolngBWl0RVIOfWDIIu"
+      "duration_ms": 166453,
+      "name": "Batje Vier",
+      "url": "https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
+        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
+      },
+      "artists": [
+        {
+          "name": "Trea Dobbs",
+          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
+        }
+      ],
+      "duration_ms": 121613,
+      "name": "De Ploem-Ploem Jenka",
+      "url": "https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Imca Marina",
+          "url": "https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "Harlekino",
+      "url": "https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -795,18 +811,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+        "name": "De Mooiste Liedjes, Vol.1",
+        "url": "https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA"
       },
       "artists": [
         {
-          "name": "Imca Marina",
-          "url": "https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5"
+          "name": "Ria Valk",
+          "url": "https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j"
         }
       ],
-      "duration_ms": 141720,
-      "name": "Harlekino",
-      "url": "https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT"
+      "duration_ms": 197853,
+      "name": "Hou Je Echt Nog Van Mij Rockin Billy !",
+      "url": "https://open.spotify.com/track/32MfolngBWl0RVIOfWDIIu"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -843,22 +859,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
-        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
-      },
-      "artists": [
-        {
-          "name": "Trea Dobbs",
-          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
-        }
-      ],
-      "duration_ms": 121613,
-      "name": "De Ploem-Ploem Jenka",
-      "url": "https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van Armand",
         "url": "https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6"
       },
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
         }
       ],
-      "duration_ms": 209733,
-      "name": "Vanavond Om Kwart Over Zes Ben Ik Vrij",
-      "url": "https://open.spotify.com/track/61D60xl8OUaRRmsQoexzAR"
+      "duration_ms": 137360,
+      "name": "De Winter Was Lang",
+      "url": "https://open.spotify.com/track/1TY5YJ3gWVF1iBLcXRKwM1"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Regenboog Serie: Cocktail Trio",
-        "url": "https://open.spotify.com/album/6O0otUrHvn27olinmbP8bu"
-      },
-      "artists": [
-        {
-          "name": "Het Cocktail Trio",
-          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
-        }
-      ],
-      "duration_ms": 146965,
-      "name": "Kangaroe Eiland",
-      "url": "https://open.spotify.com/track/0iVB5A9tWOYWP403yqgcXR"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Een Avond Met Wim Sonneveld",
         "url": "https://open.spotify.com/album/3Loxvfv6tOPhOoQBmLBrDI"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "De Regenboog Serie: Cocktail Trio",
+        "url": "https://open.spotify.com/album/6O0otUrHvn27olinmbP8bu"
+      },
+      "artists": [
+        {
+          "name": "Het Cocktail Trio",
+          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
+        }
+      ],
+      "duration_ms": 146965,
+      "name": "Kangaroe Eiland",
+      "url": "https://open.spotify.com/track/0iVB5A9tWOYWP403yqgcXR"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Het Mooiste Van Willeke Alberti",
         "url": "https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl"
       },
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
         }
       ],
-      "duration_ms": 137360,
-      "name": "De Winter Was Lang",
-      "url": "https://open.spotify.com/track/1TY5YJ3gWVF1iBLcXRKwM1"
+      "duration_ms": 209733,
+      "name": "Vanavond Om Kwart Over Zes Ben Ik Vrij",
+      "url": "https://open.spotify.com/track/61D60xl8OUaRRmsQoexzAR"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollandse Hits Top 100",
-        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
+        "name": "Hollandse Sterren",
+        "url": "https://open.spotify.com/album/4zUjc5MAG9tJUNAIEhDLhs"
       },
       "artists": [
         {
-          "name": "Ronnie",
-          "url": "https://open.spotify.com/artist/4T7ASdOjsGw9IwfeBt7ZjO"
-        },
-        {
-          "name": "De Ronnies",
-          "url": "https://open.spotify.com/artist/4RSK0PChFYVDOyk9yHrhjC"
+          "name": "Ben Cramer",
+          "url": "https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U"
         }
       ],
-      "duration_ms": 168786,
-      "name": "Beestjes",
-      "url": "https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN"
+      "duration_ms": 159613,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/47YsvianwaXFBWYz0J8OQo"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1252,45 +1248,17 @@
       },
       "artists": [
         {
-          "name": "Johnny Hoes",
-          "url": "https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
-      "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Hollandse Sterren",
-        "url": "https://open.spotify.com/album/4zUjc5MAG9tJUNAIEhDLhs"
-      },
-      "artists": [
+          "name": "Ronnie",
+          "url": "https://open.spotify.com/artist/4T7ASdOjsGw9IwfeBt7ZjO"
+        },
         {
-          "name": "Ben Cramer",
-          "url": "https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U"
+          "name": "De Ronnies",
+          "url": "https://open.spotify.com/artist/4RSK0PChFYVDOyk9yHrhjC"
         }
       ],
-      "duration_ms": 159613,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/47YsvianwaXFBWYz0J8OQo"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Heerlijk Hollands - Het Allerbeste van Gerard de Vries & Henk Wijngaard",
-        "url": "https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l"
-      },
-      "artists": [
-        {
-          "name": "Gerard De Vries",
-          "url": "https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Spel Kaarten",
-      "url": "https://open.spotify.com/track/68A1ozNluwp0GuDzSiYnDT"
+      "duration_ms": 168786,
+      "name": "Beestjes",
+      "url": "https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1300,13 +1268,13 @@
       },
       "artists": [
         {
-          "name": "Rudi Carrell",
-          "url": "https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5"
+          "name": "Johnny Hoes",
+          "url": "https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x"
         }
       ],
-      "duration_ms": 150466,
-      "name": "Wat Een Geluk",
-      "url": "https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb"
+      "duration_ms": 188320,
+      "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
+      "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1327,18 +1295,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Beste Amsterdamse Hits Ooit",
-        "url": "https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk"
+        "name": "Heerlijk Hollands - Het Allerbeste van Gerard de Vries & Henk Wijngaard",
+        "url": "https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l"
       },
       "artists": [
         {
-          "name": "Sjakie Schram",
-          "url": "https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i"
+          "name": "Gerard De Vries",
+          "url": "https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP"
         }
       ],
-      "duration_ms": 149866,
-      "name": "Glaasje Op ... Laat Je Rijden",
-      "url": "https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk"
+      "duration_ms": 263226,
+      "name": "Spel Kaarten",
+      "url": "https://open.spotify.com/track/68A1ozNluwp0GuDzSiYnDT"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1359,18 +1327,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Heerlijk Hollands - Het Allerbeste van Gerard de Vries & Henk Wijngaard",
-        "url": "https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l"
+        "name": "Hollandse Hits Top 100",
+        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
       },
       "artists": [
         {
-          "name": "Gerard De Vries",
-          "url": "https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP"
+          "name": "Rudi Carrell",
+          "url": "https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5"
         }
       ],
-      "duration_ms": 239466,
-      "name": "Giddy Up Go",
-      "url": "https://open.spotify.com/track/3Nw18q2ryka6Cjs6h5eSov"
+      "duration_ms": 150466,
+      "name": "Wat Een Geluk",
+      "url": "https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1387,6 +1355,38 @@
       "duration_ms": 148053,
       "name": "Parel Van De Zuidzee",
       "url": "https://open.spotify.com/track/3CA9D4W9IGIwaJvqEluwqt"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "De Beste Amsterdamse Hits Ooit",
+        "url": "https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk"
+      },
+      "artists": [
+        {
+          "name": "Sjakie Schram",
+          "url": "https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i"
+        }
+      ],
+      "duration_ms": 149866,
+      "name": "Glaasje Op ... Laat Je Rijden",
+      "url": "https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Heerlijk Hollands - Het Allerbeste van Gerard de Vries & Henk Wijngaard",
+        "url": "https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l"
+      },
+      "artists": [
+        {
+          "name": "Gerard De Vries",
+          "url": "https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "Giddy Up Go",
+      "url": "https://open.spotify.com/track/3Nw18q2ryka6Cjs6h5eSov"
     },
     {
       "added_at": "2024-07-19 06:41:15",

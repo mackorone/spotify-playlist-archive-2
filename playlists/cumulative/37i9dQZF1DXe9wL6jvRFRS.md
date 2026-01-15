@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXe9wL6jvRFRS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe9wL6jvRFRS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe9wL6jvRFRS)
+[pretty](/playlists/pretty/37i9dQZF1DXe9wL6jvRFRS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe9wL6jvRFRS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe9wL6jvRFRS)
 
 ### [Spindle](https://open.spotify.com/playlist/37i9dQZF1DXe9wL6jvRFRS)
 
-> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Man/Woman/Chainsaw on the cover.
+> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Any Young Mechanic on the cover.
 
-73 songs - 5 hr 27 min
+74 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 | 2025-07-10 |  |
 | [Skybather](https://open.spotify.com/track/35QHL37OnPIP2tbBTB3h5u) | [KEG](https://open.spotify.com/artist/5CiQ9m8dPZ3eEV8c2DdHuq) | [Fun's Over](https://open.spotify.com/album/7zDLG58TKhJp5KRAf2ugiz) | 3:50 | 2025-07-10 |  |
 | [Sleeping Dogs](https://open.spotify.com/track/048fPBqD9hIpKI3mCxGK65) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [New Old Horse](https://open.spotify.com/album/35Yzjj53JrZsobBouZGpxj) | 4:47 | 2025-07-10 |  |
+| [Snug Barber](https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Snug Barber](https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw) | 1:58 | 2026-01-15 |  |
 | [Soft As The Day](https://open.spotify.com/track/6jiMKyoLf0pScyot4BLAeb) | [Invariance](https://open.spotify.com/artist/2HHUVNqkALtPVBvy2mvtkv), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Daniel Rogerson](https://open.spotify.com/artist/489g9cJ7QzvW5OKQLB0Pu3), [Lorenz Okello](https://open.spotify.com/artist/4ATBLFOPaWNkz3ZUU4hlgl), [John Jones](https://open.spotify.com/artist/0l4vvWqPlPrfSHE8dJ6AV5), [Morgan Simpson](https://open.spotify.com/artist/5ZLVgeZ9imtZfNwHCZDqHS) | [Wish You Well / Album](https://open.spotify.com/album/6VOPycS7XmfgA0y43Xd8dq) | 6:15 | 2025-07-10 |  |
 | [Stardoll](https://open.spotify.com/track/690xzecwSrfqj50GwMKwSQ) | [Ninush](https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0) | [Stardoll](https://open.spotify.com/album/7eA3G6rOB8cAaJL4v9M5kp) | 3:12 | 2025-07-10 |  |
 | [Still](https://open.spotify.com/track/1WTYHbDGKGNE7ujGhXj5sD) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Hellfire](https://open.spotify.com/album/68z6MWYYNmvTcru1QMcYId) | 5:46 | 2025-07-10 |  |

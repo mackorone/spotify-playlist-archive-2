@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbbEu9bFtnTl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbbEu9bFtnTl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbbEu9bFtnTl)
+[pretty](/playlists/pretty/37i9dQZF1DXbbEu9bFtnTl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbbEu9bFtnTl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbbEu9bFtnTl)
 
 ### [ERROR 404 ](https://open.spotify.com/playlist/37i9dQZF1DXbbEu9bFtnTl)
 

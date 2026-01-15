@@ -867,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/5TlymhW0U0a6SjovrF8tEr"
+      },
+      "artists": [
+        {
+          "name": "Nick Havsen",
+          "url": "https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3"
+        },
+        {
+          "name": "B00ST",
+          "url": "https://open.spotify.com/artist/4LbUyZ8D2tXu1kuSFzYZdx"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121329,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4OmpHbeuhayvjodg2nWPYz"
+    },
+    {
+      "album": {
         "name": "Chopped",
         "url": "https://open.spotify.com/album/3RLhIBgNrp1esi0MlYBUm0"
       },
@@ -3874,7 +3896,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 179975,
       "name": "Starscream",
       "url": "https://open.spotify.com/track/6aDr24Ue0iRhzfDv5watIG"

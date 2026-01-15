@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain](/playlists/plain/37i9dQZF1DWSKpvyAAcaNZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSKpvyAAcaNZ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain](/playlists/plain/37i9dQZF1DWSKpvyAAcaNZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSKpvyAAcaNZ)
 
 ### [Blues & Roots Rock](https://open.spotify.com/playlist/37i9dQZF1DWSKpvyAAcaNZ)
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,978 likes - 153 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,352 likes - 153 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

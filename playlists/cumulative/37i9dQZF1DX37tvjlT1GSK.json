@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. ",
+  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. DANNY DUARTE en cover.",
   "name": "Sierre\u00f1o 2025",
   "tracks": [
     {
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 127142,
       "name": "COCA",
       "url": "https://open.spotify.com/track/4GNjH8JN7ZItbrJx0JdzF9"
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 225152,
       "name": "Como Jordan",
       "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155600,
       "name": "Como Marca El Manual",
       "url": "https://open.spotify.com/track/0cISmEItmFTnXYgffJgt7U"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177459,
       "name": "Dame Tu Amor",
       "url": "https://open.spotify.com/track/1hIwEY8U3ah4PQsDzHMtQx"
@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 191259,
       "name": "Don Nadie",
       "url": "https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q"
@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 189500,
       "name": "Donde Quedaron Las Flores",
       "url": "https://open.spotify.com/track/3v48J2xufVswTW2AQ7wav4"
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 243415,
       "name": "El Del Cigarro",
       "url": "https://open.spotify.com/track/0nMRQRAW0NrHXd9W2nxCxb"
@@ -3496,7 +3496,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 179156,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/6LDB1KY7hbf9r7iiroZzPC"
@@ -4426,7 +4426,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 136182,
       "name": "Flores",
       "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
@@ -5582,7 +5582,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171065,
       "name": "La Vida Es Un Juego",
       "url": "https://open.spotify.com/track/19f1DwILx7UIS8hVAFXM5q"
@@ -6517,6 +6517,28 @@
     },
     {
       "album": {
+        "name": "MI GATA",
+        "url": "https://open.spotify.com/album/0tK2oT6337tuhZt5mqnsXZ"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222366,
+      "name": "MI GATA",
+      "url": "https://open.spotify.com/track/36T0zLipTSOXQrY8oFBAvT"
+    },
+    {
+      "album": {
         "name": "Mi Morenita",
         "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
       },
@@ -6920,7 +6942,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194782,
       "name": "MURAKAMI",
       "url": "https://open.spotify.com/track/4co3k28oLJgk33nAtjdGSh"
@@ -7114,6 +7136,24 @@
       "duration_ms": 263807,
       "name": "Nieves de Enero",
       "url": "https://open.spotify.com/track/1GxYyP3rMCMtB3e7EWqU3f"
+    },
+    {
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/58RoPA8TLI7C1SwpH2Oozy"
+      },
+      "artists": [
+        {
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "No",
+      "url": "https://open.spotify.com/track/1vyjEV4WjvR67ble8w9vVD"
     },
     {
       "album": {
@@ -7360,7 +7400,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 208056,
       "name": "No Nos Tocaba",
       "url": "https://open.spotify.com/track/4ExNmJ5ng48ZIE5VG4Qdrk"
@@ -7400,7 +7440,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 226991,
       "name": "No Puedo Olvidarla - En Vivo",
       "url": "https://open.spotify.com/track/2QLbhv0Q4iRgSpQxMu2eyi"
@@ -8013,6 +8053,24 @@
     },
     {
       "album": {
+        "name": "\"Estoy Bien\"",
+        "url": "https://open.spotify.com/album/1dE7V9UJxX6jpK1hNAyLyT"
+      },
+      "artists": [
+        {
+          "name": "Daren",
+          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209724,
+      "name": "PLANETA",
+      "url": "https://open.spotify.com/track/2OUOsr0nL8AlpkTybFu6RB"
+    },
+    {
+      "album": {
         "name": "Sin Rumbo",
         "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
       },
@@ -8386,7 +8444,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 276648,
       "name": "Pu\u00f1o de Diamantes",
       "url": "https://open.spotify.com/track/3HQfiw1j3zL1jcLYWlozA9"
@@ -8712,7 +8770,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 270328,
       "name": "REGALO DE DIOS",
       "url": "https://open.spotify.com/track/7et5fAoVdniLJImBLVQyBP"
@@ -9364,7 +9422,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190500,
       "name": "Sin Yolanda",
       "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
@@ -10829,6 +10887,24 @@
     },
     {
       "album": {
+        "name": "Volver\u00e9",
+        "url": "https://open.spotify.com/album/2pA8lJXmalKRH4oEwUdqTr"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/4vY0SZVKNBwgoTq1T26JhC"
+    },
+    {
+      "album": {
         "name": "Voy a Amarte (Remix)",
         "url": "https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE"
       },
@@ -10904,6 +10980,28 @@
       "duration_ms": 194792,
       "name": "VT (feat. PATO MADERO & Marcelo Ancer)",
       "url": "https://open.spotify.com/track/1nhcq9vdvudRlFARi3i0w1"
+    },
+    {
+      "album": {
+        "name": "Washa Live EP. 2 - A 300",
+        "url": "https://open.spotify.com/album/1Ru092Lvs7LLuy2ZC4pLKF"
+      },
+      "artists": [
+        {
+          "name": "Ronny Mendoza",
+          "url": "https://open.spotify.com/artist/5GdGXHHSTktCZfRziDROam"
+        },
+        {
+          "name": "Orlando Verdugo",
+          "url": "https://open.spotify.com/artist/2Y7b3cSuhxPewc0kdMhqHN"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164347,
+      "name": "Washa Live EP. 2 - A 300",
+      "url": "https://open.spotify.com/track/7Fv93nALRix4uVYPJwg98D"
     },
     {
       "album": {
@@ -11060,6 +11158,24 @@
       "duration_ms": 177666,
       "name": "Ya Coraz\u00f3n",
       "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
+    },
+    {
+      "album": {
+        "name": "YA DIME QUE S\u00cd",
+        "url": "https://open.spotify.com/album/4OG2jOl3VUku4Wqn3cgDtO"
+      },
+      "artists": [
+        {
+          "name": "DANNY DUARTE",
+          "url": "https://open.spotify.com/artist/7umeKQuONOmBJNYP0wPob8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208032,
+      "name": "YA DIME QUE S\u00cd",
+      "url": "https://open.spotify.com/track/6IyhrxGfQOuDL0ZQhq5BRS"
     },
     {
       "album": {

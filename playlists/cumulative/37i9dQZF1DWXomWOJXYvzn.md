@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXomWOJXYvzn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXomWOJXYvzn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXomWOJXYvzn)
+[pretty](/playlists/pretty/37i9dQZF1DWXomWOJXYvzn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXomWOJXYvzn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXomWOJXYvzn)
 
 ### [PRIDE: A League Of Her Own](https://open.spotify.com/playlist/37i9dQZF1DWXomWOJXYvzn)
 

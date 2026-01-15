@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "lo alt, raro y cool. Charlotte Day Wilson en portada.",
+  "description": "lo alt, raro y cool. Father John Misty en portada.",
   "name": "el indie no es un g\u00e9nero ",
   "tracks": [
     {
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195289,
       "name": "Billie Toppy",
       "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 295378,
       "name": "Can You Swim?",
       "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203187,
       "name": "Close Quarters - From the Motel",
       "url": "https://open.spotify.com/track/1n7qNq4oj8Aul2Z5os3jfL"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180577,
       "name": "criminal",
       "url": "https://open.spotify.com/track/1x2OxGkw2oBTFY6brK8T7T"
@@ -2896,7 +2896,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 203349,
       "name": "Delete Ya",
       "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
@@ -4083,6 +4083,28 @@
     },
     {
       "album": {
+        "name": "Flowers In The Water",
+        "url": "https://open.spotify.com/album/0aSClnSnwkJQUmJupW4fpe"
+      },
+      "artists": [
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239397,
+      "name": "Flowers In The Water",
+      "url": "https://open.spotify.com/track/50WogEBOCXkA5vEV1Es58S"
+    },
+    {
+      "album": {
         "name": "Focus Ring",
         "url": "https://open.spotify.com/album/1tQNXI0HKvZRNIGCwsY11u"
       },
@@ -4900,7 +4922,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 206143,
       "name": "High Road",
       "url": "https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi"
@@ -5962,7 +5984,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 289746,
       "name": "Kebabs",
       "url": "https://open.spotify.com/track/5iyu8PYNeTHHTtDmFsShY6"
@@ -6306,6 +6328,24 @@
       "duration_ms": 179520,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
+    },
+    {
+      "album": {
+        "name": "Let You In",
+        "url": "https://open.spotify.com/album/4mo9EM8C3Q2UXjvIexBSwY"
+      },
+      "artists": [
+        {
+          "name": "Marlon Funaki",
+          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238607,
+      "name": "Let You In",
+      "url": "https://open.spotify.com/track/2OqGfyw3dx6GikP01EwLYf"
     },
     {
       "album": {
@@ -6924,7 +6964,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185230,
       "name": "Maybe, Finally",
       "url": "https://open.spotify.com/track/4DQ2NDWgc2CKaLJc33QqE4"
@@ -7593,6 +7633,24 @@
     },
     {
       "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/2HPKqm3oKkacBY33ujrTQZ"
+      },
+      "artists": [
+        {
+          "name": "WILLIS",
+          "url": "https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141681,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/1XzyBSMo12h2gULYYNjEra"
+    },
+    {
+      "album": {
         "name": "new benz",
         "url": "https://open.spotify.com/album/76daIjOFyI3F33AgLL70TK"
       },
@@ -7684,7 +7742,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130000,
       "name": "Nights In Armor (FKA Love Song)",
       "url": "https://open.spotify.com/track/60ghrjJevnOt9WihSGmZ1B"
@@ -9283,6 +9341,24 @@
     },
     {
       "album": {
+        "name": "Sanna sur la croix",
+        "url": "https://open.spotify.com/album/20KnE5EjKAu5Dpj06eqOAL"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Sanna sur la croix - Single Version",
+      "url": "https://open.spotify.com/track/3XaUv6SdRYPmCn8pPoqMqx"
+    },
+    {
+      "album": {
         "name": "Satan's Son (feat. Matt Sweeney)",
         "url": "https://open.spotify.com/album/3xRnDGWgMNDl1joOrRb6Hw"
       },
@@ -9460,7 +9536,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 286000,
       "name": "Secret Safe",
       "url": "https://open.spotify.com/track/6I1D9IkefCCrNk8z7amHDU"
@@ -10161,6 +10237,24 @@
     },
     {
       "album": {
+        "name": "Spinning Rooms",
+        "url": "https://open.spotify.com/album/3XmsRHiqxdZMTvtTfMKilM"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236619,
+      "name": "Spinning Rooms",
+      "url": "https://open.spotify.com/track/2XJU0TP8vgVBpOfiO2Mpnu"
+    },
+    {
+      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -10823,6 +10917,24 @@
     },
     {
       "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
+    },
+    {
+      "album": {
         "name": "Memoir of a Sparklemuffin (Deluxe)",
         "url": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
       },
@@ -11096,6 +11208,24 @@
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "album": {
+        "name": "The Old Law",
+        "url": "https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281988,
+      "name": "The Old Law",
+      "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
     },
     {
       "album": {
@@ -11912,7 +12042,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 226373,
       "name": "Upside",
       "url": "https://open.spotify.com/track/46i6oWlLNJVhUPaRnWX6v0"

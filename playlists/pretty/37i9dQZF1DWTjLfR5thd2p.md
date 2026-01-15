@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain](/playlists/plain/37i9dQZF1DWTjLfR5thd2p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTjLfR5thd2p)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain](/playlists/plain/37i9dQZF1DWTjLfR5thd2p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTjLfR5thd2p)
 
 ### [Peaceful Summer Nights](https://open.spotify.com/playlist/37i9dQZF1DWTjLfR5thd2p)
 
 > A cool breeze, a clear sky, and calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,647 likes - 206 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,661 likes - 206 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NxFcG0RivQ.md) - [plain](/playlists/plain/37i9dQZF1DX8NxFcG0RivQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8NxFcG0RivQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NxFcG0RivQ.md) - [plain](/playlists/plain/37i9dQZF1DX8NxFcG0RivQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8NxFcG0RivQ)
 
 ### [Amanecer con Yoga](https://open.spotify.com/playlist/37i9dQZF1DX8NxFcG0RivQ)
 

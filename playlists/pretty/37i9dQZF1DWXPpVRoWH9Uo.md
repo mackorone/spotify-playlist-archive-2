@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPpVRoWH9Uo.md) - [plain](/playlists/plain/37i9dQZF1DWXPpVRoWH9Uo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXPpVRoWH9Uo)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPpVRoWH9Uo.md) - [plain](/playlists/plain/37i9dQZF1DWXPpVRoWH9Uo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXPpVRoWH9Uo)
 
 ### [Caribbean Music Awards 2024](https://open.spotify.com/playlist/37i9dQZF1DWXPpVRoWH9Uo)
 
 > Celebrating the nominees of this year's <a href="https://caribmusicawards.com/">Caribbean Music Awards</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 718 likes - 37 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 723 likes - 37 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

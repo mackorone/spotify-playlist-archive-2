@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYhr4P5Boce5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYhr4P5Boce5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYhr4P5Boce5)
+[pretty](/playlists/pretty/37i9dQZF1DWYhr4P5Boce5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYhr4P5Boce5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYhr4P5Boce5)
 
 ### [Higher Love](https://open.spotify.com/playlist/37i9dQZF1DWYhr4P5Boce5)
 
@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2nd Happy](https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [2nd Happy](https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s) | 3:45 | 2024-02-03 | 2025-12-14 |
+| [2nd Happy](https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [2nd Happy](https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s) | 3:45 | 2024-02-03 |  |
 | [A Red, Red Rose](https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [A Red, Red Rose](https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf) | 3:23 | 2024-07-17 |  |
 | [a thousand shores \- acoustic](https://open.spotify.com/track/3ntWYBpmifeLpuKcXpMzqd) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [a thousand shores \(acoustic\)](https://open.spotify.com/album/1OxvweA208aeNJ1lN51Gmg) | 4:19 | 2024-02-03 | 2024-07-18 |
 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 | 2023-01-31 |  |
@@ -44,7 +44,7 @@
 | [Boo](https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv) | [Bachi](https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK) | [Boo](https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl) | 2:20 | 2024-02-03 | 2025-02-08 |
 | [Breathe Life](https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Matthew Grant](https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di) | [Breathe Life](https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy) | 3:06 | 2025-02-14 |  |
 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 | 2023-01-31 | 2024-02-04 |
-| [Butterflies](https://open.spotify.com/track/7uKhxMHB8UXqsHO0OKlPfd) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q) | [HOME AWAY FROM HOME](https://open.spotify.com/album/3IiegkxYVMPRNpY3wDFD1x) | 2:16 | 2025-12-14 |  |
+| [Butterflies](https://open.spotify.com/track/7uKhxMHB8UXqsHO0OKlPfd) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q) | [HOME AWAY FROM HOME](https://open.spotify.com/album/3IiegkxYVMPRNpY3wDFD1x) | 2:16 | 2025-12-14 | 2026-01-15 |
 | [Buy You Flowers](https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Buy You Flowers](https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa) | 2:22 | 2024-02-03 | 2025-02-21 |
 | [By Your Side](https://open.spotify.com/track/6qdpQ6jPiaCYE9Qw4nZVuD) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Over And Underneath](https://open.spotify.com/album/6owfUdoDWVCB7S00NDKPKM) | 4:01 | 2024-07-17 |  |
 | [Came True](https://open.spotify.com/track/4TU8JQCnNPG1l0ZL8c7lPf) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Chavyn Jaice](https://open.spotify.com/artist/5Xf7bP1HuOB3fe0julaUox) | [Came True](https://open.spotify.com/album/6uIN4DNkaaSxXgovWhrz87) | 3:08 | 2024-07-17 | 2025-01-09 |

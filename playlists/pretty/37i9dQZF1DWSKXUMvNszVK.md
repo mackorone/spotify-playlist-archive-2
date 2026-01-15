@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain](/playlists/plain/37i9dQZF1DWSKXUMvNszVK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSKXUMvNszVK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain](/playlists/plain/37i9dQZF1DWSKXUMvNszVK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSKXUMvNszVK)
 
 ### [Bob Sinclar's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWSKXUMvNszVK)
 
 > <a href="spotify:artist:5YFS41yoX0YuFY39fq21oN">Bob Sinclar</a>'s favourite tracks\. Updated regularly\. Curated by Bob Sinclar\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,820 likes - 62 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,342 likes - 62 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

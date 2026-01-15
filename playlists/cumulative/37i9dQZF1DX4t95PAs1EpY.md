@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4t95PAs1EpY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4t95PAs1EpY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4t95PAs1EpY)
+[pretty](/playlists/pretty/37i9dQZF1DX4t95PAs1EpY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4t95PAs1EpY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4t95PAs1EpY)
 
 ### [lofi garden](https://open.spotify.com/playlist/37i9dQZF1DX4t95PAs1EpY)
 

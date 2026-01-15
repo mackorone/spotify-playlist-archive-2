@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain](/playlists/plain/37i9dQZF1DX0j8ATpV1eln) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0j8ATpV1eln)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain](/playlists/plain/37i9dQZF1DX0j8ATpV1eln) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0j8ATpV1eln)
 
 ### [大石昌良 Masayoshi Oishi Works](https://open.spotify.com/playlist/37i9dQZF1DX0j8ATpV1eln)
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,078 likes - 87 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,084 likes - 87 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

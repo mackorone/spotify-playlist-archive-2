@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/6QAwHYtCdTdrgX6wh1iE9H.md) - [plain](/playlists/plain/6QAwHYtCdTdrgX6wh1iE9H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6QAwHYtCdTdrgX6wh1iE9H)
+pretty - [cumulative](/playlists/cumulative/6QAwHYtCdTdrgX6wh1iE9H.md) - [plain](/playlists/plain/6QAwHYtCdTdrgX6wh1iE9H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6QAwHYtCdTdrgX6wh1iE9H)
 
 ### [Lazy Afternoon \(2\)](https://open.spotify.com/playlist/6QAwHYtCdTdrgX6wh1iE9H)
 

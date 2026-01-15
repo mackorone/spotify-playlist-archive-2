@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain](/playlists/plain/37i9dQZF1DWXWXT1CF0lO2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXWXT1CF0lO2)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain](/playlists/plain/37i9dQZF1DWXWXT1CF0lO2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXWXT1CF0lO2)
 
 ### [Disney Para Dormir](https://open.spotify.com/playlist/37i9dQZF1DWXWXT1CF0lO2)
 
 > Ajude seu bebê a dormir com músicas relaxantes da Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,189 likes - 167 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,950 likes - 167 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

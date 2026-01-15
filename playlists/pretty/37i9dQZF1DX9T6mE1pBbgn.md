@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T6mE1pBbgn.md) - [plain](/playlists/plain/37i9dQZF1DX9T6mE1pBbgn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9T6mE1pBbgn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T6mE1pBbgn.md) - [plain](/playlists/plain/37i9dQZF1DX9T6mE1pBbgn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9T6mE1pBbgn)
 
 ### [ILLIT FAN CONCERT \[GLITTER DAY\]](https://open.spotify.com/playlist/37i9dQZF1DX9T6mE1pBbgn)
 
 > Enjoy the ILLIT FAN CONCERT \[GLITTER DAY\] LIVE SET including the voices of them on stage! \(아일릿의 무대 멘트와 목소리가 포함된 \[GLITTER DAY\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,839 likes - 14 songs - 32 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,845 likes - 14 songs - 32 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

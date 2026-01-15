@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXnilSxqtzxn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXnilSxqtzxn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXnilSxqtzxn)
+[pretty](/playlists/pretty/37i9dQZF1DWXnilSxqtzxn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXnilSxqtzxn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXnilSxqtzxn)
 
 ### [The Jazz Cafe: Legends Edit](https://open.spotify.com/playlist/37i9dQZF1DWXnilSxqtzxn)
 

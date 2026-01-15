@@ -302,6 +302,24 @@
     {
       "album": {
         "name": "A Friend of Mine",
+        "url": "https://open.spotify.com/album/188EmjBdMxxEU19ISaJVIj"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik Trio",
+          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217749,
+      "name": "A Friend of Mine",
+      "url": "https://open.spotify.com/track/1qWRLienRqf6OS7CjXyQZb"
+    },
+    {
+      "album": {
+        "name": "A Friend of Mine",
         "url": "https://open.spotify.com/album/1tjxHomd2P8NqL7a4i7yxw"
       },
       "artists": [
@@ -532,6 +550,24 @@
       "duration_ms": 215950,
       "name": "A look of confusion",
       "url": "https://open.spotify.com/track/4zNMkaNjhCpnVJm1RQHgv2"
+    },
+    {
+      "album": {
+        "name": "A love song",
+        "url": "https://open.spotify.com/album/1pY0aFXnWug0kprGpU01k7"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255117,
+      "name": "A love song",
+      "url": "https://open.spotify.com/track/40omREcnBxztksjO7XTnP8"
     },
     {
       "album": {
@@ -1270,6 +1306,24 @@
       "duration_ms": 217502,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/2l0iO5UB8vLpgjjih8sUYD"
+    },
+    {
+      "album": {
+        "name": "Alice Corner",
+        "url": "https://open.spotify.com/album/27cypFRKmPqno5giELZOyT"
+      },
+      "artists": [
+        {
+          "name": "Downtown Caf\u00e9",
+          "url": "https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229730,
+      "name": "Alice Corner",
+      "url": "https://open.spotify.com/track/5vNmKXDjOHMuLmwEzFzRCs"
     },
     {
       "album": {
@@ -2030,7 +2084,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 271658,
       "name": "Another Hymn",
       "url": "https://open.spotify.com/track/4bPTSAAbGSLuNML02HgxQl"
@@ -2192,7 +2246,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182011,
       "name": "As Clouds Pass",
       "url": "https://open.spotify.com/track/17gP6Gz1x4RafyYJPm82wp"
@@ -2560,7 +2614,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 206511,
       "name": "Autumn Memories",
       "url": "https://open.spotify.com/track/293Z6MI83NgU15Ky5Gakqc"
@@ -2650,7 +2704,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 228681,
       "name": "Autumn Whispers",
       "url": "https://open.spotify.com/track/0xHjKlaXNiA4BJGgPz15KX"
@@ -2982,7 +3036,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 263790,
       "name": "Beauty Within",
       "url": "https://open.spotify.com/track/0EnPGNHGICDJ33oZhpYTio"
@@ -5006,7 +5060,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164859,
       "name": "Come on... Lucky!",
       "url": "https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn"
@@ -5190,6 +5244,42 @@
       "duration_ms": 197273,
       "name": "Constantly Changing",
       "url": "https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM"
+    },
+    {
+      "album": {
+        "name": "Continues to play...",
+        "url": "https://open.spotify.com/album/5cCVkabyOb7X7QKgPy7Li8"
+      },
+      "artists": [
+        {
+          "name": "Irvine Martin",
+          "url": "https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200019,
+      "name": "Continues to play...",
+      "url": "https://open.spotify.com/track/6WYEm8VzlFt5O1DHOBMNv1"
+    },
+    {
+      "album": {
+        "name": "Contours",
+        "url": "https://open.spotify.com/album/6lQxepbTu4oPTkqP2lNT6o"
+      },
+      "artists": [
+        {
+          "name": "The Low Light Trio",
+          "url": "https://open.spotify.com/artist/5WdixIK85kM8klaN4qpQfT"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145204,
+      "name": "Contours",
+      "url": "https://open.spotify.com/track/1KojQHlLhq9jSycjWnkYgn"
     },
     {
       "album": {
@@ -5510,7 +5600,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 212791,
       "name": "Dark Suit and Necktie",
       "url": "https://open.spotify.com/track/7FHq7CUgGwUI3r7tx1tibS"
@@ -5766,6 +5856,24 @@
       "duration_ms": 157817,
       "name": "Deep Purple",
       "url": "https://open.spotify.com/track/5Ke4IJIfRq22AQmJAQY4y0"
+    },
+    {
+      "album": {
+        "name": "Deserted Road",
+        "url": "https://open.spotify.com/album/3ZvaLgmBlomzt0o5DAkiT3"
+      },
+      "artists": [
+        {
+          "name": "Joyce Trio",
+          "url": "https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194909,
+      "name": "Deserted Road",
+      "url": "https://open.spotify.com/track/22YofSvhrbxXjQBnBwrwFM"
     },
     {
       "album": {
@@ -6332,7 +6440,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201500,
       "name": "Early Afternoon",
       "url": "https://open.spotify.com/track/2scMeFyTq62uqrJcyppeKD"
@@ -6498,6 +6606,24 @@
       "duration_ms": 203500,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK"
+    },
+    {
+      "album": {
+        "name": "Easy lovin'",
+        "url": "https://open.spotify.com/album/0JCSXihza2TSsxW8KidUFI"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Chords",
+          "url": "https://open.spotify.com/artist/5vQv6osGja4opdIuGMTguW"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174329,
+      "name": "Easy lovin'",
+      "url": "https://open.spotify.com/track/0SGZNTJ0218QBimmLy4IAI"
     },
     {
       "album": {
@@ -7243,6 +7369,24 @@
     },
     {
       "album": {
+        "name": "Eyes Meet at Midnight",
+        "url": "https://open.spotify.com/album/1GlMAT3hSxyxMaXdK9DnOk"
+      },
+      "artists": [
+        {
+          "name": "Neil Chapman Green",
+          "url": "https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215490,
+      "name": "Eyes Meet at Midnight",
+      "url": "https://open.spotify.com/track/7oomkX3XCsIBOZ62xThBW6"
+    },
+    {
+      "album": {
         "name": "Eyes of a Child",
         "url": "https://open.spotify.com/album/192KYOfZZHuXaos0vDzf7Z"
       },
@@ -7524,7 +7668,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217000,
       "name": "Feeling Free",
       "url": "https://open.spotify.com/track/4R50lEb49kbdbzMQHg16RP"
@@ -7830,7 +7974,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223000,
       "name": "Flow",
       "url": "https://open.spotify.com/track/7e1itud9aJ0ChQI9Nk9Z5D"
@@ -8820,7 +8964,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 208500,
       "name": "Golden Moments",
       "url": "https://open.spotify.com/track/21G8HryJ6LWITBPNU9o2e1"
@@ -10160,10 +10304,28 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 188891,
       "name": "I had my reasons",
       "url": "https://open.spotify.com/track/7H4wL4aqwwKquZtGTjmgMY"
+    },
+    {
+      "album": {
+        "name": "I haven\u2019t seen an angel",
+        "url": "https://open.spotify.com/album/20fHZaJ0ysdCamyiBW0ian"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Leroy Quartet",
+          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200296,
+      "name": "I haven\u2019t seen an angel",
+      "url": "https://open.spotify.com/track/7u6AQMBWR7OlQHbKhMFr8M"
     },
     {
       "album": {
@@ -10222,7 +10384,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 235744,
       "name": "I Lost My Mind",
       "url": "https://open.spotify.com/track/1nlLLyn3EFdCac5ASvTzhk"
@@ -10384,7 +10546,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 233393,
       "name": "I Saw You Across the Room",
       "url": "https://open.spotify.com/track/04Vlww85iHY4GOpHmSsSVl"
@@ -11292,7 +11454,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164431,
       "name": "In a quiet voice",
       "url": "https://open.spotify.com/track/0gEwI6dLfDSdb5uykp86Xx"
@@ -11418,7 +11580,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211500,
       "name": "In my loneliness",
       "url": "https://open.spotify.com/track/0PzzXnq0ilNCknJWtql0sO"
@@ -11436,7 +11598,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192558,
       "name": "In Space And Time",
       "url": "https://open.spotify.com/track/64ns7jHUJWaFn25DXc8aMK"
@@ -12567,6 +12729,24 @@
     },
     {
       "album": {
+        "name": "Just a Dreamer",
+        "url": "https://open.spotify.com/album/0E2t2g9ZEZLsKIfyLhERE9"
+      },
+      "artists": [
+        {
+          "name": "David Parks & Silver",
+          "url": "https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214442,
+      "name": "Just a Dreamer",
+      "url": "https://open.spotify.com/track/36xoBBIo5X3e9jJhTefpHj"
+    },
+    {
+      "album": {
         "name": "Just a Passing Thought",
         "url": "https://open.spotify.com/album/6WBknVqWyoztpbTNtGpZtP"
       },
@@ -13522,7 +13702,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140648,
       "name": "Let's go uptown",
       "url": "https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA"
@@ -14267,6 +14447,24 @@
     },
     {
       "album": {
+        "name": "Look It Up",
+        "url": "https://open.spotify.com/album/5fLMVIpmZpI7kFfbs4smCp"
+      },
+      "artists": [
+        {
+          "name": "LaSalle Street Trio",
+          "url": "https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189211,
+      "name": "Look It Up",
+      "url": "https://open.spotify.com/track/435dzgy0RMEUEFe4H337jr"
+    },
+    {
+      "album": {
         "name": "Looking Forward",
         "url": "https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH"
       },
@@ -14970,7 +15168,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149852,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/6VJYqWMZzlammTuuPSJC09"
@@ -15150,7 +15348,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 206097,
       "name": "Maybe We Should Dance",
       "url": "https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk"
@@ -15496,6 +15694,24 @@
       "duration_ms": 217990,
       "name": "Midnight Drift",
       "url": "https://open.spotify.com/track/6UjkXOZj0kZB3XTJrGxoIS"
+    },
+    {
+      "album": {
+        "name": "Midnight Espresso",
+        "url": "https://open.spotify.com/album/4UFauwEHlCsLbox7VcmRwl"
+      },
+      "artists": [
+        {
+          "name": "James Earle Trio",
+          "url": "https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195034,
+      "name": "Midnight Espresso",
+      "url": "https://open.spotify.com/track/0GicW2e8OmjdYdbfEgMYI9"
     },
     {
       "album": {
@@ -17606,7 +17822,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 214091,
       "name": "Nothing Is Fake",
       "url": "https://open.spotify.com/track/6DwDpB1EHIPmILeqPcjZhy"
@@ -17768,7 +17984,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211671,
       "name": "Numerous Occasions",
       "url": "https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL"
@@ -18146,7 +18362,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 258124,
       "name": "On Your Balcony",
       "url": "https://open.spotify.com/track/3gzB9SZ9jllHHh7ZNiQXt9"
@@ -18254,7 +18470,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 227089,
       "name": "One and Done",
       "url": "https://open.spotify.com/track/4rKhKEB6GReMXl52kEELlE"
@@ -18658,7 +18874,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 222545,
       "name": "Pass the Salt",
       "url": "https://open.spotify.com/track/6c7YlCeNwLuua6LDeflx1U"
@@ -18820,7 +19036,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198711,
       "name": "Pearl-button",
       "url": "https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko"
@@ -19544,7 +19760,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 236367,
       "name": "Reflecting",
       "url": "https://open.spotify.com/track/76g53Xbc9tqKPcQiUkKx2X"
@@ -19958,7 +20174,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 175744,
       "name": "Romancing",
       "url": "https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL"
@@ -20318,7 +20534,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205750,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD"
@@ -20606,7 +20822,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 191124,
       "name": "Shared Moments in Time",
       "url": "https://open.spotify.com/track/6tHLeViXF9aF7MWY3Gp3Nr"
@@ -20678,7 +20894,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226220,
       "name": "She's Funny That Way",
       "url": "https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4"
@@ -21884,7 +22100,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201105,
       "name": "Soulful Touch",
       "url": "https://open.spotify.com/track/59VCExAG8io5iu3Li3QYBn"
@@ -22046,7 +22262,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218265,
       "name": "Spring Can Really Hang You Up The Most",
       "url": "https://open.spotify.com/track/5sWTcqdCKz7TRkNmpzzugO"
@@ -23396,7 +23612,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 200751,
       "name": "The Art of Letting Go",
       "url": "https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8"
@@ -23684,7 +23900,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 175500,
       "name": "the first time I saw you",
       "url": "https://open.spotify.com/track/2mxkWAgoZBU1lRmxp8KEBt"
@@ -23936,7 +24152,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 215000,
       "name": "The Lights",
       "url": "https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa"
@@ -23954,7 +24170,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176145,
       "name": "The Lights of Macau",
       "url": "https://open.spotify.com/track/2ftsIBsirQonhMxCHsn52l"
@@ -23972,7 +24188,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 264440,
       "name": "The Little Prince",
       "url": "https://open.spotify.com/track/4Z4PldtqdgmdDbHcf29tJ3"
@@ -23990,7 +24206,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192016,
       "name": "The Love That Never Was",
       "url": "https://open.spotify.com/track/4osLYMQJfPoK37UDRZYrzW"
@@ -24440,7 +24656,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 229056,
       "name": "The Shape of Your Thoughts",
       "url": "https://open.spotify.com/track/3xRuyJvrb5u0t7YTstD8N1"
@@ -24498,6 +24714,24 @@
       "duration_ms": 210813,
       "name": "The Sparkle in Your Eyes",
       "url": "https://open.spotify.com/track/6ZG6FSHAkW7AcEoNEtcJ5N"
+    },
+    {
+      "album": {
+        "name": "The Stalled Clock",
+        "url": "https://open.spotify.com/album/0RfxREpAvsAQChTXFm782l"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200951,
+      "name": "The Stalled Clock",
+      "url": "https://open.spotify.com/track/6u1J5E62BynnWcHmOImsus"
     },
     {
       "album": {
@@ -24890,7 +25124,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213739,
       "name": "There's Something",
       "url": "https://open.spotify.com/track/57WkEsl35BbjihKAnDNh4N"
@@ -25308,7 +25542,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 232407,
       "name": "Through Times",
       "url": "https://open.spotify.com/track/75pGCO1kZ1n5t59uwehhQi"
@@ -25506,7 +25740,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 238107,
       "name": "Tip Your Hat",
       "url": "https://open.spotify.com/track/3sg1RZE32Qwy8j1T1POnBx"
@@ -25758,7 +25992,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221862,
       "name": "Touch the Rain",
       "url": "https://open.spotify.com/track/3GfhoIHnXnpJpdkcIlbYMW"
@@ -25992,7 +26226,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198358,
       "name": "Twilight's Last Waltz",
       "url": "https://open.spotify.com/track/5fc8RLe4x7bgwnqZOWZqVt"
@@ -26262,7 +26496,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171135,
       "name": "Urban Journey",
       "url": "https://open.spotify.com/track/2il8vb5Pg88YLvTBKWWcGy"
@@ -26338,6 +26572,24 @@
       "duration_ms": 174354,
       "name": "Velvet ends",
       "url": "https://open.spotify.com/track/7p1fU03vJS9qsb2WdgmRtp"
+    },
+    {
+      "album": {
+        "name": "Velvet Rainfall",
+        "url": "https://open.spotify.com/album/2QU5r9BRohKWChdY76oaNr"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219477,
+      "name": "Velvet Rainfall",
+      "url": "https://open.spotify.com/track/3qWqFyXEJTa8fATKrwZeCv"
     },
     {
       "album": {
@@ -26676,7 +26928,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205613,
       "name": "Waltz for O",
       "url": "https://open.spotify.com/track/1CHCthWOeAL9iWcOItWaqD"
@@ -26730,7 +26982,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221389,
       "name": "Wanderings",
       "url": "https://open.spotify.com/track/5sU83qSX2FIkPSp7B2nCqB"
@@ -27814,7 +28066,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192034,
       "name": "Whispered Longing",
       "url": "https://open.spotify.com/track/6lvJHY1xHZNkbEYMvpYoOp"
@@ -27868,7 +28120,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210375,
       "name": "Whispering Willows",
       "url": "https://open.spotify.com/track/6ZqZYDtZf8s5AZybDlebm7"
@@ -28228,7 +28480,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196944,
       "name": "Wondering",
       "url": "https://open.spotify.com/track/6f4wqYTItYMuPCwCMUZoCt"
@@ -28938,7 +29190,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223643,
       "name": "You're So Many Things",
       "url": "https://open.spotify.com/track/4dEC0DQ591ERJ4EqCbg521"
@@ -29244,7 +29496,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201084,
       "name": "Zicrone Stone",
       "url": "https://open.spotify.com/track/6Yy7iCYbTrT4ZAtdOUosmF"

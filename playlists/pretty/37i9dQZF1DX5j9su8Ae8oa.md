@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5j9su8Ae8oa.md) - [plain](/playlists/plain/37i9dQZF1DX5j9su8Ae8oa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5j9su8Ae8oa)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5j9su8Ae8oa.md) - [plain](/playlists/plain/37i9dQZF1DX5j9su8Ae8oa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5j9su8Ae8oa)
 
 ### [API Mystery & Thriller](https://open.spotify.com/playlist/37i9dQZF1DX5j9su8Ae8oa)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 6 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

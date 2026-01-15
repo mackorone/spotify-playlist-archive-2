@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdt7jjdf1IdF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdt7jjdf1IdF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdt7jjdf1IdF)
+[pretty](/playlists/pretty/37i9dQZF1DXdt7jjdf1IdF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdt7jjdf1IdF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdt7jjdf1IdF)
 
 ### [This Is: Raisa](https://open.spotify.com/playlist/37i9dQZF1DXdt7jjdf1IdF)
 

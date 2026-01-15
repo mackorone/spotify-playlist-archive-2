@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3g2dsbLbtpOz0Gpo4W50QK.md) - cumulative - [plain](/playlists/plain/3g2dsbLbtpOz0Gpo4W50QK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3g2dsbLbtpOz0Gpo4W50QK)
+[pretty](/playlists/pretty/3g2dsbLbtpOz0Gpo4W50QK.md) - cumulative - [plain](/playlists/plain/3g2dsbLbtpOz0Gpo4W50QK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3g2dsbLbtpOz0Gpo4W50QK)
 
 ### [We Dem Girlz](https://open.spotify.com/playlist/3g2dsbLbtpOz0Gpo4W50QK)
 

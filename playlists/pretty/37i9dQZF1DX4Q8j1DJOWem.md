@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain](/playlists/plain/37i9dQZF1DX4Q8j1DJOWem) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Q8j1DJOWem)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain](/playlists/plain/37i9dQZF1DX4Q8j1DJOWem) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4Q8j1DJOWem)
 
 ### [Best of RADAR Thailand 2025](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
 > ไฮไลท์ RADAR Thailand ปี 2025 โดย Spotify Editor\. ปก: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,871 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,904 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

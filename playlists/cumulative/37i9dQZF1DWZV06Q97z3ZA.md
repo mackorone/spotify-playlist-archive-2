@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZV06Q97z3ZA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZV06Q97z3ZA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZV06Q97z3ZA)
+[pretty](/playlists/pretty/37i9dQZF1DWZV06Q97z3ZA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZV06Q97z3ZA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZV06Q97z3ZA)
 
 ### [Red, White & Royal Blue Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWZV06Q97z3ZA)
 

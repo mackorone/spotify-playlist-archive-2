@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1oDFttzXiLUJLjMyulUugY.md) - [plain](/playlists/plain/1oDFttzXiLUJLjMyulUugY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1oDFttzXiLUJLjMyulUugY)
+pretty - [cumulative](/playlists/cumulative/1oDFttzXiLUJLjMyulUugY.md) - [plain](/playlists/plain/1oDFttzXiLUJLjMyulUugY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1oDFttzXiLUJLjMyulUugY)
 
 ### [Workday – Zen](https://open.spotify.com/playlist/1oDFttzXiLUJLjMyulUugY)
 

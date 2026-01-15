@@ -1,12 +1,12 @@
 {
   "description": "on repeat for a reason. cover: Stella Lefty",
-  "num_followers": 1561230,
+  "num_followers": 1560339,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABv1AqQ8grQQS6/xd+gaEIKmOLiS",
+  "snapshot_id": "AAAAABmketWEQX1X82QKv9MKzXL+Hxrs",
   "tracks": [
     {
       "added_at": "2026-01-02 05:00:14",
@@ -23,6 +23,38 @@
       "duration_ms": 140586,
       "name": "Thinking \u2018bout You",
       "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
+    },
+    {
+      "added_at": "2026-01-09 05:02:38",
+      "album": {
+        "name": "Tell Me It's Over",
+        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Tell Me It's Over",
+      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
+    },
+    {
+      "added_at": "2026-01-09 05:02:38",
+      "album": {
+        "name": "SACRED",
+        "url": "https://open.spotify.com/album/3s9VGa9gsznVyJmXJfvjjN"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 163150,
+      "name": "sacred",
+      "url": "https://open.spotify.com/track/1ZoA7sZbEldHktjfodfgLJ"
     },
     {
       "added_at": "2025-08-08 04:35:43",
@@ -57,20 +89,20 @@
       "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
     },
     {
-      "added_at": "2025-12-12 05:00:48",
+      "added_at": "2025-11-07 05:00:58",
       "album": {
-        "name": "the good",
-        "url": "https://open.spotify.com/album/6bWzVQaxhZAzcAh3Vgwetk"
+        "name": "Die Happy",
+        "url": "https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k"
       },
       "artists": [
         {
-          "name": "Annika Wells",
-          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 206369,
-      "name": "the good",
-      "url": "https://open.spotify.com/track/2CKifvBj0v3ww5uSKz93dD"
+      "duration_ms": 229650,
+      "name": "Die Happy",
+      "url": "https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0"
     },
     {
       "added_at": "2025-11-21 05:00:30",
@@ -89,6 +121,70 @@
       "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
     },
     {
+      "added_at": "2026-01-09 05:02:38",
+      "album": {
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 177421,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
+    },
+    {
+      "added_at": "2025-12-12 05:00:48",
+      "album": {
+        "name": "the good",
+        "url": "https://open.spotify.com/album/6bWzVQaxhZAzcAh3Vgwetk"
+      },
+      "artists": [
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        }
+      ],
+      "duration_ms": 206369,
+      "name": "the good",
+      "url": "https://open.spotify.com/track/2CKifvBj0v3ww5uSKz93dD"
+    },
+    {
+      "added_at": "2026-01-09 05:02:38",
+      "album": {
+        "name": "still be friends",
+        "url": "https://open.spotify.com/album/2ARfFTRWvTq8WzKHquyMjU"
+      },
+      "artists": [
+        {
+          "name": "Ben Ellis",
+          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
+        }
+      ],
+      "duration_ms": 176987,
+      "name": "still be friends",
+      "url": "https://open.spotify.com/track/0pXfzBjkfflxV8C4yaX2x1"
+    },
+    {
+      "added_at": "2026-01-09 05:02:38",
+      "album": {
+        "name": "cul-de-sac",
+        "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
+      },
+      "artists": [
+        {
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
+        }
+      ],
+      "duration_ms": 196700,
+      "name": "cul-de-sac",
+      "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
+    },
+    {
       "added_at": "2025-12-05 05:25:05",
       "album": {
         "name": "silent treatment",
@@ -103,6 +199,22 @@
       "duration_ms": 142030,
       "name": "silent treatment",
       "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
+    },
+    {
+      "added_at": "2026-01-09 05:02:38",
+      "album": {
+        "name": "Games",
+        "url": "https://open.spotify.com/album/0qhjCNkQX5WQGFcY3ZOOfG"
+      },
+      "artists": [
+        {
+          "name": "Ian Harrison",
+          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+        }
+      ],
+      "duration_ms": 170313,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw"
     },
     {
       "added_at": "2026-01-02 05:00:14",
@@ -121,20 +233,20 @@
       "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
     },
     {
-      "added_at": "2025-11-07 05:00:58",
+      "added_at": "2026-01-09 05:02:38",
       "album": {
-        "name": "Die Happy",
-        "url": "https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k"
+        "name": "Dance The Pain Away",
+        "url": "https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
         }
       ],
-      "duration_ms": 229650,
-      "name": "Die Happy",
-      "url": "https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0"
+      "duration_ms": 219986,
+      "name": "Dance The Pain Away",
+      "url": "https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD"
     },
     {
       "added_at": "2025-12-12 05:00:48",
@@ -151,6 +263,22 @@
       "duration_ms": 194399,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh"
+    },
+    {
+      "added_at": "2026-01-09 05:02:38",
+      "album": {
+        "name": "Turns Out I'm Amazing",
+        "url": "https://open.spotify.com/album/641tMgvBwVOhW7HzaisxHS"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "duration_ms": 207336,
+      "name": "Turns Out I'm Amazing",
+      "url": "https://open.spotify.com/track/362gyXf96N1s6Zir6oM6vM"
     },
     {
       "added_at": "2025-12-12 05:00:48",
@@ -585,22 +713,6 @@
       "url": "https://open.spotify.com/track/6Mrz2C8CmjDav070CLcsjY"
     },
     {
-      "added_at": "2025-11-14 14:21:39",
-      "album": {
-        "name": "Moonbeam",
-        "url": "https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
-        }
-      ],
-      "duration_ms": 238319,
-      "name": "Moonbeam",
-      "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
-    },
-    {
       "added_at": "2025-07-25 04:01:01",
       "album": {
         "name": "12 to 12",
@@ -647,22 +759,6 @@
       "duration_ms": 124590,
       "name": "use me!!!!!!!",
       "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
-    },
-    {
-      "added_at": "2025-11-08 19:20:05",
-      "album": {
-        "name": "DISCO DYSTOPIA",
-        "url": "https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 161060,
-      "name": "Girls Just Wanna Be Famous",
-      "url": "https://open.spotify.com/track/1EzqvVdQJh0QgimQMmCGoB"
     },
     {
       "added_at": "2025-11-14 14:21:39",
@@ -1099,22 +1195,6 @@
     {
       "added_at": "2025-10-03 04:00:48",
       "album": {
-        "name": "SUPER F\u2605CKING MEGA ST\u2605R",
-        "url": "https://open.spotify.com/album/1WQhYYSKRwg23ojle7NmBW"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        }
-      ],
-      "duration_ms": 169335,
-      "name": "SUPER F\u2605CKING MEGA ST\u2605R",
-      "url": "https://open.spotify.com/track/0nwsozTQ2xfKtHd03ADze5"
-    },
-    {
-      "added_at": "2025-10-03 04:00:48",
-      "album": {
         "name": "The Things",
         "url": "https://open.spotify.com/album/0EvpoCMbZ3T79uChGfcfNd"
       },
@@ -1393,22 +1473,6 @@
       "url": "https://open.spotify.com/track/2ZmeaRA2ZYyJqbt4b01HPd"
     },
     {
-      "added_at": "2025-09-12 04:00:25",
-      "album": {
-        "name": "Little House",
-        "url": "https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 246696,
-      "name": "What A Life",
-      "url": "https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5"
-    },
-    {
       "added_at": "2025-09-19 04:00:31",
       "album": {
         "name": "Sunny in London",
@@ -1439,38 +1503,6 @@
       "duration_ms": 175339,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
-    },
-    {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "EZ",
-        "url": "https://open.spotify.com/album/3o2uohhOcMphVdVH42s54a"
-      },
-      "artists": [
-        {
-          "name": "Jolina Louise",
-          "url": "https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "EZ",
-      "url": "https://open.spotify.com/track/0yK7WNzfnq7xS7AARO0rIS"
-    },
-    {
-      "added_at": "2025-09-12 04:00:25",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/5XoefP34nhwCwVI6dBpZ4E"
-      },
-      "artists": [
-        {
-          "name": "Evie Irie",
-          "url": "https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK"
-        }
-      ],
-      "duration_ms": 180566,
-      "name": "Rebel",
-      "url": "https://open.spotify.com/track/5DHVH6B3OcjuuURuVV4eKV"
     },
     {
       "added_at": "2025-09-05 04:57:49",
@@ -1521,22 +1553,6 @@
       "url": "https://open.spotify.com/track/3TtpqKNIjpfE8Gdwsx4DHg"
     },
     {
-      "added_at": "2025-08-31 17:12:50",
-      "album": {
-        "name": "Never Gonna Not Want More",
-        "url": "https://open.spotify.com/album/2GT8HQyMEuFLTq1gSpyDuM"
-      },
-      "artists": [
-        {
-          "name": "Tess Clare",
-          "url": "https://open.spotify.com/artist/0w3V7iEOBeQUDg8xm6NB6L"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Never Gonna Not Want More",
-      "url": "https://open.spotify.com/track/1mpzrGtYVWZuMn4tEtb3si"
-    },
-    {
       "added_at": "2025-08-22 04:32:11",
       "album": {
         "name": "Blushing",
@@ -1551,22 +1567,6 @@
       "duration_ms": 247000,
       "name": "Blushing",
       "url": "https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6"
-    },
-    {
-      "added_at": "2025-08-29 04:01:51",
-      "album": {
-        "name": "Summer",
-        "url": "https://open.spotify.com/album/3WBvHRbPcanFjK0at0np3m"
-      },
-      "artists": [
-        {
-          "name": "Beno",
-          "url": "https://open.spotify.com/artist/4QvaAOT2v2zaPO9ipMMgOz"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/0IhcVVlmZCPOkSSozJ2smN"
     },
     {
       "added_at": "2025-08-29 04:01:51",

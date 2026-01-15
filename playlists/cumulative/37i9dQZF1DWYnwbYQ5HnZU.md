@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYnwbYQ5HnZU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYnwbYQ5HnZU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYnwbYQ5HnZU)
+[pretty](/playlists/pretty/37i9dQZF1DWYnwbYQ5HnZU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYnwbYQ5HnZU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYnwbYQ5HnZU)
 
 ### [Country Gold](https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU)
 
-> Spotify country fan favorites\. Cover: Walker Hayes
+> Spotify country fan favorites\. Cover: Brothers Osborne
 
 242 songs - 13 hr 53 min
 

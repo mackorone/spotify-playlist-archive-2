@@ -1,28 +1,28 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain](/playlists/plain/37i9dQZF1DWWo6CepmjMNI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWo6CepmjMNI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain](/playlists/plain/37i9dQZF1DWWo6CepmjMNI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWo6CepmjMNI)
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: CURS
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: YEP MAY YEP
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,591 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,618 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [วิธีใด \(Don't know how\)](https://open.spotify.com/track/1iCtJ8isZT0K7ih1M6Dqet) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [วิธีใด \(Don't know how\)](https://open.spotify.com/album/6ICvqhL8pIObDoRPsR1B8n) | 4:41 |
-| 2 | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/track/1iZ6ojuQxgHgFX3KCKXV58) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/album/3qOGG6ysERzEpXFtMAkE4s) | 3:59 |
-| 3 | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/track/66GaGy5M98QcerWdWBDrZF) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/album/5vaYFcgmYuiwo8n6kQ5srY) | 3:38 |
-| 4 | [ผ่านไปอีกปี \(Countdown\)](https://open.spotify.com/track/4mc4kWVaNuvTKhlfddw8vg) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R), [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [ผ่านไปอีกปี \(Countdown\)](https://open.spotify.com/album/68KPLlgh8Pj0MGrIVkG5O5) | 4:02 |
-| 5 | [หน้าต่าง \(Drops\)](https://open.spotify.com/track/5vselVLB2BT7UJsk43fmy0) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [หน้าต่าง \(Drops\)](https://open.spotify.com/album/5agwHF2dLrBDW5XvPWnhqM) | 3:52 |
-| 6 | [ต้องจากกันแล้วใช่ไหม](https://open.spotify.com/track/0FLjxJkXkzQ3JTX3mIFUd4) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [ต้องจากกันแล้วใช่ไหม](https://open.spotify.com/album/35bBu2br5ov9vGEZrgZ0pT) | 4:07 |
-| 7 | [SUNRISE](https://open.spotify.com/track/01f30vzvsz4vEvv6d1PiVD) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [SUNRISE](https://open.spotify.com/album/3q9PG8rxgAO6FjZppgXbFW) | 4:45 |
-| 8 | [ฉันไปก่อนนะ](https://open.spotify.com/track/58JgBWjZ7LWInfdMyLXBFt) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [ฉันไปก่อนนะ](https://open.spotify.com/album/2L8KYM4xhSaty6c0Vdzumk) | 3:57 |
-| 9 | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/track/18GaK3YkcibAY6cHPJQNKF) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/album/62a3Nlpi50Ri3ZqN3nOiOt) | 3:55 |
-| 10 | [Greed](https://open.spotify.com/track/5kD32fiZ5b6HiQOQDkM9wf) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Greed](https://open.spotify.com/album/5XIuWSPPwwTs33MAAEqIUc) | 4:42 |
-| 11 | [ชอบเธอ](https://open.spotify.com/track/0FOc92GRPbae31VCQw0q9K) | [Hoya](https://open.spotify.com/artist/0HyvUBCc0axDJKu9CiMnkb) | [ชอบเธอ](https://open.spotify.com/album/783VUCa1KcyZaRs41IlfSV) | 3:44 |
-| 12 | [หมาตัวแรก](https://open.spotify.com/track/3cwsyebKoGsKlwBG3vFC4U) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [หมาตัวแรก](https://open.spotify.com/album/7tbETG7Y7yrzS84nFj8sGM) | 4:52 |
-| 13 | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/album/2DaeSbOfpJzSQseoQnDTjt) | 3:30 |
-| 14 | [ภาพยนตร์ของฉัน 1 \(onyoureyes\)](https://open.spotify.com/track/6szc9pWGzfI6kZMFn2dYmc) | [Bellythebear](https://open.spotify.com/artist/2B3Hs8KIU4FqMYrHOWL7wh) | [ภาพยนตร์ของฉัน 1 \(onyoureyes\)](https://open.spotify.com/album/5R9cL3XjwYoac6BWlq7Oew) | 4:52 |
-| 15 | [ภาพเรา](https://open.spotify.com/track/4IO5XrgTEJmSkeX49WFQa2) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ภาพเรา](https://open.spotify.com/album/4TyLJsokFClIRkyeurMKjG) | 3:40 |
+| 1 | [ฉันไปก่อนนะ](https://open.spotify.com/track/58JgBWjZ7LWInfdMyLXBFt) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [ฉันไปก่อนนะ](https://open.spotify.com/album/2L8KYM4xhSaty6c0Vdzumk) | 3:57 |
+| 2 | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/track/66GaGy5M98QcerWdWBDrZF) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/album/5vaYFcgmYuiwo8n6kQ5srY) | 3:38 |
+| 3 | [หน้าต่าง \(Drops\)](https://open.spotify.com/track/5vselVLB2BT7UJsk43fmy0) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [หน้าต่าง \(Drops\)](https://open.spotify.com/album/5agwHF2dLrBDW5XvPWnhqM) | 3:52 |
+| 4 | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/track/18GaK3YkcibAY6cHPJQNKF) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/album/62a3Nlpi50Ri3ZqN3nOiOt) | 3:55 |
+| 5 | [เบื่อวันจันทร์](https://open.spotify.com/track/3opfXX70bSpFxnJWkQGdTT) | [nuthkitta](https://open.spotify.com/artist/7riPWx4NWgGfPv9kYAEJnv) | [เบื่อวันจันทร์](https://open.spotify.com/album/0uroAdS5U9ej2wifafJc4E) | 4:55 |
+| 6 | [SUNRISE](https://open.spotify.com/track/01f30vzvsz4vEvv6d1PiVD) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [SUNRISE](https://open.spotify.com/album/3q9PG8rxgAO6FjZppgXbFW) | 4:45 |
+| 7 | [50/50](https://open.spotify.com/track/56GPuAG9yQKeDZPKyYV1DH) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [50/50](https://open.spotify.com/album/3yTe3mfyrz52lfDNqFM6wq) | 3:19 |
+| 8 | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/track/1iZ6ojuQxgHgFX3KCKXV58) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/album/3qOGG6ysERzEpXFtMAkE4s) | 3:59 |
+| 9 | [วิธีใด \(Don't know how\)](https://open.spotify.com/track/1iCtJ8isZT0K7ih1M6Dqet) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [วิธีใด \(Don't know how\)](https://open.spotify.com/album/6ICvqhL8pIObDoRPsR1B8n) | 4:41 |
+| 10 | [ผ่านไปอีกปี \(Countdown\)](https://open.spotify.com/track/4mc4kWVaNuvTKhlfddw8vg) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R), [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [ผ่านไปอีกปี \(Countdown\)](https://open.spotify.com/album/68KPLlgh8Pj0MGrIVkG5O5) | 4:02 |
+| 11 | [Greed](https://open.spotify.com/track/5kD32fiZ5b6HiQOQDkM9wf) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Greed](https://open.spotify.com/album/5XIuWSPPwwTs33MAAEqIUc) | 4:42 |
+| 12 | [ชอบเธอ](https://open.spotify.com/track/0FOc92GRPbae31VCQw0q9K) | [Hoya](https://open.spotify.com/artist/0HyvUBCc0axDJKu9CiMnkb) | [ชอบเธอ](https://open.spotify.com/album/783VUCa1KcyZaRs41IlfSV) | 3:44 |
+| 13 | [หมาตัวแรก](https://open.spotify.com/track/3cwsyebKoGsKlwBG3vFC4U) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [หมาตัวแรก](https://open.spotify.com/album/7tbETG7Y7yrzS84nFj8sGM) | 4:52 |
+| 14 | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/album/2DaeSbOfpJzSQseoQnDTjt) | 3:30 |
+| 15 | [ภาพยนตร์ของฉัน 1 \(onyoureyes\)](https://open.spotify.com/track/6szc9pWGzfI6kZMFn2dYmc) | [Bellythebear](https://open.spotify.com/artist/2B3Hs8KIU4FqMYrHOWL7wh) | [ภาพยนตร์ของฉัน 1 \(onyoureyes\)](https://open.spotify.com/album/5R9cL3XjwYoac6BWlq7Oew) | 4:52 |
 | 16 | [กลิ่นของดอกไม้](https://open.spotify.com/track/5cjpq08etyoQqnuYpv6U20) | [Chili sauce with mackerel](https://open.spotify.com/artist/4HYi53mjmSBq5dUk3hdFCh) | [กลิ่นของดอกไม้](https://open.spotify.com/album/65H7YVJiXtvSIAu6mhEZGs) | 3:55 |
 | 17 | [boohoo \(จำไว้เลย\)](https://open.spotify.com/track/2iVVlPFUbce9jO8vk2E9m0) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [boohoo \(จำไว้เลย\)](https://open.spotify.com/album/18jiO1Q8waxP9sSoDqSGAB) | 4:55 |
 | 18 | [ลืมยังไง? \(Hyperthymesia\)](https://open.spotify.com/track/31xpI8YYRCPxb1QQtkO2V0) | [SOK](https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa) | [ลืมยังไง? \(Hyperthymesia\)](https://open.spotify.com/album/6D3apcHYZqc5t3ZLHkqXt6) | 3:54 |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXpOtMyVOt4Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXpOtMyVOt4Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXpOtMyVOt4Q)
+[pretty](/playlists/pretty/37i9dQZF1DWXpOtMyVOt4Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXpOtMyVOt4Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXpOtMyVOt4Q)
 
 ### [Chill Gaming 2025](https://open.spotify.com/playlist/37i9dQZF1DWXpOtMyVOt4Q)
 

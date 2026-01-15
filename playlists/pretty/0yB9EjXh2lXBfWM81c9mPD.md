@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0yB9EjXh2lXBfWM81c9mPD.md) - [plain](/playlists/plain/0yB9EjXh2lXBfWM81c9mPD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0yB9EjXh2lXBfWM81c9mPD)
+pretty - [cumulative](/playlists/cumulative/0yB9EjXh2lXBfWM81c9mPD.md) - [plain](/playlists/plain/0yB9EjXh2lXBfWM81c9mPD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0yB9EjXh2lXBfWM81c9mPD)
 
 ### [Tea, Milk & Bowie](https://open.spotify.com/playlist/0yB9EjXh2lXBfWM81c9mPD)
 

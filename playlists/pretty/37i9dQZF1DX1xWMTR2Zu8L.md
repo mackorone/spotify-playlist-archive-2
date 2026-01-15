@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain](/playlists/plain/37i9dQZF1DX1xWMTR2Zu8L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1xWMTR2Zu8L)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain](/playlists/plain/37i9dQZF1DX1xWMTR2Zu8L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1xWMTR2Zu8L)
 
 ### [Christmas Movie Music](https://open.spotify.com/playlist/37i9dQZF1DX1xWMTR2Zu8L)
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,223 likes - 138 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,157 likes - 138 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

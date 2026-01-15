@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0DGFHitamINEEhQGIJbisL.md) - [plain](/playlists/plain/0DGFHitamINEEhQGIJbisL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0DGFHitamINEEhQGIJbisL)
+pretty - [cumulative](/playlists/cumulative/0DGFHitamINEEhQGIJbisL.md) - [plain](/playlists/plain/0DGFHitamINEEhQGIJbisL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0DGFHitamINEEhQGIJbisL)
 
 ### [Najin ](https://open.spotify.com/playlist/0DGFHitamINEEhQGIJbisL)
 

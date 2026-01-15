@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4gRwUQrqr8.md) - [plain](/playlists/plain/37i9dQZF1DWV4gRwUQrqr8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV4gRwUQrqr8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4gRwUQrqr8.md) - [plain](/playlists/plain/37i9dQZF1DWV4gRwUQrqr8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWV4gRwUQrqr8)
 
 ### [SEVENTEEN 8TH FAN MEETING \[SEVENTEEN in CARAT LAND\]](https://open.spotify.com/playlist/37i9dQZF1DWV4gRwUQrqr8)
 
 > Enjoy the SEVENTEEN fan meeting LIVE SET including the voices of them on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 팬미팅 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,477 likes - 21 songs - 48 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 37,491 likes - 21 songs - 48 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

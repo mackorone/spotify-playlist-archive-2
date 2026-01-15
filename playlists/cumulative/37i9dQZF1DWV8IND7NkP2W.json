@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 45690,
       "name": "Beat Diary 917",
       "url": "https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x"
@@ -7320,7 +7320,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 184906,
       "name": "Libration",
       "url": "https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB"
@@ -8176,7 +8176,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130306,
       "name": "Midnight Blurred Remnants",
       "url": "https://open.spotify.com/track/4TqPqbWp0doNhdbW1EteBC"
@@ -9858,7 +9858,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 170370,
       "name": "Oak",
       "url": "https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX"
@@ -11192,6 +11192,24 @@
       "duration_ms": 161044,
       "name": "Recollection",
       "url": "https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK"
+    },
+    {
+      "album": {
+        "name": "Red Wine",
+        "url": "https://open.spotify.com/album/5kqIm3ENFOZNUWqZpoViyh"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "Red Wine",
+      "url": "https://open.spotify.com/track/2u8psd81ooKd0DqEZnoA5U"
     },
     {
       "album": {
@@ -12842,7 +12860,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 96166,
       "name": "Step to Your Mind",
       "url": "https://open.spotify.com/track/5xcJFBWJ2uuSfWryCHI9MH"

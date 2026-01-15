@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain](/playlists/plain/37i9dQZF1DWTj8mmxDwyIM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTj8mmxDwyIM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain](/playlists/plain/37i9dQZF1DWTj8mmxDwyIM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTj8mmxDwyIM)
 
 ### [Hazbin Hotel Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTj8mmxDwyIM)
 
 > Listen to the music from Hazbin Hotel, season 2 coming to Prime Video soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,303 likes - 37 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,961 likes - 37 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

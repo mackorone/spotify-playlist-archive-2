@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUaEbKBollAD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUaEbKBollAD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUaEbKBollAD)
+[pretty](/playlists/pretty/37i9dQZF1DWUaEbKBollAD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUaEbKBollAD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUaEbKBollAD)
 
 ### [Giorgia Angiuli's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWUaEbKBollAD)
 

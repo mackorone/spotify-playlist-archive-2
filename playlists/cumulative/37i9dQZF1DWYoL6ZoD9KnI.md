@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYoL6ZoD9KnI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYoL6ZoD9KnI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYoL6ZoD9KnI)
+[pretty](/playlists/pretty/37i9dQZF1DWYoL6ZoD9KnI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYoL6ZoD9KnI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYoL6ZoD9KnI)
 
 ### [This Is 米津玄師 \- Kenshi Yonezu \- ](https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain](/playlists/plain/37i9dQZF1DWZa8CSUr0hCY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZa8CSUr0hCY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain](/playlists/plain/37i9dQZF1DWZa8CSUr0hCY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZa8CSUr0hCY)
 
 ### [Chill Beats](https://open.spotify.com/playlist/37i9dQZF1DWZa8CSUr0hCY)
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,749 likes - 150 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,848 likes - 150 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

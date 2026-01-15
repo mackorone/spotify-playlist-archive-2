@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7hjaw2oDqkMS2uDk5vmzAu.md) - cumulative - [plain](/playlists/plain/7hjaw2oDqkMS2uDk5vmzAu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7hjaw2oDqkMS2uDk5vmzAu)
+[pretty](/playlists/pretty/7hjaw2oDqkMS2uDk5vmzAu.md) - cumulative - [plain](/playlists/plain/7hjaw2oDqkMS2uDk5vmzAu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7hjaw2oDqkMS2uDk5vmzAu)
 
 ### [The Jazz Escape](https://open.spotify.com/playlist/7hjaw2oDqkMS2uDk5vmzAu)
 

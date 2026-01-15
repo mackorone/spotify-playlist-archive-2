@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1cSCtZ3SgAV8pcjEfeiVdw.md) - cumulative - [plain](/playlists/plain/1cSCtZ3SgAV8pcjEfeiVdw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1cSCtZ3SgAV8pcjEfeiVdw)
+[pretty](/playlists/pretty/1cSCtZ3SgAV8pcjEfeiVdw.md) - cumulative - [plain](/playlists/plain/1cSCtZ3SgAV8pcjEfeiVdw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1cSCtZ3SgAV8pcjEfeiVdw)
 
 ### [New Alternative: Pop Rock/Indie Rock/Punk Rock](https://open.spotify.com/playlist/1cSCtZ3SgAV8pcjEfeiVdw)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09enSktFOuB.md) - [plain](/playlists/plain/37i9dQZF1DX09enSktFOuB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX09enSktFOuB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09enSktFOuB.md) - [plain](/playlists/plain/37i9dQZF1DX09enSktFOuB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX09enSktFOuB)
 
 ### [Tamil BAE](https://open.spotify.com/playlist/37i9dQZF1DX09enSktFOuB)
 
 > Best Love songs, Before Anything Else<br/>Cover : Don
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,797 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,179 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

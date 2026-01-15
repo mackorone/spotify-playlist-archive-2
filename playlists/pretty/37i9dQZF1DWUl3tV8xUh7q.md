@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUl3tV8xUh7q.md) - [plain](/playlists/plain/37i9dQZF1DWUl3tV8xUh7q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUl3tV8xUh7q)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUl3tV8xUh7q.md) - [plain](/playlists/plain/37i9dQZF1DWUl3tV8xUh7q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUl3tV8xUh7q)
 
 ### [Mr Eazi's Taste](https://open.spotify.com/playlist/37i9dQZF1DWUl3tV8xUh7q)
 
 > Sophisticated palates only\. Curated by: Mr Eazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,236 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,259 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

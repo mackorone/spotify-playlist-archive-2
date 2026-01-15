@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaZan2kzvaVc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaZan2kzvaVc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaZan2kzvaVc)
+[pretty](/playlists/pretty/37i9dQZF1DXaZan2kzvaVc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaZan2kzvaVc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaZan2kzvaVc)
 
 ### [This Is The Beach Boys \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaZan2kzvaVc)
 

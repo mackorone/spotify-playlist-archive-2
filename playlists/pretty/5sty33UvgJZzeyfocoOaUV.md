@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5sty33UvgJZzeyfocoOaUV.md) - [plain](/playlists/plain/5sty33UvgJZzeyfocoOaUV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5sty33UvgJZzeyfocoOaUV)
+pretty - [cumulative](/playlists/cumulative/5sty33UvgJZzeyfocoOaUV.md) - [plain](/playlists/plain/5sty33UvgJZzeyfocoOaUV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5sty33UvgJZzeyfocoOaUV)
 
 ### [\#MakeitHappen](https://open.spotify.com/playlist/5sty33UvgJZzeyfocoOaUV)
 

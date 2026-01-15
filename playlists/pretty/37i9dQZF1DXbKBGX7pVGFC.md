@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKBGX7pVGFC.md) - [plain](/playlists/plain/37i9dQZF1DXbKBGX7pVGFC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbKBGX7pVGFC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKBGX7pVGFC.md) - [plain](/playlists/plain/37i9dQZF1DXbKBGX7pVGFC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbKBGX7pVGFC)
 
 ### [Grrrls To The Front](https://open.spotify.com/playlist/37i9dQZF1DXbKBGX7pVGFC)
 

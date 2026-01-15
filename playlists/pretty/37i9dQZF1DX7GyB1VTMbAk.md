@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GyB1VTMbAk.md) - [plain](/playlists/plain/37i9dQZF1DX7GyB1VTMbAk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7GyB1VTMbAk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GyB1VTMbAk.md) - [plain](/playlists/plain/37i9dQZF1DX7GyB1VTMbAk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7GyB1VTMbAk)
 
 ### [RIIZE CONCERT TOUR \[RIIZING LOUD\]](https://open.spotify.com/playlist/37i9dQZF1DX7GyB1VTMbAk)
 
 > Enjoy the RIIZE CONCERT TOUR \[RIIZING LOUD\] LIVE SET including the voices of them on stage! \(라이즈의 무대 멘트와 목소리가 포함된 \[RIIZING LOUD\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,037 likes - 29 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,194 likes - 29 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

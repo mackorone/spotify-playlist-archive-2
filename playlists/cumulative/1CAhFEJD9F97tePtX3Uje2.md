@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/1CAhFEJD9F97tePtX3Uje2.md) - cumulative - [plain](/playlists/plain/1CAhFEJD9F97tePtX3Uje2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1CAhFEJD9F97tePtX3Uje2)
+[pretty](/playlists/pretty/1CAhFEJD9F97tePtX3Uje2.md) - cumulative - [plain](/playlists/plain/1CAhFEJD9F97tePtX3Uje2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1CAhFEJD9F97tePtX3Uje2)
 
 ### [hardwave\~phonk](https://open.spotify.com/playlist/1CAhFEJD9F97tePtX3Uje2)
 
 > 
 
-247 songs - 14 hr 24 min
+249 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [FIND MY WAY](https://open.spotify.com/track/0Vec7Je8jAYk17kqlW6l1A) | [Senkya](https://open.spotify.com/artist/6W6cFer7ZsbFqeYmxNukG6) | [FIND MY WAY](https://open.spotify.com/album/65tYASVfvbr8vpaELoE8oA) | 3:16 | 2021-04-01 |  |
 | [Find the Light](https://open.spotify.com/track/6dEBBTFxQTrL8PYpRk6Mkl) | [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Find the Light](https://open.spotify.com/album/2BWUz9i5IXrWNoAoskuoh8) | 3:43 | 2018-11-27 |  |
 | [Fly Away](https://open.spotify.com/track/6ijZZxyGBzbNq2FgR0USYR) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Fly Away](https://open.spotify.com/album/52Lhw4DeQ2rUtYmWNA9dDB) | 4:20 | 2021-02-07 |  |
+| [Focus \- Instrumental](https://open.spotify.com/track/2PeUY1CQvZ10wu7qyGRsdI) | [BlazinG](https://open.spotify.com/artist/0CZJEhOFoOiEgYc2iUsNV9) | [INSight \(Instrumental Versions\)](https://open.spotify.com/album/00XSjoIbxp9jdOppZVyxcn) | 3:46 | 2026-01-10 |  |
 | [For The People](https://open.spotify.com/track/7sspyJENSmKfAyQHGJtC1m) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 3:26 | 2019-12-23 |  |
 | [For You](https://open.spotify.com/track/2wRlRa04whOwI5cZ4QXsmj) | [DXXDLY](https://open.spotify.com/artist/6GKLaeqLSNmXOedBQQY9R7), [JÖST](https://open.spotify.com/artist/3ERTkqBGVuP0lA4r3pNvGu) | [For You](https://open.spotify.com/album/4Cd2EftimaltmI0irA1dCX) | 2:28 | 2023-01-05 |  |
 | [Forever](https://open.spotify.com/track/3AvllZd4og3ZaxildemX4O) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Forever](https://open.spotify.com/album/5gTC1VPmpEG0yq3wK5bLBA) | 4:40 | 2023-03-02 |  |
@@ -119,6 +120,7 @@
 | [KYOTO](https://open.spotify.com/track/4F895AsTJKpQpepYXgb71p) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [THE HORROR OF BEING](https://open.spotify.com/album/7pHuvP8fZmfFZ1m8OpiCFx) | 2:29 | 2020-07-16 |  |
 | [Kyoto Nights](https://open.spotify.com/track/3HPPccmXhAPwA29y4CwI85) | [Ennja](https://open.spotify.com/artist/5VfsJtcTOUghb9eRPpif27) | [Kyoto Nights](https://open.spotify.com/album/1WxrAauUpnYNpY4QeAbXbq) | 3:31 | 2020-09-01 |  |
 | [Last Light](https://open.spotify.com/track/4vwRxp34m8TO3GCCG7o1Sl) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [Fading](https://open.spotify.com/album/0W4JU95uzgoUkzxgAnpuMH) | 7:05 | 2018-11-27 |  |
+| [Let Me Know](https://open.spotify.com/track/4eCTlg0pauVt8REuAuX0sz) | [ROUDS](https://open.spotify.com/artist/5I1A3GQ1w7E1uQnJvfbC4Z) | [Let Me Know](https://open.spotify.com/album/6FB153y3kIgVArxGejzHgV) | 2:38 | 2026-01-10 |  |
 | [Let Off](https://open.spotify.com/track/600uPEYmDBWCzFf6fKz63H) | [Vacant](https://open.spotify.com/artist/30DoC8Ezpk2qU8yRMUzr1x) | [Let Off](https://open.spotify.com/album/6tDFLRJraBhBHwcUDRPD6N) | 3:20 | 2020-11-22 |  |
 | [LIBERTY](https://open.spotify.com/track/2uZCji4OCULmOAJE8yxprw) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [FORGOTTEN](https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM) | 3:24 | 2023-07-20 |  |
 | [Lifestream](https://open.spotify.com/track/4Ow784ahnFJQt86XNQiKbI) | [Skit](https://open.spotify.com/artist/6ejpWdV51Wxr3azIpJXwoQ) | [wave 003](https://open.spotify.com/album/4DO3xx1RRiRaTHSTfIpBzt) | 4:33 | 2018-11-27 |  |

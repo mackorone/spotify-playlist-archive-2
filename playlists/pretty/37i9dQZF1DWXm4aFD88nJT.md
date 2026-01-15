@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain](/playlists/plain/37i9dQZF1DWXm4aFD88nJT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXm4aFD88nJT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain](/playlists/plain/37i9dQZF1DWXm4aFD88nJT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXm4aFD88nJT)
 
 ### [Найкращі пісні солов’їною 2025](https://open.spotify.com/playlist/37i9dQZF1DWXm4aFD88nJT)
 
 > Улюблені пісні українською мовою в 2025 році\. Обкладинка: The Maneken
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,801 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,821 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

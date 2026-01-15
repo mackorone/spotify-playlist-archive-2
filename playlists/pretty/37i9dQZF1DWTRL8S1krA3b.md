@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain](/playlists/plain/37i9dQZF1DWTRL8S1krA3b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTRL8S1krA3b)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain](/playlists/plain/37i9dQZF1DWTRL8S1krA3b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTRL8S1krA3b)
 
 ### [New Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DWTRL8S1krA3b)
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,707 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,600 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

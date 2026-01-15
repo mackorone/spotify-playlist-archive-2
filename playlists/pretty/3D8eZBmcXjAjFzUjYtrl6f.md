@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3D8eZBmcXjAjFzUjYtrl6f.md) - [plain](/playlists/plain/3D8eZBmcXjAjFzUjYtrl6f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3D8eZBmcXjAjFzUjYtrl6f)
+pretty - [cumulative](/playlists/cumulative/3D8eZBmcXjAjFzUjYtrl6f.md) - [plain](/playlists/plain/3D8eZBmcXjAjFzUjYtrl6f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3D8eZBmcXjAjFzUjYtrl6f)
 
 ### [Dear Mama](https://open.spotify.com/playlist/3D8eZBmcXjAjFzUjYtrl6f)
 

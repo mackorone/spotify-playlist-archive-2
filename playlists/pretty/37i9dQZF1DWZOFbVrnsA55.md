@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain](/playlists/plain/37i9dQZF1DWZOFbVrnsA55) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZOFbVrnsA55)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain](/playlists/plain/37i9dQZF1DWZOFbVrnsA55) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZOFbVrnsA55)
 
 ### [A Long Now](https://open.spotify.com/playlist/37i9dQZF1DWZOFbVrnsA55)
 

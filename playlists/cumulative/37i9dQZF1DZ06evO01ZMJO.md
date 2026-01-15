@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO01ZMJO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO01ZMJO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO01ZMJO)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO01ZMJO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO01ZMJO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO01ZMJO)
 
 ### [This Is Outsiders](https://open.spotify.com/playlist/37i9dQZF1DZ06evO01ZMJO)
 

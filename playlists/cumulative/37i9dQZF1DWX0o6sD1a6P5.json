@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Naza",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Chily",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -10522,7 +10522,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177368,
       "name": "MASOKO NA MABELE",
       "url": "https://open.spotify.com/track/1skF9pCBGMFDnaQGuVa0v0"
@@ -11048,6 +11048,28 @@
       "duration_ms": 178960,
       "name": "Monde entier",
       "url": "https://open.spotify.com/track/147pZmwBwNPncFbFhorZIl"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/3xF3msk2lQEdDQkdgbjLdM"
+      },
+      "artists": [
+        {
+          "name": "Cleyton M",
+          "url": "https://open.spotify.com/artist/5iytX3PJbc1tGt4Pt6SI2q"
+        },
+        {
+          "name": "DJ Aka-m",
+          "url": "https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178842,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/64N74inwNvjJ7H2jNe2uhT"
     },
     {
       "album": {

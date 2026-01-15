@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Linea Personal, Fuerza Regida, Angel Tumbado ",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Banda Renovacion, Noel. Torres",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210600,
       "name": "Actividades 3 - En Vivo",
       "url": "https://open.spotify.com/track/0cMWSn2S2DpGfNjB4oNNR6"
@@ -540,6 +540,24 @@
       "duration_ms": 193880,
       "name": "Ah\u00ed Les Va",
       "url": "https://open.spotify.com/track/1pyoLEEfKhGMFjVBjO6svK"
+    },
+    {
+      "album": {
+        "name": "En Vivo Con Banda y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254973,
+      "name": "Aliados del tiempo - En Vivo",
+      "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
     },
     {
       "album": {
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205821,
       "name": "Brillas - En Vivo",
       "url": "https://open.spotify.com/track/19K56jowZvCWj0pjDbGFja"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 184124,
       "name": "Caminos Diferentes - En Vivo",
       "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
@@ -1380,6 +1398,28 @@
       "duration_ms": 157306,
       "name": "Chalito - En Vivo",
       "url": "https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb"
+    },
+    {
+      "album": {
+        "name": "Street Mob Live",
+        "url": "https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl"
+      },
+      "artists": [
+        {
+          "name": "Street Mob",
+          "url": "https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk"
+        },
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143180,
+      "name": "Changuito Me Apodaron",
+      "url": "https://open.spotify.com/track/4c2zq4HTSVLQP7esFifI0M"
     },
     {
       "album": {
@@ -2063,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Cu\u00eddate Bien (En Vivo)",
+        "url": "https://open.spotify.com/album/7thJYWeJHy57vp2scVyo5B"
+      },
+      "artists": [
+        {
+          "name": "Los Ejemplares del Rancho",
+          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Cu\u00eddate Bien - En Vivo",
+      "url": "https://open.spotify.com/track/1qsXG06sFgLhdbfFWyFJp5"
+    },
+    {
+      "album": {
         "name": "Yakifest Oasis Vol. 5 (En Vivo)",
         "url": "https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP"
       },
@@ -2122,6 +2180,24 @@
       "duration_ms": 154338,
       "name": "De Botas O Gabanas - En Vivo",
       "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
+    },
+    {
+      "album": {
+        "name": "Las Favoritas de mi Apa (En vivo)",
+        "url": "https://open.spotify.com/album/0n3XRFtgUAY8DEwjM5CuCj"
+      },
+      "artists": [
+        {
+          "name": "Alexis Sicairos",
+          "url": "https://open.spotify.com/artist/2U1RNtPuwo6xTvvv4AG4Gu"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165018,
+      "name": "De Esta Sierra a la Otra Sierra - En vivo",
+      "url": "https://open.spotify.com/track/5xit4YGbUdYixLVe51xomn"
     },
     {
       "album": {
@@ -2852,7 +2928,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 230359,
       "name": "El Borracho y La Rancherita - En Vivo",
       "url": "https://open.spotify.com/track/362dnV4RQnP6YxiQPUZjjT"
@@ -3270,7 +3346,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 173250,
       "name": "El Comando del Diablo - En Vivo",
       "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
@@ -4808,7 +4884,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 110154,
       "name": "El \u00daltimo Billete - En Vivo",
       "url": "https://open.spotify.com/track/3WDeCUV7HT4ZdW3wRab8Dv"
@@ -4856,7 +4932,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186578,
       "name": "En Las Cantinas - En Vivo",
       "url": "https://open.spotify.com/track/0G8TwOjPirVFlzvAJrRgg5"
@@ -5168,7 +5244,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 230120,
       "name": "Estos Celos - En Vivo",
       "url": "https://open.spotify.com/track/3nHRtQQcGUr56Zsc45Qc5X"
@@ -5340,6 +5416,24 @@
       "duration_ms": 173946,
       "name": "Fue Manuel - En Vivo",
       "url": "https://open.spotify.com/track/0GVjvHPjw5c0FkKYuv8Kxe"
+    },
+    {
+      "album": {
+        "name": "Fuentes de Ortiz y Ni El Diablo Te Va Querer (En Vivo)",
+        "url": "https://open.spotify.com/album/6m6ECeEGbULiX2E7ARxaEH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Manada",
+          "url": "https://open.spotify.com/artist/6HymxWPmwwb1haRIqmhzqN"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408184,
+      "name": "Fuentes de Ortiz y Ni El Diablo Te Va Querer - En Vivo",
+      "url": "https://open.spotify.com/track/4ykZoeC1k2jF0la3plzEvC"
     },
     {
       "album": {
@@ -6933,6 +7027,24 @@
     },
     {
       "album": {
+        "name": "Desde Los Angeles (En Vivo)",
+        "url": "https://open.spotify.com/album/4Qo9B9QZhwqV579sX7lriE"
+      },
+      "artists": [
+        {
+          "name": "La Atraxion",
+          "url": "https://open.spotify.com/artist/3hMHWpyQ2fgjbN6R3g90mQ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "La vida recia - En Vivo",
+      "url": "https://open.spotify.com/track/5PDK2DNVnr11CNZ1X0hXsR"
+    },
+    {
+      "album": {
         "name": "La Vida Ruina (En Vivo Desde La Perla Tapatia)",
         "url": "https://open.spotify.com/album/47JiMvotl9xC4mwZAR12UY"
       },
@@ -7821,6 +7933,28 @@
     },
     {
       "album": {
+        "name": "Me la Pelan",
+        "url": "https://open.spotify.com/album/3gWvHNH1bjOjeENNQRhg93"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        },
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186335,
+      "name": "Me la Pelan",
+      "url": "https://open.spotify.com/track/3uKB59qvKbrZDF7mcusl0i"
+    },
+    {
+      "album": {
         "name": "(EN VIVO) con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa",
         "url": "https://open.spotify.com/album/7fH3B249lIrp6YapI1HHEy"
       },
@@ -8211,6 +8345,32 @@
     },
     {
       "album": {
+        "name": "Street Mob Live",
+        "url": "https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl"
+      },
+      "artists": [
+        {
+          "name": "Street Mob",
+          "url": "https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk"
+        },
+        {
+          "name": "Grupo Elexion",
+          "url": "https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259828,
+      "name": "Micaela",
+      "url": "https://open.spotify.com/track/6tbPyJ4yVaSjZjHz2R99V6"
+    },
+    {
+      "album": {
         "name": "Mientras Duermes (En Vivo)",
         "url": "https://open.spotify.com/album/78GkhLkn5v6q6PkNFbDFYs"
       },
@@ -8274,7 +8434,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154695,
       "name": "Mujer Honrada - En vivo",
       "url": "https://open.spotify.com/track/36yGINJ01oLXwQ5U0J74aA"
@@ -8296,7 +8456,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164827,
       "name": "Navaja Libre - En Vivo",
       "url": "https://open.spotify.com/track/3yENxFZlc45byls2278Gxb"
@@ -8412,7 +8572,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196377,
       "name": "No Me Amenaces (En Vivo)",
       "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
@@ -8634,7 +8794,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153733,
       "name": "Pase y Pase - En Vivo",
       "url": "https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54"
@@ -8652,7 +8812,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162436,
       "name": "Paso a Pesito - En Vivo",
       "url": "https://open.spotify.com/track/2BfpE65uevKHksRgEm0i2a"
@@ -8872,7 +9032,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 307010,
       "name": "Popurri Cumbias Invasores:Ya No Te Amo / Se Acab\u00f3 / A M\u00ed Que Me Qued\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/2h7HF2uBgIDrLqgd3Y9CNm"
@@ -8890,7 +9050,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 522409,
       "name": "Popurri De Cumbias (En Vivo)",
       "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
@@ -9042,7 +9202,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 198938,
       "name": "Por culpa de un tercero (Spotify OUTSIDE Version) - Live from Hermosillo, Sonora, MX",
       "url": "https://open.spotify.com/track/1w0nTizRgdMsoFwGAYhqRg"
@@ -9184,6 +9344,24 @@
       "duration_ms": 172000,
       "name": "Prohibido (En Vivo) [feat. Los Populares del Llano]",
       "url": "https://open.spotify.com/track/16sw1shH9nt1rEhKvVbyp6"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came (En Vivo 45 Aniversario)",
+        "url": "https://open.spotify.com/album/3vTJLOrVFzvQ0vfvVBLud2"
+      },
+      "artists": [
+        {
+          "name": "El Primo Manolo Y Sus Rieleros",
+          "url": "https://open.spotify.com/artist/3h35pcOfc9nGveI4JBaCCh"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180280,
+      "name": "Prov\u00f3came (En Vivo 45 Aniversario)",
+      "url": "https://open.spotify.com/track/2JHJxI7O6s0uxajxWBkXLU"
     },
     {
       "album": {
@@ -9860,7 +10038,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 228997,
       "name": "Sigo Siendo El M Grande (En Vivo)",
       "url": "https://open.spotify.com/track/4UAHcRTrddcsySWDYT5epf"
@@ -9918,7 +10096,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 225125,
       "name": "Sin Tu Amor (En Vivo)",
       "url": "https://open.spotify.com/track/6CURbWkvmqBmVyZaRE7Bu6"
@@ -10176,7 +10354,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 198493,
       "name": "Tambi\u00e9n Me Llamo Ismael - En Vivo",
       "url": "https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY"
@@ -10372,7 +10550,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 588060,
       "name": "Te Presumo - Por Que Te Quiero (En Vivo)",
       "url": "https://open.spotify.com/track/3AHrF7WOEWsJOv2m8Jk4nN"
@@ -10838,7 +11016,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 118653,
       "name": "Unas Heladas (En Vivo)",
       "url": "https://open.spotify.com/track/7tNuGaI6OSKbWX59qml9zb"

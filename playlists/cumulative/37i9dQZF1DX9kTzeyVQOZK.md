@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9kTzeyVQOZK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9kTzeyVQOZK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9kTzeyVQOZK)
+[pretty](/playlists/pretty/37i9dQZF1DX9kTzeyVQOZK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9kTzeyVQOZK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9kTzeyVQOZK)
 
 ### [Lo Mejor de Arena Hip\-Hop 2021](https://open.spotify.com/playlist/37i9dQZF1DX9kTzeyVQOZK)
 

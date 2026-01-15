@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain](/playlists/plain/37i9dQZF1DWUPafHP1BJw1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUPafHP1BJw1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain](/playlists/plain/37i9dQZF1DWUPafHP1BJw1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUPafHP1BJw1)
 
 ### [Pop Goes Classical](https://open.spotify.com/playlist/37i9dQZF1DWUPafHP1BJw1)
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,245 likes - 203 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,177 likes - 203 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 59 | [Zombie \- Piano & Strings Version](https://open.spotify.com/track/1KBm3CGrB5dEWkYtaROWDC) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Zombie \(Piano & Strings Version\)](https://open.spotify.com/album/5B7lZ6aEIiuodHZ3SuWGkv) | 2:35 |
 | 60 | [Lend Me Your Voice \(feat\. Tina Guo\)](https://open.spotify.com/track/4guuWK2dDbaascmSeE191L) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Lend Me Your Voice \(feat\. Tina Guo\)](https://open.spotify.com/album/3mFvgCj4JaMobvWndyr5rx) | 4:11 |
 | 61 | [Bohemian Rhapsody](https://open.spotify.com/track/2eURCNUMGKmFSijJPRUa8i) | [Frederick Mercury](https://open.spotify.com/artist/73VHeGZlvgnEHuKAVwFUlp), [Feuerbach Quartett](https://open.spotify.com/artist/0rBWYuwl3ryJvUH1I7xWd3), [Jamila Musayeva](https://open.spotify.com/artist/2Q87kdEwl3udwCko7mofFc), [Max Eisinger](https://open.spotify.com/artist/72k8leLxlE003vd4reyLrh), [Eugen Hubert](https://open.spotify.com/artist/0Prut0eFEFUXnWWucbsWu1), [Lukas Kroczek\-Wagner](https://open.spotify.com/artist/6tBlmbOWXpTIm8KATJx4Px) | [Bohemian Rhapsody](https://open.spotify.com/album/6YlJxrYIOHIiUGFBw75hpv) | 6:45 |
-| 62 | [Glimpse Of Us \(Radio Edit\) \- Symphony Orchestra Version](https://open.spotify.com/track/3lKsTCKWr7qCtxqkOuxEFm) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Glimpse Of Us \(Radio Edit\) \[Symphony Orchestra Version\]](https://open.spotify.com/album/44zuDsGns1Fz5YloQPjYOs) | 3:40 |
+| 62 | [Glimpse of Us \(Radio Edit\) \- Symphony Orchestra Version](https://open.spotify.com/track/3lKsTCKWr7qCtxqkOuxEFm) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Glimpse Of Us \(Radio Edit\) \[Symphony Orchestra Version\]](https://open.spotify.com/album/44zuDsGns1Fz5YloQPjYOs) | 3:40 |
 | 63 | [Everything I Wanted \- Arr\. for Oboe and Chamber Orchestra by Juri Vallentin](https://open.spotify.com/track/6WRzX7MZHC0YgZuoACKOlD) | [Juri Vallentin](https://open.spotify.com/artist/2YtNr7UFUdaRMLRbQY1OJb), [Ensemble Reflektor](https://open.spotify.com/artist/47Khw2Og2Im70QJmKU4Qqt) | [Everything I Wanted](https://open.spotify.com/album/2dGp8VifkLqCVp0o5q1O7f) | 4:15 |
 | 64 | [Do You Want to Build a Snowman? \(Arr\. Hough for Piano\) \- From "Frozen"](https://open.spotify.com/track/71by7ANHOjE31qMaTfCgZH) | [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Do You Want to Build a Snowman? \(Arr\. Hough for Piano\) \[From "Frozen"\]](https://open.spotify.com/album/6WhuHDpl19jTykVcjNzp6f) | 2:25 |
 | 65 | [Wonderwall \- Symphony Orchestra Version](https://open.spotify.com/track/4Zp1YMyksiSOy90WzvCsiP) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Wonderwall \(Symphony Orchestra Version\)](https://open.spotify.com/album/0U75KBm7BpaxiI2GY3rFN0) | 3:29 |

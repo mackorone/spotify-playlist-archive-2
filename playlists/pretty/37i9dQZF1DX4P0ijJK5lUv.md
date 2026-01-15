@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P0ijJK5lUv.md) - [plain](/playlists/plain/37i9dQZF1DX4P0ijJK5lUv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4P0ijJK5lUv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P0ijJK5lUv.md) - [plain](/playlists/plain/37i9dQZF1DX4P0ijJK5lUv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4P0ijJK5lUv)
 
 ### [Classical Christmas](https://open.spotify.com/playlist/37i9dQZF1DX4P0ijJK5lUv)
 
 > Heartwarming carols and classical Christmas favourites, guaranteed to make any festive occasion merry and bright.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,011 likes - 165 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,213 likes - 165 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

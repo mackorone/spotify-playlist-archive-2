@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jTM2l2fJY.md) - [plain](/playlists/plain/37i9dQZF1DX18jTM2l2fJY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX18jTM2l2fJY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jTM2l2fJY.md) - [plain](/playlists/plain/37i9dQZF1DX18jTM2l2fJY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX18jTM2l2fJY)
 
 ### [Top Tracks of 2025 Global](https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY)
 
 > The most streamed songs of 2025\. Cover: Lady Gaga & Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,548 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,933 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbicEtPvsx8f.md) - [plain](/playlists/plain/37i9dQZF1DXbicEtPvsx8f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbicEtPvsx8f)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbicEtPvsx8f.md) - [plain](/playlists/plain/37i9dQZF1DXbicEtPvsx8f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbicEtPvsx8f)
 
 ### [This Is: Olga Tanon](https://open.spotify.com/playlist/37i9dQZF1DXbicEtPvsx8f)
 

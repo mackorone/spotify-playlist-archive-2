@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0aArwHugPhiiuaL8KxyVXQ.md) - [plain](/playlists/plain/0aArwHugPhiiuaL8KxyVXQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0aArwHugPhiiuaL8KxyVXQ)
+pretty - [cumulative](/playlists/cumulative/0aArwHugPhiiuaL8KxyVXQ.md) - [plain](/playlists/plain/0aArwHugPhiiuaL8KxyVXQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0aArwHugPhiiuaL8KxyVXQ)
 
 ### [Spotify Global Discoveries](https://open.spotify.com/playlist/0aArwHugPhiiuaL8KxyVXQ)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW2hj3ZtMbuO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW2hj3ZtMbuO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW2hj3ZtMbuO)
+[pretty](/playlists/pretty/37i9dQZF1DWW2hj3ZtMbuO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW2hj3ZtMbuO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW2hj3ZtMbuO)
 
 ### [sad girl starter pack](https://open.spotify.com/playlist/37i9dQZF1DWW2hj3ZtMbuO)
 

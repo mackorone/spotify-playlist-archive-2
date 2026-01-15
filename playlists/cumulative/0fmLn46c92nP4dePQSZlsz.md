@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0fmLn46c92nP4dePQSZlsz.md) - cumulative - [plain](/playlists/plain/0fmLn46c92nP4dePQSZlsz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0fmLn46c92nP4dePQSZlsz)
+[pretty](/playlists/pretty/0fmLn46c92nP4dePQSZlsz.md) - cumulative - [plain](/playlists/plain/0fmLn46c92nP4dePQSZlsz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0fmLn46c92nP4dePQSZlsz)
 
 ### [Secretly Indie](https://open.spotify.com/playlist/0fmLn46c92nP4dePQSZlsz)
 

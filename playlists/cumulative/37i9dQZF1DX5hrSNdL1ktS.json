@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194178,
       "name": "BANDIDO",
       "url": "https://open.spotify.com/track/0ipaxkftHTQ8tlOh3OYW59"
@@ -7051,6 +7051,50 @@
     },
     {
       "album": {
+        "name": "FRUTO PROHIBIDO",
+        "url": "https://open.spotify.com/album/7Iz3VfOWiRelZ8cmYDG1cy"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208085,
+      "name": "FRUTO PROHIBIDO",
+      "url": "https://open.spotify.com/track/0UQQGwOmaR88smuCpEdAvq"
+    },
+    {
+      "album": {
+        "name": "Fua",
+        "url": "https://open.spotify.com/album/3Pk4zmwmpmCy4z3wQGfFSd"
+      },
+      "artists": [
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112058,
+      "name": "Fua",
+      "url": "https://open.spotify.com/track/7vsLe9bsmvwuSzSgjQRVyA"
+    },
+    {
+      "album": {
         "name": "Fue Un Gusto Conocerte",
         "url": "https://open.spotify.com/album/0yvwKrObV53q5RJxFZZ9lw"
       },
@@ -9100,7 +9144,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186810,
       "name": "La Flaca",
       "url": "https://open.spotify.com/track/5VFCX3TjwWeBFgC5nsbcvt"
@@ -14178,7 +14222,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136615,
       "name": "PA KCD",
       "url": "https://open.spotify.com/track/0moikgbCGxG2dsWorOpbo1"
@@ -21906,6 +21950,28 @@
       "duration_ms": 126000,
       "name": "Ya me enter\u00e9",
       "url": "https://open.spotify.com/track/1uJ4wb43AssHGwsyq1K4EX"
+    },
+    {
+      "album": {
+        "name": "La Hermandad",
+        "url": "https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK"
+      },
+      "artists": [
+        {
+          "name": "La Vendicion",
+          "url": "https://open.spotify.com/artist/0Yp8VHUZMjHleknMfdBsyh"
+        },
+        {
+          "name": "La Obsesion",
+          "url": "https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "YA NO SIENTO NADA",
+      "url": "https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5"
     },
     {
       "album": {

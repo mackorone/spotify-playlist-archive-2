@@ -1,6 +1,6 @@
 {
   "description": "mood:  \ud83d\ude0e\u2708\ufe0f",
-  "num_followers": 69100,
+  "num_followers": 69312,
   "original_name": "Tayer \u0637\u0627\u064a\u0631\u200e",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,22 @@
     {
       "added_at": "2025-11-03 05:27:04",
       "album": {
-        "name": "BL\u00c9DARD",
-        "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
+        "name": "J'en ai marre !",
+        "url": "https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX"
       },
       "artists": [
         {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        },
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
         }
       ],
-      "duration_ms": 204590,
-      "name": "FACE TO FACE",
-      "url": "https://open.spotify.com/track/67nsE7s6yfIg7o9HAdkq7H"
+      "duration_ms": 211623,
+      "name": "J'en ai marre !",
+      "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
     },
     {
       "added_at": "2025-11-03 05:27:04",
@@ -203,22 +207,18 @@
     {
       "added_at": "2025-11-03 05:27:04",
       "album": {
-        "name": "J'en ai marre !",
-        "url": "https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX"
+        "name": "BL\u00c9DARD",
+        "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
       },
       "artists": [
         {
-          "name": "Kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        },
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
         }
       ],
-      "duration_ms": 211623,
-      "name": "J'en ai marre !",
-      "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
+      "duration_ms": 204590,
+      "name": "FACE TO FACE",
+      "url": "https://open.spotify.com/track/67nsE7s6yfIg7o9HAdkq7H"
     },
     {
       "added_at": "2025-11-03 05:27:04",
@@ -303,18 +303,18 @@
     {
       "added_at": "2025-11-03 05:27:04",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5"
+        "name": "INARA",
+        "url": "https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq"
       },
       "artists": [
         {
-          "name": "7liwa",
-          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+          "name": "SCOOL BOY",
+          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Douwi Douwi",
-      "url": "https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz"
+      "duration_ms": 186843,
+      "name": "INARA",
+      "url": "https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv"
     },
     {
       "added_at": "2025-11-03 05:27:04",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-11-03 05:27:04",
       "album": {
-        "name": "INARA",
-        "url": "https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq"
-      },
-      "artists": [
-        {
-          "name": "SCOOL BOY",
-          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
-        }
-      ],
-      "duration_ms": 186843,
-      "name": "INARA",
-      "url": "https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv"
-    },
-    {
-      "added_at": "2025-11-03 05:27:04",
-      "album": {
         "name": "Akhir mra andwi 3lik",
         "url": "https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 223240,
       "name": "Akhir mra andwi 3lik",
       "url": "https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ"
+    },
+    {
+      "added_at": "2025-11-03 05:27:04",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Douwi Douwi",
+      "url": "https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz"
     },
     {
       "added_at": "2025-11-03 05:27:04",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-11-03 05:27:04",
       "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "DIAMOND",
-      "url": "https://open.spotify.com/track/4mQGTKD7TeJpptoLdDbNX9"
-    },
-    {
-      "added_at": "2025-11-03 05:27:04",
-      "album": {
         "name": "07",
         "url": "https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 213818,
       "name": "Maghandemch",
       "url": "https://open.spotify.com/track/7oxgsGrfdM0lXMk7p3MVPW"
+    },
+    {
+      "added_at": "2025-11-03 05:27:04",
+      "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "DIAMOND",
+      "url": "https://open.spotify.com/track/4mQGTKD7TeJpptoLdDbNX9"
     },
     {
       "added_at": "2025-11-03 05:27:04",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-11-03 05:27:04",
       "album": {
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "Overdoze",
+      "url": "https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ"
+    },
+    {
+      "added_at": "2025-11-03 05:27:04",
+      "album": {
         "name": "Chapter 2 : Band Of Msaww",
         "url": "https://open.spotify.com/album/0dfytM4hEkDPs0bU8xGu0O"
       },
@@ -655,34 +671,22 @@
     {
       "added_at": "2025-11-03 05:27:04",
       "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
+        "name": "Moroccan Dream",
+        "url": "https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb"
       },
       "artists": [
         {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "Overdoze",
-      "url": "https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ"
-    },
-    {
-      "added_at": "2025-11-03 05:27:04",
-      "album": {
-        "name": "Real Alien",
-        "url": "https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd"
-      },
-      "artists": [
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        },
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
         }
       ],
-      "duration_ms": 131866,
-      "name": "Iceburg",
-      "url": "https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j"
+      "duration_ms": 208512,
+      "name": "FLOUKA",
+      "url": "https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr"
     }
   ],
   "unique_name": "Tayer \u0637\u0627\u064a\u0631\u200e",

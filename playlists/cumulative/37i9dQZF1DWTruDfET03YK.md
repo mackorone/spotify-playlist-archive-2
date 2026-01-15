@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTruDfET03YK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTruDfET03YK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTruDfET03YK)
+[pretty](/playlists/pretty/37i9dQZF1DWTruDfET03YK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTruDfET03YK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTruDfET03YK)
 
 ### [Los Animalitos](https://open.spotify.com/playlist/37i9dQZF1DWTruDfET03YK)
 

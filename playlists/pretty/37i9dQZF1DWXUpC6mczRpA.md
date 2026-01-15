@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUpC6mczRpA.md) - [plain](/playlists/plain/37i9dQZF1DWXUpC6mczRpA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXUpC6mczRpA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUpC6mczRpA.md) - [plain](/playlists/plain/37i9dQZF1DWXUpC6mczRpA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXUpC6mczRpA)
 
 ### [Mozart for Study](https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA)
 
 > Stay focused with a little help from Mozart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,348 likes - 69 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,592 likes - 69 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

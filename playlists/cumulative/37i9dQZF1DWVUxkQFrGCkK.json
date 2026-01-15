@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "Ankho\u00ef & Luch hypes us up for Tulum 26'!",
+  "description": "Tulum szn",
   "name": "Umami",
   "tracks": [
     {
@@ -1738,6 +1738,36 @@
       "duration_ms": 229743,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
+    },
+    {
+      "album": {
+        "name": "AWGAZI",
+        "url": "https://open.spotify.com/album/2XnPcqCzOHu9No3gR8t2TS"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        },
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        },
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150491,
+      "name": "AWGAZI (Sunset Remix)",
+      "url": "https://open.spotify.com/track/4AgxONQTltUnOfMJuiLQDk"
     },
     {
       "album": {
@@ -4297,6 +4327,28 @@
     },
     {
       "album": {
+        "name": "Closer Than Ever (Arodes Remix)",
+        "url": "https://open.spotify.com/album/202837bwedJn5vTu0bC3ny"
+      },
+      "artists": [
+        {
+          "name": "Imbermind",
+          "url": "https://open.spotify.com/artist/2tWWexhcLvL1CN2fswv3xt"
+        },
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222604,
+      "name": "Closer Than Ever - Arodes Remix",
+      "url": "https://open.spotify.com/track/3jeFImBk9dH4GawbHaw3Nn"
+    },
+    {
+      "album": {
         "name": "Closer To The Floor",
         "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
       },
@@ -4668,17 +4720,13 @@
         {
           "name": "Von Boch",
           "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        },
-        {
-          "name": "Biishop",
-          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
         }
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 352000,
-      "name": "Cowboy Angel (feat. Biishop)",
+      "name": "Cowboy Angel",
       "url": "https://open.spotify.com/track/4emIuIKOjlFSXLCgTiSALC"
     },
     {
@@ -13617,6 +13665,36 @@
     },
     {
       "album": {
+        "name": "Man With The Red Face (Nico De Andrea Remix)",
+        "url": "https://open.spotify.com/album/0jDG7j15sWQPgJFhahCDe6"
+      },
+      "artists": [
+        {
+          "name": "Syntheticsax",
+          "url": "https://open.spotify.com/artist/05hm1QdbuSVF4WdgzA0tFJ"
+        },
+        {
+          "name": "Disla",
+          "url": "https://open.spotify.com/artist/10iImKlzezRza8EPBmIPe2"
+        },
+        {
+          "name": "Danis",
+          "url": "https://open.spotify.com/artist/6cumClwwPA5FXheg8ZwVyE"
+        },
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215652,
+      "name": "Man With The Red Face - Nico De Andrea Remix",
+      "url": "https://open.spotify.com/track/7wf7Y7PlwvW8Pkw93NLLpU"
+    },
+    {
+      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
@@ -19845,6 +19923,24 @@
     },
     {
       "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
+    },
+    {
+      "album": {
         "name": "Nothing But... House Party, Vol. 09",
         "url": "https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8"
       },
@@ -19926,7 +20022,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170324,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/0RSckKsLSHmD0BoKBjo1WH"

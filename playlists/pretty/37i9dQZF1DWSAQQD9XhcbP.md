@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain](/playlists/plain/37i9dQZF1DWSAQQD9XhcbP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSAQQD9XhcbP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain](/playlists/plain/37i9dQZF1DWSAQQD9XhcbP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSAQQD9XhcbP)
 
 ### [Mellow Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSAQQD9XhcbP)
 
 > Cozy Christmas vibes\. Cover: Sofia Camara
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,846 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,641 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9SeBznWlA3M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9SeBznWlA3M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9SeBznWlA3M)
+[pretty](/playlists/pretty/37i9dQZF1DX9SeBznWlA3M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9SeBznWlA3M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9SeBznWlA3M)
 
 ### [Lo mejor de POP FLOW 2023](https://open.spotify.com/playlist/37i9dQZF1DX9SeBznWlA3M)
 

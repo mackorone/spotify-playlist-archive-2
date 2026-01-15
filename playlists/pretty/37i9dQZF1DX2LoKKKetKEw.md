@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain](/playlists/plain/37i9dQZF1DX2LoKKKetKEw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2LoKKKetKEw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain](/playlists/plain/37i9dQZF1DX2LoKKKetKEw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2LoKKKetKEw)
 
 ### [Best of AfroGospel 2025](https://open.spotify.com/playlist/37i9dQZF1DX2LoKKKetKEw)
 
 > Our editors' picks for the best AfroGospel songs of the year! Cover: CalledOut Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,566 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,872 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1EFMzqILIGFdfQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFMzqILIGFdfQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFMzqILIGFdfQ)
+[pretty](/playlists/pretty/37i9dQZF1EFMzqILIGFdfQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFMzqILIGFdfQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFMzqILIGFdfQ)
 
 ### [Written By Denisia "Blu June" Andrews](https://open.spotify.com/playlist/37i9dQZF1EFMzqILIGFdfQ)
 

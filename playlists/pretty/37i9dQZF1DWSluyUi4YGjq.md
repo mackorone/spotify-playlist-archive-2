@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain](/playlists/plain/37i9dQZF1DWSluyUi4YGjq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSluyUi4YGjq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain](/playlists/plain/37i9dQZF1DWSluyUi4YGjq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSluyUi4YGjq)
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
 > Gazing at pedals, soaring celestially high\. cover: quannnic
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,380 likes - 121 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,061 likes - 121 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduL9tgVUiAe.md) - [plain](/playlists/plain/37i9dQZF1DXduL9tgVUiAe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXduL9tgVUiAe)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduL9tgVUiAe.md) - [plain](/playlists/plain/37i9dQZF1DXduL9tgVUiAe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXduL9tgVUiAe)
 
 ### [Nimona Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXduL9tgVUiAe)
 
 > A new hero takes shape\. Listen to the music from and inspired by Nimona, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,184 likes - 29 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,337 likes - 29 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

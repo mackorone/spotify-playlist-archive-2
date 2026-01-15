@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkGQGk1ZjrI.md) - [plain](/playlists/plain/37i9dQZF1DWZkGQGk1ZjrI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZkGQGk1ZjrI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkGQGk1ZjrI.md) - [plain](/playlists/plain/37i9dQZF1DWZkGQGk1ZjrI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZkGQGk1ZjrI)
 
 ### [This Is Elliott Smith \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWZkGQGk1ZjrI)
 

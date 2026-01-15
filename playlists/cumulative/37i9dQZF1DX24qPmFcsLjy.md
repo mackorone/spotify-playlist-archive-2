@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX24qPmFcsLjy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX24qPmFcsLjy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX24qPmFcsLjy)
+[pretty](/playlists/pretty/37i9dQZF1DX24qPmFcsLjy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX24qPmFcsLjy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX24qPmFcsLjy)
 
 ### [80's Allerbeste](https://open.spotify.com/playlist/37i9dQZF1DX24qPmFcsLjy)
 

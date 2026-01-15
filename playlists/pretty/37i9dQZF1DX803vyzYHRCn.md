@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX803vyzYHRCn.md) - [plain](/playlists/plain/37i9dQZF1DX803vyzYHRCn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX803vyzYHRCn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX803vyzYHRCn.md) - [plain](/playlists/plain/37i9dQZF1DX803vyzYHRCn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX803vyzYHRCn)
 
 ### [Milan Harris's Taste](https://open.spotify.com/playlist/37i9dQZF1DX803vyzYHRCn)
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/iammilanrouge/">Milan Harris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,946 likes - 49 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,968 likes - 49 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

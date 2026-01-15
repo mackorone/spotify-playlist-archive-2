@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Alkemia / Showbisn\u20acs",
+        "url": "https://open.spotify.com/album/6EMVXMLTJAujvHB6LwiCmk"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Alkemia",
+      "url": "https://open.spotify.com/track/2QMNxvmd92po5PW4GbTQUN"
+    },
+    {
+      "album": {
         "name": "Sodank\u00e4ynnin historia",
         "url": "https://open.spotify.com/album/2uwR2X5ZwkIVBLwbNd5a0S"
       },
@@ -1551,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Cokis ja Mentos",
+        "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
+      },
+      "artists": [
+        {
+          "name": "Mira Luoti",
+          "url": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167293,
+      "name": "Cokis ja Mentos",
+      "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
+    },
+    {
+      "album": {
         "name": "Corazon (feat. Neo)",
         "url": "https://open.spotify.com/album/0RuVIwOJCWsdbaIu1uPTrj"
       },
@@ -2194,7 +2230,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177500,
       "name": "Elvyt\u00e4 mut",
       "url": "https://open.spotify.com/track/5MuQp9rBwc1imnhrDyCRsy"
@@ -2750,7 +2786,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177426,
       "name": "Fantasia (feat. Kah Pao)",
       "url": "https://open.spotify.com/track/7gktoRk6XwRkUkAbplkgZ0"
@@ -3316,7 +3352,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 238280,
       "name": "Hylk\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/5X0CR9QTLrd6n57eM8t741"
@@ -4338,7 +4374,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 200385,
       "name": "Joutsenet",
       "url": "https://open.spotify.com/track/758Kl8JokCJSFBBdn2Kp6h"
@@ -4418,7 +4454,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 228921,
       "name": "Juon ja jumppaan",
       "url": "https://open.spotify.com/track/5SjADIv6H2BYyaD9MSzlC1"
@@ -5462,6 +5498,24 @@
       "duration_ms": 272461,
       "name": "Kiljut riemusta (Roosa nauha 2024)",
       "url": "https://open.spotify.com/track/55hOn2rl3tx24cgYneShKz"
+    },
+    {
+      "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/4KpoZTlC632iMa30PBsy3l"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176002,
+      "name": "Kill4Me",
+      "url": "https://open.spotify.com/track/65rl6bTeV4tTZw7qMeGGFw"
     },
     {
       "album": {
@@ -7924,7 +7978,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141770,
       "name": "Min\u00e4 olen muistanut",
       "url": "https://open.spotify.com/track/3zQoHH71fUAEFqHCV1Jz4x"
@@ -9382,7 +9436,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 206466,
       "name": "Oh My Goddess (Ter\u00e4sleidit - kuin viimeist\u00e4 p\u00e4iv\u00e4\u00e4 -soundtrack)",
       "url": "https://open.spotify.com/track/3M0K30bqHDmyWm6r1eiMpa"
@@ -10130,7 +10184,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155976,
       "name": "Paratiisi",
       "url": "https://open.spotify.com/track/2F0C2YZtoTIlFOrNlzDIB1"
@@ -10846,7 +10900,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184944,
       "name": "pysyv\u00e4\u00e4",
       "url": "https://open.spotify.com/track/6bVtWYGHtva0bNYO36PA3u"
@@ -10864,7 +10918,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203920,
       "name": "P\u00e4in helvettii",
       "url": "https://open.spotify.com/track/3yHIxHuTIYF0pLFJ9DEKGy"
@@ -11002,6 +11056,24 @@
       "duration_ms": 198751,
       "name": "Radio pois",
       "url": "https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4"
+    },
+    {
+      "album": {
+        "name": "Radio p\u00e4\u00e4lle",
+        "url": "https://open.spotify.com/album/39ixk01uXbUgwHANdeY0kq"
+      },
+      "artists": [
+        {
+          "name": "helmi marleena",
+          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172969,
+      "name": "Radio p\u00e4\u00e4lle",
+      "url": "https://open.spotify.com/track/3BnuOAB4vQY2v7wB2ObAea"
     },
     {
       "album": {
@@ -12027,6 +12099,24 @@
     },
     {
       "album": {
+        "name": "Pl\u00e4\u00e4nit Uusiks",
+        "url": "https://open.spotify.com/album/4tQ1QVAa2WJ2lg82iYx5uj"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4kki",
+          "url": "https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "Se Ei Mee Niin",
+      "url": "https://open.spotify.com/track/6znnvDT7fkrAmhdIuWTzMj"
+    },
+    {
+      "album": {
         "name": "Se kes\u00e4",
         "url": "https://open.spotify.com/album/5uyEMwsyLKI2hLMs94LupF"
       },
@@ -12902,7 +12992,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 181226,
       "name": "Sururata",
       "url": "https://open.spotify.com/track/57tYLBPHm8RMQ7NSdAhaUf"
@@ -13634,7 +13724,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 188017,
       "name": "Taskulamppu",
       "url": "https://open.spotify.com/track/61Qw46DieJxidU5vZQluEJ"
@@ -13865,6 +13955,24 @@
     },
     {
       "album": {
+        "name": "Toimitusjohtaja",
+        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165438,
+      "name": "Toimitusjohtaja",
+      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
+    },
+    {
+      "album": {
         "name": "Toinen el\u00e4m\u00e4",
         "url": "https://open.spotify.com/album/0IFurHEXIkIdwKJND4lChq"
       },
@@ -13898,6 +14006,24 @@
       "duration_ms": 209683,
       "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
       "url": "https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD"
+    },
+    {
+      "album": {
+        "name": "Toisillemme parhaat",
+        "url": "https://open.spotify.com/album/4ij7IXe5wYI18zemE35eBJ"
+      },
+      "artists": [
+        {
+          "name": "Juha Tapio",
+          "url": "https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244649,
+      "name": "Toisillemme parhaat",
+      "url": "https://open.spotify.com/track/5B3Meo3iNYMrfl8C328Ue1"
     },
     {
       "album": {
@@ -13977,7 +14103,7 @@
     },
     {
       "album": {
-        "name": "Totuus sattuu (with pehmoaino)",
+        "name": "Totuus sattuu",
         "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
       },
       "artists": [
@@ -13994,7 +14120,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165688,
-      "name": "Totuus sattuu (with pehmoaino)",
+      "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
     },
     {

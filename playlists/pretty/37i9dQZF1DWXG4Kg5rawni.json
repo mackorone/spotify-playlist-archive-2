@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 114228,
+  "num_followers": 114298,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAHKg9ymk9xax/KmzOW1gCaTBnlcl",
   "tracks": [
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Amo Voc\u00ea Vol. 13",
-        "url": "https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 263174,
-      "name": "Soube que me Amava (Supe que me Amabas)",
-      "url": "https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7"
-    },
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 280266,
       "name": "Tantos Mares",
       "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 13",
+        "url": "https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 263174,
+      "name": "Soube que me Amava (Supe que me Amabas)",
+      "url": "https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Cabelo solto - Playback",
+        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 236251,
+      "name": "Escolhi Te Esperar",
+      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "Cantando o Amor Vol. 2",
         "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 232710,
       "name": "Isso \u00e9 Amor",
       "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Cabelo solto - Playback",
-        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 236251,
-      "name": "Escolhi Te Esperar",
-      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "\u00c0 Moda Antiga",
-        "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
-      },
-      "artists": [
-        {
-          "name": "Lu Alone",
-          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
-        }
-      ],
-      "duration_ms": 182081,
-      "name": "\u00c0 Moda Antiga",
-      "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Cantando o Amor Vol. 2",
         "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 257695,
       "name": "Eu te Amo",
       "url": "https://open.spotify.com/track/3r9MGWtEhYs21v7HGpDa2X"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "\u00c0 Moda Antiga",
+        "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
+      },
+      "artists": [
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        }
+      ],
+      "duration_ms": 182081,
+      "name": "\u00c0 Moda Antiga",
+      "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
+      },
+      "artists": [
+        {
+          "name": "Cassiane e Jairinho",
+          "url": "https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 223886,
+      "name": "Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ"
       },
@@ -547,6 +567,42 @@
       "duration_ms": 225280,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Encontrar Voc\u00ea",
+        "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        },
+        {
+          "name": "Thamiriz",
+          "url": "https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "Encontrar Voc\u00ea",
+      "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -591,62 +647,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
-      },
-      "artists": [
-        {
-          "name": "Cassiane e Jairinho",
-          "url": "https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 223886,
-      "name": "Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Encontrar Voc\u00ea",
-        "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        },
-        {
-          "name": "Thamiriz",
-          "url": "https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "Encontrar Voc\u00ea",
-      "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Presente de Deus",
         "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
       },
@@ -663,42 +663,6 @@
       "duration_ms": 209020,
       "name": "Presente de Deus",
       "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Como da Primeira Vez",
-        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Como da Primeira Vez",
-      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Onde Est\u00e1 Voc\u00ea",
-        "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        },
-        {
-          "name": "Sarah Renata",
-          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
-        }
-      ],
-      "duration_ms": 246444,
-      "name": "Onde Est\u00e1 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -731,6 +695,42 @@
       "duration_ms": 127093,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Onde Est\u00e1 Voc\u00ea",
+        "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        },
+        {
+          "name": "Sarah Renata",
+          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
+        }
+      ],
+      "duration_ms": 246444,
+      "name": "Onde Est\u00e1 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Como da Primeira Vez",
+        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Como da Primeira Vez",
+      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -847,18 +847,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 21",
-        "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
+        "name": "Amar pra Sempre",
+        "url": "https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR"
       },
       "artists": [
         {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        },
+        {
+          "name": "Marla L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
         }
       ],
-      "duration_ms": 303206,
-      "name": "Bem Maior Que o C\u00e9u",
-      "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
+      "duration_ms": 285544,
+      "name": "Amar pra Sempre",
+      "url": "https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -879,22 +883,18 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Amar pra Sempre",
-        "url": "https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR"
+        "name": "Amo Voc\u00ea Vol. 21",
+        "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
       },
       "artists": [
         {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
-        },
-        {
-          "name": "Marla L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 285544,
-      "name": "Amar pra Sempre",
-      "url": "https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr"
+      "duration_ms": 303206,
+      "name": "Bem Maior Que o C\u00e9u",
+      "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
     },
     {
       "added_at": "2024-07-11 15:58:05",

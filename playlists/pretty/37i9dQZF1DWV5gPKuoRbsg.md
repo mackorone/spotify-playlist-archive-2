@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5gPKuoRbsg.md) - [plain](/playlists/plain/37i9dQZF1DWV5gPKuoRbsg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV5gPKuoRbsg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5gPKuoRbsg.md) - [plain](/playlists/plain/37i9dQZF1DWV5gPKuoRbsg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWV5gPKuoRbsg)
 
 ### [Ook op scherm te zien](https://open.spotify.com/playlist/37i9dQZF1DWV5gPKuoRbsg)
 
@@ -9,4 +9,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5gPKuoRbsg.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAALBpEhu375q+vR0eGH+UNPmiX+H9`
+Snapshot ID: `AAAAAAuTGMt3iOxf8UYpAsmwu53raVlu`

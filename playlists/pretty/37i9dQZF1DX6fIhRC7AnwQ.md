@@ -1,17 +1,17 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fIhRC7AnwQ.md) - [plain](/playlists/plain/37i9dQZF1DX6fIhRC7AnwQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6fIhRC7AnwQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fIhRC7AnwQ.md) - [plain](/playlists/plain/37i9dQZF1DX6fIhRC7AnwQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6fIhRC7AnwQ)
 
 ### [Berceuses classiques](https://open.spotify.com/playlist/37i9dQZF1DX6fIhRC7AnwQ)
 
 > Des mélodies classiques pour l'heure du coucher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,692 likes - 24 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,697 likes - 24 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lyric Pieces, Book 5, Op\. 54: Nocturne](https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 3:40 |
 | 2 | [Bluebird](https://open.spotify.com/track/6iL0pob2CNH1KNXPsSl9Fo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Relaxing Classical](https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12) | 3:24 |
 | 3 | [Limu, limu, lima \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:35 |
-| 4 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Lark Ascending collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 |
+| 4 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y) | [The Lark Ascending Collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 |
 | 5 | [Concerto for Flute & Harp in C Major, K\. 299: II\. Andantino \(Excerpt\)](https://open.spotify.com/track/2ZCA3dyPbrge1go7iaMOYY) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Jiří Válek](https://open.spotify.com/artist/3fy2bA62oqu2OxyTUsJgAn), [Hana Mullerova](https://open.spotify.com/artist/10BZZcy4jus4jMxUknYq9p), [Capella Istropolitana](https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt), [Richard Edlinger](https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo) | [Mozart: Concerto for Flute and Harp / Sinfonia Concertante](https://open.spotify.com/album/25b8gPx1h09gdWRD3Rvw8r) | 7:32 |
 | 6 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/3HdroV7pBo0FqjHUY45ELn) | [Kidharmonic](https://open.spotify.com/artist/12djte5IbfjBHFjtVGAvfX) | [Classical Nursery Rhyme Time, Vol\. 1](https://open.spotify.com/album/3Tp8cXybXl8CHCUPh4OolM) | 1:18 |
 | 7 | [Debussy : Suite bergamasque : III Clair de lune](https://open.spotify.com/track/5VXqnaVDKEFazcDt57pcVY) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [James Rhodes](https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh) | [Bullets & Lullabies](https://open.spotify.com/album/0vjjWk3CsuOIx3Na9pSrm2) | 5:57 |

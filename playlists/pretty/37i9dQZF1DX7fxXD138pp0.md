@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain](/playlists/plain/37i9dQZF1DX7fxXD138pp0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7fxXD138pp0)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain](/playlists/plain/37i9dQZF1DX7fxXD138pp0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7fxXD138pp0)
 
 ### [K\-Pop & Corridos x La Invasora ](https://open.spotify.com/playlist/37i9dQZF1DX7fxXD138pp0)
 
 > Sombrero 🤠? listo ✅ Lightstick? lista ✅ la nueva cultura de Música Mexicana x kpop está aquí 🔥🎧 x La Invasora
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,329 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,275 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

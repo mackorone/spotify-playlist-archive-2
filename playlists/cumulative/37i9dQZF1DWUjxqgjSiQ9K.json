@@ -3307,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "AL100X",
+        "url": "https://open.spotify.com/album/1PNSV5D0NlVgPyEqMNawzv"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "contigo todo lo encontr\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/6vkFVzjjVdNMQdSa35iUbx"
+    },
+    {
+      "album": {
         "name": "Contracorriente",
         "url": "https://open.spotify.com/album/24w1NsYr1HPGiSLzccvV2A"
       },
@@ -6568,7 +6586,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210000,
       "name": "Esposa M\u00eda",
       "url": "https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8"
@@ -12604,7 +12622,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154000,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/5ZhB4LviWniu3h7uUvvm6A"
@@ -14122,6 +14140,24 @@
       "duration_ms": 722432,
       "name": "Salmos 19",
       "url": "https://open.spotify.com/track/0JA0HLp5UQyD5D7ZshOd6c"
+    },
+    {
+      "album": {
+        "name": "SALVAVIDAS",
+        "url": "https://open.spotify.com/album/6ic5oiKI6zGuXGz1ZKsO7O"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177191,
+      "name": "SALVAVIDAS",
+      "url": "https://open.spotify.com/track/33SW3qjHKgyIYU7QJ8wRUR"
     },
     {
       "album": {

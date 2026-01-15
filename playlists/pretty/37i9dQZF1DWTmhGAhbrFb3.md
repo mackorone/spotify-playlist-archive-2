@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain](/playlists/plain/37i9dQZF1DWTmhGAhbrFb3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTmhGAhbrFb3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain](/playlists/plain/37i9dQZF1DWTmhGAhbrFb3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTmhGAhbrFb3)
 
 ### [Bajo Las Estrellas](https://open.spotify.com/playlist/37i9dQZF1DWTmhGAhbrFb3)
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,246 likes - 218 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,569 likes - 218 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

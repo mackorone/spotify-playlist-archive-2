@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4WSL1lc9u02zxatXjk17yi.md) - cumulative - [plain](/playlists/plain/4WSL1lc9u02zxatXjk17yi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4WSL1lc9u02zxatXjk17yi)
+[pretty](/playlists/pretty/4WSL1lc9u02zxatXjk17yi.md) - cumulative - [plain](/playlists/plain/4WSL1lc9u02zxatXjk17yi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4WSL1lc9u02zxatXjk17yi)
 
 ### [KARENTセレクション Rainy Songs](https://open.spotify.com/playlist/4WSL1lc9u02zxatXjk17yi)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6NYc6NOT7sQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6NYc6NOT7sQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6NYc6NOT7sQ)
+[pretty](/playlists/pretty/37i9dQZF1DX6NYc6NOT7sQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6NYc6NOT7sQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6NYc6NOT7sQ)
 
 ### [Oceanvs Orientalis' track IDs](https://open.spotify.com/playlist/37i9dQZF1DX6NYc6NOT7sQ)
 

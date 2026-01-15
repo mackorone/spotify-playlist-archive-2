@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW06b4n9Ho9J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW06b4n9Ho9J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW06b4n9Ho9J)
+[pretty](/playlists/pretty/37i9dQZF1DWW06b4n9Ho9J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW06b4n9Ho9J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW06b4n9Ho9J)
 
 ### [Best of Indie 2021](https://open.spotify.com/playlist/37i9dQZF1DWW06b4n9Ho9J)
 

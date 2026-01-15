@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Teddy Swims",
-  "num_followers": 231185,
+  "num_followers": 232165,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvhoEiuYeqHBcT7wrjvrMDqsMWU",
+  "snapshot_id": "AAAAAKRp4oKYHK0pEBfv8yOOCFOdzMPj",
   "tracks": [
     {
       "added_at": "2025-06-08 20:02:07",
@@ -253,6 +253,22 @@
       "url": "https://open.spotify.com/track/0ci8M8VddctT9sehCbxn4R"
     },
     {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "4ever (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/0xZoegWWQn3E0FT2yn10yo"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "duration_ms": 203602,
+      "name": "4ever - triple j Like A Version",
+      "url": "https://open.spotify.com/track/14lz4KBqBTg3BRzk1atbxC"
+    },
+    {
       "added_at": "2025-07-11 04:00:06",
       "album": {
         "name": "Spotify Singles",
@@ -495,22 +511,6 @@
       "duration_ms": 168421,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC"
-    },
-    {
-      "added_at": "2025-06-08 20:02:07",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/5n55TYeWtckwrfOc8jUyjN"
-      },
-      "artists": [
-        {
-          "name": "Rachel Lorin",
-          "url": "https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2"
-        }
-      ],
-      "duration_ms": 181058,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/1SoQtOBmEaGLFmzr8e0DCf"
     },
     {
       "added_at": "2025-06-08 20:02:07",

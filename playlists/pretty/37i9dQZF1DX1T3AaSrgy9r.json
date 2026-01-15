@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 161708,
+  "num_followers": 162270,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Flat Beat",
-        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Flat Beat",
-      "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Vegas",
         "url": "https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 445000,
       "name": "Busy Child",
       "url": "https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Flat Beat",
+        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Flat Beat",
+      "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "In Sides",
-        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 359586,
-      "name": "The Box - Part 2",
-      "url": "https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 367493,
       "name": "Original Bedroom Rockers",
       "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "In Sides",
+        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 359586,
+      "name": "The Box - Part 2",
+      "url": "https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Kid A",
-        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
+        "name": "Music for the Jilted Generation",
+        "url": "https://open.spotify.com/album/3HpFr2EeE38hr706Rxtmjy"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
         }
       ],
-      "duration_ms": 309093,
-      "name": "Idioteque",
-      "url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE"
+      "duration_ms": 387066,
+      "name": "Voodoo People",
+      "url": "https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1175,34 +1175,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Music for the Jilted Generation",
-        "url": "https://open.spotify.com/album/3HpFr2EeE38hr706Rxtmjy"
+        "name": "Kid A",
+        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
       },
       "artists": [
         {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 387066,
-      "name": "Voodoo People",
-      "url": "https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "Red Alert (Jaxx Radio Mix)",
-      "url": "https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az"
+      "duration_ms": 309093,
+      "name": "Idioteque",
+      "url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1223,18 +1207,34 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
         }
       ],
-      "duration_ms": 151520,
-      "name": "Roygbiv",
-      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
+      "duration_ms": 218026,
+      "name": "Red Alert (Jaxx Radio Mix)",
+      "url": "https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 368400,
+      "name": "Windowlicker",
+      "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1259,66 +1259,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "The Fat of the Land",
-        "url": "https://open.spotify.com/album/0cThoJ3Tz1XFYyHjUyEiw6"
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
       "artists": [
         {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 342733,
-      "name": "Smack My Bitch Up",
-      "url": "https://open.spotify.com/track/1TXBYUD9hRWkuVb3uLw5Yx"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Windowlicker",
-        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 368400,
-      "name": "Windowlicker",
-      "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "90 Discomania",
-        "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
-      },
-      "artists": [
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 453880,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Bodyrock",
-      "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
+      "duration_ms": 151520,
+      "name": "Roygbiv",
+      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1339,6 +1291,38 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Bodyrock",
+      "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "The Fat of the Land",
+        "url": "https://open.spotify.com/album/0cThoJ3Tz1XFYyHjUyEiw6"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 342733,
+      "name": "Smack My Bitch Up",
+      "url": "https://open.spotify.com/track/1TXBYUD9hRWkuVb3uLw5Yx"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "90 Discomania",
+        "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
+      },
+      "artists": [
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 453880,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "New Forms",
-        "url": "https://open.spotify.com/album/0RFE2IiZa7OCGrEZngGlGJ"
-      },
-      "artists": [
-        {
-          "name": "Roni Size",
-          "url": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
-        }
-      ],
-      "duration_ms": 542933,
-      "name": "Brown Paper Bag",
-      "url": "https://open.spotify.com/track/4i3JEpLw2pC4xfiTF30hUG"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 117240,
       "name": "Organ Donor",
       "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "New Forms",
+        "url": "https://open.spotify.com/album/0RFE2IiZa7OCGrEZngGlGJ"
+      },
+      "artists": [
+        {
+          "name": "Roni Size",
+          "url": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
+        }
+      ],
+      "duration_ms": 542933,
+      "name": "Brown Paper Bag",
+      "url": "https://open.spotify.com/track/4i3JEpLw2pC4xfiTF30hUG"
     },
     {
       "added_at": "2021-07-14 17:36:34",

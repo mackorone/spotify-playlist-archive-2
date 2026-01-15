@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXj0W55phbFm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXj0W55phbFm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXj0W55phbFm)
+[pretty](/playlists/pretty/37i9dQZF1DWXj0W55phbFm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXj0W55phbFm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXj0W55phbFm)
 
 ### [Jazz Trumpet](https://open.spotify.com/playlist/37i9dQZF1DWXj0W55phbFm)
 

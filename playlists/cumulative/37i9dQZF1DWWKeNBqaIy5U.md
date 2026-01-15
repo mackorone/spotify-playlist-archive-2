@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWKeNBqaIy5U.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWKeNBqaIy5U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWKeNBqaIy5U)
+[pretty](/playlists/pretty/37i9dQZF1DWWKeNBqaIy5U.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWKeNBqaIy5U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWKeNBqaIy5U)
 
 ### [Dinner Jazz](https://open.spotify.com/playlist/37i9dQZF1DWWKeNBqaIy5U)
 
 > The gentle sound of some of the greatest voices and instrumentalists in Jazz\. Your Jazz dinner soundtrack.
 
-129 songs - 8 hr 33 min
+130 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Foggy Day](https://open.spotify.com/track/31sgA9RhIPIKf0QAhjnHbi) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The George Gershwin Song Book](https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a) | 2:54 | 2025-02-04 |  |
 | [A Lonely Room](https://open.spotify.com/track/5ISolGrawI8flAsU6KftfC) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [A Lonely Room](https://open.spotify.com/album/7mUS2pWrG0NSt9ln7mFOAu) | 3:44 | 2025-02-04 |  |
 | [A Window to Your Soul](https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 3:40 | 2025-02-04 |  |
+| [After Dark](https://open.spotify.com/track/3C7iZbonpl8guBGDOaZw5V) | [Benjamin Harrison](https://open.spotify.com/artist/6twcQ04NrYtCVmngnEE76l) | [Onward](https://open.spotify.com/album/2OVitFXJkPbXLZqRb75OuF) | 3:54 | 2025-02-04 |  |
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2025-02-04 |  |
 | [All Of Me](https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [A Jazz Portrait Of Frank Sinatra](https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM) | 3:22 | 2025-02-04 |  |
 | [All of You \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:00 | 2025-02-04 |  |
@@ -21,7 +22,7 @@
 | [Autumn In New York \- Live](https://open.spotify.com/track/0J2J0CdJOfwAtVBeF8MyEK) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Live At The Village Vanguard](https://open.spotify.com/album/5uDPYrht89D3qNCmR2Slco) | 6:51 | 2025-02-04 |  |
 | [Bathtub Bourbon](https://open.spotify.com/track/6LGK2OFycwxM4ulvpEYNdt) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Bathtub Bourbon](https://open.spotify.com/album/3QPvb7pwKL9PdIqhOpmm1G) | 4:28 | 2025-02-04 | 2025-12-29 |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2025-02-04 |  |
-| [Between The Devil And The Deep Blue Sea](https://open.spotify.com/track/6yiCizwdif8GItlz8XWKBN) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [After Glow](https://open.spotify.com/album/6ip7LJNKry1lGgpfklpxFC) | 2:26 | 2025-02-04 |  |
+| [Between The Devil And The Deep Blue Sea](https://open.spotify.com/track/6yiCizwdif8GItlz8XWKBN) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [After Glow](https://open.spotify.com/album/6ip7LJNKry1lGgpfklpxFC) | 2:26 | 2025-02-04 | 2026-01-15 |
 | [Bewitched](https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 4:26 | 2025-02-04 |  |
 | [Blame It On My Youth](https://open.spotify.com/track/0E6NU9hhK30GHh4afhmM5v) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:10 | 2025-02-04 |  |
 | [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 | 2025-02-04 |  |

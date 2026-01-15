@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain](/playlists/plain/37i9dQZF1DWZmyMvDnABPu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZmyMvDnABPu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain](/playlists/plain/37i9dQZF1DWZmyMvDnABPu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZmyMvDnABPu)
 
 ### [Nevertheless, \(알고있지만,\)](https://open.spotify.com/playlist/37i9dQZF1DWZmyMvDnABPu)
 
 > Enjoy the JTBC drama 'Nevertheless,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '알고있지만'의 OST를 작중 대사와 함께 색다르게 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,550 likes - 44 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,558 likes - 44 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

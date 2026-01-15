@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hThfji1Q6J.md) - [plain](/playlists/plain/37i9dQZF1DX9hThfji1Q6J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9hThfji1Q6J)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hThfji1Q6J.md) - [plain](/playlists/plain/37i9dQZF1DX9hThfji1Q6J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9hThfji1Q6J)
 
 ### [Global Hits From Japan 2025 \-国境を超える日本の音楽\-](https://open.spotify.com/playlist/37i9dQZF1DX9hThfji1Q6J)
 
 > 2025年に海外で聴かれた日本の楽曲を総まとめ。Check out the top 50 tracks from Japanese artists, streamed globally in 2025! cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,333 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,360 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

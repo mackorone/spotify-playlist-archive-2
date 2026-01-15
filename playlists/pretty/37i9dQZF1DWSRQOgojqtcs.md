@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain](/playlists/plain/37i9dQZF1DWSRQOgojqtcs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSRQOgojqtcs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain](/playlists/plain/37i9dQZF1DWSRQOgojqtcs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSRQOgojqtcs)
 
 ### [Heartbreak High: Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWSRQOgojqtcs)
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,221 likes - 225 songs - 14 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,250 likes - 225 songs - 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

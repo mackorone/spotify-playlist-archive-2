@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZm3R48QXZjZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZm3R48QXZjZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZm3R48QXZjZ)
+[pretty](/playlists/pretty/37i9dQZF1DWZm3R48QXZjZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZm3R48QXZjZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZm3R48QXZjZ)
 
 ### [Ambient X Takeover: Rival Consoles](https://open.spotify.com/playlist/37i9dQZF1DWZm3R48QXZjZ)
 

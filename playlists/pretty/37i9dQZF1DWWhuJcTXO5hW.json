@@ -1,6 +1,6 @@
 {
   "description": "The most chill instrumental oud sounds.",
-  "num_followers": 94484,
+  "num_followers": 94513,
   "original_name": "Chill-oud",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,18 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "Ahi",
-        "url": "https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF"
+        "name": "To My Father",
+        "url": "https://open.spotify.com/album/5IQmbdf0EFqGyuwpV6J85n"
       },
       "artists": [
         {
-          "name": "Taksim Trio",
-          "url": "https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2"
+          "name": "Omar Bashir",
+          "url": "https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH"
         }
       ],
-      "duration_ms": 378503,
-      "name": "Lotus Feet",
-      "url": "https://open.spotify.com/track/5nrENJiiZa2H3MwhT2Yggs"
+      "duration_ms": 250400,
+      "name": "Makam Ajam / Tala'a Mint Beit Abouha - Takassim",
+      "url": "https://open.spotify.com/track/1ahxUKddfqp0ZRTySX4vwZ"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -391,18 +391,18 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "To My Father",
-        "url": "https://open.spotify.com/album/5IQmbdf0EFqGyuwpV6J85n"
+        "name": "Ahi",
+        "url": "https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF"
       },
       "artists": [
         {
-          "name": "Omar Bashir",
-          "url": "https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH"
+          "name": "Taksim Trio",
+          "url": "https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2"
         }
       ],
-      "duration_ms": 250400,
-      "name": "Makam Ajam / Tala'a Mint Beit Abouha - Takassim",
-      "url": "https://open.spotify.com/track/1ahxUKddfqp0ZRTySX4vwZ"
+      "duration_ms": 378503,
+      "name": "Lotus Feet",
+      "url": "https://open.spotify.com/track/5nrENJiiZa2H3MwhT2Yggs"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -447,38 +447,6 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "Reve",
-        "url": "https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Rouane",
-          "url": "https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde"
-        }
-      ],
-      "duration_ms": 297726,
-      "name": "Evasion",
-      "url": "https://open.spotify.com/track/7Cl0zb7UjCTyfM3Ake3PHF"
-    },
-    {
-      "added_at": "2025-10-13 06:31:27",
-      "album": {
-        "name": "Music of Spanish Streets and New Flamenco Gypsy Guitar (For Best Romantic Ambience, Lounge, Dining, Spa, Party)",
-        "url": "https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv"
-      },
-      "artists": [
-        {
-          "name": "Andrei Krylov",
-          "url": "https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv"
-        }
-      ],
-      "duration_ms": 251068,
-      "name": "Alhambra Arabic Moorish Princess Song for Flamenco Guitar",
-      "url": "https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu"
-    },
-    {
-      "added_at": "2025-10-13 06:31:27",
-      "album": {
         "name": "Charbel Rouhana: the Art of the Middle Eastern Oud - New Perspectives On Trad. Maqams",
         "url": "https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6"
       },
@@ -515,6 +483,54 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
+        "name": "Music of Spanish Streets and New Flamenco Gypsy Guitar (For Best Romantic Ambience, Lounge, Dining, Spa, Party)",
+        "url": "https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv"
+      },
+      "artists": [
+        {
+          "name": "Andrei Krylov",
+          "url": "https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv"
+        }
+      ],
+      "duration_ms": 251068,
+      "name": "Alhambra Arabic Moorish Princess Song for Flamenco Guitar",
+      "url": "https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu"
+    },
+    {
+      "added_at": "2025-10-13 06:31:27",
+      "album": {
+        "name": "Reve",
+        "url": "https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Rouane",
+          "url": "https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde"
+        }
+      ],
+      "duration_ms": 297726,
+      "name": "Evasion",
+      "url": "https://open.spotify.com/track/7Cl0zb7UjCTyfM3Ake3PHF"
+    },
+    {
+      "added_at": "2025-10-13 06:31:27",
+      "album": {
+        "name": "Souk Okaz",
+        "url": "https://open.spotify.com/album/3af9UPxr1VkRwmp5rPdJcB"
+      },
+      "artists": [
+        {
+          "name": "Jean-Marie Riachi",
+          "url": "https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc"
+        }
+      ],
+      "duration_ms": 349214,
+      "name": "Souk Okaz",
+      "url": "https://open.spotify.com/track/0M9KszKXLp1kjRTB5td9cT"
+    },
+    {
+      "added_at": "2025-10-13 06:31:27",
+      "album": {
         "name": "Taksim Trio",
         "url": "https://open.spotify.com/album/7pDyWGWfciTjfl6z1ewx1P"
       },
@@ -539,38 +555,6 @@
       "duration_ms": 460440,
       "name": "Bi\u00e7are",
       "url": "https://open.spotify.com/track/0p0dR8t4lqyMrXUWw4fJPW"
-    },
-    {
-      "added_at": "2025-10-13 06:31:27",
-      "album": {
-        "name": "Souk Okaz",
-        "url": "https://open.spotify.com/album/3af9UPxr1VkRwmp5rPdJcB"
-      },
-      "artists": [
-        {
-          "name": "Jean-Marie Riachi",
-          "url": "https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc"
-        }
-      ],
-      "duration_ms": 349214,
-      "name": "Souk Okaz",
-      "url": "https://open.spotify.com/track/0M9KszKXLp1kjRTB5td9cT"
-    },
-    {
-      "added_at": "2025-10-13 06:31:27",
-      "album": {
-        "name": "Best of Arabian Lounge",
-        "url": "https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV"
-      },
-      "artists": [
-        {
-          "name": "Abdul Al Kahabir",
-          "url": "https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi"
-        }
-      ],
-      "duration_ms": 234120,
-      "name": "Islands of Peace",
-      "url": "https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -607,50 +591,34 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "The Bluebird, the Mystic and the Fool",
-        "url": "https://open.spotify.com/album/1bQ9D3Vvx6EnKKb4aZ8WfO"
+        "name": "Best of Arabian Lounge",
+        "url": "https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV"
       },
       "artists": [
         {
-          "name": "Joseph Tawadros",
-          "url": "https://open.spotify.com/artist/17wNBDPLkNYdnmAKwiwbih"
+          "name": "Abdul Al Kahabir",
+          "url": "https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi"
         }
       ],
-      "duration_ms": 65630,
-      "name": "Miss A",
-      "url": "https://open.spotify.com/track/1xXLzy2BJD7yJDd6xAat55"
+      "duration_ms": 234120,
+      "name": "Islands of Peace",
+      "url": "https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5"
     },
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "Makan",
-        "url": "https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50"
+        "name": "Oud (The Legend of Arabic Music)",
+        "url": "https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg"
       },
       "artists": [
         {
-          "name": "Driss El Maloumi",
-          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+          "name": "Aarif Jaman",
+          "url": "https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh"
         }
       ],
-      "duration_ms": 139600,
-      "name": "Imtinan",
-      "url": "https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6"
-    },
-    {
-      "added_at": "2025-10-13 06:31:27",
-      "album": {
-        "name": "Concerto Al Andalus",
-        "url": "https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5"
-      },
-      "artists": [
-        {
-          "name": "Marcel Khalife",
-          "url": "https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ"
-        }
-      ],
-      "duration_ms": 59706,
-      "name": "Flamenco",
-      "url": "https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL"
+      "duration_ms": 194586,
+      "name": "Nuo Ather",
+      "url": "https://open.spotify.com/track/3wviuDbyvbG0Vr3sO4IfUs"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -671,18 +639,50 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "Oud (The Legend of Arabic Music)",
-        "url": "https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg"
+        "name": "The Bluebird, the Mystic and the Fool",
+        "url": "https://open.spotify.com/album/1bQ9D3Vvx6EnKKb4aZ8WfO"
       },
       "artists": [
         {
-          "name": "Aarif Jaman",
-          "url": "https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh"
+          "name": "Joseph Tawadros",
+          "url": "https://open.spotify.com/artist/17wNBDPLkNYdnmAKwiwbih"
         }
       ],
-      "duration_ms": 194586,
-      "name": "Nuo Ather",
-      "url": "https://open.spotify.com/track/3wviuDbyvbG0Vr3sO4IfUs"
+      "duration_ms": 65630,
+      "name": "Miss A",
+      "url": "https://open.spotify.com/track/1xXLzy2BJD7yJDd6xAat55"
+    },
+    {
+      "added_at": "2025-10-13 06:31:27",
+      "album": {
+        "name": "Concerto Al Andalus",
+        "url": "https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5"
+      },
+      "artists": [
+        {
+          "name": "Marcel Khalife",
+          "url": "https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ"
+        }
+      ],
+      "duration_ms": 59706,
+      "name": "Flamenco",
+      "url": "https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL"
+    },
+    {
+      "added_at": "2025-10-13 06:31:27",
+      "album": {
+        "name": "Makan",
+        "url": "https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50"
+      },
+      "artists": [
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Imtinan",
+      "url": "https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
+        "name": "Oud (The Legend of Arabic Music)",
+        "url": "https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg"
+      },
+      "artists": [
+        {
+          "name": "Aarif Jaman",
+          "url": "https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "Nugriz",
+      "url": "https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX"
+    },
+    {
+      "added_at": "2025-10-13 06:31:27",
+      "album": {
         "name": "O\u011flan Bizim K\u0131z Bizim",
         "url": "https://open.spotify.com/album/1tr6B3iChauvB5MXpZ316V"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 275493,
       "name": "Sama' Ay Sihr Misr",
       "url": "https://open.spotify.com/track/3iflS35RQOA8uPKQ9TF455"
-    },
-    {
-      "added_at": "2025-10-13 06:31:27",
-      "album": {
-        "name": "Oud (The Legend of Arabic Music)",
-        "url": "https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg"
-      },
-      "artists": [
-        {
-          "name": "Aarif Jaman",
-          "url": "https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh"
-        }
-      ],
-      "duration_ms": 194186,
-      "name": "Nugriz",
-      "url": "https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX"
     },
     {
       "added_at": "2025-10-13 06:31:27",

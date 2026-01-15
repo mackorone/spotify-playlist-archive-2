@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1cAHI20k456593GCBNqzw6.md) - [plain](/playlists/plain/1cAHI20k456593GCBNqzw6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1cAHI20k456593GCBNqzw6)
+pretty - [cumulative](/playlists/cumulative/1cAHI20k456593GCBNqzw6.md) - [plain](/playlists/plain/1cAHI20k456593GCBNqzw6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1cAHI20k456593GCBNqzw6)
 
 ### [Danger Mouse Jukebox](https://open.spotify.com/playlist/1cAHI20k456593GCBNqzw6)
 
 > An eclectic mix of new and old music frequently updated  by Danger Mouse.
 
-[Danger Mouse](https://open.spotify.com/user/dangermouse_official) - 80,930 likes - 50 songs - 3 hr 7 min
+[Danger Mouse](https://open.spotify.com/user/dangermouse_official) - 80,939 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

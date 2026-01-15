@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain](/playlists/plain/37i9dQZF1DX74ozWuOfjjm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX74ozWuOfjjm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain](/playlists/plain/37i9dQZF1DX74ozWuOfjjm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX74ozWuOfjjm)
 
 ### [Best of EQUAL AU & NZ 2025](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
 > Highlights from 2025, listen to women at full volume\. Cover: Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,566 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,560 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 47 | [I Might](https://open.spotify.com/track/386TCoYJzJYogk5VxgyOtJ) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [I Might](https://open.spotify.com/album/5L5k5hOjM2XFWFzN0BH28n) | 2:50 |
 | 48 | [crumb](https://open.spotify.com/track/6nmYawnH6J4IeukwgA6eo9) | [Lucy Sugerman](https://open.spotify.com/artist/5nLGkslzP5G1oqwxhUPj2N) | [crumb](https://open.spotify.com/album/5zixfdEW0ZuIlujkpUOdOn) | 3:54 |
 | 49 | [need u worse](https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [need u worse](https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM) | 3:45 |
-| 50 | [Matisses Garden](https://open.spotify.com/track/0UrGBqyFGWd02fkVLfoJDJ) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Heavenly Hell of Mine](https://open.spotify.com/album/5wSbwauDyRLmuha5YxLuNR) | 2:55 |
+| 50 | [Matisses Garden](https://open.spotify.com/track/0UrGBqyFGWd02fkVLfoJDJ) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Heavenly Hell of Mine](https://open.spotify.com/album/5wSbwauDyRLmuha5YxLuNR) | 2:55 |
 
 Snapshot ID: `AAAAAPCVQj0+IybIaVkX9RQhDuprqfcL`

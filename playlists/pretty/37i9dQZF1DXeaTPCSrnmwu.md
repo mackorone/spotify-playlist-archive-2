@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain](/playlists/plain/37i9dQZF1DXeaTPCSrnmwu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXeaTPCSrnmwu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain](/playlists/plain/37i9dQZF1DXeaTPCSrnmwu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXeaTPCSrnmwu)
 
 ### [Cena con Piano](https://open.spotify.com/playlist/37i9dQZF1DXeaTPCSrnmwu)
 

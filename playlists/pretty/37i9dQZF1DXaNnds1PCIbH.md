@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaNnds1PCIbH.md) - [plain](/playlists/plain/37i9dQZF1DXaNnds1PCIbH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaNnds1PCIbH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaNnds1PCIbH.md) - [plain](/playlists/plain/37i9dQZF1DXaNnds1PCIbH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaNnds1PCIbH)
 
 ### [Jharrel Jerome's Taste](https://open.spotify.com/playlist/37i9dQZF1DXaNnds1PCIbH)
 
 > Sophisticated palates only\. Curated by: Jharrel Jerome
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,003 likes - 76 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,110 likes - 76 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

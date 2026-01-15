@@ -1533,7 +1533,7 @@
     },
     {
       "album": {
-        "name": "The Lark Ascending collection",
+        "name": "The Lark Ascending Collection",
         "url": "https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy"
       },
       "artists": [
@@ -1542,12 +1542,12 @@
           "url": "https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm"
         },
         {
-          "name": "Vernon Handley",
-          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
-        },
-        {
           "name": "London Philharmonic Orchestra",
           "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
         }
       ],
       "date_added": "2021-09-27",
@@ -6334,7 +6334,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 655720,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": II. Andante moderato. Sehr gemaechlich",
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": II. Andante moderato. Sehr gem\u00e4chlich",
       "url": "https://open.spotify.com/track/5dDbXEip19cWfVDZdHABNK"
     },
     {
@@ -8046,7 +8046,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 424653,
-      "name": "Violin Concerto In D Major, Op. 35: III. Finale: Allegro assai vivace",
+      "name": "Violin Concerto in D Major, Op. 35: III. Finale. Allegro assai vivace",
       "url": "https://open.spotify.com/track/7hOLwSaTSkrqxSMzj4bXI1"
     },
     {

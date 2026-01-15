@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZoGbayjhEGv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZoGbayjhEGv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZoGbayjhEGv)
+[pretty](/playlists/pretty/37i9dQZF1DWZoGbayjhEGv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZoGbayjhEGv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZoGbayjhEGv)
 
 ### [FULLMETAL ALCHEMIST](https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv)
 

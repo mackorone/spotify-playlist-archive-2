@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7hx7ugiU2MaeXOjQRVDzdk.md) - [plain](/playlists/plain/7hx7ugiU2MaeXOjQRVDzdk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7hx7ugiU2MaeXOjQRVDzdk)
+pretty - [cumulative](/playlists/cumulative/7hx7ugiU2MaeXOjQRVDzdk.md) - [plain](/playlists/plain/7hx7ugiU2MaeXOjQRVDzdk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7hx7ugiU2MaeXOjQRVDzdk)
 
 ### [Top Picks Country](https://open.spotify.com/playlist/7hx7ugiU2MaeXOjQRVDzdk)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tKzjxaqjVq.md) - [plain](/playlists/plain/37i9dQZF1DX6tKzjxaqjVq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6tKzjxaqjVq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tKzjxaqjVq.md) - [plain](/playlists/plain/37i9dQZF1DX6tKzjxaqjVq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6tKzjxaqjVq)
 
 ### [Shangri\-La Frontier](https://open.spotify.com/playlist/37i9dQZF1DX6tKzjxaqjVq)
 
 > Enjoy music from "Shangri\-La Frontier"!©硬梨菜・不二涼介・講談社／「シャングリラ・フロンティア」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,273 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,358 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

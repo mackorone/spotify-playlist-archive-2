@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3trfBa7jeme9hRFIwOhAMM.md) - cumulative - [plain](/playlists/plain/3trfBa7jeme9hRFIwOhAMM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3trfBa7jeme9hRFIwOhAMM)
+[pretty](/playlists/pretty/3trfBa7jeme9hRFIwOhAMM.md) - cumulative - [plain](/playlists/plain/3trfBa7jeme9hRFIwOhAMM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3trfBa7jeme9hRFIwOhAMM)
 
 ### [ALL THINGS HOUSE \- CURBI PRESENTS](https://open.spotify.com/playlist/3trfBa7jeme9hRFIwOhAMM)
 

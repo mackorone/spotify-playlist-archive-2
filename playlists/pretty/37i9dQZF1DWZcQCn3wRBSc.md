@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZcQCn3wRBSc.md) - [plain](/playlists/plain/37i9dQZF1DWZcQCn3wRBSc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZcQCn3wRBSc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZcQCn3wRBSc.md) - [plain](/playlists/plain/37i9dQZF1DWZcQCn3wRBSc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZcQCn3wRBSc)
 
 ### [pov: ur slow dancing with your love at midnight](https://open.spotify.com/playlist/37i9dQZF1DWZcQCn3wRBSc)
 

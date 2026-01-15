@@ -3059,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "DRAMA",
+        "url": "https://open.spotify.com/album/6zGhSRE7Ho7GIC5RZ7ptSg"
+      },
+      "artists": [
+        {
+          "name": "Chuk Funes",
+          "url": "https://open.spotify.com/artist/6M6p60eIsNREInx8sW6x7p"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211625,
+      "name": "CAMPO",
+      "url": "https://open.spotify.com/track/4NsEh2v20JSXCAXhpv6qVi"
+    },
+    {
+      "album": {
         "name": "SUPERSTICIONES",
         "url": "https://open.spotify.com/album/52lk6YflfGkqPcZXt7wE5L"
       },
@@ -6358,6 +6376,24 @@
       "duration_ms": 166408,
       "name": "El Regalo (feat. Natalie Perez)",
       "url": "https://open.spotify.com/track/4S6xZnnSy1gdUI2sOKW6LH"
+    },
+    {
+      "album": {
+        "name": "El Reset",
+        "url": "https://open.spotify.com/album/65jNeInEXiLJ7BaRYhKh02"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213757,
+      "name": "El Reset",
+      "url": "https://open.spotify.com/track/4AaujLafjGv797wVJJiVPg"
     },
     {
       "album": {
@@ -12958,7 +12994,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203470,
       "name": "No Me Digas Que No",
       "url": "https://open.spotify.com/track/3DINASfl27t6yqfTwQEJtD"
@@ -17960,7 +17996,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226082,
       "name": "TOCO Y ME VOY",
       "url": "https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV"

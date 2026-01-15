@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain](/playlists/plain/37i9dQZF1DX35T8tss1Gxt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35T8tss1Gxt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain](/playlists/plain/37i9dQZF1DX35T8tss1Gxt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX35T8tss1Gxt)
 
 ### [Rhythm & Praise](https://open.spotify.com/playlist/37i9dQZF1DX35T8tss1Gxt)
 
 > Where faith meets R&B\. Cover: Jon Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,862 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,268 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

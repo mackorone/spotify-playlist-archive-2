@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4WDwW7forWdQWutkAEVZMR.md) - cumulative - [plain](/playlists/plain/4WDwW7forWdQWutkAEVZMR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4WDwW7forWdQWutkAEVZMR)
+[pretty](/playlists/pretty/4WDwW7forWdQWutkAEVZMR.md) - cumulative - [plain](/playlists/plain/4WDwW7forWdQWutkAEVZMR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4WDwW7forWdQWutkAEVZMR)
 
 ### [Columbia Records: Weekly Mix](https://open.spotify.com/playlist/4WDwW7forWdQWutkAEVZMR)
 

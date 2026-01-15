@@ -1,6 +1,6 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 544603,
+  "num_followers": 544726,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Rock Billy Boogie",
-        "url": "https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt"
-      },
-      "artists": [
-        {
-          "name": "Robert Gordon",
-          "url": "https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Rock Billy Boogie",
-      "url": "https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
         "name": "Midnight Dynamos",
         "url": "https://open.spotify.com/album/31dfhTOccGyCwz2oRTSMfy"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 186413,
       "name": "Midnight Dynamos",
       "url": "https://open.spotify.com/track/0AX3dBr7hRTDjy1O2s4N6u"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "Rock Billy Boogie",
+        "url": "https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt"
+      },
+      "artists": [
+        {
+          "name": "Robert Gordon",
+          "url": "https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Rock Billy Boogie",
+      "url": "https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
+        "name": "Blue Jean Bop",
+        "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Bluejean Bop",
+      "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
         "name": "Glen Rocks",
         "url": "https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 162493,
       "name": "Everybody's Movin'",
       "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 133009,
-      "name": "Everybody's Trying to Be My Baby",
-      "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -411,18 +411,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Blue Jean Bop",
-        "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
       "artists": [
         {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 142560,
-      "name": "Bluejean Bop",
-      "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
+      "duration_ms": 133009,
+      "name": "Everybody's Trying to Be My Baby",
+      "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -459,18 +459,22 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Hot Rod Roadeo",
-        "url": "https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k"
+        "name": "Ooby Dooby / Go Go Go",
+        "url": "https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY"
       },
       "artists": [
         {
-          "name": "The Go Getters",
-          "url": "https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq"
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        },
+        {
+          "name": "The Teen Kings",
+          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
         }
       ],
-      "duration_ms": 188480,
-      "name": "Welcome to My Hell",
-      "url": "https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D"
+      "duration_ms": 126500,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -495,22 +499,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Ooby Dooby / Go Go Go",
-        "url": "https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY"
+        "name": "Hot Rod Roadeo",
+        "url": "https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k"
       },
       "artists": [
         {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        },
-        {
-          "name": "The Teen Kings",
-          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
+          "name": "The Go Getters",
+          "url": "https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq"
         }
       ],
-      "duration_ms": 126500,
-      "name": "Go Go Go",
-      "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
+      "duration_ms": 188480,
+      "name": "Welcome to My Hell",
+      "url": "https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -547,18 +547,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Straight from the Heart",
-        "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
       "artists": [
         {
-          "name": "John Lindberg Trio",
-          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 138615,
-      "name": "You Belong to Me",
-      "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"
+      "duration_ms": 138840,
+      "name": "Hello Mary Lou",
+      "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -579,34 +579,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
+        "name": "Straight from the Heart",
+        "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "John Lindberg Trio",
+          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
         }
       ],
-      "duration_ms": 138840,
-      "name": "Hello Mary Lou",
-      "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
-        "name": "Musta Notta Gotta Lotta",
-        "url": "https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Ely",
-          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Musta Notta Gotta Lotta",
-      "url": "https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj"
+      "duration_ms": 138615,
+      "name": "You Belong to Me",
+      "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -623,6 +607,22 @@
       "duration_ms": 127346,
       "name": "Let's Have A Party",
       "url": "https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "Musta Notta Gotta Lotta",
+        "url": "https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg"
+      },
+      "artists": [
+        {
+          "name": "Joe Ely",
+          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Musta Notta Gotta Lotta",
+      "url": "https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -655,6 +655,22 @@
       "duration_ms": 218352,
       "name": "Keep On Loving Me Baby - The original live recordings",
       "url": "https://open.spotify.com/track/6sQjLATFOYyHE61ZW0xBkE"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jaye",
+          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "Redneck Rock",
+      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -703,22 +719,6 @@
       "duration_ms": 231586,
       "name": "Rich Little Bitch",
       "url": "https://open.spotify.com/track/12680M4NXeEB27oywHfCxg"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
-      },
-      "artists": [
-        {
-          "name": "Jerry Jaye",
-          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "Redneck Rock",
-      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E"
+        "name": "Rockabilly Portrait",
+        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
       "artists": [
         {
-          "name": "Fatboy",
-          "url": "https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 166040,
-      "name": "Bad News From Pretty Red Lips",
-      "url": "https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd"
+      "duration_ms": 109500,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -831,34 +831,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Our Brand",
-        "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E"
       },
       "artists": [
         {
-          "name": "Hillbilly Hellcats",
-          "url": "https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB"
+          "name": "Fatboy",
+          "url": "https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT"
         }
       ],
-      "duration_ms": 149293,
-      "name": "Rockabilly Rebel",
-      "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
-        "name": "Rockabilly Portrait",
-        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 109500,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
+      "duration_ms": 166040,
+      "name": "Bad News From Pretty Red Lips",
+      "url": "https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -879,6 +863,22 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
+        "name": "Our Brand",
+        "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
+      },
+      "artists": [
+        {
+          "name": "Hillbilly Hellcats",
+          "url": "https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "Rockabilly Rebel",
+      "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
         "name": "Rockabilly Cats",
         "url": "https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "The Best Of The EMI Years",
-        "url": "https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90"
+        "name": "The Blasters",
+        "url": "https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B"
       },
       "artists": [
         {
-          "name": "Dave Edmunds",
-          "url": "https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA"
+          "name": "The Blasters",
+          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
         }
       ],
-      "duration_ms": 189320,
-      "name": "King Of Love",
-      "url": "https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN"
+      "duration_ms": 127626,
+      "name": "American Music",
+      "url": "https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "The Blasters",
-        "url": "https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B"
+        "name": "The Best Of The EMI Years",
+        "url": "https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90"
       },
       "artists": [
         {
-          "name": "The Blasters",
-          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
+          "name": "Dave Edmunds",
+          "url": "https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA"
         }
       ],
-      "duration_ms": 127626,
-      "name": "American Music",
-      "url": "https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g"
+      "duration_ms": 189320,
+      "name": "King Of Love",
+      "url": "https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN"
     },
     {
       "added_at": "2025-10-24 14:43:53",

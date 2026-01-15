@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain](/playlists/plain/37i9dQZF1DXc3KPAjGyPdm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc3KPAjGyPdm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain](/playlists/plain/37i9dQZF1DXc3KPAjGyPdm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc3KPAjGyPdm)
 
 ### [Stranger Things Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXc3KPAjGyPdm)
 
 > Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,103,003 likes - 179 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,223,196 likes - 179 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 56 | [Diamonds and Emeralds](https://open.spotify.com/track/6bCfV7wKPLwm5tUyPaqw3M) | [The Interior Castle](https://open.spotify.com/artist/6LT5GjsH2RxSnLNPW1Bq1N) | [Diamonds and Emeralds](https://open.spotify.com/album/49D3DbM8VSb3XX9jjnbBrS) | 2:53 |
 | 57 | [Burning Up](https://open.spotify.com/track/0kbzNl8QIYZ6aoZ7zcpNCY) | [Donnell Pitman](https://open.spotify.com/artist/4i5Og2hJZsM7zDX4Msj8Zk) | ["Burning Up" b/w "A Taste of Honey"](https://open.spotify.com/album/0ajbhthTqbrjGkV7mvY6JN) | 4:21 |
 | 58 | [Legless](https://open.spotify.com/track/247LKaqtrDMN4KYjScITJm) | [Hipbone Slim](https://open.spotify.com/artist/0kkbkFZL2gP8zgX3LNIzyS) | [Hipbone Slim vs Sir Bald](https://open.spotify.com/album/3RdAuX68zYJmDWojdkkCMR) | 2:02 |
-| 59 | [Violin Concerto In D Major, Op\. 35: III\. Finale: Allegro assai vivace](https://open.spotify.com/track/7hOLwSaTSkrqxSMzj4bXI1) | [Erich Wolfgang Korngold](https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb), [Anne\-Sophie Mutter](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Tchaikovsky / Korngold: Violin Concertos](https://open.spotify.com/album/7ElG4lGHDAAgYjvzL9gxFL) | 7:04 |
+| 59 | [Violin Concerto in D Major, Op\. 35: III\. Finale\. Allegro assai vivace](https://open.spotify.com/track/7hOLwSaTSkrqxSMzj4bXI1) | [Erich Wolfgang Korngold](https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb), [Anne\-Sophie Mutter](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Tchaikovsky / Korngold: Violin Concertos](https://open.spotify.com/album/7ElG4lGHDAAgYjvzL9gxFL) | 7:04 |
 | 60 | [The Snow Maiden, Op\. 12: II\. Dance And Chorus Of Birds](https://open.spotify.com/track/0uVsdyIZylmtsSojRtEQaM) | [Moscow Symphony Orchestra](https://open.spotify.com/artist/0udLXDzunp4xQRWhMNQPci), [Moscow Capella](https://open.spotify.com/artist/2VND1nZaMhBd4wmmVfu6Mt), [Elena Okolysheva](https://open.spotify.com/artist/4X3ShM5cZAp6Z9bZCnVz8i), [Arkady Mishenkin](https://open.spotify.com/artist/2Y8n1REgBYq8UtrLxXVUR9), [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) | [Tchaikovsky: The Snow Maiden](https://open.spotify.com/album/31kmoS7Ju3ONDFnEBmA0b0) | 7:03 |
 | 61 | [Travelin' Man \- Remastered](https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:23 |
 | 62 | [Cutthroat](https://open.spotify.com/track/4YqW45YDDHXuCYY0ygGR79) | [S U R V I V E](https://open.spotify.com/artist/12cKwxUl6Ku3VpSB3LjrM5) | [RR7349](https://open.spotify.com/album/5ZfCxFwJOctlZ9Pgk4wtPX) | 4:02 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 178 | [Hawkins](https://open.spotify.com/track/5MtCEB1r6jzRIu5KZHOrNA) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 5:00 |
 | 179 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `AAAAAN5UgjK+h80O8+Bk+w/zdZGOCs0a`
+Snapshot ID: `AAAAAPoXbvmkNKGMCuKpfwXNv++wRu+4`

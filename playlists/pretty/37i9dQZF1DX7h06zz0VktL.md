@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain](/playlists/plain/37i9dQZF1DX7h06zz0VktL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7h06zz0VktL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain](/playlists/plain/37i9dQZF1DX7h06zz0VktL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7h06zz0VktL)
 
 ### [This Is SUPER JUNIOR](https://open.spotify.com/playlist/37i9dQZF1DX7h06zz0VktL)
 

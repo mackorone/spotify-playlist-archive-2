@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX13kFuGnInkY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX13kFuGnInkY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX13kFuGnInkY)
+[pretty](/playlists/pretty/37i9dQZF1DX13kFuGnInkY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX13kFuGnInkY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX13kFuGnInkY)
 
 ### [ACM Awards 2025](https://open.spotify.com/playlist/37i9dQZF1DX13kFuGnInkY)
 

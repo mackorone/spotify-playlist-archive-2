@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HNmsqZ1nyc.md) - [plain](/playlists/plain/37i9dQZF1DX6HNmsqZ1nyc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6HNmsqZ1nyc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HNmsqZ1nyc.md) - [plain](/playlists/plain/37i9dQZF1DX6HNmsqZ1nyc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6HNmsqZ1nyc)
 
 ### [Stray Kids 4TH FANMEETING 'SKZ'S MAGIC SCHOOL'](https://open.spotify.com/playlist/37i9dQZF1DX6HNmsqZ1nyc)
 

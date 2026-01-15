@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUb0uBnlJuTi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUb0uBnlJuTi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUb0uBnlJuTi)
+[pretty](/playlists/pretty/37i9dQZF1DWUb0uBnlJuTi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUb0uBnlJuTi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUb0uBnlJuTi)
 
 ### [Jazz\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWUb0uBnlJuTi)
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-448 songs - 1 day 9 hr 58 min
+449 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Sassy](https://open.spotify.com/track/6Fxil4EHqnMgQPGElnuYzb) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Sassy](https://open.spotify.com/album/56ai2OAbYKk4sigSaWJhn3) | 4:18 | 2021-06-04 | 2022-09-26 |
 | [Saturday Morning](https://open.spotify.com/track/72KvdSoiLLrbTmeuh8wNsw) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [David D.R\. Robbins](https://open.spotify.com/artist/6djNiYf7SqY2NMGCG7zTyc) | [Saturday Morning](https://open.spotify.com/album/74ICzRbSJUOgMZ773OrEud) | 2:29 | 2022-04-29 | 2023-07-01 |
 | [Saturday Night Special](https://open.spotify.com/track/6Fvh7mH7jFE4PuXQlQeRt9) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Saturday Night Special](https://open.spotify.com/album/4bOytFLAaL2AH2nZ0lQvST) | 6:12 | 2022-03-11 |  |
+| [Saturday Spin](https://open.spotify.com/track/25IsRCpUTWaCkjrmIY8sBF) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Saturday Spin](https://open.spotify.com/album/6QRxprqYsThnDDV4ClgMTR) | 4:05 | 2026-01-09 |  |
 | [Serge & Jane](https://open.spotify.com/track/4nTY0HQqETGI8OUuj1VeYy) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6) | [Serge & Jane](https://open.spotify.com/album/5NjiU7WDE8G3XkWj2Yi9GN) | 3:43 | 2025-08-22 |  |
 | [Serpentine](https://open.spotify.com/track/3exot3dINaZOhGhw9kL9vX) | [Apollo Suns](https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW) | [Serpentine](https://open.spotify.com/album/3HDZIVNyEpxMEVYg2LGjgQ) | 3:48 | 2023-07-14 |  |
 | [Several Times](https://open.spotify.com/track/3sn06H3wg6GTrRY0CKyDph) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Feel The Spirit](https://open.spotify.com/album/1aGGrO5uWpdaA37q0yOFc3) | 2:48 | 2023-03-17 | 2024-04-19 |
@@ -447,7 +448,7 @@
 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 | 2020-10-09 |  |
 | [With You I Rock](https://open.spotify.com/track/0mHwnny42Z2r0gQnIRxOxX) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [With You I Rock](https://open.spotify.com/album/50k3QZEfxduwieuc9pOjlF) | 3:11 | 2021-08-06 | 2022-07-29 |
 | [Wonder Boy](https://open.spotify.com/track/5hPmsVirHEtxjdJKUGYGjP) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Motionation](https://open.spotify.com/album/6tOvkErsqwykWt7muOGEhD) | 3:32 | 2024-04-12 | 2024-09-21 |
-| [Wonder Boy \- Audiotree Live Version](https://open.spotify.com/track/6QkWcBNgOfs4ue8I0qL7u9) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Huntertones on Audiotree Live](https://open.spotify.com/album/4wwenK3MApnh1R3ky0eaKT) | 4:46 | 2024-09-20 |  |
+| [Wonder Boy \- Audiotree Live Version](https://open.spotify.com/track/6QkWcBNgOfs4ue8I0qL7u9) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Huntertones on Audiotree Live](https://open.spotify.com/album/4wwenK3MApnh1R3ky0eaKT) | 4:46 | 2024-09-20 | 2026-01-15 |
 | [Wouldn't You](https://open.spotify.com/track/7i9Xk5r7RUNFq4oSNPwGJe) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Wouldn't You](https://open.spotify.com/album/7uFecTTe825dZGMIneAmj8) | 2:25 | 2022-03-11 |  |
 | [Wrong Turn](https://open.spotify.com/track/3mWbe25jgcrW3YjeLLtbgP) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Jerry Léonide](https://open.spotify.com/artist/5Af1TsVHdJnJKt6R9kInBe), [Kevin Reveyrand](https://open.spotify.com/artist/6e8iJWw2WfJQjYmZPFmmra) | [Status Quo](https://open.spotify.com/album/0kbdRU8fGz15dmhPrWygqB) | 5:24 | 2025-01-17 |  |
 | [yeah \(ooh\)](https://open.spotify.com/track/2h5rWu6hJ6qEEEQgml0QR2) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng) | [yeah \(ooh\)](https://open.spotify.com/album/5jJHiab8xHz0kA3bsBo3h3) | 2:52 | 2023-05-19 | 2023-06-17 |

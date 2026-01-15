@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain](/playlists/plain/37i9dQZF1DX5uFnRv5lZjw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5uFnRv5lZjw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain](/playlists/plain/37i9dQZF1DX5uFnRv5lZjw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5uFnRv5lZjw)
 
 ### [digital detox✌️](https://open.spotify.com/playlist/37i9dQZF1DX5uFnRv5lZjw)
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,284 likes - 97 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,122 likes - 97 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

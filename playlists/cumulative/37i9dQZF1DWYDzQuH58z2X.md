@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYDzQuH58z2X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYDzQuH58z2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYDzQuH58z2X)
+[pretty](/playlists/pretty/37i9dQZF1DWYDzQuH58z2X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYDzQuH58z2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYDzQuH58z2X)
 
 ### [NCT DREAM TOUR \[THE DREAM SHOW 4 : DREAM THE FUTURE\]](https://open.spotify.com/playlist/37i9dQZF1DWYDzQuH58z2X)
 

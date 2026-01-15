@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Olivia Dean",
-  "num_followers": 423108,
+  "num_followers": 425273,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEE7gf3uIBNeA4uzfxnHRGfOVmao",
+  "snapshot_id": "AAAAAJyXpfH5NXRsdO759Q5mIQlMM6ae",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:33",
@@ -39,6 +39,22 @@
       "duration_ms": 193627,
       "name": "halfwaythru",
       "url": "https://open.spotify.com/track/1MhgFh4MeZidEY3LkyYRr1"
+    },
+    {
+      "added_at": "2026-01-09 05:00:48",
+      "album": {
+        "name": "Tell Me It's Over",
+        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Tell Me It's Over",
+      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
     },
     {
       "added_at": "2025-11-21 05:00:33",
@@ -75,6 +91,22 @@
     {
       "added_at": "2025-11-21 05:00:33",
       "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -89,36 +121,20 @@
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
-      "added_at": "2025-11-14 05:00:29",
+      "added_at": "2026-01-09 05:00:48",
       "album": {
-        "name": "Sex Hysteria (Deluxe)",
-        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+        "name": "The Crux",
+        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 177601,
-      "name": "I Stay I Leave I Love I Lose",
-      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+      "duration_ms": 205046,
+      "name": "Charlie's Garden",
+      "url": "https://open.spotify.com/track/4kPfzkWY23WgM902kNAQLn"
     },
     {
       "added_at": "2025-06-13 16:00:28",
@@ -139,6 +155,38 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "added_at": "2025-11-14 05:00:29",
+      "album": {
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 177601,
+      "name": "I Stay I Leave I Love I Lose",
+      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
+    },
+    {
+      "added_at": "2026-01-09 05:00:48",
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/2ffPAuQMKRWs4vOoeonRuo"
+      },
+      "artists": [
+        {
+          "name": "Connie Talbot",
+          "url": "https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um"
+        }
+      ],
+      "duration_ms": 189129,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/0OpVvLqe7KImD3RXXDizTt"
     },
     {
       "added_at": "2025-11-21 05:00:33",
@@ -197,6 +245,22 @@
       "url": "https://open.spotify.com/track/0rjoewFohsVztU43hybG2Y"
     },
     {
+      "added_at": "2025-09-12 04:00:28",
+      "album": {
+        "name": "something like this",
+        "url": "https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR"
+      },
+      "artists": [
+        {
+          "name": "Cil",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "duration_ms": 169430,
+      "name": "something like this",
+      "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
+    },
+    {
       "added_at": "2025-11-21 05:00:33",
       "album": {
         "name": "Backstage at The Tropicana",
@@ -227,22 +291,6 @@
       "duration_ms": 199173,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1"
-    },
-    {
-      "added_at": "2025-09-12 04:00:28",
-      "album": {
-        "name": "something like this",
-        "url": "https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR"
-      },
-      "artists": [
-        {
-          "name": "Cil",
-          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
-        }
-      ],
-      "duration_ms": 169430,
-      "name": "something like this",
-      "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
     },
     {
       "added_at": "2025-09-05 04:00:05",
@@ -583,22 +631,6 @@
       "duration_ms": 160869,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/2NUn1Hn7bCY4ez5UC80yu8"
-    },
-    {
-      "added_at": "2025-08-22 04:00:12",
-      "album": {
-        "name": "Flash in the Pan!",
-        "url": "https://open.spotify.com/album/4HRUvJFnGre9wrv6K5NswS"
-      },
-      "artists": [
-        {
-          "name": "Samantha Gongol",
-          "url": "https://open.spotify.com/artist/6TMM7uR24St1X9c3oGcJ8y"
-        }
-      ],
-      "duration_ms": 176665,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/7z8q60XsLfBVsYOtRtJ5YK"
     },
     {
       "added_at": "2025-09-05 04:00:05",
@@ -1389,26 +1421,6 @@
       "url": "https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp"
     },
     {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/7d3ipgo7MFc14ktcdiM9sK"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 182696,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/2REV45xgTkmZnixZyQdeCj"
-    },
-    {
       "added_at": "2024-03-08 05:01:00",
       "album": {
         "name": "Falling for You",
@@ -1423,22 +1435,6 @@
       "duration_ms": 188953,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/0BeqFdVAkpVJHkFSl4EEf7"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 135105,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1559,22 +1555,6 @@
       "duration_ms": 173801,
       "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1711,6 +1691,30 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
+      "added_at": "2026-01-09 05:00:48",
+      "album": {
+        "name": "Lane Brothers",
+        "url": "https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9"
+      },
+      "artists": [
+        {
+          "name": "Lane Brothers",
+          "url": "https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN"
+        },
+        {
+          "name": "Grayson Lane",
+          "url": "https://open.spotify.com/artist/7kcCf7qRizAKhmuvA1HF2q"
+        },
+        {
+          "name": "Garrett Lane",
+          "url": "https://open.spotify.com/artist/6NBt7jdlOAZmnLvHwSw8TL"
+        }
+      ],
+      "duration_ms": 205438,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u"
     },
     {
       "added_at": "2024-03-01 05:01:00",

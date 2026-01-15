@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain](/playlists/plain/37i9dQZF1DX7OIddoQVdRt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7OIddoQVdRt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain](/playlists/plain/37i9dQZF1DX7OIddoQVdRt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7OIddoQVdRt)
 
 ### [Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX7OIddoQVdRt)
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Tye Tribbett
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,010 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,571 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain](/playlists/plain/37i9dQZF1DX5d5pMk8ynO3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5d5pMk8ynO3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain](/playlists/plain/37i9dQZF1DX5d5pMk8ynO3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5d5pMk8ynO3)
 
 ### [Grandes Himnos del Rock en Español](https://open.spotify.com/playlist/37i9dQZF1DX5d5pMk8ynO3)
 
 > Canciones que marcaron época en nuestro rock\. ¡Para cantar a los gritos! Foto: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,752 likes - 95 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,803 likes - 95 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0917\u093e\u0901\u0935 \u0926\u0947\u0936 \u0915\u0947 \u092e\u093e\u091f\u0940 \u0915\u0947 \u0928\u092f\u093e \u0938\u0902\u0917\u0940\u0924\u092e\u092f \u0938\u0941\u0917\u0902\u0927 \u0938\u0941\u0928\u0940\u0902.",
-  "num_followers": 10833,
+  "num_followers": 10945,
   "original_name": "Bhojpuriya Maati",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Tani Tani Sa Baat",
-        "url": "https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB"
-      },
-      "artists": [
-        {
-          "name": "Kalpana Patowary",
-          "url": "https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Tani Tani Sa Baat",
-      "url": "https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
         "name": "Holi Khele Raghuveera",
         "url": "https://open.spotify.com/album/4qtI6ApG6I8gOHHr3FLLOG"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 220170,
       "name": "Holi Khele Raghuveera",
       "url": "https://open.spotify.com/track/6lgbG3DfmZvJ7r1iJYbrN8"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "Tani Tani Sa Baat",
+        "url": "https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB"
+      },
+      "artists": [
+        {
+          "name": "Kalpana Patowary",
+          "url": "https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Tani Tani Sa Baat",
+      "url": "https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Chunariya Me Daag",
-        "url": "https://open.spotify.com/album/3nBMUTEwGmDmu8hHIZT1ii"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Aadee",
-          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
-        }
-      ],
-      "duration_ms": 276224,
-      "name": "Chunariya Me Daag",
-      "url": "https://open.spotify.com/track/33gZWrLzwxrN96b5XMoNyW"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
         "name": "Kaise Khele Jaibu Sawan Mein Kajariya",
         "url": "https://open.spotify.com/album/3T82H0kkBVtlgkGN81WCeI"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
+        "name": "Chunariya Me Daag",
+        "url": "https://open.spotify.com/album/3nBMUTEwGmDmu8hHIZT1ii"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Aadee",
+          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
+        }
+      ],
+      "duration_ms": 276224,
+      "name": "Chunariya Me Daag",
+      "url": "https://open.spotify.com/track/33gZWrLzwxrN96b5XMoNyW"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
         "name": "SAWARIYA",
         "url": "https://open.spotify.com/album/5rKYTYpHErvjHQwoDZAfMT"
       },
@@ -339,18 +339,22 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "MEHANDI SURKAB NA",
-        "url": "https://open.spotify.com/album/6IRoK4OxmLBl2wdDQNAwUp"
+        "name": "Nazariya Se Baat",
+        "url": "https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV"
       },
       "artists": [
         {
-          "name": "Ananyya Singhh",
-          "url": "https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA"
+          "name": "Sakshi Singh",
+          "url": "https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX"
+        },
+        {
+          "name": "Sushant Asthana",
+          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
         }
       ],
-      "duration_ms": 175384,
-      "name": "MEHANDI SURKAB NA",
-      "url": "https://open.spotify.com/track/5zhAACOjZBaJqj2BiJHt6F"
+      "duration_ms": 166829,
+      "name": "Nazariya Se Baat",
+      "url": "https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -375,22 +379,18 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Nazariya Se Baat",
-        "url": "https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV"
+        "name": "MEHANDI SURKAB NA",
+        "url": "https://open.spotify.com/album/6IRoK4OxmLBl2wdDQNAwUp"
       },
       "artists": [
         {
-          "name": "Sakshi Singh",
-          "url": "https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX"
-        },
-        {
-          "name": "Sushant Asthana",
-          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
+          "name": "Ananyya Singhh",
+          "url": "https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA"
         }
       ],
-      "duration_ms": 166829,
-      "name": "Nazariya Se Baat",
-      "url": "https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g"
+      "duration_ms": 175384,
+      "name": "MEHANDI SURKAB NA",
+      "url": "https://open.spotify.com/track/5zhAACOjZBaJqj2BiJHt6F"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -443,6 +443,42 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
+        "name": "Samdhi Bhukhal Baade Ho",
+        "url": "https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m"
+      },
+      "artists": [
+        {
+          "name": "KUMARI SONAL",
+          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
+        },
+        {
+          "name": "Ashkandani",
+          "url": "https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w"
+        }
+      ],
+      "duration_ms": 183215,
+      "name": "Samdhi Bhukhal Baade Ho",
+      "url": "https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "KURBAN",
+        "url": "https://open.spotify.com/album/2btawM5YXfPOuHEjiedLVt"
+      },
+      "artists": [
+        {
+          "name": "Sneh Upadhya",
+          "url": "https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "KURBAN",
+      "url": "https://open.spotify.com/track/4YyFE8b4QSo3pkroH4S3wM"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
         "name": "JUG JUG JIYA SU LALANWA SOHAR",
         "url": "https://open.spotify.com/album/3viQgZ5OzIW11aWq33w2qS"
       },
@@ -455,42 +491,6 @@
       "duration_ms": 197802,
       "name": "JUG JUG JIYA SU LALANWA SOHAR",
       "url": "https://open.spotify.com/track/6v9a59GBqiiui2L65Hrfe4"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
-        "name": "MEHANDI LAGAI KE",
-        "url": "https://open.spotify.com/album/0Zim1wh8FtCPUH5Stm8X5J"
-      },
-      "artists": [
-        {
-          "name": "Harsh Veer Indi",
-          "url": "https://open.spotify.com/artist/6hdJobpagBZObbX9JvgYpy"
-        },
-        {
-          "name": "Gauri Mishra",
-          "url": "https://open.spotify.com/artist/2RaSX5rCSHlfO8bUxGmhDr"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "MEHANDI LAGAI KE",
-      "url": "https://open.spotify.com/track/2n4TZqdfDGUAIu7lT61s39"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
-        "name": "Nanad Tora Gauwan",
-        "url": "https://open.spotify.com/album/35qQQAFbrbiFoSbNFTS3K3"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Aadee",
-          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
-        }
-      ],
-      "duration_ms": 219753,
-      "name": "Nanad Tora Gauwan",
-      "url": "https://open.spotify.com/track/21VWH4J8WTE4dYE7ddQMuA"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -519,6 +519,42 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
+        "name": "Nanad Tora Gauwan",
+        "url": "https://open.spotify.com/album/35qQQAFbrbiFoSbNFTS3K3"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Aadee",
+          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
+        }
+      ],
+      "duration_ms": 219753,
+      "name": "Nanad Tora Gauwan",
+      "url": "https://open.spotify.com/track/21VWH4J8WTE4dYE7ddQMuA"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "MEHANDI LAGAI KE",
+        "url": "https://open.spotify.com/album/0Zim1wh8FtCPUH5Stm8X5J"
+      },
+      "artists": [
+        {
+          "name": "Harsh Veer Indi",
+          "url": "https://open.spotify.com/artist/6hdJobpagBZObbX9JvgYpy"
+        },
+        {
+          "name": "Gauri Mishra",
+          "url": "https://open.spotify.com/artist/2RaSX5rCSHlfO8bUxGmhDr"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "MEHANDI LAGAI KE",
+      "url": "https://open.spotify.com/track/2n4TZqdfDGUAIu7lT61s39"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
         "name": "Re Sajni",
         "url": "https://open.spotify.com/album/4pkKfwkjUlm9kcuDkItqFx"
       },
@@ -531,22 +567,6 @@
       "duration_ms": 190800,
       "name": "Re Sajni",
       "url": "https://open.spotify.com/track/4hiPErACgGGVB6NN3jSH6G"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
-        "name": "KURBAN",
-        "url": "https://open.spotify.com/album/2btawM5YXfPOuHEjiedLVt"
-      },
-      "artists": [
-        {
-          "name": "Sneh Upadhya",
-          "url": "https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "KURBAN",
-      "url": "https://open.spotify.com/track/4YyFE8b4QSo3pkroH4S3wM"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -571,22 +591,6 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Chutki Bhar Senura",
-        "url": "https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w"
-      },
-      "artists": [
-        {
-          "name": "Sushant Asthana",
-          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
-        }
-      ],
-      "duration_ms": 412992,
-      "name": "Chutki Bhar Senura",
-      "url": "https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
         "name": "Runjhun Khola Na Kewadiya",
         "url": "https://open.spotify.com/album/2HWJKxxAYAEPLHbTCM5sG1"
       },
@@ -607,6 +611,22 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
+        "name": "Chutki Bhar Senura",
+        "url": "https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w"
+      },
+      "artists": [
+        {
+          "name": "Sushant Asthana",
+          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
+        }
+      ],
+      "duration_ms": 412992,
+      "name": "Chutki Bhar Senura",
+      "url": "https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
         "name": "Bagiya",
         "url": "https://open.spotify.com/album/7iCkRMBw9irsgzQqYch68r"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 224391,
       "name": "Bagiya",
       "url": "https://open.spotify.com/track/48ZAPt4dLgYko0T1rCfimu"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
-        "name": "Samdhi Bhukhal Baade Ho",
-        "url": "https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m"
-      },
-      "artists": [
-        {
-          "name": "KUMARI SONAL",
-          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
-        },
-        {
-          "name": "Ashkandani",
-          "url": "https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w"
-        }
-      ],
-      "duration_ms": 183215,
-      "name": "Samdhi Bhukhal Baade Ho",
-      "url": "https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -663,22 +663,6 @@
       "duration_ms": 177600,
       "name": "BIYAH WALI GAARI 4",
       "url": "https://open.spotify.com/track/0JQoXV8FpAoEk3y76Ijtd5"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
-        "name": "KAHANWA KE PIYAR MAATI 2",
-        "url": "https://open.spotify.com/album/5yTfKQ0fWPFxGaaUa91Woy"
-      },
-      "artists": [
-        {
-          "name": "Sushant Asthana",
-          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "KAHANWA KE PIYAR MAATI 2",
-      "url": "https://open.spotify.com/track/1tAszA8ZvotvygaSMgszSo"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -715,6 +699,22 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
+        "name": "KAHANWA KE PIYAR MAATI 2",
+        "url": "https://open.spotify.com/album/5yTfKQ0fWPFxGaaUa91Woy"
+      },
+      "artists": [
+        {
+          "name": "Sushant Asthana",
+          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "KAHANWA KE PIYAR MAATI 2",
+      "url": "https://open.spotify.com/track/1tAszA8ZvotvygaSMgszSo"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
         "name": "Doliya Kahar",
         "url": "https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi"
       },
@@ -743,26 +743,6 @@
       "duration_ms": 155647,
       "name": "Far Gaile Nembua",
       "url": "https://open.spotify.com/track/5dS1QpIQNwYBb1UQEGwuND"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
-        "name": "SAJANWA Love in Bangkok",
-        "url": "https://open.spotify.com/album/78LZ3Ix8rrUiQfJKOZ4JQT"
-      },
-      "artists": [
-        {
-          "name": "Sushant Asthana",
-          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
-        },
-        {
-          "name": "Surabhi Kashyap",
-          "url": "https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "SAJANWA Love in Bangkok",
-      "url": "https://open.spotify.com/track/3uV48MQcXm310OWtoGxWID"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -803,6 +783,26 @@
       "duration_ms": 204000,
       "name": "Pyaar ka Vyapar",
       "url": "https://open.spotify.com/track/1uZwqNRdcBAviDx2bcJoA2"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "SAJANWA Love in Bangkok",
+        "url": "https://open.spotify.com/album/78LZ3Ix8rrUiQfJKOZ4JQT"
+      },
+      "artists": [
+        {
+          "name": "Sushant Asthana",
+          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
+        },
+        {
+          "name": "Surabhi Kashyap",
+          "url": "https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "SAJANWA Love in Bangkok",
+      "url": "https://open.spotify.com/track/3uV48MQcXm310OWtoGxWID"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Reliya Bairan",
-        "url": "https://open.spotify.com/album/3qRmFf2z2OLvm2GMIXqr1u"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Aadee",
-          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
-        }
-      ],
-      "duration_ms": 321654,
-      "name": "Reliya Bairan",
-      "url": "https://open.spotify.com/track/1KU4LkDHLMe0LprDcm1n5X"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
         "name": "Kachauri Gali",
         "url": "https://open.spotify.com/album/6iLsiXl8RXpspJlikhx6qc"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 225045,
       "name": "Kachauri Gali",
       "url": "https://open.spotify.com/track/2m7fE5rq2if3kiTDBb7wzD"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "Reliya Bairan",
+        "url": "https://open.spotify.com/album/3qRmFf2z2OLvm2GMIXqr1u"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Aadee",
+          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
+        }
+      ],
+      "duration_ms": 321654,
+      "name": "Reliya Bairan",
+      "url": "https://open.spotify.com/track/1KU4LkDHLMe0LprDcm1n5X"
     },
     {
       "added_at": "2025-12-16 11:45:02",

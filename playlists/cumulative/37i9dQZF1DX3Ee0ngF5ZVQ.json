@@ -2700,7 +2700,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170706,
       "name": "Crossing Lines",
       "url": "https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M"
@@ -5014,7 +5014,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164059,
       "name": "Here for the Beer",
       "url": "https://open.spotify.com/track/5jd2LwJTwtiYyh87YjTmxD"
@@ -6375,6 +6375,24 @@
     },
     {
       "album": {
+        "name": "Junior Stayed Home",
+        "url": "https://open.spotify.com/album/3wLJrVlhhX9HJRDsntBGHz"
+      },
+      "artists": [
+        {
+          "name": "Graham St. Clair Band",
+          "url": "https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288493,
+      "name": "Junior Stayed Home",
+      "url": "https://open.spotify.com/track/0LSmvfAYa3kJoVaNX6aC0a"
+    },
+    {
+      "album": {
         "name": "Just Call My Number",
         "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
       },
@@ -6720,6 +6738,28 @@
       "duration_ms": 228557,
       "name": "Like She Does",
       "url": "https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd"
+    },
+    {
+      "album": {
+        "name": "Like the Rodeo",
+        "url": "https://open.spotify.com/album/7wepD6A9MAAT6j3AjUsB8n"
+      },
+      "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172346,
+      "name": "Like the Rodeo",
+      "url": "https://open.spotify.com/track/5SCmmoDMlvjePOGYW81fy8"
     },
     {
       "album": {

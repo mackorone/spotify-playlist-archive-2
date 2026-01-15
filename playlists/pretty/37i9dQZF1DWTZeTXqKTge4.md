@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain](/playlists/plain/37i9dQZF1DWTZeTXqKTge4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTZeTXqKTge4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain](/playlists/plain/37i9dQZF1DWTZeTXqKTge4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTZeTXqKTge4)
 
 ### [Rap québ: le meilleur de 2025 ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
 > Le meilleur du rap québécois en 2025\. Photo: kinji00
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,005 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,023 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

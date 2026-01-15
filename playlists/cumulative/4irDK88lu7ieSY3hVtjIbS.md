@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4irDK88lu7ieSY3hVtjIbS.md) - cumulative - [plain](/playlists/plain/4irDK88lu7ieSY3hVtjIbS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4irDK88lu7ieSY3hVtjIbS)
+[pretty](/playlists/pretty/4irDK88lu7ieSY3hVtjIbS.md) - cumulative - [plain](/playlists/plain/4irDK88lu7ieSY3hVtjIbS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4irDK88lu7ieSY3hVtjIbS)
 
 ### [Horny Furry Music AKA Yiffery](https://open.spotify.com/playlist/4irDK88lu7ieSY3hVtjIbS)
 

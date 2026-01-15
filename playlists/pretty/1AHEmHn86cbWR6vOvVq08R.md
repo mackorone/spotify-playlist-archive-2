@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1AHEmHn86cbWR6vOvVq08R.md) - [plain](/playlists/plain/1AHEmHn86cbWR6vOvVq08R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1AHEmHn86cbWR6vOvVq08R)
+pretty - [cumulative](/playlists/cumulative/1AHEmHn86cbWR6vOvVq08R.md) - [plain](/playlists/plain/1AHEmHn86cbWR6vOvVq08R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1AHEmHn86cbWR6vOvVq08R)
 
 ### [90s Alternative](https://open.spotify.com/playlist/1AHEmHn86cbWR6vOvVq08R)
 
 > Over 6 hours of Alternative &amp; Rock anthems from the 90's including Blink 182, Offspring and more! Cover: Nirvana
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,540 likes - 100 songs - 6 hr 52 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,538 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

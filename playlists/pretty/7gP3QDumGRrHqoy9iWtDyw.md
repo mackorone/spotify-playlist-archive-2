@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain](/playlists/plain/7gP3QDumGRrHqoy9iWtDyw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7gP3QDumGRrHqoy9iWtDyw)
+pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain](/playlists/plain/7gP3QDumGRrHqoy9iWtDyw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7gP3QDumGRrHqoy9iWtDyw)
 
 ### [Malaa Selection ](https://open.spotify.com/playlist/7gP3QDumGRrHqoy9iWtDyw)
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,489 likes - 63 songs - 3 hr 44 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,493 likes - 63 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oWCUlN9CxD.md) - [plain](/playlists/plain/37i9dQZF1DX8oWCUlN9CxD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8oWCUlN9CxD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oWCUlN9CxD.md) - [plain](/playlists/plain/37i9dQZF1DX8oWCUlN9CxD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8oWCUlN9CxD)
 
 ### [Chantons avec Tchoupi](https://open.spotify.com/playlist/37i9dQZF1DX8oWCUlN9CxD)
 
 > Retrouvez toutes les chansons de Tchoupi et de ses copains Lalou et Doudou
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,881 likes - 37 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,944 likes - 37 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

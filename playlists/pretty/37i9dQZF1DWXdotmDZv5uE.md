@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain](/playlists/plain/37i9dQZF1DWXdotmDZv5uE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXdotmDZv5uE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain](/playlists/plain/37i9dQZF1DWXdotmDZv5uE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXdotmDZv5uE)
 
 ### [Tradición Mexicana](https://open.spotify.com/playlist/37i9dQZF1DWXdotmDZv5uE)
 

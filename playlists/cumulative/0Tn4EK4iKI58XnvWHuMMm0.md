@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0Tn4EK4iKI58XnvWHuMMm0.md) - cumulative - [plain](/playlists/plain/0Tn4EK4iKI58XnvWHuMMm0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Tn4EK4iKI58XnvWHuMMm0)
+[pretty](/playlists/pretty/0Tn4EK4iKI58XnvWHuMMm0.md) - cumulative - [plain](/playlists/plain/0Tn4EK4iKI58XnvWHuMMm0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0Tn4EK4iKI58XnvWHuMMm0)
 
 ### [Classical Café](https://open.spotify.com/playlist/0Tn4EK4iKI58XnvWHuMMm0)
 

@@ -1,6 +1,6 @@
 {
-  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Coolie",
-  "num_followers": 1067229,
+  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Parasakthi",
+  "num_followers": 1068295,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,86 @@
   },
   "snapshot_id": "AAAAAGiVswmVKxx+Mcd56igXtArrbA26",
   "tracks": [
+    {
+      "added_at": "2026-01-06 08:32:21",
+      "album": {
+        "name": "Parasakthi (Tamil)",
+        "url": "https://open.spotify.com/album/34zVDfiL3w19tZh7E9FXGB"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Ekadesi",
+          "url": "https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c"
+        }
+      ],
+      "duration_ms": 250212,
+      "name": "Adi Alaye",
+      "url": "https://open.spotify.com/track/4VYd5d5nr3vDMhpx76SkFf"
+    },
+    {
+      "added_at": "2026-01-06 08:32:21",
+      "album": {
+        "name": "Oru Pere Varalaaru (From \"Jana Nayagan\")",
+        "url": "https://open.spotify.com/album/4tTHztAkrW6JTBODjNURNz"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 235107,
+      "name": "Oru Pere Varalaaru (From \"Jana Nayagan\")",
+      "url": "https://open.spotify.com/track/6afuHWt45FEdNM9pkmVbgN"
+    },
+    {
+      "added_at": "2026-01-07 08:47:34",
+      "album": {
+        "name": "Parasakthi (Tamil)",
+        "url": "https://open.spotify.com/album/34zVDfiL3w19tZh7E9FXGB"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sivakarthikeyan",
+          "url": "https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr"
+        },
+        {
+          "name": "Sreeleela",
+          "url": "https://open.spotify.com/artist/61W6fd3IV7LDXXzwoqg0DP"
+        },
+        {
+          "name": "Jayashree Mathimaran",
+          "url": "https://open.spotify.com/artist/56Ue6IaoBnRqwydcUtQ4Mu"
+        }
+      ],
+      "duration_ms": 279272,
+      "name": "Ratnamala",
+      "url": "https://open.spotify.com/track/3119vPmRByxW1WfbZfU5GI"
+    },
     {
       "added_at": "2025-07-22 08:55:39",
       "album": {
@@ -37,28 +117,36 @@
       "url": "https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv"
     },
     {
-      "added_at": "2025-11-17 06:45:13",
+      "added_at": "2026-01-07 08:47:34",
       "album": {
-        "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
-        "url": "https://open.spotify.com/album/0TthxobhZuRUVweIhTUwuc"
+        "name": "Parasakthi (Tamil)",
+        "url": "https://open.spotify.com/album/34zVDfiL3w19tZh7E9FXGB"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "Thalapathy Vijay",
-          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Velmurugan",
+          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
         },
         {
           "name": "Arivu",
           "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
         }
       ],
-      "duration_ms": 197104,
-      "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
-      "url": "https://open.spotify.com/track/28keFvZn4UVRi4I8Rj4GjY"
+      "duration_ms": 244472,
+      "name": "Namakkana Kaalam",
+      "url": "https://open.spotify.com/track/5sRy4h9hECF9pEqObdtzfF"
     },
     {
       "added_at": "2025-10-23 10:09:30",
@@ -87,6 +175,30 @@
       "duration_ms": 240107,
       "name": "Oorum Blood - From \"Dude\"",
       "url": "https://open.spotify.com/track/6EzB9lIW27iSTd0c2V4t3K"
+    },
+    {
+      "added_at": "2025-11-17 06:45:13",
+      "album": {
+        "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
+        "url": "https://open.spotify.com/album/0TthxobhZuRUVweIhTUwuc"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Thalapathy Vijay",
+          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "duration_ms": 197104,
+      "name": "Thalapathy Kacheri (From \"Jana Nayagan\")",
+      "url": "https://open.spotify.com/track/28keFvZn4UVRi4I8Rj4GjY"
     },
     {
       "added_at": "2025-07-31 11:22:52",
@@ -455,30 +567,6 @@
       "duration_ms": 240264,
       "name": "Muththa Mazhai (Reprise)",
       "url": "https://open.spotify.com/track/0nrJ7jsUFR0pDHV6NvKJje"
-    },
-    {
-      "added_at": "2023-05-08 08:49:27",
-      "album": {
-        "name": "Pathu Thala (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6y3yImd357ZGmMfb0mb1ts"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/34alE9zN7dTT9s6s1j8bJC"
-        }
-      ],
-      "duration_ms": 247794,
-      "name": "Nee Singam Dhan",
-      "url": "https://open.spotify.com/track/0vua5LbAth2HzKqpbnVRZk"
     },
     {
       "added_at": "2025-06-11 13:07:10",
@@ -1041,30 +1129,6 @@
       "url": "https://open.spotify.com/track/7xnSWKXH8XVc8vML9132SZ"
     },
     {
-      "added_at": "2023-04-15 11:44:42",
-      "album": {
-        "name": "Mainaru Vetti Katti (From \"Dasara\") (Tamil)",
-        "url": "https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        }
-      ],
-      "duration_ms": 203052,
-      "name": "Mainaru Vetti Katti",
-      "url": "https://open.spotify.com/track/1hSbtbX2cVbSyBVqoYHjSj"
-    },
-    {
       "added_at": "2023-10-31 15:59:43",
       "album": {
         "name": "Ordinary Person (From \"Leo\")",
@@ -1133,26 +1197,6 @@
       "url": "https://open.spotify.com/track/1B02UI29t3PTh3m98absaP"
     },
     {
-      "added_at": "2023-01-25 11:03:02",
-      "album": {
-        "name": "Vaathi",
-        "url": "https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 225380,
-      "name": "Vaa Vaathi",
-      "url": "https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32"
-    },
-    {
       "added_at": "2023-08-02 05:10:40",
       "album": {
         "name": "Jailer (Original Motion Picture Soundtrack)",
@@ -1179,30 +1223,6 @@
       "duration_ms": 167272,
       "name": "Jujubee",
       "url": "https://open.spotify.com/track/4nrIa48GgXzNks6NvqVIOX"
-    },
-    {
-      "added_at": "2023-01-13 06:41:44",
-      "album": {
-        "name": "Varisu",
-        "url": "https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 224095,
-      "name": "Jimikki Ponnu",
-      "url": "https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL"
     }
   ],
   "unique_name": "Hot Hits Tamil",

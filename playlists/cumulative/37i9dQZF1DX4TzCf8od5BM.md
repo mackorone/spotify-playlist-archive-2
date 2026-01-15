@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4TzCf8od5BM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4TzCf8od5BM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4TzCf8od5BM)
+[pretty](/playlists/pretty/37i9dQZF1DX4TzCf8od5BM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4TzCf8od5BM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4TzCf8od5BM)
 
 ### [Disney Junior Music](https://open.spotify.com/playlist/37i9dQZF1DX4TzCf8od5BM)
 

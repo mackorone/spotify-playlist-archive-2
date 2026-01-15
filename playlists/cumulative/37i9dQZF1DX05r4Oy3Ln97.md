@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX05r4Oy3Ln97.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX05r4Oy3Ln97) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX05r4Oy3Ln97)
+[pretty](/playlists/pretty/37i9dQZF1DX05r4Oy3Ln97.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX05r4Oy3Ln97) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX05r4Oy3Ln97)
 
 ### [Summer House 2025](https://open.spotify.com/playlist/37i9dQZF1DX05r4Oy3Ln97)
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-476 songs - 1 day 1 hr 8 min
+477 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-26 | 2025-08-10 |
 | [Friendly Pressure \- Into The Sunshine Edit](https://open.spotify.com/track/2u1KZIchGsTN0Beas9mlaU) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Friendly Pressure \(Sunship Remixes\)](https://open.spotify.com/album/6RPDt4qkk82lw4JMPTIJsl) | 3:49 | 2024-06-07 | 2025-05-31 |
 | [Friendly Pressure \- Into The Sunshine Mix](https://open.spotify.com/track/70kfnr6pptxpV8YXjii68u) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Friendly Pressure \(Sunship Remixes\)](https://open.spotify.com/album/6RPDt4qkk82lw4JMPTIJsl) | 5:34 | 2024-05-24 | 2025-05-31 |
+| [Galaxy](https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Galaxy](https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS) | 2:50 | 2026-01-09 |  |
 | [Gemini](https://open.spotify.com/track/2glFeTrOSlok8FJO9HccUX) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Gemini](https://open.spotify.com/album/3DXjHjta23ZCEwOaNbEW9r) | 3:35 | 2022-03-25 | 2022-04-02 |
 | [Gemini \- Ocean Edit](https://open.spotify.com/track/7jL8WUz7wuko9csqPjElyJ) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Gemini \(Ocean Edits\)](https://open.spotify.com/album/1UwgH4bCz5WSQkb1O7MvPJ) | 3:51 | 2022-04-01 | 2022-07-24 |
 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 | 2024-07-26 |  |
@@ -315,7 +316,7 @@
 | [On My Mind \- Enzo is Burning Remix](https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [On My Mind \(Enzo is Burning Remix\)](https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN) | 2:42 | 2024-07-09 | 2025-07-03 |
 | [One and Only \- AseMix](https://open.spotify.com/track/45VHi1pZE1NKeBuoPGTsZj) | [Ase](https://open.spotify.com/artist/6NUvHOofq46GTsvTU8jiYe) | [One and Only \(AseMix\)](https://open.spotify.com/album/0bpCNqt5p9ejztrQrXQVgc) | 4:02 | 2022-08-05 | 2024-06-13 |
 | [One More Night](https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [One More Night](https://open.spotify.com/album/437pHGBe6cnnxyEdZrbMvo) | 2:37 | 2021-10-29 | 2022-03-22 |
-| [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 | 2025-05-30 |  |
+| [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 | 2025-05-30 | 2026-01-15 |
 | [Only You](https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [Only You](https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD) | 2:47 | 2025-03-05 | 2025-05-29 |
 | [Opened Up My Soul](https://open.spotify.com/track/5ECDg47YFFUqFbyhoQdLtV) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Opened Up My Soul](https://open.spotify.com/album/3HlS6pRxpCD6PoLvTsJ2Lu) | 2:20 | 2024-06-07 | 2025-02-15 |
 | [Original Sin](https://open.spotify.com/track/722zMk3C41DINBNBYh7iI9) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Original Sin](https://open.spotify.com/album/2JctLsvJUzExj3yeROAvn9) | 2:39 | 2021-10-29 | 2022-03-04 |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX403PGMKngti.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX403PGMKngti) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX403PGMKngti)
+[pretty](/playlists/pretty/37i9dQZF1DX403PGMKngti.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX403PGMKngti) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX403PGMKngti)
 
 ### [Champeta & Terapia](https://open.spotify.com/playlist/37i9dQZF1DX403PGMKngti)
 

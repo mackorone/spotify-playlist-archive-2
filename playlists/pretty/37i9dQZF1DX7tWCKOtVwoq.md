@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tWCKOtVwoq.md) - [plain](/playlists/plain/37i9dQZF1DX7tWCKOtVwoq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7tWCKOtVwoq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tWCKOtVwoq.md) - [plain](/playlists/plain/37i9dQZF1DX7tWCKOtVwoq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7tWCKOtVwoq)
 
 ### [Solo Leveling](https://open.spotify.com/playlist/37i9dQZF1DX7tWCKOtVwoq)
 
 > Music from "Solo Leveling"! ©Solo Leveling Animation Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,348 likes - 44 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,794 likes - 44 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

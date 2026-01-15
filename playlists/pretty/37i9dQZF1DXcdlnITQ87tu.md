@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdlnITQ87tu.md) - [plain](/playlists/plain/37i9dQZF1DXcdlnITQ87tu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcdlnITQ87tu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdlnITQ87tu.md) - [plain](/playlists/plain/37i9dQZF1DXcdlnITQ87tu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcdlnITQ87tu)
 
 ### [Summer Strike \(아무것도 하고 싶지 않아\)](https://open.spotify.com/playlist/37i9dQZF1DXcdlnITQ87tu)
 
 > \(Listen Genie TV's original drama 'Summer Strike's soundtrack in here!\) Genie TV 오리지널 시리즈 '아무것도 하고 싶지 않아'의 사운드 트랙들을 감상해보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,529 likes - 36 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,523 likes - 36 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

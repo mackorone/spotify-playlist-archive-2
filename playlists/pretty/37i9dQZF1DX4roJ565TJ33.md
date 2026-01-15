@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain](/playlists/plain/37i9dQZF1DX4roJ565TJ33) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4roJ565TJ33)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain](/playlists/plain/37i9dQZF1DX4roJ565TJ33) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4roJ565TJ33)
 
 ### [Svensk jazz](https://open.spotify.com/playlist/37i9dQZF1DX4roJ565TJ33)
 

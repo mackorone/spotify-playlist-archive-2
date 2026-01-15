@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1npVCZGxmhbfhAyeDEqhwA.md) - [plain](/playlists/plain/1npVCZGxmhbfhAyeDEqhwA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1npVCZGxmhbfhAyeDEqhwA)
+pretty - [cumulative](/playlists/cumulative/1npVCZGxmhbfhAyeDEqhwA.md) - [plain](/playlists/plain/1npVCZGxmhbfhAyeDEqhwA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1npVCZGxmhbfhAyeDEqhwA)
 
 ### [Disclosure's Spotify Playlist](https://open.spotify.com/playlist/1npVCZGxmhbfhAyeDEqhwA)
 

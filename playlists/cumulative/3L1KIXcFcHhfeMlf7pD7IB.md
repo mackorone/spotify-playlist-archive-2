@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3L1KIXcFcHhfeMlf7pD7IB.md) - cumulative - [plain](/playlists/plain/3L1KIXcFcHhfeMlf7pD7IB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3L1KIXcFcHhfeMlf7pD7IB)
+[pretty](/playlists/pretty/3L1KIXcFcHhfeMlf7pD7IB.md) - cumulative - [plain](/playlists/plain/3L1KIXcFcHhfeMlf7pD7IB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3L1KIXcFcHhfeMlf7pD7IB)
 
 ### [Foam Party](https://open.spotify.com/playlist/3L1KIXcFcHhfeMlf7pD7IB)
 

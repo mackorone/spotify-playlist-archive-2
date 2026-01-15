@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5cdRxEiQmawJaraYYEF7Di.md) - cumulative - [plain](/playlists/plain/5cdRxEiQmawJaraYYEF7Di) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5cdRxEiQmawJaraYYEF7Di)
+[pretty](/playlists/pretty/5cdRxEiQmawJaraYYEF7Di.md) - cumulative - [plain](/playlists/plain/5cdRxEiQmawJaraYYEF7Di) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5cdRxEiQmawJaraYYEF7Di)
 
 ### [\#SundayFunday](https://open.spotify.com/playlist/5cdRxEiQmawJaraYYEF7Di)
 

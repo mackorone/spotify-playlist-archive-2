@@ -1,6 +1,6 @@
 {
   "description": "De b\u00e4sta indiel\u00e5tarna - klassiker som Dansa Fast\u00e4n, Shoreline och Helgen v. 48! ",
-  "num_followers": 74196,
+  "num_followers": 74240,
   "original_name": "Indieklassiker",
   "owner": {
     "name": "Spotify",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
     },
     {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
-    },
-    {
       "added_at": "2025-08-07 09:58:34",
       "album": {
         "name": "Blur (Special Edition)",
@@ -169,20 +153,20 @@
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
-      "added_at": "2025-08-07 09:58:34",
+      "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "(What's The Story) Morning Glory? [Remastered]",
-        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back in Anger - Remastered",
-      "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -199,6 +183,22 @@
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
+    },
+    {
+      "added_at": "2025-08-07 09:58:34",
+      "album": {
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Don't Look Back in Anger - Remastered",
+      "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
     },
     {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Vapen & ammunition",
-        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
-      },
-      "artists": [
-        {
-          "name": "kent",
-          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Dom andra",
-      "url": "https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM"
-    },
-    {
       "added_at": "2025-08-07 09:58:34",
       "album": {
         "name": "Be A Girl",
@@ -439,6 +423,22 @@
       "duration_ms": 170866,
       "name": "You & Me Song",
       "url": "https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Vapen & ammunition",
+        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
+      },
+      "artists": [
+        {
+          "name": "kent",
+          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "Dom andra",
+      "url": "https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -523,8 +523,8 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Johnossi",
-        "url": "https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec"
+        "name": "Mavericks",
+        "url": "https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
         }
       ],
-      "duration_ms": 155373,
-      "name": "Man Must Dance",
-      "url": "https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC"
+      "duration_ms": 255706,
+      "name": "What's The Point",
+      "url": "https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -585,26 +585,26 @@
       "url": "https://open.spotify.com/track/5T9ir6tlqhhbKVzIC0ssbs"
     },
     {
-      "added_at": "2025-08-07 09:58:34",
+      "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "...och stora havet",
-        "url": "https://open.spotify.com/album/6kGjc8k2YvmmZGqspJuRlK"
+        "name": "Music Machine",
+        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
       },
       "artists": [
         {
-          "name": "Jakob Hellman",
-          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
+          "name": "Melody Club",
+          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Hon har ett s\u00e4tt",
-      "url": "https://open.spotify.com/track/1nrvksAMsxoiEbUkQyxOXo"
+      "duration_ms": 238826,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20"
     },
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Mavericks",
-        "url": "https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY"
+        "name": "Johnossi",
+        "url": "https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
         }
       ],
-      "duration_ms": 255706,
-      "name": "What's The Point",
-      "url": "https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw"
+      "duration_ms": 155373,
+      "name": "Man Must Dance",
+      "url": "https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -633,20 +633,20 @@
       "url": "https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX"
     },
     {
-      "added_at": "2024-06-24 11:47:22",
+      "added_at": "2025-08-07 09:58:34",
       "album": {
-        "name": "Music Machine",
-        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
+        "name": "...och stora havet",
+        "url": "https://open.spotify.com/album/6kGjc8k2YvmmZGqspJuRlK"
       },
       "artists": [
         {
-          "name": "Melody Club",
-          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
+          "name": "Jakob Hellman",
+          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
         }
       ],
-      "duration_ms": 238826,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20"
+      "duration_ms": 201066,
+      "name": "Hon har ett s\u00e4tt",
+      "url": "https://open.spotify.com/track/1nrvksAMsxoiEbUkQyxOXo"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Music Machine",
-        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
+        "name": "Din tid kommer",
+        "url": "https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd"
       },
       "artists": [
         {
-          "name": "Melody Club",
-          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 196093,
-      "name": "Palace Station",
-      "url": "https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE"
+      "duration_ms": 281890,
+      "name": "Din tid kommer",
+      "url": "https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq"
     }
   ],
   "unique_name": "Indieklassiker",

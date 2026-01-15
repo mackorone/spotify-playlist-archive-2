@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7b1rMSnmiYfj8nH8spIjxF.md) - [plain](/playlists/plain/7b1rMSnmiYfj8nH8spIjxF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7b1rMSnmiYfj8nH8spIjxF)
+pretty - [cumulative](/playlists/cumulative/7b1rMSnmiYfj8nH8spIjxF.md) - [plain](/playlists/plain/7b1rMSnmiYfj8nH8spIjxF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7b1rMSnmiYfj8nH8spIjxF)
 
 ### [Urkult 2012](https://open.spotify.com/playlist/7b1rMSnmiYfj8nH8spIjxF)
 

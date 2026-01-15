@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0VplLa7NC0a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0VplLa7NC0a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0VplLa7NC0a)
+[pretty](/playlists/pretty/37i9dQZF1DX0VplLa7NC0a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0VplLa7NC0a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0VplLa7NC0a)
 
 ### [This Is Rossini](https://open.spotify.com/playlist/37i9dQZF1DX0VplLa7NC0a)
 

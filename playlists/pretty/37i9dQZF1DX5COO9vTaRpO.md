@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5COO9vTaRpO.md) - [plain](/playlists/plain/37i9dQZF1DX5COO9vTaRpO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5COO9vTaRpO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5COO9vTaRpO.md) - [plain](/playlists/plain/37i9dQZF1DX5COO9vTaRpO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5COO9vTaRpO)
 
 ### [This Is The Rolling Stones \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX5COO9vTaRpO)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain](/playlists/plain/37i9dQZF1DX4K3SxFZTW1X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4K3SxFZTW1X)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain](/playlists/plain/37i9dQZF1DX4K3SxFZTW1X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4K3SxFZTW1X)
 
 ### [Cole Bennett's Taste](https://open.spotify.com/playlist/37i9dQZF1DX4K3SxFZTW1X)
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/colebennett/">Cole Bennett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,330 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,401 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

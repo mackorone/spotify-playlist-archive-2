@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9wkhxf6fGZk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9wkhxf6fGZk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9wkhxf6fGZk)
+[pretty](/playlists/pretty/37i9dQZF1DX9wkhxf6fGZk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9wkhxf6fGZk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9wkhxf6fGZk)
 
 ### [Danielle Brooks' Taste](https://open.spotify.com/playlist/37i9dQZF1DX9wkhxf6fGZk)
 

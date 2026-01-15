@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX42a57xwmtrj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX42a57xwmtrj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX42a57xwmtrj)
+[pretty](/playlists/pretty/37i9dQZF1DX42a57xwmtrj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX42a57xwmtrj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX42a57xwmtrj)
 
 ### [Rock Urbano](https://open.spotify.com/playlist/37i9dQZF1DX42a57xwmtrj)
 

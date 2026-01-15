@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX71VcjjnyaBQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX71VcjjnyaBQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX71VcjjnyaBQ)
+[pretty](/playlists/pretty/37i9dQZF1DX71VcjjnyaBQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX71VcjjnyaBQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX71VcjjnyaBQ)
 
 ### [Good Morning Jazz](https://open.spotify.com/playlist/37i9dQZF1DX71VcjjnyaBQ)
 

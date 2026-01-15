@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/71kt7mHLzNDQFmmUOVWA6Q.md) - cumulative - [plain](/playlists/plain/71kt7mHLzNDQFmmUOVWA6Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/71kt7mHLzNDQFmmUOVWA6Q)
+[pretty](/playlists/pretty/71kt7mHLzNDQFmmUOVWA6Q.md) - cumulative - [plain](/playlists/plain/71kt7mHLzNDQFmmUOVWA6Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/71kt7mHLzNDQFmmUOVWA6Q)
 
 ### [VALORANT \- Music of CHAMPIONS Seoul](https://open.spotify.com/playlist/71kt7mHLzNDQFmmUOVWA6Q)
 

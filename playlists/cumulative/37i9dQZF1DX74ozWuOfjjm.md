@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX74ozWuOfjjm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX74ozWuOfjjm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX74ozWuOfjjm)
+[pretty](/playlists/pretty/37i9dQZF1DX74ozWuOfjjm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX74ozWuOfjjm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX74ozWuOfjjm)
 
 ### [Best of EQUAL AU & NZ 2025](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
@@ -618,7 +618,7 @@
 | [Mangos](https://open.spotify.com/track/2ckFO1sBiKvLQpuiB9jDaC) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [Mangos](https://open.spotify.com/album/2vFtPglhOz8e8qh7WlyYqs) | 3:10 | 2023-11-10 | 2024-02-15 |
 | [Manic Pixie Dream Girl](https://open.spotify.com/track/2EkbykDiLsmMBL5I27RH5e) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0sYOqV4dwy6dBs862Z4d89) | 3:39 | 2025-07-15 | 2025-12-04 |
 | [Marianne](https://open.spotify.com/track/1Z8YRF5YY06FOnA6Oiwpaa) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Deep Sea Creatures](https://open.spotify.com/album/6gleG0hAiXn4q0YANq7xLE) | 3:14 | 2024-07-29 | 2025-02-12 |
-| [Matisses Garden](https://open.spotify.com/track/0UrGBqyFGWd02fkVLfoJDJ) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Heavenly Hell of Mine](https://open.spotify.com/album/5wSbwauDyRLmuha5YxLuNR) | 2:55 | 2025-04-15 |  |
+| [Matisses Garden](https://open.spotify.com/track/0UrGBqyFGWd02fkVLfoJDJ) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Heavenly Hell of Mine](https://open.spotify.com/album/5wSbwauDyRLmuha5YxLuNR) | 2:55 | 2025-04-15 |  |
 | [Matter of Time](https://open.spotify.com/track/462aabfmzV9MooKz64OAtj) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 3:58 | 2022-10-02 | 2023-04-01 |
 | [Maybe](https://open.spotify.com/track/6F9aI7NCQJXMvnBKj7gQJV) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Maybe](https://open.spotify.com/album/6YtMcA6XlBO9TN27dQNLsF) | 2:50 | 2024-05-14 | 2025-01-15 |
 | [Me & You](https://open.spotify.com/track/4rMegGKoZR9VaR0dxhr6Z4) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Me & You](https://open.spotify.com/album/0JYUq6zTN5QIExsARJ11xC) | 2:10 | 2022-10-02 | 2023-04-01 |

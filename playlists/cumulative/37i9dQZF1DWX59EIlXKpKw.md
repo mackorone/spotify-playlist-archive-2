@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWX59EIlXKpKw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX59EIlXKpKw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX59EIlXKpKw)
+[pretty](/playlists/pretty/37i9dQZF1DWX59EIlXKpKw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX59EIlXKpKw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX59EIlXKpKw)
 
 ### [Ada Twist's Science Songs Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWX59EIlXKpKw)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/76VB9ZPpcap220Osx9Ktjj.md) - cumulative - [plain](/playlists/plain/76VB9ZPpcap220Osx9Ktjj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/76VB9ZPpcap220Osx9Ktjj)
+[pretty](/playlists/pretty/76VB9ZPpcap220Osx9Ktjj.md) - cumulative - [plain](/playlists/plain/76VB9ZPpcap220Osx9Ktjj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/76VB9ZPpcap220Osx9Ktjj)
 
 ### [Rammstein Europe Stadium Tour \- Setlist](https://open.spotify.com/playlist/76VB9ZPpcap220Osx9Ktjj)
 

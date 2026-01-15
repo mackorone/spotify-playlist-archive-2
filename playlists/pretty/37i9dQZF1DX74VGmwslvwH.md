@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain](/playlists/plain/37i9dQZF1DX74VGmwslvwH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX74VGmwslvwH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain](/playlists/plain/37i9dQZF1DX74VGmwslvwH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX74VGmwslvwH)
 
 ### [Chakra](https://open.spotify.com/playlist/37i9dQZF1DX74VGmwslvwH)
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,054 likes - 132 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,826 likes - 132 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

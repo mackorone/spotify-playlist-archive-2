@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjEq7Z199Si.md) - [plain](/playlists/plain/37i9dQZF1DXbjEq7Z199Si) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbjEq7Z199Si)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjEq7Z199Si.md) - [plain](/playlists/plain/37i9dQZF1DXbjEq7Z199Si) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbjEq7Z199Si)
 
 ### [Wicked: For Good Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbjEq7Z199Si)
 
 > Experience the epic conclusion of Wicked: For Good with the official playlist\. Want more? Enter The Lands of Oz <a href="https://open.spotify.com/presents/wicked">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,678 likes - 24 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,556 likes - 24 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

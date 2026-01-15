@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXlntHTG08uC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXlntHTG08uC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXlntHTG08uC)
+[pretty](/playlists/pretty/37i9dQZF1DWXlntHTG08uC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXlntHTG08uC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXlntHTG08uC)
 
 ### [Sleep Frequency](https://open.spotify.com/playlist/37i9dQZF1DWXlntHTG08uC)
 

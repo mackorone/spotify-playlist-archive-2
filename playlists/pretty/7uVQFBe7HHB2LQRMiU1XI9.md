@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7uVQFBe7HHB2LQRMiU1XI9.md) - [plain](/playlists/plain/7uVQFBe7HHB2LQRMiU1XI9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7uVQFBe7HHB2LQRMiU1XI9)
+pretty - [cumulative](/playlists/cumulative/7uVQFBe7HHB2LQRMiU1XI9.md) - [plain](/playlists/plain/7uVQFBe7HHB2LQRMiU1XI9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7uVQFBe7HHB2LQRMiU1XI9)
 
 ### [2022 Top Songs Copy \- made by Elizabeth](https://open.spotify.com/playlist/7uVQFBe7HHB2LQRMiU1XI9)
 

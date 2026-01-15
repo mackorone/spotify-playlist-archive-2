@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2NFOUmp2wyR5CrXtKDkUkB.md) - [plain](/playlists/plain/2NFOUmp2wyR5CrXtKDkUkB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2NFOUmp2wyR5CrXtKDkUkB)
+pretty - [cumulative](/playlists/cumulative/2NFOUmp2wyR5CrXtKDkUkB.md) - [plain](/playlists/plain/2NFOUmp2wyR5CrXtKDkUkB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2NFOUmp2wyR5CrXtKDkUkB)
 
 ### [1960s Nostalgia](https://open.spotify.com/playlist/2NFOUmp2wyR5CrXtKDkUkB)
 
 > Those were the days, this was the music...
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,201 likes - 67 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,196 likes - 67 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

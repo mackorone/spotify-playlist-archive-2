@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1kPmmFOfrsEk7KzW46uo8m.md) - [plain](/playlists/plain/1kPmmFOfrsEk7KzW46uo8m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1kPmmFOfrsEk7KzW46uo8m)
+pretty - [cumulative](/playlists/cumulative/1kPmmFOfrsEk7KzW46uo8m.md) - [plain](/playlists/plain/1kPmmFOfrsEk7KzW46uo8m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1kPmmFOfrsEk7KzW46uo8m)
 
 ### [CAZZETTE – Eject pt\. I](https://open.spotify.com/playlist/1kPmmFOfrsEk7KzW46uo8m)
 

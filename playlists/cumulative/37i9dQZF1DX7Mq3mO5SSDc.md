@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7Mq3mO5SSDc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Mq3mO5SSDc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Mq3mO5SSDc)
+[pretty](/playlists/pretty/37i9dQZF1DX7Mq3mO5SSDc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Mq3mO5SSDc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7Mq3mO5SSDc)
 
 ### [Hip\-Hop Anthems: Def Jam](https://open.spotify.com/playlist/37i9dQZF1DX7Mq3mO5SSDc)
 

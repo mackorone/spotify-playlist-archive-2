@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mv4BQ3Z4nC.md) - [plain](/playlists/plain/37i9dQZF1DX7Mv4BQ3Z4nC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Mv4BQ3Z4nC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mv4BQ3Z4nC.md) - [plain](/playlists/plain/37i9dQZF1DX7Mv4BQ3Z4nC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7Mv4BQ3Z4nC)
 
 ### [The Yule Log](https://open.spotify.com/playlist/37i9dQZF1DX7Mv4BQ3Z4nC)
 

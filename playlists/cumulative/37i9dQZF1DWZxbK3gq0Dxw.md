@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZxbK3gq0Dxw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZxbK3gq0Dxw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZxbK3gq0Dxw)
+[pretty](/playlists/pretty/37i9dQZF1DWZxbK3gq0Dxw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZxbK3gq0Dxw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZxbK3gq0Dxw)
 
 ### [Gorillaz presents Cracker Island](https://open.spotify.com/playlist/37i9dQZF1DWZxbK3gq0Dxw)
 

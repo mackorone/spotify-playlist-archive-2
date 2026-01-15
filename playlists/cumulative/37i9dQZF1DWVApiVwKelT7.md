@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVApiVwKelT7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVApiVwKelT7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVApiVwKelT7)
+[pretty](/playlists/pretty/37i9dQZF1DWVApiVwKelT7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVApiVwKelT7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVApiVwKelT7)
 
 ### [Kaadhal Vali](https://open.spotify.com/playlist/37i9dQZF1DWVApiVwKelT7)
 

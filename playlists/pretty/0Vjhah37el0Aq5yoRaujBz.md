@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain](/playlists/plain/0Vjhah37el0Aq5yoRaujBz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Vjhah37el0Aq5yoRaujBz)
+pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain](/playlists/plain/0Vjhah37el0Aq5yoRaujBz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0Vjhah37el0Aq5yoRaujBz)
 
 ### [Energy Boost](https://open.spotify.com/playlist/0Vjhah37el0Aq5yoRaujBz)
 
 > Let this upbeat playlist power you through your day
 
-[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,403 likes - 306 songs - 18 hr 4 min
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,401 likes - 306 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX024QaIPhrkq.md) - [plain](/playlists/plain/37i9dQZF1DX024QaIPhrkq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX024QaIPhrkq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX024QaIPhrkq.md) - [plain](/playlists/plain/37i9dQZF1DX024QaIPhrkq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX024QaIPhrkq)
 
 ### [This Is Soundgarden](https://open.spotify.com/playlist/37i9dQZF1DX024QaIPhrkq)
 

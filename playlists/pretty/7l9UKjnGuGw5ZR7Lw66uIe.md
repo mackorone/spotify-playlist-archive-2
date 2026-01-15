@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain](/playlists/plain/7l9UKjnGuGw5ZR7Lw66uIe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7l9UKjnGuGw5ZR7Lw66uIe)
+pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain](/playlists/plain/7l9UKjnGuGw5ZR7Lw66uIe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7l9UKjnGuGw5ZR7Lw66uIe)
 
 ### [Works by Mert Çodur ](https://open.spotify.com/playlist/7l9UKjnGuGw5ZR7Lw66uIe)
 
 > neler yaşamışım ben ya...
 
-[Çodur](https://open.spotify.com/user/mertcodur) - 309 likes - 31 songs - 1 hr 27 min
+[Çodur](https://open.spotify.com/user/mertcodur) - 313 likes - 31 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

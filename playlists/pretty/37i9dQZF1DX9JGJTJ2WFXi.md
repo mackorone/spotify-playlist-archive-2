@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain](/playlists/plain/37i9dQZF1DX9JGJTJ2WFXi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9JGJTJ2WFXi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain](/playlists/plain/37i9dQZF1DX9JGJTJ2WFXi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9JGJTJ2WFXi)
 
 ### [396 Hz](https://open.spotify.com/playlist/37i9dQZF1DX9JGJTJ2WFXi)
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,642 likes - 110 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,161 likes - 110 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

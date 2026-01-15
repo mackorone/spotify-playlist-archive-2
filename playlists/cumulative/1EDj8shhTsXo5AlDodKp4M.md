@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1EDj8shhTsXo5AlDodKp4M.md) - cumulative - [plain](/playlists/plain/1EDj8shhTsXo5AlDodKp4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1EDj8shhTsXo5AlDodKp4M)
+[pretty](/playlists/pretty/1EDj8shhTsXo5AlDodKp4M.md) - cumulative - [plain](/playlists/plain/1EDj8shhTsXo5AlDodKp4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1EDj8shhTsXo5AlDodKp4M)
 
 ### [No sleep for these forgotten bangers](https://open.spotify.com/playlist/1EDj8shhTsXo5AlDodKp4M)
 

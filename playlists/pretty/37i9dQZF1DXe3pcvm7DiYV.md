@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3pcvm7DiYV.md) - [plain](/playlists/plain/37i9dQZF1DXe3pcvm7DiYV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe3pcvm7DiYV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3pcvm7DiYV.md) - [plain](/playlists/plain/37i9dQZF1DXe3pcvm7DiYV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe3pcvm7DiYV)
 
 ### [La vie c'est musclé](https://open.spotify.com/playlist/37i9dQZF1DXe3pcvm7DiYV)
 

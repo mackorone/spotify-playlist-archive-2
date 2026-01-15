@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain](/playlists/plain/37i9dQZF1DX8ZfTXESa5KP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8ZfTXESa5KP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain](/playlists/plain/37i9dQZF1DX8ZfTXESa5KP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8ZfTXESa5KP)
 
 ### [CMA Awards 2025](https://open.spotify.com/playlist/37i9dQZF1DX8ZfTXESa5KP)
 
 > A great night for cold beer and country music \- congratulations to all of the winners! Cover: Zach Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,742 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,191 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

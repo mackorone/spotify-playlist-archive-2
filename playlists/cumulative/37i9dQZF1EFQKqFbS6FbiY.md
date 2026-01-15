@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1EFQKqFbS6FbiY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFQKqFbS6FbiY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFQKqFbS6FbiY)
+[pretty](/playlists/pretty/37i9dQZF1EFQKqFbS6FbiY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFQKqFbS6FbiY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFQKqFbS6FbiY)
 
 ### [Written By Waleria Leão](https://open.spotify.com/playlist/37i9dQZF1EFQKqFbS6FbiY)
 
@@ -426,8 +426,8 @@
 | [Moralzinha](https://open.spotify.com/track/5cDarQhIkeQLe6MSTUwbZT) | [Mateus Camillo](https://open.spotify.com/artist/36SK9M4qewJfoCmbbjnpzP) | [Moralzinha](https://open.spotify.com/album/1sZAq0IjzWuL5j9GaP9jXH) | 2:05 | 2023-12-30 | 2024-01-25 |
 | [Motivo \- Ao Vivo](https://open.spotify.com/track/6B3WQUzBhn8sF894bed1LD) | [Felipe Duram](https://open.spotify.com/artist/1SbicVDBNjShlmCFsznYv7) | [Amor, Segredos e Roupas \(Ao Vivo\)](https://open.spotify.com/album/7bCdaskPVirNDwsnLcOyg7) | 2:48 | 2024-03-26 |  |
 | [Mudou o Texto](https://open.spotify.com/track/2HNGystjzE1ZhGOZ75Pa3t) | [Anderson Garotinho](https://open.spotify.com/artist/52lGRYsYPAkVkOwGGkF9y7) | [Na Pegada do Garotinho](https://open.spotify.com/album/0AYmE9SUZv5PPsWvNSAd2z) | 2:37 | 2025-08-15 | 2025-10-28 |
-| [Mudou O Texto](https://open.spotify.com/track/2yo0j2FctlAjVUP3PLl0i1) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Iniciando Os Trabalhos \- Vol\. 1](https://open.spotify.com/album/5SHPSZ3GwCQdLHd1trHxiM) | 2:43 | 2025-10-27 | 2025-12-24 |
-| [Mudou O Texto \- Ao Vivo](https://open.spotify.com/track/1FTepGDfzVde1og7lUoFNl) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [As Mais Tocadas Danilo e Davi \- 2026 \(Ao Vivo\)](https://open.spotify.com/album/4G63vFnBqGtw2bhGZDT2k8) | 2:43 | 2025-12-24 |  |
+| [Mudou O Texto](https://open.spotify.com/track/2yo0j2FctlAjVUP3PLl0i1) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Iniciando Os Trabalhos \- Vol\. 1](https://open.spotify.com/album/5SHPSZ3GwCQdLHd1trHxiM) | 2:43 | 2025-10-27 |  |
+| [Mudou O Texto \- Ao Vivo](https://open.spotify.com/track/1FTepGDfzVde1og7lUoFNl) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [As Mais Tocadas Danilo e Davi \- 2026 \(Ao Vivo\)](https://open.spotify.com/album/4G63vFnBqGtw2bhGZDT2k8) | 2:43 | 2025-12-24 | 2026-01-15 |
 | [Mudou O Texto \- Ao Vivo](https://open.spotify.com/track/4qwXyVg3jkTTRdFFgDtA7V) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [As Melhores Danilo e Davi \- 2026 \(Ao Vivo\)](https://open.spotify.com/album/1GRcaf4OAj1JYLjWGf1tQL) | 2:43 | 2025-12-23 | 2025-12-25 |
 | [Muito Bebo \- Ao Vivo](https://open.spotify.com/track/5Grar5BJy87FW3d1anpqpN) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Verãozinho de Carnaval \(Ao Vivo\)](https://open.spotify.com/album/7yxj2cU4sL9MMxlfTeXtAd) | 2:35 | 2023-12-30 |  |
 | [Mulher Não É Boba](https://open.spotify.com/track/0k1qRssJ1RAqNnP0WMmyMI) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Sobe o Som](https://open.spotify.com/album/0DVUNIC37rxzcK193fnH7T) | 3:01 | 2025-03-19 | 2025-05-15 |

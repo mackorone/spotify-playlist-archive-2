@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYeyJxik6dE1.md) - [plain](/playlists/plain/37i9dQZF1DWYeyJxik6dE1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYeyJxik6dE1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYeyJxik6dE1.md) - [plain](/playlists/plain/37i9dQZF1DWYeyJxik6dE1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYeyJxik6dE1)
 
 ### [Best of Alternative Hits 2023](https://open.spotify.com/playlist/37i9dQZF1DWYeyJxik6dE1)
 

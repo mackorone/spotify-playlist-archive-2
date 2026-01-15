@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8DxW4iib3Eq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8DxW4iib3Eq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8DxW4iib3Eq)
+[pretty](/playlists/pretty/37i9dQZF1DX8DxW4iib3Eq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8DxW4iib3Eq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8DxW4iib3Eq)
 
 ### [This Is John Legend](https://open.spotify.com/playlist/37i9dQZF1DX8DxW4iib3Eq)
 

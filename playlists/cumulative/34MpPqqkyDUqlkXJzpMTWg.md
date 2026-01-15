@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/34MpPqqkyDUqlkXJzpMTWg.md) - cumulative - [plain](/playlists/plain/34MpPqqkyDUqlkXJzpMTWg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/34MpPqqkyDUqlkXJzpMTWg)
+[pretty](/playlists/pretty/34MpPqqkyDUqlkXJzpMTWg.md) - cumulative - [plain](/playlists/plain/34MpPqqkyDUqlkXJzpMTWg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/34MpPqqkyDUqlkXJzpMTWg)
 
 ### [Beste van 2025 \| Best Of 2025 \| 2025 Wrapped NL](https://open.spotify.com/playlist/34MpPqqkyDUqlkXJzpMTWg)
 
@@ -146,7 +146,7 @@
 | [Red, White and Jersey](https://open.spotify.com/track/3ailGBMR9j635tXSADNwV6) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Red, White and Jersey / Hollow Man \(with Bruce Springsteen\)](https://open.spotify.com/album/19nHtI253SJMwVFvZ40XF0) | 3:36 | 2025-08-29 | 2025-09-23 |
 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 | 2025-09-04 | 2025-09-23 |
 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 | 2025-05-30 | 2025-09-23 |
-| [Rokershok](https://open.spotify.com/track/612O0CiLSNJ7LSa50n0HIp) | [Levi Otto](https://open.spotify.com/artist/18fb2BDza1aOquqWrxdjuW) | [Rokershok](https://open.spotify.com/album/55ZrhSivfv06r4Y7uIXwGG) | 2:26 | 2025-11-18 |  |
+| [Rokershok](https://open.spotify.com/track/612O0CiLSNJ7LSa50n0HIp) | [Otje8](https://open.spotify.com/artist/18fb2BDza1aOquqWrxdjuW) | [Rokershok](https://open.spotify.com/album/55ZrhSivfv06r4Y7uIXwGG) | 2:26 | 2025-11-18 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2025-09-22 | 2025-09-24 |
 | [Running Around](https://open.spotify.com/track/6EnbYYoc8MrJNiY47hcwG5) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around \(Niall T Remix\)](https://open.spotify.com/album/5sQ263cFJbdXmPj2Gf3lq0) | 2:04 | 2025-11-18 |  |
 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 | 2025-05-30 | 2025-09-23 |

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UGBQjvGtvy.md) - [plain](/playlists/plain/37i9dQZF1DX5UGBQjvGtvy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5UGBQjvGtvy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UGBQjvGtvy.md) - [plain](/playlists/plain/37i9dQZF1DX5UGBQjvGtvy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5UGBQjvGtvy)
 
 ### [카지노\(Big Bet\)](https://open.spotify.com/playlist/37i9dQZF1DX5UGBQjvGtvy)
 
 > Listen to the soundtracks of Disney+'s original drama Big Bet\. \(디즈니+ 오리지널 드라마 카지노의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5 likes - 96 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 96 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

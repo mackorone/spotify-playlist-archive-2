@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 128265,
       "name": "6to Sentido (Una Vuelta)",
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213264,
       "name": "Alza las Manos",
       "url": "https://open.spotify.com/track/11Np353ExW9cTo1HxI1Pfe"
@@ -8252,7 +8252,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 332000,
       "name": "Remake",
       "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
@@ -8452,6 +8452,40 @@
       "duration_ms": 207673,
       "name": "Rompe el Party (Remix)",
       "url": "https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV"
+    },
+    {
+      "album": {
+        "name": "Rompe Megat\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/4kmvYU1O2ZDHm0uufx14Yq"
+      },
+      "artists": [
+        {
+          "name": "Los Rompe Discotekas",
+          "url": "https://open.spotify.com/artist/252h8HOqQMbj0MSrH9KUQW"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "Ezequiel Matthysse",
+          "url": "https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk"
+        },
+        {
+          "name": "El Nikko DJ",
+          "url": "https://open.spotify.com/artist/73SpjqbRsmNwFhRvNUd2r9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307200,
+      "name": "Rompe Megat\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0DkMnCirVTT504bVqwiwGL"
     },
     {
       "album": {

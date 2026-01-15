@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain](/playlists/plain/37i9dQZF1DX7Ocjwy96xTX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Ocjwy96xTX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain](/playlists/plain/37i9dQZF1DX7Ocjwy96xTX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7Ocjwy96xTX)
 
 ### [IRL ANGEL ](https://open.spotify.com/playlist/37i9dQZF1DX7Ocjwy96xTX)
 
 > back up in the sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,128 likes - 117 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,526 likes - 117 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

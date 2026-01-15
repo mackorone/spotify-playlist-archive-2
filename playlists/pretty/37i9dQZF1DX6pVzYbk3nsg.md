@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain](/playlists/plain/37i9dQZF1DX6pVzYbk3nsg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6pVzYbk3nsg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain](/playlists/plain/37i9dQZF1DX6pVzYbk3nsg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6pVzYbk3nsg)
 
 ### [Bomba y Plena](https://open.spotify.com/playlist/37i9dQZF1DX6pVzYbk3nsg)
 

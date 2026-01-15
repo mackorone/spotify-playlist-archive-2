@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Skylarking (Remastered 2001)",
+        "url": "https://open.spotify.com/album/0KZzE7kp90tb85NaixWeir"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "Dear God - Remastered 2001",
+      "url": "https://open.spotify.com/track/5WuRIlM4ACXHJwcjzlm9Gx"
+    },
+    {
+      "album": {
         "name": "Hyaena (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
       },
@@ -2912,7 +2930,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217546,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/6AyMKzLmlnAfsti79lLwth"

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7g3zHOim2XylTlM7Oittr8.md) - [plain](/playlists/plain/7g3zHOim2XylTlM7Oittr8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7g3zHOim2XylTlM7Oittr8)
+pretty - [cumulative](/playlists/cumulative/7g3zHOim2XylTlM7Oittr8.md) - [plain](/playlists/plain/7g3zHOim2XylTlM7Oittr8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7g3zHOim2XylTlM7Oittr8)
 
 ### [Best of 2016:  Hot Country](https://open.spotify.com/playlist/7g3zHOim2XylTlM7Oittr8)
 

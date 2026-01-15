@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7XF2hFaHoss.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7XF2hFaHoss) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7XF2hFaHoss)
+[pretty](/playlists/pretty/37i9dQZF1DX7XF2hFaHoss.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7XF2hFaHoss) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7XF2hFaHoss)
 
 ### [Women of Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX7XF2hFaHoss)
 

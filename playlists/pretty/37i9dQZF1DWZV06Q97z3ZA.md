@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZV06Q97z3ZA.md) - [plain](/playlists/plain/37i9dQZF1DWZV06Q97z3ZA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZV06Q97z3ZA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZV06Q97z3ZA.md) - [plain](/playlists/plain/37i9dQZF1DWZV06Q97z3ZA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZV06Q97z3ZA)
 
 ### [Red, White & Royal Blue Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWZV06Q97z3ZA)
 
 > Love who you want\. It’s good foreign policy\. Listen to the music from and inspired by Red, White & Royal Blue, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,974 likes - 24 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,000 likes - 24 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

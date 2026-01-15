@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain](/playlists/plain/37i9dQZF1DXb9WXpUmdSWn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb9WXpUmdSWn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain](/playlists/plain/37i9dQZF1DXb9WXpUmdSWn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb9WXpUmdSWn)
 
 ### [Paul Simon: Covered](https://open.spotify.com/playlist/37i9dQZF1DXb9WXpUmdSWn)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain](/playlists/plain/3kTyvc7QLz9efLAPxHObFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3kTyvc7QLz9efLAPxHObFK)
+pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain](/playlists/plain/3kTyvc7QLz9efLAPxHObFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3kTyvc7QLz9efLAPxHObFK)
 
 ### [UK Hardcore/Hardstyle/Hardcore/J\-Core/Frenchcore/Uptempo/Hard Dance](https://open.spotify.com/playlist/3kTyvc7QLz9efLAPxHObFK)
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,776 songs - 6 day 0 hr 11 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,778 songs - 6 day 0 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2784,5 +2784,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2774 | [Total FKN Chaos](https://open.spotify.com/track/2JX7pSA4Do8YY9nGqmugpL) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [This Is Revelation LIVE](https://open.spotify.com/album/27MDf6pkzlMyFdqImrtTEx) | 1:37 |
 | 2775 | [Rule My Heart](https://open.spotify.com/track/2zLQxS3GNTWreWdEJNJqxL) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Rule My Heart](https://open.spotify.com/album/7tqp3lhYwtyLBP1cD8MJDe) | 2:48 |
 | 2776 | [I Could Be Yoshi](https://open.spotify.com/track/7MV3EmKme75bPXxqmm30j9) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [I Could Be Yoshi](https://open.spotify.com/album/2xdP9mWsFnLLN2gZpT2Tjd) | 2:36 |
+| 2777 | [Louder Generation \- LG x BR 2026 OST](https://open.spotify.com/track/21Y3KjRN9KPgtfJtmk2zez) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Louder Generation \(LG x BR 2026 OST\)](https://open.spotify.com/album/2K3wYcPvJm7kRvGP84TD7t) | 2:40 |
+| 2778 | [Turn Me On](https://open.spotify.com/track/20k7Iq2ZJJ8SM4reMsTZAZ) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8), [Jennster](https://open.spotify.com/artist/3Ob9ALxU5OGbFvCKmnGk8P) | [Turn Me On](https://open.spotify.com/album/4EstfbQMk9cbD9Sbt7nfhE) | 2:31 |
 
-Snapshot ID: `AAALJUp1VHZs8RVx6NUCJ3GhnDvVP4PK`
+Snapshot ID: `AAALKcuNUJtke8lt350Xf6OzWNzU6HZy`

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUXs5bD9fOOY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUXs5bD9fOOY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUXs5bD9fOOY)
+[pretty](/playlists/pretty/37i9dQZF1DWUXs5bD9fOOY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUXs5bD9fOOY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUXs5bD9fOOY)
 
 ### [クリスマスシングス Christmas Things](https://open.spotify.com/playlist/37i9dQZF1DWUXs5bD9fOOY)
 

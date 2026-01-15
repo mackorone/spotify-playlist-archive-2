@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain](/playlists/plain/37i9dQZF1DX5LYxFep0J7E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5LYxFep0J7E)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain](/playlists/plain/37i9dQZF1DX5LYxFep0J7E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5LYxFep0J7E)
 
 ### [State of Jazz Presents Best Jazz of 2025](https://open.spotify.com/playlist/37i9dQZF1DX5LYxFep0J7E)
 
 > Our editors' top picks for the best Jazz songs of the year\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,529 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,942 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

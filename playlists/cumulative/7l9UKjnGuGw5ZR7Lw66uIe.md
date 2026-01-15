@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7l9UKjnGuGw5ZR7Lw66uIe.md) - cumulative - [plain](/playlists/plain/7l9UKjnGuGw5ZR7Lw66uIe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7l9UKjnGuGw5ZR7Lw66uIe)
+[pretty](/playlists/pretty/7l9UKjnGuGw5ZR7Lw66uIe.md) - cumulative - [plain](/playlists/plain/7l9UKjnGuGw5ZR7Lw66uIe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7l9UKjnGuGw5ZR7Lw66uIe)
 
 ### [Works by Mert Çodur ](https://open.spotify.com/playlist/7l9UKjnGuGw5ZR7Lw66uIe)
 

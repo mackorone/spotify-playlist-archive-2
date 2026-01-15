@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain](/playlists/plain/37i9dQZF1DXar0WmW5YgAc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXar0WmW5YgAc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain](/playlists/plain/37i9dQZF1DXar0WmW5YgAc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXar0WmW5YgAc)
 
 ### [Soundtrack Love Songs](https://open.spotify.com/playlist/37i9dQZF1DXar0WmW5YgAc)
 
 > Love songs from the movies
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,002 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,663 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

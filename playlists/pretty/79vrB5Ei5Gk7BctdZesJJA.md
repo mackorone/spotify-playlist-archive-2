@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain](/playlists/plain/79vrB5Ei5Gk7BctdZesJJA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/79vrB5Ei5Gk7BctdZesJJA)
+pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain](/playlists/plain/79vrB5Ei5Gk7BctdZesJJA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/79vrB5Ei5Gk7BctdZesJJA)
 
 ### [DEADNOISE.FM](https://open.spotify.com/playlist/79vrB5Ei5Gk7BctdZesJJA)
 
 > Official Roadrunner Records Playlist \- This week's DEADNOISE.FM curator is Furnace Fest!
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,816 likes - 41 songs - 2 hr 10 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,815 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

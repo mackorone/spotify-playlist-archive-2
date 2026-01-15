@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/57e4EUVfkABhbsT1i1rEtp.md) - cumulative - [plain](/playlists/plain/57e4EUVfkABhbsT1i1rEtp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/57e4EUVfkABhbsT1i1rEtp)
+[pretty](/playlists/pretty/57e4EUVfkABhbsT1i1rEtp.md) - cumulative - [plain](/playlists/plain/57e4EUVfkABhbsT1i1rEtp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/57e4EUVfkABhbsT1i1rEtp)
 
 ### [Classical Is Universal](https://open.spotify.com/playlist/57e4EUVfkABhbsT1i1rEtp)
 

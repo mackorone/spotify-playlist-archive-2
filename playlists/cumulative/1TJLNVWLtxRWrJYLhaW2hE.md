@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1TJLNVWLtxRWrJYLhaW2hE.md) - cumulative - [plain](/playlists/plain/1TJLNVWLtxRWrJYLhaW2hE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1TJLNVWLtxRWrJYLhaW2hE)
+[pretty](/playlists/pretty/1TJLNVWLtxRWrJYLhaW2hE.md) - cumulative - [plain](/playlists/plain/1TJLNVWLtxRWrJYLhaW2hE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1TJLNVWLtxRWrJYLhaW2hE)
 
 ### [Good Trouble Official Playlist](https://open.spotify.com/playlist/1TJLNVWLtxRWrJYLhaW2hE)
 

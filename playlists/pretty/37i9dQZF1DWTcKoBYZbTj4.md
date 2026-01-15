@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcKoBYZbTj4.md) - [plain](/playlists/plain/37i9dQZF1DWTcKoBYZbTj4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTcKoBYZbTj4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcKoBYZbTj4.md) - [plain](/playlists/plain/37i9dQZF1DWTcKoBYZbTj4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTcKoBYZbTj4)
 
 ### [Cancionero José Alfredo Jiménez](https://open.spotify.com/playlist/37i9dQZF1DWTcKoBYZbTj4)
 
 > Versiones que andan por el camino del rey de la canción ranchera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,974 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,125 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

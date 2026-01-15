@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain](/playlists/plain/37i9dQZF1DWVYHdtUb7Wil) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVYHdtUb7Wil)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain](/playlists/plain/37i9dQZF1DWVYHdtUb7Wil) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVYHdtUb7Wil)
 
 ### [Chilled Hits](https://open.spotify.com/playlist/37i9dQZF1DWVYHdtUb7Wil)
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,832 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,289 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 99 | [Headcloud \(Demo\)](https://open.spotify.com/track/6DxQYU5IZx8VDs59g5NEEk) | [Will Blume](https://open.spotify.com/artist/5p3LpgVymn22unmV91hhtX) | [Skylights](https://open.spotify.com/album/5PAFIbFryYtRfYZ8GepWm6) | 1:33 |
 | 100 | [Hands](https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Hands](https://open.spotify.com/album/6Y6vPRTT6n4uMIz3tC4vzp) | 2:51 |
 
-Snapshot ID: `AAAAAEVdBtNvr6CeSnJoFXr4HwS7iEn5`
+Snapshot ID: `AAAAACL8XtZimHJZt5iCkeVcwNBii1+X`

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/2HDYebuHk5AtoRyy39VrbY"
+      },
+      "artists": [
+        {
+          "name": "Corbin LaRue",
+          "url": "https://open.spotify.com/artist/2DeV73WYHR55daVaPNYdl3"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157089,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/37eiKjierQYo0CFbsi67hf"
+    },
+    {
+      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/0SO2tmZiqgP598lHIoWHI5"
       },
@@ -488,7 +506,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201123,
       "name": "As it was",
       "url": "https://open.spotify.com/track/7wwSfI1U4kMKf3u5UP2owx"
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182119,
       "name": "Cold Heart",
       "url": "https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG"
@@ -3689,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/2hLqovJDbgSMIuj8tzjMIQ"
+      },
+      "artists": [
+        {
+          "name": "Bryan Colbert",
+          "url": "https://open.spotify.com/artist/3mwhMQ3EM94LX73AVoqxwb"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147809,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/21JyM0ZFwj14HLPBRdIidP"
+    },
+    {
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/7FxObz6mk4OeaVu2XViEnY"
       },
@@ -3790,7 +3826,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 222810,
       "name": "Just Give Me A Reason",
       "url": "https://open.spotify.com/track/5HabmTUtwyVMz56hoyLupX"
@@ -5364,6 +5400,24 @@
       "duration_ms": 151591,
       "name": "Piano Man",
       "url": "https://open.spotify.com/track/0VQsMDssKFEUG57CZ31YcD"
+    },
+    {
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/2yWHVaVYNQbJIhcSDVnde9"
+      },
+      "artists": [
+        {
+          "name": "Alexander Windale",
+          "url": "https://open.spotify.com/artist/0HkHkfvuF0nxswWANtem18"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166492,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/3zohOG2bCU8uKPEd7IXT2e"
     },
     {
       "album": {

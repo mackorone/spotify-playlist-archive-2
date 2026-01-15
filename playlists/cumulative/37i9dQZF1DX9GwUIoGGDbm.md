@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9GwUIoGGDbm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9GwUIoGGDbm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9GwUIoGGDbm)
+[pretty](/playlists/pretty/37i9dQZF1DX9GwUIoGGDbm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9GwUIoGGDbm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9GwUIoGGDbm)
 
 ### [KAGUYA\-SAMA: LOVE IS WAR](https://open.spotify.com/playlist/37i9dQZF1DX9GwUIoGGDbm)
 

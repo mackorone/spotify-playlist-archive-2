@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain](/playlists/plain/37i9dQZF1DWZ6Old3hrPIh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ6Old3hrPIh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain](/playlists/plain/37i9dQZF1DWZ6Old3hrPIh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ6Old3hrPIh)
 
 ### [Women of: Coke Studio Pakistan](https://open.spotify.com/playlist/37i9dQZF1DWZ6Old3hrPIh)
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Zeb Bangash, Noorima Rehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,274 likes - 61 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,406 likes - 61 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

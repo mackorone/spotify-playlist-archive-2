@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9lAYMw7KoAO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9lAYMw7KoAO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9lAYMw7KoAO)
+[pretty](/playlists/pretty/37i9dQZF1DX9lAYMw7KoAO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9lAYMw7KoAO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9lAYMw7KoAO)
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 

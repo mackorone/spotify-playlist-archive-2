@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2OeXDYwOkCD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2OeXDYwOkCD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2OeXDYwOkCD)
+[pretty](/playlists/pretty/37i9dQZF1DX2OeXDYwOkCD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2OeXDYwOkCD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2OeXDYwOkCD)
 
 ### [Dos Iconos: Rosalía y C\. Tangana](https://open.spotify.com/playlist/37i9dQZF1DX2OeXDYwOkCD)
 

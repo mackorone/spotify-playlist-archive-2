@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/67uEKAhAdvMJvumeC8ZgjB.md) - cumulative - [plain](/playlists/plain/67uEKAhAdvMJvumeC8ZgjB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/67uEKAhAdvMJvumeC8ZgjB)
+[pretty](/playlists/pretty/67uEKAhAdvMJvumeC8ZgjB.md) - cumulative - [plain](/playlists/plain/67uEKAhAdvMJvumeC8ZgjB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/67uEKAhAdvMJvumeC8ZgjB)
 
 ### [Low Key Revelry](https://open.spotify.com/playlist/67uEKAhAdvMJvumeC8ZgjB)
 

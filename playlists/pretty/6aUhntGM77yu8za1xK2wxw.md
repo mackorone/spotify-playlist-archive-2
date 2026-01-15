@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/6aUhntGM77yu8za1xK2wxw.md) - [plain](/playlists/plain/6aUhntGM77yu8za1xK2wxw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6aUhntGM77yu8za1xK2wxw)
+pretty - [cumulative](/playlists/cumulative/6aUhntGM77yu8za1xK2wxw.md) - [plain](/playlists/plain/6aUhntGM77yu8za1xK2wxw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6aUhntGM77yu8za1xK2wxw)
 
 ### [MexiGo](https://open.spotify.com/playlist/6aUhntGM77yu8za1xK2wxw)
 
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/6aUhntGM77yu8za1xK2wxw.md) - [plain]
 | 39 | [9](https://open.spotify.com/track/5JXtkWtuqS8Dm8sKbtPGWa) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [ZUSHI](https://open.spotify.com/album/6awMz5xtEk8XSlID98YfMv) | 1:27 |
 | 40 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 |
 | 41 | [HUMBLE PIE](https://open.spotify.com/track/16ENEIzweLoEo2Yvkurtlu) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [HUMBLE PIE](https://open.spotify.com/album/3azhjD2DWxvXALRNVC2qjq) | 2:27 |
-| 42 | [TIMELESS BEAT](https://open.spotify.com/track/5wu08ZhCp0DFDp5bRSeYTH) | [SOPHIA BEATS85](https://open.spotify.com/artist/6Tx7myNNatnvj5kCREQcDP) | [TIMELESS BEAT](https://open.spotify.com/album/3nfyJwt1TRNW3AxvYccLF0) | 4:17 |
+| 42 | [TIMELESS BEAT](https://open.spotify.com/track/5wu08ZhCp0DFDp5bRSeYTH) | [ZAKISZK](https://open.spotify.com/artist/1NT1lGAHETLT8dMdAINYZ3) | [TIMELESS BEAT](https://open.spotify.com/album/3nfyJwt1TRNW3AxvYccLF0) | 4:17 |
 | 43 | [run run run](https://open.spotify.com/track/3FjqOQVA3dHyWiCIITxB5B) | [rebug](https://open.spotify.com/artist/3SOWE4MA5UB2mNXnwNDXTo) | [run run run](https://open.spotify.com/album/6Hmoy04QfFNYrYTJCj1Qwo) | 1:19 |
 | 44 | [HNIC](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 |
 | 45 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 |

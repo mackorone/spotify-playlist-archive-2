@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain](/playlists/plain/37i9dQZF1DWXbxDw7wBcIC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXbxDw7wBcIC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain](/playlists/plain/37i9dQZF1DWXbxDw7wBcIC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXbxDw7wBcIC)
 
 ### [Scratchy Back Porch Blues](https://open.spotify.com/playlist/37i9dQZF1DWXbxDw7wBcIC)
 

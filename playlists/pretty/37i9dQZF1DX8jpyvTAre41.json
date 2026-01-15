@@ -1,13 +1,45 @@
 {
   "description": "The best rock songs of the moment. Cover: Softcult",
-  "num_followers": 194220,
+  "num_followers": 194173,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPCl3g8k8VcYH63ikVHtaCJo1iab",
+  "snapshot_id": "AAAAADl+ED0F9Z+m1TabS+jLjhSOczHI",
   "tracks": [
+    {
+      "added_at": "2026-01-09 05:01:24",
+      "album": {
+        "name": "I Know Where Mark Chen Lives",
+        "url": "https://open.spotify.com/album/6J0USYx5H0mtsqxVwEREHN"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "duration_ms": 110101,
+      "name": "I Know Where Mark Chen Lives",
+      "url": "https://open.spotify.com/track/6ZzUmrPFLDuMM51uuVSb0h"
+    },
+    {
+      "added_at": "2026-01-09 05:01:24",
+      "album": {
+        "name": "viagr aboys (Japanese Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 159390,
+      "name": "Therapy II",
+      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
+    },
     {
       "added_at": "2025-12-12 05:01:28",
       "album": {
@@ -25,9 +57,41 @@
       "url": "https://open.spotify.com/track/5S03UZD1PCeuXyBWZ9Ugml"
     },
     {
+      "added_at": "2026-01-09 05:01:24",
+      "album": {
+        "name": "Profane Prophecy and Pharmacy Chronicles",
+        "url": "https://open.spotify.com/album/3mbekn6ySDgzBW57jz6B1U"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 247639,
+      "name": "Profane Prophecy",
+      "url": "https://open.spotify.com/track/5EIMb9DtKFDvq9JSHgmVbs"
+    },
+    {
+      "added_at": "2026-01-09 05:01:24",
+      "album": {
+        "name": "The Things That I've Lost",
+        "url": "https://open.spotify.com/album/4zkwJAt5ZJAJUyQjrCtMUi"
+      },
+      "artists": [
+        {
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+        }
+      ],
+      "duration_ms": 178682,
+      "name": "Dark Clouds",
+      "url": "https://open.spotify.com/track/7K5POEtKn2bn6mP7jUrOns"
+    },
+    {
       "added_at": "2025-12-19 01:37:55",
       "album": {
-        "name": "Cry All Month",
+        "name": "Pain. // Cry All Month",
         "url": "https://open.spotify.com/album/4QbeJQGDwYkZmwqp4r5Eow"
       },
       "artists": [
@@ -39,6 +103,22 @@
       "duration_ms": 189090,
       "name": "Cry All Month",
       "url": "https://open.spotify.com/track/6JucJVJofpzjawz7Ey0deY"
+    },
+    {
+      "added_at": "2026-01-09 17:21:00",
+      "album": {
+        "name": "where'd it all go wrong",
+        "url": "https://open.spotify.com/album/6zNqKfXziatNRuwpPPRS4v"
+      },
+      "artists": [
+        {
+          "name": "Cam Kahin",
+          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "where'd it all go wrong",
+      "url": "https://open.spotify.com/track/5QBY64TRrOVfB9RmhbgMPn"
     },
     {
       "added_at": "2025-12-12 05:01:28",
@@ -75,6 +155,38 @@
       "duration_ms": 190428,
       "name": "Make a Mess",
       "url": "https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp"
+    },
+    {
+      "added_at": "2026-01-09 05:01:24",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1COf08hR9sNHhd6jNHAjbn"
+      },
+      "artists": [
+        {
+          "name": "Avalon Stone",
+          "url": "https://open.spotify.com/artist/01TZdoUJTdNanUe9TRIpcq"
+        }
+      ],
+      "duration_ms": 201287,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3q9tHGzGK8e94sTusovJYh"
+    },
+    {
+      "added_at": "2026-01-09 05:01:24",
+      "album": {
+        "name": "Stranger Now",
+        "url": "https://open.spotify.com/album/4QLW6fLAAKDNbZLQaJYptE"
+      },
+      "artists": [
+        {
+          "name": "Wintersleep",
+          "url": "https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE"
+        }
+      ],
+      "duration_ms": 235765,
+      "name": "Stranger Now",
+      "url": "https://open.spotify.com/track/2NsGlGykcMfPnyeWdPXO6J"
     },
     {
       "added_at": "2025-12-12 05:01:28",

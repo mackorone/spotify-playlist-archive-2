@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX87WMoVNV42z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX87WMoVNV42z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX87WMoVNV42z)
+[pretty](/playlists/pretty/37i9dQZF1DX87WMoVNV42z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX87WMoVNV42z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX87WMoVNV42z)
 
 ### [Dance Brothers Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX87WMoVNV42z)
 

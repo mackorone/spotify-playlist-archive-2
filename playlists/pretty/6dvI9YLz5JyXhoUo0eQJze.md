@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6dvI9YLz5JyXhoUo0eQJze.md) - [plain](/playlists/plain/6dvI9YLz5JyXhoUo0eQJze) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6dvI9YLz5JyXhoUo0eQJze)
+pretty - [cumulative](/playlists/cumulative/6dvI9YLz5JyXhoUo0eQJze.md) - [plain](/playlists/plain/6dvI9YLz5JyXhoUo0eQJze) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6dvI9YLz5JyXhoUo0eQJze)
 
 ### [Top Tracks in Popculture](https://open.spotify.com/playlist/6dvI9YLz5JyXhoUo0eQJze)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,654 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,652 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

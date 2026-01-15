@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4lzA0GA8RYf.md) - [plain](/playlists/plain/37i9dQZF1DX4lzA0GA8RYf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4lzA0GA8RYf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4lzA0GA8RYf.md) - [plain](/playlists/plain/37i9dQZF1DX4lzA0GA8RYf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4lzA0GA8RYf)
 
 ### [Los Viejones](https://open.spotify.com/playlist/37i9dQZF1DX4lzA0GA8RYf)
 
 > Las clásicas de los ídolos de la Música Mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,468 likes - 264 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,939 likes - 264 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

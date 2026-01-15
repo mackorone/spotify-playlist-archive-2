@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain](/playlists/plain/37i9dQZF1DWZbHJkHSDOTR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZbHJkHSDOTR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain](/playlists/plain/37i9dQZF1DWZbHJkHSDOTR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZbHJkHSDOTR)
 
 ### [Mood Ring presents: Best R&B Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DWZbHJkHSDOTR)
 
 > The best of Canadian R&B this year, handpicked by Spotify Canada editors\. Cover: Avenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,303 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,356 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

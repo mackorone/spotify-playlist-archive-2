@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 317789,
       "name": "By the Grace of God",
       "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
@@ -721,6 +721,32 @@
     },
     {
       "album": {
+        "name": "We Must Respond (Deluxe) [Live]",
+        "url": "https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419549,
+      "name": "Even Though I Walk - Live At Church",
+      "url": "https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR"
+    },
+    {
+      "album": {
         "name": "We Will Not Be Shaken",
         "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
       },
@@ -1060,7 +1086,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 453588,
       "name": "Graves into Gardens",
       "url": "https://open.spotify.com/track/6mYn13stuc74Bd5EHbeqKj"
@@ -3064,7 +3090,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 389982,
       "name": "Send Me (Live)",
       "url": "https://open.spotify.com/track/5f9NBSHUJ85cpV1tfDDJM9"

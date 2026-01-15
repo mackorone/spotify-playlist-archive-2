@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5It2yyyMjbwbpSO7B4Mb0I.md) - [plain](/playlists/plain/5It2yyyMjbwbpSO7B4Mb0I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5It2yyyMjbwbpSO7B4Mb0I)
+pretty - [cumulative](/playlists/cumulative/5It2yyyMjbwbpSO7B4Mb0I.md) - [plain](/playlists/plain/5It2yyyMjbwbpSO7B4Mb0I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5It2yyyMjbwbpSO7B4Mb0I)
 
 ### [Latin Is Universal](https://open.spotify.com/playlist/5It2yyyMjbwbpSO7B4Mb0I)
 

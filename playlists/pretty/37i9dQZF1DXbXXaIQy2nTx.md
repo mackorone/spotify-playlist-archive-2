@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXXaIQy2nTx.md) - [plain](/playlists/plain/37i9dQZF1DXbXXaIQy2nTx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbXXaIQy2nTx)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXXaIQy2nTx.md) - [plain](/playlists/plain/37i9dQZF1DXbXXaIQy2nTx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbXXaIQy2nTx)
 
 ### [SAMURAI CHAMPLOO](https://open.spotify.com/playlist/37i9dQZF1DXbXXaIQy2nTx)
 
 > Music from "SAMURAI CHAMPLOO" ©︎manglobe／下井草チャンプルーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,051 likes - 78 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,815 likes - 78 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain](/playlists/plain/37i9dQZF1DX9ET7mtaGmRc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9ET7mtaGmRc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain](/playlists/plain/37i9dQZF1DX9ET7mtaGmRc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9ET7mtaGmRc)
 
 ### [BLACKPINK WORLD TOUR \[BORN PINK\] FINALE IN SEOUL](https://open.spotify.com/playlist/37i9dQZF1DX9ET7mtaGmRc)
 
 > Check out BLACKPINK's best songs while celebrating the finale concert of BLACKPINK's world tour!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,938 likes - 35 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,884 likes - 35 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1995,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow's Sun",
+        "url": "https://open.spotify.com/album/45WEMdj0OAgsFOb30ucG2K"
+      },
+      "artists": [
+        {
+          "name": "Lars Gabriel",
+          "url": "https://open.spotify.com/artist/63alNoSmyRWv1CCeAdDgWO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324101,
+      "name": "Tomorrow's Sun",
+      "url": "https://open.spotify.com/track/0qkvFJ318yGiNYKahxlzld"
+    },
+    {
+      "album": {
         "name": "TRICK and TREAT",
         "url": "https://open.spotify.com/album/1WPgTdmt0CCN1Ff81i4igu"
       },

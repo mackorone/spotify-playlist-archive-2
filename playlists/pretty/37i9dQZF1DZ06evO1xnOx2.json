@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 624182,
+  "num_followers": 624631,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAACu3vXNCzBuvzKBXOOPzbDv",
+  "snapshot_id": "aWWLAAAAAABTA113/oOgg9SAV9EkHF8f",
   "tracks": [
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat Your Young",
-        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+        "name": "The Parting Glass (Live from the Late Late Show)",
+        "url": "https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 227746,
-      "name": "Through Me (The Flood)",
-      "url": "https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV"
+      "duration_ms": 135133,
+      "name": "The Parting Glass - Live from the Late Late Show",
+      "url": "https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Parting Glass (Live from the Late Late Show)",
-        "url": "https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A"
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 135133,
-      "name": "The Parting Glass - Live from the Late Late Show",
-      "url": "https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ"
+      "duration_ms": 227746,
+      "name": "Through Me (The Flood)",
+      "url": "https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV"
     },
     {
       "added_at": null,

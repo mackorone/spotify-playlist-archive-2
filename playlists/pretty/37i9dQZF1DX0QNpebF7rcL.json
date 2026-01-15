@@ -1,13 +1,45 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 144930,
+  "num_followers": 145601,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc",
+  "snapshot_id": "AAAAAFHRj29ek/O4guD9LepaJSrf1yUy",
   "tracks": [
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Bad All By Myself",
+        "url": "https://open.spotify.com/album/0KqcosWr5cg8RED2aVMWdn"
+      },
+      "artists": [
+        {
+          "name": "Lil Ed & The Blues Imperials",
+          "url": "https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Bad All By Myself",
+      "url": "https://open.spotify.com/track/3OzxSwZdBeZvGkzypS7MiN"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Can't Shake It",
+        "url": "https://open.spotify.com/album/4R82wUVO0IO9JujMybWwD4"
+      },
+      "artists": [
+        {
+          "name": "Altered Five Blues Band",
+          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
+        }
+      ],
+      "duration_ms": 209888,
+      "name": "Can't Shake It",
+      "url": "https://open.spotify.com/track/0mzkzGp6soO8mqdMxjXNt8"
+    },
     {
       "added_at": "2025-12-12 05:00:30",
       "album": {
@@ -771,22 +803,6 @@
       "duration_ms": 302146,
       "name": "Love Lives Here",
       "url": "https://open.spotify.com/track/12DquyXLBUV1fWw47GCHLI"
-    },
-    {
-      "added_at": "2025-06-06 04:00:06",
-      "album": {
-        "name": "Artificial",
-        "url": "https://open.spotify.com/album/49LQVLiUGTJG21hla3nYhe"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 262563,
-      "name": "Artificial",
-      "url": "https://open.spotify.com/track/4INNhdZ6nnLhWVLflVWqfC"
     },
     {
       "added_at": "2025-06-06 06:17:11",
@@ -1819,22 +1835,6 @@
       "duration_ms": 231920,
       "name": "Thunderbird",
       "url": "https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Testifyin'",
-        "url": "https://open.spotify.com/album/0zNY2rhuQ5b3MLYFjqfNtp"
-      },
-      "artists": [
-        {
-          "name": "Altered Five Blues Band",
-          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
-        }
-      ],
-      "duration_ms": 231829,
-      "name": "Whiskey Got Me Married",
-      "url": "https://open.spotify.com/track/1LlJhzftKCr4SVRfOgIYXN"
     }
   ],
   "unique_name": "Got Blues",

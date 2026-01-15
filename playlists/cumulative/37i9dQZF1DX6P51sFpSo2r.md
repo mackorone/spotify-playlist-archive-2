@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6P51sFpSo2r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6P51sFpSo2r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6P51sFpSo2r)
+[pretty](/playlists/pretty/37i9dQZF1DX6P51sFpSo2r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6P51sFpSo2r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6P51sFpSo2r)
 
 ### [Metalcore Classics](https://open.spotify.com/playlist/37i9dQZF1DX6P51sFpSo2r)
 
-> The perfect mix between old\-school and modern Metalcore\. Cover: A7X
+> The perfect mix between old\-school and modern Metalcore\. Cover: Bullet For My Valentine
 
 95 songs - 6 hr 9 min
 

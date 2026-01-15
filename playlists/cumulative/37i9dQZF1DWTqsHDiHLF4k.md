@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTqsHDiHLF4k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTqsHDiHLF4k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTqsHDiHLF4k)
+[pretty](/playlists/pretty/37i9dQZF1DWTqsHDiHLF4k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTqsHDiHLF4k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTqsHDiHLF4k)
 
 ### [Mixtape \#19 "Circular" Editors' Choice](https://open.spotify.com/playlist/37i9dQZF1DWTqsHDiHLF4k)
 

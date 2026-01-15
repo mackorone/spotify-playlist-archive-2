@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX17ZoHNcnTgi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX17ZoHNcnTgi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX17ZoHNcnTgi)
+[pretty](/playlists/pretty/37i9dQZF1DX17ZoHNcnTgi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX17ZoHNcnTgi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX17ZoHNcnTgi)
 
 ### [Silvana Estrada + José Alfredo Jiménez](https://open.spotify.com/playlist/37i9dQZF1DX17ZoHNcnTgi)
 

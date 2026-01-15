@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSvQ8kha4pT.md) - [plain](/playlists/plain/37i9dQZF1DWXSvQ8kha4pT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXSvQ8kha4pT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSvQ8kha4pT.md) - [plain](/playlists/plain/37i9dQZF1DWXSvQ8kha4pT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXSvQ8kha4pT)
 
 ### [Bichota Mor](https://open.spotify.com/playlist/37i9dQZF1DWXSvQ8kha4pT)
 
 > tú y yo, bebé, haciendo de todo 🧜🏼‍♀️ 🔥 😎 Foto: Feid, KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,947 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,935 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

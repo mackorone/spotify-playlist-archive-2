@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXb1fcDuOYLYU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb1fcDuOYLYU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb1fcDuOYLYU)
+[pretty](/playlists/pretty/37i9dQZF1DXb1fcDuOYLYU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb1fcDuOYLYU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb1fcDuOYLYU)
 
 ### [Women of Latin](https://open.spotify.com/playlist/37i9dQZF1DXb1fcDuOYLYU)
 

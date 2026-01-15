@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Enjoy Yourself",
+        "url": "https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231082,
+      "name": "Hand on Your Heart",
+      "url": "https://open.spotify.com/track/3pS5eiuBPsQn5ID6RElg9G"
+    },
+    {
+      "album": {
         "name": "Rokstarr (Special Edition)",
         "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147160,
       "name": "Kiss Bang Bang",
       "url": "https://open.spotify.com/track/2Eb8ew1pvGvUWNiTPKdv0k"

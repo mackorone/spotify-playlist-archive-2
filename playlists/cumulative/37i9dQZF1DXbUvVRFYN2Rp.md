@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbUvVRFYN2Rp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbUvVRFYN2Rp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbUvVRFYN2Rp)
+[pretty](/playlists/pretty/37i9dQZF1DXbUvVRFYN2Rp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbUvVRFYN2Rp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbUvVRFYN2Rp)
 
 ### [Show Me The Money \(쇼미더머니\)](https://open.spotify.com/playlist/37i9dQZF1DXbUvVRFYN2Rp)
 

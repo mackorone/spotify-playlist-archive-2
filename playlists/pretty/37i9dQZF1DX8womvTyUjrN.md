@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain](/playlists/plain/37i9dQZF1DX8womvTyUjrN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8womvTyUjrN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain](/playlists/plain/37i9dQZF1DX8womvTyUjrN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8womvTyUjrN)
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
 > The new wave of Latin pop 🌊 Cover: Zulia & LAGOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,595 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,935 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Laguaira](https://open.spotify.com/track/5KvNhkT5A9NgqqOFlVGr41) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Laguaira](https://open.spotify.com/album/0h4vfGz23WR5qRROSe629E) | 2:48 |
 | 50 | [No me creas](https://open.spotify.com/track/4YVeAMz8NusUU7dVDEKAQR) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [No me creas](https://open.spotify.com/album/1ZHB0X6tAelp1Vo8B9LirU) | 3:26 |
 
-Snapshot ID: `AAAAALMtrZ27oPjxAp6MMH6UDiavz4qx`
+Snapshot ID: `AAAAAINHpQGcLkFdqra//f63fPg4MEnj`

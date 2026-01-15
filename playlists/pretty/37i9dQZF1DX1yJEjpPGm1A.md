@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain](/playlists/plain/37i9dQZF1DX1yJEjpPGm1A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1yJEjpPGm1A)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yJEjpPGm1A.md) - [plain](/playlists/plain/37i9dQZF1DX1yJEjpPGm1A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1yJEjpPGm1A)
 
 ### [결혼 & 축가 \(K\-Pop Wedding\)](https://open.spotify.com/playlist/37i9dQZF1DX1yJEjpPGm1A)
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,512 likes - 85 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,592 likes - 85 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

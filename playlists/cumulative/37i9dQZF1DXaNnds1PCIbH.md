@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaNnds1PCIbH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaNnds1PCIbH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaNnds1PCIbH)
+[pretty](/playlists/pretty/37i9dQZF1DXaNnds1PCIbH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaNnds1PCIbH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaNnds1PCIbH)
 
 ### [Jharrel Jerome's Taste](https://open.spotify.com/playlist/37i9dQZF1DXaNnds1PCIbH)
 

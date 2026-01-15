@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVxsonK4VtRH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVxsonK4VtRH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVxsonK4VtRH)
+[pretty](/playlists/pretty/37i9dQZF1DWVxsonK4VtRH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVxsonK4VtRH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVxsonK4VtRH)
 
 ### [Call of Duty Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVxsonK4VtRH)
 

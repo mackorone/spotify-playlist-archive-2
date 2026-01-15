@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y8kMPjaqrb.md) - [plain](/playlists/plain/37i9dQZF1DX0Y8kMPjaqrb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0Y8kMPjaqrb)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y8kMPjaqrb.md) - [plain](/playlists/plain/37i9dQZF1DX0Y8kMPjaqrb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0Y8kMPjaqrb)
 
 ### [\-BELLE\-　竜とそばかすの姫 ](https://open.spotify.com/playlist/37i9dQZF1DX0Y8kMPjaqrb)
 
 > Music from Studio Chizu's new movie "BELLE"!  ©︎STUDIO CHIZU/ 映画『竜とそばかすの姫』の音楽をプレイリストで。豪華ミュージシャン、作家陣が音楽の魅力を語る「Music+Talk」版は<a href="spotify:show:0GVl86Z7umr9JEu8EhN22m">こちら</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,077 likes - 71 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,079 likes - 71 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

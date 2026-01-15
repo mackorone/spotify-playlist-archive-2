@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2wSuRDAzIMCwM3j5NOMFop.md) - cumulative - [plain](/playlists/plain/2wSuRDAzIMCwM3j5NOMFop) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2wSuRDAzIMCwM3j5NOMFop)
+[pretty](/playlists/pretty/2wSuRDAzIMCwM3j5NOMFop.md) - cumulative - [plain](/playlists/plain/2wSuRDAzIMCwM3j5NOMFop) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2wSuRDAzIMCwM3j5NOMFop)
 
 ### [From the Mouth of Evil](https://open.spotify.com/playlist/2wSuRDAzIMCwM3j5NOMFop)
 

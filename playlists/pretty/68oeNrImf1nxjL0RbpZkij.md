@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/68oeNrImf1nxjL0RbpZkij.md) - [plain](/playlists/plain/68oeNrImf1nxjL0RbpZkij) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/68oeNrImf1nxjL0RbpZkij)
+pretty - [cumulative](/playlists/cumulative/68oeNrImf1nxjL0RbpZkij.md) - [plain](/playlists/plain/68oeNrImf1nxjL0RbpZkij) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/68oeNrImf1nxjL0RbpZkij)
 
 ### [Early Morning Rise](https://open.spotify.com/playlist/68oeNrImf1nxjL0RbpZkij)
 
 > Chill songs for lazy mornings\. You'll roll out of bed and get the coffee on, eventually ...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,008 likes - 27 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,007 likes - 27 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

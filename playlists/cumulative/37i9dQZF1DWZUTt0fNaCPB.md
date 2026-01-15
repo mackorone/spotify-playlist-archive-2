@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZUTt0fNaCPB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZUTt0fNaCPB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZUTt0fNaCPB)
+[pretty](/playlists/pretty/37i9dQZF1DWZUTt0fNaCPB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZUTt0fNaCPB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZUTt0fNaCPB)
 
 ### [Running to Rock 170\-190 BPM](https://open.spotify.com/playlist/37i9dQZF1DWZUTt0fNaCPB)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain](/playlists/plain/37i9dQZF1DWW5pERGrNVob) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW5pERGrNVob)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain](/playlists/plain/37i9dQZF1DWW5pERGrNVob) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW5pERGrNVob)
 
 ### [This is MAMAMOO](https://open.spotify.com/playlist/37i9dQZF1DWW5pERGrNVob)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0CM2xT3aAkN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0CM2xT3aAkN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0CM2xT3aAkN)
+[pretty](/playlists/pretty/37i9dQZF1DX0CM2xT3aAkN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0CM2xT3aAkN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0CM2xT3aAkN)
 
 ### [Renaissance Classics](https://open.spotify.com/playlist/37i9dQZF1DX0CM2xT3aAkN)
 

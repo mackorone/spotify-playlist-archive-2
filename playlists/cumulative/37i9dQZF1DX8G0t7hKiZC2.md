@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8G0t7hKiZC2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8G0t7hKiZC2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8G0t7hKiZC2)
+[pretty](/playlists/pretty/37i9dQZF1DX8G0t7hKiZC2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8G0t7hKiZC2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8G0t7hKiZC2)
 
 ### [Barack Obama's 2021 Summer Playlist](https://open.spotify.com/playlist/37i9dQZF1DX8G0t7hKiZC2)
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: YONAKA",
+  "description": "The UK's biggest rock playlist. Cover: Viagra Boys ",
   "name": "The Rock List",
   "tracks": [
     {
@@ -5298,7 +5298,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198614,
       "name": "Doo Doo Doo Doo Doo",
       "url": "https://open.spotify.com/track/4EU5lWEahNC2sv6IhNGzkq"
@@ -5706,7 +5706,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 251040,
       "name": "ENDLESS DEATHLESS",
       "url": "https://open.spotify.com/track/2qtCyGr5RDgNVxTpV47gXP"
@@ -5994,7 +5994,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196320,
       "name": "Exist",
       "url": "https://open.spotify.com/track/4aWW6ZqgmD84EMUuBZihI4"
@@ -7224,6 +7224,24 @@
       "duration_ms": 383400,
       "name": "Gethsemane",
       "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3j2H05IR3iTMMQ3FeYQXt7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149558,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO"
     },
     {
       "album": {
@@ -9592,6 +9610,24 @@
       "duration_ms": 240826,
       "name": "I'm So Sorry",
       "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
+    },
+    {
+      "album": {
+        "name": "I'm The Outside",
+        "url": "https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS"
+      },
+      "artists": [
+        {
+          "name": "Angel Du$t",
+          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111666,
+      "name": "I'm The Outside",
+      "url": "https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO"
     },
     {
       "album": {
@@ -12250,7 +12286,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 254434,
       "name": "midori",
       "url": "https://open.spotify.com/track/6yFrdnr5l7TirwCgpQrdTj"
@@ -12376,7 +12412,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218335,
       "name": "Misery",
       "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
@@ -13018,7 +13054,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160862,
       "name": "Need",
       "url": "https://open.spotify.com/track/4Gn57YYtIUx3acmDkClIe3"
@@ -13786,6 +13822,24 @@
       "duration_ms": 189600,
       "name": "NVR RLLY",
       "url": "https://open.spotify.com/track/4rKY7tnvkK72142WJkVL0b"
+    },
+    {
+      "album": {
+        "name": "Obligations",
+        "url": "https://open.spotify.com/album/0e9NLcH8515b1LwDtchq1N"
+      },
+      "artists": [
+        {
+          "name": "IST IST",
+          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160880,
+      "name": "Obligations",
+      "url": "https://open.spotify.com/track/0JP7lokt6eLt0KpEJtxApe"
     },
     {
       "album": {
@@ -17253,6 +17307,24 @@
     },
     {
       "album": {
+        "name": "SLUGLIFE",
+        "url": "https://open.spotify.com/album/3u7Yzw75rdt8wfPGISf8N9"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283040,
+      "name": "SLUGLIFE",
+      "url": "https://open.spotify.com/track/1NHC32sx6ZrSgoEid0U496"
+    },
+    {
+      "album": {
         "name": "Small World Syndrome",
         "url": "https://open.spotify.com/album/5CZ3urtWdgLk6av5TUFwn5"
       },
@@ -19575,6 +19647,24 @@
     },
     {
       "album": {
+        "name": "viagr aboys (Japanese Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159390,
+      "name": "Therapy II",
+      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
+    },
+    {
+      "album": {
         "name": "There\u2019s No More Underground",
         "url": "https://open.spotify.com/album/5euflJlUQaylKswQycK6oS"
       },
@@ -20238,7 +20328,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192087,
       "name": "Truth",
       "url": "https://open.spotify.com/track/3qO1aPC7smPGfQbjeoZ4JI"
@@ -20714,6 +20804,24 @@
       "duration_ms": 224773,
       "name": "Victim",
       "url": "https://open.spotify.com/track/6HVukYjftyc9qD2XDsFlzk"
+    },
+    {
+      "album": {
+        "name": "Video Game",
+        "url": "https://open.spotify.com/album/38NA1k4GKUFLNZdiGGPwaS"
+      },
+      "artists": [
+        {
+          "name": "Sick Joy",
+          "url": "https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251626,
+      "name": "Video Game",
+      "url": "https://open.spotify.com/track/5ooRkehNy78cEq1IvPBuxr"
     },
     {
       "album": {
@@ -21894,6 +22002,24 @@
       "duration_ms": 288946,
       "name": "Worry",
       "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
+    },
+    {
+      "album": {
+        "name": "Worst Kept Secret",
+        "url": "https://open.spotify.com/album/0vooFeuwJvhHSWVGAJHnrj"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258200,
+      "name": "Worst Kept Secret",
+      "url": "https://open.spotify.com/track/6R5QSwgDHQ3PymVA8EQitD"
     },
     {
       "album": {

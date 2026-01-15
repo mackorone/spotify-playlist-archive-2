@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain](/playlists/plain/37i9dQZF1DX14V0XKu8GA9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX14V0XKu8GA9)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain](/playlists/plain/37i9dQZF1DX14V0XKu8GA9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX14V0XKu8GA9)
 
 ### [Our Wave, Nuestro Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX14V0XKu8GA9)
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Shoreline Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,801 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,970 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

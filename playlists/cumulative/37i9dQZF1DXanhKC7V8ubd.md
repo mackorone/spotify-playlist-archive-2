@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXanhKC7V8ubd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXanhKC7V8ubd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXanhKC7V8ubd)
+[pretty](/playlists/pretty/37i9dQZF1DXanhKC7V8ubd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXanhKC7V8ubd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXanhKC7V8ubd)
 
 ### [Juan Gabriel: Debo, Puedo y Quiero Playlist Oficial](https://open.spotify.com/playlist/37i9dQZF1DXanhKC7V8ubd)
 

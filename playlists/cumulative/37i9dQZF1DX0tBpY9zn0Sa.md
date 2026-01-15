@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0tBpY9zn0Sa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0tBpY9zn0Sa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0tBpY9zn0Sa)
+[pretty](/playlists/pretty/37i9dQZF1DX0tBpY9zn0Sa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0tBpY9zn0Sa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0tBpY9zn0Sa)
 
 ### [Con Mis Besties](https://open.spotify.com/playlist/37i9dQZF1DX0tBpY9zn0Sa)
 

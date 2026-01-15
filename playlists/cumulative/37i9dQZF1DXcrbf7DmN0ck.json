@@ -1,8 +1,116 @@
 {
   "date_first_scraped": "2025-07-03",
   "description": "While waiting for the open recruitment of global veiled musicians, enjoy the music of the best vocalists in Korea! (\uae00\ub85c\ubc8c \ubca0\uc77c\ub4dc \ubba4\uc9c0\uc158\uc758 \uacf5\uac1c \ubaa8\uc9d1\uc744 \uae30\ub2e4\ub9ac\uba70 \uad6d\ub0b4 \ucd5c\uc815\uc0c1 \ubcf4\uceec\ub4e4\uc758 \uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "name": "Global Veiled Musician (\uae00\ub85c\ubc8c \ubca0\uc77c\ub4dc \ubba4\uc9c0\uc158)",
+  "name": "Veiled Cup (\ubca0\uc77c\ub4dc \ucef5)",
   "tracks": [
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Vientiane Siren",
+          "url": "https://open.spotify.com/artist/1gW1A6wmu0TzoaLjdqE8E2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285913,
+      "name": "800 Million",
+      "url": "https://open.spotify.com/track/2b1qBVZUER9yKPTYLpMdLp"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Shanghai Twist",
+          "url": "https://open.spotify.com/artist/6TUZo7S2oMKhCHii0WZlxW"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "A Soliloquy in the Light",
+      "url": "https://open.spotify.com/track/3t9vkI8Ec7cs73OUqe36Sx"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Bangkok Soul Man",
+          "url": "https://open.spotify.com/artist/0j3bNm0weANeOtBIrSftZt"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176816,
+      "name": "Ain't It A Shame",
+      "url": "https://open.spotify.com/track/0u1Xitjm9Zzbu2CPvUhMYp"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Gyeonggi-do Cotton Candy",
+          "url": "https://open.spotify.com/artist/7nJnQ2DFZP4PEIozXV5FQt"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "All about you",
+      "url": "https://open.spotify.com/track/1kgyt9126t37wZHnkrlt1b"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Phang Nga Bay Fighter",
+          "url": "https://open.spotify.com/artist/2LN6fuUQUnFsoK430R7V2J"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213552,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/5qzipFag33KNvbPBABL9Md"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Jakarta Freedom",
+          "url": "https://open.spotify.com/artist/1ix0WcW5qZYtoUPlWlK5Fn"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "An Unexpected Encounter - Acoustic Version",
+      "url": "https://open.spotify.com/track/0Cblpd8luPCAvocaS9FuuI"
+    },
     {
       "album": {
         "name": "And July",
@@ -24,7 +132,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226128,
       "name": "And July",
       "url": "https://open.spotify.com/track/0Yz3F0UGDibDe8uU69zmjn"
@@ -42,7 +150,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 246266,
       "name": "As Is",
       "url": "https://open.spotify.com/track/5cr5ffcY53WvwLnsnlgcvY"
@@ -67,6 +175,60 @@
     },
     {
       "album": {
+        "name": "Bad Liar (Veiled Musician X KIHYUN (MONSTA X) with Jeongdong-myeon Iron Voice)",
+        "url": "https://open.spotify.com/album/0HXfGVkAK8VXYylhCQO1Rg"
+      },
+      "artists": [
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Bad Liar (Veiled Musician X KIHYUN (MONSTA X) with Jeongdong-myeon Iron Voice) - Instrumental",
+      "url": "https://open.spotify.com/track/1RLf1nqKM3sspMXznc7b9B"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Trainee",
+          "url": "https://open.spotify.com/artist/1jSG7WOnoIv4KDBoVaMvEn"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377493,
+      "name": "Ballad of A Singer",
+      "url": "https://open.spotify.com/track/2OzbqtFDCU2K4t3PW0YyWn"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Ho Chi Minh Moana",
+          "url": "https://open.spotify.com/artist/6xo8bEY07Ds83aLX7yQpq5"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200984,
+      "name": "Believe it or Not - Special Version",
+      "url": "https://open.spotify.com/track/7LwoRpXAMaelLHlZQVDvr5"
+    },
+    {
+      "album": {
         "name": "CEREMONIA (Complete Edition)",
         "url": "https://open.spotify.com/album/2itIZTzeIXjJn7sqReMvQE"
       },
@@ -78,7 +240,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 232133,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/3qiCQxvtt4ipy4J9SOXwb6"
@@ -100,7 +262,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 172906,
       "name": "Complications (ft. SOLE)",
       "url": "https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R"
@@ -118,10 +280,82 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194998,
       "name": "Dedicated 2 U",
       "url": "https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Ulaanbaatar Cherry Bomb",
+          "url": "https://open.spotify.com/artist/3I5wXXztZEHm55SvzsUwLP"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137370,
+      "name": "DIVA",
+      "url": "https://open.spotify.com/track/19VSIWtUuiXx8N47JsenF1"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Ulaanbaatar Gobi Bear",
+          "url": "https://open.spotify.com/artist/28MyMlrdKkGY5LMuL47Ta3"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189223,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0uS3WyUq1X3XcFNQ9EIvyY"
+    },
+    {
+      "album": {
+        "name": "Dream (Veiled Musician X Paul Kim with Gamil-dong Cotton Candy)",
+        "url": "https://open.spotify.com/album/0F3KDPKdKh372CWoVhtEPO"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Dream (Veiled Musician X Paul Kim with Gamil-dong Cotton Candy)",
+      "url": "https://open.spotify.com/track/5DOf6tIdiyB0S94fgLw0Ge"
+    },
+    {
+      "album": {
+        "name": "Dream (Veiled Musician X Paul Kim with Gamil-dong Cotton Candy)",
+        "url": "https://open.spotify.com/album/0F3KDPKdKh372CWoVhtEPO"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Dream (Veiled Musician X Paul Kim with Gamil-dong Cotton Candy) - Instrumental",
+      "url": "https://open.spotify.com/track/0ajuXh8rjNtC7eMVKnshPp"
     },
     {
       "album": {
@@ -136,7 +370,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 200250,
       "name": "Dreamed a dream",
       "url": "https://open.spotify.com/track/0tumsfaXAjtZKqF5Vi2QFH"
@@ -154,7 +388,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 278454,
       "name": "Emptiness in Memory",
       "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
@@ -172,10 +406,46 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221786,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
+    },
+    {
+      "album": {
+        "name": "Farewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang)",
+        "url": "https://open.spotify.com/album/1Rd33YoDQAIQLiU0WZ9CN1"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Farewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang)",
+      "url": "https://open.spotify.com/track/2dvq6LBNSBzopoxZHEAb4b"
+    },
+    {
+      "album": {
+        "name": "Farewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang)",
+        "url": "https://open.spotify.com/album/1Rd33YoDQAIQLiU0WZ9CN1"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Farewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang) - Instrumental",
+      "url": "https://open.spotify.com/track/4lyS9ZhwjLYE7ZdnTN6OW7"
     },
     {
       "album": {
@@ -190,7 +460,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 246002,
       "name": "Glowing Light",
       "url": "https://open.spotify.com/track/5lxFv9Aig7R0OZDKbHd0Zb"
@@ -208,7 +478,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 271173,
       "name": "Heavenly fate",
       "url": "https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR"
@@ -226,10 +496,46 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 274881,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/1dAN9YSEram61KezA9X8lx"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Honey Voice",
+          "url": "https://open.spotify.com/artist/7q1qz8KZDRzgJXVYMDrb7R"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287922,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/5lGDMRqAhaEDfhIdshaEPK"
+    },
+    {
+      "album": {
+        "name": "I will go to you like the first snow (Veiled Musician X Shin Yong Jae with Suyeong-dong Thirty-One)",
+        "url": "https://open.spotify.com/album/0zBqNmgt9u2KdufDp0R51t"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "I will go to you like the first snow (Veiled Musician X Shin Yong Jae with Suyeong-dong Thirty-One)",
+      "url": "https://open.spotify.com/track/31dor00o1DhnyVNK83pRn5"
     },
     {
       "album": {
@@ -244,7 +550,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 250573,
       "name": "If I have you only (My love X Nerd Connection)",
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
@@ -262,10 +568,28 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 263760,
       "name": "If It's the Same",
       "url": "https://open.spotify.com/track/78j59rvAqcbnafnJ5WSRLD"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Vientiane Red Hair",
+          "url": "https://open.spotify.com/artist/0mBke92zgDU7W8SpdYGpS2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272517,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/6lTdpKUseeH3uNCbc13E3N"
     },
     {
       "album": {
@@ -280,7 +604,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 264293,
       "name": "Incomplete",
       "url": "https://open.spotify.com/track/0mh0DXTVYCpSCKhc4EkGfp"
@@ -298,7 +622,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 257799,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/2uayxzJinXzBUEqDczbAwN"
@@ -316,7 +640,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 256066,
       "name": "It's love",
       "url": "https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg"
@@ -334,7 +658,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 251689,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
@@ -352,7 +676,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 236355,
       "name": "Like an Indian Doll",
       "url": "https://open.spotify.com/track/6dYBbyqyZiNssyoEs2xtiy"
@@ -370,10 +694,28 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 250480,
       "name": "Living in the same time",
       "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Ho Chi Minh Serenade",
+          "url": "https://open.spotify.com/artist/4sCIU6XP627DoYZfx4iwYQ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253930,
+      "name": "Look Into Your Eyes",
+      "url": "https://open.spotify.com/track/2uzefioiUuhaefaPPMV2gk"
     },
     {
       "album": {
@@ -388,7 +730,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 191160,
       "name": "Love Fool",
       "url": "https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB"
@@ -406,7 +748,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 172760,
       "name": "Love in the Milky Way Cafe",
       "url": "https://open.spotify.com/track/6cxbaStUOFS9Ssz3bHVVDJ"
@@ -424,7 +766,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 239560,
       "name": "Love is gone",
       "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
@@ -446,7 +788,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 231386,
       "name": "LOVE RECIPE",
       "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
@@ -464,7 +806,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 293026,
       "name": "Love, the common word",
       "url": "https://open.spotify.com/track/2h0wEmZvW6cmMr0Fw1Tc7m"
@@ -482,7 +824,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 280358,
       "name": "Me After You",
       "url": "https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0"
@@ -500,10 +842,28 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 308186,
       "name": "Memory Of The Wind",
       "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Bangkok Makdung (the baby)",
+          "url": "https://open.spotify.com/artist/7BTXYzYYLf1riJJwT0MyAn"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243222,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/255tAQOCa722u8iRqtIdLh"
     },
     {
       "album": {
@@ -518,10 +878,46 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 283293,
       "name": "My Dream, My Love",
       "url": "https://open.spotify.com/track/2XU6mwelJymDUz2WfYv6xi"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Borneo Mamamia",
+          "url": "https://open.spotify.com/artist/5vfQ0o7ZIb4tTBMV9HlNCh"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275308,
+      "name": "My Love in This Life and the Next",
+      "url": "https://open.spotify.com/track/4kdFgwP1curPnD9E03lu7s"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Ulaanbaatar Korean",
+          "url": "https://open.spotify.com/artist/7HAIB2zOPszsfSobIxjX9N"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216989,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/6ZRclNKq4O5gwn4Bm8buX4"
     },
     {
       "album": {
@@ -536,7 +932,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 331154,
       "name": "No matter where",
       "url": "https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs"
@@ -554,10 +950,46 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 315813,
       "name": "Old Song",
       "url": "https://open.spotify.com/track/4zgZ7dq1BcrhmLRA8bPF4c"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Seoul Thirty-one",
+          "url": "https://open.spotify.com/artist/5ITCEAt1d3ozANiUT4qON2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "On That Day",
+      "url": "https://open.spotify.com/track/2FsrcmLMcMe1Dlnmy7xt86"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Ho Chi Minh Entertainer",
+          "url": "https://open.spotify.com/artist/2mRnVzAzdwYfZ4rBQmlWev"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127565,
+      "name": "One Minute",
+      "url": "https://open.spotify.com/track/0anlZ5fxceautsj5T7jLXv"
     },
     {
       "album": {
@@ -572,10 +1004,28 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199880,
       "name": "Only One",
       "url": "https://open.spotify.com/track/52iQCQplC1FhiYTLcRm5YH"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Zambales Beast",
+          "url": "https://open.spotify.com/artist/4IaRvoIYIAW1viG6Saaspy"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "OUR LOVE",
+      "url": "https://open.spotify.com/track/6hjwkvlf4rJ8YmlSyZKUat"
     },
     {
       "album": {
@@ -590,7 +1040,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 267493,
       "name": "Passing",
       "url": "https://open.spotify.com/track/3dneAm8q64JdJDf7hCLUCT"
@@ -612,10 +1062,46 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 227019,
       "name": "Po.Ong (feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/5H14NYlM5sV4FTL2NHzych"
+    },
+    {
+      "album": {
+        "name": "RIDE (Veiled Musician X BELLE (KISS OF LIFE) with Seokchon-dong Kkijaengi)",
+        "url": "https://open.spotify.com/album/0WnzpXudocTietRNo2HEYr"
+      },
+      "artists": [
+        {
+          "name": "BELLE",
+          "url": "https://open.spotify.com/artist/6NsHyr1CcyPSYAiWmW1A1U"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "RIDE (Veiled Musician X BELLE (KISS OF LIFE) with Seokchon-dong Kkijaengi)",
+      "url": "https://open.spotify.com/track/1TMcQ8bE7bJmyimlAnPD9p"
+    },
+    {
+      "album": {
+        "name": "RIDE (Veiled Musician X BELLE (KISS OF LIFE) with Seokchon-dong Kkijaengi)",
+        "url": "https://open.spotify.com/album/0WnzpXudocTietRNo2HEYr"
+      },
+      "artists": [
+        {
+          "name": "BELLE",
+          "url": "https://open.spotify.com/artist/6NsHyr1CcyPSYAiWmW1A1U"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "RIDE (Veiled Musician X BELLE (KISS OF LIFE) with Seokchon-dong Kkijaengi) - Instrumental",
+      "url": "https://open.spotify.com/track/1KtIbMObk0chn8mYJ6hHPT"
     },
     {
       "album": {
@@ -630,10 +1116,28 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150520,
       "name": "Roommates",
       "url": "https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Haining Moonlight",
+          "url": "https://open.spotify.com/artist/4KFRAuQr0zRLEiUhwSnPjY"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235872,
+      "name": "Staggering",
+      "url": "https://open.spotify.com/track/1yeyAAETudArPX1QPIiqBR"
     },
     {
       "album": {
@@ -648,7 +1152,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 200173,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5Ep3YOn93Z5J2z4hjmxoN5"
@@ -666,7 +1170,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 241986,
       "name": "Stop My Heart",
       "url": "https://open.spotify.com/track/02MYQzStm9cOzrGK5ahpjT"
@@ -684,7 +1188,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 266986,
       "name": "Such a thing",
       "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
@@ -702,7 +1206,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218920,
       "name": "Sun\ufb01sh",
       "url": "https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU"
@@ -724,7 +1228,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 297320,
       "name": "The First Day (With Naul)",
       "url": "https://open.spotify.com/track/2yeSdFbRkfw8CMJDtF6Oyf"
@@ -749,6 +1253,114 @@
     },
     {
       "album": {
+        "name": "To You My Light (Veiled Musician X Ailee with Oryu-dong Hamster)",
+        "url": "https://open.spotify.com/album/1M8dqwS44SI3vNniHl65Ct"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "To You My Light (Veiled Musician X Ailee with Oryu-dong Hamster) - Instrumental",
+      "url": "https://open.spotify.com/track/4SmmyuO68VtN2Fza6RV7p5"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Gyeongsang-do Iron Voice",
+          "url": "https://open.spotify.com/artist/4f3LCdNeYksIBW9QoCeXtR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165697,
+      "name": "unrequited love",
+      "url": "https://open.spotify.com/track/6uaRTmQGIaePArCi1xcYtL"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Beijing Deok",
+          "url": "https://open.spotify.com/artist/2BIFbVPwKZuDr7dN6BGQMQ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/3IpbSRPwtbCixlVkRKRE3B"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Laguna Diva",
+          "url": "https://open.spotify.com/artist/38b8ts1kbssexQpQsR9pno"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202305,
+      "name": "WAKE UP",
+      "url": "https://open.spotify.com/track/3fSbHQVU4ISkImqenv2nPw"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Vientiane Cupid",
+          "url": "https://open.spotify.com/artist/1eMNHrIVr98Gxf2OyALpQ1"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227006,
+      "name": "We\u2019ll Never Be in Love",
+      "url": "https://open.spotify.com/track/7dlioDoInUntgx7bpEstSo"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Osaka Sunny",
+          "url": "https://open.spotify.com/artist/6JMnvUOUKGcPxgeAYkVVNX"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329944,
+      "name": "When I Grow Up",
+      "url": "https://open.spotify.com/track/3bQfM3FLmPWNNXTFqTyfhH"
+    },
+    {
+      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -764,10 +1376,28 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "album": {
+        "name": "Veild Cup : The Beginning",
+        "url": "https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH"
+      },
+      "artists": [
+        {
+          "name": "Manila Storyteller",
+          "url": "https://open.spotify.com/artist/3A606tdB2A3FRfKP8JgRJJ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187443,
+      "name": "WISHFUL THINKING",
+      "url": "https://open.spotify.com/track/1PyebbQX9LQV7jRmsJNVbL"
     },
     {
       "album": {
@@ -782,7 +1412,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
@@ -800,7 +1430,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 279266,
       "name": "\uac70\ub9ac\uc5d0\uc11c",
       "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
@@ -818,7 +1448,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 312666,
       "name": "\uadf8\ub300\ub294 \uc5b4\ub514\uc5d0",
       "url": "https://open.spotify.com/track/1nt2zziXht8X1yy5p1Ws0H"
@@ -836,7 +1466,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 247173,
       "name": "\ub108\ub97c \uc704\ud574",
       "url": "https://open.spotify.com/track/5th9VTbH8UazAwaTd1vdpJ"
@@ -854,7 +1484,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 256146,
       "name": "\ub450 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
@@ -872,7 +1502,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 282723,
       "name": "\ubc14\ubcf4",
       "url": "https://open.spotify.com/track/6GyrI9HEVZSc4XUQeg3Mi8"
@@ -890,7 +1520,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 317531,
       "name": "\ubcc4 \ubcf4\ub7ec \uac00\uc790",
       "url": "https://open.spotify.com/track/7ePpQepOptZ1M9jRRydHsZ"
@@ -908,7 +1538,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 261278,
       "name": "\ube44\uc0c1",
       "url": "https://open.spotify.com/track/424hhpwdrLq2avq6oFFPGQ"
@@ -926,7 +1556,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 306693,
       "name": "\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740 \uc0c1\ucc98",
       "url": "https://open.spotify.com/track/4aoCjsKskYrU2HboGYAApR"
@@ -944,7 +1574,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 373525,
       "name": "\uc5ec\ub7ec\ubd84 (\uc724\ubcf5\ud76c)",
       "url": "https://open.spotify.com/track/1E8DJZLVbZoMrXjk2xJcY5"
@@ -962,7 +1592,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 314514,
       "name": "\uc774\ubc24\uc758 \ub05d\uc744 \uc7a1\uace0",
       "url": "https://open.spotify.com/track/6inhDQvmr0zKLsBIU1hgkq"
@@ -980,7 +1610,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213653,
       "name": "\uc81c\ubc1c \ub0b4\uac8c \ub9d0\ud574\uc8fc\ub77c (Please tell me)",
       "url": "https://open.spotify.com/track/0BeyMR83qdrHlIM52jprNC"
@@ -1002,7 +1632,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 268960,
       "name": "\uc88b\uc740 \uc0ac\ub78c (Feat. \uae40\ud615\uc911)",
       "url": "https://open.spotify.com/track/1hTZUGfMzWYCSns929UWTo"
@@ -1020,7 +1650,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 273777,
       "name": "\ud1b5\ud654\uc5f0\uacb0\uc74c",
       "url": "https://open.spotify.com/track/2Mgb5XYieeqZ2lArUFl9KV"

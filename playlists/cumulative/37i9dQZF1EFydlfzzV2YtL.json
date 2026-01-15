@@ -3195,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "I'm Living Proof",
+        "url": "https://open.spotify.com/album/68lzPFCVrZVnm3eas1akxD"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331733,
+      "name": "Take Me to the King",
+      "url": "https://open.spotify.com/track/2SIm0S5GQ1YZ4oc5loxaL7"
+    },
+    {
+      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K"
       },

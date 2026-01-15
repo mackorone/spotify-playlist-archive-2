@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain](/playlists/plain/37i9dQZF1DXdDe8IDhRIo5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdDe8IDhRIo5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain](/playlists/plain/37i9dQZF1DXdDe8IDhRIo5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdDe8IDhRIo5)
 
 ### [Hot Club Swing](https://open.spotify.com/playlist/37i9dQZF1DXdDe8IDhRIo5)
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,060 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,133 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

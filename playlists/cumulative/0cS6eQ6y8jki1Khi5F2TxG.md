@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0cS6eQ6y8jki1Khi5F2TxG.md) - cumulative - [plain](/playlists/plain/0cS6eQ6y8jki1Khi5F2TxG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0cS6eQ6y8jki1Khi5F2TxG)
+[pretty](/playlists/pretty/0cS6eQ6y8jki1Khi5F2TxG.md) - cumulative - [plain](/playlists/plain/0cS6eQ6y8jki1Khi5F2TxG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0cS6eQ6y8jki1Khi5F2TxG)
 
 ### [Pride Party Playlist  ](https://open.spotify.com/playlist/0cS6eQ6y8jki1Khi5F2TxG)
 

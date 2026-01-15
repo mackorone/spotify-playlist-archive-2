@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2uVP1agvV5rba3MqLQ0pzy.md) - [plain](/playlists/plain/2uVP1agvV5rba3MqLQ0pzy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2uVP1agvV5rba3MqLQ0pzy)
+pretty - [cumulative](/playlists/cumulative/2uVP1agvV5rba3MqLQ0pzy.md) - [plain](/playlists/plain/2uVP1agvV5rba3MqLQ0pzy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2uVP1agvV5rba3MqLQ0pzy)
 
 ### [Avant Folk](https://open.spotify.com/playlist/2uVP1agvV5rba3MqLQ0pzy)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAbM8agIbA.md) - [plain](/playlists/plain/37i9dQZF1DXdkAbM8agIbA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdkAbM8agIbA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAbM8agIbA.md) - [plain](/playlists/plain/37i9dQZF1DXdkAbM8agIbA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdkAbM8agIbA)
 
 ### [From the Delta to Chicago](https://open.spotify.com/playlist/37i9dQZF1DXdkAbM8agIbA)
 

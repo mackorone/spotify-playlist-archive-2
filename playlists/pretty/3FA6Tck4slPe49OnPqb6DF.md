@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3FA6Tck4slPe49OnPqb6DF.md) - [plain](/playlists/plain/3FA6Tck4slPe49OnPqb6DF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3FA6Tck4slPe49OnPqb6DF)
+pretty - [cumulative](/playlists/cumulative/3FA6Tck4slPe49OnPqb6DF.md) - [plain](/playlists/plain/3FA6Tck4slPe49OnPqb6DF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3FA6Tck4slPe49OnPqb6DF)
 
 ### [Anjunadeep Essentials ](https://open.spotify.com/playlist/3FA6Tck4slPe49OnPqb6DF)
 
 > A selection of Anjunadeep's most iconic releases\. Find out more: <a href="https://anjunadeep.com/">Website</a> \| <a href="https://www.facebook.com/anjunadeep">Facebook</a> \| <a href="https://www.instagram.com/anjunadeep/?hl=en">Instagram</a> \| <a href="http://anjunastore.com/">Merch</a>
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 14,988 likes - 30 songs - 2 hr 47 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 14,998 likes - 31 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,20 +23,21 @@ pretty - [cumulative](/playlists/cumulative/3FA6Tck4slPe49OnPqb6DF.md) - [plain]
 | 13 | [Loving You](https://open.spotify.com/track/5R5yQQsttz7SBi55UpM28X) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Lulu James](https://open.spotify.com/artist/7x86PNyfIjdo5UwXmXcU2h) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 4:01 |
 | 14 | [Shadows Movement \- Original Mix](https://open.spotify.com/track/2o8LquXob4vqSAQ8rOptR5) | [Michael Cassette](https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd) | [Shadows Movement / Fox And A Shooting Star](https://open.spotify.com/album/3TwYqZ57JFxUmRXYTSzlrp) | 7:59 |
 | 15 | [9 Days](https://open.spotify.com/track/32fdWZrgtAX2VRqCGkIuaF) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:57 |
-| 16 | [Murder Weapon](https://open.spotify.com/track/1qvQlpk9BbGFxrxFxjSpdn) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Murder Weapon EP](https://open.spotify.com/album/2OzLK0SKtELdXAXWVjLXkm) | 10:01 |
-| 17 | [Personal Space](https://open.spotify.com/track/3TYNQdnAM85I6P9UegzYKo) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Personal Space / Mulholland 99](https://open.spotify.com/album/3uzCopdeKgXNMbixihWNbB) | 5:01 |
-| 18 | [Pepe's Garden](https://open.spotify.com/track/7mF0WF1jVa6NJSHpnIUgPv) | [Jaytech](https://open.spotify.com/artist/5mpJ1Z8BYEOG0rrdO4a2nG) | [Everything Is OK](https://open.spotify.com/album/1PojqG7jwNIkGu7vYWl8D7) | 6:55 |
-| 19 | [Got This Feeling \- Original Mix](https://open.spotify.com/track/3Of0ZixrQPzq22I4ogG4TB) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Got This Feeling EP](https://open.spotify.com/album/44O9qirmVyZDrNH9ZDHffH) | 7:27 |
-| 20 | [Beautiful Life \- Original Mix](https://open.spotify.com/track/7yKYT061sKZ7vGChQzgcJI) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Beautiful Life / Make Love To Me Baby](https://open.spotify.com/album/3uLvKBz69ZX03Ur6x10I4t) | 8:14 |
-| 21 | [Only You Can Tell \- Original Mix](https://open.spotify.com/track/6feLDcYmUwbQgoHYxHD4qS) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Only You Can Tell](https://open.spotify.com/album/5oH28HWekFQo4aASxgMWcO) | 4:31 |
-| 22 | [Overtones](https://open.spotify.com/track/3fZo9f1RF24iMVBaC6fAiA) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt) | [Overtones](https://open.spotify.com/album/4tY6Z1lYShKuvQMt3tMV7k) | 4:29 |
-| 23 | [Brainwasher](https://open.spotify.com/track/7rLu9jN4LRqQY1V0YBkMLc) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu) | [Brainwasher / Walking With Giants](https://open.spotify.com/album/2BkPTgBfn5CiMpf5D0BYkX) | 3:52 |
-| 24 | [Dapple](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Dapple](https://open.spotify.com/album/1P2cw0QNAaWCdPF7H5fxvJ) | 3:28 |
-| 25 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 |
-| 26 | [Flight](https://open.spotify.com/track/5V61H1tbmh09aXcXqOml1O) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Flight](https://open.spotify.com/album/0DaD68WLGWcd9HGiiAjFSU) | 5:24 |
-| 27 | [Room 1.5](https://open.spotify.com/track/7KNAX5vcVQpGalIP1TiQuP) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Room 1.5 / Chem\-EX](https://open.spotify.com/album/18mkOAN0Ur1VI9IwlV5OxV) | 8:23 |
-| 28 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 |
-| 29 | [Keep The Faith](https://open.spotify.com/track/5d6C3XycqRLFAGLtyO3Rfx) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [First Landing](https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51) | 4:18 |
-| 30 | [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 |
+| 16 | [Diamonds](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 5:54 |
+| 17 | [Murder Weapon](https://open.spotify.com/track/1qvQlpk9BbGFxrxFxjSpdn) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Murder Weapon EP](https://open.spotify.com/album/2OzLK0SKtELdXAXWVjLXkm) | 10:01 |
+| 18 | [Personal Space](https://open.spotify.com/track/3TYNQdnAM85I6P9UegzYKo) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Personal Space / Mulholland 99](https://open.spotify.com/album/3uzCopdeKgXNMbixihWNbB) | 5:01 |
+| 19 | [Pepe's Garden](https://open.spotify.com/track/7mF0WF1jVa6NJSHpnIUgPv) | [Jaytech](https://open.spotify.com/artist/5mpJ1Z8BYEOG0rrdO4a2nG) | [Everything Is OK](https://open.spotify.com/album/1PojqG7jwNIkGu7vYWl8D7) | 6:55 |
+| 20 | [Got This Feeling \- Original Mix](https://open.spotify.com/track/3Of0ZixrQPzq22I4ogG4TB) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Got This Feeling EP](https://open.spotify.com/album/44O9qirmVyZDrNH9ZDHffH) | 7:27 |
+| 21 | [Beautiful Life \- Original Mix](https://open.spotify.com/track/7yKYT061sKZ7vGChQzgcJI) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Beautiful Life / Make Love To Me Baby](https://open.spotify.com/album/3uLvKBz69ZX03Ur6x10I4t) | 8:14 |
+| 22 | [Only You Can Tell \- Original Mix](https://open.spotify.com/track/6feLDcYmUwbQgoHYxHD4qS) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Only You Can Tell](https://open.spotify.com/album/5oH28HWekFQo4aASxgMWcO) | 4:31 |
+| 23 | [Overtones](https://open.spotify.com/track/3fZo9f1RF24iMVBaC6fAiA) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt) | [Overtones](https://open.spotify.com/album/4tY6Z1lYShKuvQMt3tMV7k) | 4:29 |
+| 24 | [Brainwasher](https://open.spotify.com/track/7rLu9jN4LRqQY1V0YBkMLc) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu) | [Brainwasher / Walking With Giants](https://open.spotify.com/album/2BkPTgBfn5CiMpf5D0BYkX) | 3:52 |
+| 25 | [Dapple](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Dapple](https://open.spotify.com/album/1P2cw0QNAaWCdPF7H5fxvJ) | 3:28 |
+| 26 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 |
+| 27 | [Flight](https://open.spotify.com/track/5V61H1tbmh09aXcXqOml1O) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Flight](https://open.spotify.com/album/0DaD68WLGWcd9HGiiAjFSU) | 5:24 |
+| 28 | [Room 1.5](https://open.spotify.com/track/7KNAX5vcVQpGalIP1TiQuP) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Room 1.5 / Chem\-EX](https://open.spotify.com/album/18mkOAN0Ur1VI9IwlV5OxV) | 8:23 |
+| 29 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 |
+| 30 | [Keep The Faith](https://open.spotify.com/track/5d6C3XycqRLFAGLtyO3Rfx) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [First Landing](https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51) | 4:18 |
+| 31 | [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 |
 
-Snapshot ID: `AAABdIfRck1up4iv/y39uPevSFs/qGtM`
+Snapshot ID: `AAABdptvReTuVuw+2GnEdkXMP2QRwHqX`

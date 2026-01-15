@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain](/playlists/plain/37i9dQZF1DWZpq8e9AjGoM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZpq8e9AjGoM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain](/playlists/plain/37i9dQZF1DWZpq8e9AjGoM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZpq8e9AjGoM)
 
 ### [Spring Piano](https://open.spotify.com/playlist/37i9dQZF1DWZpq8e9AjGoM)
 
 > The sound of spring.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,249 likes - 190 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,243 likes - 190 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

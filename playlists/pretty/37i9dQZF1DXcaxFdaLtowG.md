@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaxFdaLtowG.md) - [plain](/playlists/plain/37i9dQZF1DXcaxFdaLtowG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcaxFdaLtowG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaxFdaLtowG.md) - [plain](/playlists/plain/37i9dQZF1DXcaxFdaLtowG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcaxFdaLtowG)
 
 ### [This Is Asha Bhosle](https://open.spotify.com/playlist/37i9dQZF1DXcaxFdaLtowG)
 

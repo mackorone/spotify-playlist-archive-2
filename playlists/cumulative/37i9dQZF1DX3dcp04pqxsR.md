@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3dcp04pqxsR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3dcp04pqxsR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3dcp04pqxsR)
+[pretty](/playlists/pretty/37i9dQZF1DX3dcp04pqxsR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3dcp04pqxsR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3dcp04pqxsR)
 
 ### [Box Fan Noise for Sleep](https://open.spotify.com/playlist/37i9dQZF1DX3dcp04pqxsR)
 

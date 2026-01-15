@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGCh33lYU9t.md) - [plain](/playlists/plain/37i9dQZF1DXaGCh33lYU9t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaGCh33lYU9t)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGCh33lYU9t.md) - [plain](/playlists/plain/37i9dQZF1DXaGCh33lYU9t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaGCh33lYU9t)
 
 ### [Christmas Crackers](https://open.spotify.com/playlist/37i9dQZF1DXaGCh33lYU9t)
 
 > The biggest festive anthems ❄️ Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,911 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,999 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

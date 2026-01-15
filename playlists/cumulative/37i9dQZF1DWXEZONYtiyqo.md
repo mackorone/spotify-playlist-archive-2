@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXEZONYtiyqo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXEZONYtiyqo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXEZONYtiyqo)
+[pretty](/playlists/pretty/37i9dQZF1DWXEZONYtiyqo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXEZONYtiyqo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXEZONYtiyqo)
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Andia
+> Cele mai noi hituri pop românești\. Cover: Erika Isac
 
-382 songs - 18 hr 6 min
+383 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Casa mea](https://open.spotify.com/track/5FOeHqTo3NdRsrJZKwxwwU) | [RAZI](https://open.spotify.com/artist/0dOwAcgDluJ0CSp5sChAA8), [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B) | [Casa mea](https://open.spotify.com/album/1XZ8UdIzM4t2E0uszvmfcC) | 2:56 | 2024-11-28 | 2024-12-13 |
 | [Ce Ai Tu](https://open.spotify.com/track/2smTp3HLaTaUVG77DrYezY) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Ce Ai Tu](https://open.spotify.com/album/66JpgoE6ae929knJbvymNG) | 2:43 | 2024-06-27 | 2024-07-05 |
 | [Ce bine e](https://open.spotify.com/track/5yVS2Qxsky57IzHvbgc2ps) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Ce bine e](https://open.spotify.com/album/2wb4aK4eaNVyCcyQFytkZ0) | 2:49 | 2024-06-27 | 2024-07-05 |
-| [Ce ochi albaștri ai](https://open.spotify.com/track/56bT2meuhKNbUt5vmDWTEe) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Ce ochi albaștri ai](https://open.spotify.com/album/4mkTr85TLPf2UVLEgNmprh) | 2:40 | 2025-10-30 |  |
+| [Ce ochi albaștri ai](https://open.spotify.com/track/56bT2meuhKNbUt5vmDWTEe) | [Adi Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Ce ochi albaștri ai](https://open.spotify.com/album/4mkTr85TLPf2UVLEgNmprh) | 2:40 | 2025-10-30 |  |
 | [Ce vrei sa\-mi spui?](https://open.spotify.com/track/6x8m6PfICG8YO4QjFWZRwW) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [Ce vrei sa\-mi spui?](https://open.spotify.com/album/6C0uU7Sa24TaHzLwoBXrba) | 3:24 | 2024-06-27 | 2024-08-30 |
 | [Ceas](https://open.spotify.com/track/13z5L59DoeLSYIfzWjriG6) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Ceas](https://open.spotify.com/album/3LwcKNu5TCotj5TQkRAe1S) | 2:34 | 2025-10-30 | 2025-11-07 |
 | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs) | 3:10 | 2025-04-10 | 2025-09-19 |
@@ -167,7 +167,7 @@
 | [Harvest](https://open.spotify.com/track/6mt3cEOJYygIINSLoEYy8h) | [Tobi Ibitoye](https://open.spotify.com/artist/5gtWFQFiFnp2y50iY1PWbA) | [Harvest](https://open.spotify.com/album/48Tbhq0FsddieVQGGeZEyS) | 3:27 | 2025-11-13 | 2025-12-12 |
 | [Hater](https://open.spotify.com/track/2QKhzYvb3bDYQKSCNjSf8t) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Hater](https://open.spotify.com/album/4zy9TEiWZIqI2bJn4DL8Lt) | 2:22 | 2025-03-20 | 2025-04-18 |
 | [Hearts in Stereo \- Radio Edit](https://open.spotify.com/track/2M3TPAGbcyQySxZn9OGsyI) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Hearts in Stereo \(Versions\)](https://open.spotify.com/album/2vdlQ1eSzJYe5jdfwEeapn) | 2:27 | 2024-07-18 | 2024-08-09 |
-| [Hora fetelor](https://open.spotify.com/track/4axfTALAQ2kM35X35fCnc7) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Hora fetelor](https://open.spotify.com/album/580phVNDwAGjBZvhc19gwO) | 2:24 | 2025-06-19 |  |
+| [Hora fetelor](https://open.spotify.com/track/4axfTALAQ2kM35X35fCnc7) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Hora fetelor](https://open.spotify.com/album/580phVNDwAGjBZvhc19gwO) | 2:24 | 2025-06-19 | 2026-01-15 |
 | [How I Love It](https://open.spotify.com/track/2bO0NmmJrvHGoJGoxT3A0f) | [Stefania](https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy), [Cezar Guna](https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa) | [How I Love It](https://open.spotify.com/album/49OZpI4ewmwdYOYR09LB4J) | 2:35 | 2024-07-04 | 2024-08-30 |
 | [I Did](https://open.spotify.com/track/2Lcd6VzN6n80RhW3SbPqoM) | [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [I Did](https://open.spotify.com/album/0IAyUqUPKPMc2WPZlwe6m1) | 2:20 | 2025-04-24 | 2025-08-08 |
 | [Ia pe tine ceva](https://open.spotify.com/track/3uOgmS7h0gBIMR0l97LxKX) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Ia pe tine ceva](https://open.spotify.com/album/49ejRW1JRVb8vMQrVAHM6F) | 2:59 | 2025-07-31 | 2025-09-26 |
@@ -221,6 +221,7 @@
 | [Maria, Maria](https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Maria, Maria](https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE) | 2:40 | 2024-11-07 | 2025-05-09 |
 | [Melo](https://open.spotify.com/track/4J4soOlioWLA6AJ1TqlKgw) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Melo](https://open.spotify.com/album/6Q0cZnwSS3uLtKXnEVTshj) | 2:51 | 2025-11-27 | 2025-12-19 |
 | [Miss Univers](https://open.spotify.com/track/1fknBAWpK9tsHawJKmh5cG) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Miss Univers](https://open.spotify.com/album/4a4GmRszvwaAXCp7KvfPc5) | 3:21 | 2025-07-10 | 2025-10-10 |
+| [MISSY ELLIOTT](https://open.spotify.com/track/4XA5rwdOzxiGHLf5CYtLHx) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [STUDIO 54](https://open.spotify.com/album/016friOleRKnFkeP5ohkQQ) | 3:17 | 2026-01-08 |  |
 | [Momentu’](https://open.spotify.com/track/52kDCWnqVOwnU9weX3Khj7) | [PETRA](https://open.spotify.com/artist/1LDfQtGPCUSccCi58TsM2t), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Momentu’](https://open.spotify.com/album/5dSKoJTuGSFsrVBv9U6Ov0) | 3:00 | 2024-08-29 | 2024-11-15 |
 | [Mon Amour](https://open.spotify.com/track/1KEPKvUUcD6xzDjRr66zix) | [Carine](https://open.spotify.com/artist/5EADzWzO9nhqVZdNW7hrBi) | [Mon Amour](https://open.spotify.com/album/5YSbInc3BAz30S8gtfKxYy) | 2:43 | 2024-07-18 | 2024-08-09 |
 | [Money \($$$\)](https://open.spotify.com/track/4ufyl0Cld1502X81sHKRAG) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Money \($$$\)](https://open.spotify.com/album/3roGPtdBmm6NqDXSFcfSfV) | 1:51 | 2025-11-13 |  |
@@ -351,7 +352,7 @@
 | [Tot ce avem e azi](https://open.spotify.com/track/7rZXVP5U1BcOywWCRdjW85) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Tot ce avem e azi](https://open.spotify.com/album/27BVcJO95WD5VYpr45XrCE) | 3:03 | 2025-07-10 | 2025-08-22 |
 | [Totul meu](https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Totul meu](https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7) | 2:24 | 2024-06-27 | 2024-07-19 |
 | [Trandafiri](https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Trandafiri](https://open.spotify.com/album/4eRTS8WqCqG7gBwlywa4J5) | 2:22 | 2025-05-15 | 2025-08-22 |
-| [Trecător](https://open.spotify.com/track/6CwoQ1l8yrUBNlK6PPZNd3) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Trecător](https://open.spotify.com/album/1I591aeaK1BoL8MEbxoVmy) | 2:57 | 2025-09-18 |  |
+| [Trecător](https://open.spotify.com/track/6CwoQ1l8yrUBNlK6PPZNd3) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd), [Adi Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Trecător](https://open.spotify.com/album/1I591aeaK1BoL8MEbxoVmy) | 2:57 | 2025-09-18 |  |
 | [Tricoul](https://open.spotify.com/track/5PGEjoxC9efpeBPFzTztNY) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Antifragil](https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC) | 2:33 | 2024-11-28 | 2025-04-25 |
 | [Tu n\-ai avut curaj \- Roton 3.0 / Sessions](https://open.spotify.com/track/35d5yXDqFehq1sZPQegLOk) | [Radu Stefan Banica](https://open.spotify.com/artist/52jEJDX313iC62ZgWdvrp1), [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Tu n\-ai avut curaj \(Roton 3.0 / Sessions\)](https://open.spotify.com/album/59qrjWlCwK9AYC099Y47iD) | 3:21 | 2024-06-27 | 2024-07-25 |
 | [Tu pe mine m\-ai ales](https://open.spotify.com/track/6Klf7QK9VaDdJfAOB5PaHN) | [Edward Sanda](https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V), [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Tu pe mine m\-ai ales](https://open.spotify.com/album/03axcpcgVFHlLzoP04zt0s) | 2:46 | 2025-09-11 |  |

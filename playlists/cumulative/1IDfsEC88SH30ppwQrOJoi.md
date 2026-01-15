@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/1IDfsEC88SH30ppwQrOJoi.md) - cumulative - [plain](/playlists/plain/1IDfsEC88SH30ppwQrOJoi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1IDfsEC88SH30ppwQrOJoi)
+[pretty](/playlists/pretty/1IDfsEC88SH30ppwQrOJoi.md) - cumulative - [plain](/playlists/plain/1IDfsEC88SH30ppwQrOJoi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1IDfsEC88SH30ppwQrOJoi)
 
 ### [NYE Party Vibes](https://open.spotify.com/playlist/1IDfsEC88SH30ppwQrOJoi)
 
-> High energy, club songs from around the world! &lt;3
+> High energy, club songs from around the world.
 
 458 songs - 23 hr 34 min
 

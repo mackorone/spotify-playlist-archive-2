@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain](/playlists/plain/37i9dQZF1DWWM5o62BfFWh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWM5o62BfFWh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain](/playlists/plain/37i9dQZF1DWWM5o62BfFWh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWM5o62BfFWh)
 
 ### [Cubatón](https://open.spotify.com/playlist/37i9dQZF1DWWM5o62BfFWh)
 
 > ¡Música urbana representando a Cuba! Cover: El Taiger
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,347 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,545 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

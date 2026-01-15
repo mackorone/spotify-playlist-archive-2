@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/0kIwz3r2VE9uNuYqS5uGRW.md) - cumulative - [plain](/playlists/plain/0kIwz3r2VE9uNuYqS5uGRW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0kIwz3r2VE9uNuYqS5uGRW)
+[pretty](/playlists/pretty/0kIwz3r2VE9uNuYqS5uGRW.md) - cumulative - [plain](/playlists/plain/0kIwz3r2VE9uNuYqS5uGRW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0kIwz3r2VE9uNuYqS5uGRW)
 
 ### [u pwetty](https://open.spotify.com/playlist/0kIwz3r2VE9uNuYqS5uGRW)
 
 > 
 
-134 songs - 7 hr 0 min
+141 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [3:33](https://open.spotify.com/track/4xNJwjT3OKzE7E5IB1rZw9) | [Jey Master](https://open.spotify.com/artist/3JXF0zmgQriGDuch8M800V) | [3:33](https://open.spotify.com/album/2uqbgfJVIuMKLq7ie558kC) | 3:33 | 2025-08-26 |  |
 | [4:44AM](https://open.spotify.com/track/4M03RhnysxttvTKqQKE8it) | [SCRAZ](https://open.spotify.com/artist/6hQQsPJ3df9XVj8CMBy5Yk), [MPC Smoke](https://open.spotify.com/artist/7Dbyx5Qw8XaH8qX86Kh2fQ) | [4:44AM](https://open.spotify.com/album/4TEX17jd6bREevtW8c8LG1) | 3:00 | 2025-12-11 |  |
 | [512](https://open.spotify.com/track/2CdquEDCaFau9PMHF8eFcW) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7), [Vivih](https://open.spotify.com/artist/0igUZhKUbwqknOURErylJL) | [512](https://open.spotify.com/album/7ij81xOTfo61L1FuYwKwTH) | 2:42 | 2025-09-09 |  |
+| [All Of My Love](https://open.spotify.com/track/1i2JN0ITHgMC3228pFWxVc) | [Shelton](https://open.spotify.com/artist/1CMYnWfZqAPKfA7g43RvtB) | [All Of My Love](https://open.spotify.com/album/4GCzlbQoHRDTkWsjKFIaMV) | 2:54 | 2026-01-09 |  |
 | [Aloha Vibes](https://open.spotify.com/track/5iner6pw593QANnZP3Abgr) | [Faith Rivera](https://open.spotify.com/artist/0OJl9lZP81ON2jhv7QpVYt), [Brittni Paiva](https://open.spotify.com/artist/030ma4QtsnydUwd4M2qXWt) | [Aloha Vibes](https://open.spotify.com/album/3jWHak3tyL2LF3tdozpmrF) | 3:35 | 2025-07-03 |  |
 | [alone](https://open.spotify.com/track/7iuvjLWfCeuXUjCL5ux3Yd) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO), [Foreign](https://open.spotify.com/artist/3D3yyi7c5AiQulhArfwbib) | [Melodic Desire](https://open.spotify.com/album/301s5ttpCmABTQMpqaf292) | 4:37 | 2025-04-10 |  |
 | [Ame](https://open.spotify.com/track/56vX2UYUGNMEIq3i4l66OL) | [Luizie](https://open.spotify.com/artist/2cQQa7eaJy9pO5QgEhxVXR) | [Ame](https://open.spotify.com/album/2KSyYrS7na1qwhUPGOS4vt) | 3:55 | 2025-09-11 |  |
@@ -68,9 +69,11 @@
 | [I Hope](https://open.spotify.com/track/3dI1YkpKCJMj2tlZFWPxXE) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Hope](https://open.spotify.com/album/3gVWMKoHvzr5UjyH59oB6A) | 3:20 | 2025-08-07 |  |
 | [I Kill Spiders](https://open.spotify.com/track/2jrMjstPcrgWx9ZUIV8qmW) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [I Kill Spiders](https://open.spotify.com/album/3rwRrvZIMD9kyc5y1qUbP8) | 3:41 | 2025-09-29 |  |
 | [I Should Go](https://open.spotify.com/track/6D8g0ZHiSxEBzRiapMFzwn) | [Nicky MacKenzie](https://open.spotify.com/artist/0DvB7H1zfupECFAdeVede5) | [I Should Go](https://open.spotify.com/album/3Hj1AQjtOfcGiNJuIit0oJ) | 3:17 | 2025-08-07 |  |
+| [If We Ever Stopped Talking](https://open.spotify.com/track/7gJMxmgGsKdSQkqxFxdAO5) | [S1D333](https://open.spotify.com/artist/6qG3qPtGdzUgV8r6qcppjI) | [If We Ever Stopped Talking](https://open.spotify.com/album/4Yy6yROsIhKb4OY8wqx8sM) | 3:08 | 2026-01-07 |  |
 | [il a neigé ce jour\-là \(It Snowed That Day\)](https://open.spotify.com/track/0ZPCBNjz6jQ6cl6Wn5MjIT) | [Jawan Audè](https://open.spotify.com/artist/36IVUzMk6o97kAANAMDJpR) | [il a neigé ce jour\-là \(It Snowed That Day\)](https://open.spotify.com/album/1fLcwObyME6BLhGniansUu) | 2:07 | 2025-03-12 |  |
 | [INFIELES](https://open.spotify.com/track/4t4zAOM15bYaNXESRnKAs4) | [J MART](https://open.spotify.com/artist/4U5QlsisiFasO599Hn5rTK) | [INFIELES](https://open.spotify.com/album/0qkpwj0NB9u4GQu07pRPi2) | 3:21 | 2025-08-19 |  |
 | [Instagram Stories](https://open.spotify.com/track/0MnJb4nl8EWezKG1htOAQb) | [Jo Anna Van Thuyne](https://open.spotify.com/artist/6l2mMcQpYvxwUGJuPtUXbk) | [Instagram Stories](https://open.spotify.com/album/1KUuEigtCbEDAd7adSBYMF) | 3:04 | 2025-07-06 |  |
+| [IRS](https://open.spotify.com/track/3IC6BEliAIbqt6cv9yzxWD) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [IRS](https://open.spotify.com/album/3JYd80QtqjS7fw0nZrXBHs) | 4:01 | 2026-01-07 |  |
 | [jive](https://open.spotify.com/track/7bTCD4VX14Le9iNWUBjUJ5) | [Moonrust](https://open.spotify.com/artist/0BdOZyc2UcgDOc46WepPBY) | [four dreams, one day](https://open.spotify.com/album/0NJfVdFby9KWkRWe4a5RjT) | 3:02 | 2025-11-28 |  |
 | [Julieta](https://open.spotify.com/track/0ych2VtgKxgHWicZg84yGX) | [Amillie](https://open.spotify.com/artist/1duM4rm8TlgqBKOTPCHXgd), [Fermin Daddy](https://open.spotify.com/artist/021cc0FsTWmMjCULvwsZg8) | [Julieta](https://open.spotify.com/album/58vKWq7EQkKQIcw92aOhPm) | 3:16 | 2025-03-27 |  |
 | [KEEPIN IT REAL](https://open.spotify.com/track/06yfIxqtvS9uKuFOISWTuF) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:01 | 2025-04-10 |  |
@@ -90,9 +93,11 @@
 | [Muse](https://open.spotify.com/track/7B5rT2i6JliL4fcxQRqDlk) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Muse](https://open.spotify.com/album/6XWrC2jrmxLhdLtupCS0eq) | 3:09 | 2025-07-07 |  |
 | [no evidence](https://open.spotify.com/track/3SbYA5SX1jA1sLpbume305) | [Jonas Feurle](https://open.spotify.com/artist/0wu3fN6dTlMop83dDnMwke), [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [anytime but now](https://open.spotify.com/album/3DHm8gapNXPAuy9RuRD6xc) | 2:52 | 2025-08-14 |  |
 | [No Lover](https://open.spotify.com/track/37V9X9p9qwOarHwCjsCSRr) | [Haryx](https://open.spotify.com/artist/3KyoaBJkZoxcSSuFnuv9lA) | [No Lover](https://open.spotify.com/album/4TAfyJTinnMVPLUfnEz6gX) | 2:30 | 2025-11-03 |  |
+| [Northwoods](https://open.spotify.com/track/3q9YV0kullF1IIEUoKTadq) | [Simon Alexander](https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA) | [A Place to Call Home](https://open.spotify.com/album/5XnHiDa8vkJc95wnLw74mx) | 3:47 | 2026-01-07 |  |
 | [Not The Daddy](https://open.spotify.com/track/1PDVvDWwRCdKq2iRT6Y1fM) | [JTJ](https://open.spotify.com/artist/0PkAEfOeWDtQBlL4W0NsZv) | [Not The Daddy](https://open.spotify.com/album/4aLpx4ebbNid4AyS0C3Wj4) | 3:20 | 2025-08-14 |  |
 | [Nowhere to Ride](https://open.spotify.com/track/3Ax6hg04Pp7kauGmqlyuzq) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW) | [Desolation and Radiation](https://open.spotify.com/album/6PcEqIVCtKe9bSZYHD314w) | 2:22 | 2025-04-06 |  |
 | [Ojos Verdes](https://open.spotify.com/track/4Dm0V6rpjbEjQKACxbnG2L) | [Exen](https://open.spotify.com/artist/1nifjsMyLyjkDexOqptbeq) | [Ojos Verdes](https://open.spotify.com/album/197SmE1V69QtScoUSnvlhy) | 2:49 | 2025-04-10 |  |
+| [Old Soul](https://open.spotify.com/track/4zoyn0XwZ2MysyRYxNcTCp) | [Herald K](https://open.spotify.com/artist/1rG4pmrcpdK5cmkqFDVXRk) | [Mythologies](https://open.spotify.com/album/4kxNO2xUxABCx3RP6CgpSb) | 3:18 | 2026-01-07 |  |
 | [One and Only](https://open.spotify.com/track/73wr3gNS6bOGO7yv4vCD24) | [Dareen](https://open.spotify.com/artist/7azOWyR2mZ7PSy71udacAB), [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [One and Only](https://open.spotify.com/album/40N9skHDNb6YX6WfvOvZ2N) | 3:27 | 2025-07-15 |  |
 | [Out Of Your Mind](https://open.spotify.com/track/5GrkmVVLabYjq1iap5aqF2) | [VANNAH LEE](https://open.spotify.com/artist/0o2AeqlJETyETAvfZcVgvG) | [Out Of Your Mind](https://open.spotify.com/album/2pzwxx7gyFsQG9ZZprCgpP) | 3:07 | 2025-09-15 |  |
 | [peak cinema](https://open.spotify.com/track/3Lt7BxHEYOLcfWURRf7SdR) | [Nakeltbg](https://open.spotify.com/artist/2Vg7QmOQ4alrHtr5vu677Q) | [COALESCENCE \(7\)](https://open.spotify.com/album/5oFCxq9UhLjkbmlcKbem7U) | 2:46 | 2025-09-02 |  |
@@ -109,6 +114,7 @@
 | [relapse](https://open.spotify.com/track/3CvRv1klCmdwGoOTRyJawj) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [relapse](https://open.spotify.com/album/0Yl4XnXHS0trdkI8rvFqyS) | 3:06 | 2025-03-26 |  |
 | [Return of a King](https://open.spotify.com/track/5WtPqlQHxx50OFEGFiO6pv) | [Killian Ordono](https://open.spotify.com/artist/1yMfzq45DtTDq4SGtHNRo4), [IzRosh](https://open.spotify.com/artist/2p1bgggvCXinSQz2OtBHXu), [Jayy Dogg](https://open.spotify.com/artist/33LUb0cLTRldb9HEzejGBC) | [Return of a King](https://open.spotify.com/album/3XFMPFaloBNSXpNZPWwCBC) | 2:17 | 2025-03-12 |  |
 | [Rip Tides \- Mikheil Music Remix](https://open.spotify.com/track/4EoPJZ8emPBql4Dt3km1Hb) | [Mira Sthira](https://open.spotify.com/artist/2hFK4B23ncCVrAqT29eqiq), [Mikheil Music](https://open.spotify.com/artist/5sYglx5GgL1LmCxXBfymsY) | [Rip Tides \(Mikheil Music Remix\)](https://open.spotify.com/album/7CKIh8AKK0owogevQTRqnM) | 5:16 | 2025-12-22 |  |
+| [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 | 2026-01-09 |  |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2026-01-05 |  |
 | [Signals](https://open.spotify.com/track/7ueNlLSD7Y2mCj5smSMMFj) | [Ian Carpenter](https://open.spotify.com/artist/6rWRC2PEWJyQ5IVN5ioIO9) | [Emotions](https://open.spotify.com/album/6wM6OSdZalGYy6PoK0QqBD) | 5:16 | 2025-04-14 |  |
 | [Silver Forever](https://open.spotify.com/track/4YeDTYqW8vMvMuvAPCXv3B) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [Silver Forever](https://open.spotify.com/album/4aX4pdjp1X7v955uJN7Yr1) | 3:21 | 2025-04-14 |  |
@@ -120,6 +126,7 @@
 | [Still In Love](https://open.spotify.com/track/1M52mCrWoQ02KCGHLEAdVF) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Still In Love](https://open.spotify.com/album/1gr8h4IKRE7r1h6CmLKtlT) | 3:49 | 2025-07-03 |  |
 | [Streets](https://open.spotify.com/track/1f0WLhzTTPvqoma7iUyVp1) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:56 | 2025-03-12 |  |
 | [Switch Up](https://open.spotify.com/track/5Aqeo1MvtayIqoanDfFOAQ) | [Tonez](https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P) | [Switch Up](https://open.spotify.com/album/5L94iYncA1of7RQSXO6brj) | 3:16 | 2025-06-30 |  |
+| [System](https://open.spotify.com/track/3ZheEm7LyyHT14Dw9RZxPH) | [Lucío](https://open.spotify.com/artist/1ekLFJV2uRyWkP1j5BIAGu) | [System](https://open.spotify.com/album/0siaSZy3DK0G7Oy19ze8rC) | 3:28 | 2026-01-06 |  |
 | [System Shock](https://open.spotify.com/track/30i9LhCnrEH1RUWs5b9exA) | [Complex C](https://open.spotify.com/artist/1kLsASVDGo2Qt8oQcQcQY8) | [System Shock](https://open.spotify.com/album/5fvf3AMyY6MLrNp3qq7hIM) | 2:54 | 2025-12-21 |  |
 | [That One Girl](https://open.spotify.com/track/77uc3YwRFqWcTJX9GquTMw) | [Pablo Santana](https://open.spotify.com/artist/40g1dctGAaTqem3oED2j8l) | [That One Girl](https://open.spotify.com/album/0p9Ckyg7TybvPbE5vgvAux) | 2:13 | 2025-03-12 |  |
 | [The Good, The Bad and The Electric](https://open.spotify.com/track/06lGeazjV3Il8dEtfRo7Jd) | [Chance the Closer](https://open.spotify.com/artist/2N8BKNbDpSuVVZNHKvQN40) | [The Good, The Bad and The Electric](https://open.spotify.com/album/7Mq3ksUhsVs1I48vh9kP9a) | 3:12 | 2025-12-21 |  |

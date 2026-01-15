@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/4se8FxjaBGTHCTXIPoJlc0.md) - [plain](/playlists/plain/4se8FxjaBGTHCTXIPoJlc0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4se8FxjaBGTHCTXIPoJlc0)
+pretty - [cumulative](/playlists/cumulative/4se8FxjaBGTHCTXIPoJlc0.md) - [plain](/playlists/plain/4se8FxjaBGTHCTXIPoJlc0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4se8FxjaBGTHCTXIPoJlc0)
 
 ### [Music Happens Here: The Music](https://open.spotify.com/playlist/4se8FxjaBGTHCTXIPoJlc0)
 

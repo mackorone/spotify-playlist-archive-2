@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain](/playlists/plain/37i9dQZF1DWY14cf7NRu86) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY14cf7NRu86)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain](/playlists/plain/37i9dQZF1DWY14cf7NRu86) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY14cf7NRu86)
 
 ### [Smooth Jazz Christmas](https://open.spotify.com/playlist/37i9dQZF1DWY14cf7NRu86)
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,151 likes - 67 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,053 likes - 67 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

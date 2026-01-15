@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain](/playlists/plain/37i9dQZF1DWTyczwg2TmSH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTyczwg2TmSH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain](/playlists/plain/37i9dQZF1DWTyczwg2TmSH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTyczwg2TmSH)
 
 ### [Strong Black Lead Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTyczwg2TmSH)
 
 > When America needed hope, they delivered\. Listen to the music co\-curated by the cast of The Six Triple Eight, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,195 likes - 28 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,416 likes - 28 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

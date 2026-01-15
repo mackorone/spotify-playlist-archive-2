@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2nb7lCySvvf7PNxHUD5oun.md) - [plain](/playlists/plain/2nb7lCySvvf7PNxHUD5oun) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2nb7lCySvvf7PNxHUD5oun)
+pretty - [cumulative](/playlists/cumulative/2nb7lCySvvf7PNxHUD5oun.md) - [plain](/playlists/plain/2nb7lCySvvf7PNxHUD5oun) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2nb7lCySvvf7PNxHUD5oun)
 
 ### [\#JazzAppreciationMonth](https://open.spotify.com/playlist/2nb7lCySvvf7PNxHUD5oun)
 

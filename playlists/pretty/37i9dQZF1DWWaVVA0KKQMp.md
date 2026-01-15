@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWaVVA0KKQMp.md) - [plain](/playlists/plain/37i9dQZF1DWWaVVA0KKQMp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWaVVA0KKQMp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWaVVA0KKQMp.md) - [plain](/playlists/plain/37i9dQZF1DWWaVVA0KKQMp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWaVVA0KKQMp)
 
 ### [This Is Alka Yagnik](https://open.spotify.com/playlist/37i9dQZF1DWWaVVA0KKQMp)
 

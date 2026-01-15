@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5k5FacKg0Ta.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5k5FacKg0Ta) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5k5FacKg0Ta)
+[pretty](/playlists/pretty/37i9dQZF1DX5k5FacKg0Ta.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5k5FacKg0Ta) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5k5FacKg0Ta)
 
 ### [Jazzia Suomesta](https://open.spotify.com/playlist/37i9dQZF1DX5k5FacKg0Ta)
 

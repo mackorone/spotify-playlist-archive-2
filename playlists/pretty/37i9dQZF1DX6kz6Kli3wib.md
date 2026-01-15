@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain](/playlists/plain/37i9dQZF1DX6kz6Kli3wib) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6kz6Kli3wib)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain](/playlists/plain/37i9dQZF1DX6kz6Kli3wib) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6kz6Kli3wib)
 
 ### [Dinner Lounge](https://open.spotify.com/playlist/37i9dQZF1DX6kz6Kli3wib)
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,624 likes - 229 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,806 likes - 229 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 228 | [Heartbeats](https://open.spotify.com/track/218rnaOV7k0eeEjfDzNOrh) | [Viceboi](https://open.spotify.com/artist/3pQXV6Tz29Jx2b1BDKLfis) | [Heartbeats](https://open.spotify.com/album/7jPjhmTpXjqWyPeVBOqHZd) | 2:37 |
 | 229 | [Golden Era](https://open.spotify.com/track/2Ldv2IghBqCWDWh1uJ7YKr) | [Nataya](https://open.spotify.com/artist/1VMiSIx9pA9WcS7ktBjcqo) | [Golden Era](https://open.spotify.com/album/0W1wkLCZsxgLrYsZW1mAAx) | 2:12 |
 
-Snapshot ID: `AAAAAH29GmIaqAG+VO4lfj+DOccqtAsF`
+Snapshot ID: `AAAAAE1uCdS+2ObambEGDgmFsyJYb4nh`

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY1j3jZdCWOQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY1j3jZdCWOQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY1j3jZdCWOQ)
+[pretty](/playlists/pretty/37i9dQZF1DWY1j3jZdCWOQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY1j3jZdCWOQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY1j3jZdCWOQ)
 
 ### [teen angst](https://open.spotify.com/playlist/37i9dQZF1DWY1j3jZdCWOQ)
 

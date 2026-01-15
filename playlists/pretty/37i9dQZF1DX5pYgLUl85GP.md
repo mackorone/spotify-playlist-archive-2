@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain](/playlists/plain/37i9dQZF1DX5pYgLUl85GP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5pYgLUl85GP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain](/playlists/plain/37i9dQZF1DX5pYgLUl85GP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5pYgLUl85GP)
 
 ### [Top Canciones Reels México](https://open.spotify.com/playlist/37i9dQZF1DX5pYgLUl85GP)
 

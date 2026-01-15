@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXajdJmP3ZBZI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajdJmP3ZBZI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajdJmP3ZBZI)
+[pretty](/playlists/pretty/37i9dQZF1DXajdJmP3ZBZI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajdJmP3ZBZI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXajdJmP3ZBZI)
 
 ### [Mixtape \#15 "end of summer playlist by me, kyle maclachlan"](https://open.spotify.com/playlist/37i9dQZF1DXajdJmP3ZBZI)
 

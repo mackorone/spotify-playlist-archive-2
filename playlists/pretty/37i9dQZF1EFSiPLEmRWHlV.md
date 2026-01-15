@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain](/playlists/plain/37i9dQZF1EFSiPLEmRWHlV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFSiPLEmRWHlV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain](/playlists/plain/37i9dQZF1EFSiPLEmRWHlV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFSiPLEmRWHlV)
 
 ### [Written By Clementine Douglas](https://open.spotify.com/playlist/37i9dQZF1EFSiPLEmRWHlV)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314 likes - 138 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 318 likes - 138 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 34 | [Love Me Or Let Me Go](https://open.spotify.com/track/3Ibf5MzsKj4TKeeoL8ZtiQ) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Love Me Or Let Me Go](https://open.spotify.com/album/4nRcUuqqch0WbjDk3OvOoe) | 2:34 |
 | 35 | [Greenlight \(feat\. Clementine Douglas\)](https://open.spotify.com/track/5D3Bf5y0Y51p8dEdQpM7Li) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Greenlight \(feat\. Clementine Douglas\)](https://open.spotify.com/album/26422GmcV96zY9uJzalG49) | 2:39 |
 | 36 | [Need You Now](https://open.spotify.com/track/3xSJRO7U763TI1dzGH8ixZ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Need You Now](https://open.spotify.com/album/1aBZkuy9Rv9k6fxKiAqzCb) | 2:40 |
-| 37 | [Juicy](https://open.spotify.com/track/3DJfIyGnXulcr3flyCEJKn) | [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Juicy](https://open.spotify.com/album/5GAcER2Vav7NWLhfnnDuYq) | 3:04 |
-| 38 | [Another Chance](https://open.spotify.com/track/4kNPMxRexEZSrsXfz628D3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Another Chance](https://open.spotify.com/album/41R3SckRg74bzO6lmitqkX) | 2:46 |
+| 37 | [Another Chance](https://open.spotify.com/track/4kNPMxRexEZSrsXfz628D3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Another Chance](https://open.spotify.com/album/41R3SckRg74bzO6lmitqkX) | 2:46 |
+| 38 | [Juicy](https://open.spotify.com/track/3DJfIyGnXulcr3flyCEJKn) | [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Juicy](https://open.spotify.com/album/5GAcER2Vav7NWLhfnnDuYq) | 3:04 |
 | 39 | [Mind Off \(feat\. Kudu Blue\)](https://open.spotify.com/track/45cgSmYAMG5H7KMafbrWdG) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Mind Off \(feat\. Kudu Blue\)](https://open.spotify.com/album/4htVw10oXFS4xQKFBVPOdo) | 3:04 |
 | 40 | [This Moment](https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Moment](https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn) | 3:37 |
 | 41 | [Take My Chance](https://open.spotify.com/track/2tsi5AlhJ166vmYdj741jX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/4r0902mKJfgNkLjKBmRWn0) | 3:18 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 137 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 138 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AcGKngAAAABvwTr0GVvUXvPpEx8u3HSB`
+Snapshot ID: `AcHAhgAAAAAiCXoT33WGxlxdck7fm9YX`

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5McngUiuALFIS4VVF4oko5.md) - cumulative - [plain](/playlists/plain/5McngUiuALFIS4VVF4oko5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5McngUiuALFIS4VVF4oko5)
+[pretty](/playlists/pretty/5McngUiuALFIS4VVF4oko5.md) - cumulative - [plain](/playlists/plain/5McngUiuALFIS4VVF4oko5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5McngUiuALFIS4VVF4oko5)
 
 ### [It Only Takes Two](https://open.spotify.com/playlist/5McngUiuALFIS4VVF4oko5)
 

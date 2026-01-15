@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9GJszcm4a2J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9GJszcm4a2J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9GJszcm4a2J)
+[pretty](/playlists/pretty/37i9dQZF1DX9GJszcm4a2J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9GJszcm4a2J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9GJszcm4a2J)
 
 ### [남주의 첫날밤을 가져버렸다 \(The First Night With the Duke\)](https://open.spotify.com/playlist/37i9dQZF1DX9GJszcm4a2J)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain](/playlists/plain/37i9dQZF1DXbzlMz4hwU9T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbzlMz4hwU9T)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain](/playlists/plain/37i9dQZF1DXbzlMz4hwU9T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbzlMz4hwU9T)
 
 ### [atormentados](https://open.spotify.com/playlist/37i9dQZF1DXbzlMz4hwU9T)
 
 > lloro cuando llueve porque mis lágrimas se confunden con las gotas de lluvia
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,767 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,770 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

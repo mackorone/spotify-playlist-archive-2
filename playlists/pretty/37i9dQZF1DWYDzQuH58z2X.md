@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYDzQuH58z2X.md) - [plain](/playlists/plain/37i9dQZF1DWYDzQuH58z2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYDzQuH58z2X)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYDzQuH58z2X.md) - [plain](/playlists/plain/37i9dQZF1DWYDzQuH58z2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYDzQuH58z2X)
 
 ### [NCT DREAM TOUR \[THE DREAM SHOW 4 : DREAM THE FUTURE\]](https://open.spotify.com/playlist/37i9dQZF1DWYDzQuH58z2X)
 
 > Enjoy the NCT DREAM TOUR \[THE DREAM SHOW 4 : DREAM THE FUTURE\] LIVE SET including the voices of them on stage! \(엔시티 드림의 무대 멘트와 목소리가 포함된 \[THE DREAM SHOW 4 : DREAM THE FUTURE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,190 likes - 38 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,161 likes - 38 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6527,6 +6527,24 @@
     },
     {
       "album": {
+        "name": "Like the Fourth Wall",
+        "url": "https://open.spotify.com/album/2ZG0myg8s6IjllpeN6riOs"
+      },
+      "artists": [
+        {
+          "name": "BLACKSHAPE",
+          "url": "https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343329,
+      "name": "Like the Fourth Wall",
+      "url": "https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3"
+    },
+    {
+      "album": {
         "name": "Limousine",
         "url": "https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh"
       },
@@ -11326,7 +11344,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 274000,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW"

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/6lrsZHHFL65pjpDcjv6sFi.md) - [plain](/playlists/plain/6lrsZHHFL65pjpDcjv6sFi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6lrsZHHFL65pjpDcjv6sFi)
+pretty - [cumulative](/playlists/cumulative/6lrsZHHFL65pjpDcjv6sFi.md) - [plain](/playlists/plain/6lrsZHHFL65pjpDcjv6sFi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6lrsZHHFL65pjpDcjv6sFi)
 
 ### [Stockholm Music & Arts 2012](https://open.spotify.com/playlist/6lrsZHHFL65pjpDcjv6sFi)
 

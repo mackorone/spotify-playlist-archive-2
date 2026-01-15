@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBHT4jrQJ7v.md) - [plain](/playlists/plain/37i9dQZF1DWXBHT4jrQJ7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXBHT4jrQJ7v)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBHT4jrQJ7v.md) - [plain](/playlists/plain/37i9dQZF1DWXBHT4jrQJ7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXBHT4jrQJ7v)
 
 ### [Classroom Classical](https://open.spotify.com/playlist/37i9dQZF1DWXBHT4jrQJ7v)
 
 > Classical music to help children and young minds focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,661 likes - 97 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,886 likes - 97 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

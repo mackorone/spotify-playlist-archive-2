@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9O8HCSWScgZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9O8HCSWScgZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9O8HCSWScgZ)
+[pretty](/playlists/pretty/37i9dQZF1DX9O8HCSWScgZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9O8HCSWScgZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9O8HCSWScgZ)
 
 ### [lofi autumn beats 🍁🍂](https://open.spotify.com/playlist/37i9dQZF1DX9O8HCSWScgZ)
 

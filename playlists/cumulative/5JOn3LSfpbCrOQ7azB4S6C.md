@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5JOn3LSfpbCrOQ7azB4S6C.md) - cumulative - [plain](/playlists/plain/5JOn3LSfpbCrOQ7azB4S6C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5JOn3LSfpbCrOQ7azB4S6C)
+[pretty](/playlists/pretty/5JOn3LSfpbCrOQ7azB4S6C.md) - cumulative - [plain](/playlists/plain/5JOn3LSfpbCrOQ7azB4S6C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5JOn3LSfpbCrOQ7azB4S6C)
 
 ### [New Singles on Spotify](https://open.spotify.com/playlist/5JOn3LSfpbCrOQ7azB4S6C)
 

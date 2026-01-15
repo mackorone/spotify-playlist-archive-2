@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/4oCdiaZmiKLPpKUHlFjovZ.md) - cumulative - [plain](/playlists/plain/4oCdiaZmiKLPpKUHlFjovZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4oCdiaZmiKLPpKUHlFjovZ)
+[pretty](/playlists/pretty/4oCdiaZmiKLPpKUHlFjovZ.md) - cumulative - [plain](/playlists/plain/4oCdiaZmiKLPpKUHlFjovZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4oCdiaZmiKLPpKUHlFjovZ)
 
 ### [All The Way Up](https://open.spotify.com/playlist/4oCdiaZmiKLPpKUHlFjovZ)
 
-> Turn this playlist all the way up! Featuring, Money Man, Blxst, Mozzy &amp; Tm88.
+> Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.
 
-202 songs - 9 hr 2 min
+205 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 | 2024-09-23 |  |
 | [Ain't My Fault](https://open.spotify.com/track/453O275lHzJI4y321q2dk7) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mike G Beatz](https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb) | [Ain't My Fault](https://open.spotify.com/album/1mD0rR1VKGaJHd0cpfPZBG) | 2:15 | 2025-03-31 |  |
 | [All Black Trucks](https://open.spotify.com/track/4BRcukyn9Kcb8YhKScnu0y) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [All Black Trucks](https://open.spotify.com/album/5m7ACE2vtWTrgx88h47dcm) | 3:17 | 2024-09-23 | 2025-02-01 |
+| [ALL FLATS](https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx) | [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [ALL FLATS](https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo) | 1:56 | 2026-01-12 |  |
 | [ALL I GOT](https://open.spotify.com/track/4y5gyOUkDAVwN6p58GdNKU) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [INTRUSIVE THOUGHTS 2](https://open.spotify.com/album/2qVwJjPM1v86KOaTUISMiT) | 3:08 | 2025-08-13 | 2025-09-30 |
 | [All Love](https://open.spotify.com/track/7qiqChGX27g39lIhBWZKGK) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [All Love](https://open.spotify.com/album/1HBEA5Xw6jOhKyjVaWlsdL) | 2:02 | 2024-03-25 | 2024-06-01 |
 | [All Star Team](https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [All Star Team](https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf) | 1:47 | 2023-06-16 |  |
@@ -144,6 +145,7 @@
 | [One Me](https://open.spotify.com/track/2jcAIXXCZXz8cHD6bxkkRk) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [One Me](https://open.spotify.com/album/111eNBX4sLz9hRfnBXFGUz) | 2:16 | 2023-10-30 | 2025-02-01 |
 | [ONLY FANS](https://open.spotify.com/track/493bo0JRXNe100o1oxswNz) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [ONLY FANS](https://open.spotify.com/album/6TyazNC4sGL6mlQ1vkfih5) | 2:17 | 2023-08-07 | 2024-05-21 |
 | [Ooweee](https://open.spotify.com/track/7lolahAdwNt6QXm2nVkeiG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ooweee](https://open.spotify.com/album/5dO4VmJHVX6pICgk65GV8M) | 3:05 | 2025-01-10 | 2025-03-05 |
+| [Outside](https://open.spotify.com/track/6RWSHJ7p8APzukiux4J3TG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Outside](https://open.spotify.com/album/1pUztX3T8XMDxkPXTG0vbn) | 2:47 | 2026-01-12 |  |
 | [PACTO \(feat\. Bryant Myers & Dei V\) \- Remix](https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [PACTO \(Remix\) \[feat\. Bryant Myers & Dei V\]](https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6) | 5:46 | 2023-07-31 |  |
 | [PAIDNFULL](https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced](https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M) | 1:59 | 2024-04-24 |  |
 | [PARTy T1M3](https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PARTy T1M3](https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA) | 2:35 | 2023-08-28 | 2025-03-05 |
@@ -151,6 +153,7 @@
 | [pink whitney](https://open.spotify.com/track/3KQBFQVb1ahszb7Cu7H83T) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [pink whitney](https://open.spotify.com/album/7yBRQha30RNQeo3JZ3w6VF) | 2:02 | 2024-09-23 |  |
 | [PLATINUM](https://open.spotify.com/track/3oT8T9rCFRY5ApaPubtWSV) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PLATINUM](https://open.spotify.com/album/6q9ClFrVx7E0hH3PPgV3GF) | 2:38 | 2023-06-16 |  |
 | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [YMTK](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV) | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy) | 3:45 | 2024-11-18 |  |
+| [Pork Chop Sammich](https://open.spotify.com/track/5KInSFERXWZZUZJa4diQDD) | [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [Pork Chop Sammich](https://open.spotify.com/album/4NtqW7ck7cgwRJxbKknfH3) | 2:25 | 2026-01-12 |  |
 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-11-18 |  |
 | [Pressure](https://open.spotify.com/track/4FYhPppqSSvjmi46jWOhjM) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Wait, There's More](https://open.spotify.com/album/3lalL7rvTnf3QAKbqraKBJ) | 3:17 | 2024-04-24 | 2025-03-05 |
 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-07-24 |  |

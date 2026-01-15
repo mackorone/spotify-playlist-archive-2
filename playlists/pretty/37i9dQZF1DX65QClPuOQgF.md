@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain](/playlists/plain/37i9dQZF1DX65QClPuOQgF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX65QClPuOQgF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain](/playlists/plain/37i9dQZF1DX65QClPuOQgF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX65QClPuOQgF)
 
 ### [Blue Noise](https://open.spotify.com/playlist/37i9dQZF1DX65QClPuOQgF)
 
 > Find your study focus with high pitched azure noise \- perfect for masking disruptive noises.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,082 likes - 119 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,341 likes - 119 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

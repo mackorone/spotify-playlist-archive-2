@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaWf8ZIHreXF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaWf8ZIHreXF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaWf8ZIHreXF)
+[pretty](/playlists/pretty/37i9dQZF1DXaWf8ZIHreXF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaWf8ZIHreXF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaWf8ZIHreXF)
 
 ### [Dance Hits 2010s](https://open.spotify.com/playlist/37i9dQZF1DXaWf8ZIHreXF)
 

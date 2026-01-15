@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO4xC36w.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4xC36w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4xC36w)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO4xC36w.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4xC36w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO4xC36w)
 
 ### [This Is Joan Sebastian](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xC36w)
 

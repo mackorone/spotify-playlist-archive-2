@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1SlEIw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1SlEIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1SlEIw)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1SlEIw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1SlEIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1SlEIw)
 
 ### [This Is Linked Horizon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SlEIw)
 

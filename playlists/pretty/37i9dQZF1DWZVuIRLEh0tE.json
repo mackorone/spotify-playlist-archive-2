@@ -1,13 +1,33 @@
 {
-  "description": "pq no to' e' dembow en rd loko. Portada: Yk It's Junaa",
-  "num_followers": 297558,
+  "description": "pq no to' e' dembow en rd loko. Portada: Little Homie, Huan62",
+  "num_followers": 298363,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP5kE6DhWzqHGMExfeA7UzcIKTaB",
+  "snapshot_id": "AAAAAFdtb7bGEebREQVDZqlQzXkt4Tnz",
   "tracks": [
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "AMARA",
+        "url": "https://open.spotify.com/album/2bIV1plB6NlVUV5ZzDG7p2"
+      },
+      "artists": [
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        },
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "duration_ms": 179393,
+      "name": "AMARA",
+      "url": "https://open.spotify.com/track/11YF4qL5sWqAlb7yspRMI7"
+    },
     {
       "added_at": "2025-09-05 04:00:17",
       "album": {
@@ -45,20 +65,32 @@
       "url": "https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE"
     },
     {
-      "added_at": "2026-01-02 05:00:14",
+      "added_at": "2025-04-25 04:00:50",
       "album": {
-        "name": "Mala - EP",
-        "url": "https://open.spotify.com/album/71A3qbyQKdGPVOzxpXGj6f"
+        "name": "Natural (Remix)",
+        "url": "https://open.spotify.com/album/3uqqbHxbIjfw6olSmogD65"
       },
       "artists": [
         {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
         }
       ],
-      "duration_ms": 84562,
-      "name": "OTRA - Dominicana",
-      "url": "https://open.spotify.com/track/24Y2pI59367ua21ghnMQJ4"
+      "duration_ms": 283200,
+      "name": "Natural - Remix",
+      "url": "https://open.spotify.com/track/5kYYpK0UaX925YBm6wKjV1"
     },
     {
       "added_at": "2024-12-13 05:00:35",
@@ -87,6 +119,22 @@
       "duration_ms": 246734,
       "name": "A 200",
       "url": "https://open.spotify.com/track/4fk9Ufhqn1jllnTSddki62"
+    },
+    {
+      "added_at": "2025-09-19 04:00:34",
+      "album": {
+        "name": "DIGITAL15",
+        "url": "https://open.spotify.com/album/3VSKr1IIgKqteToundEf0e"
+      },
+      "artists": [
+        {
+          "name": "Yk It\u2019s Junaa",
+          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
+        }
+      ],
+      "duration_ms": 175007,
+      "name": "DIGITAL15",
+      "url": "https://open.spotify.com/track/4fwKpMyCBWCaj0W45a3emW"
     },
     {
       "added_at": "2025-02-21 05:00:19",
@@ -125,6 +173,26 @@
       "url": "https://open.spotify.com/track/1IhDSbT5Ey2iryw3OuARik"
     },
     {
+      "added_at": "2025-11-28 05:00:20",
+      "album": {
+        "name": "Felony",
+        "url": "https://open.spotify.com/album/2CHYs0x7a81GMr74MFSiLY"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/3IPDFQ4IjFtTdyDgJb67xN"
+    },
+    {
       "added_at": "2025-11-14 05:00:35",
       "album": {
         "name": "Velocidad",
@@ -161,52 +229,40 @@
       "url": "https://open.spotify.com/track/6CdEtriPufwesYiBXoprfI"
     },
     {
-      "added_at": "2025-11-28 05:00:20",
+      "added_at": "2026-01-02 05:00:14",
       "album": {
-        "name": "Felony",
-        "url": "https://open.spotify.com/album/2CHYs0x7a81GMr74MFSiLY"
+        "name": "Mala - EP",
+        "url": "https://open.spotify.com/album/71A3qbyQKdGPVOzxpXGj6f"
       },
       "artists": [
         {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/3IPDFQ4IjFtTdyDgJb67xN"
+      "duration_ms": 84562,
+      "name": "OTRA - Dominicana",
+      "url": "https://open.spotify.com/track/24Y2pI59367ua21ghnMQJ4"
     },
     {
-      "added_at": "2025-04-25 04:00:50",
+      "added_at": "2026-01-09 05:00:43",
       "album": {
-        "name": "Natural (Remix)",
-        "url": "https://open.spotify.com/album/3uqqbHxbIjfw6olSmogD65"
+        "name": "OTRA AMIGA (with Huan62)",
+        "url": "https://open.spotify.com/album/1Ql3mupsNRbVBg8x3Yjhw7"
       },
       "artists": [
         {
-          "name": "Little Homie",
-          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+          "name": "LAJA",
+          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
         },
         {
           "name": "Huan62",
           "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
         }
       ],
-      "duration_ms": 283200,
-      "name": "Natural - Remix",
-      "url": "https://open.spotify.com/track/5kYYpK0UaX925YBm6wKjV1"
+      "duration_ms": 135692,
+      "name": "OTRA AMIGA (with Huan62)",
+      "url": "https://open.spotify.com/track/2jtfVUu2yP2Uba4b2WCV4S"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -243,22 +299,6 @@
       "duration_ms": 173196,
       "name": "En Tiempo",
       "url": "https://open.spotify.com/track/6q4koC57MKTmbRhLehG15e"
-    },
-    {
-      "added_at": "2025-09-19 04:00:34",
-      "album": {
-        "name": "DIGITAL15",
-        "url": "https://open.spotify.com/album/3VSKr1IIgKqteToundEf0e"
-      },
-      "artists": [
-        {
-          "name": "Yk It\u2019s Junaa",
-          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
-        }
-      ],
-      "duration_ms": 175007,
-      "name": "DIGITAL15",
-      "url": "https://open.spotify.com/track/4fwKpMyCBWCaj0W45a3emW"
     },
     {
       "added_at": "2025-05-16 04:00:23",
@@ -365,6 +405,22 @@
       "url": "https://open.spotify.com/track/2fLoNEeUh5Gd7gDrRjGmql"
     },
     {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "Quedate Asi",
+        "url": "https://open.spotify.com/album/4VzYELT5MgcKpAndLvbXtR"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "duration_ms": 154505,
+      "name": "Quedate Asi",
+      "url": "https://open.spotify.com/track/5wKT28RtAOxSS8tCBVEWIV"
+    },
+    {
       "added_at": "2025-04-04 04:00:15",
       "album": {
         "name": "3.5",
@@ -419,26 +475,6 @@
       "duration_ms": 171428,
       "name": "Mi Voz y Mi Ritmo",
       "url": "https://open.spotify.com/track/56Jvo4RFEMJ6VTOZPJcQQK"
-    },
-    {
-      "added_at": "2025-12-26 05:00:18",
-      "album": {
-        "name": "PA ESO",
-        "url": "https://open.spotify.com/album/0y0zPwyEIKrsOVHGLdpktO"
-      },
-      "artists": [
-        {
-          "name": "Lyry",
-          "url": "https://open.spotify.com/artist/4hLz6IstS1KdUegP4JhAVG"
-        },
-        {
-          "name": "lejazzy",
-          "url": "https://open.spotify.com/artist/6Xjmpnt9WtUHfeBRBD9aER"
-        }
-      ],
-      "duration_ms": 135640,
-      "name": "PA ESO",
-      "url": "https://open.spotify.com/track/5sdO5wX6WkuYrumoza5iOO"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -569,20 +605,20 @@
       "url": "https://open.spotify.com/track/7pqGaBzLBlmhVj2wWJNe2y"
     },
     {
-      "added_at": "2025-12-26 05:00:18",
+      "added_at": "2026-01-09 05:00:43",
       "album": {
-        "name": "Firme",
-        "url": "https://open.spotify.com/album/17zDTvtJ1o10Zaik6ESKhS"
+        "name": "Cuando Te Suba",
+        "url": "https://open.spotify.com/album/7vxcYUX1y1T3DvQ56TkcOh"
       },
       "artists": [
         {
-          "name": "MBO la Nueva Forma",
-          "url": "https://open.spotify.com/artist/39Tz9Pbpn6zh2m0KrgS3Ho"
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
         }
       ],
-      "duration_ms": 204374,
-      "name": "Firme",
-      "url": "https://open.spotify.com/track/4xy4lFlgHbjU1Pf764lZgr"
+      "duration_ms": 121320,
+      "name": "Cuando Te Suba",
+      "url": "https://open.spotify.com/track/6LBgSAkYVCc1DN1yMPKYTO"
     },
     {
       "added_at": "2026-01-02 05:00:14",
@@ -721,28 +757,24 @@
       "url": "https://open.spotify.com/track/4zcb1tsfs9J8bBxmkdbEeb"
     },
     {
-      "added_at": "2025-12-26 05:00:18",
+      "added_at": "2026-01-09 05:00:43",
       "album": {
-        "name": "Ponte Puta",
-        "url": "https://open.spotify.com/album/5K8IQWcbFwZCOWPROhGX95"
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/3BaK4Fs7bG7u3pVKFl2ZSN"
       },
       "artists": [
         {
-          "name": "Jordani",
-          "url": "https://open.spotify.com/artist/0it6z33DV0QPR7m85tyhjz"
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
         },
         {
-          "name": "Luis Brown",
-          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
-        },
-        {
-          "name": "Boss Money R",
-          "url": "https://open.spotify.com/artist/3U0DasskQslAXBrAznRSbp"
+          "name": "Jay santana prod",
+          "url": "https://open.spotify.com/artist/1SSTq9e8PhjyYzv6QOsAkb"
         }
       ],
-      "duration_ms": 122181,
-      "name": "Ponte Puta",
-      "url": "https://open.spotify.com/track/1snE5ol7djI5HfGCRsGGPC"
+      "duration_ms": 160154,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/5er94wTEHkxAbN05Zb6D3s"
     },
     {
       "added_at": "2025-11-28 05:00:20",
@@ -897,22 +929,6 @@
       "url": "https://open.spotify.com/track/5mhTi0SCL2UXjcRVp7wm41"
     },
     {
-      "added_at": "2025-12-26 05:00:18",
-      "album": {
-        "name": "Otro Level",
-        "url": "https://open.spotify.com/album/2xGGdIKwTylpKQNYsguvqj"
-      },
-      "artists": [
-        {
-          "name": "Malo Torrez",
-          "url": "https://open.spotify.com/artist/3NHSYObgviwCFvgcQyUmzV"
-        }
-      ],
-      "duration_ms": 142308,
-      "name": "Otro Level",
-      "url": "https://open.spotify.com/track/6zYQlPyH1hl2KfjAWvnlM6"
-    },
-    {
       "added_at": "2025-10-31 04:00:41",
       "album": {
         "name": "Repeat",
@@ -931,6 +947,26 @@
       "duration_ms": 146823,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3m8S31BMGE9Hck6heXw10X"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "DARTELA",
+        "url": "https://open.spotify.com/album/6ODWAOrPIuo1XoWfLVu2zC"
+      },
+      "artists": [
+        {
+          "name": "Iz BLAKK",
+          "url": "https://open.spotify.com/artist/3gIaXwGvba40FNweun2cOW"
+        },
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "DARTELA",
+      "url": "https://open.spotify.com/track/6h3p9RHFHhdX6tE408DrTN"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -1033,30 +1069,6 @@
       "url": "https://open.spotify.com/track/5JZTKJNb9rEBVrTaeGmzXR"
     },
     {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "Un Check",
-        "url": "https://open.spotify.com/album/1tc6XCBG2XF3tIj6soC9vE"
-      },
-      "artists": [
-        {
-          "name": "Dowel King",
-          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
-        },
-        {
-          "name": "Luis Caracter",
-          "url": "https://open.spotify.com/artist/7GPDM0gMwyYQBQrOxJap96"
-        },
-        {
-          "name": "Chuki El Cibernetico",
-          "url": "https://open.spotify.com/artist/0mwFILYWhM2yCFVOjtfg42"
-        }
-      ],
-      "duration_ms": 151636,
-      "name": "Un Check",
-      "url": "https://open.spotify.com/track/78LdGAgCOKAolYh7MIjsLn"
-    },
-    {
       "added_at": "2025-06-06 04:00:15",
       "album": {
         "name": "LIPO",
@@ -1139,6 +1151,22 @@
       "duration_ms": 167852,
       "name": "PANTI",
       "url": "https://open.spotify.com/track/1BNzMJ3cpGleoMeDsSZ6p2"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "PIYOYO 2",
+        "url": "https://open.spotify.com/album/5N0g7Cv7svvZNZ4Rc1J4mf"
+      },
+      "artists": [
+        {
+          "name": "Dowel King",
+          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "PIYOYO 2",
+      "url": "https://open.spotify.com/track/1mHNq0Pt2xvI7YM3is30bX"
     },
     {
       "added_at": "2025-09-05 04:00:17",
@@ -1329,6 +1357,22 @@
       "url": "https://open.spotify.com/track/6oRMg2IUaM9Ussg6pS30la"
     },
     {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "Malo Son Ello",
+        "url": "https://open.spotify.com/album/00Uxni6skDag0hUIKg32e4"
+      },
+      "artists": [
+        {
+          "name": "Liil Jay",
+          "url": "https://open.spotify.com/artist/0KA4BF3xL0wSVEY5ovpEru"
+        }
+      ],
+      "duration_ms": 113384,
+      "name": "Malo Son Ello",
+      "url": "https://open.spotify.com/track/3KXTCRK2lGuvrfJQJGldkU"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Juguete",
@@ -1489,6 +1533,22 @@
       "url": "https://open.spotify.com/track/1u79aB04RsxmLmaQZRpy9N"
     },
     {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "Kilo & tambol",
+        "url": "https://open.spotify.com/album/1RJWq0oelvokiePW7RhYZr"
+      },
+      "artists": [
+        {
+          "name": "ZOJO RD",
+          "url": "https://open.spotify.com/artist/50snTqTOJzts5YkEyMgBPL"
+        }
+      ],
+      "duration_ms": 148327,
+      "name": "Kilo & tambol",
+      "url": "https://open.spotify.com/track/7kVNu8wilT74aBYY2ad0YQ"
+    },
+    {
       "added_at": "2025-08-29 04:00:35",
       "album": {
         "name": "E' Popi",
@@ -1643,6 +1703,22 @@
       "duration_ms": 238947,
       "name": "ABAYARDE",
       "url": "https://open.spotify.com/track/2TroCRdvxRu1TTCbTutn6k"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "EN TI",
+        "url": "https://open.spotify.com/album/3mJOdhkAuuTJYX0buOljLE"
+      },
+      "artists": [
+        {
+          "name": "lejazzy",
+          "url": "https://open.spotify.com/artist/6Xjmpnt9WtUHfeBRBD9aER"
+        }
+      ],
+      "duration_ms": 106012,
+      "name": "EN TI",
+      "url": "https://open.spotify.com/track/3SmGp4oLhFJX2b5LnsjiMf"
     },
     {
       "added_at": "2025-05-30 04:00:26",

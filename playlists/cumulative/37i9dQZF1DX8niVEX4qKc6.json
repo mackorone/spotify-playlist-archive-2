@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186207,
       "name": "2020",
       "url": "https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174293,
       "name": "Abre Tus Ojos",
       "url": "https://open.spotify.com/track/4QdTKLS8S4XY6y7taoB4er"
@@ -552,6 +552,32 @@
       "duration_ms": 196004,
       "name": "AWCH - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+    },
+    {
+      "album": {
+        "name": "Baguala Desesperada",
+        "url": "https://open.spotify.com/album/1SIlKhoqSbWQTVHh0373m3"
+      },
+      "artists": [
+        {
+          "name": "Barbarita Palacios",
+          "url": "https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207240,
+      "name": "Baguala Desesperada",
+      "url": "https://open.spotify.com/track/1hoFtJoD2tQh6V6G1Dj3is"
     },
     {
       "album": {
@@ -1182,6 +1208,28 @@
       "duration_ms": 165779,
       "name": "D\u00f3nde el sol",
       "url": "https://open.spotify.com/track/0dc1jZOdLeRU4wN7vdjyo6"
+    },
+    {
+      "album": {
+        "name": "El Astronauta (Wagon Unplugged)",
+        "url": "https://open.spotify.com/album/36wX6UTQVQiKD36VhfQUFN"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "Wagon Sessions",
+          "url": "https://open.spotify.com/artist/4DshoKr8IgTQWxRSZQ2FoM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195832,
+      "name": "El Astronauta (Wagon Unplugged)",
+      "url": "https://open.spotify.com/track/4XrqkG0Eqijzg1OWI0PC82"
     },
     {
       "album": {
@@ -2168,6 +2216,24 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "album": {
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
     },
     {
       "album": {
@@ -3546,7 +3612,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 77890,
       "name": "Timba",
       "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"

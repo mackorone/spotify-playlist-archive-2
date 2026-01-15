@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain](/playlists/plain/37i9dQZF1DXbqeJWUclfKL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbqeJWUclfKL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain](/playlists/plain/37i9dQZF1DXbqeJWUclfKL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbqeJWUclfKL)
 
 ### [Anime Halloween Party](https://open.spotify.com/playlist/37i9dQZF1DXbqeJWUclfKL)
 
 > Vampires, witches, ghosts and ghouls! Spookify your speakers and haunt your headphones, anime style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,083 likes - 61 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,328 likes - 61 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

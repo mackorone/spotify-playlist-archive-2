@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20xDs0SXeZu.md) - [plain](/playlists/plain/37i9dQZF1DX20xDs0SXeZu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX20xDs0SXeZu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20xDs0SXeZu.md) - [plain](/playlists/plain/37i9dQZF1DX20xDs0SXeZu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX20xDs0SXeZu)
 
 ### [Classical Era 50: Spotify Picks](https://open.spotify.com/playlist/37i9dQZF1DX20xDs0SXeZu)
 

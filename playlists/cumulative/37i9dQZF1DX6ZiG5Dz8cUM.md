@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6ZiG5Dz8cUM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6ZiG5Dz8cUM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6ZiG5Dz8cUM)
+[pretty](/playlists/pretty/37i9dQZF1DX6ZiG5Dz8cUM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6ZiG5Dz8cUM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6ZiG5Dz8cUM)
 
 ### [Date Night Jazz](https://open.spotify.com/playlist/37i9dQZF1DX6ZiG5Dz8cUM)
 

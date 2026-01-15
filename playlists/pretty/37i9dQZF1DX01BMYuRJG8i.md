@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01BMYuRJG8i.md) - [plain](/playlists/plain/37i9dQZF1DX01BMYuRJG8i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX01BMYuRJG8i)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01BMYuRJG8i.md) - [plain](/playlists/plain/37i9dQZF1DX01BMYuRJG8i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX01BMYuRJG8i)
 
 ### [SHADOWS HOUSE シャドーハウス](https://open.spotify.com/playlist/37i9dQZF1DX01BMYuRJG8i)
 
 > Music from "SHADOWS HOUSE"! /アニメ「シャドーハウス」の楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,595 likes - 30 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,626 likes - 30 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

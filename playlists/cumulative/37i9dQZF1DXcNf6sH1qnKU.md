@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcNf6sH1qnKU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcNf6sH1qnKU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcNf6sH1qnKU)
+[pretty](/playlists/pretty/37i9dQZF1DXcNf6sH1qnKU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcNf6sH1qnKU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcNf6sH1qnKU)
 
 ### [Dreampop Classics](https://open.spotify.com/playlist/37i9dQZF1DXcNf6sH1qnKU)
 
-> Glimmering, warm, and bright memories: Broadcast on the cover.
+> Glimmering, warm, and bright memories: Beach House on the cover.
 
 128 songs - 9 hr 26 min
 

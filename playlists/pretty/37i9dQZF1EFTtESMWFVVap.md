@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTtESMWFVVap.md) - [plain](/playlists/plain/37i9dQZF1EFTtESMWFVVap) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFTtESMWFVVap)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTtESMWFVVap.md) - [plain](/playlists/plain/37i9dQZF1EFTtESMWFVVap) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFTtESMWFVVap)
 
 ### [Written By Anaïs Mitchell](https://open.spotify.com/playlist/37i9dQZF1EFTtESMWFVVap)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4pfLHiO1JM2juX7ZXtqYXX">Anaïs Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 119 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 119 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTtESMWFVVap.md) - [plain]
 | 118 | [I Got a Well](https://open.spotify.com/track/0AS95ZFPpzscVyHmUPCmc6) | [Miriam Bernardo](https://open.spotify.com/artist/0UWloG98LNXMiDqewU6RTL), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Jer Coons](https://open.spotify.com/artist/4ZdqTj99dVfhkb8D4ZVsJS), [Stephanie Wilson](https://open.spotify.com/artist/0BRpENYnifmgDtPuQXrB8D), [Halle Jade Toulis](https://open.spotify.com/artist/2dIJG46nfM6XppnTBa1Cmw), [Hannah Gluck](https://open.spotify.com/artist/1x2NujACxvWXOZIwMy2R4a) | [Songs from the Well](https://open.spotify.com/album/1a2hitttrH8jB7kwqBz5uK) | 3:26 |
 | 119 | [Songbird Intro](https://open.spotify.com/track/7cYqfclUOwJ5psP3Lwcl8L) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hadestown](https://open.spotify.com/album/4H6NRX6bvkIJZIJdZSPq6Y) | 0:24 |
 
-Snapshot ID: `AcGKngAAAAATYZttpJX1wN5SEfOxw1fr`
+Snapshot ID: `AcHArgAAAABxR1h8oL70I+/1B/jS+vmy`

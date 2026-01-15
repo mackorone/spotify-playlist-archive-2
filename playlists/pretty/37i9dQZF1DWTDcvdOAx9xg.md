@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain](/playlists/plain/37i9dQZF1DWTDcvdOAx9xg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTDcvdOAx9xg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain](/playlists/plain/37i9dQZF1DWTDcvdOAx9xg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTDcvdOAx9xg)
 
 ### [Best of GENERAZIONE Z 2025](https://open.spotify.com/playlist/37i9dQZF1DWTDcvdOAx9xg)
 
 > il meglio dei brani  <a href="spotify:playlist:37i9dQZF1DWYCIYGXn56uz">gen\-z</a> italiani di quest'anno, secondo voi e i nostri editor 📞 Cover: Gaia
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,079 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,091 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

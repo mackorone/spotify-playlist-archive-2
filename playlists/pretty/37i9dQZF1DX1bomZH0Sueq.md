@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain](/playlists/plain/37i9dQZF1DX1bomZH0Sueq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1bomZH0Sueq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain](/playlists/plain/37i9dQZF1DX1bomZH0Sueq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1bomZH0Sueq)
 
 ### [Walking & Strolling](https://open.spotify.com/playlist/37i9dQZF1DX1bomZH0Sueq)
 

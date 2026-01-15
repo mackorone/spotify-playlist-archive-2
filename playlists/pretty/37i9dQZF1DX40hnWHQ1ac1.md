@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40hnWHQ1ac1.md) - [plain](/playlists/plain/37i9dQZF1DX40hnWHQ1ac1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX40hnWHQ1ac1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40hnWHQ1ac1.md) - [plain](/playlists/plain/37i9dQZF1DX40hnWHQ1ac1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX40hnWHQ1ac1)
 
 ### [j\-hope Tour ‘HOPE ON THE STAGE’](https://open.spotify.com/playlist/37i9dQZF1DX40hnWHQ1ac1)
 
 > Enjoy the LIVE SET including the voices of them on stage! \(아티스트의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,383 likes - 33 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,033 likes - 33 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

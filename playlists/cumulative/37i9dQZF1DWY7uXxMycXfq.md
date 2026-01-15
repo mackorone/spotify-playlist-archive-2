@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY7uXxMycXfq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY7uXxMycXfq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY7uXxMycXfq)
+[pretty](/playlists/pretty/37i9dQZF1DWY7uXxMycXfq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY7uXxMycXfq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY7uXxMycXfq)
 
 ### [Women of Experimental](https://open.spotify.com/playlist/37i9dQZF1DWY7uXxMycXfq)
 

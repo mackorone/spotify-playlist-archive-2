@@ -125,6 +125,32 @@
     },
     {
       "album": {
+        "name": "All is Summer",
+        "url": "https://open.spotify.com/album/51qZK00yCuVTx4Oo2ePrvk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Blumberg",
+          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
+        },
+        {
+          "name": "Amanda Seyfried",
+          "url": "https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u"
+        },
+        {
+          "name": "The Testament of Ann Lee Cast",
+          "url": "https://open.spotify.com/artist/3smhfWwJ3vixdJGOU8b01L"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161920,
+      "name": "All is Summer",
+      "url": "https://open.spotify.com/track/3dgpYYu0fHl9jyMY3izzXc"
+    },
+    {
+      "album": {
         "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
       },
@@ -2040,7 +2066,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141666,
       "name": "Make It Happen (from the Netflix Film \"My Oxford Year\") - Bonus Track",
       "url": "https://open.spotify.com/track/0dr2EXxuBWpVuamDRSMdtH"

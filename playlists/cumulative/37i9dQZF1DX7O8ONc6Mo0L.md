@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7O8ONc6Mo0L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7O8ONc6Mo0L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7O8ONc6Mo0L)
+[pretty](/playlists/pretty/37i9dQZF1DX7O8ONc6Mo0L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7O8ONc6Mo0L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7O8ONc6Mo0L)
 
 ### [Gospel Acústico](https://open.spotify.com/playlist/37i9dQZF1DX7O8ONc6Mo0L)
 

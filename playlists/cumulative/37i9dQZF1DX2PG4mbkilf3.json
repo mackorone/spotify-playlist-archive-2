@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Sage Harris from Toronto, ON.",
+  "description": "Your guide to R&B in Canada, with Katie Tupper from Saskatoon, SK.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -3158,6 +3158,24 @@
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
+    },
+    {
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/31CqdMUrPKIgOIdhNwdybm"
+      },
+      "artists": [
+        {
+          "name": "Notifi",
+          "url": "https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145222,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/6XCViX1xxjq1tESBApmDqy"
     },
     {
       "album": {
@@ -6952,7 +6970,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203286,
       "name": "drownin.",
       "url": "https://open.spotify.com/track/6IAe0sByd4DMbX3rtrKxhJ"
@@ -7050,7 +7068,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150500,
       "name": "East Side",
       "url": "https://open.spotify.com/track/4ErK8fosX0VmvHPOviIH98"
@@ -8526,7 +8544,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 204032,
       "name": "Focused on Me",
       "url": "https://open.spotify.com/track/6zqxBOid2nVjFHjlocKQsG"
@@ -8646,6 +8664,32 @@
       "duration_ms": 181521,
       "name": "For You (feat. DJ Velvet)",
       "url": "https://open.spotify.com/track/7Dos7f7TriEoTgcHedg9re"
+    },
+    {
+      "album": {
+        "name": "Acoustemology",
+        "url": "https://open.spotify.com/album/2dDGpARozGGkDWa02YzqWV"
+      },
+      "artists": [
+        {
+          "name": "Edmund Paquin",
+          "url": "https://open.spotify.com/artist/1sj2E6vznD7CD6tbImjcOh"
+        },
+        {
+          "name": "Lofty",
+          "url": "https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0"
+        },
+        {
+          "name": "Owen Chow",
+          "url": "https://open.spotify.com/artist/5KINTUf4vKBPacOKbjV7R7"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "For Yourself",
+      "url": "https://open.spotify.com/track/3EsDqIrZNNNQqUyfIcE8Q6"
     },
     {
       "album": {
@@ -9268,7 +9312,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198113,
       "name": "Give You the World",
       "url": "https://open.spotify.com/track/45NLAZLAqdPBsc8gMkMCBJ"
@@ -17885,6 +17929,24 @@
     },
     {
       "album": {
+        "name": "Off The Edge",
+        "url": "https://open.spotify.com/album/5o7L4vWaMRwpAaqivA8YoU"
+      },
+      "artists": [
+        {
+          "name": "Fidelina",
+          "url": "https://open.spotify.com/artist/1AGhQu02t4zChMztMSoJSS"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141624,
+      "name": "Off The Edge",
+      "url": "https://open.spotify.com/track/217mh6loey8Q1WxFJ2qcVq"
+    },
+    {
+      "album": {
         "name": "Ogwula",
         "url": "https://open.spotify.com/album/29AiXhlu8kioHxwd3NHZNw"
       },
@@ -20984,7 +21046,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173555,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/51kQQc9a8r3kLA1Wpgn9rR"
@@ -21560,6 +21622,24 @@
       "duration_ms": 172341,
       "name": "SAD GIRL DISCO",
       "url": "https://open.spotify.com/track/24dJ7fDXFjBjoTKAICL8vU"
+    },
+    {
+      "album": {
+        "name": "Safe Ground",
+        "url": "https://open.spotify.com/album/0o0F5wVfqU1Vld0peDnPzA"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193942,
+      "name": "Safe Ground",
+      "url": "https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV"
     },
     {
       "album": {
@@ -28600,6 +28680,24 @@
       "duration_ms": 167943,
       "name": "Who Dey Shake",
       "url": "https://open.spotify.com/track/46SqFCeMhBCanrMdjVt5VG"
+    },
+    {
+      "album": {
+        "name": "Who Gives A Funk!?",
+        "url": "https://open.spotify.com/album/1JhJMxl7DmUvtobHCOKPky"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202536,
+      "name": "Who Gives A Funk!?",
+      "url": "https://open.spotify.com/track/3NLy3Qy6xWOs5blWZzEfRS"
     },
     {
       "album": {

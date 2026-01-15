@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain](/playlists/plain/37i9dQZF1DX55dNU0PWnO5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX55dNU0PWnO5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain](/playlists/plain/37i9dQZF1DX55dNU0PWnO5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX55dNU0PWnO5)
 
 ### [Jazztronica](https://open.spotify.com/playlist/37i9dQZF1DX55dNU0PWnO5)
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,601 likes - 200 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,545 likes - 200 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

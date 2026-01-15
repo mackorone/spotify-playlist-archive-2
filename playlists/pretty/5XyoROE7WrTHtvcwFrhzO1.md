@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5XyoROE7WrTHtvcwFrhzO1.md) - [plain](/playlists/plain/5XyoROE7WrTHtvcwFrhzO1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5XyoROE7WrTHtvcwFrhzO1)
+pretty - [cumulative](/playlists/cumulative/5XyoROE7WrTHtvcwFrhzO1.md) - [plain](/playlists/plain/5XyoROE7WrTHtvcwFrhzO1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5XyoROE7WrTHtvcwFrhzO1)
 
 ### [Britfolk](https://open.spotify.com/playlist/5XyoROE7WrTHtvcwFrhzO1)
 
 > The best in folk and singer songwriter from the UK and Ireland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198 likes - 15 songs - 59 min 54 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,194 likes - 15 songs - 59 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain](/playlists/plain/2xxkK8eaOyM6JRhHOheZBZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2xxkK8eaOyM6JRhHOheZBZ)
+pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain](/playlists/plain/2xxkK8eaOyM6JRhHOheZBZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2xxkK8eaOyM6JRhHOheZBZ)
 
 ### [Sweden Rock Festival 2012](https://open.spotify.com/playlist/2xxkK8eaOyM6JRhHOheZBZ)
 

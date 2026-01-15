@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-06",
-  "description": "back roads up loud with Treaty Oak Revival",
+  "description": "back roads up loud with Lakeview",
   "name": "GRAVEL",
   "tracks": [
     {
@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Can't Live Without",
+        "url": "https://open.spotify.com/album/7yUsPsUryggm1KeEZQmDRi"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173128,
+      "name": "Can't Live Without",
+      "url": "https://open.spotify.com/track/6deNzdi49NdTqyVtgVuQw6"
+    },
+    {
+      "album": {
         "name": "Cowboys Did Cocaine",
         "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
       },
@@ -298,6 +316,24 @@
       "duration_ms": 175790,
       "name": "Dust Till Dawn",
       "url": "https://open.spotify.com/track/2wuLvfJn8vqmgzgAXH0wAv"
+    },
+    {
+      "album": {
+        "name": "Everything You Hate",
+        "url": "https://open.spotify.com/album/2jfJpru4kTLGk6Yj827us9"
+      },
+      "artists": [
+        {
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234986,
+      "name": "Everything You Hate",
+      "url": "https://open.spotify.com/track/2Jcj2BcQACBfNEouhjtvhK"
     },
     {
       "album": {

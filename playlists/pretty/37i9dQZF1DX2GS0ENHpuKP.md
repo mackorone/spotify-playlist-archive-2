@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain](/playlists/plain/37i9dQZF1DX2GS0ENHpuKP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2GS0ENHpuKP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain](/playlists/plain/37i9dQZF1DX2GS0ENHpuKP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2GS0ENHpuKP)
 
 ### [Nu Genea's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX2GS0ENHpuKP)
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,421 likes - 93 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,622 likes - 93 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

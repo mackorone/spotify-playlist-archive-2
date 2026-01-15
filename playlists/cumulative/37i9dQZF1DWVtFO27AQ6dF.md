@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVtFO27AQ6dF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVtFO27AQ6dF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVtFO27AQ6dF)
+[pretty](/playlists/pretty/37i9dQZF1DWVtFO27AQ6dF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVtFO27AQ6dF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVtFO27AQ6dF)
 
 ### [Maldita Hamburguesa](https://open.spotify.com/playlist/37i9dQZF1DWVtFO27AQ6dF)
 

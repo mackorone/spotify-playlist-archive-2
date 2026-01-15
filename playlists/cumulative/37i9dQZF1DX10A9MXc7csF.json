@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: LENCHO",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Linea Personal ",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -390,6 +390,24 @@
       "duration_ms": 188888,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
+    },
+    {
+      "album": {
+        "name": "3 Doritos Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4IWa6UUmfpsaSap5BUDNmC"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145516,
+      "name": "3 Doritos Despu\u00e9s",
+      "url": "https://open.spotify.com/track/6tqgBtpij8t3pTpbrxFXbl"
     },
     {
       "album": {
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 235106,
       "name": "aeternum",
       "url": "https://open.spotify.com/track/4Cs1lcghoJT5viTN5JuNzX"
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205032,
       "name": "AMANECIDO Y REGA\u00d1ADO",
       "url": "https://open.spotify.com/track/67BjeJkPgqHpkzlQveRoFh"
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153186,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/7z5ZCEHWqTkMRwyVPPpWdC"
@@ -5293,6 +5311,28 @@
     },
     {
       "album": {
+        "name": "Colgando En Tus Manos",
+        "url": "https://open.spotify.com/album/1iEr0YDJQx813gCSAcyDTp"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Colgando En Tus Manos",
+      "url": "https://open.spotify.com/track/3Ml0PcFYW79GV3X0GqRqup"
+    },
+    {
+      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/01x5IAT1NFDm8rcTfNxe8E"
       },
@@ -7846,7 +7886,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210016,
       "name": "DOPAMINA",
       "url": "https://open.spotify.com/track/6FZgPSk98dzmB0DKXl9pSD"
@@ -7984,6 +8024,24 @@
       "duration_ms": 150315,
       "name": "D\u00c9JAME",
       "url": "https://open.spotify.com/track/4w0CDJpq3UYndHYU4M62hF"
+    },
+    {
+      "album": {
+        "name": "D\u00eda De Enero",
+        "url": "https://open.spotify.com/album/4TungBFqPJNt84NChoISYc"
+      },
+      "artists": [
+        {
+          "name": "Cachas De Oro",
+          "url": "https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210054,
+      "name": "D\u00eda De Enero",
+      "url": "https://open.spotify.com/track/0STV40KgRapEXxLNLTLrwT"
     },
     {
       "album": {
@@ -10931,6 +10989,24 @@
     },
     {
       "album": {
+        "name": "Ese Loco Soy Yo",
+        "url": "https://open.spotify.com/album/0lheE2ouOlNeOOLhfdRPJI"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168147,
+      "name": "Ese Loco Soy Yo",
+      "url": "https://open.spotify.com/track/0hVL1RhFEnCXGlXNAzm3Lm"
+    },
+    {
+      "album": {
         "name": "Esmeralda",
         "url": "https://open.spotify.com/album/3TOVSh94JKF4tmfE6V5Pb8"
       },
@@ -13426,6 +13502,24 @@
       "duration_ms": 140374,
       "name": "Impulso",
       "url": "https://open.spotify.com/track/4xqcKxTHMWUI2maPYUmGzZ"
+    },
+    {
+      "album": {
+        "name": "IMY",
+        "url": "https://open.spotify.com/album/3VFQuyJXCNI6GcemfWwmMD"
+      },
+      "artists": [
+        {
+          "name": "CV",
+          "url": "https://open.spotify.com/artist/42JVtjWdmkTi0gQCrvbiLS"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160314,
+      "name": "IMY",
+      "url": "https://open.spotify.com/track/07KYEfh9evr184BzhO7I0J"
     },
     {
       "album": {
@@ -16050,7 +16144,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 202551,
       "name": "Loco Navegando",
       "url": "https://open.spotify.com/track/2XT0FREtcYdlfWSVI5F5hH"
@@ -18363,6 +18457,24 @@
     },
     {
       "album": {
+        "name": "Mi Sistema",
+        "url": "https://open.spotify.com/album/2H87dnCgmwiUP9WLQ6Afgj"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Cota",
+          "url": "https://open.spotify.com/artist/43TBniliwDn600EiuvJGuw"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221801,
+      "name": "Mi Sistema",
+      "url": "https://open.spotify.com/track/3Mf6lCWB7SUJ7jdXg8q6vu"
+    },
+    {
+      "album": {
         "name": "Mi Skar",
         "url": "https://open.spotify.com/album/6RRlngK6PNUQuTzfMTbLeT"
       },
@@ -19626,7 +19738,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 152181,
       "name": "M\u00e1quina del tiempo",
       "url": "https://open.spotify.com/track/0yzVvnRgFhY6L9tLuOwTGC"
@@ -20254,6 +20366,24 @@
       "duration_ms": 177500,
       "name": "Ni\u00f1a Gotica",
       "url": "https://open.spotify.com/track/5bdra6IsLflRKQK5gpNzl8"
+    },
+    {
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/58RoPA8TLI7C1SwpH2Oozy"
+      },
+      "artists": [
+        {
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "No",
+      "url": "https://open.spotify.com/track/1vyjEV4WjvR67ble8w9vVD"
     },
     {
       "album": {
@@ -21518,7 +21648,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 131608,
       "name": "Obsesionado Contigo",
       "url": "https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54"
@@ -21826,6 +21956,24 @@
       "duration_ms": 180786,
       "name": "OTRO CAP\u00cdTULO",
       "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
+    },
+    {
+      "album": {
+        "name": "OTRO DESMADRE",
+        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182061,
+      "name": "OTRO DESMADRE",
+      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
     },
     {
       "album": {
@@ -23087,6 +23235,24 @@
     },
     {
       "album": {
+        "name": "\"Estoy Bien\"",
+        "url": "https://open.spotify.com/album/1dE7V9UJxX6jpK1hNAyLyT"
+      },
+      "artists": [
+        {
+          "name": "Daren",
+          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209724,
+      "name": "PLANETA",
+      "url": "https://open.spotify.com/track/2OUOsr0nL8AlpkTybFu6RB"
+    },
+    {
+      "album": {
         "name": "Playa Sola",
         "url": "https://open.spotify.com/album/2NXb5mb2ILEEc8JKiK3Kw3"
       },
@@ -23610,7 +23776,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 168641,
       "name": "Primer Amor",
       "url": "https://open.spotify.com/track/7esQPmazvqpOYHK7lmjIpM"
@@ -24582,6 +24748,10 @@
         {
           "name": "Porte Diferente",
           "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        },
+        {
+          "name": "Ultima Esencia",
+          "url": "https://open.spotify.com/artist/6Cek7Jo12UlmR5qgc494l6"
         }
       ],
       "date_added": "2025-11-28",
@@ -30568,7 +30738,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194500,
       "name": "Vida y Libertad",
       "url": "https://open.spotify.com/track/1fMAYvrvgG8cf4ufKgIxem"
@@ -30908,6 +31078,24 @@
       "duration_ms": 193654,
       "name": "Y SI YA EST\u00c1S CON OTRO",
       "url": "https://open.spotify.com/track/3zggHSqJBUO1bpOCZW4bm7"
+    },
+    {
+      "album": {
+        "name": "YA DIME QUE S\u00cd",
+        "url": "https://open.spotify.com/album/4OG2jOl3VUku4Wqn3cgDtO"
+      },
+      "artists": [
+        {
+          "name": "DANNY DUARTE",
+          "url": "https://open.spotify.com/artist/7umeKQuONOmBJNYP0wPob8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208032,
+      "name": "YA DIME QUE S\u00cd",
+      "url": "https://open.spotify.com/track/6IyhrxGfQOuDL0ZQhq5BRS"
     },
     {
       "album": {
@@ -31568,7 +31756,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226624,
       "name": "\u00bfPara Qu\u00e9 Sufrir?",
       "url": "https://open.spotify.com/track/4XSzh2lvJT0KexQE2reXm4"

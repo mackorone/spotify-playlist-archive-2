@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MKKSJUVEYF.md) - [plain](/playlists/plain/37i9dQZF1DX7MKKSJUVEYF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7MKKSJUVEYF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MKKSJUVEYF.md) - [plain](/playlists/plain/37i9dQZF1DX7MKKSJUVEYF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7MKKSJUVEYF)
 
 ### [Sanremo: La Voce delle Donne](https://open.spotify.com/playlist/37i9dQZF1DX7MKKSJUVEYF)
 
 > Sanremo queens unite 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,725 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,707 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

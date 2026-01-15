@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kidwild",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: AntsLive",
   "name": "Rap UK",
   "tracks": [
     {
@@ -15161,6 +15161,32 @@
     },
     {
       "album": {
+        "name": "FIRST CLASS LANDING.",
+        "url": "https://open.spotify.com/album/4a22dfdSjqIJ9fw9M8cLO0"
+      },
+      "artists": [
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "FIRST CLASS LANDING.",
+      "url": "https://open.spotify.com/track/3wS3axElohYztqGgvwxJX3"
+    },
+    {
+      "album": {
         "name": "First Little Rollie",
         "url": "https://open.spotify.com/album/1Eu8do2EOx6IDksEhjX0CM"
       },
@@ -17824,7 +17850,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153400,
       "name": "GUILT TRIPPIN (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
@@ -22996,7 +23022,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 229642,
       "name": "Legends Don't Die",
       "url": "https://open.spotify.com/track/5dpV6pxZa9fKr4SPsnO10o"
@@ -25911,6 +25937,28 @@
     },
     {
       "album": {
+        "name": "Mightjuss",
+        "url": "https://open.spotify.com/album/2HLkZmXUIsWFOwXyP8zJyc"
+      },
+      "artists": [
+        {
+          "name": "Finessekid",
+          "url": "https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169127,
+      "name": "Mightjuss",
+      "url": "https://open.spotify.com/track/2BCTfnyOqyEq4CmZ3aPjEj"
+    },
+    {
+      "album": {
         "name": "Mile High Club",
         "url": "https://open.spotify.com/album/2O0G39UpXY48FC1VIKxrvM"
       },
@@ -27634,6 +27682,24 @@
       "duration_ms": 147793,
       "name": "N.F.T.R",
       "url": "https://open.spotify.com/track/09Z93D06xMy1q0x09dknsY"
+    },
+    {
+      "album": {
+        "name": "Nana's Veranda",
+        "url": "https://open.spotify.com/album/4fH4BSmkAUJQPHJ7PRCJO6"
+      },
+      "artists": [
+        {
+          "name": "Marnz Malone",
+          "url": "https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232747,
+      "name": "Nana\u2019s Veranda",
+      "url": "https://open.spotify.com/track/7AGL8dQXJQqPDdgzRdY5MT"
     },
     {
       "album": {
@@ -32424,7 +32490,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 137391,
       "name": "PRAYER",
       "url": "https://open.spotify.com/track/1Nk3MMrnhfqFF3REsfd6Oi"

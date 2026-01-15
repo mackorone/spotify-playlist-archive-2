@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain](/playlists/plain/37i9dQZF1DXdz2Y81ous2K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdz2Y81ous2K)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain](/playlists/plain/37i9dQZF1DXdz2Y81ous2K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdz2Y81ous2K)
 
 ### [Crunchyroll's Curated By: Mori Calliope](https://open.spotify.com/playlist/37i9dQZF1DXdz2Y81ous2K)
 
 > We just handed the Grim Reaper's first apprentice the AUX cord! All songs curated by Vtuber star Mori Calliope.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,818 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,535 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27YQi4aQ8cE.md) - [plain](/playlists/plain/37i9dQZF1DX27YQi4aQ8cE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX27YQi4aQ8cE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27YQi4aQ8cE.md) - [plain](/playlists/plain/37i9dQZF1DX27YQi4aQ8cE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX27YQi4aQ8cE)
 
 ### [Calming Carols](https://open.spotify.com/playlist/37i9dQZF1DX27YQi4aQ8cE)
 
 > The most calming Christmas carols.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,095 likes - 82 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,981 likes - 82 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

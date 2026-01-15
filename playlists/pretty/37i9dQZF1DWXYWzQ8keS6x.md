@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWzQ8keS6x.md) - [plain](/playlists/plain/37i9dQZF1DWXYWzQ8keS6x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXYWzQ8keS6x)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWzQ8keS6x.md) - [plain](/playlists/plain/37i9dQZF1DWXYWzQ8keS6x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXYWzQ8keS6x)
 
 ### [O Melhor da Trapperz Brasil 2021](https://open.spotify.com/playlist/37i9dQZF1DWXYWzQ8keS6x)
 

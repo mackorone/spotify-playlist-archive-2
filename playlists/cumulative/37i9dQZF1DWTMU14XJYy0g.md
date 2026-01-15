@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTMU14XJYy0g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTMU14XJYy0g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTMU14XJYy0g)
+[pretty](/playlists/pretty/37i9dQZF1DWTMU14XJYy0g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTMU14XJYy0g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTMU14XJYy0g)
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
 > Más vivo que nunca, más nuestro que siempre 📸 No Te Va Gustar con Ciro & Los Persas
 
-440 songs - 1 day 3 hr 19 min
+442 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-04-21 | 2024-03-23 |
 | [Abrazame](https://open.spotify.com/track/6Y4GA1qG0x17RR9tPfA6st) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Abrazame](https://open.spotify.com/album/5IvA88O5F7qYHaIG0Aj052) | 4:28 | 2024-05-31 | 2025-03-08 |
 | [Absurdo](https://open.spotify.com/track/0SiUfuGOtlSUPky10U1lCo) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:09 | 2025-05-16 |  |
+| [Acaricio](https://open.spotify.com/track/68jIMrHtBM6QmuQ5PQN8SG) | [Abril Sosa](https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl) | [Acaricio](https://open.spotify.com/album/3k3xm9kJvTSz9tJOjR6yy5) | 2:40 | 2026-01-12 |  |
 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-03-22 |  |
 | [ADRENALINA](https://open.spotify.com/track/1FPwQ986uwr9s5fX4IeJED) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [ADRENALINA](https://open.spotify.com/album/0DgyRVddvD2CJZj1k9j8vC) | 2:17 | 2025-04-29 | 2025-10-11 |
 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 | 2023-03-31 | 2023-07-29 |
@@ -104,7 +105,7 @@
 | [Decime](https://open.spotify.com/track/4GrktFU9YJBgZwDbtp45dO) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Cocoliche Life](https://open.spotify.com/album/4gv3OhieyZEVI0bjW7tIJc) | 3:39 | 2024-01-12 | 2024-09-13 |
 | [Demolición](https://open.spotify.com/track/0v1kN4ZUADCs0ZnQyBA9Pf) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Effatá](https://open.spotify.com/album/3uROJaWfcDjawQ2Bo5DoCj) | 2:45 | 2022-11-11 | 2023-06-01 |
 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 | 2023-05-05 | 2024-11-23 |
-| [DESCONOCIDO](https://open.spotify.com/track/1aMikxjRvuM1ZBnmexkz53) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DESCONOCIDO](https://open.spotify.com/album/4C0kjpYntG1ZCWOInzDCRr) | 3:05 | 2025-03-28 |  |
+| [DESCONOCIDO](https://open.spotify.com/track/1aMikxjRvuM1ZBnmexkz53) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DESCONOCIDO](https://open.spotify.com/album/4C0kjpYntG1ZCWOInzDCRr) | 3:05 | 2025-03-28 | 2026-01-15 |
 | [Desorden](https://open.spotify.com/track/4OUKqP6yONMhzts8jFt123) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Desorden](https://open.spotify.com/album/1cpKAyFyf5miX89Zw2Qa01) | 3:11 | 2024-10-10 | 2025-02-08 |
 | [Despiértate Nena \(Herencia Lebón\)](https://open.spotify.com/track/0sVPghWdY3HdWDZnPobjni) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Herencia Lebón 1](https://open.spotify.com/album/4Tl5twEpmrOihG7K566fQn) | 4:56 | 2023-08-25 | 2024-03-23 |
 | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/track/6Yp5cOsowqswSVrXxG3rCc) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/album/1tJKMu9iIZaQy9G3NjRu2C) | 3:14 | 2022-06-24 | 2023-01-21 |
@@ -230,6 +231,7 @@
 | [La Muchacha](https://open.spotify.com/track/4QkjhNvHaOLjKIUjkYuESC) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [La Muchacha](https://open.spotify.com/album/12I7GcXzFxXRLkTbwnORAU) | 3:52 | 2025-09-05 | 2025-09-13 |
 | [La Máquina](https://open.spotify.com/track/00RN1so6DXcJo1zFqlfezf) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [La Máquina](https://open.spotify.com/album/7jDD7GuuMirFLeNX7ksSjw) | 2:59 | 2025-05-16 |  |
 | [La Máquina Del Tiempo](https://open.spotify.com/track/6OrJEoztUAkM4AR27eCLNE) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Nueve](https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU) | 4:39 | 2024-06-14 | 2025-03-08 |
+| [La Noche De Ayer](https://open.spotify.com/track/3zP3i3HvBoESs7blohlvsi) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [FLORECE EN EL CAOS](https://open.spotify.com/album/1dFtJQK4H3PlsaPP2WZrdl) | 3:29 | 2026-01-12 |  |
 | [La Noche Sin Tí](https://open.spotify.com/track/01Nl8C2RuzukJWbOfYxsU6) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [Filosopunk](https://open.spotify.com/album/0RXMKMiInn9AezTxtb9I5U) | 5:41 | 2022-07-15 | 2024-04-19 |
 | [La Noche Sin Tí](https://open.spotify.com/track/0mdnJMB8I5rioFrxazCgJj) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [La Noche Sin Tí](https://open.spotify.com/album/02A4nDVsZBgNFVnt65Xgay) | 5:46 | 2022-06-24 | 2025-05-23 |
 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 | 2022-09-09 | 2023-05-16 |
@@ -270,7 +272,7 @@
 | [Magia Blanca](https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Magia Blanca](https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ) | 3:40 | 2025-02-07 |  |
 | [Mago](https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Mago](https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN) | 3:34 | 2023-06-09 | 2024-06-01 |
 | [Maldito Show](https://open.spotify.com/track/1qCjDUdUvji7I56MLHPKqR) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Maldito Show](https://open.spotify.com/album/2ScF3Yk0ltZCKRH70h37ZO) | 4:07 | 2022-06-24 | 2023-04-22 |
-| [MARACUYA](https://open.spotify.com/track/0RcfZvj6AV61mu6bFnCDWN) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [CUERPOS, Vol\. 1](https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV) | 3:38 | 2025-12-05 |  |
+| [MARACUYA](https://open.spotify.com/track/0RcfZvj6AV61mu6bFnCDWN) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [CUERPOS, Vol\. 1](https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV) | 3:38 | 2025-12-05 | 2026-01-15 |
 | [Mariposa](https://open.spotify.com/track/4USWiwJXVmSKNgfjj9hpRj) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Mariposa](https://open.spotify.com/album/4mbkKo7ctuU3BeRo41P972) | 5:03 | 2022-06-24 | 2023-04-15 |
 | [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 | 2024-01-12 |  |
 | [Me Haces Falta](https://open.spotify.com/track/2eg8DL6nVFm2OsH3OnFnEp) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [La Promesa](https://open.spotify.com/album/6K5qYOXXc4zHesFqF7NMxg) | 3:08 | 2025-02-28 | 2025-09-13 |

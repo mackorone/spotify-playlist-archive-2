@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evNZYvnfr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evNZYvnfr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evNZYvnfr)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evNZYvnfr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evNZYvnfr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evNZYvnfr)
 
 ### [This Is Micah Tyler](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYvnfr)
 

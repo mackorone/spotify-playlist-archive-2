@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/08vPKM3pmoyF6crB2EtASQ.md) - [plain](/playlists/plain/08vPKM3pmoyF6crB2EtASQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/08vPKM3pmoyF6crB2EtASQ)
+pretty - [cumulative](/playlists/cumulative/08vPKM3pmoyF6crB2EtASQ.md) - [plain](/playlists/plain/08vPKM3pmoyF6crB2EtASQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/08vPKM3pmoyF6crB2EtASQ)
 
 ### [Falling In Love](https://open.spotify.com/playlist/08vPKM3pmoyF6crB2EtASQ)
 
 > Sometimes only music can describe that feeling...
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,930 likes - 33 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,928 likes - 33 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

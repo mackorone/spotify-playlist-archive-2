@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSGaMpjluQpy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSGaMpjluQpy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSGaMpjluQpy)
+[pretty](/playlists/pretty/37i9dQZF1DWSGaMpjluQpy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSGaMpjluQpy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSGaMpjluQpy)
 
 ### [Jazz in the Rain](https://open.spotify.com/playlist/37i9dQZF1DWSGaMpjluQpy)
 

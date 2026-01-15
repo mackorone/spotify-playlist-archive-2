@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5Ir6gs0eXKyPj3Qin8uEun.md) - [plain](/playlists/plain/5Ir6gs0eXKyPj3Qin8uEun) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5Ir6gs0eXKyPj3Qin8uEun)
+pretty - [cumulative](/playlists/cumulative/5Ir6gs0eXKyPj3Qin8uEun.md) - [plain](/playlists/plain/5Ir6gs0eXKyPj3Qin8uEun) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5Ir6gs0eXKyPj3Qin8uEun)
 
 ### [Happy Birthday Sir Tom!](https://open.spotify.com/playlist/5Ir6gs0eXKyPj3Qin8uEun)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 20 songs - 56 min 39 sec
+[Spotify](https://open.spotify.com/user/spotify) - 97 likes - 20 songs - 56 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

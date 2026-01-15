@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2BZPS5jzzjcyPG7oqRXqMs.md) - cumulative - [plain](/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs)
+[pretty](/playlists/pretty/2BZPS5jzzjcyPG7oqRXqMs.md) - cumulative - [plain](/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs)
 
 ### [Christian Soundtracks \(Movie + TV\) 2026](https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs)
 

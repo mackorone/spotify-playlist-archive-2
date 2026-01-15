@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdG6xNmMOWik.md) - [plain](/playlists/plain/37i9dQZF1DXdG6xNmMOWik) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdG6xNmMOWik)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdG6xNmMOWik.md) - [plain](/playlists/plain/37i9dQZF1DXdG6xNmMOWik) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdG6xNmMOWik)
 
 ### [ラブライブ！蓮ノ空女学院スクールアイドルクラブ  LoveLive! HASU NO SORA JOGAKUIN SCHOOL IDOL CLUB](https://open.spotify.com/playlist/37i9dQZF1DXdG6xNmMOWik)
 
 > 蓮ノ空女学院スクールアイドルクラブ」の楽曲を1つのプレイリストで。Enjoy music from " LoveLive! HASU NO SORA JOGAKUIN SCHOOL IDOL CLUB"\. ©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,780 likes - 101 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,828 likes - 101 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

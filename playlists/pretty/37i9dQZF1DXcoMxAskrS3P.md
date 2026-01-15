@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain](/playlists/plain/37i9dQZF1DXcoMxAskrS3P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcoMxAskrS3P)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain](/playlists/plain/37i9dQZF1DXcoMxAskrS3P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcoMxAskrS3P)
 
 ### [Weverse Con Festival 2025](https://open.spotify.com/playlist/37i9dQZF1DXcoMxAskrS3P)
 
 > Enjoy the Weverse Con Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,397 likes - 241 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,391 likes - 241 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

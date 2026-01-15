@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1EFytB89FQTrZQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFytB89FQTrZQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFytB89FQTrZQ)
+[pretty](/playlists/pretty/37i9dQZF1EFytB89FQTrZQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFytB89FQTrZQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFytB89FQTrZQ)
 
 ### [Written By MNEK](https://open.spotify.com/playlist/37i9dQZF1EFytB89FQTrZQ)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-565 songs - 1 day 8 hr 9 min
+566 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [One Time](https://open.spotify.com/track/0c1kzQCqctdVspmNw52kcs) | [MIKExANGEL](https://open.spotify.com/artist/5kmcKvoT2hRuXOGnjcXc8e) | [NOTHiN 2 SOMETHiN](https://open.spotify.com/album/2hL1QtBuDgWpvkOD3FTdX5) | 3:10 | 2022-12-15 | 2023-12-14 |
 | [One Touch](https://open.spotify.com/track/3eS1VMcEmq2IUgpaeDysCb) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Always in Between \(Deluxe\)](https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN) | 3:17 | 2022-09-08 |  |
 | [One Touch](https://open.spotify.com/track/49dK2gPhrMDSCuRmATMuHU) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [One Touch](https://open.spotify.com/album/5AD98s5Pm4PfDlVx9fDPa2) | 4:20 | 2025-06-27 | 2025-07-10 |
+| [One Track Mind \(feat\. RILEASA\)](https://open.spotify.com/track/5RgB1e7a1KHrXrfT3UuPCc) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [RILEASA](https://open.spotify.com/artist/5spVyRrIk8Es1ZBi2ClEUU) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:44 | 2026-01-14 |  |
 | [Outside](https://open.spotify.com/track/7cjg32GaSbJHsN4Wc26PU0) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp) | 3:38 | 2023-09-25 |  |
 | [Outside \(feat\. Mabel\)](https://open.spotify.com/track/2NJyB8rLI3FQe73loSmYeu) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:38 | 2022-09-08 | 2023-09-26 |
 | [Overglow](https://open.spotify.com/track/431dLa3HnVrcW6cVdKWe1h) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:32 | 2022-09-08 |  |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6SSmRuPuSdo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6SSmRuPuSdo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6SSmRuPuSdo)
+[pretty](/playlists/pretty/37i9dQZF1DX6SSmRuPuSdo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6SSmRuPuSdo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6SSmRuPuSdo)
 
 ### [Aimfest 2025](https://open.spotify.com/playlist/37i9dQZF1DX6SSmRuPuSdo)
 

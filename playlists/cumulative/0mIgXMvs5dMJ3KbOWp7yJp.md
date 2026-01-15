@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0mIgXMvs5dMJ3KbOWp7yJp.md) - cumulative - [plain](/playlists/plain/0mIgXMvs5dMJ3KbOWp7yJp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0mIgXMvs5dMJ3KbOWp7yJp)
+[pretty](/playlists/pretty/0mIgXMvs5dMJ3KbOWp7yJp.md) - cumulative - [plain](/playlists/plain/0mIgXMvs5dMJ3KbOWp7yJp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0mIgXMvs5dMJ3KbOWp7yJp)
 
 ### [Alternative Rock](https://open.spotify.com/playlist/0mIgXMvs5dMJ3KbOWp7yJp)
 
@@ -269,7 +269,7 @@
 | [POV \(YOU\)](https://open.spotify.com/track/59Iiv7YFhhpKKF4IWTDXp2) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [POV \(YOU\)](https://open.spotify.com/album/09tl9b1a9v1tYKPlXBWHt9) | 3:51 | 2025-08-04 |  |
 | [PRENDO IL TRENO](https://open.spotify.com/track/7Ku7VvMqPkp8fUEGujEXut) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [PRENDO IL TRENO](https://open.spotify.com/album/61L0J2FByWxPdqiP4eQup8) | 4:05 | 2025-06-03 |  |
 | [Prime Piume](https://open.spotify.com/track/3SxECZvGIQ1Am0B1t2nhcd) | [Pleiades](https://open.spotify.com/artist/5K8NFeMXwlW07kQGbhI3A4) | [Prime Piume](https://open.spotify.com/album/6OehUDP8mrrXz3HWgp3buH) | 2:56 | 2025-08-21 |  |
-| [Problematic](https://open.spotify.com/track/47kR77hbjFeUAm6l3MJJeE) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Problematic](https://open.spotify.com/album/1ncyRXu065aLkwEhYQgkAp) | 3:34 | 2025-07-13 |  |
+| [Problematic](https://open.spotify.com/track/47kR77hbjFeUAm6l3MJJeE) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Problematic](https://open.spotify.com/album/1ncyRXu065aLkwEhYQgkAp) | 3:35 | 2025-07-13 |  |
 | [R&B U.S.A](https://open.spotify.com/track/7pcdGoALalrtDOpnUjMLsl) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [R&B U.S.A](https://open.spotify.com/album/4zTHGDAcXZWWzhU2U0S9C4) | 3:05 | 2025-09-02 |  |
 | [Raised By Wolves](https://open.spotify.com/track/4JMwjiRWDnOf8DdZvRbnuI) | [Robin Lee Field](https://open.spotify.com/artist/5MBurKRVWdD0M8akaLMz0V), [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [Raised By Wolves](https://open.spotify.com/album/5C627O7A1GO8NLxiPOUfAl) | 4:33 | 2025-06-23 |  |
 | [Rat Race](https://open.spotify.com/track/2u7Q7SFZxS3DQVE20KTAMR) | [Jumping Warpigs](https://open.spotify.com/artist/2bVJ0nmmBgKlHSKrtDK11t) | [Rat Race](https://open.spotify.com/album/3eOrmEsZWMULAiE8nFnBh9) | 2:36 | 2025-08-12 |  |

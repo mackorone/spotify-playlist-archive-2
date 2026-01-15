@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain](/playlists/plain/37i9dQZF1DX8PuH2xV18rB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8PuH2xV18rB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain](/playlists/plain/37i9dQZF1DX8PuH2xV18rB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8PuH2xV18rB)
 
 ### [Street Dance Girls Fighter \(스트릿 댄스 걸스 파이터\)](https://open.spotify.com/playlist/37i9dQZF1DX8PuH2xV18rB)
 

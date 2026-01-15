@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3asLxmR3A9e.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3asLxmR3A9e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3asLxmR3A9e)
+[pretty](/playlists/pretty/37i9dQZF1DX3asLxmR3A9e.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3asLxmR3A9e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3asLxmR3A9e)
 
 ### [Best of Indie 2014](https://open.spotify.com/playlist/37i9dQZF1DX3asLxmR3A9e)
 

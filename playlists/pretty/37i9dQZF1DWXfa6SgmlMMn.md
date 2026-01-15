@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain](/playlists/plain/37i9dQZF1DWXfa6SgmlMMn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXfa6SgmlMMn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain](/playlists/plain/37i9dQZF1DWXfa6SgmlMMn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXfa6SgmlMMn)
 
 ### [2025 Australian songs you may have missed](https://open.spotify.com/playlist/37i9dQZF1DWXfa6SgmlMMn)
 
 > Australian songs our editors want to put on your radar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,854 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,861 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain]
 | 58 | [Vanishing Point](https://open.spotify.com/track/2x99yY56oIokc7Wi6969mI) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Vanishing Point](https://open.spotify.com/album/6ecsDCvIi7BsZmyUHEYHyV) | 4:58 |
 | 59 | [GODSPEED](https://open.spotify.com/track/0pexddeI1EA8AhqWTBlErK) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/4cSCHQrw9w1LwC7XdmEM1y) | 3:53 |
 | 60 | [Lady Beetle](https://open.spotify.com/track/5qC7PMj4nHBNX7YxiArOGU) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Lady Beetle](https://open.spotify.com/album/0uRXxggkDe5tIpGeMC8ixb) | 3:32 |
-| 61 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:55 |
+| 61 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
 | 62 | [Miffed It](https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Miffed It](https://open.spotify.com/album/04XGmj4SzLzNy3THrWaKfe) | 4:06 |
 | 63 | [Beheadal](https://open.spotify.com/track/5qUkm87o2Zq1YrcbH53cPu) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Birds/Beheadal](https://open.spotify.com/album/3i1KhL1YqE9ShgCXUldXis) | 1:58 |
 | 64 | [Filet\-O\-Fish](https://open.spotify.com/track/5eVGfbn9NGTh7O20BP4JiW) | [Headwreck](https://open.spotify.com/artist/2o5WUO8JdWq9LMThPwXJr7) | [BINGO!](https://open.spotify.com/album/0bczAfe6e7Cd5GEwZ440Mb) | 2:22 |

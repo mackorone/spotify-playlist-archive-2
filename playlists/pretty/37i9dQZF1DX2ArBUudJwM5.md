@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain](/playlists/plain/37i9dQZF1DX2ArBUudJwM5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ArBUudJwM5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain](/playlists/plain/37i9dQZF1DX2ArBUudJwM5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2ArBUudJwM5)
 
 ### [EQUAL Argentina](https://open.spotify.com/playlist/37i9dQZF1DX2ArBUudJwM5)
 
 > Mujeres a todo volumen\. Embajadora: Maggie Cullen 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,694 likes - 35 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,797 likes - 35 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 34 | [Saravá](https://open.spotify.com/track/2uQzzz4p33gGNmIWQ3MWbp) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Mujer de Albahaca](https://open.spotify.com/album/3EhTjOrp4JDpBECSe0B8OA) | 4:01 |
 | 35 | [Entre a mi pago sin golpear](https://open.spotify.com/track/1xLGk6BG7rATk1BBZ20jHf) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pedro Rossi](https://open.spotify.com/artist/32uq3m742M8DXd4WvpCIjC) | [Un cosmos que camina conmigo](https://open.spotify.com/album/4JL9FGVzXdE6po4atoOBsf) | 3:32 |
 
-Snapshot ID: `AAAAABTXI5yO3uCpVFPOJPoyzj/tkZiD`
+Snapshot ID: `AAAAAE1hvlbndTHoscubYpdRzM42eTXK`

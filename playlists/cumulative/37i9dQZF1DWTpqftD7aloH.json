@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 704453,
       "name": "Digno de Tudo/ Nada Mais Satisfaz/ At\u00e9 Que Nada Mais Importe - Ao Vivo",
       "url": "https://open.spotify.com/track/3aEa2l3IM0Uzw7SseltnZh"
@@ -5138,7 +5138,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 437090,
       "name": "Medley Cora\u00e7\u00e3o Igual ao Teu - Ao Vivo",
       "url": "https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH"
@@ -5280,7 +5280,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 323308,
       "name": "Meu Respirar / Meu Prazer - Ao Vivo",
       "url": "https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp"
@@ -5962,7 +5962,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 320320,
       "name": "N\u00e3o Pare de Adorar - Ao Vivo",
       "url": "https://open.spotify.com/track/3v3Foeumfd7WdPAkMppRN8"
@@ -6540,7 +6540,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 261453,
       "name": "O Todo Poderoso (Ao Vivo)",
       "url": "https://open.spotify.com/track/53nvToiOVlcQdKpaWyv683"
@@ -10360,6 +10360,24 @@
       "duration_ms": 478933,
       "name": "\u00c9s Fiel - Ao Vivo",
       "url": "https://open.spotify.com/track/4m0Nt1EV6rAKTkWCylIzO9"
+    },
+    {
+      "album": {
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "album": {

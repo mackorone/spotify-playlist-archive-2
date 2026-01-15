@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2LoIIQLAhdb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2LoIIQLAhdb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2LoIIQLAhdb)
+[pretty](/playlists/pretty/37i9dQZF1DX2LoIIQLAhdb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2LoIIQLAhdb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2LoIIQLAhdb)
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Ronisia
+> Le R&B français, nouvelle ère\. Photo : Blynk x RnBoi
 
 611 songs - 1 day 4 hr 54 min
 

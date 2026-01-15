@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/60xWeQ4ak8TFjjcvYyjn0x.md) - cumulative - [plain](/playlists/plain/60xWeQ4ak8TFjjcvYyjn0x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/60xWeQ4ak8TFjjcvYyjn0x)
+[pretty](/playlists/pretty/60xWeQ4ak8TFjjcvYyjn0x.md) - cumulative - [plain](/playlists/plain/60xWeQ4ak8TFjjcvYyjn0x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/60xWeQ4ak8TFjjcvYyjn0x)
 
 ### [Rap Bars & Barbells](https://open.spotify.com/playlist/60xWeQ4ak8TFjjcvYyjn0x)
 

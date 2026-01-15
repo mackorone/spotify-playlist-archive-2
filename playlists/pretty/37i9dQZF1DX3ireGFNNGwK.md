@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ireGFNNGwK.md) - [plain](/playlists/plain/37i9dQZF1DX3ireGFNNGwK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ireGFNNGwK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ireGFNNGwK.md) - [plain](/playlists/plain/37i9dQZF1DX3ireGFNNGwK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3ireGFNNGwK)
 
 ### [Hybrid Minds' track ID's](https://open.spotify.com/playlist/37i9dQZF1DX3ireGFNNGwK)
 
 > <a href="https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR?si=e2FUz5BnTgq8O3GDh6zbxA">Hybrid Minds</a>' favorite tracks\. Updated regularly\. Curated by Hybrid Minds\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,718 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,772 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3GFRsPDpwq.md) - [plain](/playlists/plain/37i9dQZF1DXa3GFRsPDpwq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa3GFRsPDpwq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3GFRsPDpwq.md) - [plain](/playlists/plain/37i9dQZF1DXa3GFRsPDpwq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXa3GFRsPDpwq)
 
 ### [This Is RM](https://open.spotify.com/playlist/37i9dQZF1DXa3GFRsPDpwq)
 
 > This is Rkive of RM 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,965 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,423 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

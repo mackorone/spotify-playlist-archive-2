@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain](/playlists/plain/37i9dQZF1DWWb1L5n1gkOJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWb1L5n1gkOJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain](/playlists/plain/37i9dQZF1DWWb1L5n1gkOJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWb1L5n1gkOJ)
 
 ### [Ambient Study](https://open.spotify.com/playlist/37i9dQZF1DWWb1L5n1gkOJ)
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,902 likes - 164 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,565 likes - 164 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

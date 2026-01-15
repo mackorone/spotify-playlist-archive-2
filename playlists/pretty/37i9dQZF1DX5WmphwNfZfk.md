@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain](/playlists/plain/37i9dQZF1DX5WmphwNfZfk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5WmphwNfZfk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain](/playlists/plain/37i9dQZF1DX5WmphwNfZfk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5WmphwNfZfk)
 
 ### [RADAR Canada: Best of 2025](https://open.spotify.com/playlist/37i9dQZF1DX5WmphwNfZfk)
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Mikayla Geier
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,217 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,226 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

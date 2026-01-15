@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXajWk2WkW4sa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajWk2WkW4sa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajWk2WkW4sa)
+[pretty](/playlists/pretty/37i9dQZF1DXajWk2WkW4sa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajWk2WkW4sa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXajWk2WkW4sa)
 
 ### [Kathy Griffin \#PressPlayForPride](https://open.spotify.com/playlist/37i9dQZF1DXajWk2WkW4sa)
 

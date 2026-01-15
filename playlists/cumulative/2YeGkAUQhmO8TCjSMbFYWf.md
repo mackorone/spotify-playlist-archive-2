@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2YeGkAUQhmO8TCjSMbFYWf.md) - cumulative - [plain](/playlists/plain/2YeGkAUQhmO8TCjSMbFYWf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2YeGkAUQhmO8TCjSMbFYWf)
+[pretty](/playlists/pretty/2YeGkAUQhmO8TCjSMbFYWf.md) - cumulative - [plain](/playlists/plain/2YeGkAUQhmO8TCjSMbFYWf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2YeGkAUQhmO8TCjSMbFYWf)
 
 ### [Energy + Positivity](https://open.spotify.com/playlist/2YeGkAUQhmO8TCjSMbFYWf)
 

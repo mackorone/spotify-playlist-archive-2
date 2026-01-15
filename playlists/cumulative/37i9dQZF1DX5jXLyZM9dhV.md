@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5jXLyZM9dhV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5jXLyZM9dhV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5jXLyZM9dhV)
+[pretty](/playlists/pretty/37i9dQZF1DX5jXLyZM9dhV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5jXLyZM9dhV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5jXLyZM9dhV)
 
 ### [Mamá 70era](https://open.spotify.com/playlist/37i9dQZF1DX5jXLyZM9dhV)
 

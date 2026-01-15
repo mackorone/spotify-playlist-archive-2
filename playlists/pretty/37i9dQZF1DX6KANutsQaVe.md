@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain](/playlists/plain/37i9dQZF1DX6KANutsQaVe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6KANutsQaVe)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain](/playlists/plain/37i9dQZF1DX6KANutsQaVe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6KANutsQaVe)
 
 ### [Rock Now presents: Best Rock & Alt Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX6KANutsQaVe)
 
 > The best of rock & alt this year, handpicked by Spotify Canada editors\. Cover: Three Days Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,797 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,835 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

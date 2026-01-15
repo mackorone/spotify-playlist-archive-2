@@ -6,8 +6,56 @@
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAH1skA3353FpkDE7qKCKPLrMuYVllY",
+  "snapshot_id": "AAAH2+opNwSTUG8sNw5nwrBjbHGzj+EP",
   "tracks": [
+    {
+      "added_at": "2026-01-09 08:42:43",
+      "album": {
+        "name": "\u5149 (INSANITY)",
+        "url": "https://open.spotify.com/album/7tZx0RBXbIsbrW1UwAH6sy"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "STING (Feat. Muhammad Ali)",
+      "url": "https://open.spotify.com/track/1nxQ4sRjDXFAmTs98b20XV"
+    },
+    {
+      "added_at": "2026-01-09 08:42:52",
+      "album": {
+        "name": "3LOGY",
+        "url": "https://open.spotify.com/album/3IY5HE1P7GADh5Ojpe5PZU"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Killer Joy",
+      "url": "https://open.spotify.com/track/4QAALgs6KkeklDwg4UeuzP"
+    },
+    {
+      "added_at": "2026-01-09 08:43:06",
+      "album": {
+        "name": "Saucin'",
+        "url": "https://open.spotify.com/album/5y364Kj24BuuitP830bMnM"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 173041,
+      "name": "Saucin'",
+      "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
+    },
     {
       "added_at": "2025-12-17 07:08:25",
       "album": {
@@ -1579,54 +1627,6 @@
       "duration_ms": 184060,
       "name": "Letter To Myself",
       "url": "https://open.spotify.com/track/1Uxr0oBXAZRuLkAz27TkLc"
-    },
-    {
-      "added_at": "2024-12-02 07:45:06",
-      "album": {
-        "name": "DREAMSCAPE",
-        "url": "https://open.spotify.com/album/4CbiijbtjdFusL6uXiZJ2k"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/2wzhZgSDjWgwB618a6eeua"
-    },
-    {
-      "added_at": "2024-12-02 07:45:20",
-      "album": {
-        "name": "The 5th Mini Album 'VOYAGE'",
-        "url": "https://open.spotify.com/album/7xqdkXDwZiVOkdZZlKxjEL"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Shhh!",
-      "url": "https://open.spotify.com/track/3L87s9RtB0V6MmcBNLY7N6"
-    },
-    {
-      "added_at": "2024-11-01 01:49:04",
-      "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 143242,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY6fIMH0GtCp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY6fIMH0GtCp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY6fIMH0GtCp)
+[pretty](/playlists/pretty/37i9dQZF1DWY6fIMH0GtCp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY6fIMH0GtCp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY6fIMH0GtCp)
 
 ### [Hanukkah](https://open.spotify.com/playlist/37i9dQZF1DWY6fIMH0GtCp)
 

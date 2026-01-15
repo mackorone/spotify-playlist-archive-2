@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTTthpScXd3v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTTthpScXd3v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTTthpScXd3v)
+[pretty](/playlists/pretty/37i9dQZF1DWTTthpScXd3v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTTthpScXd3v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTTthpScXd3v)
 
 ### [This Is David Bowie](https://open.spotify.com/playlist/37i9dQZF1DWTTthpScXd3v)
 

@@ -3975,6 +3975,24 @@
     },
     {
       "album": {
+        "name": "The Things That I've Lost",
+        "url": "https://open.spotify.com/album/4zkwJAt5ZJAJUyQjrCtMUi"
+      },
+      "artists": [
+        {
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178682,
+      "name": "Dark Clouds",
+      "url": "https://open.spotify.com/track/7K5POEtKn2bn6mP7jUrOns"
+    },
+    {
+      "album": {
         "name": "darkside",
         "url": "https://open.spotify.com/album/7hr4L6MfvYhgRY2koFzjxC"
       },
@@ -4698,7 +4716,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192000,
       "name": "Double Date",
       "url": "https://open.spotify.com/track/4CyevrMYaqn6cvODOldS6m"
@@ -7230,7 +7248,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192780,
       "name": "head, shoulders, knees and ankles",
       "url": "https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg"
@@ -10142,7 +10160,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 191985,
       "name": "Leave Overjoyed",
       "url": "https://open.spotify.com/track/6jFuunWoNf83WVwGpU0Deb"
@@ -11306,7 +11324,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 151386,
       "name": "Manic!",
       "url": "https://open.spotify.com/track/7BGlBIWZnbe7iCj2qzolA3"
@@ -16711,6 +16729,24 @@
     },
     {
       "album": {
+        "name": "Swallowing Stars",
+        "url": "https://open.spotify.com/album/0kH6YWsug1sK1BlUKOChZ0"
+      },
+      "artists": [
+        {
+          "name": "PONY",
+          "url": "https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197076,
+      "name": "Swallowing Stars",
+      "url": "https://open.spotify.com/track/14E2Zg3WHgvdt0QE6LyEb2"
+    },
+    {
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/1eDlYDJAgAhx6WrnUzOTpN"
       },
@@ -17223,6 +17259,24 @@
     },
     {
       "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/2diypD47uPTBpZmzIQbrAu"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/7AQiFyoymWq9CUF3aRo64c"
+    },
+    {
+      "album": {
         "name": "the beginning of the end",
         "url": "https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc"
       },
@@ -17310,6 +17364,24 @@
       "duration_ms": 267248,
       "name": "The Cue",
       "url": "https://open.spotify.com/track/0SYrkhoxv7KujqhxO2PD5k"
+    },
+    {
+      "album": {
+        "name": "The Faultline",
+        "url": "https://open.spotify.com/album/1c2VI8GagUA3RL6v5XTUPS"
+      },
+      "artists": [
+        {
+          "name": "NYSSA",
+          "url": "https://open.spotify.com/artist/3ayeyuT6LJM6psFS1ueS6J"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "The Faultline",
+      "url": "https://open.spotify.com/track/1AreUHRa4NjYVF5BdOFf04"
     },
     {
       "album": {
@@ -19051,6 +19123,24 @@
     },
     {
       "album": {
+        "name": "Weather Girl",
+        "url": "https://open.spotify.com/album/0BqkM8xS1JsqvKPnLKIz12"
+      },
+      "artists": [
+        {
+          "name": "Fleur Electra",
+          "url": "https://open.spotify.com/artist/35JSk7N4ujpaAJ6yvoXkFS"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Weather Girl",
+      "url": "https://open.spotify.com/track/16NxWJz68uivGKkQgR4gar"
+    },
+    {
+      "album": {
         "name": "weird",
         "url": "https://open.spotify.com/album/305i6mcAjusWBNtq2VmaXO"
       },
@@ -19634,7 +19724,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176613,
       "name": "X-Rated",
       "url": "https://open.spotify.com/track/4IFM3n0AIi7XS4qbHqVKjA"

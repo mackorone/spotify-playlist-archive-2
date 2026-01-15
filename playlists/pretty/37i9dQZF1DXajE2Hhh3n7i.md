@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajE2Hhh3n7i.md) - [plain](/playlists/plain/37i9dQZF1DXajE2Hhh3n7i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajE2Hhh3n7i)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajE2Hhh3n7i.md) - [plain](/playlists/plain/37i9dQZF1DXajE2Hhh3n7i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXajE2Hhh3n7i)
 
 ### [This Is: Fela Kuti](https://open.spotify.com/playlist/37i9dQZF1DXajE2Hhh3n7i)
 

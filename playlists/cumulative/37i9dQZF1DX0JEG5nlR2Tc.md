@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0JEG5nlR2Tc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0JEG5nlR2Tc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0JEG5nlR2Tc)
+[pretty](/playlists/pretty/37i9dQZF1DX0JEG5nlR2Tc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0JEG5nlR2Tc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0JEG5nlR2Tc)
 
 ### [Back To School](https://open.spotify.com/playlist/37i9dQZF1DX0JEG5nlR2Tc)
 

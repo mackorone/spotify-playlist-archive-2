@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXtqSbiMCVM.md) - [plain](/playlists/plain/37i9dQZF1DWUXtqSbiMCVM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUXtqSbiMCVM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXtqSbiMCVM.md) - [plain](/playlists/plain/37i9dQZF1DWUXtqSbiMCVM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUXtqSbiMCVM)
 
 ### [Sinego DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWUXtqSbiMCVM)
 

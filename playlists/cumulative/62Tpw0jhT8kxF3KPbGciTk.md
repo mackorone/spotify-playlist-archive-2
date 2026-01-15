@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/62Tpw0jhT8kxF3KPbGciTk.md) - cumulative - [plain](/playlists/plain/62Tpw0jhT8kxF3KPbGciTk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62Tpw0jhT8kxF3KPbGciTk)
+[pretty](/playlists/pretty/62Tpw0jhT8kxF3KPbGciTk.md) - cumulative - [plain](/playlists/plain/62Tpw0jhT8kxF3KPbGciTk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/62Tpw0jhT8kxF3KPbGciTk)
 
 ### [Sweet Winter Songs](https://open.spotify.com/playlist/62Tpw0jhT8kxF3KPbGciTk)
 

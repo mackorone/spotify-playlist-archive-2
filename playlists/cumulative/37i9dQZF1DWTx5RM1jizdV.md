@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTx5RM1jizdV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTx5RM1jizdV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTx5RM1jizdV)
+[pretty](/playlists/pretty/37i9dQZF1DWTx5RM1jizdV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTx5RM1jizdV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTx5RM1jizdV)
 
 ### [暗殺教室 ASSASSINATION CLASSROOM](https://open.spotify.com/playlist/37i9dQZF1DWTx5RM1jizdV)
 
 > Music from "ASSASSINATION CLASSROOM"! /アニメ「暗殺教室」の世界を彩る楽曲をプレイリストで。©松井優征／集英社・アニメ「暗殺教室」製作委員会2025
 
-21 songs - 1 hr 19 min
+23 songs - 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,8 @@
 | [QUESTION](https://open.spotify.com/track/4MorYttxU39XKVoRlCopyz) | [3年E組うた担\(渚&茅野&業&磯貝&前原\)](https://open.spotify.com/artist/3ZZhxEl0lkwP7QwB8Vi1rf) | [QUESTION](https://open.spotify.com/album/6ELyctfHTgAeKxsABX4yyr) | 4:26 | 2025-08-21 |  |
 | [ころたいそう](https://open.spotify.com/track/0r9r6v283cb47Db0CqvWFo) | [殺おにいさん\(殺せんせー/CV.福山潤\)](https://open.spotify.com/artist/3Trm2QQQnDlxtxDRmo2ex6) | [自力本願レボリューション](https://open.spotify.com/album/3lChV8Q6Rs3d3Atxqc9T96) | 4:31 | 2025-08-21 |  |
 | [また君に会える日](https://open.spotify.com/track/0hgHn4Akeuo4NHbqnwFCLY) | [Shion Miyawaki](https://open.spotify.com/artist/3iNmysCq0FJrHxpqUUagn2) | [ソラ](https://open.spotify.com/album/6VjYuBi1P9mywKJwiheGw7) | 4:37 | 2025-08-21 |  |
+| [スピカ](https://open.spotify.com/track/0txI0uDofmnAXqbZraQRYn) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [スピカ](https://open.spotify.com/album/0Q3KAcVAVo2HyanbDhhLBk) | 3:33 | 2026-01-13 |  |
+| [セツナBlossom \- TVsize](https://open.spotify.com/track/22PyaiG4Br5x5LYwYa7FFH) | [3年E組うた担\(渚&茅野&業&磯貝&前原\)](https://open.spotify.com/artist/3ZZhxEl0lkwP7QwB8Vi1rf) | [セツナBlossom \(TVsize\)](https://open.spotify.com/album/0LNBgG5yEQM1dzc8iaEhjF) | 1:30 | 2026-01-13 |  |
 | [ツキノフネ](https://open.spotify.com/track/67G4XvHmTW7JKg6YKzPZV2) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [ツキノフネ](https://open.spotify.com/album/3xNmkBhuHL3OIWzavob6OB) | 3:31 | 2025-08-21 |  |
 | [バイバイ YESTERDAY](https://open.spotify.com/track/66lF1QWtLZXJofJ3x388RV) | [3年E組うた担\(渚&茅野&業&磯貝&前原\)](https://open.spotify.com/artist/3ZZhxEl0lkwP7QwB8Vi1rf) | [バイバイ YESTERDAY](https://open.spotify.com/album/5nnuB9aYtocIU9aESp6di9) | 4:08 | 2025-08-21 |  |
 | [ラストルック](https://open.spotify.com/track/2L4YerbAdOwJCaFrZ88UFT) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ラストルック](https://open.spotify.com/album/2B6eAg7z7p2jOx6EFUhnQS) | 3:07 | 2025-08-21 |  |

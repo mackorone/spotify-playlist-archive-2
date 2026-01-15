@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hXnntRGfka.md) - [plain](/playlists/plain/37i9dQZF1DX7hXnntRGfka) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7hXnntRGfka)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hXnntRGfka.md) - [plain](/playlists/plain/37i9dQZF1DX7hXnntRGfka) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7hXnntRGfka)
 
 ### [Mercury Prize 2025: The Shortlist](https://open.spotify.com/playlist/37i9dQZF1DX7hXnntRGfka)
 
 > Songs from all 12 Albums of the Year shortlisted for the Mercury Prize 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,838 likes - 24 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,856 likes - 24 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

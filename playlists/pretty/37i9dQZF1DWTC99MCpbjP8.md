@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain](/playlists/plain/37i9dQZF1DWTC99MCpbjP8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTC99MCpbjP8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain](/playlists/plain/37i9dQZF1DWTC99MCpbjP8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTC99MCpbjP8)
 
 ### [Calm](https://open.spotify.com/playlist/37i9dQZF1DWTC99MCpbjP8)
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,003 likes - 164 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,033 likes - 164 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

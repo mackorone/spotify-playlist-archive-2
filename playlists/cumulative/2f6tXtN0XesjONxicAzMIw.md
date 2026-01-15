@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2f6tXtN0XesjONxicAzMIw.md) - cumulative - [plain](/playlists/plain/2f6tXtN0XesjONxicAzMIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2f6tXtN0XesjONxicAzMIw)
+[pretty](/playlists/pretty/2f6tXtN0XesjONxicAzMIw.md) - cumulative - [plain](/playlists/plain/2f6tXtN0XesjONxicAzMIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2f6tXtN0XesjONxicAzMIw)
 
 ### [2000s HITS Y2K THROWBACKS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 

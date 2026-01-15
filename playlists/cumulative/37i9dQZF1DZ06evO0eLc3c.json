@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 275829,
       "name": "Amerigo",
       "url": "https://open.spotify.com/track/1tZ4JHHtnELQC3smRIkJ2q"
@@ -690,6 +690,24 @@
       "duration_ms": 242640,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
+    },
+    {
+      "album": {
+        "name": "Hey Joe / Piss Factory",
+        "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308173,
+      "name": "Hey Joe - Version",
+      "url": "https://open.spotify.com/track/6PPGLz9XPEA69vuC0FUnBl"
     },
     {
       "album": {

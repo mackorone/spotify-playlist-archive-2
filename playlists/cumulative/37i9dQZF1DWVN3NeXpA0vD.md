@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVN3NeXpA0vD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVN3NeXpA0vD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVN3NeXpA0vD)
+[pretty](/playlists/pretty/37i9dQZF1DWVN3NeXpA0vD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVN3NeXpA0vD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVN3NeXpA0vD)
 
 ### [Günlük Güneşlik](https://open.spotify.com/playlist/37i9dQZF1DWVN3NeXpA0vD)
 

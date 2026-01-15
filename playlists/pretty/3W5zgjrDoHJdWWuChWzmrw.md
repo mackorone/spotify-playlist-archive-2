@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3W5zgjrDoHJdWWuChWzmrw.md) - [plain](/playlists/plain/3W5zgjrDoHJdWWuChWzmrw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3W5zgjrDoHJdWWuChWzmrw)
+pretty - [cumulative](/playlists/cumulative/3W5zgjrDoHJdWWuChWzmrw.md) - [plain](/playlists/plain/3W5zgjrDoHJdWWuChWzmrw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3W5zgjrDoHJdWWuChWzmrw)
 
 ### [Cold War Era](https://open.spotify.com/playlist/3W5zgjrDoHJdWWuChWzmrw)
 

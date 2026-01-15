@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1HUp3K8hq5o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1HUp3K8hq5o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1HUp3K8hq5o)
+[pretty](/playlists/pretty/37i9dQZF1DX1HUp3K8hq5o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1HUp3K8hq5o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1HUp3K8hq5o)
 
 ### [Best of Rock: 2017](https://open.spotify.com/playlist/37i9dQZF1DX1HUp3K8hq5o)
 

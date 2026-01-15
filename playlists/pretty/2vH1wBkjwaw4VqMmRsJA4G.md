@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2vH1wBkjwaw4VqMmRsJA4G.md) - [plain](/playlists/plain/2vH1wBkjwaw4VqMmRsJA4G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2vH1wBkjwaw4VqMmRsJA4G)
+pretty - [cumulative](/playlists/cumulative/2vH1wBkjwaw4VqMmRsJA4G.md) - [plain](/playlists/plain/2vH1wBkjwaw4VqMmRsJA4G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2vH1wBkjwaw4VqMmRsJA4G)
 
 ### [The Homosexual Agenda](https://open.spotify.com/playlist/2vH1wBkjwaw4VqMmRsJA4G)
 

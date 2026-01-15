@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain](/playlists/plain/37i9dQZF1DWSv06P6ZnVVG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSv06P6ZnVVG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain](/playlists/plain/37i9dQZF1DWSv06P6ZnVVG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSv06P6ZnVVG)
 
 ### [Cómo Bailan en Michoacán](https://open.spotify.com/playlist/37i9dQZF1DWSv06P6ZnVVG)
 
 > Michoacanos ni modo que de ondi, vali
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,015 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,286 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

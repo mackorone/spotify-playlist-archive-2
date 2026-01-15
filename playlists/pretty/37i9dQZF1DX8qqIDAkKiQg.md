@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qqIDAkKiQg.md) - [plain](/playlists/plain/37i9dQZF1DX8qqIDAkKiQg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8qqIDAkKiQg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qqIDAkKiQg.md) - [plain](/playlists/plain/37i9dQZF1DX8qqIDAkKiQg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8qqIDAkKiQg)
 
 ### [This Is Mozart](https://open.spotify.com/playlist/37i9dQZF1DX8qqIDAkKiQg)
 
 > The essential works of Wolfgang Amadeus Mozart, featuring relaxing piano, soulful strings, a few magical operas, and plenty of legendary melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,288 likes - 76 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,414 likes - 76 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

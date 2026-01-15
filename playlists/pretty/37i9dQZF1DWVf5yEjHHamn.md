@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain](/playlists/plain/37i9dQZF1DWVf5yEjHHamn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVf5yEjHHamn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain](/playlists/plain/37i9dQZF1DWVf5yEjHHamn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVf5yEjHHamn)
 
 ### [Flashback tubes de l'été](https://open.spotify.com/playlist/37i9dQZF1DWVf5yEjHHamn)
 

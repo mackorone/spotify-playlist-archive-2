@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lgFHA30hX3.md) - [plain](/playlists/plain/37i9dQZF1DX8lgFHA30hX3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8lgFHA30hX3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lgFHA30hX3.md) - [plain](/playlists/plain/37i9dQZF1DX8lgFHA30hX3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8lgFHA30hX3)
 
 ### [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/playlist/37i9dQZF1DX8lgFHA30hX3)
 
 > Enjoy the ATEEZ world tour concert LIVE SET including the voices of members on stage! \(에이티즈 멤버들의 무대의 목소리가 포함된 월드 투어 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,310 likes - 31 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,445 likes - 31 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

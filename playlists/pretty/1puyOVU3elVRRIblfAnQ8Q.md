@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain](/playlists/plain/1puyOVU3elVRRIblfAnQ8Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1puyOVU3elVRRIblfAnQ8Q)
+pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain](/playlists/plain/1puyOVU3elVRRIblfAnQ8Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1puyOVU3elVRRIblfAnQ8Q)
 
 ### [Zeds Dead's Deadbeats](https://open.spotify.com/playlist/1puyOVU3elVRRIblfAnQ8Q)
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,785 likes - 18 songs - 1 hr 0 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,776 likes - 18 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

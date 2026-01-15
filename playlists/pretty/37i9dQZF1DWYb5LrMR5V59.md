@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYb5LrMR5V59.md) - [plain](/playlists/plain/37i9dQZF1DWYb5LrMR5V59) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYb5LrMR5V59)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYb5LrMR5V59.md) - [plain](/playlists/plain/37i9dQZF1DWYb5LrMR5V59) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYb5LrMR5V59)
 
 ### [Siesta Acústica](https://open.spotify.com/playlist/37i9dQZF1DWYb5LrMR5V59)
 
 > Guitarras relajantes para descansar y recuperar fuerzas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,271 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,264 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

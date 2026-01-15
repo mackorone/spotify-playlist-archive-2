@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain](/playlists/plain/37i9dQZF1DWTKXbV17YqGw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTKXbV17YqGw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain](/playlists/plain/37i9dQZF1DWTKXbV17YqGw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTKXbV17YqGw)
 
 ### [Songs of Detty December 2025](https://open.spotify.com/playlist/37i9dQZF1DWTKXbV17YqGw)
 
 > 2025 Detty December anthems selected by Spotify editors\. <br/>Cover: CIZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,754 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,972 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

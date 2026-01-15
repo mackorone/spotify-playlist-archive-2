@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MxOdIC5upm.md) - [plain](/playlists/plain/37i9dQZF1DX3MxOdIC5upm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3MxOdIC5upm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MxOdIC5upm.md) - [plain](/playlists/plain/37i9dQZF1DX3MxOdIC5upm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3MxOdIC5upm)
 
 ### [The Gentlemen Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX3MxOdIC5upm)
 
 > Welcome to "high" society\. Listen to the music from Guy Ritchie's The Gentlemen, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,187 likes - 23 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,262 likes - 23 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

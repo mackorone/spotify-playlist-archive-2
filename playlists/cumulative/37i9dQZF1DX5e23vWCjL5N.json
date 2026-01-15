@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Sotto il cappuccio: Gemitaiz",
+  "description": "Punchline, storytelling, rap italiano. Kid Yugi in cover.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164363,
       "name": "Addio (feat. Salmo)",
       "url": "https://open.spotify.com/track/1lCR4Zwyp1JFGhXVjlFfts"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 161496,
       "name": "Altezza cielo (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0GtGhO25XJZIwVVQzfOxVy"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136119,
       "name": "ATENA",
       "url": "https://open.spotify.com/track/3C7hntSOMdoAlZTAjdIfQD"
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170487,
       "name": "Chuniri",
       "url": "https://open.spotify.com/track/7gxGO2SFjrFz0rRuESbxSB"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162002,
       "name": "Due Tute",
       "url": "https://open.spotify.com/track/2kFvcaMNHCkFuMBLOwS8J1"
@@ -2926,6 +2926,28 @@
       "duration_ms": 189287,
       "name": "Goal (feat. MadMan)",
       "url": "https://open.spotify.com/track/7DvRemU2ACnEjOiLVKC4X7"
+    },
+    {
+      "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191193,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/5XSDWYzMXzPtwimHufQ1Ai"
     },
     {
       "album": {
@@ -3596,6 +3618,32 @@
       "duration_ms": 164820,
       "name": "King Kong vs Godzilla",
       "url": "https://open.spotify.com/track/1stKHp4y6JQCtBzvbON9x5"
+    },
+    {
+      "album": {
+        "name": "BRAVA GENTE",
+        "url": "https://open.spotify.com/album/4dgoP7JlqIo0L65M33Df51"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Brava Gente",
+          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164820,
+      "name": "King Kong vs Godzilla",
+      "url": "https://open.spotify.com/track/306vmTRFzxA32vDeEHISuq"
     },
     {
       "album": {
@@ -4392,7 +4440,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177586,
       "name": "Made In Italy",
       "url": "https://open.spotify.com/track/10Iylq9yuPMOIiUhRRnBnl"
@@ -4516,7 +4564,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203100,
       "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
@@ -4782,6 +4830,32 @@
       "duration_ms": 250630,
       "name": "Nati senza (Outro)",
       "url": "https://open.spotify.com/track/3lptopTJBfU6RtzLC3My85"
+    },
+    {
+      "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147390,
+      "name": "Nato & Cresciuto (feat. Promessa)",
+      "url": "https://open.spotify.com/track/6hdaO2a3AsdZFm7Yrgy7CQ"
     },
     {
       "album": {
@@ -5747,6 +5821,28 @@
     },
     {
       "album": {
+        "name": "Push It (feat. ANNA)",
+        "url": "https://open.spotify.com/album/0vBDPxviLQoogLmAgzqoC5"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175137,
+      "name": "Push It (feat. ANNA)",
+      "url": "https://open.spotify.com/track/5FLxKWv8HEFI67uKzSX27K"
+    },
+    {
+      "album": {
         "name": "Sedicinoni",
         "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
@@ -6485,6 +6581,32 @@
     },
     {
       "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Spendin (feat. Marracash)",
+      "url": "https://open.spotify.com/track/0ek2jtO8Ru1YrVImYFLSuW"
+    },
+    {
+      "album": {
         "name": "Speranza (feat. Diss Gacha)",
         "url": "https://open.spotify.com/album/3aY3G5ljgdYzeMsuU1jduq"
       },
@@ -6735,6 +6857,32 @@
     },
     {
       "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163601,
+      "name": "The World Iz Yours (feat. Joshua)",
+      "url": "https://open.spotify.com/track/2pf8hbyhNKDFSnLtAYJHTt"
+    },
+    {
+      "album": {
         "name": "Eclissi",
         "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
       },
@@ -6808,7 +6956,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 118651,
       "name": "tra parentesi",
       "url": "https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo"
@@ -6894,6 +7042,28 @@
       "duration_ms": 149800,
       "name": "Trips! (feat. Noyz Narcos & Yung Snapp)",
       "url": "https://open.spotify.com/track/43P3NYzztjQHkxoai6MbB9"
+    },
+    {
+      "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/1y6okCY7BRD80ckBFf9wkv"
     },
     {
       "album": {
@@ -7112,7 +7282,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201407,
       "name": "VIPERE",
       "url": "https://open.spotify.com/track/15VSJQqICRNsDSMEhMFjrU"

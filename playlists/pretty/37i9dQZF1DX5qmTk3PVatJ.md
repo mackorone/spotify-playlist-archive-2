@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qmTk3PVatJ.md) - [plain](/playlists/plain/37i9dQZF1DX5qmTk3PVatJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5qmTk3PVatJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qmTk3PVatJ.md) - [plain](/playlists/plain/37i9dQZF1DX5qmTk3PVatJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5qmTk3PVatJ)
 
 ### [Greatest Hip\-Hop Beats of All Time](https://open.spotify.com/playlist/37i9dQZF1DX5qmTk3PVatJ)
 
 > Celebrating hip\-hop's 50th anniversary with the 50 greatest beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,050 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,068 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

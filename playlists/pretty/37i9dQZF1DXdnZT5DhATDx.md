@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain](/playlists/plain/37i9dQZF1DXdnZT5DhATDx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdnZT5DhATDx)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain](/playlists/plain/37i9dQZF1DXdnZT5DhATDx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdnZT5DhATDx)
 
 ### [Game of Thrones: The Official Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DXdnZT5DhATDx)
 
 > What is dead may never die\. Listen to the most memorable and pinnacle tracks from all eight seasons of Game of Thrones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,868 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,975 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

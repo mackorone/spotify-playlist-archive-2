@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain](/playlists/plain/37i9dQZF1DWYZ2zzgvJZul) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYZ2zzgvJZul)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain](/playlists/plain/37i9dQZF1DWYZ2zzgvJZul) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYZ2zzgvJZul)
 
 ### [Nuevo Rock Latino](https://open.spotify.com/playlist/37i9dQZF1DWYZ2zzgvJZul)
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Dillom, Airbag, Marilina Bertoldi y Juliana Gattas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,422 likes - 87 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,448 likes - 87 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

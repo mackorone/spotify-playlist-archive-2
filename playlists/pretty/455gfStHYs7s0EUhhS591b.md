@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain](/playlists/plain/455gfStHYs7s0EUhhS591b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/455gfStHYs7s0EUhhS591b)
+pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain](/playlists/plain/455gfStHYs7s0EUhhS591b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/455gfStHYs7s0EUhhS591b)
 
 ### [Summer Is Calling](https://open.spotify.com/playlist/455gfStHYs7s0EUhhS591b)
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 55,981 likes - 216 songs - 12 hr 39 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 55,959 likes - 216 songs - 12 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 90 | [Yugen](https://open.spotify.com/track/4tRYo09M52D1f9UDGjSRXE) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Late Night Obsession](https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4) | 2:45 |
 | 91 | [Got This Feeling \[Mix Cut\] \- Original Mix](https://open.spotify.com/track/497k4sQ2fYCqx7LvMzu7jI) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Deep House Essentials \#005 \- Armada Music \(Mixed Version\)](https://open.spotify.com/album/6BGsSblnOmfgeKTgszb2DJ) | 4:50 |
 | 92 | [Crawling \- Chill Edit](https://open.spotify.com/track/3J4QjGlp1QUYNuOftUv0FG) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Zara Taylor](https://open.spotify.com/artist/6wrD0NOeNUdjXAOJdA2J38) | [Armada Collected: Roger Shah presents Sunlounger \(Bonus Track Version\)](https://open.spotify.com/album/3PKZwyMninRgEQ0mcPEGHt) | 3:54 |
-| 93 | [Amanecer \- Original Mix](https://open.spotify.com/track/2XQDgyKqCaFuPPT4dHn3Eu) | [VillaNaranjos](https://open.spotify.com/artist/5EU3v7BJwruVXZjPssKnmO) | [Levante / Amanecer](https://open.spotify.com/album/2P1rqNcjXNLhK4ste8W21Y) | 3:55 |
+| 93 | [Amanecer \- Extended Mix](https://open.spotify.com/track/2XQDgyKqCaFuPPT4dHn3Eu) | [VillaNaranjos](https://open.spotify.com/artist/5EU3v7BJwruVXZjPssKnmO) | [Levante / Amanecer](https://open.spotify.com/album/2P1rqNcjXNLhK4ste8W21Y) | 3:55 |
 | 94 | [Smile](https://open.spotify.com/track/78Et85CyEb5fmvhQavjf4F) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0) | [Smile](https://open.spotify.com/album/0BFWc61HeP2DBSRzFGeKf7) | 2:50 |
 | 95 | [Dark Belts](https://open.spotify.com/track/0tCD5iDugyIqGJALEG7jHB) | [Duncan La Barre](https://open.spotify.com/artist/7wAx0flUZw6uzEe5Objdee) | [Cassini](https://open.spotify.com/album/6FE8QceGF0DzQyMIpWkvZq) | 3:55 |
 | 96 | [Jabberwock \- Alternative Afterhours Version](https://open.spotify.com/track/4lbi9jeIy8rmXCKS54wmHx) | [Skyscraper](https://open.spotify.com/artist/6Wfqk51nF026WOoqCQRDlj), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Jabberwock](https://open.spotify.com/album/055J508g1qn2t9OD3ebjy1) | 6:12 |
@@ -211,7 +211,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 201 | [Autumn Tactics \- Jody Wisternoff Remix](https://open.spotify.com/track/5gA4m8DC9vxw0SBqmPCCgV) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL) | [Chill Executive Officer \(CEO\), Vol\. 5 \[Selected by Maykel Piron\]](https://open.spotify.com/album/6wIcjGvUtv9tKw2EcpJhIn) | 3:47 |
 | 202 | [Solaris](https://open.spotify.com/track/4cpfAjmpYz5vnuteoWpznr) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp) | [Chill Executive Officer \(CEO\), Vol\. 7 \[Selected by Maykel Piron\]](https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt) | 3:32 |
 | 203 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 |
-| 204 | [Save Me](https://open.spotify.com/track/53ri6sghhjMR7fhRpG5PvT) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [TRIXL](https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Save Me](https://open.spotify.com/album/1rYxtxuFk6LUYssAhyvgyT) | 2:40 |
+| 204 | [Save Me](https://open.spotify.com/track/53ri6sghhjMR7fhRpG5PvT) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [TRIXL](https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Save Me](https://open.spotify.com/album/1rYxtxuFk6LUYssAhyvgyT) | 2:40 |
 | 205 | [Love Shy \- Sandgate Remix](https://open.spotify.com/track/1ABOmwAomsvuiCMtVglU5M) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Sandgate](https://open.spotify.com/artist/5PioVJlc4cBXoeTQHliaML) | [Love Shy \(Sandgate Remix\)](https://open.spotify.com/album/3eC3cVfYLin6QQ0UkvYWD8) | 3:02 |
 | 206 | [Intracity \- Original Mix](https://open.spotify.com/track/27SyjyowIBBihbN6Etf0qY) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Intracity](https://open.spotify.com/album/5iJZ8SgQ3LC7t1nMb2lXWZ) | 7:56 |
 | 207 | [Shipwrecked \- Original Chillout Mix](https://open.spotify.com/track/37rmCFTLVT5Z1kKWNgASA8) | [Mike Foyle](https://open.spotify.com/artist/0gEWoMKkhrZEtu2DNSS8rt) | [Planet Chill, Vol\. 2 \- Compiled by York](https://open.spotify.com/album/4ZZRn4k2n9dfma94A8OxxD) | 5:08 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 215 | [Lost Tonight](https://open.spotify.com/track/1xD8hBK99rAPgcwjWWnxwf) | [Saje](https://open.spotify.com/artist/3I2596dGk4K3e4qKjwpzQb) | [Lost Tonight](https://open.spotify.com/album/3tzWmKo39Q3OypyD9UbNZl) | 3:18 |
 | 216 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 |
 
-Snapshot ID: `AABydJ+JQbxjBYWTT3s3G/v5PlsNiI3L`
+Snapshot ID: `AAByeLXckhBihHExUpziUjdFPjQl7k7h`

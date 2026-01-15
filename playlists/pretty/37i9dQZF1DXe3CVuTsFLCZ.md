@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3CVuTsFLCZ.md) - [plain](/playlists/plain/37i9dQZF1DXe3CVuTsFLCZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe3CVuTsFLCZ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3CVuTsFLCZ.md) - [plain](/playlists/plain/37i9dQZF1DXe3CVuTsFLCZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe3CVuTsFLCZ)
 
 ### [나인 퍼즐 \(Nine Puzzles\)](https://open.spotify.com/playlist/37i9dQZF1DXe3CVuTsFLCZ)
 
 > Enjoy the sound track of Nine Puzzles with memorable lines from the show \(나인 퍼즐의 사운드 트랙을 대사와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,743 likes - 52 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,775 likes - 52 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

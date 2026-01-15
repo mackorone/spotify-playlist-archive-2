@@ -612,7 +612,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177445,
       "name": "Door Tot De Kater Komt",
       "url": "https://open.spotify.com/track/3e63pj2xlCrnUUUMh8cL3P"
@@ -652,6 +652,24 @@
       "duration_ms": 172880,
       "name": "Dromendans",
       "url": "https://open.spotify.com/track/7tqusWyIHeTmj5Zau5CYqj"
+    },
+    {
+      "album": {
+        "name": "Droom Jij Over Mij Vannacht",
+        "url": "https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190499,
+      "name": "Droom Jij Over Mij Vannacht",
+      "url": "https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL"
     },
     {
       "album": {
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 181130,
       "name": "Hoe Zou Het Zijn Geweest",
       "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147100,
       "name": "In de naam van...",
       "url": "https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c"
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 235840,
       "name": "Liever Te Dik In De Kist",
       "url": "https://open.spotify.com/track/2rKFSvEBn6lPmkrCKeXUQq"
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182306,
       "name": "Meisjes Van De Nacht",
       "url": "https://open.spotify.com/track/0SzWx2en7UgSBilg2nVbU7"
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 161484,
       "name": "Mij Niet Bellen",
       "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
@@ -1754,6 +1772,28 @@
       "duration_ms": 147367,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
+    },
+    {
+      "album": {
+        "name": "Mo\u00ebt Dat Nou",
+        "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154691,
+      "name": "Mo\u00ebt Dat Nou",
+      "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
     },
     {
       "album": {
@@ -1980,7 +2020,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154627,
       "name": "Sparen Voor De Nacht",
       "url": "https://open.spotify.com/track/44vgHjyTTFdOe0F01MhPir"
@@ -2034,10 +2074,28 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203210,
       "name": "Stop de Tijd",
       "url": "https://open.spotify.com/track/5N2qpVfE6lxJhf3YPpzr0V"
+    },
+    {
+      "album": {
+        "name": "Straf",
+        "url": "https://open.spotify.com/album/4tg3Z1C9Tvkj3TOk8FOiN0"
+      },
+      "artists": [
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119345,
+      "name": "Straf",
+      "url": "https://open.spotify.com/track/78WPtoNB7gvWk8UUxzsEg0"
     },
     {
       "album": {

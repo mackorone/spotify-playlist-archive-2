@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain](/playlists/plain/37i9dQZF1DWY8wQ1UHaykc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY8wQ1UHaykc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain](/playlists/plain/37i9dQZF1DWY8wQ1UHaykc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY8wQ1UHaykc)
 
 ### [Ngetren di 2010an](https://open.spotify.com/playlist/37i9dQZF1DWY8wQ1UHaykc)
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,181 likes - 182 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,469 likes - 182 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

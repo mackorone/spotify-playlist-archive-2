@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain](/playlists/plain/37i9dQZF1DXdVUsw2RlcPf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdVUsw2RlcPf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain](/playlists/plain/37i9dQZF1DXdVUsw2RlcPf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdVUsw2RlcPf)
 
 ### [This Is Jung Kook](https://open.spotify.com/playlist/37i9dQZF1DXdVUsw2RlcPf)
 
 > Are you ready to listen JK's songs for 7 DAYS? 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,314 likes - 66 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,745 likes - 66 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

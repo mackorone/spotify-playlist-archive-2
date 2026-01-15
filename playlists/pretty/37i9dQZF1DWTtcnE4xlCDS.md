@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain](/playlists/plain/37i9dQZF1DWTtcnE4xlCDS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTtcnE4xlCDS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain](/playlists/plain/37i9dQZF1DWTtcnE4xlCDS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTtcnE4xlCDS)
 
 ### [DEN\-ON\-BU](https://open.spotify.com/playlist/37i9dQZF1DWTtcnE4xlCDS)
 
 > Enjoy music from DEN\-ON\-BU!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,549 likes - 286 songs - 16 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,650 likes - 286 songs - 16 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

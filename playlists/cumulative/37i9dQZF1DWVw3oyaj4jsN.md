@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVw3oyaj4jsN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVw3oyaj4jsN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVw3oyaj4jsN)
+[pretty](/playlists/pretty/37i9dQZF1DWVw3oyaj4jsN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVw3oyaj4jsN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVw3oyaj4jsN)
 
 ### [This Is: BIGBANG](https://open.spotify.com/playlist/37i9dQZF1DWVw3oyaj4jsN)
 

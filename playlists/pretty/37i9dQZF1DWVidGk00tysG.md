@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain](/playlists/plain/37i9dQZF1DWVidGk00tysG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVidGk00tysG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain](/playlists/plain/37i9dQZF1DWVidGk00tysG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVidGk00tysG)
 
 ### [Chopin Piano](https://open.spotify.com/playlist/37i9dQZF1DWVidGk00tysG)
 

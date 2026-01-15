@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain](/playlists/plain/37i9dQZF1DX6WKkjNUHy2F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6WKkjNUHy2F)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain](/playlists/plain/37i9dQZF1DX6WKkjNUHy2F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6WKkjNUHy2F)
 
 ### [Adam Lambert: Pride](https://open.spotify.com/playlist/37i9dQZF1DX6WKkjNUHy2F)
 

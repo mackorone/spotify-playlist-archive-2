@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/6cSO5pHOCQxoEiXYDPa3Uq.md) - [plain](/playlists/plain/6cSO5pHOCQxoEiXYDPa3Uq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6cSO5pHOCQxoEiXYDPa3Uq)
+pretty - [cumulative](/playlists/cumulative/6cSO5pHOCQxoEiXYDPa3Uq.md) - [plain](/playlists/plain/6cSO5pHOCQxoEiXYDPa3Uq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6cSO5pHOCQxoEiXYDPa3Uq)
 
 ### [Metaltown 2012](https://open.spotify.com/playlist/6cSO5pHOCQxoEiXYDPa3Uq)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain](/playlists/plain/37i9dQZF1DX7QOv5kjbU68) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7QOv5kjbU68)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain](/playlists/plain/37i9dQZF1DX7QOv5kjbU68) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7QOv5kjbU68)
 
 ### [This Is Drake](https://open.spotify.com/playlist/37i9dQZF1DX7QOv5kjbU68)
 
 > Hear all of Drake's biggest and best hits in one playlist\. Thank us later.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,210,729 likes - 151 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,214,469 likes - 151 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

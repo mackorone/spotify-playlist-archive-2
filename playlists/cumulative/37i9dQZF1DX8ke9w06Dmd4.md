@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8ke9w06Dmd4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8ke9w06Dmd4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8ke9w06Dmd4)
+[pretty](/playlists/pretty/37i9dQZF1DX8ke9w06Dmd4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8ke9w06Dmd4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8ke9w06Dmd4)
 
 ### [Phantom Singer \(팬텀싱어\)](https://open.spotify.com/playlist/37i9dQZF1DX8ke9w06Dmd4)
 

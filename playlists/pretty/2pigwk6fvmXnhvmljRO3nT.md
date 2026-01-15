@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain](/playlists/plain/2pigwk6fvmXnhvmljRO3nT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2pigwk6fvmXnhvmljRO3nT)
+pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain](/playlists/plain/2pigwk6fvmXnhvmljRO3nT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2pigwk6fvmXnhvmljRO3nT)
 
 ### [Purge](https://open.spotify.com/playlist/2pigwk6fvmXnhvmljRO3nT)
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,126 songs - 20 day 15 hr 33 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,150 songs - 20 day 17 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8134,5 +8134,29 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8124 | [My Lucky Stars](https://open.spotify.com/track/5fegkVBJ4LreNYGQLktoG3) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Grocery Store Sunset](https://open.spotify.com/album/1oKOFK0pN5dq3IAUA3iPcM) | 2:56 |
 | 8125 | [Miracle Baby \(feat\. MAVI\)](https://open.spotify.com/track/4WRSKZL0tcP4XZR0dtaVMc) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Miracle Baby \(feat\. MAVI\)](https://open.spotify.com/album/27s9uQyG9NzoJdC3tDcjuR) | 2:31 |
 | 8126 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 8127 | [on the move](https://open.spotify.com/track/2DBnavN8wezUzjkq86PdqA) | [Zamir](https://open.spotify.com/artist/069X32ooT7djUGNCcIhKFq), [marc indigo](https://open.spotify.com/artist/5aNIaifrtVMQ2D9xNAaHbo), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [on the move](https://open.spotify.com/album/7sNmfaGkjwAbJIbFFUaH2T) | 3:42 |
+| 8128 | [Woods](https://open.spotify.com/track/3Qa944OTMZkg8DHjET8JQv) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 4:46 |
+| 8129 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
+| 8130 | [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 |
+| 8131 | [Unknown Island](https://open.spotify.com/track/73r8oPLdOs4IzFpzoNyCVB) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/6ezMwJgOVFFHQYFy3YgZE2) | 4:16 |
+| 8132 | [Funky Lovely Girl](https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p) | 3:44 |
+| 8133 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 |
+| 8134 | [光るなら](https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz) | 4:12 |
+| 8135 | [オレンジ](https://open.spotify.com/track/21htkjP5rYjD3CXG3y9wCT) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [アニップス](https://open.spotify.com/album/4Uqxq3iwghdOrbDWNOo0rd) | 5:50 |
+| 8136 | [ラヴァーズ](https://open.spotify.com/track/5Do3qmFMpCjVLmtLhmj3a1) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [ドキドキ](https://open.spotify.com/album/3CkjjWdhr8y5wrIkNWkw21) | 3:42 |
+| 8137 | [It's Not Like I Like You!!](https://open.spotify.com/track/4WwziJRU6hAdI4j8C0j0QI) | [Static\-P](https://open.spotify.com/artist/6OcvDn95mSA830Lie1Z6Jc) | [It's Not Like I Like You!!](https://open.spotify.com/album/4Fh6IgLlgp1kaUsKN5kxrc) | 4:40 |
+| 8138 | [Torie](https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Torie](https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG) | 3:54 |
+| 8139 | [Kagefumi](https://open.spotify.com/track/4VgGQi9FZMrNG4MuiONldI) | [百景](https://open.spotify.com/artist/6Xktu0x9IXB4ghFSPw6Jqv) | [Standing Still In A Moving Scene](https://open.spotify.com/album/5FFviHXLHrtM8bPkklaXrD) | 4:54 |
+| 8140 | [Last Summer Whisper](https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:59 |
+| 8141 | [悲しみがとまらない　I CAN'T STOP THE LONELINESS](https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:23 |
+| 8142 | [Hot Milk](https://open.spotify.com/track/4mCwspCTPF1aoWUNxsS5aD) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Ordinary Songs 2](https://open.spotify.com/album/5AghrM3hAuorTe16d3jBZO) | 4:06 |
+| 8143 | [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 |
+| 8144 | [Let Me Be With You](https://open.spotify.com/track/4UBt00S6TNsKwgfxMcfNal) | [ROUND TABLE featuring Nino](https://open.spotify.com/artist/3KkRgA5LEmBTfjkODZvLzG) | [APRIL](https://open.spotify.com/album/1A84EfaPGuBdtLSEG0K0Fz) | 4:29 |
+| 8145 | [GOOD DAY](https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [GOOD DAY](https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv) | 4:17 |
+| 8146 | [How much I Love you,baby](https://open.spotify.com/track/2DPg74vcxFDe9dOzioTYMA) | [Satellite Lovers](https://open.spotify.com/artist/6rPCGt1PlG8UsBvQFjqshc) | [Sons of 1973](https://open.spotify.com/album/5CNIUYMX93DiAdbvWZAcyY) | 4:51 |
+| 8147 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
+| 8148 | [Helicopter](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Helicopter](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
+| 8149 | [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 |
+| 8150 | [Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Kaiju](https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS) | 4:12 |
 
-Snapshot ID: `AAAKQ5/FkFp3S0iShrzH8kogxh7FyHGJ`
+Snapshot ID: `AAAKXXVoAB9JbBT9jjy3/OYwI7+hhdD9`

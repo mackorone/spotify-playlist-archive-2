@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pbIXQgqLJ9.md) - [plain](/playlists/plain/37i9dQZF1DX9pbIXQgqLJ9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9pbIXQgqLJ9)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pbIXQgqLJ9.md) - [plain](/playlists/plain/37i9dQZF1DX9pbIXQgqLJ9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9pbIXQgqLJ9)
 
 ### [Soda Stereo: Un juego eléctrico](https://open.spotify.com/playlist/37i9dQZF1DX9pbIXQgqLJ9)
 
 > Siempre seremos Soda, siempre seremos rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,056 likes - 20 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,077 likes - 20 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1k9jG0FUp7BcrAF1MZSabO.md) - cumulative - [plain](/playlists/plain/1k9jG0FUp7BcrAF1MZSabO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1k9jG0FUp7BcrAF1MZSabO)
+[pretty](/playlists/pretty/1k9jG0FUp7BcrAF1MZSabO.md) - cumulative - [plain](/playlists/plain/1k9jG0FUp7BcrAF1MZSabO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1k9jG0FUp7BcrAF1MZSabO)
 
 ### [Most Listened To British Dads on Spotify](https://open.spotify.com/playlist/1k9jG0FUp7BcrAF1MZSabO)
 

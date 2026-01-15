@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain](/playlists/plain/37i9dQZF1DWX48bLeZRpmd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX48bLeZRpmd)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain](/playlists/plain/37i9dQZF1DWX48bLeZRpmd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX48bLeZRpmd)
 
 ### [The Quintessential Quintuplets](https://open.spotify.com/playlist/37i9dQZF1DWX48bLeZRpmd)
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! ©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,816 likes - 51 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,867 likes - 51 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

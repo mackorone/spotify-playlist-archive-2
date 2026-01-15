@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain](/playlists/plain/37i9dQZF1DWWosUgW8r4Gq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWosUgW8r4Gq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain](/playlists/plain/37i9dQZF1DWWosUgW8r4Gq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWosUgW8r4Gq)
 
 ### [Laid\-Back Camp ゆるキャン△](https://open.spotify.com/playlist/37i9dQZF1DWWosUgW8r4Gq)
 
 > Music from "Laid\-Back Camp"! /音楽で辿る「ゆるキャン△」の世界。©あfろ・芳文社／野外活動委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,328 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,348 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

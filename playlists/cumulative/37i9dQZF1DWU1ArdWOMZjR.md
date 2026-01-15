@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWU1ArdWOMZjR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU1ArdWOMZjR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU1ArdWOMZjR)
+[pretty](/playlists/pretty/37i9dQZF1DWU1ArdWOMZjR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU1ArdWOMZjR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU1ArdWOMZjR)
 
 ### [Netflix & Nostalgia](https://open.spotify.com/playlist/37i9dQZF1DWU1ArdWOMZjR)
 

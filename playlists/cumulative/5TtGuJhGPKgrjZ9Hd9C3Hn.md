@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - cumulative - [plain](/playlists/plain/5TtGuJhGPKgrjZ9Hd9C3Hn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5TtGuJhGPKgrjZ9Hd9C3Hn)
+[pretty](/playlists/pretty/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - cumulative - [plain](/playlists/plain/5TtGuJhGPKgrjZ9Hd9C3Hn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5TtGuJhGPKgrjZ9Hd9C3Hn)
 
 ### [Blue Note: The Finest In Jazz Since 1939](https://open.spotify.com/playlist/5TtGuJhGPKgrjZ9Hd9C3Hn)
 

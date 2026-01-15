@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain](/playlists/plain/37i9dQZF1DX7R7Bjxm48PR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7R7Bjxm48PR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain](/playlists/plain/37i9dQZF1DX7R7Bjxm48PR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7R7Bjxm48PR)
 
 ### [Piano Yoga](https://open.spotify.com/playlist/37i9dQZF1DX7R7Bjxm48PR)
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,508 likes - 84 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,697 likes - 84 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain](/playlists/plain/37i9dQZF1DX5mILnBJLA26) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5mILnBJLA26)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain](/playlists/plain/37i9dQZF1DX5mILnBJLA26) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5mILnBJLA26)
 
 ### [AMAPIANO GROOVES](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: Kelvin Momo
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: Al Xapo, Benzoo, Eeque
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,592 likes - 50 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,324 likes - 50 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Hhay wena Maan \(feat\. Scotts Maphuma & Uncool MC\)](https://open.spotify.com/track/5BpPQrkIre8tlDsBSBCPP4) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Mbuxx](https://open.spotify.com/artist/3JQMhRMQlzHTD5RWpFROkk), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1) | [Estradini](https://open.spotify.com/album/6yYz4LATn0wC58jln0H1RL) | 6:17 |
 | 50 | [Imenemene](https://open.spotify.com/track/0TsOul1Z6hc8ORx9D6BoLA) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv) | [Amazwi Okubonga](https://open.spotify.com/album/5i4SCQfgYUJ0tZNRsxz9mF) | 4:34 |
 
-Snapshot ID: `AAAAAOZAjMPGs0ZVxISXb/apogfxbnHh`
+Snapshot ID: `AAAAADXI4f7JN/vQakkDGfLsGN0+BAhR`

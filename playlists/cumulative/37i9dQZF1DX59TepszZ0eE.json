@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=qSgYDzOCSyqt8_-ZdbhLCQ>Dumi Mkokstad</a>\"",
+  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>\"",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -166,6 +166,24 @@
       "duration_ms": 709453,
       "name": "Alikho Lelifana Nalo (Live at Durban Icc)",
       "url": "https://open.spotify.com/track/2X9oiGVIqrF019oprZixGy"
+    },
+    {
+      "album": {
+        "name": "All My Days (LIVE AT STATE THEATRE PRETORIA)",
+        "url": "https://open.spotify.com/album/2gkKRsQybdC1fqPesG8XHq"
+      },
+      "artists": [
+        {
+          "name": "Busi Sibiya",
+          "url": "https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451868,
+      "name": "All My Days - LIVE AT STATE THEATRE PRETORIA",
+      "url": "https://open.spotify.com/track/0x8MglZZoD6sdb6jeonMOf"
     },
     {
       "album": {
@@ -5772,6 +5790,24 @@
       "duration_ms": 340430,
       "name": "Sibabaza Wena - Live",
       "url": "https://open.spotify.com/track/1gDzT790azKHH5wkHCYOaW"
+    },
+    {
+      "album": {
+        "name": "Sibabaza Wena (Live)",
+        "url": "https://open.spotify.com/album/7BRlHjC2LtftVfcHzKoQ7u"
+      },
+      "artists": [
+        {
+          "name": "Ndlunkulu Nosange",
+          "url": "https://open.spotify.com/artist/2kvJWE7kiQfNXt4RgNuNmN"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570636,
+      "name": "Sibabaza Wena - Live",
+      "url": "https://open.spotify.com/track/3bkA62gLfrNauwMFMhaoGx"
     },
     {
       "album": {

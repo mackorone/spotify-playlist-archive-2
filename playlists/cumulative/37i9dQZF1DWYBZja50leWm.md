@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYBZja50leWm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYBZja50leWm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYBZja50leWm)
+[pretty](/playlists/pretty/37i9dQZF1DWYBZja50leWm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYBZja50leWm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYBZja50leWm)
 
 ### [Deepavali Kondattam](https://open.spotify.com/playlist/37i9dQZF1DWYBZja50leWm)
 

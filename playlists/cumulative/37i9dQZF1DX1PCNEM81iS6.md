@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1PCNEM81iS6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1PCNEM81iS6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1PCNEM81iS6)
+[pretty](/playlists/pretty/37i9dQZF1DX1PCNEM81iS6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1PCNEM81iS6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1PCNEM81iS6)
 
 ### [That Time I Got Reincarnated as a Slime](https://open.spotify.com/playlist/37i9dQZF1DX1PCNEM81iS6)
 

@@ -1997,13 +1997,17 @@
     },
     {
       "album": {
-        "name": "Kaun Hoon Main - Lofi Mix",
+        "name": "Kaun Hoon Main (Lofi Mix)",
         "url": "https://open.spotify.com/album/3vrp8PD7Hkot3abmIc2oAz"
       },
       "artists": [
         {
           "name": "Atif Aslam",
           "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Sachin Gupta",
+          "url": "https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq"
         },
         {
           "name": "Abhimanyu-Pragya",
@@ -2014,7 +2018,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191413,
-      "name": "Kaun Hoon Main - Lofi Mix",
+      "name": "Kaun Hoon Main (Lofi Mix)",
       "url": "https://open.spotify.com/track/6UhC6fBIFkIwkVd5RgcuAG"
     },
     {
@@ -4226,6 +4230,10 @@
         {
           "name": "Shreya Ghoshal",
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sachin Gupta",
+          "url": "https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq"
         },
         {
           "name": "Abhimanyu-Pragya",

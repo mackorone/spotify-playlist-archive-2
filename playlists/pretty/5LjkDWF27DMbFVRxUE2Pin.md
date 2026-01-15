@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain](/playlists/plain/5LjkDWF27DMbFVRxUE2Pin) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5LjkDWF27DMbFVRxUE2Pin)
+pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain](/playlists/plain/5LjkDWF27DMbFVRxUE2Pin) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5LjkDWF27DMbFVRxUE2Pin)
 
 ### [Nice With A Cup of Tea](https://open.spotify.com/playlist/5LjkDWF27DMbFVRxUE2Pin)
 

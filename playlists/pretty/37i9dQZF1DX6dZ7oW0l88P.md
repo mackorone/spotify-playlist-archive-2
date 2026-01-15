@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain](/playlists/plain/37i9dQZF1DX6dZ7oW0l88P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6dZ7oW0l88P)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain](/playlists/plain/37i9dQZF1DX6dZ7oW0l88P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6dZ7oW0l88P)
 
 ### [Healing Harp](https://open.spotify.com/playlist/37i9dQZF1DX6dZ7oW0l88P)
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,451 likes - 117 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,086 likes - 117 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

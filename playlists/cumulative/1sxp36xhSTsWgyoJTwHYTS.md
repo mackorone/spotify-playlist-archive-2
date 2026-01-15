@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1sxp36xhSTsWgyoJTwHYTS.md) - cumulative - [plain](/playlists/plain/1sxp36xhSTsWgyoJTwHYTS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1sxp36xhSTsWgyoJTwHYTS)
+[pretty](/playlists/pretty/1sxp36xhSTsWgyoJTwHYTS.md) - cumulative - [plain](/playlists/plain/1sxp36xhSTsWgyoJTwHYTS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1sxp36xhSTsWgyoJTwHYTS)
 
 ### [Radios France](https://open.spotify.com/playlist/1sxp36xhSTsWgyoJTwHYTS)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kV7MLy24Ug.md) - [plain](/playlists/plain/37i9dQZF1DX7kV7MLy24Ug) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7kV7MLy24Ug)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kV7MLy24Ug.md) - [plain](/playlists/plain/37i9dQZF1DX7kV7MLy24Ug) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7kV7MLy24Ug)
 
 ### [Éxitos Uruguay](https://open.spotify.com/playlist/37i9dQZF1DX7kV7MLy24Ug)
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Rels B
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,721 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,835 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

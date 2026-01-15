@@ -1,16 +1,16 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain](/playlists/plain/37i9dQZF1DXdMp10y0r6l2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdMp10y0r6l2)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain](/playlists/plain/37i9dQZF1DXdMp10y0r6l2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdMp10y0r6l2)
 
 ### [Dark and Furious](https://open.spotify.com/playlist/37i9dQZF1DXdMp10y0r6l2)
 
 > AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. HEALTH en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,002 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,000 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BLOODSWEAT](https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 3:41 |
 | 2 | [Everything Burns \(feat\. Beartooth\)](https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Everything Burns \(feat\. Beartooth\)](https://open.spotify.com/album/4jsUVte5X0LXHuFIE281qq) | 3:01 |
-| 3 | [Cry All Month](https://open.spotify.com/track/6JucJVJofpzjawz7Ey0deY) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Cry All Month](https://open.spotify.com/album/4QbeJQGDwYkZmwqp4r5Eow) | 3:09 |
+| 3 | [Cry All Month](https://open.spotify.com/track/6JucJVJofpzjawz7Ey0deY) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Pain\. // Cry All Month](https://open.spotify.com/album/4QbeJQGDwYkZmwqp4r5Eow) | 3:09 |
 | 4 | [ANTIDOTE](https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ANTIDOTE](https://open.spotify.com/album/4Uc2ErLyAbWIK9qPqHMj5n) | 3:03 |
 | 5 | [tear the wings from an angel's spine](https://open.spotify.com/track/5EKRZvPmjbUq3Oix3dZ5HR) | [Wounded Masquerade](https://open.spotify.com/artist/7Gv9v2IMqDwzQPhx2ZkJHS) | [tear the wings from an angel's spine](https://open.spotify.com/album/2vZvZmy0Dtjn31HzzwM9de) | 6:36 |
 | 6 | [Magic](https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Magic](https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U) | 3:42 |

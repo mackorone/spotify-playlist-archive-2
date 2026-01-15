@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain](/playlists/plain/37i9dQZF1DX0qxRTf9gkRN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0qxRTf9gkRN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain](/playlists/plain/37i9dQZF1DX0qxRTf9gkRN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0qxRTf9gkRN)
 
 ### [I Love My 00s Funk](https://open.spotify.com/playlist/37i9dQZF1DX0qxRTf9gkRN)
 
 > The best and finest 00s Funk\. Cover: Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,295 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,509 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

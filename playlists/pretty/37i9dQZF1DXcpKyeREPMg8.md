@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpKyeREPMg8.md) - [plain](/playlists/plain/37i9dQZF1DXcpKyeREPMg8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcpKyeREPMg8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpKyeREPMg8.md) - [plain](/playlists/plain/37i9dQZF1DXcpKyeREPMg8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcpKyeREPMg8)
 
 ### [Solid Gold](https://open.spotify.com/playlist/37i9dQZF1DXcpKyeREPMg8)
 
 > Fine art in the form of UK Hip\-Hop\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,658 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,611 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

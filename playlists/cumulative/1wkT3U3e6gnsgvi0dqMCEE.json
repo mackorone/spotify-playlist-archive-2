@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Been Undone (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/3cm8NmlOZKcPoUN3YrpxIc"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459519,
+      "name": "Been Undone - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/2vXCiisu266PttmAVDOFtF"
+    },
+    {
+      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218157,
       "name": "Hot Cocoa",
       "url": "https://open.spotify.com/track/7hTFtyYGqtJBJAHVv1oXQ9"
@@ -4635,6 +4653,32 @@
     },
     {
       "album": {
+        "name": "Said It All (Jax Jones Rework)",
+        "url": "https://open.spotify.com/album/3loRhkIFInpLsSdFU75EFa"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208048,
+      "name": "Said It All - Jax Jones Rework",
+      "url": "https://open.spotify.com/track/4k4UUPYRJPorm3TgoaKCtG"
+    },
+    {
+      "album": {
         "name": "Megalithic Symphony Deluxe",
         "url": "https://open.spotify.com/album/6dMfMvS3hyk3ZCl4yljEDD"
       },
@@ -4826,7 +4870,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198199,
       "name": "Silent Night - Live At Knox Church, Stratford, Ontario / 2021",
       "url": "https://open.spotify.com/track/101cKHyvczyACPwU2B94cn"

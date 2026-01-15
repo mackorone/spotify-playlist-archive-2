@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2kt7dB63bU1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2kt7dB63bU1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2kt7dB63bU1)
+[pretty](/playlists/pretty/37i9dQZF1DX2kt7dB63bU1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2kt7dB63bU1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2kt7dB63bU1)
 
 ### [Vocal Jazz](https://open.spotify.com/playlist/37i9dQZF1DX2kt7dB63bU1)
 
 > Jazz voices of today\. Cover: Ledisi
 
-875 songs - 2 day 12 hr 36 min
+876 songs - 2 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [C’est Magnifique](https://open.spotify.com/track/1pd6iv2ZyzhdCdwvkLbjMM) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:52 | 2024-11-18 |  |
 | [C’est Magnifique](https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [C’est Magnifique](https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN) | 4:52 | 2022-02-18 | 2023-02-25 |
 | [D'un feu secret](https://open.spotify.com/track/7dP5Y13MV07A983j7kiPkf) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [D'un feu secret](https://open.spotify.com/album/3MrKWyqdWqKqvNtl3xt4kP) | 3:44 | 2023-01-27 | 2023-03-04 |
+| [Dans les rues de Québec](https://open.spotify.com/track/4JWc2mhiHfdLkcqBKS6dqs) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Dans les rues de Québec](https://open.spotify.com/album/5mIAWf2Ba7Lk8LxuBVt3TL) | 2:33 | 2026-01-09 |  |
 | [Dark and Lovely](https://open.spotify.com/track/7bKnhhx9spNVHovrH6XZOv) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Evan Roberson](https://open.spotify.com/artist/3c6kTutNRrIlGEEmN2acdX) | [Dark and Lovely](https://open.spotify.com/album/01dK18wyaylbyzfSaHpBHu) | 3:59 | 2025-02-28 |  |
 | [Dawn](https://open.spotify.com/track/5tJ21wHKBuj9KtzaCwDxZ5) | [Allison Wheeler](https://open.spotify.com/artist/69WneXo9aoAeXaJCaPzJ6k), [David Dorůžka](https://open.spotify.com/artist/2FOnLwDbujuoPHDp1OXQw5) | [Winterspring](https://open.spotify.com/album/6Sqps6Ivj9YZm59i7wNCZM) | 7:22 | 2022-07-29 | 2023-05-20 |
 | [Day Dream](https://open.spotify.com/track/0pmfzrYIaHzPQ0DYnRWLwi) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw) | [Day Dream](https://open.spotify.com/album/406jynG8Y0juiFhyOaviak) | 4:55 | 2023-04-07 | 2024-08-03 |
@@ -224,7 +225,7 @@
 | [First Song](https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [First Song](https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA) | 4:43 | 2024-09-20 |  |
 | [First Time](https://open.spotify.com/track/2Um1CzJYNjxvNZZWHiMXtA) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/78qI1KR0g7JiLB3mc2WXYz) | 4:11 | 2020-10-09 | 2022-02-19 |
 | [Five Feet Tall](https://open.spotify.com/track/3Td12QdISvxCc924l70f8n) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul](https://open.spotify.com/album/50rbF4FiainFjqW5wWIASV) | 3:20 | 2021-09-03 | 2022-10-08 |
-| [Five Senses](https://open.spotify.com/track/2v5Rvh6gdKE7XaSMykpEJ8) | [Cassidy Place](https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54) | [Five Senses](https://open.spotify.com/album/4cl84AfjXk8k6xtBaxqete) | 2:22 | 2024-02-23 |  |
+| [Five Senses](https://open.spotify.com/track/2v5Rvh6gdKE7XaSMykpEJ8) | [Cassidy Place](https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54) | [Five Senses](https://open.spotify.com/album/4cl84AfjXk8k6xtBaxqete) | 2:22 | 2024-02-23 | 2026-01-15 |
 | [Flight](https://open.spotify.com/track/2j3QZ7Zrdoq59PMUncaYI5) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Dezron Douglas](https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Flight](https://open.spotify.com/album/7KAiZo7lUBRHLPa306jvoh) | 2:47 | 2025-04-11 | 2025-10-11 |
 | [Flor de Lis \(Upside Down\)](https://open.spotify.com/track/1NUy3QgtzwdxaQ1beWHSK1) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Flor de Lis \(Upside Down\)](https://open.spotify.com/album/0OwNT4Lv1ViODTp9lI9r1K) | 5:37 | 2025-06-27 |  |
 | [Fly \(For Mike\) feat\. Brittany Howard](https://open.spotify.com/track/0qKdmI20wCPmmjSWY6wO6K) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Fly \(For Mike\) Feat\. Brittany Howard](https://open.spotify.com/album/41YY1uiKkpKySBWEpqzWpj) | 4:01 | 2021-07-23 | 2022-02-19 |
@@ -854,7 +855,7 @@
 | [Without You](https://open.spotify.com/track/09lKeklaxa3p5MXkYYTyH0) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2inxTSjVztLDsnumbpY9Bv) | 4:20 | 2023-10-27 | 2024-04-19 |
 | [Without You](https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ) | 4:20 | 2023-10-27 | 2025-06-21 |
 | [Woman's Reach](https://open.spotify.com/track/5b4LwXqmIpgYmwIMsXor45) | [KerenDun](https://open.spotify.com/artist/2TlOOJAaDba5S9tmsFyCWj), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN) | [Woman's Reach](https://open.spotify.com/album/62fZHDlJIDiFQbCFqgE13S) | 3:37 | 2021-02-05 | 2022-02-12 |
-| [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 | 2024-02-16 |  |
+| [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 | 2024-02-16 | 2026-01-15 |
 | [Wonderful Words](https://open.spotify.com/track/53GtzwyXwm4ucKVJ5KZu4X) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Jesse Rivest](https://open.spotify.com/artist/1AaY7NYQidTReRR6t1l9OF), [Misael Barros](https://open.spotify.com/artist/1hJLJF3t74lnmceuXeCJsO), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Wonderful Words](https://open.spotify.com/album/7ivBZYLmSa4YnlFJVElIWr) | 4:11 | 2022-04-04 | 2022-06-23 |
 | [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 | 2025-01-03 | 2025-02-22 |
 | [Wuthering Heights](https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 2:43 | 2022-03-04 | 2023-02-25 |

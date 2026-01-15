@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 156083,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/0JCwp6ekBI2CkOtXWErcJt"
@@ -1372,6 +1372,24 @@
       "duration_ms": 248355,
       "name": "Believe",
       "url": "https://open.spotify.com/track/35y5F1N5bCTPLQ8qJzuYPE"
+    },
+    {
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/1Mqcbf0fG0J5oHQgbSOp7W"
+      },
+      "artists": [
+        {
+          "name": "Nafeesisboujee",
+          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138021,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/5rluRikyzOB8StNrzQISaO"
     },
     {
       "album": {
@@ -2105,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "Cali Crazy",
+        "url": "https://open.spotify.com/album/0YXmAxmk8349DJ7WNRBWIB"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117011,
+      "name": "Cali Crazy",
+      "url": "https://open.spotify.com/track/3f3mRpt6XsijsdVjzrXi7W"
+    },
+    {
+      "album": {
         "name": "Call You Drunk",
         "url": "https://open.spotify.com/album/3m2MxYOk7sCKq87MpQi7yT"
       },
@@ -2188,7 +2224,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198923,
       "name": "CAPRIS",
       "url": "https://open.spotify.com/track/1ZFUNIg9u95wtA0D6Vgs4d"
@@ -3346,6 +3382,24 @@
       "duration_ms": 180000,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1PMCaOsItHt7Wc02FCdpdv"
+    },
+    {
+      "album": {
+        "name": "diamonds are forever",
+        "url": "https://open.spotify.com/album/5OP38JygZWcTBGMeG6smz3"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "diamonds are forever",
+      "url": "https://open.spotify.com/track/1VAtSBqecE1fIfxYikIHUG"
     },
     {
       "album": {
@@ -13366,7 +13420,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164911,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/1Y9ewybegCoWaDE1wDcsxX"

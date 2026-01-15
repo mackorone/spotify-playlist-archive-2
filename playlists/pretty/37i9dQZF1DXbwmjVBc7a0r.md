@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwmjVBc7a0r.md) - [plain](/playlists/plain/37i9dQZF1DXbwmjVBc7a0r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbwmjVBc7a0r)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwmjVBc7a0r.md) - [plain](/playlists/plain/37i9dQZF1DXbwmjVBc7a0r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbwmjVBc7a0r)
 
 ### [Berceuses rock](https://open.spotify.com/playlist/37i9dQZF1DXbwmjVBc7a0r)
 
 > Les plus grands tubes rock en version berceuse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,432 likes - 84 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,439 likes - 84 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

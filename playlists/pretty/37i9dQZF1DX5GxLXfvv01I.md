@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain](/playlists/plain/37i9dQZF1DX5GxLXfvv01I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5GxLXfvv01I)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain](/playlists/plain/37i9dQZF1DX5GxLXfvv01I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5GxLXfvv01I)
 
 ### [Rhythm + Flow Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5GxLXfvv01I)
 
 > Let the battles begin\. Listen to the music from Rhythm + Flow, streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,201 likes - 23 songs - 57 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 33,240 likes - 23 songs - 57 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

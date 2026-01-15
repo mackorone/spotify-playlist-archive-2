@@ -1,13 +1,29 @@
 {
   "description": "The best  indie rock tracks. | Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc.  Submit on IG @reinhardzwisler Cover: Lord Huron",
-  "num_followers": 4752,
+  "num_followers": 4751,
   "original_name": "Indie Rock",
   "owner": {
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAOO8V68DYaoN6hf2aLo4IE+G+HGFF/",
+  "snapshot_id": "AAAOQeOwwgFdcobQbBZmz4/KTpgg8Vnb",
   "tracks": [
+    {
+      "added_at": "2026-01-15 08:27:54",
+      "album": {
+        "name": "Allora come ti va",
+        "url": "https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 278576,
+      "name": "Allora come ti va",
+      "url": "https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS"
+    },
     {
       "added_at": "2026-01-04 18:46:59",
       "album": {
@@ -1231,6 +1247,86 @@
       "duration_ms": 152049,
       "name": "Black Beach",
       "url": "https://open.spotify.com/track/4GAfjkz3Df80JzLsCl8kKg"
+    },
+    {
+      "added_at": "2026-01-13 21:59:00",
+      "album": {
+        "name": "Entanglement",
+        "url": "https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku"
+      },
+      "artists": [
+        {
+          "name": "Paul Johann",
+          "url": "https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b"
+        }
+      ],
+      "duration_ms": 176384,
+      "name": "High Above It All",
+      "url": "https://open.spotify.com/track/4FjhfRrrORgaP854fQG9q3"
+    },
+    {
+      "added_at": "2026-01-14 14:14:23",
+      "album": {
+        "name": "Heart of a Coward / Maelstrom",
+        "url": "https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 381085,
+      "name": "Maelstrom",
+      "url": "https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8"
+    },
+    {
+      "added_at": "2026-01-14 14:14:49",
+      "album": {
+        "name": "Contradictions",
+        "url": "https://open.spotify.com/album/1HLDzOH302g8hagglm769G"
+      },
+      "artists": [
+        {
+          "name": "The Borough",
+          "url": "https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Just A Normal Kid",
+      "url": "https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx"
+    },
+    {
+      "added_at": "2026-01-14 14:15:55",
+      "album": {
+        "name": "Life Hurts You Without Asking",
+        "url": "https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI"
+      },
+      "artists": [
+        {
+          "name": "Bad Script",
+          "url": "https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j"
+        }
+      ],
+      "duration_ms": 302927,
+      "name": "I Was Scared",
+      "url": "https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ"
+    },
+    {
+      "added_at": "2026-01-14 14:16:25",
+      "album": {
+        "name": "Polaroid Revolt",
+        "url": "https://open.spotify.com/album/2VigbaNTOIGykpEppCAzz7"
+      },
+      "artists": [
+        {
+          "name": "Amaury Laurent Bernier",
+          "url": "https://open.spotify.com/artist/3W838tQ7KOuhu6lq0DbKvK"
+        }
+      ],
+      "duration_ms": 144989,
+      "name": "Innit ?",
+      "url": "https://open.spotify.com/track/1IkHgUGP0jiXoqyZJJzFgr"
     }
   ],
   "unique_name": "Indie Rock",

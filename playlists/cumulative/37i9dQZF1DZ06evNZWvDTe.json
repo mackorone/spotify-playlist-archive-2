@@ -4042,10 +4042,36 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199952,
       "name": "Saara (feat. Efya)",
       "url": "https://open.spotify.com/track/6TnkeoB8CdVFUUQQf5Nrem"
+    },
+    {
+      "album": {
+        "name": "The Last Of A Dying Breed",
+        "url": "https://open.spotify.com/album/7ruMWGWsEzrDGl2EM9wshD"
+      },
+      "artists": [
+        {
+          "name": "Hammer of The Last Two",
+          "url": "https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Worlasi",
+          "url": "https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247980,
+      "name": "Sarkastic",
+      "url": "https://open.spotify.com/track/1hu8nXmfGce1ppr4yGGyXX"
     },
     {
       "album": {

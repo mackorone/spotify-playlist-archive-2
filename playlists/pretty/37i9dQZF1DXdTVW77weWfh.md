@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVW77weWfh.md) - [plain](/playlists/plain/37i9dQZF1DXdTVW77weWfh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdTVW77weWfh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVW77weWfh.md) - [plain](/playlists/plain/37i9dQZF1DXdTVW77weWfh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdTVW77weWfh)
 
 ### [Relaxing Beethoven](https://open.spotify.com/playlist/37i9dQZF1DXdTVW77weWfh)
 
 > Explore the softer side of Beethoven with this selection of calming favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,412 likes - 81 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,626 likes - 81 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

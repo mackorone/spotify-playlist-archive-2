@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 277714,
       "name": "BELIEVE ME",
       "url": "https://open.spotify.com/track/6qRzSv0mqhhGXzRETbe6wO"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226522,
       "name": "Burn The River",
       "url": "https://open.spotify.com/track/7MNuKAnwwXu0GqEZV8TYCf"
@@ -5383,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/6WmZA5mjHLyUAv2O6Wa2l0"
+      },
+      "artists": [
+        {
+          "name": "SYSTEM KIDS",
+          "url": "https://open.spotify.com/artist/1TTbj1mLkuE8pRMs009VeB"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/4ROpQkJLaOIN9O8klpaz0s"
+    },
+    {
+      "album": {
         "name": "Do or Die",
         "url": "https://open.spotify.com/album/1DNJREUQmBww91ALLQYHv0"
       },
@@ -7305,6 +7323,24 @@
     },
     {
       "album": {
+        "name": "HYPERMOTION",
+        "url": "https://open.spotify.com/album/6GD2hZPbxrErWrPzLhdCRC"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152178,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/1GYfRHuzZh7wBLS1qc25yt"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK"
       },
@@ -8750,6 +8786,32 @@
       "duration_ms": 210206,
       "name": "Go Back (feat. Julia Church) - YDG Remix",
       "url": "https://open.spotify.com/track/4ASH49SxktKD1YzIbqUP0N"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/7nzX1nl2TH8Qx5u1p9cmOC"
+      },
+      "artists": [
+        {
+          "name": "Blookah",
+          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
+        },
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        },
+        {
+          "name": "Jeanne Taylor",
+          "url": "https://open.spotify.com/artist/1HnArnhrvMb1hHokXaZ6aR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165633,
+      "name": "Go Fast",
+      "url": "https://open.spotify.com/track/2TLq5fijG1v1mbAYMP4LnM"
     },
     {
       "album": {
@@ -10680,6 +10742,28 @@
       "duration_ms": 171129,
       "name": "I Need",
       "url": "https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0"
+    },
+    {
+      "album": {
+        "name": "I Need A Rhythm (feat. ROZZZQWEEN) [Friction Remix]",
+        "url": "https://open.spotify.com/album/2gfJqDtJYYshs42EwYJANx"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "ROZZZQWEEN",
+          "url": "https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "I Need A Rhythm (feat. ROZZZQWEEN)",
+      "url": "https://open.spotify.com/track/1DtvryDmZrGEwsRRZxyEp2"
     },
     {
       "album": {
@@ -15662,7 +15746,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 122828,
       "name": "open world",
       "url": "https://open.spotify.com/track/4IkoH91z8P8PMcJOzRVa4O"
@@ -25138,7 +25222,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184285,
       "name": "wish you the best",
       "url": "https://open.spotify.com/track/2qbwO0CRPggvohMtVNJWCA"

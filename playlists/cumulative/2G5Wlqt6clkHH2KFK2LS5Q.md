@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2G5Wlqt6clkHH2KFK2LS5Q.md) - cumulative - [plain](/playlists/plain/2G5Wlqt6clkHH2KFK2LS5Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2G5Wlqt6clkHH2KFK2LS5Q)
+[pretty](/playlists/pretty/2G5Wlqt6clkHH2KFK2LS5Q.md) - cumulative - [plain](/playlists/plain/2G5Wlqt6clkHH2KFK2LS5Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2G5Wlqt6clkHH2KFK2LS5Q)
 
 ### [Happy Birthday George!](https://open.spotify.com/playlist/2G5Wlqt6clkHH2KFK2LS5Q)
 

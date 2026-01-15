@@ -5198,7 +5198,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 236417,
       "name": "close to you",
       "url": "https://open.spotify.com/track/2a657moilAHrsI75o595Mz"
@@ -5382,7 +5382,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 206068,
       "name": "Closer 2 U",
       "url": "https://open.spotify.com/track/3xp2L2gLP6PVUzCXYr2e1M"
@@ -8277,6 +8277,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
+    },
+    {
+      "album": {
         "name": "Face To Face",
         "url": "https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg"
       },
@@ -8566,6 +8584,28 @@
       "duration_ms": 167538,
       "name": "Favorite Sound",
       "url": "https://open.spotify.com/track/2YoKWnMwaPaBtHrJ0Mpunm"
+    },
+    {
+      "album": {
+        "name": "Fear Me",
+        "url": "https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166376,
+      "name": "Fear Me",
+      "url": "https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW"
     },
     {
       "album": {
@@ -9316,7 +9356,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 183738,
       "name": "find u",
       "url": "https://open.spotify.com/track/3S24yNjzf4iGLk5GNOQl1V"
@@ -9526,6 +9566,32 @@
       "duration_ms": 193777,
       "name": "Fly",
       "url": "https://open.spotify.com/track/2HO0uCyq8jOveEzvmo4JEu"
+    },
+    {
+      "album": {
+        "name": "Fly Away (VisionV Remix)",
+        "url": "https://open.spotify.com/album/1lbZ4ecQSVlZAtL8hDewja"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176585,
+      "name": "Fly Away - VisionV Remix",
+      "url": "https://open.spotify.com/track/1p0oulKZjkdrGSTekew8tH"
     },
     {
       "album": {
@@ -10114,7 +10180,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 228688,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu"
@@ -11590,7 +11656,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 134160,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1Msjub09jLhkGbyThmMLsp"
@@ -12284,7 +12350,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 282352,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/41oQHj22UB6se03Cqi5PLV"
@@ -15337,6 +15403,24 @@
     },
     {
       "album": {
+        "name": "Rivalry / It's You (from \"Heated Rivalry\" Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240491,
+      "name": "It's You - from \"Heated Rivalry\"",
+      "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
+    },
+    {
+      "album": {
         "name": "It's Your Love",
         "url": "https://open.spotify.com/album/2PrHWSUXWOCakfF3JVIjve"
       },
@@ -16630,7 +16714,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157325,
       "name": "like that?",
       "url": "https://open.spotify.com/track/5qq2QBWGUNFAfCExaY4hSd"
@@ -17562,7 +17646,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194769,
       "name": "Love Is A Feeling",
       "url": "https://open.spotify.com/track/58Hifha3MJmYBa3vj7vHN8"
@@ -19044,7 +19128,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221975,
       "name": "Mine",
       "url": "https://open.spotify.com/track/2hPA6eCXmilws9KXeKwOGN"
@@ -19650,7 +19734,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139826,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/1CDIWYnX6vo2IPCtRA07H2"
@@ -19986,7 +20070,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201512,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/0AEymXR4R7Qi8nzb2L6zCg"
@@ -20525,6 +20609,28 @@
     },
     {
       "album": {
+        "name": "The Unreleased Project Pt. VIII",
+        "url": "https://open.spotify.com/album/7rVZAcxxJuRf9oLxF8lZSw"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Lyn Jada",
+          "url": "https://open.spotify.com/artist/5QD9BTJb8QvdHog0dec7QD"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "No One Like You - Edit",
+      "url": "https://open.spotify.com/track/5st3oeKHNhCPINTqk73tRx"
+    },
+    {
+      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },
@@ -20720,7 +20826,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 234576,
       "name": "not givin up on love",
       "url": "https://open.spotify.com/track/1lyTccAApsKxAIXIvs8j0R"
@@ -22212,6 +22318,24 @@
       "duration_ms": 226363,
       "name": "Places I Belong",
       "url": "https://open.spotify.com/track/3d7RiAd7X9QEOyJiZJatbv"
+    },
+    {
+      "album": {
+        "name": "Plush",
+        "url": "https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "Plush",
+      "url": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj"
     },
     {
       "album": {
@@ -24642,6 +24766,24 @@
       "duration_ms": 234330,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
+    },
+    {
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
     },
     {
       "album": {
@@ -27902,7 +28044,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
@@ -30194,7 +30336,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163464,
       "name": "Want You",
       "url": "https://open.spotify.com/track/1GzheMTLU2wPjMvs24o4WZ"

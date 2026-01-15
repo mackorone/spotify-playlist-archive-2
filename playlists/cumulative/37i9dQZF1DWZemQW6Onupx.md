@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZemQW6Onupx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZemQW6Onupx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZemQW6Onupx)
+[pretty](/playlists/pretty/37i9dQZF1DWZemQW6Onupx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZemQW6Onupx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZemQW6Onupx)
 
 ### [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/playlist/37i9dQZF1DWZemQW6Onupx)
 

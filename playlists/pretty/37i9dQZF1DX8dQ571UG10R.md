@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain](/playlists/plain/37i9dQZF1DX8dQ571UG10R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8dQ571UG10R)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain](/playlists/plain/37i9dQZF1DX8dQ571UG10R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8dQ571UG10R)
 
 ### [Rap Geek](https://open.spotify.com/playlist/37i9dQZF1DX8dQ571UG10R)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/61T3llVc7dJDCZf1SR72c0.md) - [plain](/playlists/plain/61T3llVc7dJDCZf1SR72c0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/61T3llVc7dJDCZf1SR72c0)
+pretty - [cumulative](/playlists/cumulative/61T3llVc7dJDCZf1SR72c0.md) - [plain](/playlists/plain/61T3llVc7dJDCZf1SR72c0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/61T3llVc7dJDCZf1SR72c0)
 
 ### [Vogue Travel: The Sound of the Upper East Side](https://open.spotify.com/playlist/61T3llVc7dJDCZf1SR72c0)
 

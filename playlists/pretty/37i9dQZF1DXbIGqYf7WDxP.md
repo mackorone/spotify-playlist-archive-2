@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIGqYf7WDxP.md) - [plain](/playlists/plain/37i9dQZF1DXbIGqYf7WDxP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbIGqYf7WDxP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIGqYf7WDxP.md) - [plain](/playlists/plain/37i9dQZF1DXbIGqYf7WDxP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbIGqYf7WDxP)
 
 ### [Pop Chillout](https://open.spotify.com/playlist/37i9dQZF1DXbIGqYf7WDxP)
 

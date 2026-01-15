@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaEjxFSjeD5H.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaEjxFSjeD5H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaEjxFSjeD5H)
+[pretty](/playlists/pretty/37i9dQZF1DXaEjxFSjeD5H.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaEjxFSjeD5H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaEjxFSjeD5H)
 
 ### [Danzón](https://open.spotify.com/playlist/37i9dQZF1DXaEjxFSjeD5H)
 

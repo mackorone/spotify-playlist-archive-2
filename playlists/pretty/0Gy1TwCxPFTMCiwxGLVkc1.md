@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain](/playlists/plain/0Gy1TwCxPFTMCiwxGLVkc1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Gy1TwCxPFTMCiwxGLVkc1)
+pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain](/playlists/plain/0Gy1TwCxPFTMCiwxGLVkc1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0Gy1TwCxPFTMCiwxGLVkc1)
 
 ### [Kids Music](https://open.spotify.com/playlist/0Gy1TwCxPFTMCiwxGLVkc1)
 
 > Kids music from Disney, CoComelon, Nickelodeon, and more! Find new tracks and familiar favorites on this kids music playlist, and check back each week for more!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 86 likes - 50 songs - 1 hr 58 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 88 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

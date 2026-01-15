@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVBFK0uYpNv.md) - [plain](/playlists/plain/37i9dQZF1DWZVBFK0uYpNv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZVBFK0uYpNv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVBFK0uYpNv.md) - [plain](/playlists/plain/37i9dQZF1DWZVBFK0uYpNv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZVBFK0uYpNv)
 
 ### [Disney Reimagined](https://open.spotify.com/playlist/37i9dQZF1DWZVBFK0uYpNv)
 
 > Classic Disney songs reimagined by your favorite popular artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,263 likes - 148 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,260 likes - 148 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

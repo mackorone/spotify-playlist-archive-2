@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Hip-Hop Tracks by Jxggi & More ",
+  "description": "Fresh Punjabi Hip-Hop Tracks by Chinna & More ",
   "name": "New Rap Punjabi",
   "tracks": [
     {
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163125,
       "name": "Badshah",
       "url": "https://open.spotify.com/track/0WaHi9IeuUxIbeQ6Bsmf6N"
@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 152727,
       "name": "DOMINANCE",
       "url": "https://open.spotify.com/track/506lbFTPpprPjgfZDo8Fkx"
@@ -6204,7 +6204,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 133469,
       "name": "Flex and Follow Up",
       "url": "https://open.spotify.com/track/4ZbEKND0tW165VaN88ZpZp"
@@ -6328,7 +6328,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 166298,
       "name": "For My Homies",
       "url": "https://open.spotify.com/track/7ILyJ0ruPrPkeP5enoL7ZQ"
@@ -6962,6 +6962,32 @@
       "duration_ms": 189541,
       "name": "Gangsta Loop",
       "url": "https://open.spotify.com/track/0tZST3lUzH3naaMwhPOcjS"
+    },
+    {
+      "album": {
+        "name": "Gangwar",
+        "url": "https://open.spotify.com/album/3MxsfNYTKWY1LX9vqA0zRU"
+      },
+      "artists": [
+        {
+          "name": "Gurman Gill",
+          "url": "https://open.spotify.com/artist/56WAK4bABVQfz1sElUDJai"
+        },
+        {
+          "name": "Ash Dhillon",
+          "url": "https://open.spotify.com/artist/1BFd3Y6AGLefGCA1qV7q5U"
+        },
+        {
+          "name": "Arman Isru",
+          "url": "https://open.spotify.com/artist/45sDZFNNvg253CZh6jXycV"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202841,
+      "name": "Gangwar",
+      "url": "https://open.spotify.com/track/5Jne7YAvtp1SUQUYtQC8oz"
     },
     {
       "album": {
@@ -8755,6 +8781,28 @@
     },
     {
       "album": {
+        "name": "I'm Your God",
+        "url": "https://open.spotify.com/album/25zKrEBHGBlHWh6i07wfj6"
+      },
+      "artists": [
+        {
+          "name": "BAD Junkie",
+          "url": "https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER"
+        },
+        {
+          "name": "Prakriti Pandey",
+          "url": "https://open.spotify.com/artist/5gyrzC7jLzk6zlZVRwGwdb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185992,
+      "name": "I'm Your God",
+      "url": "https://open.spotify.com/track/27GNuRnf07iuURTPWUxgKx"
+    },
+    {
+      "album": {
         "name": "I.D.G.A.F",
         "url": "https://open.spotify.com/album/5HqvriTTVPLaWfQfZykTQz"
       },
@@ -9912,7 +9960,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157419,
       "name": "Kath",
       "url": "https://open.spotify.com/track/2Xap6kCFffkjccWKBlcTu3"
@@ -10180,7 +10228,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171881,
       "name": "Kudi California Di",
       "url": "https://open.spotify.com/track/26NcWnsCm2YJdlA1OMXLPH"
@@ -10987,6 +11035,32 @@
     },
     {
       "album": {
+        "name": "The Goat Trio",
+        "url": "https://open.spotify.com/album/61vjgx8btKrBF1E1hNgFHW"
+      },
+      "artists": [
+        {
+          "name": "Beat Injector",
+          "url": "https://open.spotify.com/artist/7BK74DJva7hCxf0lP5VwJP"
+        },
+        {
+          "name": "Karan Bhullar",
+          "url": "https://open.spotify.com/artist/6xH5t4sxn8cSOtKQC8cnmn"
+        },
+        {
+          "name": "Shankarrr",
+          "url": "https://open.spotify.com/artist/5gsVvjRzBXUgXdKzyDVOqW"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214502,
+      "name": "Mafia League",
+      "url": "https://open.spotify.com/track/2EUwgVbOFqCJ9w7j5L9Wgv"
+    },
+    {
+      "album": {
         "name": "Mafia Mindset",
         "url": "https://open.spotify.com/album/2kUtXVl6quNEsz2Tas6nhZ"
       },
@@ -11182,7 +11256,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130000,
       "name": "Malwa Tribe",
       "url": "https://open.spotify.com/track/3t55poXExWPpG9oJr0SeEA"
@@ -13251,6 +13325,32 @@
     },
     {
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/0ln0Hf0HeenT2NxutXWjdi"
+      },
+      "artists": [
+        {
+          "name": "Sangatpuriyaa",
+          "url": "https://open.spotify.com/artist/26lyYOxmC2ARwDGYCsr5Vi"
+        },
+        {
+          "name": "Gurjit Gill",
+          "url": "https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd"
+        },
+        {
+          "name": "Ary B",
+          "url": "https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "On Air",
+      "url": "https://open.spotify.com/track/6lcPXak5WBrJQcEcuVRoa8"
+    },
+    {
+      "album": {
         "name": "On Point",
         "url": "https://open.spotify.com/album/0G0GUh5A2NgdcsYce85tBT"
       },
@@ -13832,7 +13932,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141832,
       "name": "PATT LAINGEY",
       "url": "https://open.spotify.com/track/4111e03vcTcb2hoae86xbn"
@@ -14038,7 +14138,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140172,
       "name": "POLICE",
       "url": "https://open.spotify.com/track/3DCnJSjXhN5ct1OSfezFIC"
@@ -15263,6 +15363,28 @@
     },
     {
       "album": {
+        "name": "UNSOLVED",
+        "url": "https://open.spotify.com/album/1eEpwU2TSgM5yJFGfoCdBi"
+      },
+      "artists": [
+        {
+          "name": "Chinna",
+          "url": "https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143989,
+      "name": "SARKAR",
+      "url": "https://open.spotify.com/track/3fBxEIkrv1smnbPrPpvnLu"
+    },
+    {
+      "album": {
         "name": "Sarkar",
         "url": "https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0"
       },
@@ -16071,6 +16193,36 @@
     },
     {
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/0ln0Hf0HeenT2NxutXWjdi"
+      },
+      "artists": [
+        {
+          "name": "Sangatpuriyaa",
+          "url": "https://open.spotify.com/artist/26lyYOxmC2ARwDGYCsr5Vi"
+        },
+        {
+          "name": "Gurjit Gill",
+          "url": "https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd"
+        },
+        {
+          "name": "Karam Brar",
+          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
+        },
+        {
+          "name": "Ary B",
+          "url": "https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/3n49nCAdB75Gw35seitxb7"
+    },
+    {
+      "album": {
         "name": "Bio (Level 1)",
         "url": "https://open.spotify.com/album/3OzId8BhJCWqcOfaC8uKEM"
       },
@@ -16202,6 +16354,32 @@
       "duration_ms": 141682,
       "name": "Speedin",
       "url": "https://open.spotify.com/track/5VimYNGccxbDBktl7aNRCS"
+    },
+    {
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/0ilXCU6ToCou2qEyCg6QIv"
+      },
+      "artists": [
+        {
+          "name": "WNA",
+          "url": "https://open.spotify.com/artist/2lIYuhZ00ra3njSpP015r8"
+        },
+        {
+          "name": "GV13",
+          "url": "https://open.spotify.com/artist/4W1ntfnymfSRN09SBNjKZw"
+        },
+        {
+          "name": "Piyush Khanna",
+          "url": "https://open.spotify.com/artist/5OEf3ue07LZD0XcQ7hvlnP"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/1i7zE89EI6ti9lEUNBFSJM"
     },
     {
       "album": {
@@ -16444,6 +16622,32 @@
       "duration_ms": 212475,
       "name": "Street Fame",
       "url": "https://open.spotify.com/track/2lAI80sYra6NhSdRAWF4ks"
+    },
+    {
+      "album": {
+        "name": "UNSOLVED",
+        "url": "https://open.spotify.com/album/1eEpwU2TSgM5yJFGfoCdBi"
+      },
+      "artists": [
+        {
+          "name": "Chinna",
+          "url": "https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171706,
+      "name": "STREETS",
+      "url": "https://open.spotify.com/track/3NJlJ5j5JXByfDCVyBAlEY"
     },
     {
       "album": {
@@ -17112,7 +17316,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147835,
       "name": "Testosterone",
       "url": "https://open.spotify.com/track/2WM878T9VVtHp65vcAyIRz"
@@ -18922,6 +19126,54 @@
       "duration_ms": 132500,
       "name": "Who's That Boy",
       "url": "https://open.spotify.com/track/7qEbeSUmsRg3w1vJ29aktD"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4EcKH6FpHJhUlKwp8f8iEs"
+      },
+      "artists": [
+        {
+          "name": "VAARSS",
+          "url": "https://open.spotify.com/artist/1Vf2rq7OR2quh9T0mL1lID"
+        },
+        {
+          "name": "KXNG",
+          "url": "https://open.spotify.com/artist/17TcguMPgWPzjYuhNNfI7z"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128491,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5vey4wr4lsiph25GZNcTB5"
+    },
+    {
+      "album": {
+        "name": "The Goat Trio",
+        "url": "https://open.spotify.com/album/61vjgx8btKrBF1E1hNgFHW"
+      },
+      "artists": [
+        {
+          "name": "Beat Injector",
+          "url": "https://open.spotify.com/artist/7BK74DJva7hCxf0lP5VwJP"
+        },
+        {
+          "name": "Karan Bhullar",
+          "url": "https://open.spotify.com/artist/6xH5t4sxn8cSOtKQC8cnmn"
+        },
+        {
+          "name": "Shankarrr",
+          "url": "https://open.spotify.com/artist/5gsVvjRzBXUgXdKzyDVOqW"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190016,
+      "name": "Winner Mindset",
+      "url": "https://open.spotify.com/track/5K1gteACVppVBASoLEutx2"
     },
     {
       "album": {

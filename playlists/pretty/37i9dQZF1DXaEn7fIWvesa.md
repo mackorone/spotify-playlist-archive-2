@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain](/playlists/plain/37i9dQZF1DXaEn7fIWvesa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaEn7fIWvesa)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain](/playlists/plain/37i9dQZF1DXaEn7fIWvesa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaEn7fIWvesa)
 
 ### [Cubatón Miami](https://open.spotify.com/playlist/37i9dQZF1DXaEn7fIWvesa)
 

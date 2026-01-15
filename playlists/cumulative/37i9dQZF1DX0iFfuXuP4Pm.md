@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0iFfuXuP4Pm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0iFfuXuP4Pm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0iFfuXuP4Pm)
+[pretty](/playlists/pretty/37i9dQZF1DX0iFfuXuP4Pm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0iFfuXuP4Pm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0iFfuXuP4Pm)
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: El Manu
+> Mga nangunguna sa mundo ng OPM\. Cover: Kyle Raphael
 
-472 songs - 1 day 5 hr 19 min
+474 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Bughaw](https://open.spotify.com/track/6C8Oy25ieRZqOsSJ6PAb86) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bughaw](https://open.spotify.com/album/2BHCBLxhR5lvCMoLiRMfDv) | 3:53 | 2024-12-11 | 2025-05-15 |
 | [Bumabalik](https://open.spotify.com/track/46eyv6NKFORLGyR5hxDhgh) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Bumabalik](https://open.spotify.com/album/1XhakE46NugfG5ylKdnxLT) | 4:20 | 2025-06-25 | 2025-08-14 |
 | [Buti Nalang](https://open.spotify.com/track/35k1RDZMyUYDYz8wcEQHO2) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Buti Nalang](https://open.spotify.com/album/2zFxPP8mY2CEFE3ZHspqfM) | 3:39 | 2024-03-27 | 2024-05-15 |
+| [Carla's Eyes](https://open.spotify.com/track/6ndaTKTNhisOYxYIHhn6bE) | [Caña](https://open.spotify.com/artist/1gmvYFMrUzI3qL11GrmtD8) | [Carla's Eyes](https://open.spotify.com/album/15ryL9taDNnJMQVdztCv8M) | 4:33 | 2026-01-14 |  |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-17 | 2024-10-24 |
 | [Clingy](https://open.spotify.com/track/6TTt3qfJjMsQWzARMRCNzq) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP), [Kate Lucero](https://open.spotify.com/artist/68zMRaBN30RjKDpvSa25mq) | [Clingy](https://open.spotify.com/album/5LDcYO9XbhB07Ul929cY6B) | 3:18 | 2025-12-03 | 2025-12-25 |
 | [Close To You](https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Close To You](https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4) | 3:33 | 2025-02-19 | 2025-05-01 |
@@ -159,7 +160,7 @@
 | [Hulaan](https://open.spotify.com/track/2i75Hz2OpChywxnUguC3Kw) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Hulaan](https://open.spotify.com/album/2jvtYVPReKC4CCQVNEYQOS) | 3:38 | 2024-01-31 | 2024-04-11 |
 | [Huling Liham](https://open.spotify.com/track/5lM05T9khhd1esKZNQ0u2p) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v), [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Huling Liham](https://open.spotify.com/album/6Ec7m4RcENPvxbvlgNQQtA) | 2:31 | 2024-12-25 | 2025-03-27 |
 | [Huling Pag\-Ibig](https://open.spotify.com/track/11glrCyEw3LnLxf1M6KB34) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Huling Pag\-Ibig](https://open.spotify.com/album/57Af2Iv4CAwiJmpD4ClLbi) | 3:56 | 2025-05-28 | 2025-07-10 |
-| [Huling Sandali](https://open.spotify.com/track/5leZwTgwMob3NysJNsfU1a) | [Kenan](https://open.spotify.com/artist/5MJysZm1qR5X7MmUe2QkB0) | [Huling Sandali](https://open.spotify.com/album/4bqt2PYRqVqupYG6ItVoSI) | 4:44 | 2025-12-10 |  |
+| [Huling Sandali](https://open.spotify.com/track/5leZwTgwMob3NysJNsfU1a) | [Kenan](https://open.spotify.com/artist/5MJysZm1qR5X7MmUe2QkB0) | [Huling Sandali](https://open.spotify.com/album/4bqt2PYRqVqupYG6ItVoSI) | 4:44 | 2025-12-10 | 2026-01-15 |
 | [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [john sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 | 2025-01-08 | 2025-02-20 |
 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/2pbkyyrJVpo1aiMJOcvlWI) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/album/7GZBDFbz4L9aGnegmi8ZtF) | 3:18 | 2024-01-24 | 2024-04-19 |
 | [I can be the one](https://open.spotify.com/track/4rgexTquOBLYzQWusUsLyb) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [I can be the one](https://open.spotify.com/album/1A8lPVdz7nGht81w9PrwKo) | 3:45 | 2025-07-23 | 2025-09-04 |
@@ -384,6 +385,7 @@
 | [Sa Uulitin](https://open.spotify.com/track/0lAZd9knO0d5whnNyc9CSd) | [David La Sol](https://open.spotify.com/artist/3ycDTcpGEHZpTDJeniyJ62) | [Sa Uulitin](https://open.spotify.com/album/1WrFw4bSjAWfSDTphv7tPJ) | 4:06 | 2025-11-19 | 2025-12-10 |
 | [sa'yong sa'yo lang ako](https://open.spotify.com/track/52LJJmnZmsIRQsNBSrZsW6) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD), [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [sa'yong sa'yo lang ako](https://open.spotify.com/album/6yR5iL6lTsSnvrpcxwrRAP) | 3:56 | 2024-01-24 | 2024-03-07 |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2024-01-24 | 2024-02-08 |
+| [Sabihin Mo Lang](https://open.spotify.com/track/7JGChCgGGxVdPMxopSTzzN) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Sabihin Mo Lang](https://open.spotify.com/album/2PgrN7s5f9iQ5cMGVFbYXE) | 3:00 | 2026-01-14 |  |
 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-02-28 | 2024-04-24 |
 | [Saksi Ang Langit](https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Saksi Ang Langit](https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK) | 4:19 | 2025-06-18 |  |
 | [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 | 2024-03-13 | 2024-07-25 |
@@ -425,7 +427,7 @@
 | [Tahanan](https://open.spotify.com/track/09rd0SVMt00ZN4AcBdhXyl) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw) | [Tahanan](https://open.spotify.com/album/1H86BHAxqgYlvX3xR4xdcu) | 2:54 | 2025-01-15 | 2025-03-06 |
 | [Tahanan \(feat\. SB19\)](https://open.spotify.com/track/6XOT8LCjly8StKCooz6pp1) | [Acer Philippines](https://open.spotify.com/artist/5JBSSdXnMLM26NP8Vn8KIT), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Tahanan \(feat\. SB19\)](https://open.spotify.com/album/6AOd3bQsohlasM7gpbIyOa) | 4:15 | 2025-12-24 |  |
 | [Tahimik Na Buhay Kapiling Ka](https://open.spotify.com/track/6C6T5FSG8AZXgKPwZgVcNx) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Tahimik Na Buhay Kapiling Ka](https://open.spotify.com/album/49bkCXhFHLjlxxNzCDmZ5U) | 4:45 | 2025-08-27 | 2025-11-20 |
-| [Take It To The Roof](https://open.spotify.com/track/0iP5DWmX7dbpxpKot3VzOR) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [HAPPY ACCIDENTS VOL\. 2 \(DELUXE EDITION\)\)](https://open.spotify.com/album/5NTTN3eW7xR3eTcRRD9VFV) | 3:14 | 2025-12-03 |  |
+| [Take It To The Roof](https://open.spotify.com/track/0iP5DWmX7dbpxpKot3VzOR) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [HAPPY ACCIDENTS VOL\. 2 \(DELUXE EDITION\)\)](https://open.spotify.com/album/5NTTN3eW7xR3eTcRRD9VFV) | 3:14 | 2025-12-03 | 2026-01-15 |
 | [Talulot](https://open.spotify.com/track/1ZsLM9dWw9EsBRTpkTa9Op) | [Julia Daniel](https://open.spotify.com/artist/2hfnHpR7irs4c3gJxdRT0F) | [Talulot](https://open.spotify.com/album/3BpYVwzpUcc0AbF01GVSVv) | 3:33 | 2025-11-12 | 2025-12-10 |
 | [Tanaw](https://open.spotify.com/track/28n4MIFLDKKUvZLucXGUIK) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Tanaw](https://open.spotify.com/album/1v8LGzEjnZ3rBfM7Om9Iss) | 3:46 | 2025-10-15 | 2025-11-27 |
 | [TANGA](https://open.spotify.com/track/35XFkYrc5OH9pPlkIwzbJX) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [TANGA](https://open.spotify.com/album/3y88lcUSISH0jDysmWfvE4) | 2:26 | 2025-09-17 | 2025-10-16 |

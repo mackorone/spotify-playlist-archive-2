@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2vXDFFlGYX5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2vXDFFlGYX5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2vXDFFlGYX5)
+[pretty](/playlists/pretty/37i9dQZF1DX2vXDFFlGYX5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2vXDFFlGYX5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2vXDFFlGYX5)
 
 ### [TIGER & BUNNY \-タイガー&バニー\-](https://open.spotify.com/playlist/37i9dQZF1DX2vXDFFlGYX5)
 

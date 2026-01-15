@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7LBFMuT8Ool5VxAbDMWjtA.md) - cumulative - [plain](/playlists/plain/7LBFMuT8Ool5VxAbDMWjtA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7LBFMuT8Ool5VxAbDMWjtA)
+[pretty](/playlists/pretty/7LBFMuT8Ool5VxAbDMWjtA.md) - cumulative - [plain](/playlists/plain/7LBFMuT8Ool5VxAbDMWjtA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7LBFMuT8Ool5VxAbDMWjtA)
 
 ### [Witch House Nights](https://open.spotify.com/playlist/7LBFMuT8Ool5VxAbDMWjtA)
 

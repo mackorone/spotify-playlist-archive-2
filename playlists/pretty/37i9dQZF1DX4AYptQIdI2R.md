@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain](/playlists/plain/37i9dQZF1DX4AYptQIdI2R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4AYptQIdI2R)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain](/playlists/plain/37i9dQZF1DX4AYptQIdI2R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4AYptQIdI2R)
 
 ### [This Is GOT7](https://open.spotify.com/playlist/37i9dQZF1DX4AYptQIdI2R)
 

@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209649,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/6A8tRf6N5q16d2OnBw59NA"
@@ -4171,6 +4171,28 @@
     },
     {
       "album": {
+        "name": "Chasing The Unknown",
+        "url": "https://open.spotify.com/album/6XlzB28P3l1B0J0YnUA3Ld"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "EXTASIA",
+          "url": "https://open.spotify.com/artist/0yfUG8p1uhkTrjDYcpFEIH"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Chasing The Unknown",
+      "url": "https://open.spotify.com/track/1PAplHZ1KhdqNLpLriC0fx"
+    },
+    {
+      "album": {
         "name": "Chemical Affair",
         "url": "https://open.spotify.com/album/4kvvC9ohz8j6JxoHwHUQjx"
       },
@@ -5664,7 +5686,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 197647,
       "name": "Divergent - Radio Edit",
       "url": "https://open.spotify.com/track/07tSIYAgH9ovlgLr4iZJMS"
@@ -14504,7 +14526,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180862,
       "name": "Milenio",
       "url": "https://open.spotify.com/track/725nm2i4KkzTXZB3oPYpJU"
@@ -15426,7 +15448,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184347,
       "name": "Need U Like a Drug",
       "url": "https://open.spotify.com/track/14wyG7iIEBrVjBf5E2K7qm"
@@ -15484,7 +15506,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 159364,
       "name": "Neva Let You Go",
       "url": "https://open.spotify.com/track/0kJB8qeq6a8pda8hFRJdMM"

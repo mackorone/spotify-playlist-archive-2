@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain](/playlists/plain/37i9dQZF1DWXLjydKDJPFJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLjydKDJPFJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain](/playlists/plain/37i9dQZF1DWXLjydKDJPFJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXLjydKDJPFJ)
 
 ### [payasitx](https://open.spotify.com/playlist/37i9dQZF1DWXLjydKDJPFJ)
 
 > y mi sentimiento no lo cambiaré jamás, aunque sufra este tormento 🥺😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,806 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,660 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

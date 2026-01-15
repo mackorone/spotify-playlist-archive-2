@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain](/playlists/plain/37i9dQZF1DXchirPPLF8A7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXchirPPLF8A7)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain](/playlists/plain/37i9dQZF1DXchirPPLF8A7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXchirPPLF8A7)
 
 ### [Scott Pilgrim Takes Off Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXchirPPLF8A7)
 
 > Listen to the music from and inspired by Scott Pilgrim Takes Off, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,402 likes - 76 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,537 likes - 76 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain](/playlists/plain/37i9dQZF1DX9xbwLJcOKSh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9xbwLJcOKSh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain](/playlists/plain/37i9dQZF1DX9xbwLJcOKSh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9xbwLJcOKSh)
 
 ### [菅野よう子 Yoko Kanno Works](https://open.spotify.com/playlist/37i9dQZF1DX9xbwLJcOKSh)
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,845 likes - 73 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,860 likes - 73 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "They got next and now. Cover: <a href=\"spotify:artist:79NDEw5QWlDC9KaIbogNhS\">PlaqueBoyMax</a> ",
+  "description": "They got next and now. Cover: <a href=\"spotify:artist:3TvL95zdOZWkMbkvfJ8cCk\">H3adband</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -210,7 +210,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 229321,
       "name": "1448 (feat. Reapa & Rambo)",
       "url": "https://open.spotify.com/track/2mnBdEuTR6mYxrJA9nnqmf"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 110526,
       "name": "5k for the Draco",
       "url": "https://open.spotify.com/track/2ynkjghe47nb0fQvAgEvBI"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 224000,
       "name": "ACL",
       "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184624,
       "name": "Affirmations - Remix",
       "url": "https://open.spotify.com/track/29vJlClxzbMkWsZjnsmDCx"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171923,
       "name": "AINT 4 EVRYBDY",
       "url": "https://open.spotify.com/track/5EE1Sz3MDRLS6ENKqgwysg"
@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Andrew Luck",
+        "url": "https://open.spotify.com/album/0hgvi2k6S8rm4Rw16yZD2Y"
+      },
+      "artists": [
+        {
+          "name": "oksurf",
+          "url": "https://open.spotify.com/artist/5MwvbPn9LtALRZDrMKxKnM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104136,
+      "name": "Andrew Luck",
+      "url": "https://open.spotify.com/track/080huIemSs1qwXFfdu2hRx"
+    },
+    {
+      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195668,
       "name": "Angel With An Attitude",
       "url": "https://open.spotify.com/track/2gUEB9jSU0HZhLJIYffeQn"
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 102342,
       "name": "Bad Bitty",
       "url": "https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6"
@@ -2288,6 +2306,24 @@
       "duration_ms": 143317,
       "name": "Bad Bitty (Remix)",
       "url": "https://open.spotify.com/track/3lu9zdjhHvAt7gje6w8Pn9"
+    },
+    {
+      "album": {
+        "name": "Bad Guys (Jiggy Jiggy)",
+        "url": "https://open.spotify.com/album/0N7hQ8mMeBQ2rQkAwMm5K2"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180375,
+      "name": "Bad Guys (Jiggy Jiggy)",
+      "url": "https://open.spotify.com/track/2cMBp20hDoXqAIBFuyKVGB"
     },
     {
       "album": {
@@ -3084,7 +3120,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136871,
       "name": "Birds like Popeyes",
       "url": "https://open.spotify.com/track/5ajbOZ9tgMi2lMXeEYI7Bo"
@@ -3392,7 +3428,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149163,
       "name": "Blow My High",
       "url": "https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7"
@@ -3662,6 +3698,24 @@
       "duration_ms": 129007,
       "name": "Bonnet",
       "url": "https://open.spotify.com/track/5qSpFu6V7hBZHNw4dN6t2S"
+    },
+    {
+      "album": {
+        "name": "BOO",
+        "url": "https://open.spotify.com/album/6eCKw4JH2vzTXGutRJ2Rhj"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138657,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa"
     },
     {
       "album": {
@@ -4196,7 +4250,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 134952,
       "name": "BUSS AT YOU",
       "url": "https://open.spotify.com/track/6p6lp6JZYcwQOqJEqupd8M"
@@ -5134,7 +5188,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165600,
       "name": "circus in town",
       "url": "https://open.spotify.com/track/3LbGcpsuCC0hdjgsdASG7b"
@@ -5196,7 +5250,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 156015,
       "name": "Clippers",
       "url": "https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH"
@@ -5552,7 +5606,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149268,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/7pvSteyWYiQoqCnGEkBgMT"
@@ -6484,7 +6538,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205440,
       "name": "Death Do Us Part (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/5tot8CpUTFLoGDEhGRd8WN"
@@ -6770,7 +6824,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173682,
       "name": "DND",
       "url": "https://open.spotify.com/track/0T1rQV6AKYpktPNXArEqmz"
@@ -7296,7 +7350,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177011,
       "name": "DYNAMITE",
       "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
@@ -8185,6 +8239,24 @@
     },
     {
       "album": {
+        "name": "FDO",
+        "url": "https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319213,
+      "name": "FDO",
+      "url": "https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX"
+    },
+    {
+      "album": {
         "name": "Feel It (From \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
@@ -8196,7 +8268,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157974,
       "name": "Feel It (From \u201cInvincible\u201d)",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -8990,7 +9062,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 188435,
       "name": "Free Your Mind (Channel Tres Version)",
       "url": "https://open.spotify.com/track/4v2wt4SQjJpVNDmfTgEhQ7"
@@ -11660,7 +11732,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 125300,
       "name": "I'm The Man",
       "url": "https://open.spotify.com/track/0n62uZO3jPQlYyoluTH22q"
@@ -11866,7 +11938,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 124823,
       "name": "Im So ATL",
       "url": "https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A"
@@ -13004,7 +13076,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199006,
       "name": "L.N.S.",
       "url": "https://open.spotify.com/track/2iGmElaeDcs8huWKUoAkNt"
@@ -14405,6 +14477,24 @@
     },
     {
       "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "album": {
         "name": "Maneater",
         "url": "https://open.spotify.com/album/2EgNLCN3pXzI4Fyr5Dr7CP"
       },
@@ -14442,7 +14532,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176373,
       "name": "MARADONA (feat. Justin Quiles and Saweetie)",
       "url": "https://open.spotify.com/track/6qM6LhryeIWAhrRT0f1ybk"
@@ -16540,7 +16630,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154000,
       "name": "OD CRASHIN",
       "url": "https://open.spotify.com/track/3LrsDFXueqCD3J53HfsLL6"
@@ -17934,7 +18024,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186346,
       "name": "Play This At My Funeral (feat. Polo G)",
       "url": "https://open.spotify.com/track/18DirfOJqccIkUhpM7xGei"
@@ -18182,7 +18272,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136258,
       "name": "Pop Shii",
       "url": "https://open.spotify.com/track/4CMukSEsqFRKXuXXPWMxMY"
@@ -18614,7 +18704,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 168202,
       "name": "Pretty Dolly",
       "url": "https://open.spotify.com/track/2j5bvRhftjtpup4epaJCdC"
@@ -19094,7 +19184,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 122853,
       "name": "RAGS 2 RICHES II",
       "url": "https://open.spotify.com/track/1bcJ9071FhJLBRoLTz6fxO"
@@ -23012,7 +23102,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 122080,
       "name": "Tendernism (feat. BossMan Pac)",
       "url": "https://open.spotify.com/track/0ygSTAiQKrtFJcuQG6KiAC"
@@ -25506,7 +25596,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164000,
       "name": "Where We Went Wrong",
       "url": "https://open.spotify.com/track/01HYvhahzEn7hDAz8z2pgZ"
@@ -26688,7 +26778,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 126799,
       "name": "YUP AND I DO",
       "url": "https://open.spotify.com/track/6cA7DVYZYEYFKop72MRRRB"

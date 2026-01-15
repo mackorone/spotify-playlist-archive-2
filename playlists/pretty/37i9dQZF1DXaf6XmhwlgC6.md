@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain](/playlists/plain/37i9dQZF1DXaf6XmhwlgC6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaf6XmhwlgC6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain](/playlists/plain/37i9dQZF1DXaf6XmhwlgC6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaf6XmhwlgC6)
 
 ### [Atmospheric Focus](https://open.spotify.com/playlist/37i9dQZF1DXaf6XmhwlgC6)
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,706 likes - 245 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,713 likes - 245 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

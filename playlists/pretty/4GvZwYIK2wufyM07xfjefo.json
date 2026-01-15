@@ -1,13 +1,109 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u304a\u5bb6\u3067\u306e\u3093\u3073\u308a\u8074\u304d\u305f\u3044\u7652\u3057\u7cfb\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 216,
+  "num_followers": 217,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAGFJwizD3VRtODmBH3/OCSr7Jf4JiI",
+  "snapshot_id": "AAAGI3ZCnMYFaTraXwWSucYO+fuPF6T0",
   "tracks": [
+    {
+      "added_at": "2026-01-06 08:00:34",
+      "album": {
+        "name": "\u3053\u308f\u3044\u3053\u3068",
+        "url": "https://open.spotify.com/album/6AK6FGC7iu4Dt39VuEEDQu"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u304a",
+          "url": "https://open.spotify.com/artist/7ydgVuqzZTdW7XtEB6YbTo"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 258204,
+      "name": "\u3053\u308f\u3044\u3053\u3068 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/5uEfvGjjy6lAPUaDkgtNAG"
+    },
+    {
+      "added_at": "2026-01-06 08:00:48",
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/0AXEeLelx0S248B7PsSjDo"
+      },
+      "artists": [
+        {
+          "name": "EO",
+          "url": "https://open.spotify.com/artist/4jcGNX43ioTG1HGfJSDISU"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 222385,
+      "name": "MIRROR (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/4u19Wvj6HYKv0HDn4EyFR7"
+    },
+    {
+      "added_at": "2026-01-06 08:01:05",
+      "album": {
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306f\u51ac\u4f11\u307f",
+        "url": "https://open.spotify.com/album/1GqcBesTcblm7gOLrLhkYa"
+      },
+      "artists": [
+        {
+          "name": "\u305d\u308a\u3063\u3069\u3073\u30fc\u3064",
+          "url": "https://open.spotify.com/artist/76IWUnp1D3oRp4eexCzE7x"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306f\u51ac\u4f11\u307f (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/42C8SACfnGAbBSsfnnLzhh"
+    },
+    {
+      "added_at": "2026-01-06 08:01:18",
+      "album": {
+        "name": "\u5bc6\u304b\u306a\u308b\u4ea4\u4fe1\u66f2",
+        "url": "https://open.spotify.com/album/7htdAjhhcHC7ET9QJVLIO4"
+      },
+      "artists": [
+        {
+          "name": "\u6fc1\u8336",
+          "url": "https://open.spotify.com/artist/05RFYZpwkHOneqyPC74C3M"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "\u5bc6\u304b\u306a\u308b\u4ea4\u4fe1\u66f2 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5Q7NAMMm3z0ldpMrMNvaRN"
+    },
+    {
+      "added_at": "2026-01-06 08:01:32",
+      "album": {
+        "name": "\u97f3\u697d\u6587\u5b66E.P(Digital Edition)",
+        "url": "https://open.spotify.com/album/49lRomATMkUSKm9hyo4Son"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3044\u3061",
+          "url": "https://open.spotify.com/artist/1Lxn9Isei7h9w0CmtRawki"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 257872,
+      "name": "\u8695\u3005 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6gznJKvcMUiyOtUK3BhZTL"
+    },
     {
       "added_at": "2025-12-16 08:01:29",
       "album": {
@@ -667,110 +763,6 @@
       "duration_ms": 361284,
       "name": "\u661f\u5b99\u306e\u4e94\u7dda\u8b5c",
       "url": "https://open.spotify.com/track/4fAGkMTVD19IHw5v3RJMUf"
-    },
-    {
-      "added_at": "2025-10-14 08:13:38",
-      "album": {
-        "name": "\u597d\u304d\u306a\u4eba",
-        "url": "https://open.spotify.com/album/2Y6xCRR0npFO8ZibbGzqDO"
-      },
-      "artists": [
-        {
-          "name": "dezzy",
-          "url": "https://open.spotify.com/artist/6rdw0kbG9ame8zcTPuyM9Q"
-        },
-        {
-          "name": "\u97f3\u8857\u30a6\u30ca",
-          "url": "https://open.spotify.com/artist/3vx4KtiD9ciUsGOamm2ZcA"
-        }
-      ],
-      "duration_ms": 211989,
-      "name": "\u597d\u304d\u306a\u4eba (feat. \u97f3\u8857\u30a6\u30ca)",
-      "url": "https://open.spotify.com/track/7oACBRAmDWInnwOa1mbjvY"
-    },
-    {
-      "added_at": "2025-10-14 08:14:03",
-      "album": {
-        "name": "Blank page",
-        "url": "https://open.spotify.com/album/2eydMhXzgPFLkDeJJoQ6bb"
-      },
-      "artists": [
-        {
-          "name": "blues",
-          "url": "https://open.spotify.com/artist/54PdgvWwOz1CRcFN9uYwz6"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "First Note Rin&Len remix (feat. \u93e1\u97f3\u30ea\u30f3&\u30ec\u30f3)",
-      "url": "https://open.spotify.com/track/31b56G6oQCJDgtYoT8Bzpm"
-    },
-    {
-      "added_at": "2025-10-14 08:14:14",
-      "album": {
-        "name": "\u5f57\u661f\u30ce\u9280\u6cb3",
-        "url": "https://open.spotify.com/album/7BnrFNDpIj9oGuRRXp0xpM"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30c4\u30b7\u30bf\u30ec\u30aa",
-          "url": "https://open.spotify.com/artist/6EnlR1IhuQFprQe2nxl6Bi"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 188470,
-      "name": "\u5f57\u661f\u30ce\u9280\u6cb3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6gElGPB9NzN4USpdzrRysp"
-    },
-    {
-      "added_at": "2025-10-14 08:14:27",
-      "album": {
-        "name": "\u5fc3\u6ce5\u5922(syndrome)",
-        "url": "https://open.spotify.com/album/4XJT6vM6mD6a7FkFFoixVU"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u5b88\u6587\u5b66",
-          "url": "https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 158780,
-      "name": "\u5fc3\u6ce5\u5922(syndrome) (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/1dUyZRxEkTeWhQyf1GkrWB"
-    },
-    {
-      "added_at": "2025-12-16 08:04:09",
-      "album": {
-        "name": "\u93e1\u306e\u30d5\u30ea\u3057\u305f\u65e5\u3005\u304c\u3042\u308b",
-        "url": "https://open.spotify.com/album/3DoxMLY8x6QYdLfFmQf0xy"
-      },
-      "artists": [
-        {
-          "name": "Mealerrand",
-          "url": "https://open.spotify.com/artist/7cv6baxsgkVVv4jzCBeFkG"
-        },
-        {
-          "name": "\u9cf4\u82b1\u30df\u30b3\u30c8",
-          "url": "https://open.spotify.com/artist/3eJ0F2jTA9UzNWX1jklxDf"
-        }
-      ],
-      "duration_ms": 232881,
-      "name": "\u304a\u306f\u3088\u3046 (feat. \u9cf4\u82b1\u30df\u30b3\u30c8)",
-      "url": "https://open.spotify.com/track/7DTEC5g6aQFrRFp4Gw2StZ"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

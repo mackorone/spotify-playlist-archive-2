@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbwil4x9oaqi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbwil4x9oaqi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbwil4x9oaqi)
+[pretty](/playlists/pretty/37i9dQZF1DXbwil4x9oaqi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbwil4x9oaqi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbwil4x9oaqi)
 
 ### [LE SSERAFIM WORLD TOUR \[EASY CRAZY HOT\]](https://open.spotify.com/playlist/37i9dQZF1DXbwil4x9oaqi)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain](/playlists/plain/37i9dQZF1DXaPleDxjpDoo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaPleDxjpDoo)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain](/playlists/plain/37i9dQZF1DXaPleDxjpDoo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaPleDxjpDoo)
 
 ### [Forest Bathing](https://open.spotify.com/playlist/37i9dQZF1DXaPleDxjpDoo)
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,244 likes - 173 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,241 likes - 173 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

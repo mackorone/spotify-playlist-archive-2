@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/056jpfChuMP5D1NMMaDXRR.md) - [plain](/playlists/plain/056jpfChuMP5D1NMMaDXRR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/056jpfChuMP5D1NMMaDXRR)
+pretty - [cumulative](/playlists/cumulative/056jpfChuMP5D1NMMaDXRR.md) - [plain](/playlists/plain/056jpfChuMP5D1NMMaDXRR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/056jpfChuMP5D1NMMaDXRR)
 
 ### [Metallica: The Early Years](https://open.spotify.com/playlist/056jpfChuMP5D1NMMaDXRR)
 
 > Companion playlist for the Metallica documentaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,188 likes - 30 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,187 likes - 30 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

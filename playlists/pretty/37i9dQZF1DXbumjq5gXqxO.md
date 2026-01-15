@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbumjq5gXqxO.md) - [plain](/playlists/plain/37i9dQZF1DXbumjq5gXqxO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbumjq5gXqxO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbumjq5gXqxO.md) - [plain](/playlists/plain/37i9dQZF1DXbumjq5gXqxO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbumjq5gXqxO)
 
 ### [Hustle Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbumjq5gXqxO)
 
 > Check out the Official Hustle Playlist\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,463 likes - 23 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,488 likes - 23 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

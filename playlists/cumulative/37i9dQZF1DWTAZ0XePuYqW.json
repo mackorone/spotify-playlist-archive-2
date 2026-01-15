@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "PEEKABOO, Skrillex, Flowdan and Fireboy DML 's got that big energy. ",
+  "description": "French Montana and Max B 's got that big energy. ",
   "name": "Bounce",
   "tracks": [
     {
@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 300000,
       "name": "Dutty Business - Club Edit",
       "url": "https://open.spotify.com/track/0tRnRdniP5kK862jaQhVxM"
@@ -3398,6 +3398,28 @@
       "duration_ms": 119097,
       "name": "Esa No",
       "url": "https://open.spotify.com/track/2I7i0wmHNpJsCEMXqkiM08"
+    },
+    {
+      "album": {
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "Ever Since U Left Me",
+      "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
     },
     {
       "album": {
@@ -4218,6 +4240,28 @@
       "duration_ms": 133694,
       "name": "Gently (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
+    },
+    {
+      "album": {
+        "name": "get down on it",
+        "url": "https://open.spotify.com/album/4BzuesRLAFoF9k0sHW3a3d"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207856,
+      "name": "get down on it",
+      "url": "https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI"
     },
     {
       "album": {
@@ -5708,7 +5752,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 118309,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U"

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5m9q4vz1iyO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5m9q4vz1iyO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5m9q4vz1iyO)
+[pretty](/playlists/pretty/37i9dQZF1DX5m9q4vz1iyO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5m9q4vz1iyO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5m9q4vz1iyO)
 
 ### [Beste van Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX5m9q4vz1iyO)
 

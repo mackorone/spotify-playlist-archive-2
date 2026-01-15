@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1dvMSwf27JO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1dvMSwf27JO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1dvMSwf27JO)
+[pretty](/playlists/pretty/37i9dQZF1DX1dvMSwf27JO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1dvMSwf27JO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1dvMSwf27JO)
 
 ### ['fit check](https://open.spotify.com/playlist/37i9dQZF1DX1dvMSwf27JO)
 
 > music to get fly to ft\. Erykah Badu
 
-677 songs - 1 day 12 hr 32 min
+678 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [Look At Her Now](https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:42 | 2023-09-07 | 2023-10-05 |
 | [Lose My Cool \(feat\. NLE Choppa\)](https://open.spotify.com/track/31UJNSt6tUbROThjfaAZfT) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Lose My Cool](https://open.spotify.com/album/0R8UQCG358KD07cX4zbOdB) | 3:10 | 2021-12-03 | 2022-06-11 |
 | [Losing You](https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC) | 4:20 | 2022-09-13 | 2022-10-08 |
-| [Lost Cause](https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl) | [8rae](https://open.spotify.com/artist/0eTyCf1MdrRtX7OSY0vcAP) | [WHO TF IS 8RAE?](https://open.spotify.com/album/26SLXiwVzDoRGEgiWEwlWh) | 2:31 | 2023-06-15 |  |
+| [Lost Cause](https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl) | [8rae](https://open.spotify.com/artist/0eTyCf1MdrRtX7OSY0vcAP) | [WHO TF IS 8RAE?](https://open.spotify.com/album/26SLXiwVzDoRGEgiWEwlWh) | 2:31 | 2023-06-15 | 2026-01-15 |
 | [Lost In Love \- Original Mix](https://open.spotify.com/track/1GA5a4fprKfOhfoM0RI5iw) | [Legend B](https://open.spotify.com/artist/4GdugXC80nr0eT7xQQIh0v) | [Lost In Love](https://open.spotify.com/album/33iVJ8QvnCh08BJszH99gz) | 6:08 | 2023-09-07 | 2023-10-05 |
 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 | 2022-07-29 | 2022-12-17 |
 | [Loud Pipes](https://open.spotify.com/track/3qkFIjYRInFasy2jeDZPgm) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Classics](https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J) | 3:46 | 2022-07-20 | 2022-09-15 |
@@ -600,6 +600,7 @@
 | [There Is Something in My Heart](https://open.spotify.com/track/6GvZwXT7ZxWxM7PqG4gD6k) | [Ghetto Brothers](https://open.spotify.com/artist/6M6ULJ0HhZ7BArUaVS5mqQ) | [Power Fuerza](https://open.spotify.com/album/2FyPhYU7wHYvtWCdRZXOWp) | 3:27 | 2022-09-13 | 2022-10-08 |
 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 | 2023-09-07 | 2023-10-05 |
 | [think later](https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:13 | 2024-05-02 | 2024-05-07 |
+| [THINK OF ME](https://open.spotify.com/track/0965uWewv2fb21pL7dt3oR) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 3:12 | 2024-08-23 |  |
 | [Tide](https://open.spotify.com/track/0zzqcfPGHQ2A4faQqDHI1P) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [SUMMER 21 PACK](https://open.spotify.com/album/58U8f9M3enmjO0BLlhE1xJ) | 2:21 | 2021-08-05 | 2022-05-28 |
 | [Tied Up \(feat\. DeJ Loaf\)](https://open.spotify.com/track/2YYvZyVDx0GxkoAYyHyV24) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Live & Grow](https://open.spotify.com/album/4YsS6HUCoyntWFTReZD1GU) | 3:13 | 2023-03-31 | 2023-04-12 |
 | [Time Goes By](https://open.spotify.com/track/7fhg7ofLpD5Maiy9Iy2PJC) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 2:01 | 2023-07-28 | 2023-09-06 |

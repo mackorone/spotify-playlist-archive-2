@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Banana Muffin",
+        "url": "https://open.spotify.com/album/5udXLXdM2wXM2BDraw9JhI"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Banana Muffin",
+      "url": "https://open.spotify.com/track/0dnRn5FNiU0HiMrrNamNbK"
+    },
+    {
+      "album": {
         "name": "Baskets",
         "url": "https://open.spotify.com/album/035CUJdWicYIu37qSkyJ9h"
       },
@@ -5276,7 +5294,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 110668,
       "name": "down the street",
       "url": "https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ"
@@ -5798,6 +5816,24 @@
       "duration_ms": 149646,
       "name": "drop out",
       "url": "https://open.spotify.com/track/6E1GLFsZxTc55k53t6Jb8k"
+    },
+    {
+      "album": {
+        "name": "drowse",
+        "url": "https://open.spotify.com/album/1lVtgDrmobIrOKTqQiqgmS"
+      },
+      "artists": [
+        {
+          "name": "bear\u00e9",
+          "url": "https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151080,
+      "name": "drowse",
+      "url": "https://open.spotify.com/track/28DC7ed7WyifmElgEnqzZ4"
     },
     {
       "album": {
@@ -9924,7 +9960,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 202066,
       "name": "In Comparison With",
       "url": "https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6"
@@ -10008,7 +10044,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 133787,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm"
@@ -12884,7 +12920,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143225,
       "name": "mangoes",
       "url": "https://open.spotify.com/track/2T0NMR5RPcUDsu2tgIVFS4"
@@ -19140,7 +19176,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 131351,
       "name": "Sleepless Nostalgia",
       "url": "https://open.spotify.com/track/5BLkWFjzHWcdLb822MtiHk"
@@ -19936,6 +19972,24 @@
       "duration_ms": 134517,
       "name": "Spiral Days",
       "url": "https://open.spotify.com/track/5TlF4WwWGkpziIgaNr3D3h"
+    },
+    {
+      "album": {
+        "name": "spiritual",
+        "url": "https://open.spotify.com/album/3q0ga6IZRoa0721y3Ryihl"
+      },
+      "artists": [
+        {
+          "name": "Kumo Drift",
+          "url": "https://open.spotify.com/artist/74Z7JvNFGm2Le3LUE1dYL1"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "spiritual",
+      "url": "https://open.spotify.com/track/210Aq7zUtz5hPKcrugMs7M"
     },
     {
       "album": {
@@ -21606,7 +21660,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 126290,
       "name": "the warmth of a star",
       "url": "https://open.spotify.com/track/6YJbKb2XXmIoUqMM6rRLsA"
@@ -24304,7 +24358,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 156000,
       "name": "Wish",
       "url": "https://open.spotify.com/track/0l9txLzjdTkW98bmvpkJjo"

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1EFCUfkK388h9R.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFCUfkK388h9R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFCUfkK388h9R)
+[pretty](/playlists/pretty/37i9dQZF1EFCUfkK388h9R.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFCUfkK388h9R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFCUfkK388h9R)
 
 ### [Written By SAKIMA](https://open.spotify.com/playlist/37i9dQZF1EFCUfkK388h9R)
 
@@ -58,7 +58,7 @@
 | [Sweet Nothing](https://open.spotify.com/track/6I3sAb5WqA06NnwkkgVCrm) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 2:48 | 2024-03-21 |  |
 | [The Very Same](https://open.spotify.com/track/4MCCyE82tkWFg3tA4TKHMe) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 2:59 | 2024-03-21 |  |
 | [The Wave](https://open.spotify.com/track/6EKqDWgTz9nCxZojy4XoSk) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:10 | 2024-03-21 |  |
-| [U Dnt Fk Me Up](https://open.spotify.com/track/6e4ixOLC0odrzT2UvDravh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [U Dnt Fk Me Up](https://open.spotify.com/album/3sR01bZudXMyh627XLxn15) | 2:45 | 2024-03-21 |  |
+| [U Dnt Fk Me Up](https://open.spotify.com/track/6e4ixOLC0odrzT2UvDravh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [U Dnt Fk Me Up](https://open.spotify.com/album/3sR01bZudXMyh627XLxn15) | 2:45 | 2024-03-21 | 2026-01-15 |
 | [Unwind](https://open.spotify.com/track/1S50rRkenPLDU9TARWjxoY) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:11 | 2024-03-21 |  |
 | [Ur Bdy](https://open.spotify.com/track/0RS2H42hwZHgyI5nYk1ayI) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ur Bdy](https://open.spotify.com/album/0d34EVx3buHCiD5Z4CnUGq) | 3:25 | 2024-03-21 |  |
 | [Virtus Domum](https://open.spotify.com/track/3lyvQABdNuoxG6jFr3AttY) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:03 | 2024-03-21 |  |

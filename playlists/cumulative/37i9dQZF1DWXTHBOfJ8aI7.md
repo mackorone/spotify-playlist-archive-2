@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXTHBOfJ8aI7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXTHBOfJ8aI7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXTHBOfJ8aI7)
+[pretty](/playlists/pretty/37i9dQZF1DWXTHBOfJ8aI7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXTHBOfJ8aI7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXTHBOfJ8aI7)
 
 ### [Légendes du Rock](https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7)
 
-> Les plus grands classiques du rock\. Photo : AC/DC
+> Les plus grands classiques du rock\. Photo : Oasis
 
 122 songs - 8 hr 30 min
 

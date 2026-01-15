@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3FfBohQXFlgFnYubzrvoq4.md) - [plain](/playlists/plain/3FfBohQXFlgFnYubzrvoq4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3FfBohQXFlgFnYubzrvoq4)
+pretty - [cumulative](/playlists/cumulative/3FfBohQXFlgFnYubzrvoq4.md) - [plain](/playlists/plain/3FfBohQXFlgFnYubzrvoq4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3FfBohQXFlgFnYubzrvoq4)
 
 ### [On to Something Good](https://open.spotify.com/playlist/3FfBohQXFlgFnYubzrvoq4)
 

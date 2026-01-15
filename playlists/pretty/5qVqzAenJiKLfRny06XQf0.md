@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain](/playlists/plain/5qVqzAenJiKLfRny06XQf0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5qVqzAenJiKLfRny06XQf0)
+pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain](/playlists/plain/5qVqzAenJiKLfRny06XQf0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5qVqzAenJiKLfRny06XQf0)
 
 ### [Backstage](https://open.spotify.com/playlist/5qVqzAenJiKLfRny06XQf0)
 
 > Help the band set\-up and get ready for the best live performances from your favorite artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,996 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,989 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

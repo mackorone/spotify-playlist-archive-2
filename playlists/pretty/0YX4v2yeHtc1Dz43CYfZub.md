@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0YX4v2yeHtc1Dz43CYfZub.md) - [plain](/playlists/plain/0YX4v2yeHtc1Dz43CYfZub) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0YX4v2yeHtc1Dz43CYfZub)
+pretty - [cumulative](/playlists/cumulative/0YX4v2yeHtc1Dz43CYfZub.md) - [plain](/playlists/plain/0YX4v2yeHtc1Dz43CYfZub) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0YX4v2yeHtc1Dz43CYfZub)
 
 ### [Only Lovers Left Alive \- Playlist by Jim Jarmusch and Carter Logan of SQÜRL](https://open.spotify.com/playlist/0YX4v2yeHtc1Dz43CYfZub)
 
 > ONLY LOVERS LEFT ALIVE will be in cinemas from 21st February\. The soundtrack will be available from 17th February.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,936 likes - 11 songs - 56 min 55 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,935 likes - 11 songs - 56 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

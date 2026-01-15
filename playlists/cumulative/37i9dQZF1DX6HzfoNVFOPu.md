@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6HzfoNVFOPu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6HzfoNVFOPu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6HzfoNVFOPu)
+[pretty](/playlists/pretty/37i9dQZF1DX6HzfoNVFOPu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6HzfoNVFOPu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6HzfoNVFOPu)
 
 ### [Deep Dive: 00s Rock](https://open.spotify.com/playlist/37i9dQZF1DX6HzfoNVFOPu)
 

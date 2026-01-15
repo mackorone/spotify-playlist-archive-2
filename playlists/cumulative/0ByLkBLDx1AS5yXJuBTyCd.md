@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0ByLkBLDx1AS5yXJuBTyCd.md) - cumulative - [plain](/playlists/plain/0ByLkBLDx1AS5yXJuBTyCd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ByLkBLDx1AS5yXJuBTyCd)
+[pretty](/playlists/pretty/0ByLkBLDx1AS5yXJuBTyCd.md) - cumulative - [plain](/playlists/plain/0ByLkBLDx1AS5yXJuBTyCd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0ByLkBLDx1AS5yXJuBTyCd)
 
 ### [World Folk](https://open.spotify.com/playlist/0ByLkBLDx1AS5yXJuBTyCd)
 

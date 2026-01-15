@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain](/playlists/plain/37i9dQZF1DX572PAi3rtlM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX572PAi3rtlM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain](/playlists/plain/37i9dQZF1DX572PAi3rtlM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX572PAi3rtlM)
 
 ### [Italian music, selected by actual Italians](https://open.spotify.com/playlist/37i9dQZF1DX572PAi3rtlM)
 
 > in the pic: actual Italians \(also, us Spotify editors curating this list are Italian! hi!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,698 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,790 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women who open up the pit. Cover: Courtney LaPlante of Spiritbox",
-  "num_followers": 765296,
+  "num_followers": 765996,
   "original_name": "Women of Metal",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
+        "name": "Eye For An Eye...",
+        "url": "https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
         "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
         "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
       },
@@ -919,34 +935,18 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
-        "name": "Eye For An Eye...",
-        "url": "https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD"
+        "name": "Mortal",
+        "url": "https://open.spotify.com/album/3JNEooM1MrfXDs7pxkdYZF"
       },
       "artists": [
         {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+          "name": "Daedric",
+          "url": "https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf"
         }
       ],
-      "duration_ms": 199672,
-      "name": "Bottom of a Bottle",
-      "url": "https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
-        "name": "Solace In Silence",
-        "url": "https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9"
-      },
-      "artists": [
-        {
-          "name": "Not Enough Space",
-          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
-        }
-      ],
-      "duration_ms": 176095,
-      "name": "Solace In Silence",
-      "url": "https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou"
+      "duration_ms": 176123,
+      "name": "Mortal",
+      "url": "https://open.spotify.com/track/43eCVp68xqlin5DFHKahIE"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -967,18 +967,18 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
-        "name": "Mortal",
-        "url": "https://open.spotify.com/album/3JNEooM1MrfXDs7pxkdYZF"
+        "name": "Solace In Silence",
+        "url": "https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9"
       },
       "artists": [
         {
-          "name": "Daedric",
-          "url": "https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf"
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
         }
       ],
-      "duration_ms": 176123,
-      "name": "Mortal",
-      "url": "https://open.spotify.com/track/43eCVp68xqlin5DFHKahIE"
+      "duration_ms": 176095,
+      "name": "Solace In Silence",
+      "url": "https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
-        "name": "Soma",
-        "url": "https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69"
-      },
-      "artists": [
-        {
-          "name": "Eths",
-          "url": "https://open.spotify.com/artist/2IZkG4M2WcpLtfraGYJISf"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Crucif\u00e8re",
-      "url": "https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
         "name": "Lunaris",
         "url": "https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 231613,
       "name": "The Rabbit Of The Moon",
       "url": "https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
+        "name": "Soma",
+        "url": "https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69"
+      },
+      "artists": [
+        {
+          "name": "Eths",
+          "url": "https://open.spotify.com/artist/2IZkG4M2WcpLtfraGYJISf"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Crucif\u00e8re",
+      "url": "https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
-        "name": "Trickstereprocess",
-        "url": "https://open.spotify.com/album/04FtzH0LUUCyAhiG2kTMhf"
-      },
-      "artists": [
-        {
-          "name": "Kidneythieves",
-          "url": "https://open.spotify.com/artist/40Mez3T0kn5OLe0dN1xUJj"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Taxicab Messiah",
-      "url": "https://open.spotify.com/track/6rYkjMNtpybnXa1ZmNgg3c"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
         "name": "WORTHY",
         "url": "https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 222911,
       "name": "WORTHY",
       "url": "https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
+        "name": "Trickstereprocess",
+        "url": "https://open.spotify.com/album/04FtzH0LUUCyAhiG2kTMhf"
+      },
+      "artists": [
+        {
+          "name": "Kidneythieves",
+          "url": "https://open.spotify.com/artist/40Mez3T0kn5OLe0dN1xUJj"
+        }
+      ],
+      "duration_ms": 260733,
+      "name": "Taxicab Messiah",
+      "url": "https://open.spotify.com/track/6rYkjMNtpybnXa1ZmNgg3c"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
+        "name": "Sorrowbreaker",
+        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC"
       },
@@ -1159,6 +1175,22 @@
       "duration_ms": 230181,
       "name": "Popular Monster",
       "url": "https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/3sfCEzZLGJqHyHSUbzyagV"
+      },
+      "artists": [
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/10d58mW3UzVjqU1CR6opaF"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1191,38 +1223,6 @@
       "duration_ms": 238226,
       "name": "The Plague On Both Your Houses",
       "url": "https://open.spotify.com/track/3VauFwfAiJ4wm3EWc8P3iY"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
-        "name": "Sorrowbreaker",
-        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Neon Lights",
-      "url": "https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/3sfCEzZLGJqHyHSUbzyagV"
-      },
-      "artists": [
-        {
-          "name": "Lake Malice",
-          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/10d58mW3UzVjqU1CR6opaF"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
         "name": "Witchcraft Destroys Minds And Reaps Souls",
         "url": "https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 177622,
       "name": "Wicked Woman",
       "url": "https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
-        "name": "Pitch Black Sunset",
-        "url": "https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB"
-      },
-      "artists": [
-        {
-          "name": "The Hellfreaks",
-          "url": "https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr"
-        }
-      ],
-      "duration_ms": 268039,
-      "name": "Weeping Willow",
-      "url": "https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1375,34 +1375,18 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
-        "name": "Where Myth Becomes Memory",
-        "url": "https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO"
+        "name": "Pitch Black Sunset",
+        "url": "https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB"
       },
       "artists": [
         {
-          "name": "Rolo Tomassi",
-          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+          "name": "The Hellfreaks",
+          "url": "https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr"
         }
       ],
-      "duration_ms": 234955,
-      "name": "Cloaked",
-      "url": "https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr"
-      },
-      "artists": [
-        {
-          "name": "BUNNY",
-          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z"
+      "duration_ms": 268039,
+      "name": "Weeping Willow",
+      "url": "https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1419,6 +1403,22 @@
       "duration_ms": 225901,
       "name": "Thorn In My Side",
       "url": "https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
+        "name": "Where Myth Becomes Memory",
+        "url": "https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO"
+      },
+      "artists": [
+        {
+          "name": "Rolo Tomassi",
+          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+        }
+      ],
+      "duration_ms": 234955,
+      "name": "Cloaked",
+      "url": "https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
+        "name": "Secrets of the Future",
+        "url": "https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW"
+      },
+      "artists": [
+        {
+          "name": "Reliqa",
+          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
+        }
+      ],
+      "duration_ms": 281501,
+      "name": "Killstar (The Cold World)",
+      "url": "https://open.spotify.com/track/6YfN3vWabEAmOAbZgub44o"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
         "name": "Spine",
         "url": "https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 245470,
       "name": "Better Without You",
       "url": "https://open.spotify.com/track/6nFt6XgvvCRweKbD2B3aPa"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
-        "name": "Secrets of the Future",
-        "url": "https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW"
-      },
-      "artists": [
-        {
-          "name": "Reliqa",
-          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
-        }
-      ],
-      "duration_ms": 281501,
-      "name": "Killstar (The Cold World)",
-      "url": "https://open.spotify.com/track/6YfN3vWabEAmOAbZgub44o"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1551,38 +1551,6 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
-        "name": "T.I.M.E.",
-        "url": "https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 238407,
-      "name": "T.I.M.E.",
-      "url": "https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
-        "name": "Mighty Island",
-        "url": "https://open.spotify.com/album/0ySITSHIav16LX5l16jg3t"
-      },
-      "artists": [
-        {
-          "name": "Voice of Baceprot",
-          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Mighty Island",
-      "url": "https://open.spotify.com/track/4kb4LkXzpvmb8PgbqPRQC6"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/0WDDP7qON1bp3EpTKT7xDU"
       },
@@ -1599,18 +1567,34 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
-        "name": "Eternal December",
-        "url": "https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI"
+        "name": "Freedom - The Wolves Within",
+        "url": "https://open.spotify.com/album/3MVad7SlfyPymJjJ1g6yk9"
       },
       "artists": [
         {
-          "name": "Lake Malice",
-          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
         }
       ],
-      "duration_ms": 229294,
-      "name": "Eternal December",
-      "url": "https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83"
+      "duration_ms": 337058,
+      "name": "Freedom - The Wolves Within-",
+      "url": "https://open.spotify.com/track/5hSnN8wtaGNRgdERMeQIx1"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
+        "name": "Mighty Island",
+        "url": "https://open.spotify.com/album/0ySITSHIav16LX5l16jg3t"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "duration_ms": 233270,
+      "name": "Mighty Island",
+      "url": "https://open.spotify.com/track/4kb4LkXzpvmb8PgbqPRQC6"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1639,18 +1623,34 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
-        "name": "Freedom - The Wolves Within",
-        "url": "https://open.spotify.com/album/3MVad7SlfyPymJjJ1g6yk9"
+        "name": "Eternal December",
+        "url": "https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI"
       },
       "artists": [
         {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
         }
       ],
-      "duration_ms": 337058,
-      "name": "Freedom - The Wolves Within-",
-      "url": "https://open.spotify.com/track/5hSnN8wtaGNRgdERMeQIx1"
+      "duration_ms": 229294,
+      "name": "Eternal December",
+      "url": "https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
+        "name": "Pigs",
+        "url": "https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC"
+      },
+      "artists": [
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Pigs",
+      "url": "https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV"
     }
   ],
   "unique_name": "Women of Metal",

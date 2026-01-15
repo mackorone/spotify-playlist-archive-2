@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain](/playlists/plain/37i9dQZF1DX52IXnX9fyzi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX52IXnX9fyzi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain](/playlists/plain/37i9dQZF1DX52IXnX9fyzi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX52IXnX9fyzi)
 
 ### [Music for Writing](https://open.spotify.com/playlist/37i9dQZF1DX52IXnX9fyzi)
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,471 likes - 182 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,211 likes - 182 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

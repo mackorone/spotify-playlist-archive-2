@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0EMU2v4In7YduH1ICRz6xr.md) - [plain](/playlists/plain/0EMU2v4In7YduH1ICRz6xr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0EMU2v4In7YduH1ICRz6xr)
+pretty - [cumulative](/playlists/cumulative/0EMU2v4In7YduH1ICRz6xr.md) - [plain](/playlists/plain/0EMU2v4In7YduH1ICRz6xr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0EMU2v4In7YduH1ICRz6xr)
 
 ### [ITZY THE 1ST WORLD TOUR <CHECKMATE> in JAPAN](https://open.spotify.com/playlist/0EMU2v4In7YduH1ICRz6xr)
 

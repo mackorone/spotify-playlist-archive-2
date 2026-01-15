@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain](/playlists/plain/37i9dQZF1DX2JTNFAkm51v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2JTNFAkm51v)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain](/playlists/plain/37i9dQZF1DX2JTNFAkm51v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2JTNFAkm51v)
 
 ### [KOBE MELLOW CRUISE 2025](https://open.spotify.com/playlist/37i9dQZF1DX2JTNFAkm51v)
 
 > 【全セットリスト公開】5月10日\(土\)\~11日\(日\)に開催された「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストのセットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,433 likes - 333 songs - 17 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,440 likes - 333 songs - 17 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

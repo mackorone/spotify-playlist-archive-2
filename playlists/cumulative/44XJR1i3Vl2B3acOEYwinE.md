@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/44XJR1i3Vl2B3acOEYwinE.md) - cumulative - [plain](/playlists/plain/44XJR1i3Vl2B3acOEYwinE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/44XJR1i3Vl2B3acOEYwinE)
+[pretty](/playlists/pretty/44XJR1i3Vl2B3acOEYwinE.md) - cumulative - [plain](/playlists/plain/44XJR1i3Vl2B3acOEYwinE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/44XJR1i3Vl2B3acOEYwinE)
 
 ### [Power Ballads \(2\)](https://open.spotify.com/playlist/44XJR1i3Vl2B3acOEYwinE)
 

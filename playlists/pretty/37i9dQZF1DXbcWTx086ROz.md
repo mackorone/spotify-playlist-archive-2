@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcWTx086ROz.md) - [plain](/playlists/plain/37i9dQZF1DXbcWTx086ROz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbcWTx086ROz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcWTx086ROz.md) - [plain](/playlists/plain/37i9dQZF1DXbcWTx086ROz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbcWTx086ROz)
 
 ### [00s Throwback Video Hits](https://open.spotify.com/playlist/37i9dQZF1DXbcWTx086ROz)
 
 > Dive into '00s nostalgia with these iconic videos\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134 likes - 22 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,513 likes - 22 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain](/playlists/plain/37i9dQZF1DXb2cYklA89lm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb2cYklA89lm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain](/playlists/plain/37i9dQZF1DXb2cYklA89lm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb2cYklA89lm)
 
 ### [Hot Rods & Horror Shows](https://open.spotify.com/playlist/37i9dQZF1DXb2cYklA89lm)
 

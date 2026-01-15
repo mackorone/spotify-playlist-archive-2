@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/33tldAlCD8P8ski9feKj3T.md) - cumulative - [plain](/playlists/plain/33tldAlCD8P8ski9feKj3T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/33tldAlCD8P8ski9feKj3T)
+[pretty](/playlists/pretty/33tldAlCD8P8ski9feKj3T.md) - cumulative - [plain](/playlists/plain/33tldAlCD8P8ski9feKj3T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/33tldAlCD8P8ski9feKj3T)
 
 ### [Alternative Indie Today](https://open.spotify.com/playlist/33tldAlCD8P8ski9feKj3T)
 

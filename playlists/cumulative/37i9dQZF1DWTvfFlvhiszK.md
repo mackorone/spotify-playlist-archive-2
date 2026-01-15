@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTvfFlvhiszK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTvfFlvhiszK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTvfFlvhiszK)
+[pretty](/playlists/pretty/37i9dQZF1DWTvfFlvhiszK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTvfFlvhiszK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTvfFlvhiszK)
 
 ### [Ghana Throwback Party ](https://open.spotify.com/playlist/37i9dQZF1DWTvfFlvhiszK)
 
 > Old school jams to kick nostalgia up a notch.
 
-51 songs - 4 hr 9 min
+52 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Kangaroo \- feat\. Batman](https://open.spotify.com/track/7CMHjhDTiJbvMkomXUodis) | [Tic Tac](https://open.spotify.com/artist/7xtmj62gTz59CEBTSDOiML), [Batman](https://open.spotify.com/artist/3PTvxYMFgNGE9bQdlDT9Wx) | [Black Stars – Ghana’s Hiplife Generation](https://open.spotify.com/album/6jdTD8R5rYp5Gs3WRuZyR9) | 3:31 | 2025-03-14 |  |
 | [Koforidua Flowers](https://open.spotify.com/track/2TnWgysg3OGR3CCf3jKKKC) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [The Return of Kofi B](https://open.spotify.com/album/5zNJB9e8rs4sQeCmQqz99n) | 4:50 | 2025-03-14 |  |
 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 | 2025-03-14 |  |
-| [Kyenkyen Bi Adi Mawu](https://open.spotify.com/track/6FOZU2YaZfRPPLBXbjKSbl) | [K\. Frimpong](https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr) | [REPPAGh: Best Ghana Hi\-life Hits, Vol.2](https://open.spotify.com/album/4SGjQC9czsIde9sgKq5DwR) | 6:43 | 2025-03-14 |  |
+| [Kyenkyen Bi Adi Mawu](https://open.spotify.com/track/6FOZU2YaZfRPPLBXbjKSbl) | [K\. Frimpong](https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr) | [REPPAGh: Best Ghana Hi\-life Hits, Vol.2](https://open.spotify.com/album/4SGjQC9czsIde9sgKq5DwR) | 6:43 | 2025-03-14 | 2026-01-15 |
 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 | 2025-03-14 |  |
 | [Meyere ne me mpena](https://open.spotify.com/track/23ihDMqcmFHFviUdndXeld) | [OKOMFOUR KWADEE](https://open.spotify.com/artist/7cL1cbqdjLnI6R3uhUv6uu) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:45 | 2025-03-14 |  |
 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 | 2025-03-14 |  |
@@ -56,6 +56,7 @@
 | [Swagger](https://open.spotify.com/track/1rVyxy6CRo3dB5z5oNKZfc) | [Ruff\-N\-Smooth](https://open.spotify.com/artist/4KSIIR6dY7MPuq5WRWfS56), [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW) | [Life Is Rough & Smooth](https://open.spotify.com/album/5p9tj9UKG6DSzGg36pVWjl) | 4:43 | 2025-03-14 |  |
 | [Takeover](https://open.spotify.com/track/0dq8cqrAO0cLUuPKkAN6LC) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [Takeover](https://open.spotify.com/album/34PvCMMrpwVwS3dNWvQCNM) | 2:58 | 2025-03-14 |  |
 | [Toffee](https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:00 | 2025-03-14 |  |
+| [Tokrom](https://open.spotify.com/track/1cAYP34Yw3LJ8EsO9qoWA6) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/0h9HOdisNz9nGybOMStt4g) | 6:27 | 2025-03-14 |  |
 | [Wadi Mi Sika](https://open.spotify.com/track/24QOYBHFbneNWWmZLcDLGS) | [Vibe Squad](https://open.spotify.com/artist/2R0aMpj0PzJr86oWENCRDV), [DeeVS](https://open.spotify.com/artist/2HPEFGX2Lt2sLPsABvxsgD), [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [Wadi Mi Sika \- EP](https://open.spotify.com/album/14jKUJ46QFu7a10JAzrYYT) | 4:20 | 2025-03-14 |  |
 | [Waist & Power](https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu) | [Waist & Power](https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn) | 5:05 | 2025-03-14 |  |
 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 | 2025-03-14 |  |

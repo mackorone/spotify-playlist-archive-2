@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0j8ATpV1eln.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0j8ATpV1eln) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0j8ATpV1eln)
+[pretty](/playlists/pretty/37i9dQZF1DX0j8ATpV1eln.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0j8ATpV1eln) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0j8ATpV1eln)
 
 ### [大石昌良 Masayoshi Oishi Works](https://open.spotify.com/playlist/37i9dQZF1DX0j8ATpV1eln)
 

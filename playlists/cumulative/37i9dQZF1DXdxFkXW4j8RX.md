@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdxFkXW4j8RX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdxFkXW4j8RX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdxFkXW4j8RX)
+[pretty](/playlists/pretty/37i9dQZF1DXdxFkXW4j8RX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdxFkXW4j8RX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdxFkXW4j8RX)
 
 ### [Rap Chileno](https://open.spotify.com/playlist/37i9dQZF1DXdxFkXW4j8RX)
 

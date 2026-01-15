@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203520,
       "name": "Capitale",
       "url": "https://open.spotify.com/track/6SeZObDDZZiJmzY4qgfh57"
@@ -2260,6 +2260,32 @@
       "duration_ms": 271384,
       "name": "Chikibombon",
       "url": "https://open.spotify.com/track/1XEWg9ozyHDopYP5MOPln1"
+    },
+    {
+      "album": {
+        "name": "Chimba",
+        "url": "https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp"
+      },
+      "artists": [
+        {
+          "name": "Mark Di Meo",
+          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "BIG KAPOH",
+          "url": "https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "Chimba",
+      "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
     },
     {
       "album": {
@@ -4711,7 +4737,7 @@
         },
         {
           "name": "Fermo",
-          "url": "https://open.spotify.com/artist/2tW6XEFY6zpH2cJZpoCrTS"
+          "url": "https://open.spotify.com/artist/61oZjYAtQ3Bsmjaen7kFnn"
         }
       ],
       "date_added": "2025-12-22",
@@ -4794,7 +4820,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
@@ -5026,7 +5052,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160000,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
@@ -6161,6 +6187,24 @@
     },
     {
       "album": {
+        "name": "Mi Gentee EP",
+        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
+      },
+      "artists": [
+        {
+          "name": "Chinonegro",
+          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208782,
+      "name": "Mi Gentee",
+      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
+    },
+    {
+      "album": {
         "name": "Mi Vida EP",
         "url": "https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI"
       },
@@ -7120,7 +7164,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
@@ -7356,6 +7400,28 @@
       "duration_ms": 247619,
       "name": "Piano de la Selva",
       "url": "https://open.spotify.com/track/0FJnDA2xiJ5jqYZgA6bhdE"
+    },
+    {
+      "album": {
+        "name": "Pinta La Cara",
+        "url": "https://open.spotify.com/album/7LScuw1NUZ4d98YS3TmeZI"
+      },
+      "artists": [
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Jay Rah",
+          "url": "https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Pinta La Cara",
+      "url": "https://open.spotify.com/track/5AVI8ypG9UVCZVlCKYUsze"
     },
     {
       "album": {
@@ -10244,7 +10310,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218709,
       "name": "Wataki",
       "url": "https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4"

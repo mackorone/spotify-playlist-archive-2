@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Bryson Tiller",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Dave & Tems",
   "name": "B.A.E.",
   "tracks": [
     {
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 122958,
       "name": "Baby Z",
       "url": "https://open.spotify.com/track/462LJdoEI5Lm6kEDijarCH"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 125039,
       "name": "Ciao!",
       "url": "https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ"
@@ -8701,6 +8701,24 @@
     },
     {
       "album": {
+        "name": "Me & Bae",
+        "url": "https://open.spotify.com/album/4PMtm5gnLL9kHfqPxQWpN8"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156158,
+      "name": "Me & Bae",
+      "url": "https://open.spotify.com/track/1Xdxi8JhTHweQTA8zcvfdR"
+    },
+    {
+      "album": {
         "name": "since yall say ion drop enough",
         "url": "https://open.spotify.com/album/4qLTi34aG7nh2CkOZ5fhPU"
       },
@@ -9130,7 +9148,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 156315,
       "name": "My Sh*t",
       "url": "https://open.spotify.com/track/2LFwC1zHGGob5TaPT6RFV8"
@@ -10942,6 +10960,28 @@
       "duration_ms": 142051,
       "name": "Rain On Your Skin (feat. Mooski)",
       "url": "https://open.spotify.com/track/08wZndtbIKuwFehQ9YggQk"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
       "album": {
@@ -15686,6 +15726,24 @@
       "duration_ms": 211666,
       "name": "Wife",
       "url": "https://open.spotify.com/track/3rGbTqECbeFc82sdYGv3Pz"
+    },
+    {
+      "album": {
+        "name": "Don't Doubt The God",
+        "url": "https://open.spotify.com/album/0GLqEHSr3IKhe0fE1D2MTk"
+      },
+      "artists": [
+        {
+          "name": "Montana of 300",
+          "url": "https://open.spotify.com/artist/74dMZMvy8P27oPqnprnvBb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255866,
+      "name": "Wifin' You",
+      "url": "https://open.spotify.com/track/5ebn5s4XLubAkFSEFxFXtO"
     },
     {
       "album": {

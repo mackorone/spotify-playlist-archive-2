@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoGbayjhEGv.md) - [plain](/playlists/plain/37i9dQZF1DWZoGbayjhEGv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZoGbayjhEGv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoGbayjhEGv.md) - [plain](/playlists/plain/37i9dQZF1DWZoGbayjhEGv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZoGbayjhEGv)
 
 ### [FULLMETAL ALCHEMIST](https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv)
 
 > Enjoy music from "FULLMETAL ALCHEMIST"!  ©荒川弘／スクウェアエニックス・毎日放送・アニプレックス・ボンズ・電通 2003 \(C\)HIROMU ARAKAWA / SQUARE ENIX, MBS, ANX, BONES, dentsu 2004
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,833 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,922 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

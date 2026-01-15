@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcLXSDDcgy.md) - [plain](/playlists/plain/37i9dQZF1DX5wcLXSDDcgy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5wcLXSDDcgy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcLXSDDcgy.md) - [plain](/playlists/plain/37i9dQZF1DX5wcLXSDDcgy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5wcLXSDDcgy)
 
 ### [This Is Agust D](https://open.spotify.com/playlist/37i9dQZF1DX5wcLXSDDcgy)
 
 > This Is Agust D\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,055 likes - 31 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,747 likes - 31 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

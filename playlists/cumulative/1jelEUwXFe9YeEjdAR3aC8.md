@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1jelEUwXFe9YeEjdAR3aC8.md) - cumulative - [plain](/playlists/plain/1jelEUwXFe9YeEjdAR3aC8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1jelEUwXFe9YeEjdAR3aC8)
+[pretty](/playlists/pretty/1jelEUwXFe9YeEjdAR3aC8.md) - cumulative - [plain](/playlists/plain/1jelEUwXFe9YeEjdAR3aC8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1jelEUwXFe9YeEjdAR3aC8)
 
 ### [Hot New UK](https://open.spotify.com/playlist/1jelEUwXFe9YeEjdAR3aC8)
 

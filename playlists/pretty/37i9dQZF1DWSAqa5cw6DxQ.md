@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain](/playlists/plain/37i9dQZF1DWSAqa5cw6DxQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSAqa5cw6DxQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain](/playlists/plain/37i9dQZF1DWSAqa5cw6DxQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSAqa5cw6DxQ)
 
 ### [Meditative Guitar](https://open.spotify.com/playlist/37i9dQZF1DWSAqa5cw6DxQ)
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,967 likes - 128 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,276 likes - 128 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

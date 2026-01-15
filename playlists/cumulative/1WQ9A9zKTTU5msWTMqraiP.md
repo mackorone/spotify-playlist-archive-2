@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1WQ9A9zKTTU5msWTMqraiP.md) - cumulative - [plain](/playlists/plain/1WQ9A9zKTTU5msWTMqraiP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1WQ9A9zKTTU5msWTMqraiP)
+[pretty](/playlists/pretty/1WQ9A9zKTTU5msWTMqraiP.md) - cumulative - [plain](/playlists/plain/1WQ9A9zKTTU5msWTMqraiP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1WQ9A9zKTTU5msWTMqraiP)
 
 ### [Deathcore \(2\)](https://open.spotify.com/playlist/1WQ9A9zKTTU5msWTMqraiP)
 

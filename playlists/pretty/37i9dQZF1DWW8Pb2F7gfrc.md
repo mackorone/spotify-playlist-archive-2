@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain](/playlists/plain/37i9dQZF1DWW8Pb2F7gfrc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW8Pb2F7gfrc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain](/playlists/plain/37i9dQZF1DWW8Pb2F7gfrc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW8Pb2F7gfrc)
 
 ### [Asian Pop Festival 2025 \[아시안 팝 페스티벌\]](https://open.spotify.com/playlist/37i9dQZF1DWW8Pb2F7gfrc)
 
 > Enjoy the Asian Pop Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 아시안 팝 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,407 likes - 432 songs - 1 day 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,463 likes - 432 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,7 +359,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 | 349 | [COMPLEX](https://open.spotify.com/track/3r4rUQn5I8v0jEiwCs2umI) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.05](https://open.spotify.com/album/3MKL72Imp4w8UuTasKigl9) | 5:11 |
 | 350 | [Trauma](https://open.spotify.com/track/7KE80Djfl8WR02D89E1hXS) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.07](https://open.spotify.com/album/0X7Z8bDpZkDzIoIv3JXf4n) | 4:04 |
 | 351 | [AUDITORY HALLUCINATION](https://open.spotify.com/track/6ipGfB6tN8dMngSZ4UQJfp) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.04](https://open.spotify.com/album/2Uhjq2J43NEWS7Hn7jjRXd) | 5:15 |
-| 352 | [Wish](https://open.spotify.com/track/5D4Hn1f5oiy2JaAyfTRZJ8) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [Wish](https://open.spotify.com/album/4CkHdnVpJ7mZGZ6vzmbpmB) | 4:37 |
+| 352 | [Wish](https://open.spotify.com/track/5D4Hn1f5oiy2JaAyfTRZJ8) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.02](https://open.spotify.com/album/4CkHdnVpJ7mZGZ6vzmbpmB) | 4:37 |
 | 353 | [Future Boy](https://open.spotify.com/track/5NZAZJouDsc7jQOvZkoU51) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.07](https://open.spotify.com/album/0X7Z8bDpZkDzIoIv3JXf4n) | 5:24 |
 | 354 | [HANA](https://open.spotify.com/track/1AwrXfDO0AH9WaM5uuojMQ) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [The Dog's Point of View](https://open.spotify.com/album/1WJszFebi5vSwW2pHp0BAQ) | 4:02 |
 | 355 | [Dandelion Seed](https://open.spotify.com/track/6bZ5zMh4ldrxeIWktp8MA2) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [The Dog's Point of View](https://open.spotify.com/album/1WJszFebi5vSwW2pHp0BAQ) | 3:44 |

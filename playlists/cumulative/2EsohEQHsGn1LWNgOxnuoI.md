@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2EsohEQHsGn1LWNgOxnuoI.md) - cumulative - [plain](/playlists/plain/2EsohEQHsGn1LWNgOxnuoI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2EsohEQHsGn1LWNgOxnuoI)
+[pretty](/playlists/pretty/2EsohEQHsGn1LWNgOxnuoI.md) - cumulative - [plain](/playlists/plain/2EsohEQHsGn1LWNgOxnuoI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2EsohEQHsGn1LWNgOxnuoI)
 
 ### [Global Music Day](https://open.spotify.com/playlist/2EsohEQHsGn1LWNgOxnuoI)
 

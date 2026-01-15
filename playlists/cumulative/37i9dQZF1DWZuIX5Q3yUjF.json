@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Emili Kasa in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "STE in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -5309,6 +5309,24 @@
     },
     {
       "album": {
+        "name": "ECO",
+        "url": "https://open.spotify.com/album/1wRVugtJAp1Z199ndOK4tN"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150303,
+      "name": "ECO",
+      "url": "https://open.spotify.com/track/7xdHyWvJ07kbgBf9yiyEC0"
+    },
+    {
+      "album": {
         "name": "Effetto Domino (feat. Evra & Blue Phelix)",
         "url": "https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k"
       },
@@ -8791,6 +8809,24 @@
     },
     {
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/3D447qEo17TYXOscz5PYGN"
+      },
+      "artists": [
+        {
+          "name": "CousCous a colazione",
+          "url": "https://open.spotify.com/artist/7MYQXldcidrhmg0Uw0PQBZ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164444,
+      "name": "Lentamente",
+      "url": "https://open.spotify.com/track/0GQy6gngMYEX1WADbJ9u6J"
+    },
+    {
+      "album": {
         "name": "Lesbica Vera",
         "url": "https://open.spotify.com/album/4rcDilP20VicEAeVCZPFdg"
       },
@@ -9944,7 +9980,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203434,
       "name": "Meglio Che Mai (feat. Mim\u00ec)",
       "url": "https://open.spotify.com/track/0Fxzlk1KU7a2XEGiGzyYJo"
@@ -13211,6 +13247,28 @@
     },
     {
       "album": {
+        "name": "PIPPY",
+        "url": "https://open.spotify.com/album/5ZJrBy1fYOWhRDhIHW7bhQ"
+      },
+      "artists": [
+        {
+          "name": "FUME'",
+          "url": "https://open.spotify.com/artist/6Nk9BAlTLsNmghkyTMnNBY"
+        },
+        {
+          "name": "DOD",
+          "url": "https://open.spotify.com/artist/0LiaD3zWaTlh1ZUNjKYxAZ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114146,
+      "name": "PIPPY",
+      "url": "https://open.spotify.com/track/5Ocx6CiUW0mmtMz6XYGyCE"
+    },
+    {
+      "album": {
         "name": "Pita Gyros",
         "url": "https://open.spotify.com/album/6ONKQXieAFJMMCGfMwA9UR"
       },
@@ -13556,7 +13614,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 248490,
       "name": "Puoi Toccarmi (feat. Gu\u00e8, Joshua, Tormento)",
       "url": "https://open.spotify.com/track/0Rgf6lKDVDjg3ZuaYCeN4F"

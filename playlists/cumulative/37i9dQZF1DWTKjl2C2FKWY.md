@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTKjl2C2FKWY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTKjl2C2FKWY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTKjl2C2FKWY)
+[pretty](/playlists/pretty/37i9dQZF1DWTKjl2C2FKWY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTKjl2C2FKWY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTKjl2C2FKWY)
 
 ### [Acoustic Massage](https://open.spotify.com/playlist/37i9dQZF1DWTKjl2C2FKWY)
 

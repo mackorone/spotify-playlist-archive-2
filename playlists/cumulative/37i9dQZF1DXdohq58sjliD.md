@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdohq58sjliD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdohq58sjliD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdohq58sjliD)
+[pretty](/playlists/pretty/37i9dQZF1DXdohq58sjliD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdohq58sjliD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdohq58sjliD)
 
 ### [One Day Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdohq58sjliD)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ0D9Pii8ub.md) - [plain](/playlists/plain/37i9dQZF1DXcZ0D9Pii8ub) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcZ0D9Pii8ub)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ0D9Pii8ub.md) - [plain](/playlists/plain/37i9dQZF1DXcZ0D9Pii8ub) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcZ0D9Pii8ub)
 
 ### [Liner Voice+  Awich『THE UNION』](https://open.spotify.com/playlist/37i9dQZF1DXcZ0D9Pii8ub)
 
 > Spotifyオリジナル企画「Liner Voice+\(ライナーボイスプラス\)」。Awich ニューアルバム『THE UNION』をAwich本人が全曲ディープに解説！インタビュアー：渡辺志保
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337 likes - 27 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,334 likes - 27 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

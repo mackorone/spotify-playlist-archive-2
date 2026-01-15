@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8dZ3uABAqFX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8dZ3uABAqFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8dZ3uABAqFX)
+[pretty](/playlists/pretty/37i9dQZF1DX8dZ3uABAqFX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8dZ3uABAqFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8dZ3uABAqFX)
 
 ### [Bold Tales, Zero Apologies](https://open.spotify.com/playlist/37i9dQZF1DX8dZ3uABAqFX)
 

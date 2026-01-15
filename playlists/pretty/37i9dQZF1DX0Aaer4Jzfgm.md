@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Aaer4Jzfgm.md) - [plain](/playlists/plain/37i9dQZF1DX0Aaer4Jzfgm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0Aaer4Jzfgm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Aaer4Jzfgm.md) - [plain](/playlists/plain/37i9dQZF1DX0Aaer4Jzfgm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0Aaer4Jzfgm)
 
 ### [Easy Classical](https://open.spotify.com/playlist/37i9dQZF1DX0Aaer4Jzfgm)
 
 > Take it easy with these laid\-back classical tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,453 likes - 61 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,956 likes - 61 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

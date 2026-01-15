@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4a0a7QNf4ytPMOzQeWur9B.md) - cumulative - [plain](/playlists/plain/4a0a7QNf4ytPMOzQeWur9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4a0a7QNf4ytPMOzQeWur9B)
+[pretty](/playlists/pretty/4a0a7QNf4ytPMOzQeWur9B.md) - cumulative - [plain](/playlists/plain/4a0a7QNf4ytPMOzQeWur9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4a0a7QNf4ytPMOzQeWur9B)
 
 ### [The Pulse of Glitchbreak](https://open.spotify.com/playlist/4a0a7QNf4ytPMOzQeWur9B)
 

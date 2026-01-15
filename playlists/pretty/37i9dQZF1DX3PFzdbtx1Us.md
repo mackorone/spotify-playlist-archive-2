@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain](/playlists/plain/37i9dQZF1DX3PFzdbtx1Us) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3PFzdbtx1Us)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain](/playlists/plain/37i9dQZF1DX3PFzdbtx1Us) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3PFzdbtx1Us)
 
 ### [Music for Concentration](https://open.spotify.com/playlist/37i9dQZF1DX3PFzdbtx1Us)
 
 > Ambient piano to help you stay focussed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,785 likes - 167 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,421 likes - 167 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

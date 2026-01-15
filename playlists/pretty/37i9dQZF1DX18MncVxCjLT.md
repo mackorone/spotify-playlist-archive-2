@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18MncVxCjLT.md) - [plain](/playlists/plain/37i9dQZF1DX18MncVxCjLT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX18MncVxCjLT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18MncVxCjLT.md) - [plain](/playlists/plain/37i9dQZF1DX18MncVxCjLT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX18MncVxCjLT)
 
 ### [Mixtape \#20 Perfume Genius "Glorious"](https://open.spotify.com/playlist/37i9dQZF1DX18MncVxCjLT)
 
 > A glorious mix curated by the one and only Perfume Genius\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,739 likes - 29 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,847 likes - 29 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

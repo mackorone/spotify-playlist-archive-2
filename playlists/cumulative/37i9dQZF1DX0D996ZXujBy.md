@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0D996ZXujBy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0D996ZXujBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0D996ZXujBy)
+[pretty](/playlists/pretty/37i9dQZF1DX0D996ZXujBy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0D996ZXujBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0D996ZXujBy)
 
 ### [Taylor Swift \| The Eras Tour Official Setlist](https://open.spotify.com/playlist/37i9dQZF1DX0D996ZXujBy)
 

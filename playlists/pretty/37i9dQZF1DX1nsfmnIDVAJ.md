@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain](/playlists/plain/37i9dQZF1DX1nsfmnIDVAJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1nsfmnIDVAJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain](/playlists/plain/37i9dQZF1DX1nsfmnIDVAJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1nsfmnIDVAJ)
 
 ### [Best of Hamilton](https://open.spotify.com/playlist/37i9dQZF1DX1nsfmnIDVAJ)
 
 > Where all Hamilton music coexists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,409 likes - 72 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,560 likes - 72 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

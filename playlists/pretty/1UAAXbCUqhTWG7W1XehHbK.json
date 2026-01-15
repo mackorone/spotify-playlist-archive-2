@@ -6,7 +6,7 @@
     "name": "Indie Music",
     "url": "https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg"
   },
-  "snapshot_id": "AAADsA58IrFGu7vO7zMpZMGgTae+SfCG",
+  "snapshot_id": "AAADt2NQlUvCsFZo1egUEP+DlB/8ahA9",
   "tracks": [
     {
       "added_at": "2024-04-04 18:03:50",
@@ -1511,6 +1511,122 @@
       "duration_ms": 312076,
       "name": "Puppets Know",
       "url": "https://open.spotify.com/track/0VwH13oGDjk5biSprNZHZH"
+    },
+    {
+      "added_at": "2026-01-08 15:40:52",
+      "album": {
+        "name": "Pockets On My Sleeves",
+        "url": "https://open.spotify.com/album/4M95XJRI1kNS948NTj2jWW"
+      },
+      "artists": [
+        {
+          "name": "Soma Please",
+          "url": "https://open.spotify.com/artist/5cjvGfRe1qk7NqfksQQHRQ"
+        }
+      ],
+      "duration_ms": 193528,
+      "name": "Pockets On My Sleeves",
+      "url": "https://open.spotify.com/track/1xJYUGYCgqMUoXiqeAU5Hp"
+    },
+    {
+      "added_at": "2026-01-08 16:59:59",
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/4SdnbCjRYzkbAUwVizkFRF"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Waynez",
+          "url": "https://open.spotify.com/artist/4d97ZEVqMQF3NkO9X9qZId"
+        },
+        {
+          "name": "Thirzdae Knight",
+          "url": "https://open.spotify.com/artist/2CvZs40Q87z1wOcGQENwps"
+        }
+      ],
+      "duration_ms": 150192,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5QbFE1cog9kL3v2LIzRPeI"
+    },
+    {
+      "added_at": "2026-01-08 17:12:29",
+      "album": {
+        "name": "The Ceiling, Thanks For Asking",
+        "url": "https://open.spotify.com/album/4wzlhKDOBKZh92zNHFUbAg"
+      },
+      "artists": [
+        {
+          "name": "Rob Dowler's Vanity Project",
+          "url": "https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b"
+        }
+      ],
+      "duration_ms": 245759,
+      "name": "No Antidote",
+      "url": "https://open.spotify.com/track/2uNqGhSdKFgtvAnwDECH0F"
+    },
+    {
+      "added_at": "2026-01-12 12:55:23",
+      "album": {
+        "name": "Tara Sings Emily",
+        "url": "https://open.spotify.com/album/4i30jA4w77ttt2uSZxclJl"
+      },
+      "artists": [
+        {
+          "name": "GM Jon",
+          "url": "https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3"
+        }
+      ],
+      "duration_ms": 172439,
+      "name": "It Was Not Death, For I stood Up",
+      "url": "https://open.spotify.com/track/6d4FpKbyG2g8RJ5W6thimb"
+    },
+    {
+      "added_at": "2026-01-12 13:09:27",
+      "album": {
+        "name": "Leaving you",
+        "url": "https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO"
+      },
+      "artists": [
+        {
+          "name": "AnorA",
+          "url": "https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "Leaving you",
+      "url": "https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2"
+    },
+    {
+      "added_at": "2026-01-12 17:06:32",
+      "album": {
+        "name": "Off Script",
+        "url": "https://open.spotify.com/album/4MCbJBMllQlTQUGP3X3diz"
+      },
+      "artists": [
+        {
+          "name": "420 Vision",
+          "url": "https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Off Script",
+      "url": "https://open.spotify.com/track/0ryKfzgxsC8lOq4m1IQHro"
+    },
+    {
+      "added_at": "2026-01-12 18:24:42",
+      "album": {
+        "name": "The Only Path",
+        "url": "https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw"
+      },
+      "artists": [
+        {
+          "name": "Mike Power",
+          "url": "https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b"
+        }
+      ],
+      "duration_ms": 184857,
+      "name": "The Only Path",
+      "url": "https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH"
     }
   ],
   "unique_name": "Indie Music Artists Essentials",

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain](/playlists/plain/30NUF2CthTzSBEYHmBjfER) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/30NUF2CthTzSBEYHmBjfER)
+pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain](/playlists/plain/30NUF2CthTzSBEYHmBjfER) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/30NUF2CthTzSBEYHmBjfER)
 
 ### [2000s Hip\-Hop/R&B](https://open.spotify.com/playlist/30NUF2CthTzSBEYHmBjfER)
 
 > The best Hip\-Hop and R&amp;B from the 2000s! Includes Eminem, Dr\. Dre, Jay\-Z, Lil Wayne, Snoop, Mary J Blige, and more! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_2000HipHopRB\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 77,795 likes - 100 songs - 7 hr 2 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 77,835 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

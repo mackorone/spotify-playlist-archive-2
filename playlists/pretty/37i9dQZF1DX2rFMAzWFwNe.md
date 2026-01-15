@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rFMAzWFwNe.md) - [plain](/playlists/plain/37i9dQZF1DX2rFMAzWFwNe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2rFMAzWFwNe)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rFMAzWFwNe.md) - [plain](/playlists/plain/37i9dQZF1DX2rFMAzWFwNe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2rFMAzWFwNe)
 
 ### [This Is Banda MS](https://open.spotify.com/playlist/37i9dQZF1DX2rFMAzWFwNe)
 

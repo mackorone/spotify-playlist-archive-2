@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTBN71pVn2Ej.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTBN71pVn2Ej) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTBN71pVn2Ej)
+[pretty](/playlists/pretty/37i9dQZF1DWTBN71pVn2Ej.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTBN71pVn2Ej) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTBN71pVn2Ej)
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
 > The future shape of noise\. Cover: They Are Gutting a Body of Water
 
-850 songs - 2 day 0 hr 51 min
+851 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [Mile A Minute](https://open.spotify.com/track/6O7BfAHlpUuvVpZSLseGdK) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Mile A Minute](https://open.spotify.com/album/0Q4sb6SSenLenPbHFoZgpB) | 3:15 | 2024-11-12 | 2025-08-09 |
 | [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 | 2025-08-08 |  |
 | [Mind over Matter](https://open.spotify.com/track/2lLIr0cbqeirkMBnl586eD) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Mind over Matter / Spiders](https://open.spotify.com/album/0y38lgjrYOvBibgGgkQiiz) | 2:22 | 2022-09-06 | 2022-10-01 |
+| [Miracle Drug](https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4) | [Draag](https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM) | [Miracle Drug](https://open.spotify.com/album/4023iP3TKnG54OKYijddli) | 4:27 | 2026-01-14 |  |
 | [Misery](https://open.spotify.com/track/4Yz1xWhf5RoLHOne1HfXVp) | [Rews](https://open.spotify.com/artist/4B06m6NJ8e5AnzIZNtZtta) | [Misery](https://open.spotify.com/album/1z210o1s3G7ZsNhfwLDSwg) | 3:47 | 2023-02-21 | 2023-02-25 |
 | [Misplaced](https://open.spotify.com/track/1Ymfg3ga6MgtBaD3Cal5Q0) | [Pale Shelter](https://open.spotify.com/artist/2rrl6d6AQ73RanJg4lE76W) | [Persona Non Grata](https://open.spotify.com/album/6CrN61hu9FHKyWKbyNHlyK) | 3:48 | 2023-01-13 | 2023-01-21 |
 | [Mistakes](https://open.spotify.com/track/6Z54FF1uTQ4LeE6McKizwN) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6) | 3:14 | 2023-05-12 | 2023-07-21 |
@@ -820,7 +821,7 @@
 | [WANTED2TRY](https://open.spotify.com/track/3PkZUROe0fvRdwIPggdgEu) | [Demo Division](https://open.spotify.com/artist/3W6URN7nUXNxONfatUmWJU) | [WANTED2TRY](https://open.spotify.com/album/4BnfYUTEvlRSWYJFY9JoUW) | 2:29 | 2024-04-19 | 2024-06-01 |
 | [War](https://open.spotify.com/track/5Z4ZQwGzEU30zc4uu6sFeL) | [Future Humans](https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl) | [War](https://open.spotify.com/album/4sQ5Crc6JhRAIGsBUFVu1p) | 2:58 | 2023-08-21 | 2023-11-11 |
 | [War Boys](https://open.spotify.com/track/6YEBtj2zB0ZHYPbJVg0Jku) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys](https://open.spotify.com/album/7eIQ1zCmcFaBiqyV8idtNB) | 3:09 | 2022-09-06 | 2022-10-01 |
-| [Waste](https://open.spotify.com/track/5be9o0d1vFSYG9L2SCMn06) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [Waste](https://open.spotify.com/album/4eBQiO0buuE8dC4BGBgsld) | 3:21 | 2025-02-28 |  |
+| [Waste](https://open.spotify.com/track/5be9o0d1vFSYG9L2SCMn06) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [Waste](https://open.spotify.com/album/4eBQiO0buuE8dC4BGBgsld) | 3:21 | 2025-02-28 | 2026-01-15 |
 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2022-07-31 | 2022-11-05 |
 | [Wasted Days, Wasted Years](https://open.spotify.com/track/3BOjVq7cZVmyyhdo67vUxM) | [Anxious Arms](https://open.spotify.com/artist/6MPrbzK42sqreIHl9xdpId) | [Split](https://open.spotify.com/album/4f8uXcXR1EVyZ5v42CP60I) | 3:44 | 2022-09-06 | 2023-02-18 |
 | [Watering Dead Plants](https://open.spotify.com/track/4vFbWGNjSBOKrSg2OjpRA4) | [A Modest Proposal](https://open.spotify.com/artist/09uXSUo6d3tbknRXwOCJFV) | [Let Them Smell Their Flowers](https://open.spotify.com/album/2KFvsZ3xBPZLi9wgZuodGB) | 2:58 | 2024-11-12 | 2025-09-05 |

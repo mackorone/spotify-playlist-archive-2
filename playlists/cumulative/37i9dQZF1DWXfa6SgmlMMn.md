@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXfa6SgmlMMn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXfa6SgmlMMn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXfa6SgmlMMn)
+[pretty](/playlists/pretty/37i9dQZF1DWXfa6SgmlMMn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXfa6SgmlMMn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXfa6SgmlMMn)
 
 ### [2025 Australian songs you may have missed](https://open.spotify.com/playlist/37i9dQZF1DWXfa6SgmlMMn)
 
@@ -97,7 +97,7 @@
 | [PETRICHOR](https://open.spotify.com/track/45fzl7rJevEFLE2o593L3J) | [HEAVENSGATE](https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj) | [PETRICHOR](https://open.spotify.com/album/4Y1UJNAsHI09B5QydkcSYf) | 3:48 | 2025-12-03 |  |
 | [Pity Party](https://open.spotify.com/track/6VzmfD1P4vgeUNFlF3Y1cK) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [Pity Party](https://open.spotify.com/album/5rrWetyHlHlGdNSHY8maDG) | 2:32 | 2025-12-03 |  |
 | [Place Where I Go](https://open.spotify.com/track/4gsR1SsSuq0vkUgwDmARM5) | [Keanu Nelson](https://open.spotify.com/artist/0TUcASMdcppH9mH0PzCpKG) | [Place Where I Go](https://open.spotify.com/album/15LjN8IfZuSXTybDYi3Lfp) | 3:36 | 2025-12-03 |  |
-| [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:55 | 2025-12-03 |  |
+| [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 | 2025-12-03 |  |
 | [prIDe](https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [In A Matter of Time](https://open.spotify.com/album/16GsCGOVvtXRarRIFKR00H) | 2:35 | 2025-12-03 |  |
 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 | 2023-11-29 | 2025-12-04 |
 | [Puddles on My Pillow](https://open.spotify.com/track/6r15HLqlrLaxKesH2qaAVL) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Swimming Pool](https://open.spotify.com/album/5Fz76M7GkaDO8pObe6MRFs) | 2:00 | 2025-12-03 |  |

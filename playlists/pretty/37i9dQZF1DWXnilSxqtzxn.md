@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnilSxqtzxn.md) - [plain](/playlists/plain/37i9dQZF1DWXnilSxqtzxn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXnilSxqtzxn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnilSxqtzxn.md) - [plain](/playlists/plain/37i9dQZF1DWXnilSxqtzxn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXnilSxqtzxn)
 
 ### [The Jazz Cafe: Legends Edit](https://open.spotify.com/playlist/37i9dQZF1DWXnilSxqtzxn)
 
 > A collection of the greatest names to ever grace the Jazz Cafe stage\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,477 likes - 68 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,592 likes - 68 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

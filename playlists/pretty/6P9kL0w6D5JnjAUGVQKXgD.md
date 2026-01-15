@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain](/playlists/plain/6P9kL0w6D5JnjAUGVQKXgD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6P9kL0w6D5JnjAUGVQKXgD)
+pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain](/playlists/plain/6P9kL0w6D5JnjAUGVQKXgD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6P9kL0w6D5JnjAUGVQKXgD)
 
 ### [EDM Top 100](https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD)
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 46,797 likes - 100 songs - 5 hr 4 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 46,787 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

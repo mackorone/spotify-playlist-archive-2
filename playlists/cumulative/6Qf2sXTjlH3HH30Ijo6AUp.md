@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6Qf2sXTjlH3HH30Ijo6AUp.md) - cumulative - [plain](/playlists/plain/6Qf2sXTjlH3HH30Ijo6AUp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6Qf2sXTjlH3HH30Ijo6AUp)
+[pretty](/playlists/pretty/6Qf2sXTjlH3HH30Ijo6AUp.md) - cumulative - [plain](/playlists/plain/6Qf2sXTjlH3HH30Ijo6AUp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6Qf2sXTjlH3HH30Ijo6AUp)
 
 ### [100 Uplifting Songs](https://open.spotify.com/playlist/6Qf2sXTjlH3HH30Ijo6AUp)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6qgnxonYgp.md) - [plain](/playlists/plain/37i9dQZF1DXc6qgnxonYgp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc6qgnxonYgp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6qgnxonYgp.md) - [plain](/playlists/plain/37i9dQZF1DXc6qgnxonYgp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc6qgnxonYgp)
 
 ### [Best of Tamil Romance in 2025](https://open.spotify.com/playlist/37i9dQZF1DXc6qgnxonYgp)
 
 > Our editor's picks of the best tracks from Tamil Romance this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,799 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,310 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

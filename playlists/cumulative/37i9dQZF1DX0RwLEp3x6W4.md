@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0RwLEp3x6W4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0RwLEp3x6W4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0RwLEp3x6W4)
+[pretty](/playlists/pretty/37i9dQZF1DX0RwLEp3x6W4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0RwLEp3x6W4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0RwLEp3x6W4)
 
 ### [Bluegrass Origins](https://open.spotify.com/playlist/37i9dQZF1DX0RwLEp3x6W4)
 

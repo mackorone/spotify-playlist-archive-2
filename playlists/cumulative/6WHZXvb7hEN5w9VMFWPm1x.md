@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6WHZXvb7hEN5w9VMFWPm1x.md) - cumulative - [plain](/playlists/plain/6WHZXvb7hEN5w9VMFWPm1x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6WHZXvb7hEN5w9VMFWPm1x)
+[pretty](/playlists/pretty/6WHZXvb7hEN5w9VMFWPm1x.md) - cumulative - [plain](/playlists/plain/6WHZXvb7hEN5w9VMFWPm1x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6WHZXvb7hEN5w9VMFWPm1x)
 
 ### [Keep On Pushing: A Labour Playlist](https://open.spotify.com/playlist/6WHZXvb7hEN5w9VMFWPm1x)
 

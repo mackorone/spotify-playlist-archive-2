@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Lukas Nelson",
+  "description": "Where roots meet what\u2019s next. Cover: Kashus Culpepper",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -930,7 +930,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 214741,
       "name": "Americana",
       "url": "https://open.spotify.com/track/2X8gbXCg0YqpdBlY8yLBCe"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176101,
       "name": "Bayou By You",
       "url": "https://open.spotify.com/track/0V1NYuU1RiMOHjfpEjcUAL"
@@ -1762,6 +1762,24 @@
       "duration_ms": 245889,
       "name": "Blood Harmony",
       "url": "https://open.spotify.com/track/7bIJA0XRb8iysNCyaZISB3"
+    },
+    {
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180459,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
     },
     {
       "album": {
@@ -2757,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "Cherry Rose",
+        "url": "https://open.spotify.com/album/1Tf3drcnCApPov4zMkoQgj"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234939,
+      "name": "Cherry Rose",
+      "url": "https://open.spotify.com/track/5VRjDEwfUu07wC5iTpdbG8"
+    },
+    {
+      "album": {
         "name": "Church Street Blues",
         "url": "https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU"
       },
@@ -3320,7 +3356,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 399057,
       "name": "Curtain",
       "url": "https://open.spotify.com/track/5SwjH71I6kb2ylx1skmvmU"
@@ -4024,7 +4060,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 222365,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2SbCeAa11fMv2YrgkSAqkf"
@@ -4060,7 +4096,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205065,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/6G7jQQIOG0BQxVkqPgywag"
@@ -4762,7 +4798,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139530,
       "name": "Field Song.",
       "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
@@ -5018,7 +5054,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210103,
       "name": "For the First Time",
       "url": "https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3"
@@ -5802,7 +5838,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223221,
       "name": "Good People (Thank Me)",
       "url": "https://open.spotify.com/track/0BfNYBkhbR99P2orPOeOS0"
@@ -9299,6 +9335,24 @@
     },
     {
       "album": {
+        "name": "Matter of Taste",
+        "url": "https://open.spotify.com/album/4oceTxYsabV8hMlvbo4pIG"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244366,
+      "name": "Matter of Taste",
+      "url": "https://open.spotify.com/track/54t1dWYSvY6XaBdFdhV20C"
+    },
+    {
+      "album": {
         "name": "Pale, Through the Window",
         "url": "https://open.spotify.com/album/6hpTU7DqO5EJkjdirMNNH5"
       },
@@ -9372,7 +9426,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217866,
       "name": "Memory Bank",
       "url": "https://open.spotify.com/track/68mOTz9MLUmcIjGJiWP7Qf"
@@ -9582,7 +9636,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 255733,
       "name": "Modern Man (Mountain Heart)",
       "url": "https://open.spotify.com/track/20iOgUxhQrki4Fyp47WLwt"
@@ -11704,7 +11758,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148889,
       "name": "Rain Crow",
       "url": "https://open.spotify.com/track/1vZwn9shBmyZfoorT4zxi4"
@@ -12480,7 +12534,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209076,
       "name": "Rusty Mountain",
       "url": "https://open.spotify.com/track/4lse8ZCfSeHIsYPnlJYziG"
@@ -13520,7 +13574,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218781,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/4ZLDHF8cMH7wxewqqQLQcC"
@@ -15588,7 +15642,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165000,
       "name": "Tomorrow Never Knows",
       "url": "https://open.spotify.com/track/7inTJO4OcpfYplGKr4BHKc"
@@ -15769,6 +15823,28 @@
     },
     {
       "album": {
+        "name": "True Black",
+        "url": "https://open.spotify.com/album/0Khdd5w8zi1CusseQRzHFZ"
+      },
+      "artists": [
+        {
+          "name": "Jay Buchanan",
+          "url": "https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7"
+        },
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266204,
+      "name": "True Black",
+      "url": "https://open.spotify.com/track/6c72isaNfo7TSCM0RcuyXN"
+    },
+    {
+      "album": {
         "name": "Truth is a Dimension (Both Invisible and Blinding)",
         "url": "https://open.spotify.com/album/6i4iy60TzSlvkiTTrpOTCa"
       },
@@ -15780,7 +15856,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 282997,
       "name": "Truth is a Dimension (Both Invisible and Blinding)",
       "url": "https://open.spotify.com/track/0SmOAbfq80vjtlHyg2cGxU"
@@ -16006,6 +16082,24 @@
       "duration_ms": 184975,
       "name": "Vampire in Appalachia",
       "url": "https://open.spotify.com/track/5ybs4h5XoFYZXBnmKSMjMo"
+    },
+    {
+      "album": {
+        "name": "Vultures",
+        "url": "https://open.spotify.com/album/7wC8hNwpc4telpD31AEMM8"
+      },
+      "artists": [
+        {
+          "name": "Meels",
+          "url": "https://open.spotify.com/artist/5AH6zdOi1I9eHP2jlUHLnq"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/5B8JimlFLC2PAyxS2QJrTT"
     },
     {
       "album": {
@@ -16838,7 +16932,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199700,
       "name": "Witness",
       "url": "https://open.spotify.com/track/0APSWmgckFsFCFiuaSgvsG"

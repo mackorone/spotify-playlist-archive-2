@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6VdMW310YC7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6VdMW310YC7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6VdMW310YC7)
+[pretty](/playlists/pretty/37i9dQZF1DX6VdMW310YC7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6VdMW310YC7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6VdMW310YC7)
 
 ### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,848 songs - 5 day 5 hr 31 min
+1,851 songs - 5 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Believe](https://open.spotify.com/track/3ISqJrqSULAszi0B0tB1OX) | [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [Who You Are EP](https://open.spotify.com/album/4ebgeJzWzstciDwvXNgS4G) | 4:00 | 2021-04-30 | 2022-07-29 |
 | [Believer \- Marsh's Guatape Remix](https://open.spotify.com/track/1GHOLip5jcgRIBqd8QUx7N) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Believer \(Marsh's Guatape Remix\)](https://open.spotify.com/album/7GGVUzqEZQFwbHsBO3Fzam) | 4:15 | 2022-01-07 | 2024-03-02 |
 | [Bellariva](https://open.spotify.com/track/5tGboJa7ztLFH3d1gFOGFn) | [Hear & Now](https://open.spotify.com/artist/3YQwxKTjtAELAeGeqY4HgJ) | [Alba Sol](https://open.spotify.com/album/1ZDWGVjdLTUgVbZ2uGG5kW) | 5:39 | 2020-05-26 | 2020-10-09 |
+| [Belong](https://open.spotify.com/track/13BcrP8f9jpxbI2vCD7dg7) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Thaylo](https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB) | [Belong](https://open.spotify.com/album/0dGe34n6w8qQAFLcjgypKr) | 5:29 | 2026-01-09 |  |
 | [Benidorm](https://open.spotify.com/track/625S8ZDzHnn0bo8csfIG9o) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp) | [Benidorm](https://open.spotify.com/album/30nXTM6P8pO0UEt1KT6Bfj) | 2:14 | 2024-08-02 | 2024-08-27 |
 | [Beside You](https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Beside You](https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS) | 4:41 | 2025-08-08 | 2025-12-20 |
 | [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-06-07 | 2025-06-23 |
@@ -180,6 +181,7 @@
 | [Blame](https://open.spotify.com/track/5eh6H5D8MrYROFiBYKBZjs) | [EAUXMAR](https://open.spotify.com/artist/6jjKAAi2ahf5gQ37k7rJya) | [Blame](https://open.spotify.com/album/3Y8Ouf0ReFdQpjbXMMeeNW) | 2:20 | 2020-03-16 | 2020-07-18 |
 | [Bleed It Out \(feat\. Nea\)](https://open.spotify.com/track/2H0p4zNfhaF2ZfidkmGTZ4) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:38 | 2020-05-18 | 2020-07-03 |
 | [Blinded](https://open.spotify.com/track/2uVF1mSrNKWbruiVEBvhhv) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Blinded](https://open.spotify.com/album/6XsNeaYlbdLSmDBahGcZuf) | 3:44 | 2020-05-18 | 2020-07-03 |
+| [blinded](https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [blinded](https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM) | 4:19 | 2026-01-09 |  |
 | [Bloodflow](https://open.spotify.com/track/4ygSSIuPuM0EYu22s8YF4t) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Open](https://open.spotify.com/album/40NdyNNK6vu96QBK1y7ZCx) | 5:58 | 2020-05-18 | 2020-07-18 |
 | [Bloodline feat\. Tomas Høffding](https://open.spotify.com/track/1GyLXvaWJ0dlugN99u4kKb) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Tomas Høffding](https://open.spotify.com/artist/3vAZRzjco8xKk2NbT5BQ6A) | [1983](https://open.spotify.com/album/31bHWGxXkpup6zbPdNjhPy) | 5:50 | 2020-02-29\* | 2020-03-16 |
 | [Bloom](https://open.spotify.com/track/1HaJ9IFikoK82LmPkzNr3x) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Painting In Shades](https://open.spotify.com/album/02SXB7KBEsKUCNMrbJTsr3) | 4:43 | 2021-04-03 | 2022-07-28 |
@@ -289,6 +291,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Close Your Eyes](https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB) | 4:54 | 2024-10-25 | 2025-01-01 |
 | [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 | 2021-08-20 | 2022-10-13 |
 | [Closer](https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7) | [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv), [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf) | [Closer](https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi) | 2:42 | 2025-09-26 | 2025-11-11 |
+| [Closer](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Closer](https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA) | 4:18 | 2026-01-09 |  |
 | [Closer](https://open.spotify.com/track/6o30i136QpwWOL2v98cSAd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:12 | 2022-01-21 | 2022-02-12 |
 | [Closer](https://open.spotify.com/track/7bDYzTFL2ksPttXvLsY0tE) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Brain Freeze](https://open.spotify.com/album/08fLzwK3ueT7etjpdinnRW) | 3:30 | 2020-05-22 | 2020-07-03 |
 | [Closer To Life](https://open.spotify.com/track/0wkX8SrPDxceFxgRoSDrs0) | [Atella](https://open.spotify.com/artist/4iyfdYs0bh6oIxRaeozwBh), [Frøder](https://open.spotify.com/artist/3JmXXj2YSEu650701Uj1Pe) | [Closer To Life](https://open.spotify.com/album/4s06uGn3KS97zwXyVjazsi) | 4:03 | 2020-05-18 | 2020-07-03 |
@@ -475,7 +478,7 @@
 | [FACES](https://open.spotify.com/track/3ypEkkF1BKWni32Ybod9gv) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:57 | 2020-05-18 | 2020-07-18 |
 | [Fade](https://open.spotify.com/track/2lfPecqFbH8X4lHSpTxt8l) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Fade](https://open.spotify.com/album/5hVzpu6c6YFYRxMeqlKGSY) | 4:24 | 2020-06-12 | 2020-07-03 |
 | [Fade](https://open.spotify.com/track/4kltAdmhcjMohy3drCGdha) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [Maye ](https://open.spotify.com/artist/0vk5N79JZXuZTtRaRCorRW) | [Fade](https://open.spotify.com/album/2bNHLunjMX5rDtSDSaKalN) | 3:41 | 2020-05-18 | 2020-07-03 |
-| [Fade away](https://open.spotify.com/track/3Wv5VCxRbBEZhNWFrFs8bM) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Fade Away EP](https://open.spotify.com/album/7dSEyawkiIkABEpqE6x14X) | 4:21 | 2025-12-19 |  |
+| [Fade away](https://open.spotify.com/track/3Wv5VCxRbBEZhNWFrFs8bM) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Fade Away EP](https://open.spotify.com/album/7dSEyawkiIkABEpqE6x14X) | 4:21 | 2025-12-19 | 2026-01-15 |
 | [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 | 2022-09-09 | 2022-10-25 |
 | [Faded Love](https://open.spotify.com/track/7cEniLjAEEtxBbtAfhwUkn) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Faded Love](https://open.spotify.com/album/3muDVeVjYQblYHrQX6r9Dx) | 3:12 | 2020-03-20 | 2020-11-20 |
 | [Faded Memory](https://open.spotify.com/track/30sWK9of3ll8689n12qV0b) | [Planète](https://open.spotify.com/artist/6Vu5ri1skVRQ5jh8Tkytri) | [Alone In Parallel / Faded Memory](https://open.spotify.com/album/7mZsqsu1FHR3QKnF4eH3sV) | 4:14 | 2020-03-17 | 2022-04-21 |

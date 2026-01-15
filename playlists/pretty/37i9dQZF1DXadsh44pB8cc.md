@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadsh44pB8cc.md) - [plain](/playlists/plain/37i9dQZF1DXadsh44pB8cc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXadsh44pB8cc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadsh44pB8cc.md) - [plain](/playlists/plain/37i9dQZF1DXadsh44pB8cc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXadsh44pB8cc)
 
 ### [Moderat's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DXadsh44pB8cc)
 

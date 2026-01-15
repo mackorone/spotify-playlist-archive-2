@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6IuS2Zk3m9h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6IuS2Zk3m9h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6IuS2Zk3m9h)
+[pretty](/playlists/pretty/37i9dQZF1DX6IuS2Zk3m9h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6IuS2Zk3m9h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6IuS2Zk3m9h)
 
 ### [Auntie Nae's Taste](https://open.spotify.com/playlist/37i9dQZF1DX6IuS2Zk3m9h)
 

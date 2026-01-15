@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7KWRIlkUpsl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7KWRIlkUpsl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7KWRIlkUpsl)
+[pretty](/playlists/pretty/37i9dQZF1DX7KWRIlkUpsl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7KWRIlkUpsl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7KWRIlkUpsl)
 
 ### [This Is Maroon 5](https://open.spotify.com/playlist/37i9dQZF1DX7KWRIlkUpsl)
 

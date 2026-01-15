@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1EFIbUU3VrXZpU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFIbUU3VrXZpU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFIbUU3VrXZpU)
+[pretty](/playlists/pretty/37i9dQZF1EFIbUU3VrXZpU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFIbUU3VrXZpU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFIbUU3VrXZpU)
 
 ### [Written By Missy Elliott](https://open.spotify.com/playlist/37i9dQZF1EFIbUU3VrXZpU)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-432 songs - 1 day 3 hr 51 min
+433 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Get Kinky](https://open.spotify.com/track/6TBRzQZTvFGCeYG4ScStnt) | [Plump DJs](https://open.spotify.com/artist/1daC6WKGAm52YZbL5G7zYg) | [Get Kinky](https://open.spotify.com/album/3GsqaIZ44Ebfy63WuCbCGu) | 5:26 | 2023-12-30 |  |
 | [Get On The Bus \(feat\. Timbaland\)](https://open.spotify.com/track/2A7uG5xVjVXrvuRJRURbJU) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [The Writing's On The Wall](https://open.spotify.com/album/78r5vrR1Wf60JPgFQ1drwr) | 4:44 | 2023-12-30 |  |
 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 | 2023-12-30 |  |
-| [Get Ur Freak On](https://open.spotify.com/track/3XplJgPz8VjbDzbGwGgZdq) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Respect M.E.](https://open.spotify.com/album/6epR3D622KWsnuHye7ApOl) | 3:56 | 2023-12-30 |  |
+| [Get Ur Freak On](https://open.spotify.com/track/3XplJgPz8VjbDzbGwGgZdq) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Respect M.E.](https://open.spotify.com/album/6epR3D622KWsnuHye7ApOl) | 3:56 | 2023-12-30 | 2026-01-15 |
+| [Get Ur Freak On](https://open.spotify.com/track/13KEdaWIc7T6ozEmnJjHy1) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/3mw1gH8eaRTtuLQldAEc9s) | 3:57 | 2026-01-14 |  |
 | [Gettaway \(feat\. Space & Nicole\)](https://open.spotify.com/track/4fWK7zJp17fuhDfQ9YnAei) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Nicole Wray](https://open.spotify.com/artist/3opP52YUU3kBoPizkJETnm), [Space](https://open.spotify.com/artist/4egkDqNQSTMGECeGfms1QS) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:25 | 2023-12-30 |  |
 | [Girlfriend](https://open.spotify.com/track/3MfysK4blbsihpWvCSDOhy) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 2:22 | 2024-11-01 |  |
 | [Glow Up](https://open.spotify.com/track/17gYZsdNpiDhYmnqaELimP) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Strength Of A Woman](https://open.spotify.com/album/4NbiqWISvtpKiWFwpmtzTF) | 4:06 | 2023-12-30 |  |
@@ -243,7 +244,7 @@
 | [Level Up](https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 3:24 | 2023-12-30 | 2024-11-04 |
 | [Level Up](https://open.spotify.com/track/7ssEhls1ZYEGtBsoovkMSe) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:24 | 2024-11-03 |  |
 | [Lick Shots](https://open.spotify.com/track/4TnIpa8I85Y4bMQVriqzDA) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:50 | 2023-12-30 |  |
-| [Like What \(Freestyle\)](https://open.spotify.com/track/0UyM6zVAuVT7Tlr84xA5xN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA? \(Ultimate Edition\)](https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh) | 2:16 | 2025-11-17 | 2026-01-02 |
+| [Like What \(Freestyle\)](https://open.spotify.com/track/0UyM6zVAuVT7Tlr84xA5xN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA? \(Ultimate Edition\)](https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh) | 2:16 | 2025-11-17 |  |
 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-04-13 | 2025-11-15 |
 | [Like What \(Freestyle\) \- Instrumental](https://open.spotify.com/track/26qKDCBu9jJBkHZKS8qRVF) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\) \[Instrumental\]](https://open.spotify.com/album/4D7s8roJiQr8BvAmKnEpyl) | 2:16 | 2024-05-31 |  |
 | [Living the Life \(feat\. Snoop Dogg, Ludacris, Faith Evans, Cheri Dennis & Bobby V\)](https://open.spotify.com/track/0M19sEi8c9eBZPCjR6OXM2) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Cheri Dennis](https://open.spotify.com/artist/15U1prrFKwSBJamlMNuVW5), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Duets: The Final Chapter \(20th Anniversary Deluxe\)](https://open.spotify.com/album/0pNWfkXJ7i2nOqu510Dxn4) | 4:28 | 2025-12-21 |  |

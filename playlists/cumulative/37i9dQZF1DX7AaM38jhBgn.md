@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7AaM38jhBgn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7AaM38jhBgn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7AaM38jhBgn)
+[pretty](/playlists/pretty/37i9dQZF1DX7AaM38jhBgn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7AaM38jhBgn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7AaM38jhBgn)
 
 ### [Fuego \#026](https://open.spotify.com/playlist/37i9dQZF1DX7AaM38jhBgn)
 

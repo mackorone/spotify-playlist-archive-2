@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYwFO76kSqM.md) - [plain](/playlists/plain/37i9dQZF1DXaYwFO76kSqM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaYwFO76kSqM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYwFO76kSqM.md) - [plain](/playlists/plain/37i9dQZF1DXaYwFO76kSqM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaYwFO76kSqM)
 
 ### [Spotlight: King ](https://open.spotify.com/playlist/37i9dQZF1DXaYwFO76kSqM)
 

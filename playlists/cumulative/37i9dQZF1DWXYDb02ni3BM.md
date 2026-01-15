@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXYDb02ni3BM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXYDb02ni3BM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXYDb02ni3BM)
+[pretty](/playlists/pretty/37i9dQZF1DWXYDb02ni3BM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXYDb02ni3BM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXYDb02ni3BM)
 
 ### [Mujeres del Pop Latino](https://open.spotify.com/playlist/37i9dQZF1DWXYDb02ni3BM)
 

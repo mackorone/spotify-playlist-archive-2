@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW34Z8OBNGGs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW34Z8OBNGGs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW34Z8OBNGGs)
+[pretty](/playlists/pretty/37i9dQZF1DWW34Z8OBNGGs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW34Z8OBNGGs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW34Z8OBNGGs)
 
 ### [Tony Hawk's Pro Skater 1+2 Official Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DWW34Z8OBNGGs)
 

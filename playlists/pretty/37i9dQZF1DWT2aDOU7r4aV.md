@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2aDOU7r4aV.md) - [plain](/playlists/plain/37i9dQZF1DWT2aDOU7r4aV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT2aDOU7r4aV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2aDOU7r4aV.md) - [plain](/playlists/plain/37i9dQZF1DWT2aDOU7r4aV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT2aDOU7r4aV)
 
 ### [The Best of Viva Latino 2021](https://open.spotify.com/playlist/37i9dQZF1DWT2aDOU7r4aV)
 

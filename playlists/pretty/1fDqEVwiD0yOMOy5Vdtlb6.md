@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1fDqEVwiD0yOMOy5Vdtlb6.md) - [plain](/playlists/plain/1fDqEVwiD0yOMOy5Vdtlb6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1fDqEVwiD0yOMOy5Vdtlb6)
+pretty - [cumulative](/playlists/cumulative/1fDqEVwiD0yOMOy5Vdtlb6.md) - [plain](/playlists/plain/1fDqEVwiD0yOMOy5Vdtlb6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1fDqEVwiD0yOMOy5Vdtlb6)
 
 ### [2000s Smash Hits](https://open.spotify.com/playlist/1fDqEVwiD0yOMOy5Vdtlb6)
 
 > We love the noughties! 80 massive hits from the decade that dared to be different.
 
-[Smash Hits](https://open.spotify.com/user/smash_hits) - 6,299 likes - 80 songs - 5 hr 9 min
+[Smash Hits](https://open.spotify.com/user/smash_hits) - 6,298 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

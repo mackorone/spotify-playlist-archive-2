@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K4oz9IxwKe.md) - [plain](/playlists/plain/37i9dQZF1DX6K4oz9IxwKe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6K4oz9IxwKe)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K4oz9IxwKe.md) - [plain](/playlists/plain/37i9dQZF1DX6K4oz9IxwKe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6K4oz9IxwKe)
 
 ### [The Roshans Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6K4oz9IxwKe)
 
 > Celebrate the musical and cinematic legacy, and illuminate the Roshans with this playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,078 likes - 86 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,127 likes - 86 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

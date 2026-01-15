@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQb3nvLSZql.md) - [plain](/playlists/plain/37i9dQZF1DWUQb3nvLSZql) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUQb3nvLSZql)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQb3nvLSZql.md) - [plain](/playlists/plain/37i9dQZF1DWUQb3nvLSZql) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUQb3nvLSZql)
 
 ### [Stray Kids World Tour \[dominATE : celebrATE\]](https://open.spotify.com/playlist/37i9dQZF1DWUQb3nvLSZql)
 
 > enjoy the Stray Kids World Tour \[dominATE : celebrATE\] LIVE SET including the voices of them on stage! \(스트레이 키즈의 무대 멘트와 목소리가 포함된 \[dominATE : celebrATE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,007 likes - 38 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,500 likes - 38 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

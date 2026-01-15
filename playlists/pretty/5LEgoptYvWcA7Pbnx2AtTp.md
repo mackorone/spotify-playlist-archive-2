@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain](/playlists/plain/5LEgoptYvWcA7Pbnx2AtTp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5LEgoptYvWcA7Pbnx2AtTp)
+pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain](/playlists/plain/5LEgoptYvWcA7Pbnx2AtTp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5LEgoptYvWcA7Pbnx2AtTp)
 
 ### [Questionable Bops](https://open.spotify.com/playlist/5LEgoptYvWcA7Pbnx2AtTp)
 

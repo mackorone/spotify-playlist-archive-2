@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6YMK6nqc1jS11fGraCU1o2.md) - cumulative - [plain](/playlists/plain/6YMK6nqc1jS11fGraCU1o2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6YMK6nqc1jS11fGraCU1o2)
+[pretty](/playlists/pretty/6YMK6nqc1jS11fGraCU1o2.md) - cumulative - [plain](/playlists/plain/6YMK6nqc1jS11fGraCU1o2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6YMK6nqc1jS11fGraCU1o2)
 
 ### [Spring Garden](https://open.spotify.com/playlist/6YMK6nqc1jS11fGraCU1o2)
 

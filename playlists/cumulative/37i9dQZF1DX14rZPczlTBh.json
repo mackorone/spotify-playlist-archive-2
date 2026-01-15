@@ -1005,6 +1005,32 @@
     },
     {
       "album": {
+        "name": "Desi Girl 2.0 (Varanasi Event)",
+        "url": "https://open.spotify.com/album/0LmnQpQW64JbYG6VESRi43"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        },
+        {
+          "name": "Chaitanya Prasad",
+          "url": "https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117067,
+      "name": "Desi Girl 2.0 (Varanasi Event)",
+      "url": "https://open.spotify.com/track/1iteo50Gfd0ppGjlAPlNRH"
+    },
+    {
+      "album": {
         "name": "Krishnarjuna Yudham",
         "url": "https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8"
       },
@@ -1370,7 +1396,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 68402,
       "name": "Hero Entry",
       "url": "https://open.spotify.com/track/4sKe2yK6ceIhoBYRdr8BLY"
@@ -1991,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Mysaa First Glimpse",
+        "url": "https://open.spotify.com/album/7JtCG9v6nyeTXto4uvXbSD"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82064,
+      "name": "Mysaa First Glimpse",
+      "url": "https://open.spotify.com/track/15r90H77e3GKztWk306F3m"
+    },
+    {
+      "album": {
         "name": "Dhruva",
         "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
       },
@@ -2368,6 +2412,32 @@
       "duration_ms": 245760,
       "name": "Ramuloo Ramulaa - Duet",
       "url": "https://open.spotify.com/track/4uXJADmybUHUgycBWFHeq6"
+    },
+    {
+      "album": {
+        "name": "Rana Kumbha (From \"Varanasi\")",
+        "url": "https://open.spotify.com/album/5w1OjPNvyGhzHaPQJwLduA"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Aditya Iyengar",
+          "url": "https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo"
+        },
+        {
+          "name": "Chaitanya Prasad",
+          "url": "https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100130,
+      "name": "Rana Kumbha (From \"Varanasi\")",
+      "url": "https://open.spotify.com/track/3iIR2YfNdC9CYhA8ieF5UO"
     },
     {
       "album": {
@@ -2752,7 +2822,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149628,
       "name": "Shock Theme",
       "url": "https://open.spotify.com/track/08VzrRcQmO0qM8oWni6iag"
@@ -2890,7 +2960,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 82036,
       "name": "Surya's Saturday",
       "url": "https://open.spotify.com/track/1yPKhZYC785EHBuqddCg18"
@@ -2938,6 +3008,24 @@
       "duration_ms": 265163,
       "name": "Tauba Tauba",
       "url": "https://open.spotify.com/track/6jeTxPEe1RBt3SVKnpZXvo"
+    },
+    {
+      "album": {
+        "name": "The Arrival (From \"Varanasi\")",
+        "url": "https://open.spotify.com/album/77tqNdJTnM5ilKPJ4V8GeI"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202085,
+      "name": "The Arrival (From \"Varanasi\")",
+      "url": "https://open.spotify.com/track/2dbxZs7mhMcynrX3xsBuGH"
     },
     {
       "album": {
@@ -3010,7 +3098,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 82785,
       "name": "The Raid",
       "url": "https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o"

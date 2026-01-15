@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3sJ6SlgRo56Oa7YhHcLK5l.md) - [plain](/playlists/plain/3sJ6SlgRo56Oa7YhHcLK5l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3sJ6SlgRo56Oa7YhHcLK5l)
+pretty - [cumulative](/playlists/cumulative/3sJ6SlgRo56Oa7YhHcLK5l.md) - [plain](/playlists/plain/3sJ6SlgRo56Oa7YhHcLK5l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3sJ6SlgRo56Oa7YhHcLK5l)
 
 ### [Found Them First](https://open.spotify.com/playlist/3sJ6SlgRo56Oa7YhHcLK5l)
 
 > What artists have been your favorite new finds this year? Check out a sampling of our favorites here, and don’t forget to check back for updates! For your own list, head over to <a href="http://spoti.fi/1JQhkfk">http://spoti.fi/1JQhkfk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,907 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,808 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

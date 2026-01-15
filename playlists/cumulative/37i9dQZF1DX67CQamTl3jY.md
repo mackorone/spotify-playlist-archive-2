@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX67CQamTl3jY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX67CQamTl3jY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX67CQamTl3jY)
+[pretty](/playlists/pretty/37i9dQZF1DX67CQamTl3jY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX67CQamTl3jY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX67CQamTl3jY)
 
 ### [2024 グラミー賞 受賞作品](https://open.spotify.com/playlist/37i9dQZF1DX67CQamTl3jY)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaoHd4tiCLZf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaoHd4tiCLZf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaoHd4tiCLZf)
+[pretty](/playlists/pretty/37i9dQZF1DXaoHd4tiCLZf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaoHd4tiCLZf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaoHd4tiCLZf)
 
 ### [Emily in Paris Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXaoHd4tiCLZf)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4sqNyKH13qY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4sqNyKH13qY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4sqNyKH13qY)
+[pretty](/playlists/pretty/37i9dQZF1DX4sqNyKH13qY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4sqNyKH13qY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4sqNyKH13qY)
 
 ### [This Is Lil Uzi Vert](https://open.spotify.com/playlist/37i9dQZF1DX4sqNyKH13qY)
 

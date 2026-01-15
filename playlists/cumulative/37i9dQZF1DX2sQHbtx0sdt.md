@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2sQHbtx0sdt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2sQHbtx0sdt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2sQHbtx0sdt)
+[pretty](/playlists/pretty/37i9dQZF1DX2sQHbtx0sdt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2sQHbtx0sdt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2sQHbtx0sdt)
 
 ### [Best Of Global Hip\-Hop 2025](https://open.spotify.com/playlist/37i9dQZF1DX2sQHbtx0sdt)
 

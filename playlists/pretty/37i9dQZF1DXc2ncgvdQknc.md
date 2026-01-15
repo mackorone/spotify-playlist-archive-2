@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain](/playlists/plain/37i9dQZF1DXc2ncgvdQknc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc2ncgvdQknc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain](/playlists/plain/37i9dQZF1DXc2ncgvdQknc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc2ncgvdQknc)
 
 ### [10s Ballads](https://open.spotify.com/playlist/37i9dQZF1DXc2ncgvdQknc)
 

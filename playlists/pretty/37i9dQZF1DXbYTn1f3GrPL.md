@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain](/playlists/plain/37i9dQZF1DXbYTn1f3GrPL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbYTn1f3GrPL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain](/playlists/plain/37i9dQZF1DXbYTn1f3GrPL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbYTn1f3GrPL)
 
 ### [Piano para Dormir](https://open.spotify.com/playlist/37i9dQZF1DXbYTn1f3GrPL)
 
 > Música serena de piano para dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,747 likes - 129 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,798 likes - 129 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

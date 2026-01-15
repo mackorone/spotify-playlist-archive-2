@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTmpXj4o6Fmt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTmpXj4o6Fmt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTmpXj4o6Fmt)
+[pretty](/playlists/pretty/37i9dQZF1DWTmpXj4o6Fmt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTmpXj4o6Fmt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTmpXj4o6Fmt)
 
 ### [joyitas vintage](https://open.spotify.com/playlist/37i9dQZF1DWTmpXj4o6Fmt)
 

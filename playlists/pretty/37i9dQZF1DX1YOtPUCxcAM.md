@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain](/playlists/plain/37i9dQZF1DX1YOtPUCxcAM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1YOtPUCxcAM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain](/playlists/plain/37i9dQZF1DX1YOtPUCxcAM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1YOtPUCxcAM)
 
 ### [I Love My 90s Funk](https://open.spotify.com/playlist/37i9dQZF1DX1YOtPUCxcAM)
 
 > The best and finest 90s Funk\. Cover: The Brand New Heavies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,214 likes - 102 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,636 likes - 102 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 | 27 | [Grain Belt Beer](https://open.spotify.com/track/69HLcylBme7JOGaoLAamj2) | [Thes One](https://open.spotify.com/artist/6G69CndLxnRxLdy8MVLNmG) | [Lifestyle Marketing](https://open.spotify.com/album/5icgHvy0Y3Tqo7a2KBihXR) | 2:24 |
 | 28 | [My Name Is Prince](https://open.spotify.com/track/20qyckJrLZQGQmNb5OmpkJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [\[Love Symbol\]](https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA) | 6:38 |
 | 29 | [Midnight At The Oasis](https://open.spotify.com/track/444zINknbqK114MV6rYgVL) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [Brother Sister](https://open.spotify.com/album/0n6y7yVyZBKpwZICyTvFFh) | 3:48 |
-| 30 | [It's Getting Hectic \(feat\. Gangstarr\)](https://open.spotify.com/track/5yqQceeUtJCeHH3F72sQho) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Heavy Rhyme Experience Vol\. 1](https://open.spotify.com/album/1rcB3G2fEGV0cjx2ZEl2vt) | 4:00 |
+| 30 | [It's Getting Hectic \(feat\. Gang Starr\)](https://open.spotify.com/track/5yqQceeUtJCeHH3F72sQho) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Heavy Rhyme Experience Vol\. 1](https://open.spotify.com/album/1rcB3G2fEGV0cjx2ZEl2vt) | 4:00 |
 | 31 | [You Will Rise](https://open.spotify.com/track/6k4ZH5yi5mIBXiFK8xJoGJ) | [Sweetback](https://open.spotify.com/artist/7fJy3VGVUCNVGrVrI1nv6x) | [Sweetback](https://open.spotify.com/album/5wXxlFmq45ESegHGhtguqZ) | 6:29 |
 | 32 | [Canned Heat](https://open.spotify.com/track/0RWqE2ZaulvnN1i40qIhDh) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/3JB06rUbAbdK0QEyDM0YKI) | 5:31 |
 | 33 | [Rentstrike](https://open.spotify.com/track/7yPqp0IToSCQ2vENeXlKTM) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:17 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 | 85 | [Move On](https://open.spotify.com/track/0w2O0cD4jzWBLgoKZ0JuyR) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [Road To Freedom](https://open.spotify.com/album/11yGRDzeFpvgNVPwCW2QlU) | 3:28 |
 | 86 | [Let the Beat Hit 'Em](https://open.spotify.com/track/41ujf14Vmg5aYK0kPiV50m) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT) | [STRAIGHT OUTTA HELL'S KITCHEN](https://open.spotify.com/album/11m0imtJqJLpOipYEpIOEZ) | 4:38 |
 | 87 | [Choked Out Saturday Night](https://open.spotify.com/track/0SMgxWtEOh8559eI83fiiN) | [Sleepy's Theme](https://open.spotify.com/artist/3ZpPpNkWa5UWftZVjXw7jl) | [The Vinyl Room](https://open.spotify.com/album/4whMS4bAvx1WKNAGDqqx4q) | 4:55 |
-| 88 | [Who Makes The Loot? \(feat\. Grand Puba Maxwell\)](https://open.spotify.com/track/7GsBwa6z5Ci4YftN4CBIIN) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [Grand Puba Maxwell](https://open.spotify.com/artist/7DiaCeQZ0fTXkjfEVri4Fh) | [Heavy Rhyme Experience Vol\. 1](https://open.spotify.com/album/1rcB3G2fEGV0cjx2ZEl2vt) | 3:24 |
+| 88 | [Who Makes The Loot? \(feat\. Grand Puba\)](https://open.spotify.com/track/7GsBwa6z5Ci4YftN4CBIIN) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [Grand Puba](https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K) | [Heavy Rhyme Experience Vol\. 1](https://open.spotify.com/album/1rcB3G2fEGV0cjx2ZEl2vt) | 3:24 |
 | 89 | [Love Sign \- Shock G's Silky Remix](https://open.spotify.com/track/0ncCaCcuFhAISC5qjkPgX4) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [Shock G](https://open.spotify.com/artist/7mFqeqDcctDWHGKY2AIAMl) | [Crystal Ball](https://open.spotify.com/album/6j6uSn1DEqTkcQu1y5ljet) | 3:53 |
 | 90 | [Quik's Groove](https://open.spotify.com/track/40hRYfBECQqk5Bj3RNdPeY) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 1:48 |
 | 91 | [You Should Be Mine](https://open.spotify.com/track/3Iah2RghN0sXgz98D2FrnE) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [Bridging The Gap](https://open.spotify.com/album/4PLRUeHOkJWmi9fLl05mfq) | 6:01 |

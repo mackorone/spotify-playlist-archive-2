@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSMXAaolO22.md) - [plain](/playlists/plain/37i9dQZF1DWYSMXAaolO22) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYSMXAaolO22)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSMXAaolO22.md) - [plain](/playlists/plain/37i9dQZF1DWYSMXAaolO22) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYSMXAaolO22)
 
 ### [Best of Buzz Tracker 2025](https://open.spotify.com/playlist/37i9dQZF1DWYSMXAaolO22)
 
 > 2025年にプレイリスト「Buzz Tracker \#バズトラ」で聴かれた楽曲を総まとめ。 cover: 超ときめき♡宣伝部
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,722 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,789 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5dJFQ9iAw5v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5dJFQ9iAw5v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5dJFQ9iAw5v)
+[pretty](/playlists/pretty/37i9dQZF1DX5dJFQ9iAw5v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5dJFQ9iAw5v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5dJFQ9iAw5v)
 
 ### [Jazz Argentino](https://open.spotify.com/playlist/37i9dQZF1DX5dJFQ9iAw5v)
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-128 songs - 10 hr 52 min
+129 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Luna en Nueva York](https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg) | [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [Piano Tuerto](https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8) | 5:26 | 2022-09-09 | 2024-07-12 |
 | [Lunfardo](https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Piazzolla Plays Piazzolla](https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv) | 6:22 | 2022-08-12 | 2024-04-19 |
 | [Masche](https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU) | [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm) | [Edén](https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR) | 6:37 | 2025-04-14 |  |
-| [Mezcalero](https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy), [Martín Telechanski](https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1) | [Mezcalero](https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj) | 4:57 | 2023-12-08 |  |
+| [Mezcalero](https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy), [Martín Telechanski](https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1) | [Mezcalero](https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj) | 4:57 | 2023-12-08 | 2026-01-15 |
 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 | 2022-08-12 |  |
 | [Milonga Del Fin Del Mundo](https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Milonga Del Fin Del Mundo](https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw) | 5:24 | 2023-12-08 |  |
 | [Minimal](https://open.spotify.com/track/4Y37i8v2MD4mxRcaM28fti) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [Minimal](https://open.spotify.com/album/5ivhkDkDIU3jwZYuNTuDxL) | 6:35 | 2025-04-14 | 2025-11-25 |
@@ -107,6 +107,7 @@
 | [Puerta y Regazo](https://open.spotify.com/track/2w1MdztRfIx6mS0SFSA53y) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 2:29 | 2022-08-12 | 2024-04-19 |
 | [Puertas y Ventanas](https://open.spotify.com/track/2OeTcS3A1g1RsUj1xycs5Y) | [ASH Trio](https://open.spotify.com/artist/1lWRqHdNuzCQUaJdl1HUwm), [Hernan Hecht](https://open.spotify.com/artist/7dl3J3Gs0ryFhyeRDypljB), [Juan Pablo Arredondo](https://open.spotify.com/artist/6qcNKGD04YEUm0JlD9bhQv), [Natalio Sued](https://open.spotify.com/artist/1WqYlCDG2cmVXPZ1CcdMOs) | [Formas](https://open.spotify.com/album/5tpPFkMTHnxQBDay46yEqX) | 4:29 | 2025-04-14 |  |
 | [Qom](https://open.spotify.com/track/6C6rocIKeKyQ3bMqYDmhjR) | [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk), [Demian Cabaud](https://open.spotify.com/artist/4ZLSEw2BcU0GeZhyJotEDM), [Marcos Cavaleiro](https://open.spotify.com/artist/3tlZjxpF9HfPrAccSufAun) | [Estrellero](https://open.spotify.com/album/0h3Wf48mmz3NdceNSjdzYu) | 4:38 | 2023-08-11 | 2023-08-28 |
+| [Reunión](https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7) | [Pepi Taveira](https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2) | [Reunión](https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB) | 6:29 | 2025-04-14 |  |
 | [Rough Biker Coda](https://open.spotify.com/track/51yHj5JhzkWpRmzu42Xpw7) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Onyx](https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1) | 0:54 | 2023-12-08 | 2024-02-11 |
 | [Rusty](https://open.spotify.com/track/06k4d1KJ5iokCdTuzdVjCe) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 3:35 | 2022-08-12 | 2024-04-19 |
 | [Sangre](https://open.spotify.com/track/60099HVnJq1szQWU2xrthI) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Richard Nant](https://open.spotify.com/artist/2TbC35HAukvJvVhhEhYXXH), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Sergio Verdinelli](https://open.spotify.com/artist/4ujhVf7VBbCNR8HaOnmg8x), [Juan Canosa](https://open.spotify.com/artist/2dSFZB48yrIdK7NtkuNql8), [Jeronimo Carmona](https://open.spotify.com/artist/1aWDZz3CHFBlXquod6WKvd) | [Son Dos](https://open.spotify.com/album/6uYzP5FXn8wfcDCv8HVASB) | 4:47 | 2022-09-23 | 2024-04-15 |

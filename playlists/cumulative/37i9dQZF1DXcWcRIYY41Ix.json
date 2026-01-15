@@ -259,6 +259,40 @@
     },
     {
       "album": {
+        "name": "A pesar del invierno",
+        "url": "https://open.spotify.com/album/6VPBdcOxf18CHNQfqUdGf9"
+      },
+      "artists": [
+        {
+          "name": "Escaparate de Poes\u00eda",
+          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
+        },
+        {
+          "name": "Alfonso Gardi",
+          "url": "https://open.spotify.com/artist/69RHfpoRwu8iDbaQj1FSKn"
+        },
+        {
+          "name": "Arantza V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3RHbh0BJKnhiuTXe55PUc7"
+        },
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        },
+        {
+          "name": "Sergio Escribano",
+          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "A pesar del invierno",
+      "url": "https://open.spotify.com/track/1m5Ft1nheROBaTpi1EWplG"
+    },
+    {
+      "album": {
         "name": "A terrible historia de Afonso Amoedo",
         "url": "https://open.spotify.com/album/5XEDSrPOYRvZrW0fNMHhKQ"
       },
@@ -4013,6 +4047,32 @@
     },
     {
       "album": {
+        "name": "Curaci\u00f3n",
+        "url": "https://open.spotify.com/album/1dcJ81RvkkCyxon7hLLTRv"
+      },
+      "artists": [
+        {
+          "name": "Pablo Cano",
+          "url": "https://open.spotify.com/artist/7hmvc1ilzORAuEKEYEJ30o"
+        },
+        {
+          "name": "Martinez Ares",
+          "url": "https://open.spotify.com/artist/0mz78YodaKaPuoSPBfnR5a"
+        },
+        {
+          "name": "Lynn Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/0tMjmCeezS6pOZEzhdfVXR"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Curaci\u00f3n",
+      "url": "https://open.spotify.com/track/4zzgwdyfZD95YpKNZx5jhe"
+    },
+    {
+      "album": {
         "name": "Sof\u00e1",
         "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
       },
@@ -4978,6 +5038,28 @@
       "duration_ms": 272517,
       "name": "DUE\u00d1O DE TUS NOTICIAS",
       "url": "https://open.spotify.com/track/00f06mo8PDNJAIsYmzKfUT"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XUQA2rv1IKp7Gtky0XIft"
+      },
+      "artists": [
+        {
+          "name": "Calequi y Las Panteras",
+          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131871,
+      "name": "Dulce Picante",
+      "url": "https://open.spotify.com/track/0hqd6HkeWkQWou5uvOF4Zx"
     },
     {
       "album": {
@@ -7610,7 +7692,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164952,
       "name": "Kas Lim\u00f3n",
       "url": "https://open.spotify.com/track/4Rg7K8XnKU3WskpEi28HQL"
@@ -10930,7 +11012,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213060,
       "name": "Mis Zapatos",
       "url": "https://open.spotify.com/track/79C3MAw53zpZWjPPuIHzpI"
@@ -12180,7 +12262,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180252,
       "name": "Nuestro Movimiento",
       "url": "https://open.spotify.com/track/157eN70HyJsu0lB0SEtKhH"
@@ -12728,6 +12810,24 @@
       "duration_ms": 196670,
       "name": "Pan de muertos",
       "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
+    },
+    {
+      "album": {
+        "name": "Pan de Pueblo",
+        "url": "https://open.spotify.com/album/56FIiauUxYrfch1swWeeLN"
+      },
+      "artists": [
+        {
+          "name": "MAPA",
+          "url": "https://open.spotify.com/artist/7Bv4NCknVMFKk6lvvS7UXN"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187782,
+      "name": "Pan de Pueblo",
+      "url": "https://open.spotify.com/track/2eIkfwAz8dpCBpqeqXrjaP"
     },
     {
       "album": {
@@ -13846,7 +13946,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182594,
       "name": "P\u00e1jaros negros",
       "url": "https://open.spotify.com/track/01JCLmwvcZpulwdEkhfJiT"

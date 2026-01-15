@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4x2OUqt1eGO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4x2OUqt1eGO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4x2OUqt1eGO)
+[pretty](/playlists/pretty/37i9dQZF1DX4x2OUqt1eGO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4x2OUqt1eGO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4x2OUqt1eGO)
 
 ### [ECHO : Fascinating Flute](https://open.spotify.com/playlist/37i9dQZF1DX4x2OUqt1eGO)
 

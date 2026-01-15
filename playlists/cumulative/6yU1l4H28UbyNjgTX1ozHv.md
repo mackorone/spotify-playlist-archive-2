@@ -1,14 +1,14 @@
-[pretty](/playlists/pretty/6yU1l4H28UbyNjgTX1ozHv.md) - cumulative - [plain](/playlists/plain/6yU1l4H28UbyNjgTX1ozHv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6yU1l4H28UbyNjgTX1ozHv)
+[pretty](/playlists/pretty/6yU1l4H28UbyNjgTX1ozHv.md) - cumulative - [plain](/playlists/plain/6yU1l4H28UbyNjgTX1ozHv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6yU1l4H28UbyNjgTX1ozHv)
 
 ### [Acoustic Driving Songs](https://open.spotify.com/playlist/6yU1l4H28UbyNjgTX1ozHv)
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-311 songs - 15 hr 56 min
+312 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(What A\) Wonderful World](https://open.spotify.com/track/31BXTi89mPf9fjEMBwAL1D) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [\(What A\) Wonderful World](https://open.spotify.com/album/6ESbD3K4x9KmMY98fuO5bw) | 2:42 | 2025-09-27 |  |
+| [\(What A\) Wonderful World](https://open.spotify.com/track/31BXTi89mPf9fjEMBwAL1D) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [\(What A\) Wonderful World](https://open.spotify.com/album/6ESbD3K4x9KmMY98fuO5bw) | 2:42 | 2025-09-27 | 2026-01-15 |
 | [\(Your Love Keeps Lifting Me\) Higher & Higher \- Acoustic](https://open.spotify.com/track/4oa1DiVw9hVhXeoD0c9pKK) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [\(Your Love Keeps Lifting Me\) Higher & Higher \[Acoustic\]](https://open.spotify.com/album/5xxYqq9qp6qmTbusizp692) | 2:48 | 2024-06-25 | 2024-08-10 |
 | [...Baby One More Time \- Acoustic](https://open.spotify.com/track/66lXR0yNwRhV3LuxjZ1Y95) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [...Baby One More Time \(Acoustic\)](https://open.spotify.com/album/22ynSBd5mSfHlYTjuThit2) | 2:46 | 2024-09-21 | 2025-02-08 |
 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 | 2019-10-13 |  |
@@ -253,6 +253,7 @@
 | [The Scientist \- Candlelight Version](https://open.spotify.com/track/5SMv8eDDtNWK3syFauHGOG) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [The Scientist \(Candlelight Version\)](https://open.spotify.com/album/35c4uhnGB3BBuTcYfe5Djf) | 3:09 | 2024-06-21 | 2024-09-07 |
 | [The Way You Make Me Feel \- Acoustic](https://open.spotify.com/track/4TOYSDT4aaSoQKbxshBYbI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [The Way You Make Me Feel \(Acoustic\)](https://open.spotify.com/album/34pciOFOyl4rI1SIc1F0gw) | 2:37 | 2024-05-10 |  |
 | [There She Goes \- Acoustic](https://open.spotify.com/track/3nDEkIX8lfi4rg62XaDM0O) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5rNQUran1E5UllSg6uqI4Y) | 2:54 | 2021-10-01 | 2022-07-16 |
+| [These Words](https://open.spotify.com/track/1f9bAxVpNIRTmyhlSeOOMz) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [These Words](https://open.spotify.com/album/5rsURGB1QTPnwCrrwRU3B8) | 2:49 | 2026-01-09 |  |
 | [Thinking of You \- Acoustic](https://open.spotify.com/track/6tbmtGWZH2guWw6sbePI7i) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [Thinking of You \(Acoustic\)](https://open.spotify.com/album/1sTKlckv9fzXJxFfeB2bfm) | 3:09 | 2024-02-09 |  |
 | [Thinking Out Loud \- Acoustic](https://open.spotify.com/track/5g8icmRtCprCAYeSVtJufd) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Thinking Out Loud \(Acoustic\)](https://open.spotify.com/album/2TfaY2Qo3JiCEBYhzRG2jV) | 4:26 | 2025-06-27 |  |
 | [Thinking Out Loud \- Acoustic](https://open.spotify.com/track/30kpPQ8pYmxqyUD9l1mFL7) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Thinking Out Loud \(Acoustic\)](https://open.spotify.com/album/1WrdSnM8vS3UlX3YD20qms) | 3:04 | 2025-02-17 |  |

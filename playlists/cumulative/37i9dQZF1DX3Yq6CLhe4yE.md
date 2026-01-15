@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3Yq6CLhe4yE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Yq6CLhe4yE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Yq6CLhe4yE)
+[pretty](/playlists/pretty/37i9dQZF1DX3Yq6CLhe4yE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Yq6CLhe4yE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3Yq6CLhe4yE)
 
 ### [The Idea of You Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX3Yq6CLhe4yE)
 

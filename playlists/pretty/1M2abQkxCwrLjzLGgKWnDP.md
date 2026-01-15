@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1M2abQkxCwrLjzLGgKWnDP.md) - [plain](/playlists/plain/1M2abQkxCwrLjzLGgKWnDP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1M2abQkxCwrLjzLGgKWnDP)
+pretty - [cumulative](/playlists/cumulative/1M2abQkxCwrLjzLGgKWnDP.md) - [plain](/playlists/plain/1M2abQkxCwrLjzLGgKWnDP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1M2abQkxCwrLjzLGgKWnDP)
 
 ### [Bellini's Opera](https://open.spotify.com/playlist/1M2abQkxCwrLjzLGgKWnDP)
 

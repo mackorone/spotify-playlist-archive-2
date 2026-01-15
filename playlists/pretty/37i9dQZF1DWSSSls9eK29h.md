@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain](/playlists/plain/37i9dQZF1DWSSSls9eK29h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSSSls9eK29h)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain](/playlists/plain/37i9dQZF1DWSSSls9eK29h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSSSls9eK29h)
 
 ### [Smooth Jazz Classics](https://open.spotify.com/playlist/37i9dQZF1DWSSSls9eK29h)
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,875 likes - 65 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,410 likes - 65 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

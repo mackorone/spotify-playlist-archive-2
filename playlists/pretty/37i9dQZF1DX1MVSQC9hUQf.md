@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MVSQC9hUQf.md) - [plain](/playlists/plain/37i9dQZF1DX1MVSQC9hUQf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1MVSQC9hUQf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MVSQC9hUQf.md) - [plain](/playlists/plain/37i9dQZF1DX1MVSQC9hUQf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1MVSQC9hUQf)
 
 ### [Hardcore Gardening](https://open.spotify.com/playlist/37i9dQZF1DX1MVSQC9hUQf)
 
 > plant growth through extreme noise\. guided by horticulturist Chris Beardshaw.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,247 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,405 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

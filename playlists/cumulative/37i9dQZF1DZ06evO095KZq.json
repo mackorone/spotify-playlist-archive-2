@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 185714,
       "name": "El Fue Arturo - En Vivo",
       "url": "https://open.spotify.com/track/6B9VpihRaveXPH0awrkIBG"
@@ -726,6 +726,28 @@
       "duration_ms": 198814,
       "name": "El Nano - Versi\u00f3n Estudio",
       "url": "https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu"
+    },
+    {
+      "album": {
+        "name": "Pa' Los Recuerdos, Vol. 8",
+        "url": "https://open.spotify.com/album/2CtM0Dc9UkDa3B8znLi8tw"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218900,
+      "name": "El Pantro",
+      "url": "https://open.spotify.com/track/24cV01L64dQsqRP4PEANUs"
     },
     {
       "album": {
@@ -1472,7 +1494,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164827,
       "name": "Navaja Libre - En Vivo",
       "url": "https://open.spotify.com/track/3yENxFZlc45byls2278Gxb"
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 145101,
       "name": "Presente",
       "url": "https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod"

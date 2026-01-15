@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO3EO5KU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3EO5KU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3EO5KU)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO3EO5KU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3EO5KU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO3EO5KU)
 
 ### [This Is Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EO5KU)
 

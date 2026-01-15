@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcZUQ66mVM3.md) - [plain](/playlists/plain/37i9dQZF1DXbcZUQ66mVM3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbcZUQ66mVM3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcZUQ66mVM3.md) - [plain](/playlists/plain/37i9dQZF1DXbcZUQ66mVM3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbcZUQ66mVM3)
 
 ### [Disney Hits NL](https://open.spotify.com/playlist/37i9dQZF1DXbcZUQ66mVM3)
 
 > Zing mee met al je favoriete Disney hits uit films als Vaiana 2, Encanto, Frozen en nog veel meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,944 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,137 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

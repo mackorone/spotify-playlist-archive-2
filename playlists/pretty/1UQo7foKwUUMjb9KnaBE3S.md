@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1UQo7foKwUUMjb9KnaBE3S.md) - [plain](/playlists/plain/1UQo7foKwUUMjb9KnaBE3S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1UQo7foKwUUMjb9KnaBE3S)
+pretty - [cumulative](/playlists/cumulative/1UQo7foKwUUMjb9KnaBE3S.md) - [plain](/playlists/plain/1UQo7foKwUUMjb9KnaBE3S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1UQo7foKwUUMjb9KnaBE3S)
 
 ### [A.M\. Commute](https://open.spotify.com/playlist/1UQo7foKwUUMjb9KnaBE3S)
 
 > Forget the morning rush and kick off your day the right way \- music on, volume up, happy days!
 
-[Spotify Australia & New Zealand](https://open.spotify.com/user/spotifyaustralia) - 1,925 likes - 42 songs - 2 hr 33 min
+[Spotify Australia & New Zealand](https://open.spotify.com/user/spotifyaustralia) - 1,923 likes - 42 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

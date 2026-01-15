@@ -382,7 +382,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164115,
       "name": "Bulgari",
       "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
@@ -462,6 +462,24 @@
       "duration_ms": 195816,
       "name": "Contigo Me Veo",
       "url": "https://open.spotify.com/track/7LMMzvDbCVyKu3gF1uR9A5"
+    },
+    {
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189589,
+      "name": "Corazon Vac\u00edo",
+      "url": "https://open.spotify.com/track/2oWKx76NlgTACqI6t6VDod"
     },
     {
       "album": {
@@ -1043,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179882,
+      "name": "Muchos Se Burlaron",
+      "url": "https://open.spotify.com/track/0pV7q3SQa4c8C7etLHntxF"
+    },
+    {
+      "album": {
         "name": "Muerto En Vida",
         "url": "https://open.spotify.com/album/3FpkV6IQ6MhG9H2Nz0BEEy"
       },
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213120,
       "name": "Pase De Pescado",
       "url": "https://open.spotify.com/track/1gl2RrnBeJ5OkgAhAAAPkz"
@@ -1312,7 +1348,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 200125,
       "name": "Pase De Pescado (En Vivo)",
       "url": "https://open.spotify.com/track/6clvlKxsgxbMsDcBK3lvQv"
@@ -1348,7 +1384,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 129875,
       "name": "Polvo Feria Y Mas Lana",
       "url": "https://open.spotify.com/track/4IP9oom9cqcfzKRcxJQNSj"

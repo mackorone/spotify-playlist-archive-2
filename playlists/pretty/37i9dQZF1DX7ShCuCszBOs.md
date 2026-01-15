@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain](/playlists/plain/37i9dQZF1DX7ShCuCszBOs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ShCuCszBOs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain](/playlists/plain/37i9dQZF1DX7ShCuCszBOs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7ShCuCszBOs)
 
 ### [ZEROBASEONE WORLD TOUR \[TIMELESS WORLD\]](https://open.spotify.com/playlist/37i9dQZF1DX7ShCuCszBOs)
 
 > Enjoy the ZEROBASEONE Seoul world tour LIVE SET including the voices of them on stage! \(제로베이스원의 무대 멘트와 목소리가 포함된 서울 월드투어 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,619 likes - 30 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,707 likes - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

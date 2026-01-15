@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9zt7Z5fA3V9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9zt7Z5fA3V9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9zt7Z5fA3V9)
+[pretty](/playlists/pretty/37i9dQZF1DX9zt7Z5fA3V9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9zt7Z5fA3V9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9zt7Z5fA3V9)
 
 ### [Maldivas Playlist Oficial](https://open.spotify.com/playlist/37i9dQZF1DX9zt7Z5fA3V9)
 

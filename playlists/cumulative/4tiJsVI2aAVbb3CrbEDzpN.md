@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4tiJsVI2aAVbb3CrbEDzpN.md) - cumulative - [plain](/playlists/plain/4tiJsVI2aAVbb3CrbEDzpN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4tiJsVI2aAVbb3CrbEDzpN)
+[pretty](/playlists/pretty/4tiJsVI2aAVbb3CrbEDzpN.md) - cumulative - [plain](/playlists/plain/4tiJsVI2aAVbb3CrbEDzpN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4tiJsVI2aAVbb3CrbEDzpN)
 
 ### [Jaren 80 \- Jaren 80 Hits](https://open.spotify.com/playlist/4tiJsVI2aAVbb3CrbEDzpN)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWgDMrRmoe23.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWgDMrRmoe23) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWgDMrRmoe23)
+[pretty](/playlists/pretty/37i9dQZF1DWWgDMrRmoe23.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWgDMrRmoe23) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWgDMrRmoe23)
 
 ### [Mixtape \#4 Thundercat "25 songs for when you're hit by a car while riding an electric scooter"](https://open.spotify.com/playlist/37i9dQZF1DWWgDMrRmoe23)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSp5T5bVON3g.md) - [plain](/playlists/plain/37i9dQZF1DWSp5T5bVON3g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSp5T5bVON3g)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSp5T5bVON3g.md) - [plain](/playlists/plain/37i9dQZF1DWSp5T5bVON3g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSp5T5bVON3g)
 
 ### [Bass Legends](https://open.spotify.com/playlist/37i9dQZF1DWSp5T5bVON3g)
 

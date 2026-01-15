@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbRQkm2Ah3WW.md) - [plain](/playlists/plain/37i9dQZF1DXbRQkm2Ah3WW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbRQkm2Ah3WW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbRQkm2Ah3WW.md) - [plain](/playlists/plain/37i9dQZF1DXbRQkm2Ah3WW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbRQkm2Ah3WW)
 
 ### [The Dark Side](https://open.spotify.com/playlist/37i9dQZF1DXbRQkm2Ah3WW)
 
 > Embrace your inner Dark Side with this collection of music from your favorite Star Wars films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,518 likes - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,642 likes - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

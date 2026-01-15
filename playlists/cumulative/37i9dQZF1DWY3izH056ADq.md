@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY3izH056ADq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY3izH056ADq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY3izH056ADq)
+[pretty](/playlists/pretty/37i9dQZF1DWY3izH056ADq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY3izH056ADq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY3izH056ADq)
 
 ### [Paradox Live \-パラライ\-](https://open.spotify.com/playlist/37i9dQZF1DWY3izH056ADq)
 

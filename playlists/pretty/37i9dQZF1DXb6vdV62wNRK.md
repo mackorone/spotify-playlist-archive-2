@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain](/playlists/plain/37i9dQZF1DXb6vdV62wNRK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb6vdV62wNRK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain](/playlists/plain/37i9dQZF1DXb6vdV62wNRK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb6vdV62wNRK)
 
 ### [Corridos Progresivos](https://open.spotify.com/playlist/37i9dQZF1DXb6vdV62wNRK)
 
 > Al millón y pasaditos, mi compa\. Régulo Caro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,939 likes - 40 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,293 likes - 40 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZUxl2WH8cGS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZUxl2WH8cGS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZUxl2WH8cGS)
+[pretty](/playlists/pretty/37i9dQZF1DWZUxl2WH8cGS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZUxl2WH8cGS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZUxl2WH8cGS)
 
 ### [Netflix Family Dance Party Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWZUxl2WH8cGS)
 

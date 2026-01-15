@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/66uSq0mmMKat8vPRxsbmhp.md) - [plain](/playlists/plain/66uSq0mmMKat8vPRxsbmhp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/66uSq0mmMKat8vPRxsbmhp)
+pretty - [cumulative](/playlists/cumulative/66uSq0mmMKat8vPRxsbmhp.md) - [plain](/playlists/plain/66uSq0mmMKat8vPRxsbmhp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/66uSq0mmMKat8vPRxsbmhp)
 
 ### [Happy Birthday Joe Cocker](https://open.spotify.com/playlist/66uSq0mmMKat8vPRxsbmhp)
 

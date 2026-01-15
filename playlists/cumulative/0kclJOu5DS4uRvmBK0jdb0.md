@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0kclJOu5DS4uRvmBK0jdb0.md) - cumulative - [plain](/playlists/plain/0kclJOu5DS4uRvmBK0jdb0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0kclJOu5DS4uRvmBK0jdb0)
+[pretty](/playlists/pretty/0kclJOu5DS4uRvmBK0jdb0.md) - cumulative - [plain](/playlists/plain/0kclJOu5DS4uRvmBK0jdb0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0kclJOu5DS4uRvmBK0jdb0)
 
 ### [Sport frei!](https://open.spotify.com/playlist/0kclJOu5DS4uRvmBK0jdb0)
 

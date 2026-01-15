@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Nabila Ellisa, Bianura",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Aziz Hedra",
   "name": "JIVVA",
   "tracks": [
     {
@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "I Don't Know Anymore (Live Session)",
+        "url": "https://open.spotify.com/album/7LC8lDS175rIUcWD83IAzo"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263906,
+      "name": "I Don't Know Anymore (Live Session)",
+      "url": "https://open.spotify.com/track/2sxP2jSVMq59dDj5nVpoTn"
+    },
+    {
+      "album": {
         "name": "I Got It",
         "url": "https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX"
       },
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 249000,
       "name": "Lupa Daratan",
       "url": "https://open.spotify.com/track/0ze5tL5lom0zD3MFrH0Gz3"
@@ -3166,7 +3184,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184444,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/5jtVY2GJNGMLr4HuPQWwKp"
@@ -3238,7 +3256,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 260790,
       "name": "Senopati in the Rain",
       "url": "https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt"
@@ -3526,7 +3544,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 238997,
-      "name": "Status Palsu",
+      "name": "status palsu",
       "url": "https://open.spotify.com/track/2Q0glA9LEusp3MlGl26VNS"
     },
     {

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain](/playlists/plain/37i9dQZF1DWYnY33e7En9e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYnY33e7En9e)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain](/playlists/plain/37i9dQZF1DWYnY33e7En9e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYnY33e7En9e)
 
 ### [Retro Gaming](https://open.spotify.com/playlist/37i9dQZF1DWYnY33e7En9e)
 

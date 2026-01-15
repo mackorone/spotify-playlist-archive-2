@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5mILnBJLA26.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5mILnBJLA26) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5mILnBJLA26)
+[pretty](/playlists/pretty/37i9dQZF1DX5mILnBJLA26.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5mILnBJLA26) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5mILnBJLA26)
 
 ### [AMAPIANO GROOVES](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: Kelvin Momo
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: Al Xapo, Benzoo, Eeque
 
 1,540 songs - 6 day 17 hr 18 min
 

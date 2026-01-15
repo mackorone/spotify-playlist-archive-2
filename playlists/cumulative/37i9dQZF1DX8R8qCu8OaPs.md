@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8R8qCu8OaPs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8R8qCu8OaPs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8R8qCu8OaPs)
+[pretty](/playlists/pretty/37i9dQZF1DX8R8qCu8OaPs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8R8qCu8OaPs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8R8qCu8OaPs)
 
 ### [마이 유스 \(My Youth\)](https://open.spotify.com/playlist/37i9dQZF1DX8R8qCu8OaPs)
 

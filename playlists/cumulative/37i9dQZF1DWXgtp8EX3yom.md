@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXgtp8EX3yom.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXgtp8EX3yom) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXgtp8EX3yom)
+[pretty](/playlists/pretty/37i9dQZF1DWXgtp8EX3yom.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXgtp8EX3yom) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXgtp8EX3yom)
 
 ### [Polskie hity 2025](https://open.spotify.com/playlist/37i9dQZF1DWXgtp8EX3yom)
 

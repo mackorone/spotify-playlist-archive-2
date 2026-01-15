@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159833,
       "name": "Al\u00f4 Virg\u00ednia - Ao Vivo",
       "url": "https://open.spotify.com/track/75cbS6bJO0yUVXKVrRdSgv"
@@ -4712,7 +4712,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 156536,
       "name": "Bebe, Beija e Trai - Ao Vivo",
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
@@ -5760,7 +5760,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155751,
       "name": "Buqu\u00ea de Bebida - Ao Vivo",
       "url": "https://open.spotify.com/track/0rLe7uJkJ4NUCTLjEbp5ae"
@@ -6160,7 +6160,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221583,
       "name": "Cama e Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4jHrB8ZcGoFbSMVq2FXzmk"
@@ -6666,7 +6666,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148403,
       "name": "Carmed Chocolate",
       "url": "https://open.spotify.com/track/5q6p93gOrBy5dRkxOAylJ4"
@@ -10957,6 +10957,36 @@
     },
     {
       "album": {
+        "name": "Emendou / Anivers\u00e1rio Dela",
+        "url": "https://open.spotify.com/album/2JVDOA3jozcx4L5GFeilAW"
+      },
+      "artists": [
+        {
+          "name": "Reset",
+          "url": "https://open.spotify.com/artist/5jaMTcg4dhAlcwLLPUVPl3"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Duckjay",
+          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234705,
+      "name": "Emendou",
+      "url": "https://open.spotify.com/track/3zMqwjtmmxARBkMDU9CIku"
+    },
+    {
+      "album": {
         "name": "Encosta na Parede",
         "url": "https://open.spotify.com/album/4Lx2IrKx6HwDR1kEfXh2F0"
       },
@@ -10998,7 +11028,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -11844,7 +11874,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "Esse Cupido N\u00e3o Me Ajuda",
       "url": "https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL"
@@ -12202,7 +12232,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130952,
       "name": "Eu Quero \u00e9 Praia",
       "url": "https://open.spotify.com/track/5p5QetM8bXMWBUuyltZr5w"
@@ -14928,7 +14958,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 129090,
       "name": "GOSTOSIN",
       "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
@@ -15630,7 +15660,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 144812,
       "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
       "url": "https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg"
@@ -18576,6 +18606,28 @@
       "duration_ms": 167027,
       "name": "Maliciosa - Ao Vivo",
       "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
+    },
+    {
+      "album": {
+        "name": "Cortando Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YWwjhGXr41fuHIVMyycEa"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        },
+        {
+          "name": "Paulo Pires",
+          "url": "https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177268,
+      "name": "Maloqueiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MzgCL44HTP2noUkTevxzs"
     },
     {
       "album": {
@@ -24546,7 +24598,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165231,
       "name": "OR\u00c7AMENTO - Ao Vivo",
       "url": "https://open.spotify.com/track/1WAAgJc6yU4gMCGxpE2b5k"
@@ -25674,7 +25726,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171797,
       "name": "Pelo Bem da Minha Saudade",
       "url": "https://open.spotify.com/track/2W8XL6iRGMmGHpqW2TKcXc"
@@ -28464,7 +28516,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185984,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/4QZqSqxdcgAbtZle4MS4ph"
@@ -29304,7 +29356,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157173,
       "name": "Saudade Burra - Ao Vivo",
       "url": "https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG"
@@ -29424,7 +29476,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
@@ -29450,7 +29502,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/5bWtlLm47TCz34fmr9hZzL"
@@ -30090,6 +30142,60 @@
       "duration_ms": 142098,
       "name": "Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/344LzkpddPjSAkEtJK83QL"
+    },
+    {
+      "album": {
+        "name": "Semi Nua",
+        "url": "https://open.spotify.com/album/3tPQoE3kBpT18MQz0Pgy3i"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "MC RN do Cap\u00e3o",
+          "url": "https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548571,
+      "name": "Semi Nua",
+      "url": "https://open.spotify.com/track/4kqz2VSAmiLm06X90jmktL"
     },
     {
       "album": {
@@ -32402,7 +32508,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 126800,
       "name": "Talvez voc\u00ea precise de mim",
       "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
@@ -33446,7 +33552,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -34928,7 +35034,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 155307,
       "name": "T\u00f4 na Brasilia com o Zig\u00e3o",
       "url": "https://open.spotify.com/track/4l2Fyw7EYB5XjcKwqcwuHQ"
@@ -35516,7 +35622,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150936,
       "name": "Vai Cair \u00c1gua - Ao Vivo",
       "url": "https://open.spotify.com/track/0qZwqMsGSClyrKzbVbRto9"
@@ -35832,7 +35938,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 157033,
       "name": "Valentino",
       "url": "https://open.spotify.com/track/6OPfBo0J6yqzSY9WxNlbA5"

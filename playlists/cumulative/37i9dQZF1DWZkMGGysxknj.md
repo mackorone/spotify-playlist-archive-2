@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZkMGGysxknj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZkMGGysxknj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZkMGGysxknj)
+[pretty](/playlists/pretty/37i9dQZF1DWZkMGGysxknj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZkMGGysxknj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZkMGGysxknj)
 
 ### [Café, Libros.](https://open.spotify.com/playlist/37i9dQZF1DWZkMGGysxknj)
 
@@ -184,7 +184,7 @@
 | [Losing My Religion](https://open.spotify.com/track/5gQJkOnav0JZPh32HERWYD) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Losing My Religion](https://open.spotify.com/album/64SvXrbWzFrDIykCtZ4O3r) | 4:06 | 2021-07-16 | 2022-07-29 |
 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 | 2021-07-16 |  |
 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 | 2021-07-16 |  |
-| [Medicine \- Acoustic](https://open.spotify.com/track/7iLlwpist1NrZq3PU9EXF1) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Medicine \(Acoustic\)](https://open.spotify.com/album/2wncDDW5aUdRDOc8p610cJ) | 4:22 | 2025-06-20 |  |
+| [Medicine \- Acoustic](https://open.spotify.com/track/7iLlwpist1NrZq3PU9EXF1) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Medicine \(Acoustic\)](https://open.spotify.com/album/2wncDDW5aUdRDOc8p610cJ) | 4:22 | 2025-06-20 |  |
 | [Mejor Ya No Regreses](https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Mejor Ya No Regreses](https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF) | 3:45 | 2025-01-09 |  |
 | [Mente de Agua](https://open.spotify.com/track/2ur4kl2hjkQKRjMSJL9GuB) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Nuevo Mundo](https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI) | 3:39 | 2024-03-08 | 2024-06-28 |
 | [Mi Gente \- Acoustic](https://open.spotify.com/track/1ci9VbZkSxkWmWkD5xGurr) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC), [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Mi Gente \(Acoustic\)](https://open.spotify.com/album/6ygBeTx54rBIFb2YIkq5tj) | 2:40 | 2021-07-16 |  |

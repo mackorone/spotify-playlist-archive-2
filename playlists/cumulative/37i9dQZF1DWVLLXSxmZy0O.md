@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVLLXSxmZy0O.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVLLXSxmZy0O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVLLXSxmZy0O)
+[pretty](/playlists/pretty/37i9dQZF1DWVLLXSxmZy0O.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVLLXSxmZy0O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVLLXSxmZy0O)
 
 ### [디즈니+ 인기곡](https://open.spotify.com/playlist/37i9dQZF1DWVLLXSxmZy0O)
 

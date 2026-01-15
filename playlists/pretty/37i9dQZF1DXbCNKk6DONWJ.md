@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCNKk6DONWJ.md) - [plain](/playlists/plain/37i9dQZF1DXbCNKk6DONWJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbCNKk6DONWJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCNKk6DONWJ.md) - [plain](/playlists/plain/37i9dQZF1DXbCNKk6DONWJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbCNKk6DONWJ)
 
 ### [The Archies Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbCNKk6DONWJ)
 
 > Featuring all your favourite songs from The Archies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,775 likes - 17 songs - 41 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,776 likes - 17 songs - 41 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

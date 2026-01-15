@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Hank",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: VICKY",
   "name": "me right now",
   "tracks": [
     {
@@ -7432,7 +7432,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150733,
       "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
       "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
@@ -16674,7 +16674,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 68702,
       "name": "ESTA NOCHE",
       "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
@@ -24069,6 +24069,32 @@
     },
     {
       "album": {
+        "name": "hier und jetzt",
+        "url": "https://open.spotify.com/album/6Nu7gF5rhwZlbWLm0B5A0S"
+      },
+      "artists": [
+        {
+          "name": "MotB",
+          "url": "https://open.spotify.com/artist/1pPWAweVqMBxqTvvWEVtQc"
+        },
+        {
+          "name": "Monk",
+          "url": "https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177534,
+      "name": "hier und jetzt",
+      "url": "https://open.spotify.com/track/5AEOJ124tyHcXl1uXxXLVC"
+    },
+    {
+      "album": {
         "name": "HIGH (feat. Claudia Valentina)",
         "url": "https://open.spotify.com/album/7MNhKR78JxxQh9TwgOTxBM"
       },
@@ -24326,7 +24352,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 146752,
       "name": "Hoe Hoe Hoe",
       "url": "https://open.spotify.com/track/7Kd1sScbi9I9zQlsamLzJ9"
@@ -31404,7 +31430,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141453,
       "name": "leicht",
       "url": "https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB"
@@ -31834,7 +31860,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 156000,
       "name": "lfme",
       "url": "https://open.spotify.com/track/7IAbljh3tbA852xhePXkfB"
@@ -33751,6 +33777,24 @@
     },
     {
       "album": {
+        "name": "Spotify Wrapped 2025 Live",
+        "url": "https://open.spotify.com/album/7F2IsC9qTegf5ZsWbybETk"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156724,
+      "name": "L\u00fcg mich nicht mehr an - Spotify Wrapped 2025 Live",
+      "url": "https://open.spotify.com/track/3i7CdwsTy8XU7PgC0OPNXp"
+    },
+    {
+      "album": {
         "name": "Ma Baby",
         "url": "https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA"
       },
@@ -34264,6 +34308,24 @@
       "duration_ms": 139182,
       "name": "Maneater - Sped Up",
       "url": "https://open.spotify.com/track/5REQaVsZFgqCEKYY8evZ0I"
+    },
+    {
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "album": {
@@ -37331,6 +37393,24 @@
     },
     {
       "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
+    },
+    {
+      "album": {
         "name": "M\u00e4dchen auf dem Pferd",
         "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
       },
@@ -37944,7 +38024,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159744,
       "name": "NARCOTIC",
       "url": "https://open.spotify.com/track/3dtpPhcxGmPlP0tPRfR8X7"
@@ -39672,6 +39752,24 @@
       "duration_ms": 144316,
       "name": "NPCs (mit Aggu)",
       "url": "https://open.spotify.com/track/2kBllzLD3kRVAecjxkOUrQ"
+    },
+    {
+      "album": {
+        "name": "Spotify Wrapped 2025 Live",
+        "url": "https://open.spotify.com/album/7F2IsC9qTegf5ZsWbybETk"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164094,
+      "name": "Number One - Spotify Wrapped 2025 Live",
+      "url": "https://open.spotify.com/track/5FKM6UlL5QWO8WadPrX8sF"
     },
     {
       "album": {
@@ -41964,6 +42062,24 @@
       "duration_ms": 174907,
       "name": "Party mit mir selbst",
       "url": "https://open.spotify.com/track/2kNpg9AiImLPLhDDbgWgZs"
+    },
+    {
+      "album": {
+        "name": "Party nur f\u00fcr mich",
+        "url": "https://open.spotify.com/album/2Xjy2Hk2Baz1kDOH3ZSsZt"
+      },
+      "artists": [
+        {
+          "name": "VICKY",
+          "url": "https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157201,
+      "name": "Party nur f\u00fcr mich",
+      "url": "https://open.spotify.com/track/4cUr4zVICnnqfh6TzfM81k"
     },
     {
       "album": {
@@ -53133,7 +53249,7 @@
       "artists": [
         {
           "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe"
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
         }
       ],
       "date_added": "2025-12-18",
@@ -56191,6 +56307,24 @@
     },
     {
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "album": {
         "name": "milk & honey",
         "url": "https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl"
       },
@@ -58190,16 +58324,16 @@
           "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         },
         {
-          "name": "Noah Kraus",
-          "url": "https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME"
-        },
-        {
           "name": "Sam Harper",
           "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
         },
         {
           "name": "Bobby Harvey",
           "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
+        },
+        {
+          "name": "Noah Kraus",
+          "url": "https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME"
         }
       ],
       "date_added": "2025-11-13",

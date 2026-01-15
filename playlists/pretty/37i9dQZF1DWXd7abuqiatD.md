@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXd7abuqiatD.md) - [plain](/playlists/plain/37i9dQZF1DWXd7abuqiatD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXd7abuqiatD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXd7abuqiatD.md) - [plain](/playlists/plain/37i9dQZF1DWXd7abuqiatD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXd7abuqiatD)
 
 ### [Driving Anthems](https://open.spotify.com/playlist/37i9dQZF1DWXd7abuqiatD)
 
 > Pacific Avenue curate your next Road Trip
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,232 likes - 45 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,540 likes - 45 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

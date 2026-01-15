@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190059,
       "name": "Doe Het Voor Het Geld",
       "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Kubus In Een Ballenbak",
+        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "Komt Goed",
+      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
+    },
+    {
+      "album": {
         "name": "Koortsdroom",
         "url": "https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL"
       },
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 144782,
       "name": "Niemand",
       "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
@@ -3610,6 +3628,24 @@
       "duration_ms": 118666,
       "name": "Privilege",
       "url": "https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r"
+    },
+    {
+      "album": {
+        "name": "Kleinkunst",
+        "url": "https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144520,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/2NhflROyhPgc2AtDjRo9bC"
     },
     {
       "album": {
@@ -4162,7 +4198,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 261181,
       "name": "TOM",
       "url": "https://open.spotify.com/track/2TEheyi5V6hr4P4K1F20a2"
@@ -4498,7 +4534,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211264,
       "name": "VOL v2.025",
       "url": "https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY"

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJSD0h3d389.md) - [plain](/playlists/plain/37i9dQZF1DWYJSD0h3d389) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYJSD0h3d389)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJSD0h3d389.md) - [plain](/playlists/plain/37i9dQZF1DWYJSD0h3d389) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYJSD0h3d389)
 
 ### [COUNTER//CULTURE: St\. Vincent](https://open.spotify.com/playlist/37i9dQZF1DWYJSD0h3d389)
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6?si=ebf55f99cddb44b9">St\. Vincent's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,595 likes - 29 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,816 likes - 29 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

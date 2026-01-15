@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5v05Lp36zECefBP7ZcxguL.md) - cumulative - [plain](/playlists/plain/5v05Lp36zECefBP7ZcxguL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5v05Lp36zECefBP7ZcxguL)
+[pretty](/playlists/pretty/5v05Lp36zECefBP7ZcxguL.md) - cumulative - [plain](/playlists/plain/5v05Lp36zECefBP7ZcxguL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5v05Lp36zECefBP7ZcxguL)
 
 ### [Les 100 de 2025](https://open.spotify.com/playlist/5v05Lp36zECefBP7ZcxguL)
 

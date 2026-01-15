@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain](/playlists/plain/37i9dQZF1DWUQGcZi2K0LO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUQGcZi2K0LO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain](/playlists/plain/37i9dQZF1DWUQGcZi2K0LO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUQGcZi2K0LO)
 
 ### [Best of Indie India 2025](https://open.spotify.com/playlist/37i9dQZF1DWUQGcZi2K0LO)
 
 > Editors pick the best songs from Indie India in 2025\. Cover: Kushagra
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,902 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,269 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

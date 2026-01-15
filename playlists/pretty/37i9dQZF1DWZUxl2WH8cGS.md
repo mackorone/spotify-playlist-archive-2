@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain](/playlists/plain/37i9dQZF1DWZUxl2WH8cGS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZUxl2WH8cGS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain](/playlists/plain/37i9dQZF1DWZUxl2WH8cGS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZUxl2WH8cGS)
 
 ### [Netflix Family Dance Party Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWZUxl2WH8cGS)
 
 > Dance to the tunes from your favorite Netflix family\-friendly series and movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,582 likes - 42 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,574 likes - 42 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

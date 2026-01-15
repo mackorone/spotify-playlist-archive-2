@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain](/playlists/plain/37i9dQZF1DX14rbJEM3cke) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX14rbJEM3cke)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain](/playlists/plain/37i9dQZF1DX14rbJEM3cke) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX14rbJEM3cke)
 
 ### [Rock Frequency](https://open.spotify.com/playlist/37i9dQZF1DX14rbJEM3cke)
 
 > New Rock & Alt driving the current\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,357 likes - 91 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,367 likes - 91 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

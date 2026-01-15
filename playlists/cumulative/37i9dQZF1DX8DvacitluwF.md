@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8DvacitluwF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8DvacitluwF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8DvacitluwF)
+[pretty](/playlists/pretty/37i9dQZF1DX8DvacitluwF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8DvacitluwF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8DvacitluwF)
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Sasha Keable
+> The best in South African and international R&B\. Cover: Dave, Tems
 
-617 songs - 1 day 9 hr 10 min
+618 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Asyeke](https://open.spotify.com/track/4hje3mzEY1UWmYHv9KaePN) | [Umzulu Phaqa](https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND), [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60) | [Asyeke](https://open.spotify.com/album/6e7ceXPUdyn1t11wdabEY4) | 3:37 | 2025-06-13 | 2025-06-20 |
 | [Attention](https://open.spotify.com/track/0N8c3AlYRcgJ0RcCmZjbCV) | [Shalate](https://open.spotify.com/artist/52XowYt0U9ZWvAbKVZ0HaK) | [Love Is...](https://open.spotify.com/album/40XbmQcytzVV35HGy7bonG) | 2:50 | 2023-10-12 | 2023-10-20 |
 | [Autumn](https://open.spotify.com/track/4rwdjhmikuhQ7APQMKrNoe) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Sarang / 사랑](https://open.spotify.com/album/4NVaNkPf051HYgA6SiWyDy) | 3:23 | 2024-05-09 | 2024-09-03 |
-| [Aweh](https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:04 | 2025-05-01 |  |
+| [Aweh](https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:04 | 2025-05-01 | 2026-01-15 |
 | [Aweh](https://open.spotify.com/track/7qDjCYL4F7xvLm9LsqEw5U) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Aweh](https://open.spotify.com/album/7FVDyG8RryPZC9qPzl1bzZ) | 3:04 | 2025-03-14 | 2025-06-20 |
 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 | 2025-08-29 |  |
 | [Back 2 U](https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX) | [Adrienne Foo](https://open.spotify.com/artist/5lsaKDXCs0VHVJ5UxMFqSA), [Phiwo](https://open.spotify.com/artist/1aMVkMfK9Wo0rd7TfBymHY) | [Back 2 U](https://open.spotify.com/album/2pvijmArToNkuu9VWUASxo) | 5:10 | 2023-10-20 | 2024-01-26 |
@@ -435,6 +435,7 @@
 | [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 | 2025-03-07 | 2025-05-02 |
 | [Put it Down](https://open.spotify.com/track/0HQVlbkWghJ4ZI80cDlLjY) | [Skys a Blu](https://open.spotify.com/artist/3xMYjNtDQl2dviQ5g6EuRc) | [Put it Down](https://open.spotify.com/album/629dAepl2HBb1Y9mALJBRa) | 2:52 | 2024-03-14 | 2024-04-26 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-14 | 2024-07-12 |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-01-08 |  |
 | [Range 95’](https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 2:59 | 2023-10-12 | 2024-01-26 |
 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-04-18 | 2025-08-29 |
 | [READY](https://open.spotify.com/track/5xT1XuQ5TunvvLZuop2W4w) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 1:25 | 2025-06-13 | 2025-06-20 |

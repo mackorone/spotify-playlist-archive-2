@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain](/playlists/plain/37i9dQZF1DWXtbUVymJmYH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXtbUVymJmYH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain](/playlists/plain/37i9dQZF1DWXtbUVymJmYH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXtbUVymJmYH)
 
 ### [Deutschrap Brandneu presents: Best Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DWXtbUVymJmYH)
 
 > Editors’ Picks: Die besten Deutschrap Tracks des Jahres\. Cover: Ceren & Pashanim
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,180 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,570 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

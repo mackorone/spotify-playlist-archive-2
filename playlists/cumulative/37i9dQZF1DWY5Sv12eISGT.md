@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY5Sv12eISGT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY5Sv12eISGT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY5Sv12eISGT)
+[pretty](/playlists/pretty/37i9dQZF1DWY5Sv12eISGT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY5Sv12eISGT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY5Sv12eISGT)
 
 ### [Afro Acoustic](https://open.spotify.com/playlist/37i9dQZF1DWY5Sv12eISGT)
 

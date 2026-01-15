@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5nz3AAoDyHSidelqd2fnci.md) - cumulative - [plain](/playlists/plain/5nz3AAoDyHSidelqd2fnci) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5nz3AAoDyHSidelqd2fnci)
+[pretty](/playlists/pretty/5nz3AAoDyHSidelqd2fnci.md) - cumulative - [plain](/playlists/plain/5nz3AAoDyHSidelqd2fnci) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5nz3AAoDyHSidelqd2fnci)
 
 ### [import of The daily dozen \(@pipemanuel10\)](https://open.spotify.com/playlist/5nz3AAoDyHSidelqd2fnci)
 

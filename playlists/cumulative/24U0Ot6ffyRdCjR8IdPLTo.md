@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/24U0Ot6ffyRdCjR8IdPLTo.md) - cumulative - [plain](/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo)
+[pretty](/playlists/pretty/24U0Ot6ffyRdCjR8IdPLTo.md) - cumulative - [plain](/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/24U0Ot6ffyRdCjR8IdPLTo)
 
 ### [Pop Focus \| Pop Music for Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
@@ -181,7 +181,7 @@
 | [jupiter and mars](https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Jupiter and Mars](https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh) | 4:07 | 2023-08-15 | 2024-12-14 |
 | [KILOS](https://open.spotify.com/track/5dkJEE0TecbGBVfTD9Ud0O) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [KILOS](https://open.spotify.com/album/7778WUkw4GEripfJ7R0V3y) | 3:15 | 2021-12-06 | 2023-08-16 |
 | [lacy](https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:57 | 2023-09-08 | 2023-11-07 |
-| [Landslide](https://open.spotify.com/track/2QQKyvymCY1f21Fa2hrmrk) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Landslide](https://open.spotify.com/album/0nzHv5e8kBjl0S359J2bmr) | 3:55 | 2024-06-28 |  |
+| [Landslide](https://open.spotify.com/track/2QQKyvymCY1f21Fa2hrmrk) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Landslide](https://open.spotify.com/album/0nzHv5e8kBjl0S359J2bmr) | 3:55 | 2024-06-28 |  |
 | [Learning Curve](https://open.spotify.com/track/0lYA7tyLikZXufp49tzlZS) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Learning Curve](https://open.spotify.com/album/587GrQ5Jqm6crL2Igjn0d3) | 2:41 | 2023-10-21 | 2024-12-14 |
 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 | 2024-04-26 | 2025-01-12 |
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-15 | 2024-06-15 |

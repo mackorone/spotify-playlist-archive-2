@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1h90L3LP8kAJ7KGjCV2Xfd.md) - cumulative - [plain](/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd)
+[pretty](/playlists/pretty/1h90L3LP8kAJ7KGjCV2Xfd.md) - cumulative - [plain](/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1h90L3LP8kAJ7KGjCV2Xfd)
 
 ### [Feel Good 🤩 Happy Hits](https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd)
 

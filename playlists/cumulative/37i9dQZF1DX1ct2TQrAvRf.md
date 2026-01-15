@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1ct2TQrAvRf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ct2TQrAvRf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ct2TQrAvRf)
+[pretty](/playlists/pretty/37i9dQZF1DX1ct2TQrAvRf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ct2TQrAvRf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1ct2TQrAvRf)
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- DIVINE
+> India's Rap Scene\. Cover \- ARJN & KDS
 
 366 songs - 19 hr 41 min
 

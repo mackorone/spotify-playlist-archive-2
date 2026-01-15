@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmX5LMTOKPw.md) - [plain](/playlists/plain/37i9dQZF1DWVmX5LMTOKPw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVmX5LMTOKPw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmX5LMTOKPw.md) - [plain](/playlists/plain/37i9dQZF1DWVmX5LMTOKPw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVmX5LMTOKPw)
 
 ### [Today's Top Hits Presents Best Hit Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DWVmX5LMTOKPw)
 
 > Our editors' picks for the best hit songs of the year\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,243 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,288 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

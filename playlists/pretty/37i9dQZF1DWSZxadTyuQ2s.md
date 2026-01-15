@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain](/playlists/plain/37i9dQZF1DWSZxadTyuQ2s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSZxadTyuQ2s)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain](/playlists/plain/37i9dQZF1DWSZxadTyuQ2s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSZxadTyuQ2s)
 
 ### [Best of Global Afrobeats 2025](https://open.spotify.com/playlist/37i9dQZF1DWSZxadTyuQ2s)
 
 > Our editors'  picks for the best global Afrobeats songs this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,966 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,817 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

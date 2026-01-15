@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 115161,
       "name": "Crazy Design - Que Rica",
       "url": "https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1"
@@ -7432,6 +7432,28 @@
       "duration_ms": 179124,
       "name": "Se Comenta",
       "url": "https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D"
+    },
+    {
+      "album": {
+        "name": "Se Dejo Del Novio",
+        "url": "https://open.spotify.com/album/4A379mjlFDtZgMQKkYHXGB"
+      },
+      "artists": [
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130677,
+      "name": "Se Dejo Del Novio",
+      "url": "https://open.spotify.com/track/1Xr3x1zElsBYlFzTvS60c8"
     },
     {
       "album": {

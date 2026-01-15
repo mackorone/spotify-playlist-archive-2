@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87JE1B72J6C.md) - [plain](/playlists/plain/37i9dQZF1DX87JE1B72J6C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX87JE1B72J6C)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87JE1B72J6C.md) - [plain](/playlists/plain/37i9dQZF1DX87JE1B72J6C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX87JE1B72J6C)
 
 ### [This Is deadmau5](https://open.spotify.com/playlist/37i9dQZF1DX87JE1B72J6C)
 

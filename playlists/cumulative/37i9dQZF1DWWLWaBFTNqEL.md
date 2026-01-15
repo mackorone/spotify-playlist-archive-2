@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWLWaBFTNqEL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWLWaBFTNqEL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWLWaBFTNqEL)
+[pretty](/playlists/pretty/37i9dQZF1DWWLWaBFTNqEL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWLWaBFTNqEL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWLWaBFTNqEL)
 
 ### [Street Fighter Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWWLWaBFTNqEL)
 

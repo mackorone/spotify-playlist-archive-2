@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain](/playlists/plain/37i9dQZF1DWY6vTWIdZ54A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY6vTWIdZ54A)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain](/playlists/plain/37i9dQZF1DWY6vTWIdZ54A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY6vTWIdZ54A)
 
 ### [Dirty Rock](https://open.spotify.com/playlist/37i9dQZF1DWY6vTWIdZ54A)
 

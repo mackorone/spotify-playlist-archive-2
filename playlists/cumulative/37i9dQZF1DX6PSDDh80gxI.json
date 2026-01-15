@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "ciao buon anno dagli editor di Spotify \ud83c\udf81  cominciamo l'anno con coez in cover",
+  "description": "Gli Eugenio in Via Di Gioia ci hanno dato un posto, un pugno e un senso (e qualche lacrimuccia) in questo inizio anno \ud83c\udfe0",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -694,6 +694,24 @@
       "duration_ms": 198620,
       "name": "Ascoltare gli alberi",
       "url": "https://open.spotify.com/track/0gQ7KxkgClrDXvD4MrfAQT"
+    },
+    {
+      "album": {
+        "name": "Astri",
+        "url": "https://open.spotify.com/album/2pG1yO9hcUKUEobzi6gnb6"
+      },
+      "artists": [
+        {
+          "name": "MOBRICI",
+          "url": "https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221120,
+      "name": "Astri",
+      "url": "https://open.spotify.com/track/6IxuNkruuGCSVHc9nY7sFk"
     },
     {
       "album": {
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199787,
       "name": "Con la lingua",
       "url": "https://open.spotify.com/track/4NDoVeIP6mpA3r2M9BXYmc"
@@ -2912,7 +2930,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223800,
       "name": "I LAUREATI",
       "url": "https://open.spotify.com/track/6IL8yNP5qwG3RK4y5D3WRv"
@@ -3678,7 +3696,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 231549,
       "name": "La ragazza di Vittorio",
       "url": "https://open.spotify.com/track/1KIsmAD551sdN6DlHXadln"
@@ -3898,7 +3916,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163382,
       "name": "Little Rat",
       "url": "https://open.spotify.com/track/4q3ZKc4CcEwhzuusvsr4Dg"
@@ -5404,7 +5422,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167029,
       "name": "panna sPray",
       "url": "https://open.spotify.com/track/7h3eRZRld4KfTOJytwulFv"
@@ -5812,7 +5830,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 206438,
       "name": "piccola ostrica",
       "url": "https://open.spotify.com/track/4d5JG1mDf8G1EPBFKvjg5A"
@@ -5946,7 +5964,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209173,
       "name": "Pompe",
       "url": "https://open.spotify.com/track/5UxnZm9oHVBZGzpcEoZ6Qi"
@@ -6312,7 +6330,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180000,
       "name": "ragnatela",
       "url": "https://open.spotify.com/track/3et4jbxdPRhdQrK4uXuPty"
@@ -6330,7 +6348,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 127175,
       "name": "REPLAY",
       "url": "https://open.spotify.com/track/5pz1YEoos6C9R2CNOTGjcx"
@@ -7633,6 +7651,24 @@
     },
     {
       "album": {
+        "name": "Truman",
+        "url": "https://open.spotify.com/album/7wL5KaHBoQXjBafA5nqdP2"
+      },
+      "artists": [
+        {
+          "name": "Birthh",
+          "url": "https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143104,
+      "name": "Truman",
+      "url": "https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr"
+    },
+    {
+      "album": {
         "name": "Tu con me hai chiuso",
         "url": "https://open.spotify.com/album/4S5w44QBiLFDaSbW6gUlPL"
       },
@@ -8135,6 +8171,24 @@
     },
     {
       "album": {
+        "name": "Vanagloria",
+        "url": "https://open.spotify.com/album/6U4meIqdidImHWIqqvkD48"
+      },
+      "artists": [
+        {
+          "name": "Tutti Fenomeni",
+          "url": "https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204713,
+      "name": "Vanagloria",
+      "url": "https://open.spotify.com/track/1xTjMkjpcfHMKVSAWMjhS4"
+    },
+    {
+      "album": {
         "name": "INTERNET EXPLORER",
         "url": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp"
       },
@@ -8186,6 +8240,24 @@
       "duration_ms": 219360,
       "name": "Venere",
       "url": "https://open.spotify.com/track/5AwfzS5XZ7giXnTjV5BhfV"
+    },
+    {
+      "album": {
+        "name": "Silenzio (tutto di me)",
+        "url": "https://open.spotify.com/album/0j6fIV7o9vPPTUO9mqgsFF"
+      },
+      "artists": [
+        {
+          "name": "Casadilego",
+          "url": "https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197996,
+      "name": "Verdeforesta",
+      "url": "https://open.spotify.com/track/7bjv3V9G6k9sbTyqVEtYrI"
     },
     {
       "album": {

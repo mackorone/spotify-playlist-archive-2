@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/17FhYU8sLrszVwZ9LlRMFg.md) - [plain](/playlists/plain/17FhYU8sLrszVwZ9LlRMFg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/17FhYU8sLrszVwZ9LlRMFg)
+pretty - [cumulative](/playlists/cumulative/17FhYU8sLrszVwZ9LlRMFg.md) - [plain](/playlists/plain/17FhYU8sLrszVwZ9LlRMFg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/17FhYU8sLrszVwZ9LlRMFg)
 
 ### [Ultra Sigma Patrick Bateman](https://open.spotify.com/playlist/17FhYU8sLrszVwZ9LlRMFg)
 

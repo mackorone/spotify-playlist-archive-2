@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1ciKEeRL2zU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ciKEeRL2zU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ciKEeRL2zU)
+[pretty](/playlists/pretty/37i9dQZF1DX1ciKEeRL2zU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ciKEeRL2zU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1ciKEeRL2zU)
 
 ### [Love Back](https://open.spotify.com/playlist/37i9dQZF1DX1ciKEeRL2zU)
 

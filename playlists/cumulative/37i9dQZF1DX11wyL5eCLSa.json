@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Jos\u00e9 Madero en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Le\u00f3n Larregui en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -1432,6 +1432,24 @@
       "duration_ms": 271336,
       "name": "Brillando",
       "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
+    },
+    {
+      "album": {
+        "name": "Bruma",
+        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
     },
     {
       "album": {
@@ -5120,7 +5138,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 280446,
       "name": "Frecuencias - Spotify Sessions",
       "url": "https://open.spotify.com/track/2uFr0p183WqZRDOdZH1hXX"
@@ -6177,6 +6195,28 @@
     },
     {
       "album": {
+        "name": "La Canci\u00f3n Que Te Escrib\u00ed",
+        "url": "https://open.spotify.com/album/5cvfyDEkOtQIlKKxBvjQDH"
+      },
+      "artists": [
+        {
+          "name": "Monte Carlo",
+          "url": "https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K"
+        },
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243260,
+      "name": "La Canci\u00f3n Que Te Escrib\u00ed",
+      "url": "https://open.spotify.com/track/3eAm2MDm6cygu4mOx0QWjw"
+    },
+    {
+      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
       },
@@ -6466,6 +6506,24 @@
       "duration_ms": 186812,
       "name": "La Mochila del Mundo",
       "url": "https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb"
+    },
+    {
+      "album": {
+        "name": "FLORECE EN EL CAOS",
+        "url": "https://open.spotify.com/album/1dFtJQK4H3PlsaPP2WZrdl"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209216,
+      "name": "La Noche De Ayer",
+      "url": "https://open.spotify.com/track/3zP3i3HvBoESs7blohlvsi"
     },
     {
       "album": {
@@ -8202,7 +8260,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 161941,
       "name": "Mexas en Texas",
       "url": "https://open.spotify.com/track/0k7yVRgr59ErbHuRS73Ilf"
@@ -13236,7 +13294,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 251408,
       "name": "Un Brindis al Sol",
       "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"

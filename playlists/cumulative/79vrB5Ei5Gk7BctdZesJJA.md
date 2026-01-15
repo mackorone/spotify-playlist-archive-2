@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/79vrB5Ei5Gk7BctdZesJJA.md) - cumulative - [plain](/playlists/plain/79vrB5Ei5Gk7BctdZesJJA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/79vrB5Ei5Gk7BctdZesJJA)
+[pretty](/playlists/pretty/79vrB5Ei5Gk7BctdZesJJA.md) - cumulative - [plain](/playlists/plain/79vrB5Ei5Gk7BctdZesJJA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/79vrB5Ei5Gk7BctdZesJJA)
 
 ### [DEADNOISE.FM](https://open.spotify.com/playlist/79vrB5Ei5Gk7BctdZesJJA)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain](/playlists/plain/7cLjxtsfpbw3f6fXfCzWoz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7cLjxtsfpbw3f6fXfCzWoz)
+pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain](/playlists/plain/7cLjxtsfpbw3f6fXfCzWoz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7cLjxtsfpbw3f6fXfCzWoz)
 
 ### [Gender Neutral Love and Hate](https://open.spotify.com/playlist/7cLjxtsfpbw3f6fXfCzWoz)
 

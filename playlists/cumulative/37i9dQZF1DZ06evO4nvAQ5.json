@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 215423,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/1FZcMIsN76Fo1X0j4GHiWv"
@@ -736,6 +736,28 @@
       "duration_ms": 282052,
       "name": "If I Ever",
       "url": "https://open.spotify.com/track/3UKwvOFBizVnVKBQ6ZqG0Y"
+    },
+    {
+      "album": {
+        "name": "Indigenous Life",
+        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237307,
+      "name": "Indigenous Life",
+      "url": "https://open.spotify.com/track/5AVIMvDz4vEQGUG0PJZJpb"
     },
     {
       "album": {

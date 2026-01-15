@@ -480,7 +480,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 168376,
       "name": "GAME",
       "url": "https://open.spotify.com/track/4KcBt9xWi2VGzC5ggh0Rsu"
@@ -951,6 +951,28 @@
     },
     {
       "album": {
+        "name": "Miss Me with That",
+        "url": "https://open.spotify.com/album/5b9dzTABt4vF16mNM8ZHQR"
+      },
+      "artists": [
+        {
+          "name": "Push Kahlon",
+          "url": "https://open.spotify.com/artist/3FV1d5JZKT5LjoMbBhZoBP"
+        },
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178021,
+      "name": "Miss Me with That",
+      "url": "https://open.spotify.com/track/6tzJGrQ9MeRs5IPZo9WwZd"
+    },
+    {
+      "album": {
         "name": "Morni",
         "url": "https://open.spotify.com/album/5XMRX2wDjcNQLlQKnZ0dwc"
       },
@@ -970,7 +992,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155604,
       "name": "Morni",
       "url": "https://open.spotify.com/track/6dbOigDrDQ64IN1xLr0ZtM"
@@ -1336,6 +1358,32 @@
       "duration_ms": 168200,
       "name": "Tension",
       "url": "https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5"
+    },
+    {
+      "album": {
+        "name": "Tere Piche",
+        "url": "https://open.spotify.com/album/0Ku1nx3SBzwAJrZR8ouyQx"
+      },
+      "artists": [
+        {
+          "name": "Zaildar",
+          "url": "https://open.spotify.com/artist/1AQ9kfR9Yyi7EftsSI6T2n"
+        },
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "Sickboi",
+          "url": "https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Tere Piche",
+      "url": "https://open.spotify.com/track/4wdImu26A6CjDems2AfAic"
     },
     {
       "album": {

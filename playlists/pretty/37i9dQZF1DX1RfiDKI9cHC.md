@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RfiDKI9cHC.md) - [plain](/playlists/plain/37i9dQZF1DX1RfiDKI9cHC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1RfiDKI9cHC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RfiDKI9cHC.md) - [plain](/playlists/plain/37i9dQZF1DX1RfiDKI9cHC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1RfiDKI9cHC)
 
 ### [COUNTER//CULTURE: Scowl](https://open.spotify.com/playlist/37i9dQZF1DX1RfiDKI9cHC)
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp?si=87a2593f6abb427a">Scowl's<a/> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,276 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,415 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

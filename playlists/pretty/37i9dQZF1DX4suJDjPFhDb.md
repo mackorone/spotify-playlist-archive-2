@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4suJDjPFhDb.md) - [plain](/playlists/plain/37i9dQZF1DX4suJDjPFhDb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4suJDjPFhDb)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4suJDjPFhDb.md) - [plain](/playlists/plain/37i9dQZF1DX4suJDjPFhDb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4suJDjPFhDb)
 
 ### [Sanremo: I Vincitori](https://open.spotify.com/playlist/37i9dQZF1DX4suJDjPFhDb)
 
 > Se ha vinto il festival ed è su Spotify, è in questa playlist 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,872 likes - 72 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,871 likes - 72 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

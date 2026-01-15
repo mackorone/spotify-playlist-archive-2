@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain](/playlists/plain/37i9dQZF1DWUnxTFrYlC2a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUnxTFrYlC2a)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain](/playlists/plain/37i9dQZF1DWUnxTFrYlC2a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUnxTFrYlC2a)
 
 ### [CHIKLOSAS](https://open.spotify.com/playlist/37i9dQZF1DWUnxTFrYlC2a)
 
 > 🍬😝 CA7RIEL & Paco Amoroso EN PORTADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,402 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,362 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

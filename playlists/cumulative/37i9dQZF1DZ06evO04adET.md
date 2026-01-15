@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO04adET.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO04adET) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO04adET)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO04adET.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO04adET) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO04adET)
 
 ### [This Is Natanael Cano](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04adET)
 

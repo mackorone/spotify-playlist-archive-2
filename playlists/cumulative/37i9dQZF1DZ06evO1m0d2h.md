@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1m0d2h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1m0d2h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1m0d2h)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1m0d2h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1m0d2h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1m0d2h)
 
 ### [This Is Sleep Token](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1m0d2h)
 

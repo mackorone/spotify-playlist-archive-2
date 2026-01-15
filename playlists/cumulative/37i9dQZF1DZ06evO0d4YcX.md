@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO0d4YcX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0d4YcX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0d4YcX)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO0d4YcX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0d4YcX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO0d4YcX)
 
 ### [This Is Amber Mark](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0d4YcX)
 

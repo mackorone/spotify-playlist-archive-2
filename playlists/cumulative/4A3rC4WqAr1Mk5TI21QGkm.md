@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4A3rC4WqAr1Mk5TI21QGkm.md) - cumulative - [plain](/playlists/plain/4A3rC4WqAr1Mk5TI21QGkm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4A3rC4WqAr1Mk5TI21QGkm)
+[pretty](/playlists/pretty/4A3rC4WqAr1Mk5TI21QGkm.md) - cumulative - [plain](/playlists/plain/4A3rC4WqAr1Mk5TI21QGkm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4A3rC4WqAr1Mk5TI21QGkm)
 
 ### [Gomigli deişik amogus](https://open.spotify.com/playlist/4A3rC4WqAr1Mk5TI21QGkm)
 

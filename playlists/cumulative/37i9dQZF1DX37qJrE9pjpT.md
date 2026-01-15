@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX37qJrE9pjpT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX37qJrE9pjpT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX37qJrE9pjpT)
+[pretty](/playlists/pretty/37i9dQZF1DX37qJrE9pjpT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX37qJrE9pjpT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX37qJrE9pjpT)
 
 ### [Bongo Bars](https://open.spotify.com/playlist/37i9dQZF1DX37qJrE9pjpT)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX15JKV0q7shD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX15JKV0q7shD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX15JKV0q7shD)
+[pretty](/playlists/pretty/37i9dQZF1DX15JKV0q7shD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX15JKV0q7shD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX15JKV0q7shD)
 
 ### [Classics For Crying](https://open.spotify.com/playlist/37i9dQZF1DX15JKV0q7shD)
 

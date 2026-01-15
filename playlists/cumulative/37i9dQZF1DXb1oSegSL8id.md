@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXb1oSegSL8id.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb1oSegSL8id) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb1oSegSL8id)
+[pretty](/playlists/pretty/37i9dQZF1DXb1oSegSL8id.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb1oSegSL8id) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb1oSegSL8id)
 
 ### [Sol e Churrasco](https://open.spotify.com/playlist/37i9dQZF1DXb1oSegSL8id)
 

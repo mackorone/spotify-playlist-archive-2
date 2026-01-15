@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain](/playlists/plain/37i9dQZF1DWZVU32KsYGUK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZVU32KsYGUK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain](/playlists/plain/37i9dQZF1DWZVU32KsYGUK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZVU32KsYGUK)
 
 ### [Dinner Piano](https://open.spotify.com/playlist/37i9dQZF1DWZVU32KsYGUK)
 

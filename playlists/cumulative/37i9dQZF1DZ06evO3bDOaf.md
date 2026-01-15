@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO3bDOaf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3bDOaf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3bDOaf)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO3bDOaf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3bDOaf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO3bDOaf)
 
 ### [This Is Liam Payne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bDOaf)
 

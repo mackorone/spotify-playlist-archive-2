@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain](/playlists/plain/37i9dQZF1DX2i24iHGhL24) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2i24iHGhL24)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain](/playlists/plain/37i9dQZF1DX2i24iHGhL24) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2i24iHGhL24)
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
 > Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,185 likes - 95 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,165 likes - 95 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,22 +23,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 13 | [Hello – Spotify Singles](https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 4:06 |
 | 14 | [When the Party's Over](https://open.spotify.com/track/24cC5w4hHsIWxzCeRowVkV) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [When the Party's Over](https://open.spotify.com/album/0mQvScekQkBp9YPSwVPUTs) | 3:39 |
 | 15 | [Breathless](https://open.spotify.com/track/0ci8M8VddctT9sehCbxn4R) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Breathless](https://open.spotify.com/album/5DEY9Qk83emaFTuOzRXf2B) | 3:00 |
-| 16 | [That's So True \- Spotify Singles](https://open.spotify.com/track/39aMRjb5zKxNmYT4B0ztcW) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Spotify Singles](https://open.spotify.com/album/4tmb09xLH9FzEz45jAVhwE) | 2:47 |
-| 17 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
-| 18 | [Always Remember Us This Way](https://open.spotify.com/track/16PeBkyJ6hq6ZQ5iOaE7nY) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Always Remember Us This Way](https://open.spotify.com/album/1f7YYa32O6pDWNOkUUW6Z5) | 2:44 |
-| 19 | [Bette Davis Eyes](https://open.spotify.com/track/5oUX3qrbsrvmVrmidcbZIR) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Bette Davis Eyes](https://open.spotify.com/album/0rnDWT5koPSq9Mm8C9BEfZ) | 2:52 |
-| 20 | [Zombie](https://open.spotify.com/track/3ToaIx8bwg0qp6VOVaA4PA) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Zombie](https://open.spotify.com/album/2RdaDYwTXPp2UBiVGiEsaH) | 3:08 |
-| 21 | [Frozen](https://open.spotify.com/track/5t9ZL1dY817WwVDezOSNzl) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Frozen](https://open.spotify.com/album/78bEsLWRUvjE6rh24Y0hpV) | 3:21 |
-| 22 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
-| 23 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
-| 24 | [Say Something](https://open.spotify.com/track/0BXumCgm0URFmvr1lDnMZI) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Say Something](https://open.spotify.com/album/5OovV8k5IcxufGdpCSke9T) | 3:32 |
-| 25 | [Hallelujah](https://open.spotify.com/track/1uw2yArj2WPAzF2kKJMgqq) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1uzQe5pkZpVLIcuEjDxTb1) | 3:45 |
-| 26 | [I'll Stand By You](https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [I'll Stand By You](https://open.spotify.com/album/6dMYjwP3Bjo0u9CAXgS9Xd) | 4:07 |
-| 27 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 |
-| 28 | [Kiss Me](https://open.spotify.com/track/2UYNxBhod7KpjKEFlmHm2b) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kiss Me](https://open.spotify.com/album/1RLqpCyfOigWVl2ufmXNGP) | 3:55 |
-| 29 | [Call Out My Name](https://open.spotify.com/track/1DlqQ6itflIyZwOBx5Fppa) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Call Out My Name](https://open.spotify.com/album/2SADDN3NDc2UplS6Hzm7NS) | 3:46 |
-| 30 | [Crazy](https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Crazy](https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8) | 2:48 |
-| 31 | [Chemical](https://open.spotify.com/track/1SoQtOBmEaGLFmzr8e0DCf) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Chemical](https://open.spotify.com/album/5n55TYeWtckwrfOc8jUyjN) | 3:01 |
+| 16 | [4ever \- triple j Like A Version](https://open.spotify.com/track/14lz4KBqBTg3BRzk1atbxC) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [4ever \(triple j Like A Version\)](https://open.spotify.com/album/0xZoegWWQn3E0FT2yn10yo) | 3:23 |
+| 17 | [That's So True \- Spotify Singles](https://open.spotify.com/track/39aMRjb5zKxNmYT4B0ztcW) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Spotify Singles](https://open.spotify.com/album/4tmb09xLH9FzEz45jAVhwE) | 2:47 |
+| 18 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
+| 19 | [Always Remember Us This Way](https://open.spotify.com/track/16PeBkyJ6hq6ZQ5iOaE7nY) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Always Remember Us This Way](https://open.spotify.com/album/1f7YYa32O6pDWNOkUUW6Z5) | 2:44 |
+| 20 | [Bette Davis Eyes](https://open.spotify.com/track/5oUX3qrbsrvmVrmidcbZIR) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Bette Davis Eyes](https://open.spotify.com/album/0rnDWT5koPSq9Mm8C9BEfZ) | 2:52 |
+| 21 | [Zombie](https://open.spotify.com/track/3ToaIx8bwg0qp6VOVaA4PA) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Zombie](https://open.spotify.com/album/2RdaDYwTXPp2UBiVGiEsaH) | 3:08 |
+| 22 | [Frozen](https://open.spotify.com/track/5t9ZL1dY817WwVDezOSNzl) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Frozen](https://open.spotify.com/album/78bEsLWRUvjE6rh24Y0hpV) | 3:21 |
+| 23 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
+| 24 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
+| 25 | [Say Something](https://open.spotify.com/track/0BXumCgm0URFmvr1lDnMZI) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Say Something](https://open.spotify.com/album/5OovV8k5IcxufGdpCSke9T) | 3:32 |
+| 26 | [Hallelujah](https://open.spotify.com/track/1uw2yArj2WPAzF2kKJMgqq) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1uzQe5pkZpVLIcuEjDxTb1) | 3:45 |
+| 27 | [I'll Stand By You](https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [I'll Stand By You](https://open.spotify.com/album/6dMYjwP3Bjo0u9CAXgS9Xd) | 4:07 |
+| 28 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 |
+| 29 | [Kiss Me](https://open.spotify.com/track/2UYNxBhod7KpjKEFlmHm2b) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kiss Me](https://open.spotify.com/album/1RLqpCyfOigWVl2ufmXNGP) | 3:55 |
+| 30 | [Call Out My Name](https://open.spotify.com/track/1DlqQ6itflIyZwOBx5Fppa) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Call Out My Name](https://open.spotify.com/album/2SADDN3NDc2UplS6Hzm7NS) | 3:46 |
+| 31 | [Crazy](https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Crazy](https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8) | 2:48 |
 | 32 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 |
 | 33 | [Nothing Compares 2 U](https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Nothing Compares 2 U](https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb) | 4:13 |
 | 34 | [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 94 | [Fireflies](https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Fireflies](https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW) | 3:05 |
 | 95 | [Take On Me](https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Take On Me](https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw) | 2:26 |
 
-Snapshot ID: `AAAAAHvhoEiuYeqHBcT7wrjvrMDqsMWU`
+Snapshot ID: `AAAAAKRp4oKYHK0pEBfv8yOOCFOdzMPj`

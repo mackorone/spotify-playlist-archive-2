@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Bvcovia, Marko Glass",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: DZWS, Vali Miron ",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -990,7 +990,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213000,
       "name": "Cel mai mare flex",
       "url": "https://open.spotify.com/track/68wUCUL6ObfIsOtXWUxnJm"
@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186750,
       "name": "Hai S\u0103 Recunoa\u0219tem",
       "url": "https://open.spotify.com/track/7FuBCO9oT1czcAJEdU76Nv"
@@ -3595,6 +3595,28 @@
     },
     {
       "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/78XcVITzuLnYR7m63LJzEs"
+      },
+      "artists": [
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        },
+        {
+          "name": "Vali Miron",
+          "url": "https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141291,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/3soCMqsD3Gh9OHbiLdPkPm"
+    },
+    {
+      "album": {
         "name": "ROLLIE",
         "url": "https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn"
       },
@@ -4336,7 +4358,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 201541,
       "name": "Tu, M\u0103rie!",
       "url": "https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO"
@@ -4504,7 +4526,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185529,
       "name": "Valuri",
       "url": "https://open.spotify.com/track/6zc4BD3MRj4YWb8Yt44fuu"
@@ -4686,6 +4708,28 @@
       "duration_ms": 164494,
       "name": "Zile Gemene",
       "url": "https://open.spotify.com/track/1fLAcffF9GTh1XrZJWpVtU"
+    },
+    {
+      "album": {
+        "name": "\u00ceMI LIPSE\u0218TI",
+        "url": "https://open.spotify.com/album/7IEwdQ1xKLvozya4asqAKG"
+      },
+      "artists": [
+        {
+          "name": "Yakki",
+          "url": "https://open.spotify.com/artist/10Gn7d0q1THIu8PM5ywP20"
+        },
+        {
+          "name": "Chimie",
+          "url": "https://open.spotify.com/artist/3Ah361wcXL9Y4QRDEprLOS"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "\u00ceMI LIPSE\u0218TI",
+      "url": "https://open.spotify.com/track/2QCwBSqZThIJ6lGNipjjMd"
     },
     {
       "album": {

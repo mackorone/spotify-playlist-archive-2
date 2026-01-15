@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7guXu2Tdl1ClO7m2Dpe7iA.md) - cumulative - [plain](/playlists/plain/7guXu2Tdl1ClO7m2Dpe7iA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7guXu2Tdl1ClO7m2Dpe7iA)
+[pretty](/playlists/pretty/7guXu2Tdl1ClO7m2Dpe7iA.md) - cumulative - [plain](/playlists/plain/7guXu2Tdl1ClO7m2Dpe7iA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7guXu2Tdl1ClO7m2Dpe7iA)
 
 ### [San Pacho's Vault](https://open.spotify.com/playlist/7guXu2Tdl1ClO7m2Dpe7iA)
 

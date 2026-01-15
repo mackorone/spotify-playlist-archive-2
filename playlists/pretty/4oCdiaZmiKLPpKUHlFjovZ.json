@@ -1,13 +1,65 @@
 {
-  "description": "Turn this playlist all the way up! Featuring, Money Man, Blxst, Mozzy &amp; Tm88.",
-  "num_followers": 34402,
+  "description": "Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.",
+  "num_followers": 34346,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAb3YES2GkRWIX6abLlv8SXOHXh98Ns",
+  "snapshot_id": "AAAb55C+g650abNuIfsrd0yFmyIfSJAj",
   "tracks": [
+    {
+      "added_at": "2026-01-12 18:13:08",
+      "album": {
+        "name": "ALL FLATS",
+        "url": "https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo"
+      },
+      "artists": [
+        {
+          "name": "JaYy Wick",
+          "url": "https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u"
+        }
+      ],
+      "duration_ms": 116800,
+      "name": "ALL FLATS",
+      "url": "https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx"
+    },
+    {
+      "added_at": "2026-01-12 19:53:20",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1pUztX3T8XMDxkPXTG0vbn"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 167011,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6RWSHJ7p8APzukiux4J3TG"
+    },
+    {
+      "added_at": "2025-12-08 23:31:24",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 152210,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
+    },
     {
       "added_at": "2025-12-08 23:31:33",
       "album": {
@@ -25,20 +77,20 @@
       "url": "https://open.spotify.com/track/2G5n3rWA0zATe2p0aEUk9r"
     },
     {
-      "added_at": "2025-12-08 23:31:24",
+      "added_at": "2026-01-12 18:13:16",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes"
+        "name": "Pork Chop Sammich",
+        "url": "https://open.spotify.com/album/4NtqW7ck7cgwRJxbKknfH3"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "JaYy Wick",
+          "url": "https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u"
         }
       ],
-      "duration_ms": 152210,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
+      "duration_ms": 145000,
+      "name": "Pork Chop Sammich",
+      "url": "https://open.spotify.com/track/5KInSFERXWZZUZJa4diQDD"
     },
     {
       "added_at": "2025-12-08 23:31:47",

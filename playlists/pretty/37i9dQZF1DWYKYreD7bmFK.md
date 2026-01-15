@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain](/playlists/plain/37i9dQZF1DWYKYreD7bmFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYKYreD7bmFK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain](/playlists/plain/37i9dQZF1DWYKYreD7bmFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYKYreD7bmFK)
 
 ### [Sanremo Giovani 2025](https://open.spotify.com/playlist/37i9dQZF1DWYKYreD7bmFK)
 
 > Tutti i brani di Sanremo Giovani 2025 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,294 likes - 24 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,298 likes - 24 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

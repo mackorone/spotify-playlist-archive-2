@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazThYU5RTu6.md) - [plain](/playlists/plain/37i9dQZF1DXazThYU5RTu6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXazThYU5RTu6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazThYU5RTu6.md) - [plain](/playlists/plain/37i9dQZF1DXazThYU5RTu6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXazThYU5RTu6)
 
 ### [IVE WORLD TOUR \[SHOW WHAT I AM\]](https://open.spotify.com/playlist/37i9dQZF1DXazThYU5RTu6)
 
 > enjoy the IVE WORLD TOUR \[SHOW WHAT I AM\] LIVE SET including the voices of them on stage! \(아이브의 무대 멘트와 목소리가 포함된 \[SHOW WHAT I AM\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,311 likes - 29 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,473 likes - 29 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

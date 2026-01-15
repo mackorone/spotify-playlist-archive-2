@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain](/playlists/plain/37i9dQZF1DWZTevReS5evR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZTevReS5evR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain](/playlists/plain/37i9dQZF1DWZTevReS5evR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZTevReS5evR)
 
 ### [membadut](https://open.spotify.com/playlist/37i9dQZF1DWZTevReS5evR)
 
 > I really wish your real name is my last name 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,478 likes - 89 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,422 likes - 89 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

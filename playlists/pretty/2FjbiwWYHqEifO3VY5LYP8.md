@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2FjbiwWYHqEifO3VY5LYP8.md) - [plain](/playlists/plain/2FjbiwWYHqEifO3VY5LYP8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2FjbiwWYHqEifO3VY5LYP8)
+pretty - [cumulative](/playlists/cumulative/2FjbiwWYHqEifO3VY5LYP8.md) - [plain](/playlists/plain/2FjbiwWYHqEifO3VY5LYP8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2FjbiwWYHqEifO3VY5LYP8)
 
 ### [New Year's 2015](https://open.spotify.com/playlist/2FjbiwWYHqEifO3VY5LYP8)
 

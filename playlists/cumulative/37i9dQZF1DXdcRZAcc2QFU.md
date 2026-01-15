@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdcRZAcc2QFU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdcRZAcc2QFU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdcRZAcc2QFU)
+[pretty](/playlists/pretty/37i9dQZF1DXdcRZAcc2QFU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdcRZAcc2QFU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdcRZAcc2QFU)
 
 ### [90s Dance Bollywood](https://open.spotify.com/playlist/37i9dQZF1DXdcRZAcc2QFU)
 

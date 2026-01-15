@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWX0o6sD1a6P5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX0o6sD1a6P5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX0o6sD1a6P5)
+[pretty](/playlists/pretty/37i9dQZF1DWX0o6sD1a6P5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX0o6sD1a6P5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX0o6sD1a6P5)
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Naza
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Chily
 
-882 songs - 1 day 18 hr 55 min
+883 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,7 @@
 | [Maria](https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Maria](https://open.spotify.com/album/28jNjVNo0Sw3D9LWtPwiTF) | 2:59 | 2023-08-17 | 2023-10-13 |
 | [Maria](https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Maria](https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy) | 2:33 | 2022-05-19 | 2022-09-09 |
 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 | 2023-07-13 | 2023-09-01 |
-| [MASOKO NA MABELE](https://open.spotify.com/track/1skF9pCBGMFDnaQGuVa0v0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:57 | 2025-11-20 |  |
+| [MASOKO NA MABELE](https://open.spotify.com/track/1skF9pCBGMFDnaQGuVa0v0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:57 | 2025-11-20 | 2026-01-15 |
 | [Mbélé](https://open.spotify.com/track/2mqShWZYwYJ1i986EpATaH) | [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Bumayé](https://open.spotify.com/album/6qqGP4ZAF1iKBIIWTegfoq) | 3:26 | 2022-06-16 | 2022-06-24 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-05 | 2024-06-01 |
 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 | 2025-04-03 | 2025-10-10 |
@@ -541,6 +541,7 @@
 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 | 2021-12-27 | 2022-03-25 |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-05-19 | 2022-10-14 |
 | [Monde entier](https://open.spotify.com/track/147pZmwBwNPncFbFhorZIl) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Honestly,](https://open.spotify.com/album/5RmNJ4XWLWKjU4dk6eYbSx) | 2:58 | 2024-07-04 | 2024-08-09 |
+| [Money](https://open.spotify.com/track/64N74inwNvjJ7H2jNe2uhT) | [Cleyton M](https://open.spotify.com/artist/5iytX3PJbc1tGt4Pt6SI2q), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9) | [Money](https://open.spotify.com/album/3xF3msk2lQEdDQkdgbjLdM) | 2:58 | 2026-01-08 |  |
 | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/track/0OItrStw62ofKZD6x857Fp) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/album/0eVA46YM5CygKRbBECdo2X) | 2:06 | 2025-08-21 | 2025-10-04 |
 | [Mood](https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Mood](https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc) | 2:51 | 2025-03-06 | 2025-05-30 |
 | [MORE PRETTY GIRLS](https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [MORE PRETTY GIRLS](https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0) | 3:18 | 2024-06-13 | 2024-11-08 |

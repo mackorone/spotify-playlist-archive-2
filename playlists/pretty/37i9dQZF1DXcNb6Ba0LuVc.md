@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain](/playlists/plain/37i9dQZF1DXcNb6Ba0LuVc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcNb6Ba0LuVc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain](/playlists/plain/37i9dQZF1DXcNb6Ba0LuVc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcNb6Ba0LuVc)
 
 ### [Feel Good Beats](https://open.spotify.com/playlist/37i9dQZF1DXcNb6Ba0LuVc)
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,865 likes - 200 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,617 likes - 200 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

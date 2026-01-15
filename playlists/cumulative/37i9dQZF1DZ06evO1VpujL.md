@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1VpujL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1VpujL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1VpujL)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1VpujL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1VpujL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1VpujL)
 
 ### [This Is Skindred](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VpujL)
 

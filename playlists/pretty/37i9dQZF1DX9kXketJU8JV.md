@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kXketJU8JV.md) - [plain](/playlists/plain/37i9dQZF1DX9kXketJU8JV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9kXketJU8JV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kXketJU8JV.md) - [plain](/playlists/plain/37i9dQZF1DX9kXketJU8JV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9kXketJU8JV)
 
 ### [受験プレイリスト \#合格へのサントラ](https://open.spotify.com/playlist/37i9dQZF1DX9kXketJU8JV)
 
 > 大丈夫、努力はきっと報われる。
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,752 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,062 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

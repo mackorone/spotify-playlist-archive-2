@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain](/playlists/plain/37i9dQZF1DX78L8foCBod1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX78L8foCBod1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain](/playlists/plain/37i9dQZF1DX78L8foCBod1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX78L8foCBod1)
 
 ### [Hiroyuki Sawano Works](https://open.spotify.com/playlist/37i9dQZF1DX78L8foCBod1)
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,950 likes - 130 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,017 likes - 130 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

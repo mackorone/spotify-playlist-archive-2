@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX985zOWqF6jF.md) - [plain](/playlists/plain/37i9dQZF1DX985zOWqF6jF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX985zOWqF6jF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX985zOWqF6jF.md) - [plain](/playlists/plain/37i9dQZF1DX985zOWqF6jF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX985zOWqF6jF)
 
 ### [Perreo de Dos ](https://open.spotify.com/playlist/37i9dQZF1DX985zOWqF6jF)
 

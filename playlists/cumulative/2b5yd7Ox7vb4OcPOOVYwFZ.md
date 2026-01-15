@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2b5yd7Ox7vb4OcPOOVYwFZ.md) - cumulative - [plain](/playlists/plain/2b5yd7Ox7vb4OcPOOVYwFZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2b5yd7Ox7vb4OcPOOVYwFZ)
+[pretty](/playlists/pretty/2b5yd7Ox7vb4OcPOOVYwFZ.md) - cumulative - [plain](/playlists/plain/2b5yd7Ox7vb4OcPOOVYwFZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2b5yd7Ox7vb4OcPOOVYwFZ)
 
 ### [Top Picks Chill](https://open.spotify.com/playlist/2b5yd7Ox7vb4OcPOOVYwFZ)
 

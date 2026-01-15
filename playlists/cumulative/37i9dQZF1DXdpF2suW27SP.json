@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Dbraz, DJ Pablu & MOR3NO entram na zona. ",
+  "description": " Jimmy P entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1120,6 +1120,24 @@
       "duration_ms": 160982,
       "name": "Alma do Neg\u00f3cio",
       "url": "https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E"
+    },
+    {
+      "album": {
+        "name": "Alta Cultura - Na Via",
+        "url": "https://open.spotify.com/album/4ovgSPrPS4eo9I97cTpz6h"
+      },
+      "artists": [
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95409,
+      "name": "Alta Cultura - Na Via",
+      "url": "https://open.spotify.com/track/5WhQBxrhQAfdMEPINMJCTT"
     },
     {
       "album": {
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163371,
       "name": "Boleia",
       "url": "https://open.spotify.com/track/0wWEB45IdTC3g5q8vyfndR"
@@ -8006,7 +8024,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192000,
       "name": "HIGH LIFE (feat. Teto & Ryu, the Runner)",
       "url": "https://open.spotify.com/track/5PBsyWagJYlO0OIfcGBLQH"
@@ -16219,6 +16237,24 @@
     },
     {
       "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/5iMjrSnfXVznUXSmho1tIy"
+      },
+      "artists": [
+        {
+          "name": "Dengaz",
+          "url": "https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151181,
+      "name": "Sonhos",
+      "url": "https://open.spotify.com/track/2WN9dI80cRR9FrPT0b7s1z"
+    },
+    {
+      "album": {
         "name": "Sonhos & Ins\u00f3nias",
         "url": "https://open.spotify.com/album/7dqkzYoqf4VSobWNjcHYZc"
       },
@@ -18828,7 +18864,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 152470,
       "name": "\u00c0 Procura",
       "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"

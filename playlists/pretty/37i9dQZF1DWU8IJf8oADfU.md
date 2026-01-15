@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8IJf8oADfU.md) - [plain](/playlists/plain/37i9dQZF1DWU8IJf8oADfU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU8IJf8oADfU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8IJf8oADfU.md) - [plain](/playlists/plain/37i9dQZF1DWU8IJf8oADfU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU8IJf8oADfU)
 
 ### [Les Princes de la ville](https://open.spotify.com/playlist/37i9dQZF1DWU8IJf8oADfU)
 
 > Il n'y a pas d'âge pour aimer le rap et les musiques urbaines!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,287 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,329 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

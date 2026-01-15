@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/214Nwj78JwTfjSeQxbGxeX.md) - [plain](/playlists/plain/214Nwj78JwTfjSeQxbGxeX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/214Nwj78JwTfjSeQxbGxeX)
+pretty - [cumulative](/playlists/cumulative/214Nwj78JwTfjSeQxbGxeX.md) - [plain](/playlists/plain/214Nwj78JwTfjSeQxbGxeX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/214Nwj78JwTfjSeQxbGxeX)
 
 ### [Alternative New Year's Eve](https://open.spotify.com/playlist/214Nwj78JwTfjSeQxbGxeX)
 
 > A different option for your New Year's Eve party\. Sweet pop, rock, and singer/songwriter tunes about this special holiday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 650 likes - 28 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 716 likes - 28 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

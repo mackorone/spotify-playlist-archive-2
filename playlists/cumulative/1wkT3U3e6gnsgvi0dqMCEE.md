@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/1wkT3U3e6gnsgvi0dqMCEE.md) - cumulative - [plain](/playlists/plain/1wkT3U3e6gnsgvi0dqMCEE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1wkT3U3e6gnsgvi0dqMCEE)
+[pretty](/playlists/pretty/1wkT3U3e6gnsgvi0dqMCEE.md) - cumulative - [plain](/playlists/plain/1wkT3U3e6gnsgvi0dqMCEE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1wkT3U3e6gnsgvi0dqMCEE)
 
 ### [UMUSIC Rediscover](https://open.spotify.com/playlist/1wkT3U3e6gnsgvi0dqMCEE)
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-358 songs - 23 hr 43 min
+360 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2025-09-12 |  |
 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 | 2025-11-07 |  |
 | [Beautiful Day \- The Perfecto Mix / Remastered 2024](https://open.spotify.com/track/1Sbfug2rLXIWeszhGtc0Tb) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Andy Gray](https://open.spotify.com/artist/4LqKZtouJMsqnHPN813ch7) | [Beautiful Day](https://open.spotify.com/album/4SbnxPaReYpeMTVnC1N6D2) | 7:50 | 2024-07-19 |  |
+| [Been Undone \- Dark\-Side Mix](https://open.spotify.com/track/2vXCiisu266PttmAVDOFtF) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Been Undone \(Dark\-Side Mix\)](https://open.spotify.com/album/3cm8NmlOZKcPoUN3YrpxIc) | 7:39 | 2026-01-09 |  |
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2023-10-16 | 2024-05-24 |
 | [Belle promeneuse \- 2025 Remasterisé](https://open.spotify.com/track/5nKfWb9qVCAbeL4QCbCqQ6) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Belle promeneuse \(2025 Remasterisé\)](https://open.spotify.com/album/4xHVEIEQfmu8DoZamAHmW3) | 3:51 | 2025-08-15 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 | 2023-10-16 | 2024-05-24 |
@@ -132,7 +133,7 @@
 | [Here You Are](https://open.spotify.com/track/7c8J51gkc76prV8VPyU9Tc) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Here You Are](https://open.spotify.com/album/2eQvntbJxbvyJDUEHiVumA) | 3:43 | 2025-09-08 |  |
 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2024-05-31 |  |
 | [Ho Hey](https://open.spotify.com/track/1K3LRUEcUz5FMtPYyg0F45) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers \(Deluxe Edition\)](https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7) | 2:43 | 2023-10-16 | 2024-05-24 |
-| [Hot Cocoa](https://open.spotify.com/track/7hTFtyYGqtJBJAHVv1oXQ9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/1i5Mfk31QPBTMH5dbZjavr) | 3:38 | 2025-11-21 |  |
+| [Hot Cocoa](https://open.spotify.com/track/7hTFtyYGqtJBJAHVv1oXQ9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/1i5Mfk31QPBTMH5dbZjavr) | 3:38 | 2025-11-21 | 2026-01-15 |
 | [Hot Stuff \- 2025 Mix](https://open.spotify.com/track/7ipboYEvozVLj6REga45t0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Stuff \(2025 Mix\)](https://open.spotify.com/album/5s3t03DbEfL9vKRxcw8MPK) | 5:22 | 2025-10-17 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-05-31 |  |
 | [How Do You Keep The Music Playing? \- Bob Florence Arrangement \- 5/17/84](https://open.spotify.com/track/5vXfb0UVQxUou3HKzlpLnR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [How Do You Keep The Music Playing? \(Bob Florence Arrangement \- 5/17/84\)](https://open.spotify.com/album/5ycDfRCnEIM1cHh6IU69PN) | 3:54 | 2024-09-06 |  |
@@ -251,6 +252,7 @@
 | [Running](https://open.spotify.com/track/6EnWm7fQBUku6EuNc3xPmi) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 2:19 | 2024-07-05 |  |
 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 | 2024-05-23 |  |
 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 | 2023-10-16 | 2024-05-24 |
+| [Said It All \- Jax Jones Rework](https://open.spotify.com/track/4k4UUPYRJPorm3TgoaKCtG) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Said It All \(Jax Jones Rework\)](https://open.spotify.com/album/3loRhkIFInpLsSdFU75EFa) | 3:28 | 2026-01-09 |  |
 | [Sail](https://open.spotify.com/track/5xhQChGGhKLWqBqX4XhtYE) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony Deluxe](https://open.spotify.com/album/6dMfMvS3hyk3ZCl4yljEDD) | 4:19 | 2023-10-16 | 2024-05-24 |
 | [Saint Teresa](https://open.spotify.com/track/3TBcLm9UivNqbzGkYFaA5T) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Saint Teresa](https://open.spotify.com/album/3lZ1NrjKla17h583ZhDn7X) | 4:56 | 2025-02-14 |  |
 | [Same Oley!](https://open.spotify.com/track/5XvXGeZg2FHHTrSt6TrTbI) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Same Oley!](https://open.spotify.com/album/2jzRKDy29pyLWhuSvZRF0v) | 3:13 | 2024-09-20 |  |
@@ -261,7 +263,7 @@
 | [Shame, Shame, Shame](https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Shame, Shame, Shame](https://open.spotify.com/album/35gGO0L9us7lpianyn8QwQ) | 4:05 | 2025-09-26 |  |
 | [She Keeps Me Up](https://open.spotify.com/track/6I0ivNW5YryeC3GQn56NAy) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [No Fixed Address](https://open.spotify.com/album/2mepXKJlgU28VBwkSXjWfY) | 3:57 | 2023-10-16 | 2024-05-24 |
 | [Show Me Love](https://open.spotify.com/track/3ZOmz7Ifs4nejDbO6EWQQV) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Show Me Love](https://open.spotify.com/album/2LbH0skad1KF8OOmwzAQtA) | 4:07 | 2025-01-10 |  |
-| [Silent Night \- Live At Knox Church, Stratford, Ontario / 2021](https://open.spotify.com/track/101cKHyvczyACPwU2B94cn) | [Loreena McKennitt](https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a) | [Under A Winter's Moon \(Expanded Edition\)](https://open.spotify.com/album/20DqT1aA6l0v1oMRWnBgko) | 3:18 | 2025-11-21 |  |
+| [Silent Night \- Live At Knox Church, Stratford, Ontario / 2021](https://open.spotify.com/track/101cKHyvczyACPwU2B94cn) | [Loreena McKennitt](https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a) | [Under A Winter's Moon \(Expanded Edition\)](https://open.spotify.com/album/20DqT1aA6l0v1oMRWnBgko) | 3:18 | 2025-11-21 | 2026-01-15 |
 | [Sledgehammer \- Remastered](https://open.spotify.com/track/2CfavwjTJrKGxy9fiU4otq) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Special Edition\)](https://open.spotify.com/album/6NuXor1nnxUMgx4rF592Js) | 5:13 | 2024-05-23 |  |
 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 | 2023-10-16 | 2024-05-24 |
 | [Snowbird](https://open.spotify.com/track/6y3YVkwO6YZqBcVsrNQRkB) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Anne Murray The Best Of...So Far \- 20 Greatest Hits](https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX) | 2:10 | 2025-04-04 |  |

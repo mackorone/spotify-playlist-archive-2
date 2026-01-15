@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUI804Xnly9d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUI804Xnly9d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUI804Xnly9d)
+[pretty](/playlists/pretty/37i9dQZF1DWUI804Xnly9d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUI804Xnly9d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUI804Xnly9d)
 
 ### [Chai & Acoustic](https://open.spotify.com/playlist/37i9dQZF1DWUI804Xnly9d)
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-615 songs - 1 day 10 hr 25 min
+616 songs - 1 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 | 2024-09-30 |  |
 | [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 | 2024-01-09 |
 | [Jaane De](https://open.spotify.com/track/0R5j2VBVJ3FKpl72FZZhKJ) | [Aakash M.](https://open.spotify.com/artist/2UGEmBqXfvXhsqHZhM7YU2), [Ishan Krishan](https://open.spotify.com/artist/3a00s1dpBoSxGDi1tiVcTD) | [Jaane De](https://open.spotify.com/album/6TNOx8nr0fdrgYb4GrDqrN) | 3:45 | 2024-10-25 | 2025-04-12 |
-| [Jaane De](https://open.spotify.com/track/0S6wcmBlvyX2GUWuAHKdFp) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [CO\-ED \(Soundtrack from the series\)](https://open.spotify.com/album/668bPHbwQ9LyYC3CDvNTI4) | 2:16 | 2025-11-14 |  |
+| [Jaane De](https://open.spotify.com/track/0S6wcmBlvyX2GUWuAHKdFp) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [CO\-ED \(Soundtrack from the series\)](https://open.spotify.com/album/668bPHbwQ9LyYC3CDvNTI4) | 2:16 | 2025-11-14 | 2026-01-15 |
 | [Jaane Kahan Ghum Tum](https://open.spotify.com/track/1SQlCcrCz3cC9rP7IvW9pj) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Jaane Kahan Ghum Tum](https://open.spotify.com/album/6KWVNcow6n4l3NRkRuWFzS) | 2:41 | 2024-10-21 | 2025-03-22 |
 | [Jaane Kya Baat Hai](https://open.spotify.com/track/5tiV8nUAsGczrg3LNMohpQ) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Jaane Kya Baat Hai](https://open.spotify.com/album/3acWR5o4Ugsy7P7dQluxVS) | 3:57 | 2024-08-18 | 2024-09-21 |
 | [Jaane Kyu](https://open.spotify.com/track/7qySY2915krbeg4qMs5viD) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn) | [Sutradhaar](https://open.spotify.com/album/5oMbGSVotj2qtZjGxnAvkc) | 3:03 | 2024-02-09 | 2024-03-05 |
@@ -385,6 +385,7 @@
 | [Mushkil Mein Jeena](https://open.spotify.com/track/3ApLFFuaXsKBnDhspuQrWj) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Mushkil Mein Jeena](https://open.spotify.com/album/4devqBSJu5bUYTi3eHUkr8) | 5:42 | 2023-05-17 | 2023-06-13 |
 | [Muskaan](https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Muskaan](https://open.spotify.com/album/317ElnVv4yrnKXS4nQNNn9) | 3:37 | 2024-02-14 | 2024-09-18 |
 | [Na Jaane Tu](https://open.spotify.com/track/4toWcCNqdFYcsfaiHGDOAe) | [Krishna Goel](https://open.spotify.com/artist/0TTxWgAwRewRgspfDFch7H) | [Na Jaane Tu](https://open.spotify.com/album/2lqPWPHZUo8wdkUImxmgCM) | 4:06 | 2023-06-26 | 2023-08-05 |
+| [Na Jaanu Main](https://open.spotify.com/track/60qn1HQuwlA88Yap8TaZaU) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Plabita Borthakur](https://open.spotify.com/artist/5it58n8w0HfIvsHUPLcvjU) | [Four More Shots Please! Season 4 \(Original Series Soundtrack\)](https://open.spotify.com/album/4Zx1oqJZiNoe1mRbygUmsn) | 1:22 | 2026-01-09 |  |
 | [Na Koi Ehsaas](https://open.spotify.com/track/1U2zDSIsNTvsEJYJxphWGK) | [Sajid Rizvi](https://open.spotify.com/artist/4GQ5xNBHVVO8UkUZ7IufKo) | [Na Koi Ehsaas](https://open.spotify.com/album/5j4tDlDc5NCbYKB7HKW8Fv) | 4:58 | 2025-02-28 | 2025-05-16 |
 | [Na Neend Hai Na Khwaab](https://open.spotify.com/track/6btADb95DODidqb9HFkl9l) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Na Neend Hai Na Khwaab](https://open.spotify.com/album/0YYIAeWLRCzJfpDyRFiNJv) | 3:46 | 2023-05-17 | 2023-08-05 |
 | [Naa Samjhe Tum](https://open.spotify.com/track/2yBHRByW65XskyQqpMMMpO) | [Nikhil Chandel](https://open.spotify.com/artist/5hNwJiSjMx50Q1x2goFM6r) | [Naa Samjhe Tum](https://open.spotify.com/album/7g2Kze0Dnqrkb47kZwvJBJ) | 3:40 | 2024-07-15 | 2024-10-26 |

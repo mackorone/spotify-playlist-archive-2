@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9zF9ZmsyHKt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9zF9ZmsyHKt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9zF9ZmsyHKt)
+[pretty](/playlists/pretty/37i9dQZF1DX9zF9ZmsyHKt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9zF9ZmsyHKt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9zF9ZmsyHKt)
 
 ### [Melodys Marcantes](https://open.spotify.com/playlist/37i9dQZF1DX9zF9ZmsyHKt)
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-312 songs - 18 hr 12 min
+313 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 | 2021-10-15 | 2024-10-23 |
 | [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 | 2021-10-15 | 2024-10-23 |
 | [Andei](https://open.spotify.com/track/78POJVXS7qanEU6q3JKUs4) | [Lurdez Da Luz](https://open.spotify.com/artist/5U0Jo3mNyn5TQFgfAyL43Z), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Lurdez da Luz](https://open.spotify.com/album/6Bvd8gpWPXihVwP91lJEjq) | 3:24 | 2021-10-15 | 2022-07-17 |
-| [Anestesiada](https://open.spotify.com/track/5VWgYJzlkSGJTjCUCEfr9t) | [KEILA](https://open.spotify.com/artist/7B6S35PjpmCWPOyqKfyHq6) | [Anestesiada](https://open.spotify.com/album/3T7vUWImGtsk2f2dy7vIqK) | 1:57 | 2025-11-14 |  |
+| [Anestesiada](https://open.spotify.com/track/5VWgYJzlkSGJTjCUCEfr9t) | [KEILA](https://open.spotify.com/artist/7B6S35PjpmCWPOyqKfyHq6) | [Anestesiada](https://open.spotify.com/album/3T7vUWImGtsk2f2dy7vIqK) | 1:57 | 2025-11-14 | 2026-01-15 |
 | [Anjo](https://open.spotify.com/track/2lCGyoF4rolzOksz16CpDs) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:31 | 2024-10-22 |  |
 | [Aquele Alguém \- Ao Vivo](https://open.spotify.com/track/1nAD91gB0vCiMUPS0D90tZ) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Aquele Alguém \(Ao Vivo\)](https://open.spotify.com/album/5exAOaD06kYTFxUfPDdLDp) | 2:54 | 2024-10-22 |  |
 | [As Mais Braba](https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 4:40 | 2021-10-15 | 2024-10-23 |
@@ -65,6 +65,7 @@
 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 | 2021-10-15 | 2024-10-23 |
 | [Catedral](https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Zélia Duncan](https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl) | 2:50 | 2021-10-15 | 2024-10-23 |
 | [Chico Preto](https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:24 | 2024-12-09 |  |
+| [Chá de Maracujá](https://open.spotify.com/track/7mgJccGu4ecfRchYjOKWTY) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em Caruaru](https://open.spotify.com/album/0DvLLkxdRyaf4LeKhZg1sb) | 3:27 | 2026-01-14 |  |
 | [Ciranda do Aborto](https://open.spotify.com/track/6nGek8pxb9begxdfTXYqBI) | [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Encarnado](https://open.spotify.com/album/1pRvKobyyF8tJcb4i9cKb8) | 5:40 | 2021-10-15 | 2022-07-20 |
 | [Clareana](https://open.spotify.com/track/6QhseSwPVZ4QEusjnrCx9C) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Feminina](https://open.spotify.com/album/7ImYb6goMEMVVtt3FKokEi) | 2:50 | 2021-10-15 | 2023-03-08 |
 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 | 2021-10-15 | 2024-10-23 |

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain](/playlists/plain/37i9dQZF1DWZIOAPKUdaKS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZIOAPKUdaKS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain](/playlists/plain/37i9dQZF1DWZIOAPKUdaKS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZIOAPKUdaKS)
 
 ### [Focus Piano](https://open.spotify.com/playlist/37i9dQZF1DWZIOAPKUdaKS)
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,199 likes - 151 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,612 likes - 151 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36zsTggrmF8.md) - [plain](/playlists/plain/37i9dQZF1DX36zsTggrmF8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX36zsTggrmF8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36zsTggrmF8.md) - [plain](/playlists/plain/37i9dQZF1DX36zsTggrmF8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX36zsTggrmF8)
 
 ### [GLOW Tapes: Charles Jeffrey ](https://open.spotify.com/playlist/37i9dQZF1DX36zsTggrmF8)
 
 > PUTTY SATIN BLUSH, curated by <a href="https://open.spotify.com/artist/08HQp2HGuXD10o7v6kJiqJ?si=n\-YJoeRsSj2XHTG\_NmkGDQ">Charles Jeffrey</a> 💋 Queer cult classics to post punk jewels and cinematic music that will make you laugh or cry!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,146 likes - 44 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,170 likes - 44 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

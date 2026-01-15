@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QGRbOBzabD.md) - [plain](/playlists/plain/37i9dQZF1DX0QGRbOBzabD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0QGRbOBzabD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QGRbOBzabD.md) - [plain](/playlists/plain/37i9dQZF1DX0QGRbOBzabD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0QGRbOBzabD)
 
 ### [Monogatari Series](https://open.spotify.com/playlist/37i9dQZF1DX0QGRbOBzabD)
 
 > Music from Nishio Ishin Anime project based on his popular light novels.（C）西尾維新／講談社・アニプレックス・シャフト
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,485 likes - 41 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,535 likes - 41 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0pHFNRP8qkYhal0q0Irp6D.md) - [plain](/playlists/plain/0pHFNRP8qkYhal0q0Irp6D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0pHFNRP8qkYhal0q0Irp6D)
+pretty - [cumulative](/playlists/cumulative/0pHFNRP8qkYhal0q0Irp6D.md) - [plain](/playlists/plain/0pHFNRP8qkYhal0q0Irp6D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0pHFNRP8qkYhal0q0Irp6D)
 
 ### [Disco Beats](https://open.spotify.com/playlist/0pHFNRP8qkYhal0q0Irp6D)
 
 > You should be dancing, yeah\. \(This ain't your typical disco either...\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,212 likes - 53 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,210 likes - 53 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

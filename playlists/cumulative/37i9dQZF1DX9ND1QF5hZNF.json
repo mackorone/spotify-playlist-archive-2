@@ -377,6 +377,36 @@
     },
     {
       "album": {
+        "name": "AWGAZI",
+        "url": "https://open.spotify.com/album/2XnPcqCzOHu9No3gR8t2TS"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        },
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        },
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150491,
+      "name": "AWGAZI (Sunset Remix)",
+      "url": "https://open.spotify.com/track/4AgxONQTltUnOfMJuiLQDk"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
       },
@@ -798,7 +828,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -1621,6 +1651,28 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/5EOYFV61qsLQwrG0RnNjhJ"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "Xtina Louise",
+          "url": "https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176854,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1sxy07nZ8K16IUI3neA8WI"
+    },
+    {
+      "album": {
         "name": "Disco en Egypte",
         "url": "https://open.spotify.com/album/2pWoLCL2ATNgxXONtIzyAx"
       },
@@ -2166,6 +2218,24 @@
       "duration_ms": 153652,
       "name": "Glassy Haze",
       "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
+    },
+    {
+      "album": {
+        "name": "god, give me a place",
+        "url": "https://open.spotify.com/album/1GT047wbcoeEBJoMvezZjA"
+      },
+      "artists": [
+        {
+          "name": "Holseek",
+          "url": "https://open.spotify.com/artist/6rtScDLmn7xeFY4F71v4e3"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191238,
+      "name": "god, give me a place",
+      "url": "https://open.spotify.com/track/22d6jvRNt7kFS4vnumiwnZ"
     },
     {
       "album": {
@@ -2919,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "J'attends que la nuit",
+        "url": "https://open.spotify.com/album/4G26g6FaTg1iprwntIwoYI"
+      },
+      "artists": [
+        {
+          "name": "Bleu nuage",
+          "url": "https://open.spotify.com/artist/4PSY0dGrFXLJvR9vuNYTq2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191496,
+      "name": "J'attends que la nuit",
+      "url": "https://open.spotify.com/track/5BNSKMQeldT2crarXj22Oi"
+    },
+    {
+      "album": {
         "name": "Je t'attends",
         "url": "https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE"
       },
@@ -3198,7 +3286,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 128275,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/2nEKKPoHSzQ1tVBHpFtAub"
@@ -5424,7 +5512,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 189000,
       "name": "Shakira",
       "url": "https://open.spotify.com/track/3bmvru095aLu7EDYp1mBFA"
@@ -5698,7 +5786,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173760,
       "name": "So wrong",
       "url": "https://open.spotify.com/track/374SJQY1odpKas6RA7rEs4"
@@ -6897,6 +6985,24 @@
     },
     {
       "album": {
+        "name": "Voyage Voyage",
+        "url": "https://open.spotify.com/album/16ayCmILiovTksjEG47GlN"
+      },
+      "artists": [
+        {
+          "name": "NOVEMBER KID",
+          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Voyage Voyage",
+      "url": "https://open.spotify.com/track/5dy0ZEDh2Lxvza4bK6GR8w"
+    },
+    {
+      "album": {
         "name": "Walking On a Dream",
         "url": "https://open.spotify.com/album/1vjLjA9LB8lyKyTuiW9Y8s"
       },
@@ -7186,7 +7292,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178115,
       "name": "Without You (Falling)",
       "url": "https://open.spotify.com/track/3MbtBolpM1RQWqFWhq82Jc"

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain](/playlists/plain/37i9dQZF1DXafCT9DHTijq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafCT9DHTijq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain](/playlists/plain/37i9dQZF1DXafCT9DHTijq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXafCT9DHTijq)
 
 ### [Classical Halloween](https://open.spotify.com/playlist/37i9dQZF1DXafCT9DHTijq)
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,760 likes - 64 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,608 likes - 64 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 | 7 | [Main Title Theme \(from "Beetlejuice Beetlejuice"\)](https://open.spotify.com/track/1OAHDtRQCebV0Bq4ixOyes) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Beetlejuice Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj) | 3:20 |
 | 8 | [Night on Bald Mountain](https://open.spotify.com/track/5FMmhANpoVzm6nXfnZKnXE) | [Modest Mussorgsky](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Berlioz: Symphonie fantastique; Dukas: The Sorcerer's Apprentice; Mussorgsky: Night on a Bald Mountain](https://open.spotify.com/album/3vSDu9qt7coA7uSD5k7T3f) | 11:40 |
 | 9 | [Introduction \(Titles\)](https://open.spotify.com/track/55n2WpwjQnIM1lvmxkzllb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf) | 2:36 |
-| 10 | [Dracula\- The Beginning](https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad) | [Bram Stoker's Dracula: Original Motion Picture Soundtrack](https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr) | 6:40 |
+| 10 | [Dracula\- The Beginning \(From "Bram Stoker's Dracula" Soundtrack\)](https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad) | [Bram Stoker's Dracula: Original Motion Picture Soundtrack](https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr) | 6:40 |
 | 11 | [Lullaby Variation](https://open.spotify.com/track/1qflgCdJ1A7a2U5wtfK31h) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Crimson Peak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1h4VIVpLvycmVgk021TBpM) | 1:41 |
 | 12 | [Water Goblin: Allegro vivo](https://open.spotify.com/track/2B7kM4FV45rXLF8lF6ReMX) | [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) | [Dvorák: Tone Poems](https://open.spotify.com/album/4cXQ94P1A25uc4pn1BfbJ9) | 7:00 |
 | 13 | [The Thrombey Estate](https://open.spotify.com/track/39H6QlhWsqMcO9o9LbBzNl) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:37 |

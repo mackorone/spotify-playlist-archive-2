@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPPdrlg41gp.md) - [plain](/playlists/plain/37i9dQZF1DWUPPdrlg41gp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUPPdrlg41gp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPPdrlg41gp.md) - [plain](/playlists/plain/37i9dQZF1DWUPPdrlg41gp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUPPdrlg41gp)
 
 ### [Twisters Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWUPPdrlg41gp)
 
 > Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,572 likes - 43 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,507 likes - 43 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

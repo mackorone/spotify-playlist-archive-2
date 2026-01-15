@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2YCTZb01BHsUw3t7XxVNM9.md) - cumulative - [plain](/playlists/plain/2YCTZb01BHsUw3t7XxVNM9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2YCTZb01BHsUw3t7XxVNM9)
+[pretty](/playlists/pretty/2YCTZb01BHsUw3t7XxVNM9.md) - cumulative - [plain](/playlists/plain/2YCTZb01BHsUw3t7XxVNM9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2YCTZb01BHsUw3t7XxVNM9)
 
 ### [Japanese Hardstyle/Hardcore \| J\-Core \| WeebCore \|](https://open.spotify.com/playlist/2YCTZb01BHsUw3t7XxVNM9)
 

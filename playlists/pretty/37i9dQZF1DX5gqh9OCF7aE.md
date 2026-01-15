@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gqh9OCF7aE.md) - [plain](/playlists/plain/37i9dQZF1DX5gqh9OCF7aE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5gqh9OCF7aE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gqh9OCF7aE.md) - [plain](/playlists/plain/37i9dQZF1DX5gqh9OCF7aE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5gqh9OCF7aE)
 
 ### [Women Through History \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX5gqh9OCF7aE)
 

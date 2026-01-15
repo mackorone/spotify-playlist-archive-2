@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain](/playlists/plain/37i9dQZF1DWWXvitqypcRR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWXvitqypcRR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain](/playlists/plain/37i9dQZF1DWWXvitqypcRR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWXvitqypcRR)
 
 ### [Tripolism's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWWXvitqypcRR)
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,460 likes - 55 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,639 likes - 55 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

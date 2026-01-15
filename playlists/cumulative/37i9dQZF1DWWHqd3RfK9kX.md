@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWHqd3RfK9kX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWHqd3RfK9kX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWHqd3RfK9kX)
+[pretty](/playlists/pretty/37i9dQZF1DWWHqd3RfK9kX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWHqd3RfK9kX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWHqd3RfK9kX)
 
 ### [Musica per Cucinare](https://open.spotify.com/playlist/37i9dQZF1DWWHqd3RfK9kX)
 

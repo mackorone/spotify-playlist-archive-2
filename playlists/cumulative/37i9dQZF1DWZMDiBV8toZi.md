@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZMDiBV8toZi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZMDiBV8toZi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZMDiBV8toZi)
+[pretty](/playlists/pretty/37i9dQZF1DWZMDiBV8toZi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZMDiBV8toZi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZMDiBV8toZi)
 
 ### [A Day in the Studio](https://open.spotify.com/playlist/37i9dQZF1DWZMDiBV8toZi)
 

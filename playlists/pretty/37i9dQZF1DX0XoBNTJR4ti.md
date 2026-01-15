@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain](/playlists/plain/37i9dQZF1DX0XoBNTJR4ti) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0XoBNTJR4ti)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain](/playlists/plain/37i9dQZF1DX0XoBNTJR4ti) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0XoBNTJR4ti)
 
 ### [Short Stories For Kids](https://open.spotify.com/playlist/37i9dQZF1DX0XoBNTJR4ti)
 
 > A collection of family\-friendly stories in five minutes or less.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,838 likes - 35 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,991 likes - 35 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

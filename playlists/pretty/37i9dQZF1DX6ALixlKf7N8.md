@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALixlKf7N8.md) - [plain](/playlists/plain/37i9dQZF1DX6ALixlKf7N8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6ALixlKf7N8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALixlKf7N8.md) - [plain](/playlists/plain/37i9dQZF1DX6ALixlKf7N8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6ALixlKf7N8)
 
 ### [Once Upon A Time](https://open.spotify.com/playlist/37i9dQZF1DX6ALixlKf7N8)
 
 > A collection of fairy tales and kids' stories perfect for bedtime and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,696 likes - 47 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,598 likes - 47 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

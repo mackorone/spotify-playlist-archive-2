@@ -63,6 +63,42 @@
     },
     {
       "album": {
+        "name": "Adjustments",
+        "url": "https://open.spotify.com/album/7FoAWPnRx4dB9DpnTLubPh"
+      },
+      "artists": [
+        {
+          "name": "moodgenzy",
+          "url": "https://open.spotify.com/artist/2LQ9WxkWhlHoBRYB1Iob4r"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196127,
+      "name": "Adjustments",
+      "url": "https://open.spotify.com/track/0v8BDoE0D3jkCflIqanIbL"
+    },
+    {
+      "album": {
+        "name": "Adrift",
+        "url": "https://open.spotify.com/album/2Dyy2vX4E34oPQ93uVzg0H"
+      },
+      "artists": [
+        {
+          "name": "Both Are Infinite",
+          "url": "https://open.spotify.com/artist/50DApFni8RZH3HKbCTgjve"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Adrift",
+      "url": "https://open.spotify.com/track/2LMvEiEBWvt0HMlJhptN73"
+    },
+    {
+      "album": {
         "name": "Aether",
         "url": "https://open.spotify.com/album/5qq4eo0JuhbmGFAVOOo4YO"
       },
@@ -301,6 +337,24 @@
     },
     {
       "album": {
+        "name": "barely there",
+        "url": "https://open.spotify.com/album/7hoZpcYmvSa7FNjIjHqcFt"
+      },
+      "artists": [
+        {
+          "name": "allbelow",
+          "url": "https://open.spotify.com/artist/7KbyoaBgM7uMBITNzfHFi4"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116741,
+      "name": "barely there",
+      "url": "https://open.spotify.com/track/4vRPnhqQZkdUVh30iDyM9a"
+    },
+    {
+      "album": {
         "name": "Beyond Horizon",
         "url": "https://open.spotify.com/album/2YCfrb4q2QkxH6VC61OyXB"
       },
@@ -478,6 +532,24 @@
       "duration_ms": 210713,
       "name": "Calm Waters",
       "url": "https://open.spotify.com/track/5xY4aftKW7VJrOngL6VJIG"
+    },
+    {
+      "album": {
+        "name": "Calming Waters (Ambient Version)",
+        "url": "https://open.spotify.com/album/3jkbCDQgOBTtcp4Jrnl5Cs"
+      },
+      "artists": [
+        {
+          "name": "Ethereva",
+          "url": "https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Calming Waters (Ambient Version)",
+      "url": "https://open.spotify.com/track/57xqSPRBqqoRvEHmE7NymC"
     },
     {
       "album": {
@@ -690,7 +762,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162124,
       "name": "Congenial",
       "url": "https://open.spotify.com/track/1CztkRlhwQLMeNIi7yMIo2"
@@ -971,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Dream Field 4",
+        "url": "https://open.spotify.com/album/1SmfCuNvhEni2d01R02voi"
+      },
+      "artists": [
+        {
+          "name": "Field Days",
+          "url": "https://open.spotify.com/artist/305NsOFiFUTaorJPQmCFDi"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189675,
+      "name": "Dream Field 4",
+      "url": "https://open.spotify.com/track/7wHszgqKd9bDGfdxGmCESJ"
+    },
+    {
+      "album": {
         "name": "Dream Night",
         "url": "https://open.spotify.com/album/0vTt9ErrB2dfzSJGC5vim6"
       },
@@ -1061,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Eloen",
+        "url": "https://open.spotify.com/album/4IYbfQW6iZsZO9F1evcsjT"
+      },
+      "artists": [
+        {
+          "name": "Velorae",
+          "url": "https://open.spotify.com/artist/5X9qwucFNflz1nXhvyEKFh"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Eloen",
+      "url": "https://open.spotify.com/track/2zoYB8RHR6efKp2dGwGUNJ"
+    },
+    {
+      "album": {
         "name": "End of a Dream",
         "url": "https://open.spotify.com/album/2C3j0Ow0hPlWp5ZejAiBCg"
       },
@@ -1112,6 +1220,24 @@
       "duration_ms": 177849,
       "name": "Endless Garden",
       "url": "https://open.spotify.com/track/3qpA0ifDb7VWyCqP7UoLjP"
+    },
+    {
+      "album": {
+        "name": "Endless Stars",
+        "url": "https://open.spotify.com/album/3kosltGoPeUn8nQJk2YyIf"
+      },
+      "artists": [
+        {
+          "name": "Jack Allenson",
+          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170244,
+      "name": "Endless Stars",
+      "url": "https://open.spotify.com/track/6H92kjUpe6DXkdMJBGgmHr"
     },
     {
       "album": {
@@ -1685,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Gyrotopia",
+        "url": "https://open.spotify.com/album/2hOWDUrfnIK9rwpU753kHS"
+      },
+      "artists": [
+        {
+          "name": "Ultrawideolence",
+          "url": "https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146962,
+      "name": "Gyrotopia",
+      "url": "https://open.spotify.com/track/27lgNb8ovRpGiwithxKYnB"
+    },
+    {
+      "album": {
         "name": "Habitat Ref. 0101110111 / Signus Cluster (Earth)",
         "url": "https://open.spotify.com/album/3E2NYauTpkdr7gp0iFZP3X"
       },
@@ -1700,6 +1844,24 @@
       "duration_ms": 179814,
       "name": "Habitat Ref. 0101110111 / Signus Cluster (Earth)",
       "url": "https://open.spotify.com/track/19rdCgq1veejcGQo15yOhw"
+    },
+    {
+      "album": {
+        "name": "Halation II",
+        "url": "https://open.spotify.com/album/0zxPYu2rw2WHdqyjc9YiX7"
+      },
+      "artists": [
+        {
+          "name": "Lentia",
+          "url": "https://open.spotify.com/artist/0AKE83RUGa20NvsAep3UHb"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136113,
+      "name": "Halation II",
+      "url": "https://open.spotify.com/track/2tirB4eDiGQbv9gLnW53vJ"
     },
     {
       "album": {
@@ -1804,7 +1966,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 234988,
       "name": "Hiking With Friends",
       "url": "https://open.spotify.com/track/7v9Brf9lQzUXaAje1sKJ53"
@@ -2006,6 +2168,24 @@
       "duration_ms": 138500,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/4kUhhFba3YLkL5jQKIeZ8n"
+    },
+    {
+      "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/5xtM02c0pbFQgdsEKnKLKA"
+      },
+      "artists": [
+        {
+          "name": "Arsenewski",
+          "url": "https://open.spotify.com/artist/4vPuapSuScRRXttFKLHmCz"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/5VNE9gXIml5mPAznYNeNlO"
     },
     {
       "album": {
@@ -3758,6 +3938,28 @@
       "duration_ms": 166766,
       "name": "Unfailing",
       "url": "https://open.spotify.com/track/0f8EAWED88rseWwGCo1U3k"
+    },
+    {
+      "album": {
+        "name": "unholy",
+        "url": "https://open.spotify.com/album/3AgTcXKPNxRM1cNT8svKdN"
+      },
+      "artists": [
+        {
+          "name": "eidra",
+          "url": "https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM"
+        },
+        {
+          "name": "Blocktane",
+          "url": "https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117551,
+      "name": "unholy",
+      "url": "https://open.spotify.com/track/1gE5n8mAhWVStO2f8rvPrG"
     },
     {
       "album": {

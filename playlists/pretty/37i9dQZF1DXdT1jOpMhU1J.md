@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain](/playlists/plain/37i9dQZF1DXdT1jOpMhU1J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdT1jOpMhU1J)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain](/playlists/plain/37i9dQZF1DXdT1jOpMhU1J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdT1jOpMhU1J)
 
 ### [Canções de Ninar](https://open.spotify.com/playlist/37i9dQZF1DXdT1jOpMhU1J)
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,491 likes - 140 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,543 likes - 140 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

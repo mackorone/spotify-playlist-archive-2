@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain](/playlists/plain/37i9dQZF1DX2PQDq3PdrHQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2PQDq3PdrHQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain](/playlists/plain/37i9dQZF1DX2PQDq3PdrHQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2PQDq3PdrHQ)
 
 ### [lofi sleep](https://open.spotify.com/playlist/37i9dQZF1DX2PQDq3PdrHQ)
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,224 likes - 200 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,286 likes - 200 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

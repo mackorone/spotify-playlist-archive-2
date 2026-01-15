@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2rtAnhOgHNC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2rtAnhOgHNC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2rtAnhOgHNC)
+[pretty](/playlists/pretty/37i9dQZF1DX2rtAnhOgHNC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2rtAnhOgHNC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2rtAnhOgHNC)
 
 ### [Los 2010 México](https://open.spotify.com/playlist/37i9dQZF1DX2rtAnhOgHNC)
 

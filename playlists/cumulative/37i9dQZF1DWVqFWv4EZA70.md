@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVqFWv4EZA70.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVqFWv4EZA70) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVqFWv4EZA70)
+[pretty](/playlists/pretty/37i9dQZF1DWVqFWv4EZA70.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVqFWv4EZA70) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVqFWv4EZA70)
 
 ### [Relax Brunch](https://open.spotify.com/playlist/37i9dQZF1DWVqFWv4EZA70)
 

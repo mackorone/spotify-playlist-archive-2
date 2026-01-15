@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3Qx0ZvIPOwdVUt50BpElkj.md) - [plain](/playlists/plain/3Qx0ZvIPOwdVUt50BpElkj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3Qx0ZvIPOwdVUt50BpElkj)
+pretty - [cumulative](/playlists/cumulative/3Qx0ZvIPOwdVUt50BpElkj.md) - [plain](/playlists/plain/3Qx0ZvIPOwdVUt50BpElkj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3Qx0ZvIPOwdVUt50BpElkj)
 
 ### [Black Believers](https://open.spotify.com/playlist/3Qx0ZvIPOwdVUt50BpElkj)
 

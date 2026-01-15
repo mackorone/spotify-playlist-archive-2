@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cBprxbt1Fn.md) - [plain](/playlists/plain/37i9dQZF1DX7cBprxbt1Fn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7cBprxbt1Fn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cBprxbt1Fn.md) - [plain](/playlists/plain/37i9dQZF1DX7cBprxbt1Fn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7cBprxbt1Fn)
 
 ### [Gentle Classical](https://open.spotify.com/playlist/37i9dQZF1DX7cBprxbt1Fn)
 

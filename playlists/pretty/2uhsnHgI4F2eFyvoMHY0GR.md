@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain](/playlists/plain/2uhsnHgI4F2eFyvoMHY0GR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2uhsnHgI4F2eFyvoMHY0GR)
+pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain](/playlists/plain/2uhsnHgI4F2eFyvoMHY0GR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2uhsnHgI4F2eFyvoMHY0GR)
 
 ### [Instrumental Rock](https://open.spotify.com/playlist/2uhsnHgI4F2eFyvoMHY0GR)
 
 > Rock your workday lyric free with classic rock favorites, meditative heavy metal, and art rock wonders.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,837 likes - 42 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,840 likes - 42 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

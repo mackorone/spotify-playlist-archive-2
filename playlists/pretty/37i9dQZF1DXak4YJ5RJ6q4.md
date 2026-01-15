@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXak4YJ5RJ6q4.md) - [plain](/playlists/plain/37i9dQZF1DXak4YJ5RJ6q4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXak4YJ5RJ6q4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXak4YJ5RJ6q4.md) - [plain](/playlists/plain/37i9dQZF1DXak4YJ5RJ6q4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXak4YJ5RJ6q4)
 
 ### [Forever Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXak4YJ5RJ6q4)
 
 > A story about a first love that lingers forever\. Listen to the music from Forever, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,532 likes - 57 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,761 likes - 57 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

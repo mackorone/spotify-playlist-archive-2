@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Tom Morello, Beartooth",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Slope",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -1983,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "Box In The Basement",
+        "url": "https://open.spotify.com/album/2N13X4HNaRNqzjYL1nHPoF"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Box In The Basement",
+      "url": "https://open.spotify.com/track/44r3djxJsaQTlddoeW5hjh"
+    },
+    {
+      "album": {
         "name": "BRAINDEAD (feat. Toby Morse)",
         "url": "https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv"
       },
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165744,
       "name": "Cardinal In The Crossfire",
       "url": "https://open.spotify.com/track/0yWTRzYMR6QvS1LwW2WGEQ"
@@ -2652,7 +2670,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 263758,
       "name": "City Of Night",
       "url": "https://open.spotify.com/track/5Ljh4Sc4RfbQdZFCWamFQj"
@@ -2890,6 +2908,24 @@
       "duration_ms": 210640,
       "name": "Come Undone",
       "url": "https://open.spotify.com/track/0R8u2YkiDG0rr6sfGn44PX"
+    },
+    {
+      "album": {
+        "name": "COME_CLEAN",
+        "url": "https://open.spotify.com/album/3IVLe8fpNA4v7USAzR3DEC"
+      },
+      "artists": [
+        {
+          "name": "H-Blockx",
+          "url": "https://open.spotify.com/artist/1V3Nl0Y3EZwqP38KHws6vB"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179430,
+      "name": "COME_CLEAN",
+      "url": "https://open.spotify.com/track/34FlOJ2psb0fLVazGvllT8"
     },
     {
       "album": {
@@ -3396,7 +3432,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209513,
       "name": "DEAD GIRL WALKING",
       "url": "https://open.spotify.com/track/7MzYunk9yPyDsJjSPTppuH"
@@ -3924,7 +3960,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 298160,
       "name": "Don't You Hate Yourself?",
       "url": "https://open.spotify.com/track/38KogCv80PHOcyPOM5Xn5y"
@@ -4390,7 +4426,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199617,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
@@ -4546,7 +4582,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 144807,
       "name": "Failure",
       "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
@@ -4786,6 +4822,24 @@
       "duration_ms": 283714,
       "name": "Forever Cold",
       "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
+    },
+    {
+      "album": {
+        "name": "Forever Unsatisfied",
+        "url": "https://open.spotify.com/album/1Ri3ocV9VGwATnwpSVMAQx"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232117,
+      "name": "Forever Unsatisfied",
+      "url": "https://open.spotify.com/track/5KfRUsIYytC508Eq85bSEN"
     },
     {
       "album": {
@@ -5334,7 +5388,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 188006,
       "name": "Good To Know You Told Me So",
       "url": "https://open.spotify.com/track/3v88P3pMjbZvmpcKRptVF2"
@@ -8021,6 +8075,24 @@
     },
     {
       "album": {
+        "name": "Mad Machine 2.0",
+        "url": "https://open.spotify.com/album/5rQ6vM1VK9xBVSR6iMpJMc"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161399,
+      "name": "Mad Machine 2.0",
+      "url": "https://open.spotify.com/track/677JPKYrexdocBiyVe8yjU"
+    },
+    {
+      "album": {
         "name": "Made Of Glass",
         "url": "https://open.spotify.com/album/4Q6coU9foUcHhXg8XUOCNw"
       },
@@ -8960,7 +9032,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155470,
       "name": "no cell phones in rehab",
       "url": "https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9"
@@ -9706,7 +9778,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159000,
       "name": "PAPERROUTE (with WesGhost)",
       "url": "https://open.spotify.com/track/3ki8f9SeplAT5m0zFuufqA"
@@ -10240,7 +10312,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157106,
       "name": "Punks And Demons",
       "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
@@ -10428,7 +10500,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174634,
       "name": "Rejects",
       "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
@@ -10817,6 +10889,24 @@
     },
     {
       "album": {
+        "name": "Same Blues",
+        "url": "https://open.spotify.com/album/0e9XqHUOBh1Jp4T5TngxiI"
+      },
+      "artists": [
+        {
+          "name": "Slope",
+          "url": "https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159468,
+      "name": "Same Blues",
+      "url": "https://open.spotify.com/track/2h6ra8tIJRlDLQIQAo3lRG"
+    },
+    {
+      "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
       },
@@ -10872,6 +10962,24 @@
       "duration_ms": 263571,
       "name": "Say It Again (feat. The Rasmus)",
       "url": "https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI"
+    },
+    {
+      "album": {
+        "name": "Scales Are Falling",
+        "url": "https://open.spotify.com/album/4r9bwqnjDl2oKbQHBWybNv"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352839,
+      "name": "Scales Are Falling",
+      "url": "https://open.spotify.com/track/2Wb33vEP4HJiPpI5J7s4Ha"
     },
     {
       "album": {
@@ -11240,7 +11348,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 181200,
       "name": "SING WITH ME",
       "url": "https://open.spotify.com/track/6RCddiGrlOpXUswjliDvET"
@@ -12237,6 +12345,24 @@
     },
     {
       "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/6viagaceTb3j1WujffjlAa"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224128,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/63Qij63nda9bW8xlNBWTdH"
+    },
+    {
+      "album": {
         "name": "Sword",
         "url": "https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8"
       },
@@ -13013,6 +13139,24 @@
     },
     {
       "album": {
+        "name": "viagr aboys (Japanese Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159390,
+      "name": "Therapy II",
+      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
+    },
+    {
+      "album": {
         "name": "There's No Future In Optimism",
         "url": "https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY"
       },
@@ -13198,6 +13342,24 @@
       "duration_ms": 122181,
       "name": "Tommy",
       "url": "https://open.spotify.com/track/0M5yOiTKWbHlZOGS9q1Lqy"
+    },
+    {
+      "album": {
+        "name": "too far gone",
+        "url": "https://open.spotify.com/album/08mjFRr5oPWwWrlf4QR8Ro"
+      },
+      "artists": [
+        {
+          "name": "rosecoloredworld",
+          "url": "https://open.spotify.com/artist/463Zbm3YPy7aKLqX1LBycF"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184416,
+      "name": "too far gone",
+      "url": "https://open.spotify.com/track/6hkp7TNulqDK5BruldgB6j"
     },
     {
       "album": {
@@ -14638,6 +14800,28 @@
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239582,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZJhOVGWqUKF"

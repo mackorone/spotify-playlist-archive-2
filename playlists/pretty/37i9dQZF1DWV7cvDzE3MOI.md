@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain](/playlists/plain/37i9dQZF1DWV7cvDzE3MOI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV7cvDzE3MOI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain](/playlists/plain/37i9dQZF1DWV7cvDzE3MOI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWV7cvDzE3MOI)
 
 ### [This Is Chopin](https://open.spotify.com/playlist/37i9dQZF1DWV7cvDzE3MOI)
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,894 likes - 67 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,444 likes - 67 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

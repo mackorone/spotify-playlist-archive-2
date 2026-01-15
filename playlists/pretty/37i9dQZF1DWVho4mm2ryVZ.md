@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVho4mm2ryVZ.md) - [plain](/playlists/plain/37i9dQZF1DWVho4mm2ryVZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVho4mm2ryVZ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVho4mm2ryVZ.md) - [plain](/playlists/plain/37i9dQZF1DWVho4mm2ryVZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVho4mm2ryVZ)
 
 ### [50 Cuentos](https://open.spotify.com/playlist/37i9dQZF1DWVho4mm2ryVZ)
 
 > Bastante cuentos para la familia a disfrutar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,367 likes - 50 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,532 likes - 50 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

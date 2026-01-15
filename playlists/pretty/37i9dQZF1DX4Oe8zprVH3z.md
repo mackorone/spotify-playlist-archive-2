@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain](/playlists/plain/37i9dQZF1DX4Oe8zprVH3z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Oe8zprVH3z)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain](/playlists/plain/37i9dQZF1DX4Oe8zprVH3z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4Oe8zprVH3z)
 
 ### [zen garden](https://open.spotify.com/playlist/37i9dQZF1DX4Oe8zprVH3z)
 
 > Breathe deep, close your eyes, immerse yourself..\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,990 likes - 169 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,708 likes - 169 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

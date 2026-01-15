@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/21R6Tl68DEhGqrfOdSAtSZ.md) - [plain](/playlists/plain/21R6Tl68DEhGqrfOdSAtSZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/21R6Tl68DEhGqrfOdSAtSZ)
+pretty - [cumulative](/playlists/cumulative/21R6Tl68DEhGqrfOdSAtSZ.md) - [plain](/playlists/plain/21R6Tl68DEhGqrfOdSAtSZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/21R6Tl68DEhGqrfOdSAtSZ)
 
 ### [Headspace Dampening Tunage](https://open.spotify.com/playlist/21R6Tl68DEhGqrfOdSAtSZ)
 

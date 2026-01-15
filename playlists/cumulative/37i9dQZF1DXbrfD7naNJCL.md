@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbrfD7naNJCL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbrfD7naNJCL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbrfD7naNJCL)
+[pretty](/playlists/pretty/37i9dQZF1DXbrfD7naNJCL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbrfD7naNJCL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbrfD7naNJCL)
 
 ### [The Little Mermaid Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbrfD7naNJCL)
 

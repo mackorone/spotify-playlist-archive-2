@@ -194,6 +194,10 @@
         {
           "name": "Ananda",
           "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
         }
       ],
       "date_added": "2025-12-12",
@@ -4332,6 +4336,28 @@
       "duration_ms": 186809,
       "name": "cedo pra dizer",
       "url": "https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o estou l\u00e1",
+        "url": "https://open.spotify.com/album/2iQgYSXYdxXadFPmqEcX9L"
+      },
+      "artists": [
+        {
+          "name": "CAIO",
+          "url": "https://open.spotify.com/artist/3pCIwipBj9hOPpz5LYod1N"
+        },
+        {
+          "name": "Ta-Gana",
+          "url": "https://open.spotify.com/artist/5yoaqONtZjNNYKsppIlcvn"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163236,
+      "name": "celebridade",
+      "url": "https://open.spotify.com/track/4XsyZnz8hM3oa1MCXZlfFi"
     },
     {
       "album": {
@@ -18220,7 +18246,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150187,
       "name": "Sacode",
       "url": "https://open.spotify.com/track/2p2StS2NPYe7T5oTPbXf1Z"

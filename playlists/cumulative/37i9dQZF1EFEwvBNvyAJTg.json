@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Double Edged Sword",
+        "url": "https://open.spotify.com/album/10E3qrwPpiy3QXLrzARadz"
+      },
+      "artists": [
+        {
+          "name": "SISTRA",
+          "url": "https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Double Edged Sword",
+      "url": "https://open.spotify.com/track/1faO8uZBqjwTyUmYOEE5Z5"
+    },
+    {
+      "album": {
         "name": "Drinkin'",
         "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
       },

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUVpAXiEPK8P.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUVpAXiEPK8P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUVpAXiEPK8P)
+[pretty](/playlists/pretty/37i9dQZF1DWUVpAXiEPK8P.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUVpAXiEPK8P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUVpAXiEPK8P)
 
 ### [Power Workout](https://open.spotify.com/playlist/37i9dQZF1DWUVpAXiEPK8P)
 
 > For whatever activity you do that may need a punch of intensity!
 
-340 songs - 18 hr 5 min
+341 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Camelot \(feat\. Yo Gotti, BlocBoy JB & Moneybagg Yo\) \- Remix](https://open.spotify.com/track/05JdgtCKkZ5CoOjM5KS4EG) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Camelot \(feat\. Yo Gotti, BlocBoy JB & Moneybagg Yo\) \[Remix\]](https://open.spotify.com/album/58gXxUxvp38hNEXjplbw4m) | 3:18 | 2022-04-15 | 2022-04-16 |
 | [Car Bars](https://open.spotify.com/track/6foJwQgQ7K2qKRsjZ2jpEh) | [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV) | [Bars EP](https://open.spotify.com/album/5oREzWRmZSR9E2kFlB9Te6) | 2:58 | 2022-04-15 | 2022-04-16 |
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-27 |  |
+| [Carry Out \(Featuring Justin Timberlake\)](https://open.spotify.com/track/2DHc2e5bBn4UzY0ENVFrUl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Shock Value II](https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H) | 3:52 | 2025-09-05 |  |
 | [Cause A Commotion \(feat\. Skip Marley\)](https://open.spotify.com/track/3vYY0BG9V1odj5gcpizYBD) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Cause A Commotion](https://open.spotify.com/album/3WuBUaFonxxcUVCNNQoE44) | 3:20 | 2022-04-15 | 2022-04-20 |
 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 | 2022-04-15 |  |
 | [Clash \(feat\. Stormzy\)](https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Clash \(feat\. Stormzy\)](https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP) | 4:11 | 2021-12-20 | 2022-07-26 |
@@ -273,7 +274,7 @@
 | [Speed It Up](https://open.spotify.com/track/3BXXkwyhsHM0EPApHMhQC5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed It Up](https://open.spotify.com/album/4eksthxT0hhR72A46Qr9OT) | 2:59 | 2022-04-15 | 2022-04-20 |
 | [Spin This Coupe](https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Spin This Coupe](https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC) | 2:41 | 2022-04-15 | 2022-04-21 |
 | [Sponono](https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [I Am The King Of Amapiano: Sweet & Dust](https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE) | 6:35 | 2022-04-15 | 2022-04-17 |
-| [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-05 |  |
+| [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-05 | 2026-01-15 |
 | [Staqdó](https://open.spotify.com/track/18INBoIehIGl8afUmMY6ky) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Staqdó](https://open.spotify.com/album/1JJoeR96UTq42aofefRehk) | 2:58 | 2022-04-15 | 2022-04-18 |
 | [Steelo Flow](https://open.spotify.com/track/22uXd8yY48uKY0UlJ7TpZt) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Steelo Flow](https://open.spotify.com/album/65FKpuWh6N7n2DHJBZ9HMt) | 3:09 | 2022-04-15 | 2022-04-20 |
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2022-06-24 |  |

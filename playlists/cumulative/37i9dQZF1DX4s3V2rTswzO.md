@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4s3V2rTswzO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4s3V2rTswzO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4s3V2rTswzO)
+[pretty](/playlists/pretty/37i9dQZF1DX4s3V2rTswzO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4s3V2rTswzO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4s3V2rTswzO)
 
 ### [Classical Romance](https://open.spotify.com/playlist/37i9dQZF1DX4s3V2rTswzO)
 

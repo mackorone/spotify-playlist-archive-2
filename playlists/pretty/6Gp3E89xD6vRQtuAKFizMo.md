@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain](/playlists/plain/6Gp3E89xD6vRQtuAKFizMo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6Gp3E89xD6vRQtuAKFizMo)
+pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain](/playlists/plain/6Gp3E89xD6vRQtuAKFizMo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6Gp3E89xD6vRQtuAKFizMo)
 
 ### [Dim Mak New Releases](https://open.spotify.com/playlist/6Gp3E89xD6vRQtuAKFizMo)
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 43,623 likes - 130 songs - 6 hr 3 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 43,602 likes - 130 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

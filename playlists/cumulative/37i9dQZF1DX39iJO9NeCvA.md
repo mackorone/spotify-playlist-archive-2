@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX39iJO9NeCvA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX39iJO9NeCvA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX39iJO9NeCvA)
+[pretty](/playlists/pretty/37i9dQZF1DX39iJO9NeCvA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX39iJO9NeCvA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX39iJO9NeCvA)
 
 ### [TRIGUN series トライガン シリーズ](https://open.spotify.com/playlist/37i9dQZF1DX39iJO9NeCvA)
 
-> Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。© 2023 内藤泰弘・少年画報社／「TRIGUN STAMPEDE」製作委員会
+> Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。© 2026 内藤泰弘・少年画報社／「TRIGUN STARGAZE」製作委員会
 
-170 songs - 7 hr 40 min
+172 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,9 @@
 | [Whom to Kill, Whom to Let Live](https://open.spotify.com/track/3UFsUjlqmO3TJj51f8PpCZ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ) | 2:16 | 2023-03-26 |  |
 | [Whom to Kill, Whom to Let Live](https://open.spotify.com/track/4Edy149x6lgd7ovtxJ9FbL) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 2:16 | 2023-03-26 | 2023-03-31 |
 | [you've blown it over the sands](https://open.spotify.com/track/57hyjxTe2HKiujEV7vpMC4) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 1:52 | 2021-05-26 |  |
+| [スターダスト](https://open.spotify.com/track/6M410WEW7eCsU7z1BE3BJO) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [スターダスト](https://open.spotify.com/album/1r3xpfEzgqu4bXgeTfLwby) | 3:29 | 2026-01-13 |  |
 | [トマクン](https://open.spotify.com/track/6qC9EuTHWb6G5yNSBTnEZR) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 3:09 | 2021-05-26 |  |
+| [ピカレスクヒーロー](https://open.spotify.com/track/5smt4XQPsHdCrK5rb6czcP) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ピカレスクヒーロー](https://open.spotify.com/album/3wSDoUtAawcfDrDhjipyVU) | 3:26 | 2026-01-13 |  |
 | [星のクズ α](https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ α](https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0) | 5:03 | 2023-01-12 |  |
 | [楽園](https://open.spotify.com/track/1WSgqqmMQZgxMJZj7l31VL) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン　THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 5:17 | 2021-05-26 |  |
 | [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン　THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 | 2021-05-26 |  |

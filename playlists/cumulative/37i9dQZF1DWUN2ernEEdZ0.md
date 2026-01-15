@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUN2ernEEdZ0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUN2ernEEdZ0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUN2ernEEdZ0)
+[pretty](/playlists/pretty/37i9dQZF1DWUN2ernEEdZ0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUN2ernEEdZ0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUN2ernEEdZ0)
 
 ### [Classical Bangers 2026](https://open.spotify.com/playlist/37i9dQZF1DWUN2ernEEdZ0)
 

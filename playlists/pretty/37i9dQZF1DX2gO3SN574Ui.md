@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gO3SN574Ui.md) - [plain](/playlists/plain/37i9dQZF1DX2gO3SN574Ui) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2gO3SN574Ui)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gO3SN574Ui.md) - [plain](/playlists/plain/37i9dQZF1DX2gO3SN574Ui) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2gO3SN574Ui)
 
 ### [ARMNHMR's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX2gO3SN574Ui)
 

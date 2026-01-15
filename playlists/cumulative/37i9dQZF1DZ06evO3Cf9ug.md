@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO3Cf9ug.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3Cf9ug) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3Cf9ug)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO3Cf9ug.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3Cf9ug) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO3Cf9ug)
 
 ### [This Is Tems](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Cf9ug)
 

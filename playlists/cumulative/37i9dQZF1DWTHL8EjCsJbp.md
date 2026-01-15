@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTHL8EjCsJbp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTHL8EjCsJbp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTHL8EjCsJbp)
+[pretty](/playlists/pretty/37i9dQZF1DWTHL8EjCsJbp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTHL8EjCsJbp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTHL8EjCsJbp)
 
 ### [On Tour Japan: The 1975](https://open.spotify.com/playlist/37i9dQZF1DWTHL8EjCsJbp)
 

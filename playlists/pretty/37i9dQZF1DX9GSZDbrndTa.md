@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain](/playlists/plain/37i9dQZF1DX9GSZDbrndTa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9GSZDbrndTa)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain](/playlists/plain/37i9dQZF1DX9GSZDbrndTa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9GSZDbrndTa)
 
 ### [Jazz\-Blues](https://open.spotify.com/playlist/37i9dQZF1DX9GSZDbrndTa)
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,810 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,945 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain](/playlists/plain/37i9dQZF1DX74B6icGDRE7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX74B6icGDRE7)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain](/playlists/plain/37i9dQZF1DX74B6icGDRE7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX74B6icGDRE7)
 
 ### [de madrugada](https://open.spotify.com/playlist/37i9dQZF1DX74B6icGDRE7)
 

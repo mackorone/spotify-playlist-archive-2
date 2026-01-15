@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain](/playlists/plain/37i9dQZF1DWTm9PQomW7Or) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTm9PQomW7Or)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain](/playlists/plain/37i9dQZF1DWTm9PQomW7Or) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTm9PQomW7Or)
 
 ### [IDOL : The Coup](https://open.spotify.com/playlist/37i9dQZF1DWTm9PQomW7Or)
 

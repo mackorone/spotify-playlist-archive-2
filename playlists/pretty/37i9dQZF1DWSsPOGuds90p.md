@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsPOGuds90p.md) - [plain](/playlists/plain/37i9dQZF1DWSsPOGuds90p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSsPOGuds90p)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsPOGuds90p.md) - [plain](/playlists/plain/37i9dQZF1DWSsPOGuds90p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSsPOGuds90p)
 
 ### [ff keihard janken](https://open.spotify.com/playlist/37i9dQZF1DWSsPOGuds90p)
 
 > soms moet het er even uit
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,705 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,625 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

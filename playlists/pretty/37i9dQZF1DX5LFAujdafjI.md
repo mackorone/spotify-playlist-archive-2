@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain](/playlists/plain/37i9dQZF1DX5LFAujdafjI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5LFAujdafjI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain](/playlists/plain/37i9dQZF1DX5LFAujdafjI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5LFAujdafjI)
 
 ### [Portola Party People](https://open.spotify.com/playlist/37i9dQZF1DX5LFAujdafjI)
 
 > Countdown to Portola weekend! For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the <a href="https://portolamusicfestival.com/">Portola Festival</a> Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,566 likes - 59 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,692 likes - 59 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

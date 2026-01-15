@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-20",
-  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: N\u00f6el Mio",
+  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: Jenge",
   "name": "Praise and Chill",
   "tracks": [
     {
@@ -7047,6 +7047,24 @@
     },
     {
       "album": {
+        "name": "Much More",
+        "url": "https://open.spotify.com/album/6FpVSHaMUxFaNX4lJHZ9Rn"
+      },
+      "artists": [
+        {
+          "name": "Oludee",
+          "url": "https://open.spotify.com/artist/51GYW8DE2JojeDFUfoDVM1"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220799,
+      "name": "Much More",
+      "url": "https://open.spotify.com/track/0HikoZv7IMC8KbNVNFuinm"
+    },
+    {
+      "album": {
         "name": "My Creed",
         "url": "https://open.spotify.com/album/0H6Y4VYYR1W25moo3pLyU1"
       },
@@ -9464,7 +9482,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 138784,
       "name": "Restore Me",
       "url": "https://open.spotify.com/track/6GuzExjH9JKKzz1eFbmW7c"
@@ -11542,7 +11560,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140279,
       "name": "Victory song",
       "url": "https://open.spotify.com/track/6DhT4LdkIqL30Djc9CYWp5"
@@ -11806,6 +11824,28 @@
       "duration_ms": 242256,
       "name": "WE WIN",
       "url": "https://open.spotify.com/track/2TyuOEMOSZf7I523X6ZqYz"
+    },
+    {
+      "album": {
+        "name": "What a Friend",
+        "url": "https://open.spotify.com/album/6mnMbRsGMAH4nzecSQvU6Q"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Jenge",
+          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135822,
+      "name": "What a Friend",
+      "url": "https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm"
     },
     {
       "album": {

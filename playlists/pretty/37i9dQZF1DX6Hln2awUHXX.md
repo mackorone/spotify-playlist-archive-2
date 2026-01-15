@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hln2awUHXX.md) - [plain](/playlists/plain/37i9dQZF1DX6Hln2awUHXX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6Hln2awUHXX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hln2awUHXX.md) - [plain](/playlists/plain/37i9dQZF1DX6Hln2awUHXX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6Hln2awUHXX)
 
 ### [This Is Wagner](https://open.spotify.com/playlist/37i9dQZF1DX6Hln2awUHXX)
 
 > An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,330 likes - 61 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,455 likes - 61 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

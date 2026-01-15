@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1JctQodQRj.md) - [plain](/playlists/plain/37i9dQZF1DWU1JctQodQRj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU1JctQodQRj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1JctQodQRj.md) - [plain](/playlists/plain/37i9dQZF1DWU1JctQodQRj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU1JctQodQRj)
 
 ### [Relaxing Bach](https://open.spotify.com/playlist/37i9dQZF1DWU1JctQodQRj)
 
 > Let the daily stresses of the world melt away with this peaceful playlist, filled with the warm, comforting melodies of JS Bach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,405 likes - 81 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,720 likes - 81 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

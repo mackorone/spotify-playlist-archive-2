@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaX6F5hVloGL.md) - [plain](/playlists/plain/37i9dQZF1DXaX6F5hVloGL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaX6F5hVloGL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaX6F5hVloGL.md) - [plain](/playlists/plain/37i9dQZF1DXaX6F5hVloGL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaX6F5hVloGL)
 
 ### [TEKKEN](https://open.spotify.com/playlist/37i9dQZF1DXaX6F5hVloGL)
 
 > Music from ”TEKKEN” series!  鉄拳シリーズの楽曲を1つのプレイリストで。　TEKKEN™8 & ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,054 likes - 79 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,089 likes - 79 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWX16Q183eyvd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX16Q183eyvd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX16Q183eyvd)
+[pretty](/playlists/pretty/37i9dQZF1DWX16Q183eyvd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX16Q183eyvd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX16Q183eyvd)
 
 ### [Hip\-Hop & R&B for Kids](https://open.spotify.com/playlist/37i9dQZF1DWX16Q183eyvd)
 
-> Push play on the coolest playlist around, and get ready to jump around\. Cover: Mega Ran
+> Push play on the coolest playlist around, and get ready to jump around\. Cover: Ice Spice
 
-184 songs - 8 hr 23 min
+185 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,10 +17,11 @@
 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2024-01-30 | 2025-08-09 |
 | [Apple of My Eye](https://open.spotify.com/track/7nzvfB4c708km3Y69qKj5k) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 4:15 | 2021-11-19 | 2024-01-31 |
 | [Aura V Anthem](https://open.spotify.com/track/3mjYCpOCqwyv2q4o7E8F0e) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [Aura V Anthem](https://open.spotify.com/album/4cxT3Qi0xKbDSsyHQ6cQVi) | 1:06 | 2025-05-09 | 2025-05-24 |
-| [Be You You You](https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Taste The Sky](https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5) | 3:02 | 2024-01-30 |  |
+| [Be You You You](https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Taste The Sky](https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5) | 3:02 | 2024-01-30 | 2026-01-15 |
 | [Believe In Yourself](https://open.spotify.com/track/4fodXSNCm0wF9IfCjqA9SF) | [Cali Sadé](https://open.spotify.com/artist/412wqueGF3MRBHjzYP5KQC) | [Believe In Yourself](https://open.spotify.com/album/6Cr8zKBlb8QtPCHlDaJey7) | 2:33 | 2024-01-30 |  |
 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 | 2024-01-30 |  |
 | [Big Feelings](https://open.spotify.com/track/3d05iVzuY8F9wjD87ciT0e) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [Big Feelings](https://open.spotify.com/album/2aW9TbZPlTk74HCP2Zqpwn) | 3:01 | 2024-07-26 | 2025-03-08 |
+| [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 | 2026-01-07 |  |
 | [Big Kid Energy](https://open.spotify.com/track/0plhaGeJwkHKIyqWG2uIY2) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Big Kid Energy](https://open.spotify.com/album/3YIkAwtzKdqWVvk1HtMLNG) | 1:57 | 2025-01-10 |  |
 | [Black and White](https://open.spotify.com/track/2tL2sP4QCuO3gJJ84opH0J) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 3:19 | 2023-10-10 | 2024-01-31 |
 | [Black and White](https://open.spotify.com/track/5nni7e0KD2XviqyGPPBFCU) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:19 | 2021-11-19 | 2023-11-04 |

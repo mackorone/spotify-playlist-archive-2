@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/364iiPm5P2pmaZOB4bHfpu.md) - [plain](/playlists/plain/364iiPm5P2pmaZOB4bHfpu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/364iiPm5P2pmaZOB4bHfpu)
+pretty - [cumulative](/playlists/cumulative/364iiPm5P2pmaZOB4bHfpu.md) - [plain](/playlists/plain/364iiPm5P2pmaZOB4bHfpu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/364iiPm5P2pmaZOB4bHfpu)
 
 ### [Smartest kid in the class](https://open.spotify.com/playlist/364iiPm5P2pmaZOB4bHfpu)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUN87b7HRrCS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUN87b7HRrCS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUN87b7HRrCS)
+[pretty](/playlists/pretty/37i9dQZF1DWUN87b7HRrCS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUN87b7HRrCS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUN87b7HRrCS)
 
 ### [Bossa in the Background](https://open.spotify.com/playlist/37i9dQZF1DWUN87b7HRrCS)
 

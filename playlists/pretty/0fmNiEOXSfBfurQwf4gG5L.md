@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0fmNiEOXSfBfurQwf4gG5L.md) - [plain](/playlists/plain/0fmNiEOXSfBfurQwf4gG5L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0fmNiEOXSfBfurQwf4gG5L)
+pretty - [cumulative](/playlists/cumulative/0fmNiEOXSfBfurQwf4gG5L.md) - [plain](/playlists/plain/0fmNiEOXSfBfurQwf4gG5L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0fmNiEOXSfBfurQwf4gG5L)
 
 ### [Best of 2016: Folk & Americana](https://open.spotify.com/playlist/0fmNiEOXSfBfurQwf4gG5L)
 
 > Take a look back on some of the year's top tracks in roots music\. We'll be adding more of your favorites throughout December\. \#SpotifyFolk2016
 
-[Spotify](https://open.spotify.com/user/spotify) - 273 likes - 94 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 274 likes - 94 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

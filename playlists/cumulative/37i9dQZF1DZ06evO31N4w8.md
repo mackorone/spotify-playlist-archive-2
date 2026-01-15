@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO31N4w8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO31N4w8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO31N4w8)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO31N4w8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO31N4w8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO31N4w8)
 
 ### [This Is Los Rieleros Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31N4w8)
 

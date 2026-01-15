@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain](/playlists/plain/37i9dQZF1DX0zmsulfyDdq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0zmsulfyDdq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain](/playlists/plain/37i9dQZF1DX0zmsulfyDdq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0zmsulfyDdq)
 
 ### [Disney Lullaby](https://open.spotify.com/playlist/37i9dQZF1DX0zmsulfyDdq)
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,288 likes - 222 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,252 likes - 222 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

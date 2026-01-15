@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain](/playlists/plain/37i9dQZF1DX9nkam6FKfgM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9nkam6FKfgM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain](/playlists/plain/37i9dQZF1DX9nkam6FKfgM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9nkam6FKfgM)
 
 ### [Summer Pop](https://open.spotify.com/playlist/37i9dQZF1DX9nkam6FKfgM)
 
 > summer has landed
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,433 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,370 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

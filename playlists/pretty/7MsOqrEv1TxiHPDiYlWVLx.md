@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7MsOqrEv1TxiHPDiYlWVLx.md) - [plain](/playlists/plain/7MsOqrEv1TxiHPDiYlWVLx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7MsOqrEv1TxiHPDiYlWVLx)
+pretty - [cumulative](/playlists/cumulative/7MsOqrEv1TxiHPDiYlWVLx.md) - [plain](/playlists/plain/7MsOqrEv1TxiHPDiYlWVLx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7MsOqrEv1TxiHPDiYlWVLx)
 
 ### [Sugar & Spice](https://open.spotify.com/playlist/7MsOqrEv1TxiHPDiYlWVLx)
 

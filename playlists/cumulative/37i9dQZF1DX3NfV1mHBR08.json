@@ -75,6 +75,24 @@
     },
     {
       "album": {
+        "name": "ALL FOR YOU, 2027",
+        "url": "https://open.spotify.com/album/1N9oFEpIgZZoOkZZI0FFFg"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170206,
+      "name": "ALL FOR YOU",
+      "url": "https://open.spotify.com/track/7i3A3RHpnqoOBEX9GcP1Ms"
+    },
+    {
+      "album": {
         "name": "Resident Playbook, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/022Jz3R8RUtbFmxsH0Vj0l"
       },
@@ -230,7 +248,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190000,
       "name": "Boyhood",
       "url": "https://open.spotify.com/track/64z7OGUhjNmxBQgTi9zdBW"
@@ -526,7 +544,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218000,
       "name": "Dear All the Grown-ups",
       "url": "https://open.spotify.com/track/12gGWyxb5KUapfDIE8AGHh"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 273066,
       "name": "Essay",
       "url": "https://open.spotify.com/track/07BuKTCan4rEZ0TumcsZ62"
@@ -1261,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "I am",
+        "url": "https://open.spotify.com/album/1SWC7utZl9UrFcInjcxEDS"
+      },
+      "artists": [
+        {
+          "name": "Moonbit",
+          "url": "https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "I am",
+      "url": "https://open.spotify.com/track/4AHhXbooNnHULGK8F38xt1"
+    },
+    {
+      "album": {
         "name": "Who Are You : School 2015 (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG"
       },
@@ -1470,7 +1506,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
@@ -1528,6 +1564,24 @@
       "duration_ms": 223933,
       "name": "Life goes on",
       "url": "https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt"
+    },
+    {
+      "album": {
+        "name": "Life is a Drama Prelude3",
+        "url": "https://open.spotify.com/album/65DEU4VXqQaDO7qeuOAV6D"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218861,
+      "name": "Life is a Drama",
+      "url": "https://open.spotify.com/track/3doz1ZA13QjszPBEgze1pn"
     },
     {
       "album": {
@@ -1852,7 +1906,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 241000,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/4Q4UBR7EdHxYPug9BMDVVJ"
@@ -1928,6 +1982,24 @@
       "duration_ms": 220506,
       "name": "Rest",
       "url": "https://open.spotify.com/track/5dJ4XoRa9FzSHWUzCpnk2W"
+    },
+    {
+      "album": {
+        "name": "Running to Future",
+        "url": "https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Running to Future",
+      "url": "https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN"
     },
     {
       "album": {
@@ -2209,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "Typhoon Family, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6Bf3rU6pU4XceCrk5pGKKg"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "The Moments",
+      "url": "https://open.spotify.com/track/464diat2OMMnSutMSOuQXU"
+    },
+    {
+      "album": {
         "name": "There is no answer (with Lee Aram)",
         "url": "https://open.spotify.com/album/3MlsUewdI6GKHzpnqitWv9"
       },
@@ -2224,7 +2314,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 187666,
       "name": "There is no answer (with Lee Aram)",
       "url": "https://open.spotify.com/track/00qOtgUwdu3p9bfpoTYrzS"
@@ -2246,6 +2336,24 @@
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
+    },
+    {
+      "album": {
+        "name": "TIME CAPSULE",
+        "url": "https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "TIME CAPSULE",
+      "url": "https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M"
     },
     {
       "album": {
@@ -2362,7 +2470,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 214137,
       "name": "Together",
       "url": "https://open.spotify.com/track/5MvF6MyuNNELmJUBAMn6V9"
@@ -2864,7 +2972,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 232268,
       "name": "\uc624\ub298\uc740 \uad1c\ucc2e\uc744 \uac70\uc57c",
       "url": "https://open.spotify.com/track/6itIrrpbAEwEAEQF9IOO9o"

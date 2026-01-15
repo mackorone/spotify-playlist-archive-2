@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSADWNdZfn11.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSADWNdZfn11) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSADWNdZfn11)
+[pretty](/playlists/pretty/37i9dQZF1DWSADWNdZfn11.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSADWNdZfn11) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSADWNdZfn11)
 
 ### [Relaxing Piano Covers ](https://open.spotify.com/playlist/37i9dQZF1DWSADWNdZfn11)
 
 > Relax and unwind with gentle piano covers.
 
-455 songs - 1 day 0 hr 0 min
+458 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Million Dreams](https://open.spotify.com/track/6s8eJYbzaALB1eLP1czQED) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [A Million Dreams](https://open.spotify.com/album/6uWAfzGxbcrppRNsj0LV0A) | 4:31 | 2022-08-01 | 2023-05-27 |
 | [A Sky Full Of Stars \- Piano Version](https://open.spotify.com/track/04z54hp55CLR6XLqhSjctF) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Famous Songs on Piano 1](https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe) | 3:35 | 2022-11-18 | 2023-10-06 |
 | [A Thousand Miles](https://open.spotify.com/track/77VP90xg3Sxi4CoxNmeQJc) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 3:37 | 2022-12-16 | 2023-02-25 |
+| [A Thousand Miles](https://open.spotify.com/track/37eiKjierQYo0CFbsi67hf) | [Corbin LaRue](https://open.spotify.com/artist/2DeV73WYHR55daVaPNYdl3) | [A Thousand Miles](https://open.spotify.com/album/2HDYebuHk5AtoRyy39VrbY) | 2:37 | 2026-01-12 |  |
 | [A Thousand Years](https://open.spotify.com/track/76UpEg41caDocHgeJKVBFw) | [Benji Noor](https://open.spotify.com/artist/2mOREdC2cTAtN4ErgjQcHC) | [A Thousand Years](https://open.spotify.com/album/0SO2tmZiqgP598lHIoWHI5) | 3:25 | 2022-10-28 | 2023-05-06 |
 | [A Thousand Years](https://open.spotify.com/track/5xWD5Oy72pgn54R5ERwyr8) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Anton Goosmann](https://open.spotify.com/artist/1fPzD56OchmMDTv12ZTWpv) | [A Thousand Years](https://open.spotify.com/album/0utb7TeZbh3M2NeXLzCL48) | 1:48 | 2022-08-01 | 2022-10-29 |
 | [A whiter shade of pale](https://open.spotify.com/track/7gb7bAdUDArVuoyNh2F90F) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [A whiter shade of pale](https://open.spotify.com/album/7MfYvNk4UVEAZgkKZP05eA) | 2:37 | 2023-02-03 |  |
@@ -34,7 +35,7 @@
 | [Anti\-Hero \- Piano](https://open.spotify.com/track/1w6XQeasWydiS3FPUKc11N) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Anti\-Hero & Lavender Haze \(Piano\)](https://open.spotify.com/album/7yVTF1IUDLKSsNioDAZrzW) | 2:40 | 2022-12-16 | 2023-02-25 |
 | [Anyone](https://open.spotify.com/track/7j3vIGFSLzfmZhrF0xYyyz) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Anyone](https://open.spotify.com/album/1zUjgWMkENrRyGBFLA7NFh) | 3:44 | 2023-01-20 |  |
 | [Apologize \- Piano Instrumental](https://open.spotify.com/track/5clwrhS6H7zk2cQ04YYgws) | [Iannis Eralos](https://open.spotify.com/artist/2eqltLLw7NuUXF7WFMLvbD) | [Apologize \(Piano Instrumental\)](https://open.spotify.com/album/0NYxi20vRQO8iXdcwjI8uS) | 2:55 | 2022-08-01 | 2024-09-07 |
-| [As it was](https://open.spotify.com/track/7wwSfI1U4kMKf3u5UP2owx) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Rediscovered](https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc) | 3:21 | 2022-09-30 |  |
+| [As it was](https://open.spotify.com/track/7wwSfI1U4kMKf3u5UP2owx) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Rediscovered](https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc) | 3:21 | 2022-09-30 | 2026-01-15 |
 | [As It Was \(Piano Version\)](https://open.spotify.com/track/6qTNkxuUcTvqEzIkD84VXF) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [As It Was \(Piano Version\)](https://open.spotify.com/album/5sC8fVAGW99x4PYLnsfhL6) | 3:37 | 2022-09-05 | 2022-11-19 |
 | [As Long As You Love Me](https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Baby One More Time](https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv) | 3:54 | 2023-02-24 | 2023-09-22 |
 | [As Tears Go By](https://open.spotify.com/track/6TIOZDqaVXcShZFz4K94ft) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [As Tears Go By](https://open.spotify.com/album/08b8NRRkOuQwjgDiq2yUn4) | 3:31 | 2023-02-03 |  |
@@ -87,7 +88,7 @@
 | [Children](https://open.spotify.com/track/1HK3acWRuxitbvqiHuzDeB) | [Caio Ghisi](https://open.spotify.com/artist/2nPDE1Hn3O6VYxJAjHLcsp) | [Children](https://open.spotify.com/album/14SHD5kzW5k7DHfHYmbN24) | 3:06 | 2022-09-30 | 2025-05-07 |
 | [Clocks](https://open.spotify.com/track/2bVMZxVFHsK2DvYNQQzosE) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Clocks](https://open.spotify.com/album/6Z5qampvku5E0MKX3cuGAC) | 2:44 | 2023-04-14 |  |
 | [Clown](https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Clown](https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo) | 3:47 | 2023-01-20 |  |
-| [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 | 2022-08-01 |  |
+| [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 | 2022-08-01 | 2026-01-15 |
 | [Cover Me In Sunshine](https://open.spotify.com/track/2mHrHpt27sgpNUsU99PvyJ) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Cover Me In Sunshine](https://open.spotify.com/album/425Ukjw4bvzkamUWmuck8t) | 2:40 | 2022-09-05 | 2023-05-06 |
 | [Dance The Night](https://open.spotify.com/track/7GXvUIgrh8eGCdCbT9jt6O) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Dance The Night](https://open.spotify.com/album/5OaPOolZ6M9k8tWI9XO66K) | 2:50 | 2023-11-17 | 2025-04-08 |
 | [Dancing on my own](https://open.spotify.com/track/3x85o71j8PyDEhvnQJEtUn) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:38 | 2022-09-30 | 2023-04-29 |
@@ -212,12 +213,13 @@
 | [In Your Eyes](https://open.spotify.com/track/5W6zXdPsiOog0v4k8IuWNK) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [In Your Eyes](https://open.spotify.com/album/1W2qb46rf1tenU6ZA0LQuS) | 3:13 | 2023-03-17 |  |
 | [INDUSTRY BABY](https://open.spotify.com/track/551IYhuA3GdDy35qn0VAjL) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [INDUSTRY BABY](https://open.spotify.com/album/4aUWDI0XA6M75Yfu3LD7tr) | 2:32 | 2022-12-16 | 2023-05-06 |
 | [Inside Of Me](https://open.spotify.com/track/2XyVb6wPtV92EqwIPBhcJB) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [Inside Of Me](https://open.spotify.com/album/1feTbnUKnfGDWKQYiGVjUc) | 2:38 | 2022-08-01 |  |
+| [Iris](https://open.spotify.com/track/21JyM0ZFwj14HLPBRdIidP) | [Bryan Colbert](https://open.spotify.com/artist/3mwhMQ3EM94LX73AVoqxwb) | [Iris](https://open.spotify.com/album/2hLqovJDbgSMIuj8tzjMIQ) | 2:27 | 2026-01-12 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/09sIhNxVdgMezbzeGcRLIx) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Stay With Me](https://open.spotify.com/album/7FxObz6mk4OeaVu2XViEnY) | 2:02 | 2022-12-16 | 2023-04-29 |
 | [It Must Have Been Love \- Piano version](https://open.spotify.com/track/4YACCGEjeX1LEpY5tIBb97) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 2](https://open.spotify.com/album/1Aa8a61At5CfuuidP6lZuK) | 4:15 | 2022-08-01 | 2023-05-06 |
 | [It's A Heartache](https://open.spotify.com/track/3lNgovZW5k6yasJqocDyKa) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [It's A Heartache](https://open.spotify.com/album/1tOdmnCWx6X1aZScGY51xz) | 3:04 | 2023-01-06 |  |
 | [Jolene](https://open.spotify.com/track/3Qy8L9VXIGqV51ZMqgqy8y) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Jolene](https://open.spotify.com/album/0esnlD3DW1GeM6321mL68H) | 3:11 | 2023-02-24 | 2023-04-29 |
 | [Jolene](https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Jolene](https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR) | 2:17 | 2024-06-07 |  |
-| [Just Give Me A Reason](https://open.spotify.com/track/5HabmTUtwyVMz56hoyLupX) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Just Give Me A Reason](https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM) | 3:42 | 2022-09-05 |  |
+| [Just Give Me A Reason](https://open.spotify.com/track/5HabmTUtwyVMz56hoyLupX) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Just Give Me A Reason](https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM) | 3:42 | 2022-09-05 | 2026-01-15 |
 | [Just The Way You Are](https://open.spotify.com/track/4yGO88bDsNyDloCxc8CVpP) | [Joshua Garland](https://open.spotify.com/artist/4uDakG3Fmg1CdRB1xvby7X) | [Just The Way You Are](https://open.spotify.com/album/467cv4fTtGeNJCFx3o0eRI) | 3:15 | 2022-08-01 | 2022-11-19 |
 | [Just The Way You Are](https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Just The Way You Are](https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq) | 3:28 | 2023-04-14 | 2024-08-31 |
 | [Just The Way You Are \- Piano Version](https://open.spotify.com/track/6uB5Gj9U1DBGtOTKIUVMT6) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:34 | 2022-11-18 | 2023-08-23 |
@@ -305,6 +307,7 @@
 | [Photograph](https://open.spotify.com/track/48of2QKY9GYIJa6t5Ebaid) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [Photograph](https://open.spotify.com/album/594EnYAyrySJMStySwj1id) | 3:41 | 2022-08-01 | 2023-02-25 |
 | [Photograph \(Instrumental Piano\)](https://open.spotify.com/track/0UNXTLCFf3erUgsO8IH4aK) | [Matchstick Piano Man](https://open.spotify.com/artist/4aKuEXqhHmIZKdDRkaPPKO) | [Photograph \(Instrumental Piano\)](https://open.spotify.com/album/6I1ceSGsVPEfRnqyyTHwKj) | 5:08 | 2022-08-01 | 2024-08-10 |
 | [Piano Man](https://open.spotify.com/track/0VQsMDssKFEUG57CZ31YcD) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Piano Man](https://open.spotify.com/album/3BqnXRksYjWugaqusDNrML) | 2:31 | 2024-02-09 |  |
+| [Please Please Please](https://open.spotify.com/track/3zohOG2bCU8uKPEd7IXT2e) | [Alexander Windale](https://open.spotify.com/artist/0HkHkfvuF0nxswWANtem18) | [Please Please Please](https://open.spotify.com/album/2yWHVaVYNQbJIhcSDVnde9) | 2:46 | 2026-01-12 |  |
 | [Positions](https://open.spotify.com/track/7iBm5kL2A8up9UfqoQLVhg) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Save Your Tears](https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei) | 2:39 | 2022-10-28 | 2023-05-06 |
 | [Purple Rain \- Piano Version](https://open.spotify.com/track/1ty7L5N7si6ly9YQLZpD8J) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:40 | 2022-11-18 | 2023-05-06 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/4nWcu20r0jBRl7ucCdlTQd) | [Vanessa Acin](https://open.spotify.com/artist/4STKN0PPPmsqSziBVaT0Rm) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/5aPnVfapJqOcOxv5zuxXzS) | 2:36 | 2022-11-18 | 2023-05-06 |

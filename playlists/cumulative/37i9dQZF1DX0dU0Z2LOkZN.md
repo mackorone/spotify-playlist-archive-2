@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0dU0Z2LOkZN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0dU0Z2LOkZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0dU0Z2LOkZN)
+[pretty](/playlists/pretty/37i9dQZF1DX0dU0Z2LOkZN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0dU0Z2LOkZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0dU0Z2LOkZN)
 
 ### [Gold Instrumental Beats](https://open.spotify.com/playlist/37i9dQZF1DX0dU0Z2LOkZN)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3pbjsJ6MxA.md) - [plain](/playlists/plain/37i9dQZF1DWY3pbjsJ6MxA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY3pbjsJ6MxA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3pbjsJ6MxA.md) - [plain](/playlists/plain/37i9dQZF1DWY3pbjsJ6MxA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY3pbjsJ6MxA)
 
 ### [Best of John Peel Sessions](https://open.spotify.com/playlist/37i9dQZF1DWY3pbjsJ6MxA)
 

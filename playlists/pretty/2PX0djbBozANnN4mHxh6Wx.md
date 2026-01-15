@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain](/playlists/plain/2PX0djbBozANnN4mHxh6Wx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2PX0djbBozANnN4mHxh6Wx)
+pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain](/playlists/plain/2PX0djbBozANnN4mHxh6Wx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2PX0djbBozANnN4mHxh6Wx)
 
 ### [Frutiger Aero 🌿🌐](https://open.spotify.com/playlist/2PX0djbBozANnN4mHxh6Wx)
 
 > Playlist artwork by: @mun15h on Instagram
 
-[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,250 likes - 528 songs - 1 day 7 hr 33 min
+[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,244 likes - 528 songs - 1 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

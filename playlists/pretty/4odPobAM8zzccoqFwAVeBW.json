@@ -6,8 +6,380 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABJ+Jg1ZEkESS90E5gWe9YR0FpGmsjV",
+  "snapshot_id": "AABKHu7K7mUD1l97+J8dyz7hxMHejwUd",
   "tracks": [
+    {
+      "added_at": "2026-01-15 08:33:29",
+      "album": {
+        "name": "Bridge of Sacrifice",
+        "url": "https://open.spotify.com/album/4qc6ltXcRy6RO4qyyFaGIR"
+      },
+      "artists": [
+        {
+          "name": "Powerplant",
+          "url": "https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx"
+        }
+      ],
+      "duration_ms": 204963,
+      "name": "Bridge of Sacrifice",
+      "url": "https://open.spotify.com/track/1TcxVhdUtm5SU3gbEoWGr1"
+    },
+    {
+      "added_at": "2026-01-15 08:35:55",
+      "album": {
+        "name": "London Fields",
+        "url": "https://open.spotify.com/album/35OAg2JJrOoprIuXEp9gqo"
+      },
+      "artists": [
+        {
+          "name": "Luxury Apartments",
+          "url": "https://open.spotify.com/artist/1gviuaKGrudlFwnpsvXqPd"
+        }
+      ],
+      "duration_ms": 77500,
+      "name": "London Fields",
+      "url": "https://open.spotify.com/track/5122sQjAJwRaxnu0EEbbyp"
+    },
+    {
+      "added_at": "2026-01-15 08:04:30",
+      "album": {
+        "name": "Tree Festival",
+        "url": "https://open.spotify.com/album/4kt9hRnNnRBlhEwopyFEFV"
+      },
+      "artists": [
+        {
+          "name": "Nondi_",
+          "url": "https://open.spotify.com/artist/6vcnozR3JODUnpP8VL8OWF"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "Tree Festival",
+      "url": "https://open.spotify.com/track/6FzFmLt4vn88Wnb44X8dfI"
+    },
+    {
+      "added_at": "2026-01-15 08:35:43",
+      "album": {
+        "name": "Dr Love",
+        "url": "https://open.spotify.com/album/37rKW8WGreoVIPG5czZHGJ"
+      },
+      "artists": [
+        {
+          "name": "Would-Be-Goods",
+          "url": "https://open.spotify.com/artist/6jXqh4cxbD6QiDlHPwqcHO"
+        }
+      ],
+      "duration_ms": 145385,
+      "name": "Dr Love",
+      "url": "https://open.spotify.com/track/4dmEWIQ4yMCraGm74jRbLS"
+    },
+    {
+      "added_at": "2026-01-15 08:36:11",
+      "album": {
+        "name": "Under Me Sensi Version (Short Edit)",
+        "url": "https://open.spotify.com/album/3s0E2j0NK59AKGTpL0BXVL"
+      },
+      "artists": [
+        {
+          "name": "Mt. Gemini",
+          "url": "https://open.spotify.com/artist/3bz5gV6xZravs9n8zRai0T"
+        }
+      ],
+      "duration_ms": 289412,
+      "name": "Under Me Sensi Version - Short Edit",
+      "url": "https://open.spotify.com/track/7ry4vZXaZc3Dq9YHEWzVNO"
+    },
+    {
+      "added_at": "2026-01-09 11:25:02",
+      "album": {
+        "name": "Blankspace",
+        "url": "https://open.spotify.com/album/5i2cM9uYubF8bQ77UhD1qo"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "duration_ms": 184373,
+      "name": "Blankspace",
+      "url": "https://open.spotify.com/track/0QENxRC5KMBX9iVwiWjf7j"
+    },
+    {
+      "added_at": "2026-01-09 11:39:40",
+      "album": {
+        "name": "Wanas",
+        "url": "https://open.spotify.com/album/0dHihCESHN4cr87qVTBpmt"
+      },
+      "artists": [
+        {
+          "name": "Maryam Saleh",
+          "url": "https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA"
+        }
+      ],
+      "duration_ms": 263366,
+      "name": "Wanas",
+      "url": "https://open.spotify.com/track/5ZDwdCAhpBM7r2ggkPBnoE"
+    },
+    {
+      "added_at": "2026-01-09 11:40:32",
+      "album": {
+        "name": "Excuse Me",
+        "url": "https://open.spotify.com/album/1eYSmYAYWlAiE16FOVgwGj"
+      },
+      "artists": [
+        {
+          "name": "Heavenly",
+          "url": "https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2"
+        }
+      ],
+      "duration_ms": 156071,
+      "name": "Excuse Me",
+      "url": "https://open.spotify.com/track/4UL4xTJyN65TwHDANUbXpQ"
+    },
+    {
+      "added_at": "2026-01-09 11:41:00",
+      "album": {
+        "name": "Cannibal Forecast",
+        "url": "https://open.spotify.com/album/5UxdRWtbhjxXZ1fwKEWJ3w"
+      },
+      "artists": [
+        {
+          "name": "Hey Colossus",
+          "url": "https://open.spotify.com/artist/57K9jRE3x9FqcPAnZmdukA"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "Cannibal Forecast",
+      "url": "https://open.spotify.com/track/4h54ropEyx1VpuFIrRdU0D"
+    },
+    {
+      "added_at": "2026-01-09 11:39:14",
+      "album": {
+        "name": "There Will Be Poems (Condensed)",
+        "url": "https://open.spotify.com/album/4sBB8S1Wt79xFLbUOlvnuG"
+      },
+      "artists": [
+        {
+          "name": "Zone Null",
+          "url": "https://open.spotify.com/artist/4NTIFbsCZhJHDPb6jl6Xl5"
+        },
+        {
+          "name": "Burkhard Beins",
+          "url": "https://open.spotify.com/artist/55mu6j4QLbeRvGSQiN7dEg"
+        },
+        {
+          "name": "Tony Elieh",
+          "url": "https://open.spotify.com/artist/6e5ILVNJTuOpNFpgNgKnTP"
+        }
+      ],
+      "duration_ms": 375509,
+      "name": "There Will Be Poems (Condensed)",
+      "url": "https://open.spotify.com/track/0eoxKmiRpoODme9TzqIsc2"
+    },
+    {
+      "added_at": "2026-01-09 11:39:28",
+      "album": {
+        "name": "The fog",
+        "url": "https://open.spotify.com/album/27a8TrXfMAhOdcRYuDvBBv"
+      },
+      "artists": [
+        {
+          "name": "Mi3raj",
+          "url": "https://open.spotify.com/artist/7JvUHM1ZpaWMGV9CiO5347"
+        }
+      ],
+      "duration_ms": 288499,
+      "name": "The fog",
+      "url": "https://open.spotify.com/track/7MKAMEAOH45HcMMjVpIuDy"
+    },
+    {
+      "added_at": "2026-01-09 11:38:47",
+      "album": {
+        "name": "Vorticist Spa Retreat",
+        "url": "https://open.spotify.com/album/2aYaUFbmZtKjsGGJ9Gg5t3"
+      },
+      "artists": [
+        {
+          "name": "Cloud Studies",
+          "url": "https://open.spotify.com/artist/1Az1x0icaEQS10RRXhdbNU"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Vorticist Spa Retreat",
+      "url": "https://open.spotify.com/track/5JWAB8DGjnboyfp8PVadMk"
+    },
+    {
+      "added_at": "2026-01-09 11:37:45",
+      "album": {
+        "name": "American Zombie (Monologues for solo bass)",
+        "url": "https://open.spotify.com/album/1TH2xRB5qSw28Ej2SdricT"
+      },
+      "artists": [
+        {
+          "name": "Raz Mesinai",
+          "url": "https://open.spotify.com/artist/4iY5ZMs1Li6MvY24CBfb9Y"
+        }
+      ],
+      "duration_ms": 366455,
+      "name": "Zombie Monologue",
+      "url": "https://open.spotify.com/track/33v6mqPWo3meefMPqrFtM7"
+    },
+    {
+      "added_at": "2026-01-09 11:37:31",
+      "album": {
+        "name": "The Autonomy of Frames (Edit)",
+        "url": "https://open.spotify.com/album/0GExm9Cpz01RPG6egYIQFW"
+      },
+      "artists": [
+        {
+          "name": "wor_kspace",
+          "url": "https://open.spotify.com/artist/3R16mn7b0yJbXtB8HLPUz0"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "The Autonomy of Frames - Edit",
+      "url": "https://open.spotify.com/track/2HknMPy8uFQNrEh51bpH37"
+    },
+    {
+      "added_at": "2026-01-09 11:40:18",
+      "album": {
+        "name": "Lighthouse/Spilling Cup",
+        "url": "https://open.spotify.com/album/3gSwOYCCjObe1Jsq6NqqtK"
+      },
+      "artists": [
+        {
+          "name": "Robo",
+          "url": "https://open.spotify.com/artist/3U041FxU4RcB1Bo1EsGYLX"
+        }
+      ],
+      "duration_ms": 197991,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/3dXKj4t9LiCp11KiqFw4sy"
+    },
+    {
+      "added_at": "2026-01-09 11:38:25",
+      "album": {
+        "name": "Starry Eyes",
+        "url": "https://open.spotify.com/album/6TNHRHjGbZH9wLnPb5H5Oh"
+      },
+      "artists": [
+        {
+          "name": "Radhika",
+          "url": "https://open.spotify.com/artist/1Kh102gi5R44EqUBC2prHm"
+        },
+        {
+          "name": "Gerard Love",
+          "url": "https://open.spotify.com/artist/0ULziDfcGhOE6OUJ2vq8Qi"
+        },
+        {
+          "name": "Mitch Mitchell",
+          "url": "https://open.spotify.com/artist/4lExq9COV7n8jtYDMHCjLV"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/0r9nCAn7a6FI9IyanQNrmk"
+    },
+    {
+      "added_at": "2026-01-09 11:39:51",
+      "album": {
+        "name": "On This Wide Night",
+        "url": "https://open.spotify.com/album/797WVIH1yH7RxmdpAkXGe4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nixey",
+          "url": "https://open.spotify.com/artist/7nzpICHWCUXx7i9TTWwPSZ"
+        }
+      ],
+      "duration_ms": 223076,
+      "name": "On This Wide Night",
+      "url": "https://open.spotify.com/track/373egEC5p7ZQFE8zwviIqD"
+    },
+    {
+      "added_at": "2026-01-09 11:40:05",
+      "album": {
+        "name": "Sidestep",
+        "url": "https://open.spotify.com/album/0SuKwqoEO6SJnj2cSQoVCw"
+      },
+      "artists": [
+        {
+          "name": "James Adrian Brown",
+          "url": "https://open.spotify.com/artist/42tz1PWwrLG2F3nZzVSVQq"
+        }
+      ],
+      "duration_ms": 181711,
+      "name": "Sidestep",
+      "url": "https://open.spotify.com/track/4oTqxvpnN1yvUV24FhF7NT"
+    },
+    {
+      "added_at": "2026-01-09 11:40:45",
+      "album": {
+        "name": "Little Donny Returns",
+        "url": "https://open.spotify.com/album/00uzGpcynZYDMRjkOZyVvo"
+      },
+      "artists": [
+        {
+          "name": "Sean Taylor",
+          "url": "https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe"
+        }
+      ],
+      "duration_ms": 284940,
+      "name": "Little Donny Returns",
+      "url": "https://open.spotify.com/track/1DeYL8wR7PA82ckwMFxeeP"
+    },
+    {
+      "added_at": "2026-01-09 11:41:30",
+      "album": {
+        "name": "School Report",
+        "url": "https://open.spotify.com/album/5VKgrqwPT4nhE2fz5OOQdl"
+      },
+      "artists": [
+        {
+          "name": "European Sun",
+          "url": "https://open.spotify.com/artist/28AbMGlH3v7ZJhKeZFRiMw"
+        }
+      ],
+      "duration_ms": 1051505,
+      "name": "School Report",
+      "url": "https://open.spotify.com/track/04by5YYrgbGHgtYZQkHtvu"
+    },
+    {
+      "added_at": "2026-01-09 11:41:41",
+      "album": {
+        "name": "This Part Of Town Is A No Go",
+        "url": "https://open.spotify.com/album/3wQ3qRnSsX73PfyBmZRkPa"
+      },
+      "artists": [
+        {
+          "name": "Energy",
+          "url": "https://open.spotify.com/artist/4kOb73edAMSfSQPpsDm28G"
+        }
+      ],
+      "duration_ms": 248693,
+      "name": "This Part Of Town Is A No Go",
+      "url": "https://open.spotify.com/track/66HpxwB3A8huCJunexwGHP"
+    },
+    {
+      "added_at": "2026-01-09 11:41:55",
+      "album": {
+        "name": "COVERS",
+        "url": "https://open.spotify.com/album/0VpqlU6DyETJKZJrf9RDxz"
+      },
+      "artists": [
+        {
+          "name": "CoH",
+          "url": "https://open.spotify.com/artist/5YHaikQIeDdFwAXEQOcBv7"
+        },
+        {
+          "name": "Wladimir Schall",
+          "url": "https://open.spotify.com/artist/47ujPsbxi6GI1O6yFgNowj"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "KOHTAKT",
+      "url": "https://open.spotify.com/track/1GIGqOKS06f5ib4QWjDSJ3"
+    },
     {
       "added_at": "2025-12-19 14:56:42",
       "album": {
@@ -39,22 +411,6 @@
       "duration_ms": 172032,
       "name": "Boiling Blisters",
       "url": "https://open.spotify.com/track/6MAKOicp0jVKuM0te1V7VS"
-    },
-    {
-      "added_at": "2025-12-19 14:58:40",
-      "album": {
-        "name": "Torso Mangled Beyond Repair (Extended)",
-        "url": "https://open.spotify.com/album/2M5FCNJanA2kdvSdTA9T6g"
-      },
-      "artists": [
-        {
-          "name": "SEWER HAUL",
-          "url": "https://open.spotify.com/artist/5Ryfxvvzm6xd6arlV6LZiq"
-        }
-      ],
-      "duration_ms": 80248,
-      "name": "Waste Wound",
-      "url": "https://open.spotify.com/track/4Ixe6S6CBZwZDwwYxTkhY3"
     },
     {
       "added_at": "2025-12-19 14:58:55",
@@ -899,170 +1255,6 @@
       "duration_ms": 148819,
       "name": "Rabia\u2019s Dream",
       "url": "https://open.spotify.com/track/5j1aEhS6ZSEMrAEhm5CXMH"
-    },
-    {
-      "added_at": "2025-11-24 09:18:37",
-      "album": {
-        "name": "Psyops",
-        "url": "https://open.spotify.com/album/4Wt252CrCTAJ726E5aDLnx"
-      },
-      "artists": [
-        {
-          "name": "Tulpa",
-          "url": "https://open.spotify.com/artist/1TKIJKaizDSYzkiGyTkmNI"
-        }
-      ],
-      "duration_ms": 300297,
-      "name": "Psyops",
-      "url": "https://open.spotify.com/track/1sWYHbhTU6Fb5pK9UHV2O5"
-    },
-    {
-      "added_at": "2025-11-24 09:22:50",
-      "album": {
-        "name": "Blue Mountains",
-        "url": "https://open.spotify.com/album/3lyAG14HeUnyA7v3GPId9y"
-      },
-      "artists": [
-        {
-          "name": "Sound & Company",
-          "url": "https://open.spotify.com/artist/3MbJUxkrrfKBJ4UuKhCunO"
-        }
-      ],
-      "duration_ms": 254820,
-      "name": "Pasolini",
-      "url": "https://open.spotify.com/track/6vo15imDzzHA1YCLLGLD6U"
-    },
-    {
-      "added_at": "2025-11-24 09:23:22",
-      "album": {
-        "name": "El Fetra",
-        "url": "https://open.spotify.com/album/16Ndz7bXvFP5xLjNsGRjoj"
-      },
-      "artists": [
-        {
-          "name": "Maryam Saleh",
-          "url": "https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA"
-        }
-      ],
-      "duration_ms": 180142,
-      "name": "El Fetra",
-      "url": "https://open.spotify.com/track/3x8XTN4LCem37FxQIErEjT"
-    },
-    {
-      "added_at": "2025-11-24 09:25:06",
-      "album": {
-        "name": "Implosion",
-        "url": "https://open.spotify.com/album/6ZL4pQGMzUQz40KxrUWv8m"
-      },
-      "artists": [
-        {
-          "name": "The Bug",
-          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
-        }
-      ],
-      "duration_ms": 269381,
-      "name": "Believers - Imperial Gardens, Camberwell",
-      "url": "https://open.spotify.com/track/2znMwcb3FOloc8xGcVKqCO"
-    },
-    {
-      "added_at": "2025-11-24 09:27:12",
-      "album": {
-        "name": "Songbird (Forever)",
-        "url": "https://open.spotify.com/album/1M2fe4gcQMz5RtnJnc7f1h"
-      },
-      "artists": [
-        {
-          "name": "Whitelands",
-          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Songbird (Forever)",
-      "url": "https://open.spotify.com/track/4yfJVBpH5j8JKbdvXHndcG"
-    },
-    {
-      "added_at": "2025-11-24 09:23:34",
-      "album": {
-        "name": "TEKVISION Volume 4",
-        "url": "https://open.spotify.com/album/5bRCTKCiFbqfLoQyFyhOe5"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        },
-        {
-          "name": "Teklife",
-          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "I'M DRUNK!!!!!!!",
-      "url": "https://open.spotify.com/track/7w4BFSpmnsu6mIxoqcSUDj"
-    },
-    {
-      "added_at": "2025-11-24 09:29:06",
-      "album": {
-        "name": "Triumph",
-        "url": "https://open.spotify.com/album/668AeR7j99MN2vEMVwbXLY"
-      },
-      "artists": [
-        {
-          "name": "Lean Low",
-          "url": "https://open.spotify.com/artist/7A9q57PZ1UYY61rQVQKNUz"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Triumph",
-      "url": "https://open.spotify.com/track/5tddOhKrLwcAMUlqVehnEz"
-    },
-    {
-      "added_at": "2025-11-24 11:55:04",
-      "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/0WFo0PbgKdWnaKT22GQTA7"
-      },
-      "artists": [
-        {
-          "name": "Adele Dazeem",
-          "url": "https://open.spotify.com/artist/2Nuu96rnFvGb6vol06jbLr"
-        }
-      ],
-      "duration_ms": 408968,
-      "name": "Deep Sea Hand",
-      "url": "https://open.spotify.com/track/1I1wQ52iWxySX1UKpI3XH5"
-    },
-    {
-      "added_at": "2025-11-24 09:26:29",
-      "album": {
-        "name": "All Of The Chaos",
-        "url": "https://open.spotify.com/album/64GbnccUrOPnpP8K3e9Dty"
-      },
-      "artists": [
-        {
-          "name": "LWS",
-          "url": "https://open.spotify.com/artist/1txjnpEcHM03wCprQmWxVl"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "All Of The Chaos",
-      "url": "https://open.spotify.com/track/7q1EI4QuIu6K1GnCN8mz7Z"
-    },
-    {
-      "added_at": "2025-11-24 09:23:47",
-      "album": {
-        "name": "Starchamber",
-        "url": "https://open.spotify.com/album/4Rk58Bx1i2tSTaER7m7AFK"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat",
-          "url": "https://open.spotify.com/artist/3SntVNfRaavqckb9zr75ui"
-        }
-      ],
-      "duration_ms": 178926,
-      "name": "Kiss The Ring",
-      "url": "https://open.spotify.com/track/6r9Ftnu15QjG7nKntrbcar"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1C5R5V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1C5R5V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1C5R5V)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1C5R5V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1C5R5V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1C5R5V)
 
 ### [This Is El Haragán y Compañía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C5R5V)
 

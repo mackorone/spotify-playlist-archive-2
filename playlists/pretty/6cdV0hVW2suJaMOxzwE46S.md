@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain](/playlists/plain/6cdV0hVW2suJaMOxzwE46S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6cdV0hVW2suJaMOxzwE46S)
+pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain](/playlists/plain/6cdV0hVW2suJaMOxzwE46S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6cdV0hVW2suJaMOxzwE46S)
 
 ### [I Hate My Job.](https://open.spotify.com/playlist/6cdV0hVW2suJaMOxzwE46S)
 
 > We've all been there\. This playlist can help\. Just don't let your boss catch you listening....
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,943 likes - 38 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,952 likes - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

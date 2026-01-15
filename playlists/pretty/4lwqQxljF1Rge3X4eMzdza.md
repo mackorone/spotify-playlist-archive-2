@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/4lwqQxljF1Rge3X4eMzdza.md) - [plain](/playlists/plain/4lwqQxljF1Rge3X4eMzdza) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4lwqQxljF1Rge3X4eMzdza)
+pretty - [cumulative](/playlists/cumulative/4lwqQxljF1Rge3X4eMzdza.md) - [plain](/playlists/plain/4lwqQxljF1Rge3X4eMzdza) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4lwqQxljF1Rge3X4eMzdza)
 
 ### [Kendrick Lamar](https://open.spotify.com/playlist/4lwqQxljF1Rge3X4eMzdza)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain](/playlists/plain/37i9dQZF1DWVFJtzvDHN4L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVFJtzvDHN4L)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain](/playlists/plain/37i9dQZF1DWVFJtzvDHN4L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVFJtzvDHN4L)
 
 ### [Cinematic Chillout](https://open.spotify.com/playlist/37i9dQZF1DWVFJtzvDHN4L)
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,769 likes - 88 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,152 likes - 88 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 66 | [My Dear Anne](https://open.spotify.com/track/1eHYVUE0AAjGzTySOPMHQc) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [Three Billboards Outside Ebbing, Missouri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ji7Dxq73HCW0UdoXWfOxP) | 2:37 |
 | 67 | [Your Mother](https://open.spotify.com/track/5iIgAykeu8ydXD3wa0ODjn) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 2:13 |
 | 68 | [Mother](https://open.spotify.com/track/37IexGi3KksWaXoS7pnd5P) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Belief: The Possession of Janet Moses \(Original Score\)](https://open.spotify.com/album/6zaq4nwu7LF2T1hUjbv2F5) | 1:18 |
-| 69 | [The Gift Of Mortality \- Instrumental](https://open.spotify.com/track/4ZnQXH7WqUCbzffYaeSMRM) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Bicentennial Man \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7zp6npGMq8bwq6z9944ExA) | 6:10 |
+| 69 | [The Gift Of Mortality \(From "Bicentennial Man" Soundtrack\) \- Instrumental](https://open.spotify.com/track/4ZnQXH7WqUCbzffYaeSMRM) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Bicentennial Man \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7zp6npGMq8bwq6z9944ExA) | 6:10 |
 | 70 | [Train in New York](https://open.spotify.com/track/6rwEYwsNCxW7CI2wrtRO06) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Train in New York](https://open.spotify.com/album/6zHTKFjUMy2OxCNmBqba2b) | 2:49 |
 | 71 | [The Only Way Is Down](https://open.spotify.com/track/4vHg75DPSyMvXGfcF2RTNF) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Victoria & Abdul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uw4UD12sYODj80ppjpP8G) | 1:13 |
 | 72 | [Thank You for Being My Friend](https://open.spotify.com/track/1exYML70PCk5Exyky12SnY) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution of the Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/0UOkEwL2bJBwLsmgmzkvXH) | 3:52 |

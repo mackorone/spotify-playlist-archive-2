@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5388Muv9Img.md) - [plain](/playlists/plain/37i9dQZF1DX5388Muv9Img) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5388Muv9Img)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5388Muv9Img.md) - [plain](/playlists/plain/37i9dQZF1DX5388Muv9Img) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5388Muv9Img)
 
 ### [Deepavali Dhamaka](https://open.spotify.com/playlist/37i9dQZF1DX5388Muv9Img)
 

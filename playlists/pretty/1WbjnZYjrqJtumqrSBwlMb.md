@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain](/playlists/plain/1WbjnZYjrqJtumqrSBwlMb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1WbjnZYjrqJtumqrSBwlMb)
+pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain](/playlists/plain/1WbjnZYjrqJtumqrSBwlMb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1WbjnZYjrqJtumqrSBwlMb)
 
 ### [The True Benny Mix](https://open.spotify.com/playlist/1WbjnZYjrqJtumqrSBwlMb)
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,196 songs - 3 day 1 hr 32 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,198 songs - 3 day 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1204,5 +1204,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1194 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
 | 1195 | [LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [LOVE YOU LESS](https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG) | 3:21 |
 | 1196 | [Roses](https://open.spotify.com/track/51w2uhHVvzmqCd3leyDIY2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum) | 4:05 |
+| 1197 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 |
+| 1198 | [Hooray Hooray Hooray](https://open.spotify.com/track/7iqvMonmnWHm9ExEW9LimS) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:32 |
 
-Snapshot ID: `AAAJnKQ3dZp9qG3U8EsZNxWToadWpROs`
+Snapshot ID: `AAAJnszKnJNwA7i1f+1gKGjnoxRfMmY5`

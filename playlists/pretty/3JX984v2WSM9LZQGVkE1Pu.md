@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3JX984v2WSM9LZQGVkE1Pu.md) - [plain](/playlists/plain/3JX984v2WSM9LZQGVkE1Pu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3JX984v2WSM9LZQGVkE1Pu)
+pretty - [cumulative](/playlists/cumulative/3JX984v2WSM9LZQGVkE1Pu.md) - [plain](/playlists/plain/3JX984v2WSM9LZQGVkE1Pu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3JX984v2WSM9LZQGVkE1Pu)
 
 ### [Best of Verve Records](https://open.spotify.com/playlist/3JX984v2WSM9LZQGVkE1Pu)
 
 > Verve Records is synonymous with great jazz\. Featuring Ella Fitzgerald, Louis Armstrong and more.
 
-[Verve Records](https://open.spotify.com/user/vervemusicgroup) - 3,732 likes - 51 songs - 2 hr 59 min
+[Verve Records](https://open.spotify.com/user/vervemusicgroup) - 3,736 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

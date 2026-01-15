@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0nXUs2Fdn6S.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0nXUs2Fdn6S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0nXUs2Fdn6S)
+[pretty](/playlists/pretty/37i9dQZF1DX0nXUs2Fdn6S.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0nXUs2Fdn6S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0nXUs2Fdn6S)
 
 ### [EDM in India](https://open.spotify.com/playlist/37i9dQZF1DX0nXUs2Fdn6S)
 
-> Best of the EDM scene in India\. Cover\- Ritviz
+> Best of the EDM scene in India\. Cover\- Nucleya
 
-95 songs - 5 hr 17 min
+98 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,11 @@
 | [Castles \- Bomb Bay Remix](https://open.spotify.com/track/1O3JyvdH3vAg1zB3UyE0Ui) | [Anish Sood](https://open.spotify.com/artist/7qjp4poDA0EDaiCEKuH1ZQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Bomb Bay](https://open.spotify.com/artist/7xsYqVqZED2jeOTZESZ6Q8) | [Castles \(Bomb Bay Remix\)](https://open.spotify.com/album/4bZy5z0O8qFP0B2E5QST2P) | 3:37 | 2024-02-05 |  |
 | [Castles \- Bomb Bay Remix](https://open.spotify.com/track/7xasn2JEKs7Qf36NeK1Ztu) | [Anish Sood](https://open.spotify.com/artist/7qjp4poDA0EDaiCEKuH1ZQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Bomb Bay](https://open.spotify.com/artist/7xsYqVqZED2jeOTZESZ6Q8) | [Castles \(Bomb Bay Remix\)](https://open.spotify.com/album/0EcQPZjTUdW0Ta8sa18l8j) | 3:37 | 2023-10-20 | 2024-04-19 |
 | [Chemistry](https://open.spotify.com/track/79yCicUXsMibJTNY0y5CXE) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kanchan Daniel](https://open.spotify.com/artist/3PLLYBkFo8mZO9JIsXRRUA) | [Music For The \# Generation](https://open.spotify.com/album/5eEqeXiXjxhcZisBravDBr) | 3:39 | 2023-10-20 |  |
+| [Death Roll \(VIP\)](https://open.spotify.com/track/30bmJj5nt77ZTixSvDkLtK) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Diggi Bumba](https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT) | 2:40 | 2026-01-15 |  |
 | [Desire](https://open.spotify.com/track/3ksugse2MMQvb5RwILo8gL) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Ampresi](https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P) | [Desire](https://open.spotify.com/album/2ZUXqOCce6uUxWYD7ZTfiU) | 3:50 | 2023-10-20 |  |
 | [Desire](https://open.spotify.com/track/5jxoaTAMBZvZpN547gsF0e) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Ampresi](https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P) | [Desire](https://open.spotify.com/album/6BGrMSEHdcrc8tvs5BVqW7) | 3:50 | 2023-12-06 | 2024-04-19 |
 | [DHA](https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [DHA](https://open.spotify.com/album/7hyGAoHe1IroectOWD8I6N) | 3:34 | 2025-09-19 |  |
+| [Diggi Bumba](https://open.spotify.com/track/5Mw91jYPnrCj49eF0O9CY9) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Diggi Bumba](https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT) | 3:25 | 2026-01-15 |  |
 | [Easy to Say](https://open.spotify.com/track/34vphJNw9MpZqkNhOXEXkp) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy to Say](https://open.spotify.com/album/7upEImDiNfOU0XNPjGQbWL) | 2:55 | 2023-12-06 | 2024-04-19 |
 | [Easy To Say](https://open.spotify.com/track/3j9VzQkNGlZsr5582nKC1A) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy To Say](https://open.spotify.com/album/6XSZrddGLhqcfSTcRZ3Rdp) | 2:55 | 2023-10-20 |  |
 | [Flash](https://open.spotify.com/track/216RNiFj3BXXJZeYdCuUUr) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Flash](https://open.spotify.com/album/7EGry35I28U6reu63FlS4g) | 2:41 | 2023-10-20 | 2024-04-19 |
@@ -34,6 +36,7 @@
 | [Fusion](https://open.spotify.com/track/5QB4LOyZW7ciFPu8uC7HO9) | [Aneesh Chengappa](https://open.spotify.com/artist/5gVQeVBF1ycIuAYwTDgZ95) | [Fusion](https://open.spotify.com/album/7zcsAMbDZv6gNmmkV7ew3E) | 2:48 | 2023-10-20 |  |
 | [Ghar Aao Na \(Rewind\)](https://open.spotify.com/track/6cj4Ah0gfAWbDR6q3IDHdD) | [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Ghar Aao Na \(Rewind\)](https://open.spotify.com/album/6SNEIHjZznHNN5VJiSCrLO) | 4:13 | 2023-10-20 |  |
 | [Ghar Aao Na \(Techno Mix\)](https://open.spotify.com/track/4Cz7oBICpLdh5LTdpbGLz0) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF) | [Ghar Aao Na \(Techno Mix\)](https://open.spotify.com/album/71OwS0R4npYcuUX9YEXQ5b) | 4:17 | 2024-04-19 |  |
+| [Gup Chup](https://open.spotify.com/track/67zEZyUvA2JiveDQjuMCdz) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [RjDV](https://open.spotify.com/artist/264ZfvqPku4wBB1KPCwomL) | [Diggi Bumba](https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT) | 3:17 | 2026-01-15 |  |
 | [Hear Me Say](https://open.spotify.com/track/6kQw53m0qxsZ2HN4iTYNLf) | [FLiPKiCK](https://open.spotify.com/artist/117KJptkj4EDWkL45naFY3) | [Hear Me Say](https://open.spotify.com/album/417EogpR9OgLqitc96gBby) | 3:31 | 2023-10-20 |  |
 | [Her Power](https://open.spotify.com/track/1rtBvfvKn1YzTCNdtgDZxk) | [Stella Key](https://open.spotify.com/artist/56PRQ7kk9woGM2SBKl8lYc), [RVPTR](https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4), [Jay Sarma](https://open.spotify.com/artist/5Ja4ziHgL3e1KBZO2uTzOi) | [Her Power](https://open.spotify.com/album/4ZIh4X3ofQnHtN2q3TQB1X) | 2:26 | 2023-10-20 |  |
 | [HOP](https://open.spotify.com/track/0Y5m1N5YRyyyMNanVj7EQv) | [Argenil](https://open.spotify.com/artist/2A6Fi9fm0poTuwBWpIzVw2) | [HOP](https://open.spotify.com/album/7LMT5UtFEtAAgCOGiof49o) | 2:51 | 2024-02-05 |  |

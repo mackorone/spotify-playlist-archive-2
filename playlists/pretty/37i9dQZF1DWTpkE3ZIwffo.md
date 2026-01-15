@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain](/playlists/plain/37i9dQZF1DWTpkE3ZIwffo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTpkE3ZIwffo)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain](/playlists/plain/37i9dQZF1DWTpkE3ZIwffo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTpkE3ZIwffo)
 
 ### [Lo Mejor De RKT & Turreo 2024](https://open.spotify.com/playlist/37i9dQZF1DWTpkE3ZIwffo)
 
 > Las canciones más escuchadas del género\.  Foto: Salastkbron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,872 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,068 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

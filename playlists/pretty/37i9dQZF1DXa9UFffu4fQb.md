@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9UFffu4fQb.md) - [plain](/playlists/plain/37i9dQZF1DXa9UFffu4fQb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa9UFffu4fQb)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9UFffu4fQb.md) - [plain](/playlists/plain/37i9dQZF1DXa9UFffu4fQb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXa9UFffu4fQb)
 
 ### [Moving Memoirs](https://open.spotify.com/playlist/37i9dQZF1DXa9UFffu4fQb)
 

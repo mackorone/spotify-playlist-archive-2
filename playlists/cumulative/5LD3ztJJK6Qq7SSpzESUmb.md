@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5LD3ztJJK6Qq7SSpzESUmb.md) - cumulative - [plain](/playlists/plain/5LD3ztJJK6Qq7SSpzESUmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5LD3ztJJK6Qq7SSpzESUmb)
+[pretty](/playlists/pretty/5LD3ztJJK6Qq7SSpzESUmb.md) - cumulative - [plain](/playlists/plain/5LD3ztJJK6Qq7SSpzESUmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5LD3ztJJK6Qq7SSpzESUmb)
 
 ### [Kerrang! Chart](https://open.spotify.com/playlist/5LD3ztJJK6Qq7SSpzESUmb)
 

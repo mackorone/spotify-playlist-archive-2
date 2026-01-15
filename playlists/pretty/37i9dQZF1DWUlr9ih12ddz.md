@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlr9ih12ddz.md) - [plain](/playlists/plain/37i9dQZF1DWUlr9ih12ddz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUlr9ih12ddz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlr9ih12ddz.md) - [plain](/playlists/plain/37i9dQZF1DWUlr9ih12ddz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUlr9ih12ddz)
 
 ### [ZOMBIES Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWUlr9ih12ddz)
 
 > The 4th installment in the ZOMBIES franchise is here! Check out all the new music and watch the film on Disney Channel and Disney +
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,735 likes - 55 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,655 likes - 55 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

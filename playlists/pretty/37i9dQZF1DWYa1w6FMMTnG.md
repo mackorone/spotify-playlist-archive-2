@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain](/playlists/plain/37i9dQZF1DWYa1w6FMMTnG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYa1w6FMMTnG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain](/playlists/plain/37i9dQZF1DWYa1w6FMMTnG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYa1w6FMMTnG)
 
 ### [Disney Halloween](https://open.spotify.com/playlist/37i9dQZF1DWYa1w6FMMTnG)
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,573 likes - 115 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,104 likes - 115 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

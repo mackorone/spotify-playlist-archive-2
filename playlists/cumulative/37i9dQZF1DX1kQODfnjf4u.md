@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1kQODfnjf4u.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1kQODfnjf4u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1kQODfnjf4u)
+[pretty](/playlists/pretty/37i9dQZF1DX1kQODfnjf4u.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1kQODfnjf4u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1kQODfnjf4u)
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Calin
+> 50 nejžhavějších hitů v České republice\. Cover: GUFRAU, Victor Kal.
 
-186 songs - 9 hr 3 min
+187 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Brick na brick](https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Brick na brick](https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs) | 2:53 | 2024-07-01 | 2025-08-05 |
 | [Cassiopea](https://open.spotify.com/track/1XWaH5Lz5FXgf6JbfclwNB) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [mdmx](https://open.spotify.com/artist/0F2wMgHb1xp9HlWN4rt5Ke), [Pavel Machát](https://open.spotify.com/artist/0eWttDUfPVwCAA8bo83iGI) | [Superfly](https://open.spotify.com/album/71hXzRGKVQeRnv2YKvzbfo) | 2:45 | 2024-07-01 | 2024-09-24 |
 | [CELOU NOC 2](https://open.spotify.com/track/2SdeE22RomGIWq3xZwk7aF) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [AstralKid22](https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ), [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck) | [DEBARAS](https://open.spotify.com/album/0Tkld1ukBsVD8IQgtr4hB4) | 2:45 | 2025-02-03 | 2025-03-11 |
-| [Chiary Svět](https://open.spotify.com/track/4JxpY16R7m9JDv9HYCivfk) | [Chiara](https://open.spotify.com/artist/0ltuGKZd8ksBTPbkXpZYgu) | [Chiary Svět](https://open.spotify.com/album/4OvnMAXGza7ET0YVvVQ2uK) | 2:45 | 2025-10-27 |  |
+| [Chiary Svět](https://open.spotify.com/track/4JxpY16R7m9JDv9HYCivfk) | [Chiara](https://open.spotify.com/artist/0ltuGKZd8ksBTPbkXpZYgu) | [Chiary Svět](https://open.spotify.com/album/4OvnMAXGza7ET0YVvVQ2uK) | 2:45 | 2025-10-27 | 2026-01-15 |
 | [Cigarety](https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Matej Turcer](https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 4:41 | 2025-05-01 |  |
 | [cool](https://open.spotify.com/track/3ccodz9WzM5L385hQbxbYW) | [Grey256](https://open.spotify.com/artist/66bgEhG3GXDBGNZEJKs8bM) | [cool](https://open.spotify.com/album/0lcEeyRb0qLz0ZDq2iZ37Y) | 3:00 | 2024-07-01 | 2025-09-02 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-03-11 |
@@ -84,6 +84,7 @@
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 | 2025-05-20 |
 | [Ice Baby Melt](https://open.spotify.com/track/2uXWBou22TwQ2O40B5dTm5) | [Loudz1](https://open.spotify.com/artist/2tYKs5FOsdGeRqjBkIDCiX), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [TOO LOUD](https://open.spotify.com/album/1QVYseairX2FD9USXcU0go) | 2:56 | 2025-02-10 | 2025-04-01 |
 | [Iné Plemená](https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Iné Plemená](https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV) | 3:08 | 2024-12-16 |  |
+| [Jak Robot](https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H) | [GUFRAU](https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q), [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [BOYBAND](https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB) | 2:26 | 2026-01-13 |  |
 | [Jazda](https://open.spotify.com/track/6k0dWRI6L1sUxPwIcZH01F) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [SWAG SIDE STORY](https://open.spotify.com/album/5u0q9Bie9brMl3dCdehhnt) | 2:35 | 2024-10-28 | 2024-12-17 |
 | [Jenom ať nesním.\. \(feat\. Calin\)](https://open.spotify.com/track/1xqRQAe2Gic8HJgg6uGKO2) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [blue.](https://open.spotify.com/album/21WNqI8VHCWS5vA8cJg7YU) | 2:32 | 2025-03-31 | 2025-09-11 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-07-07 |  |

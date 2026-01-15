@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZevNd7Fcmnf.md) - [plain](/playlists/plain/37i9dQZF1DWZevNd7Fcmnf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZevNd7Fcmnf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZevNd7Fcmnf.md) - [plain](/playlists/plain/37i9dQZF1DWZevNd7Fcmnf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZevNd7Fcmnf)
 
 ### [GIRLS und PANZER](https://open.spotify.com/playlist/37i9dQZF1DWZevNd7Fcmnf)
 
 > Enjoy Music from "GIRLS und PANZER" series! （C）GIRLS und PANZER Projekt
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,551 likes - 83 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,728 likes - 83 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

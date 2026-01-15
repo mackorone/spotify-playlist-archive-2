@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/24HEIuw8etbkitpDCxZ1dQ.md) - [plain](/playlists/plain/24HEIuw8etbkitpDCxZ1dQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/24HEIuw8etbkitpDCxZ1dQ)
+pretty - [cumulative](/playlists/cumulative/24HEIuw8etbkitpDCxZ1dQ.md) - [plain](/playlists/plain/24HEIuw8etbkitpDCxZ1dQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/24HEIuw8etbkitpDCxZ1dQ)
 
 ### [The Critics Choice 2012](https://open.spotify.com/playlist/24HEIuw8etbkitpDCxZ1dQ)
 
 > A playlist with songs from the best reviewed albums in Sweden 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,998 likes - 61 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 61 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

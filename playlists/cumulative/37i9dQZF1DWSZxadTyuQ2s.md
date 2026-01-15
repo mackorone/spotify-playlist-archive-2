@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSZxadTyuQ2s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSZxadTyuQ2s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSZxadTyuQ2s)
+[pretty](/playlists/pretty/37i9dQZF1DWSZxadTyuQ2s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSZxadTyuQ2s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSZxadTyuQ2s)
 
 ### [Best of Global Afrobeats 2025](https://open.spotify.com/playlist/37i9dQZF1DWSZxadTyuQ2s)
 

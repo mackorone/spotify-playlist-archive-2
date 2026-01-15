@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX13bvFCXcHM.md) - [plain](/playlists/plain/37i9dQZF1DWX13bvFCXcHM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX13bvFCXcHM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX13bvFCXcHM.md) - [plain](/playlists/plain/37i9dQZF1DWX13bvFCXcHM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX13bvFCXcHM)
 
 ### [THE BLACK SKIRTS CONCERT \[SONGS TO BRING YOU HOME\]](https://open.spotify.com/playlist/37i9dQZF1DWX13bvFCXcHM)
 
 > Enjoy the LIVE SET including the voices of them on stage! \(아티스트의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,216 likes - 31 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,238 likes - 31 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

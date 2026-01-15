@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblL3BJxZfuE.md) - [plain](/playlists/plain/37i9dQZF1DXblL3BJxZfuE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXblL3BJxZfuE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblL3BJxZfuE.md) - [plain](/playlists/plain/37i9dQZF1DXblL3BJxZfuE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXblL3BJxZfuE)
 
 ### [Sound! Euphonium 響け！ユーフォニアム ](https://open.spotify.com/playlist/37i9dQZF1DXblL3BJxZfuE)
 
 > Enjoy music from "Sound! Euphonium"! /「響け！ユーフォニアム」の楽曲を１つのプレイリストに。©武田綾乃・宝島社／『響け！』製作委員会2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,201 likes - 82 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,244 likes - 82 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

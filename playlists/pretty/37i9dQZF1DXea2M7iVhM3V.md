@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea2M7iVhM3V.md) - [plain](/playlists/plain/37i9dQZF1DXea2M7iVhM3V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXea2M7iVhM3V)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea2M7iVhM3V.md) - [plain](/playlists/plain/37i9dQZF1DXea2M7iVhM3V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXea2M7iVhM3V)
 
 ### [Killing It](https://open.spotify.com/playlist/37i9dQZF1DXea2M7iVhM3V)
 

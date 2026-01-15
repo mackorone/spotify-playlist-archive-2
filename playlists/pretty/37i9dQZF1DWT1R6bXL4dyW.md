@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain](/playlists/plain/37i9dQZF1DWT1R6bXL4dyW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT1R6bXL4dyW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain](/playlists/plain/37i9dQZF1DWT1R6bXL4dyW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT1R6bXL4dyW)
 
 ### [The Perfect Italian Dinner](https://open.spotify.com/playlist/37i9dQZF1DWT1R6bXL4dyW)
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,517 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,987 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

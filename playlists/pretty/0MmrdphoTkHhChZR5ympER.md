@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0MmrdphoTkHhChZR5ympER.md) - [plain](/playlists/plain/0MmrdphoTkHhChZR5ympER) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0MmrdphoTkHhChZR5ympER)
+pretty - [cumulative](/playlists/cumulative/0MmrdphoTkHhChZR5ympER.md) - [plain](/playlists/plain/0MmrdphoTkHhChZR5ympER) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0MmrdphoTkHhChZR5ympER)
 
 ### [All 90's Top Hits](https://open.spotify.com/playlist/0MmrdphoTkHhChZR5ympER)
 
 > De grootste hits uit de jaren 1990 \- 1999 voor je verzameld in één playlist\. \| Foto: Spice Girls \|  <a href="spotify:user:digsternl">Meer playlists</a>
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 15,425 likes - 88 songs - 6 hr 20 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 15,417 likes - 88 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

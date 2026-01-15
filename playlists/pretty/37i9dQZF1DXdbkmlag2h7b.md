@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain](/playlists/plain/37i9dQZF1DXdbkmlag2h7b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdbkmlag2h7b)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain](/playlists/plain/37i9dQZF1DXdbkmlag2h7b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdbkmlag2h7b)
 
 ### [DayDreamer](https://open.spotify.com/playlist/37i9dQZF1DXdbkmlag2h7b)
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,353 likes - 259 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,888 likes - 259 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

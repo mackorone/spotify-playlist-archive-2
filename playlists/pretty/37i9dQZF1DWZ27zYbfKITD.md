@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain](/playlists/plain/37i9dQZF1DWZ27zYbfKITD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ27zYbfKITD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain](/playlists/plain/37i9dQZF1DWZ27zYbfKITD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ27zYbfKITD)
 
 ### [Soundtracks for Studying](https://open.spotify.com/playlist/37i9dQZF1DWZ27zYbfKITD)
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,216 likes - 116 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,967 likes - 116 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

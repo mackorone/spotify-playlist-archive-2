@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3CCd2NAceWw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3CCd2NAceWw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3CCd2NAceWw)
+[pretty](/playlists/pretty/37i9dQZF1DX3CCd2NAceWw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3CCd2NAceWw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3CCd2NAceWw)
 
 ### [Taylor Rook's Taste](https://open.spotify.com/playlist/37i9dQZF1DX3CCd2NAceWw)
 

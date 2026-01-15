@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain](/playlists/plain/2nijhEsl8AZJkEaIAeF4lj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2nijhEsl8AZJkEaIAeF4lj)
+pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain](/playlists/plain/2nijhEsl8AZJkEaIAeF4lj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2nijhEsl8AZJkEaIAeF4lj)
 
 ### [melodies from above ✨](https://open.spotify.com/playlist/2nijhEsl8AZJkEaIAeF4lj)
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 344 songs - 22 hr 6 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 345 songs - 22 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -352,5 +352,6 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 342 | [Stars \(Live at Montreux\)](https://open.spotify.com/track/1OXBfwBYtj2AAKi6jom1qT) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [BoJack Horseman \(Music from the Netflix Original Series\)](https://open.spotify.com/album/1TCONwUgvvjqSYJFPUCUTW) | 6:36 |
 | 343 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
 | 344 | [I Will Always Think of You](https://open.spotify.com/track/3OrqExOwr13y6UCI1LGhA4) | [Jane Krakowski](https://open.spotify.com/artist/7Eb5SuBHafZ7rSw3wwS5lO), [Colman Domingo](https://open.spotify.com/artist/64r4WYueLLJ8f5yLhQJnxO) | [BoJack Horseman \(Music from the Netflix Original Series\)](https://open.spotify.com/album/1TCONwUgvvjqSYJFPUCUTW) | 1:22 |
+| 345 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 
-Snapshot ID: `AAAELPCU/XXUj/ijJ76x8CIigtrfrRny`
+Snapshot ID: `AAAELWrl/CNnoqlT+4RglbBc0EvWR2qh`

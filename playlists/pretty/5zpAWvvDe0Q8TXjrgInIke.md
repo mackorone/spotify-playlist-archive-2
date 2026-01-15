@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5zpAWvvDe0Q8TXjrgInIke.md) - [plain](/playlists/plain/5zpAWvvDe0Q8TXjrgInIke) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5zpAWvvDe0Q8TXjrgInIke)
+pretty - [cumulative](/playlists/cumulative/5zpAWvvDe0Q8TXjrgInIke.md) - [plain](/playlists/plain/5zpAWvvDe0Q8TXjrgInIke) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5zpAWvvDe0Q8TXjrgInIke)
 
 ### [Welcome Baby Kimye!](https://open.spotify.com/playlist/5zpAWvvDe0Q8TXjrgInIke)
 

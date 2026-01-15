@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0ZWYUjUMhaq0Rammqq3qu1.md) - cumulative - [plain](/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1)
+[pretty](/playlists/pretty/0ZWYUjUMhaq0Rammqq3qu1.md) - cumulative - [plain](/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1)
 
 ### [Thanksgiving Dinner Party Essentials ](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 

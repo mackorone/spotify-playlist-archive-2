@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 634209,
+  "num_followers": 636310,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
         "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 177853,
       "name": "Supe Perder",
       "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Nunca Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Volver\u00e9 A Conquistarte",
         "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 236533,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Nunca Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -515,18 +515,34 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+        "name": "Serie 32: Yndio",
+        "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
       },
       "artists": [
         {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Con El Coraz\u00f3n En La Mano",
-      "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
+      "duration_ms": 207586,
+      "name": "Dame Un Beso Y Dime Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Amor Sin Palabras",
+      "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -547,18 +563,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Serie 32: Yndio",
-        "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
       "artists": [
         {
-          "name": "Yndio",
-          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
         }
       ],
-      "duration_ms": 207586,
-      "name": "Dame Un Beso Y Dime Adi\u00f3s",
-      "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
+      "duration_ms": 197800,
+      "name": "Con El Coraz\u00f3n En La Mano",
+      "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -579,38 +595,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Dos Cartas y una Flor",
-      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "Entre Nubes",
-        "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Nubes De Algod\u00f3n",
-      "url": "https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Vivencias",
         "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 192653,
       "name": "Separados",
       "url": "https://open.spotify.com/track/0X36EM2m5Ehd20azrkhE4O"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Dos Cartas y una Flor",
+      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "Entre Nubes",
+        "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Nubes De Algod\u00f3n",
+      "url": "https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 217026,
       "name": "Y T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Amor Sin Palabras",
-      "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Bronco Amigo",
-        "url": "https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Amigo Bronco - Remasterizado",
-      "url": "https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "\u00daltimas Noticias",
         "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 173133,
       "name": "Ultimas Noticias",
       "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Bronco Amigo",
+        "url": "https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Amigo Bronco - Remasterizado",
+      "url": "https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Preg\u00fantame A Mi",
-        "url": "https://open.spotify.com/album/0HHGcxzBZPPXvS58Jnyc8k"
-      },
-      "artists": [
-        {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Ni El Primero Ni El \u00daltimo",
-      "url": "https://open.spotify.com/track/5s5K4wDAyhKr9KANDwt1xI"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "En La Luna",
         "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "Preg\u00fantame A Mi",
+        "url": "https://open.spotify.com/album/0HHGcxzBZPPXvS58Jnyc8k"
+      },
+      "artists": [
+        {
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Ni El Primero Ni El \u00daltimo",
+      "url": "https://open.spotify.com/track/5s5K4wDAyhKr9KANDwt1xI"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Pero No Me Dejes",
         "url": "https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ"
       },
@@ -847,6 +847,38 @@
       "duration_ms": 186026,
       "name": "T\u00edtere",
       "url": "https://open.spotify.com/track/6PrExPgJLYAX9mH5p41gOm"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Quier\u00e9me M\u00e1s",
+        "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
+      },
+      "artists": [
+        {
+          "name": "Grupo Modelo",
+          "url": "https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Qui\u00e9reme M\u00e1s",
+      "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "No Tengo L\u00e1grimas",
+      "url": "https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -871,38 +903,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Un Millon de Rosas",
-      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "Quier\u00e9me M\u00e1s",
-        "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
-      },
-      "artists": [
-        {
-          "name": "Grupo Modelo",
-          "url": "https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Qui\u00e9reme M\u00e1s",
-      "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 194426,
       "name": "Par De Anillos",
       "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "No Tengo L\u00e1grimas",
-      "url": "https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -951,6 +935,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Un Millon de Rosas",
+      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -963,38 +963,6 @@
       "duration_ms": 181586,
       "name": "Quien",
       "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "Un D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Un D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1015,6 +983,38 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "Un D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Un D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 218866,
       "name": "Enamorado De Tus Ojos",
       "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Juntos Para Siempre",
+        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
+      },
+      "artists": [
+        {
+          "name": "Los Mismos",
+          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Me Est\u00e1 Doliendo Dejarte",
+      "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1059,22 +1075,6 @@
       "duration_ms": 222200,
       "name": "Cuatro Palabras",
       "url": "https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "Juntos Para Siempre",
-        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
-      },
-      "artists": [
-        {
-          "name": "Los Mismos",
-          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Me Est\u00e1 Doliendo Dejarte",
-      "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
+        "name": "Ven A Mi Mundo",
+        "url": "https://open.spotify.com/album/5tFsnxxlmSVqYCFpoJnLCd"
       },
       "artists": [
         {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+          "name": "Los Mismos",
+          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
         }
       ],
-      "duration_ms": 192293,
-      "name": "Limosnero De Cari\u00f1o",
-      "url": "https://open.spotify.com/track/12wge7SE8mvrJRPvgH5Jw6"
+      "duration_ms": 207266,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/60pVBdslwbfdr38i34yhUq"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Ven A Mi Mundo",
-        "url": "https://open.spotify.com/album/5tFsnxxlmSVqYCFpoJnLCd"
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
       },
       "artists": [
         {
-          "name": "Los Mismos",
-          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
         }
       ],
-      "duration_ms": 207266,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/60pVBdslwbfdr38i34yhUq"
+      "duration_ms": 192293,
+      "name": "Limosnero De Cari\u00f1o",
+      "url": "https://open.spotify.com/track/12wge7SE8mvrJRPvgH5Jw6"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
-      },
-      "artists": [
-        {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Cosas Buenas Que Parecen Malas",
-      "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Solo Lo Nuestro",
         "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 171826,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
+      },
+      "artists": [
+        {
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Cosas Buenas Que Parecen Malas",
+      "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 1 - Mexico)",
-        "url": "https://open.spotify.com/album/4pM16t7igU0K9eE4AHMuHG"
-      },
-      "artists": [
-        {
-          "name": "Priscila y Sus Balas De Plata",
-          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Paraiso Terrenal",
-      "url": "https://open.spotify.com/track/1j24uoQ72zDdXKnYdY1QSo"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "20 Aniversario",
         "url": "https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 221773,
       "name": "Dos Enamorados",
       "url": "https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 1 - Mexico)",
+        "url": "https://open.spotify.com/album/4pM16t7igU0K9eE4AHMuHG"
+      },
+      "artists": [
+        {
+          "name": "Priscila y Sus Balas De Plata",
+          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Paraiso Terrenal",
+      "url": "https://open.spotify.com/track/1j24uoQ72zDdXKnYdY1QSo"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "17 Super Exitos",
+        "url": "https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu"
+      },
+      "artists": [
+        {
+          "name": "Los Bondadosos",
+          "url": "https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Como Me Gusta Quererte",
+      "url": "https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/5QaE8igXsDA3r0Vz8xg7Wq"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 185026,
       "name": "El Golpe Traidor",
       "url": "https://open.spotify.com/track/6P1G57zOECV3NYGChOan7U"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "17 Super Exitos",
-        "url": "https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu"
-      },
-      "artists": [
-        {
-          "name": "Los Bondadosos",
-          "url": "https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Como Me Gusta Quererte",
-      "url": "https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Sin L\u00edmites",
-        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 147360,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Antolog\u00eda...Los Baby's",
         "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 163906,
       "name": "Mi loca pasi\u00f3n",
       "url": "https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
+        "name": "Gran Encuentro",
+        "url": "https://open.spotify.com/album/1p41U3s9oAlf4nrbafLMcB"
       },
       "artists": [
         {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+          "name": "Mandingo",
+          "url": "https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba"
         }
       ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
+      "duration_ms": 157706,
+      "name": "Te V\u00ed Con El",
+      "url": "https://open.spotify.com/track/1BoUHrabgfNoIJ3Wk4iwsg"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Amor Vendido, Vol. 4",
-        "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
       },
       "artists": [
         {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
         }
       ],
-      "duration_ms": 204669,
-      "name": "Hola Como Estas",
-      "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Gran Encuentro",
-        "url": "https://open.spotify.com/album/1p41U3s9oAlf4nrbafLMcB"
+        "name": "Amor Vendido, Vol. 4",
+        "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
       },
       "artists": [
         {
-          "name": "Mandingo",
-          "url": "https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba"
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
         }
       ],
-      "duration_ms": 157706,
-      "name": "Te V\u00ed Con El",
-      "url": "https://open.spotify.com/track/1BoUHrabgfNoIJ3Wk4iwsg"
+      "duration_ms": 204669,
+      "name": "Hola Como Estas",
+      "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
     },
     {
       "added_at": "2024-08-28 00:51:57",

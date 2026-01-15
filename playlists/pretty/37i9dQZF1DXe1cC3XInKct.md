@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain](/playlists/plain/37i9dQZF1DXe1cC3XInKct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe1cC3XInKct)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain](/playlists/plain/37i9dQZF1DXe1cC3XInKct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe1cC3XInKct)
 
 ### [undertones](https://open.spotify.com/playlist/37i9dQZF1DXe1cC3XInKct)
 
 > Downtempo and ambient electronic music\. Feel the undertones 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,900 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,883 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

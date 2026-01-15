@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6f5fW2F9JIU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6f5fW2F9JIU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6f5fW2F9JIU)
+[pretty](/playlists/pretty/37i9dQZF1DX6f5fW2F9JIU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6f5fW2F9JIU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6f5fW2F9JIU)
 
 ### [THE IDOLM@STER アイドルマスター](https://open.spotify.com/playlist/37i9dQZF1DX6f5fW2F9JIU)
 
 > Music from "THE IDOLM@STER"\. アイドルマスターの楽曲を1つのプレイリストで。<br/>©窪岡俊之 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-106 songs - 8 hr 10 min
+107 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [I Want](https://open.spotify.com/track/3FjbcbN8tngbLVDnDwKLKK) | [天海春香 \(CV: 中村繪里子\)](https://open.spotify.com/artist/4aRJRDARzKnNfjXfM1lYqz) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-COOL&BITTER!\-](https://open.spotify.com/album/47Hkg8JBDUiaQq6vZKTM6U) | 4:00 | 2022-12-27 |  |
 | [I'm so free!](https://open.spotify.com/track/49Zsxltu1mOYzPGzzHuiZV) | [星井美希 \(CV: 長谷川明子\)](https://open.spotify.com/artist/1XXFH78oQ3dVr0ptfFLofV), [三浦あずさ \(CV.たかはし智秋\)](https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv), [四条貴音 \(CV: 原 由実\)](https://open.spotify.com/artist/5pOdOWa0fBgozgUfQUGEp7) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-COOL&BITTER!\-](https://open.spotify.com/album/47Hkg8JBDUiaQq6vZKTM6U) | 5:00 | 2022-12-27 |  |
 | [inferno](https://open.spotify.com/track/7lQeZs9MO9STEW0oOuZXmk) | [如月千早 \(CV: 今井麻美\)](https://open.spotify.com/artist/72rLeWDmVC3Sumcjj7vktd), [萩原雪歩 \(CV: 長谷優里奈\)](https://open.spotify.com/artist/6Kt28NXexeTHLPrw4WqzTn) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-COOL&BITTER!\-](https://open.spotify.com/album/47Hkg8JBDUiaQq6vZKTM6U) | 4:27 | 2022-12-27 |  |
+| [KiRa\-KiRa Sensation!](https://open.spotify.com/track/1oCb5uIg2DubnPv5pKoKRK) | [天海春香 \(CV.中村繪里子\)](https://open.spotify.com/artist/4VYbbwQ4B6bjc3bJEAjFlL), [如月千早 \(CV.今井麻美\)](https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g), [星井美希 \(CV.長谷川明子\)](https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi), [萩原雪歩 \(CV.浅倉杏美\)](https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh), [菊地 真 \(CV.平田宏美\)](https://open.spotify.com/artist/63lsunc6hoqoaUq0A11UZX) | [LoveLive! Series 15th Anniversary Tribute Album](https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi) | 5:01 | 2026-01-13 |  |
 | [KisS](https://open.spotify.com/track/1U4Y2QtOvcn7UmgsJYs9aS) | [星井美希 \(CV: 長谷川明子\)](https://open.spotify.com/artist/1XXFH78oQ3dVr0ptfFLofV), [四条貴音 \(CV: 原 由実\)](https://open.spotify.com/artist/5pOdOWa0fBgozgUfQUGEp7), [我那覇響 \(CV: 沼倉愛美\)](https://open.spotify.com/artist/5FZAJa8dQvNQMTV4E7GWYZ) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-COOL&BITTER!\-](https://open.spotify.com/album/47Hkg8JBDUiaQq6vZKTM6U) | 4:28 | 2022-12-27 |  |
 | [Kosmos, Cosmos](https://open.spotify.com/track/34K1I0qXNtuiMWZILqxDbW) | [萩原雪歩 \(CV: 長谷優里奈\)](https://open.spotify.com/artist/6Kt28NXexeTHLPrw4WqzTn) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-SWEET&SMILE!\-](https://open.spotify.com/album/4Jb8W5mdfBaRXeYz6LVE6W) | 4:07 | 2022-12-27 |  |
 | [Large Size Party](https://open.spotify.com/track/24LyKOcdHovp3ZMnENT5Kn) | [如月千早 \(CV: 今井麻美\)](https://open.spotify.com/artist/72rLeWDmVC3Sumcjj7vktd), [三浦あずさ \(CV.たかはし智秋\)](https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv), [四条貴音 \(CV: 原 由実\)](https://open.spotify.com/artist/5pOdOWa0fBgozgUfQUGEp7) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-LOVE&PEACE!\-](https://open.spotify.com/album/2EKu4FCPq2X52aRzaT3lHI) | 4:49 | 2022-12-27 |  |

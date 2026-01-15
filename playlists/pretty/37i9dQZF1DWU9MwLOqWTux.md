@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9MwLOqWTux.md) - [plain](/playlists/plain/37i9dQZF1DWU9MwLOqWTux) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU9MwLOqWTux)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9MwLOqWTux.md) - [plain](/playlists/plain/37i9dQZF1DWU9MwLOqWTux) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU9MwLOqWTux)
 
 ### [Idris Elba's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWU9MwLOqWTux)
 

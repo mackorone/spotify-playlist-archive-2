@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QSrZ8cQbyd.md) - [plain](/playlists/plain/37i9dQZF1DX9QSrZ8cQbyd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9QSrZ8cQbyd)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QSrZ8cQbyd.md) - [plain](/playlists/plain/37i9dQZF1DX9QSrZ8cQbyd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9QSrZ8cQbyd)
 
 ### [Baby Bells for Sleep](https://open.spotify.com/playlist/37i9dQZF1DX9QSrZ8cQbyd)
 

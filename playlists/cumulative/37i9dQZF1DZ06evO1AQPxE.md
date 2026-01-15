@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1AQPxE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1AQPxE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1AQPxE)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1AQPxE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1AQPxE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1AQPxE)
 
 ### [This Is Jack Harlow](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AQPxE)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX08Pol1s74FY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX08Pol1s74FY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX08Pol1s74FY)
+[pretty](/playlists/pretty/37i9dQZF1DX08Pol1s74FY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX08Pol1s74FY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX08Pol1s74FY)
 
 ### [This Is YoungBoy Never Broke Again](https://open.spotify.com/playlist/37i9dQZF1DX08Pol1s74FY)
 

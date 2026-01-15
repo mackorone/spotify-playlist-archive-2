@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1EFAAKtXkfKzuV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFAAKtXkfKzuV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFAAKtXkfKzuV)
+[pretty](/playlists/pretty/37i9dQZF1EFAAKtXkfKzuV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFAAKtXkfKzuV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFAAKtXkfKzuV)
 
 ### [Written By Stevie Bashir](https://open.spotify.com/playlist/37i9dQZF1EFAAKtXkfKzuV)
 
@@ -37,7 +37,7 @@
 | [Guilty](https://open.spotify.com/track/3SGM2GWhK4hJSFon35F5l0) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX) | [Guilty](https://open.spotify.com/album/1IgcvMS2cjy33nggjKuqVq) | 2:17 | 2023-06-29 | 2023-12-14 |
 | [Heart Never Broke](https://open.spotify.com/track/4LfuwwWPuYzZ2vxnHK2cog) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [BCS](https://open.spotify.com/artist/4tGQ53InAQSRcbpDrYZPtz) | [Heart Never Broke](https://open.spotify.com/album/5wpqFQLm7lBr8HNVWq7m6q) | 2:38 | 2023-06-29 |  |
 | [Help Me Remember \(feat\. Dyson\)](https://open.spotify.com/track/0eAHSsGHWWXcNl9cOad785) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Letters To Remember](https://open.spotify.com/album/5ewnC9DmcClqT2cqKvvNCe) | 2:47 | 2023-06-29 |  |
-| [I Tried](https://open.spotify.com/track/3QSogFXUWdiZ2akyXQQpWI) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Watching You \- EP](https://open.spotify.com/album/3ZMFWfliUQROBkFP5oPBWa) | 3:07 | 2023-06-29 |  |
+| [I Tried](https://open.spotify.com/track/3QSogFXUWdiZ2akyXQQpWI) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Watching You \- EP](https://open.spotify.com/album/3ZMFWfliUQROBkFP5oPBWa) | 3:07 | 2023-06-29 |  |
 | [If This Ain't Love](https://open.spotify.com/track/7oBIOtw4TmPPEHB9mxnfoS) | [LOFLY](https://open.spotify.com/artist/6Nq0fa6pYLroAcMDPenPsk), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [If This Ain't Love](https://open.spotify.com/album/54f7eAbmDVQTMCv7XMikTL) | 2:18 | 2023-06-29 |  |
 | [Inbetween](https://open.spotify.com/track/3pkNourwOQlis9iWid3h5C) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 3:16 | 2023-06-29 |  |
 | [Irgendwas mit Liebe](https://open.spotify.com/track/4Bo3TBoTN1nC2Iia66Z7Rj) | [DJ Herzbeat](https://open.spotify.com/artist/0fvGBclVqAPzR4SxHhtgt4), [Marie Wegener](https://open.spotify.com/artist/6thyTBTGNwX1i95cCGCxJV) | [Dancefieber](https://open.spotify.com/album/7A0V324Q6fJfKhiJaM63b0) | 3:21 | 2025-01-09 | 2025-04-12 |

@@ -1,32 +1,68 @@
 {
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with GRiZ",
-  "num_followers": 990068,
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Virtual Riot",
+  "num_followers": 990317,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGpMfn412bEw5hvN5rj/cEnVmJq+",
+  "snapshot_id": "AAAAANUfGbOfbRY67sASknmHmxE7vbRF",
   "tracks": [
     {
-      "added_at": "2025-12-19 05:00:32",
+      "added_at": "2026-01-09 05:00:46",
       "album": {
-        "name": "Nobody Else (with Kaleena Zanders)",
-        "url": "https://open.spotify.com/album/5XpCrHqbZPPBWSGOmct0A0"
+        "name": "Sh*t's On F*re",
+        "url": "https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS"
       },
       "artists": [
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Nobody Else (with Kaleena Zanders)",
-      "url": "https://open.spotify.com/track/2NuNzR5GVtL8nkJ0sxfGzs"
+      "duration_ms": 244800,
+      "name": "Sh*t's On F*re",
+      "url": "https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP"
+    },
+    {
+      "added_at": "2026-01-05 21:41:53",
+      "album": {
+        "name": "Cocaine Inside My Blunts (Tape B Remix)",
+        "url": "https://open.spotify.com/album/0Mfw5FWUUwxJ7Dof1OnV4L"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Cocaine Inside My Blunts (Tape B Remix)",
+      "url": "https://open.spotify.com/track/5uCOhMc7WQy7jawqJbdhh2"
+    },
+    {
+      "added_at": "2026-01-02 17:48:16",
+      "album": {
+        "name": "Tonight (I\u2019m Sorry)",
+        "url": "https://open.spotify.com/album/1T5VMVm8lBsjgnE8wdIufG"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Tonight (I\u2019m Sorry)",
+      "url": "https://open.spotify.com/track/6cWBht0Kc3vcpYXOr6bUAL"
     },
     {
       "added_at": "2025-12-12 05:00:41",
@@ -73,48 +109,24 @@
       "url": "https://open.spotify.com/track/5lIW37wg5kwRWcbUYlTpuP"
     },
     {
-      "added_at": "2025-11-24 22:46:07",
+      "added_at": "2025-12-19 05:00:32",
       "album": {
-        "name": "No Broke Boys (AVELLO Remix)",
-        "url": "https://open.spotify.com/album/3rGWp6CCmcTxog8qlfmElD"
+        "name": "Nobody Else (with Kaleena Zanders)",
+        "url": "https://open.spotify.com/album/5XpCrHqbZPPBWSGOmct0A0"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         },
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
         }
       ],
-      "duration_ms": 164885,
-      "name": "No Broke Boys - AVELLO Remix",
-      "url": "https://open.spotify.com/track/4zXG4SBvsjsW0EN1mjCxaV"
-    },
-    {
-      "added_at": "2026-01-02 17:48:16",
-      "album": {
-        "name": "Tonight (I\u2019m Sorry)",
-        "url": "https://open.spotify.com/album/1T5VMVm8lBsjgnE8wdIufG"
-      },
-      "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Tonight (I\u2019m Sorry)",
-      "url": "https://open.spotify.com/track/6cWBht0Kc3vcpYXOr6bUAL"
+      "duration_ms": 192000,
+      "name": "Nobody Else (with Kaleena Zanders)",
+      "url": "https://open.spotify.com/track/2NuNzR5GVtL8nkJ0sxfGzs"
     },
     {
       "added_at": "2025-12-05 05:08:59",
@@ -153,24 +165,84 @@
       "url": "https://open.spotify.com/track/0iAigPJ2qYUiVxNasBx0eK"
     },
     {
-      "added_at": "2025-11-21 05:00:39",
+      "added_at": "2026-01-09 05:00:46",
       "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
+        "name": "CALYPSO VIP",
+        "url": "https://open.spotify.com/album/2zVIdJj47fsbsAXe7yiMNf"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         },
         {
-          "name": "Deadcrow",
-          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
         }
       ],
-      "duration_ms": 173616,
-      "name": "Dominator",
-      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
+      "duration_ms": 164005,
+      "name": "CALYPSO VIP",
+      "url": "https://open.spotify.com/track/17Yc506DrPVDJwgW1Dogp7"
+    },
+    {
+      "added_at": "2025-11-24 22:46:07",
+      "album": {
+        "name": "No Broke Boys (AVELLO Remix)",
+        "url": "https://open.spotify.com/album/3rGWp6CCmcTxog8qlfmElD"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        }
+      ],
+      "duration_ms": 164885,
+      "name": "No Broke Boys - AVELLO Remix",
+      "url": "https://open.spotify.com/track/4zXG4SBvsjsW0EN1mjCxaV"
+    },
+    {
+      "added_at": "2025-10-17 04:00:54",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/2614C9Zlno0BXCSO0KokfL"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
+    },
+    {
+      "added_at": "2025-12-05 05:08:59",
+      "album": {
+        "name": "GHOST WORLD",
+        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
     },
     {
       "added_at": "2025-12-05 05:08:59",
@@ -201,6 +273,46 @@
       "url": "https://open.spotify.com/track/17WM8SkzLoAH0VBtjiHdjt"
     },
     {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
+        "name": "Subliminals",
+        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
+        }
+      ],
+      "duration_ms": 154100,
+      "name": "Subliminals",
+      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
+    },
+    {
+      "added_at": "2025-11-21 05:00:39",
+      "album": {
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Deadcrow",
+          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
+        }
+      ],
+      "duration_ms": 173616,
+      "name": "Dominator",
+      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
+    },
+    {
       "added_at": "2025-11-07 05:00:51",
       "album": {
         "name": "LOUDER",
@@ -219,6 +331,26 @@
       "duration_ms": 135724,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
+    },
+    {
+      "added_at": "2026-01-09 05:00:46",
+      "album": {
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
     },
     {
       "added_at": "2025-11-28 05:17:21",
@@ -245,26 +377,6 @@
       "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
     },
     {
-      "added_at": "2026-01-05 21:41:53",
-      "album": {
-        "name": "Cocaine Inside My Blunts (Tape B Remix)",
-        "url": "https://open.spotify.com/album/0Mfw5FWUUwxJ7Dof1OnV4L"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Cocaine Inside My Blunts (Tape B Remix)",
-      "url": "https://open.spotify.com/track/5uCOhMc7WQy7jawqJbdhh2"
-    },
-    {
       "added_at": "2025-12-12 05:00:41",
       "album": {
         "name": "Hot Mic",
@@ -283,26 +395,6 @@
       "duration_ms": 209333,
       "name": "Hot Mic",
       "url": "https://open.spotify.com/track/7uzWRghUixGV7FgjELqODa"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "Subliminals",
-        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
-      },
-      "artists": [
-        {
-          "name": "Saint Ludo",
-          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
-        },
-        {
-          "name": "Kasst 8",
-          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
-        }
-      ],
-      "duration_ms": 154100,
-      "name": "Subliminals",
-      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
     },
     {
       "added_at": "2026-01-02 17:48:16",
@@ -325,42 +417,6 @@
       "url": "https://open.spotify.com/track/1sxRyDzJYBkPNdhkGLvKij"
     },
     {
-      "added_at": "2025-12-05 05:08:59",
-      "album": {
-        "name": "GHOST WORLD",
-        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
-    },
-    {
-      "added_at": "2025-10-17 04:00:54",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/2614C9Zlno0BXCSO0KokfL"
-      },
-      "artists": [
-        {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
-    },
-    {
       "added_at": "2025-12-12 05:00:41",
       "album": {
         "name": "Pam Pam",
@@ -375,6 +431,26 @@
       "duration_ms": 182068,
       "name": "Pam Pam",
       "url": "https://open.spotify.com/track/0wKcftf5g96kqSUZE13Hr8"
+    },
+    {
+      "added_at": "2026-01-09 05:00:46",
+      "album": {
+        "name": "Act Up",
+        "url": "https://open.spotify.com/album/3lsmJ31VSzJ5tJ1qU42SaJ"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "Bass Ventura",
+          "url": "https://open.spotify.com/artist/3IrnsrWAiZZpf4yAJhpIjj"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/1w4QnSXYTNNFtnV2NWPVrX"
     },
     {
       "added_at": "2025-11-21 05:00:39",
@@ -445,20 +521,20 @@
       "url": "https://open.spotify.com/track/1mPhGJJd1uH372y2UATIJo"
     },
     {
-      "added_at": "2025-12-05 05:08:59",
+      "added_at": "2026-01-09 05:00:46",
       "album": {
-        "name": "Vaultage 004",
-        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/2We2z1nLbTSsgJP33xBu61"
       },
       "artists": [
         {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
         }
       ],
-      "duration_ms": 180009,
-      "name": "UNTOUCHABLE",
-      "url": "https://open.spotify.com/track/6xSGguEknMByMWrU160kux"
+      "duration_ms": 205655,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/1gUeiWDD0SWBFVM0mkvsLJ"
     },
     {
       "added_at": "2025-12-05 05:08:59",
@@ -509,20 +585,20 @@
       "url": "https://open.spotify.com/track/76rdS2aEgtrz5pAjPnja1A"
     },
     {
-      "added_at": "2025-10-17 04:00:54",
+      "added_at": "2025-12-05 05:08:59",
       "album": {
-        "name": "Noise To Dance To",
-        "url": "https://open.spotify.com/album/4luONx78qbcCgfud2Y3Ojz"
+        "name": "Dream Machine",
+        "url": "https://open.spotify.com/album/0021xj4uajtMYc2w7AyJRq"
       },
       "artists": [
         {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+          "name": "Jaenga",
+          "url": "https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Step 2 It",
-      "url": "https://open.spotify.com/track/6uRe0wVj0a53HoWs3KGnb7"
+      "duration_ms": 193883,
+      "name": "Bass Go Silly",
+      "url": "https://open.spotify.com/track/275UK4dZzVVgwWMzjRKw2i"
     },
     {
       "added_at": "2025-12-05 05:08:59",
@@ -803,38 +879,6 @@
       "duration_ms": 111627,
       "name": "B2B2B",
       "url": "https://open.spotify.com/track/3GxJzJeXgjR2v4Ck3qpXtO"
-    },
-    {
-      "added_at": "2025-12-05 05:08:59",
-      "album": {
-        "name": "Vaultage 004",
-        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
-      },
-      "artists": [
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "KEEP IT COOL",
-      "url": "https://open.spotify.com/track/3aJYTbibvHA4DSQ5Zk0S6v"
-    },
-    {
-      "added_at": "2025-12-05 05:08:59",
-      "album": {
-        "name": "Dream Machine",
-        "url": "https://open.spotify.com/album/0021xj4uajtMYc2w7AyJRq"
-      },
-      "artists": [
-        {
-          "name": "Jaenga",
-          "url": "https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI"
-        }
-      ],
-      "duration_ms": 193883,
-      "name": "Bass Go Silly",
-      "url": "https://open.spotify.com/track/275UK4dZzVVgwWMzjRKw2i"
     },
     {
       "added_at": "2025-11-28 21:12:26",
@@ -1181,22 +1225,6 @@
       "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
     },
     {
-      "added_at": "2025-10-24 04:08:00",
-      "album": {
-        "name": "HANDS UP",
-        "url": "https://open.spotify.com/album/0gWWB0LsdpSpHcac4BaLfh"
-      },
-      "artists": [
-        {
-          "name": "BARELY ALIVE",
-          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "HANDS UP",
-      "url": "https://open.spotify.com/track/2X6eWOiT8dKSeDqWSma45S"
-    },
-    {
       "added_at": "2025-11-14 05:00:41",
       "album": {
         "name": "RXGER CLUB!",
@@ -1237,50 +1265,6 @@
       "url": "https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H"
     },
     {
-      "added_at": "2025-11-14 05:00:41",
-      "album": {
-        "name": "TAKEOVER",
-        "url": "https://open.spotify.com/album/6o6bDiw3hroIi7naApZV0n"
-      },
-      "artists": [
-        {
-          "name": "G-REX",
-          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
-        },
-        {
-          "name": "Bebi",
-          "url": "https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 146122,
-      "name": "TAKEOVER",
-      "url": "https://open.spotify.com/track/0kPgP8ZzA4vifLskKkHFQn"
-    },
-    {
-      "added_at": "2025-11-07 05:00:51",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/0czXiwFPrdUvVecE1tzkEU"
-      },
-      "artists": [
-        {
-          "name": "Calcium",
-          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
-        },
-        {
-          "name": "Usaybflow",
-          "url": "https://open.spotify.com/artist/4lZyQiNEwbXNpy5WBG8P9i"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/6tGvaNeBmm1hQX330C9tfA"
-    },
-    {
       "added_at": "2025-09-19 04:00:42",
       "album": {
         "name": "THE DARK SiDE OF THE TRASH",
@@ -1295,22 +1279,6 @@
       "duration_ms": 104115,
       "name": "COME AS YOU ARE",
       "url": "https://open.spotify.com/track/2Vtu6kE8wlqWpZKQsg9cLW"
-    },
-    {
-      "added_at": "2025-11-07 05:00:51",
-      "album": {
-        "name": "Deep In The Underground",
-        "url": "https://open.spotify.com/album/1r70knAHAUc8AmQ7fEzUya"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Deep In The Underground",
-      "url": "https://open.spotify.com/track/0IvVCubKR3KqQ1EBX5Qx3t"
     },
     {
       "added_at": "2025-10-17 04:00:54",
@@ -1393,46 +1361,6 @@
       "url": "https://open.spotify.com/track/2LM4iwg5H429UfCe7Gu6HA"
     },
     {
-      "added_at": "2025-10-24 04:08:00",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "Stush",
-          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
-        }
-      ],
-      "duration_ms": 212671,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
-    },
-    {
-      "added_at": "2025-11-07 05:00:51",
-      "album": {
-        "name": "Bark Mode",
-        "url": "https://open.spotify.com/album/2oL1eLbwu4lvTF6PYBviJv"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "Distinct Motive",
-          "url": "https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM"
-        }
-      ],
-      "duration_ms": 212308,
-      "name": "Bark Mode",
-      "url": "https://open.spotify.com/track/276gvZTtMj6NvWyT1KPtJW"
-    },
-    {
       "added_at": "2025-09-05 04:00:28",
       "album": {
         "name": "Section",
@@ -1447,26 +1375,6 @@
       "duration_ms": 174857,
       "name": "Section",
       "url": "https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6"
-    },
-    {
-      "added_at": "2025-10-24 04:08:00",
-      "album": {
-        "name": "PONDA",
-        "url": "https://open.spotify.com/album/4Xjb1nVdgZNZ3yw0O5izD8"
-      },
-      "artists": [
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "MAAD WEST",
-          "url": "https://open.spotify.com/artist/5isGhqrVP1gZt373QsyHPT"
-        }
-      ],
-      "duration_ms": 152147,
-      "name": "PONDA",
-      "url": "https://open.spotify.com/track/2MAVzueQH0kZZm331wHwjD"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1489,26 +1397,6 @@
       "url": "https://open.spotify.com/track/0fKtiAbqCyxDdxNBTYVtUh"
     },
     {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "Friends (feat. Linney)",
-        "url": "https://open.spotify.com/album/6QkCFMcpBdQmYIbCZHHtoh"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Friends (feat. Linney)",
-      "url": "https://open.spotify.com/track/1EwVDjVhYD5ynVOYLNU65g"
-    },
-    {
       "added_at": "2025-10-17 04:00:54",
       "album": {
         "name": "Lost In The Sauce",
@@ -1529,30 +1417,6 @@
       "url": "https://open.spotify.com/track/0x5Y3R7CoTgzlYivoWWIol"
     },
     {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "Bring The House Down",
-        "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "TRXGGX",
-          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
-        }
-      ],
-      "duration_ms": 222814,
-      "name": "Bring The House Down",
-      "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
-    },
-    {
       "added_at": "2025-11-07 05:00:51",
       "album": {
         "name": "REVENGE",
@@ -1567,26 +1431,6 @@
       "duration_ms": 188689,
       "name": "REVENGE",
       "url": "https://open.spotify.com/track/2Ua5yp9xBMdnDmlHbEjHxR"
-    },
-    {
-      "added_at": "2025-10-24 04:08:00",
-      "album": {
-        "name": "Second Self",
-        "url": "https://open.spotify.com/album/5CwOMFZ4ss057biZKdHBY6"
-      },
-      "artists": [
-        {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        },
-        {
-          "name": "Nathalie Blue",
-          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/62yoC1CtvCigAoLgybU2ub"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -1627,30 +1471,6 @@
       "duration_ms": 211952,
       "name": "Strike A Match",
       "url": "https://open.spotify.com/track/3JFRdrSDG1N10S6D3Xyift"
-    },
-    {
-      "added_at": "2025-10-10 04:00:42",
-      "album": {
-        "name": "Palm Of Your Hand",
-        "url": "https://open.spotify.com/album/1gopiGew94SqUvLFFbxlio"
-      },
-      "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        },
-        {
-          "name": "Eloise Keeble",
-          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Palm Of Your Hand",
-      "url": "https://open.spotify.com/track/3mu8f4BXjYVvJNqIOeGqWp"
     },
     {
       "added_at": "2025-10-17 04:00:54",
@@ -1711,30 +1531,6 @@
       "duration_ms": 198002,
       "name": "ON JOB",
       "url": "https://open.spotify.com/track/0QgRQ5uxzGcRFcjXU0bt9L"
-    },
-    {
-      "added_at": "2025-09-19 04:00:42",
-      "album": {
-        "name": "Bonebreaker",
-        "url": "https://open.spotify.com/album/6rO5sbNtexE7Js3AZmVV7q"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Bonebreaker",
-      "url": "https://open.spotify.com/track/5FQ5Ijl6HQsJYD6QaZseFo"
     },
     {
       "added_at": "2025-09-05 04:00:28",

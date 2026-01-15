@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain](/playlists/plain/37i9dQZF1DWWzc8XPy0ntN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWzc8XPy0ntN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain](/playlists/plain/37i9dQZF1DWWzc8XPy0ntN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWzc8XPy0ntN)
 
 ### [Escena Electrónica Experimental](https://open.spotify.com/playlist/37i9dQZF1DWWzc8XPy0ntN)
 

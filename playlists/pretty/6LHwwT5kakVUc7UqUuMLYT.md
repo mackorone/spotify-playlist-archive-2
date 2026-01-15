@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6LHwwT5kakVUc7UqUuMLYT.md) - [plain](/playlists/plain/6LHwwT5kakVUc7UqUuMLYT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6LHwwT5kakVUc7UqUuMLYT)
+pretty - [cumulative](/playlists/cumulative/6LHwwT5kakVUc7UqUuMLYT.md) - [plain](/playlists/plain/6LHwwT5kakVUc7UqUuMLYT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6LHwwT5kakVUc7UqUuMLYT)
 
 ### [UK Top 50 \- 23rd May 2025](https://open.spotify.com/playlist/6LHwwT5kakVUc7UqUuMLYT)
 
 > Follow every hit song in the Top 50 UK chart, updated on Friday, every week! 23rd May 2025 \| May 23rd 2025 \| 23/05/2025 \| 05/23/2025 \- Music Chart 2024 / 2025
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,098 likes - 50 songs - 2 hr 37 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,054 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

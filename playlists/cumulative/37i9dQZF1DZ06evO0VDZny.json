@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 290201,
       "name": "(U)topia.drm",
       "url": "https://open.spotify.com/track/2FL4io3YitOqpZPOZp17By"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 260402,
       "name": "avalanche_.drft",
       "url": "https://open.spotify.com/track/3MxKZsr5goZHkfSSBS3e5g"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 162946,
       "name": "canyoufeelmy<3.tmpx",
       "url": "https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 188456,
       "name": "Darkside.verXx",
       "url": "https://open.spotify.com/track/42UmHCU9anrkIcW4jIuiSr"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 205212,
       "name": "drwn.vvv",
       "url": "https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 188288,
       "name": "in_the_dark.ech",
       "url": "https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF"
@@ -891,6 +891,28 @@
     },
     {
       "album": {
+        "name": "The Atlas Underground Fire",
+        "url": "https://open.spotify.com/album/3GVIDUbQXfn7FQcJND2Ddp"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212572,
+      "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/2ONPuwAuOVO6RbzKaiowxD"
+    },
+    {
+      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -964,7 +986,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 207982,
       "name": "losT_404.nll",
       "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
@@ -1066,7 +1088,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 309218,
       "name": "med!cine.fbk",
       "url": "https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc"
@@ -1280,7 +1302,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 166881,
       "name": "shadowm0ses.frq",
       "url": "https://open.spotify.com/track/1mdSf2B1wLuUl3XQQEtc00"
@@ -1302,7 +1324,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 265328,
       "name": "sL33pwalking.idl",
       "url": "https://open.spotify.com/track/3UfassQ27R4HgpBRwJIQkr"

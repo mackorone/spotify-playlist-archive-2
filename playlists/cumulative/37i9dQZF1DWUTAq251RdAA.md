@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUTAq251RdAA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUTAq251RdAA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUTAq251RdAA)
+[pretty](/playlists/pretty/37i9dQZF1DWUTAq251RdAA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUTAq251RdAA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUTAq251RdAA)
 
 ### [Joni Mitchell: Covered](https://open.spotify.com/playlist/37i9dQZF1DWUTAq251RdAA)
 

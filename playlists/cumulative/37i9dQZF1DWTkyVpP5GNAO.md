@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTkyVpP5GNAO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTkyVpP5GNAO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTkyVpP5GNAO)
+[pretty](/playlists/pretty/37i9dQZF1DWTkyVpP5GNAO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTkyVpP5GNAO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTkyVpP5GNAO)
 
 ### [Alabanzas y Gloria](https://open.spotify.com/playlist/37i9dQZF1DWTkyVpP5GNAO)
 
 > Dale a Dios toda la gloria y alabanza! Foto: Barak
 
-278 songs - 1 day 4 hr 17 min
+279 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Conocido](https://open.spotify.com/track/0aCOBqgxNxnz3kvWWZPJIz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Conocido \- EP](https://open.spotify.com/album/2mRRv9AYpBBQ5yHb41S1ZG) | 3:17 | 2021-07-23 | 2025-02-15 |
 | [Consumado Es](https://open.spotify.com/track/1xjvPhD1vglMDUlAAdCwcb) | [Gracia Soberana Música](https://open.spotify.com/artist/3yZLchlyOSmGC6B6bUhgVU) | [Conocer A Dios](https://open.spotify.com/album/35YwXrOj2fXzmVx6km8Fbm) | 4:14 | 2024-08-23 | 2025-06-14 |
 | [contigo todo lo encontré](https://open.spotify.com/track/29tMeu8Qc8ZdWNSWkKdH73) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [contigo todo lo encontré](https://open.spotify.com/album/7y0DzBQWcUgZsT85DT8TPI) | 3:00 | 2024-08-03 | 2024-08-24 |
+| [contigo todo lo encontré \- En Vivo](https://open.spotify.com/track/6vkFVzjjVdNMQdSa35iUbx) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [AL100X](https://open.spotify.com/album/1PNSV5D0NlVgPyEqMNawzv) | 3:36 | 2026-01-10 |  |
 | [Cosas que quiero agradecer](https://open.spotify.com/track/0tpDR9jC9NJP3q0H9eZH6i) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ), [Genock Gabriel](https://open.spotify.com/artist/5g25JYxFKsH3nKaycuSodP) | [Cosas que quiero agradecer](https://open.spotify.com/album/39h7P2wqW6j2A9dIWRDdNV) | 4:57 | 2025-12-12 |  |
 | [Creere](https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 5:02 | 2024-06-22 |  |
 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 | 2021-07-23 | 2025-02-15 |
@@ -264,7 +265,7 @@
 | [Tu Presencia](https://open.spotify.com/track/3EfCDNfMcfNfIYLIJTAdjC) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Esencia](https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP) | 6:02 | 2024-08-23 |  |
 | [Tu Sangre](https://open.spotify.com/track/2GkaiwZ9s60zvytzoWh0pb) | [Evangelina Crubinca](https://open.spotify.com/artist/7aquXEXSrOvSZyWkOln2hi) | [Tu Sangre](https://open.spotify.com/album/5C4qT7owNUScLPH9PusMXN) | 10:30 | 2025-06-13 | 2025-10-25 |
 | [Tu Sangre](https://open.spotify.com/track/2L8Us5UApjGOm5jutj6gcR) | [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Tu Sangre](https://open.spotify.com/album/4XQucKprACMjUIZzmaOxkr) | 10:59 | 2024-08-03 | 2025-03-01 |
-| [tu versión](https://open.spotify.com/track/7ycbXuqeHFzry9nEzDFW1X) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [OTRAS ESFERAS](https://open.spotify.com/album/7vSWie9r3i3fVSbfNdqMWY) | 2:21 | 2024-08-23 |  |
+| [tu versión](https://open.spotify.com/track/7ycbXuqeHFzry9nEzDFW1X) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [OTRAS ESFERAS](https://open.spotify.com/album/7vSWie9r3i3fVSbfNdqMWY) | 2:21 | 2024-08-23 | 2026-01-15 |
 | [Tu Voz](https://open.spotify.com/track/6q0IiEQ3cgHMxV9ax8IoQN) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Tu Voz](https://open.spotify.com/album/32mWZHcuwjmdByKeRvJQHC) | 4:13 | 2025-07-25 | 2025-09-27 |
 | [Tumbas A Jardines \(feat\. Elevation Worship\)](https://open.spotify.com/track/0RHSDsa4EkiNBC0UJtGn7l) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Mil Generaciones](https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA) | 4:54 | 2021-07-23 | 2024-06-23 |
 | [Tú](https://open.spotify.com/track/27hItAnfm0HFRJ4kgO5Ylm) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Tú](https://open.spotify.com/album/63o2YW3cNjCsWGZf6TKy26) | 4:13 | 2021-07-23 | 2025-07-12 |

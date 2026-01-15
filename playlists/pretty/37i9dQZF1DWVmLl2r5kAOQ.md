@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmLl2r5kAOQ.md) - [plain](/playlists/plain/37i9dQZF1DWVmLl2r5kAOQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVmLl2r5kAOQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmLl2r5kAOQ.md) - [plain](/playlists/plain/37i9dQZF1DWVmLl2r5kAOQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVmLl2r5kAOQ)
 
 ### [Kids & Family Favourites UK](https://open.spotify.com/playlist/37i9dQZF1DWVmLl2r5kAOQ)
 
 > Songs from the UK's best kids musicians and characters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,305 likes - 90 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,363 likes - 90 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

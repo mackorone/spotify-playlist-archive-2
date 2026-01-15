@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3sCT1ItXgNd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3sCT1ItXgNd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3sCT1ItXgNd)
+[pretty](/playlists/pretty/37i9dQZF1DX3sCT1ItXgNd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3sCT1ItXgNd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3sCT1ItXgNd)
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
 > Lo mejor del pop en español\. Foto: Ozuna, Beéle
 
-852 songs - 1 day 18 hr 48 min
+853 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [la victoria](https://open.spotify.com/track/2nVZyNOFeTqPKHDk5NEAUC) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [la victoria](https://open.spotify.com/album/1f26pxJqxIsVABKGkg00yO) | 3:16 | 2025-09-29 | 2025-10-07 |
 | [La Vida Entera](https://open.spotify.com/track/1zgb3QCX8jo4IGRg56tjvj) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [La Vida Entera](https://open.spotify.com/album/0w3NZl1UA3Kr8DzTfa1E2R) | 2:57 | 2024-04-12 | 2024-08-20 |
 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 | 2023-03-13 | 2023-06-02 |
+| [LA VILLA](https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 3:12 | 2026-01-13 |  |
 | [La Vuelta al Mundo](https://open.spotify.com/track/0KnQMnM6CfsH5A2V7g5FtK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [La Vuelta al Mundo](https://open.spotify.com/album/4SaJoVn97YF5AmHeyROcLg) | 2:57 | 2024-03-18 | 2024-04-02 |
 | [La Última](https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [La Última](https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU) | 3:23 | 2024-01-11 | 2024-02-27 |
 | [La última granada](https://open.spotify.com/track/4wCFO12O6g2yY2xiC3EBA8) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [La última granada](https://open.spotify.com/album/4z0I4WdWd8NWEKfHj8WkIH) | 2:39 | 2024-03-18 | 2024-04-09 |
@@ -547,7 +548,7 @@
 | [No Quiero A Nadie](https://open.spotify.com/track/3FPqolx3Gbz8bynQyKpnrJ) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [No Quiero A Nadie](https://open.spotify.com/album/6FjYYd8o10nGLadNi6tI6V) | 2:58 | 2023-03-13 | 2023-03-30 |
 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 | 2023-06-20 | 2023-07-05 |
 | [No Se Enamora](https://open.spotify.com/track/7BWVWXN0nU2S3C9dV4xJdM) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Anthony & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [No Se Enamora](https://open.spotify.com/album/6WnJA1xZmT1FQEhoedgbeL) | 2:58 | 2025-12-01 |  |
-| [No se me da bien odiarte](https://open.spotify.com/track/3AwXgZ3q3Y9H54v6DIp13c) | [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD), [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [No se me da bien odiarte](https://open.spotify.com/album/7KWfaAZT7Zc97cnXe3agpu) | 3:19 | 2025-12-19 |  |
+| [No se me da bien odiarte](https://open.spotify.com/track/3AwXgZ3q3Y9H54v6DIp13c) | [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD), [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [No se me da bien odiarte](https://open.spotify.com/album/7KWfaAZT7Zc97cnXe3agpu) | 3:19 | 2025-12-19 | 2026-01-15 |
 | [No sé si tú](https://open.spotify.com/track/7MsNwNgk8vflVpUITIJRpd) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [No sé si tú](https://open.spotify.com/album/7qSg6WHa17WN4TMO9B74Tg) | 2:56 | 2024-03-04 | 2024-03-15 |
 | [No Te Conozco](https://open.spotify.com/track/7uWpQKO15DghiCLafPYRdU) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [No Te Conozco](https://open.spotify.com/album/6RVTyVzPCbZv17ByqITGr7) | 3:00 | 2024-01-25 | 2024-02-06 |
 | [no te deseo lo peor :\)](https://open.spotify.com/track/5fVa9nTKfq2Hy15jnOrer0) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y), [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [no te deseo lo peor :\)](https://open.spotify.com/album/3z0TbCpug2bRGgWmODsWi5) | 3:09 | 2024-09-17 | 2024-11-19 |

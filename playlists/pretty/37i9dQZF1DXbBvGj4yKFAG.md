@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain](/playlists/plain/37i9dQZF1DXbBvGj4yKFAG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbBvGj4yKFAG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain](/playlists/plain/37i9dQZF1DXbBvGj4yKFAG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbBvGj4yKFAG)
 
 ### [side effects](https://open.spotify.com/playlist/37i9dQZF1DXbBvGj4yKFAG)
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,322 likes - 135 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,401 likes - 135 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

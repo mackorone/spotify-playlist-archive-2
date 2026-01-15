@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXb87XV8ITnbK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb87XV8ITnbK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb87XV8ITnbK)
+[pretty](/playlists/pretty/37i9dQZF1DXb87XV8ITnbK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb87XV8ITnbK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb87XV8ITnbK)
 
 ### [반짝이는 워터멜론\(Twinkling Watermelon\)](https://open.spotify.com/playlist/37i9dQZF1DXb87XV8ITnbK)
 

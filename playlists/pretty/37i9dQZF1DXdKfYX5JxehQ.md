@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKfYX5JxehQ.md) - [plain](/playlists/plain/37i9dQZF1DXdKfYX5JxehQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdKfYX5JxehQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKfYX5JxehQ.md) - [plain](/playlists/plain/37i9dQZF1DXdKfYX5JxehQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdKfYX5JxehQ)
 
 ### [Amor com o suco?](https://open.spotify.com/playlist/37i9dQZF1DXdKfYX5JxehQ)
 
 > Se você cheirou a suco em 2023, essa playlist é pros seus treinos, não é mesmo?
 
-[Spotify](https://open.spotify.com/user/spotify) - 106 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

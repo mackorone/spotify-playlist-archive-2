@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW5unMLFzqYY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW5unMLFzqYY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW5unMLFzqYY)
+[pretty](/playlists/pretty/37i9dQZF1DWW5unMLFzqYY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW5unMLFzqYY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW5unMLFzqYY)
 
 ### [NCT WISH \[ASIA TOUR LOG in\]](https://open.spotify.com/playlist/37i9dQZF1DWW5unMLFzqYY)
 

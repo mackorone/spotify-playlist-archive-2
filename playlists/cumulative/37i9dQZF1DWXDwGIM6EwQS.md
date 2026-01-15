@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXDwGIM6EwQS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXDwGIM6EwQS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXDwGIM6EwQS)
+[pretty](/playlists/pretty/37i9dQZF1DWXDwGIM6EwQS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXDwGIM6EwQS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXDwGIM6EwQS)
 
 ### [llorando en el club 🥲](https://open.spotify.com/playlist/37i9dQZF1DWXDwGIM6EwQS)
 

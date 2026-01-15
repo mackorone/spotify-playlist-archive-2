@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain](/playlists/plain/37i9dQZF1DX59I2hjkhLtN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX59I2hjkhLtN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain](/playlists/plain/37i9dQZF1DX59I2hjkhLtN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX59I2hjkhLtN)
 
 ### [Ganda Cena](https://open.spotify.com/playlist/37i9dQZF1DX59I2hjkhLtN)
 

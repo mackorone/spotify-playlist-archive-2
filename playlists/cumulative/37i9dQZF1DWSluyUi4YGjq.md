@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSluyUi4YGjq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSluyUi4YGjq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSluyUi4YGjq)
+[pretty](/playlists/pretty/37i9dQZF1DWSluyUi4YGjq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSluyUi4YGjq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSluyUi4YGjq)
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 

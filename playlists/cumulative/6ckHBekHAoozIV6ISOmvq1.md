@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6ckHBekHAoozIV6ISOmvq1.md) - cumulative - [plain](/playlists/plain/6ckHBekHAoozIV6ISOmvq1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6ckHBekHAoozIV6ISOmvq1)
+[pretty](/playlists/pretty/6ckHBekHAoozIV6ISOmvq1.md) - cumulative - [plain](/playlists/plain/6ckHBekHAoozIV6ISOmvq1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6ckHBekHAoozIV6ISOmvq1)
 
 ### [The Sound of Medieval](https://open.spotify.com/playlist/6ckHBekHAoozIV6ISOmvq1)
 

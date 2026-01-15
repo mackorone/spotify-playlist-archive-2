@@ -1,12 +1,12 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 22438,
+  "num_followers": 22396,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAnNjg8rRWlDsmTenZL5/IVlCswI1kv",
+  "snapshot_id": "AAAnPrq6xWQ9PVzyNoIpY4PXSBVpIhfA",
   "tracks": [
     {
       "added_at": "2025-12-08 23:43:25",
@@ -23,6 +23,102 @@
       "duration_ms": 152210,
       "name": "Why",
       "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
+    },
+    {
+      "added_at": "2026-01-12 18:19:59",
+      "album": {
+        "name": "Who Coppin'",
+        "url": "https://open.spotify.com/album/307LIDS6NyJ4gvU3U8hACU"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Who Coppin'",
+      "url": "https://open.spotify.com/track/4hcMQJ8MInQQjm7r1sFBuv"
+    },
+    {
+      "added_at": "2026-01-12 18:20:28",
+      "album": {
+        "name": "ALL FLATS",
+        "url": "https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo"
+      },
+      "artists": [
+        {
+          "name": "JaYy Wick",
+          "url": "https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u"
+        }
+      ],
+      "duration_ms": 116800,
+      "name": "ALL FLATS",
+      "url": "https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx"
+    },
+    {
+      "added_at": "2026-01-12 18:20:38",
+      "album": {
+        "name": "You Decide",
+        "url": "https://open.spotify.com/album/6tvtGdHzjNccJLZIZ7hfPv"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 88695,
+      "name": "Say You Are",
+      "url": "https://open.spotify.com/track/7zGLbCfnWNOyVcGk1bW8yT"
+    },
+    {
+      "added_at": "2026-01-12 18:20:40",
+      "album": {
+        "name": "You Decide",
+        "url": "https://open.spotify.com/album/6tvtGdHzjNccJLZIZ7hfPv"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 91304,
+      "name": "Once Again You Lost Me",
+      "url": "https://open.spotify.com/track/5BBmzuN8XxvAU0hU476NWP"
+    },
+    {
+      "added_at": "2026-01-12 18:20:47",
+      "album": {
+        "name": "Skincare",
+        "url": "https://open.spotify.com/album/6JzZRooK1EkP6UevfbKT77"
+      },
+      "artists": [
+        {
+          "name": "Kenny Muney",
+          "url": "https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX"
+        }
+      ],
+      "duration_ms": 128698,
+      "name": "Skincare",
+      "url": "https://open.spotify.com/track/4wkeIOGYTuQDvkiz2uvQd8"
+    },
+    {
+      "added_at": "2026-01-12 18:21:09",
+      "album": {
+        "name": "Quick Fix",
+        "url": "https://open.spotify.com/album/4noWvej3LBWk31fOL5YlLw"
+      },
+      "artists": [
+        {
+          "name": "Very Nice Person",
+          "url": "https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P"
+        }
+      ],
+      "duration_ms": 204843,
+      "name": "Quick Fix",
+      "url": "https://open.spotify.com/track/6jM4tjk5tvyPTThAi4V1j3"
     },
     {
       "added_at": "2025-12-08 23:32:38",

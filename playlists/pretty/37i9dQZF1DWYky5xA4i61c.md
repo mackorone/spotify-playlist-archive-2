@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain](/playlists/plain/37i9dQZF1DWYky5xA4i61c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYky5xA4i61c)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain](/playlists/plain/37i9dQZF1DWYky5xA4i61c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYky5xA4i61c)
 
 ### [WONDERLIVET 2025](https://open.spotify.com/playlist/37i9dQZF1DWYky5xA4i61c)
 
 > Enjoy songs from artists appearing on WONDERLIVET 2025! \(WONDERLIVET 2025의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,845 likes - 84 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,901 likes - 84 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

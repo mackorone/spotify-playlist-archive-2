@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3xefHaU0hYd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3xefHaU0hYd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3xefHaU0hYd)
+[pretty](/playlists/pretty/37i9dQZF1DX3xefHaU0hYd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3xefHaU0hYd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3xefHaU0hYd)
 
 ### [선재 업고 튀어 \(Lovely Runner\)](https://open.spotify.com/playlist/37i9dQZF1DX3xefHaU0hYd)
 

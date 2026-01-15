@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbx5jQWM8uww.md) - [plain](/playlists/plain/37i9dQZF1DXbx5jQWM8uww) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbx5jQWM8uww)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbx5jQWM8uww.md) - [plain](/playlists/plain/37i9dQZF1DXbx5jQWM8uww) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbx5jQWM8uww)
 
 ### [The Smashing Machine Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbx5jQWM8uww)
 
 > Step into the ring with the Official Playlist for The Smashing Machine\. Listen to the music from the film, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,403 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,538 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

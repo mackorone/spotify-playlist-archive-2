@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3XFWzluBEOt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3XFWzluBEOt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3XFWzluBEOt)
+[pretty](/playlists/pretty/37i9dQZF1DX3XFWzluBEOt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3XFWzluBEOt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3XFWzluBEOt)
 
 ### [Soda Stereo: Bajo esta piel](https://open.spotify.com/playlist/37i9dQZF1DX3XFWzluBEOt)
 

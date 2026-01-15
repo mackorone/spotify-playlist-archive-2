@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
@@ -4264,6 +4264,24 @@
       "duration_ms": 237000,
       "name": "The Gardener",
       "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
+    },
+    {
+      "album": {
+        "name": "The Golden Record",
+        "url": "https://open.spotify.com/album/2gTrfad2EWCwWSoYyODZW4"
+      },
+      "artists": [
+        {
+          "name": "Little Scream",
+          "url": "https://open.spotify.com/artist/2U7njwghtRR6ofLobG32Lk"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302626,
+      "name": "The Heron and the Fox",
+      "url": "https://open.spotify.com/track/0bd1QaItPmy8qItYjCWKXV"
     },
     {
       "album": {

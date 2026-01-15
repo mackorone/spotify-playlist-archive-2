@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9T8P88bzbxH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
+[pretty](/playlists/pretty/37i9dQZF1DX9T8P88bzbxH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
 ### [On Tour Singapore: 3P](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 

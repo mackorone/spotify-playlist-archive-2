@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbjGYBfEmjR5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbjGYBfEmjR5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbjGYBfEmjR5)
+[pretty](/playlists/pretty/37i9dQZF1DXbjGYBfEmjR5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbjGYBfEmjR5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbjGYBfEmjR5)
 
 ### [Future Funk](https://open.spotify.com/playlist/37i9dQZF1DXbjGYBfEmjR5)
 
@@ -122,7 +122,7 @@
 | [Emotional Prism](https://open.spotify.com/track/0c10NEqLk2pqnL69fYplxm) | [AnimeHub](https://open.spotify.com/artist/5pfoRuamMEPVINkcScn4pM) | [Emotional Prism](https://open.spotify.com/album/7wN5HClHj1T7NsIzM0JIlW) | 4:20 | 2022-03-04 | 2022-03-12 |
 | [Emotions](https://open.spotify.com/track/0eKuE3M81IMaku6S9NYMBd) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Innocent](https://open.spotify.com/album/1UMVmct4G8TY26V4TOrNNM) | 3:36 | 2022-04-12 | 2022-04-14 |
 | [Emotions](https://open.spotify.com/track/1vxCTGgZMs4LFCAlswRiS2) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Best Before 1998](https://open.spotify.com/album/4MeikwvA8AgiIEPqIaGBxC) | 2:58 | 2021-12-08 |  |
-| [Enigma](https://open.spotify.com/track/4vPvragqcYmYWwMELVmi17) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Enigma](https://open.spotify.com/album/71BDDT4vAMTa9gPZh96kbJ) | 3:17 | 2022-06-08 | 2025-09-18 |
+| [Enigma](https://open.spotify.com/track/4vPvragqcYmYWwMELVmi17) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Enigma](https://open.spotify.com/album/71BDDT4vAMTa9gPZh96kbJ) | 3:17 | 2022-06-08 |  |
 | [Eternal Groove](https://open.spotify.com/track/43ENOabUecCUlWWq7PpOcF) | [Android52](https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG) | [The B\-Sides](https://open.spotify.com/album/7gxl2zKb0fgUBYzvoEla8Y) | 2:49 | 2022-03-04 | 2022-03-12 |
 | [Everything](https://open.spotify.com/track/33dJCYKJ7t1YhsO8uCrRkO) | [Key One](https://open.spotify.com/artist/2cq2NiZBhEkb4xeKqulQro), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [My Funky Girl](https://open.spotify.com/album/7FMIvvMXLjcTpW8XzAoy9f) | 2:03 | 2022-07-15 | 2022-08-13 |
 | [Everything I Touch](https://open.spotify.com/track/2VUdkcsNTMGpxy5J5BUy0X) | [CyanBlue](https://open.spotify.com/artist/0XRb1v0ZGxUJJwXWIrTQLE) | [Everything I Touch](https://open.spotify.com/album/2OFt2qhPxrCTR3wiXn1sxm) | 3:16 | 2022-07-15 | 2022-08-13 |
@@ -163,7 +163,7 @@
 | [Funky Zeit](https://open.spotify.com/track/1Dq5LzBRvbeDNqwZzBVKvQ) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Nautical Nonsense](https://open.spotify.com/album/3YbRlq4I7RN3UNTO8hNwAm) | 2:30 | 2022-09-16 | 2022-11-23 |
 | [Future Frequencies](https://open.spotify.com/track/6mARIPCcLrfS3LNstwzZlZ) | [Ikyoto](https://open.spotify.com/artist/5gtDrrVDdpH9S5xLuAOISl) | [Future Frequencies](https://open.spotify.com/album/3sbcdq6cG7gRiLocZ7f0M1) | 3:47 | 2022-06-08 | 2022-07-23 |
 | [Future Funk 2021](https://open.spotify.com/track/0DmEzg3O3uEWSPnCflPbD0) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2021](https://open.spotify.com/album/6Uput9dYdP4sYw9akBCw0y) | 3:05 | 2021-12-08 | 2025-10-07 |
-| [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 | 2022-01-25 |  |
+| [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 | 2022-01-25 | 2026-01-15 |
 | [FUTURE//PAST](https://open.spotify.com/track/2LghpngOHU5qpDfbHJ0zfG) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [FUTURE//PAST](https://open.spotify.com/album/6loRQHOK1ORoCZqPW8sMN6) | 4:20 | 2023-07-18 |  |
 | [Galetus](https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Galetus](https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR) | 3:27 | 2021-12-08 |  |
 | [Galáctica Airlines](https://open.spotify.com/track/2o7IjLDnjj6g837R0dKOQJ) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Galáctica Airlines](https://open.spotify.com/album/5Nxk1k8coYj3WyOdpcfH99) | 3:58 | 2021-12-08 | 2022-07-29 |

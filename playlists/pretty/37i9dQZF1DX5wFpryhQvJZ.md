@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wFpryhQvJZ.md) - [plain](/playlists/plain/37i9dQZF1DX5wFpryhQvJZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5wFpryhQvJZ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wFpryhQvJZ.md) - [plain](/playlists/plain/37i9dQZF1DX5wFpryhQvJZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5wFpryhQvJZ)
 
 ### [Mixtape \#22 Oklou "Birth" ](https://open.spotify.com/playlist/37i9dQZF1DX5wFpryhQvJZ)
 
 > Icon and mother Oklou shares her birth playlist\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,733 likes - 26 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,917 likes - 26 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

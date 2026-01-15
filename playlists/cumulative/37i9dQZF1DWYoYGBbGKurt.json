@@ -2821,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "Banana Muffin",
+        "url": "https://open.spotify.com/album/5udXLXdM2wXM2BDraw9JhI"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Banana Muffin",
+      "url": "https://open.spotify.com/track/0dnRn5FNiU0HiMrrNamNbK"
+    },
+    {
+      "album": {
         "name": "D-Bounce",
         "url": "https://open.spotify.com/album/1fYMSkZu4OweUq1yyj8038"
       },
@@ -4326,6 +4344,24 @@
       "duration_ms": 127706,
       "name": "Bravado",
       "url": "https://open.spotify.com/track/7sBADAbyjri5eDaU8qtCOK"
+    },
+    {
+      "album": {
+        "name": "breakfast",
+        "url": "https://open.spotify.com/album/40qGsYdyZz6YQ0CdLrxoOU"
+      },
+      "artists": [
+        {
+          "name": "rollinsmpls",
+          "url": "https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148479,
+      "name": "breakfast",
+      "url": "https://open.spotify.com/track/2KSB2toeRGq2ArXCyv0vxq"
     },
     {
       "album": {
@@ -9654,7 +9690,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 156587,
       "name": "Drift Into Dream",
       "url": "https://open.spotify.com/track/1bDZbT1BvX6T2P2m5zHyv1"
@@ -12224,7 +12260,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155769,
       "name": "Five",
       "url": "https://open.spotify.com/track/512iuZfygeaybuoakIeXiN"
@@ -13309,6 +13345,24 @@
     },
     {
       "album": {
+        "name": "frosty mountains",
+        "url": "https://open.spotify.com/album/5CHnlTLfS3Zy6jYBsPJgvI"
+      },
+      "artists": [
+        {
+          "name": "Lil Leaf",
+          "url": "https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102500,
+      "name": "frosty mountains",
+      "url": "https://open.spotify.com/track/6poWEiJXF0KTXVuoJgqCgI"
+    },
+    {
+      "album": {
         "name": "Frosty Times",
         "url": "https://open.spotify.com/album/6MFY9ZYUZJZMr7Cv0Eijyl"
       },
@@ -14356,7 +14410,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 166578,
       "name": "growing still",
       "url": "https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT"
@@ -16508,7 +16562,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 133461,
       "name": "if only",
       "url": "https://open.spotify.com/track/5UBYETCIabaUKZcQ8ihx9N"
@@ -22831,6 +22885,24 @@
     },
     {
       "album": {
+        "name": "Midway Through",
+        "url": "https://open.spotify.com/album/6pBzSxNAOZlVtNrGcj4jzf"
+      },
+      "artists": [
+        {
+          "name": "Plaxon",
+          "url": "https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140947,
+      "name": "Midway Through",
+      "url": "https://open.spotify.com/track/7fWT76LjGYJ492nKGTvSTo"
+    },
+    {
+      "album": {
         "name": "Miffing",
         "url": "https://open.spotify.com/album/2HW7ivX1zL2ymrEdQkecm8"
       },
@@ -23365,6 +23437,24 @@
     },
     {
       "album": {
+        "name": "moondaze",
+        "url": "https://open.spotify.com/album/4SuaxHx3zhrqIl73r0gX1d"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "moondaze",
+      "url": "https://open.spotify.com/track/6kQnE4IYOcVtqQg1G86bfi"
+    },
+    {
+      "album": {
         "name": "Moonglow",
         "url": "https://open.spotify.com/album/71WcpzKpM2YSaHj7s8aLhP"
       },
@@ -23460,6 +23550,24 @@
       "duration_ms": 162104,
       "name": "moonlit",
       "url": "https://open.spotify.com/track/5DjqZGLbV7tabVEhsL8pAi"
+    },
+    {
+      "album": {
+        "name": "Moonlit Amble",
+        "url": "https://open.spotify.com/album/5nE535uLbfyapfrSEqDIst"
+      },
+      "artists": [
+        {
+          "name": "Osian Lewis",
+          "url": "https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135640,
+      "name": "Moonlit Amble",
+      "url": "https://open.spotify.com/track/3outpCyCXNCdvLd77QrOZr"
     },
     {
       "album": {
@@ -26152,7 +26260,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160916,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/1KEKJjPrc9hyml3x3wxrD4"
@@ -32005,6 +32113,24 @@
     },
     {
       "album": {
+        "name": "spiritual",
+        "url": "https://open.spotify.com/album/3q0ga6IZRoa0721y3Ryihl"
+      },
+      "artists": [
+        {
+          "name": "Kumo Drift",
+          "url": "https://open.spotify.com/artist/74Z7JvNFGm2Le3LUE1dYL1"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "spiritual",
+      "url": "https://open.spotify.com/track/210Aq7zUtz5hPKcrugMs7M"
+    },
+    {
+      "album": {
         "name": "Spot On",
         "url": "https://open.spotify.com/album/1FCPJmUrToX6ewX1plhk4P"
       },
@@ -33256,7 +33382,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 128780,
       "name": "sunny days",
       "url": "https://open.spotify.com/track/5hqELfATuiNqZchjqMRxUO"
@@ -34789,6 +34915,24 @@
     },
     {
       "album": {
+        "name": "The city felt softer today",
+        "url": "https://open.spotify.com/album/3Y3x78X4Hu9juzcDhUS8Yw"
+      },
+      "artists": [
+        {
+          "name": "minoumi",
+          "url": "https://open.spotify.com/artist/4ZgI4V653zyvBVnIv20F0K"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125106,
+      "name": "The city felt softer today",
+      "url": "https://open.spotify.com/track/6dWq7H8cVKdH8wSH0Y0f9s"
+    },
+    {
+      "album": {
         "name": "the clearing",
         "url": "https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ"
       },
@@ -34800,7 +34944,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148583,
       "name": "the clearing",
       "url": "https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN"
@@ -37284,7 +37428,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 78947,
       "name": "Velvet Cosmos",
       "url": "https://open.spotify.com/track/5ZoeTjSgPYBch4iP2JSyIK"

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2WP80JpJnY.md) - [plain](/playlists/plain/37i9dQZF1DWY2WP80JpJnY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY2WP80JpJnY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2WP80JpJnY.md) - [plain](/playlists/plain/37i9dQZF1DWY2WP80JpJnY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY2WP80JpJnY)
 
 ### [This Is Epik High](https://open.spotify.com/playlist/37i9dQZF1DWY2WP80JpJnY)
 

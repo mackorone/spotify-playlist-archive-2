@@ -1,13 +1,29 @@
 {
   "description": "Koleksi lagu cinta untuk tambatan hati.",
-  "num_followers": 219662,
+  "num_followers": 219782,
   "original_name": "Bicara Cinta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFkri+N5/ZIUtlMMACdH613Wgypp",
+  "snapshot_id": "AAAAAPmviXaD4KdcjmkHEARWq3eHZuWG",
   "tracks": [
+    {
+      "added_at": "2026-01-12 03:47:37",
+      "album": {
+        "name": "EUNOIA",
+        "url": "https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "duration_ms": 275935,
+      "name": "Masa ini, Nanti, dan Masa Indah Lainnya",
+      "url": "https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v"
+    },
     {
       "added_at": "2025-09-26 02:54:09",
       "album": {
@@ -1223,22 +1239,6 @@
       "duration_ms": 232706,
       "name": "Hari Bersamanya",
       "url": "https://open.spotify.com/track/1nfOP7xNHeFSPOlziXswJc"
-    },
-    {
-      "added_at": "2025-07-14 08:00:49",
-      "album": {
-        "name": "COBA CINTAKU",
-        "url": "https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp"
-      },
-      "artists": [
-        {
-          "name": "UN1TY",
-          "url": "https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK"
-        }
-      ],
-      "duration_ms": 206183,
-      "name": "COBA CINTAKU",
-      "url": "https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx"
     },
     {
       "added_at": "2025-07-14 08:00:49",

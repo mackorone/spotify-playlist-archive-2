@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain](/playlists/plain/37i9dQZF1DX1T8YkHjAnHP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1T8YkHjAnHP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain](/playlists/plain/37i9dQZF1DX1T8YkHjAnHP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1T8YkHjAnHP)
 
 ### [Bedouin's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX1T8YkHjAnHP)
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,152 likes - 71 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,249 likes - 71 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

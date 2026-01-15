@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain](/playlists/plain/37i9dQZF1DX0JXQl1bmFgT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0JXQl1bmFgT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain](/playlists/plain/37i9dQZF1DX0JXQl1bmFgT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0JXQl1bmFgT)
 
 ### [365 Days Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0JXQl1bmFgT)
 
 > The official playlist for 365 Days trilogy\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,417 likes - 77 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,889 likes - 77 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBNkoD4HmYd.md) - [plain](/playlists/plain/37i9dQZF1DWTBNkoD4HmYd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTBNkoD4HmYd)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBNkoD4HmYd.md) - [plain](/playlists/plain/37i9dQZF1DWTBNkoD4HmYd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTBNkoD4HmYd)
 
 ### [This Is Vivaldi](https://open.spotify.com/playlist/37i9dQZF1DWTBNkoD4HmYd)
 
 > A selection of highlights from Vivaldi's celebrated concertos and choral works, proving there's way more to this red\-headed baroque legend than just The Four Seasons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,563 likes - 66 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,317 likes - 66 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

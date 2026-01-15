@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 145179,
+  "num_followers": 145440,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Capitol Kids! Hits",
-        "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
-      },
-      "artists": [
-        {
-          "name": "Capitol Kids!",
-          "url": "https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt"
-        }
-      ],
-      "duration_ms": 254986,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Shine!",
         "url": "https://open.spotify.com/album/7s4Vo4wBqLcqUOyaZaVXhd"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 144346,
       "name": "Your Love For Me",
       "url": "https://open.spotify.com/track/5PoYtTbrwraEQBfgsPIIuS"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Capitol Kids! Hits",
+        "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
+      },
+      "artists": [
+        {
+          "name": "Capitol Kids!",
+          "url": "https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -451,26 +451,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Lydia, Seller of Purple",
-        "url": "https://open.spotify.com/album/2cnBBglQlgWA7EBsqzbs7E"
-      },
-      "artists": [
-        {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
-        },
-        {
-          "name": "Becca Jordan",
-          "url": "https://open.spotify.com/artist/2KWuvQrbl3OtGuvGx0d1b6"
-        }
-      ],
-      "duration_ms": 117518,
-      "name": "Lydia, Seller of Purple",
-      "url": "https://open.spotify.com/track/4xYoZPp1rEUsf21QZZRrn0"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Living Color",
         "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
       },
@@ -483,26 +463,6 @@
       "duration_ms": 238624,
       "name": "See A Victory",
       "url": "https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Worship in The Word (Live)",
-        "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        },
-        {
-          "name": "Kingdom Kids",
-          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
-        }
-      ],
-      "duration_ms": 273023,
-      "name": "Oh We Love You (John 3:16) - Live",
-      "url": "https://open.spotify.com/track/5Qu9EXAsihlQvm0biIZT3d"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -527,6 +487,46 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
+        "name": "Worship in The Word (Live)",
+        "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        }
+      ],
+      "duration_ms": 273023,
+      "name": "Oh We Love You (John 3:16) - Live",
+      "url": "https://open.spotify.com/track/5Qu9EXAsihlQvm0biIZT3d"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Lydia, Seller of Purple",
+        "url": "https://open.spotify.com/album/2cnBBglQlgWA7EBsqzbs7E"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        },
+        {
+          "name": "Becca Jordan",
+          "url": "https://open.spotify.com/artist/2KWuvQrbl3OtGuvGx0d1b6"
+        }
+      ],
+      "duration_ms": 117518,
+      "name": "Lydia, Seller of Purple",
+      "url": "https://open.spotify.com/track/4xYoZPp1rEUsf21QZZRrn0"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
         "name": "This Little Light of Mine",
         "url": "https://open.spotify.com/album/3Eaa14k1FtRd3GpQBoB0Uw"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 166874,
       "name": "This Little Light of Mine",
       "url": "https://open.spotify.com/track/0tBb8VIT8MWo9mGHFOt1Ed"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Choosing Happy",
-        "url": "https://open.spotify.com/album/69VGKnNFJLXm7UGto540Zf"
-      },
-      "artists": [
-        {
-          "name": "Yancy",
-          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Choosing Happy - Rock Party Mix",
-      "url": "https://open.spotify.com/track/4tNxEKM0IEirFNnxPQ50oA"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -583,6 +567,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
+        "name": "Choosing Happy",
+        "url": "https://open.spotify.com/album/69VGKnNFJLXm7UGto540Zf"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Choosing Happy - Rock Party Mix",
+      "url": "https://open.spotify.com/track/4tNxEKM0IEirFNnxPQ50oA"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
         "name": "Your Ways (Isaiah 55) [Live]",
         "url": "https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q"
       },
@@ -603,18 +603,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Kids Worship",
-        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
+        "name": "Worship in the Word, Vol. 3 (Live)",
+        "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
       },
       "artists": [
         {
-          "name": "Kids Worship Performers",
-          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 246320,
-      "name": "I Could Sing Of Your Love Forever",
-      "url": "https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq"
+      "duration_ms": 290281,
+      "name": "Your Name (Psalm 40) - Live",
+      "url": "https://open.spotify.com/track/7Dmap2QHdFFuoweoQxNrNm"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -635,22 +639,18 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Worship in the Word, Vol. 3 (Live)",
-        "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
+        "name": "Kids Worship",
+        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
       },
       "artists": [
         {
-          "name": "Kingdom Kids",
-          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Kids Worship Performers",
+          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
         }
       ],
-      "duration_ms": 290281,
-      "name": "Your Name (Psalm 40) - Live",
-      "url": "https://open.spotify.com/track/7Dmap2QHdFFuoweoQxNrNm"
+      "duration_ms": 246320,
+      "name": "I Could Sing Of Your Love Forever",
+      "url": "https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Romans 3:23-24 (English Standard Version)",
-        "url": "https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F"
-      },
-      "artists": [
-        {
-          "name": "The Corner Room",
-          "url": "https://open.spotify.com/artist/2ajMEZ6eWYBO1ijf0X3Vgg"
-        }
-      ],
-      "duration_ms": 160618,
-      "name": "Romans 3:23-24 (English Standard Version)",
-      "url": "https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Worship For Your Family (Yellow)",
         "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Prayed for This Day",
-        "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
+        "name": "Romans 3:23-24 (English Standard Version)",
+        "url": "https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F"
       },
       "artists": [
         {
-          "name": "Chrissy Metz",
-          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
+          "name": "The Corner Room",
+          "url": "https://open.spotify.com/artist/2ajMEZ6eWYBO1ijf0X3Vgg"
         }
       ],
-      "duration_ms": 198093,
-      "name": "Prayed for This Day",
-      "url": "https://open.spotify.com/track/2GZK4aAvR7QYTPuQOoJCVN"
+      "duration_ms": 160618,
+      "name": "Romans 3:23-24 (English Standard Version)",
+      "url": "https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -755,18 +739,18 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Give Me Oil In My Lamp",
-        "url": "https://open.spotify.com/album/5710M92hn0jDFel2kencbw"
+        "name": "Prayed for This Day",
+        "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
       },
       "artists": [
         {
-          "name": "3 Little Words",
-          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+          "name": "Chrissy Metz",
+          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
         }
       ],
-      "duration_ms": 168140,
-      "name": "Give Me Oil In My Lamp",
-      "url": "https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf"
+      "duration_ms": 198093,
+      "name": "Prayed for This Day",
+      "url": "https://open.spotify.com/track/2GZK4aAvR7QYTPuQOoJCVN"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -823,58 +807,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Kids Worship",
-        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
-      },
-      "artists": [
-        {
-          "name": "Kids Worship Performers",
-          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Oh Come, Let Us Worship",
-        "url": "https://open.spotify.com/album/4M67vB4bJDf7rQ9ALnXQxx"
-      },
-      "artists": [
-        {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
-        },
-        {
-          "name": "Caleb Kirkland",
-          "url": "https://open.spotify.com/artist/0soJ846Ditx9OujgZJur4e"
-        }
-      ],
-      "duration_ms": 149906,
-      "name": "Oh Come, Let Us Worship",
-      "url": "https://open.spotify.com/track/7h19A0XhUCeWo7mNC3sgx3"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Just as I Am",
-        "url": "https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92"
-      },
-      "artists": [
-        {
-          "name": "African Children's Choir",
-          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "What a Friend We Have in Jesus",
-      "url": "https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "100 Songs from the Bible",
         "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
       },
@@ -891,18 +823,18 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Top 25 Kids' Praise Songs 2012",
-        "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
+        "name": "Give Me Oil In My Lamp",
+        "url": "https://open.spotify.com/album/5710M92hn0jDFel2kencbw"
       },
       "artists": [
         {
-          "name": "Maranatha! Kids",
-          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Let It Rise",
-      "url": "https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI"
+      "duration_ms": 168140,
+      "name": "Give Me Oil In My Lamp",
+      "url": "https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -927,18 +859,18 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Father Abraham",
-        "url": "https://open.spotify.com/album/4enS7OqpL69wLkg299e5iW"
+        "name": "Just as I Am",
+        "url": "https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92"
       },
       "artists": [
         {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
         }
       ],
-      "duration_ms": 126357,
-      "name": "Father Abraham",
-      "url": "https://open.spotify.com/track/2OEWa3Bwdrp4IkadUMvK5a"
+      "duration_ms": 191641,
+      "name": "What a Friend We Have in Jesus",
+      "url": "https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -963,6 +895,38 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
+        "name": "Kids Worship",
+        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
+      },
+      "artists": [
+        {
+          "name": "Kids Worship Performers",
+          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
+        }
+      ],
+      "duration_ms": 292186,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Top 25 Kids' Praise Songs 2012",
+        "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Kids",
+          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Let It Rise",
+      "url": "https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u"
       },
@@ -975,22 +939,6 @@
       "duration_ms": 196600,
       "name": "Best Day of My Life",
       "url": "https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Top 50 Kids' Praise! Company",
-        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
-      },
-      "artists": [
-        {
-          "name": "African Children's Choir",
-          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
-        }
-      ],
-      "duration_ms": 175640,
-      "name": "(Blessed Be) The Name of the Lord",
-      "url": "https://open.spotify.com/track/42TyWK07EJU2uvOJgTQHp7"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -1011,6 +959,38 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
+        "name": "Top 50 Kids' Praise! Company",
+        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
+      },
+      "artists": [
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+        }
+      ],
+      "duration_ms": 175640,
+      "name": "(Blessed Be) The Name of the Lord",
+      "url": "https://open.spotify.com/track/42TyWK07EJU2uvOJgTQHp7"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Father Abraham",
+        "url": "https://open.spotify.com/album/4enS7OqpL69wLkg299e5iW"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "duration_ms": 126357,
+      "name": "Father Abraham",
+      "url": "https://open.spotify.com/track/2OEWa3Bwdrp4IkadUMvK5a"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
         "name": "Thank You Jesus",
         "url": "https://open.spotify.com/album/1JB2VmkBVE3SQOKPj6Z4uh"
       },
@@ -1023,6 +1003,22 @@
       "duration_ms": 161466,
       "name": "God Is So Good",
       "url": "https://open.spotify.com/track/75Bunn94DbQP7xgwdfXzu8"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Hope For The Wobbly World",
+        "url": "https://open.spotify.com/album/212VIFg5oHDU7J8K8Iol2K"
+      },
+      "artists": [
+        {
+          "name": "Colin Buchanan",
+          "url": "https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T"
+        }
+      ],
+      "duration_ms": 184678,
+      "name": "Wibbly Wobbly World",
+      "url": "https://open.spotify.com/track/0Vl6QU641TX42GNyu2F3YQ"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -1059,34 +1055,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Hope For The Wobbly World",
-        "url": "https://open.spotify.com/album/212VIFg5oHDU7J8K8Iol2K"
+        "name": "Oh Come, Let Us Worship",
+        "url": "https://open.spotify.com/album/4M67vB4bJDf7rQ9ALnXQxx"
       },
       "artists": [
         {
-          "name": "Colin Buchanan",
-          "url": "https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T"
-        }
-      ],
-      "duration_ms": 184678,
-      "name": "Wibbly Wobbly World",
-      "url": "https://open.spotify.com/track/0Vl6QU641TX42GNyu2F3YQ"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Top 50 Kids' Praise! Company",
-        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
-      },
-      "artists": [
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        },
         {
-          "name": "Kids Praise Co.",
-          "url": "https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V"
+          "name": "Caleb Kirkland",
+          "url": "https://open.spotify.com/artist/0soJ846Ditx9OujgZJur4e"
         }
       ],
-      "duration_ms": 59000,
-      "name": "(Don't You Know) It's Time To Praise The Lord",
-      "url": "https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj"
+      "duration_ms": 149906,
+      "name": "Oh Come, Let Us Worship",
+      "url": "https://open.spotify.com/track/7h19A0XhUCeWo7mNC3sgx3"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -1103,6 +1087,22 @@
       "duration_ms": 166709,
       "name": "Let My Light Shine",
       "url": "https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Top 50 Kids' Praise! Company",
+        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
+      },
+      "artists": [
+        {
+          "name": "Kids Praise Co.",
+          "url": "https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V"
+        }
+      ],
+      "duration_ms": 59000,
+      "name": "(Don't You Know) It's Time To Praise The Lord",
+      "url": "https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj"
     },
     {
       "added_at": "2025-12-14 00:08:40",

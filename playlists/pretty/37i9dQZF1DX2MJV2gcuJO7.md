@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJV2gcuJO7.md) - [plain](/playlists/plain/37i9dQZF1DX2MJV2gcuJO7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2MJV2gcuJO7)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJV2gcuJO7.md) - [plain](/playlists/plain/37i9dQZF1DX2MJV2gcuJO7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2MJV2gcuJO7)
 
 ### [BORUTO\-ボルト\- NARUTO NEXT GENERATIONS](https://open.spotify.com/playlist/37i9dQZF1DX2MJV2gcuJO7)
 
 > Enjoy music from "BORUTO"! / 音楽で辿る「BORUTO\-ボルト\- NARUTO NEXT GENERATIONS」の世界。 ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,197 likes - 92 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,245 likes - 92 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

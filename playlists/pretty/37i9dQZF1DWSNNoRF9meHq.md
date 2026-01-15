@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNNoRF9meHq.md) - [plain](/playlists/plain/37i9dQZF1DWSNNoRF9meHq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSNNoRF9meHq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNNoRF9meHq.md) - [plain](/playlists/plain/37i9dQZF1DWSNNoRF9meHq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSNNoRF9meHq)
 
 ### [Bittersweet Symphony](https://open.spotify.com/playlist/37i9dQZF1DWSNNoRF9meHq)
 

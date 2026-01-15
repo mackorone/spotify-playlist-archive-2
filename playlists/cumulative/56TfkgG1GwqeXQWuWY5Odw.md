@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/56TfkgG1GwqeXQWuWY5Odw.md) - cumulative - [plain](/playlists/plain/56TfkgG1GwqeXQWuWY5Odw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/56TfkgG1GwqeXQWuWY5Odw)
+[pretty](/playlists/pretty/56TfkgG1GwqeXQWuWY5Odw.md) - cumulative - [plain](/playlists/plain/56TfkgG1GwqeXQWuWY5Odw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/56TfkgG1GwqeXQWuWY5Odw)
 
 ### [PlayStation 30th Anniversary Player Favorites](https://open.spotify.com/playlist/56TfkgG1GwqeXQWuWY5Odw)
 

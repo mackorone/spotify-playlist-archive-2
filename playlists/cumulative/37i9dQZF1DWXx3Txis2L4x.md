@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXx3Txis2L4x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXx3Txis2L4x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXx3Txis2L4x)
+[pretty](/playlists/pretty/37i9dQZF1DWXx3Txis2L4x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXx3Txis2L4x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXx3Txis2L4x)
 
 ### [Rock 'n' Run](https://open.spotify.com/playlist/37i9dQZF1DWXx3Txis2L4x)
 

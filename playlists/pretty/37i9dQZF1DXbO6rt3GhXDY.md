@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain](/playlists/plain/37i9dQZF1DXbO6rt3GhXDY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbO6rt3GhXDY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain](/playlists/plain/37i9dQZF1DXbO6rt3GhXDY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbO6rt3GhXDY)
 
 ### [Indie Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DXbO6rt3GhXDY)
 
 > You know em, you love em, these are indie pop hits\. Cover: Rachel Chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,622 likes - 131 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,030 likes - 131 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Lock up",
+        "url": "https://open.spotify.com/album/0L1CwOjfxxtrVmubuDGQnR"
+      },
+      "artists": [
+        {
+          "name": "Davolee",
+          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235496,
+      "name": "Lock up",
+      "url": "https://open.spotify.com/track/1mlNCvGpnoYL7D01U9g3vx"
+    },
+    {
+      "album": {
         "name": "Resan",
         "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
       },

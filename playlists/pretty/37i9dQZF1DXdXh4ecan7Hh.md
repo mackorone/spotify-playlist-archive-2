@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain](/playlists/plain/37i9dQZF1DXdXh4ecan7Hh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdXh4ecan7Hh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain](/playlists/plain/37i9dQZF1DXdXh4ecan7Hh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdXh4ecan7Hh)
 
 ### [Spotify Singles: Country](https://open.spotify.com/playlist/37i9dQZF1DXdXh4ecan7Hh)
 
 > County's best like you've never heard before\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,604 likes - 79 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,601 likes - 79 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2EjRsHG8m4bGCrhCoJ1ykn.md) - cumulative - [plain](/playlists/plain/2EjRsHG8m4bGCrhCoJ1ykn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2EjRsHG8m4bGCrhCoJ1ykn)
+[pretty](/playlists/pretty/2EjRsHG8m4bGCrhCoJ1ykn.md) - cumulative - [plain](/playlists/plain/2EjRsHG8m4bGCrhCoJ1ykn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2EjRsHG8m4bGCrhCoJ1ykn)
 
 ### [Bluegrass Byways](https://open.spotify.com/playlist/2EjRsHG8m4bGCrhCoJ1ykn)
 

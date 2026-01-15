@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0HPgJ9rOXECphJIqfkrzoS.md) - [plain](/playlists/plain/0HPgJ9rOXECphJIqfkrzoS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0HPgJ9rOXECphJIqfkrzoS)
+pretty - [cumulative](/playlists/cumulative/0HPgJ9rOXECphJIqfkrzoS.md) - [plain](/playlists/plain/0HPgJ9rOXECphJIqfkrzoS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0HPgJ9rOXECphJIqfkrzoS)
 
 ### [Down In The Dumps](https://open.spotify.com/playlist/0HPgJ9rOXECphJIqfkrzoS)
 
 > The latest pop songs that are totally cry worthy.
 
-[Spotify](https://open.spotify.com/user/ytvbuzrxkauou90l8xjqsrrw9) - 688 likes - 147 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/ytvbuzrxkauou90l8xjqsrrw9) - 689 likes - 147 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

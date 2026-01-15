@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain](/playlists/plain/37i9dQZF1DWTWhA27mtRFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTWhA27mtRFK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain](/playlists/plain/37i9dQZF1DWTWhA27mtRFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTWhA27mtRFK)
 
 ### [New Age Classics](https://open.spotify.com/playlist/37i9dQZF1DWTWhA27mtRFK)
 
 > Open your mind to these classics from the golden era of New Age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,373 likes - 56 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,007 likes - 56 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

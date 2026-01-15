@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain](/playlists/plain/37i9dQZF1DWWdY6dvv5ZN6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWdY6dvv5ZN6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain](/playlists/plain/37i9dQZF1DWWdY6dvv5ZN6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWdY6dvv5ZN6)
 
 ### [Festival International de Jazz de Montréal 2025](https://open.spotify.com/playlist/37i9dQZF1DWWdY6dvv5ZN6)
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,993 likes - 160 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,996 likes - 160 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

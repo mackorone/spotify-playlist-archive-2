@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSO8slqRqgGK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSO8slqRqgGK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSO8slqRqgGK)
+[pretty](/playlists/pretty/37i9dQZF1DWSO8slqRqgGK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSO8slqRqgGK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSO8slqRqgGK)
 
 ### [Mixtape \#16 Addison Rae "Suck my toes"](https://open.spotify.com/playlist/37i9dQZF1DWSO8slqRqgGK)
 

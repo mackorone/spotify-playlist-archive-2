@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTEt6Lx9mdBy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTEt6Lx9mdBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTEt6Lx9mdBy)
+[pretty](/playlists/pretty/37i9dQZF1DWTEt6Lx9mdBy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTEt6Lx9mdBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTEt6Lx9mdBy)
 
 ### [Tune In with Zion Clark](https://open.spotify.com/playlist/37i9dQZF1DWTEt6Lx9mdBy)
 

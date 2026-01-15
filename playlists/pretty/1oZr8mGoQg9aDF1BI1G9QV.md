@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain](/playlists/plain/1oZr8mGoQg9aDF1BI1G9QV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1oZr8mGoQg9aDF1BI1G9QV)
+pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain](/playlists/plain/1oZr8mGoQg9aDF1BI1G9QV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1oZr8mGoQg9aDF1BI1G9QV)
 
 ### [Queerly Beloved](https://open.spotify.com/playlist/1oZr8mGoQg9aDF1BI1G9QV)
 

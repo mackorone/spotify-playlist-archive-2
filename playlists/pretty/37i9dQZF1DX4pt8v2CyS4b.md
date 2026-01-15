@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain](/playlists/plain/37i9dQZF1DX4pt8v2CyS4b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4pt8v2CyS4b)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain](/playlists/plain/37i9dQZF1DX4pt8v2CyS4b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4pt8v2CyS4b)
 
 ### [National Geographic Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX4pt8v2CyS4b)
 
 > Inspiring the explorer in everyone\. Cover: Secrets of the Penguins, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,914 likes - 76 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,933 likes - 76 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

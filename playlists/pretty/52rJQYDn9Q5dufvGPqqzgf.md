@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/52rJQYDn9Q5dufvGPqqzgf.md) - [plain](/playlists/plain/52rJQYDn9Q5dufvGPqqzgf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/52rJQYDn9Q5dufvGPqqzgf)
+pretty - [cumulative](/playlists/cumulative/52rJQYDn9Q5dufvGPqqzgf.md) - [plain](/playlists/plain/52rJQYDn9Q5dufvGPqqzgf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/52rJQYDn9Q5dufvGPqqzgf)
 
 ### [It's a Girl!](https://open.spotify.com/playlist/52rJQYDn9Q5dufvGPqqzgf)
 

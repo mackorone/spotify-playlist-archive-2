@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l0em9DC6QA.md) - [plain](/playlists/plain/37i9dQZF1DX2l0em9DC6QA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2l0em9DC6QA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l0em9DC6QA.md) - [plain](/playlists/plain/37i9dQZF1DX2l0em9DC6QA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2l0em9DC6QA)
 
 ### [GLOW Tapes: Alice Oseman](https://open.spotify.com/playlist/37i9dQZF1DX2l0em9DC6QA)
 
 > anti\-romance, curated by Alice Oseman\. The conflicting feelings of joy and grief experienced when coming to terms with my asexual and aromantic identity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,760 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,752 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

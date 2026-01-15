@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain](/playlists/plain/37i9dQZF1DX8Bcfs9StvNM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Bcfs9StvNM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain](/playlists/plain/37i9dQZF1DX8Bcfs9StvNM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8Bcfs9StvNM)
 
 ### [せつない胸に風が吹いてた](https://open.spotify.com/playlist/37i9dQZF1DX8Bcfs9StvNM)
 
 > Spotify×サザンのムードプレイリストシリーズ第3弾。切なさの中にも希望が光る、至高の「せつなソング」を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,488 likes - 45 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,520 likes - 45 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain](/playlists/plain/37i9dQZF1DWZ7VnoXD1s7S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ7VnoXD1s7S)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain](/playlists/plain/37i9dQZF1DWZ7VnoXD1s7S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ7VnoXD1s7S)
 
 ### [liminal](https://open.spotify.com/playlist/37i9dQZF1DWZ7VnoXD1s7S)
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,559,217 likes - 98 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,567,512 likes - 98 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 132000,
       "name": "Brain on Dubstep",
       "url": "https://open.spotify.com/track/4JGa3zbZtAWCivMzyenoL1"
@@ -8078,7 +8078,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 244965,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0WestNiV3HHGYx241RZb0J"
@@ -8314,7 +8314,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167968,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/4wIKyxi2H2nt3D7CiVtpAW"
@@ -13508,7 +13508,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196017,
       "name": "King Of Rage",
       "url": "https://open.spotify.com/track/7IT47visI3mLCrqQvOGnpe"
@@ -18446,7 +18446,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196000,
       "name": "PUSH IT WAY DOWN LOW",
       "url": "https://open.spotify.com/track/7AysNgZyzTipff4Q3H73mp"
@@ -18750,7 +18750,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185600,
       "name": "Rasta Vibe",
       "url": "https://open.spotify.com/track/6id2WlS5mmkjcxk2hAPsIi"
@@ -19114,6 +19114,24 @@
       "duration_ms": 228804,
       "name": "RELOADED",
       "url": "https://open.spotify.com/track/3wecO1VIkqi4pznzPh1BWz"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/2We2z1nLbTSsgJP33xBu61"
+      },
+      "artists": [
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205655,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/1gUeiWDD0SWBFVM0mkvsLJ"
     },
     {
       "album": {
@@ -20555,6 +20573,24 @@
     },
     {
       "album": {
+        "name": "Sh*t's On F*re",
+        "url": "https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Sh*t's On F*re",
+      "url": "https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP"
+    },
+    {
+      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/2TibeO75vfvBCZcALcoAqp"
       },
@@ -21410,7 +21446,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 200055,
       "name": "Snake Plant",
       "url": "https://open.spotify.com/track/3GXVhBdGZlqwuDUSGr5Bqp"
@@ -22002,6 +22038,28 @@
       "duration_ms": 201600,
       "name": "Spirit Showdown",
       "url": "https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et"
+    },
+    {
+      "album": {
+        "name": "SPIT",
+        "url": "https://open.spotify.com/album/5kCFzm41NUzgRDlY390ow7"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sweet",
+          "url": "https://open.spotify.com/artist/1tGxccjxxG3IlNwSs2x8eX"
+        },
+        {
+          "name": "DEADPAN",
+          "url": "https://open.spotify.com/artist/04Q7JlLCEGCDAO704OX1PA"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181738,
+      "name": "SPIT",
+      "url": "https://open.spotify.com/track/0MjQhSwJwzu4LRFGR1vdsi"
     },
     {
       "album": {
@@ -24327,6 +24385,24 @@
     },
     {
       "album": {
+        "name": "Timmy",
+        "url": "https://open.spotify.com/album/7CKeL2escLtQzfHrtFUg8H"
+      },
+      "artists": [
+        {
+          "name": "Aweminus",
+          "url": "https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293031,
+      "name": "Timmy",
+      "url": "https://open.spotify.com/track/31nVhQ4jYi71WscRO5YxZ5"
+    },
+    {
+      "album": {
         "name": "Out Of Order EP",
         "url": "https://open.spotify.com/album/363x1YbpXfBGfu4BgYBz1n"
       },
@@ -25728,6 +25804,24 @@
       "duration_ms": 258206,
       "name": "Wanna Do",
       "url": "https://open.spotify.com/track/3MiPwfSysqGrIWzY29wJtc"
+    },
+    {
+      "album": {
+        "name": "Want A Piece",
+        "url": "https://open.spotify.com/album/6ZZE2HUz38SawNcnWf9tZ6"
+      },
+      "artists": [
+        {
+          "name": "Blunts & Blondes",
+          "url": "https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Want A Piece",
+      "url": "https://open.spotify.com/track/7At8v3ZxqjYBDm98dRGaty"
     },
     {
       "album": {

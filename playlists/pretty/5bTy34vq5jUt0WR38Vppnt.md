@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5bTy34vq5jUt0WR38Vppnt.md) - [plain](/playlists/plain/5bTy34vq5jUt0WR38Vppnt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5bTy34vq5jUt0WR38Vppnt)
+pretty - [cumulative](/playlists/cumulative/5bTy34vq5jUt0WR38Vppnt.md) - [plain](/playlists/plain/5bTy34vq5jUt0WR38Vppnt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5bTy34vq5jUt0WR38Vppnt)
 
 ### [Wehmut!](https://open.spotify.com/playlist/5bTy34vq5jUt0WR38Vppnt)
 

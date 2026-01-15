@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain](/playlists/plain/0lVl7MriET3XEU0PJyDBfw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0lVl7MriET3XEU0PJyDBfw)
+pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain](/playlists/plain/0lVl7MriET3XEU0PJyDBfw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0lVl7MriET3XEU0PJyDBfw)
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Only the best Tech House 🔥 Submit: tstack.link&\#x2F;bassline\-therapy
+> House Music\. Period.
 
-[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,783 likes - 94 songs - 4 hr 58 min
+[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,781 likes - 94 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 93 | [Diamonds](https://open.spotify.com/track/6GNuSKmHQEDdIgQYLyLJWZ) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Diamonds](https://open.spotify.com/album/1qYVyMhvMYcMnR1KfM2AYi) | 2:38 |
 | 94 | [I Just Want U](https://open.spotify.com/track/3uSXT9fpTYgHWn7RwvkSQJ) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Finding Promise In New Frontiers & Wonders](https://open.spotify.com/album/0GESiAtGEj5O6nooSI1vdH) | 2:54 |
 
-Snapshot ID: `AAAc2064X0OBgN+hTcuAGlYweEy+xSnT`
+Snapshot ID: `AAAc4WCH2i9i8eTcNeZWaggxlGhosT3c`

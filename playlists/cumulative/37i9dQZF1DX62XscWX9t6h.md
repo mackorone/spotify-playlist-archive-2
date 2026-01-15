@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX62XscWX9t6h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX62XscWX9t6h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX62XscWX9t6h)
+[pretty](/playlists/pretty/37i9dQZF1DX62XscWX9t6h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX62XscWX9t6h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX62XscWX9t6h)
 
 ### [Folk Fabrique](https://open.spotify.com/playlist/37i9dQZF1DX62XscWX9t6h)
 
@@ -115,7 +115,7 @@
 | [Les Assassins](https://open.spotify.com/track/1ZNqgaLZfd5AUIYad8IsYF) | [Combo Daguerre](https://open.spotify.com/artist/5o5fwodeTwd5bEzG5mOj6F) | [Les Assassins](https://open.spotify.com/album/1Zu4xqanWGagE0TbMb7k9k) | 4:09 | 2024-07-05 | 2024-10-05 |
 | [Letter to the Martyrs](https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M) | [cacique'97](https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc) | [Letter to the Martyrs](https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5) | 4:14 | 2024-07-05 | 2025-10-05 |
 | [Lluvia](https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Lluvia](https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE) | 2:53 | 2021-10-20 | 2024-01-12 |
-| [Long Pond Lily](https://open.spotify.com/track/6Ra5CZCY5n706HnbJCS2FN) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Long Pond Lily](https://open.spotify.com/album/0DZu4BfkEbSHe2hiAQCymA) | 4:26 | 2025-05-05 | 2025-08-10 |
+| [Long Pond Lily](https://open.spotify.com/track/6Ra5CZCY5n706HnbJCS2FN) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Long Pond Lily](https://open.spotify.com/album/0DZu4BfkEbSHe2hiAQCymA) | 4:26 | 2025-05-05 |  |
 | [Los Chucos Suaves \(featuring Macha\)](https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Macha](https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:12 | 2022-02-12 |  |
 | [Love Buzz](https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Love Buzz](https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC) | 4:22 | 2023-09-25 | 2024-01-19 |
 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-04-11 |  |
@@ -242,6 +242,6 @@
 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 | 2022-04-06 |  |
 | [двa TWO](https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [для FOR](https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ) | 1:36 | 2021-10-20 | 2024-04-19 |
 | [Шо з\-под дуба](https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Yahudky](https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm) | 3:48 | 2022-09-15 |  |
-| [アダンの海辺](https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 3:18 | 2024-05-02 |  |
+| [アダンの海辺](https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 3:18 | 2024-05-02 | 2026-01-15 |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

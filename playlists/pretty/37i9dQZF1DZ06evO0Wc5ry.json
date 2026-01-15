@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 166206,
+  "num_followers": 166341,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAAD1htvMzrwJyaiLC9/BhPta",
+  "snapshot_id": "aWbcgAAAAAB/1d8YIGZOieBnXiAfbwc0",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 324369,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
+      "duration_ms": 222655,
+      "name": "Da Art of Storytellin' (Pt. 1)",
+      "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 222655,
-      "name": "Da Art of Storytellin' (Pt. 1)",
-      "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
+      "duration_ms": 324369,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     },
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
       },
       "artists": [
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Khujo Goodie",
-          "url": "https://open.spotify.com/artist/28i3mntNBlXpjstb1nHhkJ"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Gasoline Dreams (with Khujo Goodie)",
-      "url": "https://open.spotify.com/track/1Jo3u8eXp8xobbrvq0FIi9"
+      "duration_ms": 289163,
+      "name": "Return of the \"G\"",
+      "url": "https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo"
     },
     {
       "added_at": null,
@@ -527,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 289163,
-      "name": "Return of the \"G\"",
-      "url": "https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
@@ -550,27 +530,15 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Spaghetti Junction",
-      "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
-      },
-      "artists": [
+        },
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Khujo Goodie",
+          "url": "https://open.spotify.com/artist/28i3mntNBlXpjstb1nHhkJ"
         }
       ],
-      "duration_ms": 238906,
-      "name": "Hootie Hoo",
-      "url": "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
+      "duration_ms": 214706,
+      "name": "Gasoline Dreams (with Khujo Goodie)",
+      "url": "https://open.spotify.com/track/1Jo3u8eXp8xobbrvq0FIi9"
     },
     {
       "added_at": null,
@@ -595,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stankonia (25th Anniversary)",
-        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
       },
       "artists": [
         {
@@ -604,9 +572,29 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 304059,
-      "name": "Speedballin'",
-      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
+      "duration_ms": 238906,
+      "name": "Hootie Hoo",
+      "url": "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "duration_ms": 260284,
+      "name": "In Due Time (with Cee-Lo)",
+      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
     },
     {
       "added_at": null,
@@ -618,31 +606,11 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 290666,
-      "name": "Humble Mumble (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "Ain't No Thang",
-      "url": "https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE"
+      "duration_ms": 237160,
+      "name": "Spaghetti Junction",
+      "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
     },
     {
       "added_at": null,
@@ -671,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
       },
       "artists": [
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
         }
       ],
-      "duration_ms": 260284,
-      "name": "In Due Time (with Cee-Lo)",
-      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
+      "duration_ms": 338933,
+      "name": "Ain't No Thang",
+      "url": "https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE"
     },
     {
       "added_at": null,
@@ -715,6 +679,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "Humble Mumble (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stankonia (25th Anniversary)",
+        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 304059,
+      "name": "Speedballin'",
+      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Street Swag, Vol. 2",
         "url": "https://open.spotify.com/album/2A89rexB6sUic5498mls4J"
       },
@@ -735,30 +735,6 @@
       "duration_ms": 200971,
       "name": "Walk It Out",
       "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beat'n Down Yo Block (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5C7NyeW6pFBCwyBvu9nu05"
-      },
-      "artists": [
-        {
-          "name": "Unk",
-          "url": "https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA"
-        },
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 294760,
-      "name": "Walk It Out - Remix",
-      "url": "https://open.spotify.com/track/2FC0wf2DyEq16TouxXJCxJ"
     },
     {
       "added_at": null,
@@ -791,6 +767,30 @@
       "duration_ms": 204160,
       "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
       "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beat'n Down Yo Block (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5C7NyeW6pFBCwyBvu9nu05"
+      },
+      "artists": [
+        {
+          "name": "Unk",
+          "url": "https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 294760,
+      "name": "Walk It Out - Remix",
+      "url": "https://open.spotify.com/track/2FC0wf2DyEq16TouxXJCxJ"
     },
     {
       "added_at": null,

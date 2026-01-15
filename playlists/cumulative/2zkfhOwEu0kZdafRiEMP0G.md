@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/2zkfhOwEu0kZdafRiEMP0G.md) - cumulative - [plain](/playlists/plain/2zkfhOwEu0kZdafRiEMP0G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2zkfhOwEu0kZdafRiEMP0G)
+[pretty](/playlists/pretty/2zkfhOwEu0kZdafRiEMP0G.md) - cumulative - [plain](/playlists/plain/2zkfhOwEu0kZdafRiEMP0G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2zkfhOwEu0kZdafRiEMP0G)
 
 ### [idek man](https://open.spotify.com/playlist/2zkfhOwEu0kZdafRiEMP0G)
 
 > 
 
-70 songs - 4 hr 52 min
+71 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Dance With The Devil](https://open.spotify.com/track/10ASBwZsp7oUUDsJEYz3uS) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:47 | 2025-06-05 |  |
 | [Defying Gravity \- Acappella](https://open.spotify.com/track/7w4Q5qczL9gCgIyXUJIzLK) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG) | [Defying Gravity \(Acappella\)](https://open.spotify.com/album/0cskxM3g6oJYcTqXTDFXgZ) | 3:08 | 2025-07-13 | 2025-12-28 |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2025-12-27 |  |
+| [El Tango De Roxanne](https://open.spotify.com/track/70XYXbSf4g5IfnDJ13se9L) | [Aaron Tveit](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx), [Danny Burstein](https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3), [Original Broadway Cast of Moulin Rouge! The Musical](https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v), [Ricky Rojas](https://open.spotify.com/artist/1BchvTjZ0pkAW1WPDZTSeZ), [Sahr Ngaujah](https://open.spotify.com/artist/22DUlxqR0fx6R1UKit7uOz), [Jacqueline B\. Arnold](https://open.spotify.com/artist/3QlycUoQkiflglfZ3Nrccl), [Holly James](https://open.spotify.com/artist/0rHWRsXdgLUAT59rikTzHa), [Jeigh Madjus](https://open.spotify.com/artist/7r1TFR05734UFt4bAAvFnA) | [Moulin Rouge! The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk) | 3:37 | 2026-01-08 |  |
 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-13 |  |
 | [Evil Angel](https://open.spotify.com/track/6HDBZFpozQsnYZ88ic250y) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:40 | 2025-07-13 |  |
 | [Fish and Chips](https://open.spotify.com/track/1qKkiLxCfNwOLeQ5XS1rHA) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Leo P](https://open.spotify.com/artist/12lHwk1GMNxnZF6pUMC4Sc) | [Go Time: Brooklyn 2](https://open.spotify.com/album/2JXQkc6uFrKMek2Uly0Ma3) | 5:39 | 2025-11-23 | 2025-12-28 |

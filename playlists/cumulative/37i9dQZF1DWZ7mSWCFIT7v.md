@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZ7mSWCFIT7v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ7mSWCFIT7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ7mSWCFIT7v)
+[pretty](/playlists/pretty/37i9dQZF1DWZ7mSWCFIT7v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ7mSWCFIT7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ7mSWCFIT7v)
 
 ### [bleeps ^ glitches](https://open.spotify.com/playlist/37i9dQZF1DWZ7mSWCFIT7v)
 
 > time\-stretching granular synthesis
 
-533 songs - 1 day 18 hr 47 min
+534 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Breathe Cre8](https://open.spotify.com/track/4L75OEom1UKUALCLguUpig) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Breathe Cre8](https://open.spotify.com/album/41zMYJ5DfjjcseXWbqeBlR) | 3:16 | 2022-02-25 | 2025-07-17 |
 | [British Columbia](https://open.spotify.com/track/6sKA3OL7Sz5Bpzn9CzaLnF) | [Alps 2](https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd) | [British Columbia](https://open.spotify.com/album/55v5y2ktJYN61fithDiTDb) | 3:46 | 2025-08-11 |  |
 | [Broadcastyl](https://open.spotify.com/track/6VuhTKDDOfRDySMag7Rr96) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D) | [The Answer Breaks](https://open.spotify.com/album/2MCmFPT7F9GiuR6glc4XPU) | 5:33 | 2025-08-22 |  |
+| [BSMR](https://open.spotify.com/track/2PVA5M1EWqzbwyfPVBSqpA) | [Tom Marvin](https://open.spotify.com/artist/49YMNaFUcHthWqmQ4adbyH) | [The Archives, Vol\. 1](https://open.spotify.com/album/5SH33m7iBZovqeUwFIeqo1) | 4:09 | 2026-01-09 |  |
 | [Bundeena](https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:22 | 2021-10-06 | 2025-07-17 |
 | [Bundeena](https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:22 | 2021-10-06 | 2024-04-19 |
 | [By the Light of the Moon](https://open.spotify.com/track/3Z5mBurlk3jbE7dAUBkptf) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [The Wyrding Way](https://open.spotify.com/album/1NgfMA8jjeUpSZ7bZaINjm) | 5:24 | 2025-10-17 |  |
@@ -250,7 +251,7 @@
 | [Las Tres Hermanas](https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Las Tres Hermanas](https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9) | 3:49 | 2022-09-27 | 2023-03-19 |
 | [lavender's love](https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [lavender's love](https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo) | 2:40 | 2022-04-12 | 2023-04-01 |
 | [Lie2Me](https://open.spotify.com/track/2nRvX4Aml3TyyX821t3MnX) | [Lowbrain](https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek), [Solsta](https://open.spotify.com/artist/1NCH7h2KWh82zxiriFUh3A) | [Lie2Me](https://open.spotify.com/album/0sIzRIOp0r4QzNpx4MH0EX) | 2:54 | 2025-06-06 | 2025-10-18 |
-| [Lifeworld](https://open.spotify.com/track/5F7lkoriDmKyFQEjv3yzBg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [tra](https://open.spotify.com/album/5NjEozBiYuMnRz49cuM66T) | 3:47 | 2025-10-24 |  |
+| [Lifeworld](https://open.spotify.com/track/5F7lkoriDmKyFQEjv3yzBg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [tra](https://open.spotify.com/album/5NjEozBiYuMnRz49cuM66T) | 3:47 | 2025-10-24 | 2026-01-15 |
 | [Lighthouse \#429](https://open.spotify.com/track/20MH21qtuV9OFTf3sHXA9F) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Eno \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs) | 5:43 | 2024-03-21 | 2025-06-07 |
 | [Limequaker](https://open.spotify.com/track/0sxZC09Pfmw7tSCLCJqBf5) | [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [Limequaker](https://open.spotify.com/album/5ncjzuZOAcFN10Y2rdePYJ) | 3:28 | 2025-09-19 |  |
 | [Liminal States](https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr) | [Patricia](https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0) | [Several Shades of the Same Color](https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar) | 5:03 | 2021-10-06 | 2023-04-01 |

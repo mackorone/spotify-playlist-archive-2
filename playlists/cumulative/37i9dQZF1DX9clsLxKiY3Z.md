@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9clsLxKiY3Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9clsLxKiY3Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9clsLxKiY3Z)
+[pretty](/playlists/pretty/37i9dQZF1DX9clsLxKiY3Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9clsLxKiY3Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9clsLxKiY3Z)
 
 ### [This Is ずっと真夜中でいいのに。](https://open.spotify.com/playlist/37i9dQZF1DX9clsLxKiY3Z)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchqrcYVfAQC.md) - [plain](/playlists/plain/37i9dQZF1DXchqrcYVfAQC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXchqrcYVfAQC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchqrcYVfAQC.md) - [plain](/playlists/plain/37i9dQZF1DXchqrcYVfAQC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXchqrcYVfAQC)
 
 ### [Sabrina's Short n' Sweet Setlist](https://open.spotify.com/playlist/37i9dQZF1DXchqrcYVfAQC)
 
 > The official setlist for Sabrina's Short n'Sweet tour 💕☕💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,489 likes - 23 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,335 likes - 23 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

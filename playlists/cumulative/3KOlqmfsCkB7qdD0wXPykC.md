@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3KOlqmfsCkB7qdD0wXPykC.md) - cumulative - [plain](/playlists/plain/3KOlqmfsCkB7qdD0wXPykC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3KOlqmfsCkB7qdD0wXPykC)
+[pretty](/playlists/pretty/3KOlqmfsCkB7qdD0wXPykC.md) - cumulative - [plain](/playlists/plain/3KOlqmfsCkB7qdD0wXPykC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3KOlqmfsCkB7qdD0wXPykC)
 
 ### [Mountain Goats Songs for Werewolves](https://open.spotify.com/playlist/3KOlqmfsCkB7qdD0wXPykC)
 

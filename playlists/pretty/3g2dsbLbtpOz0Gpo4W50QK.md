@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3g2dsbLbtpOz0Gpo4W50QK.md) - [plain](/playlists/plain/3g2dsbLbtpOz0Gpo4W50QK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3g2dsbLbtpOz0Gpo4W50QK)
+pretty - [cumulative](/playlists/cumulative/3g2dsbLbtpOz0Gpo4W50QK.md) - [plain](/playlists/plain/3g2dsbLbtpOz0Gpo4W50QK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3g2dsbLbtpOz0Gpo4W50QK)
 
 ### [We Dem Girlz](https://open.spotify.com/playlist/3g2dsbLbtpOz0Gpo4W50QK)
 
 > Because we love our Hip Hop..\. Dance away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,740 likes - 23 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,590 likes - 23 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

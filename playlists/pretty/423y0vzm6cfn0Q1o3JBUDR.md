@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/423y0vzm6cfn0Q1o3JBUDR.md) - [plain](/playlists/plain/423y0vzm6cfn0Q1o3JBUDR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/423y0vzm6cfn0Q1o3JBUDR)
+pretty - [cumulative](/playlists/cumulative/423y0vzm6cfn0Q1o3JBUDR.md) - [plain](/playlists/plain/423y0vzm6cfn0Q1o3JBUDR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/423y0vzm6cfn0Q1o3JBUDR)
 
 ### [Marie \- Sassy](https://open.spotify.com/playlist/423y0vzm6cfn0Q1o3JBUDR)
 

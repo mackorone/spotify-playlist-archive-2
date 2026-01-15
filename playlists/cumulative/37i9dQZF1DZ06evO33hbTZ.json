@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184658,
+      "name": "Eyes Never See",
+      "url": "https://open.spotify.com/track/6hJsuHj1vtEqjPXg584piV"
+    },
+    {
+      "album": {
         "name": "Fall in Love",
         "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182318,
       "name": "Nkosi",
       "url": "https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco"

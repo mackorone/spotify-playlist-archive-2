@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcUv9n7At27D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcUv9n7At27D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcUv9n7At27D)
+[pretty](/playlists/pretty/37i9dQZF1DXcUv9n7At27D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcUv9n7At27D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcUv9n7At27D)
 
 ### [Spring Classical Japan](https://open.spotify.com/playlist/37i9dQZF1DXcUv9n7At27D)
 

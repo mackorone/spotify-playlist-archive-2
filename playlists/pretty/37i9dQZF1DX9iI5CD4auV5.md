@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain](/playlists/plain/37i9dQZF1DX9iI5CD4auV5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9iI5CD4auV5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain](/playlists/plain/37i9dQZF1DX9iI5CD4auV5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9iI5CD4auV5)
 
 ### [Green Velvet's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX9iI5CD4auV5)
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,297 likes - 80 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,443 likes - 80 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 17 | [Shake Body](https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Shake Body](https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8) | 3:11 |
 | 18 | [Fit Check](https://open.spotify.com/track/1keukHTWGUV8FP9GAutZ9E) | [Nasser Baker](https://open.spotify.com/artist/6hKT9qsYMOZTJHqxVkXagx) | [Fit Check](https://open.spotify.com/album/3oEtm2F1pSV6qPsSCGNapy) | 3:46 |
 | 19 | [Chaos](https://open.spotify.com/track/4gobAVFoc3Skr3xWxe6USU) | [Easttown](https://open.spotify.com/artist/60BcxlrIyqHOIjd9dBvld3) | [Chaos EP](https://open.spotify.com/album/7050hhnfVETno9KINWdFNa) | 5:58 |
-| 20 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Extended Remix](https://open.spotify.com/track/0u41lLNlRavKKpLjWtrgMd) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5iYWRlPNkKIx6tsAxPmnHU) | 5:47 |
+| 20 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Extended Remix](https://open.spotify.com/track/0u41lLNlRavKKpLjWtrgMd) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5iYWRlPNkKIx6tsAxPmnHU) | 5:47 |
 | 21 | [Zizzy](https://open.spotify.com/track/4bENMkR60BlLehIvtPMFeM) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Zizzy](https://open.spotify.com/album/03bT1C7incHJtGjoKhYUAL) | 7:00 |
 | 22 | [Rise Above \- Original Mix](https://open.spotify.com/track/5Vr2kTMQs7SJewONEjbLf6) | [Zulu Mageba](https://open.spotify.com/artist/2oWStpJ5ThCzjyF9TyrRgA), [Kutullo Nawa](https://open.spotify.com/artist/6UbwKv2PBQAuZyYOpb9JXK) | [Rise Above EP](https://open.spotify.com/album/3hnaB6OozBML2Ty3nQxY14) | 6:32 |
 | 23 | [Jah Fire Burn](https://open.spotify.com/track/1PdBi2LafZFU7ifzkKLUU5) | [Mr Joe](https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG) | [Jah Fire Burn](https://open.spotify.com/album/0rt70aKaX4KPUVTZexUOag) | 7:21 |

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain](/playlists/plain/37i9dQZF1DWUrqe4wqsboB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUrqe4wqsboB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain](/playlists/plain/37i9dQZF1DWUrqe4wqsboB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUrqe4wqsboB)
 
 ### [Indie Boricua](https://open.spotify.com/playlist/37i9dQZF1DWUrqe4wqsboB)
 

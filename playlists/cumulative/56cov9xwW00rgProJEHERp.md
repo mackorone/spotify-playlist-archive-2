@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/56cov9xwW00rgProJEHERp.md) - cumulative - [plain](/playlists/plain/56cov9xwW00rgProJEHERp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/56cov9xwW00rgProJEHERp)
+[pretty](/playlists/pretty/56cov9xwW00rgProJEHERp.md) - cumulative - [plain](/playlists/plain/56cov9xwW00rgProJEHERp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/56cov9xwW00rgProJEHERp)
 
 ### [But First Coffee](https://open.spotify.com/playlist/56cov9xwW00rgProJEHERp)
 
 > Tunes from your favourite coffee shop.
 
-376 songs - 21 hr 40 min
+377 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2024-09-27 | 2025-11-29 |
 | [The Alchemist](https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist](https://open.spotify.com/album/1W8QZB9LoDkREFfO6dRSnC) | 3:32 | 2024-12-06 | 2025-07-05 |
 | [The Bad Guy](https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [In Another Lifetime](https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO) | 3:16 | 2024-05-24 | 2024-09-07 |
+| [The Banjo Song](https://open.spotify.com/track/7AQiFyoymWq9CUF3aRo64c) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/2diypD47uPTBpZmzIQbrAu) | 3:49 | 2026-01-09 |  |
 | [The Banks of The Lough Erne](https://open.spotify.com/track/72NQqlScymhPQuPe3haRyd) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [The Banks of The Lough Erne \(feat\. Erin Rae\)](https://open.spotify.com/album/4C5wWyXwZ6XthXF7GfjhUB) | 4:50 | 2024-04-12 | 2024-04-20 |
 | [The Bullfighter](https://open.spotify.com/track/1HgKUjJRScAcZD5WPhlACo) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [The Bullfighter](https://open.spotify.com/album/5OfwLDZVVkjuBFQFBKid9p) | 3:18 | 2025-02-21 | 2025-11-01 |
 | [The Fixer](https://open.spotify.com/track/5BnAZC6XC8OPCyXFfV11QQ) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [The Fixer](https://open.spotify.com/album/0QSU2sZMU9q91i9EMQ8BBi) | 2:28 | 2025-03-28 | 2025-11-29 |

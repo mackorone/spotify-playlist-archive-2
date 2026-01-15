@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evNZWaJws.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evNZWaJws) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evNZWaJws)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evNZWaJws.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evNZWaJws) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evNZWaJws)
 
 ### [This Is Los Tucanes De Tijuana](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWaJws)
 

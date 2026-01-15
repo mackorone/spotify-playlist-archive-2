@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain](/playlists/plain/37i9dQZF1DX8Z20Qthwz58) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Z20Qthwz58)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain](/playlists/plain/37i9dQZF1DX8Z20Qthwz58) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8Z20Qthwz58)
 
 ### [d r e a m l i k e](https://open.spotify.com/playlist/37i9dQZF1DX8Z20Qthwz58)
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,116 likes - 104 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,292 likes - 104 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 26 | [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 |
 | 27 | [Anxious \(Feat\. The Deep\)](https://open.spotify.com/track/5bpXlLyRHhUhd2UiGyr752) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Anxious \(Feat\. The Deep\)](https://open.spotify.com/album/7IycamfugtbcUeDk3Tqu8v) | 3:07 |
 | 28 | [It's Cold Outside](https://open.spotify.com/track/7LtaIwDAvxKlBJIrdG3eXl) | [Sahae](https://open.spotify.com/artist/2mupLxVnWYL5HFeTU76y8g) | [It's Cold Outside](https://open.spotify.com/album/4YulZ7MrxKa4TnRWt6XDkm) | 2:47 |
-| 29 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [Sinae](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
+| 29 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [chicken97](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
 | 30 | [Wonderland \(Carol ver.\)](https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:17 |
 | 31 | [dear a.i](https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [DEAR A.I](https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy) | 2:29 |
 | 32 | [silhouette](https://open.spotify.com/track/6juIZLmOCW4ONUglzEDq00) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [silhouette](https://open.spotify.com/album/47VsM0eiGNH1g9yUQ545Tr) | 2:17 |

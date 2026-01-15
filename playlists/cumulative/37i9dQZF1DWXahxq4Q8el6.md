@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXahxq4Q8el6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXahxq4Q8el6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXahxq4Q8el6)
+[pretty](/playlists/pretty/37i9dQZF1DWXahxq4Q8el6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXahxq4Q8el6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXahxq4Q8el6)
 
 ### [Feel Good Soundtracks](https://open.spotify.com/playlist/37i9dQZF1DWXahxq4Q8el6)
 

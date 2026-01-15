@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain](/playlists/plain/37i9dQZF1DX9FITd4oYs10) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9FITd4oYs10)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain](/playlists/plain/37i9dQZF1DX9FITd4oYs10) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9FITd4oYs10)
 
 ### [Coleção Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9FITd4oYs10)
 

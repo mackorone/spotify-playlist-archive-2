@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain](/playlists/plain/37i9dQZF1DX3o9eExibzaT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3o9eExibzaT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain](/playlists/plain/37i9dQZF1DX3o9eExibzaT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3o9eExibzaT)
 
 ### [Big Little Lies Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX3o9eExibzaT)
 
 > It's a wonderful lie\. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,088 likes - 84 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,295 likes - 84 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

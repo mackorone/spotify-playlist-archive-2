@@ -706,7 +706,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 250833,
       "name": "chAngE",
       "url": "https://open.spotify.com/track/1aEeR6DqwyvgSwDLUxKjnl"
@@ -3837,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "LoveLive! Series 15th Anniversary Tribute Album",
+        "url": "https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242720,
+      "name": "START!! True dreams",
+      "url": "https://open.spotify.com/track/19vnmCWWf8QK0vYnAz8nlh"
+    },
+    {
+      "album": {
         "name": "Breakthrough!",
         "url": "https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91"
       },
@@ -5924,7 +5942,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 218833,
       "name": "\u30ab\u30e9\u30d5\u30eb\u30ea\u30d0\u30c6\u30a3\u30fc",
       "url": "https://open.spotify.com/track/3R25yGgpbQ92tEvaDBCkD7"
@@ -8442,7 +8460,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 265906,
       "name": "\u96e8\u4e0a\u304c\u308a\u3001\u30ad\u30df\u3068",
       "url": "https://open.spotify.com/track/1MIHgXHAeXc7jgrMh1xabo"

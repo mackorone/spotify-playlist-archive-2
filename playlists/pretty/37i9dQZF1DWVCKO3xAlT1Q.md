@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain](/playlists/plain/37i9dQZF1DWVCKO3xAlT1Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVCKO3xAlT1Q)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain](/playlists/plain/37i9dQZF1DWVCKO3xAlT1Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVCKO3xAlT1Q)
 
 ### [Eurovision 2025](https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q)
 
 > The official Eurovision Song Contest 2025 playlist.<br/>Congrats to this year's winner JJ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,110 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,481 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

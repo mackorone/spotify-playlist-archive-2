@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbj22UfTOtqz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbj22UfTOtqz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbj22UfTOtqz)
+[pretty](/playlists/pretty/37i9dQZF1DXbj22UfTOtqz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbj22UfTOtqz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbj22UfTOtqz)
 
 ### [Historia del Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DXbj22UfTOtqz)
 

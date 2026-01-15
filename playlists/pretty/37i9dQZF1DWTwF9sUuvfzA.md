@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwF9sUuvfzA.md) - [plain](/playlists/plain/37i9dQZF1DWTwF9sUuvfzA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTwF9sUuvfzA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwF9sUuvfzA.md) - [plain](/playlists/plain/37i9dQZF1DWTwF9sUuvfzA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTwF9sUuvfzA)
 
 ### [Skam Italia 5 Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTwF9sUuvfzA)
 
 > La playlist ufficiale della nuova stagione! Guarda Skam Italia 6, solo su Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,419 likes - 41 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,425 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

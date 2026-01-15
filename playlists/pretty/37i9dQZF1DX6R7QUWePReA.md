@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain](/playlists/plain/37i9dQZF1DX6R7QUWePReA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6R7QUWePReA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain](/playlists/plain/37i9dQZF1DX6R7QUWePReA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6R7QUWePReA)
 
 ### [Christmas Classics](https://open.spotify.com/playlist/37i9dQZF1DX6R7QUWePReA)
 
 > Timeless heart\-warming classics from 1940s\- 1970s for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,711,594 likes - 68 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,703,282 likes - 68 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

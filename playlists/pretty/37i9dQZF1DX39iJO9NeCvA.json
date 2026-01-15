@@ -1,15 +1,47 @@
 {
-  "description": "Listen to soundtracks from SF anime series \"TRIGUN\".\u300c\u30c8\u30e9\u30a4\u30ac\u30f3\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9 2023 \u5185\u85e4\u6cf0\u5f18\u30fb\u5c11\u5e74\u753b\u5831\u793e\uff0f\u300cTRIGUN STAMPEDE\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
-  "num_followers": 49182,
+  "description": "Listen to soundtracks from SF anime series \"TRIGUN\".\u300c\u30c8\u30e9\u30a4\u30ac\u30f3\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9 2026 \u5185\u85e4\u6cf0\u5f18\u30fb\u5c11\u5e74\u753b\u5831\u793e\uff0f\u300cTRIGUN STARGAZE\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "num_followers": 49224,
   "original_name": "TRIGUN series \u30c8\u30e9\u30a4\u30ac\u30f3 \u30b7\u30ea\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGV8cJSuMSWxgfIJ5Izv6KxMsZOJ",
+  "snapshot_id": "AAAAAOIyH/wbTi32uldt81no0/KcCiTy",
   "tracks": [
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
+      "album": {
+        "name": "\u30d4\u30ab\u30ec\u30b9\u30af\u30d2\u30fc\u30ed\u30fc",
+        "url": "https://open.spotify.com/album/3wSDoUtAawcfDrDhjipyVU"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "\u30d4\u30ab\u30ec\u30b9\u30af\u30d2\u30fc\u30ed\u30fc",
+      "url": "https://open.spotify.com/track/5smt4XQPsHdCrK5rb6czcP"
+    },
+    {
+      "added_at": "2026-01-13 15:01:23",
+      "album": {
+        "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/1r3xpfEzgqu4bXgeTfLwby"
+      },
+      "artists": [
+        {
+          "name": "FOMARE",
+          "url": "https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH"
+        }
+      ],
+      "duration_ms": 209427,
+      "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/6M410WEW7eCsU7z1BE3BJO"
+    },
+    {
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "TOMBI",
         "url": "https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u661f\u306e\u30af\u30ba \u03b1",
         "url": "https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
         "url": "https://open.spotify.com/album/31F3VgLOfbBiNfL0PmUSuc"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/3BdXrS4MCSHPvc4etWuRgb"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
         "url": "https://open.spotify.com/album/31F3VgLOfbBiNfL0PmUSuc"
@@ -81,7 +113,7 @@
       "url": "https://open.spotify.com/track/2o9mMIG8a8vs2TOlancikO"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
         "url": "https://open.spotify.com/album/31F3VgLOfbBiNfL0PmUSuc"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/08PE9sKo7wHk8ZWd8VGE2d"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
         "url": "https://open.spotify.com/album/31F3VgLOfbBiNfL0PmUSuc"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/07aPCxPRg1rMJtew9trOme"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
         "url": "https://open.spotify.com/album/31F3VgLOfbBiNfL0PmUSuc"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/6Y9rIFuLSS4IfNBUYUuQAA"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
         "url": "https://open.spotify.com/album/31F3VgLOfbBiNfL0PmUSuc"
@@ -149,7 +181,7 @@
       "url": "https://open.spotify.com/track/5TtB0X7OjBIm4m1JEiCD5J"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -165,7 +197,7 @@
       "url": "https://open.spotify.com/track/2HCMTKNZtbO5as6X2HjCyr"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/1qCgxiiVOc4MeSfhkfT1Dh"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/1gcXouJ22CrHGCOGiw7i1G"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/0AAlwF85VBIG36DOA1TEuB"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/0HTloFWtBFAwlbPU9ED9uD"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -257,7 +289,7 @@
       "url": "https://open.spotify.com/track/4jRV1UKdGIgHeK2GpfA0KH"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -273,7 +305,7 @@
       "url": "https://open.spotify.com/track/6NR6sPWU3F25cSN0pIS5RZ"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -289,7 +321,7 @@
       "url": "https://open.spotify.com/track/1xVBKiXZcqWxyXEczJj2gV"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -305,7 +337,7 @@
       "url": "https://open.spotify.com/track/7EZrbMbAQPHLSMBkd7JCqC"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/1Z7ZK8GEHI2nKdKY61j5Tw"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/3UFsUjlqmO3TJj51f8PpCZ"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/4Hiv8UxDd2Vu1kNnf9Z3PI"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/28C0QkxlSo2D9Jz6L7xqSA"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/1w5wkfaa3XyFjU98yVXVAm"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/0qQAwPXUf2ljtYWjhoddFl"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -417,7 +449,7 @@
       "url": "https://open.spotify.com/track/5tcn7HkQlycwJQjwGG5cSH"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/1tGVKIv6qReGKVTBLqNzQu"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/09ttKAkkSr804A85dVNx2u"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/39zEY539eVf80sZhEv5FLD"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -481,7 +513,7 @@
       "url": "https://open.spotify.com/track/4vPOBox93DRUao77FaKc2K"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -497,7 +529,7 @@
       "url": "https://open.spotify.com/track/4tFDHsh43JyCObJ2H9jcwQ"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/2XK7yT8QRpfiDZsBlImPK3"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/5CiHBtgeY3RbHw5wrp6qfP"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/4AVqRxTmraZ4bnNc1grFwy"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/3JXeWs4ehkp8KkcNMPIwUY"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/4hG5tI11TarVJzwIaZKh3X"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -593,7 +625,7 @@
       "url": "https://open.spotify.com/track/5SYTWpB6CR01wTx7ZowMXI"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -609,7 +641,7 @@
       "url": "https://open.spotify.com/track/5hBIuUF3Of1BWZ1H22PSct"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -625,7 +657,7 @@
       "url": "https://open.spotify.com/track/17XEifxmkttr4Nc2vBXKHM"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/1gwxhBJTNMgKa7FwvQzOAP"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/00aEIN0VAh8wqySx5VTmgo"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -673,7 +705,7 @@
       "url": "https://open.spotify.com/track/2afQQ9OHvlxg74acJKp1FT"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -689,7 +721,7 @@
       "url": "https://open.spotify.com/track/3MLiOID4c91w32WEAOvNpe"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -705,7 +737,7 @@
       "url": "https://open.spotify.com/track/1hAcuWEWSfP35nL2HzMF4V"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/4oIDL3xU1ElzW0oCnKFOSr"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/6gTvhytPg7P4v08Wd4122U"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -753,7 +785,7 @@
       "url": "https://open.spotify.com/track/1VGOzVmEegcVjNToyS7jQH"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -769,7 +801,7 @@
       "url": "https://open.spotify.com/track/72Cr4oEehdcPmSf5qSTouW"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/4s4UJUA3PLttsjdlkMtKWM"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -801,7 +833,7 @@
       "url": "https://open.spotify.com/track/72B0d7L3j7aFVTl3xN9jXA"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/55HK9EiuhyHU8NZ9sqMCJ3"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
         "url": "https://open.spotify.com/album/2teutrE7vf4dfz8L8DtvFQ"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/2flOnyac610zhVBoU4qOns"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
@@ -853,7 +885,7 @@
       "url": "https://open.spotify.com/track/2Z8sw3CMhpJGwrt0KOc1XZ"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
@@ -869,7 +901,7 @@
       "url": "https://open.spotify.com/track/7aHWxlBj7OyMN3INPWyQnQ"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -885,7 +917,7 @@
       "url": "https://open.spotify.com/track/0EPBewiNaDGS2Fp59x149v"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000TRIGUN THE FIRST DONUTS",
         "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
@@ -901,7 +933,7 @@
       "url": "https://open.spotify.com/track/7KBqiGyvY1uFYlvi8gA335"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -917,7 +949,7 @@
       "url": "https://open.spotify.com/track/1WSgqqmMQZgxMJZj7l31VL"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -933,7 +965,7 @@
       "url": "https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000TRIGUN THE FIRST DONUTS",
         "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
@@ -949,7 +981,7 @@
       "url": "https://open.spotify.com/track/7slEiXsz2Km5PhNgoPbKye"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -965,7 +997,7 @@
       "url": "https://open.spotify.com/track/4qgw4QfoK7FWpwqzVMZj5Q"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000TRIGUN THE FIRST DONUTS",
         "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
@@ -981,7 +1013,7 @@
       "url": "https://open.spotify.com/track/27MWlouE3EXEJUZbiAS6tk"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -997,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5FdJDtnVpWVBfzJIXfUTt8"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000TRIGUN THE FIRST DONUTS",
         "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
@@ -1013,7 +1045,7 @@
       "url": "https://open.spotify.com/track/76l7MFgonqaorlrd5yeBwS"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000TRIGUN THE FIRST DONUTS",
         "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
@@ -1029,7 +1061,7 @@
       "url": "https://open.spotify.com/track/64ixLm2tbzTkXvs4fk3S9S"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000TRIGUN THE FIRST DONUTS",
         "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
@@ -1045,7 +1077,7 @@
       "url": "https://open.spotify.com/track/5rCjxDHLkq7o13PgSdbet0"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -1061,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4gAwcKcdB8phmZGU3qoL7R"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
@@ -1077,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6qC9EuTHWb6G5yNSBTnEZR"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -1093,7 +1125,7 @@
       "url": "https://open.spotify.com/track/6b26n4y6aeo1A3p0CdTfXn"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
@@ -1109,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5ykpANKPBgBGzJiprdSnnx"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
@@ -1125,7 +1157,7 @@
       "url": "https://open.spotify.com/track/57hyjxTe2HKiujEV7vpMC4"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
@@ -1141,7 +1173,7 @@
       "url": "https://open.spotify.com/track/0VHwe1zrdQ14oRT8Fv8riN"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -1157,7 +1189,7 @@
       "url": "https://open.spotify.com/track/7AxloVMZ7GWpp86ohQ1Gfu"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -1173,7 +1205,7 @@
       "url": "https://open.spotify.com/track/4Om3Nzs9wDT995sCNmROvT"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
@@ -1189,7 +1221,7 @@
       "url": "https://open.spotify.com/track/5xEopVMEpBfz1ny2C6MBRS"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000TRIGUN THE FIRST DONUTS",
         "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
@@ -1205,7 +1237,7 @@
       "url": "https://open.spotify.com/track/4sAC0qvCUH15Md7hz7QFb7"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000TRIGUN THE FIRST DONUTS",
         "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
@@ -1221,7 +1253,7 @@
       "url": "https://open.spotify.com/track/36wkLZs1Cjk1wx0jLByYpe"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -1237,7 +1269,7 @@
       "url": "https://open.spotify.com/track/1EzSxVwrgSP3RUZT36moER"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3\u3000THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
@@ -1253,7 +1285,7 @@
       "url": "https://open.spotify.com/track/71nALFU4TxDx0OI9booPii"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
@@ -1269,7 +1301,7 @@
       "url": "https://open.spotify.com/track/6ymDCa24f89mWrg7sukd5v"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
@@ -1285,7 +1317,7 @@
       "url": "https://open.spotify.com/track/04NVPeDDtXQcfBqgFycREt"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
@@ -1301,7 +1333,7 @@
       "url": "https://open.spotify.com/track/6f4G8cwwKtbURYV4P6eWEU"
     },
     {
-      "added_at": "2023-03-26 17:07:25",
+      "added_at": "2026-01-13 15:01:23",
       "album": {
         "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
         "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"

@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 32201,
+  "num_followers": 32233,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Elyanna 2",
-        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 139288,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Weino",
         "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 145871,
       "name": "Weino",
       "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Ballet",
-        "url": "https://open.spotify.com/album/30qPLsJugZwQXGH7iHdvkY"
-      },
-      "artists": [
-        {
-          "name": "Akher Zapheer",
-          "url": "https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Ballet",
-      "url": "https://open.spotify.com/track/4c1JwtH7HEfIqlf0keNFGR"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Dum Tak (feat. NASIR)",
         "url": "https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 156000,
       "name": "Dum Tak (feat. NASIR)",
       "url": "https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Ballet",
+        "url": "https://open.spotify.com/album/30qPLsJugZwQXGH7iHdvkY"
+      },
+      "artists": [
+        {
+          "name": "Akher Zapheer",
+          "url": "https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Ballet",
+      "url": "https://open.spotify.com/track/4c1JwtH7HEfIqlf0keNFGR"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -363,22 +363,18 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Tmaneet Ashofak",
-        "url": "https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu"
+        "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
+        "url": "https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL"
       },
       "artists": [
         {
-          "name": "Omar Alabdallat",
-          "url": "https://open.spotify.com/artist/3zbimX3Z591csbDHH2Iuxc"
-        },
-        {
-          "name": "Salah Alakhfash",
-          "url": "https://open.spotify.com/artist/7zBvvEkToHUjaOmdVHHJfQ"
+          "name": "MoJaNad",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
         }
       ],
-      "duration_ms": 298823,
-      "name": "Tmaneet Ashofak",
-      "url": "https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va"
+      "duration_ms": 222439,
+      "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
+      "url": "https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -399,18 +395,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
-        "url": "https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL"
+        "name": "Tmaneet Ashofak",
+        "url": "https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu"
       },
       "artists": [
         {
-          "name": "MoJaNad",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+          "name": "Omar Alabdallat",
+          "url": "https://open.spotify.com/artist/3zbimX3Z591csbDHH2Iuxc"
+        },
+        {
+          "name": "Salah Alakhfash",
+          "url": "https://open.spotify.com/artist/7zBvvEkToHUjaOmdVHHJfQ"
         }
       ],
-      "duration_ms": 222439,
-      "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
-      "url": "https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T"
+      "duration_ms": 298823,
+      "name": "Tmaneet Ashofak",
+      "url": "https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -503,8 +503,8 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Ya Saad",
-        "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
         }
       ],
-      "duration_ms": 244690,
-      "name": "Ya Saad",
-      "url": "https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B"
+      "duration_ms": 208560,
+      "name": "Pedazos de mi vida",
+      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -567,38 +567,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Affon Mennik",
-        "url": "https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn"
-      },
-      "artists": [
-        {
-          "name": "Atef Malhas",
-          "url": "https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Affon Mennik",
-      "url": "https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
-      },
-      "artists": [
-        {
-          "name": "Farah Siraj",
-          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Pedazos de mi vida",
-      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Nasheed Al Abtal",
         "url": "https://open.spotify.com/album/1h6ZfXJnDh0Vvlrv7mj7yh"
       },
@@ -611,6 +579,38 @@
       "duration_ms": 187643,
       "name": "Nasheed Al Abtal",
       "url": "https://open.spotify.com/track/0NWhRdPRI06ABKoOeRSgrb"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Ya Saad",
+        "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
+      },
+      "artists": [
+        {
+          "name": "Farah Siraj",
+          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
+        }
+      ],
+      "duration_ms": 244690,
+      "name": "Ya Saad",
+      "url": "https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Affon Mennik",
+        "url": "https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn"
+      },
+      "artists": [
+        {
+          "name": "Atef Malhas",
+          "url": "https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Affon Mennik",
+      "url": "https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Howeh El Hob",
-        "url": "https://open.spotify.com/album/7CboCx8gUJ67FJ3iB4U9h7"
-      },
-      "artists": [
-        {
-          "name": "Adham Nabulsi",
-          "url": "https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1"
-        }
-      ],
-      "duration_ms": 243298,
-      "name": "Howeh El Hob",
-      "url": "https://open.spotify.com/track/7o0v7fQ8SJKQjjA1kzSabX"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Hadal Ahbek",
         "url": "https://open.spotify.com/album/5NUgTQnW5TqzsqzDVEVITx"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 209684,
       "name": "Hadal Ahbek",
       "url": "https://open.spotify.com/track/0ymn3NBfT1W2QW0d7U5kHS"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Howeh El Hob",
+        "url": "https://open.spotify.com/album/7CboCx8gUJ67FJ3iB4U9h7"
+      },
+      "artists": [
+        {
+          "name": "Adham Nabulsi",
+          "url": "https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1"
+        }
+      ],
+      "duration_ms": 243298,
+      "name": "Howeh El Hob",
+      "url": "https://open.spotify.com/track/7o0v7fQ8SJKQjjA1kzSabX"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Hada Ma Byentasa",
-        "url": "https://open.spotify.com/album/2BR05zm7GhqfI9G0k6jmvp"
-      },
-      "artists": [
-        {
-          "name": "Adham Nabulsi",
-          "url": "https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1"
-        }
-      ],
-      "duration_ms": 278351,
-      "name": "Hada Ma Byentasa",
-      "url": "https://open.spotify.com/track/2YSeUVN3O3t8PeK1sGtRFQ"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Ammal Tehlaw",
         "url": "https://open.spotify.com/album/1GOZ3S72ib2ZU1MjpeRy42"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 189870,
       "name": "Ammal Tehlaw",
       "url": "https://open.spotify.com/track/1hUZU0lCce1QzcaqWjwWiE"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Hada Ma Byentasa",
+        "url": "https://open.spotify.com/album/2BR05zm7GhqfI9G0k6jmvp"
+      },
+      "artists": [
+        {
+          "name": "Adham Nabulsi",
+          "url": "https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1"
+        }
+      ],
+      "duration_ms": 278351,
+      "name": "Hada Ma Byentasa",
+      "url": "https://open.spotify.com/track/2YSeUVN3O3t8PeK1sGtRFQ"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Mabsoot Bhali",
-        "url": "https://open.spotify.com/album/1HKy7sOwF0qCUIKLlSluNl"
-      },
-      "artists": [
-        {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Mabsoot Bhali",
-      "url": "https://open.spotify.com/track/39efRQpfCpC418qhWOwE41"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Ma Bdi Heb",
         "url": "https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 254394,
       "name": "Ma Bdi Heb",
       "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Mabsoot Bhali",
+        "url": "https://open.spotify.com/album/1HKy7sOwF0qCUIKLlSluNl"
+      },
+      "artists": [
+        {
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Mabsoot Bhali",
+      "url": "https://open.spotify.com/track/39efRQpfCpC418qhWOwE41"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Nasi",
-        "url": "https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Nasi",
-      "url": "https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Hala O Ghala",
         "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 211282,
       "name": "Hala O Ghala",
       "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Nasi",
+        "url": "https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Nasi",
+      "url": "https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0"
     },
     {
       "added_at": "2024-12-21 19:38:19",

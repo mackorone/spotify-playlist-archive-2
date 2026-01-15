@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain](/playlists/plain/37i9dQZF1DX8YNmLOBjUmx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8YNmLOBjUmx)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain](/playlists/plain/37i9dQZF1DX8YNmLOBjUmx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8YNmLOBjUmx)
 
 ### [Editors' Picks: Best Rock & Alt Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX8YNmLOBjUmx)
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: Turnstile
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,417 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,233 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

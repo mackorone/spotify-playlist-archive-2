@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3Ee0ngF5ZVQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Ee0ngF5ZVQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Ee0ngF5ZVQ)
+[pretty](/playlists/pretty/37i9dQZF1DX3Ee0ngF5ZVQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Ee0ngF5ZVQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3Ee0ngF5ZVQ)
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Drake Milligan
 
-719 songs - 1 day 18 hr 47 min
+721 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [Creepin up on Me](https://open.spotify.com/track/4C2RJVUMlDlPFT1vo1Qbja) | [Carter Lybrand](https://open.spotify.com/artist/0ophv4tU6QFbsUQ0DwotdM) | [Creepin up on Me](https://open.spotify.com/album/7cFZBIt7E41fBinNftbq5x) | 3:39 | 2021-12-17 | 2022-03-19 |
 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 | 2022-08-26 |  |
-| [Crossing Lines](https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw) | 2:50 | 2023-11-03 |  |
+| [Crossing Lines](https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw) | 2:50 | 2023-11-03 | 2026-01-15 |
 | [Crown and Coke](https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Crown and Coke](https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK) | 2:47 | 2021-12-17 | 2022-05-28 |
 | [Cuz I'm Country](https://open.spotify.com/track/3djfobOj71XBOhb8eQaCzS) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Cuz I'm Country](https://open.spotify.com/album/03ccca7v1ES41IFLaSeSq6) | 3:13 | 2022-04-08 | 2022-08-06 |
 | [Damn Fine Livin'](https://open.spotify.com/track/5USNgeOEK6Z85dEj59RPsz) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Damn Fine Livin'](https://open.spotify.com/album/6kf6HOmzaq6m8YgYQmxsAc) | 3:09 | 2023-04-14 | 2023-07-08 |
@@ -277,7 +277,7 @@
 | [Hello Highway](https://open.spotify.com/track/4VZtc1T7NzTsFQfdnJZK7p) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Corazón y Cabeza](https://open.spotify.com/album/6yZOlNv2YKskr93XnhtY0a) | 3:42 | 2023-09-01 | 2025-08-09 |
 | [Hello Shitty Day](https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hello Shitty Day](https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2) | 4:24 | 2024-09-27 | 2025-08-09 |
 | [Her Again](https://open.spotify.com/track/2oNfuIgfiEqjpCQCm61vsT) | [Mikele Buck Band](https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN) | [Her Again](https://open.spotify.com/album/3KVzQ7M0NR4Vy1bzsvlQBx) | 3:24 | 2024-03-01 | 2024-03-17 |
-| [Here for the Beer](https://open.spotify.com/track/5jd2LwJTwtiYyh87YjTmxD) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh), [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Country Therapy \(Deluxe Edition\)](https://open.spotify.com/album/6IaoIdtQloEUu1ANKc4MLf) | 2:44 | 2025-12-05 |  |
+| [Here for the Beer](https://open.spotify.com/track/5jd2LwJTwtiYyh87YjTmxD) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh), [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Country Therapy \(Deluxe Edition\)](https://open.spotify.com/album/6IaoIdtQloEUu1ANKc4MLf) | 2:44 | 2025-12-05 | 2026-01-15 |
 | [Here for You](https://open.spotify.com/track/6B2dIHvZz7NgfxLN3eQAah) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/4al4QK2Lk29ZOSr4F7DZvE) | 4:51 | 2021-12-17 | 2022-03-19 |
 | [High Country](https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [American Grin](https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM) | 3:06 | 2025-08-01 |  |
 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 | 2021-12-17 | 2022-03-19 |
@@ -351,6 +351,7 @@
 | [Jesus in a Bar](https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Jesus in a Bar](https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN) | 3:58 | 2023-08-25 | 2024-03-30 |
 | [Joe Sure Knows How to Live](https://open.spotify.com/track/42MmHPDXTOUtor5IJerT6n) | [DOS BORRACHOS](https://open.spotify.com/artist/0wsounF7ieP10sdEiLLkPy), [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n), [Roger Creager](https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j) | [Uno Mas](https://open.spotify.com/album/4zcZXQAPAmIlA8m41pr8ZK) | 3:30 | 2025-06-18 | 2025-07-16 |
 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 | 2022-04-22 |  |
+| [Junior Stayed Home](https://open.spotify.com/track/0LSmvfAYa3kJoVaNX6aC0a) | [Graham St\. Clair Band](https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv) | [Junior Stayed Home](https://open.spotify.com/album/3wLJrVlhhX9HJRDsntBGHz) | 4:48 | 2026-01-09 |  |
 | [Just Call My Number](https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Just Call My Number](https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb) | 3:14 | 2025-10-10 |  |
 | [Just Had to Be There](https://open.spotify.com/track/5GvKGncDYOEWjW4dmmblM3) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Just Had to Be There](https://open.spotify.com/album/18K5EcNoicY0KI6mlAXIAC) | 3:45 | 2021-12-17 | 2022-03-19 |
 | [Keep Lookin' Down The Road](https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Keep Lookin' Down The Road](https://open.spotify.com/album/3UZyPuO9Kl8dVBLw4ruJDU) | 3:04 | 2024-06-21 | 2024-09-30 |
@@ -369,6 +370,7 @@
 | [Like A Desperado](https://open.spotify.com/track/7aWgiX29nEsq1YSVZ5d4La) | [Savanna Chestnut](https://open.spotify.com/artist/25Q8chabmr7xmJgVsdDErq) | [Like A Desperado](https://open.spotify.com/album/7gQXhnauu1Zn7FliaMAayR) | 3:23 | 2022-02-11 | 2022-07-21 |
 | [Like I'm Elvis](https://open.spotify.com/track/43hD7QC5J14TBVpDJrUXcv) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Like I'm Elvis](https://open.spotify.com/album/08vOtTxMCOwuV1g5wlqko8) | 4:01 | 2022-03-25 | 2022-07-19 |
 | [Like She Does](https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Love](https://open.spotify.com/album/7gei0BhwKRgS4MhsO4RqLh) | 3:48 | 2023-07-21 |  |
+| [Like the Rodeo](https://open.spotify.com/track/5SCmmoDMlvjePOGYW81fy8) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Like the Rodeo](https://open.spotify.com/album/7wepD6A9MAAT6j3AjUsB8n) | 2:52 | 2026-01-09 |  |
 | [Like the Wind](https://open.spotify.com/track/3hO22cIoKIEmCjMIsG7kY9) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Like the Wind](https://open.spotify.com/album/4FfBY2JDKbtRUhUHK1th5U) | 3:14 | 2022-02-04 | 2022-07-29 |
 | [Lily of the Valley](https://open.spotify.com/track/2IGcmsZibLpRlcfQ5ddXi5) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Lily of the Valley](https://open.spotify.com/album/2gz0xrQjHaY87mgw9EhO9B) | 4:52 | 2023-11-03 | 2024-02-10 |
 | [Livin' Like This](https://open.spotify.com/track/39k6k6fJmP1PSU6crfVuyl) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Livin' Like This](https://open.spotify.com/album/26XfDbVRwETxRhziXChzdC) | 3:03 | 2022-06-03 | 2022-07-27 |

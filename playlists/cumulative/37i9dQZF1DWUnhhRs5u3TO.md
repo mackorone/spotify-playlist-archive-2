@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUnhhRs5u3TO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUnhhRs5u3TO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUnhhRs5u3TO)
+[pretty](/playlists/pretty/37i9dQZF1DWUnhhRs5u3TO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUnhhRs5u3TO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUnhhRs5u3TO)
 
 ### [10s Metal Classics](https://open.spotify.com/playlist/37i9dQZF1DWUnhhRs5u3TO)
 

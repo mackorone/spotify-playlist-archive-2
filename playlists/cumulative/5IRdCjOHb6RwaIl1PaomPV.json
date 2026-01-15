@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, Bennett Coast, and Pegassi.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Cult Member, Jawnino &amp; Surf Gang + more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -3853,6 +3853,24 @@
     },
     {
       "album": {
+        "name": "Deep Diving",
+        "url": "https://open.spotify.com/album/0RiDsQOoD7R4vYBNgIeItq"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202494,
+      "name": "Deep Diving",
+      "url": "https://open.spotify.com/track/4Ji5pXYxvpxIAR87YGGx3Q"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/4t92zAGms07Tr2S1DDh4ud"
       },
@@ -3974,7 +3992,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176387,
       "name": "DEYA",
       "url": "https://open.spotify.com/track/5Irlkjy18pG847hcN3pJtR"
@@ -4706,7 +4724,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 138651,
       "name": "DULL",
       "url": "https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs"
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 273529,
       "name": "Eteus",
       "url": "https://open.spotify.com/track/7vcbfLcTMpI4pxPQMQNdWf"
@@ -4950,7 +4968,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 208235,
       "name": "Eteus - K-LONE Remix",
       "url": "https://open.spotify.com/track/6W3KgMPghnxvOk9ROfezYo"
@@ -5563,6 +5581,28 @@
     },
     {
       "album": {
+        "name": "Island Paradise: The Remixes",
+        "url": "https://open.spotify.com/album/0zYrGUY2XdT2rOcVaz3pk1"
+      },
+      "artists": [
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        },
+        {
+          "name": "idk____wbu",
+          "url": "https://open.spotify.com/artist/1Vs5fqsdOpnpUVHNGp6BI9"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91312,
+      "name": "Ferrari (idk____wbu Remix)",
+      "url": "https://open.spotify.com/track/3bUdTLWIklAmkVCGeWtYxe"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/7c2Tim7H0rp30NoE8dVbu5"
       },
@@ -6026,7 +6066,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 297226,
       "name": "fucking highschool people - Bad Boombox Remix",
       "url": "https://open.spotify.com/track/1pFIcTRvRD8mQAtdAYHIQT"
@@ -6090,6 +6130,28 @@
       "duration_ms": 143529,
       "name": "Fuetazo (feat. Villano Antillano)",
       "url": "https://open.spotify.com/track/3MeQpnrMl1fjVun29DK45k"
+    },
+    {
+      "album": {
+        "name": "It Could Be Nice",
+        "url": "https://open.spotify.com/album/0fuYLgmA6JnN5HeWZUGGAU"
+      },
+      "artists": [
+        {
+          "name": "Blaketheman1000",
+          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
+        },
+        {
+          "name": "Celine del Carmen",
+          "url": "https://open.spotify.com/artist/0Uio2mqycWxzpG1LUatzu3"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84565,
+      "name": "Gaby Best Friend (feat. Celine del Carmen)",
+      "url": "https://open.spotify.com/track/4OYOQAeV1nBZteM2FLd7Bh"
     },
     {
       "album": {
@@ -7784,7 +7846,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160500,
       "name": "Illegal + Nia Archives",
       "url": "https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro"
@@ -8100,6 +8162,46 @@
       "duration_ms": 142615,
       "name": "into a g**",
       "url": "https://open.spotify.com/track/3WEAKMPSsf6VvzNfTHQ7i3"
+    },
+    {
+      "album": {
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/1HXwvX1Ph4yoGRZ51ssBH2"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "It's A Dream (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq"
+    },
+    {
+      "album": {
+        "name": "Time Time Time (I'm in the Palm of Your Hand)",
+        "url": "https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO"
+      },
+      "artists": [
+        {
+          "name": "Yndling",
+          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "It's Almost Like You're Here",
+      "url": "https://open.spotify.com/track/4VQO8F8rlxTRLHCB3f0hWz"
     },
     {
       "album": {
@@ -8420,6 +8522,28 @@
       "duration_ms": 316874,
       "name": "Kebrada",
       "url": "https://open.spotify.com/track/2ouGOaWr41658mH8CuYJ9c"
+    },
+    {
+      "album": {
+        "name": "iDM",
+        "url": "https://open.spotify.com/album/2LlWRheXshUTU4mSH1YjSr"
+      },
+      "artists": [
+        {
+          "name": "Isla Den",
+          "url": "https://open.spotify.com/artist/2kF8VjhAZ6auoV6JTzIhDJ"
+        },
+        {
+          "name": "Merely",
+          "url": "https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298773,
+      "name": "keepOn",
+      "url": "https://open.spotify.com/track/23EG0uV4JxQqwmDOOkOK8E"
     },
     {
       "album": {
@@ -10579,6 +10703,42 @@
     },
     {
       "album": {
+        "name": "New Age",
+        "url": "https://open.spotify.com/album/5eSPVmtlwcRuxjFrI2YuqP"
+      },
+      "artists": [
+        {
+          "name": "jackzebra",
+          "url": "https://open.spotify.com/artist/5zIE5XrsBLymJoVVYznZlL"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139266,
+      "name": "New Age",
+      "url": "https://open.spotify.com/track/1QFiNorcpa3UcWAG6aRbbc"
+    },
+    {
+      "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/0WH5YamAVud3swr26NHitS"
+      },
+      "artists": [
+        {
+          "name": "Cult Member",
+          "url": "https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/20YZM0p9zdqOVoLTiykfMx"
+    },
+    {
+      "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
@@ -10750,7 +10910,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 204000,
       "name": "no one belongs here more than you",
       "url": "https://open.spotify.com/track/7po0gVTO9jOCYmBNuXoGNk"
@@ -13522,7 +13682,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170074,
       "name": "Shake It To The Max (FLY) [Major Lazer Remix]",
       "url": "https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq"
@@ -13562,7 +13722,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 257065,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
@@ -14383,6 +14543,28 @@
     },
     {
       "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
@@ -15134,6 +15316,24 @@
       "duration_ms": 176890,
       "name": "thank you for recording",
       "url": "https://open.spotify.com/track/4zhTF6LpMWHPuXWY8mNrY7"
+    },
+    {
+      "album": {
+        "name": "The Chase / Ultra Villain",
+        "url": "https://open.spotify.com/album/6wdJOAagnjwRsNNoLsmTXq"
+      },
+      "artists": [
+        {
+          "name": "Maara",
+          "url": "https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366152,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/3Q65jGWLNLz2iwznuSqThJ"
     },
     {
       "album": {
@@ -16052,7 +16252,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 208681,
       "name": "Under The Rush",
       "url": "https://open.spotify.com/track/6zrAz5MxiQXa7ny3YyLG4P"
@@ -16212,6 +16412,28 @@
       "duration_ms": 276077,
       "name": "Visited By Astronauts (SHERELLE Had A Groove Remix)",
       "url": "https://open.spotify.com/track/5UlfojmfPdNxLnt5qcBx93"
+    },
+    {
+      "album": {
+        "name": "GHOST WORLD",
+        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188946,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/4fyaqvQ1cECs9F0WYFbmBy"
     },
     {
       "album": {
@@ -16644,7 +16866,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"

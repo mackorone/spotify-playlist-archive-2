@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuScfAxLGSt.md) - [plain](/playlists/plain/37i9dQZF1DXcuScfAxLGSt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcuScfAxLGSt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuScfAxLGSt.md) - [plain](/playlists/plain/37i9dQZF1DXcuScfAxLGSt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcuScfAxLGSt)
 
 ### [Free!](https://open.spotify.com/playlist/37i9dQZF1DXcuScfAxLGSt)
 
 > Enjoy music from "Free!"! /水泳と青春と絆の物語「Free!」の世界をプレイリストで。©おおじこうじ・京都アニメーション／岩鳶高校水泳部
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,124 likes - 105 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,236 likes - 105 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

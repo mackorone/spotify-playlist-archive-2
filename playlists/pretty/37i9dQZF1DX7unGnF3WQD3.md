@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain](/playlists/plain/37i9dQZF1DX7unGnF3WQD3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7unGnF3WQD3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain](/playlists/plain/37i9dQZF1DX7unGnF3WQD3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7unGnF3WQD3)
 
 ### [puro venga venga](https://open.spotify.com/playlist/37i9dQZF1DX7unGnF3WQD3)
 
 > toda mi gente tirando emotes ❤️😈 Cahiruki en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,379 likes - 115 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,043 likes - 115 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

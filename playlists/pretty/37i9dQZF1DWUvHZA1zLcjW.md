@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain](/playlists/plain/37i9dQZF1DWUvHZA1zLcjW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUvHZA1zLcjW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain](/playlists/plain/37i9dQZF1DWUvHZA1zLcjW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUvHZA1zLcjW)
 
 ### [Chilled Classical](https://open.spotify.com/playlist/37i9dQZF1DWUvHZA1zLcjW)
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,906 likes - 131 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,882 likes - 131 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 12 | [Lisa Lân \(Arr\. Huws for Harp\)](https://open.spotify.com/track/53DrPPynaJwQyz4EZiI4aM) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Lisa Lân \(Arr\. Huws for Harp\)](https://open.spotify.com/album/1k8SsRwgXOxrH4W45eDpv9) | 2:02 |
 | 13 | [A Midsummer Night's Dream, Op\. 61: Nocturne \(Transcr\. Moszkowski for Piano\)](https://open.spotify.com/track/1T8GsTMrjvNzfC80n6ac4r) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Mendelssohn](https://open.spotify.com/album/2TCZZuOr0PIdJNkHNIiw5i) | 4:08 |
 | 14 | [12 Pieces for Children: No\. 6, My Darling and Marjan \(Variation\)](https://open.spotify.com/track/2WARGxFEK8D6Rm2NWnp2YZ) | [Komitas](https://open.spotify.com/artist/4Yiwp7GT4REEHykKPHSWv3), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [Komitas: Piano & Chamber Music](https://open.spotify.com/album/6h2zr1pRkoP4RvDdvJhJqM) | 1:17 |
-| 15 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Lark Ascending collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 |
+| 15 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y) | [The Lark Ascending Collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 |
 | 16 | [Berceuse, Op\. 16](https://open.spotify.com/track/5JRQyJcdKLDmr5NtX7lIRz) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Xavier Phillips](https://open.spotify.com/artist/6jjaGEO16mV3YN41fxKxCw), [Cédric Tiberghien](https://open.spotify.com/artist/0sMptzkewzs9B6zO9UqUug) | [Fauré: The music for Cello and Piano](https://open.spotify.com/album/0W7WWtJXlAUzeq2mdUCm8u) | 3:28 |
 | 17 | [En rêve, Nocturne, S\. 207](https://open.spotify.com/track/6PFVI2TGMfDEAzDsx9KKln) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Marc\-André Hamelin](https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY) | [Hamelin Plays Liszt: Hungarian Rhapsodies Nos\. 2, 10 & 13; Un sospiro; Nuages gris etc.](https://open.spotify.com/album/5FV5T6BMPTJvDoPKGtVnE1) | 2:32 |
 | 18 | [Lakmé: Flower Duet \(Arr\. for Violin and Strings by Vivan & Ketan Bhatti\)](https://open.spotify.com/track/4fwX1pSp1mq9mRara9AekL) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [Lakmé: Flower Duet \(Arr\. for Violin and Strings by Vivan & Ketan Bhatti\)](https://open.spotify.com/album/6dEL75aWdP45F8QR5COxHc) | 2:34 |

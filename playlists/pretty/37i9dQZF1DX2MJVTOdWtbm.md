@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain](/playlists/plain/37i9dQZF1DX2MJVTOdWtbm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2MJVTOdWtbm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain](/playlists/plain/37i9dQZF1DX2MJVTOdWtbm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2MJVTOdWtbm)
 
 ### [Latin R&B](https://open.spotify.com/playlist/37i9dQZF1DX2MJVTOdWtbm)
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Rubí & BASSYY
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,321 likes - 155 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,408 likes - 155 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

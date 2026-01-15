@@ -466,7 +466,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 183916,
       "name": "arches",
       "url": "https://open.spotify.com/track/27kZcqkjDk78N7yvOi2MJ5"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 304800,
       "name": "Behind the Mountains",
       "url": "https://open.spotify.com/track/2NT7BIngd5Aq1w38Wi8dZL"
@@ -956,6 +956,24 @@
       "duration_ms": 173333,
       "name": "Calm",
       "url": "https://open.spotify.com/track/6wyHRwdblNea8of4VdmviM"
+    },
+    {
+      "album": {
+        "name": "Calm Shore",
+        "url": "https://open.spotify.com/album/5eyApvjsapNKhk4hn4FlKn"
+      },
+      "artists": [
+        {
+          "name": "Lake Nebula",
+          "url": "https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Calm Shore",
+      "url": "https://open.spotify.com/track/13qnqIH7bzuc0gCYDhCitj"
     },
     {
       "album": {
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185329,
       "name": "Deep Deep Breaths",
       "url": "https://open.spotify.com/track/3OhrTrwYGOg2IImYNRC8iC"
@@ -1791,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Drowsy Time-Sway",
+        "url": "https://open.spotify.com/album/4ZhyLXgTKvHgBqCQpqwTfC"
+      },
+      "artists": [
+        {
+          "name": "Vibrant Bouquet",
+          "url": "https://open.spotify.com/artist/3corO20Y3Q5QVFueEADiEz"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185046,
+      "name": "Drowsy Time-Sway",
+      "url": "https://open.spotify.com/track/6FcLDc9RL33JNXEmzwWN0V"
+    },
+    {
+      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/1UnntuIvY26T6Wj7F82W4C"
       },
@@ -1806,6 +1842,24 @@
       "duration_ms": 196451,
       "name": "Dynasty",
       "url": "https://open.spotify.com/track/5Ie3qzaZXpR7MLeCN5k2ph"
+    },
+    {
+      "album": {
+        "name": "Earth Chant",
+        "url": "https://open.spotify.com/album/6btQx5ijYLC9eEy5lyvORV"
+      },
+      "artists": [
+        {
+          "name": "Dave Orvian",
+          "url": "https://open.spotify.com/artist/3TGqcTNmaItoQVA20w2Rj5"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129637,
+      "name": "Earth Chant",
+      "url": "https://open.spotify.com/track/1A87ykk04sq2aAJSLQ6I2U"
     },
     {
       "album": {
@@ -2133,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Flower Peak",
+        "url": "https://open.spotify.com/album/65FYABLO74OLHqnN1SWnxn"
+      },
+      "artists": [
+        {
+          "name": "Dormira Y Fluir",
+          "url": "https://open.spotify.com/artist/6p4EOjFaxKI2qalYsz4pAK"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Flower Peak",
+      "url": "https://open.spotify.com/track/5iUc2rN3bd2C33qyAMdcBw"
+    },
+    {
+      "album": {
         "name": "Fluire",
         "url": "https://open.spotify.com/album/6vI0jXADPhs3uC4UjoWED5"
       },
@@ -2198,7 +2270,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155728,
       "name": "Forest Zen",
       "url": "https://open.spotify.com/track/5XMYAJZVTKVDLwWHu5bjV9"
@@ -5965,6 +6037,24 @@
     },
     {
       "album": {
+        "name": "Subtle Stillness",
+        "url": "https://open.spotify.com/album/4YGH6gylS878zbjC3gkx7D"
+      },
+      "artists": [
+        {
+          "name": "Elliott Duncan",
+          "url": "https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158644,
+      "name": "Subtle Stillness",
+      "url": "https://open.spotify.com/track/7KkiVKYRDZ5l1CbwfR9G4L"
+    },
+    {
+      "album": {
         "name": "Sun Is Rising",
         "url": "https://open.spotify.com/album/1pciN6j0Ex2w26il7GGxcl"
       },
@@ -5976,7 +6066,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182000,
       "name": "Sun Is Rising",
       "url": "https://open.spotify.com/track/3a2cOAm7IIpbzzAZDTSego"
@@ -6610,6 +6700,24 @@
       "duration_ms": 112311,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
+    },
+    {
+      "album": {
+        "name": "Unwind",
+        "url": "https://open.spotify.com/album/6cpSrWzOJ4os7xncWtp3oj"
+      },
+      "artists": [
+        {
+          "name": "Solros",
+          "url": "https://open.spotify.com/artist/1nYR0YG5gsvYQFqiFW76RA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126276,
+      "name": "Unwind",
+      "url": "https://open.spotify.com/track/5gLITXErIKVyey5JNinATB"
     },
     {
       "album": {

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6mW4IoTlAYKNN7U87ta3G3.md) - cumulative - [plain](/playlists/plain/6mW4IoTlAYKNN7U87ta3G3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6mW4IoTlAYKNN7U87ta3G3)
+[pretty](/playlists/pretty/6mW4IoTlAYKNN7U87ta3G3.md) - cumulative - [plain](/playlists/plain/6mW4IoTlAYKNN7U87ta3G3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6mW4IoTlAYKNN7U87ta3G3)
 
 ### [Decca 90](https://open.spotify.com/playlist/6mW4IoTlAYKNN7U87ta3G3)
 

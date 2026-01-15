@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain](/playlists/plain/37i9dQZF1DWY8Ogms1X39p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY8Ogms1X39p)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain](/playlists/plain/37i9dQZF1DWY8Ogms1X39p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY8Ogms1X39p)
 
 ### [Yang Penting Happy](https://open.spotify.com/playlist/37i9dQZF1DWY8Ogms1X39p)
 
 > Feel good songs yang bikin kamu happy
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,743 likes - 71 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,757 likes - 71 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

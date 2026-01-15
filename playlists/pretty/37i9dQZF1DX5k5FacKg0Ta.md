@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain](/playlists/plain/37i9dQZF1DX5k5FacKg0Ta) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5k5FacKg0Ta)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain](/playlists/plain/37i9dQZF1DX5k5FacKg0Ta) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5k5FacKg0Ta)
 
 ### [Jazzia Suomesta](https://open.spotify.com/playlist/37i9dQZF1DX5k5FacKg0Ta)
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,251 likes - 82 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,254 likes - 82 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

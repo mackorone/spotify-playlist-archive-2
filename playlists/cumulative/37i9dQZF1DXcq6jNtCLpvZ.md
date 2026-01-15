@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcq6jNtCLpvZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcq6jNtCLpvZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcq6jNtCLpvZ)
+[pretty](/playlists/pretty/37i9dQZF1DXcq6jNtCLpvZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcq6jNtCLpvZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcq6jNtCLpvZ)
 
 ### [Symphogear](https://open.spotify.com/playlist/37i9dQZF1DXcq6jNtCLpvZ)
 

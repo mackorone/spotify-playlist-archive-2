@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8kJmrTVx1yE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8kJmrTVx1yE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8kJmrTVx1yE)
+[pretty](/playlists/pretty/37i9dQZF1DX8kJmrTVx1yE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8kJmrTVx1yE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8kJmrTVx1yE)
 
 ### [Enganchados: Latinos](https://open.spotify.com/playlist/37i9dQZF1DX8kJmrTVx1yE)
 

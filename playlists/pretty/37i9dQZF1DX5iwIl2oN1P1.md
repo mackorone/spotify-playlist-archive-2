@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain](/playlists/plain/37i9dQZF1DX5iwIl2oN1P1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5iwIl2oN1P1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain](/playlists/plain/37i9dQZF1DX5iwIl2oN1P1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5iwIl2oN1P1)
 
 ### [Gospel Rising](https://open.spotify.com/playlist/37i9dQZF1DX5iwIl2oN1P1)
 
 > All new Gospel songs on the rise! Cover: Todd Dulaney
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,823 likes - 75 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,243 likes - 75 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

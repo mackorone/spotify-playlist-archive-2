@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5ljlyvMsOvg7A6ZElOQSBf.md) - [plain](/playlists/plain/5ljlyvMsOvg7A6ZElOQSBf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5ljlyvMsOvg7A6ZElOQSBf)
+pretty - [cumulative](/playlists/cumulative/5ljlyvMsOvg7A6ZElOQSBf.md) - [plain](/playlists/plain/5ljlyvMsOvg7A6ZElOQSBf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5ljlyvMsOvg7A6ZElOQSBf)
 
 ### [Per Aspera ](https://open.spotify.com/playlist/5ljlyvMsOvg7A6ZElOQSBf)
 

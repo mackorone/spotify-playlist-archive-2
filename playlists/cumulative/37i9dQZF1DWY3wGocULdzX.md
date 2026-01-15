@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY3wGocULdzX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY3wGocULdzX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY3wGocULdzX)
+[pretty](/playlists/pretty/37i9dQZF1DWY3wGocULdzX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY3wGocULdzX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY3wGocULdzX)
 
 ### [Mambo Classics](https://open.spotify.com/playlist/37i9dQZF1DWY3wGocULdzX)
 

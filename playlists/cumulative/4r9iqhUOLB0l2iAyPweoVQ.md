@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4r9iqhUOLB0l2iAyPweoVQ.md) - cumulative - [plain](/playlists/plain/4r9iqhUOLB0l2iAyPweoVQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4r9iqhUOLB0l2iAyPweoVQ)
+[pretty](/playlists/pretty/4r9iqhUOLB0l2iAyPweoVQ.md) - cumulative - [plain](/playlists/plain/4r9iqhUOLB0l2iAyPweoVQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4r9iqhUOLB0l2iAyPweoVQ)
 
 ### [Workout \(2\)](https://open.spotify.com/playlist/4r9iqhUOLB0l2iAyPweoVQ)
 

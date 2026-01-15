@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZkoL9pT0ugS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZkoL9pT0ugS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZkoL9pT0ugS)
+[pretty](/playlists/pretty/37i9dQZF1DWZkoL9pT0ugS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZkoL9pT0ugS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZkoL9pT0ugS)
 
 ### [Best of The Rock List 2025](https://open.spotify.com/playlist/37i9dQZF1DWZkoL9pT0ugS)
 

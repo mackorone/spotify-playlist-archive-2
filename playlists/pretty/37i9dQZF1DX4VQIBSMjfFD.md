@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VQIBSMjfFD.md) - [plain](/playlists/plain/37i9dQZF1DX4VQIBSMjfFD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4VQIBSMjfFD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VQIBSMjfFD.md) - [plain](/playlists/plain/37i9dQZF1DX4VQIBSMjfFD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4VQIBSMjfFD)
 
 ### [TAEYANG TOUR \[THE LIGHT YEAR\] ENCORE ](https://open.spotify.com/playlist/37i9dQZF1DX4VQIBSMjfFD)
 
 > Enjoy the LIVE SET including the voices of them on stage! \(태양의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,204 likes - 27 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,283 likes - 27 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VQIBSMjfFD.md) - [plain]
 | 4 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 |
 | 5 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 |
 | 6 | [STAY WITH ME](https://open.spotify.com/track/4Hznsw4SROqqX8T54Syguv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:22 |
-| 7 | [Make Love \(Feat\. Kush\)](https://open.spotify.com/track/5ug8uKCAH4HQ5owBPNSoPa) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [KUSH](https://open.spotify.com/artist/4OiLGOExR5sXyMtyKccRgY) | [Hot](https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw) | 3:24 |
+| 7 | [Make Love \(Feat\. Kush\)](https://open.spotify.com/track/5ug8uKCAH4HQ5owBPNSoPa) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [KUSH](https://open.spotify.com/artist/6KifG2XLmMlQTAlPEyy2o4) | [Hot](https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw) | 3:24 |
 | 8 | [Inspiration \(feat\. Beenzino\)](https://open.spotify.com/track/5hAtmSB8KlmU81ljSupSjF) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:32 |
 | 9 | [Only Look At Me \(나만 바라봐\)](https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 4:00 |
 | 10 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 |

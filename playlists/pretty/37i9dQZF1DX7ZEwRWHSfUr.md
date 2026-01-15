@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZEwRWHSfUr.md) - [plain](/playlists/plain/37i9dQZF1DX7ZEwRWHSfUr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ZEwRWHSfUr)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZEwRWHSfUr.md) - [plain](/playlists/plain/37i9dQZF1DX7ZEwRWHSfUr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7ZEwRWHSfUr)
 
 ### [Shakespeare: The Comedies](https://open.spotify.com/playlist/37i9dQZF1DX7ZEwRWHSfUr)
 

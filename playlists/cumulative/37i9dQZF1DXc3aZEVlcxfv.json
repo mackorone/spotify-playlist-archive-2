@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159272,
       "name": "ABBA",
       "url": "https://open.spotify.com/track/3Ax7llYlSKhJwxd9kjspeX"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 555692,
       "name": "Alive & Grateful - Acoustic",
       "url": "https://open.spotify.com/track/1v8pPbs31czJDdA4B5P4bT"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139867,
       "name": "Awesome God / God Only Knows - Campfire Medley",
       "url": "https://open.spotify.com/track/4ythCnq2XWIHzLqC9GnUE3"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 128521,
       "name": "Before I Pray",
       "url": "https://open.spotify.com/track/0NVbSTEsMZMevw6OiOeLFa"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193824,
       "name": "Chief Commander",
       "url": "https://open.spotify.com/track/6ji3dUWDCQ2FNCNXTeoMTh"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130000,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/69Pcsnqzv0QaTodhpPdn8j"
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 372869,
       "name": "Done It Again",
       "url": "https://open.spotify.com/track/5iqZcZQlGVnyu7lCaYrFyB"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194602,
       "name": "Es\u00e9",
       "url": "https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7"
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170000,
       "name": "Father's Love",
       "url": "https://open.spotify.com/track/2cJg6TpjnYLEjz6GesuxJ1"
@@ -3244,7 +3244,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 179226,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5NkYmbIrzIsk9EtCekrch9"
@@ -3648,7 +3648,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130429,
       "name": "God's Favorite",
       "url": "https://open.spotify.com/track/2jcCdk4FEEyXf2sDdiC0qB"
@@ -3822,7 +3822,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218046,
       "name": "Goodness And Mercy",
       "url": "https://open.spotify.com/track/1lgzLzh6dZabFvdJAD1CaG"
@@ -4044,7 +4044,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 337560,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB"
@@ -4212,7 +4212,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 144915,
       "name": "Hallelujah is My Song",
       "url": "https://open.spotify.com/track/3NcaY6Gxj7xZVzackhIOnF"
@@ -4288,6 +4288,28 @@
       "duration_ms": 127824,
       "name": "He Is Enough",
       "url": "https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS"
+    },
+    {
+      "album": {
+        "name": "He Will Provide",
+        "url": "https://open.spotify.com/album/4uMDmd8DPzOkSKMP3CgBuo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        },
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356901,
+      "name": "He Will Provide",
+      "url": "https://open.spotify.com/track/6Ej9JXSMgBATGtAwQq3HTb"
     },
     {
       "album": {
@@ -4712,7 +4734,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184397,
       "name": "I Love To Sing",
       "url": "https://open.spotify.com/track/2UpaUGsq9iYxao0NS6sx0Z"
@@ -4770,7 +4792,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180000,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/4LuaKxOzwnUJ1P88fXjR0T"
@@ -5354,7 +5376,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 131111,
       "name": "Jesus Loves Me (Oh Kwabena)",
       "url": "https://open.spotify.com/track/2XP4PLQp37qU0wHunJHuSl"
@@ -5430,7 +5452,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 482142,
       "name": "Jesus the Doer",
       "url": "https://open.spotify.com/track/7AdrYZPMBEjYIdjSyovMQ9"
@@ -5748,7 +5770,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 158339,
       "name": "Lift Me Higher",
       "url": "https://open.spotify.com/track/2D9QcNxjzpefHILXxmhhdJ"
@@ -5774,6 +5796,24 @@
       "duration_ms": 197067,
       "name": "Light My Way",
       "url": "https://open.spotify.com/track/7cJNrb80srlS1s499HjEQF"
+    },
+    {
+      "album": {
+        "name": "Live By Faith",
+        "url": "https://open.spotify.com/album/0zqZyhiNwq80v9GQ0dkUiN"
+      },
+      "artists": [
+        {
+          "name": "Mayor Boss",
+          "url": "https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130609,
+      "name": "Live By Faith",
+      "url": "https://open.spotify.com/track/0eme4u5DLQAYJr9kcLPiuw"
     },
     {
       "album": {
@@ -5866,7 +5906,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 273370,
       "name": "Lord I Love You",
       "url": "https://open.spotify.com/track/3ir79Qy8MqA19ryKuNwUJM"
@@ -6070,7 +6110,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 318260,
       "name": "M'aseda",
       "url": "https://open.spotify.com/track/62lkVLB2bnmY7U7vrKxWE7"
@@ -6884,7 +6924,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 212064,
       "name": "My Pillar",
       "url": "https://open.spotify.com/track/5K18ZkoykiQ3Uag98eolys"
@@ -6946,7 +6986,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 370466,
       "name": "Na Only Me Know",
       "url": "https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH"
@@ -7511,6 +7551,28 @@
     },
     {
       "album": {
+        "name": "Omemma",
+        "url": "https://open.spotify.com/album/5rtBuSxzWOjxLOiDyiIgQj"
+      },
+      "artists": [
+        {
+          "name": "Elijah Daniel Omo Majemu",
+          "url": "https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG"
+        },
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Omemma",
+      "url": "https://open.spotify.com/track/4sPCyyac3H3jeBzbhqdYFa"
+    },
+    {
+      "album": {
         "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
       },
@@ -7792,6 +7854,28 @@
       "duration_ms": 162105,
       "name": "Opelope My God (OMG)",
       "url": "https://open.spotify.com/track/7kcIFUfpBLMlFa7uK52v63"
+    },
+    {
+      "album": {
+        "name": "Out of the Dark",
+        "url": "https://open.spotify.com/album/6nt2E6pcXUr5B9SOsjFWIB"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279600,
+      "name": "Out of the Dark",
+      "url": "https://open.spotify.com/track/4QHOdD18WUeDghfjFkUz8V"
     },
     {
       "album": {
@@ -8284,7 +8368,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 145518,
       "name": "Sabi",
       "url": "https://open.spotify.com/track/18WjxjcdeaAtr3H6kjCNj9"
@@ -8342,7 +8426,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226285,
       "name": "Seen",
       "url": "https://open.spotify.com/track/0choVjlbcW5egLUqkPwOAe"
@@ -8520,7 +8604,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 219354,
       "name": "Someone",
       "url": "https://open.spotify.com/track/6AdMC6uV7DtLq2A7ya1UOp"
@@ -8909,6 +8993,24 @@
     },
     {
       "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/3X3cDqZxggXSKHGx5FAC3Q"
+      },
+      "artists": [
+        {
+          "name": "Grace Uma",
+          "url": "https://open.spotify.com/artist/1H7NA9xbNLXR6ckY55K1ep"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455322,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/6qZwgTk4UOlN9oN3MhdOYD"
+    },
+    {
+      "album": {
         "name": "4Love (Live at CRC, Pretoria, 2025)",
         "url": "https://open.spotify.com/album/0g3BcSfCAuRn5bXAhFT7CI"
       },
@@ -9202,7 +9304,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164745,
       "name": "This is the day",
       "url": "https://open.spotify.com/track/2TRKKi6T9EqjFGwRddxz5d"
@@ -9793,6 +9895,28 @@
     },
     {
       "album": {
+        "name": "What a Friend",
+        "url": "https://open.spotify.com/album/6mnMbRsGMAH4nzecSQvU6Q"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Jenge",
+          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135822,
+      "name": "What a Friend",
+      "url": "https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm"
+    },
+    {
+      "album": {
         "name": "When I Lift Up My Eyes (Gratitude Live Version)",
         "url": "https://open.spotify.com/album/6LqsZEA6lTwegDkDJfmEG9"
       },
@@ -9874,6 +9998,24 @@
       "duration_ms": 218040,
       "name": "With Me",
       "url": "https://open.spotify.com/track/3u71fqiv5wmXgAcAmpKPae"
+    },
+    {
+      "album": {
+        "name": "With My Name",
+        "url": "https://open.spotify.com/album/5TjR8fM9WlOCcikQzHQXCB"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221743,
+      "name": "With My Name",
+      "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
       "album": {

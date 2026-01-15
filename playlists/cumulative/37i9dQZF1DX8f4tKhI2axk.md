@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8f4tKhI2axk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8f4tKhI2axk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8f4tKhI2axk)
+[pretty](/playlists/pretty/37i9dQZF1DX8f4tKhI2axk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8f4tKhI2axk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8f4tKhI2axk)
 
 ### [Raised on Reggae](https://open.spotify.com/playlist/37i9dQZF1DX8f4tKhI2axk)
 

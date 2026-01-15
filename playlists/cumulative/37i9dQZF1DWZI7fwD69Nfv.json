@@ -1955,6 +1955,28 @@
     },
     {
       "album": {
+        "name": "Gran Festival Bailable",
+        "url": "https://open.spotify.com/album/47kTykdNZ9oQolnxceP5F5"
+      },
+      "artists": [
+        {
+          "name": "La Trombanda De Chick",
+          "url": "https://open.spotify.com/artist/6PLNae5ImysWIQrE8jHREf"
+        },
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238631,
+      "name": "Hoy Voy a Tomar",
+      "url": "https://open.spotify.com/track/7lzYlCHuJukEVQl1Uu9R6t"
+    },
+    {
+      "album": {
         "name": "Huapango Amor Ranchero",
         "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
       },
@@ -3918,7 +3940,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169418,
       "name": "QUE VUELVAS",
       "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"

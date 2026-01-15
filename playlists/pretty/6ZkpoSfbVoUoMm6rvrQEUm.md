@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain](/playlists/plain/6ZkpoSfbVoUoMm6rvrQEUm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6ZkpoSfbVoUoMm6rvrQEUm)
+pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain](/playlists/plain/6ZkpoSfbVoUoMm6rvrQEUm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6ZkpoSfbVoUoMm6rvrQEUm)
 
 ### [FRIDAY HAUS \- " PLAYLIST BY BLEU CLAIR "](https://open.spotify.com/playlist/6ZkpoSfbVoUoMm6rvrQEUm)
 
 > Friday Haus \- Freshest house tunes every week\. Updated Every Friday !
 
-[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 8,611 likes - 20 songs - 1 hr 8 min
+[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 8,621 likes - 20 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

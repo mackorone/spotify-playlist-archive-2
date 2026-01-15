@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 144065,
       "name": "Boo'd Up (Jersey Club)",
       "url": "https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA"
@@ -2634,6 +2634,24 @@
       "duration_ms": 108366,
       "name": "Go To Work (Jersey Club Remix)",
       "url": "https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL"
+    },
+    {
+      "album": {
+        "name": "goingoutsad",
+        "url": "https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN"
+      },
+      "artists": [
+        {
+          "name": "keltiey",
+          "url": "https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119931,
+      "name": "goingoutsad",
+      "url": "https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W"
     },
     {
       "album": {

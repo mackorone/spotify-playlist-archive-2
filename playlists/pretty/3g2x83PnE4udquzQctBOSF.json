@@ -1,13 +1,157 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2656,
+  "num_followers": 2664,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAAROQO2MrrcmxjtDVsYLMq+y2fGO3Q4",
+  "snapshot_id": "AAARQrbMZ0kIUI1qbxfeuieY/CzAa6b9",
   "tracks": [
+    {
+      "added_at": "2026-01-14 17:27:57",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/48V4icljZR1aRguBSyKNU8"
+      },
+      "artists": [
+        {
+          "name": "Joax",
+          "url": "https://open.spotify.com/artist/6ZVtX2xT5iMoNqDrKZDy1R"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/3rDHqwEaW1imPZrNngMJaY"
+    },
+    {
+      "added_at": "2026-01-14 00:29:22",
+      "album": {
+        "name": "Cigarettes",
+        "url": "https://open.spotify.com/album/5rilcJ51jN8Ic4ZTngWTSW"
+      },
+      "artists": [
+        {
+          "name": "Maximilian Heart",
+          "url": "https://open.spotify.com/artist/1ZyGuyy2dk8eyrO0h4w0E6"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Cigarettes - Radio Mix",
+      "url": "https://open.spotify.com/track/4d2tru1HwTR7IYWy3dcpSr"
+    },
+    {
+      "added_at": "2026-01-12 16:03:55",
+      "album": {
+        "name": "ultimo verano",
+        "url": "https://open.spotify.com/album/6WK5IArf4z1QP9UXYHom4I"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "no quiero hablar mas con mi mente",
+      "url": "https://open.spotify.com/track/4erwWa7FDbpXfB6iOX5pDa"
+    },
+    {
+      "added_at": "2026-01-11 08:30:50",
+      "album": {
+        "name": "Dance All Night",
+        "url": "https://open.spotify.com/album/4CRhYNEr3m9wievR9nqTrg"
+      },
+      "artists": [
+        {
+          "name": "Rythmora",
+          "url": "https://open.spotify.com/artist/5P55Xh9Vn9Q4BkvQvKpQK9"
+        }
+      ],
+      "duration_ms": 275039,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/3HIv82HE5ElTDMDoZs1o9I"
+    },
+    {
+      "added_at": "2026-01-08 19:03:02",
+      "album": {
+        "name": "latin house",
+        "url": "https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 239801,
+      "name": "la vida es un carnaval",
+      "url": "https://open.spotify.com/track/4RLbl6BmRGrN5SIXhQPxiD"
+    },
+    {
+      "added_at": "2026-01-08 18:37:39",
+      "album": {
+        "name": "latin house",
+        "url": "https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "la vida del emigrante",
+      "url": "https://open.spotify.com/track/7xv4NBuK4mQJeVxK0ZVuHQ"
+    },
+    {
+      "added_at": "2026-01-08 14:43:49",
+      "album": {
+        "name": "latin house",
+        "url": "https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 220269,
+      "name": "conexion paranormal",
+      "url": "https://open.spotify.com/track/3oHgG69SLHaaZQE8SFP1x4"
+    },
+    {
+      "added_at": "2026-01-08 10:52:01",
+      "album": {
+        "name": "latin house",
+        "url": "https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 233437,
+      "name": "barcelona vibra",
+      "url": "https://open.spotify.com/track/3cj7Zz3QA0Qlf11MQMR8Vc"
+    },
+    {
+      "added_at": "2026-01-07 10:49:52",
+      "album": {
+        "name": "Loosen",
+        "url": "https://open.spotify.com/album/7n3LQNXoAltPwwPO1LwW6x"
+      },
+      "artists": [
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        }
+      ],
+      "duration_ms": 219709,
+      "name": "Loosen",
+      "url": "https://open.spotify.com/track/44OaGE3AF1gczbMynU96sJ"
+    },
     {
       "added_at": "2026-01-05 18:36:32",
       "album": {

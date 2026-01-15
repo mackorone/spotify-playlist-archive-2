@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUZ5bk6qqDSy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUZ5bk6qqDSy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUZ5bk6qqDSy)
+[pretty](/playlists/pretty/37i9dQZF1DWUZ5bk6qqDSy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUZ5bk6qqDSy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUZ5bk6qqDSy)
 
 ### [White Noise 10 Hours](https://open.spotify.com/playlist/37i9dQZF1DWUZ5bk6qqDSy)
 

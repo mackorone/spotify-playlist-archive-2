@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO180nDR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO180nDR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO180nDR)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO180nDR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO180nDR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO180nDR)
 
 ### [This Is Los Dareyes De La Sierra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO180nDR)
 

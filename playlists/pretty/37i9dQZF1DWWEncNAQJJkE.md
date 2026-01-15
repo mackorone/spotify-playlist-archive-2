@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain](/playlists/plain/37i9dQZF1DWWEncNAQJJkE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWEncNAQJJkE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain](/playlists/plain/37i9dQZF1DWWEncNAQJJkE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWEncNAQJJkE)
 
 ### [Northern Bars presents: Best Hip\-Hop Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DWWEncNAQJJkE)
 
 > The best of Canadian  hip\-hop this year, handpicked by Spotify Canada editors\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,268 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,142 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9J6gykuP8Cf.md) - [plain](/playlists/plain/37i9dQZF1DX9J6gykuP8Cf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9J6gykuP8Cf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9J6gykuP8Cf.md) - [plain](/playlists/plain/37i9dQZF1DX9J6gykuP8Cf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9J6gykuP8Cf)
 
 ### [Metal Lords Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX9J6gykuP8Cf)
 
 > The official playlist for Metal Lords\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,293 likes - 18 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,389 likes - 18 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

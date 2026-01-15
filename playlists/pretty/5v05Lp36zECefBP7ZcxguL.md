@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5v05Lp36zECefBP7ZcxguL.md) - [plain](/playlists/plain/5v05Lp36zECefBP7ZcxguL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5v05Lp36zECefBP7ZcxguL)
+pretty - [cumulative](/playlists/cumulative/5v05Lp36zECefBP7ZcxguL.md) - [plain](/playlists/plain/5v05Lp36zECefBP7ZcxguL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5v05Lp36zECefBP7ZcxguL)
 
 ### [Les 100 de 2025](https://open.spotify.com/playlist/5v05Lp36zECefBP7ZcxguL)
 
 > Les meilleures musiques de l'année 2025 sélectionnées par la radio GRRIF\. <a href="http://www.grrif.ch">www.grrif.ch</a>
 
-[GRRIF](https://open.spotify.com/user/grrifradio) - 749 likes - 100 songs - 5 hr 51 min
+[GRRIF](https://open.spotify.com/user/grrifradio) - 748 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

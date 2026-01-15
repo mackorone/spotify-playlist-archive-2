@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2COSHn7qabg1U1gYEoiXVX.md) - cumulative - [plain](/playlists/plain/2COSHn7qabg1U1gYEoiXVX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2COSHn7qabg1U1gYEoiXVX)
+[pretty](/playlists/pretty/2COSHn7qabg1U1gYEoiXVX.md) - cumulative - [plain](/playlists/plain/2COSHn7qabg1U1gYEoiXVX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2COSHn7qabg1U1gYEoiXVX)
 
 ### [Summer House/Techno](https://open.spotify.com/playlist/2COSHn7qabg1U1gYEoiXVX)
 

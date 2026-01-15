@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5BQyCxfPfCno0PuTqkZUgb.md) - [plain](/playlists/plain/5BQyCxfPfCno0PuTqkZUgb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5BQyCxfPfCno0PuTqkZUgb)
+pretty - [cumulative](/playlists/cumulative/5BQyCxfPfCno0PuTqkZUgb.md) - [plain](/playlists/plain/5BQyCxfPfCno0PuTqkZUgb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5BQyCxfPfCno0PuTqkZUgb)
 
 ### [Top Tracks in Kids](https://open.spotify.com/playlist/5BQyCxfPfCno0PuTqkZUgb)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fWtUuB7bFE.md) - [plain](/playlists/plain/37i9dQZF1DX0fWtUuB7bFE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0fWtUuB7bFE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fWtUuB7bFE.md) - [plain](/playlists/plain/37i9dQZF1DX0fWtUuB7bFE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0fWtUuB7bFE)
 
 ### [Classic Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX0fWtUuB7bFE)
 

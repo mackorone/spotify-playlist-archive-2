@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58gKmCfKS2T.md) - [plain](/playlists/plain/37i9dQZF1DX58gKmCfKS2T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX58gKmCfKS2T)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58gKmCfKS2T.md) - [plain](/playlists/plain/37i9dQZF1DX58gKmCfKS2T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX58gKmCfKS2T)
 
 ### [Most Streamed Rap Songs on Spotify](https://open.spotify.com/playlist/37i9dQZF1DX58gKmCfKS2T)
 
 > Marking hip\-hop's 50th anniversary with the most streamed rap songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,498 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,088 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

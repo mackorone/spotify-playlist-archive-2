@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain](/playlists/plain/37i9dQZF1DX6EruMUbdfEp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6EruMUbdfEp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain](/playlists/plain/37i9dQZF1DX6EruMUbdfEp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6EruMUbdfEp)
 
 ### [FULLMETAL ALCHEMIST / FULLMETAL ALCHEMIST BROTHERHOOD](https://open.spotify.com/playlist/37i9dQZF1DX6EruMUbdfEp)
 
 > Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! \(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,998 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,336 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

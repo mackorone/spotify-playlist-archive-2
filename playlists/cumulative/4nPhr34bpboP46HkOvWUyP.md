@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4nPhr34bpboP46HkOvWUyP.md) - cumulative - [plain](/playlists/plain/4nPhr34bpboP46HkOvWUyP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4nPhr34bpboP46HkOvWUyP)
+[pretty](/playlists/pretty/4nPhr34bpboP46HkOvWUyP.md) - cumulative - [plain](/playlists/plain/4nPhr34bpboP46HkOvWUyP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4nPhr34bpboP46HkOvWUyP)
 
 ### [JOSHUA LANUARII: ALL MUSIC](https://open.spotify.com/playlist/4nPhr34bpboP46HkOvWUyP)
 

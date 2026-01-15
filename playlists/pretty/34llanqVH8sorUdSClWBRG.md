@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain](/playlists/plain/34llanqVH8sorUdSClWBRG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/34llanqVH8sorUdSClWBRG)
+pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain](/playlists/plain/34llanqVH8sorUdSClWBRG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/34llanqVH8sorUdSClWBRG)
 
 ### [Diseased](https://open.spotify.com/playlist/34llanqVH8sorUdSClWBRG)
 
 > Mental illness
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 62 songs - 3 hr 28 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 63 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 60 | [What’s Going On?!](https://open.spotify.com/track/5s7nzC5NOwTo61L1NBGH26) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [What’s Going On?!](https://open.spotify.com/album/1wQ7VxnsFQC75cuF3k6VtO) | 4:03 |
 | 61 | [Active Trauma](https://open.spotify.com/track/0arc3QuQdiy6u8CmgYWQPW) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 1:49 |
 | 62 | [Puppet Loosely Strung](https://open.spotify.com/track/54zjAmM6zJoW8X0t8brP7u) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Puppet Loosely Strung](https://open.spotify.com/album/7BxQVuQpjIgdJj8pkzq2ix) | 5:14 |
+| 63 | [Feel Better](https://open.spotify.com/track/0mfHN9LcAPidSI3JCPqYml) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 4:12 |
 
-Snapshot ID: `AAAAQkiAk5GgLgPTgGBrAzgiApEYwqmo`
+Snapshot ID: `AAAAQzXsOmxMyfTaJU4EagsSLMtmRvp4`

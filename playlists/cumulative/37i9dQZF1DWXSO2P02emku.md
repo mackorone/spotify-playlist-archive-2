@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXSO2P02emku.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXSO2P02emku) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXSO2P02emku)
+[pretty](/playlists/pretty/37i9dQZF1DWXSO2P02emku.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXSO2P02emku) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXSO2P02emku)
 
 ### [Country Sin Fronteras](https://open.spotify.com/playlist/37i9dQZF1DWXSO2P02emku)
 

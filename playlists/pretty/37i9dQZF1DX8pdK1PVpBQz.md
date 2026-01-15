@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain](/playlists/plain/37i9dQZF1DX8pdK1PVpBQz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8pdK1PVpBQz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain](/playlists/plain/37i9dQZF1DX8pdK1PVpBQz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8pdK1PVpBQz)
 
 ### [Best of Fresh Finds AU & NZ 2025](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
 > Our editors' picks of this year's best local songs from independent artists and labels\. Cover: Folk Bitch Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,117 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,159 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 41 | [Fuck It](https://open.spotify.com/track/4c55kpp4RBCowd7F0CI64A) | [Dick Move](https://open.spotify.com/artist/4y32anHRxQ5DXUQYomokdU) | [Dream, Believe, Achieve](https://open.spotify.com/album/5PzkplY05lNpnmBNDoJVlE) | 2:19 |
 | 42 | [Who's Dat!](https://open.spotify.com/track/3LG8KgOXFjgqLtixktMrl6) | [DRIZZZ](https://open.spotify.com/artist/1cr4aKJ1SFmSVZBbmukJB0) | [Who's Dat!](https://open.spotify.com/album/3ne703fOcKNZl6XDrlIA7W) | 2:35 |
 | 43 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
-| 44 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:55 |
+| 44 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
 | 45 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 |
 | 46 | [Harry and the Jets](https://open.spotify.com/track/16WIH4tySN6EmjACiBwAYJ) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [DJ Set](https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u) | 4:16 |
 | 47 | [hot and talking](https://open.spotify.com/track/72vZQDoPeWNmo9cbuAfFvY) | [JUNO](https://open.spotify.com/artist/5rxsXE7ZCWfW3ft7Dc5eyu) | [hot and talking](https://open.spotify.com/album/06Wt4oQiVFEWTbR2G65Qie) | 3:28 |

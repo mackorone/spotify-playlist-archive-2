@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1yJEjpPGm1A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1yJEjpPGm1A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1yJEjpPGm1A)
+[pretty](/playlists/pretty/37i9dQZF1DX1yJEjpPGm1A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1yJEjpPGm1A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1yJEjpPGm1A)
 
 ### [결혼 & 축가 \(K\-Pop Wedding\)](https://open.spotify.com/playlist/37i9dQZF1DX1yJEjpPGm1A)
 

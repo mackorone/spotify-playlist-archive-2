@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXa3NnZWk6Z3T.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa3NnZWk6Z3T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa3NnZWk6Z3T)
+[pretty](/playlists/pretty/37i9dQZF1DXa3NnZWk6Z3T.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa3NnZWk6Z3T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXa3NnZWk6Z3T)
 
 ### [Café con Leche](https://open.spotify.com/playlist/37i9dQZF1DXa3NnZWk6Z3T)
 
@@ -39,7 +39,7 @@
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2024-05-13 | 2025-11-15 |
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-12-09 |  |
 | [Aquí Vinimos \- El Que Busca Mix](https://open.spotify.com/track/4XYDvFGIzgCg3QGqpwB1I8) | [Cheo & Ulises Hadjis](https://open.spotify.com/artist/7IKuQRkkcfoycYLQVDGLpg) | [Aquí Vinimos \(El Que Busca Mix\)](https://open.spotify.com/album/4pCn6UMCYtGWObf3x9vBp6) | 2:30 | 2022-04-07 | 2022-04-21 |
-| [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-04-07 |  |
+| [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-04-07 | 2026-01-15 |
 | [Arabia](https://open.spotify.com/track/7KneZ5qdn89Lg0MTeTEsWb) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Aguadulce II](https://open.spotify.com/album/30i1SVLlSGfgtnyFJCGTis) | 4:47 | 2023-10-27 |  |
 | [Ask Me To](https://open.spotify.com/track/0vSluK7H8Uf4rXqeo9jFcd) | [Emily Estefan](https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya) | [Ask Me To](https://open.spotify.com/album/6GIjUnNL9efF9HXD6wgfuC) | 4:38 | 2024-03-14 | 2024-05-14 |
 | [Ausente](https://open.spotify.com/track/5Y7TAGEM42zS5MOxkBr1nD) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ausente](https://open.spotify.com/album/7DEyRK52e2b6N00hNO1UF7) | 3:54 | 2021-12-09 | 2022-12-31 |
@@ -98,7 +98,7 @@
 | [Claridad](https://open.spotify.com/track/219jqVvucWF77DMgyB3UAf) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Mar Abierto](https://open.spotify.com/album/6ggfwl5PZYQc4F3xk5g2GE) | 2:53 | 2022-05-14 | 2024-04-19 |
 | [Claridad](https://open.spotify.com/track/2CZp6sRzNcCPkvnrzy89bF) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Claridad](https://open.spotify.com/album/3p1iWnA4UhCi9fe7tKU4cF) | 2:53 | 2021-12-09 | 2024-07-27 |
 | [Cliché](https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:44 | 2022-09-21 | 2024-04-19 |
-| [Cliché](https://open.spotify.com/track/4LibnjBGrnHExVThKnN3BG) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Cliché](https://open.spotify.com/album/7aVEWvrRBqfRArFCJUtfVf) | 3:44 | 2021-12-09 | 2025-05-01 |
+| [Cliché](https://open.spotify.com/track/4LibnjBGrnHExVThKnN3BG) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Cliché](https://open.spotify.com/album/7aVEWvrRBqfRArFCJUtfVf) | 3:44 | 2021-12-09 |  |
 | [COCA](https://open.spotify.com/track/6FGPm7bIN62PrBDIq54srN) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [COCA](https://open.spotify.com/album/3VMfHdjjQPWFJ78v7euYvt) | 3:41 | 2021-12-09 | 2022-07-29 |
 | [COCA](https://open.spotify.com/track/7Deln1RrwXsDSQAeiyLkwM) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Lecciones De Una Vida Cagándola En El Amor](https://open.spotify.com/album/4GIC4rdUirqDrhVIHdevM4) | 3:41 | 2022-09-21 | 2024-04-19 |
 | [Colores](https://open.spotify.com/track/2COmtOUw9l3ZKgQnK9Zx1b) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/3FNqMoQV2Ang18yjFRykvW) | 4:34 | 2021-12-09 | 2022-07-22 |

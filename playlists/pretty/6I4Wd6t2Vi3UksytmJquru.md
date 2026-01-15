@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6I4Wd6t2Vi3UksytmJquru.md) - [plain](/playlists/plain/6I4Wd6t2Vi3UksytmJquru) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6I4Wd6t2Vi3UksytmJquru)
+pretty - [cumulative](/playlists/cumulative/6I4Wd6t2Vi3UksytmJquru.md) - [plain](/playlists/plain/6I4Wd6t2Vi3UksytmJquru) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6I4Wd6t2Vi3UksytmJquru)
 
 ### [Pub Songs 🍺](https://open.spotify.com/playlist/6I4Wd6t2Vi3UksytmJquru)
 
 > Pub &amp; karaoke drinking classics from 70s, 80s, 90s, 00s, 10s &amp; beyond \- right through to closing time in the local.
 
-[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 49,392 likes - 116 songs - 8 hr 5 min
+[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 49,424 likes - 116 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/6I4Wd6t2Vi3UksytmJquru.md) - [plain]
 | 115 | [Jessie's Girl](https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/5MeeResNCJfmDmwmHX4w2D) | 3:14 |
 | 116 | [Bat Out of Hell](https://open.spotify.com/track/0VafPclbphrwh36WraHWws) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 9:50 |
 
-Snapshot ID: `AAAKE91MbbD8ugpbHJOH6nC7dNVxVecI`
+Snapshot ID: `AAAKFwIOssT+da942ckl6l6QicotE/pl`

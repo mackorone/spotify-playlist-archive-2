@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6DMDp286rY0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6DMDp286rY0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6DMDp286rY0)
+[pretty](/playlists/pretty/37i9dQZF1DX6DMDp286rY0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6DMDp286rY0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6DMDp286rY0)
 
 ### [Spotlight: Brown Girl Mag](https://open.spotify.com/playlist/37i9dQZF1DX6DMDp286rY0)
 

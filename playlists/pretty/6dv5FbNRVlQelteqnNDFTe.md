@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6dv5FbNRVlQelteqnNDFTe.md) - [plain](/playlists/plain/6dv5FbNRVlQelteqnNDFTe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6dv5FbNRVlQelteqnNDFTe)
+pretty - [cumulative](/playlists/cumulative/6dv5FbNRVlQelteqnNDFTe.md) - [plain](/playlists/plain/6dv5FbNRVlQelteqnNDFTe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6dv5FbNRVlQelteqnNDFTe)
 
 ### [All 00's Top Hits](https://open.spotify.com/playlist/6dv5FbNRVlQelteqnNDFTe)
 
 > De grootste hits uit de jaren 2000 \- 2010 voor je verzameld in één playlist\. \- <a href="spotify:user:digsternl">Meer playlists</a>
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 23,067 likes - 94 songs - 6 hr 9 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 23,053 likes - 94 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

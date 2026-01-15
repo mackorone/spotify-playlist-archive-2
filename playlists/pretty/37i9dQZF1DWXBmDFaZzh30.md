@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBmDFaZzh30.md) - [plain](/playlists/plain/37i9dQZF1DWXBmDFaZzh30) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXBmDFaZzh30)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBmDFaZzh30.md) - [plain](/playlists/plain/37i9dQZF1DWXBmDFaZzh30) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXBmDFaZzh30)
 
 ### [Tokyo Ghoul \- Compiled by Sui Ishida](https://open.spotify.com/playlist/37i9dQZF1DWXBmDFaZzh30)
 
 > Exclusive playlist by the author of "Tokyo Ghoul" © I/S © I/S,TGPC © I/S,TGRPC
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,007 likes - 36 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,243 likes - 36 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

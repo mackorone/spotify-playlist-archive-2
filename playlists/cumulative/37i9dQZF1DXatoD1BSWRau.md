@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXatoD1BSWRau.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXatoD1BSWRau) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXatoD1BSWRau)
+[pretty](/playlists/pretty/37i9dQZF1DXatoD1BSWRau.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXatoD1BSWRau) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXatoD1BSWRau)
 
 ### [Guardians of the Galaxy: The Official Mixtape](https://open.spotify.com/playlist/37i9dQZF1DXatoD1BSWRau)
 

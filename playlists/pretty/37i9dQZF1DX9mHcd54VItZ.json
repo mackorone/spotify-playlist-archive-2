@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Barto & Zaan Sonnekus",
-  "num_followers": 26298,
+  "num_followers": 26454,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
+        "name": "Spoed",
+        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 150810,
+      "name": "Spoed",
+      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
         "name": "My Huis",
         "url": "https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 210092,
       "name": "My Huis",
       "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "Spoed",
-        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 150810,
-      "name": "Spoed",
-      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
+        "name": "TREAT HIM LIKE A BABY",
+        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "TREAT HIM LIKE A BABY",
+      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
         "name": "Vanfokkingtasties Akoesties",
         "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "TREAT HIM LIKE A BABY",
-        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 149446,
-      "name": "TREAT HIM LIKE A BABY",
-      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
         "name": "By Die See (feat. Vreemd)",
         "url": "https://open.spotify.com/album/56f1brEoYkmMaWpjF3ClDu"
       },
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
+        "name": "KLEUR",
+        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
+      },
+      "artists": [
+        {
+          "name": "MOEGOE",
+          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
+        }
+      ],
+      "duration_ms": 201420,
+      "name": "KLEUR",
+      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
         "name": "Stellies (feat. Rooksein)",
         "url": "https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 167727,
       "name": "Stellies (feat. Rooksein)",
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "KLEUR",
-        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
-      },
-      "artists": [
-        {
-          "name": "MOEGOE",
-          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
-        }
-      ],
-      "duration_ms": 201420,
-      "name": "KLEUR",
-      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Mulberry Tree",
-        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
-      },
-      "artists": [
-        {
-          "name": "Babble Hume",
-          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
-        }
-      ],
-      "duration_ms": 209834,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
         "name": "Hey Jack",
         "url": "https://open.spotify.com/album/220IRwEjL95kR3Qxi0HV8W"
       },
@@ -527,18 +511,34 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Kies",
-        "url": "https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs"
+        "name": "Mulberry Tree",
+        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
       },
       "artists": [
         {
-          "name": "Riana Nel",
-          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
         }
       ],
-      "duration_ms": 208366,
-      "name": "Kies",
-      "url": "https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH"
+      "duration_ms": 209834,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "By Jou",
+        "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "By Jou",
+      "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "By Jou",
-        "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "By Jou",
-      "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
         "name": "Kenia",
         "url": "https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 225483,
       "name": "Kenia",
       "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Kies",
+        "url": "https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs"
+      },
+      "artists": [
+        {
+          "name": "Riana Nel",
+          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
+        }
+      ],
+      "duration_ms": 208366,
+      "name": "Kies",
+      "url": "https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
+        "name": "Travellers (Special Edition)",
+        "url": "https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z"
+      },
+      "artists": [
+        {
+          "name": "The Narrow",
+          "url": "https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "Lonely-lonely",
+      "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
         "name": "Die Tuindwergies",
         "url": "https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Travellers (Special Edition)",
-        "url": "https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z"
+        "name": "Victor Ludorum",
+        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
       },
       "artists": [
         {
-          "name": "The Narrow",
-          "url": "https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
         }
       ],
-      "duration_ms": 243720,
-      "name": "Lonely-lonely",
-      "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
+      "duration_ms": 189895,
+      "name": "Victor Ludorum",
+      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -811,22 +827,6 @@
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "Victor Ludorum",
-        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 189895,
-      "name": "Victor Ludorum",
-      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
     },
     {
       "added_at": "2025-12-19 05:44:49",

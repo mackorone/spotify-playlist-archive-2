@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain](/playlists/plain/37i9dQZF1DWVnX01c6gE6x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVnX01c6gE6x)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain](/playlists/plain/37i9dQZF1DWVnX01c6gE6x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVnX01c6gE6x)
 
 ### [RADAR Creadores México](https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x)
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:3dbajnsA1YJq9SS64Aoey4">Campechanas Podcast</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,982 likes - 8 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,974 likes - 8 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

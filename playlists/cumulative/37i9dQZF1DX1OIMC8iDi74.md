@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1OIMC8iDi74.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1OIMC8iDi74) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1OIMC8iDi74)
+[pretty](/playlists/pretty/37i9dQZF1DX1OIMC8iDi74.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1OIMC8iDi74) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1OIMC8iDi74)
 
 ### [Trap Mojito](https://open.spotify.com/playlist/37i9dQZF1DX1OIMC8iDi74)
 
 > The best of electronic trap 🏆 with RL Grime & Deadcrow
 
-837 songs - 1 day 19 hr 50 min
+838 songs - 1 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [After You Left](https://open.spotify.com/track/4W5ROae1ZZBbTIbsBa6A7g) | [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [After You Left](https://open.spotify.com/album/52WJbjCyyJJ3YXUMUyaXDD) | 3:02 | 2024-02-16 | 2024-03-30 |
 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 | 2025-06-27 |  |
 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 | 2025-05-30 |  |
+| [Ain't Going Fair](https://open.spotify.com/track/2IZO1t2NfD7bZrN3Ay61ZD) | [LOUIEJAYXX](https://open.spotify.com/artist/4FjUttOJfudEcivKBA6fLl) | [Ain't Going Fair](https://open.spotify.com/album/6eJB0f6azWAaPGTlNDobOY) | 3:16 | 2026-01-09 |  |
 | [Alive](https://open.spotify.com/track/4E9i8721QcN2hHaBsvAirm) | [Pao](https://open.spotify.com/artist/0BjwyQkvPnw7b6SE1Zz1xr), [Rahmaan](https://open.spotify.com/artist/0sCFFGcv5tDVarsFoKU3UA) | [Alive](https://open.spotify.com/album/0VtuSewUBCcpeXBLtCJ2QC) | 2:27 | 2024-03-22 | 2024-08-30 |
 | [All Again](https://open.spotify.com/track/1EHT4y5kyE0goaTmSEdEqW) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [All Again](https://open.spotify.com/album/4En2WlLfGumuYwiqY6jJEG) | 2:37 | 2024-01-12 | 2024-04-27 |
 | [ALL MFS](https://open.spotify.com/track/5mixDqBHkUKreGTaX1K3YK) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [ALL MFS](https://open.spotify.com/album/4MYyoKorYFc2NqSiHbyHi4) | 2:29 | 2024-09-20 | 2025-01-29 |
@@ -542,7 +543,7 @@
 | [OG](https://open.spotify.com/track/7aYzPU1roRllY8EXkfrsU0) | [Pryzms](https://open.spotify.com/artist/6HNMTkdyksPiM9gdBKLkYf) | [OG](https://open.spotify.com/album/1ecfbTX60VaXxLB2IuN2Re) | 3:43 | 2024-04-19 | 2024-05-11 |
 | [oh ah](https://open.spotify.com/track/31fAQ8MjS5r3hgIQMx17Pn) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [oh ah](https://open.spotify.com/album/2fTBaUXMJVI8pQ39YYZkUK) | 2:03 | 2024-05-24 | 2024-06-01 |
 | [OH LAWD](https://open.spotify.com/track/7lKkzOnRvY7OeLSFWBwlii) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Lemay](https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD) | [OH LAWD](https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4) | 4:28 | 2023-04-21 | 2023-12-21 |
-| [Okay](https://open.spotify.com/track/1dCp5pt4c76AOMPasRITAw) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Okay](https://open.spotify.com/album/0U0i261T4YzOxSVc1M9dIV) | 3:00 | 2025-09-19 |  |
+| [Okay](https://open.spotify.com/track/1dCp5pt4c76AOMPasRITAw) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Okay](https://open.spotify.com/album/0U0i261T4YzOxSVc1M9dIV) | 3:00 | 2025-09-19 | 2026-01-15 |
 | [Old School](https://open.spotify.com/track/35dSbV8cktYMW8XM2XM20A) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Old School](https://open.spotify.com/album/7MdqDNYFJaS2Rs5jcS3pJ9) | 3:03 | 2024-09-20 | 2024-12-13 |
 | [OMG Anthem](https://open.spotify.com/track/5tvhTgYnwgPzmzO6kCzCWC) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [OMG Anthem](https://open.spotify.com/album/1nMDKBIeie2pSksniNQaS3) | 3:00 | 2024-03-08 | 2024-03-30 |
 | [ONE](https://open.spotify.com/track/3HhNldd3UxNRNJGcWSjMix) | [AlienPark](https://open.spotify.com/artist/7xtEdHtZ1CdyPAY4px5N3R) | [The Prophecy: Volume 9](https://open.spotify.com/album/4bb1xzMxWiFhEKscFigL42) | 2:37 | 2024-01-12 | 2024-01-27 |

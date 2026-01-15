@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain](/playlists/plain/37i9dQZF1DX2P4yz1JwPAz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2P4yz1JwPAz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain](/playlists/plain/37i9dQZF1DX2P4yz1JwPAz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2P4yz1JwPAz)
 
 ### [R&D](https://open.spotify.com/playlist/37i9dQZF1DX2P4yz1JwPAz)
 
 > 808s & Melodies\. Cover: Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,488 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 273 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 | 25 | [Nobody Else](https://open.spotify.com/track/5pMynBlrQdGe6fGLAd477F) | [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [Nobody Else](https://open.spotify.com/album/0JGvFi9RkJnUQA6Kb5QOOW) | 2:11 |
 | 26 | [Overpriced](https://open.spotify.com/track/7sV2u9PuacBt62EgwqAPFC) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Overpriced](https://open.spotify.com/album/62ZHVbE8x65GyJvztZDInF) | 2:10 |
 | 27 | [Pull Up](https://open.spotify.com/track/6h2nENjlo0GOIpVurs98EY) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [English Dubbed](https://open.spotify.com/album/0gD720TRNfVewJlAe31Kyr) | 3:30 |
-| 28 | [Gone](https://open.spotify.com/track/3jTk3JX7wN0CO60welQgnJ) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Gone](https://open.spotify.com/album/3mDsO6BKW5H3mqzWdUgLPf) | 2:36 |
-| 29 | [New Shape](https://open.spotify.com/track/5Awic3Q2wuEp6LrwPdTVis) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [New Shape](https://open.spotify.com/album/3mxW4ANOby1MOXhDamMMfs) | 3:41 |
-| 30 | [Different](https://open.spotify.com/track/2Aor7sxtCHbg38H0Q5E8cM) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Different](https://open.spotify.com/album/45a3tcpZY51zTdGJ65DoJd) | 1:52 |
+| 28 | [Different](https://open.spotify.com/track/2Aor7sxtCHbg38H0Q5E8cM) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Different](https://open.spotify.com/album/45a3tcpZY51zTdGJ65DoJd) | 1:52 |
+| 29 | [Gone](https://open.spotify.com/track/3jTk3JX7wN0CO60welQgnJ) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Gone](https://open.spotify.com/album/3mDsO6BKW5H3mqzWdUgLPf) | 2:36 |
+| 30 | [New Shape](https://open.spotify.com/track/5Awic3Q2wuEp6LrwPdTVis) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [New Shape](https://open.spotify.com/album/3mxW4ANOby1MOXhDamMMfs) | 3:41 |
 | 31 | [Latest Trends \(feat\. A Boogie wit da Hoodie\) \- Remix](https://open.spotify.com/track/5IEV9dsY2iqC8ICtjAw0ER) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Latest Trends \(feat\. A Boogie wit da Hoodie\) \[Remix\]](https://open.spotify.com/album/7jsv1OYZ1fspWgtFtdaEZf) | 3:17 |
 | 32 | [What Can I Say](https://open.spotify.com/track/6HVlPPWZcwAQOtvPbNnJMI) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [What Can I Say](https://open.spotify.com/album/3VO4UKvjQDYYseML7IyGJN) | 2:42 |
 | 33 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
@@ -55,19 +55,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 | 45 | [Time](https://open.spotify.com/track/4eJsS3MQMHUgkGLOJONyN7) | [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl), [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [25/8](https://open.spotify.com/album/17RR2AT87P8UELwlelwM7b) | 3:04 |
 | 46 | [Kirkobain](https://open.spotify.com/track/4RCqh5udSylWxKkW3pEDRI) | [Kirky](https://open.spotify.com/artist/2fzNiCEzgdhft2I2PiaB8h) | [Kirkobain](https://open.spotify.com/album/7lKr2UPDsbDBv0fjLNFv2h) | 2:43 |
 | 47 | [On Top \(feat\. Fivio Foreign\)](https://open.spotify.com/track/71G3ce3FWwJOlpZRksXmfX) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:47 |
-| 48 | [Larger](https://open.spotify.com/track/2rsFK7wXrpF6Y8SuHl6N61) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ) | [Larger](https://open.spotify.com/album/4FFqRS78x1EkxKTib3dKJV) | 2:32 |
-| 49 | [Come Ouu \(feat\. Jrilla\)](https://open.spotify.com/track/5AZfN1S0gAbaMtgrOFoxsD) | [SELLO](https://open.spotify.com/artist/6GdZAjpf8BRRnbBWLaiFZ7), [JRILLA](https://open.spotify.com/artist/29Xl0H2RxIYmnodIPU5Jw1) | [SELLÓTAPE](https://open.spotify.com/album/2FxKuexnnZpUS2g23JC8zY) | 3:18 |
+| 48 | [Come Ouu \(feat\. Jrilla\)](https://open.spotify.com/track/5AZfN1S0gAbaMtgrOFoxsD) | [SELLO](https://open.spotify.com/artist/6GdZAjpf8BRRnbBWLaiFZ7), [JRILLA](https://open.spotify.com/artist/29Xl0H2RxIYmnodIPU5Jw1) | [SELLÓTAPE](https://open.spotify.com/album/2FxKuexnnZpUS2g23JC8zY) | 3:18 |
+| 49 | [Larger](https://open.spotify.com/track/2rsFK7wXrpF6Y8SuHl6N61) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ) | [Larger](https://open.spotify.com/album/4FFqRS78x1EkxKTib3dKJV) | 2:32 |
 | 50 | [Platonic](https://open.spotify.com/track/7MpWkFfg0wLMCvo53ChsPF) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Platonic](https://open.spotify.com/album/6fBFIDG05ozVbtZYoMx1Bu) | 2:18 |
 | 51 | [Signals](https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Signals](https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7) | 2:44 |
 | 52 | [Know Your Worth](https://open.spotify.com/track/3qRZfZFalWv7Cu0XZJd6yv) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z) | [Know Your Worth](https://open.spotify.com/album/4vJEXjkTlqYhoJVhUExrGz) | 3:15 |
-| 53 | [Quiet](https://open.spotify.com/track/5Y3Mj308BxTie361t8iyLt) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ), [Jada O'Neill](https://open.spotify.com/artist/67XWu4IXgDzcwqrx6zvyfi) | [Quiet](https://open.spotify.com/album/0bW473EJyGNL1UkHzoY3jz) | 2:32 |
-| 54 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
+| 53 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
+| 54 | [Quiet](https://open.spotify.com/track/5Y3Mj308BxTie361t8iyLt) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ), [Jada O'Neill](https://open.spotify.com/artist/67XWu4IXgDzcwqrx6zvyfi) | [Quiet](https://open.spotify.com/album/0bW473EJyGNL1UkHzoY3jz) | 2:32 |
 | 55 | [Hood Love](https://open.spotify.com/track/6GWXCiPbAyWf6gn09jRrtC) | [Laurena Volanté](https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu) | [RnDrill](https://open.spotify.com/album/2WhlhHXlA3xrM4MBAE1Xvo) | 2:34 |
-| 56 | [GET IT TOGETHER](https://open.spotify.com/track/54EGc9OibAphFj1hMFgedw) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [GET IT TOGETHER](https://open.spotify.com/album/4RUxPcYOy8IL3ACwlIXEfu) | 2:20 |
-| 57 | [Nebula](https://open.spotify.com/track/4e33Gpk6gvBA78S5RgZLGB) | [Lloyd Luther](https://open.spotify.com/artist/6AtOBnmVBGL5a9hZ4WFi6p) | [Nebula](https://open.spotify.com/album/1DOEJ6QPTu2mum2ZbJnrEn) | 3:02 |
+| 56 | [Nebula](https://open.spotify.com/track/4e33Gpk6gvBA78S5RgZLGB) | [Lloyd Luther](https://open.spotify.com/artist/6AtOBnmVBGL5a9hZ4WFi6p) | [Nebula](https://open.spotify.com/album/1DOEJ6QPTu2mum2ZbJnrEn) | 3:02 |
+| 57 | [GET IT TOGETHER](https://open.spotify.com/track/54EGc9OibAphFj1hMFgedw) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [GET IT TOGETHER](https://open.spotify.com/album/4RUxPcYOy8IL3ACwlIXEfu) | 2:20 |
 | 58 | [Out of Time](https://open.spotify.com/track/5HVSXuU4Bn1jD6KNlKTUuG) | [Tidez](https://open.spotify.com/artist/12eUUHfSG9IGizOvLcvuq4) | [Time In Time Out](https://open.spotify.com/album/4rvzK6n79i4QVER1dQdgCd) | 3:37 |
 | 59 | [Pushin'](https://open.spotify.com/track/0wmwAS9SA6Tg3Qoyqx9dqU) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [XVR BLCK](https://open.spotify.com/artist/7utNm67x1f8kErx7PfWb9U) | [Pushin'](https://open.spotify.com/album/65PJkEX27NgzTI8fBAeOzU) | 3:02 |
 | 60 | [No Games](https://open.spotify.com/track/5lt4D6YKZ3N80ml8YCkjIQ) | [IamSK](https://open.spotify.com/artist/1LIv6qyfV2HY44hVxRTtQa), [Dre B](https://open.spotify.com/artist/2z83fyW4WRNNmoirA910RB) | [No Games](https://open.spotify.com/album/69lTn33rlbd6m4cB6tEgUR) | 2:43 |
 | 61 | [Wait A Minute](https://open.spotify.com/track/1ZI3LhSyksUfxDiHwmZdg8) | [98s](https://open.spotify.com/artist/6IzhPGZlb27v8HuOQvkiQk), [Billy Billions](https://open.spotify.com/artist/69qrun5V2jt5YOitlunPh8), [Kay\-O](https://open.spotify.com/artist/51xvY3ND0pMakkwfNJa3AN), [Alchubbino](https://open.spotify.com/artist/33oHR1Xi4O5sUl3iMo2VI4) | [Class of 98s](https://open.spotify.com/album/3fRRxwfSston1uuBEto129) | 4:01 |
 
-Snapshot ID: `AAAAAPn4HJP4Kt/32E5jzqvYknk1LArL`
+Snapshot ID: `AAAAAIuSqFYNRK3bOtsEXfhPXfRs6OUM`

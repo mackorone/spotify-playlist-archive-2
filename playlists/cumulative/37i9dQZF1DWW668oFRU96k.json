@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: ILLENIUM x Bastille x Dabin",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -4837,6 +4837,28 @@
     },
     {
       "album": {
+        "name": "Black & Gold",
+        "url": "https://open.spotify.com/album/7r71jB4J1FYwoHzb86xmD4"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192937,
+      "name": "Black & Gold",
+      "url": "https://open.spotify.com/track/2bLVojtkh60Rh0wK0TLwaf"
+    },
+    {
+      "album": {
         "name": "Me And The Boiz & Black Cadillac",
         "url": "https://open.spotify.com/album/2rcShpL4zV5EaCn2uvR0vl"
       },
@@ -4852,6 +4874,24 @@
       "duration_ms": 175783,
       "name": "Black Cadillac",
       "url": "https://open.spotify.com/track/6A1iklrBcumlK1mnq89KQN"
+    },
+    {
+      "album": {
+        "name": "Black Midas",
+        "url": "https://open.spotify.com/album/5i88rRUfLghzjRsaYaHBqz"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244715,
+      "name": "Black Midas",
+      "url": "https://open.spotify.com/track/04lzz9u2H2NAXZgcME0o7r"
     },
     {
       "album": {
@@ -5997,7 +6037,7 @@
         },
         {
           "name": "Katherine O'Ryan",
-          "url": "https://open.spotify.com/artist/0foTjx8RAzm5MKT7DOEMgB"
+          "url": "https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW"
         }
       ],
       "date_added": "2026-01-01",
@@ -9845,6 +9885,24 @@
     },
     {
       "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/4ZGhXqzoSNBnzvxRB2NALr"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372424,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/0revALbfswvbw3zURpu4eE"
+    },
+    {
+      "album": {
         "name": "Do It to It",
         "url": "https://open.spotify.com/album/2xZUFb8IRskzgUnzmisHJ0"
       },
@@ -10376,7 +10434,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165333,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/0ZQLzZuoMcFDMgzFngXBCM"
@@ -11584,6 +11642,24 @@
       "duration_ms": 131160,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/5xVbxzoOYiMulhB8p7jZ9v"
+    },
+    {
+      "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"
     },
     {
       "album": {
@@ -13050,6 +13126,32 @@
     {
       "album": {
         "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD"
+    },
+    {
+      "album": {
+        "name": "Feel Alive",
         "url": "https://open.spotify.com/album/0Jb3jCVoiuhAa8KdlofoGR"
       },
       "artists": [
@@ -13652,6 +13754,40 @@
       "duration_ms": 197309,
       "name": "Fight for You",
       "url": "https://open.spotify.com/track/4rdMZDHXyu4C1ZJHOQoz91"
+    },
+    {
+      "album": {
+        "name": "Fight Machine (feat. NAIIM)",
+        "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        },
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        },
+        {
+          "name": "NAIIM",
+          "url": "https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Fight Machine (feat. NAIIM)",
+      "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
     },
     {
       "album": {
@@ -15379,6 +15515,28 @@
     },
     {
       "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170640,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV"
+    },
+    {
+      "album": {
         "name": "Gaze Riddim",
         "url": "https://open.spotify.com/album/5Xzat1xqYPrvGcntlRUIgN"
       },
@@ -15683,6 +15841,28 @@
     },
     {
       "album": {
+        "name": "Give Love",
+        "url": "https://open.spotify.com/album/3mvpvSoC4gqMBj0wXiGeVP"
+      },
+      "artists": [
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        },
+        {
+          "name": "Richard Bahericz",
+          "url": "https://open.spotify.com/artist/50S44JfCOnfaTqZbSjfafK"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157282,
+      "name": "Give Love",
+      "url": "https://open.spotify.com/track/7L1ePOIHaZKBHG7hugznDo"
+    },
+    {
+      "album": {
         "name": "Give Me",
         "url": "https://open.spotify.com/album/4VX0z1gIfnSzQnGHga7E2w"
       },
@@ -15860,6 +16040,28 @@
       "duration_ms": 150225,
       "name": "GLOW (feat. Au/Ra)",
       "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
+    },
+    {
+      "album": {
+        "name": "Go Mode",
+        "url": "https://open.spotify.com/album/7Fph1Fv8ybagzOa8If8oVg"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188731,
+      "name": "Go Mode",
+      "url": "https://open.spotify.com/track/0Rxn4PqpW2wiNhj5a3Sjgd"
     },
     {
       "album": {
@@ -16580,7 +16782,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 158750,
       "name": "Head Rush",
       "url": "https://open.spotify.com/track/4DPekWzLEoCJdJErOexV84"
@@ -24652,7 +24854,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 219023,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"
@@ -32688,7 +32890,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 144025,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6Fd57PEBw75ogKIpSLLzLB"
@@ -33006,7 +33208,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 131803,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/3nvboqOVC6YmuqsoRpfaow"
@@ -33146,6 +33348,28 @@
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
+    },
+    {
+      "album": {
+        "name": "Pushes",
+        "url": "https://open.spotify.com/album/3C3k5fVvwkMrcohJoeL5Ut"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        },
+        {
+          "name": "Sika Deva",
+          "url": "https://open.spotify.com/artist/3UsIngEd65pVgWQpwNjvqu"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Pushes",
+      "url": "https://open.spotify.com/track/3tYnS29INEiATZvQbrw0vE"
     },
     {
       "album": {
@@ -33436,6 +33660,32 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
+    },
+    {
+      "album": {
+        "name": "Rave Baby",
+        "url": "https://open.spotify.com/album/3jDrXPC1SlciGoCYe4YQLi"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "WUKONG",
+          "url": "https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T"
+        },
+        {
+          "name": "Evil Twiin",
+          "url": "https://open.spotify.com/artist/4Wi32nMyDHreHb97iXd9zN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Rave Baby",
+      "url": "https://open.spotify.com/track/5Gc4fbTUrQzqNGIWLaZHmC"
     },
     {
       "album": {
@@ -41234,7 +41484,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196080,
       "name": "Thinking About You (feat. Arkey)",
       "url": "https://open.spotify.com/track/1DwY5BtXvfysoSv37frTER"
@@ -42788,6 +43038,24 @@
       "duration_ms": 173760,
       "name": "Undone (feat. JKLN)",
       "url": "https://open.spotify.com/track/6XM788XKKzR71AfS6X0zKD"
+    },
+    {
+      "album": {
+        "name": "Unfaithful",
+        "url": "https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231891,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8"
     },
     {
       "album": {

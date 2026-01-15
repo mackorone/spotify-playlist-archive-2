@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wkhxf6fGZk.md) - [plain](/playlists/plain/37i9dQZF1DX9wkhxf6fGZk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9wkhxf6fGZk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wkhxf6fGZk.md) - [plain](/playlists/plain/37i9dQZF1DX9wkhxf6fGZk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9wkhxf6fGZk)
 
 ### [Danielle Brooks' Taste](https://open.spotify.com/playlist/37i9dQZF1DX9wkhxf6fGZk)
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/daniebb3/">Danielle Brooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,529 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,653 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

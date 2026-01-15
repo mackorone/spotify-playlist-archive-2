@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/49MqbWUSYMpxaUzog7MDqG.md) - cumulative - [plain](/playlists/plain/49MqbWUSYMpxaUzog7MDqG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/49MqbWUSYMpxaUzog7MDqG)
+[pretty](/playlists/pretty/49MqbWUSYMpxaUzog7MDqG.md) - cumulative - [plain](/playlists/plain/49MqbWUSYMpxaUzog7MDqG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/49MqbWUSYMpxaUzog7MDqG)
 
 ### [Late Night Music](https://open.spotify.com/playlist/49MqbWUSYMpxaUzog7MDqG)
 

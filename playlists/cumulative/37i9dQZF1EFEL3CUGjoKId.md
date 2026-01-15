@@ -1,17 +1,18 @@
-[pretty](/playlists/pretty/37i9dQZF1EFEL3CUGjoKId.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFEL3CUGjoKId) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFEL3CUGjoKId)
+[pretty](/playlists/pretty/37i9dQZF1EFEL3CUGjoKId.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFEL3CUGjoKId) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFEL3CUGjoKId)
 
 ### [Written By Christine McVie](https://open.spotify.com/playlist/37i9dQZF1EFEL3CUGjoKId)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-92 songs - 5 hr 57 min
+93 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All over Again](https://open.spotify.com/track/5ZwoapiOoajVUtLmj1BDBb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 3:36 | 2024-01-29 |  |
 | [All You Gotta Do](https://open.spotify.com/track/4OPdDLf2iGJz5HehqpvCto) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2), [Glyn Johns](https://open.spotify.com/artist/2KLFXkMKYQNYvYyuRc5JmP) | [Songbird \(A Solo Collection\)](https://open.spotify.com/album/1kcIjjBURni0UFgY1t2XPb) | 4:54 | 2024-01-29 |  |
 | [Anything Is Possible](https://open.spotify.com/track/0p8nBFrIyfWoczdWjKGQwc) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:15 | 2024-01-29 |  |
-| [As Long as You Follow \- 2018 Remaster](https://open.spotify.com/track/12HlWPk7XLbogenA99DV6c) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [50 Years \- Don't Stop](https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf) | 4:20 | 2024-01-29 |  |
+| [As Long as You Follow](https://open.spotify.com/track/0TevBnk5pL8DEqKixmcgt9) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:18 | 2026-01-14 |  |
+| [As Long as You Follow \- 2018 Remaster](https://open.spotify.com/track/12HlWPk7XLbogenA99DV6c) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [50 Years \- Don't Stop](https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf) | 4:20 | 2024-01-29 | 2026-01-15 |
 | [Ask Anybody](https://open.spotify.com/track/14Ypfdkytzb8yxww1IN7Ip) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 5:29 | 2024-01-29 |  |
 | [Bad Journey](https://open.spotify.com/track/7juqWYgrx078A71i0G8Ro0) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 4:29 | 2024-01-29 |  |
 | [Bad Loser](https://open.spotify.com/track/7KwGYQdzjbW7K56J0PYQUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Heroes Are Hard to Find](https://open.spotify.com/album/2ISNpwmh12Nf2420YUQcNE) | 3:25 | 2024-01-29 |  |

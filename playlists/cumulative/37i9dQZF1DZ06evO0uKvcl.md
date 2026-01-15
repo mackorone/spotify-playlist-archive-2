@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO0uKvcl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0uKvcl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0uKvcl)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO0uKvcl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0uKvcl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO0uKvcl)
 
 ### [This Is Howlin' Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uKvcl)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain](/playlists/plain/37i9dQZF1DX05VdJQ1gtnD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX05VdJQ1gtnD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain](/playlists/plain/37i9dQZF1DX05VdJQ1gtnD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX05VdJQ1gtnD)
 
 ### [Fireside Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX05VdJQ1gtnD)
 

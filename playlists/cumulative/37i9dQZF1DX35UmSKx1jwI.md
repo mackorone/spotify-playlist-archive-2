@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX35UmSKx1jwI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35UmSKx1jwI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35UmSKx1jwI)
+[pretty](/playlists/pretty/37i9dQZF1DX35UmSKx1jwI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35UmSKx1jwI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX35UmSKx1jwI)
 
 ### [Gym Beats](https://open.spotify.com/playlist/37i9dQZF1DX35UmSKx1jwI)
 

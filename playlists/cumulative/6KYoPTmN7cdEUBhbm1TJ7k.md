@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6KYoPTmN7cdEUBhbm1TJ7k.md) - cumulative - [plain](/playlists/plain/6KYoPTmN7cdEUBhbm1TJ7k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6KYoPTmN7cdEUBhbm1TJ7k)
+[pretty](/playlists/pretty/6KYoPTmN7cdEUBhbm1TJ7k.md) - cumulative - [plain](/playlists/plain/6KYoPTmN7cdEUBhbm1TJ7k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6KYoPTmN7cdEUBhbm1TJ7k)
 
 ### [Fahrvergnügen!](https://open.spotify.com/playlist/6KYoPTmN7cdEUBhbm1TJ7k)
 

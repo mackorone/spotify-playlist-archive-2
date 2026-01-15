@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUileP28ODwg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUileP28ODwg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUileP28ODwg)
+[pretty](/playlists/pretty/37i9dQZF1DWUileP28ODwg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUileP28ODwg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUileP28ODwg)
 
 ### [Top Contemporary Christian](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams
 
-659 songs - 1 day 16 hr 33 min
+660 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,7 +613,8 @@
 | [What God Is Gonna Do](https://open.spotify.com/track/0YQF1BeB8otaL2AEjFimGn) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [What God Is Gonna Do](https://open.spotify.com/album/1VARoADcYqrhwnvwQjVj9D) | 4:19 | 2024-07-19 | 2025-03-01 |
 | [What I'm Waiting For](https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:48 | 2022-02-25 | 2023-10-07 |
 | [What If](https://open.spotify.com/track/6W0GK0gyb1pLwCTJnPN2OF) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5), [Megan Danielle](https://open.spotify.com/artist/4d2K0EIwr1nV3NeyyxTsKx) | [What If](https://open.spotify.com/album/5N5tvgh2mRRBRs6oz5Poc1) | 4:12 | 2025-01-31 | 2025-11-22 |
-| [When A Cowboy Prays](https://open.spotify.com/track/5El4el5fJrMq0onm31WEDo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [When A Cowboy Prays](https://open.spotify.com/album/331sTX4A9LVS7dydeAaZR2) | 3:57 | 2025-09-26 |  |
+| [When A Cowboy Prays](https://open.spotify.com/track/5El4el5fJrMq0onm31WEDo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [When A Cowboy Prays](https://open.spotify.com/album/331sTX4A9LVS7dydeAaZR2) | 3:57 | 2025-09-26 | 2026-01-15 |
+| [When A Cowboy Prays \- with Cody Johnson](https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [When A Cowboy Prays \(with Cody Johnson\)](https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn) | 3:57 | 2026-01-10 |  |
 | [When I Fall](https://open.spotify.com/track/275IgKeEgdEQV5MCJkIC26) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [When I Fall](https://open.spotify.com/album/6YgL1xiXpuBsTUK5y1MYuP) | 3:25 | 2024-12-11 | 2025-09-15 |
 | [When I Found You](https://open.spotify.com/track/4szrZ5eNjkeoSKdpZ4ju73) | [Megan Danielle](https://open.spotify.com/artist/4d2K0EIwr1nV3NeyyxTsKx) | [When I Found You](https://open.spotify.com/album/0PfwHpCfZz0gELEcTOsfbd) | 3:53 | 2024-12-11 | 2025-05-24 |
 | [When I Meet Jesus](https://open.spotify.com/track/7AqYCTyrIRiXs0lgSVbLKy) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [The Waiting Room](https://open.spotify.com/album/0MMYUxSaY8R6MMVBKy9dwT) | 3:54 | 2025-07-11 | 2025-09-15 |

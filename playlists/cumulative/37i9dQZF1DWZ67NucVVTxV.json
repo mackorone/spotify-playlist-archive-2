@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Akonuche",
+        "url": "https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Akonuche",
+      "url": "https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg"
+    },
+    {
+      "album": {
         "name": "Al Barakah",
         "url": "https://open.spotify.com/album/4CBcSSXGCC7q6CPYv9rigq"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 243157,
       "name": "Be Happy",
       "url": "https://open.spotify.com/track/2yAJrUiP3IRQaQtgTvPV1f"
@@ -6623,6 +6641,24 @@
     },
     {
       "album": {
+        "name": "HOW E DEY BE (HEDB)",
+        "url": "https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA"
+      },
+      "artists": [
+        {
+          "name": "SHON",
+          "url": "https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "HOW E DEY BE (HEDB)",
+      "url": "https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1"
+    },
+    {
+      "album": {
         "name": "How I Live",
         "url": "https://open.spotify.com/album/0iMKsOcLepvHDwW0eKFhwd"
       },
@@ -9784,7 +9820,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171245,
       "name": "Most Wanted",
       "url": "https://open.spotify.com/track/5la9K68cIHIBkURlGiHAAs"
@@ -12902,6 +12938,24 @@
       "duration_ms": 167237,
       "name": "RULER",
       "url": "https://open.spotify.com/track/3fbn0D0RFJeQv5jKkvOd6u"
+    },
+    {
+      "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170475,
+      "name": "Rules Of Life",
+      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
     },
     {
       "album": {
@@ -16150,7 +16204,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153600,
       "name": "Ye",
       "url": "https://open.spotify.com/track/5Uk4XgT6I0lgBagWcrtCsT"

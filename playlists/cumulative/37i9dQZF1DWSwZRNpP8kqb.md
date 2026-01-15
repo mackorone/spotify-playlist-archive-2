@@ -1,16 +1,16 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSwZRNpP8kqb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSwZRNpP8kqb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSwZRNpP8kqb)
+[pretty](/playlists/pretty/37i9dQZF1DWSwZRNpP8kqb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSwZRNpP8kqb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSwZRNpP8kqb)
 
 ### [Mujeres del Folklore](https://open.spotify.com/playlist/37i9dQZF1DWSwZRNpP8kqb)
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-164 songs - 9 hr 40 min
+165 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 | 2022-09-06 |  |
 | [Aleteo](https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd) | [Aleteo](https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau) | 3:24 | 2022-01-14 |  |
-| [Algo de Mí](https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:40 | 2022-09-06 |  |
+| [Algo de Mí](https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:40 | 2022-09-06 | 2026-01-15 |
 | [Alma](https://open.spotify.com/track/73fh5PP1DDxJLrjzuR0K93) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Alma](https://open.spotify.com/album/3bR7NG06VsznfRW6qvMdwy) | 3:16 | 2022-09-23 |  |
 | [Amar Amando](https://open.spotify.com/track/52Fd0SySj9oR4EFtCOHkrD) | [Marina González](https://open.spotify.com/artist/7egtvubyoo0WK5QsIWCfvU), [Roman Ramonda](https://open.spotify.com/artist/1AYXqjI12MEinGnm06ipuK) | [Amar Amando](https://open.spotify.com/album/6jdNhnxHxB7I4yqzj9HjIU) | 5:04 | 2022-01-14 | 2022-09-07 |
 | [Amiga Tierra Querida](https://open.spotify.com/track/2ajI1Zeed4VA6l8h5bXQkD) | [Las Cullen](https://open.spotify.com/artist/3aqZ7IEX7kdnBfr08TvMHf) | [Ruta 9](https://open.spotify.com/album/6PmRqkGtEiJEoGgvrboqgy) | 3:18 | 2022-09-06 | 2023-03-29 |
@@ -25,7 +25,7 @@
 | [Cambá Galleta](https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP) | [Dúo Bote](https://open.spotify.com/artist/0L2SCJoosQOW5BRqi9fEgL), [Abel Tesoriere](https://open.spotify.com/artist/6E68tprZpx0EA8mXQaUaQS), [Flor Bobadilla Oliva](https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j) | [Ysyry](https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn) | 2:34 | 2022-01-14 |  |
 | [Caminante](https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO) | [Caminante](https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0) | 3:28 | 2023-10-05 | 2023-12-10 |
 | [Campo Afuera](https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG) | [Paola Arias](https://open.spotify.com/artist/5qZQs9TjnHu0KrGsRa1zIt), [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [Uno Más 6](https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf) | 2:23 | 2022-09-06 |  |
-| [Canción del Jangadero](https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS) | [Patricia Gómez](https://open.spotify.com/artist/5kWUnk8ne4Gi2bzrwk95vc), [Mariano Peresón](https://open.spotify.com/artist/3mcRXU6lVquKxkjYh20oIf) | [Canción del Jangadero](https://open.spotify.com/album/4dnGcfrrrdc0fgUVhDIBwS) | 5:11 | 2022-01-14 | 2026-01-06 |
+| [Canción del Jangadero](https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS) | [Patricia Gómez](https://open.spotify.com/artist/5kWUnk8ne4Gi2bzrwk95vc), [Mariano Peresón](https://open.spotify.com/artist/3mcRXU6lVquKxkjYh20oIf) | [Canción del Jangadero](https://open.spotify.com/album/4dnGcfrrrdc0fgUVhDIBwS) | 5:11 | 2022-01-14 |  |
 | [Canción Repentina](https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs) | [Verde Trébol](https://open.spotify.com/artist/24KqDdEAK2qD277Eyc0aPl) | [No Hacen Falta Alas](https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ) | 2:42 | 2023-10-05 |  |
 | [Canto Enamorado](https://open.spotify.com/track/7BRno8jhBTQXCQbqJNFGrq) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Canto Enamorado](https://open.spotify.com/album/4j9cLwpYYtEVoHxQTNmNrZ) | 3:04 | 2022-01-14 | 2026-01-05 |
 | [Carnavaleando de Sol a Sol](https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Mi Camino](https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD) | 2:56 | 2023-09-01 |  |
@@ -110,6 +110,7 @@
 | [Los Amanecidos](https://open.spotify.com/track/7Kwy13s6V3R3Z258OvDBjH) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Mujer de Albahaca](https://open.spotify.com/album/3EhTjOrp4JDpBECSe0B8OA) | 2:31 | 2024-04-25 |  |
 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-08-11 |  |
 | [Luna De Cabotaje](https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON) | [Sylvia Zabzuk](https://open.spotify.com/artist/2ZJNcuNJm104OqLjD9LY3M) | [De Piedra y Agua](https://open.spotify.com/album/6BOdeQ0LrixZT3UngksPJZ) | 5:19 | 2022-01-14 | 2022-09-07 |
+| [Malamba](https://open.spotify.com/track/0ennKDzGT6vSWpXDKP4LGY) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Malamba](https://open.spotify.com/album/5pcgasBTVmcfKnbdIXgRaP) | 2:37 | 2025-08-21 |  |
 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 | 2022-01-14 |  |
 | [Mate Con Cedrón](https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG) | [Marité Berbel](https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU) | [Sigo Soñando](https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA) | 2:50 | 2022-01-14 |  |
 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 | 2022-09-06 |  |
@@ -118,7 +119,7 @@
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |
 | [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 | 2022-01-14 | 2025-12-17 |
 | [Ojalá te enamores](https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI) | [Ariadna Prime](https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY) | [Noche, día y madrugada](https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc) | 3:13 | 2022-01-14 | 2022-09-07 |
-| [Ojitos Lindos](https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Ojitos Lindos](https://open.spotify.com/album/3go3FqLGKpSSqiYkrPTUP0) | 3:10 | 2023-01-20 |  |
+| [Ojitos Lindos](https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Ojitos Lindos](https://open.spotify.com/album/3go3FqLGKpSSqiYkrPTUP0) | 3:10 | 2023-01-20 | 2026-01-15 |
 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 | 2022-09-23 |  |
 | [Oración Del Remanso](https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesion del Viento](https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe) | 4:28 | 2022-01-14 | 2024-08-27 |
 | [Paisaje](https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Retrato de Familia](https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT) | 3:28 | 2023-12-15 |  |

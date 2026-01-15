@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain](/playlists/plain/37i9dQZF1DX5FZ0gGkvIRf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5FZ0gGkvIRf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain](/playlists/plain/37i9dQZF1DX5FZ0gGkvIRf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5FZ0gGkvIRf)
 
 ### [Kickass Metal presents Best Heavy Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX5FZ0gGkvIRf)
 
 > Our editors' picks for the best heavy songs of the year\.  Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,607 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,697 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 95 | [Royally Done](https://open.spotify.com/track/3WrFmwbG5xx94GKdAzM2lB) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [We Should Be Buried Like This](https://open.spotify.com/album/0g62eTQQ85HplDFqLdMlF3) | 3:03 |
 | 96 | [KNIFE](https://open.spotify.com/track/66Gjhpjffv2VlZxx251Isw) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q) | [KNIFE](https://open.spotify.com/album/1lI6pgHQgbmIa6dCBHlqwm) | 3:39 |
 | 97 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
-| 98 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 |
+| 98 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:27 |
 | 99 | [Smoking Mirrors](https://open.spotify.com/track/1N6IRPRoQMOzGvPuEwJpgf) | [Cold Steel](https://open.spotify.com/artist/2inu89bjNrWjp92nEqloP2), [Two\-Piece](https://open.spotify.com/artist/0T0o14UhrT9HnvmzQShxfR) | [Smoking Mirrors](https://open.spotify.com/album/1RL7cftAIjVfE6b4oQljpu) | 2:45 |
 | 100 | [LEECH](https://open.spotify.com/track/1UhkbKn4oHsLPDWOKrLcP2) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [DEATHMATCH](https://open.spotify.com/album/1KzhjA47EIY2rX2WjKpMBR) | 3:53 |
 

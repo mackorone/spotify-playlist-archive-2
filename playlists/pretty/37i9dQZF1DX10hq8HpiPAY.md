@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10hq8HpiPAY.md) - [plain](/playlists/plain/37i9dQZF1DX10hq8HpiPAY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX10hq8HpiPAY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10hq8HpiPAY.md) - [plain](/playlists/plain/37i9dQZF1DX10hq8HpiPAY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX10hq8HpiPAY)
 
 ### [Tune In with Nikki Walton](https://open.spotify.com/playlist/37i9dQZF1DX10hq8HpiPAY)
 

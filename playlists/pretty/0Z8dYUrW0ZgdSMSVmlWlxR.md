@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain](/playlists/plain/0Z8dYUrW0ZgdSMSVmlWlxR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Z8dYUrW0ZgdSMSVmlWlxR)
+pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain](/playlists/plain/0Z8dYUrW0ZgdSMSVmlWlxR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0Z8dYUrW0ZgdSMSVmlWlxR)
 
 ### [GOD MODE ARC](https://open.spotify.com/playlist/0Z8dYUrW0ZgdSMSVmlWlxR)
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 49,117 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 49,058 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

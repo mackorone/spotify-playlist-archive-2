@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain](/playlists/plain/37i9dQZF1DXbrknLz4Do7C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbrknLz4Do7C)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain](/playlists/plain/37i9dQZF1DXbrknLz4Do7C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbrknLz4Do7C)
 
 ### [Best Christian & Gospel Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DXbrknLz4Do7C)
 
 > Our editors' picks for the best Christian, Gospel, and inspirational songs of the year! Cover: ELEVATION RHYTHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,788 likes - 90 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,257 likes - 90 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

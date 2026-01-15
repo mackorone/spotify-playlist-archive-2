@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcHjU1mZDN38.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcHjU1mZDN38) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcHjU1mZDN38)
+[pretty](/playlists/pretty/37i9dQZF1DXcHjU1mZDN38.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcHjU1mZDN38) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcHjU1mZDN38)
 
 ### [This is Matt Hansen](https://open.spotify.com/playlist/37i9dQZF1DXcHjU1mZDN38)
 

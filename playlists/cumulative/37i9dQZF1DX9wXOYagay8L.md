@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9wXOYagay8L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9wXOYagay8L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9wXOYagay8L)
+[pretty](/playlists/pretty/37i9dQZF1DX9wXOYagay8L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9wXOYagay8L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9wXOYagay8L)
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 

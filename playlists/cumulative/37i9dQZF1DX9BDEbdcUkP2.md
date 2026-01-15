@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9BDEbdcUkP2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9BDEbdcUkP2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9BDEbdcUkP2)
+[pretty](/playlists/pretty/37i9dQZF1DX9BDEbdcUkP2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9BDEbdcUkP2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9BDEbdcUkP2)
 
 ### [Summer Hits of the 60s](https://open.spotify.com/playlist/37i9dQZF1DX9BDEbdcUkP2)
 

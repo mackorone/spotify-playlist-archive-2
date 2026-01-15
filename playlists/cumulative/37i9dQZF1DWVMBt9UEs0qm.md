@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVMBt9UEs0qm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVMBt9UEs0qm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVMBt9UEs0qm)
+[pretty](/playlists/pretty/37i9dQZF1DWVMBt9UEs0qm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVMBt9UEs0qm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVMBt9UEs0qm)
 
 ### [Mellow Classics Drive](https://open.spotify.com/playlist/37i9dQZF1DWVMBt9UEs0qm)
 

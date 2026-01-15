@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/55qEVSpVEAIfzxOaNGffTE.md) - [plain](/playlists/plain/55qEVSpVEAIfzxOaNGffTE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/55qEVSpVEAIfzxOaNGffTE)
+pretty - [cumulative](/playlists/cumulative/55qEVSpVEAIfzxOaNGffTE.md) - [plain](/playlists/plain/55qEVSpVEAIfzxOaNGffTE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/55qEVSpVEAIfzxOaNGffTE)
 
 ### [LINDEMANN complete](https://open.spotify.com/playlist/55qEVSpVEAIfzxOaNGffTE)
 
 > <a href="https://lindemann.band">New Album &quot;F &amp; M&quot;</a>
 
-[Lindemann](https://open.spotify.com/user/f0b50l23esx6sbox1wxbfjvm6) - 25,261 likes - 29 songs - 1 hr 55 min
+[Lindemann](https://open.spotify.com/user/f0b50l23esx6sbox1wxbfjvm6) - 25,252 likes - 29 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

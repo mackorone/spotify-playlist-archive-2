@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain](/playlists/plain/37i9dQZF1DWUWC0NIJDJKL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUWC0NIJDJKL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain](/playlists/plain/37i9dQZF1DWUWC0NIJDJKL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUWC0NIJDJKL)
 
 ### [sunshine indie](https://open.spotify.com/playlist/37i9dQZF1DWUWC0NIJDJKL)
 

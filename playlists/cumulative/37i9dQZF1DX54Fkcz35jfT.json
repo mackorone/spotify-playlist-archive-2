@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: NOISEMAKER",
+  "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: EMNW",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176253,
       "name": "Bring the Beat Back",
       "url": "https://open.spotify.com/track/1Ahg8y7aonu9fjfZ9oJu6l"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 231428,
       "name": "BUG",
       "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196199,
       "name": "DO THE DANCE",
       "url": "https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh"
@@ -1788,6 +1788,24 @@
       "duration_ms": 196813,
       "name": "EPIPHANY",
       "url": "https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR"
+    },
+    {
+      "album": {
+        "name": "ERASE",
+        "url": "https://open.spotify.com/album/6Av9ZMcqAgdMqYq3xXu1iB"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "ERASE",
+      "url": "https://open.spotify.com/track/5Drv786v9viM5BxXZrCOqM"
     },
     {
       "album": {
@@ -2311,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "Headbang Baby",
+        "url": "https://open.spotify.com/album/6hGyEHIAeuK7ZsNeuUcnoQ"
+      },
+      "artists": [
+        {
+          "name": "EMNW",
+          "url": "https://open.spotify.com/artist/0TwqpQOStb1pMXxlGWFYxZ"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199900,
+      "name": "Headbang Baby",
+      "url": "https://open.spotify.com/track/0LisHA2tKWn63kuD1FE2BP"
+    },
+    {
+      "album": {
         "name": "HEDONIST",
         "url": "https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl"
       },
@@ -2556,7 +2592,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213272,
       "name": "I Guess I Won't Tell",
       "url": "https://open.spotify.com/track/3irFpwC2rmWOvH9BFE1flf"
@@ -2773,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/2OeQSCyzpoWeldbn3X57Wf"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206944,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt"
+    },
+    {
+      "album": {
         "name": "The First Eden - Seeds Of Hope (Selected Edition)",
         "url": "https://open.spotify.com/album/3TPdkObXMZnVVW2JhivaZf"
       },
@@ -2874,7 +2928,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193520,
       "name": "JUNGLE BUN DEM",
       "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
@@ -3248,6 +3302,24 @@
       "duration_ms": 234586,
       "name": "Liars",
       "url": "https://open.spotify.com/track/78eFSx5yei7SjvzvlwonQk"
+    },
+    {
+      "album": {
+        "name": "Liberator",
+        "url": "https://open.spotify.com/album/1EkdBVchn0CsCleE7ARh7h"
+      },
+      "artists": [
+        {
+          "name": "PassCode",
+          "url": "https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220826,
+      "name": "Liberator",
+      "url": "https://open.spotify.com/track/2dXc1QR4mD7jahydVs2CBc"
     },
     {
       "album": {
@@ -6464,7 +6536,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 233393,
       "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
       "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
@@ -7073,6 +7145,24 @@
     },
     {
       "album": {
+        "name": "PERFECTLY DEFECTiVE",
+        "url": "https://open.spotify.com/album/6ehKMTYQybWjY6RDsV9Fe5"
+      },
+      "artists": [
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147848,
+      "name": "\u3042\u3084\u3068\u308a\u30b3\u30f3\u30c6\u30cb\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/0FpMh8n2Cx4uim3rIsSrGI"
+    },
+    {
+      "album": {
         "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
         "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
       },
@@ -7268,6 +7358,24 @@
       "duration_ms": 187800,
       "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
       "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30c8\u30ca\u30ce\u30b9\u30b9\u30e1\uff5e\u9084\u66a6\u4e0a\u7b49\uff01\uff5e",
+        "url": "https://open.spotify.com/album/2UilOnubQMy40ji7GOzlLQ"
+      },
+      "artists": [
+        {
+          "name": "Dohatsuten",
+          "url": "https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283946,
+      "name": "\u30aa\u30c8\u30ca\u30ce\u30b9\u30b9\u30e1\uff5e\u9084\u66a6\u4e0a\u7b49\uff01\uff5e",
+      "url": "https://open.spotify.com/track/69dSnxb1SiLJe1YisistRd"
     },
     {
       "album": {
@@ -7657,6 +7765,24 @@
     },
     {
       "album": {
+        "name": "\u30d4\u30ab\u30ec\u30b9\u30af\u30d2\u30fc\u30ed\u30fc",
+        "url": "https://open.spotify.com/album/3wSDoUtAawcfDrDhjipyVU"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206729,
+      "name": "\u30d4\u30ab\u30ec\u30b9\u30af\u30d2\u30fc\u30ed\u30fc",
+      "url": "https://open.spotify.com/track/5smt4XQPsHdCrK5rb6czcP"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30bf\u308a\uff01\uff01 (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/5ZuHwoWf9rMyj5F1DsexIt"
       },
@@ -7780,7 +7906,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180666,
       "name": "\u5384\u707d",
       "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"

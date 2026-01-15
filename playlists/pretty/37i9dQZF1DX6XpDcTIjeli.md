@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XpDcTIjeli.md) - [plain](/playlists/plain/37i9dQZF1DX6XpDcTIjeli) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6XpDcTIjeli)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XpDcTIjeli.md) - [plain](/playlists/plain/37i9dQZF1DX6XpDcTIjeli) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6XpDcTIjeli)
 
 ### [Afro Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX6XpDcTIjeli)
 
 > Video's zijn alleen beschikbaar met Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,435 likes - 30 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,455 likes - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

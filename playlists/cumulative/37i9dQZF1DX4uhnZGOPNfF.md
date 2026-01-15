@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4uhnZGOPNfF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4uhnZGOPNfF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4uhnZGOPNfF)
+[pretty](/playlists/pretty/37i9dQZF1DX4uhnZGOPNfF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4uhnZGOPNfF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4uhnZGOPNfF)
 
 ### [Top Hits France 2003](https://open.spotify.com/playlist/37i9dQZF1DX4uhnZGOPNfF)
 

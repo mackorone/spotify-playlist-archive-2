@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain](/playlists/plain/6PPav6OOdBg3kTIyyCqeDw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6PPav6OOdBg3kTIyyCqeDw)
+pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain](/playlists/plain/6PPav6OOdBg3kTIyyCqeDw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6PPav6OOdBg3kTIyyCqeDw)
 
 ### [RE:VERSAL \- DANCE THROUGH THE DECADES ](https://open.spotify.com/playlist/6PPav6OOdBg3kTIyyCqeDw)
 
 > Using one of the largest archives in the world at Universal Music Group, we have gone through tens of thousands of tracks to curate a playlist of the best dance music\. Find classics, rarities and undiscovered gems from artists that shaped the scene as we know it\. RE:VERSAL \- roots in the past, fruit
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 68 likes - 87 songs - 10 hr 3 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 70 likes - 87 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

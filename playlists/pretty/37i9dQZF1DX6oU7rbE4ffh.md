@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain](/playlists/plain/37i9dQZF1DX6oU7rbE4ffh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6oU7rbE4ffh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain](/playlists/plain/37i9dQZF1DX6oU7rbE4ffh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6oU7rbE4ffh)
 
 ### [Breathe](https://open.spotify.com/playlist/37i9dQZF1DX6oU7rbE4ffh)
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,951 likes - 230 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,390 likes - 230 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

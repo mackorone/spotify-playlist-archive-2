@@ -1,6 +1,6 @@
 {
   "description": "*vibing in desi*",
-  "num_followers": 166867,
+  "num_followers": 167044,
   "original_name": "desi lofi",
   "owner": {
     "name": "Spotify",
@@ -2935,7 +2935,7 @@
     {
       "added_at": "2025-03-28 08:26:32",
       "album": {
-        "name": "Kaun Hoon Main - Lofi Mix",
+        "name": "Kaun Hoon Main (Lofi Mix)",
         "url": "https://open.spotify.com/album/3vrp8PD7Hkot3abmIc2oAz"
       },
       "artists": [
@@ -2944,12 +2944,16 @@
           "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
         },
         {
+          "name": "Sachin Gupta",
+          "url": "https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq"
+        },
+        {
           "name": "Abhimanyu-Pragya",
           "url": "https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr"
         }
       ],
       "duration_ms": 191413,
-      "name": "Kaun Hoon Main - Lofi Mix",
+      "name": "Kaun Hoon Main (Lofi Mix)",
       "url": "https://open.spotify.com/track/6UhC6fBIFkIwkVd5RgcuAG"
     },
     {
@@ -3146,6 +3150,10 @@
         {
           "name": "Shreya Ghoshal",
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sachin Gupta",
+          "url": "https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq"
         },
         {
           "name": "Abhimanyu-Pragya",

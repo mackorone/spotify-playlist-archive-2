@@ -4374,7 +4374,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136818,
       "name": "Jaane De",
       "url": "https://open.spotify.com/track/0S6wcmBlvyX2GUWuAHKdFp"
@@ -7828,6 +7828,32 @@
       "duration_ms": 246000,
       "name": "Na Jaane Tu",
       "url": "https://open.spotify.com/track/4toWcCNqdFYcsfaiHGDOAe"
+    },
+    {
+      "album": {
+        "name": "Four More Shots Please! Season 4 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4Zx1oqJZiNoe1mRbygUmsn"
+      },
+      "artists": [
+        {
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        },
+        {
+          "name": "Parth Parekh",
+          "url": "https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb"
+        },
+        {
+          "name": "Plabita Borthakur",
+          "url": "https://open.spotify.com/artist/5it58n8w0HfIvsHUPLcvjU"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82083,
+      "name": "Na Jaanu Main",
+      "url": "https://open.spotify.com/track/60qn1HQuwlA88Yap8TaZaU"
     },
     {
       "album": {

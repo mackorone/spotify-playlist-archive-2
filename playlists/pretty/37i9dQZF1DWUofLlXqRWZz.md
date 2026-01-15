@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUofLlXqRWZz.md) - [plain](/playlists/plain/37i9dQZF1DWUofLlXqRWZz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUofLlXqRWZz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUofLlXqRWZz.md) - [plain](/playlists/plain/37i9dQZF1DWUofLlXqRWZz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUofLlXqRWZz)
 
 ### [This Is Ludovico Einaudi](https://open.spotify.com/playlist/37i9dQZF1DWUofLlXqRWZz)
 
 > This is Ludovico Einaudi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,035 likes - 84 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,200 likes - 84 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

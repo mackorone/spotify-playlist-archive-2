@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150800,
       "name": "Black Noise (LP 83hz)",
       "url": "https://open.spotify.com/track/3U4nVSlAR6yNlAF0UwZcYd"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 324336,
       "name": "Black Noise Catalyst",
       "url": "https://open.spotify.com/track/4tqi2pEfw5SGlKhRRccjMs"
@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Dark Echo",
+        "url": "https://open.spotify.com/album/1WUNagEj0GnWJezHx37DoK"
+      },
+      "artists": [
+        {
+          "name": "Stillgroove",
+          "url": "https://open.spotify.com/artist/1H8FfSgkrPs9BaNuUKhTIT"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205674,
+      "name": "Dark Echo",
+      "url": "https://open.spotify.com/track/5QluRjSrJdgMytovCO9feX"
+    },
+    {
+      "album": {
         "name": "Dark Hush",
         "url": "https://open.spotify.com/album/675UQ53G2AYPsYylfbv6hF"
       },
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 189471,
       "name": "Deep Space Black Noise",
       "url": "https://open.spotify.com/track/2q2CHBYCTLbpZSff1J5m0G"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153073,
       "name": "Dreamy Black Noise",
       "url": "https://open.spotify.com/track/1RLdr8NMS74dJBLRKvSSID"
@@ -2386,6 +2404,24 @@
       "duration_ms": 173871,
       "name": "Inhale Exhale To Black Noise",
       "url": "https://open.spotify.com/track/6YjL19fXSIVmLsWBhYYxtr"
+    },
+    {
+      "album": {
+        "name": "Invisible Black Noise",
+        "url": "https://open.spotify.com/album/1hS9llCK8tSCJ5mcxOMybA"
+      },
+      "artists": [
+        {
+          "name": "Night Time Sounds",
+          "url": "https://open.spotify.com/artist/029NCna9Sf2isa6oeBAhyP"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238515,
+      "name": "Invisible Black Noise",
+      "url": "https://open.spotify.com/track/2gDrBpIacx6mQiTLw896tA"
     },
     {
       "album": {

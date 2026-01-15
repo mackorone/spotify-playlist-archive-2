@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1wNY9tfWQsS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1wNY9tfWQsS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1wNY9tfWQsS)
+[pretty](/playlists/pretty/37i9dQZF1DX1wNY9tfWQsS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1wNY9tfWQsS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1wNY9tfWQsS)
 
 ### [Women of R&B](https://open.spotify.com/playlist/37i9dQZF1DX1wNY9tfWQsS)
 

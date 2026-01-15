@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain](/playlists/plain/37i9dQZF1DX4xmaCWnHTsV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4xmaCWnHTsV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain](/playlists/plain/37i9dQZF1DX4xmaCWnHTsV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4xmaCWnHTsV)
 
 ### [Rockabilly Drive](https://open.spotify.com/playlist/37i9dQZF1DX4xmaCWnHTsV)
 

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUlCmB8llCTB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUlCmB8llCTB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUlCmB8llCTB)
+[pretty](/playlists/pretty/37i9dQZF1DWUlCmB8llCTB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUlCmB8llCTB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUlCmB8llCTB)
 
 ### [Perreo City](https://open.spotify.com/playlist/37i9dQZF1DWUlCmB8llCTB)
 
 > Perreando toda la noche con La Obsesión Factory.
 
-1,074 songs - 2 day 8 hr 57 min
+1,075 songs - 2 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [AMISTA](https://open.spotify.com/track/1kJyDcBrZ7rSKnFtKc82vm) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [TRINIDAD BENDITA](https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT) | 2:57 | 2025-09-18 |  |
 | [Amor Con Odio](https://open.spotify.com/track/2d3DyvhzYMKEjPc49ogM4X) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Amor Con Odio](https://open.spotify.com/album/3ilanQtLlzzmdTbqrnnZ1B) | 3:20 | 2022-04-15 | 2022-10-08 |
 | [Amor Con Rabia](https://open.spotify.com/track/4onvgTedcSskQgi6eGi5Zp) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Amor Con Rabia](https://open.spotify.com/album/7uwXFum7WBXQXqoGWHM52e) | 3:18 | 2024-02-23 | 2024-06-01 |
-| [Amor de Anexo](https://open.spotify.com/track/2LFayVbAfSgB5Cxt05u2na) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [Amor de Anexo](https://open.spotify.com/album/0ab2RZHIJxEZEtjwtB7sqM) | 2:51 | 2025-12-19 |  |
+| [Amor de Anexo](https://open.spotify.com/track/2LFayVbAfSgB5Cxt05u2na) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [Amor de Anexo](https://open.spotify.com/album/0ab2RZHIJxEZEtjwtB7sqM) | 2:51 | 2025-12-19 | 2026-01-15 |
 | [Amor de Bandolero](https://open.spotify.com/track/6LeEAoS4GNMV0jKE08q8iy) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [VAINY](https://open.spotify.com/artist/41mes6x3rlUZzgRAyB8jYG) | [Amor de Bandolero](https://open.spotify.com/album/4VkATsn8ozExNF033kd1Jm) | 2:18 | 2025-07-04 |  |
 | [Amor de Mari](https://open.spotify.com/track/5tfOFkDQTTbanBS9hRbsKC) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Amor de Mari](https://open.spotify.com/album/60mBWKk4jq4imHvfrykCkR) | 3:07 | 2023-06-02 | 2023-09-09 |
 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 | 2022-08-05 | 2023-01-21 |
@@ -382,6 +382,7 @@
 | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/track/3YNolHalg56UrvPabqw6JP) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/album/6IvNKfgj37xVwthEmXHcMK) | 3:57 | 2021-12-24 | 2022-01-29 |
 | [Friendly](https://open.spotify.com/track/56Gvbmp0WEZG0xiZBXr9ho) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:31 | 2023-07-28 | 2023-11-25 |
 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 | 2021-12-24 | 2022-07-08 |
+| [FRUTO PROHIBIDO](https://open.spotify.com/track/0UQQGwOmaR88smuCpEdAvq) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [FRUTO PROHIBIDO](https://open.spotify.com/album/7Iz3VfOWiRelZ8cmYDG1cy) | 3:28 | 2026-01-09 |  |
 | [FRÍO](https://open.spotify.com/track/47IVaRZDAKsUC3x5Zhn2Gr) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 2:40 | 2024-08-23 | 2025-04-19 |
 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 | 2022-11-25 | 2023-04-18 |
 | [Fuego Forestal](https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Fuego Forestal](https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q) | 3:18 | 2022-08-26 | 2023-03-04 |

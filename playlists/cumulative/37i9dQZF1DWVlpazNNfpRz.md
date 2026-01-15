@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVlpazNNfpRz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVlpazNNfpRz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVlpazNNfpRz)
+[pretty](/playlists/pretty/37i9dQZF1DWVlpazNNfpRz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVlpazNNfpRz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVlpazNNfpRz)
 
 ### [Guaracha](https://open.spotify.com/playlist/37i9dQZF1DWVlpazNNfpRz)
 

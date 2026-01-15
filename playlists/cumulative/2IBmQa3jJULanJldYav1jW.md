@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2IBmQa3jJULanJldYav1jW.md) - cumulative - [plain](/playlists/plain/2IBmQa3jJULanJldYav1jW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2IBmQa3jJULanJldYav1jW)
+[pretty](/playlists/pretty/2IBmQa3jJULanJldYav1jW.md) - cumulative - [plain](/playlists/plain/2IBmQa3jJULanJldYav1jW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2IBmQa3jJULanJldYav1jW)
 
 ### [Way Out West 2013](https://open.spotify.com/playlist/2IBmQa3jJULanJldYav1jW)
 

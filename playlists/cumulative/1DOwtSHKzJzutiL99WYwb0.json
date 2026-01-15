@@ -2565,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "3LOGY",
+        "url": "https://open.spotify.com/album/3IY5HE1P7GADh5Ojpe5PZU"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Killer Joy",
+      "url": "https://open.spotify.com/track/4QAALgs6KkeklDwg4UeuzP"
+    },
+    {
+      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143242,
       "name": "POWER",
       "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
@@ -4041,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "Saucin'",
+        "url": "https://open.spotify.com/album/5y364Kj24BuuitP830bMnM"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173041,
+      "name": "Saucin'",
+      "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
+    },
+    {
+      "album": {
         "name": "MY, Lover",
         "url": "https://open.spotify.com/album/7pMMFYohEty3MLZfq6HlZN"
       },
@@ -4142,7 +4178,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194533,
       "name": "Shhh!",
       "url": "https://open.spotify.com/track/3L87s9RtB0V6MmcBNLY7N6"
@@ -4240,6 +4276,24 @@
       "duration_ms": 157120,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
+    },
+    {
+      "album": {
+        "name": "\u5149 (INSANITY)",
+        "url": "https://open.spotify.com/album/7tZx0RBXbIsbrW1UwAH6sy"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "STING (Feat. Muhammad Ali)",
+      "url": "https://open.spotify.com/track/1nxQ4sRjDXFAmTs98b20XV"
     },
     {
       "album": {
@@ -5040,7 +5094,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211400,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/2wzhZgSDjWgwB618a6eeua"

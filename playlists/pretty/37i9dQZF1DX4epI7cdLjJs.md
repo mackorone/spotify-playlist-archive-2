@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4epI7cdLjJs.md) - [plain](/playlists/plain/37i9dQZF1DX4epI7cdLjJs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4epI7cdLjJs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4epI7cdLjJs.md) - [plain](/playlists/plain/37i9dQZF1DX4epI7cdLjJs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4epI7cdLjJs)
 
 ### [Business Proposal \(사내 맞선\)](https://open.spotify.com/playlist/37i9dQZF1DX4epI7cdLjJs)
 

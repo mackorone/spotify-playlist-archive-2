@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3f9U3gq0DBT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3f9U3gq0DBT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3f9U3gq0DBT)
+[pretty](/playlists/pretty/37i9dQZF1DX3f9U3gq0DBT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3f9U3gq0DBT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3f9U3gq0DBT)
 
 ### [Gentle Waves](https://open.spotify.com/playlist/37i9dQZF1DX3f9U3gq0DBT)
 

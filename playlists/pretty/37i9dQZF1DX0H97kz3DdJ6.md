@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain](/playlists/plain/37i9dQZF1DX0H97kz3DdJ6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0H97kz3DdJ6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain](/playlists/plain/37i9dQZF1DX0H97kz3DdJ6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0H97kz3DdJ6)
 
 ### [sad sla](https://open.spotify.com/playlist/37i9dQZF1DX0H97kz3DdJ6)
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,854 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,909 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain](/playlists/plain/37i9dQZF1DXbPHTEEyQ6Hv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbPHTEEyQ6Hv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain](/playlists/plain/37i9dQZF1DXbPHTEEyQ6Hv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbPHTEEyQ6Hv)
 
 ### [Christmas Peaceful Piano](https://open.spotify.com/playlist/37i9dQZF1DXbPHTEEyQ6Hv)
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,901 likes - 98 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,621 likes - 98 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

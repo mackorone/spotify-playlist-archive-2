@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain](/playlists/plain/37i9dQZF1DXboDblu798Pk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXboDblu798Pk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain](/playlists/plain/37i9dQZF1DXboDblu798Pk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXboDblu798Pk)
 
 ### [Get Popped!](https://open.spotify.com/playlist/37i9dQZF1DXboDblu798Pk)
 
 > pure pop sauce\. Cover: CYRIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

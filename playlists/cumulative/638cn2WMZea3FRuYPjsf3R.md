@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/638cn2WMZea3FRuYPjsf3R.md) - cumulative - [plain](/playlists/plain/638cn2WMZea3FRuYPjsf3R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/638cn2WMZea3FRuYPjsf3R)
+[pretty](/playlists/pretty/638cn2WMZea3FRuYPjsf3R.md) - cumulative - [plain](/playlists/plain/638cn2WMZea3FRuYPjsf3R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/638cn2WMZea3FRuYPjsf3R)
 
 ### [R&B Club Jams](https://open.spotify.com/playlist/638cn2WMZea3FRuYPjsf3R)
 

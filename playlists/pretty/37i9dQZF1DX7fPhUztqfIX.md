@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain](/playlists/plain/37i9dQZF1DX7fPhUztqfIX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7fPhUztqfIX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain](/playlists/plain/37i9dQZF1DX7fPhUztqfIX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7fPhUztqfIX)
 
 ### [Worship Rising](https://open.spotify.com/playlist/37i9dQZF1DX7fPhUztqfIX)
 
 > All new Worship songs on the rise! Cover: CityAlight
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,629 likes - 74 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,951 likes - 74 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

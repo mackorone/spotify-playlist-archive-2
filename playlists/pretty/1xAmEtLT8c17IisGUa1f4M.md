@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1xAmEtLT8c17IisGUa1f4M.md) - [plain](/playlists/plain/1xAmEtLT8c17IisGUa1f4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1xAmEtLT8c17IisGUa1f4M)
+pretty - [cumulative](/playlists/cumulative/1xAmEtLT8c17IisGUa1f4M.md) - [plain](/playlists/plain/1xAmEtLT8c17IisGUa1f4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1xAmEtLT8c17IisGUa1f4M)
 
 ### [38 Great Female Duets](https://open.spotify.com/playlist/1xAmEtLT8c17IisGUa1f4M)
 
 > 38 great tunes by female singers only!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,894 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,884 likes - 38 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

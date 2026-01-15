@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHwQpcoF2cC.md) - [plain](/playlists/plain/37i9dQZF1DWXHwQpcoF2cC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXHwQpcoF2cC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHwQpcoF2cC.md) - [plain](/playlists/plain/37i9dQZF1DWXHwQpcoF2cC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXHwQpcoF2cC)
 
 ### [Metal Rewind](https://open.spotify.com/playlist/37i9dQZF1DWXHwQpcoF2cC)
 

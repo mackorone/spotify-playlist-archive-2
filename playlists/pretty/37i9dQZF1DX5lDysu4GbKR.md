@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain](/playlists/plain/37i9dQZF1DX5lDysu4GbKR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5lDysu4GbKR)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain](/playlists/plain/37i9dQZF1DX5lDysu4GbKR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5lDysu4GbKR)
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
 > Stripped back vibes\. Cover:  TAVE & Tia Gordon
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,272 likes - 160 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,189 likes - 160 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

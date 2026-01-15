@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaDPSVSkBhhM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaDPSVSkBhhM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaDPSVSkBhhM)
+[pretty](/playlists/pretty/37i9dQZF1DXaDPSVSkBhhM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaDPSVSkBhhM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaDPSVSkBhhM)
 
 ### [Escena Pop Punk](https://open.spotify.com/playlist/37i9dQZF1DXaDPSVSkBhhM)
 

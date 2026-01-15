@@ -366,7 +366,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 152880,
       "name": "7 Months",
       "url": "https://open.spotify.com/track/3QIprxybtXTK5mifthT4Q5"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 261305,
       "name": "alarm bells in central plaza",
       "url": "https://open.spotify.com/track/7xXP4jcVrbtiWNyAgZ7P22"
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 175000,
       "name": "Antler Queen",
       "url": "https://open.spotify.com/track/0rd1Hre3QE3C56ZyvgYkE9"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 241684,
       "name": "Bet",
       "url": "https://open.spotify.com/track/2MpWd718bmGUu7xXjrRtsb"
@@ -5058,7 +5058,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186076,
       "name": "charlie",
       "url": "https://open.spotify.com/track/7KSNuSwVTXM624F82het3B"
@@ -6704,7 +6704,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159018,
       "name": "Crush",
       "url": "https://open.spotify.com/track/38Ej7o4BhPn2j6TAZRAshk"
@@ -7130,7 +7130,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 267816,
       "name": "Days Without",
       "url": "https://open.spotify.com/track/0KI0py7ZXCVRfUKN9bB2KS"
@@ -7292,7 +7292,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 202093,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/2cymECfb8aQNVEb2u7QSon"
@@ -8826,7 +8826,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 215506,
       "name": "Elderberry Wine",
       "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
@@ -10496,6 +10496,24 @@
       "duration_ms": 237250,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/2zL3Tut6HrIV6tVAGw8Gh7"
+    },
+    {
+      "album": {
+        "name": "Flute",
+        "url": "https://open.spotify.com/album/5B225xRx1upSamhO5pUNv5"
+      },
+      "artists": [
+        {
+          "name": "Horsepower",
+          "url": "https://open.spotify.com/artist/1ERf6Gecr1VWPzibnPJt1Y"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262923,
+      "name": "Flute",
+      "url": "https://open.spotify.com/track/7uug9RhFg7u6bwsOAwtppO"
     },
     {
       "album": {
@@ -12702,7 +12720,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 227986,
       "name": "Hate Goodbyes",
       "url": "https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl"
@@ -13492,7 +13510,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 260173,
       "name": "Hit me when I was walking around",
       "url": "https://open.spotify.com/track/6MO6LuS73jPwrTkUtyDz0A"
@@ -14809,6 +14827,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Fight You",
+        "url": "https://open.spotify.com/album/2KOVMhCmtDHOFgwI2txsXJ"
+      },
+      "artists": [
+        {
+          "name": "Lucy Clearwater",
+          "url": "https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211321,
+      "name": "I Wanna Fight You",
+      "url": "https://open.spotify.com/track/5Px4EcSHCpXhxDLdOBEkFg"
+    },
+    {
+      "album": {
         "name": "i want the light to swallow me whole",
         "url": "https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3"
       },
@@ -15198,7 +15234,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 217273,
       "name": "If someone's gonna love you",
       "url": "https://open.spotify.com/track/7bfIjbeRDDOvIC5q1ULIPs"
@@ -16175,6 +16211,24 @@
     },
     {
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173637,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
+    },
+    {
+      "album": {
         "name": "Judy / Jeremy's Wedding",
         "url": "https://open.spotify.com/album/28bMFSMKFsWPLsJfgaQlB3"
       },
@@ -17088,7 +17142,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 118579,
       "name": "LATELY",
       "url": "https://open.spotify.com/track/5ZFv5WTFx31j0eXRIN9z8s"
@@ -18752,7 +18806,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 263297,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/0koaXm11b7sizUYJ67ebyn"
@@ -20105,6 +20159,24 @@
     },
     {
       "album": {
+        "name": "Sorry (That I Love You)",
+        "url": "https://open.spotify.com/album/7a7NfU7HyHfp2X0OiWXbTR"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268146,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/7jNyUsj10k8W1zPk4Em3Ge"
+    },
+    {
+      "album": {
         "name": "i think there's something wrong with joshy",
         "url": "https://open.spotify.com/album/1iero6O9P7g7IFkY96TGU4"
       },
@@ -21334,7 +21406,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 251346,
       "name": "One Step at a Time",
       "url": "https://open.spotify.com/track/6N5mvQmipHnahnQCF3eqF8"
@@ -21670,6 +21742,24 @@
       "duration_ms": 235673,
       "name": "Pale Blue",
       "url": "https://open.spotify.com/track/7uOINyletKxpHrSiWehjEy"
+    },
+    {
+      "album": {
+        "name": "Palm Sunday",
+        "url": "https://open.spotify.com/album/5MOR5nou2wmjEI72YNFinH"
+      },
+      "artists": [
+        {
+          "name": "Mac Wetha",
+          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164819,
+      "name": "Palm Sunday",
+      "url": "https://open.spotify.com/track/3UYAtSxvN9uPL3PAceDw0p"
     },
     {
       "album": {
@@ -28429,6 +28519,24 @@
     },
     {
       "album": {
+        "name": "The Next One",
+        "url": "https://open.spotify.com/album/0nlozATduujU9mhVWh3ySh"
+      },
+      "artists": [
+        {
+          "name": "Kristiane",
+          "url": "https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210936,
+      "name": "The Next One",
+      "url": "https://open.spotify.com/track/4OIMzB4NJMEuGOCwzkXEbs"
+    },
+    {
+      "album": {
         "name": "this place isnt real",
         "url": "https://open.spotify.com/album/0nTEWpbV22L2jSR7sTbc2R"
       },
@@ -30061,6 +30169,24 @@
     },
     {
       "album": {
+        "name": "two shots in and sobbing",
+        "url": "https://open.spotify.com/album/40DR5WekpOOl2wanfQdUB7"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224842,
+      "name": "two shots in and sobbing",
+      "url": "https://open.spotify.com/track/4MOs5IcNNQNOgVuUIeYEFh"
+    },
+    {
+      "album": {
         "name": "Txt",
         "url": "https://open.spotify.com/album/4paWrcIvxtZ9YgBUM4ljtO"
       },
@@ -30898,7 +31024,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173000,
       "name": "wasal - \u0648\u0627\u0635\u0644",
       "url": "https://open.spotify.com/track/3u0OAJpQhT5YbYjkX0DDOy"
@@ -31208,7 +31334,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 271025,
       "name": "What About Jane",
       "url": "https://open.spotify.com/track/0uKN1ZPSqDz51vYb8CLkkD"

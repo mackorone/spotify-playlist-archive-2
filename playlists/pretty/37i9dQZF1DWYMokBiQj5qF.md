@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMokBiQj5qF.md) - [plain](/playlists/plain/37i9dQZF1DWYMokBiQj5qF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYMokBiQj5qF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMokBiQj5qF.md) - [plain](/playlists/plain/37i9dQZF1DWYMokBiQj5qF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYMokBiQj5qF)
 
 ### [Cyberpunk 2077 Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWYMokBiQj5qF)
 
 > Immerse yourself in the sounds of Night City with the official playlist for Cyberpunk 2077.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,309 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,377 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

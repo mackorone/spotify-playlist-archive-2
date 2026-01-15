@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain](/playlists/plain/37i9dQZF1DX8BJVXVcrG6H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8BJVXVcrG6H)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain](/playlists/plain/37i9dQZF1DX8BJVXVcrG6H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8BJVXVcrG6H)
 
 ### [República Oriental del Rap](https://open.spotify.com/playlist/37i9dQZF1DX8BJVXVcrG6H)
 
 > Representantes de la rima Charrúa\. Foto: Zeballos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,142 likes - 81 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,150 likes - 81 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

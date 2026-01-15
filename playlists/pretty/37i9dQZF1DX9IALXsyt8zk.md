@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain](/playlists/plain/37i9dQZF1DX9IALXsyt8zk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9IALXsyt8zk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain](/playlists/plain/37i9dQZF1DX9IALXsyt8zk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9IALXsyt8zk)
 
 ### [Best of RADAR Korea 2025](https://open.spotify.com/playlist/37i9dQZF1DX9IALXsyt8zk)
 
 > 스포티파이 뮤직 에디터가 선정한 2025 베스트 트랙입니다\. \(커버: 한로로\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,408 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,399 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2eG7CcdMMcAOPPme80JaT7.md) - cumulative - [plain](/playlists/plain/2eG7CcdMMcAOPPme80JaT7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2eG7CcdMMcAOPPme80JaT7)
+[pretty](/playlists/pretty/2eG7CcdMMcAOPPme80JaT7.md) - cumulative - [plain](/playlists/plain/2eG7CcdMMcAOPPme80JaT7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2eG7CcdMMcAOPPme80JaT7)
 
 ### [Musical Hits ](https://open.spotify.com/playlist/2eG7CcdMMcAOPPme80JaT7)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2NGnjkcgcaI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2NGnjkcgcaI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2NGnjkcgcaI)
+[pretty](/playlists/pretty/37i9dQZF1DX2NGnjkcgcaI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2NGnjkcgcaI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2NGnjkcgcaI)
 
 ### [Minimal Rhythm Focus](https://open.spotify.com/playlist/37i9dQZF1DX2NGnjkcgcaI)
 

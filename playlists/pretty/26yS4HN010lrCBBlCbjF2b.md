@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/26yS4HN010lrCBBlCbjF2b.md) - [plain](/playlists/plain/26yS4HN010lrCBBlCbjF2b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/26yS4HN010lrCBBlCbjF2b)
+pretty - [cumulative](/playlists/cumulative/26yS4HN010lrCBBlCbjF2b.md) - [plain](/playlists/plain/26yS4HN010lrCBBlCbjF2b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/26yS4HN010lrCBBlCbjF2b)
 
 ### [Hultsfred 2012](https://open.spotify.com/playlist/26yS4HN010lrCBBlCbjF2b)
 

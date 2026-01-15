@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain](/playlists/plain/37i9dQZF1DX9tJFUKjeDqu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9tJFUKjeDqu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain](/playlists/plain/37i9dQZF1DX9tJFUKjeDqu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9tJFUKjeDqu)
 
 ### [Blues Focus](https://open.spotify.com/playlist/37i9dQZF1DX9tJFUKjeDqu)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGV9sg8bMdx.md) - [plain](/playlists/plain/37i9dQZF1DXcGV9sg8bMdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcGV9sg8bMdx)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGV9sg8bMdx.md) - [plain](/playlists/plain/37i9dQZF1DXcGV9sg8bMdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcGV9sg8bMdx)
 
 ### [This Is Jane's Addiction \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXcGV9sg8bMdx)
 

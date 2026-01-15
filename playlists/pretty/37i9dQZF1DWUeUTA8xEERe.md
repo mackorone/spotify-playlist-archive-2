@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain](/playlists/plain/37i9dQZF1DWUeUTA8xEERe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUeUTA8xEERe)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain](/playlists/plain/37i9dQZF1DWUeUTA8xEERe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUeUTA8xEERe)
 
 ### [JD's Jook Joint](https://open.spotify.com/playlist/37i9dQZF1DWUeUTA8xEERe)
 

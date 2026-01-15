@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqryD4rCK8f.md) - [plain](/playlists/plain/37i9dQZF1DWUqryD4rCK8f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUqryD4rCK8f)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqryD4rCK8f.md) - [plain](/playlists/plain/37i9dQZF1DWUqryD4rCK8f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUqryD4rCK8f)
 
 ### [Throwback Party Videos](https://open.spotify.com/playlist/37i9dQZF1DWUqryD4rCK8f)
 
 > Get the party started with these classics\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,752 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain](/playlists/plain/1IDfsEC88SH30ppwQrOJoi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1IDfsEC88SH30ppwQrOJoi)
+pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain](/playlists/plain/1IDfsEC88SH30ppwQrOJoi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1IDfsEC88SH30ppwQrOJoi)
 
 ### [NYE Party Vibes](https://open.spotify.com/playlist/1IDfsEC88SH30ppwQrOJoi)
 
-> High energy, club songs from around the world! &lt;3
+> High energy, club songs from around the world.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,193 likes - 98 songs - 4 hr 54 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,186 likes - 98 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 97 | [Happy New Year \(feat\. Love Harder\) \- Takis Remix](https://open.spotify.com/track/4WASHXk0rOyvyJwRXLRxDH) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Happy New Year \(feat\. Love Harder\) \[Takis Remix\]](https://open.spotify.com/album/6Nwo5ElKMCkMwhoeDVrNYZ) | 3:05 |
 | 98 | [Falling Forever](https://open.spotify.com/track/3BHkirzjmCsPVi1b6HTTBH) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Falling Forever](https://open.spotify.com/album/7c78ZXT2DkAeYmvsurQl9u) | 2:38 |
 
-Snapshot ID: `AAALBg92f0kRNCGvdUYqXQMiOSNya2aU`
+Snapshot ID: `AAALB8vqTcaLazPTXVTDxue0NaziNnp6`

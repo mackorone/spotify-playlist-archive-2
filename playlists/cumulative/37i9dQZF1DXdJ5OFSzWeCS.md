@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdJ5OFSzWeCS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdJ5OFSzWeCS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdJ5OFSzWeCS)
+[pretty](/playlists/pretty/37i9dQZF1DXdJ5OFSzWeCS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdJ5OFSzWeCS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdJ5OFSzWeCS)
 
 ### [Sleep Music for Babies](https://open.spotify.com/playlist/37i9dQZF1DXdJ5OFSzWeCS)
 

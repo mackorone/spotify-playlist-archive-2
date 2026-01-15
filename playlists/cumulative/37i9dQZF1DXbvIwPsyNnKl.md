@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbvIwPsyNnKl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbvIwPsyNnKl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbvIwPsyNnKl)
+[pretty](/playlists/pretty/37i9dQZF1DXbvIwPsyNnKl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbvIwPsyNnKl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbvIwPsyNnKl)
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Al James
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: GA Chillerong Ghetto and Paul N Ballin
 
-356 songs - 19 hr 53 min
+357 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [SOBRANG SWABE](https://open.spotify.com/track/4hrAZsIRftQWgouKcVNpn5) | [Luci J](https://open.spotify.com/artist/0HrduboguaavTbDgpOflee) | [SOBRANG SWABE](https://open.spotify.com/album/5bWsHEH7Nif5udLndhgTtU) | 3:12 | 2023-10-18 | 2023-11-11 |
 | [SONG 4 U](https://open.spotify.com/track/5uNqALZBRhu9y8lQjwBWCG) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [ivan G.](https://open.spotify.com/artist/0S1iKltXNxlw9vCv4bCUY9) | [SONG 4 U](https://open.spotify.com/album/6f5sqRBMgqYNZVdjl0wDQE) | 4:01 | 2023-09-20 | 2023-10-19 |
 | [Southside Luv](https://open.spotify.com/track/77MDVBj2heW9XflyYcer7w) | [Ryouji](https://open.spotify.com/artist/0LxWnRbSp4xZBKzNYjc3V4), [K\-Lv](https://open.spotify.com/artist/1wr7qGmInj8AOIJbeOG7qq) | [Southside Luv](https://open.spotify.com/album/7H0NRJAeOFs2RhL1vhVx5I) | 3:16 | 2025-11-12 |  |
-| [Space Cake](https://open.spotify.com/track/6xE2B3AyqqfYix6JYG0TYG) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Space Cake](https://open.spotify.com/album/2haBxnTf1Mq5uKqhRDlLUH) | 2:31 | 2025-10-01 |  |
+| [Space Cake](https://open.spotify.com/track/6xE2B3AyqqfYix6JYG0TYG) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Space Cake](https://open.spotify.com/album/2haBxnTf1Mq5uKqhRDlLUH) | 2:31 | 2025-10-01 | 2026-01-15 |
 | [Still](https://open.spotify.com/track/1n0GXltCdgPZMqQv7JY8SI) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Still](https://open.spotify.com/album/14HnYmLsn1HXFjrXPpWpQl) | 2:16 | 2023-10-04 | 2023-11-11 |
 | [Still The Same](https://open.spotify.com/track/6ODWqGDqPWenJeh5Ux4ed5) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [OG CRY](https://open.spotify.com/artist/2EjIvtjRAXPH5OVVmfEKQt) | [Still The Same](https://open.spotify.com/album/4xtFsEP7gVHGlvUBbvAxJJ) | 3:05 | 2024-07-03 | 2024-08-15 |
 | [Stop Ball](https://open.spotify.com/track/7xtqTGY8MR8Cbjd7DZBIzY) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Bandzo](https://open.spotify.com/artist/0da9tjQvZWiHocHAzFYG04) | [Stop Ball](https://open.spotify.com/album/6YKnrB8RUHjPqBdcMpMJn5) | 3:33 | 2025-09-03 | 2025-11-06 |
@@ -322,6 +322,7 @@
 | [Sumugal](https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc), [LK](https://open.spotify.com/artist/659T8eNSfEb4bPBKiTn4ww) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:01 | 2024-03-13 | 2025-08-21 |
 | [Swanton Bomb](https://open.spotify.com/track/2RrTeVhmNxAZmAEVhkUtL1) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Swanton Bomb](https://open.spotify.com/album/41GDUh1cgsYr2kv3lAm6lT) | 2:24 | 2025-01-08 | 2025-02-28 |
 | [TABE](https://open.spotify.com/track/3b8peYAPBoZISUhz4WMmMi) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [TABE](https://open.spotify.com/album/2GaBVbepS9Vxz4qVd4uTMv) | 3:16 | 2025-07-16 | 2025-09-18 |
+| [Tagay](https://open.spotify.com/track/5VlTPHwnAaK5jtomWCqEv4) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [A$tro](https://open.spotify.com/artist/5794gAYyVyxoZKIhyN9OUq) | [Tagay](https://open.spotify.com/album/6cSKh6b7HAJpb23eDO1XWX) | 3:39 | 2026-01-15 |  |
 | [Take It To The Roof](https://open.spotify.com/track/0iP5DWmX7dbpxpKot3VzOR) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [HAPPY ACCIDENTS VOL\. 2 \(DELUXE EDITION\)\)](https://open.spotify.com/album/5NTTN3eW7xR3eTcRRD9VFV) | 3:14 | 2025-12-03 |  |
 | [TALKSHIT](https://open.spotify.com/track/6wWxz6Qg8OUnuntgSkeP4N) | [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [TALKSHIT](https://open.spotify.com/album/09mUig5tOtFDbYbHmPAk8H) | 2:06 | 2025-02-12 | 2025-05-01 |
 | [talunan \(b4twenty freestyle\)](https://open.spotify.com/track/2Pu9B3qjWpAyjqWMFf4quE) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [talunan \(b4twenty freestyle\)](https://open.spotify.com/album/5VOxYu4iqFLZVvINIylola) | 2:45 | 2024-05-08 | 2024-07-02 |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6LHwwT5kakVUc7UqUuMLYT.md) - cumulative - [plain](/playlists/plain/6LHwwT5kakVUc7UqUuMLYT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6LHwwT5kakVUc7UqUuMLYT)
+[pretty](/playlists/pretty/6LHwwT5kakVUc7UqUuMLYT.md) - cumulative - [plain](/playlists/plain/6LHwwT5kakVUc7UqUuMLYT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6LHwwT5kakVUc7UqUuMLYT)
 
 ### [UK Top 50 \- 23rd May 2025](https://open.spotify.com/playlist/6LHwwT5kakVUc7UqUuMLYT)
 

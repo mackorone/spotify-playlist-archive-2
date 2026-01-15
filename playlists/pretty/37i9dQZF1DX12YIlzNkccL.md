@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12YIlzNkccL.md) - [plain](/playlists/plain/37i9dQZF1DX12YIlzNkccL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX12YIlzNkccL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12YIlzNkccL.md) - [plain](/playlists/plain/37i9dQZF1DX12YIlzNkccL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX12YIlzNkccL)
 
 ### [This Is Beethoven](https://open.spotify.com/playlist/37i9dQZF1DX12YIlzNkccL)
 
 > Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,027 likes - 89 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,308 likes - 89 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

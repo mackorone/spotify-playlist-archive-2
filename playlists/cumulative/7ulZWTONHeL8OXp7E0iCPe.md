@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7ulZWTONHeL8OXp7E0iCPe.md) - cumulative - [plain](/playlists/plain/7ulZWTONHeL8OXp7E0iCPe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7ulZWTONHeL8OXp7E0iCPe)
+[pretty](/playlists/pretty/7ulZWTONHeL8OXp7E0iCPe.md) - cumulative - [plain](/playlists/plain/7ulZWTONHeL8OXp7E0iCPe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7ulZWTONHeL8OXp7E0iCPe)
 
 ### [The Game & Skrillex: El Chapo](https://open.spotify.com/playlist/7ulZWTONHeL8OXp7E0iCPe)
 

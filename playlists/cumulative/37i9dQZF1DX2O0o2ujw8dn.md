@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2O0o2ujw8dn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2O0o2ujw8dn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2O0o2ujw8dn)
+[pretty](/playlists/pretty/37i9dQZF1DX2O0o2ujw8dn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2O0o2ujw8dn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2O0o2ujw8dn)
 
 ### [청담국제고등학교 \(BXXCH x RICH\)](https://open.spotify.com/playlist/37i9dQZF1DX2O0o2ujw8dn)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain](/playlists/plain/37i9dQZF1DXdMMpvGH77mA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdMMpvGH77mA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain](/playlists/plain/37i9dQZF1DXdMMpvGH77mA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdMMpvGH77mA)
 
 ### [Positive Flow](https://open.spotify.com/playlist/37i9dQZF1DXdMMpvGH77mA)
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,938 likes - 109 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,600 likes - 109 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

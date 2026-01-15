@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2yMdqzOp3gbcNz17locUz4.md) - cumulative - [plain](/playlists/plain/2yMdqzOp3gbcNz17locUz4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2yMdqzOp3gbcNz17locUz4)
+[pretty](/playlists/pretty/2yMdqzOp3gbcNz17locUz4.md) - cumulative - [plain](/playlists/plain/2yMdqzOp3gbcNz17locUz4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2yMdqzOp3gbcNz17locUz4)
 
 ### [indieAnthro](https://open.spotify.com/playlist/2yMdqzOp3gbcNz17locUz4)
 

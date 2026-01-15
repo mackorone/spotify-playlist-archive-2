@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdLqwKCcDiy.md) - [plain](/playlists/plain/37i9dQZF1DWYdLqwKCcDiy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYdLqwKCcDiy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdLqwKCcDiy.md) - [plain](/playlists/plain/37i9dQZF1DWYdLqwKCcDiy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYdLqwKCcDiy)
 
 ### [Best of Folk & Americana 2019](https://open.spotify.com/playlist/37i9dQZF1DWYdLqwKCcDiy)
 

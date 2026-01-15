@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": " \u274c se voc\u00ea n entende ja sabe n\u00e9 \u274c  (vai, bich\u00e3o solto mm)",
+  "description": "a sua reca\u00edda batendo \u00e0 porta (de novo)",
   "name": "O Trap Mais Caro",
   "tracks": [
     {
@@ -2137,6 +2137,36 @@
     },
     {
       "album": {
+        "name": "XTRANHO",
+        "url": "https://open.spotify.com/album/5ORsvI5ThmZw7PS1NTvZaB"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "BNYX",
+          "url": "https://open.spotify.com/artist/4kuF7yS9DIeTXrnOvffJkV"
+        },
+        {
+          "name": "Azul Wynter",
+          "url": "https://open.spotify.com/artist/27sdmUjvXiJmhG4J9QHWFz"
+        },
+        {
+          "name": "Bryan Yepes",
+          "url": "https://open.spotify.com/artist/7iANeSRULLS2z8Eeuzxsbl"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139062,
+      "name": "BACKSTAGE",
+      "url": "https://open.spotify.com/track/5TKTBDb9p1npApJLuQLd7M"
+    },
+    {
+      "album": {
         "name": "IAMBINHU",
         "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
       },
@@ -3244,6 +3274,36 @@
       "duration_ms": 167633,
       "name": "CAM",
       "url": "https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV"
+    },
+    {
+      "album": {
+        "name": "Cana da Choque",
+        "url": "https://open.spotify.com/album/7sarQIbzFvWNAOsVxxahff"
+      },
+      "artists": [
+        {
+          "name": "Pedrin",
+          "url": "https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg"
+        },
+        {
+          "name": "Bebeto",
+          "url": "https://open.spotify.com/artist/2KHYG7vNRKtN0e3xdueQdz"
+        },
+        {
+          "name": "PAVUNA",
+          "url": "https://open.spotify.com/artist/5k9CYypxcHvZKIztYvtmCx"
+        },
+        {
+          "name": "Cordeiro",
+          "url": "https://open.spotify.com/artist/2yMTlcrLja7mjJnYVTY1Sb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140017,
+      "name": "Cana da Choque",
+      "url": "https://open.spotify.com/track/6qY0pwZyb781h6h2OYcOQw"
     },
     {
       "album": {
@@ -7187,6 +7247,48 @@
     },
     {
       "album": {
+        "name": "FATOR DETETIVE",
+        "url": "https://open.spotify.com/album/0DU9AAL74JBTslyO0fgsju"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "Bila",
+          "url": "https://open.spotify.com/artist/746soIdyigoh87LO1Y8KXd"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "FATOR DETETIVE",
+      "url": "https://open.spotify.com/track/7eI6espPJCEzewXT74VB2m"
+    },
+    {
+      "album": {
         "name": "Faz o Close",
         "url": "https://open.spotify.com/album/6gOz5vZtKkHhqGBxzVL0zd"
       },
@@ -7664,7 +7766,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193684,
       "name": "Fogo na Cidade",
       "url": "https://open.spotify.com/track/16wJDBxuYze6hxLDAvGdn7"
@@ -11490,7 +11592,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 158181,
       "name": "Modo Prime",
       "url": "https://open.spotify.com/track/6xgABmLaHvybSIOGsXgYyA"
@@ -12546,7 +12648,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 124310,
       "name": "NOVOS H\u00c1BITOS (ADULTO IDEAL)",
       "url": "https://open.spotify.com/track/1Cb7HSaBug4HLjiakvxMfI"
@@ -14624,14 +14726,6 @@
         {
           "name": "Chefin",
           "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Theuzz011",
-          "url": "https://open.spotify.com/artist/7DUOb2BAkKqL0kG8ecSAVp"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
         }
       ],
       "date_added": "2025-06-13",
@@ -15634,7 +15728,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169314,
       "name": "Safe",
       "url": "https://open.spotify.com/track/4dhRf2GRUJGYEMgW9i3fav"
@@ -16978,6 +17072,32 @@
       "duration_ms": 312240,
       "name": "S\u00f3 Rock 3",
       "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/71RABVmKmLutUhId8dDVs8"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169795,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/02bqeoLf4nNHvkevZV0SvN"
     },
     {
       "album": {

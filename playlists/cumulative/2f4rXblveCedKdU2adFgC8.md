@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2f4rXblveCedKdU2adFgC8.md) - cumulative - [plain](/playlists/plain/2f4rXblveCedKdU2adFgC8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2f4rXblveCedKdU2adFgC8)
+[pretty](/playlists/pretty/2f4rXblveCedKdU2adFgC8.md) - cumulative - [plain](/playlists/plain/2f4rXblveCedKdU2adFgC8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2f4rXblveCedKdU2adFgC8)
 
 ### [Motivation Montage](https://open.spotify.com/playlist/2f4rXblveCedKdU2adFgC8)
 

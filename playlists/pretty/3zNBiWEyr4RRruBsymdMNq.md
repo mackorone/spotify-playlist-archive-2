@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3zNBiWEyr4RRruBsymdMNq.md) - [plain](/playlists/plain/3zNBiWEyr4RRruBsymdMNq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3zNBiWEyr4RRruBsymdMNq)
+pretty - [cumulative](/playlists/cumulative/3zNBiWEyr4RRruBsymdMNq.md) - [plain](/playlists/plain/3zNBiWEyr4RRruBsymdMNq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3zNBiWEyr4RRruBsymdMNq)
 
 ### [Classical Study Music](https://open.spotify.com/playlist/3zNBiWEyr4RRruBsymdMNq)
 
 > Relaxing classical music to help you study, focus and relax.
 
-[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 60,281 likes - 111 songs - 6 hr 16 min
+[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 60,230 likes - 111 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226363,
       "name": "\u4e5d\u5f4e\u5341\u516b\u62d0",
       "url": "https://open.spotify.com/track/6d1URgz5bJSIsCPsVyvItQ"
@@ -4603,6 +4603,24 @@
     },
     {
       "album": {
+        "name": "\u56de\u4e0d\u5230\u90a3\u5929 (\u5f71\u8996\u5287\u300a\u6012\u98a8\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/7fxzrZI8Y4jrP6kI1EpnwS"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287514,
+      "name": "\u56de\u4e0d\u5230\u90a3\u5929 - \u5f71\u8996\u5287\u300a\u6012\u98a8\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/1OIZ2UWPZPjNTaJr3l3qXq"
+    },
+    {
+      "album": {
         "name": "\u56de\u61b6\u5fd8\u4e0d\u6389",
         "url": "https://open.spotify.com/album/3uKCNXGANODG279LTfPPN7"
       },
@@ -5632,7 +5650,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 259729,
       "name": "\u59a5\u534f",
       "url": "https://open.spotify.com/track/4Hyikffe4OuecsMB6FtoNS"
@@ -6469,6 +6487,28 @@
     },
     {
       "album": {
+        "name": "\u5ff5\u5ff5 (feat. \u6234\u4f69\u59ae)",
+        "url": "https://open.spotify.com/album/2niYJ4PXkPvtbw85QjwBKj"
+      },
+      "artists": [
+        {
+          "name": "Kenji Wu",
+          "url": "https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb"
+        },
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277007,
+      "name": "\u5ff5\u5ff5 (feat. \u6234\u4f69\u59ae)",
+      "url": "https://open.spotify.com/track/79hQrj9VSlUCaXlfMXSTzY"
+    },
+    {
+      "album": {
         "name": "\u5ff5\u5ff5\u4e0d\u5fd8 (\u7535\u5f71\u300a\u5ff5\u5ff5\u76f8\u5fd8\u300b\u4e3b\u9898\u66f2)",
         "url": "https://open.spotify.com/album/1TSwpFghoNHeSOjfAagTEV"
       },
@@ -6770,7 +6810,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 241000,
       "name": "\u60f3\u6084\u6084\u4f4f\u9032\u4f60\u7684\u9748\u9b42 (\u96fb\u8996\u5287\u300a\u96e3\u54c4\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/23y0POoEllY2LM9EwWJ3ab"
@@ -8616,7 +8656,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210125,
       "name": "\u63db\u6211\u4e0d\u8981\u4f60",
       "url": "https://open.spotify.com/track/1nPZeyMrkDNYbmReRrEuHm"
@@ -9773,6 +9813,24 @@
     },
     {
       "album": {
+        "name": "\u6b64\u523b\u5531\u7d66\u4f60",
+        "url": "https://open.spotify.com/album/4MG5w8ql3RSEp9BI4jWXjF"
+      },
+      "artists": [
+        {
+          "name": "Tiger Hu",
+          "url": "https://open.spotify.com/artist/3PpIzdLny8HwTnKp9joXdj"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247391,
+      "name": "\u6b64\u523b\u5531\u7d66\u4f60",
+      "url": "https://open.spotify.com/track/2XKIOWXGpCv32q19AGaicK"
+    },
+    {
+      "album": {
         "name": "\u6b64\u751f\u4e0d\u96e2 - \u5f71\u8996\u5287\u300a\u4ed9\u5e1d\u6b78\u4f86\u7576\u8d05\u5a7f\u300b\u7247\u5c3e\u66f2",
         "url": "https://open.spotify.com/album/58lou2LbtBgzehTNXTl88E"
       },
@@ -10326,7 +10384,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 262588,
       "name": "\u7121\u540d\u4e4b\u8f29 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/4t6xJufZtFgVb0fbjCnWNv"
@@ -10834,7 +10892,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 281720,
       "name": "\u76f4\u5230\u4f60\u964d\u81e8 2026 - Until U",
       "url": "https://open.spotify.com/track/3jq7swHyKNMMBCf46DilqP"
@@ -13485,6 +13543,24 @@
     },
     {
       "album": {
+        "name": "\u90a3\u4e9b\u4f60\u4e0d\u77e5\u9053\u7684\u6211 (\u5f71\u96c6\u300a\u90a3\u4e9b\u4f60\u4e0d\u77e5\u9053\u7684\u6211\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4A4f5O8PQhbK5yljMQrewb"
+      },
+      "artists": [
+        {
+          "name": "Julia Peng",
+          "url": "https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255882,
+      "name": "\u90a3\u4e9b\u4f60\u4e0d\u77e5\u9053\u7684\u6211 - \u5f71\u96c6\u300a\u90a3\u4e9b\u4f60\u4e0d\u77e5\u9053\u7684\u6211\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/3vLKRmpFuHKGoA8S6yZkO6"
+    },
+    {
+      "album": {
         "name": "\u90a3\u4e9b\u665a\u5b89",
         "url": "https://open.spotify.com/album/2rUgTz1rpwdUuSdg4hetUx"
       },
@@ -14114,7 +14190,7 @@
           "url": "https://open.spotify.com/artist/2OasGr7TmpHG8pfhWztDV8"
         },
         {
-          "name": "ZorN",
+          "name": "ZORN",
           "url": "https://open.spotify.com/artist/5kx270TOOpivruI1KMKSrg"
         }
       ],

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4SJ51ZOUgnrv5GjY1GCZAL.md) - cumulative - [plain](/playlists/plain/4SJ51ZOUgnrv5GjY1GCZAL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4SJ51ZOUgnrv5GjY1GCZAL)
+[pretty](/playlists/pretty/4SJ51ZOUgnrv5GjY1GCZAL.md) - cumulative - [plain](/playlists/plain/4SJ51ZOUgnrv5GjY1GCZAL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4SJ51ZOUgnrv5GjY1GCZAL)
 
 ### [Pink Floyd: Start Here](https://open.spotify.com/playlist/4SJ51ZOUgnrv5GjY1GCZAL)
 

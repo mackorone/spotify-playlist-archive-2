@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain](/playlists/plain/37i9dQZF1DXdjgTMdVaOfu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdjgTMdVaOfu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain](/playlists/plain/37i9dQZF1DXdjgTMdVaOfu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdjgTMdVaOfu)
 
 ### [The Apothecary Diaries](https://open.spotify.com/playlist/37i9dQZF1DXdjgTMdVaOfu)
 
 > Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,398 likes - 118 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,442 likes - 118 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

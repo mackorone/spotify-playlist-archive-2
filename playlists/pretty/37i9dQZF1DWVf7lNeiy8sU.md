@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf7lNeiy8sU.md) - [plain](/playlists/plain/37i9dQZF1DWVf7lNeiy8sU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVf7lNeiy8sU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf7lNeiy8sU.md) - [plain](/playlists/plain/37i9dQZF1DWVf7lNeiy8sU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVf7lNeiy8sU)
 
 ### [Pa' Mi San Juditas x Eme MalaFe ](https://open.spotify.com/playlist/37i9dQZF1DWVf7lNeiy8sU)
 
 > Celebrando a mi San Juditas y a mi barrio en compañía de Eme MalaFe
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,295 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,461 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

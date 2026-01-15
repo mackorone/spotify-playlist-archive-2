@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53b8g3ZSsaM.md) - [plain](/playlists/plain/37i9dQZF1DX53b8g3ZSsaM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX53b8g3ZSsaM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53b8g3ZSsaM.md) - [plain](/playlists/plain/37i9dQZF1DX53b8g3ZSsaM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX53b8g3ZSsaM)
 
 ### [Lo Mejor De Mansión Reggaetón 2024](https://open.spotify.com/playlist/37i9dQZF1DX53b8g3ZSsaM)
 
 > Las canciones de reggaeton que marcaron el año\. Foto: FloyyMenor & Cris MJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,749 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,782 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

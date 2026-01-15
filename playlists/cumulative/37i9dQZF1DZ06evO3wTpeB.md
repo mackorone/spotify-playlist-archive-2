@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO3wTpeB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3wTpeB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3wTpeB)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO3wTpeB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3wTpeB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO3wTpeB)
 
 ### [This Is Ali Aka Mind](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wTpeB)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKyQ5vVryAF.md) - [plain](/playlists/plain/37i9dQZF1DWWKyQ5vVryAF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWKyQ5vVryAF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKyQ5vVryAF.md) - [plain](/playlists/plain/37i9dQZF1DWWKyQ5vVryAF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWKyQ5vVryAF)
 
 ### [COUNTER//CULTURE: Cage The Elephant](https://open.spotify.com/playlist/37i9dQZF1DWWKyQ5vVryAF)
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3?si=4fd57d141abb418a">Cage The Elephant's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,795 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,885 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

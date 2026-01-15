@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/08vPKM3pmoyF6crB2EtASQ.md) - cumulative - [plain](/playlists/plain/08vPKM3pmoyF6crB2EtASQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/08vPKM3pmoyF6crB2EtASQ)
+[pretty](/playlists/pretty/08vPKM3pmoyF6crB2EtASQ.md) - cumulative - [plain](/playlists/plain/08vPKM3pmoyF6crB2EtASQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/08vPKM3pmoyF6crB2EtASQ)
 
 ### [Falling In Love](https://open.spotify.com/playlist/08vPKM3pmoyF6crB2EtASQ)
 

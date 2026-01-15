@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1YGlW3ovCv9Vek4CPnV0mZ.md) - cumulative - [plain](/playlists/plain/1YGlW3ovCv9Vek4CPnV0mZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1YGlW3ovCv9Vek4CPnV0mZ)
+[pretty](/playlists/pretty/1YGlW3ovCv9Vek4CPnV0mZ.md) - cumulative - [plain](/playlists/plain/1YGlW3ovCv9Vek4CPnV0mZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1YGlW3ovCv9Vek4CPnV0mZ)
 
 ### [Great Love Ballads](https://open.spotify.com/playlist/1YGlW3ovCv9Vek4CPnV0mZ)
 

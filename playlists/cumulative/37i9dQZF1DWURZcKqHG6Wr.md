@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWURZcKqHG6Wr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWURZcKqHG6Wr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWURZcKqHG6Wr)
+[pretty](/playlists/pretty/37i9dQZF1DWURZcKqHG6Wr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWURZcKqHG6Wr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWURZcKqHG6Wr)
 
 ### [COUNTER//CULTURE: The Linda Lindas](https://open.spotify.com/playlist/37i9dQZF1DWURZcKqHG6Wr)
 

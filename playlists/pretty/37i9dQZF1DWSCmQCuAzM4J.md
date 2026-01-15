@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCmQCuAzM4J.md) - [plain](/playlists/plain/37i9dQZF1DWSCmQCuAzM4J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSCmQCuAzM4J)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCmQCuAzM4J.md) - [plain](/playlists/plain/37i9dQZF1DWSCmQCuAzM4J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSCmQCuAzM4J)
 
 ### [pov: te rompió el corazón](https://open.spotify.com/playlist/37i9dQZF1DWSCmQCuAzM4J)
 

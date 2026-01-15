@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/3kTyvc7QLz9efLAPxHObFK.md) - cumulative - [plain](/playlists/plain/3kTyvc7QLz9efLAPxHObFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3kTyvc7QLz9efLAPxHObFK)
+[pretty](/playlists/pretty/3kTyvc7QLz9efLAPxHObFK.md) - cumulative - [plain](/playlists/plain/3kTyvc7QLz9efLAPxHObFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3kTyvc7QLz9efLAPxHObFK)
 
 ### [UK Hardcore/Hardstyle/Hardcore/J\-Core/Frenchcore/Uptempo/Hard Dance](https://open.spotify.com/playlist/3kTyvc7QLz9efLAPxHObFK)
 
 > 
 
-2,783 songs - 6 day 0 hr 35 min
+2,785 songs - 6 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1528,6 +1528,7 @@
 | [Louder](https://open.spotify.com/track/118IF6OKdNVyXbhOsMNF4R) | [Matzic](https://open.spotify.com/artist/5icd9CGTLeERkT6s20imCs) | [Louder](https://open.spotify.com/album/3ZduC6F9D5VuCbZYFx1d85) | 2:34 | 2024-11-15 |  |
 | [Louder](https://open.spotify.com/track/66GTUXSy2zoBoOUbRnzfFt) | [Raw System](https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4) | [Louder](https://open.spotify.com/album/5iBuL8meDgVEbLYeVf4AZY) | 3:15 | 2024-11-03 |  |
 | [Louder Generation](https://open.spotify.com/track/22mTYEazHE0rCp8nSyRlDp) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [Louder Generation](https://open.spotify.com/album/2I9roE7oFoKfvMIGktWFGw) | 3:26 | 2023-12-17 |  |
+| [Louder Generation \- LG x BR 2026 OST](https://open.spotify.com/track/21Y3KjRN9KPgtfJtmk2zez) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Louder Generation \(LG x BR 2026 OST\)](https://open.spotify.com/album/2K3wYcPvJm7kRvGP84TD7t) | 2:40 | 2026-01-15 |  |
 | [Love](https://open.spotify.com/track/7brdEIVANoXxxEa5YPDbVQ) | [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM) | [Love](https://open.spotify.com/album/0zG8VCYXxksnkanZ2ZT1eC) | 3:21 | 2024-04-01 |  |
 | [Love & Desire](https://open.spotify.com/track/4nfdor7qX11rg8C0KNj0zI) | [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E), [Magro](https://open.spotify.com/artist/6pcRBddUXrkKkYn0bJs232), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [Love & Desire](https://open.spotify.com/album/0doyayK54BnAB47emXJP4g) | 2:50 | 2022-11-21 |  |
 | [Love & Desire \- Macks Wolf Remix](https://open.spotify.com/track/0N5GIfook1W0uXEQi3RHJw) | [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E), [Magro](https://open.spotify.com/artist/6pcRBddUXrkKkYn0bJs232), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ), [Macks Wolf](https://open.spotify.com/artist/3uhj8GsCt7d3gF4uTQ67Ok) | [Love & Desire \(Macks Wolf Remix\)](https://open.spotify.com/album/1gx8FpnK7esMA1rMi0kDRm) | 3:45 | 2023-02-13 |  |
@@ -2530,6 +2531,7 @@
 | [Turn It Up](https://open.spotify.com/track/42bRSZobB5PrsvFYAXKeqe) | [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF), [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [Turn It Up](https://open.spotify.com/album/7xH1EHJrCwB8emBDvx0A6g) | 2:58 | 2023-10-24 |  |
 | [Turn It Up \- Radio Edit](https://open.spotify.com/track/4OV93O2nPaHRPbvPmGC9qy) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [I Said What EP \(Radio Edits\)](https://open.spotify.com/album/2lAuT3CMWB8aP0q8onUQCi) | 3:06 | 2024-04-01 |  |
 | [Turn It Up Loud](https://open.spotify.com/track/2U7SWa52sIDpIFrjrfMrT7) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Turn It Up Loud](https://open.spotify.com/album/3jHhdNMPtIDZSVp7DcF6pQ) | 4:09 | 2022-08-14 |  |
+| [Turn Me On](https://open.spotify.com/track/20k7Iq2ZJJ8SM4reMsTZAZ) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8), [Jennster](https://open.spotify.com/artist/3Ob9ALxU5OGbFvCKmnGk8P) | [Turn Me On](https://open.spotify.com/album/4EstfbQMk9cbD9Sbt7nfhE) | 2:31 | 2026-01-15 |  |
 | [Turn Off Your Mind](https://open.spotify.com/track/17ScTFrOP9KfP4fRA3X2Pf) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [Turn Off Your Mind](https://open.spotify.com/album/4usmn70Mrovzw6PGua71c5) | 2:33 | 2025-09-19 |  |
 | [TURN ON THE MICROWAVE](https://open.spotify.com/track/5viyUZt4ff4M0UGjEV7OXI) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD) | [TURN ON THE MICROWAVE](https://open.spotify.com/album/4k0GdhCt31JEiG8rBFwXwU) | 2:38 | 2025-10-18 |  |
 | [Turn The F Bass Up](https://open.spotify.com/track/5kNXmloCtElpwS8aNqEkbH) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Reflexx](https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0) | [Turn The F Bass Up](https://open.spotify.com/album/5opIHOpOPX7SYX64fxKSm6) | 3:05 | 2025-06-01 |  |

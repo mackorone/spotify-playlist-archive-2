@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xRgSChkAID.md) - [plain](/playlists/plain/37i9dQZF1DX1xRgSChkAID) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1xRgSChkAID)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xRgSChkAID.md) - [plain](/playlists/plain/37i9dQZF1DX1xRgSChkAID) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1xRgSChkAID)
 
 ### [GLOW Tapes: Zaya Wade](https://open.spotify.com/playlist/37i9dQZF1DX1xRgSChkAID)
 
 > queer ego fueled, curated by Zaya Wade\. Any and all necessary vibes for a complete trans girl summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,516 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,527 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

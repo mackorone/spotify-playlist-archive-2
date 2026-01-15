@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4K9PXQnAXv.md) - [plain](/playlists/plain/37i9dQZF1DWX4K9PXQnAXv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX4K9PXQnAXv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4K9PXQnAXv.md) - [plain](/playlists/plain/37i9dQZF1DWX4K9PXQnAXv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX4K9PXQnAXv)
 
 ### [Love is Blind Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWX4K9PXQnAXv)
 
 > Fall in love all over again with the music featured in Love Is Blind Seasons 8 & 9.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,996 likes - 35 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,587 likes - 35 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

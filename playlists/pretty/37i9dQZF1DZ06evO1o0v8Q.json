@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 42793,
+  "num_followers": 43096,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAACeVG7anqXK+27HYKW0cZ+l",
+  "snapshot_id": "aWbcgAAAAABkJGO2Tn8EkyarF2A16Jrx",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 63251,
-      "name": "The Things You Do",
-      "url": "https://open.spotify.com/track/7oSetY84ZklreUXX4eFdP0"
+      "duration_ms": 156002,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/41qY7F57ob5JSwboHiPoBk"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 156002,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/41qY7F57ob5JSwboHiPoBk"
+      "duration_ms": 63251,
+      "name": "The Things You Do",
+      "url": "https://open.spotify.com/track/7oSetY84ZklreUXX4eFdP0"
     },
     {
       "added_at": null,

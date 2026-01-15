@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6jbGdICAmvGjlURC1gcgRe.md) - [plain](/playlists/plain/6jbGdICAmvGjlURC1gcgRe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6jbGdICAmvGjlURC1gcgRe)
+pretty - [cumulative](/playlists/cumulative/6jbGdICAmvGjlURC1gcgRe.md) - [plain](/playlists/plain/6jbGdICAmvGjlURC1gcgRe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6jbGdICAmvGjlURC1gcgRe)
 
 ### [Get Lifted](https://open.spotify.com/playlist/6jbGdICAmvGjlURC1gcgRe)
 
 > Jazzy soul and rnb ballads to wake you up and lift your mood...
 
-[Spotify](https://open.spotify.com/user/spotify) - 134 likes - 30 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 30 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

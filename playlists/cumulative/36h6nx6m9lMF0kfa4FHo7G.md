@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/36h6nx6m9lMF0kfa4FHo7G.md) - cumulative - [plain](/playlists/plain/36h6nx6m9lMF0kfa4FHo7G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/36h6nx6m9lMF0kfa4FHo7G)
+[pretty](/playlists/pretty/36h6nx6m9lMF0kfa4FHo7G.md) - cumulative - [plain](/playlists/plain/36h6nx6m9lMF0kfa4FHo7G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/36h6nx6m9lMF0kfa4FHo7G)
 
 ### [Louis Tomlinson Change Over ](https://open.spotify.com/playlist/36h6nx6m9lMF0kfa4FHo7G)
 

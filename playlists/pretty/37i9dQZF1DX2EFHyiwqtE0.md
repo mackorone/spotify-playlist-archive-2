@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain](/playlists/plain/37i9dQZF1DX2EFHyiwqtE0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2EFHyiwqtE0)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain](/playlists/plain/37i9dQZF1DX2EFHyiwqtE0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2EFHyiwqtE0)
 
 ### [Raised on Latin](https://open.spotify.com/playlist/37i9dQZF1DX2EFHyiwqtE0)
 

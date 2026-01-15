@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO4djCVf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4djCVf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4djCVf)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO4djCVf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4djCVf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO4djCVf)
 
 ### [This Is Suzan & Freek](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4djCVf)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3f6ejuDaRcD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3f6ejuDaRcD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3f6ejuDaRcD)
+[pretty](/playlists/pretty/37i9dQZF1DX3f6ejuDaRcD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3f6ejuDaRcD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3f6ejuDaRcD)
 
 ### [스물다섯 스물하나 \(Twenty\-Five Twenty\-One\)](https://open.spotify.com/playlist/37i9dQZF1DX3f6ejuDaRcD)
 

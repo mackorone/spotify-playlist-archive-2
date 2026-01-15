@@ -7425,6 +7425,24 @@
     },
     {
       "album": {
+        "name": "Madrep\u00e9rola",
+        "url": "https://open.spotify.com/album/2PTeS8MMTr6xb40wc3NMv5"
+      },
+      "artists": [
+        {
+          "name": "Matheus de Bezerra",
+          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166819,
+      "name": "Madrep\u00e9rola",
+      "url": "https://open.spotify.com/track/2Et98ErxCOVLNujBDc8oef"
+    },
+    {
+      "album": {
         "name": "Jesus \u00d1 Voltar\u00e1 (Deluxe)",
         "url": "https://open.spotify.com/album/2QTXZFCPiqFZcuGT2JkngO"
       },

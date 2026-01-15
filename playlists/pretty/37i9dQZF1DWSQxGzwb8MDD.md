@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain](/playlists/plain/37i9dQZF1DWSQxGzwb8MDD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSQxGzwb8MDD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain](/playlists/plain/37i9dQZF1DWSQxGzwb8MDD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSQxGzwb8MDD)
 
 ### [Monster's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWSQxGzwb8MDD)
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,131 likes - 95 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,180 likes - 95 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdwTUxmGKrdN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwTUxmGKrdN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdwTUxmGKrdN)
+[pretty](/playlists/pretty/37i9dQZF1DXdwTUxmGKrdN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwTUxmGKrdN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdwTUxmGKrdN)
 
 ### [Smooth Jazz](https://open.spotify.com/playlist/37i9dQZF1DXdwTUxmGKrdN)
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-247 songs - 18 hr 9 min
+248 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Chill AF](https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [30](https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f) | 4:05 | 2022-04-11 | 2022-04-20 |
 | [Chill Or Be Chilled](https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [The Limit's The Sky](https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x) | 3:43 | 2023-05-03 | 2024-04-19 |
 | [Chill or Be Chilled](https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [The Limit's the Sky](https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S) | 3:43 | 2022-01-17 |  |
-| [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 | 2021-12-27 |  |
+| [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 | 2021-12-27 | 2026-01-15 |
 | [Close Your Eyes](https://open.spotify.com/track/4U8BICKUoG6sZRySInjdox) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' The Faith](https://open.spotify.com/album/0tIxbMipwFJGEdMmvfdEDx) | 5:06 | 2023-05-30 | 2024-04-19 |
 | [Cloud Watching](https://open.spotify.com/track/68ZLNdsXbDCUMcK8KWpL1v) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters VI](https://open.spotify.com/album/4rQmN4oD6yEvJrVQtj2ct5) | 5:29 | 2023-05-30 | 2024-04-19 |
 | [Cloud Watching](https://open.spotify.com/track/2gJCkklOvC8v56dmCmqrpn) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1), [The Jazzmasters](https://open.spotify.com/artist/66YzLGFlfe2aBpyH5Y13dB), [Paul Hardcastle Jr.](https://open.spotify.com/artist/620L8xasGScdGaSd4xv9Go) | [Jazzmasters 6](https://open.spotify.com/album/5eoo4LO3RcbqnMXEaLvjv6) | 5:29 | 2024-03-19 |  |
@@ -215,6 +215,7 @@
 | [Steppin' Out](https://open.spotify.com/track/1TQEe8NQLc3ml4p23ueRzq) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [All For Love](https://open.spotify.com/album/2DmMf1bOCZniiHjBNPlTyt) | 4:05 | 2021-12-27 |  |
 | [Steppin' Out](https://open.spotify.com/track/2vw0o63DPh9SEAtWN3kRgM) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [All For Love](https://open.spotify.com/album/13krE6l2QQwdBpjbPA5FwE) | 4:05 | 2022-07-18 | 2024-04-19 |
 | [Still Lovin' You](https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Feelin' It](https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l) | 4:13 | 2022-04-11 |  |
+| [Still on The Road](https://open.spotify.com/track/225rVls2PqjWNcBd2XV8p6) | [Alfonso Gugliucci](https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ), [Enrico Solazzo](https://open.spotify.com/artist/0SmNV0HwVvIH5dphXZ7C2E), [Max Filosi](https://open.spotify.com/artist/2iUyBuHomRb9OqoGi2TjA8), [Pekka Martikainen](https://open.spotify.com/artist/5QEWcEVz4RVmpEJE9XKHKF), [Jazzology](https://open.spotify.com/artist/3SgqwfG98fVw6pcNE8DX9m) | [Still on The Road](https://open.spotify.com/album/1904mEXM1yyzifmllwUCuc) | 2:50 | 2026-01-14 |  |
 | [Stockholm Summer](https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A) | 4:55 | 2021-12-27 |  |
 | [Stockholm Summer](https://open.spotify.com/track/7nDChpaHBKx9ZCJmEcTdtX) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 4:55 | 2022-07-18 | 2024-04-19 |
 | [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 4:56 | 2022-01-03 |  |

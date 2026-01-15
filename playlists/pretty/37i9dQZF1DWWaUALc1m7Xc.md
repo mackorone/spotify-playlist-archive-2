@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWaUALc1m7Xc.md) - [plain](/playlists/plain/37i9dQZF1DWWaUALc1m7Xc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWaUALc1m7Xc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWaUALc1m7Xc.md) - [plain](/playlists/plain/37i9dQZF1DWWaUALc1m7Xc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWaUALc1m7Xc)
 
 ### [Kiss Sixth Sense\(키스 식스 센스\)](https://open.spotify.com/playlist/37i9dQZF1DWWaUALc1m7Xc)
 
 > Enjoy the OSTs of Disney+'s original drama "Kiss Sixth Sense" along with Spotify\-exclusive audio content\. \(디즈니+의 오리지널 드라마 "키스 식스 센스"의 OST들을 스포티파이 독점 오디오 컨텐츠와 함께 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 52 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 87 likes - 52 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

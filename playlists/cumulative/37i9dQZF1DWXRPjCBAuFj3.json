@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Brani virali e trend, rap e urban \ud83d\udcc8  Shiva in cover",
+  "description": "Brani virali e trend, rap e urban \ud83d\udcc8  Yugi e ANNA in cover",
   "name": "Tendenze Rap 2026",
   "tracks": [
     {
@@ -1342,6 +1342,24 @@
       "duration_ms": 176666,
       "name": "Anthracite",
       "url": "https://open.spotify.com/track/2AoDYFB8sKWZunF2hS6Nxh"
+    },
+    {
+      "album": {
+        "name": "ANUBI",
+        "url": "https://open.spotify.com/album/52NtFcMo8qJNjOhOCDveCv"
+      },
+      "artists": [
+        {
+          "name": "lildombaby",
+          "url": "https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145479,
+      "name": "ANUBI",
+      "url": "https://open.spotify.com/track/7MLhPKIf1fTcJCy1Nfyyyc"
     },
     {
       "album": {
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 166250,
       "name": "Ci\u00f2 Che Fa Per Me",
       "url": "https://open.spotify.com/track/5ZaWtTA92lUt0MtnA3I6jZ"
@@ -4282,7 +4300,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150989,
       "name": "Da zero",
       "url": "https://open.spotify.com/track/0aFUAecJBaYgJHSu0uBf7a"
@@ -4564,7 +4582,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 283520,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/7utC1F1aaearq1u9qS9kQT"
@@ -6356,7 +6374,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 138829,
       "name": "FIGLI DEI PALAZZI (feat. N\u00e9za)",
       "url": "https://open.spotify.com/track/0zK49rNDZV9ptuuKs1buL8"
@@ -8650,7 +8668,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186213,
       "name": "IL CIELO NELLA STANZA (feat. NSTASIA)",
       "url": "https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad"
@@ -13011,6 +13029,24 @@
     },
     {
       "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207230,
+      "name": "Ogni Male",
+      "url": "https://open.spotify.com/track/28v57vssZ488EEIBivY3NF"
+    },
+    {
+      "album": {
         "name": "OH MY LORD (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY"
       },
@@ -14013,6 +14049,24 @@
     },
     {
       "album": {
+        "name": "COME VIVO",
+        "url": "https://open.spotify.com/album/6HeBSFceg9xJPzVJcS4Q9x"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130598,
+      "name": "PIU' SU",
+      "url": "https://open.spotify.com/track/2cM6NVBphorrGhs5BqLaoD"
+    },
+    {
+      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
@@ -14800,7 +14854,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 212985,
       "name": "Quelli Di Ieri",
       "url": "https://open.spotify.com/track/3cqSUFBFcXEKWymWcnETpa"
@@ -14968,6 +15022,24 @@
       "duration_ms": 165925,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6"
+    },
+    {
+      "album": {
+        "name": "20 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5k3P92L8FfhP1n8ye6FotE"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214603,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/3QjM7blH1a157YfP8G33TA"
     },
     {
       "album": {
@@ -18318,7 +18390,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196179,
       "name": "Took Her To The O",
       "url": "https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW"
@@ -19200,6 +19272,36 @@
       "duration_ms": 160202,
       "name": "War Bout It (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
+    },
+    {
+      "album": {
+        "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
+        "url": "https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu"
+      },
+      "artists": [
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx"
     },
     {
       "album": {

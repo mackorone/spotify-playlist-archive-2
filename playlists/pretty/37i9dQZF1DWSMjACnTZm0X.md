@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain](/playlists/plain/37i9dQZF1DWSMjACnTZm0X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSMjACnTZm0X)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain](/playlists/plain/37i9dQZF1DWSMjACnTZm0X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSMjACnTZm0X)
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=ptujw\_JxQqKkC0xBdre1Tw">Teni</a> and <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=YHMYqWMfSU698gw1kt39mQ">Gunna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,688 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,705 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

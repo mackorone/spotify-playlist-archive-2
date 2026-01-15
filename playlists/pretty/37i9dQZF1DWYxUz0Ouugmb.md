@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain](/playlists/plain/37i9dQZF1DWYxUz0Ouugmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYxUz0Ouugmb)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain](/playlists/plain/37i9dQZF1DWYxUz0Ouugmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYxUz0Ouugmb)
 
 ### [Best of RADAR Indonesia 2025 ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
 > Menampilkan artis RADAR Indonesia 2025 teratas, Rony Parulian dan lagu\-lagu pilihan editor\.  Cover: Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,277 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,307 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

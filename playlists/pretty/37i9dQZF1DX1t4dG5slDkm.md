@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1t4dG5slDkm.md) - [plain](/playlists/plain/37i9dQZF1DX1t4dG5slDkm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1t4dG5slDkm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1t4dG5slDkm.md) - [plain](/playlists/plain/37i9dQZF1DX1t4dG5slDkm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1t4dG5slDkm)
 
 ### [Pretty As A Peach](https://open.spotify.com/playlist/37i9dQZF1DX1t4dG5slDkm)
 

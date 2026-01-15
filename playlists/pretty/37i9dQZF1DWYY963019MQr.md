@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain](/playlists/plain/37i9dQZF1DWYY963019MQr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYY963019MQr)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain](/playlists/plain/37i9dQZF1DWYY963019MQr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYY963019MQr)
 
 ### [Soft Jazz Guitar](https://open.spotify.com/playlist/37i9dQZF1DWYY963019MQr)
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,058 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,250 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

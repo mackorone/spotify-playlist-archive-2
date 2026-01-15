@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain](/playlists/plain/37i9dQZF1DX05YNpFuDzLK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX05YNpFuDzLK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain](/playlists/plain/37i9dQZF1DX05YNpFuDzLK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX05YNpFuDzLK)
 
 ### [CODE GEASS SERIES](https://open.spotify.com/playlist/37i9dQZF1DX05YNpFuDzLK)
 
 > Welcome to the world of “Code Geass” series!  ©SUNRISE／PROJECT G\-ROZE　Character Design ©2006\-2024 CLAMP・ST
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,523 likes - 67 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,561 likes - 67 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

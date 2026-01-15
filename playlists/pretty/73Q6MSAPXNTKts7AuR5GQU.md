@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/73Q6MSAPXNTKts7AuR5GQU.md) - [plain](/playlists/plain/73Q6MSAPXNTKts7AuR5GQU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/73Q6MSAPXNTKts7AuR5GQU)
+pretty - [cumulative](/playlists/cumulative/73Q6MSAPXNTKts7AuR5GQU.md) - [plain](/playlists/plain/73Q6MSAPXNTKts7AuR5GQU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/73Q6MSAPXNTKts7AuR5GQU)
 
 ### [Top Notch Classics](https://open.spotify.com/playlist/73Q6MSAPXNTKts7AuR5GQU)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain](/playlists/plain/37i9dQZF1DXa1pcUVlBhYz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa1pcUVlBhYz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain](/playlists/plain/37i9dQZF1DXa1pcUVlBhYz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXa1pcUVlBhYz)
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
 > Electronic + Dance making waves, every month\. Cover: Storm Mollison
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,149 likes - 73 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,153 likes - 73 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

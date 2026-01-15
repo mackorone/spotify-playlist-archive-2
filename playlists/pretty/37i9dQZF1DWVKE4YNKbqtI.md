@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain](/playlists/plain/37i9dQZF1DWVKE4YNKbqtI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVKE4YNKbqtI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain](/playlists/plain/37i9dQZF1DWVKE4YNKbqtI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVKE4YNKbqtI)
 
 ### [Blues Harp](https://open.spotify.com/playlist/37i9dQZF1DWVKE4YNKbqtI)
 

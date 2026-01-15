@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5wPUMOWXlhmk9XmGO4RtKz.md) - [plain](/playlists/plain/5wPUMOWXlhmk9XmGO4RtKz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5wPUMOWXlhmk9XmGO4RtKz)
+pretty - [cumulative](/playlists/cumulative/5wPUMOWXlhmk9XmGO4RtKz.md) - [plain](/playlists/plain/5wPUMOWXlhmk9XmGO4RtKz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5wPUMOWXlhmk9XmGO4RtKz)
 
 ### [Commuter Flow \(That Fire For Your Aux Cord\)](https://open.spotify.com/playlist/5wPUMOWXlhmk9XmGO4RtKz)
 
 > Some nice little jams to make the ride smooth\. To quote Dom Kennedy &quot;Pleeze Make It Home Safe&quot; \(also closing song\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,836 likes - 40 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,795 likes - 40 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

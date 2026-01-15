@@ -1,18 +1,18 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2756,
+  "num_followers": 2769,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAAAuzw1L05xa6BdzZG+650Cn",
+  "snapshot_id": "aWbcgAAAAAC7OLbDP5OOrOVnHNA8b1Ok",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "purple strings",
-        "url": "https://open.spotify.com/album/3CRRMLGRHxX1OTF70U6RfH"
+        "name": "toothless coal",
+        "url": "https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 282253,
-      "name": "purple strings",
-      "url": "https://open.spotify.com/track/6xn74oHg2FAN4I9ejNajun"
+      "duration_ms": 227733,
+      "name": "toothless coal",
+      "url": "https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul"
     },
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 250096,
       "name": "Famine Asylum",
       "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "purple strings",
+        "url": "https://open.spotify.com/album/3CRRMLGRHxX1OTF70U6RfH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 282253,
+      "name": "purple strings",
+      "url": "https://open.spotify.com/track/6xn74oHg2FAN4I9ejNajun"
     },
     {
       "added_at": null,
@@ -292,9 +308,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 281004,
-      "name": "Hymn to the Pillory",
-      "url": "https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9"
+      "duration_ms": 242759,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
     },
     {
       "added_at": null,
@@ -360,9 +376,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 242759,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
+      "duration_ms": 281004,
+      "name": "Hymn to the Pillory",
+      "url": "https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downward Years to Come",
-        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 284351,
-      "name": "Suns and Lovers",
-      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When No Birds Sang",
         "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 247746,
       "name": "Forever Well",
       "url": "https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 308600,
+      "name": "Downward Years to Come",
+      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
     },
     {
       "added_at": null,
@@ -499,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "Wild Blue",
+      "url": "https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Downward Years to Come",
         "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
       },
@@ -508,25 +544,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 308600,
-      "name": "Downward Years to Come",
-      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great Dismal B-Sides",
-        "url": "https://open.spotify.com/album/3hiV9e2rbXw9YMb6QI8F8M"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "La La Means I Love You",
-      "url": "https://open.spotify.com/track/2AMobay6t5DRUVmlwtNt7Z"
+      "duration_ms": 284351,
+      "name": "Suns and Lovers",
+      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
     },
     {
       "added_at": null,
@@ -560,9 +580,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 491133,
-      "name": "Rose Tinted World",
-      "url": "https://open.spotify.com/track/67vYna8TF0R0kQfN92x933"
+      "duration_ms": 347160,
+      "name": "Spend The Grace",
+      "url": "https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS"
     },
     {
       "added_at": null,
@@ -596,9 +616,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 272840,
-      "name": "Wild Blue",
-      "url": "https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4"
+      "duration_ms": 491133,
+      "name": "Rose Tinted World",
+      "url": "https://open.spotify.com/track/67vYna8TF0R0kQfN92x933"
     },
     {
       "added_at": null,
@@ -615,26 +635,6 @@
       "duration_ms": 158013,
       "name": "The Dives (Lazarus in Ashes)",
       "url": "https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When No Birds Sang",
-        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
-      },
-      "artists": [
-        {
-          "name": "Full Of Hell",
-          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
-        },
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 347160,
-      "name": "Spend The Grace",
-      "url": "https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS"
     },
     {
       "added_at": null,

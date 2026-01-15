@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6pr1lshIyJt1vFuhlsnEDS.md) - cumulative - [plain](/playlists/plain/6pr1lshIyJt1vFuhlsnEDS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6pr1lshIyJt1vFuhlsnEDS)
+[pretty](/playlists/pretty/6pr1lshIyJt1vFuhlsnEDS.md) - cumulative - [plain](/playlists/plain/6pr1lshIyJt1vFuhlsnEDS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6pr1lshIyJt1vFuhlsnEDS)
 
 ### [THE TECHNO METHOD](https://open.spotify.com/playlist/6pr1lshIyJt1vFuhlsnEDS)
 

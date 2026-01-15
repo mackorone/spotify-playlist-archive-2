@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 189538,
       "name": "Qu\u00e9 Bueno",
       "url": "https://open.spotify.com/track/2EzbDeeupuIGDUWb7rB92D"
@@ -1454,6 +1454,24 @@
       "duration_ms": 136810,
       "name": "Si Te Quedas Conmigo",
       "url": "https://open.spotify.com/track/1H7gizb9QcLJmgSdYTQyTT"
+    },
+    {
+      "album": {
+        "name": "Solo Quer\u00eda Decirte Que Te Amo",
+        "url": "https://open.spotify.com/album/63zw3stL29cPGKslxiS5Rt"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163136,
+      "name": "Solo Quer\u00eda Decirte Que Te Amo",
+      "url": "https://open.spotify.com/track/1qb2MyyscTL8aJmWOMlf3l"
     },
     {
       "album": {

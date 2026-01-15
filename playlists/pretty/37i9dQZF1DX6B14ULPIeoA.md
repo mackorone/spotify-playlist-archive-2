@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain](/playlists/plain/37i9dQZF1DX6B14ULPIeoA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6B14ULPIeoA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain](/playlists/plain/37i9dQZF1DX6B14ULPIeoA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6B14ULPIeoA)
 
 ### [Café de Olla](https://open.spotify.com/playlist/37i9dQZF1DX6B14ULPIeoA)
 

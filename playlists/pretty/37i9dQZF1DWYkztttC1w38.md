@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain](/playlists/plain/37i9dQZF1DWYkztttC1w38) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYkztttC1w38)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain](/playlists/plain/37i9dQZF1DWYkztttC1w38) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYkztttC1w38)
 
 ### [Classical Reading](https://open.spotify.com/playlist/37i9dQZF1DWYkztttC1w38)
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,655 likes - 85 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,725 likes - 85 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 52 | [Sleepless](https://open.spotify.com/track/3IIboL1W5mfWjzPZenvCVe) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Sleepless](https://open.spotify.com/album/2VPWAuIYIPe988tW6llpml) | 3:05 |
 | 53 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/1ENZ1YHuOp5MMFJlWBQ6V7) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Deluxe Edt\. Studio + Live\)](https://open.spotify.com/album/70uK1xeiYicJZPFNkhfIdk) | 2:20 |
 | 54 | [Suite Mosaique, Op\. 35: IV\. Veslemøys sang](https://open.spotify.com/track/69KS1hdIUrss7KPnaK5ulg) | [Johan Halvorsen](https://open.spotify.com/artist/5BGmPOD1iAQ3YCivnaoXhs), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Håvard Gimse](https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I) | [Halvorsen: Suite Mosaique, Op\. 35, IV\. Veslemøys sang](https://open.spotify.com/album/6EhppIO7BP8RGmWotIHn1D) | 1:48 |
-| 55 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Lark Ascending collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 |
+| 55 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y) | [The Lark Ascending Collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 |
 | 56 | [Lacrimosa \(Arr\. Piano\)](https://open.spotify.com/track/3PSmDsIOywcxHpJTcXqSfm) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) | [Lacrimosa \(Arr\. Piano\)](https://open.spotify.com/album/5pXRAGlv6hnd5vJvcQ8Z3A) | 3:53 |
 | 57 | [Prologue](https://open.spotify.com/track/1W62KtrNpX64AxTMqo70Bl) | [Evgeny Grinko](https://open.spotify.com/artist/69RwhKw37lY73bMGaSts7C) | [Tiny Mouse Tales](https://open.spotify.com/album/6WJqMZ2by8zA3xstbOQgmc) | 1:39 |
 | 58 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 |

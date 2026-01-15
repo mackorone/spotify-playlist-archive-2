@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3BBOHHtAWM7qqVZE1JDd0Y.md) - cumulative - [plain](/playlists/plain/3BBOHHtAWM7qqVZE1JDd0Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3BBOHHtAWM7qqVZE1JDd0Y)
+[pretty](/playlists/pretty/3BBOHHtAWM7qqVZE1JDd0Y.md) - cumulative - [plain](/playlists/plain/3BBOHHtAWM7qqVZE1JDd0Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3BBOHHtAWM7qqVZE1JDd0Y)
 
 ### [Played by Kidnap](https://open.spotify.com/playlist/3BBOHHtAWM7qqVZE1JDd0Y)
 

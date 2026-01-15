@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYojpWKpDMGi.md) - [plain](/playlists/plain/37i9dQZF1DWYojpWKpDMGi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYojpWKpDMGi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYojpWKpDMGi.md) - [plain](/playlists/plain/37i9dQZF1DWYojpWKpDMGi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYojpWKpDMGi)
 
 ### [This Is 21 Savage](https://open.spotify.com/playlist/37i9dQZF1DWYojpWKpDMGi)
 

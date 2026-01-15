@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4DLyjRH9elAil3nXGatCcY.md) - cumulative - [plain](/playlists/plain/4DLyjRH9elAil3nXGatCcY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4DLyjRH9elAil3nXGatCcY)
+[pretty](/playlists/pretty/4DLyjRH9elAil3nXGatCcY.md) - cumulative - [plain](/playlists/plain/4DLyjRH9elAil3nXGatCcY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4DLyjRH9elAil3nXGatCcY)
 
 ### [Projekt Melody Official Playlist](https://open.spotify.com/playlist/4DLyjRH9elAil3nXGatCcY)
 

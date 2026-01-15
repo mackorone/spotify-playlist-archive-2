@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXd8cPo2t5Hqf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd8cPo2t5Hqf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd8cPo2t5Hqf)
+[pretty](/playlists/pretty/37i9dQZF1DXd8cPo2t5Hqf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd8cPo2t5Hqf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXd8cPo2t5Hqf)
 
 ### [HATSUNE MIKU/ 初音ミク Project DIVA series](https://open.spotify.com/playlist/37i9dQZF1DXd8cPo2t5Hqf)
 

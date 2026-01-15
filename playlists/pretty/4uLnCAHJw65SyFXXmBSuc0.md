@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4uLnCAHJw65SyFXXmBSuc0.md) - [plain](/playlists/plain/4uLnCAHJw65SyFXXmBSuc0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4uLnCAHJw65SyFXXmBSuc0)
+pretty - [cumulative](/playlists/cumulative/4uLnCAHJw65SyFXXmBSuc0.md) - [plain](/playlists/plain/4uLnCAHJw65SyFXXmBSuc0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4uLnCAHJw65SyFXXmBSuc0)
 
 ### [Top Picks holiday](https://open.spotify.com/playlist/4uLnCAHJw65SyFXXmBSuc0)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 796 likes - 20 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 795 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

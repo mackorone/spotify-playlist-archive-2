@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4h3u2WBqcR0.md) - [plain](/playlists/plain/37i9dQZF1DX4h3u2WBqcR0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4h3u2WBqcR0)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4h3u2WBqcR0.md) - [plain](/playlists/plain/37i9dQZF1DX4h3u2WBqcR0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4h3u2WBqcR0)
 
 ### [Best of The Oscars: Scores and Soundtracks](https://open.spotify.com/playlist/37i9dQZF1DX4h3u2WBqcR0)
 

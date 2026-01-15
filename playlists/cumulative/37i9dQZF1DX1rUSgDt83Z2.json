@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Noorderlicht",
+        "url": "https://open.spotify.com/album/2hWs52poL7yBwoRYNTQ4MP"
+      },
+      "artists": [
+        {
+          "name": "Lisa Michels",
+          "url": "https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194661,
+      "name": "Noorderlicht",
+      "url": "https://open.spotify.com/track/2yy0FHQvXgj9tZHceIjZpL"
+    },
+    {
+      "album": {
         "name": "Not a game",
         "url": "https://open.spotify.com/album/0DOY7ZM2S1noAk20375tt8"
       },
@@ -3582,7 +3600,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 132754,
       "name": "Zij Bij Mij",
       "url": "https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN"

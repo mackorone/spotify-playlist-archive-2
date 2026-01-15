@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdG6xNmMOWik.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdG6xNmMOWik) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdG6xNmMOWik)
+[pretty](/playlists/pretty/37i9dQZF1DXdG6xNmMOWik.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdG6xNmMOWik) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdG6xNmMOWik)
 
 ### [ラブライブ！蓮ノ空女学院スクールアイドルクラブ  LoveLive! HASU NO SORA JOGAKUIN SCHOOL IDOL CLUB](https://open.spotify.com/playlist/37i9dQZF1DXdG6xNmMOWik)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/134BrsErnfQSw0kgArfYCW.md) - cumulative - [plain](/playlists/plain/134BrsErnfQSw0kgArfYCW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/134BrsErnfQSw0kgArfYCW)
+[pretty](/playlists/pretty/134BrsErnfQSw0kgArfYCW.md) - cumulative - [plain](/playlists/plain/134BrsErnfQSw0kgArfYCW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/134BrsErnfQSw0kgArfYCW)
 
 ### [Jaren 90 \- Jaren 90 Hits](https://open.spotify.com/playlist/134BrsErnfQSw0kgArfYCW)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain](/playlists/plain/37i9dQZF1DX5GJwRv8mfqk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5GJwRv8mfqk)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain](/playlists/plain/37i9dQZF1DX5GJwRv8mfqk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5GJwRv8mfqk)
 
 ### [Cancionero Edén Muñoz](https://open.spotify.com/playlist/37i9dQZF1DX5GJwRv8mfqk)
 

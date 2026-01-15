@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXddoYHYnHJ9N.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXddoYHYnHJ9N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXddoYHYnHJ9N)
+[pretty](/playlists/pretty/37i9dQZF1DXddoYHYnHJ9N.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXddoYHYnHJ9N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXddoYHYnHJ9N)
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: Bruno X Spacc
 
-176 songs - 8 hr 42 min
+177 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 | 2024-07-01 | 2024-11-05 |
 | [Karácsonyi dal](https://open.spotify.com/track/6QTVuNK2TnejUaFOPpqBUi) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Karácsonyi dal](https://open.spotify.com/album/1pTQtUUOF5uRLW8lAtudD5) | 3:29 | 2025-12-08 | 2026-01-06 |
 | [kelet](https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Signo](https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s) | [kelet](https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3) | 3:27 | 2024-07-01 | 2024-09-10 |
+| [KERTES HÁZ](https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [KERTES HÁZ](https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd) | 2:19 | 2026-01-12 |  |
 | [Kettesben](https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [Kettesben](https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM) | 2:39 | 2024-12-16 | 2025-04-08 |
 | [KETTŐ/KETTŐ](https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [KETTŐ/KETTŐ](https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk) | 2:57 | 2025-04-07 |  |
 | [kif.lee](https://open.spotify.com/track/27ku2bPgLSoGNyaCORu2NK) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya II](https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb) | 3:14 | 2025-10-18 |  |
@@ -93,7 +94,7 @@
 | [lánc](https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [lánc](https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3) | 2:39 | 2024-08-13 | 2025-03-18 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-02 | 2025-01-21 |
 | [mariana.árok](https://open.spotify.com/track/4iLTcaEz2yfnUDkO5XTe3B) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [mariana.árok](https://open.spotify.com/album/4gv0VIH1MPraYV0foPyFP0) | 4:04 | 2024-07-01 | 2024-08-20 |
-| [MARIO](https://open.spotify.com/track/4AFGsWF8bF7w8s1gqUucvj) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [MARIO](https://open.spotify.com/album/4hBIjSARJ1kmQE351GDdp0) | 2:20 | 2025-12-01 |  |
+| [MARIO](https://open.spotify.com/track/4AFGsWF8bF7w8s1gqUucvj) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [MARIO](https://open.spotify.com/album/4hBIjSARJ1kmQE351GDdp0) | 2:20 | 2025-12-01 | 2026-01-15 |
 | [Megcsalok veled akárkit](https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9) | [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Megcsalok veled akárkit](https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6) | 2:24 | 2025-11-24 |  |
 | [MEGGYFÁN](https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:26 | 2024-07-01 | 2025-11-04 |
 | [Milliók](https://open.spotify.com/track/5trI6snHPkJHvg0cygjRes) | [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Milliók](https://open.spotify.com/album/0dZzGPImkenhI2yuYD0urs) | 2:41 | 2024-12-02 | 2025-02-04 |

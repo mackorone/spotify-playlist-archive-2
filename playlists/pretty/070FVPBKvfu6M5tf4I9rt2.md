@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/070FVPBKvfu6M5tf4I9rt2.md) - [plain](/playlists/plain/070FVPBKvfu6M5tf4I9rt2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/070FVPBKvfu6M5tf4I9rt2)
+pretty - [cumulative](/playlists/cumulative/070FVPBKvfu6M5tf4I9rt2.md) - [plain](/playlists/plain/070FVPBKvfu6M5tf4I9rt2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/070FVPBKvfu6M5tf4I9rt2)
 
 ### [The Blues Skies](https://open.spotify.com/playlist/070FVPBKvfu6M5tf4I9rt2)
 

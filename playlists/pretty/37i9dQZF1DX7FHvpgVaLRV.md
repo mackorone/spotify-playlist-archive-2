@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FHvpgVaLRV.md) - [plain](/playlists/plain/37i9dQZF1DX7FHvpgVaLRV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FHvpgVaLRV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FHvpgVaLRV.md) - [plain](/playlists/plain/37i9dQZF1DX7FHvpgVaLRV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7FHvpgVaLRV)
 
 ### [Yoga em Casa](https://open.spotify.com/playlist/37i9dQZF1DX7FHvpgVaLRV)
 

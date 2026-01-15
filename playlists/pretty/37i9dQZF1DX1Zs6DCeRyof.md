@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain](/playlists/plain/37i9dQZF1DX1Zs6DCeRyof) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1Zs6DCeRyof)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain](/playlists/plain/37i9dQZF1DX1Zs6DCeRyof) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1Zs6DCeRyof)
 
 ### [Éxitos Puerto Rico](https://open.spotify.com/playlist/37i9dQZF1DX1Zs6DCeRyof)
 
 > Celebrando el primer aniversario de DeBÍ TiRAR MáS FOToS de Bad Bunny aquí, en la lista donde viven los hits más grandes de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,367 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,180 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 49 | [Rose](https://open.spotify.com/track/0zY6VwcJajbJdXdTaIKfb8) | [yovngmanota](https://open.spotify.com/artist/6EDVu3xVa0VFfMhxKbBxuJ) | [Rose](https://open.spotify.com/album/5WOmHHQ1SHgLHaG4LrwgmK) | 2:26 |
 | 50 | [⁠LUCES DE COLORES](https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:36 |
 
-Snapshot ID: `AAAAADq/uVaaE0lEZxV5K8mdP6cQ0azq`
+Snapshot ID: `AAAAAIhzXv/LhR746AyTVe9ZewZmaJdO`

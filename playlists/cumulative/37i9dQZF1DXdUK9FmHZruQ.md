@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdUK9FmHZruQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdUK9FmHZruQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdUK9FmHZruQ)
+[pretty](/playlists/pretty/37i9dQZF1DXdUK9FmHZruQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdUK9FmHZruQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdUK9FmHZruQ)
 
 ### [Chillax Ka Muna!](https://open.spotify.com/playlist/37i9dQZF1DXdUK9FmHZruQ)
 

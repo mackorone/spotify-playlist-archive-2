@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain](/playlists/plain/37i9dQZF1DWTuEPedcYvVB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTuEPedcYvVB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain](/playlists/plain/37i9dQZF1DWTuEPedcYvVB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTuEPedcYvVB)
 
 ### [Top Boy Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTuEPedcYvVB)
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,862 likes - 77 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,847 likes - 77 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Against The World",
+      "url": "https://open.spotify.com/track/1fnTxeWrORlRZqUsEOvVEo"
+    },
+    {
+      "album": {
         "name": "Want Two",
         "url": "https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG"
       },
@@ -1830,6 +1848,24 @@
       "duration_ms": 312360,
       "name": "Battery (Remastered)",
       "url": "https://open.spotify.com/track/7qRxAH7ZRB2Ita3mebXfR3"
+    },
+    {
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/43gU5fFjKslAS9hXXDvkdz"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22000,
+      "name": "BBC Radiophonic Workshop",
+      "url": "https://open.spotify.com/track/5eqrwcF6uJiDaSDQ3o1WAv"
     },
     {
       "album": {
@@ -3117,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/1rY3xCy5gD0rGAvjmX4eFZ"
+      },
+      "artists": [
+        {
+          "name": "Bird's Eye Thief",
+          "url": "https://open.spotify.com/artist/0vZN69wBuaXhNIGlkqqqPC"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140544,
+      "name": "Circle In",
+      "url": "https://open.spotify.com/track/3sCIabWXsdr2WIwtlxI77j"
+    },
+    {
+      "album": {
         "name": "Flavors of Entanglement (Standard Edition)",
         "url": "https://open.spotify.com/album/60XREfh3Gg6chBxPBCa7dl"
       },
@@ -3482,7 +3536,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 119090,
       "name": "context",
       "url": "https://open.spotify.com/track/2eZzMLQiSFY9e3hYKCqkqe"
@@ -4371,6 +4425,24 @@
     },
     {
       "album": {
+        "name": "The Rubber Teeth Talk",
+        "url": "https://open.spotify.com/album/4lloxY9u7ukMRVBlI9JGh1"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243390,
+      "name": "Dog",
+      "url": "https://open.spotify.com/track/1b9sUqUIX9ya2piu29HJNu"
+    },
+    {
+      "album": {
         "name": "Buoys",
         "url": "https://open.spotify.com/album/3vnTHiTvlOcNFg2wCK0Uyl"
       },
@@ -4804,7 +4876,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 18317,
       "name": "Earth Worship Intro",
       "url": "https://open.spotify.com/track/713DQ7jH7YpNoPyLffdCPT"
@@ -5310,6 +5382,24 @@
       "duration_ms": 221466,
       "name": "Family Tree (Intro)",
       "url": "https://open.spotify.com/track/4fjSiuY9b3uBeGd1KBUNZE"
+    },
+    {
+      "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/4ZfeweV9NuqF0YXe3OMmwB"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5QbSxX3tmc24xZxTwgnVkl"
     },
     {
       "album": {
@@ -6459,6 +6549,24 @@
     },
     {
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/2lzfXDmAAnFTwAHNc759Rz"
+      },
+      "artists": [
+        {
+          "name": "Kim Jung Mi",
+          "url": "https://open.spotify.com/artist/0yxIUq0WFyaTmYyleG4Uca"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413933,
+      "name": "Haenim",
+      "url": "https://open.spotify.com/track/6uBFcQ0TFjdnS5QUTff2Yb"
+    },
+    {
+      "album": {
         "name": "Hydranism",
         "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
       },
@@ -6777,6 +6885,24 @@
     },
     {
       "album": {
+        "name": "People in the Sun",
+        "url": "https://open.spotify.com/album/28Oa0IXZyGHw0GpSLdkyk1"
+      },
+      "artists": [
+        {
+          "name": "Powerplant",
+          "url": "https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162772,
+      "name": "Hey Mr. Dogman!",
+      "url": "https://open.spotify.com/track/1poEehfJMN4lQqSsXcBxNQ"
+    },
+    {
+      "album": {
         "name": "Vespertine",
         "url": "https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1"
       },
@@ -6810,6 +6936,24 @@
       "duration_ms": 184826,
       "name": "History Repeats",
       "url": "https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7"
+    },
+    {
+      "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363918,
+      "name": "Hit My Head All Day",
+      "url": "https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3"
     },
     {
       "album": {
@@ -7878,7 +8022,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157506,
       "name": "In the Morning",
       "url": "https://open.spotify.com/track/0zlqp4qK2WxjC1J6ExWPlt"
@@ -9065,6 +9209,24 @@
     },
     {
       "album": {
+        "name": "Landline",
+        "url": "https://open.spotify.com/album/2171VebZnlhHswDZtosl4r"
+      },
+      "artists": [
+        {
+          "name": "Landline",
+          "url": "https://open.spotify.com/artist/0bRSQWTnCzkRKctyXYrhs4"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161726,
+      "name": "Landline",
+      "url": "https://open.spotify.com/track/2LvG6CvAngdkkbPw5EjG5H"
+    },
+    {
+      "album": {
         "name": "We Buy Diabetic Test Strips",
         "url": "https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh"
       },
@@ -9714,7 +9876,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 259829,
       "name": "Lonesome Is A State of Mind",
       "url": "https://open.spotify.com/track/5DcV7k8MIdYJAAIR0O3Iks"
@@ -10242,6 +10404,24 @@
       "duration_ms": 172640,
       "name": "Margaret vs. Pauline",
       "url": "https://open.spotify.com/track/7zp9Uj66my5wUpdH1FTfy9"
+    },
+    {
+      "album": {
+        "name": "Amazing Electronic Pop Sound Of",
+        "url": "https://open.spotify.com/album/2UUEIw8gSaVGnG4eyJoPnm"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Mary France",
+      "url": "https://open.spotify.com/track/221mzU0izy6JdU1zRlIMAM"
     },
     {
       "album": {
@@ -11837,6 +12017,24 @@
     },
     {
       "album": {
+        "name": "Through This Fire Across from Peter Balkan",
+        "url": "https://open.spotify.com/album/23wXSnurzNp56xCyGBPQ65"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265501,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/71LskqrTcKZatME2lpbyum"
+    },
+    {
+      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
@@ -12000,7 +12198,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 132917,
       "name": "Patience",
       "url": "https://open.spotify.com/track/0xFEpNfqtoBgXeaUDwN6el"
@@ -14586,6 +14784,24 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
+    },
+    {
+      "album": {
+        "name": "Flood Format",
+        "url": "https://open.spotify.com/album/2g487tcaDmufrDamXe1YEm"
+      },
+      "artists": [
+        {
+          "name": "Bird's Eye Batang",
+          "url": "https://open.spotify.com/artist/2e00FQUVdht8bnnwsV8gwS"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241983,
+      "name": "Slippery Smile",
+      "url": "https://open.spotify.com/track/4yuVjwMjdzUETJ8eqAO87b"
     },
     {
       "album": {
@@ -17423,6 +17639,24 @@
     },
     {
       "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Uncontrollable Urge",
+      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
+    },
+    {
+      "album": {
         "name": "Lost In The Dream",
         "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
@@ -18344,7 +18578,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 264067,
       "name": "White Room",
       "url": "https://open.spotify.com/track/47kKriL1d9WiVRBy0YxW5V"
@@ -18640,6 +18874,24 @@
       "duration_ms": 145038,
       "name": "x w x",
       "url": "https://open.spotify.com/track/23M9FijuZP9MsVQrCLdqct"
+    },
+    {
+      "album": {
+        "name": "Nude #9",
+        "url": "https://open.spotify.com/album/6Oo6v3mZgMOwTv9qctDQWb"
+      },
+      "artists": [
+        {
+          "name": "Camille Schmidt",
+          "url": "https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171365,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/5QvFYp5Kt1fETgI2T0kNiK"
     },
     {
       "album": {
@@ -18998,6 +19250,42 @@
       "duration_ms": 125016,
       "name": "\u7ed9\u62b1\u7740\u76d2\u5b50\u7684\u59d1\u5a18",
       "url": "https://open.spotify.com/track/5kpqZy4npLRTd8AEjkV6YH"
+    },
+    {
+      "album": {
+        "name": "Binding Chimes",
+        "url": "https://open.spotify.com/album/3rjIK9QiXzYSGVIn5aNCvj"
+      },
+      "artists": [
+        {
+          "name": "Herhums",
+          "url": "https://open.spotify.com/artist/429xoA1jiH70HKoNMvi2iv"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163648,
+      "name": "\ube44",
+      "url": "https://open.spotify.com/track/05i2MmHty5EdrZUwylGvw4"
+    },
+    {
+      "album": {
+        "name": "\uc544\uce68\ub180 achimnol",
+        "url": "https://open.spotify.com/album/5NBRIEH2i8U6IQx0KiTyVF"
+      },
+      "artists": [
+        {
+          "name": "khc",
+          "url": "https://open.spotify.com/artist/6va4OhhPs4U1cXkqfZ44LR"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127105,
+      "name": "\uc0b0 san",
+      "url": "https://open.spotify.com/track/2EzCnAwsNSDRg0pbxth8Ve"
     }
   ],
   "url": "https://open.spotify.com/playlist/79mpaUsn0LPGUyCkBRnSgZ"

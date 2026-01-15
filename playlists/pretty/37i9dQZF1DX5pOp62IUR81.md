@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain](/playlists/plain/37i9dQZF1DX5pOp62IUR81) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5pOp62IUR81)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain](/playlists/plain/37i9dQZF1DX5pOp62IUR81) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5pOp62IUR81)
 
 ### [Marvel Music](https://open.spotify.com/playlist/37i9dQZF1DX5pOp62IUR81)
 
 > Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,476 likes - 188 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,398 likes - 188 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

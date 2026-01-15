@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain](/playlists/plain/37i9dQZF1DX9FWIO38pHuz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9FWIO38pHuz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain](/playlists/plain/37i9dQZF1DX9FWIO38pHuz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9FWIO38pHuz)
 
 ### [Nu\-Funk Presents Best Funk of 2025](https://open.spotify.com/playlist/37i9dQZF1DX9FWIO38pHuz)
 
 > Our editors' top picks for the best Funk songs of the year\. Cover: MonoNeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,844 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,872 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

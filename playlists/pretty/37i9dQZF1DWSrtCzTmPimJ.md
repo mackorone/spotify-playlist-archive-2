@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain](/playlists/plain/37i9dQZF1DWSrtCzTmPimJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSrtCzTmPimJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain](/playlists/plain/37i9dQZF1DWSrtCzTmPimJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSrtCzTmPimJ)
 
 ### [Binaural Beats: Stress Relief](https://open.spotify.com/playlist/37i9dQZF1DWSrtCzTmPimJ)
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,765 likes - 139 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,811 likes - 139 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

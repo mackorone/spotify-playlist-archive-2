@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWX6s7PHJnk94.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX6s7PHJnk94) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX6s7PHJnk94)
+[pretty](/playlists/pretty/37i9dQZF1DWX6s7PHJnk94.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX6s7PHJnk94) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX6s7PHJnk94)
 
 ### [Dans runt stången](https://open.spotify.com/playlist/37i9dQZF1DWX6s7PHJnk94)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRITMyVwc9y.md) - [plain](/playlists/plain/37i9dQZF1DXdRITMyVwc9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdRITMyVwc9y)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRITMyVwc9y.md) - [plain](/playlists/plain/37i9dQZF1DXdRITMyVwc9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdRITMyVwc9y)
 
 ### [This is: Emeli Sandé](https://open.spotify.com/playlist/37i9dQZF1DXdRITMyVwc9y)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXm4aFD88nJT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXm4aFD88nJT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXm4aFD88nJT)
+[pretty](/playlists/pretty/37i9dQZF1DWXm4aFD88nJT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXm4aFD88nJT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXm4aFD88nJT)
 
 ### [Найкращі пісні солов’їною 2025](https://open.spotify.com/playlist/37i9dQZF1DWXm4aFD88nJT)
 

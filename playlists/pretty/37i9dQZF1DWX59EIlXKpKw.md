@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX59EIlXKpKw.md) - [plain](/playlists/plain/37i9dQZF1DWX59EIlXKpKw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX59EIlXKpKw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX59EIlXKpKw.md) - [plain](/playlists/plain/37i9dQZF1DWX59EIlXKpKw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX59EIlXKpKw)
 
 ### [Ada Twist's Science Songs Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWX59EIlXKpKw)
 
 > Listen to all the music from the hit series, and your favorite science songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,812 likes - 20 songs - 40 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 44,964 likes - 20 songs - 40 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R9e00hBCQT.md) - [plain](/playlists/plain/37i9dQZF1DX7R9e00hBCQT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7R9e00hBCQT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R9e00hBCQT.md) - [plain](/playlists/plain/37i9dQZF1DX7R9e00hBCQT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7R9e00hBCQT)
 
 ### [This Is Langston Hughes](https://open.spotify.com/playlist/37i9dQZF1DX7R9e00hBCQT)
 

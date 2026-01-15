@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain](/playlists/plain/4sjY92ZWVdLJYdPmhpJQXh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4sjY92ZWVdLJYdPmhpJQXh)
+pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain](/playlists/plain/4sjY92ZWVdLJYdPmhpJQXh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4sjY92ZWVdLJYdPmhpJQXh)
 
 ### [Atlantic Records: Presents](https://open.spotify.com/playlist/4sjY92ZWVdLJYdPmhpJQXh)
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 2,243 likes - 76 songs - 3 hr 44 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 2,242 likes - 76 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

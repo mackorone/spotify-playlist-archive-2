@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain](/playlists/plain/37i9dQZF1DWUAivYWxeKnI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUAivYWxeKnI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain](/playlists/plain/37i9dQZF1DWUAivYWxeKnI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUAivYWxeKnI)
 
 ### [HIPHOPPLAYA FESTIVAL 2025](https://open.spotify.com/playlist/37i9dQZF1DWUAivYWxeKnI)
 
 > \[Festival Dates: May 3\] Meet the lineup of HIPHOPPLAYA FESTIVAL 2025, the largest hip\-hop festival in Korea! \(5월 3일 열리는 한국 최대 규모의 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2025의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,323 likes - 42 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,374 likes - 42 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

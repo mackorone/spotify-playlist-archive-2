@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain](/playlists/plain/37i9dQZF1DX24s7wiZ6iNt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX24s7wiZ6iNt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain](/playlists/plain/37i9dQZF1DX24s7wiZ6iNt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX24s7wiZ6iNt)
 
 ### [Indie All Stars presents: Best Indie Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX24s7wiZ6iNt)
 
 > The best of indie this year, handpicked by Spotify Canada editors\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,398 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,463 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

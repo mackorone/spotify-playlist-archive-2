@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain](/playlists/plain/37i9dQZF1DXaImRpG7HXqp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaImRpG7HXqp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain](/playlists/plain/37i9dQZF1DXaImRpG7HXqp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaImRpG7HXqp)
 
 ### [Calming Acoustic](https://open.spotify.com/playlist/37i9dQZF1DXaImRpG7HXqp)
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,200 likes - 151 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,923 likes - 151 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

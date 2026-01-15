@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX52IXnX9fyzi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX52IXnX9fyzi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX52IXnX9fyzi)
+[pretty](/playlists/pretty/37i9dQZF1DX52IXnX9fyzi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX52IXnX9fyzi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX52IXnX9fyzi)
 
 ### [Music for Writing](https://open.spotify.com/playlist/37i9dQZF1DX52IXnX9fyzi)
 

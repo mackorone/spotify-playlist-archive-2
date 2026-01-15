@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5bjjHyKeiGnYdupfr3UUCW.md) - [plain](/playlists/plain/5bjjHyKeiGnYdupfr3UUCW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5bjjHyKeiGnYdupfr3UUCW)
+pretty - [cumulative](/playlists/cumulative/5bjjHyKeiGnYdupfr3UUCW.md) - [plain](/playlists/plain/5bjjHyKeiGnYdupfr3UUCW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5bjjHyKeiGnYdupfr3UUCW)
 
 ### [Ultimate Live Jams](https://open.spotify.com/playlist/5bjjHyKeiGnYdupfr3UUCW)
 

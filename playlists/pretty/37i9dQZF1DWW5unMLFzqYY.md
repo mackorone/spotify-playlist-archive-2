@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5unMLFzqYY.md) - [plain](/playlists/plain/37i9dQZF1DWW5unMLFzqYY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW5unMLFzqYY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5unMLFzqYY.md) - [plain](/playlists/plain/37i9dQZF1DWW5unMLFzqYY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW5unMLFzqYY)
 
 ### [NCT WISH \[ASIA TOUR LOG in\]](https://open.spotify.com/playlist/37i9dQZF1DWW5unMLFzqYY)
 
 > Enjoy the NCT WISH \[ASIA TOUR LOG in\] LIVE SET including the voices of them on stage! \(NCT WISH의 무대 멘트와 목소리가 포함된 \[ASIA TOUR LOG in\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,203 likes - 22 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,266 likes - 22 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

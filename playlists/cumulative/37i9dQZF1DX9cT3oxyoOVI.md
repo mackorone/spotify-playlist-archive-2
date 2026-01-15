@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9cT3oxyoOVI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9cT3oxyoOVI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9cT3oxyoOVI)
+[pretty](/playlists/pretty/37i9dQZF1DX9cT3oxyoOVI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9cT3oxyoOVI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9cT3oxyoOVI)
 
 ### [The summer I turned indie](https://open.spotify.com/playlist/37i9dQZF1DX9cT3oxyoOVI)
 

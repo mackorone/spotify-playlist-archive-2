@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I6WKyDErKj.md) - [plain](/playlists/plain/37i9dQZF1DX3I6WKyDErKj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3I6WKyDErKj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I6WKyDErKj.md) - [plain](/playlists/plain/37i9dQZF1DX3I6WKyDErKj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3I6WKyDErKj)
 
 ### [I Love My HBCU \(Howard University\)](https://open.spotify.com/playlist/37i9dQZF1DX3I6WKyDErKj)
 
 > HBCU Anthems! Curated by Howard University's own <a href="spotify:artist:44qqbgojo0P8r68CuRbSN4">Lady London</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,129 likes - 53 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,377 likes - 53 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

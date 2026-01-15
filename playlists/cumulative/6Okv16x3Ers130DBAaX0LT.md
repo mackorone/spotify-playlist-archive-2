@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6Okv16x3Ers130DBAaX0LT.md) - cumulative - [plain](/playlists/plain/6Okv16x3Ers130DBAaX0LT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6Okv16x3Ers130DBAaX0LT)
+[pretty](/playlists/pretty/6Okv16x3Ers130DBAaX0LT.md) - cumulative - [plain](/playlists/plain/6Okv16x3Ers130DBAaX0LT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6Okv16x3Ers130DBAaX0LT)
 
 ### [pretty girls with machine guns](https://open.spotify.com/playlist/6Okv16x3Ers130DBAaX0LT)
 

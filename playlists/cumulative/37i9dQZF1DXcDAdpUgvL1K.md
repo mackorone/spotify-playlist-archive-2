@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcDAdpUgvL1K.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcDAdpUgvL1K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcDAdpUgvL1K)
+[pretty](/playlists/pretty/37i9dQZF1DXcDAdpUgvL1K.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcDAdpUgvL1K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcDAdpUgvL1K)
 
 ### [그 시절, 우리가 좋아했던 소녀 \(You are the Apple of My Eye\)](https://open.spotify.com/playlist/37i9dQZF1DXcDAdpUgvL1K)
 

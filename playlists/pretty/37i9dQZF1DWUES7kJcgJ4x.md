@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain](/playlists/plain/37i9dQZF1DWUES7kJcgJ4x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUES7kJcgJ4x)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain](/playlists/plain/37i9dQZF1DWUES7kJcgJ4x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUES7kJcgJ4x)
 
 ### [¡Chicas Ye\-yé!](https://open.spotify.com/playlist/37i9dQZF1DWUES7kJcgJ4x)
 

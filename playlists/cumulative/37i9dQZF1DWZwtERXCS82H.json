@@ -4334,7 +4334,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 137309,
       "name": "Fractions",
       "url": "https://open.spotify.com/track/4zHsgYHkouqqPwlGcgsOVo"
@@ -8259,6 +8259,24 @@
     },
     {
       "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/5CUoTSDPsTd5mfpJsWIbz3"
+      },
+      "artists": [
+        {
+          "name": "Dalby",
+          "url": "https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146801,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/5XaDdPqb8MTApJ5kqReqgg"
+    },
+    {
+      "album": {
         "name": "Next Part Of The Dream",
         "url": "https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ"
       },
@@ -9116,7 +9134,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167667,
       "name": "Pages Lost to the Wind",
       "url": "https://open.spotify.com/track/7kT08GH3sOiPbfO4FjBUKC"
@@ -9228,6 +9246,24 @@
       "duration_ms": 134500,
       "name": "Passage sombre",
       "url": "https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk"
+    },
+    {
+      "album": {
+        "name": "Passing Clouds",
+        "url": "https://open.spotify.com/album/6yPyotkHUgjWsdzxLiC0jz"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195518,
+      "name": "Passing Clouds",
+      "url": "https://open.spotify.com/track/3n2jtELNk0pDk60WEFELvw"
     },
     {
       "album": {
@@ -10664,7 +10700,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 133000,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/4m70cyYjEtCqBG0wHKgwSM"
@@ -12944,7 +12980,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157164,
       "name": "the girl in white",
       "url": "https://open.spotify.com/track/013G9Rc4F99RaHINNGWy9f"
@@ -13502,7 +13538,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 123768,
       "name": "To Be",
       "url": "https://open.spotify.com/track/0fdxDUhqECk0qLAtWju4yI"
@@ -13974,6 +14010,24 @@
       "duration_ms": 161624,
       "name": "Un Lent Mouvement",
       "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
+    },
+    {
+      "album": {
+        "name": "Under Branches",
+        "url": "https://open.spotify.com/album/4wtXDoqz7iYLluHjPt10ry"
+      },
+      "artists": [
+        {
+          "name": "Lyraen",
+          "url": "https://open.spotify.com/artist/0UWho9zZbWeCzDCPKaebro"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132761,
+      "name": "Under Branches",
+      "url": "https://open.spotify.com/track/5VVWCrak60nyCnFq9m1u28"
     },
     {
       "album": {
@@ -15090,7 +15144,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130058,
       "name": "Without Hindrance",
       "url": "https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL"

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbHcQpOiXk1D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbHcQpOiXk1D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbHcQpOiXk1D)
+[pretty](/playlists/pretty/37i9dQZF1DXbHcQpOiXk1D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbHcQpOiXk1D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbHcQpOiXk1D)
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: <br/>oreglo
+> The best from Britain's vibrant scene\. Cover: <br/>Amy Gadiaga
 
-770 songs - 2 day 5 hr 36 min
+772 songs - 2 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Black Hole \(feat\. Reggie Watts\)](https://open.spotify.com/track/4PnekQ16RE2bFx4e9dYOsx) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [Black Hole \(feat\. Reggie Watts\)](https://open.spotify.com/album/77dFEarLbOf6T1NwafEfsl) | 4:12 | 2024-11-15 | 2025-06-06 |
 | [Blame](https://open.spotify.com/track/0O343Jy6qgeeZUmxIriCCF) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Blame](https://open.spotify.com/album/47Ej3YAV40mRK7LFS76iFH) | 3:37 | 2025-12-12 |  |
 | [Blessed Love](https://open.spotify.com/track/6pSHeOzu96EdyVRaqfWkge) | [Dizraeli](https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa) | [Joy Machine](https://open.spotify.com/album/21yZgiyW6174TObtXc1MoG) | 4:04 | 2024-06-14 | 2024-06-29 |
+| [Body and Soul](https://open.spotify.com/track/3F3rxHeVip60UIolkWpuEx) | [Mike de Souza](https://open.spotify.com/artist/5amuwSXGocWv4MZ5PhrT4d) | [Schism](https://open.spotify.com/album/5aPDLmcYcgV8CKipAp4vyd) | 5:55 | 2026-01-09 |  |
 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 | 2025-02-21 |  |
 | [Borderline](https://open.spotify.com/track/5rcGQIrv6eUIyCBfWga363) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 4:15 | 2021-12-17 | 2022-05-20 |
 | [Borders](https://open.spotify.com/track/64kPvG0cDJ7ePFIZi8KBn9) | [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [Starts Again](https://open.spotify.com/album/5M26XYkOb1UHh8MM3eJimL) | 3:57 | 2021-12-17 | 2022-05-26 |
@@ -284,7 +285,7 @@
 | [High](https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik) | 2:56 | 2023-10-19 | 2024-04-12 |
 | [High](https://open.spotify.com/track/7jYF5A0TprR297TCg9MEOO) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/6jqiIg0L9UdADNWA1sCTlu) | 2:56 | 2023-03-08 | 2023-03-09 |
 | [High Up](https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC), [Meduulla](https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW) | [High Up](https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF) | 3:07 | 2024-08-02 | 2025-09-24 |
-| [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 | 2025-06-05 |  |
+| [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 | 2025-06-05 | 2026-01-15 |
 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 | 2023-12-22 | 2025-01-24 |
 | [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 | 2024-02-16 | 2024-08-30 |
 | [Hold On, Pt.2](https://open.spotify.com/track/19PCs8bTfMvXybqD1HAscU) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [James Chelliah](https://open.spotify.com/artist/0gCFISxX112iXqT2EakxTo), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Hold On, Pt.2](https://open.spotify.com/album/3m1iWUCNFY4XyDSL3yMh70) | 2:15 | 2022-02-11 | 2022-11-21 |
@@ -387,7 +388,7 @@
 | [Listen To The Sky](https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl) | 2:52 | 2023-11-10 | 2024-07-19 |
 | [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 | 2023-09-21 | 2023-10-06 |
 | [Lonely](https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Lonely](https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3) | 5:02 | 2022-06-23 | 2024-02-23 |
-| [Lonely](https://open.spotify.com/track/617iJNSnWz4F4qez3b304m) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Lonely](https://open.spotify.com/album/6DQrLzlM7XwodvAaZkK9P5) | 3:10 | 2025-11-28 |  |
+| [Lonely](https://open.spotify.com/track/617iJNSnWz4F4qez3b304m) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Lonely](https://open.spotify.com/album/6DQrLzlM7XwodvAaZkK9P5) | 3:10 | 2025-11-28 | 2026-01-15 |
 | [Long Term Memory](https://open.spotify.com/track/0wTLhxqwM8hLGDfHJIPFdQ) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD), [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Long Term Memory](https://open.spotify.com/album/1E6SfG3SRiPxcYsaAFDCNl) | 3:25 | 2022-04-21 | 2022-07-27 |
 | [Longest Way Round](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ) | 3:42 | 2025-10-23 |  |
 | [looking out](https://open.spotify.com/track/2IUTis1rj33tVvTYtsVdEx) | [Peru Eizagirre](https://open.spotify.com/artist/2jPW0sgVtqS4np7tNze6ZG) | [looking out](https://open.spotify.com/album/1uiGqENIfsmcFRFMBlwqe5) | 7:31 | 2022-03-24 | 2022-03-30 |
@@ -753,6 +754,7 @@
 | [White Rabbit](https://open.spotify.com/track/52y9HSI3f2ajMYMCfGFS27) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [White Rabbit](https://open.spotify.com/album/1ZK8Qp67wMuKrZOWMSzM0V) | 4:33 | 2022-03-24 | 2022-04-17 |
 | [Who Am I \(eh\-eh\)](https://open.spotify.com/track/08PElxQZ8xfd8Ex3aH0zsI) | [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Eat The Kiwi Skin \(Deluxe\)](https://open.spotify.com/album/4cosFoJnRiCtUDe8I6iojz) | 3:10 | 2022-12-02 | 2023-05-13 |
 | [Who Am I \(eh\-eh\)](https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY) | [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Who Am I \(eh\-eh\)](https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm) | 3:10 | 2022-08-04 | 2022-11-21 |
+| [who knows](https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [who knows](https://open.spotify.com/album/38hhGCLfuJZOmU0cnDrsRB) | 3:09 | 2026-01-09 |  |
 | [Why Are You?](https://open.spotify.com/track/7oMl1XtvJiBVsMDiaQeUW8) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Why Are You](https://open.spotify.com/album/5hTGwd8l6tWvdlkLgHwVg5) | 3:07 | 2024-10-24 | 2025-07-20 |
 | [Why they fly.](https://open.spotify.com/track/3wQed3BQzgZR1NXWubLvlC) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Why they fly.](https://open.spotify.com/album/41Fvn0ICyKC4Kuvu9ZRuWQ) | 1:44 | 2025-03-07 |  |
 | [Widening Circles \- Regrown](https://open.spotify.com/track/5naAaC0pdrvUzNzlnlvdnc) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Earth](https://open.spotify.com/album/39n09ITi1qfmqBZz39IRYz) | 4:41 | 2024-06-14 | 2024-07-01 |

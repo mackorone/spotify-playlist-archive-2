@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2mADaSxlIcxRDSG9e9vLlh.md) - [plain](/playlists/plain/2mADaSxlIcxRDSG9e9vLlh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2mADaSxlIcxRDSG9e9vLlh)
+pretty - [cumulative](/playlists/cumulative/2mADaSxlIcxRDSG9e9vLlh.md) - [plain](/playlists/plain/2mADaSxlIcxRDSG9e9vLlh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2mADaSxlIcxRDSG9e9vLlh)
 
 ### [Walk The Dog](https://open.spotify.com/playlist/2mADaSxlIcxRDSG9e9vLlh)
 
 > Songs for you and your best friend\. Endless love in any weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

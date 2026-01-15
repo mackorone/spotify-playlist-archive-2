@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW34Z8OBNGGs.md) - [plain](/playlists/plain/37i9dQZF1DWW34Z8OBNGGs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW34Z8OBNGGs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW34Z8OBNGGs.md) - [plain](/playlists/plain/37i9dQZF1DWW34Z8OBNGGs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW34Z8OBNGGs)
 
 ### [Tony Hawk's Pro Skater 1+2 Official Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DWW34Z8OBNGGs)
 
 > Celebrate the 25th Anniversary of the iconic Tony Hawk's Pro Skater franchise with the official in\-game soundtrack of Tony Hawk's Pro Skater 1+2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,336 likes - 53 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,536 likes - 53 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

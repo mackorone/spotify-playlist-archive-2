@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWzMtuZH5xJY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWzMtuZH5xJY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWzMtuZH5xJY)
+[pretty](/playlists/pretty/37i9dQZF1DWWzMtuZH5xJY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWzMtuZH5xJY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWzMtuZH5xJY)
 
 ### [Cozy Mysteries for Cold Nights](https://open.spotify.com/playlist/37i9dQZF1DWWzMtuZH5xJY)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6kXNv8J3HCYztxjOIUzApv.md) - cumulative - [plain](/playlists/plain/6kXNv8J3HCYztxjOIUzApv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6kXNv8J3HCYztxjOIUzApv)
+[pretty](/playlists/pretty/6kXNv8J3HCYztxjOIUzApv.md) - cumulative - [plain](/playlists/plain/6kXNv8J3HCYztxjOIUzApv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6kXNv8J3HCYztxjOIUzApv)
 
 ### [Hard Rock Workout](https://open.spotify.com/playlist/6kXNv8J3HCYztxjOIUzApv)
 

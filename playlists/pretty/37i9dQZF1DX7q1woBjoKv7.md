@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain](/playlists/plain/37i9dQZF1DX7q1woBjoKv7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7q1woBjoKv7)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain](/playlists/plain/37i9dQZF1DX7q1woBjoKv7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7q1woBjoKv7)
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
 > California music breaking waves\. Curated by: <a href="spotify:artist:7vNNmjV14SKQzlQAEg0BXP">Jean Dawson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,158 likes - 52 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,271 likes - 52 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

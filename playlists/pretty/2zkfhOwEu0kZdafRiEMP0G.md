@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain](/playlists/plain/2zkfhOwEu0kZdafRiEMP0G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2zkfhOwEu0kZdafRiEMP0G)
+pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain](/playlists/plain/2zkfhOwEu0kZdafRiEMP0G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2zkfhOwEu0kZdafRiEMP0G)
 
 ### [idek man](https://open.spotify.com/playlist/2zkfhOwEu0kZdafRiEMP0G)
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 45 songs - 3 hr 21 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 46 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 43 | [High Water](https://open.spotify.com/track/4wH1pXy6wTxvUnRmWaHWaP) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 5:13 |
 | 44 | [Sugar](https://open.spotify.com/track/6kxSspYgCP6DmpLwqmrZ3O) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 4:52 |
 | 45 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 |
+| 46 | [El Tango De Roxanne](https://open.spotify.com/track/70XYXbSf4g5IfnDJ13se9L) | [Aaron Tveit](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx), [Danny Burstein](https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3), [Original Broadway Cast of Moulin Rouge! The Musical](https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v), [Ricky Rojas](https://open.spotify.com/artist/1BchvTjZ0pkAW1WPDZTSeZ), [Sahr Ngaujah](https://open.spotify.com/artist/22DUlxqR0fx6R1UKit7uOz), [Jacqueline B\. Arnold](https://open.spotify.com/artist/3QlycUoQkiflglfZ3Nrccl), [Holly James](https://open.spotify.com/artist/0rHWRsXdgLUAT59rikTzHa), [Jeigh Madjus](https://open.spotify.com/artist/7r1TFR05734UFt4bAAvFnA) | [Moulin Rouge! The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk) | 3:37 |
 
-Snapshot ID: `AAAGc/8ETLFARgu202foGUERZ/YPUXWf`
+Snapshot ID: `AAAGdLAGpSf5GrWy5h94lr06xpnL95xP`

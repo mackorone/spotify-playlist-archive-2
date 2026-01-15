@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain](/playlists/plain/37i9dQZF1DX1JHAMXPtau2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1JHAMXPtau2)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain](/playlists/plain/37i9dQZF1DX1JHAMXPtau2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1JHAMXPtau2)
 
 ### [Christmas Jazz Piano](https://open.spotify.com/playlist/37i9dQZF1DX1JHAMXPtau2)
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,957 likes - 44 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,749 likes - 44 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

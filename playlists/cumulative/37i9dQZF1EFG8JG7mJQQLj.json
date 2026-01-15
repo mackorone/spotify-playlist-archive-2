@@ -1639,6 +1639,48 @@
     },
     {
       "album": {
+        "name": "Making Eyes at Me",
+        "url": "https://open.spotify.com/album/4murVJ5VID2AGGNJxtgvju"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cantor",
+          "url": "https://open.spotify.com/artist/2pDFdLHKOmzKiNDzkz7p8L"
+        },
+        {
+          "name": "Al Jolson",
+          "url": "https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa"
+        },
+        {
+          "name": "Cliff Edwards",
+          "url": "https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn"
+        },
+        {
+          "name": "Billy Jones",
+          "url": "https://open.spotify.com/artist/6zjCA3n8DwVeTC5zwAQ4jT"
+        },
+        {
+          "name": "Vernon Dalhart",
+          "url": "https://open.spotify.com/artist/1hnGjQYIeEHbqWKwh10Oz6"
+        },
+        {
+          "name": "Johnny Marvin",
+          "url": "https://open.spotify.com/artist/1uMpnC5saduDB7LY5aRwgB"
+        },
+        {
+          "name": "Gene Austin",
+          "url": "https://open.spotify.com/artist/5iFJaXNEwdmI1PADAcM58d"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182706,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/4rthQPbfPSFp6MtHlFYzKC"
+    },
+    {
+      "album": {
         "name": "The Roaring 20s Year-By-Year: 1920 to 1929, The Number One Hits of the Decade",
         "url": "https://open.spotify.com/album/4AcLDEEtYVp0RYDfPhmC4M"
       },
@@ -1678,7 +1720,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182653,
       "name": "Charleston",
       "url": "https://open.spotify.com/track/123d4qi0Hnk8PGbjFq2Tse"
@@ -4480,7 +4522,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -10484,7 +10526,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 273960,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne"

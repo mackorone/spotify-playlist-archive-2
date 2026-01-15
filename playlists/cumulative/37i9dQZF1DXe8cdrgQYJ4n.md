@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXe8cdrgQYJ4n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe8cdrgQYJ4n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe8cdrgQYJ4n)
+[pretty](/playlists/pretty/37i9dQZF1DXe8cdrgQYJ4n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe8cdrgQYJ4n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe8cdrgQYJ4n)
 
 ### [I'M FINE, SOLO\. AND U?](https://open.spotify.com/playlist/37i9dQZF1DXe8cdrgQYJ4n)
 

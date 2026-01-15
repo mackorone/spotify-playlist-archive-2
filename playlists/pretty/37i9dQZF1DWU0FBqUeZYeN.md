@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain](/playlists/plain/37i9dQZF1DWU0FBqUeZYeN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU0FBqUeZYeN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain](/playlists/plain/37i9dQZF1DWU0FBqUeZYeN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU0FBqUeZYeN)
 
 ### [The Road to Punk Rock](https://open.spotify.com/playlist/37i9dQZF1DWU0FBqUeZYeN)
 

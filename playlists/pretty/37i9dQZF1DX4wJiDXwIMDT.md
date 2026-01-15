@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wJiDXwIMDT.md) - [plain](/playlists/plain/37i9dQZF1DX4wJiDXwIMDT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4wJiDXwIMDT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wJiDXwIMDT.md) - [plain](/playlists/plain/37i9dQZF1DX4wJiDXwIMDT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4wJiDXwIMDT)
 
 ### [Let's See Them Aliens](https://open.spotify.com/playlist/37i9dQZF1DX4wJiDXwIMDT)
 

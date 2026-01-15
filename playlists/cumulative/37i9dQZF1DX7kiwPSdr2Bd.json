@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Julia Vit\u00f3ria, N\u00edvea Soares",
+  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: L\u00e9a Mendon\u00e7a",
   "name": "Mulheres do Gospel",
   "tracks": [
     {
@@ -3069,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Meu Redentor Vive (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5PkaM3Gze2nfHhp1bRIRyz"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328786,
+      "name": "Meu Redentor Vive (Ao Vivo)",
+      "url": "https://open.spotify.com/track/357ctAsekqjuFD2ag2sQZE"
+    },
+    {
+      "album": {
         "name": "Milagre Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/03gC5ufzpeQ2x0AViEJ9rF"
       },
@@ -3580,7 +3598,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 261999,
       "name": "O Amor Que Cura - Ao Vivo",
       "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUB4Jn6piqKS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUB4Jn6piqKS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUB4Jn6piqKS)
+[pretty](/playlists/pretty/37i9dQZF1DWUB4Jn6piqKS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUB4Jn6piqKS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUB4Jn6piqKS)
 
 ### [Northern Soul Classics](https://open.spotify.com/playlist/37i9dQZF1DWUB4Jn6piqKS)
 
@@ -11,7 +11,7 @@
 | ['Cause You're Mine](https://open.spotify.com/track/5kTm6mAV809O9jL3fIl80F) | [The Vibrations](https://open.spotify.com/artist/3BLqcKdqgBI3oJvVg7Odz8) | [The Northern Soul Story Vol.1: The Twisted Wheel](https://open.spotify.com/album/4m7PZF4kH6K7JKOp2vlf3d) | 2:10 | 2024-03-22 |  |
 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 | 2024-03-22 |  |
 | [A Man Like Me](https://open.spotify.com/track/4CLKhjVUCZf00wVghhRImp) | [Jimmy James](https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D) | [Northern Soul Keep the Faith](https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B) | 3:01 | 2024-03-22 |  |
-| [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 | 2024-03-22 |  |
+| [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [The Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 | 2024-03-22 |  |
 | [Ain't Nothin But A Houseparty](https://open.spotify.com/track/64JXjk4JU0WG7BJwQTSga4) | [The Showstoppers](https://open.spotify.com/artist/20KXZcTJLZTfi2ER7yFnqr) | [Ain't Nothin But A House Party](https://open.spotify.com/album/6Zd5nGmHAPgw1o1GsRE4zw) | 2:38 | 2024-03-22 |  |
 | [Ain't That Terrible](https://open.spotify.com/track/1fh9MVjrGCmwRQpWipM6uT) | [Roy Redmond](https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY) | [Northern Soul 45's](https://open.spotify.com/album/1qsPuK9y5vkLO09lZRMkx9) | 2:32 | 2024-03-22 |  |
 | [Back Street](https://open.spotify.com/track/3RkJsA0JxopALjE3Nkfrm7) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [The Hits Of Edwin Starr](https://open.spotify.com/album/0nMlRmiHrtFGSPnACFZaWX) | 2:48 | 2024-03-22 |  |

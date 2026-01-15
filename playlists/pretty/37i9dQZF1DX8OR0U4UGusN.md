@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain](/playlists/plain/37i9dQZF1DX8OR0U4UGusN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8OR0U4UGusN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain](/playlists/plain/37i9dQZF1DX8OR0U4UGusN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8OR0U4UGusN)
 
 ### [omw](https://open.spotify.com/playlist/37i9dQZF1DX8OR0U4UGusN)
 
 > be on your way with Marsai Martin's curated tunes and see her in "G20," now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,442 likes - 39 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,101 likes - 39 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

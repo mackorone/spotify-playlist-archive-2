@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWX4xqbJOskQD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX4xqbJOskQD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX4xqbJOskQD)
+[pretty](/playlists/pretty/37i9dQZF1DWX4xqbJOskQD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX4xqbJOskQD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX4xqbJOskQD)
 
 ### [Close Harmony Vocals](https://open.spotify.com/playlist/37i9dQZF1DWX4xqbJOskQD)
 

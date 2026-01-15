@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain](/playlists/plain/2YCTZb01BHsUw3t7XxVNM9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2YCTZb01BHsUw3t7XxVNM9)
+pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain](/playlists/plain/2YCTZb01BHsUw3t7XxVNM9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2YCTZb01BHsUw3t7XxVNM9)
 
 ### [Japanese Hardstyle/Hardcore \| J\-Core \| WeebCore \|](https://open.spotify.com/playlist/2YCTZb01BHsUw3t7XxVNM9)
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[SONGBIRD\-CN](https://open.spotify.com/user/megustager) - 782 likes - 522 songs - 1 day 12 hr 9 min
+[SONGBIRD\-CN](https://open.spotify.com/user/megustager) - 801 likes - 522 songs - 1 day 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

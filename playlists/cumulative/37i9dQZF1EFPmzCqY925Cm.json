@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Party Animal",
+        "url": "https://open.spotify.com/album/3qXR3nSUOkcMhoY7Yc0gr7"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139689,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/4YVoPRtD3oIZzLIDoQ4h3B"
+    },
+    {
+      "album": {
         "name": "MY MASOCHISTIC MIND",
         "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
       },

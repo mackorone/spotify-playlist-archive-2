@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0dxnlXUttzpueYSwe74J2c.md) - [plain](/playlists/plain/0dxnlXUttzpueYSwe74J2c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0dxnlXUttzpueYSwe74J2c)
+pretty - [cumulative](/playlists/cumulative/0dxnlXUttzpueYSwe74J2c.md) - [plain](/playlists/plain/0dxnlXUttzpueYSwe74J2c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0dxnlXUttzpueYSwe74J2c)
 
 ### [sleep for a quiet night](https://open.spotify.com/playlist/0dxnlXUttzpueYSwe74J2c)
 
 > Mellow music for your evenings.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 1,037 likes - 125 songs - 7 hr 44 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 1,034 likes - 125 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

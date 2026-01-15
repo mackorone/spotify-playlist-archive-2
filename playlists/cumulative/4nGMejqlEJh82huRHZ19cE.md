@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4nGMejqlEJh82huRHZ19cE.md) - cumulative - [plain](/playlists/plain/4nGMejqlEJh82huRHZ19cE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4nGMejqlEJh82huRHZ19cE)
+[pretty](/playlists/pretty/4nGMejqlEJh82huRHZ19cE.md) - cumulative - [plain](/playlists/plain/4nGMejqlEJh82huRHZ19cE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4nGMejqlEJh82huRHZ19cE)
 
 ### [Top Misquoted Song Lyrics](https://open.spotify.com/playlist/4nGMejqlEJh82huRHZ19cE)
 

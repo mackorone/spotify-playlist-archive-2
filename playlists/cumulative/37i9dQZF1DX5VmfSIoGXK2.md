@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5VmfSIoGXK2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5VmfSIoGXK2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5VmfSIoGXK2)
+[pretty](/playlists/pretty/37i9dQZF1DX5VmfSIoGXK2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5VmfSIoGXK2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5VmfSIoGXK2)
 
 ### [Jazz House](https://open.spotify.com/playlist/37i9dQZF1DX5VmfSIoGXK2)
 
-> this house plays Jazz House 🏠  featuring Bolden.
+> Our favorite Jazz House selections 🤲 Featuring Godblesscomputers
 
-172 songs - 11 hr 8 min
+174 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Blowfish](https://open.spotify.com/track/7GwwEpaKaIaOptVWDVjyKX) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Blowfish](https://open.spotify.com/album/0RQXcwL88odlEhRiT7S6Kn) | 3:48 | 2025-03-14 | 2025-10-11 |
 | [Bluff Structure](https://open.spotify.com/track/7LLaeVdiSfT0Fv2uWjlwoV) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Bluff Structure](https://open.spotify.com/album/4ZSqEFjNNU3Mex8kn98mlV) | 4:28 | 2025-08-29 |  |
 | [Boat Party](https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Boat Party](https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V) | 2:55 | 2025-02-21 |  |
-| [Bossa Love](https://open.spotify.com/track/393QMam52QYLT9FqrlkBZc) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Bossa Love](https://open.spotify.com/album/62emtUMLEvcHSav4mQARmZ) | 3:10 | 2025-03-07 |  |
+| [Bossa Love](https://open.spotify.com/track/393QMam52QYLT9FqrlkBZc) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Bossa Love](https://open.spotify.com/album/62emtUMLEvcHSav4mQARmZ) | 3:10 | 2025-03-07 | 2026-01-15 |
 | [Breach](https://open.spotify.com/track/1wuWZDpkHp3PhrQ6YDOjyZ) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Breach](https://open.spotify.com/album/3ZYZrTQpXg1wFpIWsxyQNh) | 3:48 | 2025-04-18 | 2025-05-24 |
 | [breathing in](https://open.spotify.com/track/5SQFF77hbKu61zAhuofSx9) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [feel it yet?](https://open.spotify.com/album/73TPblj9INiaI87pRaV5EW) | 3:01 | 2025-02-21 |  |
 | [Brooklyn 9:00am](https://open.spotify.com/track/0YrhuzbViNhtseDz6H4JCw) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Brooklyn 9:00am](https://open.spotify.com/album/4b7mMlruldC2R7w71vzyTg) | 2:40 | 2025-02-21 |  |
@@ -56,6 +56,7 @@
 | [Faux Départ](https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT) | [DJ Psychiatre](https://open.spotify.com/artist/3roL1q2jZoQt3yZqbCb1DR) | [Faux Départ](https://open.spotify.com/album/2x3aYh9DTmqKvYjcHxl1o8) | 4:37 | 2025-02-21 | 2025-06-28 |
 | [fiesta jazz](https://open.spotify.com/track/10vXmDQbYD0EtwwdNXwcKU) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [fiesta jazz](https://open.spotify.com/album/78nm9fNZtgUmzlhXTuF19g) | 1:55 | 2025-05-30 | 2025-08-02 |
 | [fifth element](https://open.spotify.com/track/70wy9Kh0umg2TYGmIh05oc) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Gina Sobel](https://open.spotify.com/artist/1J4zEWSsVL27NBNRgKiKr0) | [lounge lizard](https://open.spotify.com/album/5WUzH9R8AOGWqlXUtusmYz) | 3:31 | 2025-04-18 | 2025-10-15 |
+| [First Light Falling](https://open.spotify.com/track/0ZocjCzNp403Gmy6pEkuD9) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [First Light Falling](https://open.spotify.com/album/2PaB13NTijH8mj8Z9U1jt9) | 2:52 | 2026-01-09 |  |
 | [Fleur de Sucre](https://open.spotify.com/track/09wDfwbHmyUFi9SKbJ0APT) | [Sable Blanc](https://open.spotify.com/artist/6kP2m716w4dZmIBQ1PCiGD) | [New Places](https://open.spotify.com/album/2AfjakN5fWOqGkAMnq82me) | 5:06 | 2025-03-14 | 2025-07-05 |
 | [Flipper](https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Pink Wax](https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird) | 4:05 | 2025-03-14 | 2025-09-13 |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2025-02-21 |  |
@@ -71,6 +72,7 @@
 | [Highway \- Teuteu Remix](https://open.spotify.com/track/6roW4lfkqGDImLNcDyeVLC) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Highway \(Teuteu Remix\)](https://open.spotify.com/album/3P4NlDbWunICUGKBvDVzlJ) | 2:33 | 2025-02-28 |  |
 | [Honest](https://open.spotify.com/track/1PmFdQoJL1gcPutNAJ9tWW) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi) | [Honest](https://open.spotify.com/album/1eg5mGZQAdQU5jLeepc6nS) | 2:25 | 2025-02-28 |  |
 | [Hotspot](https://open.spotify.com/track/1TZHxc3mBKD1DlQs0jiRFy) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Hotspot](https://open.spotify.com/album/0XRIt2aMkeOSaaVoZeEySh) | 2:46 | 2025-02-21 | 2025-07-12 |
+| [House of Jazz](https://open.spotify.com/track/3g5jybh4Flup4cyP3kBNDe) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [02 DISC](https://open.spotify.com/album/4MnEmaAZ1LPieZpzyJEvSd) | 3:40 | 2026-01-09 |  |
 | [I Fall](https://open.spotify.com/track/39ffllrQQsR3ky4AwqOTnY) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr), [Tabeia](https://open.spotify.com/artist/6aBEJrQuxVju1RpGtaj5k7) | [I Fall](https://open.spotify.com/album/1YXxCxvgLLnejVcMXbHHup) | 2:44 | 2025-10-24 | 2025-12-20 |
 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 | 2025-02-28 | 2025-03-22 |
 | [I'm here.](https://open.spotify.com/track/1xC2XNZCIlmfuCDTF9b2bu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [I'm here.](https://open.spotify.com/album/2Llsr7bTTcmTJvSdffaQ1i) | 2:37 | 2025-02-21 | 2025-09-27 |
@@ -79,7 +81,7 @@
 | [In The House of Waterfalls](https://open.spotify.com/track/3AhnJRinzJNzvTVIJqCBD3) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [In The House of Waterfalls](https://open.spotify.com/album/48afQIVKyqdTdu7DrKId9m) | 5:07 | 2025-02-21 | 2025-10-18 |
 | [In the shade.](https://open.spotify.com/track/7qkVjJLBZH64MlwtY2oAxu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [In the shade.](https://open.spotify.com/album/2F9PeLfWzyBQBuH6tmeZng) | 2:42 | 2025-05-30 | 2025-07-26 |
 | [Inner Light](https://open.spotify.com/track/4qRRX6SWTlmNVN8DKTHJqP) | [WheelUP](https://open.spotify.com/artist/5azPv1y5kPJljpHQmy5K32) | [Inner Light](https://open.spotify.com/album/0XobeWnTuxWo9mDeVuQ5Cx) | 4:00 | 2025-05-30 | 2025-11-22 |
-| [Jazz Feel](https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Jazz Feel](https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp) | 2:34 | 2025-03-28 |  |
+| [Jazz Feel](https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Jazz Feel](https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp) | 2:34 | 2025-03-28 | 2026-01-15 |
 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 | 2025-02-21 |  |
 | [Jazz Piece 2](https://open.spotify.com/track/3fOyW8hSiOpCaXmQP4zpQH) | [DJ Aakmael](https://open.spotify.com/artist/4i2Ey9xknZmz8QQXtLzAN7) | [Jus' Tracks](https://open.spotify.com/album/2fRww4IqAwrNEEyt5P6ww8) | 7:00 | 2025-02-21 | 2025-12-06 |
 | [Jazzy Cigarette](https://open.spotify.com/track/0DsbijUjURPgkffxhfkrfJ) | [Copenhagen untd.](https://open.spotify.com/artist/4kOHVYMZUnNasTU8eKJpme) | [Jazzy Cigarette](https://open.spotify.com/album/3zpdIwaPyjtBnIukIPddzZ) | 2:39 | 2025-02-21 |  |

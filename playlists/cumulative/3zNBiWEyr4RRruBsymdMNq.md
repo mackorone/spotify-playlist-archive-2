@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3zNBiWEyr4RRruBsymdMNq.md) - cumulative - [plain](/playlists/plain/3zNBiWEyr4RRruBsymdMNq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3zNBiWEyr4RRruBsymdMNq)
+[pretty](/playlists/pretty/3zNBiWEyr4RRruBsymdMNq.md) - cumulative - [plain](/playlists/plain/3zNBiWEyr4RRruBsymdMNq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3zNBiWEyr4RRruBsymdMNq)
 
 ### [Classical Study Music](https://open.spotify.com/playlist/3zNBiWEyr4RRruBsymdMNq)
 

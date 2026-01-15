@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain](/playlists/plain/37i9dQZF1DX3TRdW1ekdvM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3TRdW1ekdvM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain](/playlists/plain/37i9dQZF1DX3TRdW1ekdvM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3TRdW1ekdvM)
 
 ### [REM sleep](https://open.spotify.com/playlist/37i9dQZF1DX3TRdW1ekdvM)
 
 > Theta waves: Your key to perfect sleep\. Science says so\. Try it!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,290 likes - 107 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,273 likes - 107 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

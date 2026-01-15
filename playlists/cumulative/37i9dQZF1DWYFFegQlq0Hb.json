@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Enjoy music and podcast from Jujutsu Kaisen!",
+  "description": "Enjoy music and podcast from Jujutsu Kaisen! \u00a9\u82a5\u898b\u4e0b\u3005\uff0f\u96c6\u82f1\u793e\u30fb\u546a\u8853\u5efb\u6226\u88fd\u4f5c\u59d4\u54e1\u4f1a",
   "name": "Jujutsu Kaisen",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 106720,
       "name": "About Maki",
       "url": "https://open.spotify.com/track/4DhULE7wOhAjRuv4uJZK3C"
+    },
+    {
+      "album": {
+        "name": "AIZO",
+        "url": "https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215858,
+      "name": "AIZO",
+      "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
     },
     {
       "album": {
@@ -3123,6 +3141,42 @@
     },
     {
       "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \u30b5\u30f3\u30ad",
+        "url": "https://open.spotify.com/album/1OApR2wyRtWRAydfmg3Vto"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \u30b5\u30f3\u30ad",
+          "url": "https://open.spotify.com/show/1OApR2wyRtWRAydfmg3Vto"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1706997,
+      "name": "\u3010\u3058\u3085\u3058\u3085\u3068\u30fc\u304f\u30b5\u30f3\u30ad\u3011\u7b2c 1 \u56de\uff1a\u4e59\u9aa8\u6182\u592a\u5f79 \u7dd2\u65b9\u6075\u7f8e\u3055\u3093\uff06\u8139\u76f8\u5f79 \u6d6a\u5ddd\u5927\u8f14\u3055\u3093 \u300c\u6bba\u3057\u306b\u884c\u304d\u307e\u3059\u300d\uff06\u300c\u304a\u5144\u3061\u3083\u3093\u3092\u9042\u884c\u3057\u3066\u308b\u3060\u3051\u306a\u306e\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/1G3SHH35lpHYW2HwFt5Ssm"
+    },
+    {
+      "album": {
+        "name": "\u3088\u3042\u3051\u306e\u3046\u305f - Yoake no uta - JUJUTSU KAISEN The Culling Game part1 Ending Theme Song",
+        "url": "https://open.spotify.com/album/58vU4Ix3CBflsbWDI9HpaZ"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199612,
+      "name": "\u3088\u3042\u3051\u306e\u3046\u305f - Yoake no uta",
+      "url": "https://open.spotify.com/track/5EiVeDviICNBtdhZwGxp0Z"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30f4\u30a1\u30f3",
         "url": "https://open.spotify.com/album/4vfjzp5dho1PqElZc3LaIC"
       },
@@ -4168,7 +4222,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 2326308,
       "name": "\u7b2c24\u56de\u3000\u4e59\u9aa8\u6182\u592a\u5f79 \u7dd2\u65b9\u6075\u7f8e\u3055\u3093\u300c\u304c\u3093\u3070\u3063\u3066\u304f\u3060\u3055\u3044\u4e3b\u4eba\u516c\uff01\u300d\u7de8",
       "url": "https://open.spotify.com/episode/6VxizkeJH49oz3RP1mtxBs"
@@ -4186,7 +4240,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 2205048,
       "name": "\u7b2c25\u56de\u3000\u590f\u6cb9 \u5091\u5f79 \u6afb\u4e95\u5b5d\u5b8f\u3055\u3093\u300c\u53e3\u5f53\u305f\u308a\u7518\u3044\u3093\u3060\u3051\u3069\u3001\u82e6\u3044\u300d\u7de8",
       "url": "https://open.spotify.com/episode/4KGhU1tAivdn0NgwnDLHlX"

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW0OFelDHUJP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW0OFelDHUJP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW0OFelDHUJP)
+[pretty](/playlists/pretty/37i9dQZF1DWW0OFelDHUJP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW0OFelDHUJP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW0OFelDHUJP)
 
 ### [Monsoon Hits Indie](https://open.spotify.com/playlist/37i9dQZF1DWW0OFelDHUJP)
 
@@ -104,6 +104,6 @@
 | [Tum Ho Yahaan](https://open.spotify.com/track/0B7FbDb0GQxMX5KSXGv3sg) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Tum Ho Yahaan](https://open.spotify.com/album/15rUYK7QOg6qIpXbdqmghS) | 3:16 | 2023-05-09 |  |
 | [Varsaad](https://open.spotify.com/track/5okCpEGwcQqGBrX3EFCuba) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T), [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Varsaad](https://open.spotify.com/album/5wHm3iHIQQd9ztInP60m20) | 5:11 | 2024-08-02 |  |
 | [Waqt Ki Baatein](https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein](https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO) | 4:03 | 2023-05-09 |  |
-| [When You Smile](https://open.spotify.com/track/7drZ27Wes5FgldRmanF50m) | [Aniirban Saha](https://open.spotify.com/artist/4UTFMGL1wJ8jFvapqEXdJH), [Asif Syed](https://open.spotify.com/artist/2v0RWVAbCFoIS6xPYPKBTz), [Agniva Goswami](https://open.spotify.com/artist/3GhJcn1WMTuBGizB7jEmlS) | [When You Smile](https://open.spotify.com/album/2qhnGMvs8Tk9QLEdwhVQ1B) | 3:38 | 2024-06-14 |  |
+| [When You Smile](https://open.spotify.com/track/7drZ27Wes5FgldRmanF50m) | [Anirbaan Saha](https://open.spotify.com/artist/7MZBuH8yRdTOfGkxPuKIqS), [Asif Syed](https://open.spotify.com/artist/2v0RWVAbCFoIS6xPYPKBTz), [Agniva Goswami](https://open.spotify.com/artist/3GhJcn1WMTuBGizB7jEmlS) | [When You Smile](https://open.spotify.com/album/2qhnGMvs8Tk9QLEdwhVQ1B) | 3:38 | 2024-06-14 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

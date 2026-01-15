@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4VQIBSMjfFD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4VQIBSMjfFD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4VQIBSMjfFD)
+[pretty](/playlists/pretty/37i9dQZF1DX4VQIBSMjfFD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4VQIBSMjfFD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4VQIBSMjfFD)
 
 ### [TAEYANG TOUR \[THE LIGHT YEAR\] ENCORE ](https://open.spotify.com/playlist/37i9dQZF1DX4VQIBSMjfFD)
 
@@ -22,7 +22,7 @@
 | [I'll Be There \- Korean Version](https://open.spotify.com/track/7MvEXoezNqX9bLNF6aNjeL) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 3:15 | 2025-02-13 |  |
 | [Inspiration \(feat\. Beenzino\)](https://open.spotify.com/track/5hAtmSB8KlmU81ljSupSjF) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:32 | 2025-01-27 |  |
 | [LOVE YOU TO DEATH](https://open.spotify.com/track/3wJ5tkDTIc3w5THvaggHDx) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:41 | 2025-02-13 |  |
-| [Make Love \(Feat\. Kush\)](https://open.spotify.com/track/5ug8uKCAH4HQ5owBPNSoPa) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [KUSH](https://open.spotify.com/artist/4OiLGOExR5sXyMtyKccRgY) | [Hot](https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw) | 3:24 | 2025-02-13 |  |
+| [Make Love \(Feat\. Kush\)](https://open.spotify.com/track/5ug8uKCAH4HQ5owBPNSoPa) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [KUSH](https://open.spotify.com/artist/6KifG2XLmMlQTAlPEyy2o4) | [Hot](https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw) | 3:24 | 2025-02-13 |  |
 | [NAKED](https://open.spotify.com/track/64f7T9vidBqVHSUqZ1a3nq) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [WHITE NIGHT](https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR) | 3:21 | 2025-01-27 | 2025-02-14 |
 | [Nightfall \(feat\. Bryan Chase\)](https://open.spotify.com/track/0C04G6ZM8y2VlHEM1B1aKV) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:45 | 2025-01-27 |  |
 | [Only Look At Me \(나만 바라봐\)](https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 4:00 | 2025-01-27 |  |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVzMOBac4fUJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVzMOBac4fUJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVzMOBac4fUJ)
+[pretty](/playlists/pretty/37i9dQZF1DWVzMOBac4fUJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVzMOBac4fUJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVzMOBac4fUJ)
 
 ### [This Is: Vance Joy](https://open.spotify.com/playlist/37i9dQZF1DWVzMOBac4fUJ)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSq3HVpgrk0E.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSq3HVpgrk0E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSq3HVpgrk0E)
+[pretty](/playlists/pretty/37i9dQZF1DWSq3HVpgrk0E.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSq3HVpgrk0E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSq3HVpgrk0E)
 
 ### [No Cap \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWSq3HVpgrk0E)
 

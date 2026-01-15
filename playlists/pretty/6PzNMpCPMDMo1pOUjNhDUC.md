@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6PzNMpCPMDMo1pOUjNhDUC.md) - [plain](/playlists/plain/6PzNMpCPMDMo1pOUjNhDUC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6PzNMpCPMDMo1pOUjNhDUC)
+pretty - [cumulative](/playlists/cumulative/6PzNMpCPMDMo1pOUjNhDUC.md) - [plain](/playlists/plain/6PzNMpCPMDMo1pOUjNhDUC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6PzNMpCPMDMo1pOUjNhDUC)
 
 ### [Kids B\-day Party](https://open.spotify.com/playlist/6PzNMpCPMDMo1pOUjNhDUC)
 
 > The perfect playlist for a great party\. Fun, happy, joyful..\. the kids will love it!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,319 likes - 44 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,278 likes - 44 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

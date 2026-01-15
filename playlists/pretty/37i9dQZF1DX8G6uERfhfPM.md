@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G6uERfhfPM.md) - [plain](/playlists/plain/37i9dQZF1DX8G6uERfhfPM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8G6uERfhfPM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G6uERfhfPM.md) - [plain](/playlists/plain/37i9dQZF1DX8G6uERfhfPM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8G6uERfhfPM)
 
 ### [Jazz in India](https://open.spotify.com/playlist/37i9dQZF1DX8G6uERfhfPM)
 

@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5cO1uP1XC1g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5cO1uP1XC1g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5cO1uP1XC1g)
+[pretty](/playlists/pretty/37i9dQZF1DX5cO1uP1XC1g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5cO1uP1XC1g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5cO1uP1XC1g)
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The Hottest Arabic Music.<br/>Cover: DYSTINCT
+> The Hottest Arabic Music.<br/>Cover: Amr Diab
 
 452 songs - 1 day 3 hr 3 min
 

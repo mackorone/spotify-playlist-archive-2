@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAQZD0uR9znjOgQeshrEOxQJGa5oCt",
+  "snapshot_id": "AAAAQ6at8sVk8+Pko4TImIIBLahQkW2l",
   "tracks": [
     {
       "added_at": "2023-05-10 01:44:05",
@@ -839,6 +839,38 @@
       "duration_ms": 191000,
       "name": "Fingers To The Bone",
       "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
+    },
+    {
+      "added_at": "2026-01-09 02:07:16",
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "duration_ms": 301546,
+      "name": "Papa Was a Rodeo",
+      "url": "https://open.spotify.com/track/17XuaEj192gVfNsXDwV1rS"
+    },
+    {
+      "added_at": "2026-01-11 08:16:51",
+      "album": {
+        "name": "Dropped",
+        "url": "https://open.spotify.com/album/1bNyo0wjihTTBvkrMz3doQ"
+      },
+      "artists": [
+        {
+          "name": "Brick + Mortar",
+          "url": "https://open.spotify.com/artist/7oHJbmt1VAj16Tm6nJpSqr"
+        }
+      ],
+      "duration_ms": 196286,
+      "name": "Brighter Than the Sun",
+      "url": "https://open.spotify.com/track/0ikbufjXAgnd0OdhCjEBB3"
     }
   ],
   "unique_name": "The Body of America",

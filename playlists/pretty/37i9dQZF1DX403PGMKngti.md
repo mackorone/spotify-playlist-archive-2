@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain](/playlists/plain/37i9dQZF1DX403PGMKngti) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX403PGMKngti)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain](/playlists/plain/37i9dQZF1DX403PGMKngti) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX403PGMKngti)
 
 ### [Champeta & Terapia](https://open.spotify.com/playlist/37i9dQZF1DX403PGMKngti)
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,962 likes - 65 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,036 likes - 65 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

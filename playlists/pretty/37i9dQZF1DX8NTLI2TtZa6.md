@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain](/playlists/plain/37i9dQZF1DX8NTLI2TtZa6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8NTLI2TtZa6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain](/playlists/plain/37i9dQZF1DX8NTLI2TtZa6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8NTLI2TtZa6)
 
 ### [Intense Studying](https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6)
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,383,348 likes - 154 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,382,114 likes - 154 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

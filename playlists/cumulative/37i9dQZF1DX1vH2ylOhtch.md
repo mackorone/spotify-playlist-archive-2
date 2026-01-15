@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1vH2ylOhtch.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1vH2ylOhtch) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1vH2ylOhtch)
+[pretty](/playlists/pretty/37i9dQZF1DX1vH2ylOhtch.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1vH2ylOhtch) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1vH2ylOhtch)
 
 ### [pov: te enamoras de tu bestie](https://open.spotify.com/playlist/37i9dQZF1DX1vH2ylOhtch)
 

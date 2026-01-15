@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1n5pqwZNgC76ns84jiFCCn.md) - [plain](/playlists/plain/1n5pqwZNgC76ns84jiFCCn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1n5pqwZNgC76ns84jiFCCn)
+pretty - [cumulative](/playlists/cumulative/1n5pqwZNgC76ns84jiFCCn.md) - [plain](/playlists/plain/1n5pqwZNgC76ns84jiFCCn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1n5pqwZNgC76ns84jiFCCn)
 
 ### [Jaren 70 \- Jaren 70 Hits](https://open.spotify.com/playlist/1n5pqwZNgC76ns84jiFCCn)
 
 > De Jaren 70 playlist met de grootste hits uit de jaren 70 en 70s \| jaren 70 hits \| muziek jaren 70 \| Met o.a\. David Bowie, Fleetwood Mac, Eagles en nog veel meer! Foto: David Bowie \| Jaren 70 hits \- Jaren 70
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 2,621 likes - 114 songs - 7 hr 26 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 2,622 likes - 114 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/1n5pqwZNgC76ns84jiFCCn.md) - [plain]
 | 113 | [The Tears Of A Clown](https://open.spotify.com/track/43EnnDLiVJfFEN7Xlpyh93) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Ultimate Collection: Smokey Robinson & The Miracles](https://open.spotify.com/album/7l5GOg4aHNyQfR8npvIACV) | 3:04 |
 | 114 | [Weekend](https://open.spotify.com/track/1bZr5vH0cfmKu5ODpD0DEO) | [Earth & Fire](https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo) | [Reality Fills Fantasy](https://open.spotify.com/album/4c5RJbknjLW1isGfQ58akz) | 3:34 |
 
-Snapshot ID: `AAAOtQXC6bRT3EqKlH2o0/EFUg206Sfa`
+Snapshot ID: `AAAO05FLHVefmogji3N75KO7AQkaVh9X`

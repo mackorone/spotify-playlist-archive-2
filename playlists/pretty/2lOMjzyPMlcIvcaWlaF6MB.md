@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2lOMjzyPMlcIvcaWlaF6MB.md) - [plain](/playlists/plain/2lOMjzyPMlcIvcaWlaF6MB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2lOMjzyPMlcIvcaWlaF6MB)
+pretty - [cumulative](/playlists/cumulative/2lOMjzyPMlcIvcaWlaF6MB.md) - [plain](/playlists/plain/2lOMjzyPMlcIvcaWlaF6MB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2lOMjzyPMlcIvcaWlaF6MB)
 
 ### [Historic Venue: Ryman Auditorium](https://open.spotify.com/playlist/2lOMjzyPMlcIvcaWlaF6MB)
 

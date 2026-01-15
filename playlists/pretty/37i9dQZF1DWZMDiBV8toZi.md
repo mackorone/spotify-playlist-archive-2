@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMDiBV8toZi.md) - [plain](/playlists/plain/37i9dQZF1DWZMDiBV8toZi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZMDiBV8toZi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMDiBV8toZi.md) - [plain](/playlists/plain/37i9dQZF1DWZMDiBV8toZi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZMDiBV8toZi)
 
 ### [A Day in the Studio](https://open.spotify.com/playlist/37i9dQZF1DWZMDiBV8toZi)
 
 > Artists recording in Coke Studio at Spotify LA\. Cover: Rhea Raj & Aliyah's Interlude
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,606 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,621 likes - 39 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

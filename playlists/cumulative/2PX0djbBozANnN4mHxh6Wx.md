@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2PX0djbBozANnN4mHxh6Wx.md) - cumulative - [plain](/playlists/plain/2PX0djbBozANnN4mHxh6Wx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2PX0djbBozANnN4mHxh6Wx)
+[pretty](/playlists/pretty/2PX0djbBozANnN4mHxh6Wx.md) - cumulative - [plain](/playlists/plain/2PX0djbBozANnN4mHxh6Wx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2PX0djbBozANnN4mHxh6Wx)
 
 ### [Frutiger Aero 🌿🌐](https://open.spotify.com/playlist/2PX0djbBozANnN4mHxh6Wx)
 

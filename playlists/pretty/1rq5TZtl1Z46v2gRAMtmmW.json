@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31692,
+  "num_followers": 31703,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARAYAoUKsJFcCrGq2P9lAAxxDavYrC",
+  "snapshot_id": "AAARBhfN2+Mz08TakLCPrm6UQAnUHnSc",
   "tracks": [
     {
       "added_at": "2025-11-06 21:08:43",
@@ -23,6 +23,22 @@
       "duration_ms": 209866,
       "name": "Upside Down (Candy Crush)",
       "url": "https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL"
+    },
+    {
+      "added_at": "2026-01-13 17:11:49",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
     },
     {
       "added_at": "2025-10-07 19:25:45",
@@ -131,6 +147,22 @@
       "duration_ms": 167400,
       "name": "Rest Easy",
       "url": "https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"
+    },
+    {
+      "added_at": "2026-01-06 15:12:12",
+      "album": {
+        "name": "Plush",
+        "url": "https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Plush",
+      "url": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj"
     },
     {
       "added_at": "2025-11-05 11:34:20",

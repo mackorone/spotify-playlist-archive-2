@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbl9rMxGEmRC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbl9rMxGEmRC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbl9rMxGEmRC)
+[pretty](/playlists/pretty/37i9dQZF1DXbl9rMxGEmRC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbl9rMxGEmRC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbl9rMxGEmRC)
 
 ### [Extreme Metal](https://open.spotify.com/playlist/37i9dQZF1DXbl9rMxGEmRC)
 
@@ -475,7 +475,7 @@
 | [Perpetual Deception](https://open.spotify.com/track/1HKdU0kmQ6fOh0UtVOa80O) | [Suffocation](https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1) | [Hymns From The Apocrypha](https://open.spotify.com/album/4Byt3zV8C9V8KhKTdrvemZ) | 4:15 | 2023-11-03 | 2024-04-19 |
 | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/track/5OK5Q6B4jgyXKIAItybyBx) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/album/7zfTJVYMmEM5CotxG7SPuf) | 4:20 | 2023-11-17 |  |
 | [Pillars Of Mercy](https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8) | [Absu](https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP) | [Tara](https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke) | 4:21 | 2022-07-13 |  |
-| [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 | 2022-02-11 | 2026-01-03 |
+| [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 | 2022-02-11 |  |
 | [Pleoverse Omninertia](https://open.spotify.com/track/4le9pP9CtNJ0IfTQX1WBLp) | [Wormed](https://open.spotify.com/artist/1YXwL0RvyKn9swZ6CsVDwk) | [Pleoverse Omninertia](https://open.spotify.com/album/4NV6pxcB4rn4WahFh668Wo) | 3:44 | 2024-07-03 | 2024-08-08 |
 | [Plisse les yeux jusqu'au sang](https://open.spotify.com/track/5qOasStIp3b9jzijsueuLH) | [CELESTE](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Epilogue\(s\)](https://open.spotify.com/album/3Hf7535H4P5uLfdmcSEVIj) | 5:23 | 2023-11-17 |  |
 | [Popecrusher](https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Popecrusher](https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8) | 3:08 | 2022-05-20 | 2025-07-05 |
@@ -570,7 +570,7 @@
 | [Storm Of Strings](https://open.spotify.com/track/05ThjPiNjKzFkLG4YhU6Am) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [Necrophony](https://open.spotify.com/album/4UMTYpjf2pST9ojzIbMBqN) | 2:55 | 2023-09-01 | 2024-04-19 |
 | [Storm Of Strings](https://open.spotify.com/track/29LSO2zCxA4Ma8aa6FCdd9) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [Storm Of Strings](https://open.spotify.com/album/0zTO0FleKsxtLMjt0nUm39) | 2:55 | 2023-08-11 | 2023-08-27 |
 | [Stormcrow](https://open.spotify.com/track/6d7wzEbrzmcQqNSxYnYTKN) | [Necrophobic](https://open.spotify.com/artist/3RUZtC4rkONY3kprM10ZTa) | [Stormcrow](https://open.spotify.com/album/0XnPqsBbNUSdNfUijFE0lo) | 4:26 | 2023-12-15 | 2024-06-04 |
-| [Stranglehold](https://open.spotify.com/track/4IDuHBtmZk8oWIWXy5zh7f) | [Molotov Solution](https://open.spotify.com/artist/0XwUuXb2vhFXXBMtQ3SJPa) | [Void](https://open.spotify.com/album/76Hx5AFZz1nmZK5HW0fpOe) | 4:32 | 2025-07-04 |  |
+| [Stranglehold](https://open.spotify.com/track/4IDuHBtmZk8oWIWXy5zh7f) | [Molotov Solution](https://open.spotify.com/artist/0XwUuXb2vhFXXBMtQ3SJPa) | [Void](https://open.spotify.com/album/76Hx5AFZz1nmZK5HW0fpOe) | 4:32 | 2025-07-04 | 2026-01-15 |
 | [Strategies of Manipulation](https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Strategies of Manipulation \- EP](https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP) | 2:04 | 2023-04-28 | 2025-04-13 |
 | [Strepitus Mundi](https://open.spotify.com/track/3f9GL4zy4NfKhIFePXofP0) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Strepitus Mundi](https://open.spotify.com/album/2gTBYf4PyYXYOqYpXXzrgF) | 8:04 | 2022-04-08 | 2022-07-23 |
 | [Summits](https://open.spotify.com/track/2FTD7GTnQjvpeReCYB8sMP) | [Borknagar](https://open.spotify.com/artist/0vxxsjcDy61x5zvrOqwHIL) | [Fall](https://open.spotify.com/album/5nK2siMASeGKxTsX9GqY3v) | 7:58 | 2024-03-01 |  |

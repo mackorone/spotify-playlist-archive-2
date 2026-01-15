@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain](/playlists/plain/37i9dQZF1DX1sL6qrhzOLK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1sL6qrhzOLK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain](/playlists/plain/37i9dQZF1DX1sL6qrhzOLK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1sL6qrhzOLK)
 
 ### [Sync Next 25](https://open.spotify.com/playlist/37i9dQZF1DX1sL6qrhzOLK)
 
 > Sync Next 25에서 이어지는 감각적 몰입, 새로운 레이브를 경험해보세요\. \(Step into a new kind of rave \- born from the sensory immersion of Sync Next 25.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,127 likes - 20 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,209 likes - 20 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

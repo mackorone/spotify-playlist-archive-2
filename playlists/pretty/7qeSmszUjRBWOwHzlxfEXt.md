@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7qeSmszUjRBWOwHzlxfEXt.md) - [plain](/playlists/plain/7qeSmszUjRBWOwHzlxfEXt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7qeSmszUjRBWOwHzlxfEXt)
+pretty - [cumulative](/playlists/cumulative/7qeSmszUjRBWOwHzlxfEXt.md) - [plain](/playlists/plain/7qeSmszUjRBWOwHzlxfEXt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7qeSmszUjRBWOwHzlxfEXt)
 
 ### [Det är så tråkigt och trist utan dig](https://open.spotify.com/playlist/7qeSmszUjRBWOwHzlxfEXt)
 

@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "Aitous ei oo myynniss\u00e4",
+        "url": "https://open.spotify.com/album/0Xhjp2tWP9tAbhYTxXI8In"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186017,
+      "name": "Aitous ei oo myynniss\u00e4",
+      "url": "https://open.spotify.com/track/7aunzDlJop67v4YAYRWxbr"
+    },
+    {
+      "album": {
         "name": "Aivastaa",
         "url": "https://open.spotify.com/album/603c4gIAc9M4QT20PUJ31c"
       },
@@ -8630,7 +8648,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 116413,
       "name": "Kukkahattuset\u00e4 Freestyle",
       "url": "https://open.spotify.com/track/7Dc0Mf1GxczoZQJGUYWkpj"
@@ -9310,7 +9328,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 158135,
       "name": "Leffastara",
       "url": "https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr"
@@ -11760,7 +11778,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190191,
       "name": "Mit\u00e4 jos?",
       "url": "https://open.spotify.com/track/2c8jKORMUzoB2Gy5Zoc8BF"
@@ -12778,7 +12796,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 151511,
       "name": "Naapuruston Sankari",
       "url": "https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7"
@@ -15595,6 +15613,28 @@
     },
     {
       "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/4KpoZTlC632iMa30PBsy3l"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        },
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177255,
+      "name": "Range Rover (feat. M//O)",
+      "url": "https://open.spotify.com/track/3pBA39abfj27VotwVGXmy1"
+    },
+    {
+      "album": {
         "name": "Sitruunavuodet",
         "url": "https://open.spotify.com/album/1OUPfzUZhIJ077KcahkUSw"
       },
@@ -16614,6 +16654,24 @@
       "duration_ms": 210894,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/3rhgPOgoOvYArCHt0MeRdp"
+    },
+    {
+      "album": {
+        "name": "Pl\u00e4\u00e4nit Uusiks",
+        "url": "https://open.spotify.com/album/4tQ1QVAa2WJ2lg82iYx5uj"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4kki",
+          "url": "https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "Se Ei Mee Niin",
+      "url": "https://open.spotify.com/track/6znnvDT7fkrAmhdIuWTzMj"
     },
     {
       "album": {
@@ -19001,6 +19059,24 @@
     },
     {
       "album": {
+        "name": "Toimitusjohtaja",
+        "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165438,
+      "name": "Toimitusjohtaja",
+      "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
+    },
+    {
+      "album": {
         "name": "Toisella puolella",
         "url": "https://open.spotify.com/album/0iILl5rNxloQwuiekJCNs2"
       },
@@ -19219,7 +19295,7 @@
     },
     {
       "album": {
-        "name": "Totuus sattuu (with pehmoaino)",
+        "name": "Totuus sattuu",
         "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
       },
       "artists": [
@@ -19236,7 +19312,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165688,
-      "name": "Totuus sattuu (with pehmoaino)",
+      "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
     },
     {
@@ -19648,10 +19724,28 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141286,
       "name": "Tyhm\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2zGCt8Nf4c9KvlM883rYJb"
+    },
+    {
+      "album": {
+        "name": "Make Trap Great Again",
+        "url": "https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186043,
+      "name": "Tykk\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg"
     },
     {
       "album": {

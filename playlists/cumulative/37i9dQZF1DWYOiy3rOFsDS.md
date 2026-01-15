@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYOiy3rOFsDS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYOiy3rOFsDS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYOiy3rOFsDS)
+[pretty](/playlists/pretty/37i9dQZF1DWYOiy3rOFsDS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYOiy3rOFsDS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYOiy3rOFsDS)
 
 ### [Boleros Pop](https://open.spotify.com/playlist/37i9dQZF1DWYOiy3rOFsDS)
 
 > Romance a la antigüita con Tornillo y Tony Aguirre en portada.
 
-391 songs - 22 hr 24 min
+392 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 | 2021-10-16 |  |
 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 | 2021-10-16 | 2024-06-29 |
 | [Amar Y Vivir \- En Vivo](https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Amar Y Vivir \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey) | 3:02 | 2021-10-16 |  |
-| [Amarga Navidad](https://open.spotify.com/track/4EGf9hOeXowF79OICACmZh) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Amarga Navidad](https://open.spotify.com/album/7siI9CRzZujtX9LeHH7iXh) | 2:42 | 2025-11-21 |  |
+| [Amarga Navidad](https://open.spotify.com/track/4EGf9hOeXowF79OICACmZh) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Amarga Navidad](https://open.spotify.com/album/7siI9CRzZujtX9LeHH7iXh) | 2:42 | 2025-11-21 | 2026-01-15 |
 | [Amor de Bolero](https://open.spotify.com/track/3XZEt7mxd5C5Ur05j1dfZr) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Amor de Bolero](https://open.spotify.com/album/7GQCGDiH41ovnH6yQJYr7G) | 2:24 | 2021-10-16 | 2022-10-29 |
 | [Amor de Cabaret \(with Río Roma\)](https://open.spotify.com/track/5JeyXbf7CrVQ8DqwFikN0P) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 3:03 | 2021-10-16 | 2025-07-12 |
 | [Amor de Mis Amores](https://open.spotify.com/track/44BdpZjvawE8lLVgvaF8aS) | [Alessa](https://open.spotify.com/artist/2RlIfTDRrkv6WoOBfLpg7M) | [Maria Bonita](https://open.spotify.com/album/3HkxCWjXyybBrIZ1FKKjpr) | 5:10 | 2021-10-16 | 2022-07-28 |
@@ -125,6 +125,7 @@
 | [En Las Olas](https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [En Las Olas](https://open.spotify.com/album/2wfE4uDiMSti5YCwfaZssj) | 3:22 | 2021-10-16 | 2023-01-13 |
 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 | 2024-10-11 | 2025-09-06 |
 | [Enamorado de Ti](https://open.spotify.com/track/653WRYxVaXAmRY44Ikfz5r) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Enamorado de Ti](https://open.spotify.com/album/5JEOLnSsMMwpNoQAAwiZGB) | 3:22 | 2021-10-16 | 2022-05-23 |
+| [Enamórate Otra Vez](https://open.spotify.com/track/6I4LQI0iQMhFsPBiBgeoVx) | [Chesdana](https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY) | [Enamórate Otra Vez](https://open.spotify.com/album/0CCOsxFxoJOMD9ighaY1Ez) | 2:14 | 2026-01-09 |  |
 | [Entre Copas](https://open.spotify.com/track/3CI2hS4A5eVne0TZZJbTn8) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Entre Copas](https://open.spotify.com/album/57uHAsqeL2D8DQ3riMmnFx) | 3:39 | 2024-11-22 | 2025-02-01 |
 | [Envidiosa](https://open.spotify.com/track/52koGwFt8dVGhhQv0csIVQ) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Envidiosa](https://open.spotify.com/album/5gFjM6qA3xyUcyr1FiRbkx) | 3:04 | 2022-10-28 | 2023-03-11 |
 | [Eres Tú](https://open.spotify.com/track/1Ihmt9NMzXITHyh3giraiO) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Eres Tú](https://open.spotify.com/album/4a3yGj8u08dQdYbNcwpEMA) | 2:16 | 2025-03-28 | 2025-05-28 |

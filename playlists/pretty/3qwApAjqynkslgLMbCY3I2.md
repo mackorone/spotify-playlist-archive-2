@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3qwApAjqynkslgLMbCY3I2.md) - [plain](/playlists/plain/3qwApAjqynkslgLMbCY3I2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3qwApAjqynkslgLMbCY3I2)
+pretty - [cumulative](/playlists/cumulative/3qwApAjqynkslgLMbCY3I2.md) - [plain](/playlists/plain/3qwApAjqynkslgLMbCY3I2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3qwApAjqynkslgLMbCY3I2)
 
 ### [Nostalgia \(Problematic\)](https://open.spotify.com/playlist/3qwApAjqynkslgLMbCY3I2)
 

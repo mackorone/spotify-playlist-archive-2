@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9xyAZr9s5Pd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9xyAZr9s5Pd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9xyAZr9s5Pd)
+[pretty](/playlists/pretty/37i9dQZF1DX9xyAZr9s5Pd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9xyAZr9s5Pd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9xyAZr9s5Pd)
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVaTlEoUtILX.md) - [plain](/playlists/plain/37i9dQZF1DWVaTlEoUtILX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVaTlEoUtILX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVaTlEoUtILX.md) - [plain](/playlists/plain/37i9dQZF1DWVaTlEoUtILX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVaTlEoUtILX)
 
 ### [가족X멜로 \(Romance in the House\)](https://open.spotify.com/playlist/37i9dQZF1DWVaTlEoUtILX)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7suNVq3K4h.md) - [plain](/playlists/plain/37i9dQZF1DWX7suNVq3K4h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX7suNVq3K4h)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7suNVq3K4h.md) - [plain](/playlists/plain/37i9dQZF1DWX7suNVq3K4h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX7suNVq3K4h)
 
 ### [Mozart for Babies](https://open.spotify.com/playlist/37i9dQZF1DWX7suNVq3K4h)
 
 > Relaxing Mozart to soothe you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,124 likes - 52 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,913 likes - 52 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

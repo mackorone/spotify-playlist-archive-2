@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain](/playlists/plain/37i9dQZF1DX5e4G40ZHZd6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5e4G40ZHZd6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain](/playlists/plain/37i9dQZF1DX5e4G40ZHZd6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5e4G40ZHZd6)
 
 ### [Hill Country Blues](https://open.spotify.com/playlist/37i9dQZF1DX5e4G40ZHZd6)
 
 > <a href="spotify:artist:5tuhrLilxNi6N7D6VeQZnc">Cedric Burnside</a> is taking over
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,073 likes - 31 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,123 likes - 31 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

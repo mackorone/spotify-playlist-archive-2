@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7ZHn4SQHDIn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ZHn4SQHDIn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ZHn4SQHDIn)
+[pretty](/playlists/pretty/37i9dQZF1DX7ZHn4SQHDIn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ZHn4SQHDIn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7ZHn4SQHDIn)
 
 ### [This Is ITZY](https://open.spotify.com/playlist/37i9dQZF1DX7ZHn4SQHDIn)
 
 > All in us! ITZY is back!
 
-212 songs - 11 hr 2 min
+213 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Girls Will Be Girls \- Japanese ver.](https://open.spotify.com/track/0cRPg49xyxcEcxuomlGs9M) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 2:49 | 2025-10-10 |  |
 | [GOLD](https://open.spotify.com/track/1dqN2j0jL4qB72CNgCdQ09) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:07 | 2024-10-15 |  |
 | [GOLD \- Japanese ver.](https://open.spotify.com/track/3USyikIzT8loCgS22O3Oym) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:08 | 2025-10-10 |  |
+| [How I Love You](https://open.spotify.com/track/3eVKqI1WekNvjUrOdap7vp) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [IDOL I Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/2sh8Y5CknR4LgFyYs20Y1M) | 3:48 | 2026-01-12 |  |
 | [I DON’T WANNA DANCE](https://open.spotify.com/track/427ztPo5YDc2TgebnaFtgW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:09 | 2022-04-20 |  |
 | [I DON’T WANNA DANCE](https://open.spotify.com/track/4WzPXQ6z0JhJWyc43cAMMX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:09 | 2022-07-22 | 2024-04-19 |
 | [I\. I\. Know Me](https://open.spotify.com/track/0vB9kOqmrTzT8grUQPmXWZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:38 | 2025-10-10 |  |

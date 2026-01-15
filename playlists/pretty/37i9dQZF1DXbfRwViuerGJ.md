@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain](/playlists/plain/37i9dQZF1DXbfRwViuerGJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbfRwViuerGJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain](/playlists/plain/37i9dQZF1DXbfRwViuerGJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbfRwViuerGJ)
 
 ### [Kids' editors' picks: Best kids songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DXbfRwViuerGJ)
 
 > Our picks for the best kids songs of 2025\. Cover: FYÜTCH & Aura V
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,990 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,041 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1dAid2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1dAid2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1dAid2)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1dAid2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1dAid2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1dAid2)
 
 ### [This Is Chuck Berry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dAid2)
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-120 songs - 5 hr 25 min
+121 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Wonderful Woman](https://open.spotify.com/track/66aruvWctg2xPjzAwtaHHk) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck](https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi) | 5:19 | 2022-09-17 | 2023-08-20 |
 | [Worried Life Blues](https://open.spotify.com/track/1329OxVQDaX1fRbgBz4z9N) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:08 | 2022-09-22 | 2022-10-07 |
 | [You Can't Catch Me](https://open.spotify.com/track/4xPPWZKEMw6u2cfmqcswSP) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Great Twenty\-Eight](https://open.spotify.com/album/4hQtcgvaybCqBsTrfiL1jC) | 2:42 | 2022-09-18 | 2024-05-10 |
-| [You Can't Catch Me](https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [CHUCK BERRY INTEGRAL 1955 \- 1962](https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0) | 2:42 | 2024-05-12 |  |
+| [You Can't Catch Me](https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [CHUCK BERRY INTEGRAL 1955 \- 1962](https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0) | 2:42 | 2024-05-12 | 2026-01-15 |
+| [You Can't Catch Me](https://open.spotify.com/track/2LqlFFdnXyKky01Y2WKnFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Chess Box](https://open.spotify.com/album/2U6uSo9qSTzQ9HytKNIZuO) | 2:43 | 2026-01-15 |  |
 | [You Never Can Tell](https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:41 | 2022-09-18 |  |
 | [You Two](https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:09 | 2022-09-17 |  |
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f6ejuDaRcD.md) - [plain](/playlists/plain/37i9dQZF1DX3f6ejuDaRcD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3f6ejuDaRcD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f6ejuDaRcD.md) - [plain](/playlists/plain/37i9dQZF1DX3f6ejuDaRcD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3f6ejuDaRcD)
 
 ### [스물다섯 스물하나 \(Twenty\-Five Twenty\-One\)](https://open.spotify.com/playlist/37i9dQZF1DX3f6ejuDaRcD)
 
 > Enjoy the soundtrack of Twenty Five Twenty One! \(청춘을 이야기하는 드라마 스물다섯 스물하나의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,487 likes - 53 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,802 likes - 53 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

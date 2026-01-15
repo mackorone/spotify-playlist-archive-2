@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain](/playlists/plain/37i9dQZF1DWYp0EKplWoKi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYp0EKplWoKi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain](/playlists/plain/37i9dQZF1DWYp0EKplWoKi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYp0EKplWoKi)
 
 ### [El Junte](https://open.spotify.com/playlist/37i9dQZF1DWYp0EKplWoKi)
 
 > La esquina donde el urbano y la música mexicana se unen\.  Tornillo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,937 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,191 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

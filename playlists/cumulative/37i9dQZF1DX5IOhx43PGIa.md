@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5IOhx43PGIa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5IOhx43PGIa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5IOhx43PGIa)
+[pretty](/playlists/pretty/37i9dQZF1DX5IOhx43PGIa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5IOhx43PGIa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5IOhx43PGIa)
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
 > Illuminating Asian artists everywhere\. Cover: Emei
 
-1,277 songs - 2 day 18 hr 22 min
+1,279 songs - 2 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 | 2024-11-15 | 2025-05-17 |
 | [Flashback feat\. Daichi Yamamoto](https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Flashback feat\. Daichi Yamamoto](https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7) | 4:44 | 2023-10-06 | 2024-02-24 |
 | [Fled Into The Night](https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Fled Into The Night](https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM) | 4:07 | 2025-03-14 | 2025-06-20 |
-| [Fleeting](https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ) | 3:39 | 2025-09-26 |  |
+| [Fleeting](https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ) | 3:39 | 2025-09-26 | 2026-01-15 |
 | [flip phone](https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [flip phone](https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww) | 2:04 | 2024-06-14 | 2024-08-31 |
 | [Fly High](https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:03 | 2024-06-07 | 2024-08-03 |
 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 | 2023-03-18 | 2024-01-21 |
@@ -663,6 +663,7 @@
 | [LOCKED IN](https://open.spotify.com/track/79hkyX6iGUalVRrXszyDCO) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [LOCKED IN](https://open.spotify.com/album/7jTcuDWNDsIHAdvVtVntg1) | 2:11 | 2025-11-21 |  |
 | [Locket](https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Locket](https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N) | 1:44 | 2023-08-25 | 2024-03-23 |
 | [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 | 2024-02-09 | 2024-09-17 |
+| [Lonely Touch](https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lonely Touch](https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM) | 3:21 | 2026-01-09 |  |
 | [Long Showers](https://open.spotify.com/track/0qPzW9Iw83pOTlC8mgwxkT) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [Long Showers](https://open.spotify.com/album/1cRvi0fnHNZ1g29at4aDr5) | 3:27 | 2024-11-08 | 2025-02-22 |
 | [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-04 | 2025-08-02 |
 | [Lose Control](https://open.spotify.com/track/1Mut1YA6ZxKZ7F6MKsMSQu) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 4:14 | 2022-05-27 | 2023-04-01 |
@@ -1184,7 +1185,7 @@
 | [Walla Walla](https://open.spotify.com/track/5t0bkMURhbmZabN1DLM7xi) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Walla Walla](https://open.spotify.com/album/61IDujjLMCiOcuCl5Tixzi) | 2:52 | 2024-11-01 | 2025-02-22 |
 | [Wallpaper](https://open.spotify.com/track/5l0sy0tEDxW4lUI2zQMzXf) | [Mei Jun](https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc) | [Wallpaper](https://open.spotify.com/album/7fZTcKJrYUYt3zCPyswbSH) | 2:07 | 2024-02-23 | 2024-06-01 |
 | [walls](https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [character development](https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj) | 0:55 | 2023-06-16 | 2023-10-14 |
-| [waltz](https://open.spotify.com/track/0WxQXx1MwC6LpIzEGZiQSE) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [waltz](https://open.spotify.com/album/48Ry2sdfkU5r4SHmaP9olC) | 2:43 | 2025-04-11 |  |
+| [waltz](https://open.spotify.com/track/0WxQXx1MwC6LpIzEGZiQSE) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [waltz](https://open.spotify.com/album/48Ry2sdfkU5r4SHmaP9olC) | 2:43 | 2025-04-11 | 2026-01-15 |
 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 | 2023-04-14 | 2023-08-26 |
 | [want u to stay](https://open.spotify.com/track/3aY9aETUFsmG7K03bRmUA0) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [want u to stay](https://open.spotify.com/album/6fptfc96jyxxOs8WmfwoAt) | 2:13 | 2023-08-11 | 2023-08-27 |
 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 | 2025-08-08 |  |
@@ -1228,6 +1229,7 @@
 | [Wild Jasmine](https://open.spotify.com/track/02AtJRkWiLd5rl0oFjSxhR) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:35 | 2022-05-27 | 2022-06-25 |
 | [Will You Always Love Her?](https://open.spotify.com/track/3AaT6DOf5An98ZstWmKBbb) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Will You Always Love Her?](https://open.spotify.com/album/0jlavK1I1ZewnfYWXbJPNs) | 3:05 | 2025-03-21 | 2025-08-09 |
 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 | 2023-03-31 | 2023-08-26 |
+| [winter's excuse](https://open.spotify.com/track/6psC5fIFB5JXTOdw01ghOj) | [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [winter's excuse](https://open.spotify.com/album/7idz6eKECr06U892s0lwek) | 3:29 | 2026-01-09 |  |
 | [Wish I Didn't Care \(feat\. Lyn Lapid\)](https://open.spotify.com/track/3xRv1YmKy2yy0JPqcpaZrW) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [House on a Hill \(Deluxe\)](https://open.spotify.com/album/2nEiTXt1gKL9ejJaQRhwic) | 2:40 | 2024-05-10 | 2024-10-26 |
 | [Wishful Thinking](https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d) | 3:06 | 2022-10-07 | 2023-09-02 |
 | [Wishful Thinking](https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie) | 3:06 | 2022-05-27 | 2022-10-13 |
@@ -1244,7 +1246,7 @@
 | [worst critic](https://open.spotify.com/track/7bgYjXDyJ6oIXPX7H36ciz) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [worst critic](https://open.spotify.com/album/5ncjiTVdovGDVikrz5Oz7L) | 3:11 | 2024-11-08 | 2025-02-08 |
 | [worth it](https://open.spotify.com/track/6cBcNlf0IXnS1TXnwRtBsO) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY) | [BLUE.](https://open.spotify.com/album/2rmN4DkOxAUWcOzsb6pbaf) | 3:08 | 2022-05-27 | 2022-07-28 |
 | [Worth Your Summer](https://open.spotify.com/track/2XrzeucK3QId09Ct0rUBEt) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [Worth Your Summer](https://open.spotify.com/album/7LyqReHSOXbiUVwg1Qp52j) | 2:36 | 2025-10-10 |  |
-| [would you have liked me](https://open.spotify.com/track/71T7cvBrFrZ9GHLm4mOVbM) | [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [would you have liked me](https://open.spotify.com/album/1YRH2enMVi0JukRi5wIwII) | 2:02 | 2025-03-21 |  |
+| [would you have liked me](https://open.spotify.com/track/71T7cvBrFrZ9GHLm4mOVbM) | [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [would you have liked me](https://open.spotify.com/album/1YRH2enMVi0JukRi5wIwII) | 2:02 | 2025-03-21 | 2026-01-15 |
 | [X](https://open.spotify.com/track/6BBlYYRR4W2iaDqKJxOB1h) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [TEENAGE RAMBLE](https://open.spotify.com/album/3SZWTqmG06bLCSdGTSvPCw) | 3:19 | 2025-10-17 |  |
 | [XS](https://open.spotify.com/track/1TWNKyNQOBfNUkWWs7FooF) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:21 | 2023-09-01 | 2023-09-23 |
 | [Ya Ya](https://open.spotify.com/track/30xQOGi9kqeGU24U0VIjG0) | [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Ya Ya](https://open.spotify.com/album/0nrNwgR8o24TRZK3BPNs1V) | 3:33 | 2023-08-25 | 2024-01-27 |

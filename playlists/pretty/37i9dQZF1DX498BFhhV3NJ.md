@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX498BFhhV3NJ.md) - [plain](/playlists/plain/37i9dQZF1DX498BFhhV3NJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX498BFhhV3NJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX498BFhhV3NJ.md) - [plain](/playlists/plain/37i9dQZF1DX498BFhhV3NJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX498BFhhV3NJ)
 
 ### [Vintage Culture DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX498BFhhV3NJ)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0q3zClOVaZA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0q3zClOVaZA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0q3zClOVaZA)
+[pretty](/playlists/pretty/37i9dQZF1DX0q3zClOVaZA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0q3zClOVaZA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0q3zClOVaZA)
 
 ### [This Is ENHYPEN](https://open.spotify.com/playlist/37i9dQZF1DX0q3zClOVaZA)
 

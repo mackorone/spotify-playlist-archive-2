@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJDxTVH/Ec27fk78/mHwUXPU0T572K",
+  "snapshot_id": "AAAJLGkdca0xiTPDMcTXlKBYdWFSyDeD",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -17212,8 +17212,8 @@
           "url": "https://open.spotify.com/artist/5Q7K5GJiNLRz7L056UpwYf"
         },
         {
-          "name": "Esch Sisters",
-          "url": "https://open.spotify.com/artist/3m6XpgeffA0xEnwJUR9DXZ"
+          "name": "The Esch Sisters",
+          "url": "https://open.spotify.com/artist/5JikJxnIH1ZfZk71eEXD8g"
         }
       ],
       "duration_ms": 190769,
@@ -36015,6 +36015,526 @@
       "duration_ms": 217860,
       "name": "In the quiet of the night",
       "url": "https://open.spotify.com/track/0E8HI1hCSZIUg8EwvvTLTH"
+    },
+    {
+      "added_at": "2026-01-06 20:26:50",
+      "album": {
+        "name": "Drama K\u00f6pr\u00fcs\u00fc",
+        "url": "https://open.spotify.com/album/4zGqsm2u3KUsg0hqn852z2"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Nuez Vera",
+          "url": "https://open.spotify.com/artist/4gcuJG0kGfr9pilwPWr7GF"
+        }
+      ],
+      "duration_ms": 253023,
+      "name": "Drama K\u00f6pr\u00fcs\u00fc",
+      "url": "https://open.spotify.com/track/5C7OFeelnMOTT850yV9X1N"
+    },
+    {
+      "added_at": "2026-01-06 20:33:08",
+      "album": {
+        "name": "Heads Carolina, Tails California",
+        "url": "https://open.spotify.com/album/3xHtcn676RfMnGyn1kioB2"
+      },
+      "artists": [
+        {
+          "name": "Ian Humphreys-graham",
+          "url": "https://open.spotify.com/artist/0rFTdiKjelXhmGDfPDrrF6"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Heads Carolina, Tails California",
+      "url": "https://open.spotify.com/track/71I7kVOofp3kBk5D2G9wvJ"
+    },
+    {
+      "added_at": "2026-01-06 20:33:21",
+      "album": {
+        "name": "No Dreams Left",
+        "url": "https://open.spotify.com/album/2Hf73f4ixMBddMgkpA2tWl"
+      },
+      "artists": [
+        {
+          "name": "The Scree Fall",
+          "url": "https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE"
+        }
+      ],
+      "duration_ms": 327631,
+      "name": "No Dreams Left",
+      "url": "https://open.spotify.com/track/3Vrdzy9VrSYJ61WOu6qoZH"
+    },
+    {
+      "added_at": "2026-01-06 20:34:46",
+      "album": {
+        "name": "The Giant",
+        "url": "https://open.spotify.com/album/7lOE2qWALgcTOra7Dt48f4"
+      },
+      "artists": [
+        {
+          "name": "Ale Riatti",
+          "url": "https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD"
+        }
+      ],
+      "duration_ms": 220714,
+      "name": "Red Golden Years",
+      "url": "https://open.spotify.com/track/0lyYJ8i6a1ZqUpABoGNiel"
+    },
+    {
+      "added_at": "2026-01-06 20:35:26",
+      "album": {
+        "name": "Autoblues",
+        "url": "https://open.spotify.com/album/0ChR9vm2le1g7U7e4cdGai"
+      },
+      "artists": [
+        {
+          "name": "David Garrido Guil",
+          "url": "https://open.spotify.com/artist/2Jln0dQ7HTBiWDjaTAORO3"
+        },
+        {
+          "name": "Mar\u00eda Barrio Insausti",
+          "url": "https://open.spotify.com/artist/7iF1mujsOuDUJe0wUoJNU8"
+        },
+        {
+          "name": "Manuel Gal\u00e1n",
+          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
+        },
+        {
+          "name": "Carlos Beceiro",
+          "url": "https://open.spotify.com/artist/3u32J7uST7l92X909YikOy"
+        },
+        {
+          "name": "Joaqu\u00edn Pardinilla",
+          "url": "https://open.spotify.com/artist/1cWiX6hWca9tLhKQpatHzw"
+        }
+      ],
+      "duration_ms": 233367,
+      "name": "Autoblues",
+      "url": "https://open.spotify.com/track/5la9je5kc5G5DAdG9y4SVm"
+    },
+    {
+      "added_at": "2026-01-06 20:44:17",
+      "album": {
+        "name": "Q\u00ec",
+        "url": "https://open.spotify.com/album/3VrcCuZ6v0Yf13LSobBvP4"
+      },
+      "artists": [
+        {
+          "name": "M4leza",
+          "url": "https://open.spotify.com/artist/57E9bkwzidHRBByGyDAXlC"
+        }
+      ],
+      "duration_ms": 219940,
+      "name": "Q\u00ec",
+      "url": "https://open.spotify.com/track/7yFcvZIdXvbzmwPnf8y3Tp"
+    },
+    {
+      "added_at": "2026-01-06 20:46:14",
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/6aUjkpLUrywakIVkMtVnDI"
+      },
+      "artists": [
+        {
+          "name": "Kaspar Bakken",
+          "url": "https://open.spotify.com/artist/73aB9IUwHBom7J4GdONOky"
+        },
+        {
+          "name": "Bjun",
+          "url": "https://open.spotify.com/artist/0iR66PzQEU9JFsnGycCwze"
+        }
+      ],
+      "duration_ms": 168967,
+      "name": "Wanderer",
+      "url": "https://open.spotify.com/track/1sYRAVrtrjfcIcjyLfK9FM"
+    },
+    {
+      "added_at": "2026-01-07 20:51:43",
+      "album": {
+        "name": "Fading Silhouette",
+        "url": "https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk"
+      },
+      "artists": [
+        {
+          "name": "Indie Indie",
+          "url": "https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa"
+        },
+        {
+          "name": "Erica van der meer",
+          "url": "https://open.spotify.com/artist/0tGUuhbmVkVj3nU8olGAnN"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Shifting sands",
+      "url": "https://open.spotify.com/track/7ur1asyOxPAY05E8trf0wj"
+    },
+    {
+      "added_at": "2026-01-07 21:00:02",
+      "album": {
+        "name": "Whale Song",
+        "url": "https://open.spotify.com/album/53Xx5WBJGiHLXmmX1E8A7F"
+      },
+      "artists": [
+        {
+          "name": "Valeska Rautenberg",
+          "url": "https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG"
+        },
+        {
+          "name": "Alpha Minus",
+          "url": "https://open.spotify.com/artist/5HGjTPVOowX6pSn3znXFI9"
+        }
+      ],
+      "duration_ms": 248080,
+      "name": "Whale Song",
+      "url": "https://open.spotify.com/track/01VdbGVabL2gCIz8X6I9Xq"
+    },
+    {
+      "added_at": "2026-01-07 21:00:10",
+      "album": {
+        "name": "Perfect (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0MsRkaimkoZpviatWphfq3"
+      },
+      "artists": [
+        {
+          "name": "Lil Vertigo",
+          "url": "https://open.spotify.com/artist/1fRDHdlNXC9OQQGghaJe5W"
+        }
+      ],
+      "duration_ms": 215084,
+      "name": "Perfect - Acoustic Version",
+      "url": "https://open.spotify.com/track/4y3e8uWRoX16peyxX1xQxs"
+    },
+    {
+      "added_at": "2026-01-08 19:05:09",
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/1UVSdVOF5KmQS1qO1GQEtE"
+      },
+      "artists": [
+        {
+          "name": "Fiebre de las Monta\u00f1as Rocosas",
+          "url": "https://open.spotify.com/artist/0wluskMzTXGEgOCmezbaNM"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/54W2cEcp8UaHgTD1927H2y"
+    },
+    {
+      "added_at": "2026-01-08 19:05:56",
+      "album": {
+        "name": "Backroads",
+        "url": "https://open.spotify.com/album/6vpwCQnYL2ERD1IDY7tGxi"
+      },
+      "artists": [
+        {
+          "name": "B.J Salyer",
+          "url": "https://open.spotify.com/artist/0bqxjfiDpMt6MIrF6A17vN"
+        }
+      ],
+      "duration_ms": 199511,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/73uGEAHMqdsupTVmJlX9fl"
+    },
+    {
+      "added_at": "2026-01-08 19:07:48",
+      "album": {
+        "name": "Ancient Nature",
+        "url": "https://open.spotify.com/album/1rnoqn4u2O5YN6IOEbSnqd"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00f5es da Floresta",
+          "url": "https://open.spotify.com/artist/4IJV7Jhja2ZKyyyLOoFYbp"
+        },
+        {
+          "name": "Michelle C. Buss",
+          "url": "https://open.spotify.com/artist/08K1zPjnw6xAEAyEZb94vy"
+        },
+        {
+          "name": "Jane Eyre Pedro",
+          "url": "https://open.spotify.com/artist/468S0Pu6KybZy1jAzg8DZ1"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Ancient Nature",
+      "url": "https://open.spotify.com/track/4qEc8ifzZgonfnpxOT5WkI"
+    },
+    {
+      "added_at": "2026-01-08 19:10:31",
+      "album": {
+        "name": "Espero",
+        "url": "https://open.spotify.com/album/3N5hCsR1uO5YoSTrdDxhtK"
+      },
+      "artists": [
+        {
+          "name": "Treem",
+          "url": "https://open.spotify.com/artist/3PoYJKZXsQwoU916dTOY3B"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Espero",
+      "url": "https://open.spotify.com/track/3hKdvKTsoMu9cpmOfNV2s4"
+    },
+    {
+      "added_at": "2026-01-08 19:12:13",
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/3BTEk9nWqSvaZACv7cEGlq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Petersen",
+          "url": "https://open.spotify.com/artist/7aXyv6jfTrl9kzTC8LddCe"
+        }
+      ],
+      "duration_ms": 214444,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/3ME4fVMBCsHUdfmrWxY1bP"
+    },
+    {
+      "added_at": "2026-01-08 19:12:53",
+      "album": {
+        "name": "The Waiting",
+        "url": "https://open.spotify.com/album/62okt6x3zoW45GcxbAmJkG"
+      },
+      "artists": [
+        {
+          "name": "B. Cooper",
+          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
+        },
+        {
+          "name": "Jacque Jordan",
+          "url": "https://open.spotify.com/artist/5BGPtxa3isVrwKzbew9jpP"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "The Waiting",
+      "url": "https://open.spotify.com/track/19Wd1Z6wHvAB56y2BmxfHD"
+    },
+    {
+      "added_at": "2026-01-10 03:00:25",
+      "album": {
+        "name": "Little Boy in the Grass",
+        "url": "https://open.spotify.com/album/5ZjaRFRiAYaF8YLpP5BW9e"
+      },
+      "artists": [
+        {
+          "name": "Echoes of Maya",
+          "url": "https://open.spotify.com/artist/2xGmkpZGjOxOJCA9Ft43a0"
+        }
+      ],
+      "duration_ms": 226909,
+      "name": "Little Boy in the Grass",
+      "url": "https://open.spotify.com/track/1UStxRpRHGG2z349NsrLFB"
+    },
+    {
+      "added_at": "2026-01-10 03:04:41",
+      "album": {
+        "name": "Proof of Love",
+        "url": "https://open.spotify.com/album/1B5rexLLZZ0ZAx4Om6hyxv"
+      },
+      "artists": [
+        {
+          "name": "Aella Moon",
+          "url": "https://open.spotify.com/artist/3NTYDGHWKfrCl4fpJnkApo"
+        }
+      ],
+      "duration_ms": 259959,
+      "name": "Proof of Love",
+      "url": "https://open.spotify.com/track/67Ig6PY66hqzrKe8rSvHiD"
+    },
+    {
+      "added_at": "2026-01-10 21:07:01",
+      "album": {
+        "name": "Coda",
+        "url": "https://open.spotify.com/album/4gxF1o488fMLkAFWiMzX25"
+      },
+      "artists": [
+        {
+          "name": "Cyfnos",
+          "url": "https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Thaw",
+      "url": "https://open.spotify.com/track/1hAlNXPu1E4d7n1ecCAchc"
+    },
+    {
+      "added_at": "2026-01-11 18:13:33",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/7dm2dzvwyqfN4Y3dKzgSHI"
+      },
+      "artists": [
+        {
+          "name": "Timberline Travelers",
+          "url": "https://open.spotify.com/artist/3HMEdzrn0v16NlLm7aNfjY"
+        }
+      ],
+      "duration_ms": 223399,
+      "name": "Live Free",
+      "url": "https://open.spotify.com/track/5br3vfcMcnOfsCeuNHttdK"
+    },
+    {
+      "added_at": "2026-01-11 18:14:36",
+      "album": {
+        "name": "Lifelike Figures",
+        "url": "https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "duration_ms": 120049,
+      "name": "After the Rain",
+      "url": "https://open.spotify.com/track/7xyXxXZOy9wk70XOfGfREU"
+    },
+    {
+      "added_at": "2026-01-14 19:19:53",
+      "album": {
+        "name": "Raspberry Picking",
+        "url": "https://open.spotify.com/album/3wsDpucG0nJgpn3M1JzKWo"
+      },
+      "artists": [
+        {
+          "name": "Gavriel Kahane",
+          "url": "https://open.spotify.com/artist/2V32grgqKmpe1SAA5bbJ2K"
+        }
+      ],
+      "duration_ms": 209071,
+      "name": "Raspberry Picking",
+      "url": "https://open.spotify.com/track/1bCm5EInz6EEFGEtdVK4cI"
+    },
+    {
+      "added_at": "2026-01-14 19:21:17",
+      "album": {
+        "name": "Rakett i r\u00f8ven!",
+        "url": "https://open.spotify.com/album/2S06h80vHsotlgrRKLm8bk"
+      },
+      "artists": [
+        {
+          "name": "G.M.L.",
+          "url": "https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC"
+        }
+      ],
+      "duration_ms": 222359,
+      "name": "Rakett i r\u00f8ven!",
+      "url": "https://open.spotify.com/track/2LiFsvEv77lh0P6nYd6dcA"
+    },
+    {
+      "added_at": "2026-01-14 19:22:26",
+      "album": {
+        "name": "Stay Soft",
+        "url": "https://open.spotify.com/album/7hlCbMdpg9ZewqpXTcvEGx"
+      },
+      "artists": [
+        {
+          "name": "MARE",
+          "url": "https://open.spotify.com/artist/0I8kUVpp2zVFwinaDoV1dU"
+        },
+        {
+          "name": "Franzi Berg",
+          "url": "https://open.spotify.com/artist/09AgztcXrg0mCWt5RcHD39"
+        }
+      ],
+      "duration_ms": 229872,
+      "name": "Stay Soft",
+      "url": "https://open.spotify.com/track/6oSB2kldqBEQpjQOEoIIFY"
+    },
+    {
+      "added_at": "2026-01-14 19:34:52",
+      "album": {
+        "name": "Never want to see you go",
+        "url": "https://open.spotify.com/album/4Y2cKhxP7hatAbyl22GovV"
+      },
+      "artists": [
+        {
+          "name": "Jorge Left",
+          "url": "https://open.spotify.com/artist/06dG8OvsSwojI1BplLj8YG"
+        }
+      ],
+      "duration_ms": 195049,
+      "name": "Never want to see you go",
+      "url": "https://open.spotify.com/track/1ZgnDFbSuJVNJZnH3Ni2t3"
+    },
+    {
+      "added_at": "2026-01-14 19:44:04",
+      "album": {
+        "name": "Bom Lugar (Karma Remix)",
+        "url": "https://open.spotify.com/album/0dZyustzQapWDMiNA5zkZe"
+      },
+      "artists": [
+        {
+          "name": "Leandrex",
+          "url": "https://open.spotify.com/artist/6iBC0WS9hV53VjqLAiVus3"
+        },
+        {
+          "name": "KARMA",
+          "url": "https://open.spotify.com/artist/6xXprTRNOMPKz6ke1nZFFi"
+        }
+      ],
+      "duration_ms": 118028,
+      "name": "Bom Lugar - Karma Remix",
+      "url": "https://open.spotify.com/track/4wFr9MrxVv32kNDNqnfnTh"
+    },
+    {
+      "added_at": "2026-01-14 19:48:13",
+      "album": {
+        "name": "Injustice For All",
+        "url": "https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt"
+      },
+      "artists": [
+        {
+          "name": "Barmy Rote",
+          "url": "https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W"
+        }
+      ],
+      "duration_ms": 317131,
+      "name": "Stunned & Confused",
+      "url": "https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si"
+    },
+    {
+      "added_at": "2026-01-14 19:48:26",
+      "album": {
+        "name": "sean vS MODO",
+        "url": "https://open.spotify.com/album/7JSAsoIOvCnrbIlDmsoDL9"
+      },
+      "artists": [
+        {
+          "name": "Modo",
+          "url": "https://open.spotify.com/artist/5Q0eF4FHLnNpytjOKkjAAm"
+        },
+        {
+          "name": "Don Domingo",
+          "url": "https://open.spotify.com/artist/5rryHvDft16N0XffjfxYlz"
+        },
+        {
+          "name": "Sunny C",
+          "url": "https://open.spotify.com/artist/49Y7H8qbeAWyneIix7wtB3"
+        }
+      ],
+      "duration_ms": 165205,
+      "name": "far away",
+      "url": "https://open.spotify.com/track/0OcQs18sSndVug6cB8iNUP"
+    },
+    {
+      "added_at": "2026-01-14 19:49:10",
+      "album": {
+        "name": "\u0421\u043a\u0430\u0437\u043a\u0430, \u043c\u0438\u043b\u0430\u044f \u0441\u043a\u0430\u0437\u043a\u0430",
+        "url": "https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 271204,
+      "name": "\u0421\u043a\u0430\u0437\u043a\u0430, \u043c\u0438\u043b\u0430\u044f \u0441\u043a\u0430\u0437\u043a\u0430",
+      "url": "https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s"
     }
   ],
   "unique_name": "Cruise Music",

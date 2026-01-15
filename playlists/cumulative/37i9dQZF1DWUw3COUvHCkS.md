@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUw3COUvHCkS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUw3COUvHCkS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUw3COUvHCkS)
+[pretty](/playlists/pretty/37i9dQZF1DWUw3COUvHCkS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUw3COUvHCkS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUw3COUvHCkS)
 
 ### [2000s Heartache](https://open.spotify.com/playlist/37i9dQZF1DWUw3COUvHCkS)
 

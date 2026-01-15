@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain](/playlists/plain/3TurM2x1HaeNEztqBnomV6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3TurM2x1HaeNEztqBnomV6)
+pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain](/playlists/plain/3TurM2x1HaeNEztqBnomV6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3TurM2x1HaeNEztqBnomV6)
 
 ### [Workday \- Singer\-songwriter](https://open.spotify.com/playlist/3TurM2x1HaeNEztqBnomV6)
 
 > Get through your workday with 8 hours of singer\-songwriter tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,589 likes - 123 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,586 likes - 123 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

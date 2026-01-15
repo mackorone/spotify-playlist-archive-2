@@ -334,7 +334,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205945,
       "name": "Bixinho",
       "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Metropolitano",
+        "url": "https://open.spotify.com/album/2tvKHtzmcqpONO2EQfhL8M"
+      },
+      "artists": [
+        {
+          "name": "Banda Eddie",
+          "url": "https://open.spotify.com/artist/60nL5yXKnZlC4wheEmmBoO"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286800,
+      "name": "Danada",
+      "url": "https://open.spotify.com/track/2k14GJCIjWUuOJ39cloaGk"
+    },
+    {
+      "album": {
         "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
         "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 191426,
       "name": "Funk-se quem puder",
       "url": "https://open.spotify.com/track/0VOTHJFg4WNqO08vyu7usH"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 246280,
       "name": "Lucro (Descomprimindo)",
       "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"

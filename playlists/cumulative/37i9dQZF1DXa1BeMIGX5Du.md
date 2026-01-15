@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXa1BeMIGX5Du.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa1BeMIGX5Du) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa1BeMIGX5Du)
+[pretty](/playlists/pretty/37i9dQZF1DXa1BeMIGX5Du.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa1BeMIGX5Du) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXa1BeMIGX5Du)
 
 ### [Coffee + Chill](https://open.spotify.com/playlist/37i9dQZF1DXa1BeMIGX5Du)
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-448 songs - 1 day 3 hr 14 min
+450 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Alright Now](https://open.spotify.com/track/2p1AdRfxmYlx1sfrobrtZP) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Alright Now](https://open.spotify.com/album/403fgfbKYFiRZJJ1mOXwIk) | 3:31 | 2025-05-05 | 2025-06-17 |
 | [always, i'll care](https://open.spotify.com/track/1LdS1ULS9e18oW3M2C1MUj) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [always, i’ll care](https://open.spotify.com/album/1kfbFGL5zSzXv2p5usgNcs) | 2:26 | 2022-03-25 | 2022-07-29 |
 | [always, i'll care](https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF) | 2:26 | 2022-06-17 | 2022-10-11 |
+| [Ancestors](https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Tripping Over Time](https://open.spotify.com/album/0Qv7CQ2vU9vcUqqcODFs4i) | 2:56 | 2026-01-12 |  |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-08-25 | 2023-09-23 |
 | [Babe, I'm All Yours](https://open.spotify.com/track/0ObTn3Xn2B28LpFqFrMmLd) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Babe, I'm All Yours](https://open.spotify.com/album/2HHy6xAYe8T0UD3mzaGo9M) | 3:17 | 2024-07-09 | 2025-06-17 |
 | [Baby Bright](https://open.spotify.com/track/3mqmXj2IkjNbWNwCrQy8cw) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Baby Bright](https://open.spotify.com/album/1zmDYIWkJIJfbqXTtUoY0X) | 3:52 | 2024-10-21 |  |
@@ -40,6 +41,7 @@
 | [Bird In A Hurricane](https://open.spotify.com/track/2QdSa6HSB6GnLTTxVRbQrJ) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Bird In A Hurricane](https://open.spotify.com/album/02ytCS04e7jLpaDMz0CqU6) | 2:52 | 2024-05-24 | 2025-03-11 |
 | [Blame Me If You Want To](https://open.spotify.com/track/0M5NpwcXOoJLPzYrfmp4o6) | [Jordie Lane](https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa) | [Blame Me If You Want To](https://open.spotify.com/album/2G60YckB0tcxfUwqa4yIbg) | 4:24 | 2024-06-18 | 2025-12-16 |
 | [Blame The Moon](https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Blame The Moon](https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2) | 3:43 | 2024-02-16 | 2024-06-05 |
+| [Bloodline](https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:00 | 2026-01-12 |  |
 | [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 | 2025-02-03 |  |
 | [Blue Dreams](https://open.spotify.com/track/6fGbtfReK8VgAsXrrUHJxg) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [Blue Dreams](https://open.spotify.com/album/5lz235rEOhBXtnAlzu9HnV) | 4:28 | 2024-06-26 |  |
 | [Blue Lake](https://open.spotify.com/track/7CvKEtfHFgxKxzsfHpxsZc) | [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [Blue Lake](https://open.spotify.com/album/1lIuk3A9M7YmA8RVNhdXkO) | 2:57 | 2024-02-22 | 2024-12-25 |
@@ -191,12 +193,12 @@
 | [How to Forget](https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [How to Forget](https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X) | 3:54 | 2024-02-22 | 2024-10-07 |
 | [Human](https://open.spotify.com/track/1ixD29DWr5eSZ1vZROT40I) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Human](https://open.spotify.com/album/7yMFvAlSB5U71J0XDEimHk) | 2:50 | 2024-05-16 | 2025-04-08 |
 | [I Am Fire](https://open.spotify.com/track/0ABjV6h4sFqXvPB3BoQTOK) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [I Am Fire](https://open.spotify.com/album/2uTQXgUb4CavJxuAxTJeix) | 3:55 | 2025-03-24 |  |
-| [I Can't Wait Anymore](https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [I Can't Wait Anymore](https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9) | 4:09 | 2024-10-06 |  |
+| [I Can't Wait Anymore](https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [I Can't Wait Anymore](https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9) | 4:09 | 2024-10-06 | 2026-01-15 |
 | [I Don't Have The Heart](https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Flicker + I Don’t Have The Heart](https://open.spotify.com/album/3WGNUmtTsMR3sDWRJaCkyp) | 3:37 | 2024-04-02 | 2024-05-24 |
 | [I Don't Need Anything But My Love](https://open.spotify.com/track/08QhXM5QTPs8noxBNv3tfj) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [Collected Bedroom Recordings](https://open.spotify.com/album/3yRmxOWxltyq2TovuNjXKB) | 2:54 | 2023-06-08 | 2024-04-03 |
 | [I Don't Need Anything But My Love](https://open.spotify.com/track/0CHud82a2uwfmsBAitedCZ) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [I Don't Need Anything But My Love](https://open.spotify.com/album/4HiwMkcHk1XTyio65cqotK) | 2:54 | 2022-03-25 | 2023-07-27 |
 | [I Don't Need Anything But My Love](https://open.spotify.com/track/4pK17ywBg6aqOInBD1SHoQ) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [Collected Bedroom Recordings](https://open.spotify.com/album/79Hhr67f0hxR22LLjrSTxH) | 2:54 | 2023-06-08 | 2023-09-01 |
-| [I Figured We'd Go Dancin'](https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Fighting For](https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1) | 4:45 | 2024-06-18 |  |
+| [I Figured We'd Go Dancin'](https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Fighting For](https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1) | 4:45 | 2024-06-18 | 2026-01-15 |
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-09-22 | 2024-04-19 |
 | [I Will](https://open.spotify.com/track/0ToyAHtZbK1kjdXcMynsPP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [I Will](https://open.spotify.com/album/3PVfSloEkEjdFdU1D3AeTk) | 2:24 | 2024-12-24 | 2025-06-17 |
 | [I'll Be There](https://open.spotify.com/track/3PCy5407tNw7MlpP8DyHvU) | [The McCredie Brothers](https://open.spotify.com/artist/5S6hgx48T6bHth4lxxmKGD), [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY), [Pete McCredie](https://open.spotify.com/artist/0Cgijkl49Ktl93nFDK9CTi) | [I'll Be There](https://open.spotify.com/album/7ylFkfr7N9H4e2aRANwDzA) | 2:39 | 2024-09-22 | 2025-05-06 |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5kVmFQxhnLW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5kVmFQxhnLW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5kVmFQxhnLW)
+[pretty](/playlists/pretty/37i9dQZF1DX5kVmFQxhnLW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5kVmFQxhnLW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5kVmFQxhnLW)
 
 ### [This Is Michael Bublé](https://open.spotify.com/playlist/37i9dQZF1DX5kVmFQxhnLW)
 

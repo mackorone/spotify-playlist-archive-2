@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain](/playlists/plain/37i9dQZF1DXbZmKskFbVct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbZmKskFbVct)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain](/playlists/plain/37i9dQZF1DXbZmKskFbVct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbZmKskFbVct)
 
 ### [ASMR Sleep Whispers](https://open.spotify.com/playlist/37i9dQZF1DXbZmKskFbVct)
 

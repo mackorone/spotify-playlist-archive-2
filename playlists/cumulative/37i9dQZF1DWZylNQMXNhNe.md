@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZylNQMXNhNe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZylNQMXNhNe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZylNQMXNhNe)
+[pretty](/playlists/pretty/37i9dQZF1DWZylNQMXNhNe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZylNQMXNhNe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZylNQMXNhNe)
 
 ### [GLOW Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZylNQMXNhNe)
 

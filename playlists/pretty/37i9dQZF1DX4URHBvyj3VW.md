@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4URHBvyj3VW.md) - [plain](/playlists/plain/37i9dQZF1DX4URHBvyj3VW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4URHBvyj3VW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4URHBvyj3VW.md) - [plain](/playlists/plain/37i9dQZF1DX4URHBvyj3VW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4URHBvyj3VW)
 
 ### [Freakier Friday Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX4URHBvyj3VW)
 
 > The switch is back! Listen to your favorite music from the original Freaky Friday and the brand\-new Freakier Friday, now streaming on Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,894 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,010 likes - 39 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

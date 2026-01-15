@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2bU5VZJ0Ozt7lyi2Dbd5PW.md) - [plain](/playlists/plain/2bU5VZJ0Ozt7lyi2Dbd5PW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2bU5VZJ0Ozt7lyi2Dbd5PW)
+pretty - [cumulative](/playlists/cumulative/2bU5VZJ0Ozt7lyi2Dbd5PW.md) - [plain](/playlists/plain/2bU5VZJ0Ozt7lyi2Dbd5PW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2bU5VZJ0Ozt7lyi2Dbd5PW)
 
 ### [❤️ORB💚](https://open.spotify.com/playlist/2bU5VZJ0Ozt7lyi2Dbd5PW)
 
 > 
 
-[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 83 likes - 12 songs - 30 min 40 sec
+[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 82 likes - 12 songs - 30 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

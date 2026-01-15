@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1PUscxdHPJrtEo7OzV1rPx.md) - [plain](/playlists/plain/1PUscxdHPJrtEo7OzV1rPx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1PUscxdHPJrtEo7OzV1rPx)
+pretty - [cumulative](/playlists/cumulative/1PUscxdHPJrtEo7OzV1rPx.md) - [plain](/playlists/plain/1PUscxdHPJrtEo7OzV1rPx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1PUscxdHPJrtEo7OzV1rPx)
 
 ### [\(Dying Wrestler\)core](https://open.spotify.com/playlist/1PUscxdHPJrtEo7OzV1rPx)
 

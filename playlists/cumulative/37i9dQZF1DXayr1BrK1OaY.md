@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXayr1BrK1OaY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXayr1BrK1OaY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXayr1BrK1OaY)
+[pretty](/playlists/pretty/37i9dQZF1DXayr1BrK1OaY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXayr1BrK1OaY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXayr1BrK1OaY)
 
 ### [crying on the dance floor](https://open.spotify.com/playlist/37i9dQZF1DXayr1BrK1OaY)
 
 > let the dj set u free ❤️‍🩹
 
-626 songs - 1 day 12 hr 43 min
+627 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Alive \(with Calle Lehmann\)](https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [Alive \(with Calle Lehmann\)](https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws) | 3:42 | 2022-05-06 | 2023-06-10 |
 | [all i ever wanted](https://open.spotify.com/track/7vPV3Eo1hjIxkPthWwVpHT) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [all i ever wanted](https://open.spotify.com/album/1iX4zn7M6Qb7jxTCXwDnz7) | 2:33 | 2025-01-10 | 2025-05-31 |
 | [All That I Lost](https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [All That I Lost](https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo) | 4:19 | 2023-05-26 | 2025-03-22 |
+| [Almost Gone](https://open.spotify.com/track/1i8Jbd86KzsTPOOP7H2Knt) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Almost Gone](https://open.spotify.com/album/4UIBfBc8b4ySZjFcZSf6Cw) | 2:44 | 2026-01-09 |  |
 | [Alone](https://open.spotify.com/track/0jm7Tf1K33MNKCuPltkgYX) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Alone](https://open.spotify.com/album/0AM7bvqCGGqBmRDCKgj63l) | 2:23 | 2025-04-18 | 2025-05-31 |
 | [Alone](https://open.spotify.com/track/6hPSZ19sV4IE5FUmjoo964) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Alone](https://open.spotify.com/album/1ItFsGOccsIUPb8GOA8qfP) | 4:35 | 2021-09-24 | 2022-06-25 |
 | [Alone Again](https://open.spotify.com/track/1x9SzB3cLpNsykCO5Y2BfR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Alone Again](https://open.spotify.com/album/0YzIkTjBZPqImdQLx3VqTc) | 3:46 | 2024-12-03 | 2025-02-16 |
@@ -108,7 +109,7 @@
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-17 |  |
 | [Clouds & Rain](https://open.spotify.com/track/2gfXFD8HYFEgPrqecE7unL) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [BUOY](https://open.spotify.com/artist/1wzMKD8Lb9UViWGjCQNkTx) | [Clouds & Rain](https://open.spotify.com/album/3oTdQjsKd05TgX2J3gP5xz) | 3:41 | 2025-06-06 | 2025-07-19 |
 | [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 | 2021-04-02 | 2022-07-29 |
-| [come home](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [come home](https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap) | 3:23 | 2025-10-10 |  |
+| [come home](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [come home](https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap) | 3:23 | 2025-10-10 | 2026-01-15 |
 | [Coming Back](https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Coming Back](https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ) | 2:38 | 2024-05-03 | 2024-11-16 |
 | [Coming Down](https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H) | [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Coming Down](https://open.spotify.com/album/63YuEPlpI89krdvctGytaa) | 3:34 | 2025-02-21 | 2025-12-05 |
 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 | 2024-04-12 |  |

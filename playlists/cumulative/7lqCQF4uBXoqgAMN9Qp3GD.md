@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7lqCQF4uBXoqgAMN9Qp3GD.md) - cumulative - [plain](/playlists/plain/7lqCQF4uBXoqgAMN9Qp3GD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7lqCQF4uBXoqgAMN9Qp3GD)
+[pretty](/playlists/pretty/7lqCQF4uBXoqgAMN9Qp3GD.md) - cumulative - [plain](/playlists/plain/7lqCQF4uBXoqgAMN9Qp3GD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7lqCQF4uBXoqgAMN9Qp3GD)
 
 ### [A Special One](https://open.spotify.com/playlist/7lqCQF4uBXoqgAMN9Qp3GD)
 

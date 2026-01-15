@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXafnfRcoly0r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafnfRcoly0r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafnfRcoly0r)
+[pretty](/playlists/pretty/37i9dQZF1DXafnfRcoly0r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafnfRcoly0r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXafnfRcoly0r)
 
 ### [My Pets](https://open.spotify.com/playlist/37i9dQZF1DXafnfRcoly0r)
 

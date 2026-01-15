@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain](/playlists/plain/37i9dQZF1DX7EMLexEFdeT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7EMLexEFdeT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain](/playlists/plain/37i9dQZF1DX7EMLexEFdeT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7EMLexEFdeT)
 
 ### [Haunted](https://open.spotify.com/playlist/37i9dQZF1DX7EMLexEFdeT)
 
 > Did you hear that?
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,337 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,204 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

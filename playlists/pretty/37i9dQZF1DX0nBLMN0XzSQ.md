@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain](/playlists/plain/37i9dQZF1DX0nBLMN0XzSQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0nBLMN0XzSQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain](/playlists/plain/37i9dQZF1DX0nBLMN0XzSQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0nBLMN0XzSQ)
 
 ### [Après Ski Classics](https://open.spotify.com/playlist/37i9dQZF1DX0nBLMN0XzSQ)
 

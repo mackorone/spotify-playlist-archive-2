@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain](/playlists/plain/37i9dQZF1DXc7MyIrSeade) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc7MyIrSeade)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain](/playlists/plain/37i9dQZF1DXc7MyIrSeade) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc7MyIrSeade)
 
 ### [Best of Hiturile de azi 2025](https://open.spotify.com/playlist/37i9dQZF1DXc7MyIrSeade)
 
 > Cele mai bune piese pop ale anului 2025\. Cover: Delia
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,212 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,241 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 | 25 | [De ce te uiți așa?](https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [De ce te uiți așa?](https://open.spotify.com/album/6Qn7iJTooKGtVMw1g4epFT) | 2:23 |
 | 26 | [De\-ai fi în locul meu](https://open.spotify.com/track/0W7iBgUGjDNwBntExP0Gam) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW), [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [De\-ai fi în locul meu](https://open.spotify.com/album/1aLhlUceMXjCrePnXaMrCp) | 3:13 |
 | 27 | [Women Theory](https://open.spotify.com/track/4nwVWUZZlR93FBniXaKlu6) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Women Theory](https://open.spotify.com/album/6gitkSTyoLIwdpDbirpB0S) | 3:55 |
-| 28 | [Aer](https://open.spotify.com/track/2A9p4yIFJ3jHmqNZ0GSPh6) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Aer](https://open.spotify.com/album/3uMCrLbQ09OfbwQReNItOU) | 2:58 |
+| 28 | [Aer](https://open.spotify.com/track/2A9p4yIFJ3jHmqNZ0GSPh6) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Adi Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Aer](https://open.spotify.com/album/3uMCrLbQ09OfbwQReNItOU) | 2:58 |
 | 29 | [Don't Leave \- Kylie](https://open.spotify.com/track/3TcF1tFvOdhTUMIaCRBFbN) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don't Leave \(Kylie\)](https://open.spotify.com/album/3fr8O4xvV0CCAipaAkF8ZS) | 3:08 |
 | 30 | [Greu să fiu eu](https://open.spotify.com/track/6rfb7yQMf0VycQLoixk4vp) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Greu să fiu eu](https://open.spotify.com/album/2FA3dmwgcMiCKYa9bMlzaB) | 2:57 |
 | 31 | [Low](https://open.spotify.com/track/7jwx4OlEEbTJa2pyuGb6Ge) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Low](https://open.spotify.com/album/2JnEdN34AGlX3oS0WQsWHt) | 2:50 |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcKW8VlJappa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcKW8VlJappa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcKW8VlJappa)
+[pretty](/playlists/pretty/37i9dQZF1DXcKW8VlJappa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcKW8VlJappa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcKW8VlJappa)
 
 ### [Espresso Martini](https://open.spotify.com/playlist/37i9dQZF1DXcKW8VlJappa)
 

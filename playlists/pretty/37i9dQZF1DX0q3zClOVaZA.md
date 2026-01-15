@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q3zClOVaZA.md) - [plain](/playlists/plain/37i9dQZF1DX0q3zClOVaZA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0q3zClOVaZA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q3zClOVaZA.md) - [plain](/playlists/plain/37i9dQZF1DX0q3zClOVaZA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0q3zClOVaZA)
 
 ### [This Is ENHYPEN](https://open.spotify.com/playlist/37i9dQZF1DX0q3zClOVaZA)
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,171 likes - 122 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,897 likes - 122 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

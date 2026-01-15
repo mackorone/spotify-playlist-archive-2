@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lCCLlbjeRN.md) - [plain](/playlists/plain/37i9dQZF1DX5lCCLlbjeRN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5lCCLlbjeRN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lCCLlbjeRN.md) - [plain](/playlists/plain/37i9dQZF1DX5lCCLlbjeRN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5lCCLlbjeRN)
 
 ### [Canciones, Cuentos y Fabulas](https://open.spotify.com/playlist/37i9dQZF1DX5lCCLlbjeRN)
 
 > Canciones y cuentos de tus clásicos favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,581 likes - 59 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,754 likes - 59 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7jqNajNA9fn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7jqNajNA9fn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7jqNajNA9fn)
+[pretty](/playlists/pretty/37i9dQZF1DX7jqNajNA9fn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7jqNajNA9fn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7jqNajNA9fn)
 
 ### [Mixtape \#12 Moses Sumney "Back to 1993" ](https://open.spotify.com/playlist/37i9dQZF1DX7jqNajNA9fn)
 

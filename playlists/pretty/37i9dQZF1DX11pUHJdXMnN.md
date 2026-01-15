@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain](/playlists/plain/37i9dQZF1DX11pUHJdXMnN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX11pUHJdXMnN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain](/playlists/plain/37i9dQZF1DX11pUHJdXMnN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX11pUHJdXMnN)
 
 ### [Laser Disco](https://open.spotify.com/playlist/37i9dQZF1DX11pUHJdXMnN)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXby8tlLbzqaH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXby8tlLbzqaH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXby8tlLbzqaH)
+[pretty](/playlists/pretty/37i9dQZF1DXby8tlLbzqaH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXby8tlLbzqaH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXby8tlLbzqaH)
 
 ### [White Noise Baby Sleep](https://open.spotify.com/playlist/37i9dQZF1DXby8tlLbzqaH)
 

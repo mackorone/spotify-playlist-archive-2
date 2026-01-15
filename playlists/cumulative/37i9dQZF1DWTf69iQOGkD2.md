@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTf69iQOGkD2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTf69iQOGkD2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTf69iQOGkD2)
+[pretty](/playlists/pretty/37i9dQZF1DWTf69iQOGkD2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTf69iQOGkD2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTf69iQOGkD2)
 
 ### [Rap Acústico](https://open.spotify.com/playlist/37i9dQZF1DWTf69iQOGkD2)
 

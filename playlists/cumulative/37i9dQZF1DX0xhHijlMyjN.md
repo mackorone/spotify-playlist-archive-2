@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0xhHijlMyjN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0xhHijlMyjN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0xhHijlMyjN)
+[pretty](/playlists/pretty/37i9dQZF1DX0xhHijlMyjN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0xhHijlMyjN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0xhHijlMyjN)
 
 ### [Clásicos del Verano](https://open.spotify.com/playlist/37i9dQZF1DX0xhHijlMyjN)
 

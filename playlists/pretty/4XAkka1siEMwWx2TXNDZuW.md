@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain](/playlists/plain/4XAkka1siEMwWx2TXNDZuW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4XAkka1siEMwWx2TXNDZuW)
+pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain](/playlists/plain/4XAkka1siEMwWx2TXNDZuW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4XAkka1siEMwWx2TXNDZuW)
 
 ### [the backrooms](https://open.spotify.com/playlist/4XAkka1siEMwWx2TXNDZuW)
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-[paige](https://open.spotify.com/user/paigebethanyy) - 35,857 likes - 120 songs - 6 hr 11 min
+[paige](https://open.spotify.com/user/paigebethanyy) - 35,846 likes - 120 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

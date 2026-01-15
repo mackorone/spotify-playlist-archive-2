@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTIykNHRogOx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTIykNHRogOx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTIykNHRogOx)
+[pretty](/playlists/pretty/37i9dQZF1DWTIykNHRogOx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTIykNHRogOx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTIykNHRogOx)
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Luns
+> Les  meilleures nouveautés de la chanson française avec Waxx et Louane
 
-259 songs - 14 hr 22 min
+260 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Famille](https://open.spotify.com/track/4O7Da2WyihJIM282Gz4MiK) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/5rhxlNvBqpy9Xr4geJ8B8m) | 3:15 | 2025-01-30 | 2025-04-04 |
 | [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-10 | 2025-01-10 |
 | [Fille lacrymale](https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/4MrAsfTRnU0uLfnmZQTRMD) | 2:40 | 2025-01-09 | 2025-05-30 |
+| [Fleur bleue](https://open.spotify.com/track/7zJku7F9CPT7GLTZhZDbQB) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9), [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Fleur bleue](https://open.spotify.com/album/6MluDynjZukZXNQ82wbBNX) | 2:31 | 2026-01-08 |  |
 | [Flou](https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Flou](https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro) | 2:21 | 2025-01-16 | 2025-06-13 |
 | [fou](https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [réparer](https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu) | 2:36 | 2024-06-27 | 2024-10-18 |
 | [FVL](https://open.spotify.com/track/6Z07cvmuFdFHTcT7wtIVVu) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [FVL](https://open.spotify.com/album/05BrGpbesMwG2ObSrejFQQ) | 3:45 | 2024-06-27 | 2024-10-04 |
@@ -261,7 +262,7 @@
 | [à l'étroit dans ma peau](https://open.spotify.com/track/0IncMVyy8wiDGCxrTAATH8) | [SLOŃ](https://open.spotify.com/artist/2jphCk584Xja5K2n5cmfKy) | [à l'étroit dans ma peau](https://open.spotify.com/album/1D0QZFKupUcaEckobnSHix) | 3:30 | 2025-10-16 |  |
 | [À l'évidence](https://open.spotify.com/track/159HSchugulB4yPCx1SaI1) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/2AYSNL50EMcJssFacKZdZn) | 2:45 | 2024-08-29 | 2024-11-22 |
 | [À quoi tu penses ?](https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ) | [À quoi tu penses ?](https://open.spotify.com/album/4OBljJluufDECpKXqDs27P) | 3:20 | 2025-01-30 | 2025-07-11 |
-| [Ça ne saurait tarder](https://open.spotify.com/track/1aOR6tifyYNqMBFgOljtHv) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Ça ne saurait tarder](https://open.spotify.com/album/5nMycdHbuXuCDaPzcq22Tc) | 4:57 | 2025-09-04 |  |
+| [Ça ne saurait tarder](https://open.spotify.com/track/1aOR6tifyYNqMBFgOljtHv) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Ça ne saurait tarder](https://open.spotify.com/album/5nMycdHbuXuCDaPzcq22Tc) | 4:57 | 2025-09-04 | 2026-01-15 |
 | [Ça va](https://open.spotify.com/track/5bQf0GkvmAvsVIq9iocbn9) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Ça va](https://open.spotify.com/album/28H5Pp4wCwxWkGv15589Nl) | 3:14 | 2025-08-28 | 2025-12-12 |
 | [Éclaircie sur le jardin](https://open.spotify.com/track/0v7FZArmGHq8hWP4pJPYIY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [L’impermanence](https://open.spotify.com/album/68UALG5MqVdnpHfeOsMHtN) | 2:25 | 2024-12-05 | 2025-01-31 |
 | [Été 19](https://open.spotify.com/track/2ZQkK63KQfTp9PzUH9bgok) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Une autre vie](https://open.spotify.com/album/3kOhzA5Vb2pp8nPf1BR1iA) | 2:59 | 2024-11-21 | 2025-01-17 |

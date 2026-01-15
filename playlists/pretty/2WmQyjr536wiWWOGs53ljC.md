@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2WmQyjr536wiWWOGs53ljC.md) - [plain](/playlists/plain/2WmQyjr536wiWWOGs53ljC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2WmQyjr536wiWWOGs53ljC)
+pretty - [cumulative](/playlists/cumulative/2WmQyjr536wiWWOGs53ljC.md) - [plain](/playlists/plain/2WmQyjr536wiWWOGs53ljC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2WmQyjr536wiWWOGs53ljC)
 
 ### [VAMPIRES ARE FOREVER \| 2024](https://open.spotify.com/playlist/2WmQyjr536wiWWOGs53ljC)
 

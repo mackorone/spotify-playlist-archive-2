@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMCcMvVNsy9.md) - [plain](/playlists/plain/37i9dQZF1DWYMCcMvVNsy9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYMCcMvVNsy9)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMCcMvVNsy9.md) - [plain](/playlists/plain/37i9dQZF1DWYMCcMvVNsy9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYMCcMvVNsy9)
 
 ### [Lies & Weddings Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWYMCcMvVNsy9)
 
 > With the release of <a href="spotify:show:6lIui701UGlgFROb4kuHqz">Lies & Weddings</a>, international bestselling author Kevin Kwan handpicks his soundtrack to accompany the highly anticipated book.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,642 likes - 30 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,704 likes - 30 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

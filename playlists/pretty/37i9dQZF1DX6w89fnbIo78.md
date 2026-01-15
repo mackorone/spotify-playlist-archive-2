@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6w89fnbIo78.md) - [plain](/playlists/plain/37i9dQZF1DX6w89fnbIo78) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6w89fnbIo78)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6w89fnbIo78.md) - [plain](/playlists/plain/37i9dQZF1DX6w89fnbIo78) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6w89fnbIo78)
 
 ### [The Electric State Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6w89fnbIo78)
 
 > Rage with the machines\. Listen to the music from The Electric State, streaming now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,369 likes - 12 songs - 45 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,467 likes - 12 songs - 45 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

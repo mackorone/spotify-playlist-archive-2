@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0sa2Fqej3CR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0sa2Fqej3CR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0sa2Fqej3CR)
+[pretty](/playlists/pretty/37i9dQZF1DX0sa2Fqej3CR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0sa2Fqej3CR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0sa2Fqej3CR)
 
 ### [어서와 2026 !](https://open.spotify.com/playlist/37i9dQZF1DX0sa2Fqej3CR)
 
 > 긍정적이고 밝은 기운 가득한 음악들과 함께 행복한 새해를 맞이하세요!
 
-442 songs - 1 day 1 hr 59 min
+446 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-26 | 2022-10-13 |
 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 | 2025-01-06 |  |
 | [At That Moment](https://open.spotify.com/track/0CB3B5ir8I2KbB3dkGVtWF) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:42 | 2022-07-11 | 2023-06-14 |
+| [ATHENA](https://open.spotify.com/track/6bvaxaTfeRpavgZXK1pAsn) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [LIFE!](https://open.spotify.com/album/3zWbSsJGEKpopxdKjQphiC) | 4:19 | 2026-01-06 |  |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-12 | 2023-09-21 |
 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-06-17 | 2024-07-10 |
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-01-31 | 2023-09-28 |
@@ -230,6 +231,7 @@
 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 | 2022-05-11 | 2022-08-13 |
 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 | 2024-06-13 | 2024-06-18 |
 | [Lovesick Girls](https://open.spotify.com/track/0u5FYJWJLcLzSN9S1Wb2ag) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/4DrS5uqr2LBqfTF5nsRtyT) | 3:12 | 2022-05-11 | 2022-06-03 |
+| [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 | 2026-01-06 |  |
 | [Mama](https://open.spotify.com/track/6fr0IxOEP30oSL0xHdzm4K) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [DESTINY](https://open.spotify.com/album/6QXXHoQo4VxMuoZQlL1tK1) | 4:42 | 2024-08-29 | 2025-08-21 |
 | [MAMA DON'T WORRY](https://open.spotify.com/track/6OlBrkfk1xnx2N350Ib8aP) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/0etVkROh5WOl6OdYqRHPP9) | 4:05 | 2024-08-29 | 2025-08-21 |
 | [Mama's dream](https://open.spotify.com/track/4kuD6aEWQCiflEUYvre769) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Mama's dream](https://open.spotify.com/album/1RswNioD0fOrZ1J6IWpVqe) | 4:22 | 2024-08-29 | 2025-08-21 |
@@ -379,6 +381,7 @@
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2025-08-19 | 2025-12-27 |
 | [Trust Me, Mom!](https://open.spotify.com/track/031ZYKEP6rpRKkSNwRvjbK) | [Seenroot](https://open.spotify.com/artist/2IIbaTqQJ6jNnOxygfnOUy) | [Seenroot's Wonderland](https://open.spotify.com/album/2jpYDOlZPBWm1a363LwM5b) | 3:58 | 2024-08-29 | 2025-08-21 |
 | [Twenty\-Five](https://open.spotify.com/track/4tB1zugUyH7nEuZiYz1Sbw) | [Song Ji Eun](https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8) | [25 \(스물 다섯\)](https://open.spotify.com/album/0dHsaDASfNkFnjgmQjMWzu) | 3:25 | 2025-01-06 | 2025-05-02 |
+| [Twenty\-Five](https://open.spotify.com/track/7IBv83rhYvNoTEZBJEmdu7) | [Song Ji Eun](https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8) | [25 \(Twenty\-Five\)](https://open.spotify.com/album/49duLXWjUv4Gw45WZGxw8b) | 3:25 | 2026-01-06 |  |
 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 | 2024-07-09 | 2024-08-30 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-03 | 2024-06-14 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-29 | 2022-10-13 |
@@ -422,6 +425,7 @@
 | [가족 Family](https://open.spotify.com/track/3vsSOp6L9Rp6vjTK3IB7R6) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [Cycle](https://open.spotify.com/album/0zlVYKz8cb3o6P5nT3DKzI) | 5:37 | 2024-08-29 | 2025-08-21 |
 | [가족사진 \(완전 남자다잉\~ 성년의 날\) \- Live Version](https://open.spotify.com/track/0MCGFl7NEJRhZlHDZZPhAU) | [박승일](https://open.spotify.com/artist/4OnuGzXM7Uba4B8XPZeMnD) | [Mask Singer 154Th](https://open.spotify.com/album/1RpHPtcOzsnNKEV8LAFrfV) | 5:01 | 2024-08-29 | 2025-08-21 |
 | [가족을 찾아서](https://open.spotify.com/track/3FWGxaKZq2AccX0Xnv62B5) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [신의 놀이](https://open.spotify.com/album/3T9MD1VuRHcGF1GPaCtf1T) | 4:05 | 2024-08-29 | 2025-08-21 |
+| [날아라! 드림라이더 Dream Rider](https://open.spotify.com/track/1j7snGbBwSspkycGNu1tqH) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/7MGEb2kSPjn7izDAul5bAh) | 3:04 | 2026-01-06 |  |
 | [내 어머니 My Mother](https://open.spotify.com/track/0jM7TaipWWCUFEXnni1GS3) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [My Story](https://open.spotify.com/album/3rXoEB69otZtclVhm9r7J2) | 4:04 | 2024-08-29 | 2025-08-21 |
 | [내일이 있잖아 \(Feat\. Jayci yucca\)](https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [내일이 있잖아](https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb) | 3:02 | 2025-01-06 |  |
 | [돌덩이](https://open.spotify.com/track/6A9QEWYXpXLMeJLRjGsIJ1) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/5C4yOEsxV7n42RnBanLO2u) | 3:29 | 2025-01-06 |  |

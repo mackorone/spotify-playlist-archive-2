@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXv0oqj7VoL4.md) - [plain](/playlists/plain/37i9dQZF1DWXv0oqj7VoL4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXv0oqj7VoL4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXv0oqj7VoL4.md) - [plain](/playlists/plain/37i9dQZF1DWXv0oqj7VoL4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXv0oqj7VoL4)
 
 ### [Dr.STONE](https://open.spotify.com/playlist/37i9dQZF1DWXv0oqj7VoL4)
 
 > Music from "Dr.STONE" /「Dr.STONE」の楽曲を1つのプレイリストで。©米スタジオ・Boichi／集英社・Dr.STONE製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,133 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,286 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

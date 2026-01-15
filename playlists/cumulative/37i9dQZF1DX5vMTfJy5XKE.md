@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5vMTfJy5XKE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5vMTfJy5XKE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5vMTfJy5XKE)
+[pretty](/playlists/pretty/37i9dQZF1DX5vMTfJy5XKE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5vMTfJy5XKE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5vMTfJy5XKE)
 
 ### [New Music Holiday](https://open.spotify.com/playlist/37i9dQZF1DX5vMTfJy5XKE)
 
@@ -919,7 +919,7 @@
 | [The Greatest Gift of All](https://open.spotify.com/track/7vNWFxoneN7EThFczOurty) | [Bryce Leatherwood](https://open.spotify.com/artist/4Au65v4b1yArf799wHdABT) | [The Greatest Gift of All](https://open.spotify.com/album/6pl6KkMOjNXl7ubnLV1SBF) | 3:45 | 2025-12-16 |  |
 | [The Hardest Christmas](https://open.spotify.com/track/5UE1Wiv2PcmKq9I9lDNLeO) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Dani Doucette](https://open.spotify.com/artist/2alhJ7s3IXafk9N2mGHYF2) | [The Hardest Christmas](https://open.spotify.com/album/5iXtKVgQ7IEDiP2Tbfrbf1) | 3:30 | 2024-12-13 | 2025-09-27 |
 | [The Holiday](https://open.spotify.com/track/2aWmQcurJFRGUVQTecrNEg) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [The Holiday](https://open.spotify.com/album/5fVkqNE9160ANYbXGkLijQ) | 3:03 | 2021-12-24 | 2022-09-28 |
-| [The Holiday](https://open.spotify.com/track/20pP3XAQUyd8lTgdwKB3Nc) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [The Holiday](https://open.spotify.com/album/6Y7ATU10sypGIp7X0uDNaj) | 4:00 | 2025-11-14 |  |
+| [The Holiday \- Acoustic](https://open.spotify.com/track/20pP3XAQUyd8lTgdwKB3Nc) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [The Holiday](https://open.spotify.com/album/6Y7ATU10sypGIp7X0uDNaj) | 4:00 | 2025-11-14 |  |
 | [The Holiday Countdown](https://open.spotify.com/track/5MKnDghO0ccpjHIsb76YSw) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [The Holiday Countdown](https://open.spotify.com/album/7bflHThPUGJiUHvREdygFB) | 2:13 | 2025-10-31 |  |
 | [The Holidays Are Cancelled](https://open.spotify.com/track/79tX8D8ZdcvXiUdTDiWYT2) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [The Holidays Are Cancelled](https://open.spotify.com/album/78XHfK44MkF5bs4qq6u6Ah) | 3:44 | 2021-12-24 | 2022-07-29 |
 | [The Holly and the Ivy](https://open.spotify.com/track/4qE4NPTb1CKIPXhP3ef7sR) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [The Holly and the Ivy](https://open.spotify.com/album/6T1sk0GrAb5KF9eI019MsD) | 2:55 | 2025-10-24 |  |

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/4ZIfP7ACey6M5BBLTfmOBW.md) - cumulative - [plain](/playlists/plain/4ZIfP7ACey6M5BBLTfmOBW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ZIfP7ACey6M5BBLTfmOBW)
+[pretty](/playlists/pretty/4ZIfP7ACey6M5BBLTfmOBW.md) - cumulative - [plain](/playlists/plain/4ZIfP7ACey6M5BBLTfmOBW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4ZIfP7ACey6M5BBLTfmOBW)
 
 ### [Fresh Hip Hop](https://open.spotify.com/playlist/4ZIfP7ACey6M5BBLTfmOBW)
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-865 songs - 1 day 16 hr 17 min
+868 songs - 1 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Little Foot Big Foot \(feat\. Young Nudy\)](https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:46 | 2024-05-21 | 2024-09-04 |
 | [Little Ray Of Light](https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Little Ray Of Light](https://open.spotify.com/album/1XwroIKwbqFmy2MHBjoIzU) | 2:59 | 2025-03-14 | 2025-05-03 |
 | [LMK](https://open.spotify.com/track/005VuwsJ7nIkFtoZnRxehn) | [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [LMK](https://open.spotify.com/album/3w2HCnZtc8WVVmiNSresh6) | 3:10 | 2025-05-02 | 2025-06-21 |
+| [Loitering \(ft\. Kodak Black\)](https://open.spotify.com/track/1jMhBGKs5FSWcFSqXOlyW9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [d00mscrvll](https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [d00mscrvll](https://open.spotify.com/album/7oopgknSuc08RQ5jR0aBjy) | 2:40 | 2026-01-09 |  |
 | [London](https://open.spotify.com/track/1JBO94PcFFU28q3ApaONq0) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 2:46 | 2025-09-02 | 2025-09-09 |
 | [Lonely Dirt Road](https://open.spotify.com/track/6d0g54JbUGZvRBGMh4cmmJ) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [Lonely Dirt Road \(feat\. Maverick City Music and Nick Day\)](https://open.spotify.com/album/2c6G5kgUjQO93Q7WbMbCmP) | 4:11 | 2025-05-09 | 2025-07-19 |
 | [Long Shore](https://open.spotify.com/track/6ZMruIlWk6C0K436qyMiF9) | [Boutique Feelings](https://open.spotify.com/artist/1wSkmk81jwCySSS51ZSBUI) | [Long Shore](https://open.spotify.com/album/2ve1hY9zaKxHdrCh3SCdCz) | 3:07 | 2025-09-26 | 2025-11-29 |
@@ -556,6 +557,7 @@
 | [No More Heroes](https://open.spotify.com/track/47XV8Js6lsAPdT0W90eFKZ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [No More Heroes](https://open.spotify.com/album/2aM0jFwChVIDIIpF6hUO0t) | 2:24 | 2024-11-29 | 2025-02-22 |
 | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM) | 2:42 | 2024-09-06 | 2024-10-26 |
 | [No Regrets](https://open.spotify.com/track/6lLegrM5ziS3qspdvtIlYd) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J), [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0) | [No Regrets](https://open.spotify.com/album/4EDyZprFOwY5ARjXiGLG1D) | 2:47 | 2025-12-12 |  |
+| [no rush \(feat\. Gunna\)](https://open.spotify.com/track/6bt8HEuGb0LuNQJ2toYs5z) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [no rush \(feat\. Gunna\)](https://open.spotify.com/album/0ntzQL5QKJ6GMZkPFsz6fn) | 2:04 | 2026-01-09 |  |
 | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT) | 3:31 | 2025-08-08 | 2025-11-22 |
 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/6CFtKlUG02HhCEySHm2yuj) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\) \[Extended\]](https://open.spotify.com/album/7ikMBbBakjjHKp3ETNd64E) | 2:51 | 2024-07-05 | 2024-09-07 |
 | [No Way](https://open.spotify.com/track/3B5YN7UlcKAsDUN0q1xQ10) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [No Way](https://open.spotify.com/album/72pvhpXx4o1DZhjB2zTZzB) | 1:46 | 2024-12-13 | 2025-02-15 |
@@ -628,6 +630,7 @@
 | [Problems \(feat\. Pusha T\)](https://open.spotify.com/track/0MtL7xAEQuJJ4WQZmxzsCw) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Problems \(feat\. Pusha T\)](https://open.spotify.com/album/4cM7zQFczDyOJSNIr97e1j) | 3:46 | 2024-02-23 | 2024-05-04 |
 | [PROTECT THE CROSS](https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [PROTECT THE CROSS](https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm) | 2:49 | 2025-01-24 | 2025-03-08 |
 | [psych ward](https://open.spotify.com/track/1H8KqQB7p2pqSg4cGYTNMK) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [via crucis](https://open.spotify.com/album/1vLWWwioeRV3DSCj2SB9Ra) | 3:05 | 2025-04-21 | 2025-05-31 |
+| [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-01-09 |  |
 | [Purge](https://open.spotify.com/track/7zjOLqDc8l93vneZGva34P) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [If You Feel Lost](https://open.spotify.com/album/57ouj07UylieYoOrEPHxGt) | 2:01 | 2025-03-21 | 2025-05-03 |
 | [Putting Ya Dine](https://open.spotify.com/track/3C9H7htrTDVHrP8BiB2f2r) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Putting Ya Dine](https://open.spotify.com/album/1EfvRoD67Fh0xHvMfeFrGo) | 2:59 | 2025-09-02 | 2025-09-27 |
 | [Putting Ya Dine](https://open.spotify.com/track/57TSLzWfZdQroiwtIFX97X) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:59 | 2025-10-17 |  |

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIjPTO9UrdW.md) - [plain](/playlists/plain/37i9dQZF1DWZIjPTO9UrdW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZIjPTO9UrdW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIjPTO9UrdW.md) - [plain](/playlists/plain/37i9dQZF1DWZIjPTO9UrdW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZIjPTO9UrdW)
 
 ### [Wedding Cocktail Jazz](https://open.spotify.com/playlist/37i9dQZF1DWZIjPTO9UrdW)
 

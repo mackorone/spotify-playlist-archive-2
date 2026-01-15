@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1Htq6RhM8B9MgMXdwqgPxW.md) - [plain](/playlists/plain/1Htq6RhM8B9MgMXdwqgPxW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1Htq6RhM8B9MgMXdwqgPxW)
+pretty - [cumulative](/playlists/cumulative/1Htq6RhM8B9MgMXdwqgPxW.md) - [plain](/playlists/plain/1Htq6RhM8B9MgMXdwqgPxW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1Htq6RhM8B9MgMXdwqgPxW)
 
 ### [Fresh Jazz \| The New Vanguard](https://open.spotify.com/playlist/1Htq6RhM8B9MgMXdwqgPxW)
 

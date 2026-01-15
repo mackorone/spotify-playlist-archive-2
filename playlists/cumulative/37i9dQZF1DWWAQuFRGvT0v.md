@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWAQuFRGvT0v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWAQuFRGvT0v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWAQuFRGvT0v)
+[pretty](/playlists/pretty/37i9dQZF1DWWAQuFRGvT0v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWAQuFRGvT0v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWAQuFRGvT0v)
 
 ### [KISS OF LIFE WORLD TOUR \[KISS ROAD\]](https://open.spotify.com/playlist/37i9dQZF1DWWAQuFRGvT0v)
 

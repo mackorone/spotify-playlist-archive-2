@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain](/playlists/plain/37i9dQZF1DWTJgU1HZwJwV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTJgU1HZwJwV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain](/playlists/plain/37i9dQZF1DWTJgU1HZwJwV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTJgU1HZwJwV)
 
 ### [Coffee House Guitar](https://open.spotify.com/playlist/37i9dQZF1DWTJgU1HZwJwV)
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,835 likes - 140 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,250 likes - 140 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

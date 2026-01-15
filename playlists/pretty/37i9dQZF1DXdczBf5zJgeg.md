@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdczBf5zJgeg.md) - [plain](/playlists/plain/37i9dQZF1DXdczBf5zJgeg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdczBf5zJgeg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdczBf5zJgeg.md) - [plain](/playlists/plain/37i9dQZF1DXdczBf5zJgeg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdczBf5zJgeg)
 
 ### [They Cloned Tyrone Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdczBf5zJgeg)
 
 > Damn...Listen to the music from and inspired by They Cloned Tyrone, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,760 likes - 29 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,806 likes - 29 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

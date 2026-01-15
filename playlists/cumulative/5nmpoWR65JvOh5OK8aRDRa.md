@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5nmpoWR65JvOh5OK8aRDRa.md) - cumulative - [plain](/playlists/plain/5nmpoWR65JvOh5OK8aRDRa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5nmpoWR65JvOh5OK8aRDRa)
+[pretty](/playlists/pretty/5nmpoWR65JvOh5OK8aRDRa.md) - cumulative - [plain](/playlists/plain/5nmpoWR65JvOh5OK8aRDRa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5nmpoWR65JvOh5OK8aRDRa)
 
 ### [2019 Mini Cooper Clubman](https://open.spotify.com/playlist/5nmpoWR65JvOh5OK8aRDRa)
 

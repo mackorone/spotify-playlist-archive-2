@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain](/playlists/plain/37i9dQZF1DX2sQHbtx0sdt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2sQHbtx0sdt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain](/playlists/plain/37i9dQZF1DX2sQHbtx0sdt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2sQHbtx0sdt)
 
 ### [Best Of Global Hip\-Hop 2025](https://open.spotify.com/playlist/37i9dQZF1DX2sQHbtx0sdt)
 
 > Our picks for the best global hip\-hop songs this year\. Cover: EsDeeKid 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,810 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,206 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

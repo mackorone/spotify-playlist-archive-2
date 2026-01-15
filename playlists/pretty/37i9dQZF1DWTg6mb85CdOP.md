@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain](/playlists/plain/37i9dQZF1DWTg6mb85CdOP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTg6mb85CdOP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain](/playlists/plain/37i9dQZF1DWTg6mb85CdOP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTg6mb85CdOP)
 
 ### [MEXIMALISMO](https://open.spotify.com/playlist/37i9dQZF1DWTg6mb85CdOP)
 
 > más es más\. FLVCKKA y Régulo Caro lo saben.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,590 likes - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,598 likes - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

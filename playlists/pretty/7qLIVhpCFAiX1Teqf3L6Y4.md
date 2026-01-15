@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7qLIVhpCFAiX1Teqf3L6Y4.md) - [plain](/playlists/plain/7qLIVhpCFAiX1Teqf3L6Y4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7qLIVhpCFAiX1Teqf3L6Y4)
+pretty - [cumulative](/playlists/cumulative/7qLIVhpCFAiX1Teqf3L6Y4.md) - [plain](/playlists/plain/7qLIVhpCFAiX1Teqf3L6Y4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7qLIVhpCFAiX1Teqf3L6Y4)
 
 ### [Happy Birthday Cheryl!](https://open.spotify.com/playlist/7qLIVhpCFAiX1Teqf3L6Y4)
 

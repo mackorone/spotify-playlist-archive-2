@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain](/playlists/plain/37i9dQZF1DX6JcLkkShqRw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6JcLkkShqRw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain](/playlists/plain/37i9dQZF1DX6JcLkkShqRw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6JcLkkShqRw)
 
 ### [Flow al Sur](https://open.spotify.com/playlist/37i9dQZF1DX6JcLkkShqRw)
 

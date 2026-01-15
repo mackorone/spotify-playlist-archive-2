@@ -3085,6 +3085,32 @@
     },
     {
       "album": {
+        "name": "SORPRAIS",
+        "url": "https://open.spotify.com/album/4Z7qxWoywFKtAPnbZ8x64w"
+      },
+      "artists": [
+        {
+          "name": "EST\u00c9REO FAM",
+          "url": "https://open.spotify.com/artist/6jeSza4zrBFTWtwvMEAVan"
+        },
+        {
+          "name": "MC Piri",
+          "url": "https://open.spotify.com/artist/5W7vbxMex5UtO8ugjXZvwp"
+        },
+        {
+          "name": "Semillah Skillz",
+          "url": "https://open.spotify.com/artist/2uFdkDzuib4OBkfNECkc59"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187562,
+      "name": "LUNA LLENA",
+      "url": "https://open.spotify.com/track/72Ldu7eqNDaJNs55JjlPxd"
+    },
+    {
+      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
@@ -3372,6 +3398,28 @@
       "duration_ms": 154000,
       "name": "MEN\u00da - Radio Edit",
       "url": "https://open.spotify.com/track/2IHEDJAnIppmhNtkTdXItU"
+    },
+    {
+      "album": {
+        "name": "Mesera",
+        "url": "https://open.spotify.com/album/42ggfZSRFICsjBcBeV7K0G"
+      },
+      "artists": [
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        },
+        {
+          "name": "Neeus",
+          "url": "https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163018,
+      "name": "Mesera",
+      "url": "https://open.spotify.com/track/74sHaZwjnhnkE3pIxHpmpf"
     },
     {
       "album": {

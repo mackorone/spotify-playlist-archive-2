@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 214611,
+  "num_followers": 215521,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKlxvOgM1URzsBlqEXTulimWK4Qv",
+  "snapshot_id": "AAAAAOA4ZxwcUPgPYLscHLueFPgVaWU5",
   "tracks": [
     {
       "added_at": "2026-01-05 19:29:05",
@@ -292,7 +292,7 @@
       "added_at": "2026-01-05 19:29:05",
       "album": {
         "name": "El Payaso",
-        "url": "https://open.spotify.com/album/7nEa4qa8Bcfc993KotJYaB"
+        "url": "https://open.spotify.com/album/1IDb4xJUubJpvtp9oqCnQE"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 180382,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/1eIIZzMC0NDHTbjScOYees"
+      "duration_ms": 199276,
+      "name": "El Payaso",
+      "url": "https://open.spotify.com/track/01jyuuM0sA6EkRVqemjDyY"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -348,41 +348,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 193886,
-      "name": "El Patas Blancas",
-      "url": "https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
-        "name": "La Leona y El Carcomido",
-        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 153478,
-      "name": "La Leona y El Carcomido",
-      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
-        "name": "El Payaso",
-        "url": "https://open.spotify.com/album/1IDb4xJUubJpvtp9oqCnQE"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 199276,
-      "name": "El Payaso",
-      "url": "https://open.spotify.com/track/01jyuuM0sA6EkRVqemjDyY"
+      "duration_ms": 190426,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/4xePDYKZKvxWNudB8ghgyA"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -399,6 +367,38 @@
       "duration_ms": 183297,
       "name": "Cuando Muri\u00f3 Mi Caballo",
       "url": "https://open.spotify.com/track/151XSjgdoUP9y0Hh7axniG"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "El Payaso",
+        "url": "https://open.spotify.com/album/7nEa4qa8Bcfc993KotJYaB"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 180382,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/1eIIZzMC0NDHTbjScOYees"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "La Leona y El Carcomido",
+        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 153478,
+      "name": "La Leona y El Carcomido",
+      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 190426,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/4xePDYKZKvxWNudB8ghgyA"
+      "duration_ms": 193886,
+      "name": "El Patas Blancas",
+      "url": "https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -515,18 +515,18 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "Corridos Finos III",
-        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
+        "name": "El Quemado",
+        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
       },
       "artists": [
         {
-          "name": "Oscar Solis Y Su Banda Magistral",
-          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
+          "name": "Beto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
         }
       ],
-      "duration_ms": 222020,
-      "name": "El Nuevo Comandante",
-      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
+      "duration_ms": 138130,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+        "name": "Corridos Finos III",
+        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
       },
       "artists": [
         {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+          "name": "Oscar Solis Y Su Banda Magistral",
+          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
         }
       ],
-      "duration_ms": 199613,
-      "name": "El Texano y el Machete",
-      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
+      "duration_ms": 222020,
+      "name": "El Nuevo Comandante",
+      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "El Quemado",
-        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
-      },
-      "artists": [
-        {
-          "name": "Beto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
-        }
-      ],
-      "duration_ms": 138130,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
         "name": "El Rey De Los Coleaderos",
         "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 185880,
       "name": "El Rey De Los Coleaderos",
       "url": "https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "El Texano y el Machete",
+      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "El Demonio",
-      "url": "https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
         "name": "Se\u00f1orita de a Caballo",
         "url": "https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 222226,
       "name": "Se\u00f1orita de a Caballo",
       "url": "https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "El Demonio",
+      "url": "https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 276760,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
         "name": "El cantador (En vivo)",
         "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 200093,
       "name": "El cantador - En vivo",
       "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 276760,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
+        "name": "Corrido Del Payaso",
+        "url": "https://open.spotify.com/album/19QGORyAWxv1otHdogexYD"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 182537,
+      "name": "Corrido del Talacho",
+      "url": "https://open.spotify.com/track/5PKIKIYsX7zO9ngOpTv8GT"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
         "name": "El Caballo Y El Carro",
         "url": "https://open.spotify.com/album/75EWNBFkYJwiNgFXiEC63e"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "La Panchita",
-        "url": "https://open.spotify.com/album/0ktWMB5Izd6Ax1Fayr0zeS"
-      },
-      "artists": [
-        {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "La Panchita",
-      "url": "https://open.spotify.com/track/1YjvbrHnhh2sHt1xMzXcQq"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
         "name": "Joan Sebastian Con Tambora (Vol. 3)",
         "url": "https://open.spotify.com/album/7L7ikrl8D5MM1xfi76KI2q"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 278058,
       "name": "Manuel Juarez",
       "url": "https://open.spotify.com/track/42RbwgUrgljhwMM3ZWMYJn"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "La Panchita",
+        "url": "https://open.spotify.com/album/0ktWMB5Izd6Ax1Fayr0zeS"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "La Panchita",
+      "url": "https://open.spotify.com/track/1YjvbrHnhh2sHt1xMzXcQq"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "Corrido Del Payaso",
-        "url": "https://open.spotify.com/album/19QGORyAWxv1otHdogexYD"
-      },
-      "artists": [
-        {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
-        }
-      ],
-      "duration_ms": 182537,
-      "name": "Corrido del Talacho",
-      "url": "https://open.spotify.com/track/5PKIKIYsX7zO9ngOpTv8GT"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
         "name": "One Dashing Eagle",
         "url": "https://open.spotify.com/album/1Vhtuz6IdryKO4crutpm9y"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 224129,
       "name": "One Dashing Eagle",
       "url": "https://open.spotify.com/track/3PtzZYnDamHnif0I6DtcLw"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "Corrido Del Payaso",
+        "url": "https://open.spotify.com/album/19QGORyAWxv1otHdogexYD"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 205218,
+      "name": "El Regalo",
+      "url": "https://open.spotify.com/track/5yadNRAO8fe2SDLHzMwmsX"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "Corrido Del Payaso",
-        "url": "https://open.spotify.com/album/19QGORyAWxv1otHdogexYD"
-      },
-      "artists": [
-        {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
-        }
-      ],
-      "duration_ms": 205218,
-      "name": "El Regalo",
-      "url": "https://open.spotify.com/track/5yadNRAO8fe2SDLHzMwmsX"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
         "name": "Amanecida Con Todo Y Con Todos",
         "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
       },
@@ -1103,6 +1103,26 @@
       "duration_ms": 165341,
       "name": "Mi Caballo Pobre",
       "url": "https://open.spotify.com/track/4wW1Xvbfwmq8CMJdjoR4fg"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/4ZkNYJMP6iLQobERrLiwqt"
+      },
+      "artists": [
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "El Dorado",
+      "url": "https://open.spotify.com/track/1FeAh9QTsAuzP7gG7nSgKf"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -1155,26 +1175,6 @@
       "duration_ms": 168746,
       "name": "Donde Estara Mi Caballo",
       "url": "https://open.spotify.com/track/5GukrCjab9vqMBNV6YKqSd"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/4ZkNYJMP6iLQobERrLiwqt"
-      },
-      "artists": [
-        {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        },
-        {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "El Dorado",
-      "url": "https://open.spotify.com/track/1FeAh9QTsAuzP7gG7nSgKf"
     }
   ],
   "unique_name": "Corridos de Caballos",

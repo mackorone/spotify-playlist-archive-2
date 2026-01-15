@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain](/playlists/plain/37i9dQZF1DWY7SO3HC2gxu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY7SO3HC2gxu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain](/playlists/plain/37i9dQZF1DWY7SO3HC2gxu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY7SO3HC2gxu)
 
 ### [Oontz](https://open.spotify.com/playlist/37i9dQZF1DWY7SO3HC2gxu)
 
 > Best blends of Electronic music across Africa\. Cover: Foozak
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,097 likes - 99 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,126 likes - 99 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

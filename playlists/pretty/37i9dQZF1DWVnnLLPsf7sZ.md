@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnnLLPsf7sZ.md) - [plain](/playlists/plain/37i9dQZF1DWVnnLLPsf7sZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVnnLLPsf7sZ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnnLLPsf7sZ.md) - [plain](/playlists/plain/37i9dQZF1DWVnnLLPsf7sZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVnnLLPsf7sZ)
 
 ### [We The People](https://open.spotify.com/playlist/37i9dQZF1DWVnnLLPsf7sZ)
 
 > The official playlist for We The People, streaming on Netflix July 4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,243 likes - 15 songs - 47 min 35 sec
+[Spotify](https://open.spotify.com/user/spotify) - 17,258 likes - 15 songs - 47 min 35 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

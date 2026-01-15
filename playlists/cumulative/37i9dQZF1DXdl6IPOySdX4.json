@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148000,
       "name": "Control",
       "url": "https://open.spotify.com/track/0KCwFsHGuFvg9jZ6OteGav"
@@ -3866,7 +3866,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140669,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/5lsqoAqRnzpkDze5iy3VxL"
@@ -4256,6 +4256,24 @@
       "duration_ms": 126447,
       "name": "how could u love somebody like me?",
       "url": "https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ"
+    },
+    {
+      "album": {
+        "name": "How Many Times?",
+        "url": "https://open.spotify.com/album/4tvMSm80LSthlreLWgbzvM"
+      },
+      "artists": [
+        {
+          "name": "Dyce",
+          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169897,
+      "name": "How Many Times?",
+      "url": "https://open.spotify.com/track/57nKcZqsl20G6Uy8LDZPLR"
     },
     {
       "album": {
@@ -4846,6 +4864,24 @@
       "duration_ms": 199111,
       "name": "Is There Someone Else?",
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+    },
+    {
+      "album": {
+        "name": "Rivalry / It's You (from \"Heated Rivalry\" Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240491,
+      "name": "It's You - from \"Heated Rivalry\"",
+      "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
     },
     {
       "album": {
@@ -6575,11 +6611,11 @@
       "artists": [
         {
           "name": "zandros",
-          "url": "https://open.spotify.com/artist/1B8bmDohVeLFA29qk5E9K9"
+          "url": "https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q"
         },
         {
           "name": "Limi",
-          "url": "https://open.spotify.com/artist/0SWsW6rjaDtlWFcSNKtY7s"
+          "url": "https://open.spotify.com/artist/2SPIThivWqjfsjlYPNxYX9"
         }
       ],
       "date_added": "2024-01-26",

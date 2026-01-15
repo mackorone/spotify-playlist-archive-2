@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain](/playlists/plain/37i9dQZF1DX6z20IXmBjWI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6z20IXmBjWI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain](/playlists/plain/37i9dQZF1DX6z20IXmBjWI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6z20IXmBjWI)
 
 ### [Infinite Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX6z20IXmBjWI)
 

@@ -158,7 +158,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223052,
       "name": "All of the Good",
       "url": "https://open.spotify.com/track/6PWhKZWaezQ22Hg756oCOG"
@@ -1160,6 +1160,24 @@
       "duration_ms": 356146,
       "name": "Lose My Cool,",
       "url": "https://open.spotify.com/track/54Z2Nr6JA67vqyNAWVYlBD"
+    },
+    {
+      "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206526,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/10JsYPcjhsD9nwTuk51Jtb"
     },
     {
       "album": {

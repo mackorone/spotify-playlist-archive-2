@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain](/playlists/plain/37i9dQZF1DX1F430ihQKsD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1F430ihQKsD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain](/playlists/plain/37i9dQZF1DX1F430ihQKsD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1F430ihQKsD)
 
 ### [Montréal Chill: le meilleur de 2025](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
 > Le meilleur de la scène musicale montréalaise en 2025\. Photo: Blynk
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,410 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,394 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

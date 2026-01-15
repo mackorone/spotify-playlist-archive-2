@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain](/playlists/plain/37i9dQZF1DX5OepaGriAIm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5OepaGriAIm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain](/playlists/plain/37i9dQZF1DX5OepaGriAIm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5OepaGriAIm)
 
 ### [Women of Jazz](https://open.spotify.com/playlist/37i9dQZF1DX5OepaGriAIm)
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,795 likes - 139 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,879 likes - 139 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7r3u5HAAB4A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7r3u5HAAB4A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7r3u5HAAB4A)
+[pretty](/playlists/pretty/37i9dQZF1DX7r3u5HAAB4A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7r3u5HAAB4A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7r3u5HAAB4A)
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
 > A melting pot of Caribbean culture\. Cover: Armanii
 
-305 songs - 14 hr 55 min
+306 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Show Them](https://open.spotify.com/track/1azevc4yWg7cPubeknpj05) | [Kman 6ixx](https://open.spotify.com/artist/5np2XqLanbxQzpEVFG0big), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Tafari](https://open.spotify.com/artist/7tnzhcb2y0dtPFIFVTp0A4) | [Phoenix The Ep](https://open.spotify.com/album/4FD88eNHnvOzs0JFw3OWVX) | 4:00 | 2024-08-29 |  |
 | [SIQ](https://open.spotify.com/track/5DIDRFjERMATWgoBMAC49W) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT](https://open.spotify.com/album/4MEhltzG4SeDGwDNGgVQ36) | 2:40 | 2025-12-12 |  |
 | [Sit Down](https://open.spotify.com/track/2yoSCIiSDgHGj71QRa2bjV) | [Lahrel](https://open.spotify.com/artist/6QLId1xjDwBhWpk9TLfvZ5), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Sit Down](https://open.spotify.com/album/6eTV0xMECRpjVsuDQMe9VN) | 2:38 | 2024-10-25 | 2025-02-15 |
-| [Sitt'n Fi Chat](https://open.spotify.com/track/5OwJy5JpsupCWlKtGPKygh) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Sitt'n Fi Chat](https://open.spotify.com/album/4Fgp0m5xTV1gFodrFf2wsc) | 2:46 | 2024-09-13 |  |
+| [Sitt'n Fi Chat](https://open.spotify.com/track/5OwJy5JpsupCWlKtGPKygh) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Sitt'n Fi Chat](https://open.spotify.com/album/4Fgp0m5xTV1gFodrFf2wsc) | 2:46 | 2024-09-13 | 2026-01-15 |
 | [Slow Motion \(feat\. Lavbbe\)](https://open.spotify.com/track/3SIhhY5cRa6kyom2MFVjfa) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Lavbbe](https://open.spotify.com/artist/6izI64ghLVdJ9C45YWx3Vm) | [Slow Motion \(feat\. Lavbbe\)](https://open.spotify.com/album/7hqQDhx9nMaptTWNeG4HNb) | 2:19 | 2025-08-29 | 2025-09-13 |
 | [SO COMAN](https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [SO COMAN](https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F) | 2:17 | 2024-08-29 |  |
 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-08-01 | 2025-08-09 |
@@ -295,6 +295,7 @@
 | [Way Too Fast](https://open.spotify.com/track/23zaP6LH6X2i3pdKhTUU9J) | [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx) | [Spain Root](https://open.spotify.com/album/3mZEERgUIhUcuKlZzVWku9) | 2:21 | 2025-06-27 |  |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/06Autwbs6Qlj7Ydq6i0Xss) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Great Is He \(Deluxe\)](https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o) | 4:05 | 2024-08-29 |  |
 | [West Indies](https://open.spotify.com/track/03B2nFjlNghR6afhu6XBXW) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [West Indies](https://open.spotify.com/album/3YBsssYf1DYIJRAOfJw31Z) | 3:04 | 2025-07-25 | 2025-09-06 |
+| [What I Like \(with Moliy, Ayetian, & Tyga\)](https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [What I Like \(with Moliy, Ayetian, & Tyga\)](https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W) | 2:36 | 2026-01-09 |  |
 | [What If](https://open.spotify.com/track/0IJ7vYRyxKcf3Zeszr04Mk) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [What If](https://open.spotify.com/album/08p4g5egk6GyGq0FCquNFH) | 2:46 | 2024-08-29 | 2025-04-26 |
 | [What's Up \(Big Buddy\)](https://open.spotify.com/track/2Zqi4KB2Wl0Luxwwx4qEM7) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [What's Up \(Big Buddy\)](https://open.spotify.com/album/2Mee0OzBr15EoIr0CYuwwh) | 2:21 | 2024-08-29 |  |
 | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/track/08kieiDP1vprkXbHyLaXl9) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/album/5tcpbxl38BLpALpZgspcFx) | 3:03 | 2024-09-27 |  |

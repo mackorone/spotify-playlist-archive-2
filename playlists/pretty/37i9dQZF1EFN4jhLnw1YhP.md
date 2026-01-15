@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain](/playlists/plain/37i9dQZF1EFN4jhLnw1YhP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFN4jhLnw1YhP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain](/playlists/plain/37i9dQZF1EFN4jhLnw1YhP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFN4jhLnw1YhP)
 
 ### [Written By Julia Church](https://open.spotify.com/playlist/37i9dQZF1EFN4jhLnw1YhP)
 
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain]
 | 64 | [will u still love me](https://open.spotify.com/track/1wMhzgDtNq2neEw1PuSIUM) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [will u still love me](https://open.spotify.com/album/7y246xFgZBfyNEMo0D7Twg) | 4:32 |
 | 65 | [Stars](https://open.spotify.com/track/3mnToYOHkOq2xtTLSDLXYq) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Take What You Want, Do As You Please](https://open.spotify.com/album/5LHbBEPs1lSN7x3iW9DuMX) | 4:14 |
 
-Snapshot ID: `AcGKngAAAADxSF5dFK0Lk6L2OZnNmHme`
+Snapshot ID: `AcHAhgAAAAD1uJ9rFwYQOLdBL12NiQYo`

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Q2UwX5yOxC.md) - [plain](/playlists/plain/37i9dQZF1DX7Q2UwX5yOxC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Q2UwX5yOxC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Q2UwX5yOxC.md) - [plain](/playlists/plain/37i9dQZF1DX7Q2UwX5yOxC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7Q2UwX5yOxC)
 
 ### [The Promised Neverland](https://open.spotify.com/playlist/37i9dQZF1DX7Q2UwX5yOxC)
 
 > Music From "The Promised Neverland".
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,510 likes - 62 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,528 likes - 62 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

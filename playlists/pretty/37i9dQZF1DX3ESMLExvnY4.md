@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ESMLExvnY4.md) - [plain](/playlists/plain/37i9dQZF1DX3ESMLExvnY4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ESMLExvnY4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ESMLExvnY4.md) - [plain](/playlists/plain/37i9dQZF1DX3ESMLExvnY4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3ESMLExvnY4)
 
 ### [Editors' Picks: Best Indie Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX3ESMLExvnY4)
 
 > The very best songs from a huge year for indie, according to Spotify editors\. Cover: Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,193 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,501 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

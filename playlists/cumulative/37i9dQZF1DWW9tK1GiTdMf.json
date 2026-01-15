@@ -1933,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "amore artificiale",
+        "url": "https://open.spotify.com/album/3Ts6rwEmyhNgxj56La9f6Y"
+      },
+      "artists": [
+        {
+          "name": "3win$",
+          "url": "https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151129,
+      "name": "amore artificiale",
+      "url": "https://open.spotify.com/track/6Ox8OgHHFaVjxzUpkq1Csa"
+    },
+    {
+      "album": {
         "name": "Wepro",
         "url": "https://open.spotify.com/album/1RftYq0amsy6NqZxNpUbtp"
       },
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 231785,
       "name": "astronave",
       "url": "https://open.spotify.com/track/5ESGP5FwMJnsZYfyEtuVYB"
@@ -14127,6 +14145,28 @@
     },
     {
       "album": {
+        "name": "KILL ME (feat. The\u00f8)",
+        "url": "https://open.spotify.com/album/4rkCoCgTvEpplkBfh0jDjh"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        },
+        {
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169772,
+      "name": "KILL ME (feat. The\u00f8)",
+      "url": "https://open.spotify.com/track/2IzDyynuba6KPLU2GXb0AQ"
+    },
+    {
+      "album": {
         "name": "POGO MIXTAPE VOL.1",
         "url": "https://open.spotify.com/album/6XmCk9ofF63wwmhE0b3PIS"
       },
@@ -19126,7 +19166,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154177,
       "name": "NON \u00c8 COLPA MIA SE NON MI AMI PI\u00da",
       "url": "https://open.spotify.com/track/6MQ7m5g6LAsTdtmAX1mR5Y"
@@ -20188,6 +20228,24 @@
       "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
+    },
+    {
+      "album": {
+        "name": "Pa//Pa//Pa",
+        "url": "https://open.spotify.com/album/2nZiIMoTyp5KWnmPR2MsSq"
+      },
+      "artists": [
+        {
+          "name": "Jaroslav",
+          "url": "https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Pa//Pa//Pa",
+      "url": "https://open.spotify.com/track/4ccc1MIs8TX2jbrBE7gUrj"
     },
     {
       "album": {
@@ -23742,7 +23800,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180040,
       "name": "Sailboat (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA"
@@ -27893,6 +27951,24 @@
     },
     {
       "album": {
+        "name": "TEMPORALE",
+        "url": "https://open.spotify.com/album/2QCos7x3RoL0SK22OKiaU4"
+      },
+      "artists": [
+        {
+          "name": "LVCRIME",
+          "url": "https://open.spotify.com/artist/7hDsXbBLPQU2T0R3TZU6ez"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192307,
+      "name": "TEMPORALE",
+      "url": "https://open.spotify.com/track/3CuQ98T2sMtTWpldllUMWn"
+    },
+    {
+      "album": {
         "name": "TEMU",
         "url": "https://open.spotify.com/album/523qbNVVYbDKWawLrRFOMP"
       },
@@ -28363,7 +28439,7 @@
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168719,
+      "duration_ms": 169330,
       "name": "times of my life",
       "url": "https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv"
     },
@@ -30352,7 +30428,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190858,
       "name": "vertigini",
       "url": "https://open.spotify.com/track/5YUZxtiNLfki5ehTn5EL6n"

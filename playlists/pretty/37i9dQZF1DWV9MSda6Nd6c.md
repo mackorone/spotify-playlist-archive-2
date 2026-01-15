@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9MSda6Nd6c.md) - [plain](/playlists/plain/37i9dQZF1DWV9MSda6Nd6c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV9MSda6Nd6c)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9MSda6Nd6c.md) - [plain](/playlists/plain/37i9dQZF1DWV9MSda6Nd6c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWV9MSda6Nd6c)
 
 ### [Vuoden läpimurto 2025](https://open.spotify.com/playlist/37i9dQZF1DWV9MSda6Nd6c)
 
 > Vuoden 2025 suomalaiset läpimurtoartistit \- uusia nimiä ja tuttuja tekijöitä, jotka nousivat tänä vuonna valokeilaan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

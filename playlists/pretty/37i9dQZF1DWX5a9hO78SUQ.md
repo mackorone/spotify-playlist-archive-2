@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5a9hO78SUQ.md) - [plain](/playlists/plain/37i9dQZF1DWX5a9hO78SUQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX5a9hO78SUQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5a9hO78SUQ.md) - [plain](/playlists/plain/37i9dQZF1DWX5a9hO78SUQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX5a9hO78SUQ)
 
 ### [Shakespeare: The Poetry](https://open.spotify.com/playlist/37i9dQZF1DWX5a9hO78SUQ)
 

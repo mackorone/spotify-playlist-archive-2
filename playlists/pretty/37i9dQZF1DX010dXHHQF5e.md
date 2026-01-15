@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX010dXHHQF5e.md) - [plain](/playlists/plain/37i9dQZF1DX010dXHHQF5e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX010dXHHQF5e)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX010dXHHQF5e.md) - [plain](/playlists/plain/37i9dQZF1DX010dXHHQF5e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX010dXHHQF5e)
 
 ### [Duerme con Jazz](https://open.spotify.com/playlist/37i9dQZF1DX010dXHHQF5e)
 

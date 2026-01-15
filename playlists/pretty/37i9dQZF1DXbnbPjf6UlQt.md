@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnbPjf6UlQt.md) - [plain](/playlists/plain/37i9dQZF1DXbnbPjf6UlQt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbnbPjf6UlQt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnbPjf6UlQt.md) - [plain](/playlists/plain/37i9dQZF1DXbnbPjf6UlQt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbnbPjf6UlQt)
 
 ### [10CM CONCERT \[5.0\]](https://open.spotify.com/playlist/37i9dQZF1DXbnbPjf6UlQt)
 
 > Enjoy the 10CM CONCERT \[5.0\] LIVE SET including the voices of them on stage! \(10CM의 무대 멘트와 목소리가 포함된 \[5.0\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,737 likes - 28 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,795 likes - 28 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 78052,
+  "num_followers": 78022,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,70 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Beleza. Mas agora a gente faz o que com isso?",
+        "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 209202,
+      "name": "Azul, Beb\u00ea",
+      "url": "https://open.spotify.com/track/6EGGqJCJgR1wD7Z39OD6O5"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "BOGOT\u00c1",
+        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 195730,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Sorriso Eu Gosto no Pagode Vol. 3 - Homenagem ao Fundo de Quintal (Gravado em Londres) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 258656,
+      "name": "Lucidez - Ao Vivo",
+      "url": "https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Palabra De To's (Seca)",
+        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 112848,
+      "name": "Ah\u00ed Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
@@ -515,70 +579,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "CAJU",
-      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Beleza. Mas agora a gente faz o que com isso?",
-        "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 209202,
-      "name": "Azul, Beb\u00ea",
-      "url": "https://open.spotify.com/track/6EGGqJCJgR1wD7Z39OD6O5"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Sorriso Eu Gosto no Pagode Vol. 3 - Homenagem ao Fundo de Quintal (Gravado em Londres) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 258656,
-      "name": "Lucidez - Ao Vivo",
-      "url": "https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "BOGOT\u00c1",
-        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 195730,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Palabra De To's (Seca)",
-        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 112848,
-      "name": "Ah\u00ed Estabas T\u00fa",
-      "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
+      "duration_ms": 266737,
+      "name": "CAJU",
+      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Zeca Pagodinho - 40 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Minta Meu Sonho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Mem\u00f3ri4s (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nVfk6R3u1SWg2xsD72zu7"
       },
@@ -847,26 +827,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+        "name": "Zeca Pagodinho - 40 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
         },
         {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
         }
       ],
-      "duration_ms": 431494,
-      "name": "AO TEU LADO",
-      "url": "https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS"
+      "duration_ms": 194506,
+      "name": "Minta Meu Sonho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -907,6 +883,30 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 431494,
+      "name": "AO TEU LADO",
+      "url": "https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Universo de Paix\u00e3o",
         "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 241860,
       "name": "Melhor Assim",
       "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Raz\u00e3o da Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X"
+      },
+      "artists": [
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "duration_ms": 346615,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -943,22 +959,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Ton Carfi 20 anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 273300,
-      "name": "\u00daltimo da Fila - Ao Vivo",
-      "url": "https://open.spotify.com/track/2Swl61aivF1I4JhZogKwG0"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Jos\u00e9 & Durval",
         "url": "https://open.spotify.com/album/5mrMvvBNCmK4VWvmTDYzmu"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Raz\u00e3o da Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X"
+        "name": "Ton Carfi 20 anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p"
       },
       "artists": [
         {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 346615,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn"
+      "duration_ms": 273300,
+      "name": "\u00daltimo da Fila - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Swl61aivF1I4JhZogKwG0"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1007,30 +1007,6 @@
       "duration_ms": 175053,
       "name": "Feliz e Triste",
       "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "O Mundo D\u00e1 Voltas",
-        "url": "https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Antonio Carlos & Jocafi",
-          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
-        }
-      ],
-      "duration_ms": 321115,
-      "name": "Praia do Futuro",
-      "url": "https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1067,6 +1043,30 @@
       "duration_ms": 169484,
       "name": "Longe De Mim",
       "url": "https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "O Mundo D\u00e1 Voltas",
+        "url": "https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Antonio Carlos & Jocafi",
+          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
+        }
+      ],
+      "duration_ms": 321115,
+      "name": "Praia do Futuro",
+      "url": "https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1159,42 +1159,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "MARAVILHOSAMENTE BEM",
-        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 226484,
-      "name": "Maravilhosamente Bem",
-      "url": "https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Manual Pr\u00e1tico Do Novo Samba Tradicional, Vol. 2: TIA DARCI",
-        "url": "https://open.spotify.com/album/3Y3NXwXnPF4pX2HYRShtg7"
-      },
-      "artists": [
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
-        },
-        {
-          "name": "Grupo Fundo De Quintal",
-          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
-        }
-      ],
-      "duration_ms": 233496,
-      "name": "NASCENTE DA PAZ",
-      "url": "https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Aventuras de Caramelo",
         "url": "https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q"
       },
@@ -1219,6 +1183,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "MARAVILHOSAMENTE BEM",
+        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 226484,
+      "name": "Maravilhosamente Bem",
+      "url": "https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Ida e Volta",
         "url": "https://open.spotify.com/album/5ucqGPaDCkfkRZMsvtSoL7"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 193213,
       "name": "Profecia",
       "url": "https://open.spotify.com/track/6AyZYi6ONmXsBvMDcqH4vW"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Manual Pr\u00e1tico Do Novo Samba Tradicional, Vol. 2: TIA DARCI",
+        "url": "https://open.spotify.com/album/3Y3NXwXnPF4pX2HYRShtg7"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        },
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        }
+      ],
+      "duration_ms": 233496,
+      "name": "NASCENTE DA PAZ",
+      "url": "https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1267,26 +1267,6 @@
       "duration_ms": 207738,
       "name": "Sapato Velho",
       "url": "https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "FUGACIDADE",
-        "url": "https://open.spotify.com/album/0QVDHqBLRd5AjHuU4bJmJ3"
-      },
-      "artists": [
-        {
-          "name": "Janeiro",
-          "url": "https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0"
-        },
-        {
-          "name": "Andr\u00e9 ViaMonte",
-          "url": "https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "LEGO",
-      "url": "https://open.spotify.com/track/7q2LnH7uqOYJQk4m4LBSAV"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1355,6 +1335,26 @@
       "duration_ms": 452573,
       "name": "Flight 962",
       "url": "https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "FUGACIDADE",
+        "url": "https://open.spotify.com/album/0QVDHqBLRd5AjHuU4bJmJ3"
+      },
+      "artists": [
+        {
+          "name": "Janeiro",
+          "url": "https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0"
+        },
+        {
+          "name": "Andr\u00e9 ViaMonte",
+          "url": "https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "LEGO",
+      "url": "https://open.spotify.com/track/7q2LnH7uqOYJQk4m4LBSAV"
     },
     {
       "added_at": "2025-09-17 15:00:09",

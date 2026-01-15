@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain](/playlists/plain/37i9dQZF1DX6FD2BSLFmYc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6FD2BSLFmYc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain](/playlists/plain/37i9dQZF1DX6FD2BSLFmYc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6FD2BSLFmYc)
 
 ### [zen vibes](https://open.spotify.com/playlist/37i9dQZF1DX6FD2BSLFmYc)
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,497 likes - 123 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,705 likes - 123 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

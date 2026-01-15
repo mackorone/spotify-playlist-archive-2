@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7Sllq4gSA7d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Sllq4gSA7d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Sllq4gSA7d)
+[pretty](/playlists/pretty/37i9dQZF1DX7Sllq4gSA7d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Sllq4gSA7d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7Sllq4gSA7d)
 
 ### [Stories that Shifted Music ](https://open.spotify.com/playlist/37i9dQZF1DX7Sllq4gSA7d)
 

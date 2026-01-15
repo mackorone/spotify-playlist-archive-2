@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain](/playlists/plain/37i9dQZF1DX3DRt77Ekehy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3DRt77Ekehy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain](/playlists/plain/37i9dQZF1DX3DRt77Ekehy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3DRt77Ekehy)
 
 ### [432 Hz Meditation](https://open.spotify.com/playlist/37i9dQZF1DX3DRt77Ekehy)
 
 > A positive Solfeggio Frequency, used by many for meditation, manifestation and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,712 likes - 161 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,375 likes - 161 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

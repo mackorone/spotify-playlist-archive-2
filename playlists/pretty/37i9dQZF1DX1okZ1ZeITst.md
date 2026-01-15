@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain](/playlists/plain/37i9dQZF1DX1okZ1ZeITst) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1okZ1ZeITst)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain](/playlists/plain/37i9dQZF1DX1okZ1ZeITst) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1okZ1ZeITst)
 
 ### [Disney Sing\-Alongs](https://open.spotify.com/playlist/37i9dQZF1DX1okZ1ZeITst)
 
 > Discover Disney songs to sing along to, including “Zoo” from Zootopia 2!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,922 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,922 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

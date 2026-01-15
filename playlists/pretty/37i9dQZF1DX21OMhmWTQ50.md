@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain](/playlists/plain/37i9dQZF1DX21OMhmWTQ50) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX21OMhmWTQ50)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain](/playlists/plain/37i9dQZF1DX21OMhmWTQ50) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX21OMhmWTQ50)
 
 ### [Christmas Focus❄️](https://open.spotify.com/playlist/37i9dQZF1DX21OMhmWTQ50)
 
 > Gentle festive piano music to keep you focused this holiday season☕️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,431 likes - 61 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,326 likes - 61 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

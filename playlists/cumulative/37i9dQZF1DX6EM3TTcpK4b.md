@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6EM3TTcpK4b.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6EM3TTcpK4b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6EM3TTcpK4b)
+[pretty](/playlists/pretty/37i9dQZF1DX6EM3TTcpK4b.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6EM3TTcpK4b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6EM3TTcpK4b)
 
 ### [Clásicas del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DX6EM3TTcpK4b)
 
-> Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Lola Beltrán
+> Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Ana Gabriel
 
 217 songs - 11 hr 47 min
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain](/playlists/plain/37i9dQZF1DX0ZzMQgXnSUD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0ZzMQgXnSUD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain](/playlists/plain/37i9dQZF1DX0ZzMQgXnSUD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0ZzMQgXnSUD)
 
 ### [Best of Bond](https://open.spotify.com/playlist/37i9dQZF1DX0ZzMQgXnSUD)
 
 > Shaken, not stirred..\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,622 likes - 28 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,605 likes - 28 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5LtwydYUv9Um4D2toY3Wzh.md) - [plain](/playlists/plain/5LtwydYUv9Um4D2toY3Wzh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5LtwydYUv9Um4D2toY3Wzh)
+pretty - [cumulative](/playlists/cumulative/5LtwydYUv9Um4D2toY3Wzh.md) - [plain](/playlists/plain/5LtwydYUv9Um4D2toY3Wzh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5LtwydYUv9Um4D2toY3Wzh)
 
 ### [Singing in the Shower...](https://open.spotify.com/playlist/5LtwydYUv9Um4D2toY3Wzh)
 
 > ...dancing in the mirror.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811 likes - 41 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,809 likes - 41 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

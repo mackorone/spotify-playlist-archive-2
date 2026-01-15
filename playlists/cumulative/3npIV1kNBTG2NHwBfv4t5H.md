@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3npIV1kNBTG2NHwBfv4t5H.md) - cumulative - [plain](/playlists/plain/3npIV1kNBTG2NHwBfv4t5H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3npIV1kNBTG2NHwBfv4t5H)
+[pretty](/playlists/pretty/3npIV1kNBTG2NHwBfv4t5H.md) - cumulative - [plain](/playlists/plain/3npIV1kNBTG2NHwBfv4t5H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3npIV1kNBTG2NHwBfv4t5H)
 
 ### [Happy Birthday Sir Paul!](https://open.spotify.com/playlist/3npIV1kNBTG2NHwBfv4t5H)
 

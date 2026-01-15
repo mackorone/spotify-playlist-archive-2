@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain](/playlists/plain/37i9dQZF1DX7cQIWrmrWbE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7cQIWrmrWbE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain](/playlists/plain/37i9dQZF1DX7cQIWrmrWbE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7cQIWrmrWbE)
 
 ### [LATINA FOREVA 💋](https://open.spotify.com/playlist/37i9dQZF1DX7cQIWrmrWbE)
 
 > Disculpa, KAROL G no necesita presentación  💁‍♀️​
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,992 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,068 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain](/playlists/plain/37i9dQZF1DWTtzPKJEaTC4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTtzPKJEaTC4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain](/playlists/plain/37i9dQZF1DWTtzPKJEaTC4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTtzPKJEaTC4)
 
 ### [Meshell Ndegeocello Digs Jazz](https://open.spotify.com/playlist/37i9dQZF1DWTtzPKJEaTC4)
 
 > <a href="spotify:artist:0uZRjholJ0fVC2J9EvnYnj">Meshell Ndegeocello</a> shares her jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,655 likes - 35 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,658 likes - 35 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "Dancing Penguins",
+        "url": "https://open.spotify.com/album/6xo8gu7kxXiT6SG5bmzHIT"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478080,
+      "name": "Dancing Penguins",
+      "url": "https://open.spotify.com/track/1JWxMJR4RF00BQIXvag03G"
+    },
+    {
+      "album": {
         "name": "From Hell EP",
         "url": "https://open.spotify.com/album/0Hw8RmAjgMV5hPiVqxcnxf"
       },

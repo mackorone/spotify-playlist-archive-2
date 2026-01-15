@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3PNltrHQaYdqO0FdTAZ3wB.md) - [plain](/playlists/plain/3PNltrHQaYdqO0FdTAZ3wB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3PNltrHQaYdqO0FdTAZ3wB)
+pretty - [cumulative](/playlists/cumulative/3PNltrHQaYdqO0FdTAZ3wB.md) - [plain](/playlists/plain/3PNltrHQaYdqO0FdTAZ3wB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3PNltrHQaYdqO0FdTAZ3wB)
 
 ### [Sweden Rock 2013](https://open.spotify.com/playlist/3PNltrHQaYdqO0FdTAZ3wB)
 

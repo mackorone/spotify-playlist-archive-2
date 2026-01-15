@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6aUhntGM77yu8za1xK2wxw.md) - cumulative - [plain](/playlists/plain/6aUhntGM77yu8za1xK2wxw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6aUhntGM77yu8za1xK2wxw)
+[pretty](/playlists/pretty/6aUhntGM77yu8za1xK2wxw.md) - cumulative - [plain](/playlists/plain/6aUhntGM77yu8za1xK2wxw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6aUhntGM77yu8za1xK2wxw)
 
 ### [MexiGo](https://open.spotify.com/playlist/6aUhntGM77yu8za1xK2wxw)
 
@@ -145,7 +145,7 @@
 | [Thick n Country](https://open.spotify.com/track/6QclcBITSWRLF49MJiRxCq) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Akeem Ali](https://open.spotify.com/artist/5aTVaxCp68WGSX8qRkVM3X) | [Thick n Country](https://open.spotify.com/album/6zmx0UMQ04JeZmDzoXdehm) | 2:08 | 2025-08-29 |  |
 | [THINGS](https://open.spotify.com/track/0EWe1VeEWz6K34qDFgQW5L) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:12 | 2025-08-30 |  |
 | [Time Flies](https://open.spotify.com/track/2MS3ImhissWnb9pmGWBc0a) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h), [.akshay](https://open.spotify.com/artist/2uTyX7lJEa5u5nXbSGiFT0), [Akshay Iyer](https://open.spotify.com/artist/5tuD0Os3aeTtglvnUd8HOL) | [Overseas](https://open.spotify.com/album/4mFRZCciiEDg4cBZZLzIca) | 2:46 | 2025-08-29 |  |
-| [TIMELESS BEAT](https://open.spotify.com/track/5wu08ZhCp0DFDp5bRSeYTH) | [SOPHIA BEATS85](https://open.spotify.com/artist/6Tx7myNNatnvj5kCREQcDP) | [TIMELESS BEAT](https://open.spotify.com/album/3nfyJwt1TRNW3AxvYccLF0) | 4:17 | 2025-08-29 |  |
+| [TIMELESS BEAT](https://open.spotify.com/track/5wu08ZhCp0DFDp5bRSeYTH) | [ZAKISZK](https://open.spotify.com/artist/1NT1lGAHETLT8dMdAINYZ3) | [TIMELESS BEAT](https://open.spotify.com/album/3nfyJwt1TRNW3AxvYccLF0) | 4:17 | 2025-08-29 |  |
 | [Timing](https://open.spotify.com/track/2h5XRetKFcqRQHuHoaPOKS) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:58 | 2025-08-30 |  |
 | [Touch on Me](https://open.spotify.com/track/36gULsVYfQd12esTvEZC7X) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [October Nights](https://open.spotify.com/album/2OFPBJkSa8UgrMfdtP862a) | 3:10 | 2025-08-29 |  |
 | [Touch The Sky](https://open.spotify.com/track/0s6uJaL5PXKxHMVQrknldU) | [JIG LeFrost](https://open.spotify.com/artist/5x7elTgh2IWVwEuTy7Nh9R) | [Touch The Sky](https://open.spotify.com/album/2cjnvWmiraGW9jvpdgytTK) | 2:04 | 2025-08-29 |  |

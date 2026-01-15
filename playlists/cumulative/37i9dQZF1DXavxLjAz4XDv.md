@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXavxLjAz4XDv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXavxLjAz4XDv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXavxLjAz4XDv)
+[pretty](/playlists/pretty/37i9dQZF1DXavxLjAz4XDv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXavxLjAz4XDv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXavxLjAz4XDv)
 
 ### [BIOHAZARD 25th ANNIVERSARY](https://open.spotify.com/playlist/37i9dQZF1DXavxLjAz4XDv)
 

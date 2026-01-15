@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7guZiIqh3BbulKdXnS7vIb.md) - [plain](/playlists/plain/7guZiIqh3BbulKdXnS7vIb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7guZiIqh3BbulKdXnS7vIb)
+pretty - [cumulative](/playlists/cumulative/7guZiIqh3BbulKdXnS7vIb.md) - [plain](/playlists/plain/7guZiIqh3BbulKdXnS7vIb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7guZiIqh3BbulKdXnS7vIb)
 
 ### [Retro Road Trip \(Road trip Throwback Playlist\)](https://open.spotify.com/playlist/7guZiIqh3BbulKdXnS7vIb)
 
 > Hit the road with over 5 hours of classics from The Rolling Stones and many more! Cover: The Tragically Hip
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 7,769 likes - 91 songs - 6 hr 18 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 7,767 likes - 91 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

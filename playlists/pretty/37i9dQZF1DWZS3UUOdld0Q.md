@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain](/playlists/plain/37i9dQZF1DWZS3UUOdld0Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZS3UUOdld0Q)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain](/playlists/plain/37i9dQZF1DWZS3UUOdld0Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZS3UUOdld0Q)
 
 ### [Nova Cena Playlist Oficial](https://open.spotify.com/playlist/37i9dQZF1DWZS3UUOdld0Q)
 
 > Pra vencer no rap, é preciso dominar os palcos\. Rappers do Brasil se enfrentam nessa competição com Djonga, Filipe Ret e Tasha & Tracie\. Agora no Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,502 likes - 23 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,510 likes - 23 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

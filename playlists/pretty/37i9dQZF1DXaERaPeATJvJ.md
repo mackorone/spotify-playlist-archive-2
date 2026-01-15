@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain](/playlists/plain/37i9dQZF1DXaERaPeATJvJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaERaPeATJvJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain](/playlists/plain/37i9dQZF1DXaERaPeATJvJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaERaPeATJvJ)
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Pas Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,763 likes - 126 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,780 likes - 126 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

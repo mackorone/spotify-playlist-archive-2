@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain](/playlists/plain/37i9dQZF1DX82qPOvdCxxq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX82qPOvdCxxq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain](/playlists/plain/37i9dQZF1DX82qPOvdCxxq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX82qPOvdCxxq)
 
 ### [Best of Fresh Finds Faith 2025](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
 > The best faith\-based songs from new, independent artists in 2025, as chosen by our editors\. Cover: CéJae
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,545 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,815 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

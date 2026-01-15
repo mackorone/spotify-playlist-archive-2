@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7GcrOxvmFto5inXwr5Asm7.md) - cumulative - [plain](/playlists/plain/7GcrOxvmFto5inXwr5Asm7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7GcrOxvmFto5inXwr5Asm7)
+[pretty](/playlists/pretty/7GcrOxvmFto5inXwr5Asm7.md) - cumulative - [plain](/playlists/plain/7GcrOxvmFto5inXwr5Asm7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7GcrOxvmFto5inXwr5Asm7)
 
 ### [Lofi Beats \- Chillhop \- Jazzhop \- Study Beats \- Chill Beats \(Study, Relax, Sleep\)](https://open.spotify.com/playlist/7GcrOxvmFto5inXwr5Asm7)
 

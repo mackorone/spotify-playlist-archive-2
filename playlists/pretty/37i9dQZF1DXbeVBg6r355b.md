@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeVBg6r355b.md) - [plain](/playlists/plain/37i9dQZF1DXbeVBg6r355b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbeVBg6r355b)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeVBg6r355b.md) - [plain](/playlists/plain/37i9dQZF1DXbeVBg6r355b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbeVBg6r355b)
 
 ### [White Noise for Sleep](https://open.spotify.com/playlist/37i9dQZF1DXbeVBg6r355b)
 
 > Sleep deeper with soft and seamless white noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,035 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,562 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

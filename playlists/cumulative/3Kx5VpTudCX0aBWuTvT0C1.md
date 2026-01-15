@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/3Kx5VpTudCX0aBWuTvT0C1.md) - cumulative - [plain](/playlists/plain/3Kx5VpTudCX0aBWuTvT0C1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3Kx5VpTudCX0aBWuTvT0C1)
+[pretty](/playlists/pretty/3Kx5VpTudCX0aBWuTvT0C1.md) - cumulative - [plain](/playlists/plain/3Kx5VpTudCX0aBWuTvT0C1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3Kx5VpTudCX0aBWuTvT0C1)
 
 ### [Pop Rock \| ≠ ](https://open.spotify.com/playlist/3Kx5VpTudCX0aBWuTvT0C1)
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-113 songs - 6 hr 24 min
+117 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [LOS BIOLOGOS](https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LOS BIOLOGOS](https://open.spotify.com/album/4prHVEmsCxLHDTsV6zSsuM) | 4:11 | 2025-12-23 |  |
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-11-10 |  |
 | [Mainline](https://open.spotify.com/track/0CAkW9JOscGbMBpbPshIuc) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 3:18 | 2025-11-01 | 2025-12-09 |
+| [Make Love](https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o) | [CLARASCHEIN](https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w), [Vittorio Longobardi](https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE) | [Make Love](https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS) | 2:37 | 2026-01-10 |  |
 | [Maldito](https://open.spotify.com/track/18CjsJXuIs1w0UDOtfjqf8) | [La Caída de Girona](https://open.spotify.com/artist/51IqZcdRlw7EPxqavIYoMB) | [Fracasos](https://open.spotify.com/album/2o6E8Qg3KGW0Dw9HS1dGDX) | 3:20 | 2025-11-10 |  |
 | [Me Voy al Infierno](https://open.spotify.com/track/41lTbEJJp9ZfDi8HaQFBW8) | [Abducidos Oficial](https://open.spotify.com/artist/5G0WVcAbaKtpwRfMnEvPVl) | [Sinfonía Extraterrestre](https://open.spotify.com/album/6AkKS7fNterNtS13Fy62Ir) | 2:45 | 2025-11-03 | 2025-12-09 |
 | [Mil historias](https://open.spotify.com/track/4zrvkZ2lWDtkE2eptSMTNa) | [Carmen Medina](https://open.spotify.com/artist/6ZLUv9UIr1MenBK4LPGIee) | [Mil historias](https://open.spotify.com/album/77n6l3YxN57Dj9LfNuxfAU) | 2:55 | 2025-10-27 | 2025-12-09 |
@@ -84,6 +85,8 @@
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-07 | 2025-12-09 |
 | [Parted](https://open.spotify.com/track/20ZFPWqmQDEQB0zt48B92n) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Horrible Parallel](https://open.spotify.com/album/1zUgcsZrPvrjbgvg8zJPk7) | 3:43 | 2025-11-01 | 2025-12-09 |
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-11-27 |  |
+| [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2026-01-06 |  |
+| [Punto Cero](https://open.spotify.com/track/1I21Ts3OdQHSF82lz1VyFv) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Punto Cero](https://open.spotify.com/album/6SxhGvhfo2FBsGjZgNgvrO) | 3:41 | 2026-01-10 |  |
 | [Rainy day date](https://open.spotify.com/track/66P6BcQvNxWady9qp6dvRo) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [Rainy day date](https://open.spotify.com/album/5dd7Yqt9ctcheVlVtHUAgd) | 4:24 | 2025-11-16 |  |
 | [Rock](https://open.spotify.com/track/77lY028zHQMb93dP5XEYTE) | [MINNA ORA](https://open.spotify.com/artist/76RqksjOb9wTLKq1EUfNOC) | [Rock](https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y) | 2:56 | 2025-11-29 |  |
 | [Selfish Song](https://open.spotify.com/track/38lFq4m55EmIGIn39UqluL) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Selfish Song](https://open.spotify.com/album/6ItdXN8Nc1Rj3LnJ5QtW9k) | 3:55 | 2025-11-12 |  |
@@ -107,6 +110,7 @@
 | [Una Señal](https://open.spotify.com/track/3MaxzGBdn5zDmrAziSGFu3) | [Joselu Toribio](https://open.spotify.com/artist/1LUaDb2TDUyN4MBowhnWqu) | [Una Señal](https://open.spotify.com/album/27m8pNmvR6GNsXzoLkN3sz) | 3:42 | 2025-11-12 |  |
 | [Upstairs](https://open.spotify.com/track/4lJYXQFig7YEqBPZHcFxwI) | [Alma Samiri](https://open.spotify.com/artist/6scn9hopwDs5jfwtV5aZ1V), [Alfred YAO](https://open.spotify.com/artist/65wEQSfJRfQmdlVDl2MjCg) | [Upstairs](https://open.spotify.com/album/14EUlHI6yl60oXvNKZQyJ0) | 2:29 | 2025-10-29 | 2025-12-09 |
 | [Vur Kalbimden](https://open.spotify.com/track/0fu2sSqESedfVKV7QD7fBz) | [Azel](https://open.spotify.com/artist/6Wefz4jdGRWUIPjmvl76QU) | [Vur Kalbimden](https://open.spotify.com/album/7efSlA8XFS5odUgIg36w0V) | 3:11 | 2025-12-01 |  |
+| [Warpaint](https://open.spotify.com/track/3YUxt5V51agQZDIBTn2Wp2) | [Flying Earrings](https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy) | [Dreams](https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L) | 6:45 | 2026-01-06 |  |
 | [We're Not Going Back !](https://open.spotify.com/track/2ZfUwtNAa1m2pFfbw12P1f) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [We're Not Going Back !](https://open.spotify.com/album/24RpqAI2h0N71yyWZAHjUR) | 3:09 | 2025-11-03 | 2025-12-09 |
 | [Weaker](https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1) | [Daryan Tchoubineh](https://open.spotify.com/artist/5kTeo0SHSNeFvUQP4mhtxj) | [Weaker](https://open.spotify.com/album/44m2wMyKWD8ANnMBUToYp5) | 3:31 | 2025-11-22 |  |
 | [White Roses](https://open.spotify.com/track/0dRwGLzgtvpZvS5NncfRJ8) | [Javier Sánchez](https://open.spotify.com/artist/012ou1HhOyZ6iFWL7FYsyZ) | [White Roses](https://open.spotify.com/album/4vPVInfF4dXmKVKFBR30XY) | 3:10 | 2025-11-10 |  |

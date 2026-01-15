@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSX0V6Ql71fF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSX0V6Ql71fF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSX0V6Ql71fF)
+[pretty](/playlists/pretty/37i9dQZF1DWSX0V6Ql71fF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSX0V6Ql71fF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSX0V6Ql71fF)
 
 ### [Karaoke en el Auto](https://open.spotify.com/playlist/37i9dQZF1DWSX0V6Ql71fF)
 

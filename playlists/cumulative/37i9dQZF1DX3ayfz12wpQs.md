@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3ayfz12wpQs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ayfz12wpQs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ayfz12wpQs)
+[pretty](/playlists/pretty/37i9dQZF1DX3ayfz12wpQs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ayfz12wpQs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3ayfz12wpQs)
 
 ### [Sand Between My Toes](https://open.spotify.com/playlist/37i9dQZF1DX3ayfz12wpQs)
 

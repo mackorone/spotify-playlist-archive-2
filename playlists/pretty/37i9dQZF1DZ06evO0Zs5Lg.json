@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 23740,
+  "num_followers": 24040,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAABSXrz6prji8l31eaHj62yk",
+  "snapshot_id": "aWbcgAAAAAC+ijGTFFabPCL1OLcyD9q8",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Spellbound (The Beginning)",
+      "url": "https://open.spotify.com/track/6cIprowHIA9CtkA9Bgxk7g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horse",
+        "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Soupy (with Cozz)",
+      "url": "https://open.spotify.com/track/1nmZkBjLJr1fK3CiNjkNUS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destiny (with Sauce Walka)",
         "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
       },
@@ -307,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 196773,
-      "name": "Spellbound (The Beginning)",
-      "url": "https://open.spotify.com/track/6cIprowHIA9CtkA9Bgxk7g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OH SHIT!!!",
         "url": "https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G"
       },
@@ -339,22 +359,6 @@
       "duration_ms": 185907,
       "name": "OH SHIT!!!",
       "url": "https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Horse",
-        "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Snake Skin Leather",
-      "url": "https://open.spotify.com/track/521mlZAo2XcA5lvFgN4tUT"
     },
     {
       "added_at": null,
@@ -383,22 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionhearted (with Kota the Friend)",
-        "url": "https://open.spotify.com/album/6TWwDgoMBw70v4n7aM6ixL"
+        "name": "Horse",
+        "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
         }
       ],
-      "duration_ms": 217846,
-      "name": "Lionhearted (with Kota the Friend)",
-      "url": "https://open.spotify.com/track/2ojvQ0lxiNgLn4sgaz7DzH"
+      "duration_ms": 206360,
+      "name": "Snake Skin Leather",
+      "url": "https://open.spotify.com/track/521mlZAo2XcA5lvFgN4tUT"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
       "duration_ms": 205426,
       "name": "The Season",
       "url": "https://open.spotify.com/track/5zvPlnOXaOoknahmh69RiI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Horse",
-        "url": "https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 258812,
-      "name": "Pack a Lunch (with Redman)",
-      "url": "https://open.spotify.com/track/3p8PQDGkgwIhp5fyeNypgo"
     },
     {
       "added_at": null,
@@ -467,6 +447,26 @@
       "duration_ms": 124406,
       "name": "Vulnerable God",
       "url": "https://open.spotify.com/track/1rns1Sea7RI4wCNHtkkthQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lionhearted (with Kota the Friend)",
+        "url": "https://open.spotify.com/album/6TWwDgoMBw70v4n7aM6ixL"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "Lionhearted (with Kota the Friend)",
+      "url": "https://open.spotify.com/track/2ojvQ0lxiNgLn4sgaz7DzH"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Gampo",
-        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Gampo",
-      "url": "https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pookie Baby",
         "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 211680,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/2ynJ4wHuFcfTXk1bkv8JgL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/3xgyaF318Csc2nu1xPjjlC"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 173068,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/6GQXk4Du3qkiswJ6hUoGiW"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zoo",
-        "url": "https://open.spotify.com/album/3xgyaF318Csc2nu1xPjjlC"
+        "name": "King Gampo",
+        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 173068,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/6GQXk4Du3qkiswJ6hUoGiW"
+      "duration_ms": 238400,
+      "name": "Gampo",
+      "url": "https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Standout",
-      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Powderhorn Suites",
         "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 230906,
       "name": "Cousins",
       "url": "https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Standout",
+      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
     },
     {
       "added_at": null,
@@ -695,6 +695,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Survivor's Guilt",
+        "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 187406,
+      "name": "Bawse",
+      "url": "https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King Gampo",
+        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK"
       },
@@ -723,34 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Gampo",
-        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
+        "name": "Headphone Concerto",
+        "url": "https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT"
       },
       "artists": [
+        {
+          "name": "Amp Live",
+          "url": "https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL"
+        },
+        {
+          "name": "Anya",
+          "url": "https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk"
+        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 175493,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Permission",
-      "url": "https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4"
+      "duration_ms": 232483,
+      "name": "Penny Nickel Dime",
+      "url": "https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1"
     },
     {
       "added_at": null,
@@ -783,46 +827,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survivor's Guilt",
-        "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
+        "name": "Chitty Bang",
+        "url": "https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA"
       },
       "artists": [
         {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 187406,
-      "name": "Bawse",
-      "url": "https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Headphone Concerto",
-        "url": "https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT"
-      },
-      "artists": [
-        {
-          "name": "Amp Live",
-          "url": "https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL"
         },
         {
-          "name": "Anya",
-          "url": "https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk"
+          "name": "Devin The Dude",
+          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
         },
         {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+          "name": "Jarren Benton",
+          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
         }
       ],
-      "duration_ms": 232483,
-      "name": "Penny Nickel Dime",
-      "url": "https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1"
+      "duration_ms": 208000,
+      "name": "Chitty Bang",
+      "url": "https://open.spotify.com/track/14EUifm44d6gODebTIEDSn"
     },
     {
       "added_at": null,
@@ -851,26 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chitty Bang",
-        "url": "https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA"
+        "name": "Pookie Baby",
+        "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Devin The Dude",
-          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
-        },
-        {
-          "name": "Jarren Benton",
-          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Chitty Bang",
-      "url": "https://open.spotify.com/track/14EUifm44d6gODebTIEDSn"
+      "duration_ms": 216306,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/0qi526Q4l45TDR06J26GnS"
     },
     {
       "added_at": null,
@@ -887,22 +903,6 @@
       "duration_ms": 133487,
       "name": "Dodo Birds",
       "url": "https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pookie Baby",
-        "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Action",
-      "url": "https://open.spotify.com/track/0qi526Q4l45TDR06J26GnS"
     }
   ],
   "unique_name": "This Is Prof",

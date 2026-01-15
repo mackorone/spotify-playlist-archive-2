@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/47NYKsdbvVc1QuXzBBHjkd.md) - cumulative - [plain](/playlists/plain/47NYKsdbvVc1QuXzBBHjkd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/47NYKsdbvVc1QuXzBBHjkd)
+[pretty](/playlists/pretty/47NYKsdbvVc1QuXzBBHjkd.md) - cumulative - [plain](/playlists/plain/47NYKsdbvVc1QuXzBBHjkd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/47NYKsdbvVc1QuXzBBHjkd)
 
 ### [Learke in chronological order](https://open.spotify.com/playlist/47NYKsdbvVc1QuXzBBHjkd)
 

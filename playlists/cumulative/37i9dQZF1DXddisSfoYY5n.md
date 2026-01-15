@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXddisSfoYY5n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXddisSfoYY5n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXddisSfoYY5n)
+[pretty](/playlists/pretty/37i9dQZF1DXddisSfoYY5n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXddisSfoYY5n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXddisSfoYY5n)
 
 ### [Radio Crime Dramas](https://open.spotify.com/playlist/37i9dQZF1DXddisSfoYY5n)
 

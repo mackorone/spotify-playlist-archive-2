@@ -1,33 +1,13 @@
 {
-  "description": "Escucha DINAST\u00cdA el nuevo \u00e1lbum de Peso Pluma y Tito Double P\ud83c\udf84\ud83c\udf85\ud83c\udffd\ud83c\udf81",
-  "num_followers": 454659,
+  "description": "Escucha DINAST\u00cdA los hits de Peso Pluma y Tito Double P.",
+  "num_followers": 456680,
   "original_name": "DINAST\u00cdA: Peso Pluma x Tito Double P",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPBGhZ9DphoYiP+l1iMhYbqilpYL",
+  "snapshot_id": "AAAAABi4FWo2MTK/cjh+4Qkijmnzsjvq",
   "tracks": [
-    {
-      "added_at": "2025-12-26 05:00:21",
-      "album": {
-        "name": "intro",
-        "url": "https://open.spotify.com/album/6dGXItPd4MxGYeeib02KFx"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 179858,
-      "name": "intro",
-      "url": "https://open.spotify.com/track/48Z9ixFIkuzJMATvfFJHIz"
-    },
     {
       "added_at": "2025-12-26 05:00:21",
       "album": {
@@ -51,8 +31,8 @@
     {
       "added_at": "2025-12-26 05:00:21",
       "album": {
-        "name": "DINAST\u00cdA",
-        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
+        "name": "intro",
+        "url": "https://open.spotify.com/album/6dGXItPd4MxGYeeib02KFx"
       },
       "artists": [
         {
@@ -64,29 +44,9 @@
           "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 187204,
-      "name": "ni pedo",
-      "url": "https://open.spotify.com/track/7xLfNI4gRNTu6FyXJlzBW5"
-    },
-    {
-      "added_at": "2025-12-26 05:00:21",
-      "album": {
-        "name": "DINAST\u00cdA",
-        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 160998,
-      "name": "putielegante",
-      "url": "https://open.spotify.com/track/4BXbjwe562hQ8AzEV5lmPc"
+      "duration_ms": 179858,
+      "name": "intro",
+      "url": "https://open.spotify.com/track/48Z9ixFIkuzJMATvfFJHIz"
     },
     {
       "added_at": "2025-12-26 05:00:21",
@@ -124,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 159458,
-      "name": "billete",
-      "url": "https://open.spotify.com/track/10Ad7f9fnUaUjZ1bdZWBKr"
+      "duration_ms": 187204,
+      "name": "ni pedo",
+      "url": "https://open.spotify.com/track/7xLfNI4gRNTu6FyXJlzBW5"
     },
     {
       "added_at": "2025-12-26 05:00:21",
@@ -164,9 +124,89 @@
           "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
+      "duration_ms": 160998,
+      "name": "putielegante",
+      "url": "https://open.spotify.com/track/4BXbjwe562hQ8AzEV5lmPc"
+    },
+    {
+      "added_at": "2025-12-26 05:00:21",
+      "album": {
+        "name": "DINAST\u00cdA",
+        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "bckpckbyz",
+      "url": "https://open.spotify.com/track/4qfkZtOGVw2BXa05wqXKkV"
+    },
+    {
+      "added_at": "2025-12-26 05:00:21",
+      "album": {
+        "name": "DINAST\u00cdA",
+        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 166383,
+      "name": "malibu",
+      "url": "https://open.spotify.com/track/6cgnliDsVLOjPUcCiUodCt"
+    },
+    {
+      "added_at": "2025-12-26 05:00:21",
+      "album": {
+        "name": "DINAST\u00cdA",
+        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
       "duration_ms": 190960,
       "name": "trucha",
       "url": "https://open.spotify.com/track/4GQzSsh8tyuVARj3llp4v9"
+    },
+    {
+      "added_at": "2025-12-26 05:00:21",
+      "album": {
+        "name": "DINAST\u00cdA",
+        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 159458,
+      "name": "billete",
+      "url": "https://open.spotify.com/track/10Ad7f9fnUaUjZ1bdZWBKr"
     },
     {
       "added_at": "2025-12-26 05:00:21",
@@ -207,26 +247,6 @@
       "duration_ms": 176456,
       "name": "mezcal",
       "url": "https://open.spotify.com/track/26wnP0KsL7VQFR1vbjIVOB"
-    },
-    {
-      "added_at": "2025-12-26 05:00:21",
-      "album": {
-        "name": "DINAST\u00cdA",
-        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 166383,
-      "name": "malibu",
-      "url": "https://open.spotify.com/track/6cgnliDsVLOjPUcCiUodCt"
     },
     {
       "added_at": "2025-12-26 05:00:21",
@@ -287,26 +307,6 @@
       "duration_ms": 165682,
       "name": "tu con el",
       "url": "https://open.spotify.com/track/2A2x5MZB5OrnnKkVOxx5dp"
-    },
-    {
-      "added_at": "2025-12-26 05:00:21",
-      "album": {
-        "name": "DINAST\u00cdA",
-        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "bckpckbyz",
-      "url": "https://open.spotify.com/track/4qfkZtOGVw2BXa05wqXKkV"
     },
     {
       "added_at": "2025-12-26 05:00:21",

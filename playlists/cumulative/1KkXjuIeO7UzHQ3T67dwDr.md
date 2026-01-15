@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1KkXjuIeO7UzHQ3T67dwDr.md) - cumulative - [plain](/playlists/plain/1KkXjuIeO7UzHQ3T67dwDr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1KkXjuIeO7UzHQ3T67dwDr)
+[pretty](/playlists/pretty/1KkXjuIeO7UzHQ3T67dwDr.md) - cumulative - [plain](/playlists/plain/1KkXjuIeO7UzHQ3T67dwDr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1KkXjuIeO7UzHQ3T67dwDr)
 
 ### [RAP HITS 2024](https://open.spotify.com/playlist/1KkXjuIeO7UzHQ3T67dwDr)
 

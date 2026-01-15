@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain](/playlists/plain/37i9dQZF1DX37pZLd58ED5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX37pZLd58ED5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain](/playlists/plain/37i9dQZF1DX37pZLd58ED5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX37pZLd58ED5)
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Marracash
+> Solo beat e rime avvolgenti\. Cover: Paky
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,119 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,332 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 99 | [APPARTENGO \- Il sangue \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/2tpfOljBdskx8G331TjRps) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Persona](https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul) | 4:15 |
 | 100 | [AMAMI X CHI SONO \(feat\. Glocky & Side Baby\)](https://open.spotify.com/track/5CJAiulAVTOSlcCqxTBzac) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 2:52 |
 
-Snapshot ID: `AAAAAGe+kRlte85A75h2zxxWyUB14HhS`
+Snapshot ID: `AAAAAA/x1dlLsBh4CrCPYTZt6O/Oh5Zk`

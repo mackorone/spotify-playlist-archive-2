@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Mission Impossible",
+        "url": "https://open.spotify.com/album/3XmfpNqMTVw1htr6lv1RgR"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105230,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/4dTXktFpSZC6remucId05v"
+    },
+    {
+      "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/5TxnFtqYxSTOjh7B5SKaZH"
       },
@@ -522,6 +540,24 @@
       "duration_ms": 224415,
       "name": "Fstan Aswad",
       "url": "https://open.spotify.com/track/006vXYYcdL1MTbMjlY61ro"
+    },
+    {
+      "album": {
+        "name": "FTRA",
+        "url": "https://open.spotify.com/album/5iOJ9VwsEJZBj4fN4MFCvZ"
+      },
+      "artists": [
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182755,
+      "name": "FTRA",
+      "url": "https://open.spotify.com/track/5NC1zZGyIHnXNiOfZslM62"
     },
     {
       "album": {
@@ -660,7 +696,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 189295,
       "name": "Khalisni",
       "url": "https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp"
@@ -860,7 +896,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148500,
       "name": "Mashi El Hal",
       "url": "https://open.spotify.com/track/3EsdhFv69vVaBAAFlphMYb"

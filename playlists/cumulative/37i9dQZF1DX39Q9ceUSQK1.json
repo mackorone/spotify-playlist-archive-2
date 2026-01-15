@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Thomas Raggi",
+  "description": "Nieuwe alternative & rock releases. Cover: Hiqpy (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artiest)",
   "name": "New Alternative",
   "tracks": [
     {
@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226150,
       "name": "Changing Of The Guard",
       "url": "https://open.spotify.com/track/18qRnqB5ICYkqVy6rt9VCb"
@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Stunt Double",
+        "url": "https://open.spotify.com/album/4qLaCCe6nzS3t7xqLjYgb6"
+      },
+      "artists": [
+        {
+          "name": "Queen's Pleasure",
+          "url": "https://open.spotify.com/artist/6S0O3eQiVrw78LG1z2EE4h"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152929,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/4D9KNvjwtCqTZhjQM00hAZ"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1xMQzZIL2wrIIdd1u7JnSn"
       },
@@ -2706,6 +2724,24 @@
       "duration_ms": 173248,
       "name": "Disco Dream",
       "url": "https://open.spotify.com/track/1l7kpzfxOa7ZzMcgfQnKpV"
+    },
+    {
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/17gxG3lYgvANFNR8FI7Frp"
+      },
+      "artists": [
+        {
+          "name": "Crybabies",
+          "url": "https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233093,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/4Vxl7MqmLnB1U6mCMdmIPG"
     },
     {
       "album": {
@@ -4929,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/2NgybCTiLpld17LTGcDymR"
+      },
+      "artists": [
+        {
+          "name": "RAMAN.",
+          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/0QlMBEVCrI1fwarVSG2mO1"
+    },
+    {
+      "album": {
         "name": "I Knew We'd Talk About It One Day",
         "url": "https://open.spotify.com/album/0NP0x5cKqz1XytxGNiiZ0y"
       },
@@ -5729,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "Keep",
+        "url": "https://open.spotify.com/album/3mO1zEMGxTbIP13N9SC3yF"
+      },
+      "artists": [
+        {
+          "name": "The Hickey Underworld",
+          "url": "https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256016,
+      "name": "Keep",
+      "url": "https://open.spotify.com/track/5Zq0emHBg0MASnq2Ed1Z6r"
+    },
+    {
+      "album": {
         "name": "Keep Running",
         "url": "https://open.spotify.com/album/1gcgL4kcrkKmwGZ7vCM3s0"
       },
@@ -6519,6 +6591,24 @@
     },
     {
       "album": {
+        "name": "Make-up is a Lie",
+        "url": "https://open.spotify.com/album/0jyLLWr93rCySb4oKjhxxX"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Make-up is a Lie",
+      "url": "https://open.spotify.com/track/1ubJkE9q1un1hIHbDfJ8Tg"
+    },
+    {
+      "album": {
         "name": "Making Up Animals",
         "url": "https://open.spotify.com/album/6EyU2jNFzP2puyzOwvfbvR"
       },
@@ -6786,6 +6876,24 @@
       "duration_ms": 283253,
       "name": "Metal",
       "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
+    },
+    {
+      "album": {
+        "name": "Middle Of The Night",
+        "url": "https://open.spotify.com/album/6d5nXP76v83pCqx8XXhZ0f"
+      },
+      "artists": [
+        {
+          "name": "Lenny Monsou",
+          "url": "https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212553,
+      "name": "Middle Of The Night",
+      "url": "https://open.spotify.com/track/25VAdaht8FERz3lA86V2fv"
     },
     {
       "album": {
@@ -9801,6 +9909,24 @@
     },
     {
       "album": {
+        "name": "Suitcase Child",
+        "url": "https://open.spotify.com/album/3TtHmMinL5snuM79yNgF7K"
+      },
+      "artists": [
+        {
+          "name": "ise",
+          "url": "https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242722,
+      "name": "Suitcase Child",
+      "url": "https://open.spotify.com/track/49dFlcnwGSH9K3YgK12Wqx"
+    },
+    {
+      "album": {
         "name": "Summer affair",
         "url": "https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV"
       },
@@ -10234,6 +10360,24 @@
       "duration_ms": 224572,
       "name": "The Act of Disappearing",
       "url": "https://open.spotify.com/track/4laLO7MdMvoqqZpzQNtn2L"
+    },
+    {
+      "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
     },
     {
       "album": {
@@ -11829,6 +11973,24 @@
     },
     {
       "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2PVB5oiw0vxv3xup7MjEsc"
+      },
+      "artists": [
+        {
+          "name": "High Hi",
+          "url": "https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/6NtMIM2DMxKJ6uIkR02ol2"
+    },
+    {
+      "album": {
         "name": "The Guest House - EP",
         "url": "https://open.spotify.com/album/1umXpIM0hTxV0pr5wLBbBz"
       },
@@ -12269,6 +12431,24 @@
     },
     {
       "album": {
+        "name": "Youman",
+        "url": "https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216128,
+      "name": "Youman",
+      "url": "https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu"
+    },
+    {
+      "album": {
         "name": "Your House",
         "url": "https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami"
       },
@@ -12302,6 +12482,28 @@
       "duration_ms": 87488,
       "name": "Yoyo Love",
       "url": "https://open.spotify.com/track/6Kim3K4szMCZWVYMwFWTm9"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239582,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
     },
     {
       "album": {

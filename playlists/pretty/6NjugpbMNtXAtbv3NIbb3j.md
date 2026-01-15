@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/6NjugpbMNtXAtbv3NIbb3j.md) - [plain](/playlists/plain/6NjugpbMNtXAtbv3NIbb3j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6NjugpbMNtXAtbv3NIbb3j)
+pretty - [cumulative](/playlists/cumulative/6NjugpbMNtXAtbv3NIbb3j.md) - [plain](/playlists/plain/6NjugpbMNtXAtbv3NIbb3j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6NjugpbMNtXAtbv3NIbb3j)
 
 ### [Spotify House Thursday](https://open.spotify.com/playlist/6NjugpbMNtXAtbv3NIbb3j)
 

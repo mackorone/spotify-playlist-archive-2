@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Rio Da Yung Og and Bfb Da Packman",
+  "description": "The Midwest is always on time. Cover: Chief Keef\n",
   "name": "CST",
   "tracks": [
     {
@@ -140,6 +140,28 @@
       "duration_ms": 166435,
       "name": "100 Chicagos",
       "url": "https://open.spotify.com/track/2zg04XrOXZLIZGjDo2Z9qH"
+    },
+    {
+      "album": {
+        "name": "SCOOMSDAY",
+        "url": "https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135003,
+      "name": "100 Years",
+      "url": "https://open.spotify.com/track/6m8e200ylw6zj6MkqVXl5u"
     },
     {
       "album": {
@@ -2667,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Bad Guys (Jiggy Jiggy)",
+        "url": "https://open.spotify.com/album/0N7hQ8mMeBQ2rQkAwMm5K2"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180375,
+      "name": "Bad Guys (Jiggy Jiggy)",
+      "url": "https://open.spotify.com/track/2cMBp20hDoXqAIBFuyKVGB"
+    },
+    {
+      "album": {
         "name": "Bad Man (Smooth Criminal)",
         "url": "https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5"
       },
@@ -5064,7 +5104,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 166400,
       "name": "Chances",
       "url": "https://open.spotify.com/track/64yfZgN1S6xfPazHcHHSLA"
@@ -5540,7 +5580,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135211,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/2UqjSm4u2Mpb5E4Y265LQJ"
@@ -8288,7 +8328,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159568,
       "name": "For No Reason",
       "url": "https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww"
@@ -9174,7 +9214,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 126065,
       "name": "Genuine",
       "url": "https://open.spotify.com/track/5QR8HHEubK05X6yGRNrX8d"
@@ -10395,6 +10435,28 @@
     },
     {
       "album": {
+        "name": "SCOOMSDAY",
+        "url": "https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "GWSM",
+      "url": "https://open.spotify.com/track/4paoz218yUcjPcwhJt6mKA"
+    },
+    {
+      "album": {
         "name": "2 Effortless",
         "url": "https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz"
       },
@@ -10618,6 +10680,24 @@
       "duration_ms": 172800,
       "name": "Harley Quinn",
       "url": "https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2"
+    },
+    {
+      "album": {
+        "name": "Harry Potter",
+        "url": "https://open.spotify.com/album/0dh66XoKbWrBZPXID0nlXO"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335586,
+      "name": "Harry Potter",
+      "url": "https://open.spotify.com/track/0wiEf8greUbMFJTu3UU3qo"
     },
     {
       "album": {
@@ -12559,6 +12639,24 @@
     },
     {
       "album": {
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182587,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
+    },
+    {
+      "album": {
         "name": "ILL WHAT I BLEED",
         "url": "https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH"
       },
@@ -13764,7 +13862,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 126666,
       "name": "Kill Confirmed",
       "url": "https://open.spotify.com/track/5P3qFQroyLuKjt3g9NgAz9"
@@ -13968,6 +14066,24 @@
       "duration_ms": 157987,
       "name": "KooKoo Language",
       "url": "https://open.spotify.com/track/2M3zadN1j2aEOsFtALR40L"
+    },
+    {
+      "album": {
+        "name": "Kso Glock",
+        "url": "https://open.spotify.com/album/7Jnywr7o2o37qvgY1lbD6R"
+      },
+      "artists": [
+        {
+          "name": "FullyChop",
+          "url": "https://open.spotify.com/artist/3NVubm0PxfuLTmokAlOufp"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135022,
+      "name": "Kso Glock",
+      "url": "https://open.spotify.com/track/5aWRvFxf9z2mpcavr9ZVPk"
     },
     {
       "album": {
@@ -24260,7 +24376,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 103200,
       "name": "Stolen V (First Day Out)",
       "url": "https://open.spotify.com/track/15bJTrI0SM59eWr3jNsgli"

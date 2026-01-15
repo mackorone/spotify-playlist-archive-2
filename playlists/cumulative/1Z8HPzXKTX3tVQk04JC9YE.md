@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1Z8HPzXKTX3tVQk04JC9YE.md) - cumulative - [plain](/playlists/plain/1Z8HPzXKTX3tVQk04JC9YE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1Z8HPzXKTX3tVQk04JC9YE)
+[pretty](/playlists/pretty/1Z8HPzXKTX3tVQk04JC9YE.md) - cumulative - [plain](/playlists/plain/1Z8HPzXKTX3tVQk04JC9YE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1Z8HPzXKTX3tVQk04JC9YE)
 
 ### [As Seen on TV](https://open.spotify.com/playlist/1Z8HPzXKTX3tVQk04JC9YE)
 

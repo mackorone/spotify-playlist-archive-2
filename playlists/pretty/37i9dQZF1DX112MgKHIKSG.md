@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX112MgKHIKSG.md) - [plain](/playlists/plain/37i9dQZF1DX112MgKHIKSG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX112MgKHIKSG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX112MgKHIKSG.md) - [plain](/playlists/plain/37i9dQZF1DX112MgKHIKSG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX112MgKHIKSG)
 
 ### [Peppa Pig Storytime](https://open.spotify.com/playlist/37i9dQZF1DX112MgKHIKSG)
 
 > Stories from the world of Peppa Pig!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,605 likes - 48 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,237 likes - 48 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain](/playlists/plain/37i9dQZF1DWSlIoeoZqkmB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSlIoeoZqkmB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain](/playlists/plain/37i9dQZF1DWSlIoeoZqkmB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSlIoeoZqkmB)
 
 ### [KING SUPER LIVE 2024](https://open.spotify.com/playlist/37i9dQZF1DWSlIoeoZqkmB)
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト！2日間のセットリストを公開。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,272 likes - 95 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,274 likes - 95 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3krFAzyOjl0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3krFAzyOjl0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3krFAzyOjl0)
+[pretty](/playlists/pretty/37i9dQZF1DX3krFAzyOjl0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3krFAzyOjl0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3krFAzyOjl0)
 
 ### [2025 BTS FESTA : 우리들의 열두번째 여름을 기억하며](https://open.spotify.com/playlist/37i9dQZF1DX3krFAzyOjl0)
 

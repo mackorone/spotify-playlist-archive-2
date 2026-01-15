@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/4173ENNA5eMzHrz9pipvxI.md) - cumulative - [plain](/playlists/plain/4173ENNA5eMzHrz9pipvxI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4173ENNA5eMzHrz9pipvxI)
+[pretty](/playlists/pretty/4173ENNA5eMzHrz9pipvxI.md) - cumulative - [plain](/playlists/plain/4173ENNA5eMzHrz9pipvxI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4173ENNA5eMzHrz9pipvxI)
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: TH;EN
 
-1,898 songs - 3 day 19 hr 17 min
+1,899 songs - 3 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1477,6 +1477,7 @@
 | [Shake That](https://open.spotify.com/track/66iU3D1KZ4X4OrwHjTjU2I) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Get Down / Shake That](https://open.spotify.com/album/6EniPCrOLspq3Y5lVdvNFC) | 2:06 | 2025-10-27 |  |
 | [Shame \(Voost Remix\) \- Single Edit](https://open.spotify.com/track/6PKt0YFeEHvz9mgTZaBsI8) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1), [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO) | [Shame \(Voost Remix\) \[Single Edit\]](https://open.spotify.com/album/7auuCc6dgjq8dlQmzF30R8) | 2:35 | 2022-12-08 | 2023-01-06 |
 | [She Movin'](https://open.spotify.com/track/2Mx93ho6F2ovN2FA4vs3Ud) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [She Movin'](https://open.spotify.com/album/5bFs3EpDL14QlNqfyKEvVl) | 3:37 | 2022-06-03 | 2022-06-20 |
+| [Shivers](https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Shivers](https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj) | 2:45 | 2026-01-08 |  |
 | [Shooting Stars](https://open.spotify.com/track/0Vn1ko7vBs5qGf07s3XrFV) | [MAN](https://open.spotify.com/artist/50wV19gCROFUtMt3zcO4K8), [Guy Katch](https://open.spotify.com/artist/12Nw1wrfrjwSf0KeDoXm72) | [Shooting Stars](https://open.spotify.com/album/5NEiHpZcVucoDCXYDoMu13) | 2:20 | 2025-04-17 | 2025-05-24 |
 | [Shotgun](https://open.spotify.com/track/0L5tbVNGughYFA4isrwdCV) | [Mon DJ](https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U), [Groove Amigos](https://open.spotify.com/artist/4gp4RcDULbCvqLbnKPD2RH) | [Shotgun](https://open.spotify.com/album/77BIEWZzIHqD5cFF5IqtZt) | 2:38 | 2023-08-31 | 2023-09-26 |
 | [Show Me](https://open.spotify.com/track/3ozBO2VCTzeWaWHMF8Vko9) | [Adam Butler](https://open.spotify.com/artist/59OcLANY6VTX2eInlGP3GG) | [Show Me](https://open.spotify.com/album/4T9D9vcGiqKA6fXTZL1ALH) | 4:04 | 2023-05-25 | 2023-06-09 |

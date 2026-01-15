@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sSSKY6eN8p.md) - [plain](/playlists/plain/37i9dQZF1DX1sSSKY6eN8p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1sSSKY6eN8p)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sSSKY6eN8p.md) - [plain](/playlists/plain/37i9dQZF1DX1sSSKY6eN8p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1sSSKY6eN8p)
 
 ### [Monster Hunter Now](https://open.spotify.com/playlist/37i9dQZF1DX1sSSKY6eN8p)
 
 > Music From "Monster Hunter Now"! 音楽で辿る「Monster Hunter Now」の世界! © 2023 Niantic\. Characters / Artwork/ Music © CAPCOM CO., LTD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,666 likes - 43 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,671 likes - 43 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

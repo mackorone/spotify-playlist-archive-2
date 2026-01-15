@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6ZdvBQs07OnSofZPjMKUFg.md) - [plain](/playlists/plain/6ZdvBQs07OnSofZPjMKUFg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6ZdvBQs07OnSofZPjMKUFg)
+pretty - [cumulative](/playlists/cumulative/6ZdvBQs07OnSofZPjMKUFg.md) - [plain](/playlists/plain/6ZdvBQs07OnSofZPjMKUFg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6ZdvBQs07OnSofZPjMKUFg)
 
 ### [Singer\-songwriter Hits](https://open.spotify.com/playlist/6ZdvBQs07OnSofZPjMKUFg)
 
 > Vind hier de mooiste singer\-songwriter liedjes van nu en vroeger\. <a href="https://open.spotify.com/user/digsternl">Meer Digster playlisten</a>\. Cover: Douwe Bob
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 9,288 likes - 50 songs - 2 hr 59 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 9,279 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

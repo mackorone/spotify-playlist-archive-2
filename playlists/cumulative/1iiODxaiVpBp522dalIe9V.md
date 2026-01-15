@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1iiODxaiVpBp522dalIe9V.md) - cumulative - [plain](/playlists/plain/1iiODxaiVpBp522dalIe9V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1iiODxaiVpBp522dalIe9V)
+[pretty](/playlists/pretty/1iiODxaiVpBp522dalIe9V.md) - cumulative - [plain](/playlists/plain/1iiODxaiVpBp522dalIe9V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1iiODxaiVpBp522dalIe9V)
 
 ### [Don't Mess With Texas](https://open.spotify.com/playlist/1iiODxaiVpBp522dalIe9V)
 

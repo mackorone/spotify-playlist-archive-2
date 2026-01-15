@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7A2YimOfIrmAWkCeSIY8Rq.md) - [plain](/playlists/plain/7A2YimOfIrmAWkCeSIY8Rq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7A2YimOfIrmAWkCeSIY8Rq)
+pretty - [cumulative](/playlists/cumulative/7A2YimOfIrmAWkCeSIY8Rq.md) - [plain](/playlists/plain/7A2YimOfIrmAWkCeSIY8Rq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7A2YimOfIrmAWkCeSIY8Rq)
 
 ### [Calm Classics](https://open.spotify.com/playlist/7A2YimOfIrmAWkCeSIY8Rq)
 
 > Breathe in, breathe out and let this relaxing playlist help you focus on the task at hand.
 
-[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 31,648 likes - 89 songs - 5 hr 6 min
+[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 31,639 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

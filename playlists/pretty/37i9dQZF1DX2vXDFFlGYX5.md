@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vXDFFlGYX5.md) - [plain](/playlists/plain/37i9dQZF1DX2vXDFFlGYX5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2vXDFFlGYX5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vXDFFlGYX5.md) - [plain](/playlists/plain/37i9dQZF1DX2vXDFFlGYX5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2vXDFFlGYX5)
 
 ### [TIGER & BUNNY \-タイガー&バニー\-](https://open.spotify.com/playlist/37i9dQZF1DX2vXDFFlGYX5)
 
 > Music From "TIGER & BUNNY"! タイバニの世界を彩る楽曲を1つのプレイリストで！©BNP/T&B2 PARTNERS
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,597 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,616 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

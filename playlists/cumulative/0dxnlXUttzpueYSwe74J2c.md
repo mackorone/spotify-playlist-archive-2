@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0dxnlXUttzpueYSwe74J2c.md) - cumulative - [plain](/playlists/plain/0dxnlXUttzpueYSwe74J2c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0dxnlXUttzpueYSwe74J2c)
+[pretty](/playlists/pretty/0dxnlXUttzpueYSwe74J2c.md) - cumulative - [plain](/playlists/plain/0dxnlXUttzpueYSwe74J2c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0dxnlXUttzpueYSwe74J2c)
 
 ### [sleep for a quiet night](https://open.spotify.com/playlist/0dxnlXUttzpueYSwe74J2c)
 

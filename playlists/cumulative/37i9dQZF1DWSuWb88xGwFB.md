@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSuWb88xGwFB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSuWb88xGwFB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSuWb88xGwFB)
+[pretty](/playlists/pretty/37i9dQZF1DWSuWb88xGwFB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSuWb88xGwFB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSuWb88xGwFB)
 
 ### [Crate Diggin' Strictly Rhythm](https://open.spotify.com/playlist/37i9dQZF1DWSuWb88xGwFB)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX96miwkmVnVt.md) - [plain](/playlists/plain/37i9dQZF1DX96miwkmVnVt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX96miwkmVnVt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX96miwkmVnVt.md) - [plain](/playlists/plain/37i9dQZF1DX96miwkmVnVt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX96miwkmVnVt)
 
 ### [Mixtape \#1 Arlo Parks "drum tones"](https://open.spotify.com/playlist/37i9dQZF1DX96miwkmVnVt)
 
 > Arlo's selections "of the crunchiest and most singular drums on the planet"\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,541 likes - 27 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,646 likes - 27 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

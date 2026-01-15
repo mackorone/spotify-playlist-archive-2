@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/15ngsvOmlTkARCg7ipoNvG.md) - cumulative - [plain](/playlists/plain/15ngsvOmlTkARCg7ipoNvG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/15ngsvOmlTkARCg7ipoNvG)
+[pretty](/playlists/pretty/15ngsvOmlTkARCg7ipoNvG.md) - cumulative - [plain](/playlists/plain/15ngsvOmlTkARCg7ipoNvG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/15ngsvOmlTkARCg7ipoNvG)
 
 ### [CODING FOCUS](https://open.spotify.com/playlist/15ngsvOmlTkARCg7ipoNvG)
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,038 songs - 1 day 17 hr 6 min
+2,043 songs - 1 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Cardinals](https://open.spotify.com/track/5QjUwoWJq9HyHJ2mSkPf5X) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Gazing](https://open.spotify.com/album/0hcrqnBc54ubYBORXkpPzT) | 1:16 | 2022-01-12 | 2024-01-30 |
 | [Care](https://open.spotify.com/track/02xPbeA0zjFEwZJJVUnXrW) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Care](https://open.spotify.com/album/3SHUCiCN8OUihqWxJhMzcX) | 1:00 | 2025-08-22 |  |
 | [Caring](https://open.spotify.com/track/3NvMgHITm7sEJFimnWuZ9J) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Caring](https://open.spotify.com/album/5UKExw3XI60SXjpFOQ5DEZ) | 1:00 | 2025-08-01 |  |
+| [Caring Arr\. For Piano](https://open.spotify.com/track/3y868n3bMNDPOgKJT6wv8I) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Caring Arr\. For Piano](https://open.spotify.com/album/3Qfyr92rsDdSeggDrZELFO) | 1:00 | 2026-01-06 |  |
 | [Carnation](https://open.spotify.com/track/1njSR7Z7kLVOpSeFajEY5i) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Carnation](https://open.spotify.com/album/4BwbKdsxankzPgI3CAmACc) | 1:00 | 2025-02-15 |  |
 | [Carnation](https://open.spotify.com/track/29J969utg3ZjilR12yH00u) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Carry](https://open.spotify.com/track/4gS133gUt9dPbDNY33fRs0) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Carry](https://open.spotify.com/album/10FcLq7zOGnldwOTQaqGKX) | 1:00 | 2025-08-05 |  |
@@ -956,6 +957,7 @@
 | [Kind](https://open.spotify.com/track/4xdbbw5mhC2rTd6VpPQuwp) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Kind](https://open.spotify.com/album/3ymxvTHijs1YcdNHgtEK5J) | 1:00 | 2024-02-26 |  |
 | [Kind Heart Arr\. For Cello](https://open.spotify.com/track/6PbJhBPezivix8NaJdgOY7) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Kind Heart \(Strings Versions\)](https://open.spotify.com/album/6bRkB6KJjOAMRlZaCHEYL4) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Kind Heart Arr\. For Strings](https://open.spotify.com/track/1OWxrEaiZWUXieZfKxGqfk) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Kind Heart Arr\. For Strings](https://open.spotify.com/album/1b4XGn2ZUbq9Hdb8zYRvmD) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Kind Presence](https://open.spotify.com/track/0LoR6tD1a7xv9cTbazIRRM) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Kind Presence](https://open.spotify.com/album/4KJHDOCRkBFUqW5DE2bZdF) | 1:00 | 2026-01-13 |  |
 | [Kind Words](https://open.spotify.com/track/3v1ddCzden3PxO4Jw0ykca) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Kind Words](https://open.spotify.com/album/5tYobvCxhGcnTZsEaTsnx7) | 1:00 | 2025-03-15 |  |
 | [Kindness Flows](https://open.spotify.com/track/0lfmUhbwt48FppDxm22pVJ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Silent Serenity](https://open.spotify.com/album/38rdMbpYKjaOlNAhjI3JTQ) | 1:01 | 2022-05-13 |  |
 | [La Tristesse](https://open.spotify.com/track/4Ehl1bSLVt0uOTBLXaVD84) | [July Sunrise](https://open.spotify.com/artist/5cPCr42L9sBItwj1s59SHy) | [La Tristesse](https://open.spotify.com/album/5zzWHv6KgiB6mRO8adLmh2) | 1:02 | 2024-02-09 | 2024-02-13 |
@@ -1374,6 +1376,7 @@
 | [Quiet Again](https://open.spotify.com/track/0XWS1EBtMbtk36iZEGGF4a) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge, Vol\. 2](https://open.spotify.com/album/0BZhEnYxY5sZJs54ZYOCmX) | 1:03 | 2022-01-12 |  |
 | [Quiet Hope](https://open.spotify.com/track/1ne1HkwDKNkiGM2RSoWyO5) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Quiet Hope](https://open.spotify.com/album/7qy2ykL1wcBfrRw3Ilm4tu) | 1:00 | 2025-03-19 |  |
 | [Quiet Joy](https://open.spotify.com/track/1FJAimeQsvhQB95NTGpG60) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Autumn Rain](https://open.spotify.com/album/0JsMeQCTqpoV07HsE6QVC0) | 1:47 | 2022-01-20 |  |
+| [Quiet Life](https://open.spotify.com/track/4jokcebuY7OmzY3XRcGD7e) | [Wonder In Serenity](https://open.spotify.com/artist/1ClhpZHK4uyN4gCCU5Mll4) | [Quiet Life](https://open.spotify.com/album/5QQMZWQLpAr8tAQqL1EQIu) | 1:00 | 2026-01-10 |  |
 | [Quiet Love](https://open.spotify.com/track/3s6VZYDAJ7GfqIflkxqy1t) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Quiet Love](https://open.spotify.com/album/5FOLujx57ozchoLQGmFouU) | 1:01 | 2022-03-21 | 2024-01-30 |
 | [Quiet Moment](https://open.spotify.com/track/4uwg2meLZjmGw1lgJepRe6) | [Wonder In Serenity](https://open.spotify.com/artist/1ClhpZHK4uyN4gCCU5Mll4) | [Morning Dreamtime](https://open.spotify.com/album/3pKYaNoqGxX0dEZcUszoWv) | 1:00 | 2025-10-08 |  |
 | [Quiet Night](https://open.spotify.com/track/4qmaxSnrzUYqDIZcrJZ4ia) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Quiet Night](https://open.spotify.com/album/6s8kzeG3p0BnRRKgs6v3gL) | 1:00 | 2024-12-29 |  |
@@ -1585,6 +1588,7 @@
 | [Sky](https://open.spotify.com/track/5rHfbA9E0OEPD1H3hL51rM) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:39 | 2022-01-12 |  |
 | [Skyline](https://open.spotify.com/track/465IlPuk6gh20j06Sizl4O) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Winter Morning Piano](https://open.spotify.com/album/4XZqpJ5VM0DhvC8vIfsWN1) | 1:00 | 2025-02-19 |  |
 | [Skyline Arr\. For Grand Piano](https://open.spotify.com/track/3ZyWLacf8M5ii6RRD9cPN8) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Grand Piano Versions Of Winter Morning Piano](https://open.spotify.com/album/38k7StthR7ViheQ2Y4HcUH) | 1:00 | 2025-02-25 |  |
+| [Slow Morning](https://open.spotify.com/track/3FvgoiduOacudY79YkM8Af) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Slow Morning](https://open.spotify.com/album/6iD5b6MqRd8AFsnRE2YRDY) | 1:00 | 2026-01-08 |  |
 | [Slow Mornings \- Cello Version](https://open.spotify.com/track/4bFZkkVeM916PKXDyWThGF) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Slow Mornings](https://open.spotify.com/album/5OenU4fXyRDJEv4LLriE8f) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Slow Motion Arr\. For Cello](https://open.spotify.com/track/2FPMVNd9Ib7U9iwTiBThF4) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Slow Motion](https://open.spotify.com/album/4WLwsjuSi5qAgk9anYKGd1) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Slow Motion Arr\. For Strings](https://open.spotify.com/track/0UZPE87NB5clcBB5Q5zZ3G) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Slow Motion Arr\. For Strings](https://open.spotify.com/album/3TN0A6kek2KJVdJlyw2i9E) | 1:01 | 2024-02-09 | 2024-02-13 |
@@ -1813,6 +1817,7 @@
 | [Time And Light](https://open.spotify.com/track/0cpsAC1TOA0H9gTEjbUBzS) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:02 | 2022-02-06 |  |
 | [Time Stands Still Arr\. For Cello](https://open.spotify.com/track/5LKnH2PMgivmY1DaU0KInM) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Time Stands Still](https://open.spotify.com/album/2fLpTJi1r9ujgNMlPsEYi0) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Times Are Changing](https://open.spotify.com/track/7Mi1BPhndycGl4LpUDB4WX) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:46 | 2024-01-29 |  |
+| [Today](https://open.spotify.com/track/70dDeAlUrlXqbRJB01fELF) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Today](https://open.spotify.com/album/29hu4WWxOsk0PEaoK5GkAE) | 1:00 | 2026-01-15 |  |
 | [Together](https://open.spotify.com/track/0sw22Kh5BlS5Ks4c8mK02T) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:10 | 2022-01-12 |  |
 | [Together](https://open.spotify.com/track/4AKGQ7gu7ZmbijIHIqTZBt) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Together](https://open.spotify.com/album/7sjTKi6FYxxBZ7IFFkaa1F) | 1:00 | 2024-03-20 |  |
 | [Together Again](https://open.spotify.com/track/6JVqCBrSXhbrS8PcejZBm7) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Together Again](https://open.spotify.com/album/0zzMrUGGlLgifG6ddELKs0) | 1:00 | 2024-09-28 |  |

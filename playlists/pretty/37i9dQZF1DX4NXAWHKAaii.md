@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain](/playlists/plain/37i9dQZF1DX4NXAWHKAaii) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4NXAWHKAaii)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain](/playlists/plain/37i9dQZF1DX4NXAWHKAaii) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4NXAWHKAaii)
 
 ### [PAUZA track IDs](https://open.spotify.com/playlist/37i9dQZF1DX4NXAWHKAaii)
 
 > <a href="spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N">PAUZA</a>'s favorite tracks\. Updated regularly\. Curated by PAUZA\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,516 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,587 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

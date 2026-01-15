@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain](/playlists/plain/37i9dQZF1DWSnDyPAn5upE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSnDyPAn5upE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain](/playlists/plain/37i9dQZF1DWSnDyPAn5upE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSnDyPAn5upE)
 
 ### [ethereal voices](https://open.spotify.com/playlist/37i9dQZF1DWSnDyPAn5upE)
 

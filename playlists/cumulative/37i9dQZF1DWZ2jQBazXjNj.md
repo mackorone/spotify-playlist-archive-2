@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZ2jQBazXjNj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ2jQBazXjNj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ2jQBazXjNj)
+[pretty](/playlists/pretty/37i9dQZF1DWZ2jQBazXjNj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ2jQBazXjNj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ2jQBazXjNj)
 
 ### [BelicoFest Setlist: Luis R Coniquez ](https://open.spotify.com/playlist/37i9dQZF1DWZ2jQBazXjNj)
 

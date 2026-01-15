@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain](/playlists/plain/37i9dQZF1DWU43UtgmzCjN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU43UtgmzCjN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain](/playlists/plain/37i9dQZF1DWU43UtgmzCjN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU43UtgmzCjN)
 
 ### [Corridos Prohibidos](https://open.spotify.com/playlist/37i9dQZF1DWU43UtgmzCjN)
 
 > Pa' toda la raza pesada\. Los Originales de San Juan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,313 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,626 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

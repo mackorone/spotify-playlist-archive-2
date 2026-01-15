@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain](/playlists/plain/37i9dQZF1DX3wpquH3X56H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3wpquH3X56H)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain](/playlists/plain/37i9dQZF1DX3wpquH3X56H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3wpquH3X56H)
 
 ### [Best of New Ambient 2025](https://open.spotify.com/playlist/37i9dQZF1DX3wpquH3X56H)
 
 > Highlights of 2025 from New Ambient\. Cover: Malibu  🪐
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,065 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,634 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

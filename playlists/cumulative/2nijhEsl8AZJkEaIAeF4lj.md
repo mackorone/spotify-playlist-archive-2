@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/2nijhEsl8AZJkEaIAeF4lj.md) - cumulative - [plain](/playlists/plain/2nijhEsl8AZJkEaIAeF4lj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2nijhEsl8AZJkEaIAeF4lj)
+[pretty](/playlists/pretty/2nijhEsl8AZJkEaIAeF4lj.md) - cumulative - [plain](/playlists/plain/2nijhEsl8AZJkEaIAeF4lj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2nijhEsl8AZJkEaIAeF4lj)
 
 ### [melodies from above ✨](https://open.spotify.com/playlist/2nijhEsl8AZJkEaIAeF4lj)
 
 > melancholic dreaming… or my go\-to plane playlist
 
-357 songs - 22 hr 57 min
+358 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Drive Safe](https://open.spotify.com/track/6eDfe957aV4sqGnDhlSikJ) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d) | 4:00 | 2019-07-26 |  |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-09-26 |  |
 | [Echoes Of Silence](https://open.spotify.com/track/5dikapPlQPrsT3xUsUjj0N) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:00 | 2022-12-10 |  |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2026-01-09 |  |
 | [ENTROPY](https://open.spotify.com/track/795p3jKj5stjPf8IFpZkdD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 4:21 | 2021-04-07 |  |
 | [Europa](https://open.spotify.com/track/6WIQo9M42AzlumLNTziPjY) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Satellite Dreams](https://open.spotify.com/album/7MyxImDjlAYqdDjnfGRqIY) | 4:48 | 2024-02-03 |  |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2022-07-17 |  |

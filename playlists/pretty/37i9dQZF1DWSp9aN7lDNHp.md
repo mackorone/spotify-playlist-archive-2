@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSp9aN7lDNHp.md) - [plain](/playlists/plain/37i9dQZF1DWSp9aN7lDNHp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSp9aN7lDNHp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSp9aN7lDNHp.md) - [plain](/playlists/plain/37i9dQZF1DWSp9aN7lDNHp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSp9aN7lDNHp)
 
 ### [This Is The xx](https://open.spotify.com/playlist/37i9dQZF1DWSp9aN7lDNHp)
 

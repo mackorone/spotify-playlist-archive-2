@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain](/playlists/plain/37i9dQZF1DWUBSyNvqfKld) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUBSyNvqfKld)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain](/playlists/plain/37i9dQZF1DWUBSyNvqfKld) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUBSyNvqfKld)
 
 ### [DEAS' track IDs](https://open.spotify.com/playlist/37i9dQZF1DWUBSyNvqfKld)
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,484 likes - 59 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,514 likes - 59 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0A8zVl7p82B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0A8zVl7p82B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0A8zVl7p82B)
+[pretty](/playlists/pretty/37i9dQZF1DX0A8zVl7p82B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0A8zVl7p82B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0A8zVl7p82B)
 
 ### [Christmas Pop](https://open.spotify.com/playlist/37i9dQZF1DX0A8zVl7p82B)
 

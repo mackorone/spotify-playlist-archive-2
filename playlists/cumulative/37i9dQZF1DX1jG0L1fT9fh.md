@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1jG0L1fT9fh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1jG0L1fT9fh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1jG0L1fT9fh)
+[pretty](/playlists/pretty/37i9dQZF1DX1jG0L1fT9fh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1jG0L1fT9fh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1jG0L1fT9fh)
 
 ### [KENGAN ASHURA](https://open.spotify.com/playlist/37i9dQZF1DX1jG0L1fT9fh)
 

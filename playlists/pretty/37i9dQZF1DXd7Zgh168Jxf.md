@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7Zgh168Jxf.md) - [plain](/playlists/plain/37i9dQZF1DXd7Zgh168Jxf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd7Zgh168Jxf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7Zgh168Jxf.md) - [plain](/playlists/plain/37i9dQZF1DXd7Zgh168Jxf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXd7Zgh168Jxf)
 
 ### [Cancún de Noche](https://open.spotify.com/playlist/37i9dQZF1DXd7Zgh168Jxf)
 

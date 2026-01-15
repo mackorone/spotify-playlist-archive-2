@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSrqNVMcxGKc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSrqNVMcxGKc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSrqNVMcxGKc)
+[pretty](/playlists/pretty/37i9dQZF1DWSrqNVMcxGKc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSrqNVMcxGKc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSrqNVMcxGKc)
 
 ### [Classiques du Rap FR](https://open.spotify.com/playlist/37i9dQZF1DWSrqNVMcxGKc)
 
-> Tous les classiques du rap français dans une seule playlist ! Photo : Diam's
+> Tous les classiques du rap français dans une seule playlist ! Photo : Ärsenik
 
 60 songs - 4 hr 24 min
 

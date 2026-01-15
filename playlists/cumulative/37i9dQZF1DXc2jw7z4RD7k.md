@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXc2jw7z4RD7k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc2jw7z4RD7k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc2jw7z4RD7k)
+[pretty](/playlists/pretty/37i9dQZF1DXc2jw7z4RD7k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc2jw7z4RD7k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc2jw7z4RD7k)
 
 ### [Grandma's Home](https://open.spotify.com/playlist/37i9dQZF1DXc2jw7z4RD7k)
 

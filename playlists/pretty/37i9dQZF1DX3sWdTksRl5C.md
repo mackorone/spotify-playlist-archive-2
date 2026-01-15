@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sWdTksRl5C.md) - [plain](/playlists/plain/37i9dQZF1DX3sWdTksRl5C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3sWdTksRl5C)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sWdTksRl5C.md) - [plain](/playlists/plain/37i9dQZF1DX3sWdTksRl5C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3sWdTksRl5C)
 
 ### [Suits LA Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX3sWdTksRl5C)
 
 > Don't play the odds, play the man\. Listen to the music from Suits & NBC's Suits LA, streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,377 likes - 56 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,414 likes - 56 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

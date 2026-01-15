@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GU5JDX5Fk7.md) - [plain](/playlists/plain/37i9dQZF1DX9GU5JDX5Fk7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9GU5JDX5Fk7)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GU5JDX5Fk7.md) - [plain](/playlists/plain/37i9dQZF1DX9GU5JDX5Fk7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9GU5JDX5Fk7)
 
 ### [재벌집 막내아들 \(Reborn Rich\)](https://open.spotify.com/playlist/37i9dQZF1DX9GU5JDX5Fk7)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmt3eyYYAW6.md) - [plain](/playlists/plain/37i9dQZF1DWXmt3eyYYAW6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXmt3eyYYAW6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmt3eyYYAW6.md) - [plain](/playlists/plain/37i9dQZF1DWXmt3eyYYAW6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXmt3eyYYAW6)
 
 ### [JRE Talks Health](https://open.spotify.com/playlist/37i9dQZF1DWXmt3eyYYAW6)
 
 > Conversations on health and fitness, plus tips to jumpstart a new and improved lifestyle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,936 likes - 12 songs - 23 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,935 likes - 12 songs - 23 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

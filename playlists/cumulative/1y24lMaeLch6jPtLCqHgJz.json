@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "After All This Time",
+        "url": "https://open.spotify.com/album/3XYHy5qaylhyzz8vfVHBC1"
+      },
+      "artists": [
+        {
+          "name": "Clef & Canberra",
+          "url": "https://open.spotify.com/artist/3Gh0EYf71aL4XgcGGle6Q1"
+        },
+        {
+          "name": "Daniel Garrick",
+          "url": "https://open.spotify.com/artist/4YFCyRHsfjPhILLXUTsYhw"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203204,
+      "name": "After All This Time",
+      "url": "https://open.spotify.com/track/75HUgR4XZk1fqds3YfwbfN"
+    },
+    {
+      "album": {
         "name": "After Midnight",
         "url": "https://open.spotify.com/album/4DTZ8cBptl7NzqHrH7wVfU"
       },
@@ -1951,6 +1973,28 @@
     },
     {
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/5TlymhW0U0a6SjovrF8tEr"
+      },
+      "artists": [
+        {
+          "name": "Nick Havsen",
+          "url": "https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3"
+        },
+        {
+          "name": "B00ST",
+          "url": "https://open.spotify.com/artist/4LbUyZ8D2tXu1kuSFzYZdx"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121329,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4OmpHbeuhayvjodg2nWPYz"
+    },
+    {
+      "album": {
         "name": "City Looks Different",
         "url": "https://open.spotify.com/album/6ml8hgQ7FjIOC305LOc5gH"
       },
@@ -3078,6 +3122,24 @@
       "duration_ms": 212106,
       "name": "Faded",
       "url": "https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz"
+    },
+    {
+      "album": {
+        "name": "Fading In The Dark",
+        "url": "https://open.spotify.com/album/2o5ucHfjt2esIFdUu1bnoS"
+      },
+      "artists": [
+        {
+          "name": "Newman",
+          "url": "https://open.spotify.com/artist/4swdtKXogbDlbqtLcmlwWy"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Fading In The Dark",
+      "url": "https://open.spotify.com/track/2dD6aaGbbAsPNXbiyPxT87"
     },
     {
       "album": {
@@ -4332,7 +4394,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218437,
       "name": "Holding Tight",
       "url": "https://open.spotify.com/track/4Oofoea0QZbzqriB7I9lFl"
@@ -5820,6 +5882,32 @@
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/6FaSXzz5N44mroiGxwHY9Z"
+      },
+      "artists": [
+        {
+          "name": "Arvenius",
+          "url": "https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq"
+        },
+        {
+          "name": "TAOMIN",
+          "url": "https://open.spotify.com/artist/5KqwVjMKFOhQQrLKKU5ksp"
+        },
+        {
+          "name": "Hunter Grant",
+          "url": "https://open.spotify.com/artist/7G9UJspdgoupF9JPtAiRab"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191313,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/3XpQ6cip5CRMAQXtL8uf75"
     },
     {
       "album": {
@@ -7758,6 +7846,24 @@
       "duration_ms": 133102,
       "name": "Sitting Down Here",
       "url": "https://open.spotify.com/track/1yjwPwIBoJJfBCPfeOwyBK"
+    },
+    {
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/42ob8qqXmcm1mJJpK43OrU"
+      },
+      "artists": [
+        {
+          "name": "ASTOR",
+          "url": "https://open.spotify.com/artist/3My8e3DuKpRo0uhuIX5lpR"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2AxjwojqEyVJGZAbBrWDGh"
     },
     {
       "album": {
@@ -9780,6 +9886,24 @@
       "duration_ms": 148137,
       "name": "With You Tonight",
       "url": "https://open.spotify.com/track/7zCZazUBLhb8LZMumVMscU"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0w1mEsmvN8k2AtT2BekV9c"
+      },
+      "artists": [
+        {
+          "name": "Ceily",
+          "url": "https://open.spotify.com/artist/1CQSuncRLKCkxHY5LixDqg"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7zT0JEjTyggAl2o0XNXSTz"
     },
     {
       "album": {

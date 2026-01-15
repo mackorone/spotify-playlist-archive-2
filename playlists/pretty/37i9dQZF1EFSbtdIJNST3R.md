@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain](/playlists/plain/37i9dQZF1EFSbtdIJNST3R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFSbtdIJNST3R)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain](/playlists/plain/37i9dQZF1EFSbtdIJNST3R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFSbtdIJNST3R)
 
 ### [Written By Sigourney Korper](https://open.spotify.com/playlist/37i9dQZF1EFSbtdIJNST3R)
 
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 30 | [Loco](https://open.spotify.com/track/6OG3E84PZPTWyI3unCiMV5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Loco](https://open.spotify.com/album/2YzAm5UkVJSFANQNlSGFKj) | 3:08 |
 | 31 | [Small Talk](https://open.spotify.com/track/0lvN2fIgifvC63C70WQZDz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Small Talk](https://open.spotify.com/album/17EackTViAFr0fZWhMYbo4) | 2:35 |
 | 32 | [Sauvignon](https://open.spotify.com/track/0VHXix8h9flwMdJajrKhnT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Sauvignon](https://open.spotify.com/album/6UlrKixl15syjZiSsfI0qE) | 2:39 |
-| 33 | [Side Eyes](https://open.spotify.com/track/6jrC9HUy2gAokbC4nrUawR) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/7bSkQflJmHKWRuhhDQ6gr6) | 2:07 |
-| 34 | [Door De Regen](https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Door De Regen](https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI) | 2:36 |
-| 35 | [LOS](https://open.spotify.com/track/7Ldgeb2tFhXB42322j16e9) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [LOS](https://open.spotify.com/album/4NkRtMQZ50XR3gd3GO4QR5) | 3:14 |
+| 33 | [LOS](https://open.spotify.com/track/7Ldgeb2tFhXB42322j16e9) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [LOS](https://open.spotify.com/album/4NkRtMQZ50XR3gd3GO4QR5) | 3:14 |
+| 34 | [Side Eyes](https://open.spotify.com/track/6jrC9HUy2gAokbC4nrUawR) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/7bSkQflJmHKWRuhhDQ6gr6) | 2:07 |
+| 35 | [Door De Regen](https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Door De Regen](https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI) | 2:36 |
 | 36 | [Eenzame Nacht](https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Eenzame Nacht](https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV) | 3:19 |
 | 37 | [All or Nothing \- X Factor Recording](https://open.spotify.com/track/01Adil20VieB0bjZF6AaLe) | [No Love Lost](https://open.spotify.com/artist/5vdu6xU4LXUH3JZqAkPTsD) | [All or Nothing \(X Factor Recording\)](https://open.spotify.com/album/2fvFbxuoKBsJehXPavvQWN) | 2:02 |
 | 38 | [Regular Girls](https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Regular Girls](https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A) | 2:23 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 50 | [Huilen In De Club](https://open.spotify.com/track/76w2a0YoSkeRlSemAewu6q) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:55 |
 | 51 | [Blockparty](https://open.spotify.com/track/40sZ1V8JA1vxH4WdYewQax) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6ydoCDUdefP6cDRFzLQQWd) | 3:35 |
 
-Snapshot ID: `AcGKngAAAABD7Hu+8WHYH8QftInQ/0y3`
+Snapshot ID: `AcHArgAAAAAjRSOCM4UqYuMIzk4aq2UR`

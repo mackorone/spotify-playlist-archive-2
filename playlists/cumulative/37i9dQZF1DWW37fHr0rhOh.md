@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW37fHr0rhOh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW37fHr0rhOh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW37fHr0rhOh)
+[pretty](/playlists/pretty/37i9dQZF1DWW37fHr0rhOh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW37fHr0rhOh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW37fHr0rhOh)
 
 ### [Faithful Melodies](https://open.spotify.com/playlist/37i9dQZF1DWW37fHr0rhOh)
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: The Martins
 
-210 songs - 13 hr 10 min
+212 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Amazing Grace](https://open.spotify.com/track/1qkpT6anpq60mDodOkGpVL) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Amazing Grace](https://open.spotify.com/album/42GHe8e1CSejCeQTiOapK0) | 2:03 | 2021-08-13 | 2024-07-04 |
 | [Amazing Grace](https://open.spotify.com/track/43Bq77lTBLMxEf5phduzKH) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Down Home Christmas](https://open.spotify.com/album/1hpnqLkobWtW7ZmufnofeA) | 2:03 | 2021-08-13 | 2024-04-19 |
 | [Amazing Grace](https://open.spotify.com/track/7jtQO77dvRhXpeOKAva25x) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Amazing Grace](https://open.spotify.com/album/5pkTyzCT0J9jF82k4WC8Tc) | 2:03 | 2021-08-13 | 2022-11-13 |
+| [And Then](https://open.spotify.com/track/2Bfd9nkjztVZjANx1pN4ba) | [Tribute Quartet](https://open.spotify.com/artist/4TYL0NFQgCj8VLdz8gBfAC) | [And Then](https://open.spotify.com/album/0NhxktL6rzkZIaEQlMxVWd) | 4:01 | 2026-01-10 |  |
 | [Are You Washed in the Blood?](https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [And Now, Let's Turn to Page…](https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA) | 3:03 | 2024-07-04 |  |
 | [Ask Me Why](https://open.spotify.com/track/55IKPUwWJCXf6TayPoPjHx) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [A Wonderful Life](https://open.spotify.com/album/48Azk8b2RvpqM28WVMO6jN) | 4:04 | 2021-08-13 | 2023-05-27 |
 | [Ask Me Why](https://open.spotify.com/track/6F4SJY0WDftskPqVCoQD5O) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [A Wonderful Life](https://open.spotify.com/album/1jSn7Vq8JLXqrreLZI32sp) | 4:04 | 2021-08-13 | 2024-07-04 |
@@ -36,6 +37,7 @@
 | [Everything In Between](https://open.spotify.com/track/7aqTVUWZ9eqtEB4lIfXNtn) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [Everything in Between](https://open.spotify.com/album/4TucSll3D3U5NGGc6b8jGf) | 2:57 | 2021-08-13 | 2024-07-04 |
 | [Faith Keeps Walking](https://open.spotify.com/track/4c2t7HyA1GzUl8UWxIjBX1) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Still](https://open.spotify.com/album/3yYBYAheSocJTyNpAxo1tZ) | 3:29 | 2021-08-13 | 2024-07-04 |
 | [Faith Like That](https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9) | [Gordon Mote](https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG) | [All Things New](https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe) | 3:39 | 2024-07-04 |  |
+| [Forever and Ever, Amen](https://open.spotify.com/track/1CdP1nvWQdZ98kKj5VBuS2) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Forever and Ever, Amen](https://open.spotify.com/album/6Olg1lGpmjcBZuNGr48Hmb) | 3:39 | 2026-01-10 |  |
 | [From The Depths Of My Heart](https://open.spotify.com/track/7BrKXKtXrI1NrGWni5PK2S) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Favorites: Revisited By Request](https://open.spotify.com/album/0HNR2vlmIoaO6zXI0Q7JDo) | 4:59 | 2021-08-13 | 2024-07-04 |
 | [Future Glory](https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [2: 22](https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7) | 3:14 | 2024-07-04 | 2025-04-12 |
 | [Go Tell](https://open.spotify.com/track/4up36rNyfsFzZaQlTXlbvW) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [Something to Shout About](https://open.spotify.com/album/3BKfJbxH7wTIkpF1L3PZ9J) | 2:56 | 2024-12-11 | 2025-10-12 |
@@ -55,8 +57,8 @@
 | [Grandkids](https://open.spotify.com/track/0r8Mgtm7VZOUTnqc6mmjDO) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [Grandkids](https://open.spotify.com/album/4yLGw4ybuPuYuCzcmwIs2M) | 3:26 | 2025-03-14 | 2025-05-17 |
 | [Grateful for the Gospel](https://open.spotify.com/track/2rfvqGg9B8deUo9ZqjGV1k) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [Grateful for the Gospel](https://open.spotify.com/album/1cfGHnbdJeMVlTvVMylv19) | 3:43 | 2024-08-30 | 2024-12-11 |
 | [Great Is Your Mercy](https://open.spotify.com/track/6JYCkN32Q9xesWaYM0APaZ) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Great Is Your Mercy](https://open.spotify.com/album/426p150uylqvoeKHmzh6uk) | 5:10 | 2024-07-04 |  |
-| [Hallelujah Praise the Lamb \- Live](https://open.spotify.com/track/5Qepufe3rgvRvqOnNFQuOB) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Hallelujah Praise the Lamb \(Live\)](https://open.spotify.com/album/14SMP2ujw92HDxPDgZLSw7) | 5:13 | 2024-07-04 |  |
-| [Hard Trials Will Soon Be Over](https://open.spotify.com/track/65U9OftPKogtjLgCS7CcBK) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o), [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv), [Gene McDonald](https://open.spotify.com/artist/19X4ofoCzM24w2qkiWiHrc) | [Then Came the Morning](https://open.spotify.com/album/7gpltwVlSsQJuFP5aG1jN4) | 2:15 | 2025-10-11 |  |
+| [Hallelujah Praise the Lamb \- Live](https://open.spotify.com/track/5Qepufe3rgvRvqOnNFQuOB) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Hallelujah Praise the Lamb \(Live\)](https://open.spotify.com/album/14SMP2ujw92HDxPDgZLSw7) | 5:13 | 2024-07-04 | 2026-01-15 |
+| [Hard Trials Will Soon Be Over](https://open.spotify.com/track/65U9OftPKogtjLgCS7CcBK) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o), [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv), [Gene McDonald](https://open.spotify.com/artist/19X4ofoCzM24w2qkiWiHrc) | [Then Came the Morning](https://open.spotify.com/album/7gpltwVlSsQJuFP5aG1jN4) | 2:15 | 2025-10-11 | 2026-01-15 |
 | [He Is To Me](https://open.spotify.com/track/34tctvGanz52Ozqo7a4cSF) | [Greater Vision](https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG) | [Quartets](https://open.spotify.com/album/5M1DW1IAoNflo3s4FP9490) | 3:26 | 2021-08-13 | 2024-04-19 |
 | [He Is To Me](https://open.spotify.com/track/0LRClbKfqCGcmvq9pSYrYi) | [Greater Vision](https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG) | [7 Hits](https://open.spotify.com/album/6fGyt0mcvH856tEe1YeedU) | 3:27 | 2021-08-13 | 2024-07-04 |
 | [He Took the Nails](https://open.spotify.com/track/5LDnTZwZvZV0OlsYvbCG3x) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 4:42 | 2021-08-13 | 2024-04-19 |

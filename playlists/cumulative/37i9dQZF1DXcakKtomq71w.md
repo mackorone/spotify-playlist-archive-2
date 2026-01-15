@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcakKtomq71w.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcakKtomq71w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcakKtomq71w)
+[pretty](/playlists/pretty/37i9dQZF1DXcakKtomq71w.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcakKtomq71w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcakKtomq71w)
 
 ### [Sinego's track IDs](https://open.spotify.com/playlist/37i9dQZF1DXcakKtomq71w)
 

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "100 acres",
+        "url": "https://open.spotify.com/album/6SzPUWbFhlDEMyHzqHNwhL"
+      },
+      "artists": [
+        {
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133098,
+      "name": "100 acres",
+      "url": "https://open.spotify.com/track/3jN6g6mKie1bLw2szDe0Zy"
+    },
+    {
+      "album": {
         "name": "18:30",
         "url": "https://open.spotify.com/album/4cEz3eLwbtwMLyqe7DDqYo"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154105,
       "name": "4you to just love",
       "url": "https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136119,
       "name": "aromatics",
       "url": "https://open.spotify.com/track/3pkdDfSB2hc2HiVBBKiSqO"
@@ -3076,7 +3094,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 132640,
       "name": "Climbing",
       "url": "https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4"
@@ -3792,7 +3810,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130895,
       "name": "daydream",
       "url": "https://open.spotify.com/track/1u1V8O1tVy9FVJHjj3PdmV"
@@ -5116,6 +5134,24 @@
       "duration_ms": 143768,
       "name": "Everchanging",
       "url": "https://open.spotify.com/track/3F14pdQfwVstaL9VJoVZvf"
+    },
+    {
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/4AZ3iJjU0HRFSH2KEgK0Ww"
+      },
+      "artists": [
+        {
+          "name": "Luminatia",
+          "url": "https://open.spotify.com/artist/6ckRDT7BQZBmCI9ciSQiYV"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/2X0lc7Ibt8RGzyCM9ptUwj"
     },
     {
       "album": {
@@ -6966,7 +7002,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 121846,
       "name": "Guidance",
       "url": "https://open.spotify.com/track/1SRSlz0WFjWuKO7sxZgiO5"
@@ -7691,6 +7727,24 @@
     },
     {
       "album": {
+        "name": "Hue",
+        "url": "https://open.spotify.com/album/29OnzUiUJNABrmrwPeQSzR"
+      },
+      "artists": [
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96585,
+      "name": "Hue",
+      "url": "https://open.spotify.com/track/20nFFX7KFxonxsVmUdZ2vz"
+    },
+    {
+      "album": {
         "name": "human anatomy",
         "url": "https://open.spotify.com/album/4X5yOQEfWCZZlPnXPPYQAK"
       },
@@ -8292,6 +8346,24 @@
       "duration_ms": 232385,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8"
+    },
+    {
+      "album": {
+        "name": "inside our heads",
+        "url": "https://open.spotify.com/album/1Oc1Kdzi4cAWx13GMjuQXz"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123636,
+      "name": "inside our heads",
+      "url": "https://open.spotify.com/track/3GY7zkdb8sR07STnTZlK7Y"
     },
     {
       "album": {
@@ -10853,6 +10925,24 @@
     },
     {
       "album": {
+        "name": "Midway Through",
+        "url": "https://open.spotify.com/album/6pBzSxNAOZlVtNrGcj4jzf"
+      },
+      "artists": [
+        {
+          "name": "Plaxon",
+          "url": "https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140947,
+      "name": "Midway Through",
+      "url": "https://open.spotify.com/track/7fWT76LjGYJ492nKGTvSTo"
+    },
+    {
+      "album": {
         "name": "Migrations",
         "url": "https://open.spotify.com/album/2DF1yOyOXqunpiNn9DmYmh"
       },
@@ -12026,6 +12116,24 @@
       "duration_ms": 134794,
       "name": "Nightlie",
       "url": "https://open.spotify.com/track/1BtS1rydHXYKyGyIrrrfph"
+    },
+    {
+      "album": {
+        "name": "Nimbus",
+        "url": "https://open.spotify.com/album/6XhpLDxnMsNgIf3QVJvI1h"
+      },
+      "artists": [
+        {
+          "name": "zoemoon.",
+          "url": "https://open.spotify.com/artist/4p3SsPKnaomOEyJ42L21Yd"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Nimbus",
+      "url": "https://open.spotify.com/track/7EGVmfzahjn9DvtGFtZ9XQ"
     },
     {
       "album": {
@@ -14647,6 +14755,24 @@
     },
     {
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6amMJFkyaUXHf3R2LgN65Z"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1JYx9BcRBcoboYyx0kPa4c"
+    },
+    {
+      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc"
       },
@@ -14854,7 +14980,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139599,
       "name": "river",
       "url": "https://open.spotify.com/track/1Dp2tG4TB0StQ7N2b4ZM85"
@@ -14930,6 +15056,24 @@
       "duration_ms": 129473,
       "name": "Rododendron",
       "url": "https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5"
+    },
+    {
+      "album": {
+        "name": "Rolling Hills",
+        "url": "https://open.spotify.com/album/4qiJWVBZ7KpLBdzVq5BMgy"
+      },
+      "artists": [
+        {
+          "name": "Aborre",
+          "url": "https://open.spotify.com/artist/12nFi1kyqz3Tb3KByPPjpv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115928,
+      "name": "Rolling Hills",
+      "url": "https://open.spotify.com/track/69CMpHdXTWpfmGuWpWojGX"
     },
     {
       "album": {
@@ -15042,6 +15186,28 @@
       "duration_ms": 124590,
       "name": "rose quartz",
       "url": "https://open.spotify.com/track/6QCZUHBxTk7Fa05l0RFhMn"
+    },
+    {
+      "album": {
+        "name": "rosi",
+        "url": "https://open.spotify.com/album/4tkffoyXon82QVnkPJ2pY1"
+      },
+      "artists": [
+        {
+          "name": "Brxvs",
+          "url": "https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5"
+        },
+        {
+          "name": "Hans Hu$tle",
+          "url": "https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141960,
+      "name": "rosi",
+      "url": "https://open.spotify.com/track/2EfDAIOTivtbHnR2o1gA1b"
     },
     {
       "album": {
@@ -15450,7 +15616,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 124336,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400"
@@ -15873,6 +16039,24 @@
     },
     {
       "album": {
+        "name": "Shutters",
+        "url": "https://open.spotify.com/album/5gyG2kQTyKcxNfM5jIPChc"
+      },
+      "artists": [
+        {
+          "name": "H I K E",
+          "url": "https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136164,
+      "name": "Shutters",
+      "url": "https://open.spotify.com/track/7vys15VygXqBbOzaiDvL54"
+    },
+    {
+      "album": {
         "name": "signals",
         "url": "https://open.spotify.com/album/5Z5NNGYHiOFFDjEu6AmUcO"
       },
@@ -16244,7 +16428,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 133333,
       "name": "slow living",
       "url": "https://open.spotify.com/track/7iChjbqCbaf4EAdVQqDiOs"
@@ -18860,7 +19044,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135385,
       "name": "Their Name Is Jazz",
       "url": "https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g"
@@ -20282,7 +20466,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 108500,
       "name": "waiting",
       "url": "https://open.spotify.com/track/7iAlZZgYO4U0gYmnFVtcK9"

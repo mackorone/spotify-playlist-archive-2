@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX01BMYuRJG8i.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX01BMYuRJG8i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX01BMYuRJG8i)
+[pretty](/playlists/pretty/37i9dQZF1DX01BMYuRJG8i.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX01BMYuRJG8i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX01BMYuRJG8i)
 
 ### [SHADOWS HOUSE シャドーハウス](https://open.spotify.com/playlist/37i9dQZF1DX01BMYuRJG8i)
 

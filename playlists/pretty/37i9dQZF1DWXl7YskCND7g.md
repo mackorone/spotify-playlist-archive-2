@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7YskCND7g.md) - [plain](/playlists/plain/37i9dQZF1DWXl7YskCND7g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXl7YskCND7g)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7YskCND7g.md) - [plain](/playlists/plain/37i9dQZF1DWXl7YskCND7g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXl7YskCND7g)
 
 ### [Filipina\-American Women Creatives: Challenging the Arts & Society](https://open.spotify.com/playlist/37i9dQZF1DWXl7YskCND7g)
 

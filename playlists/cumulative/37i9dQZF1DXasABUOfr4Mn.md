@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXasABUOfr4Mn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXasABUOfr4Mn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXasABUOfr4Mn)
+[pretty](/playlists/pretty/37i9dQZF1DXasABUOfr4Mn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXasABUOfr4Mn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXasABUOfr4Mn)
 
 ### [Editors' Picks: Best Songs of 2024](https://open.spotify.com/playlist/37i9dQZF1DXasABUOfr4Mn)
 

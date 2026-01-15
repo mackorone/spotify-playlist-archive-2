@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain](/playlists/plain/37i9dQZF1DX8Mq3bnXVvzd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Mq3bnXVvzd)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain](/playlists/plain/37i9dQZF1DX8Mq3bnXVvzd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8Mq3bnXVvzd)
 
 ### [Jentry Chau vs\. The Underworld Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX8Mq3bnXVvzd)
 
 > High School has never been this FIRE\. Listen to the music from Jentry Chau vs\. The Underworld, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,629 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,688 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

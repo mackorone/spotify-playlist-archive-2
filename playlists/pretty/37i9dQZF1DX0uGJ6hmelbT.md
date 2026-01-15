@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uGJ6hmelbT.md) - [plain](/playlists/plain/37i9dQZF1DX0uGJ6hmelbT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0uGJ6hmelbT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uGJ6hmelbT.md) - [plain](/playlists/plain/37i9dQZF1DX0uGJ6hmelbT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0uGJ6hmelbT)
 
 ### [Jugando y Cantando](https://open.spotify.com/playlist/37i9dQZF1DX0uGJ6hmelbT)
 
 > ¡Cantos y Rondas de todos los tiempos para jugar y aprender!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,001 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,070 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

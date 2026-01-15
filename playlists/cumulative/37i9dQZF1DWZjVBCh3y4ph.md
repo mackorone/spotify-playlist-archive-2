@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZjVBCh3y4ph.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZjVBCh3y4ph) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZjVBCh3y4ph)
+[pretty](/playlists/pretty/37i9dQZF1DWZjVBCh3y4ph.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZjVBCh3y4ph) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZjVBCh3y4ph)
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : LÉA CHURROS
+> Les hits zouk & kompa du moment\. Photo : Aya Nakamura
 
 354 songs - 18 hr 40 min
 
@@ -185,7 +185,7 @@
 | [MAYDAY](https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt) | [MAYDAY](https://open.spotify.com/album/0IgWJsKDLI0mffAHWRUhI6) | 5:06 | 2023-09-28 | 2024-02-09 |
 | [Minimum](https://open.spotify.com/track/6O6vuiV3LEPoBOmPikV03R) | [Eleen](https://open.spotify.com/artist/6CYv60Iqe5ZLiWYtImqoHp), [Allan Zut](https://open.spotify.com/artist/6gbw7LgcJjVXjJwvxUjjbr) | [Minimum](https://open.spotify.com/album/6CQEwB2JdHn0hwRU5ToHLt) | 2:27 | 2025-11-27 | 2026-01-02 |
 | [Minimum](https://open.spotify.com/track/44lAeDpvW8PH18OPxWGuY9) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Minimum](https://open.spotify.com/album/70tsN0GNXbpD2X2sQLIEQ5) | 2:42 | 2024-11-21 | 2025-01-03 |
-| [Miroir](https://open.spotify.com/track/0YrcP6QClkuj2qg4TetQ49) | [DJ Inno](https://open.spotify.com/artist/3ghX0UdB5fiBYj0tPuEHAt), [Aleeka](https://open.spotify.com/artist/1cjpgRNc0XbC69SGXJHBLS) | [Miroir](https://open.spotify.com/album/11qVv9P0UFUNe3bCxulPy1) | 3:14 | 2025-11-06 |  |
+| [Miroir](https://open.spotify.com/track/0YrcP6QClkuj2qg4TetQ49) | [DJ Inno](https://open.spotify.com/artist/3ghX0UdB5fiBYj0tPuEHAt), [Aleeka](https://open.spotify.com/artist/1cjpgRNc0XbC69SGXJHBLS) | [Miroir](https://open.spotify.com/album/11qVv9P0UFUNe3bCxulPy1) | 3:14 | 2025-11-06 | 2026-01-15 |
 | [Moi qu'il faut](https://open.spotify.com/track/0QIEtVgrkPA4unGz3CofT9) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [T\-Gui](https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5) | [Moi qu'il faut](https://open.spotify.com/album/2ZVM58LzB4oG8Y9A41JqHu) | 3:02 | 2025-03-06 | 2025-05-02 |
 | [Mon Ame](https://open.spotify.com/track/1pBlTfWf1jNFlSXxhu7a7p) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Mon Ame](https://open.spotify.com/album/5D04obr5kvJyT6OfekEVVz) | 2:50 | 2023-12-21 | 2024-01-26 |
 | [Mon Ame \- Gouyad Remix](https://open.spotify.com/track/00rSchsTFFQtIgVvWGfdUv) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [King Bouji](https://open.spotify.com/artist/1Q0GT56P1DZTHDsAYQihnX) | [Mon Ame \(Gouyad Remix\)](https://open.spotify.com/album/4KIpKdDmy0UZZ4WaqKsnpZ) | 3:06 | 2024-06-20 | 2024-08-23 |

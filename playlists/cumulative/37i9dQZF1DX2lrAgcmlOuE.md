@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2lrAgcmlOuE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2lrAgcmlOuE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2lrAgcmlOuE)
+[pretty](/playlists/pretty/37i9dQZF1DX2lrAgcmlOuE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2lrAgcmlOuE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2lrAgcmlOuE)
 
 ### [Hardwell DJ Mix: Rebels Never Die ](https://open.spotify.com/playlist/37i9dQZF1DX2lrAgcmlOuE)
 

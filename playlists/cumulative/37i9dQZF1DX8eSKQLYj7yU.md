@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8eSKQLYj7yU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8eSKQLYj7yU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8eSKQLYj7yU)
+[pretty](/playlists/pretty/37i9dQZF1DX8eSKQLYj7yU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8eSKQLYj7yU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8eSKQLYj7yU)
 
 ### [Bluegrass Christmas](https://open.spotify.com/playlist/37i9dQZF1DX8eSKQLYj7yU)
 

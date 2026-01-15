@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5D4gDh3HAsM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5D4gDh3HAsM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5D4gDh3HAsM)
+[pretty](/playlists/pretty/37i9dQZF1DX5D4gDh3HAsM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5D4gDh3HAsM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5D4gDh3HAsM)
 
 ### [Christmas Jazz](https://open.spotify.com/playlist/37i9dQZF1DX5D4gDh3HAsM)
 
@@ -33,7 +33,7 @@
 | [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 | 2023-11-03 | 2024-11-30 |
 | [Christmas in Love](https://open.spotify.com/track/43g6GeT4cgyxGxyUrEayzK) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Christmas in Love](https://open.spotify.com/album/32eda4L6p5DJUwc7oPxb1I) | 3:27 | 2024-10-04 |  |
 | [Christmas In New Orleans](https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:54 | 2021-11-12 |  |
-| [Christmas in New York](https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [ホセ・ジェイムズのクリスマス・タイム](https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z) | 2:57 | 2021-11-12 |  |
+| [Christmas in New York](https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z) | 2:57 | 2021-11-12 |  |
 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 | 2021-11-12 | 2024-04-19 |
 | [Christmas Is Coming \- 2022 Mix](https://open.spotify.com/track/2iMeTjonLEIV8lx07EFpSo) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Christmas Is Coming \(2022 Stereo Mix\)](https://open.spotify.com/album/4fCX1f8zki8U4kUHRfcuUP) | 3:25 | 2022-10-07 | 2025-11-15 |
 | [Christmas Is Here Can You Feel It?](https://open.spotify.com/track/6sEi1drxUrpCpFG3ghyjM4) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Eddie Erickson](https://open.spotify.com/artist/1uWVg0K3ku7Zh8RK5K48Jn) | [Christmas Is Here Can You Feel It?](https://open.spotify.com/album/4AMjJZc09IPAVR6qacuZhu) | 2:52 | 2022-11-18 |  |

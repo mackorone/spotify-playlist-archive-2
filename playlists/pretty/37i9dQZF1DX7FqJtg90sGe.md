@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FqJtg90sGe.md) - [plain](/playlists/plain/37i9dQZF1DX7FqJtg90sGe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FqJtg90sGe)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FqJtg90sGe.md) - [plain](/playlists/plain/37i9dQZF1DX7FqJtg90sGe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7FqJtg90sGe)
 
 ### [SKATO](https://open.spotify.com/playlist/37i9dQZF1DX7FqJtg90sGe)
 
 > sólo para skatos
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,554 likes - 104 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,564 likes - 104 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

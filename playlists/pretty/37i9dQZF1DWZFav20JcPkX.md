@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain](/playlists/plain/37i9dQZF1DWZFav20JcPkX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZFav20JcPkX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain](/playlists/plain/37i9dQZF1DWZFav20JcPkX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZFav20JcPkX)
 
 ### [Best of Rock: 2018](https://open.spotify.com/playlist/37i9dQZF1DWZFav20JcPkX)
 

@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/34ijbgWMgC7neOzDvNLeI1"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226053,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/3F1qRkttfSFbYcMWjQ6Tm6"
+    },
+    {
+      "album": {
         "name": "Beat Birds",
         "url": "https://open.spotify.com/album/5J8mMgH6qydlLfmgTwgAgS"
       },
@@ -3669,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/7Hucl5QaGxsJvuL7oIOvUj"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293831,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/27yWekXkYdCyhuNz7FaXXh"
+    },
+    {
+      "album": {
         "name": "HOURS:AFTER",
         "url": "https://open.spotify.com/album/01k267Jci58J6dSWrpKJwI"
       },
@@ -4854,7 +4890,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 387077,
       "name": "Libations: KwaKhangelamankengana",
       "url": "https://open.spotify.com/track/71OFi2giEZnnF9kfhWUlq1"
@@ -7332,7 +7368,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 285759,
       "name": "Sankofa",
       "url": "https://open.spotify.com/track/45ZmCMBpgZLtQC66MEL4bc"
@@ -8557,6 +8593,72 @@
     },
     {
       "album": {
+        "name": "Tomorrow\uff08feat.Gaku Kano\uff09",
+        "url": "https://open.spotify.com/album/03b1xvc1fNSbThzeQJvsfJ"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        },
+        {
+          "name": "Yuji Toriyama",
+          "url": "https://open.spotify.com/artist/183gGYMMBJVdNRVAxHzxn7"
+        },
+        {
+          "name": "Gaku Kano",
+          "url": "https://open.spotify.com/artist/6pV6yUKdqnxwwKpqSu6AXM"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234775,
+      "name": "Tomorrow\uff08feat.Gaku Kano\uff09",
+      "url": "https://open.spotify.com/track/0hFgollnKwPJjFod8ouqof"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/0XQsLIjr0fJUFJgRpDij8x"
+    },
+    {
+      "album": {
+        "name": "Traffic Lights (feat. Thom Yorke)",
+        "url": "https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341066,
+      "name": "Traffic Lights (feat. Thom Yorke)",
+      "url": "https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K"
+    },
+    {
+      "album": {
         "name": "Transient Line",
         "url": "https://open.spotify.com/album/4eOsTT2FgzuTRqCJLqXDbH"
       },
@@ -8762,6 +8864,32 @@
       "duration_ms": 238053,
       "name": "Unwind [Feat. Melanie Charles]",
       "url": "https://open.spotify.com/track/0nK4auk3sF7wrRWNMEaw2b"
+    },
+    {
+      "album": {
+        "name": "Up From Here",
+        "url": "https://open.spotify.com/album/4CIK0AoMAdzQksAD6Jio4n"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258181,
+      "name": "Up From Here",
+      "url": "https://open.spotify.com/track/5E2qUNifVLQw4QaKNeOrJT"
     },
     {
       "album": {

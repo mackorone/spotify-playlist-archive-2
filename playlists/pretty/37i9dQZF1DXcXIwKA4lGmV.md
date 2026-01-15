@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain](/playlists/plain/37i9dQZF1DXcXIwKA4lGmV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcXIwKA4lGmV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain](/playlists/plain/37i9dQZF1DXcXIwKA4lGmV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcXIwKA4lGmV)
 
 ### [Clean Up](https://open.spotify.com/playlist/37i9dQZF1DXcXIwKA4lGmV)
 
 > Songs all about cleaning up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,765 likes - 33 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,772 likes - 33 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

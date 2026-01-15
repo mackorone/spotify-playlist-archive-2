@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60EDqDORwwI.md) - [plain](/playlists/plain/37i9dQZF1DX60EDqDORwwI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX60EDqDORwwI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60EDqDORwwI.md) - [plain](/playlists/plain/37i9dQZF1DX60EDqDORwwI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX60EDqDORwwI)
 
 ### [This Is Kygo](https://open.spotify.com/playlist/37i9dQZF1DX60EDqDORwwI)
 

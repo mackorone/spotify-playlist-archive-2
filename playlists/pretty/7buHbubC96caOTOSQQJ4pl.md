@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7buHbubC96caOTOSQQJ4pl.md) - [plain](/playlists/plain/7buHbubC96caOTOSQQJ4pl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7buHbubC96caOTOSQQJ4pl)
+pretty - [cumulative](/playlists/cumulative/7buHbubC96caOTOSQQJ4pl.md) - [plain](/playlists/plain/7buHbubC96caOTOSQQJ4pl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7buHbubC96caOTOSQQJ4pl)
 
 ### [Year in Metal 2014](https://open.spotify.com/playlist/7buHbubC96caOTOSQQJ4pl)
 
 > Another great metal year is coming to a close\. Explore this year's highlights in metal with this playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,561 likes - 116 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,556 likes - 116 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

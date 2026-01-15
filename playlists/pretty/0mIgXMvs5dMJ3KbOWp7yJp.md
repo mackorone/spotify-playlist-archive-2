@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0mIgXMvs5dMJ3KbOWp7yJp.md) - [plain](/playlists/plain/0mIgXMvs5dMJ3KbOWp7yJp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0mIgXMvs5dMJ3KbOWp7yJp)
+pretty - [cumulative](/playlists/cumulative/0mIgXMvs5dMJ3KbOWp7yJp.md) - [plain](/playlists/plain/0mIgXMvs5dMJ3KbOWp7yJp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0mIgXMvs5dMJ3KbOWp7yJp)
 
 ### [Alternative Rock](https://open.spotify.com/playlist/0mIgXMvs5dMJ3KbOWp7yJp)
 
 > the best in rock indie folk pop alternative
 
-[Tactical Tunes](https://open.spotify.com/user/31zsinf2gmzxaz2hlu5jmeh5bzxe) - 1,201 likes - 421 songs - 1 day 1 hr 54 min
+[Tactical Tunes](https://open.spotify.com/user/31zsinf2gmzxaz2hlu5jmeh5bzxe) - 1,199 likes - 421 songs - 1 day 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/0mIgXMvs5dMJ3KbOWp7yJp.md) - [plain]
 | 144 | [The Reaper](https://open.spotify.com/track/1TqJToCbf4wGMZntm8Siqc) | [Terry Gilbey](https://open.spotify.com/artist/7DUWtV3cMZU3zGHtRIAvB4) | [The Reading](https://open.spotify.com/album/1yfhCqyQjYko9wZcvB6PzO) | 3:51 |
 | 145 | [Disaster](https://open.spotify.com/track/5i1ulsPXqKOIeveof3UHbJ) | [No Fucking Good](https://open.spotify.com/artist/7xu0zu8LsAeUDdOxWI9iHS) | [Disaster](https://open.spotify.com/album/2qE2L8XJjhkUUrMHlccpUE) | 4:52 |
 | 146 | [The Volume and the Beat](https://open.spotify.com/track/77eaUYqkMs2q7Vdzbom8Fh) | [Jakob Vladimir](https://open.spotify.com/artist/3UztTm4JPy0pLeYT43H4c4) | [The Volume and the Beat](https://open.spotify.com/album/2KzJcDSpWwy8q9B5WQ9lTw) | 3:37 |
-| 147 | [Problematic](https://open.spotify.com/track/47kR77hbjFeUAm6l3MJJeE) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Problematic](https://open.spotify.com/album/1ncyRXu065aLkwEhYQgkAp) | 3:34 |
+| 147 | [Problematic](https://open.spotify.com/track/47kR77hbjFeUAm6l3MJJeE) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Problematic](https://open.spotify.com/album/1ncyRXu065aLkwEhYQgkAp) | 3:35 |
 | 148 | [Birds & People](https://open.spotify.com/track/4FalRevYK0aR1o2vyzz37M) | [Eden Rose](https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl) | [Birds & People](https://open.spotify.com/album/6HWXiqGEngP3hQ3FaYZ1tG) | 3:43 |
 | 149 | [Red Spells Danger](https://open.spotify.com/track/0y9fL5FOvjmSgLM6sMnYfq) | [The 80sUploads!](https://open.spotify.com/artist/3UiXheIPKJLInhr7Mtxq7D) | [Red Spells Danger](https://open.spotify.com/album/49x0a5sknl4yViAAGL30z1) | 2:30 |
 | 150 | [Captivarian](https://open.spotify.com/track/0Rm02F8oMtKfgdfRFRURuo) | [Absentem](https://open.spotify.com/artist/1YNAiuxaG9teAeML4gwrOs) | [Captivarian](https://open.spotify.com/album/3lo5YuLg7wNpbXMdoEtsiY) | 5:00 |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWT1R6bXL4dyW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT1R6bXL4dyW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT1R6bXL4dyW)
+[pretty](/playlists/pretty/37i9dQZF1DWT1R6bXL4dyW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT1R6bXL4dyW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT1R6bXL4dyW)
 
 ### [The Perfect Italian Dinner](https://open.spotify.com/playlist/37i9dQZF1DWT1R6bXL4dyW)
 

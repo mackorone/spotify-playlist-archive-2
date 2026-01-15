@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6UeaeNdzizB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6UeaeNdzizB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6UeaeNdzizB)
+[pretty](/playlists/pretty/37i9dQZF1DX6UeaeNdzizB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6UeaeNdzizB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6UeaeNdzizB)
 
 ### [This Is: The Head and the Heart](https://open.spotify.com/playlist/37i9dQZF1DX6UeaeNdzizB)
 

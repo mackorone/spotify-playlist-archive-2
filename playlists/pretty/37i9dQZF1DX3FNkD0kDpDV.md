@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain](/playlists/plain/37i9dQZF1DX3FNkD0kDpDV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3FNkD0kDpDV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain](/playlists/plain/37i9dQZF1DX3FNkD0kDpDV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3FNkD0kDpDV)
 
 ### [Tomorrowland Guest List](https://open.spotify.com/playlist/37i9dQZF1DX3FNkD0kDpDV)
 
 > Live Today, Love Tomorrow, Unite Forever 🫶🫶 It's the sound of Tomorrowland!
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,260 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,577 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

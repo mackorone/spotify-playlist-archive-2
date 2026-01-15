@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2XI8VeXURWDz0SMaxmKlLw.md) - cumulative - [plain](/playlists/plain/2XI8VeXURWDz0SMaxmKlLw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2XI8VeXURWDz0SMaxmKlLw)
+[pretty](/playlists/pretty/2XI8VeXURWDz0SMaxmKlLw.md) - cumulative - [plain](/playlists/plain/2XI8VeXURWDz0SMaxmKlLw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2XI8VeXURWDz0SMaxmKlLw)
 
 ### [Healthcare](https://open.spotify.com/playlist/2XI8VeXURWDz0SMaxmKlLw)
 

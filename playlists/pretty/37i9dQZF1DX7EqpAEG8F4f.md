@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EqpAEG8F4f.md) - [plain](/playlists/plain/37i9dQZF1DX7EqpAEG8F4f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7EqpAEG8F4f)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EqpAEG8F4f.md) - [plain](/playlists/plain/37i9dQZF1DX7EqpAEG8F4f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7EqpAEG8F4f)
 
 ### [Top Viral Hits of 2024](https://open.spotify.com/playlist/37i9dQZF1DX7EqpAEG8F4f)
 
 > The biggest viral songs you couldn't get out of your head in 2024\. Cover: Tommy Richman
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,737 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,606 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

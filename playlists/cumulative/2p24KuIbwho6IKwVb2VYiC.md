@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/2p24KuIbwho6IKwVb2VYiC.md) - cumulative - [plain](/playlists/plain/2p24KuIbwho6IKwVb2VYiC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2p24KuIbwho6IKwVb2VYiC)
+[pretty](/playlists/pretty/2p24KuIbwho6IKwVb2VYiC.md) - cumulative - [plain](/playlists/plain/2p24KuIbwho6IKwVb2VYiC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2p24KuIbwho6IKwVb2VYiC)
 
 ### [ALL ACCESS DANCE](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Nelly Furtado &amp; HAYLA
 
-383 songs - 20 hr 3 min
+385 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Free](https://open.spotify.com/track/5Y4L2jaSYxvPlhz6T8HRAl) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Free](https://open.spotify.com/album/3iwNd4M1ghGUUb86BUq6qo) | 3:18 | 2023-10-27 | 2023-11-25 |
 | [Fria \- Felix Jaehn Remix](https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Fria \(Felix Jaehn Remix\)](https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa) | 2:40 | 2024-07-19 |  |
 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 | 2025-05-16 |  |
+| [Galaxy](https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Galaxy](https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS) | 2:50 | 2026-01-09 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-10-27 | 2025-01-22 |
 | [Glitching](https://open.spotify.com/track/5WuxCmAJkrjEAiJ8Xx3SAq) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Glitching](https://open.spotify.com/album/56EX2Cl8KMPyG3QfCuRKPO) | 2:11 | 2024-12-13 |  |
 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 | 2024-05-17 | 2025-01-22 |
@@ -288,6 +289,7 @@
 | [Round & Round](https://open.spotify.com/track/6aUk3zMedZd18Axi3ZO8lN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Round & Round](https://open.spotify.com/album/0ugkNBZda30aOm1Hel2ShP) | 3:39 | 2023-10-27 | 2025-01-22 |
 | [Rude Boy](https://open.spotify.com/track/7KKm5B4pEibw2uhCgix5h9) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Rude Boy](https://open.spotify.com/album/3kFUYHhoHoqUktWdIkbPjR) | 2:39 | 2025-03-14 |  |
 | [Rule The World \(Everybody\)](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Rule The World \(Everybody\)](https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ) | 2:52 | 2023-10-27 |  |
+| [Rumors](https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF) | [Tomas Grey](https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS) | [Rumors](https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP) | 2:42 | 2026-01-12 |  |
 | [Run](https://open.spotify.com/track/3UIBmd8J87KiTBuALIXeGL) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Run](https://open.spotify.com/album/3atOx3iH2UKRDnRJDxNlRU) | 3:12 | 2023-10-27 | 2023-11-25 |
 | [Rush](https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Rush](https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn) | 3:22 | 2023-10-27 | 2025-02-05 |
 | [Saturnine](https://open.spotify.com/track/0czIop1Wsllu6wCktR633R) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE) | 3:21 | 2024-03-22 |  |

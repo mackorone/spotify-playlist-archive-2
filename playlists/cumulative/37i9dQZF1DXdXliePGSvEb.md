@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdXliePGSvEb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdXliePGSvEb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdXliePGSvEb)
+[pretty](/playlists/pretty/37i9dQZF1DXdXliePGSvEb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdXliePGSvEb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdXliePGSvEb)
 
 ### [Editors' picks: Best Electronic Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DXdXliePGSvEb)
 

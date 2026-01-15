@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain](/playlists/plain/37i9dQZF1DX4WiXBXnxjSY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4WiXBXnxjSY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain](/playlists/plain/37i9dQZF1DX4WiXBXnxjSY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4WiXBXnxjSY)
 
 ### [Green Noise for Sleep](https://open.spotify.com/playlist/37i9dQZF1DX4WiXBXnxjSY)
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,619 likes - 145 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,870 likes - 145 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

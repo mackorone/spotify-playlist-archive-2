@@ -4610,10 +4610,28 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 314933,
       "name": "Peace",
       "url": "https://open.spotify.com/track/25UCU8dU4bLw19Qyfxh9rj"
+    },
+    {
+      "album": {
+        "name": "C.A.S.H.",
+        "url": "https://open.spotify.com/album/65JFJo8RWf0BbSjNC0Rosv"
+      },
+      "artists": [
+        {
+          "name": "Cassidy",
+          "url": "https://open.spotify.com/artist/3WilJWdCNLSU7fpYjiKb7v"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314933,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/38HRhEuvgCRpXQZCTZ8R5h"
     },
     {
       "album": {
@@ -4762,6 +4780,24 @@
       "duration_ms": 157533,
       "name": "Professional",
       "url": "https://open.spotify.com/track/7F9gf1K7xZAhNal2Djl9Wi"
+    },
+    {
+      "album": {
+        "name": "Lost Souls",
+        "url": "https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148945,
+      "name": "Project Baby",
+      "url": "https://open.spotify.com/track/5Nt5bfPUn9CFmCAeFhCaKk"
     },
     {
       "album": {

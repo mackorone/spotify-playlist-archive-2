@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZwvaSJuR2fl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZwvaSJuR2fl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZwvaSJuR2fl)
+[pretty](/playlists/pretty/37i9dQZF1DWZwvaSJuR2fl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZwvaSJuR2fl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZwvaSJuR2fl)
 
 ### [This Is Dvořák](https://open.spotify.com/playlist/37i9dQZF1DWZwvaSJuR2fl)
 

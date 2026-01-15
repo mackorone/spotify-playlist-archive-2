@@ -785,6 +785,28 @@
     },
     {
       "album": {
+        "name": "Kani Umainen",
+        "url": "https://open.spotify.com/album/0NMKQL4qhIeP0jHiUM3xCW"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "\u4e2d\u5cf6\u5553\u8f14",
+          "url": "https://open.spotify.com/artist/6mKZpoE2PZy7hSGPFsay54"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64906,
+      "name": "Kani Umainen",
+      "url": "https://open.spotify.com/track/6xuECRfiMOAxtCFREJS9cc"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f7th\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u301cPre-release\u301c",
         "url": "https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT"
       },

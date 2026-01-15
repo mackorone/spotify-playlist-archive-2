@@ -650,7 +650,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 123711,
       "name": "2026",
       "url": "https://open.spotify.com/track/0Ou9oOoAsOYULeemku9Cj9"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 366533,
       "name": "A Balada de Tim Bernardes",
       "url": "https://open.spotify.com/track/2uuFfwsVRuapPM5iWPrxP7"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 366533,
       "name": "A Balada de Tim Bernardes",
       "url": "https://open.spotify.com/track/3VVDPi555MPn9Fpi6vXHkH"
@@ -4290,7 +4290,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159833,
       "name": "Al\u00f4 Virg\u00ednia - Ao Vivo",
       "url": "https://open.spotify.com/track/75cbS6bJO0yUVXKVrRdSgv"
@@ -11841,6 +11841,24 @@
     },
     {
       "album": {
+        "name": "Brand\u00e3o085 - Warzone",
+        "url": "https://open.spotify.com/album/2X2yrUEDB4IbQUsSGZDtnB"
+      },
+      "artists": [
+        {
+          "name": "CoeCk",
+          "url": "https://open.spotify.com/artist/1wJBlIuLv8WPkljI9vDF21"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157882,
+      "name": "Brand\u00e3o085 - Warzone",
+      "url": "https://open.spotify.com/track/4Rga1YP5uwlsSXRr1quFpY"
+    },
+    {
+      "album": {
         "name": "Brasil Acordou (O Mito Chegou 2)",
         "url": "https://open.spotify.com/album/5euEm4ADEYpmbkzLwTKAcF"
       },
@@ -14294,6 +14312,28 @@
       "duration_ms": 171428,
       "name": "Carisma",
       "url": "https://open.spotify.com/track/5zooAT8my0NlTSoZgs92ac"
+    },
+    {
+      "album": {
+        "name": "CARNAVAL",
+        "url": "https://open.spotify.com/album/3oPmMDBuZJWO2pJhwH46eQ"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "CARNAVAL",
+      "url": "https://open.spotify.com/track/0AWbhOimtlECEsQP0H5J6Q"
     },
     {
       "album": {
@@ -21024,7 +21064,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 249200,
       "name": "Destino de Of\u00e9lia",
       "url": "https://open.spotify.com/track/11JdDjSzT6sdcM0TjGnBtn"
@@ -21222,6 +21262,36 @@
       "duration_ms": 279000,
       "name": "Deus, Por favor",
       "url": "https://open.spotify.com/track/2329XxRFYoAPdQSb4DmjXQ"
+    },
+    {
+      "album": {
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274800,
+      "name": "Deusa",
+      "url": "https://open.spotify.com/track/18KyJgSmfIPEsimWshBojB"
     },
     {
       "album": {
@@ -21538,6 +21608,24 @@
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
+    },
+    {
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "album": {
@@ -24008,6 +24096,36 @@
       "duration_ms": 200039,
       "name": "Ela joga no 7",
       "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
+    },
+    {
+      "album": {
+        "name": "Ela k\u00e9 Leitada",
+        "url": "https://open.spotify.com/album/4Im21Qok3nccqN2OXrJYDw"
+      },
+      "artists": [
+        {
+          "name": "Prod.Nifour",
+          "url": "https://open.spotify.com/artist/71NQK8ufY5t7SeiMAhPB9I"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "Storys Funk",
+          "url": "https://open.spotify.com/artist/2b9UFFkMRKYAN6MpqFnqow"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156708,
+      "name": "Ela k\u00e9 Leitada",
+      "url": "https://open.spotify.com/track/161dJFOgyuYcgKg0AzYuAh"
     },
     {
       "album": {
@@ -27140,7 +27258,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 158173,
       "name": "Eu S\u00f3 Quero Voc\u00ea",
       "url": "https://open.spotify.com/track/118oqjHKS0amJfPLi9LoEZ"
@@ -30993,6 +31111,28 @@
     },
     {
       "album": {
+        "name": "Folded - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7a3yNq3BIyDEYPguafVKDf"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Folded - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0dZG4yK5yPxGBbViV97mky"
+    },
+    {
+      "album": {
         "name": "Viral Hits",
         "url": "https://open.spotify.com/album/17Zd8n48vU3zyd6RhHNxV2"
       },
@@ -31380,7 +31520,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 229735,
       "name": "Freak Le Boom Boom",
       "url": "https://open.spotify.com/track/012uvmp8cdLDI38VbzCx8W"
@@ -32208,6 +32348,40 @@
       "duration_ms": 153062,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
+    },
+    {
+      "album": {
+        "name": "Beat Que Te Deixa Alerta",
+        "url": "https://open.spotify.com/album/0iyEVVDNrHcSKCu37Jdc49"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Brinquedo",
+          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273326,
+      "name": "Gauchinha",
+      "url": "https://open.spotify.com/track/7qqixxBvZIGSep53Eh2o0b"
     },
     {
       "album": {
@@ -37844,7 +38018,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192591,
       "name": "JAPON\u00caS",
       "url": "https://open.spotify.com/track/6JH5wCoto58vgqa61jvazc"
@@ -38084,6 +38258,32 @@
       "duration_ms": 259959,
       "name": "Jesus T\u00e1 L\u00e1 - Inspira\u00e7\u00e3o Kirk Franklin",
       "url": "https://open.spotify.com/track/2dXgRNrAClIq93XIVblVx9"
+    },
+    {
+      "album": {
+        "name": "JETSKI",
+        "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "JETSKI",
+      "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
     },
     {
       "album": {
@@ -41383,6 +41583,28 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219023,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"
+    },
+    {
+      "album": {
         "name": "Louco por voc\u00ea",
         "url": "https://open.spotify.com/album/5AW92qkCXvj8lnkDMrzp19"
       },
@@ -43934,7 +44156,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174333,
       "name": "Marcas do Que Se Foi",
       "url": "https://open.spotify.com/track/1pXlXUusMGKhaHhOL20hKZ"
@@ -46346,7 +46568,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223007,
       "name": "Mega R\u00e9pi do Guasca",
       "url": "https://open.spotify.com/track/3kej3403RZgpcU0eSEkc1i"
@@ -47418,7 +47640,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 179784,
       "name": "Meu Bem Querer",
       "url": "https://open.spotify.com/track/7q6eGa2sd9Upy5QK8wcFFk"
@@ -52475,6 +52697,24 @@
     },
     {
       "album": {
+        "name": "Nada Foi em V\u00e2o",
+        "url": "https://open.spotify.com/album/4OPvHQBFdcFUqvFYn0uyFK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Diaz",
+          "url": "https://open.spotify.com/artist/6ySaYqLOQMMWK1DhZgbzeh"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234010,
+      "name": "Nada Foi em V\u00e2o",
+      "url": "https://open.spotify.com/track/1JJxFEsjGXeynW4yQCfFuC"
+    },
+    {
+      "album": {
         "name": "Namora A\u00ed",
         "url": "https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i"
       },
@@ -54042,7 +54282,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176124,
       "name": "NOS BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1VQAlyLNej46KgqADgNTmo"
@@ -54448,7 +54688,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 99697,
       "name": "Novamente Trombei uma Novinha",
       "url": "https://open.spotify.com/track/37Wbs9IIxGvAx8OUqdo7WA"
@@ -56685,6 +56925,28 @@
     },
     {
       "album": {
+        "name": "O Tbt Que Ele Quer",
+        "url": "https://open.spotify.com/album/1DT9WAK6DKPI4zBPTGOAKt"
+      },
+      "artists": [
+        {
+          "name": "DJ HM ZL",
+          "url": "https://open.spotify.com/artist/1xmIVtkS9LEchsnnrKzhIR"
+        },
+        {
+          "name": "MC MAYAH",
+          "url": "https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172392,
+      "name": "O Tbt Que Ele Quer",
+      "url": "https://open.spotify.com/track/5s4j3EtFF9P0f1KkqYzcT5"
+    },
+    {
+      "album": {
         "name": "O Tempim Gostoso Pra Fazer Um Joaquim (Dj Phzin & Dj Matheus Santos)",
         "url": "https://open.spotify.com/album/6IWqluXk2EHWoPKFKNIsjA"
       },
@@ -56798,6 +57060,32 @@
       "duration_ms": 212013,
       "name": "O Ver\u00e3o Bateu Em Minha Porta - Ao Vivo",
       "url": "https://open.spotify.com/track/2Y1gfUWswhEKfGddd72XhF"
+    },
+    {
+      "album": {
+        "name": "O Vov\u00f4 N\u00e3o Ta Casado",
+        "url": "https://open.spotify.com/album/7s3G8eaTZ8mjCF18c9VKHb"
+      },
+      "artists": [
+        {
+          "name": "Biurifol",
+          "url": "https://open.spotify.com/artist/6kHgGRuWCJ5FpbieBncl9X"
+        },
+        {
+          "name": "DJ Emige",
+          "url": "https://open.spotify.com/artist/7Bwy2izsR02avTMcKR6EOr"
+        },
+        {
+          "name": "B7 City",
+          "url": "https://open.spotify.com/artist/0d9LA5yd4Qsg5dk0SlA7ui"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217845,
+      "name": "O Vov\u00f4 N\u00e3o Ta Casado",
+      "url": "https://open.spotify.com/track/1UWDkzoTCX0prwWRuSOgAw"
     },
     {
       "album": {
@@ -56962,6 +57250,28 @@
       "duration_ms": 90514,
       "name": "Off The King",
       "url": "https://open.spotify.com/track/1GUvtcy3F4pMsIYjJT5IlW"
+    },
+    {
+      "album": {
+        "name": "Of\u00e9lia Funk",
+        "url": "https://open.spotify.com/album/1f4i8SKHkOCZqBXaVLLjHQ"
+      },
+      "artists": [
+        {
+          "name": "Jean du PCB DJ",
+          "url": "https://open.spotify.com/artist/2Ksj15gJzbC0QitLtWMV7J"
+        },
+        {
+          "name": "Dj Ryan",
+          "url": "https://open.spotify.com/artist/0F2IwZq5M5SYZIbSsjwVIi"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168923,
+      "name": "Of\u00e9lia Funk",
+      "url": "https://open.spotify.com/track/51uwokdunw5tSVGocldwXt"
     },
     {
       "album": {
@@ -57200,7 +57510,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 182222,
       "name": "Oi Linda",
       "url": "https://open.spotify.com/track/0iG9z2JyiDYWpPQQIXZsUd"
@@ -58108,16 +58418,16 @@
           "url": "https://open.spotify.com/artist/4e3VXp9wT6m3w46kdcYTmF"
         },
         {
+          "name": "DJ GEBE",
+          "url": "https://open.spotify.com/artist/1BnwmEMgp9tLNc1TwpaP9I"
+        },
+        {
           "name": "Mc Magrinho",
           "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
         },
         {
           "name": "Mc Gw",
           "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "DJ GEBE",
-          "url": "https://open.spotify.com/artist/1BnwmEMgp9tLNc1TwpaP9I"
         }
       ],
       "date_added": "2025-12-24",
@@ -60484,7 +60794,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 207504,
       "name": "Pedido De Socorro - Ao Vivo",
       "url": "https://open.spotify.com/track/3AWftRrkCekw70fA3Wh0kQ"
@@ -63580,7 +63890,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 178186,
       "name": "Pq Vc N\u00e3o Me Liga?",
       "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
@@ -65322,7 +65632,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177546,
       "name": "Que Deus Me Livre",
       "url": "https://open.spotify.com/track/559E570r1PW2hjN8TiUbGG"
@@ -67041,6 +67351,36 @@
     },
     {
       "album": {
+        "name": "Resenha da Muierada",
+        "url": "https://open.spotify.com/album/6jBfymBx7oqTsUI1Oaj6Sk"
+      },
+      "artists": [
+        {
+          "name": "Muierada",
+          "url": "https://open.spotify.com/artist/5bIIzSB5LjcasuxpGykW1r"
+        },
+        {
+          "name": "Julia e Rafaela",
+          "url": "https://open.spotify.com/artist/3do23RZpGQOA1Vxr82uT4P"
+        },
+        {
+          "name": "Kamila e Kavic",
+          "url": "https://open.spotify.com/artist/005VzWqEXF75P8zRdnVHoP"
+        },
+        {
+          "name": "Julya e Maryana",
+          "url": "https://open.spotify.com/artist/6EYhlxg5tQoFukHXaIRwGB"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504000,
+      "name": "Resenha da Muierada",
+      "url": "https://open.spotify.com/track/3Weyb5gK8sP5FGd1yuRmoL"
+    },
+    {
+      "album": {
         "name": "O Que Bate \u00c9 Maluquice",
         "url": "https://open.spotify.com/album/4cFKT3iVF65cmcBbgw5FWJ"
       },
@@ -68426,7 +68766,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
@@ -69364,7 +69704,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/5bWtlLm47TCz34fmr9hZzL"
@@ -69526,6 +69866,28 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "album": {
+        "name": "Sa\u00ed para ver o mar",
+        "url": "https://open.spotify.com/album/2eHFDRyLAzE0XvfFniWO5O"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191810,
+      "name": "Sa\u00ed para ver o mar",
+      "url": "https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB"
     },
     {
       "album": {
@@ -71675,6 +72037,56 @@
     },
     {
       "album": {
+        "name": "SET DJ YURI PEDRADA - TRAVA CHIP",
+        "url": "https://open.spotify.com/album/1sLXpSh9ol5lle83QZyJTI"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "MC GDL",
+          "url": "https://open.spotify.com/artist/65uZqk8hbCuVjZa3l9WWt1"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487384,
+      "name": "SET DJ YURI PEDRADA - TRAVA CHIP",
+      "url": "https://open.spotify.com/track/65O1EyYSg0Leyf0li6Vzah"
+    },
+    {
+      "album": {
         "name": "Set do Buzeira 3.0",
         "url": "https://open.spotify.com/album/3tW21Z3txDhdZhNn5C3ieb"
       },
@@ -71840,10 +72252,60 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 518783,
       "name": "SET DO JAPA NK 2.0 (feat. MC LUUKY, Mc Jacar\u00e9, MC Rodrigo do CN, MC GH do 7, Mc Lele JP, Mc Jvila & Oruam)",
       "url": "https://open.spotify.com/track/1JZDwJgE9VSC0V2GR66z63"
+    },
+    {
+      "album": {
+        "name": "Set do Rincon 1 (feat. The Ro\u00e7a, Edy Lemond, Dj Chris No Beat, DJ Ari SL, Os Loucotores)",
+        "url": "https://open.spotify.com/album/7Ewks2DMm0iiBe47aPKFku"
+      },
+      "artists": [
+        {
+          "name": "US Agroboy",
+          "url": "https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d"
+        },
+        {
+          "name": "Brenno & Matheus",
+          "url": "https://open.spotify.com/artist/5aC2LaswbZgcf1G2uxqBxF"
+        },
+        {
+          "name": "Country Boy",
+          "url": "https://open.spotify.com/artist/3SvkFXAurqVn8u5iQNV0Oo"
+        },
+        {
+          "name": "Na Base do Agro",
+          "url": "https://open.spotify.com/artist/6dBSnoW8EMfIdFC0K8ll9R"
+        },
+        {
+          "name": "DJ Ari SL",
+          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
+        },
+        {
+          "name": "Dj Chris No Beat",
+          "url": "https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk"
+        },
+        {
+          "name": "Edy Lemond",
+          "url": "https://open.spotify.com/artist/65lnOtC17SrJDt6CYdixJI"
+        },
+        {
+          "name": "Os Loucotores",
+          "url": "https://open.spotify.com/artist/3zxbBt1jsemMT5wqqbECH1"
+        },
+        {
+          "name": "The Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/4vtRfcSGNc3rOtQtztZqKy"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361875,
+      "name": "Set do Rincon 1 (feat. The Ro\u00e7a, Edy Lemond, Dj Chris No Beat, DJ Ari SL, Os Loucotores)",
+      "url": "https://open.spotify.com/track/7t2JELey25yJKmZLA00BJz"
     },
     {
       "album": {
@@ -72636,7 +73098,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 241326,
       "name": "Sil\u00eancio",
       "url": "https://open.spotify.com/track/1scDyegujPu9CK2d6PTYgk"
@@ -73294,7 +73756,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 83076,
       "name": "SO ESSENCIAL",
       "url": "https://open.spotify.com/track/4Hzr5nmvlNItclwVsBzjrd"
@@ -74996,7 +75458,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196560,
       "name": "Sujeito De Sorte",
       "url": "https://open.spotify.com/track/1UsAjRCSavihMYsspqJz4e"
@@ -78622,7 +79084,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -81826,6 +82288,28 @@
       "duration_ms": 126916,
       "name": "Tudo Que \u00c9 Bom Come\u00e7a Com P",
       "url": "https://open.spotify.com/track/3zZFqh0HIe2E5Dw8OTLcrH"
+    },
+    {
+      "album": {
+        "name": "Tudo Vai Dar Certo",
+        "url": "https://open.spotify.com/album/1u9IVeLgGLnyGZdSp29Ieu"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "Amani Kush",
+          "url": "https://open.spotify.com/artist/0wtbQxjVIG4tJmHxKULlmF"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240293,
+      "name": "Tudo Vai Dar Certo",
+      "url": "https://open.spotify.com/track/6B8pYtoS3XHrc821hExWf6"
     },
     {
       "album": {
@@ -85216,7 +85700,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 191123,
       "name": "Vigia - Ao Vivo",
       "url": "https://open.spotify.com/track/3pluhE8zvzjuFFPxffEJnt"
@@ -85910,6 +86394,24 @@
       "duration_ms": 387187,
       "name": "Voltei Com 5 do Job / S\u00f3 Menina Linda 2",
       "url": "https://open.spotify.com/track/0a7XSbyfdhkhCDdBSFbTFP"
+    },
+    {
+      "album": {
+        "name": "Voltei Mais Forte",
+        "url": "https://open.spotify.com/album/5wCOlMyrOBnIiYIMCNLUeZ"
+      },
+      "artists": [
+        {
+          "name": "Palavra Santa",
+          "url": "https://open.spotify.com/artist/2VDbsjDMOoJjyZyGaoOJFz"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181839,
+      "name": "Voltei Mais Forte",
+      "url": "https://open.spotify.com/track/3gjAnZHQkJAUp0bl1DGGQ5"
     },
     {
       "album": {
@@ -88240,16 +88742,16 @@
       },
       "artists": [
         {
-          "name": "Kryd",
-          "url": "https://open.spotify.com/artist/1JCkyoTjnXO1tOVkcabgci"
-        },
-        {
           "name": "kobzx2z",
           "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
         },
         {
           "name": "Myla",
           "url": "https://open.spotify.com/artist/0NVFZ3XpjyXGlsJ7CMWDFj"
+        },
+        {
+          "name": "Kryd",
+          "url": "https://open.spotify.com/artist/1JCkyoTjnXO1tOVkcabgci"
         }
       ],
       "date_added": "2026-01-02",

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y091BKRxpU.md) - [plain](/playlists/plain/37i9dQZF1DX0Y091BKRxpU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0Y091BKRxpU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y091BKRxpU.md) - [plain](/playlists/plain/37i9dQZF1DX0Y091BKRxpU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0Y091BKRxpU)
 
 ### [Mixtape \#14 Zoë Kravitz "Sweet Revenge"](https://open.spotify.com/playlist/37i9dQZF1DX0Y091BKRxpU)
 
 > the sound of retribution, according to Zoë Kravitz\. Inspired by the film Blink Twice\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,101 likes - 28 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,827 likes - 28 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

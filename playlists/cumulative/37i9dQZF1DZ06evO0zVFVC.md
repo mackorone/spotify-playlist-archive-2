@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO0zVFVC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0zVFVC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0zVFVC)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO0zVFVC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0zVFVC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO0zVFVC)
 
 ### [This Is Parkway Drive](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zVFVC)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcx7GqrPm7So.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcx7GqrPm7So) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcx7GqrPm7So)
+[pretty](/playlists/pretty/37i9dQZF1DXcx7GqrPm7So.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcx7GqrPm7So) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcx7GqrPm7So)
 
 ### [Happy Hour](https://open.spotify.com/playlist/37i9dQZF1DXcx7GqrPm7So)
 

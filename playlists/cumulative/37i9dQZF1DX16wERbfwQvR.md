@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX16wERbfwQvR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX16wERbfwQvR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX16wERbfwQvR)
+[pretty](/playlists/pretty/37i9dQZF1DX16wERbfwQvR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX16wERbfwQvR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX16wERbfwQvR)
 
 ### [This Is Haydn](https://open.spotify.com/playlist/37i9dQZF1DX16wERbfwQvR)
 

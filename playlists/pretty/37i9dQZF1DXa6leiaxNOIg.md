@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6leiaxNOIg.md) - [plain](/playlists/plain/37i9dQZF1DXa6leiaxNOIg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa6leiaxNOIg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6leiaxNOIg.md) - [plain](/playlists/plain/37i9dQZF1DXa6leiaxNOIg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXa6leiaxNOIg)
 
 ### [胸さわぎの腰つき](https://open.spotify.com/playlist/37i9dQZF1DXa6leiaxNOIg)
 
 > Spotify×サザンオールスターズのムードプレイリストシリーズ第一弾。来る夏にむけて「熱い胸さわぎ」がするサザン楽曲を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,633 likes - 45 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,645 likes - 45 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

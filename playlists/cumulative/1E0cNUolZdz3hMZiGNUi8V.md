@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1E0cNUolZdz3hMZiGNUi8V.md) - cumulative - [plain](/playlists/plain/1E0cNUolZdz3hMZiGNUi8V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1E0cNUolZdz3hMZiGNUi8V)
+[pretty](/playlists/pretty/1E0cNUolZdz3hMZiGNUi8V.md) - cumulative - [plain](/playlists/plain/1E0cNUolZdz3hMZiGNUi8V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1E0cNUolZdz3hMZiGNUi8V)
 
 ### [Hip Hop Weekly](https://open.spotify.com/playlist/1E0cNUolZdz3hMZiGNUi8V)
 

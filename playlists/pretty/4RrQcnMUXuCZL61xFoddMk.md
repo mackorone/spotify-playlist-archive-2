@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/4RrQcnMUXuCZL61xFoddMk.md) - [plain](/playlists/plain/4RrQcnMUXuCZL61xFoddMk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4RrQcnMUXuCZL61xFoddMk)
+pretty - [cumulative](/playlists/cumulative/4RrQcnMUXuCZL61xFoddMk.md) - [plain](/playlists/plain/4RrQcnMUXuCZL61xFoddMk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4RrQcnMUXuCZL61xFoddMk)
 
 ### [My Ordinary Life](https://open.spotify.com/playlist/4RrQcnMUXuCZL61xFoddMk)
 

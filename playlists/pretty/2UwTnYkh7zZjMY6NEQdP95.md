@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2UwTnYkh7zZjMY6NEQdP95.md) - [plain](/playlists/plain/2UwTnYkh7zZjMY6NEQdP95) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2UwTnYkh7zZjMY6NEQdP95)
+pretty - [cumulative](/playlists/cumulative/2UwTnYkh7zZjMY6NEQdP95.md) - [plain](/playlists/plain/2UwTnYkh7zZjMY6NEQdP95) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2UwTnYkh7zZjMY6NEQdP95)
 
 ### [Grazia Daily: Summer 2013](https://open.spotify.com/playlist/2UwTnYkh7zZjMY6NEQdP95)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 299 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 298 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

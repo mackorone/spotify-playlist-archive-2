@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoDfksyokHA.md) - [plain](/playlists/plain/37i9dQZF1DWZoDfksyokHA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZoDfksyokHA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoDfksyokHA.md) - [plain](/playlists/plain/37i9dQZF1DWZoDfksyokHA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZoDfksyokHA)
 
 ### [Songs We Swooned To In 2023](https://open.spotify.com/playlist/37i9dQZF1DWZoDfksyokHA)
 
 > when you know you know
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,238 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,203 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4CgQfaaNhacpXlMbM83t54.md) - cumulative - [plain](/playlists/plain/4CgQfaaNhacpXlMbM83t54) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4CgQfaaNhacpXlMbM83t54)
+[pretty](/playlists/pretty/4CgQfaaNhacpXlMbM83t54.md) - cumulative - [plain](/playlists/plain/4CgQfaaNhacpXlMbM83t54) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4CgQfaaNhacpXlMbM83t54)
 
 ### [Mexican American War](https://open.spotify.com/playlist/4CgQfaaNhacpXlMbM83t54)
 

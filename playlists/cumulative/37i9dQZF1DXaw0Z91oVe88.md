@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaw0Z91oVe88.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaw0Z91oVe88) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaw0Z91oVe88)
+[pretty](/playlists/pretty/37i9dQZF1DXaw0Z91oVe88.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaw0Z91oVe88) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaw0Z91oVe88)
 
 ### [Pop Rising Korea: 2025 베스트 트랙](https://open.spotify.com/playlist/37i9dQZF1DXaw0Z91oVe88)
 

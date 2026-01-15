@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0Ixow1lgavDf5aN95BS3l1.md) - [plain](/playlists/plain/0Ixow1lgavDf5aN95BS3l1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Ixow1lgavDf5aN95BS3l1)
+pretty - [cumulative](/playlists/cumulative/0Ixow1lgavDf5aN95BS3l1.md) - [plain](/playlists/plain/0Ixow1lgavDf5aN95BS3l1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0Ixow1lgavDf5aN95BS3l1)
 
 ### [F u Joan: Mountain goats songs that sound diffrent](https://open.spotify.com/playlist/0Ixow1lgavDf5aN95BS3l1)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTgSTuHRv7LV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTgSTuHRv7LV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTgSTuHRv7LV)
+[pretty](/playlists/pretty/37i9dQZF1DWTgSTuHRv7LV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTgSTuHRv7LV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTgSTuHRv7LV)
 
 ### [Mucho Rap](https://open.spotify.com/playlist/37i9dQZF1DWTgSTuHRv7LV)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1aBeik.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1aBeik) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1aBeik)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1aBeik.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1aBeik) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1aBeik)
 
 ### [This Is Post Malone](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aBeik)
 

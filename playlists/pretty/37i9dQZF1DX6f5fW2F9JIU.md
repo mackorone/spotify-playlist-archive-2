@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6f5fW2F9JIU.md) - [plain](/playlists/plain/37i9dQZF1DX6f5fW2F9JIU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6f5fW2F9JIU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6f5fW2F9JIU.md) - [plain](/playlists/plain/37i9dQZF1DX6f5fW2F9JIU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6f5fW2F9JIU)
 
 ### [THE IDOLM@STER アイドルマスター](https://open.spotify.com/playlist/37i9dQZF1DX6f5fW2F9JIU)
 
 > Music from "THE IDOLM@STER"\. アイドルマスターの楽曲を1つのプレイリストで。<br/>©窪岡俊之 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,638 likes - 106 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,672 likes - 107 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6f5fW2F9JIU.md) - [plain]
 | 104 | [初恋 〜一章 片想いの桜〜](https://open.spotify.com/track/2VzhDpAUz5SEhhoXIEJGj9) | [星井美希 \(CV: 長谷川明子\)](https://open.spotify.com/artist/1XXFH78oQ3dVr0ptfFLofV), [四条貴音 \(CV: 原 由実\)](https://open.spotify.com/artist/5pOdOWa0fBgozgUfQUGEp7), [我那覇響 \(CV: 沼倉愛美\)](https://open.spotify.com/artist/5FZAJa8dQvNQMTV4E7GWYZ) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-LOVE&PEACE!\-](https://open.spotify.com/album/2EKu4FCPq2X52aRzaT3lHI) | 6:22 |
 | 105 | [幸](https://open.spotify.com/track/1muZRX7OvSCRvx4yNAJdpu) | [音無小鳥 \(CV: 滝田樹里\)](https://open.spotify.com/artist/6tfIQYbHVslYRk5V3uGLxy) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-LOVE&PEACE!\-](https://open.spotify.com/album/2EKu4FCPq2X52aRzaT3lHI) | 5:40 |
 | 106 | [Vault That Borderline! \- M@STER VERSION](https://open.spotify.com/track/1ULGj7pEJXuMTwnNbO5HKK) | [天海春香 \(CV: 中村繪里子\)](https://open.spotify.com/artist/4aRJRDARzKnNfjXfM1lYqz), [如月千早 \(CV: 今井麻美\)](https://open.spotify.com/artist/72rLeWDmVC3Sumcjj7vktd), [三浦あずさ \(CV.たかはし智秋\)](https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv), [秋月律子 \(CV: 若林直美\)](https://open.spotify.com/artist/2iSxBnHMVPoIs6FSif3p1E) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-LOVE&PEACE!\-](https://open.spotify.com/album/2EKu4FCPq2X52aRzaT3lHI) | 4:43 |
+| 107 | [KiRa\-KiRa Sensation!](https://open.spotify.com/track/1oCb5uIg2DubnPv5pKoKRK) | [天海春香 \(CV.中村繪里子\)](https://open.spotify.com/artist/4VYbbwQ4B6bjc3bJEAjFlL), [如月千早 \(CV.今井麻美\)](https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g), [星井美希 \(CV.長谷川明子\)](https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi), [萩原雪歩 \(CV.浅倉杏美\)](https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh), [菊地 真 \(CV.平田宏美\)](https://open.spotify.com/artist/63lsunc6hoqoaUq0A11UZX) | [LoveLive! Series 15th Anniversary Tribute Album](https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi) | 5:01 |
 
-Snapshot ID: `AAAAAC1y6GDWVpM7va6s7kL27PccidJX`
+Snapshot ID: `AAAAAHz8VJY9CSuRoIxITMkOsAr8LvDf`

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain](/playlists/plain/37i9dQZF1DX65caF1CvtIN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX65caF1CvtIN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain](/playlists/plain/37i9dQZF1DX65caF1CvtIN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX65caF1CvtIN)
 
 ### [Piano for Healing ](https://open.spotify.com/playlist/37i9dQZF1DX65caF1CvtIN)
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,404 likes - 157 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,685 likes - 157 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

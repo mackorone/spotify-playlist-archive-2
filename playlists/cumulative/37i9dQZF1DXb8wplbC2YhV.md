@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXb8wplbC2YhV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb8wplbC2YhV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb8wplbC2YhV)
+[pretty](/playlists/pretty/37i9dQZF1DXb8wplbC2YhV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb8wplbC2YhV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb8wplbC2YhV)
 
 ### [100 Greatest Hip\-Hop Songs of the Streaming Era](https://open.spotify.com/playlist/37i9dQZF1DXb8wplbC2YhV)
 

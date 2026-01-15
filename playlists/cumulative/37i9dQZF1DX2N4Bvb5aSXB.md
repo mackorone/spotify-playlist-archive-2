@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2N4Bvb5aSXB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2N4Bvb5aSXB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2N4Bvb5aSXB)
+[pretty](/playlists/pretty/37i9dQZF1DX2N4Bvb5aSXB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2N4Bvb5aSXB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2N4Bvb5aSXB)
 
 ### [Verzuz: Ne\-Yo vs\. Johnta Austin](https://open.spotify.com/playlist/37i9dQZF1DX2N4Bvb5aSXB)
 

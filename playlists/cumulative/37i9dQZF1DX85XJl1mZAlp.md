@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX85XJl1mZAlp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX85XJl1mZAlp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX85XJl1mZAlp)
+[pretty](/playlists/pretty/37i9dQZF1DX85XJl1mZAlp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX85XJl1mZAlp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX85XJl1mZAlp)
 
 ### [Jazz X\-Press](https://open.spotify.com/playlist/37i9dQZF1DX85XJl1mZAlp)
 

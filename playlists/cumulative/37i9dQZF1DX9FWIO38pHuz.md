@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9FWIO38pHuz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9FWIO38pHuz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9FWIO38pHuz)
+[pretty](/playlists/pretty/37i9dQZF1DX9FWIO38pHuz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9FWIO38pHuz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9FWIO38pHuz)
 
 ### [Nu\-Funk Presents Best Funk of 2025](https://open.spotify.com/playlist/37i9dQZF1DX9FWIO38pHuz)
 

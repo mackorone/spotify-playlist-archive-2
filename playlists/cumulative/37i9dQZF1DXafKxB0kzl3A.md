@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXafKxB0kzl3A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafKxB0kzl3A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafKxB0kzl3A)
+[pretty](/playlists/pretty/37i9dQZF1DXafKxB0kzl3A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafKxB0kzl3A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXafKxB0kzl3A)
 
 ### [Tiësto's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DXafKxB0kzl3A)
 

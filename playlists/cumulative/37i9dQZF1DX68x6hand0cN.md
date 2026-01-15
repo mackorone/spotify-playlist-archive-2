@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX68x6hand0cN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX68x6hand0cN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX68x6hand0cN)
+[pretty](/playlists/pretty/37i9dQZF1DX68x6hand0cN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX68x6hand0cN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX68x6hand0cN)
 
 ### [Shisha Lounge](https://open.spotify.com/playlist/37i9dQZF1DX68x6hand0cN)
 
 > Take another hit.
 
-244 songs - 12 hr 10 min
+245 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Niye \(feat\. Ali471\)](https://open.spotify.com/track/2RTGem0xpKWf1nm5L0dL1b) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ) | [Niye \(feat\. Ali471\)](https://open.spotify.com/album/1ZjwDKEFNICM0LwmMrIrue) | 3:24 | 2022-07-28 | 2023-05-23 |
 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 | 2024-08-11 |  |
 | [No Money](https://open.spotify.com/track/3e0yFn74MouCqsAxTCKOUf) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No Money](https://open.spotify.com/album/4HW0xW2nhso4HHSO6rhM8n) | 4:14 | 2022-11-28 | 2023-08-25 |
+| [No Stress](https://open.spotify.com/track/7LSDia8E3oKftKJbEvWAP7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:26 | 2026-01-14 |  |
 | [No Tenía](https://open.spotify.com/track/5sU8VO1S2SIbbA9vcFmG0u) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No Tenía](https://open.spotify.com/album/3HDnq1J4fonyWE2FLq1juf) | 3:43 | 2024-02-15 |  |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-07-28 | 2025-07-25 |
 | [Non Stop](https://open.spotify.com/track/1udtNC01aJJqdFkfUZ3HnQ) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Non Stop](https://open.spotify.com/album/5oToh2qNHoL9qSbUDnbcWg) | 2:22 | 2024-03-28 | 2025-01-09 |
@@ -177,7 +178,7 @@
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-03-27 | 2023-07-08 |
 | [Pakistan](https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Pakistan](https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2) | 2:54 | 2023-07-07 |  |
 | [Panama](https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:45 | 2024-01-24 |  |
-| [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 | 2022-11-10 |  |
+| [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 | 2022-11-10 | 2026-01-15 |
 | [PO PO PO](https://open.spotify.com/track/6RQ06Xu2bBZFFVptrxDZZq) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [PO PO PO](https://open.spotify.com/album/5AYE8JjDT222UaFA1E2dD8) | 2:13 | 2023-08-23 | 2025-09-10 |
 | [Pololo](https://open.spotify.com/track/2gmTz7pHMqAk6fpOc88qxA) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mansa](https://open.spotify.com/album/0JBjfd9NAcpgHBbllm0fQg) | 3:15 | 2022-07-28 | 2023-03-28 |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-02-02 |  |

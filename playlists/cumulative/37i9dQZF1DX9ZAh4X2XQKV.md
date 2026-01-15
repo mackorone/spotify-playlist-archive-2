@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9ZAh4X2XQKV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9ZAh4X2XQKV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9ZAh4X2XQKV)
+[pretty](/playlists/pretty/37i9dQZF1DX9ZAh4X2XQKV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9ZAh4X2XQKV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9ZAh4X2XQKV)
 
 ### [latincore](https://open.spotify.com/playlist/37i9dQZF1DX9ZAh4X2XQKV)
 
 > this is what's up in the world of Latin and beyond.
 
-97 songs - 5 hr 33 min
+98 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2025-11-07 |  |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt) | 2:30 | 2025-05-21 |  |
 | [LA ULTIMA VEZ](https://open.spotify.com/track/0NGz9DiN1pGvvB8wG9qBi4) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra), [mariano](https://open.spotify.com/artist/7eotpUg41HqaEqJPKOm1L9) | [LA ULTIMA VEZ](https://open.spotify.com/album/7KeFVEFiQfzlK2ltgbuZqN) | 2:21 | 2025-05-21 | 2025-08-09 |
+| [LA VILLA](https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [LA VILLA](https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq) | 3:12 | 2026-01-06 |  |
 | [LATINA FOREVA](https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:39 | 2025-10-16 | 2025-11-08 |
 | [Loco](https://open.spotify.com/track/63EQbNhgaih4yg5412usWG) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Loco](https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232) | 3:06 | 2025-10-10 |  |
 | [LOKiTA](https://open.spotify.com/track/2a4xiwEChjGcdbRbeaDAmG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:29 | 2025-05-21 | 2025-12-31 |
@@ -79,7 +80,7 @@
 | [REINAA](https://open.spotify.com/track/5wu2O9uFF3tG6nM8CE6Glz) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [REINAA](https://open.spotify.com/album/6r6VRNL37I9iwMzwnOp7nc) | 4:30 | 2025-10-10 |  |
 | [Scat Pack](https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Scat Pack](https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx) | 4:13 | 2025-09-10 |  |
 | [SELEDA.](https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SELEDA.](https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq) | 2:11 | 2025-10-10 |  |
-| [Sex And The City](https://open.spotify.com/track/43wpRA7prYMNnmf5eOsBG5) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR) | [Porque Quise DELUXE](https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm) | 2:55 | 2025-11-07 |  |
+| [Sex And The City](https://open.spotify.com/track/43wpRA7prYMNnmf5eOsBG5) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR) | [Porque Quise DELUXE](https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm) | 2:55 | 2025-11-07 | 2026-01-15 |
 | [Sexo Seguro](https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:38 | 2025-05-21 | 2025-09-05 |
 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 | 2025-12-30 |  |
 | [Siento que merezco más](https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 2:45 | 2025-05-21 |  |

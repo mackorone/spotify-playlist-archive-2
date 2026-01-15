@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain](/playlists/plain/37i9dQZF1DWW0OFelDHUJP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW0OFelDHUJP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain](/playlists/plain/37i9dQZF1DWW0OFelDHUJP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW0OFelDHUJP)
 
 ### [Monsoon Hits Indie](https://open.spotify.com/playlist/37i9dQZF1DWW0OFelDHUJP)
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,825 likes - 74 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,823 likes - 74 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 | 58 | [Beh Bhi Le](https://open.spotify.com/track/4WBbMC0lSXQ8uu1I3iG8NP) | [Priyansh Paliwal](https://open.spotify.com/artist/3wzlbHYttOCz2NLyovlfXX) | [Sunday](https://open.spotify.com/album/1FUMdT2QZWjOuM4r1Gp5FN) | 4:14 |
 | 59 | [Paani](https://open.spotify.com/track/3MQCWVCuzdoP9M6aeXtRT6) | [Rohan Kamath](https://open.spotify.com/artist/2Ni9NexOwtEehPqRXNSdlM) | [Paani](https://open.spotify.com/album/1bp4sHm3BL0qRy9dP8nCwG) | 3:13 |
 | 60 | [Aisi Koi Baarish](https://open.spotify.com/track/28Xi0hvb1Ejd3K2Yn4JsRF) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Aisi Koi Baarish](https://open.spotify.com/album/6d9sG3ghiBThK3Nh0EkcGq) | 3:14 |
-| 61 | [When You Smile](https://open.spotify.com/track/7drZ27Wes5FgldRmanF50m) | [Aniirban Saha](https://open.spotify.com/artist/4UTFMGL1wJ8jFvapqEXdJH), [Asif Syed](https://open.spotify.com/artist/2v0RWVAbCFoIS6xPYPKBTz), [Agniva Goswami](https://open.spotify.com/artist/3GhJcn1WMTuBGizB7jEmlS) | [When You Smile](https://open.spotify.com/album/2qhnGMvs8Tk9QLEdwhVQ1B) | 3:38 |
+| 61 | [When You Smile](https://open.spotify.com/track/7drZ27Wes5FgldRmanF50m) | [Anirbaan Saha](https://open.spotify.com/artist/7MZBuH8yRdTOfGkxPuKIqS), [Asif Syed](https://open.spotify.com/artist/2v0RWVAbCFoIS6xPYPKBTz), [Agniva Goswami](https://open.spotify.com/artist/3GhJcn1WMTuBGizB7jEmlS) | [When You Smile](https://open.spotify.com/album/2qhnGMvs8Tk9QLEdwhVQ1B) | 3:38 |
 | 62 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
 | 63 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 |
 | 64 | [Muddat](https://open.spotify.com/track/7rgQx9d0qj0tgRGuhq4Fca) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Muddat \- Single](https://open.spotify.com/album/7D7ZXah36bBSJ6Z0goU5uE) | 4:14 |

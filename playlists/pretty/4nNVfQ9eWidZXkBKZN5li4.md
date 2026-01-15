@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain](/playlists/plain/4nNVfQ9eWidZXkBKZN5li4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4nNVfQ9eWidZXkBKZN5li4)
+pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain](/playlists/plain/4nNVfQ9eWidZXkBKZN5li4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4nNVfQ9eWidZXkBKZN5li4)
 
 ### [Bollywood Top 50](https://open.spotify.com/playlist/4nNVfQ9eWidZXkBKZN5li4)
 
 > Groove to Desi chart\-toppers and Bollywood’s top TikTok hits &amp; Reels Anthems —featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R\. Rahman, Pritam, and Tanishk Bagchi!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 228,417 likes - 94 songs - 6 hr 12 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 228,719 likes - 94 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain](/playlists/plain/37i9dQZF1DX5DVzbFZsdpB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5DVzbFZsdpB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain](/playlists/plain/37i9dQZF1DX5DVzbFZsdpB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5DVzbFZsdpB)
 
 ### [RADAR Creators AUSTRALIA](https://open.spotify.com/playlist/37i9dQZF1DX5DVzbFZsdpB)
 
 > Podcasts to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,438 likes - 15 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437 likes - 15 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

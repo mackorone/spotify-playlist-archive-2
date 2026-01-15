@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain](/playlists/plain/37i9dQZF1DWXbC1ZOkTuut) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXbC1ZOkTuut)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain](/playlists/plain/37i9dQZF1DWXbC1ZOkTuut) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXbC1ZOkTuut)
 
 ### [New Música Mexicana albums ](https://open.spotify.com/playlist/37i9dQZF1DWXbC1ZOkTuut)
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Jenni Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,056 likes - 239 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,071 likes - 239 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

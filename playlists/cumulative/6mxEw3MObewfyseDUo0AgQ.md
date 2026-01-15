@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6mxEw3MObewfyseDUo0AgQ.md) - cumulative - [plain](/playlists/plain/6mxEw3MObewfyseDUo0AgQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6mxEw3MObewfyseDUo0AgQ)
+[pretty](/playlists/pretty/6mxEw3MObewfyseDUo0AgQ.md) - cumulative - [plain](/playlists/plain/6mxEw3MObewfyseDUo0AgQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6mxEw3MObewfyseDUo0AgQ)
 
 ### [To all the friends I loved ](https://open.spotify.com/playlist/6mxEw3MObewfyseDUo0AgQ)
 

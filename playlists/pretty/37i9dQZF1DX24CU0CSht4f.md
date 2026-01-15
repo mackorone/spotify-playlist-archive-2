@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain](/playlists/plain/37i9dQZF1DX24CU0CSht4f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX24CU0CSht4f)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain](/playlists/plain/37i9dQZF1DX24CU0CSht4f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX24CU0CSht4f)
 
 ### [Sgt\. Frog](https://open.spotify.com/playlist/37i9dQZF1DX24CU0CSht4f)
 
 > Enjoy the world of “Sgt\. Frog”!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,315 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,383 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP2fCX7VhoW.md) - [plain](/playlists/plain/37i9dQZF1DWXP2fCX7VhoW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXP2fCX7VhoW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP2fCX7VhoW.md) - [plain](/playlists/plain/37i9dQZF1DWXP2fCX7VhoW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXP2fCX7VhoW)
 
 ### [Top Artistas Portugal 2025](https://open.spotify.com/playlist/37i9dQZF1DWXP2fCX7VhoW)
 
 > Os artistas mais tocados do ano\. Foto: Plutonio
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,525 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,610 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

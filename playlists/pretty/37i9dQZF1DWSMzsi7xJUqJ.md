@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMzsi7xJUqJ.md) - [plain](/playlists/plain/37i9dQZF1DWSMzsi7xJUqJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSMzsi7xJUqJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMzsi7xJUqJ.md) - [plain](/playlists/plain/37i9dQZF1DWSMzsi7xJUqJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSMzsi7xJUqJ)
 
 ### [This Is First Aid Kit](https://open.spotify.com/playlist/37i9dQZF1DWSMzsi7xJUqJ)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H7isVCYz3f.md) - [plain](/playlists/plain/37i9dQZF1DX1H7isVCYz3f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1H7isVCYz3f)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H7isVCYz3f.md) - [plain](/playlists/plain/37i9dQZF1DX1H7isVCYz3f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1H7isVCYz3f)
 
 ### [GLOW Tapes: Bob the Drag Queen](https://open.spotify.com/playlist/37i9dQZF1DX1H7isVCYz3f)
 
 > muy fuego, curated by Bob the Drag Queen\. Traitors S3 now streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,343 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,412 likes - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

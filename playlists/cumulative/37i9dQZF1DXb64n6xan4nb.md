@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXb64n6xan4nb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb64n6xan4nb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb64n6xan4nb)
+[pretty](/playlists/pretty/37i9dQZF1DXb64n6xan4nb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb64n6xan4nb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb64n6xan4nb)
 
 ### [CYWORLD BGM \(싸이월드 BGM\)](https://open.spotify.com/playlist/37i9dQZF1DXb64n6xan4nb)
 

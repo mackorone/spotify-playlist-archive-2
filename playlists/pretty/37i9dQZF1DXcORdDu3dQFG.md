@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcORdDu3dQFG.md) - [plain](/playlists/plain/37i9dQZF1DXcORdDu3dQFG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcORdDu3dQFG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcORdDu3dQFG.md) - [plain](/playlists/plain/37i9dQZF1DXcORdDu3dQFG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcORdDu3dQFG)
 
 ### [Holiday Music Videos](https://open.spotify.com/playlist/37i9dQZF1DXcORdDu3dQFG)
 
 > Get festive with this selection of videos\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,293 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,262 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

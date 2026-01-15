@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0R7s5Q0xOIh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0R7s5Q0xOIh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0R7s5Q0xOIh)
+[pretty](/playlists/pretty/37i9dQZF1DX0R7s5Q0xOIh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0R7s5Q0xOIh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0R7s5Q0xOIh)
 
 ### [Carona Podpah com música](https://open.spotify.com/playlist/37i9dQZF1DX0R7s5Q0xOIh)
 

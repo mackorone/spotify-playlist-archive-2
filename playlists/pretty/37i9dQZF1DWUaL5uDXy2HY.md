@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaL5uDXy2HY.md) - [plain](/playlists/plain/37i9dQZF1DWUaL5uDXy2HY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUaL5uDXy2HY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaL5uDXy2HY.md) - [plain](/playlists/plain/37i9dQZF1DWUaL5uDXy2HY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUaL5uDXy2HY)
 
 ### [Hairdryer Sleep Sounds](https://open.spotify.com/playlist/37i9dQZF1DWUaL5uDXy2HY)
 
 > Hairdryer, vacuum\-cleaner & other homely sounds to fall asleep with
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,989 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,208 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2EcSH9oZNzBmGDNqoTdvBJ.md) - cumulative - [plain](/playlists/plain/2EcSH9oZNzBmGDNqoTdvBJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2EcSH9oZNzBmGDNqoTdvBJ)
+[pretty](/playlists/pretty/2EcSH9oZNzBmGDNqoTdvBJ.md) - cumulative - [plain](/playlists/plain/2EcSH9oZNzBmGDNqoTdvBJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2EcSH9oZNzBmGDNqoTdvBJ)
 
 ### [Wicked Wives Wine Party ](https://open.spotify.com/playlist/2EcSH9oZNzBmGDNqoTdvBJ)
 

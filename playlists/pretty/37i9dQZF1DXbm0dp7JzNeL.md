@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain](/playlists/plain/37i9dQZF1DXbm0dp7JzNeL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbm0dp7JzNeL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain](/playlists/plain/37i9dQZF1DXbm0dp7JzNeL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbm0dp7JzNeL)
 
 ### [Sad Classical](https://open.spotify.com/playlist/37i9dQZF1DXbm0dp7JzNeL)
 
 > Take comfort in these melancholy masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,386 likes - 58 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,793 likes - 58 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

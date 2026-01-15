@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1HdxEroWca3L8JR3lvnolH.md) - cumulative - [plain](/playlists/plain/1HdxEroWca3L8JR3lvnolH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1HdxEroWca3L8JR3lvnolH)
+[pretty](/playlists/pretty/1HdxEroWca3L8JR3lvnolH.md) - cumulative - [plain](/playlists/plain/1HdxEroWca3L8JR3lvnolH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1HdxEroWca3L8JR3lvnolH)
 
 ### [Artists Den + Spotify](https://open.spotify.com/playlist/1HdxEroWca3L8JR3lvnolH)
 

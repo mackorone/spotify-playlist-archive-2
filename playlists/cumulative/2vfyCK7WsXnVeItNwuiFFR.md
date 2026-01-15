@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2vfyCK7WsXnVeItNwuiFFR.md) - cumulative - [plain](/playlists/plain/2vfyCK7WsXnVeItNwuiFFR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2vfyCK7WsXnVeItNwuiFFR)
+[pretty](/playlists/pretty/2vfyCK7WsXnVeItNwuiFFR.md) - cumulative - [plain](/playlists/plain/2vfyCK7WsXnVeItNwuiFFR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2vfyCK7WsXnVeItNwuiFFR)
 
 ### [Congratulations, Sofia and Daniel](https://open.spotify.com/playlist/2vfyCK7WsXnVeItNwuiFFR)
 

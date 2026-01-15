@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbaWqbikgQLL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbaWqbikgQLL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbaWqbikgQLL)
+[pretty](/playlists/pretty/37i9dQZF1DXbaWqbikgQLL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbaWqbikgQLL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbaWqbikgQLL)
 
 ### [Corazón Chilango](https://open.spotify.com/playlist/37i9dQZF1DXbaWqbikgQLL)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXd0RRszxFFrw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd0RRszxFFrw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd0RRszxFFrw)
+[pretty](/playlists/pretty/37i9dQZF1DXd0RRszxFFrw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd0RRszxFFrw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXd0RRszxFFrw)
 
 ### [Cena con Guitarras](https://open.spotify.com/playlist/37i9dQZF1DXd0RRszxFFrw)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5S7hzwhDSyV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5S7hzwhDSyV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5S7hzwhDSyV)
+[pretty](/playlists/pretty/37i9dQZF1DX5S7hzwhDSyV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5S7hzwhDSyV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5S7hzwhDSyV)
 
 ### [Instrumental Jazz Standards](https://open.spotify.com/playlist/37i9dQZF1DX5S7hzwhDSyV)
 

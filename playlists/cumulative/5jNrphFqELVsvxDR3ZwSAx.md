@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5jNrphFqELVsvxDR3ZwSAx.md) - cumulative - [plain](/playlists/plain/5jNrphFqELVsvxDR3ZwSAx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5jNrphFqELVsvxDR3ZwSAx)
+[pretty](/playlists/pretty/5jNrphFqELVsvxDR3ZwSAx.md) - cumulative - [plain](/playlists/plain/5jNrphFqELVsvxDR3ZwSAx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5jNrphFqELVsvxDR3ZwSAx)
 
 ### [As Heard on TV 🎥 Movie Soundtracks ](https://open.spotify.com/playlist/5jNrphFqELVsvxDR3ZwSAx)
 

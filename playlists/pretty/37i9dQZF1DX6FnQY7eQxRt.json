@@ -1,6 +1,6 @@
 {
   "description": "Your favourite Christmas carols, performed and re-imagined by the world's greatest choirs.",
-  "num_followers": 88197,
+  "num_followers": 87859,
   "original_name": "Christmas Choir",
   "owner": {
     "name": "Spotify",
@@ -170,6 +170,18 @@
         {
           "name": "Felix Mendelssohn",
           "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "St. Paul's Cathedral Choir",
+          "url": "https://open.spotify.com/artist/4Psmt0Ic0BpoXNg5skm46Q"
+        },
+        {
+          "name": "Simon Johnson",
+          "url": "https://open.spotify.com/artist/4yANo5kd8UdZ90uQKj5zPP"
+        },
+        {
+          "name": "Andrew Carwood",
+          "url": "https://open.spotify.com/artist/2qiN7C6MoDKUmkEGZpuToZ"
         }
       ],
       "duration_ms": 185986,

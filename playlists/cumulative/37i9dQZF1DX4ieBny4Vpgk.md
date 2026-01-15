@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4ieBny4Vpgk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4ieBny4Vpgk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4ieBny4Vpgk)
+[pretty](/playlists/pretty/37i9dQZF1DX4ieBny4Vpgk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4ieBny4Vpgk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4ieBny4Vpgk)
 
 ### [Best Vocal Jazz of 2023](https://open.spotify.com/playlist/37i9dQZF1DX4ieBny4Vpgk)
 

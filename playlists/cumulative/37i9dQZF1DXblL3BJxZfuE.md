@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXblL3BJxZfuE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXblL3BJxZfuE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXblL3BJxZfuE)
+[pretty](/playlists/pretty/37i9dQZF1DXblL3BJxZfuE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXblL3BJxZfuE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXblL3BJxZfuE)
 
 ### [Sound! Euphonium 響け！ユーフォニアム ](https://open.spotify.com/playlist/37i9dQZF1DXblL3BJxZfuE)
 

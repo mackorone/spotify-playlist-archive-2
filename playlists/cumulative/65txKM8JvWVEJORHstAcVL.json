@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (22/12/2025)",
+  "name": "LA LLISTA DE FLAIXBAC (11/01/2026)",
   "tracks": [
     {
       "album": {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178231,
       "name": "a la freSka",
       "url": "https://open.spotify.com/track/1lvBVtU6beiq5UzUZRDHfk"
@@ -1212,6 +1212,24 @@
       "duration_ms": 171160,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/7C21gNXsV6dKk8fnCenDof"
+    },
+    {
+      "album": {
+        "name": "Estrelles",
+        "url": "https://open.spotify.com/album/6P4qPYM66BANshGX2oShtv"
+      },
+      "artists": [
+        {
+          "name": "Max Navarro",
+          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199208,
+      "name": "Estrelles",
+      "url": "https://open.spotify.com/track/5LIpGWJvwV07LiR3HakLGb"
     },
     {
       "album": {
@@ -2579,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "American Heart",
+        "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190320,
+      "name": "Mr Electric Blue",
+      "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
+    },
+    {
+      "album": {
         "name": "Mystical Magical",
         "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
       },
@@ -3493,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "S\u00e9 Molt B\u00e9",
+        "url": "https://open.spotify.com/album/0RaSiRuUMS8o41VE2WwSy4"
+      },
+      "artists": [
+        {
+          "name": "Primera Cita",
+          "url": "https://open.spotify.com/artist/3MVAicWITbEJy3HsQD70DT"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155391,
+      "name": "S\u00e9 Molt B\u00e9",
+      "url": "https://open.spotify.com/track/0cVJ152JEEBbdCK42NTDpW"
+    },
+    {
+      "album": {
         "name": "T'estiu",
         "url": "https://open.spotify.com/album/70sYjuJFnvaTSk3qyyXMTj"
       },
@@ -4092,7 +4146,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154000,
       "name": "Vitamina de l'amor",
       "url": "https://open.spotify.com/track/3u3w9X0EZe5kn70By9P41Q"

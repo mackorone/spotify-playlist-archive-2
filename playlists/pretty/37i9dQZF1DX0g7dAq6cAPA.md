@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g7dAq6cAPA.md) - [plain](/playlists/plain/37i9dQZF1DX0g7dAq6cAPA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0g7dAq6cAPA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g7dAq6cAPA.md) - [plain](/playlists/plain/37i9dQZF1DX0g7dAq6cAPA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0g7dAq6cAPA)
 
 ### [Puella Magi Madoka Magica](https://open.spotify.com/playlist/37i9dQZF1DX0g7dAq6cAPA)
 
 > Music From "Puella Magi Madoka Magica"! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,969 likes - 82 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,245 likes - 82 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

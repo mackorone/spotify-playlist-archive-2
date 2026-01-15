@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1X5WuBxE8Iy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1X5WuBxE8Iy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1X5WuBxE8Iy)
+[pretty](/playlists/pretty/37i9dQZF1DX1X5WuBxE8Iy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1X5WuBxE8Iy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1X5WuBxE8Iy)
 
 ### [Disney Princesa Latino](https://open.spotify.com/playlist/37i9dQZF1DX1X5WuBxE8Iy)
 

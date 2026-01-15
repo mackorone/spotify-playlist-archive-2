@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. Beat Boy y Victor Mendivil en portada",
+  "description": "Shawty lo que necesitas es darle flow. Lucky Brown en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -1555,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "Baila Para Mi",
+        "url": "https://open.spotify.com/album/2Vbiy5ukQXDLRLxVbEjHpU"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143236,
+      "name": "Baila Para Mi",
+      "url": "https://open.spotify.com/track/2a2RrAoCSL0kj1145MHGVE"
+    },
+    {
+      "album": {
         "name": "Baja Sube Sube",
         "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
       },
@@ -1754,7 +1776,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180000,
       "name": "BB (with Blessd)",
       "url": "https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY"
@@ -2312,6 +2334,24 @@
       "duration_ms": 171800,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+    },
+    {
+      "album": {
+        "name": "LAS FILTRADAS",
+        "url": "https://open.spotify.com/album/4AL3l5qn3kF1FMBUoW5AKq"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157571,
+      "name": "Botellita De Champagne",
+      "url": "https://open.spotify.com/track/1qUwfQjdSq3Jta580WvsI3"
     },
     {
       "album": {
@@ -8056,7 +8096,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 204447,
       "name": "Kiriki",
       "url": "https://open.spotify.com/track/1S5lFLTOwraf98S5jOxuZO"
@@ -10820,7 +10860,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136421,
       "name": "Me Desconoces",
       "url": "https://open.spotify.com/track/60S9PoyWb2MbRP0xNk4U2E"
@@ -18126,6 +18166,24 @@
       "duration_ms": 176129,
       "name": "Te Quer\u00eda Ver",
       "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+    },
+    {
+      "album": {
+        "name": "Te vas",
+        "url": "https://open.spotify.com/album/6wiBrZD90bXucMKYx5Wmho"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Te vas",
+      "url": "https://open.spotify.com/track/6dr9iXISR0dSKtERnXkj82"
     },
     {
       "album": {

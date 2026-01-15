@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 46401,
+  "num_followers": 46536,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,26 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
+        "name": "Alma de negro",
+        "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Aquellos ojos verdes (bolero)",
+      "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
         "name": "Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
@@ -171,38 +191,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 202560,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/4OK9UQQIHN9DSfmXTIiNhU"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Alma de negro",
-        "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Aquellos ojos verdes (bolero)",
-      "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
+      "duration_ms": 155693,
+      "name": "El Cayuco",
+      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -219,6 +219,22 @@
       "duration_ms": 197666,
       "name": "T\u00fa, solo t\u00fa",
       "url": "https://open.spotify.com/track/1sQ5nok0rccMPmAyGdQzvt"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Mi \u00daltimo Fracaso",
+      "url": "https://open.spotify.com/track/6fy5Q2Pkdltq3GkDD6UXRk"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -243,18 +259,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 155693,
-      "name": "El Cayuco",
-      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
+      "duration_ms": 202560,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/4OK9UQQIHN9DSfmXTIiNhU"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -271,22 +287,6 @@
       "duration_ms": 188840,
       "name": "Que Rico el Mambo",
       "url": "https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Mi \u00daltimo Fracaso",
-      "url": "https://open.spotify.com/track/6fy5Q2Pkdltq3GkDD6UXRk"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Quinto Patio",
-      "url": "https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Jos\u00e9 Luis Y Su Guitarra. Todos Sus Primeros EP's En Discos Philips (1958-1960)",
         "url": "https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 156800,
       "name": "Mariquilla (remastered)",
       "url": "https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Quinto Patio",
+      "url": "https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Cienfuegos (Remastered)",
-        "url": "https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc"
-      },
-      "artists": [
-        {
-          "name": "Benny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P"
-        }
-      ],
-      "duration_ms": 161782,
-      "name": "El agarrao - Remastered",
-      "url": "https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
         "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 194093,
       "name": "Recordar\u00e9 tu amor (remastered)",
       "url": "https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Cienfuegos (Remastered)",
+        "url": "https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc"
+      },
+      "artists": [
+        {
+          "name": "Benny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P"
+        }
+      ],
+      "duration_ms": 161782,
+      "name": "El agarrao - Remastered",
+      "url": "https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Hoy y Ayer",
-        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Cuban Nightmare",
-      "url": "https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/25ZE2WbBSvLAJTxRNZqKHY"
       },
@@ -659,30 +643,34 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Pl\u00e1cido Domingo - Be My Love",
-        "url": "https://open.spotify.com/album/1QTrpC4Qsq9fxTWxC3B5sW"
+        "name": "Hoy y Ayer",
+        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
       },
       "artists": [
         {
-          "name": "Ernesto Lecuona",
-          "url": "https://open.spotify.com/artist/4Gd1JXQVbYicIeo2bDNHwL"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Karl-Heinz Loges",
-          "url": "https://open.spotify.com/artist/1VTpMc0kGScmCzqyur5D6c"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Siboney (Orch. Ebbinghouse)",
-      "url": "https://open.spotify.com/track/3VSGjOjXHCIqQlSdIfuCh1"
+      "duration_ms": 183880,
+      "name": "Cuban Nightmare",
+      "url": "https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Ana Maria Parra, Vol. 1 (1958 - 1961 Remastered)",
+        "url": "https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG"
+      },
+      "artists": [
+        {
+          "name": "Ana Maria Parra",
+          "url": "https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei"
+        }
+      ],
+      "duration_ms": 134478,
+      "name": "Las Chicas de la Cruz Roja (Fox Fado) - Remastered",
+      "url": "https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -719,18 +707,30 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Ana Maria Parra, Vol. 1 (1958 - 1961 Remastered)",
-        "url": "https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG"
+        "name": "Pl\u00e1cido Domingo - Be My Love",
+        "url": "https://open.spotify.com/album/1QTrpC4Qsq9fxTWxC3B5sW"
       },
       "artists": [
         {
-          "name": "Ana Maria Parra",
-          "url": "https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei"
+          "name": "Ernesto Lecuona",
+          "url": "https://open.spotify.com/artist/4Gd1JXQVbYicIeo2bDNHwL"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Karl-Heinz Loges",
+          "url": "https://open.spotify.com/artist/1VTpMc0kGScmCzqyur5D6c"
         }
       ],
-      "duration_ms": 134478,
-      "name": "Las Chicas de la Cruz Roja (Fox Fado) - Remastered",
-      "url": "https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7"
+      "duration_ms": 217133,
+      "name": "Siboney (Orch. Ebbinghouse)",
+      "url": "https://open.spotify.com/track/3VSGjOjXHCIqQlSdIfuCh1"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Sus Mejores Boleros",
-        "url": "https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Canciones de la Radio, Vol. 2",
         "url": "https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 141626,
       "name": "Espinita",
       "url": "https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD"
+      },
+      "artists": [
+        {
+          "name": "Los Cinco Latinos",
+          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
+        }
+      ],
+      "duration_ms": 117080,
+      "name": "Record\u00e1ndote",
+      "url": "https://open.spotify.com/track/2tTpd7PJ38f1TbwCVcWY0H"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD"
+        "name": "Sus Mejores Boleros",
+        "url": "https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu"
       },
       "artists": [
         {
-          "name": "Los Cinco Latinos",
-          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 117080,
-      "name": "Record\u00e1ndote",
-      "url": "https://open.spotify.com/track/2tTpd7PJ38f1TbwCVcWY0H"
+      "duration_ms": 176000,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt"
     },
     {
       "added_at": "2024-04-24 22:38:01",

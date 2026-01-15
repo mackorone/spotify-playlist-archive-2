@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0BbcjurkvWrkWxKKLzcqIP.md) - cumulative - [plain](/playlists/plain/0BbcjurkvWrkWxKKLzcqIP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0BbcjurkvWrkWxKKLzcqIP)
+[pretty](/playlists/pretty/0BbcjurkvWrkWxKKLzcqIP.md) - cumulative - [plain](/playlists/plain/0BbcjurkvWrkWxKKLzcqIP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0BbcjurkvWrkWxKKLzcqIP)
 
 ### [The Perfect Crafternoon](https://open.spotify.com/playlist/0BbcjurkvWrkWxKKLzcqIP)
 

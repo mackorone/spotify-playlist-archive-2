@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain](/playlists/plain/37i9dQZF1DWYQKKZPHGppf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYQKKZPHGppf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain](/playlists/plain/37i9dQZF1DWYQKKZPHGppf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYQKKZPHGppf)
 
 ### [Best of Plus Ultra 2025](https://open.spotify.com/playlist/37i9dQZF1DWYQKKZPHGppf)
 
 > Il 2025 del <a href="spotify:playlist:37i9dQZF1DX14EWeH2Pwf3">rap</a> italiano, tra rapstar ed emergenti\. Cover: Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,567 likes - 55 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,602 likes - 55 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

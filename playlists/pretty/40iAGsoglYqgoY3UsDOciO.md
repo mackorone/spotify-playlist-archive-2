@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain](/playlists/plain/40iAGsoglYqgoY3UsDOciO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/40iAGsoglYqgoY3UsDOciO)
+pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain](/playlists/plain/40iAGsoglYqgoY3UsDOciO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/40iAGsoglYqgoY3UsDOciO)
 
 ### [New Music Daily](https://open.spotify.com/playlist/40iAGsoglYqgoY3UsDOciO)
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 555 likes - 455 songs - 22 hr 5 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 563 likes - 458 songs - 22 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -463,5 +463,8 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 453 | [Old \(One Lucky Dude\)](https://open.spotify.com/track/1DQuMu6KuK4U7OOPUnHncf) | [Westbay](https://open.spotify.com/artist/53cZi0zTxO9HboRg5PkrBO) | [OLD \(One Lucky Dude\)](https://open.spotify.com/album/0dJuqvmDle4AUOszEob1kl) | 3:57 |
 | 454 | [Bloodtype](https://open.spotify.com/track/7g7lzOmC6qDAOGHhXqoeOB) | [Cassius Grove](https://open.spotify.com/artist/27DQ8cXxISDC6oHcEFA5hC) | [Bloodtype](https://open.spotify.com/album/5e11Kd7OBgFUuBy8L2EytI) | 1:56 |
 | 455 | [Lembranças](https://open.spotify.com/track/651f19oW8uV5tpCEioy2Kb) | [May drill](https://open.spotify.com/artist/3sbE8DckoV7kyavEMHV1Ts) | [Lembranças](https://open.spotify.com/album/112X0fqt6pEfCnOEOC7gSK) | 3:00 |
+| 456 | [Dealer of dreams](https://open.spotify.com/track/7FX95R5DwzQz9l5v0t2qWu) | [NeKKoN](https://open.spotify.com/artist/0Rj4a2UfZQS4VoMFpSHPtA) | [Dealer of dreams](https://open.spotify.com/album/6agNfuer5d7ZRmrcNjHHIP) | 4:41 |
+| 457 | [2low](https://open.spotify.com/track/6PuttdMRpU6Ond6z7n5cIs) | [moraux](https://open.spotify.com/artist/2rKXaL6gHUA4OUaCn0EHZt) | [2low](https://open.spotify.com/album/1Qvs6xJkLDJD0SMda9h3iy) | 2:06 |
+| 458 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 |
 
-Snapshot ID: `AAABZ4ETr8W2qg2Noccp7rQhAjJvmI0Q`
+Snapshot ID: `AAABajYWyjie6vWi/Dsz33WecPcV1bvb`

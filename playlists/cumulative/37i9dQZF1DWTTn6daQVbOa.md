@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTTn6daQVbOa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTTn6daQVbOa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTTn6daQVbOa)
+[pretty](/playlists/pretty/37i9dQZF1DWTTn6daQVbOa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTTn6daQVbOa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTTn6daQVbOa)
 
 ### [Soft 70s](https://open.spotify.com/playlist/37i9dQZF1DWTTn6daQVbOa)
 

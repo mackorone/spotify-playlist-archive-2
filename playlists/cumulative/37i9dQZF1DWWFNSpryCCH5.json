@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Revive aquellas grandes canciones desenchufadas.",
-  "name": "Grandes Unplugged",
+  "description": "puras canciones desenchufadas.",
+  "name": "Unplugged Videos",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 202063,
       "name": "A Las Nueve",
       "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
@@ -56,6 +56,24 @@
       "duration_ms": 263226,
       "name": "All Apologies - Live",
       "url": "https://open.spotify.com/track/3bH8PZsfbCRIoeNiFm7JmU"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304013,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/5Vf0C2h6SgNO2WbWm6TNNh"
     },
     {
       "album": {
@@ -182,7 +200,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 249733,
       "name": "Ciega, Sordomuda - En Vivo",
       "url": "https://open.spotify.com/track/1qlWPsawt6eo7L4wvzwRBv"
@@ -218,7 +236,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 306026,
       "name": "Cuando nadie me ve - Unplugged",
       "url": "https://open.spotify.com/track/6iaw07BTiLrHVT2OQDgqiD"
@@ -240,7 +258,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
@@ -584,7 +602,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 243941,
       "name": "I'm Yours - Live on HSN Live",
       "url": "https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI"
@@ -656,7 +674,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 225986,
       "name": "La Camisa Negra - MTV Unplugged",
       "url": "https://open.spotify.com/track/6dHy6CvAKt5JBslhjDhlaF"
@@ -754,6 +772,24 @@
       "duration_ms": 420465,
       "name": "La Flaca",
       "url": "https://open.spotify.com/track/3yGoV8L7vjF5OVKv9KPMkG"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340426,
+      "name": "La Muralla Verde - En Vivo",
+      "url": "https://open.spotify.com/track/1Hn39u0gb9Z2l33RPgcPPT"
     },
     {
       "album": {
@@ -894,7 +930,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 295093,
       "name": "Linger",
       "url": "https://open.spotify.com/track/1P6p83zUu3kQoOktOcMpfh"
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 255133,
       "name": "Mar\u00eda - Unplugged",
       "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
@@ -1129,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Nunca (Live)",
+        "url": "https://open.spotify.com/album/5sxzRZ2cfQ2mJXLBymK4M6"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356522,
+      "name": "Nunca - Live",
+      "url": "https://open.spotify.com/track/4Of8jFiqZ5EZYWE6o1T1zB"
+    },
+    {
+      "album": {
         "name": "N\u00e1ufrago (En Vivo)",
         "url": "https://open.spotify.com/album/6QfhWE1b5ppxzTIFiAmdmt"
       },
@@ -1162,6 +1216,24 @@
       "duration_ms": 263520,
       "name": "Para no olvidar - En directo 2005",
       "url": "https://open.spotify.com/track/3lp6PxDzfI5P4Ge3V1fKdi"
+    },
+    {
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "Para Tu Amor - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4K54wlF7EyEK6zotNEHI2i"
     },
     {
       "album": {
@@ -1345,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245026,
+      "name": "P\u00e9gate (MTV Unplugged Version)[Radio Edit]",
+      "url": "https://open.spotify.com/track/6derJzyW5gcu125FpbsReh"
+    },
+    {
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -1374,7 +1464,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 259079,
       "name": "Rock 'N' Roll All Nite - Live",
       "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
@@ -1759,6 +1849,42 @@
     },
     {
       "album": {
+        "name": "Los Bunkers (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266519,
+      "name": "Ven Aqu\u00ed - MTV Unplugged",
+      "url": "https://open.spotify.com/track/33EfsIqK3OgaZa5PyfYpei"
+    },
+    {
+      "album": {
+        "name": "vivir sin aire [En vivo]",
+        "url": "https://open.spotify.com/album/4SsTioAGTAbeAMnlooWYoI"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329216,
+      "name": "Vivir sin aire - En vivo",
+      "url": "https://open.spotify.com/track/5f97FoTLN6Czueq78F5WUt"
+    },
+    {
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -1774,6 +1900,24 @@
       "duration_ms": 344666,
       "name": "Vivir Sin Aire - Unplugged",
       "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
+    },
+    {
+      "album": {
+        "name": "Fobia MTV Unplugged",
+        "url": "https://open.spotify.com/album/1wN4DxsgX1ReLLI3ZOmdEu"
+      },
+      "artists": [
+        {
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243636,
+      "name": "Vivo - MTV Unplugged",
+      "url": "https://open.spotify.com/track/6dAuUOjHqNonU2JDRlqUY7"
     },
     {
       "album": {

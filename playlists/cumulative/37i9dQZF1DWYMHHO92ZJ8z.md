@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYMHHO92ZJ8z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYMHHO92ZJ8z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYMHHO92ZJ8z)
+[pretty](/playlists/pretty/37i9dQZF1DWYMHHO92ZJ8z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYMHHO92ZJ8z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYMHHO92ZJ8z)
 
 ### [Francis Mercier's Track IDs](https://open.spotify.com/playlist/37i9dQZF1DWYMHHO92ZJ8z)
 

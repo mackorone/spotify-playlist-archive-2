@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain](/playlists/plain/37i9dQZF1DWTOmS5hmD9Zf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTOmS5hmD9Zf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain](/playlists/plain/37i9dQZF1DWTOmS5hmD9Zf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTOmS5hmD9Zf)
 
 ### [Straight Edge Anthems](https://open.spotify.com/playlist/37i9dQZF1DWTOmS5hmD9Zf)
 
 > Cause I'm a person just like you but I got better things to do.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,710 likes - 106 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,818 likes - 106 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

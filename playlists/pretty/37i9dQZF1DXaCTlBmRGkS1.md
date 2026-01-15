@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCTlBmRGkS1.md) - [plain](/playlists/plain/37i9dQZF1DXaCTlBmRGkS1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaCTlBmRGkS1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCTlBmRGkS1.md) - [plain](/playlists/plain/37i9dQZF1DXaCTlBmRGkS1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaCTlBmRGkS1)
 
 ### [METROCK 2024](https://open.spotify.com/playlist/37i9dQZF1DXaCTlBmRGkS1)
 
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCTlBmRGkS1.md) - [plain]
 | 53 | [サンポリズム](https://open.spotify.com/track/1v76huIm1TfABpvoJLxoV0) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [サンポリズム](https://open.spotify.com/album/7jgsyeOtzJoZoXAzsPoMHl) | 3:31 |
 | 54 | [会いたい](https://open.spotify.com/track/5VPbNf4LkDv7reM1SDsFyH) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [会いたい](https://open.spotify.com/album/4M4391JYcKGO5GBhl5bbbd) | 4:27 |
 | 55 | [ゴールドマーチ](https://open.spotify.com/track/6nxpuybKnutwSXt8XhOTgt) | [プッシュプルポット](https://open.spotify.com/artist/1yMQBPXyIRvB9yiBaF5tJh) | [ゴールドマーチ](https://open.spotify.com/album/4QHiwuWyqg02OdzEERkFbM) | 2:37 |
-| 56 | [ヘッドライナー](https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ヘッドライナー](https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh) | 3:54 |
+| 56 | [ヘッドライナー](https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ヘッドライナー](https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh) | 3:54 |
 | 57 | [どうにもならんわ](https://open.spotify.com/track/0ZHShit8c40nUNIvY4CogW) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [どうにもならんわ](https://open.spotify.com/album/0SIeMrzT2O6KyRCojsHPnw) | 3:39 |
 | 58 | [RUN](https://open.spotify.com/track/46RQJRbjYT8MqcLDJHM0iX) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [RUN](https://open.spotify.com/album/202o5K14gZ0UQpAHgfPIe8) | 3:09 |
 | 59 | [オートバイ](https://open.spotify.com/track/7bMIeQiujKrpAvUwotked3) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [六花](https://open.spotify.com/album/474FUwICSQNdsbRN0hr9GM) | 3:43 |

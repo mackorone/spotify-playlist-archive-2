@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/38dPTe2LkN0H6VPPoudBLv.md) - [plain](/playlists/plain/38dPTe2LkN0H6VPPoudBLv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/38dPTe2LkN0H6VPPoudBLv)
+pretty - [cumulative](/playlists/cumulative/38dPTe2LkN0H6VPPoudBLv.md) - [plain](/playlists/plain/38dPTe2LkN0H6VPPoudBLv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/38dPTe2LkN0H6VPPoudBLv)
 
 ### [Daniel's sick fuckin tunes](https://open.spotify.com/playlist/38dPTe2LkN0H6VPPoudBLv)
 

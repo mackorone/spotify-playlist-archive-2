@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain](/playlists/plain/6pr1lshIyJt1vFuhlsnEDS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6pr1lshIyJt1vFuhlsnEDS)
+pretty - [cumulative](/playlists/cumulative/6pr1lshIyJt1vFuhlsnEDS.md) - [plain](/playlists/plain/6pr1lshIyJt1vFuhlsnEDS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6pr1lshIyJt1vFuhlsnEDS)
 
 ### [THE TECHNO METHOD](https://open.spotify.com/playlist/6pr1lshIyJt1vFuhlsnEDS)
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 1,278 likes - 67 songs - 4 hr 51 min
+[Metodi Hristov](https://open.spotify.com/user/metodihristov) - 1,277 likes - 67 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

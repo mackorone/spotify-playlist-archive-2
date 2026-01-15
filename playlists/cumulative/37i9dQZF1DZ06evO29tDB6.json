@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253173,
+      "name": "El enmascarado de l\u00e1tex",
+      "url": "https://open.spotify.com/track/7HyvbAo2u4mpPCc2qC8UtV"
+    },
+    {
+      "album": {
         "name": "25 a\u00f1os",
         "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
@@ -662,7 +680,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223333,
       "name": "Libertad bajo fianza",
       "url": "https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q"

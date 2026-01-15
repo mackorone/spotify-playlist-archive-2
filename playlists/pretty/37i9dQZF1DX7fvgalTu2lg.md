@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain](/playlists/plain/37i9dQZF1DX7fvgalTu2lg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7fvgalTu2lg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain](/playlists/plain/37i9dQZF1DX7fvgalTu2lg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7fvgalTu2lg)
 
 ### [¡Arriba los ánimos!](https://open.spotify.com/playlist/37i9dQZF1DX7fvgalTu2lg)
 

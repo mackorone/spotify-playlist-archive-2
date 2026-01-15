@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 234714,
       "name": "Another Part of Me - 2012 Remaster",
       "url": "https://open.spotify.com/track/21VCYxPZ8A2XpSNUyQCT3B"
@@ -1002,6 +1002,24 @@
       "duration_ms": 363400,
       "name": "Wanna Be Startin' Somethin'",
       "url": "https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3"
+    },
+    {
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296560,
+      "name": "Whatever Happens",
+      "url": "https://open.spotify.com/track/4fK6bgzyKt4EIv3R1wrUtl"
     },
     {
       "album": {

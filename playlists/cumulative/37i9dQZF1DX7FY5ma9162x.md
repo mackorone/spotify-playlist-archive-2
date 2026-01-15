@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7FY5ma9162x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7FY5ma9162x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FY5ma9162x)
+[pretty](/playlists/pretty/37i9dQZF1DX7FY5ma9162x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7FY5ma9162x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7FY5ma9162x)
 
 ### [R&B Favourites](https://open.spotify.com/playlist/37i9dQZF1DX7FY5ma9162x)
 
-> The tracks you can put on repeat all day\. Cover: Leon Thomas
+> The tracks you can put on repeat all day\. Cover: Rema
 
 677 songs - 1 day 13 hr 45 min
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/78tPw9siuiq0XkhByNnYdR.md) - [plain](/playlists/plain/78tPw9siuiq0XkhByNnYdR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/78tPw9siuiq0XkhByNnYdR)
+pretty - [cumulative](/playlists/cumulative/78tPw9siuiq0XkhByNnYdR.md) - [plain](/playlists/plain/78tPw9siuiq0XkhByNnYdR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/78tPw9siuiq0XkhByNnYdR)
 
 ### [RnB Old Skool](https://open.spotify.com/playlist/78tPw9siuiq0XkhByNnYdR)
 
 > The ultimate throwback party playlist featuring some of the greatest RnB jams.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 164,606 likes - 71 songs - 4 hr 58 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 164,468 likes - 71 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

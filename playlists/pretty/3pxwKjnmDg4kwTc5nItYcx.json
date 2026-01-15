@@ -1,12 +1,12 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Teddy Swims",
-  "num_followers": 5611,
+  "num_followers": 5604,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHuupPEZYD8iTzH66zk2KaqgbIf7Ce",
+  "snapshot_id": "AAAHu9Dk464KfmucMZrHyLxuhmWve/f0",
   "tracks": [
     {
       "added_at": "2026-01-05 22:52:28",
@@ -1047,6 +1047,22 @@
       "duration_ms": 198004,
       "name": "Gone Gone Gone",
       "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
+    },
+    {
+      "added_at": "2026-01-13 05:36:27",
+      "album": {
+        "name": "cul-de-sac",
+        "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
+      },
+      "artists": [
+        {
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
+        }
+      ],
+      "duration_ms": 196700,
+      "name": "cul-de-sac",
+      "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
     }
   ],
   "unique_name": "Low Key Pop",

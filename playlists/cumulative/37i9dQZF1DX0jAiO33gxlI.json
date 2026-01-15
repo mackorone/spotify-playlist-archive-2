@@ -2065,6 +2065,36 @@
     },
     {
       "album": {
+        "name": "Amor Que Nunca Termina",
+        "url": "https://open.spotify.com/album/5dKrzga3BAFFZhBsakoMJ7"
+      },
+      "artists": [
+        {
+          "name": "Rappin' Hood",
+          "url": "https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW"
+        },
+        {
+          "name": "DJ Hum",
+          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        },
+        {
+          "name": "Os 3 Reis Magos",
+          "url": "https://open.spotify.com/artist/5G7O8Y8GXN9CU6e2Mib9Md"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211429,
+      "name": "Amor Que Nunca Termina",
+      "url": "https://open.spotify.com/track/5O4AQJi4pILl19547u8vri"
+    },
+    {
+      "album": {
         "name": "Levante",
         "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
       },
@@ -2282,6 +2312,32 @@
       "duration_ms": 169218,
       "name": "Aparte",
       "url": "https://open.spotify.com/track/72gKENEDMyQxu1kRPAZKew"
+    },
+    {
+      "album": {
+        "name": "Apenas Fa\u00e7a",
+        "url": "https://open.spotify.com/album/6WBMFnhA8bVK1sIylBNRgc"
+      },
+      "artists": [
+        {
+          "name": "Bova",
+          "url": "https://open.spotify.com/artist/2eickhny1d0c6oaBfSlKhF"
+        },
+        {
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+        },
+        {
+          "name": "On\u00e3",
+          "url": "https://open.spotify.com/artist/44phALa8kYqCc9vHuQyuRl"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275121,
+      "name": "Apenas Fa\u00e7a",
+      "url": "https://open.spotify.com/track/2Fk9xHeCLKrzblmLHR4KxY"
     },
     {
       "album": {
@@ -4580,7 +4636,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153253,
       "name": "CAFAJE$TE - Spotify Singles",
       "url": "https://open.spotify.com/track/0LmKucquAPmc2b6hleg8k3"
@@ -7437,6 +7493,32 @@
     },
     {
       "album": {
+        "name": "Delirar (Remix)",
+        "url": "https://open.spotify.com/album/5P0JacYiselYJTnfexdPB5"
+      },
+      "artists": [
+        {
+          "name": "Silva Soul",
+          "url": "https://open.spotify.com/artist/0FJv12voa4Y92a9OExOyGQ"
+        },
+        {
+          "name": "RT Mallone",
+          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
+        },
+        {
+          "name": "P.MC",
+          "url": "https://open.spotify.com/artist/0IDL3hcIXslTZTn8bqfRmt"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278250,
+      "name": "Delirar (Remix)",
+      "url": "https://open.spotify.com/track/4l9ruHpox4nH7VgTDwJUzv"
+    },
+    {
+      "album": {
         "name": "Gorilla Business",
         "url": "https://open.spotify.com/album/7nPYFKlcYcVSWu6o4Tvaw0"
       },
@@ -8992,6 +9074,24 @@
       "duration_ms": 191219,
       "name": "Easy Money",
       "url": "https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV"
+    },
+    {
+      "album": {
+        "name": "Efeito Domin\u00f3",
+        "url": "https://open.spotify.com/album/2oG7HdVS6KA1p6PSCU0fDM"
+      },
+      "artists": [
+        {
+          "name": "Lucas Baha",
+          "url": "https://open.spotify.com/artist/5cgDtQOQJveXGCFDn8uT9v"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86326,
+      "name": "Efeito Domin\u00f3",
+      "url": "https://open.spotify.com/track/17H5YLMyDXPMKv7QSqUyN3"
     },
     {
       "album": {
@@ -10610,7 +10710,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174343,
       "name": "Federais",
       "url": "https://open.spotify.com/track/5r0BX1ngtBAw8iZbYyAhXL"
@@ -14396,7 +14496,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 127443,
       "name": "Levantando a Ta\u00e7a",
       "url": "https://open.spotify.com/track/2Y8Ln12OBjHksmqE5mYH4u"
@@ -15682,7 +15782,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 202857,
       "name": "MARATONA",
       "url": "https://open.spotify.com/track/4oxdf2bMjwRznsD9qR3OS2"
@@ -15842,7 +15942,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 197472,
       "name": "Marvel",
       "url": "https://open.spotify.com/track/0JYys3BVRAdxUcGHNxHoIm"
@@ -19468,7 +19568,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 240624,
       "name": "N\u00e3o Tem Kao",
       "url": "https://open.spotify.com/track/5UKUV0VSVaMyLkedSlxqIi"
@@ -20156,6 +20256,32 @@
       "duration_ms": 208166,
       "name": "O Nosso Rap",
       "url": "https://open.spotify.com/track/6gf1LxhdAY4PkTKYNWStxB"
+    },
+    {
+      "album": {
+        "name": "O OURO",
+        "url": "https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs"
+      },
+      "artists": [
+        {
+          "name": "Mylena Drague",
+          "url": "https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d"
+        },
+        {
+          "name": "Luzk",
+          "url": "https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy"
+        },
+        {
+          "name": "Damarcus",
+          "url": "https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "O OURO",
+      "url": "https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq"
     },
     {
       "album": {
@@ -21224,6 +21350,28 @@
       "duration_ms": 133333,
       "name": "Parece que foi ontem",
       "url": "https://open.spotify.com/track/0SCYa7OKakP0wcExccYuuW"
+    },
+    {
+      "album": {
+        "name": "Parte",
+        "url": "https://open.spotify.com/album/3SBfX4wO7tt1yWCZktDolW"
+      },
+      "artists": [
+        {
+          "name": "Linin",
+          "url": "https://open.spotify.com/artist/7K1d3J0gQiMiXg4nUgeo4l"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147285,
+      "name": "Parte",
+      "url": "https://open.spotify.com/track/0Ol4Dx711jQRsqpz6Lu5FX"
     },
     {
       "album": {
@@ -22725,6 +22873,28 @@
     },
     {
       "album": {
+        "name": "Pir\u00e2mide",
+        "url": "https://open.spotify.com/album/6G6gBhE1Dd2Fchb032Y0U6"
+      },
+      "artists": [
+        {
+          "name": "Davi Fireman",
+          "url": "https://open.spotify.com/artist/7GCggAuI2jd15cAiO505hp"
+        },
+        {
+          "name": "OG L",
+          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Pir\u00e2mide",
+      "url": "https://open.spotify.com/track/6NRUPLHpGvuNFwf0SaZmDz"
+    },
+    {
+      "album": {
         "name": "Pir\u00e2mide Social - Spotify Singles",
         "url": "https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF"
       },
@@ -23386,7 +23556,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201818,
       "name": "porta aberta",
       "url": "https://open.spotify.com/track/2KqJHZ6OjhDOJrz1CFfx8m"
@@ -28070,7 +28240,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 444900,
       "name": "Soweto",
       "url": "https://open.spotify.com/track/7M7CyP5yNFbvIkyoPPWPcO"
@@ -28356,7 +28526,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196693,
       "name": "Super Trunfo 95'",
       "url": "https://open.spotify.com/track/3VHZcoTVn6E0jFgpkRu0kt"
@@ -29778,7 +29948,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 253397,
       "name": "Trago pra City",
       "url": "https://open.spotify.com/track/3bQl874F4x3ALTj14wKi9u"
@@ -30604,6 +30774,24 @@
       "duration_ms": 215124,
       "name": "ut\u00f3pico",
       "url": "https://open.spotify.com/track/7dFPObWHNBPvcz2jR1bkOZ"
+    },
+    {
+      "album": {
+        "name": "V.L Pitbull e Sua Dama",
+        "url": "https://open.spotify.com/album/0GiIUJ0aJ06iaHwvOXJS0w"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99137,
+      "name": "V.L Pitbull e Sua Dama",
+      "url": "https://open.spotify.com/track/5YgFS07ayOJ7B78JYePRxK"
     },
     {
       "album": {

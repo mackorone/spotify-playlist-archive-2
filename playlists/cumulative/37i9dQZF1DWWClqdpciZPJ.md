@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWClqdpciZPJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWClqdpciZPJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWClqdpciZPJ)
+[pretty](/playlists/pretty/37i9dQZF1DWWClqdpciZPJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWClqdpciZPJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWClqdpciZPJ)
 
 ### [The Irregular at Magic High School \-魔法科高校の劣等生\-](https://open.spotify.com/playlist/37i9dQZF1DWWClqdpciZPJ)
 

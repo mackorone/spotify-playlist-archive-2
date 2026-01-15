@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3H1QVmsldwybLKBNwpa8IA.md) - cumulative - [plain](/playlists/plain/3H1QVmsldwybLKBNwpa8IA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3H1QVmsldwybLKBNwpa8IA)
+[pretty](/playlists/pretty/3H1QVmsldwybLKBNwpa8IA.md) - cumulative - [plain](/playlists/plain/3H1QVmsldwybLKBNwpa8IA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3H1QVmsldwybLKBNwpa8IA)
 
 ### [christmas songs 2025 🎄holiday music](https://open.spotify.com/playlist/3H1QVmsldwybLKBNwpa8IA)
 

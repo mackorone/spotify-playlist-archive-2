@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0mY9BQvlpraYLzg9BfKuVa.md) - cumulative - [plain](/playlists/plain/0mY9BQvlpraYLzg9BfKuVa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0mY9BQvlpraYLzg9BfKuVa)
+[pretty](/playlists/pretty/0mY9BQvlpraYLzg9BfKuVa.md) - cumulative - [plain](/playlists/plain/0mY9BQvlpraYLzg9BfKuVa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0mY9BQvlpraYLzg9BfKuVa)
 
 ### [Traffic Jams](https://open.spotify.com/playlist/0mY9BQvlpraYLzg9BfKuVa)
 

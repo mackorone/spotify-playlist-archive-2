@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahYW0fg0wyp.md) - [plain](/playlists/plain/37i9dQZF1DXahYW0fg0wyp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXahYW0fg0wyp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahYW0fg0wyp.md) - [plain](/playlists/plain/37i9dQZF1DXahYW0fg0wyp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXahYW0fg0wyp)
 
 ### [90s Video Hits](https://open.spotify.com/playlist/37i9dQZF1DXahYW0fg0wyp)
 
 > The best videos from the '90s\. Music videos only available on premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,383 likes - 45 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,214 likes - 45 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

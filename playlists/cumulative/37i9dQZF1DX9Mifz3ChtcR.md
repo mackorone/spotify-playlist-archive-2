@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9Mifz3ChtcR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Mifz3ChtcR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Mifz3ChtcR)
+[pretty](/playlists/pretty/37i9dQZF1DX9Mifz3ChtcR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Mifz3ChtcR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9Mifz3ChtcR)
 
 ### [Relaxing Music for Dogs](https://open.spotify.com/playlist/37i9dQZF1DX9Mifz3ChtcR)
 
@@ -55,7 +55,7 @@
 | [Coastline](https://open.spotify.com/track/3bTIrATW4lqsYtOasWHHNq) | [Drew Morrison](https://open.spotify.com/artist/31YMTuzX6SccnRYcWrQVJe) | [Coastline](https://open.spotify.com/album/169F874BHCrBzYYordSZAe) | 2:51 | 2025-05-13 |  |
 | [Collapsing structure](https://open.spotify.com/track/0hKqDKaAhyfh2jCRw4A7BJ) | [Escape Velocity](https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z) | [Collapsing structure](https://open.spotify.com/album/52bcQcf474jNUn0mw7Uy9B) | 3:22 | 2025-06-12 |  |
 | [Comprehension](https://open.spotify.com/track/5yQpaTprgLIriEeewGvdGy) | [Bøyer](https://open.spotify.com/artist/6fpFvWUTUVJzShiuVCYE03) | [Comprehension](https://open.spotify.com/album/46Y5J09KKiRE84fNy4GixD) | 2:53 | 2025-05-13 | 2025-11-07 |
-| [Congenial](https://open.spotify.com/track/1CztkRlhwQLMeNIi7yMIo2) | [Sangenjaya](https://open.spotify.com/artist/4BTCnn2sV6xW9MHSdMnKQl) | [Congenial](https://open.spotify.com/album/4h368obuwJlxZQjhEVihKM) | 2:42 | 2025-05-27 |  |
+| [Congenial](https://open.spotify.com/track/1CztkRlhwQLMeNIi7yMIo2) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Congenial](https://open.spotify.com/album/4h368obuwJlxZQjhEVihKM) | 2:42 | 2025-05-27 |  |
 | [Contemplative Poetry](https://open.spotify.com/track/1xFhF7LYstpMfTVyNEor90) | [Labyrinthines](https://open.spotify.com/artist/3DWANz0CtvzLItCcONSdQQ) | [Contemplative Poetry](https://open.spotify.com/album/0H7WF5IAxDbOChSqAYmNIr) | 2:41 | 2025-12-10 |  |
 | [Coral Sky](https://open.spotify.com/track/39BZpeG37A78zfMQwAoHAE) | [Elunara Mare](https://open.spotify.com/artist/52VdaCQAM3PCg8pQjPUaEV) | [Coral Sky](https://open.spotify.com/album/1YzCfAt4iEF7nQNnRCxCSk) | 3:07 | 2025-10-08 |  |
 | [Cosmic Clouds](https://open.spotify.com/track/0UZwHCbLDEjyqFQBQ5QLw0) | [La Luce](https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz) | [Cosmic Clouds](https://open.spotify.com/album/6Pnvwb1hRk3waTWBDDbGXy) | 2:26 | 2025-05-13 |  |

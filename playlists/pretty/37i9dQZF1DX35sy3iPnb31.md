@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain](/playlists/plain/37i9dQZF1DX35sy3iPnb31) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35sy3iPnb31)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain](/playlists/plain/37i9dQZF1DX35sy3iPnb31) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX35sy3iPnb31)
 
 ### [Editors' picks: Best Canadian Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX35sy3iPnb31)
 
 > The best Canadian songs this year, handpicked by Spotify Canada editors\. Cover: Rochelle Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 459 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 552 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

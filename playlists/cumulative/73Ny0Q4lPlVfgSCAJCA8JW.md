@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/73Ny0Q4lPlVfgSCAJCA8JW.md) - cumulative - [plain](/playlists/plain/73Ny0Q4lPlVfgSCAJCA8JW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/73Ny0Q4lPlVfgSCAJCA8JW)
+[pretty](/playlists/pretty/73Ny0Q4lPlVfgSCAJCA8JW.md) - cumulative - [plain](/playlists/plain/73Ny0Q4lPlVfgSCAJCA8JW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/73Ny0Q4lPlVfgSCAJCA8JW)
 
 ### [Raise less corn](https://open.spotify.com/playlist/73Ny0Q4lPlVfgSCAJCA8JW)
 

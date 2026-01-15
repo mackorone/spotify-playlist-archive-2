@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIvtWSbA6Aj.md) - [plain](/playlists/plain/37i9dQZF1DWYIvtWSbA6Aj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYIvtWSbA6Aj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIvtWSbA6Aj.md) - [plain](/playlists/plain/37i9dQZF1DWYIvtWSbA6Aj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYIvtWSbA6Aj)
 
 ### [Martin Garrix DJ Mix: Sentio](https://open.spotify.com/playlist/37i9dQZF1DWYIvtWSbA6Aj)
 

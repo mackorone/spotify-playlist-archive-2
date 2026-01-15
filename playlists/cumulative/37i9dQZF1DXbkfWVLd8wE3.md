@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbkfWVLd8wE3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbkfWVLd8wE3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbkfWVLd8wE3)
+[pretty](/playlists/pretty/37i9dQZF1DXbkfWVLd8wE3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbkfWVLd8wE3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbkfWVLd8wE3)
 
 ### [Hip\-Hop Classics Party](https://open.spotify.com/playlist/37i9dQZF1DXbkfWVLd8wE3)
 

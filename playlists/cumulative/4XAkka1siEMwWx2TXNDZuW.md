@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4XAkka1siEMwWx2TXNDZuW.md) - cumulative - [plain](/playlists/plain/4XAkka1siEMwWx2TXNDZuW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4XAkka1siEMwWx2TXNDZuW)
+[pretty](/playlists/pretty/4XAkka1siEMwWx2TXNDZuW.md) - cumulative - [plain](/playlists/plain/4XAkka1siEMwWx2TXNDZuW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4XAkka1siEMwWx2TXNDZuW)
 
 ### [the backrooms](https://open.spotify.com/playlist/4XAkka1siEMwWx2TXNDZuW)
 

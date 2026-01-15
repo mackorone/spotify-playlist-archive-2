@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXe7IKgrJ3ej1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe7IKgrJ3ej1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe7IKgrJ3ej1)
+[pretty](/playlists/pretty/37i9dQZF1DXe7IKgrJ3ej1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe7IKgrJ3ej1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe7IKgrJ3ej1)
 
 ### [Heartstopper: Nick and Charlie](https://open.spotify.com/playlist/37i9dQZF1DXe7IKgrJ3ej1)
 

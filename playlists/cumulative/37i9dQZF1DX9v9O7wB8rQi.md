@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9v9O7wB8rQi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9v9O7wB8rQi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9v9O7wB8rQi)
+[pretty](/playlists/pretty/37i9dQZF1DX9v9O7wB8rQi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9v9O7wB8rQi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9v9O7wB8rQi)
 
 ### [GHOST IN THE SHELL Series](https://open.spotify.com/playlist/37i9dQZF1DX9v9O7wB8rQi)
 

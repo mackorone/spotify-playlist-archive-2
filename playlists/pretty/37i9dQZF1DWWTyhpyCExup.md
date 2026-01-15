@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain](/playlists/plain/37i9dQZF1DWWTyhpyCExup) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWTyhpyCExup)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain](/playlists/plain/37i9dQZF1DWWTyhpyCExup) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWTyhpyCExup)
 
 ### [Folk Frequency](https://open.spotify.com/playlist/37i9dQZF1DWWTyhpyCExup)
 
 > New folk & americana driving the current, every week\. Cover: Jensen McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,631 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,625 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

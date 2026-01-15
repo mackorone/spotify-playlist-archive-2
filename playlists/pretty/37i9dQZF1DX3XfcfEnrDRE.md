@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain](/playlists/plain/37i9dQZF1DX3XfcfEnrDRE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3XfcfEnrDRE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain](/playlists/plain/37i9dQZF1DX3XfcfEnrDRE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3XfcfEnrDRE)
 
 ### [Christian Alt](https://open.spotify.com/playlist/37i9dQZF1DX3XfcfEnrDRE)
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: The Band JAREN
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,217 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,560 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 67 | [Dragonfly](https://open.spotify.com/track/0RirkvWjLrMxQUPWv0zeC6) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Dragonfly / Safe](https://open.spotify.com/album/7jISehZ6nOAEfwabssCNhG) | 3:29 |
 | 68 | [PAINT A PICTURE](https://open.spotify.com/track/61lvFmM5LK5sScXkIwLYv8) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [I LOVE IT WHEN YOU SMILE](https://open.spotify.com/album/2EgWb3B1ouhc5vpAfJVeiP) | 2:47 |
 | 69 | [All My Life \- Live](https://open.spotify.com/track/0tcmwOE7PVCazVolFTDHcj) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [All My Life \(Supreme Edition\)](https://open.spotify.com/album/6fcIbyws49izIdyYFCDRPx) | 5:23 |
-| 70 | [MY LOVE CANNOT BE MEASURED](https://open.spotify.com/track/3vPRVva1PVgp7tWlIcBPQp) | [Peyton Corser](https://open.spotify.com/artist/6Ql8H9gfAeOi3vm2Jj2ZAu), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [MY LOVE CANNOT BE MEASURED](https://open.spotify.com/album/6wfJfAO4i6Ue24edDmMP0k) | 4:39 |
+| 70 | [MY LOVE CANNOT BE MEASURED](https://open.spotify.com/track/3vPRVva1PVgp7tWlIcBPQp) | [Peyton Corser](https://open.spotify.com/artist/6Ql8H9gfAeOi3vm2Jj2ZAu), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [MY LOVE CANNOT BE MEASURED](https://open.spotify.com/album/6wfJfAO4i6Ue24edDmMP0k) | 4:38 |
 | 71 | [Charcoal Fire](https://open.spotify.com/track/24PpNrUGbVTLmpK6pO9CHl) | [Sam Bailey](https://open.spotify.com/artist/5Y4egWWGjGizCPH1eexuHu) | [Charcoal Fire](https://open.spotify.com/album/7GMZOn7MZ9TigmTjDmcpUT) | 3:52 |
 | 72 | [What A Time To Be Alive](https://open.spotify.com/track/0vWPIN2Hte6jKQkUONJbxH) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [The Process \(Deluxe\) \[Clean\]](https://open.spotify.com/album/4nPlzTW356DylMSmm22dxI) | 2:48 |
 | 73 | [Blessed](https://open.spotify.com/track/4hgsprxbmyXRHnF8c7RmBb) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [Blessed](https://open.spotify.com/album/7LMpbQ5ueSxchC5gDXavhJ) | 4:37 |

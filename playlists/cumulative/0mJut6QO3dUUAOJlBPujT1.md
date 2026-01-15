@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0mJut6QO3dUUAOJlBPujT1.md) - cumulative - [plain](/playlists/plain/0mJut6QO3dUUAOJlBPujT1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0mJut6QO3dUUAOJlBPujT1)
+[pretty](/playlists/pretty/0mJut6QO3dUUAOJlBPujT1.md) - cumulative - [plain](/playlists/plain/0mJut6QO3dUUAOJlBPujT1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0mJut6QO3dUUAOJlBPujT1)
 
 ### [Popaganda 2012](https://open.spotify.com/playlist/0mJut6QO3dUUAOJlBPujT1)
 

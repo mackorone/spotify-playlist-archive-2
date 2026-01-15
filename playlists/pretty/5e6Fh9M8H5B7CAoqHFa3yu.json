@@ -1,13 +1,93 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 243,
+  "num_followers": 244,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHxc2gxmt5qtVwpqbtbOCReY36DALC",
+  "snapshot_id": "AAAH27KlxSZt9/uqjF7wyBUjfqlMGNgd",
   "tracks": [
+    {
+      "added_at": "2026-01-15 10:14:41",
+      "album": {
+        "name": "Dead Beat Permanent Record",
+        "url": "https://open.spotify.com/album/2vzlrpdDN8ggDkUKpk8EjS"
+      },
+      "artists": [
+        {
+          "name": "Radio Relaxo",
+          "url": "https://open.spotify.com/artist/04ikqcraU8yaaY1xYhRJB5"
+        }
+      ],
+      "duration_ms": 225686,
+      "name": "Lazy Dog Danglin' Afternoon",
+      "url": "https://open.spotify.com/track/5dJefkjbEmBYYcW5antHU7"
+    },
+    {
+      "added_at": "2026-01-14 09:28:40",
+      "album": {
+        "name": "Park Drive",
+        "url": "https://open.spotify.com/album/62hw9zsbVgbwu0CaV8E7fk"
+      },
+      "artists": [
+        {
+          "name": "Mats Skimmel\u00e5",
+          "url": "https://open.spotify.com/artist/3ff8WCVNd542FKA32N1yO2"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Park Drive",
+      "url": "https://open.spotify.com/track/5xxmvdmNxi2nHLeZoMVOB5"
+    },
+    {
+      "added_at": "2026-01-12 10:11:55",
+      "album": {
+        "name": "Mostrami",
+        "url": "https://open.spotify.com/album/20dnfUDovHhKaniP4hhg7Q"
+      },
+      "artists": [
+        {
+          "name": "Susina",
+          "url": "https://open.spotify.com/artist/0qiqErZ1ytHMgeBlYga3QU"
+        }
+      ],
+      "duration_ms": 237394,
+      "name": "Mostrami",
+      "url": "https://open.spotify.com/track/23IOoGYyPnA57M595F4Nds"
+    },
+    {
+      "added_at": "2026-01-08 11:08:10",
+      "album": {
+        "name": "KALYEFORNIA",
+        "url": "https://open.spotify.com/album/3eGMJCpsH05YZcg3tAvXht"
+      },
+      "artists": [
+        {
+          "name": "LAKALYEBOI",
+          "url": "https://open.spotify.com/artist/0FqqA0Zgm3a5eXVdRm7zHL"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "FROM THE HOOD 2 THE HILLS",
+      "url": "https://open.spotify.com/track/2IWL3iGCfCDsgUBsLL81iS"
+    },
+    {
+      "added_at": "2026-01-06 11:33:35",
+      "album": {
+        "name": "Tell me",
+        "url": "https://open.spotify.com/album/128I92xeAqGBMdLzBqCGdR"
+      },
+      "artists": [
+        {
+          "name": "Prince Frencho",
+          "url": "https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ"
+        }
+      ],
+      "duration_ms": 136022,
+      "name": "Tell me",
+      "url": "https://open.spotify.com/track/7Kii5doWDpS5BlMb8ZinhX"
+    },
     {
       "added_at": "2026-01-01 23:38:39",
       "album": {
@@ -30451,6 +30531,234 @@
       "duration_ms": 216319,
       "name": "RIDING DINAMITE",
       "url": "https://open.spotify.com/track/2nPGjtFpy5OLgRYNXvGIHm"
+    },
+    {
+      "added_at": "2026-01-07 08:11:22",
+      "album": {
+        "name": "YOGYETY & AI",
+        "url": "https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd"
+      },
+      "artists": [
+        {
+          "name": "yogyety",
+          "url": "https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "ASIDERAL SPACE",
+      "url": "https://open.spotify.com/track/24Hwi2MkkwBRg4riBVSEfY"
+    },
+    {
+      "added_at": "2026-01-08 00:05:10",
+      "album": {
+        "name": "Age Is Just a Number",
+        "url": "https://open.spotify.com/album/0gIAxNxdsmmsHdKPXCdh89"
+      },
+      "artists": [
+        {
+          "name": "Avishek Majumder",
+          "url": "https://open.spotify.com/artist/5j14w561gMuuLadnPT26jo"
+        }
+      ],
+      "duration_ms": 179837,
+      "name": "Age Is Just a Number",
+      "url": "https://open.spotify.com/track/3vfNDbSrX7YMud5J4GFYKd"
+    },
+    {
+      "added_at": "2026-01-09 02:15:07",
+      "album": {
+        "name": "Jebah",
+        "url": "https://open.spotify.com/album/3dJFBa3rJi3tuscBOa6QSE"
+      },
+      "artists": [
+        {
+          "name": "Ekpra",
+          "url": "https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Sisa Cahaya",
+      "url": "https://open.spotify.com/track/2MvWTckCHPDDEB8LsOuqb4"
+    },
+    {
+      "added_at": "2026-01-09 02:15:58",
+      "album": {
+        "name": "Life and Death",
+        "url": "https://open.spotify.com/album/6riDH2Kjspqpj0aRuSSFd3"
+      },
+      "artists": [
+        {
+          "name": "Atossa",
+          "url": "https://open.spotify.com/artist/2k1zRozo0VCPb7h3jcqCje"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "Life and Death",
+      "url": "https://open.spotify.com/track/74BPX9d28dZxrSSxpW79qg"
+    },
+    {
+      "added_at": "2026-01-09 06:18:08",
+      "album": {
+        "name": "Bombardino (one last one)",
+        "url": "https://open.spotify.com/album/4DhQv0XQ5Dg1mUaEP3RyAU"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 162879,
+      "name": "Bombardino (one last one)",
+      "url": "https://open.spotify.com/track/6nJBSmF8l0d8MjgZ7s2XUZ"
+    },
+    {
+      "added_at": "2026-01-09 14:11:27",
+      "album": {
+        "name": "Ash Queens",
+        "url": "https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa"
+      },
+      "artists": [
+        {
+          "name": "ASH QUEENS",
+          "url": "https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Sparkle's Silly Spire",
+      "url": "https://open.spotify.com/track/6IRxLQuWotxsfNgT7N3DlU"
+    },
+    {
+      "added_at": "2026-01-10 13:40:37",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/31UKGuwhErFbhQcPDBJde2"
+      },
+      "artists": [
+        {
+          "name": "Arden Bird",
+          "url": "https://open.spotify.com/artist/4l9k8pAHsXspm1CE2d30RT"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3RNtsRKaFQQLyvH6O9R7Vx"
+    },
+    {
+      "added_at": "2026-01-10 23:59:35",
+      "album": {
+        "name": "Jealousy Never Blooms",
+        "url": "https://open.spotify.com/album/4UIZSIxQ32CLauUcxfRHBC"
+      },
+      "artists": [
+        {
+          "name": "JayzDayz",
+          "url": "https://open.spotify.com/artist/6pd58j15goA4rLevfgIVAC"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Merri - Go",
+      "url": "https://open.spotify.com/track/5sgEWkDU0LZ1TtH5TZ9Ibp"
+    },
+    {
+      "added_at": "2026-01-12 12:44:43",
+      "album": {
+        "name": "Need to Find My Way",
+        "url": "https://open.spotify.com/album/0aRDidH0Qx7v1smEkx96jL"
+      },
+      "artists": [
+        {
+          "name": "Pustye Ludi",
+          "url": "https://open.spotify.com/artist/7fSBK3bpBVPOxwmdi4wEWS"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Need to Find My Way",
+      "url": "https://open.spotify.com/track/3nfHQXM9zLjBlXcYE71Fjh"
+    },
+    {
+      "added_at": "2026-01-13 05:32:40",
+      "album": {
+        "name": "Quel Furbetto del Pinguino",
+        "url": "https://open.spotify.com/album/4sKlAgmw2wnntzz2W02vDd"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 159959,
+      "name": "Quel Furbetto del Pinguino",
+      "url": "https://open.spotify.com/track/1nGexWbDTdVKngMvDTTTOI"
+    },
+    {
+      "added_at": "2026-01-14 21:33:43",
+      "album": {
+        "name": "Dementia",
+        "url": "https://open.spotify.com/album/3KY2uEhWMJchHmNo5Vae84"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Riot Commune",
+          "url": "https://open.spotify.com/artist/1sAEqe2vPCiXX10D3wI6HE"
+        },
+        {
+          "name": "Mia Grace",
+          "url": "https://open.spotify.com/artist/5AECGqaYMI5T8p1DOa4TRS"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Dementia",
+      "url": "https://open.spotify.com/track/5IHb39NmNczAve6KhtAVrX"
+    },
+    {
+      "added_at": "2026-01-14 21:33:48",
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/1onao0AMVSR89hcVr6AOoD"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Riot Commune",
+          "url": "https://open.spotify.com/artist/1sAEqe2vPCiXX10D3wI6HE"
+        }
+      ],
+      "duration_ms": 162507,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/7s6w9dYwiIGcrQiAHiS2Rp"
+    },
+    {
+      "added_at": "2026-01-14 21:33:52",
+      "album": {
+        "name": "Sticker Happy",
+        "url": "https://open.spotify.com/album/0BOyjQtnYiJKLEYokkLwxk"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Riot Commune",
+          "url": "https://open.spotify.com/artist/1sAEqe2vPCiXX10D3wI6HE"
+        }
+      ],
+      "duration_ms": 197714,
+      "name": "Sticker Happy",
+      "url": "https://open.spotify.com/track/3qxB1Hc3Fv4pGB9E2IEsnY"
+    },
+    {
+      "added_at": "2026-01-15 16:10:02",
+      "album": {
+        "name": "\u042f \u043f\u043e\u043f\u0440\u043e\u0448\u0443",
+        "url": "https://open.spotify.com/album/0TiR7KrAF5OQxM4IUjnbcO"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 249052,
+      "name": "\u042f \u043f\u043e\u043f\u0440\u043e\u0448\u0443",
+      "url": "https://open.spotify.com/track/1hrGAjCwqcWUk3RnkhxdiY"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

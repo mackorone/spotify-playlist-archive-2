@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3V8LF8CaRSAiDkt1yjMlyS.md) - cumulative - [plain](/playlists/plain/3V8LF8CaRSAiDkt1yjMlyS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3V8LF8CaRSAiDkt1yjMlyS)
+[pretty](/playlists/pretty/3V8LF8CaRSAiDkt1yjMlyS.md) - cumulative - [plain](/playlists/plain/3V8LF8CaRSAiDkt1yjMlyS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3V8LF8CaRSAiDkt1yjMlyS)
 
 ### [When depression hits hard](https://open.spotify.com/playlist/3V8LF8CaRSAiDkt1yjMlyS)
 

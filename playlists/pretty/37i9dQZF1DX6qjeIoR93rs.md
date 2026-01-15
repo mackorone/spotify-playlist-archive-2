@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain](/playlists/plain/37i9dQZF1DX6qjeIoR93rs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6qjeIoR93rs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain](/playlists/plain/37i9dQZF1DX6qjeIoR93rs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6qjeIoR93rs)
 
 ### [Hit Falastini](https://open.spotify.com/playlist/37i9dQZF1DX6qjeIoR93rs)
 
 > أغاني من فلسطين وإليها
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,810 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,962 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

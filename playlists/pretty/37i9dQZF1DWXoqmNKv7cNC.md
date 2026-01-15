@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain](/playlists/plain/37i9dQZF1DWXoqmNKv7cNC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXoqmNKv7cNC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain](/playlists/plain/37i9dQZF1DWXoqmNKv7cNC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXoqmNKv7cNC)
 
 ### [Lo Mejor de EQUAL México 2025](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
 
 > ¡Mujeres mexicanas a todo volumen todo el año! Mon Laferte en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,367 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,565 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

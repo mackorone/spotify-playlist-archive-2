@@ -1,12 +1,12 @@
 {
   "description": "This is Lewis Capaldi. The essential tracks, all in one playlist.",
-  "num_followers": 800428,
+  "num_followers": 800696,
   "original_name": "This Is Lewis Capaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAAAqpEtAaIjpB17HJxmiuCP1",
+  "snapshot_id": "aWbcgAAAAACDMCkpG47xUVBWSwdu7BRl",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someone You Loved (Future Humans Remix)",
-        "url": "https://open.spotify.com/album/7m7vv9wlQ4i0LFuJiE2zsQ"
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
       "artists": [
         {
           "name": "Lewis Capaldi",
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Future Humans",
-          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
         }
       ],
-      "duration_ms": 189052,
-      "name": "Someone You Loved - Future Humans Remix",
-      "url": "https://open.spotify.com/track/1e8PAfcKUYoKkxPhrHqw4x"
+      "duration_ms": 179907,
+      "name": "One",
+      "url": "https://open.spotify.com/track/5C1TucCRf4Vjjree1OItyv"
     },
     {
       "added_at": null,
@@ -383,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+        "name": "Someone You Loved (Future Humans Remix)",
+        "url": "https://open.spotify.com/album/7m7vv9wlQ4i0LFuJiE2zsQ"
       },
       "artists": [
         {
           "name": "Lewis Capaldi",
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Future Humans",
+          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
         }
       ],
-      "duration_ms": 179907,
-      "name": "One",
-      "url": "https://open.spotify.com/track/5C1TucCRf4Vjjree1OItyv"
+      "duration_ms": 189052,
+      "name": "Someone You Loved - Future Humans Remix",
+      "url": "https://open.spotify.com/track/1e8PAfcKUYoKkxPhrHqw4x"
     },
     {
       "added_at": null,

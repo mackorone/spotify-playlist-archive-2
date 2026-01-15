@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain](/playlists/plain/37i9dQZF1DX2kz2RZNrZvN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2kz2RZNrZvN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain](/playlists/plain/37i9dQZF1DX2kz2RZNrZvN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2kz2RZNrZvN)
 
 ### [Best of Massive Drum & Bass 2024](https://open.spotify.com/playlist/37i9dQZF1DX2kz2RZNrZvN)
 
 > Our editor's picks for the biggest Drum & Bass bangers of 2024\. Cover: Charlotte Plank
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,209 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,572 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

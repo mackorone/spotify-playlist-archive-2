@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain](/playlists/plain/37i9dQZF1DWWW53w3AslFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWW53w3AslFX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain](/playlists/plain/37i9dQZF1DWWW53w3AslFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWW53w3AslFX)
 
 ### [Women of Indie \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWWW53w3AslFX)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain](/playlists/plain/37i9dQZF1DX93dxiCI0yn1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX93dxiCI0yn1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain](/playlists/plain/37i9dQZF1DX93dxiCI0yn1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX93dxiCI0yn1)
 
 ### [ラップスタア 2024](https://open.spotify.com/playlist/37i9dQZF1DX93dxiCI0yn1)
 

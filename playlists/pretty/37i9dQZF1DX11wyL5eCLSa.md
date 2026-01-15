@@ -1,16 +1,16 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain](/playlists/plain/37i9dQZF1DX11wyL5eCLSa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX11wyL5eCLSa)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain](/playlists/plain/37i9dQZF1DX11wyL5eCLSa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX11wyL5eCLSa)
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. José Madero en Portada.
+> Sangre fresca en las escenas del indie y el rock\. León Larregui en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,905 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,104 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mexas en Texas](https://open.spotify.com/track/0k7yVRgr59ErbHuRS73Ilf) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Mexas en Texas](https://open.spotify.com/album/2oKfl0U7ogxgMz85yzbZAg) | 2:41 |
-| 2 | [Frecuencias \- Spotify Sessions](https://open.spotify.com/track/2uFr0p183WqZRDOdZH1hXX) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 4:40 |
-| 3 | [Un Brindis al Sol](https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Un Brindis al Sol](https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j) | 4:11 |
+| 1 | [Bruma](https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Bruma](https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7) | 3:21 |
+| 2 | [La Noche De Ayer](https://open.spotify.com/track/3zP3i3HvBoESs7blohlvsi) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [FLORECE EN EL CAOS](https://open.spotify.com/album/1dFtJQK4H3PlsaPP2WZrdl) | 3:29 |
+| 3 | [La Canción Que Te Escribí](https://open.spotify.com/track/3eAm2MDm6cygu4mOx0QWjw) | [Monte Carlo](https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K), [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [La Canción Que Te Escribí](https://open.spotify.com/album/5cvfyDEkOtQIlKKxBvjQDH) | 4:03 |
 | 4 | [Te Veo a la Vuelta](https://open.spotify.com/track/2EKHUoHLEHYIGhvi4s05nj) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Te Veo a la Vuelta](https://open.spotify.com/album/19GXDMThiWYvBe8G43iI8m) | 4:09 |
 | 5 | [Inside My Brain](https://open.spotify.com/track/4DiZ4vLi89ZxLinQwqtfTC) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Inside My Brain](https://open.spotify.com/album/3Rn9VRkLbOxpDGTXOMT7n9) | 2:56 |
 | 6 | [Marioneta](https://open.spotify.com/track/36gN6hYRWPGbarIlCMdmby) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Marioneta](https://open.spotify.com/album/6y8fsz2S0oZ3eRiuWkohuu) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [Laberinto](https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Laberinto](https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo) | 4:31 |
 | 100 | [Quiero Dormir Cansado \- MTV Unplugged](https://open.spotify.com/track/7fdWscJPJwSujugq18hF5u) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Quiero Dormir Cansado \(MTV Unplugged\)](https://open.spotify.com/album/4aKL9YaM2gCCBGDCtEtPnr) | 4:50 |
 
-Snapshot ID: `AAAAAKEpu8tsJUeSXF7Pscy/NaS6c+Qr`
+Snapshot ID: `AAAAAC9esJ7Z1VH/KyvA/0nEYD3K2pTq`

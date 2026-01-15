@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZi7MSnECo7D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZi7MSnECo7D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZi7MSnECo7D)
+[pretty](/playlists/pretty/37i9dQZF1DWZi7MSnECo7D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZi7MSnECo7D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZi7MSnECo7D)
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
 > Música brasileira fora da curva\. Foto: josefe
 
-823 songs - 1 day 22 hr 48 min
+824 songs - 1 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Luz Negra](https://open.spotify.com/track/5HLfgMXvOFua9bwsBUY6em) | [Madrid](https://open.spotify.com/artist/11hzfqXWbO20J9QE8OGZ37), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH), [Marina Gasolina](https://open.spotify.com/artist/0ycGRYNlXyQnPf1ieoioQZ) | [Luz Negra](https://open.spotify.com/album/6HRYVTqK8OkyBma12VFGmK) | 2:00 | 2023-02-13 | 2023-03-03 |
 | [Lábios Mentem à Distância](https://open.spotify.com/track/3LGTF6ehf5J27Ev2ydhqFY) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9), [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [Lábios Mentem à Distância](https://open.spotify.com/album/6EFmmPTRDrH7gW4GTxXy3X) | 3:19 | 2023-11-17 | 2024-06-08 |
 | [Lágrima na Língua](https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc) | [Pedro Fonte](https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Luz Na Madrugada / Late Night Light](https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq) | 3:35 | 2023-09-15 | 2024-03-30 |
+| [Madrepérola](https://open.spotify.com/track/2Et98ErxCOVLNujBDc8oef) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm) | [Madrepérola](https://open.spotify.com/album/2PTeS8MMTr6xb40wc3NMv5) | 2:46 | 2026-01-09 |  |
 | [Madrugada](https://open.spotify.com/track/1XaaiqwVQ8qaBrXNmxQ18U) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz), [glhrmee](https://open.spotify.com/artist/47WrtuDcUXSpyeeEGANlb2) | [Jesus Ñ Voltará \(Deluxe\)](https://open.spotify.com/album/2QTXZFCPiqFZcuGT2JkngO) | 3:35 | 2024-05-24 | 2024-08-24 |
 | [Mais Nada](https://open.spotify.com/track/0VSxb6zC2oy5KhQ89Hqd98) | [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [Mais Nada](https://open.spotify.com/album/4tlKd5YyAJJcdGUNMzstRx) | 3:16 | 2024-06-14 | 2024-11-30 |
 | [mais um lance](https://open.spotify.com/track/47eTiEGgeZwjdIrOiNgG8G) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [mais um lance](https://open.spotify.com/album/78Xvu1T8qRtUvMgix18ypT) | 3:01 | 2022-01-21 | 2023-04-15 |

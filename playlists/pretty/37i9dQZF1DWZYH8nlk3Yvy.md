@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYH8nlk3Yvy.md) - [plain](/playlists/plain/37i9dQZF1DWZYH8nlk3Yvy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZYH8nlk3Yvy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYH8nlk3Yvy.md) - [plain](/playlists/plain/37i9dQZF1DWZYH8nlk3Yvy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZYH8nlk3Yvy)
 
 ### [On Tour Japan: Coldplay](https://open.spotify.com/playlist/37i9dQZF1DWZYH8nlk3Yvy)
 
 > 【セットリスト公開】11月6日\-7日に東京ドームで<a href="https://www.livenation.co.jp/coldplay2023">「MUSIC OF THE SPHERES<br/>WORLD TOUR」</a>日本公演が行われたColdplayを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,268 likes - 22 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,262 likes - 22 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

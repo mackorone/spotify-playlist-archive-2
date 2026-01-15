@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO4nBpII.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4nBpII) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4nBpII)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO4nBpII.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4nBpII) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO4nBpII)
 
 ### [This Is Green Day](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nBpII)
 

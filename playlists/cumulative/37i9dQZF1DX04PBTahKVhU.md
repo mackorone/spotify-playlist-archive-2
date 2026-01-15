@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX04PBTahKVhU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX04PBTahKVhU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX04PBTahKVhU)
+[pretty](/playlists/pretty/37i9dQZF1DX04PBTahKVhU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX04PBTahKVhU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX04PBTahKVhU)
 
 ### [My Fault: London Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX04PBTahKVhU)
 

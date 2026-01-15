@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX30FdZ6jR5Gl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX30FdZ6jR5Gl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX30FdZ6jR5Gl)
+[pretty](/playlists/pretty/37i9dQZF1DX30FdZ6jR5Gl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX30FdZ6jR5Gl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX30FdZ6jR5Gl)
 
 ### [This Is Philip Glass](https://open.spotify.com/playlist/37i9dQZF1DX30FdZ6jR5Gl)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain](/playlists/plain/2Vat2fAlBoK41CLxIW1DAB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2Vat2fAlBoK41CLxIW1DAB)
+pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain](/playlists/plain/2Vat2fAlBoK41CLxIW1DAB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2Vat2fAlBoK41CLxIW1DAB)
 
 ### [Rock Square](https://open.spotify.com/playlist/2Vat2fAlBoK41CLxIW1DAB)
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,601 likes - 808 songs - 2 day 2 hr 43 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,599 likes - 846 songs - 2 day 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -583,7 +583,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 573 | [Nosferatu I Am](https://open.spotify.com/track/7sZudFcX8k2nTqwFqMcsIL) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Nosferatu I Am](https://open.spotify.com/album/5Q3P0mQdUDQ8XRQ45CHz9j) | 3:21 |
 | 574 | [Heaven Can Wait](https://open.spotify.com/track/4jRFjEtrtSz6YEjwUw2L8D) | [IMAGICA](https://open.spotify.com/artist/68vj3050ASyqFOlbeF2kVu) | [Heaven Can Wait](https://open.spotify.com/album/1UvSmp0MlM8pWn49PJXWPI) | 7:57 |
 | 575 | [Consecuencias](https://open.spotify.com/track/1AY7Qsg1WTVGx5vTbtScu3) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Consecuencias](https://open.spotify.com/album/1MbrJiwSAlT5Gav4b7cmCm) | 3:32 |
-| 576 | [Stop killing my Vibe](https://open.spotify.com/track/3mxHFBdmvieGMxdRg1hnfa) | [S7NNER](https://open.spotify.com/artist/73pZ1uDorlr9qPNQ1AUpvb) | [Stop killing my Vibe](https://open.spotify.com/album/3ON99EFgAy7pU5C7wusdKu) | 2:24 |
+| 576 | [Stop killing my Vibe](https://open.spotify.com/track/3mxHFBdmvieGMxdRg1hnfa) | [S7NNER](https://open.spotify.com/artist/73pZ1uDorlr9qPNQ1AUpvb) | [Stop killing my Vibe](https://open.spotify.com/album/3ON99EFgAy7pU5C7wusdKu) | 2:21 |
 | 577 | [Feeling Groovy](https://open.spotify.com/track/1xAWneajd7QgeG1sCKvNq0) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Feeling Groovy](https://open.spotify.com/album/7tpkD1G11DBGWLxqkUGjzP) | 3:01 |
 | 578 | [Time to Escape](https://open.spotify.com/track/0KBGOoLycaxrOJwWtnXEnX) | [SAND in the EYE](https://open.spotify.com/artist/6numULovERbBTo29sM4GvB) | [Time to Escape](https://open.spotify.com/album/3hAXeCGIW2Uszt8angKrmZ) | 5:16 |
 | 579 | [1183](https://open.spotify.com/track/6vVd2uySYer6O7IvL9zksK) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [Tati Diaz Bonilla](https://open.spotify.com/artist/4gz8jSWrna0TO9c3fnbYhf) | [Barcaza Boreal Plus Ultra \(Radio Edit\)](https://open.spotify.com/album/1VsnWTO1jTomZIMjUsT5hB) | 3:23 |
@@ -816,5 +816,43 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 806 | [Skapokalypse Now](https://open.spotify.com/track/46OHYaEK2fSFKL3HjnQ3Ru) | [ArneB](https://open.spotify.com/artist/76B0pivpAcHhfEeIRpaZL7) | [Sonntagsrevolte](https://open.spotify.com/album/068kde1sjRgpCAuJHbIMUB) | 2:27 |
 | 807 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 |
 | 808 | [Blown \- 2025 Version](https://open.spotify.com/track/1CRpWK8hLrjtalSNvty39D) | [Wingfish](https://open.spotify.com/artist/3DjzJDs4wgf6jxZEYaeRBd) | [Dyads](https://open.spotify.com/album/3ZnsbkR1KQvQArM6RCBVCW) | 5:07 |
+| 809 | [Mundo de Cristal](https://open.spotify.com/track/6Inj97Fh2wkeNZIMRqhrKQ) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Mundo de Cristal](https://open.spotify.com/album/6uOiCgzFVS6wZiU0mZ2boC) | 2:34 |
+| 810 | [Dreammaker](https://open.spotify.com/track/5MT9WoZJs0huDj9xGCqHH9) | [The Transatlantics](https://open.spotify.com/artist/01bXivMCOB2xx1sVDnC7tp) | [The Transatlantics](https://open.spotify.com/album/6KkUGwyO663orjvhEocFTz) | 3:41 |
+| 811 | [Diamond and the Missing Son](https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:16 |
+| 812 | [8](https://open.spotify.com/track/6PcqddmUxn7poehZezZGiC) | [MASSA](https://open.spotify.com/artist/5T9XzZfDTS0Md8zGDQx7ZF) | [Walls](https://open.spotify.com/album/5K5dZbunzeo7fJOGe8nymX) | 6:24 |
+| 813 | [My Little House](https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 4:58 |
+| 814 | [Rise From The Ashes](https://open.spotify.com/track/25IfwtrqMa8KNWbo8zp0s8) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Rise From The Ashes](https://open.spotify.com/album/08lgmop2zbx7VK0WoColUp) | 3:16 |
+| 815 | [Badge Of Burden](https://open.spotify.com/track/0wIYvsID4KMfSTqeU7h76y) | [Kolossos](https://open.spotify.com/artist/5YL0laVGokLXPoDkkbhB2K) | [Badge Of Burden](https://open.spotify.com/album/19wMd9SSbOuF66lLrdq4tv) | 7:44 |
+| 816 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 |
+| 817 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 |
+| 818 | [Вдыхая](https://open.spotify.com/track/7h0NWQtE9GpPGOwPaocdPF) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:03 |
+| 819 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 |
+| 820 | [Spiral](https://open.spotify.com/track/2GmR8f2PjE9gcUkRws7rYJ) | [Worn Out Welcome](https://open.spotify.com/artist/0ibx8tICHFMIC94A8NrrqM) | [Spiral](https://open.spotify.com/album/2q2Ht27aBPC0AbXIEO4gmA) | 3:46 |
+| 821 | [Flesh Projection](https://open.spotify.com/track/337B25QSylikjVPxYvciV9) | [D00K](https://open.spotify.com/artist/1XGQf5yXO7hP3cv5uUAiVe) | [Flesh Projection](https://open.spotify.com/album/6Ga7S2YUXkm9OaJQPsxk4E) | 3:33 |
+| 822 | [We Are The Stars](https://open.spotify.com/track/7qpjnHlUV8VsKzsrBY8Wxv) | [Veil Of The Serpent](https://open.spotify.com/artist/4ykxksvZZz1J6737vA0Voe) | [We Are The Stars](https://open.spotify.com/album/51j7dxN7oGM94TUWjS7SYL) | 8:51 |
+| 823 | [Límite](https://open.spotify.com/track/7jVQXWrwoQq9lOQpGXlJRv) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Límite](https://open.spotify.com/album/3nxdgNuSPdm0oibOiS1J4d) | 2:48 |
+| 824 | [Ashes of Yesterday](https://open.spotify.com/track/35wS2SAgZrLHw1hfM9hu9R) | [Pebblepimp](https://open.spotify.com/artist/0ASySyTBd1Pb2igFSE6SmV) | [Finish Grade](https://open.spotify.com/album/2YGsZ5MMye11RxtFO2nY6k) | 3:12 |
+| 825 | [Snap](https://open.spotify.com/track/5bpmmQWr0xW9XrAWIiXl2K) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Snap](https://open.spotify.com/album/03VNzdrX0AUpaogdpHwm7F) | 3:23 |
+| 826 | [Lost cause](https://open.spotify.com/track/4QqP0rAbzntvsRcIEUwMUZ) | [Hiding from Humans](https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8) | [Radio](https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH) | 3:42 |
+| 827 | [Catching Matches](https://open.spotify.com/track/4lz4R6m5RGwov6GMn6K3XC) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Catching Matches](https://open.spotify.com/album/4Gw7FiyA9Dn0V6QUIadeMQ) | 3:28 |
+| 828 | [Gone Too Soon](https://open.spotify.com/track/2glrpjHHKqK4sb96yMYwaw) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Gone Too Soon](https://open.spotify.com/album/4KdQsQvZxJfXaTX5wBJtDj) | 3:24 |
+| 829 | [Trust](https://open.spotify.com/track/0kUYFnO8ErxXZjFiIhV6E3) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Perfecting Failure](https://open.spotify.com/album/5szJhKCuuafyVx6ztYwqhw) | 3:03 |
+| 830 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 |
+| 831 | [I wish we could just hang out](https://open.spotify.com/track/69TV0AOI3wHoaYfJ7H9EaE) | [Harrison Jay](https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG) | [I wish we could just hang out](https://open.spotify.com/album/2h4EUJrHjo2rU4QVFJ63ew) | 3:58 |
+| 832 | [Two for Diving](https://open.spotify.com/track/0LjsGoGad9uFIhyUIYDwj9) | [sleepingbagzzz](https://open.spotify.com/artist/1illHVPAUojDCwd2Po8GV3) | [Two for Diving](https://open.spotify.com/album/6ERi1BUpSQ0g8Cpmtk7WFI) | 3:00 |
+| 833 | [Amigos](https://open.spotify.com/track/5I8Mi2vG1U8t1jvf9gcnb7) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Amigos](https://open.spotify.com/album/2rggkuITU9ORPXdSpe5dGB) | 2:31 |
+| 834 | [When the Night Comes](https://open.spotify.com/track/4UzywqqzmFa6lV3bmqVb1J) | [Tom 5](https://open.spotify.com/artist/3w9Fy7P7M1qkaHakm7Us4u) | [When the Night Comes](https://open.spotify.com/album/5DPKG8OlpELUIFq18Saxbl) | 3:37 |
+| 835 | [O Porquê da Gente](https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [O Porquê da Gente](https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW) | 3:54 |
+| 836 | [L.A.](https://open.spotify.com/track/01N7qM9e4LAMRRL93rgkxt) | [Hospital Radio.](https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr) | [L.A.](https://open.spotify.com/album/0PyBnHTI0E3wnEHPie9tQW) | 2:58 |
+| 837 | [Reality Is Dead](https://open.spotify.com/track/0ZjcIS8lComLbz7KaU4orp) | [Dizzy Panda](https://open.spotify.com/artist/2NpvjxVmyqxArOUBoF7oyv) | [Point of No Return](https://open.spotify.com/album/6andCQL8dTgemgqVbzkimO) | 3:12 |
+| 838 | [March of the Needle](https://open.spotify.com/track/5808lWNwH0Shnbr5anwiCF) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7) | [March of the Needle](https://open.spotify.com/album/5vJibShFSLAUzJ42DK1MQX) | 3:10 |
+| 839 | [Pink Pony Club](https://open.spotify.com/track/05J8bI3yVpD2ioX3hh8Aop) | [The Spuds MacKenzies](https://open.spotify.com/artist/6R7D5fQS0AhFTbrtJI0Mis) | [Pink Pony Club](https://open.spotify.com/album/4oYDp4cg04dJJqe2eUMj0J) | 5:44 |
+| 840 | [The Seed of Fear](https://open.spotify.com/track/7Dj7s4B5C4P0Ru6qzXnddF) | [Timeless Rage](https://open.spotify.com/artist/3SFCl90AfmCM4vkIPtWovA) | [The Seed of Fear](https://open.spotify.com/album/2cjmdqHw6oPToVTgudxXQP) | 5:18 |
+| 841 | [Proof of Love](https://open.spotify.com/track/67Ig6PY66hqzrKe8rSvHiD) | [Aella Moon](https://open.spotify.com/artist/3NTYDGHWKfrCl4fpJnkApo) | [Proof of Love](https://open.spotify.com/album/1B5rexLLZZ0ZAx4Om6hyxv) | 4:19 |
+| 842 | [Better Days](https://open.spotify.com/track/30yQMSGdC4fzvPWUHPaGKT) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:32 |
+| 843 | [Back In Early 00's](https://open.spotify.com/track/7E999lKzlhXOxmXnzI3ZgG) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Back In Early 00's](https://open.spotify.com/album/205K7PtnliKtZ57qtHHRiU) | 3:13 |
+| 844 | [Bebeğim](https://open.spotify.com/track/0UE1X4VimOchf2p37eE4uh) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Bebeğim](https://open.spotify.com/album/78VtGQ3K0YPQxKHXrFuAyh) | 3:11 |
+| 845 | [Black Hole](https://open.spotify.com/track/2NlJ3l1am6Q8CE6wrUMp6C) | [Skjebne](https://open.spotify.com/artist/0rnFCpiJmk0Tew86GftOkx) | [Black Hole](https://open.spotify.com/album/6OauqW31qTCILU7gOnIl7z) | 4:01 |
+| 846 | [The Beginning Of The End](https://open.spotify.com/track/2fN6H4ncv3uYMG7mMEtbcA) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:08 |
 
-Snapshot ID: `AAADQy7ncHR2rYiuc6nVp2wpRGKlAxsD`
+Snapshot ID: `AAADbSLR35hF7UX2RaBbXLkNO8650kLq`

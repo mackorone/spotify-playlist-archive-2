@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3m0MM377d1k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3m0MM377d1k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3m0MM377d1k)
+[pretty](/playlists/pretty/37i9dQZF1DX3m0MM377d1k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3m0MM377d1k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3m0MM377d1k)
 
 ### [【OSHI NO KO】](https://open.spotify.com/playlist/37i9dQZF1DX3m0MM377d1k)
 
 > Music from "【OSHI NO KO】©️赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会
 
-153 songs - 7 hr 37 min
+155 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-02 |  |
 | [BYGONE DEATH](https://open.spotify.com/track/2zg4x7wcNUD7qzTPUG4Fpi) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:25 | 2023-06-27 | 2024-04-19 |
 | [Bygone Death](https://open.spotify.com/track/6lODdDHMp1mG3cXo2hgIgi) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:25 | 2023-06-27 |  |
+| [Bのリベンジ](https://open.spotify.com/track/1Ql4e2TPr2I9c8MdELvxho) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [Bのリベンジ](https://open.spotify.com/album/3NZfX1kbq3IsKYIE16wQlN) | 3:01 | 2026-01-14 |  |
 | [Chagrin](https://open.spotify.com/track/1qpfFVuag7PScV6J0P9AHy) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:15 | 2023-06-27 |  |
 | [CHAGRIN](https://open.spotify.com/track/3GULBi7hwb05jDwf7te5k8) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 2:15 | 2023-06-27 | 2024-04-19 |
 | [Challenge completed](https://open.spotify.com/track/1i2T5wLYqTegQsdxyYNRxk) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:15 | 2023-06-27 |  |
@@ -130,6 +131,7 @@
 | [STAR☆T☆RAIN \- アイ Solo Ver.](https://open.spotify.com/track/297PTd8Jgj8rF2U0SidBPT) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.1\)](https://open.spotify.com/album/7d64mWymF8BzaGpIrSp0iS) | 3:59 | 2023-07-04 |  |
 | [STAR☆T☆RAIN \- ルビー Solo Ver.](https://open.spotify.com/track/4kN2RaKjK2RE3e0bhv5YGU) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.2.5\)](https://open.spotify.com/album/56CcCu9a19a5AS7bqNXM2e) | 3:52 | 2023-07-04 |  |
 | [STAR☆T☆RAIN \- 有馬かな Solo Ver.](https://open.spotify.com/track/5NEFMPL1iha28giS4wxxsB) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.2.5\)](https://open.spotify.com/album/56CcCu9a19a5AS7bqNXM2e) | 3:52 | 2023-07-04 |  |
+| [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 | 2026-01-14 |  |
 | [UNDER FIRE](https://open.spotify.com/track/24uG7CCCVxOdWc5bUFZQer) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [BGM FROMTV SERIES ”【OSHI NO KO】”](https://open.spotify.com/album/6DZPci8XNOAZhzNpaChEaQ) | 3:18 | 2023-06-27 | 2024-04-19 |
 | [Under fire](https://open.spotify.com/track/6tDbTNJTyg5D1WwRYTC7m0) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 3:18 | 2023-06-27 |  |
 | [Upset](https://open.spotify.com/track/2InjpceWmFfeLfIJqOrohG) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:03 | 2023-06-27 |  |

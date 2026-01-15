@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1sJmec.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1sJmec) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1sJmec)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1sJmec.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1sJmec) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1sJmec)
 
 ### [This Is Metallica](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1sJmec)
 

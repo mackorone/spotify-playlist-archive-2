@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain](/playlists/plain/37i9dQZF1DX9pGqUCAZhrO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9pGqUCAZhrO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain](/playlists/plain/37i9dQZF1DX9pGqUCAZhrO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9pGqUCAZhrO)
 
 ### [Bel\-Air Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX9pGqUCAZhrO)
 
 > In the end, it's all love\. Listen to the official playlist inspired by the final season of Bel\-Air, streaming now exclusively on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,997 likes - 93 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,067 likes - 93 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

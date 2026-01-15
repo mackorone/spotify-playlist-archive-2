@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain](/playlists/plain/37i9dQZF1DWWtqHeytOZ8f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWtqHeytOZ8f)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain](/playlists/plain/37i9dQZF1DWWtqHeytOZ8f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWtqHeytOZ8f)
 
 ### [Lava Lamp](https://open.spotify.com/playlist/37i9dQZF1DWWtqHeytOZ8f)
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,817 likes - 104 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,189 likes - 104 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain](/playlists/plain/37i9dQZF1DX9Uv7i7ODBAM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Uv7i7ODBAM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain](/playlists/plain/37i9dQZF1DX9Uv7i7ODBAM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9Uv7i7ODBAM)
 
 ### [My Hero Academia](https://open.spotify.com/playlist/37i9dQZF1DX9Uv7i7ODBAM)
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,015 likes - 96 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,309 likes - 97 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 94 | [戦闘許可!](https://open.spotify.com/track/6OmhUA5iVoSzbtCNLteTpa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:25 |
 | 95 | [ワン･フォー･オールVSオール･フォー･ワン](https://open.spotify.com/track/2Q6ulRLnYu0BHzTltcs3zV) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:07 |
 | 96 | [My Hero Academia \-JAPAN MIX\-](https://open.spotify.com/track/15SZeoN1jUZu3tubrLvQhK) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [有精卵<You Say Run>/My Hero Academia](https://open.spotify.com/album/4dXuRMQeqTdVG5X2CLpOYU) | 3:26 |
+| 97 | [Kani Umainen](https://open.spotify.com/track/6xuECRfiMOAxtCFREJS9cc) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [中島啓輔](https://open.spotify.com/artist/6mKZpoE2PZy7hSGPFsay54) | [Kani Umainen](https://open.spotify.com/album/0NMKQL4qhIeP0jHiUM3xCW) | 1:04 |
 
-Snapshot ID: `AAAAAIm+AVm7+FQwrHiLa2bFhJeGaVJ4`
+Snapshot ID: `AAAAAJNXKsA9dfxZAwL9zPFHPAF9DiAg`

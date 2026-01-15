@@ -1,15 +1,16 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2i24iHGhL24.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2i24iHGhL24) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2i24iHGhL24)
+[pretty](/playlists/pretty/37i9dQZF1DX2i24iHGhL24.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2i24iHGhL24) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2i24iHGhL24)
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
 > Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
-454 songs - 1 day 2 hr 6 min
+455 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22 \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1C27aWAYNOiGtKuLLXucha) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles](https://open.spotify.com/album/5kjS3oqA3uScfk2Z7B4Jyc) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 | 2022-07-08 | 2023-10-17 |
+| [4ever \- triple j Like A Version](https://open.spotify.com/track/14lz4KBqBTg3BRzk1atbxC) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [4ever \(triple j Like A Version\)](https://open.spotify.com/album/0xZoegWWQn3E0FT2yn10yo) | 3:23 | 2026-01-09 |  |
 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 | 2024-08-16 |  |
 | [A Million Dreams](https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY) | [Ravi Adelekan & Friends](https://open.spotify.com/artist/6x2xTBq8OgKYfkUIEOUbeS), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O), [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7), [Olugbenga](https://open.spotify.com/artist/6z3dK1jUpHKWeiKeiVQOlB) | [A Million Dreams](https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS) | 4:49 | 2022-11-22 | 2023-10-17 |
 | [A Thousand Miles](https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM) | [SADBOii](https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN) | [A Thousand Miles](https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs) | 3:10 | 2021-12-17 | 2022-12-30 |
@@ -92,7 +93,7 @@
 | [Chandelier](https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 3:44 | 2023-02-24 | 2023-10-17 |
 | [Chandelier](https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Chandelier](https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit) | 3:42 | 2021-12-17 | 2022-12-30 |
 | [Chandelier](https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Chandelier](https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH) | 3:32 | 2022-03-25 | 2022-04-16 |
-| [Chemical](https://open.spotify.com/track/1SoQtOBmEaGLFmzr8e0DCf) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Chemical](https://open.spotify.com/album/5n55TYeWtckwrfOc8jUyjN) | 3:01 | 2024-06-21 |  |
+| [Chemical](https://open.spotify.com/track/1SoQtOBmEaGLFmzr8e0DCf) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Chemical](https://open.spotify.com/album/5n55TYeWtckwrfOc8jUyjN) | 3:01 | 2024-06-21 | 2026-01-15 |
 | [Chiquitita](https://open.spotify.com/track/1o04WVnY1OUmFE91hHg13O) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/40GDrRCewlZHmwWK9p04vw) | 4:59 | 2023-02-24 | 2023-05-12 |
 | [Chiquitita](https://open.spotify.com/track/4TYChn8xTvOREL2ikHKZpA) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/7tLw6UWNrDW9Qzt0Iyp7Xt) | 4:59 | 2023-04-14 | 2023-07-10 |
 | [Chiquitita](https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8) | 4:59 | 2022-11-18 | 2023-03-04 |

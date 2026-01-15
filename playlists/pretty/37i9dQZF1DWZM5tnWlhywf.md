@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZM5tnWlhywf.md) - [plain](/playlists/plain/37i9dQZF1DWZM5tnWlhywf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZM5tnWlhywf)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZM5tnWlhywf.md) - [plain](/playlists/plain/37i9dQZF1DWZM5tnWlhywf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZM5tnWlhywf)
 
 ### [Katie Austin's Hype HIITs Playlist](https://open.spotify.com/playlist/37i9dQZF1DWZM5tnWlhywf)
 

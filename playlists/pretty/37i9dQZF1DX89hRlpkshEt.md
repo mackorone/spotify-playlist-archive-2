@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89hRlpkshEt.md) - [plain](/playlists/plain/37i9dQZF1DX89hRlpkshEt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX89hRlpkshEt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89hRlpkshEt.md) - [plain](/playlists/plain/37i9dQZF1DX89hRlpkshEt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX89hRlpkshEt)
 
 ### [RADAR Creators Germany](https://open.spotify.com/playlist/37i9dQZF1DX89hRlpkshEt)
 
 > Entdecke deinen neuen Lieblings\-Podcast! Diese Folgen von Creator\*innen gehören definitiv auf dein RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 10 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 10 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

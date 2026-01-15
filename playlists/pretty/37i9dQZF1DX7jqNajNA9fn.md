@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jqNajNA9fn.md) - [plain](/playlists/plain/37i9dQZF1DX7jqNajNA9fn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7jqNajNA9fn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jqNajNA9fn.md) - [plain](/playlists/plain/37i9dQZF1DX7jqNajNA9fn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7jqNajNA9fn)
 
 ### [Mixtape \#12 Moses Sumney "Back to 1993" ](https://open.spotify.com/playlist/37i9dQZF1DX7jqNajNA9fn)
 
 > <a href="spotify:artist:5W10uJRsbt9bROJDKoI1Wn">Moses Sumney</a> takes us back to the sound of 1993\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,098 likes - 27 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,445 likes - 27 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

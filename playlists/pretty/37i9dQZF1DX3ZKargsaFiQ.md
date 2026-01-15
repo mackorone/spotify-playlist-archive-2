@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZKargsaFiQ.md) - [plain](/playlists/plain/37i9dQZF1DX3ZKargsaFiQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ZKargsaFiQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZKargsaFiQ.md) - [plain](/playlists/plain/37i9dQZF1DX3ZKargsaFiQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3ZKargsaFiQ)
 
 ### [Verzuz: Erykah Badu vs\. Jill Scott](https://open.spotify.com/playlist/37i9dQZF1DX3ZKargsaFiQ)
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of the Indian Indie scene. Cover - Tsumyoki & Gini",
+  "description": "Best of the Indian Indie scene. Cover - Chaar Diwaari",
   "name": "Indie India ",
   "tracks": [
     {
@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178197,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx"
@@ -3184,6 +3184,28 @@
       "duration_ms": 196414,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/514yEEVqyRwV90BSezTLtU"
+    },
+    {
+      "album": {
+        "name": "Marigold Soundsystem (Deluxe)",
+        "url": "https://open.spotify.com/album/5k3Z3B3ahxGdxCmCO8kwxX"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "JAI DHIR",
+          "url": "https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198058,
+      "name": "Leja",
+      "url": "https://open.spotify.com/track/2wthG5BIYGo3UXPplvXscX"
     },
     {
       "album": {

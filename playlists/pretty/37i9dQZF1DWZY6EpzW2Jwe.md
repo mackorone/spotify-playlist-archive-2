@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6EpzW2Jwe.md) - [plain](/playlists/plain/37i9dQZF1DWZY6EpzW2Jwe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZY6EpzW2Jwe)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6EpzW2Jwe.md) - [plain](/playlists/plain/37i9dQZF1DWZY6EpzW2Jwe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZY6EpzW2Jwe)
 
 ### [This Is Ozzy Osbourne](https://open.spotify.com/playlist/37i9dQZF1DWZY6EpzW2Jwe)
 
 > Remembering Ozzy Osbourne
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,702 likes - 40 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,082 likes - 40 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

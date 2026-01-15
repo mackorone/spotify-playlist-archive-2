@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6dvI9YLz5JyXhoUo0eQJze.md) - cumulative - [plain](/playlists/plain/6dvI9YLz5JyXhoUo0eQJze) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6dvI9YLz5JyXhoUo0eQJze)
+[pretty](/playlists/pretty/6dvI9YLz5JyXhoUo0eQJze.md) - cumulative - [plain](/playlists/plain/6dvI9YLz5JyXhoUo0eQJze) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6dvI9YLz5JyXhoUo0eQJze)
 
 ### [Top Tracks in Popculture](https://open.spotify.com/playlist/6dvI9YLz5JyXhoUo0eQJze)
 

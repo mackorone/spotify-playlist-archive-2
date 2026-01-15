@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3JL4x1IApCd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3JL4x1IApCd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3JL4x1IApCd)
+[pretty](/playlists/pretty/37i9dQZF1DX3JL4x1IApCd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3JL4x1IApCd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3JL4x1IApCd)
 
 ### [Gengetone Fire Presents...Best Gengetone Songs Of 2023](https://open.spotify.com/playlist/37i9dQZF1DX3JL4x1IApCd)
 

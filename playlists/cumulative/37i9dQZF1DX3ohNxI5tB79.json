@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 212000,
       "name": "Changes",
       "url": "https://open.spotify.com/track/2BRlr1GWfNxtZllyf5YB17"
@@ -3745,6 +3745,36 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6Aqvo89c4pC9sVaTzGGxo9"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265671,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5Rkbc0KpYh8Jp3xK0Z3eVl"
+    },
+    {
+      "album": {
         "name": "Moonlove",
         "url": "https://open.spotify.com/album/3R5O4b6IHNBHfmz4QW2pN3"
       },
@@ -4982,7 +5012,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 262741,
       "name": "Silver Tongue",
       "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
@@ -5182,7 +5212,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185142,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp"
@@ -5436,6 +5466,24 @@
       "duration_ms": 310868,
       "name": "Talk About Love",
       "url": "https://open.spotify.com/track/4zP7IAdGX6ceJkILqkI9Fz"
+    },
+    {
+      "album": {
+        "name": "Tangled (Stripped)",
+        "url": "https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp"
+      },
+      "artists": [
+        {
+          "name": "John Splithoff",
+          "url": "https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "Tangled (Stripped)",
+      "url": "https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV"
     },
     {
       "album": {
@@ -6012,6 +6060,32 @@
       "duration_ms": 214159,
       "name": "Traingazing",
       "url": "https://open.spotify.com/track/1QIIQ1B2syNBSvQULkXgTa"
+    },
+    {
+      "album": {
+        "name": "Trinity (feat. Mali Music & Cory Henry) [Acoustic]",
+        "url": "https://open.spotify.com/album/1GdMY6psabsFeI8N16o5PL"
+      },
+      "artists": [
+        {
+          "name": "TAVE",
+          "url": "https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2026-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230977,
+      "name": "Trinity (feat. Mali Music & Cory Henry) - Acoustic",
+      "url": "https://open.spotify.com/track/6yZ3wb8wycYGdgvxBpyWLF"
     },
     {
       "album": {

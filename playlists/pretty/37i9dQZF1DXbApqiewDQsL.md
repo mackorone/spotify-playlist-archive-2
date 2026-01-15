@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain](/playlists/plain/37i9dQZF1DXbApqiewDQsL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbApqiewDQsL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain](/playlists/plain/37i9dQZF1DXbApqiewDQsL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbApqiewDQsL)
 
 ### [Fresh Finds Música Mexicana ](https://open.spotify.com/playlist/37i9dQZF1DXbApqiewDQsL)
 
 > The best new music by independent artists and labels, featuring Grupo Ajedrez
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,079 likes - 45 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,147 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

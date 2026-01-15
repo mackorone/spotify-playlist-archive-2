@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdHVwrs6y0hc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdHVwrs6y0hc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdHVwrs6y0hc)
+[pretty](/playlists/pretty/37i9dQZF1DXdHVwrs6y0hc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdHVwrs6y0hc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdHVwrs6y0hc)
 
 ### [Irish Tavern](https://open.spotify.com/playlist/37i9dQZF1DXdHVwrs6y0hc)
 

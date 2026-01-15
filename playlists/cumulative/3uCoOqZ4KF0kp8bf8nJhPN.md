@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/3uCoOqZ4KF0kp8bf8nJhPN.md) - cumulative - [plain](/playlists/plain/3uCoOqZ4KF0kp8bf8nJhPN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3uCoOqZ4KF0kp8bf8nJhPN)
+[pretty](/playlists/pretty/3uCoOqZ4KF0kp8bf8nJhPN.md) - cumulative - [plain](/playlists/plain/3uCoOqZ4KF0kp8bf8nJhPN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3uCoOqZ4KF0kp8bf8nJhPN)
 
 ### [sididudieisisisisisi](https://open.spotify.com/playlist/3uCoOqZ4KF0kp8bf8nJhPN)
 
 > 
 
-299 songs - 11 hr 44 min
+302 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,8 @@
 | [Machina](https://open.spotify.com/track/7I2gQrpRqyBCMQ3LQOh4vO) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Midrift](https://open.spotify.com/album/3ZjzEnGRIMhAk331yhrb9M) | 2:14 | 2025-05-20 |  |
 | [manners.](https://open.spotify.com/track/0RALxUaNmMRjtkNGmTwSXi) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 3:12 | 2025-04-12 |  |
 | [MARTYR \(MARTYR\)](https://open.spotify.com/track/3jRoQo8sAABg45bCIO9SuB) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 3:22 | 2025-05-01 |  |
+| [Meek Mill TV Girl \- Remix](https://open.spotify.com/track/4nO99wPLy3MhH5qsl8sVP1) | [@Konx](https://open.spotify.com/artist/5OLfJJFSuSaP4mdAXZ3NDu) | [Meek Mill TV Girl \(Remix\)](https://open.spotify.com/album/13lYY13HDKOpNo3aMXhoOX) | 2:24 | 2026-01-06 |  |
+| [Meek Mill x Not Allowed ](https://open.spotify.com/episode/7DV7DFyQWBsZNFwgvu3dSs) | [Meek Mill x Not Allowed](https://open.spotify.com/show/7iVnJQtu8Ci3fKF6j6Wd2b) | [Meek Mill x Not Allowed](https://open.spotify.com/album/7iVnJQtu8Ci3fKF6j6Wd2b) | 1:12 | 2026-01-06 |  |
 | [Met Her on the Internet](https://open.spotify.com/track/2DuCgKbzA35AnBxG1ghu7X) | [Kempachii](https://open.spotify.com/artist/5UE3fPtMEts6UkMutPv2jx) | [Met Her on the Internet](https://open.spotify.com/album/1UsW8v5XZUc1AwgeCkqzXF) | 2:17 | 2025-04-09 |  |
 | [MICROWAVE TEA!](https://open.spotify.com/track/2yVf0mR0duiGRNjRsxFMcR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Xo Dru](https://open.spotify.com/artist/3jh91hTsuN0i1Hx7sxeDNv) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:07 | 2025-03-28 |  |
 | [miss the rage](https://open.spotify.com/track/4COqYDeJnJzECfehVJ4WEw) | [junesforever](https://open.spotify.com/artist/5lwt02zQQ3wqkUyXCeJB4f) | [miss the rage](https://open.spotify.com/album/3jIHndbu0N6zOFcWDI55pv) | 2:55 | 2025-07-11 | 2025-07-28 |
@@ -205,6 +207,7 @@
 | [S33K H3LP](https://open.spotify.com/track/18fdn0a52Pn7HRW716uMaz) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [S33K H3LP](https://open.spotify.com/album/3mEC2cKX35nyU8DJJHek0i) | 0:54 | 2025-03-04 | 2025-04-11 |
 | [Safe And Sound](https://open.spotify.com/track/5p6LF52hf7Vu89rnQd0Q1B) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Safe And Sound](https://open.spotify.com/album/0QPgqLJiQi4dHrvmS4qYbi) | 2:28 | 2025-07-25 |  |
 | [Shed](https://open.spotify.com/track/175lpKNwpd62TOw2ZvO1xG) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [Promo '21](https://open.spotify.com/album/3mjHlfaqth04YhzLunD4hN) | 3:58 | 2025-03-11 |  |
+| [Skamming Shit](https://open.spotify.com/track/0cwyO6cv3du1bYdqmThzr9) | [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Ugly Muzik, Vol\. 1](https://open.spotify.com/album/3bxRsBmefXN737C1D4CSAf) | 1:40 | 2026-01-06 |  |
 | [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 | 2024-12-31 |  |
 | [snap\-on](https://open.spotify.com/track/61J4623gav13XQku7eHE52) | [5L](https://open.spotify.com/artist/6BjL5fEswNzVzwx9wddLxi), [safe 'n' sound](https://open.spotify.com/artist/524HvGdUbGzYrMKGqKFARw) | [snap\-on](https://open.spotify.com/album/7da0xRmM2WGaZ5v1CeG15P) | 1:27 | 2024-12-08 |  |
 | [sniperz](https://open.spotify.com/track/6QO6TjkmAzCMnd7PBSfeKy) | [5L](https://open.spotify.com/artist/6BjL5fEswNzVzwx9wddLxi) | [sniperz](https://open.spotify.com/album/4fkjR9zQqxqpjAyaP9BDYq) | 1:57 | 2025-05-27 |  |

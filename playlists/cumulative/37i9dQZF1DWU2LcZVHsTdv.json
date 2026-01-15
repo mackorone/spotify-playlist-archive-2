@@ -5219,6 +5219,28 @@
     },
     {
       "album": {
+        "name": "When A Cowboy Prays (with Cody Johnson)",
+        "url": "https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "When A Cowboy Prays - with Cody Johnson",
+      "url": "https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo"
+    },
+    {
+      "album": {
         "name": "Time Well Wasted",
         "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
       },

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVf4L9PMKQqr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVf4L9PMKQqr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVf4L9PMKQqr)
+[pretty](/playlists/pretty/37i9dQZF1DWVf4L9PMKQqr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVf4L9PMKQqr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVf4L9PMKQqr)
 
 ### [Cancionero Agustín Lara](https://open.spotify.com/playlist/37i9dQZF1DWVf4L9PMKQqr)
 

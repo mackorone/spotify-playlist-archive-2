@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain](/playlists/plain/37i9dQZF1DWSJQ1Sv9Jjrl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSJQ1Sv9Jjrl)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain](/playlists/plain/37i9dQZF1DWSJQ1Sv9Jjrl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSJQ1Sv9Jjrl)
 
 ### [Tall Girl 2 Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWSJQ1Sv9Jjrl)
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,798 likes - 39 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,800 likes - 39 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain](/playlists/plain/37i9dQZF1DX3RkXiUJ5aMs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3RkXiUJ5aMs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain](/playlists/plain/37i9dQZF1DX3RkXiUJ5aMs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3RkXiUJ5aMs)
 
 ### [Good Father](https://open.spotify.com/playlist/37i9dQZF1DX3RkXiUJ5aMs)
 

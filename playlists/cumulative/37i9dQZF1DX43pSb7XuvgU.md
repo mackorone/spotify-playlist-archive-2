@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX43pSb7XuvgU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX43pSb7XuvgU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX43pSb7XuvgU)
+[pretty](/playlists/pretty/37i9dQZF1DX43pSb7XuvgU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX43pSb7XuvgU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX43pSb7XuvgU)
 
 ### [Dos Íconos: José José x Juan Gabriel](https://open.spotify.com/playlist/37i9dQZF1DX43pSb7XuvgU)
 

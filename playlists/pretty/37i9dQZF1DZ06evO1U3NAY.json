@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 168634,
+  "num_followers": 168723,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAAC7+LMB8IjNZauS5zOjxM44",
+  "snapshot_id": "aWbcgAAAAACqLCIDP2PUy/fzmqW5H/MI",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 221113,
       "name": "Ice Queen - Acoustic 2025",
       "url": "https://open.spotify.com/track/5wpIJlaphyu0EPZJjcGjTK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/52V9qRqE73KZRWJaObBi9m"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 183809,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/4k95xD9yCyyABh7CDG4U1X"
     },
     {
       "added_at": null,
@@ -183,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Keith Caputo",
+          "url": "https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz"
+        }
+      ],
+      "duration_ms": 313333,
+      "name": "What Have You Done (feat. Keith Caputo)",
+      "url": "https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OPVS NOIR Vol. 1",
         "url": "https://open.spotify.com/album/30g6j2xuqynpAiohatDOW6"
       },
@@ -199,22 +239,6 @@
       "duration_ms": 216653,
       "name": "Light Can Only Shine In The Darkness",
       "url": "https://open.spotify.com/track/2XvxeR6tniytTDVEPa3Agm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/0tUWRioloZrqmq95DAMsOK"
     },
     {
       "added_at": null,
@@ -251,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/0tUWRioloZrqmq95DAMsOK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hydra (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
@@ -271,58 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Keith Caputo",
-          "url": "https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz"
-        }
-      ],
-      "duration_ms": 313333,
-      "name": "What Have You Done (feat. Keith Caputo)",
-      "url": "https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Mercy Mirror",
-      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Unforgiving",
-        "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 263826,
-      "name": "Sin\u00e9ad",
-      "url": "https://open.spotify.com/track/6sI8ojHlABbk9nvEtPYK5v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -339,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Like A Siren",
-        "url": "https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD"
+        "name": "The Unforgiving",
+        "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Jerry Heil",
-          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
         }
       ],
-      "duration_ms": 192561,
-      "name": "Sing Like A Siren",
-      "url": "https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV"
+      "duration_ms": 263826,
+      "name": "Sin\u00e9ad",
+      "url": "https://open.spotify.com/track/6sI8ojHlABbk9nvEtPYK5v"
     },
     {
       "added_at": null,
@@ -391,6 +375,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sing Like A Siren",
+        "url": "https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "duration_ms": 192561,
+      "name": "Sing Like A Siren",
+      "url": "https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mother Earth",
+        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 331280,
+      "name": "Mother Earth",
+      "url": "https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "Mercy Mirror",
+      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Unforgiving",
         "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
       },
@@ -407,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+        "name": "Hydra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
       "artists": [
         {
@@ -416,45 +452,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 259048,
-      "name": "We Go To War",
-      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 336080,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4GBbBy05LoSveNxjKxj26m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 270479,
-      "name": "Shed My Skin",
-      "url": "https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz"
+      "duration_ms": 287773,
+      "name": "Covered by Roses",
+      "url": "https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
       "duration_ms": 286680,
       "name": "Jillian (I'd Give My Heart)",
       "url": "https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hydra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Covered by Roses",
-      "url": "https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N"
     },
     {
       "added_at": null,
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 217386,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/70MjKbBCKgSq3D0DqQ7jnr"
+      "duration_ms": 259048,
+      "name": "We Go To War",
+      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
     },
     {
       "added_at": null,
@@ -559,6 +543,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 336080,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4GBbBy05LoSveNxjKxj26m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 270479,
+      "name": "Shed My Skin",
+      "url": "https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/70MjKbBCKgSq3D0DqQ7jnr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Silent Force",
         "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
@@ -575,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 333866,
+      "name": "The Howling",
+      "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -587,22 +639,6 @@
       "duration_ms": 256466,
       "name": "The Purge",
       "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mother Earth",
-        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 331280,
-      "name": "Mother Earth",
-      "url": "https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo"
     },
     {
       "added_at": null,
@@ -627,38 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 333866,
-      "name": "The Howling",
-      "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 253506,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See What's On The Inside (Deluxe)",
         "url": "https://open.spotify.com/album/39irqLBf1rIbVtzmnl9qnA"
       },
@@ -679,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Bleed Out",
-      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Heart Of Everything",
         "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
@@ -711,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Q-Music Sessions",
-        "url": "https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb"
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
       "artists": [
         {
@@ -720,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 194546,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/1H1U3PbWhxkUUG9HNEZEn7"
+      "duration_ms": 253506,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z"
     },
     {
       "added_at": null,
@@ -743,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Bleed Out",
+      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forgotten Songs",
         "url": "https://open.spotify.com/album/1zKoozwfsotBJcZjYUXmE7"
       },
@@ -759,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+        "name": "The Q-Music Sessions",
+        "url": "https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb"
       },
       "artists": [
         {
@@ -768,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Cyanide Love",
-      "url": "https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN"
+      "duration_ms": 194546,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/1H1U3PbWhxkUUG9HNEZEn7"
     },
     {
       "added_at": null,
@@ -791,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
       "artists": [
         {
@@ -800,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 221560,
-      "name": "Don't Pray For Me",
-      "url": "https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5"
+      "duration_ms": 244706,
+      "name": "Cyanide Love",
+      "url": "https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN"
     },
     {
       "added_at": null,
@@ -827,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
       "artists": [
         {
@@ -836,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 293957,
-      "name": "Worth Dying For",
-      "url": "https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM"
+      "duration_ms": 221560,
+      "name": "Don't Pray For Me",
+      "url": "https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5"
     },
     {
       "added_at": null,
@@ -852,9 +856,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 308503,
-      "name": "Unbroken",
-      "url": "https://open.spotify.com/track/7p54w8swC934fosq86wnRS"
+      "duration_ms": 293957,
+      "name": "Worth Dying For",
+      "url": "https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM"
     }
   ],
   "unique_name": "This Is Within Temptation",

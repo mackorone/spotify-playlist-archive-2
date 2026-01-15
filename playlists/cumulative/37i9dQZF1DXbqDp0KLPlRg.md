@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbqDp0KLPlRg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbqDp0KLPlRg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbqDp0KLPlRg)
+[pretty](/playlists/pretty/37i9dQZF1DXbqDp0KLPlRg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbqDp0KLPlRg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbqDp0KLPlRg)
 
 ### [This Is Maria Becerra](https://open.spotify.com/playlist/37i9dQZF1DXbqDp0KLPlRg)
 

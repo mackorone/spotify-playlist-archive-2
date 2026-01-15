@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO3XRXXy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3XRXXy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3XRXXy)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO3XRXXy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3XRXXy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO3XRXXy)
 
 ### [This Is Kenny G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XRXXy)
 

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/4J7RnCQEJNeM4wxdjV76tM.md) - cumulative - [plain](/playlists/plain/4J7RnCQEJNeM4wxdjV76tM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4J7RnCQEJNeM4wxdjV76tM)
+[pretty](/playlists/pretty/4J7RnCQEJNeM4wxdjV76tM.md) - cumulative - [plain](/playlists/plain/4J7RnCQEJNeM4wxdjV76tM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4J7RnCQEJNeM4wxdjV76tM)
 
 ### [$$](https://open.spotify.com/playlist/4J7RnCQEJNeM4wxdjV76tM)
 
 > old asl
 
-649 songs - 1 day 11 hr 34 min
+650 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [The Weekend](https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:32 | 2022-07-12 |  |
 | [Thinking with My Dick \(feat\. Juicy J\)](https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Stranger Than Fiction](https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia) | 2:45 | 2022-03-08 |  |
 | [Thirsty](https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:01 | 2024-03-27 |  |
+| [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 | 2026-01-14 |  |
 | [Thot Thot](https://open.spotify.com/track/4YAH2RzSQ78Oz8lqL9CS13) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Forever 23](https://open.spotify.com/album/0J6Ujzcx1ladoPha3cFQCE) | 2:01 | 2026-01-02 |  |
 | [thrax](https://open.spotify.com/track/1P6ZWbU95Y5issu4KXTpwz) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [night before ko](https://open.spotify.com/album/3mWiZ6VBKD3hvvmZnngw5l) | 2:28 | 2024-01-07 |  |
 | [Thru the Screen](https://open.spotify.com/track/1JV0bFj7KIrbIpb3flnClS) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4), [YAWNS](https://open.spotify.com/artist/7v2lRIAhCsWVstXkyATQHD) | [Wish Me Well](https://open.spotify.com/album/6qCIlBII6zrudUxDXxiFf0) | 3:03 | 2022-02-16 |  |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYylC2W4d9VY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYylC2W4d9VY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYylC2W4d9VY)
+[pretty](/playlists/pretty/37i9dQZF1DWYylC2W4d9VY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYylC2W4d9VY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYylC2W4d9VY)
 
 ### [COUNTER//CULTURE: Osgood Perkins](https://open.spotify.com/playlist/37i9dQZF1DWYylC2W4d9VY)
 

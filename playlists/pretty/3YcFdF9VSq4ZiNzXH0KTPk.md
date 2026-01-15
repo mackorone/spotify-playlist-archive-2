@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3YcFdF9VSq4ZiNzXH0KTPk.md) - [plain](/playlists/plain/3YcFdF9VSq4ZiNzXH0KTPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3YcFdF9VSq4ZiNzXH0KTPk)
+pretty - [cumulative](/playlists/cumulative/3YcFdF9VSq4ZiNzXH0KTPk.md) - [plain](/playlists/plain/3YcFdF9VSq4ZiNzXH0KTPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3YcFdF9VSq4ZiNzXH0KTPk)
 
 ### [Country Rocks \(2\)](https://open.spotify.com/playlist/3YcFdF9VSq4ZiNzXH0KTPk)
 

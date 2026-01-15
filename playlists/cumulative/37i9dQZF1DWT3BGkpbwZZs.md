@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWT3BGkpbwZZs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT3BGkpbwZZs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT3BGkpbwZZs)
+[pretty](/playlists/pretty/37i9dQZF1DWT3BGkpbwZZs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT3BGkpbwZZs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT3BGkpbwZZs)
 
 ### [The Hunger Games Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWT3BGkpbwZZs)
 

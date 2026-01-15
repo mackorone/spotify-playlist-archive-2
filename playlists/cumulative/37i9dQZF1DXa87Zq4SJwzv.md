@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXa87Zq4SJwzv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa87Zq4SJwzv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa87Zq4SJwzv)
+[pretty](/playlists/pretty/37i9dQZF1DXa87Zq4SJwzv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa87Zq4SJwzv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXa87Zq4SJwzv)
 
 ### [Amor Libre](https://open.spotify.com/playlist/37i9dQZF1DXa87Zq4SJwzv)
 

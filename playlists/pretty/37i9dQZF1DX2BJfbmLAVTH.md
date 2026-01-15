@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BJfbmLAVTH.md) - [plain](/playlists/plain/37i9dQZF1DX2BJfbmLAVTH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2BJfbmLAVTH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BJfbmLAVTH.md) - [plain](/playlists/plain/37i9dQZF1DX2BJfbmLAVTH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2BJfbmLAVTH)
 
 ### [Overcompensating Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX2BJfbmLAVTH)
 
 > All the music from Overcompensating, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,716 likes - 78 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,822 likes - 78 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

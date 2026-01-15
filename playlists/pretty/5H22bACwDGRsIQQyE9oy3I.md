@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5H22bACwDGRsIQQyE9oy3I.md) - [plain](/playlists/plain/5H22bACwDGRsIQQyE9oy3I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5H22bACwDGRsIQQyE9oy3I)
+pretty - [cumulative](/playlists/cumulative/5H22bACwDGRsIQQyE9oy3I.md) - [plain](/playlists/plain/5H22bACwDGRsIQQyE9oy3I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5H22bACwDGRsIQQyE9oy3I)
 
 ### [The Grove](https://open.spotify.com/playlist/5H22bACwDGRsIQQyE9oy3I)
 

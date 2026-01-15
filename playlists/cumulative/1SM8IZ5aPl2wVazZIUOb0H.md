@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1SM8IZ5aPl2wVazZIUOb0H.md) - cumulative - [plain](/playlists/plain/1SM8IZ5aPl2wVazZIUOb0H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1SM8IZ5aPl2wVazZIUOb0H)
+[pretty](/playlists/pretty/1SM8IZ5aPl2wVazZIUOb0H.md) - cumulative - [plain](/playlists/plain/1SM8IZ5aPl2wVazZIUOb0H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1SM8IZ5aPl2wVazZIUOb0H)
 
 ### [Grindstone Mix v2](https://open.spotify.com/playlist/1SM8IZ5aPl2wVazZIUOb0H)
 

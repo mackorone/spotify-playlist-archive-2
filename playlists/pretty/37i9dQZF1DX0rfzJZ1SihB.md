@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain](/playlists/plain/37i9dQZF1DX0rfzJZ1SihB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0rfzJZ1SihB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain](/playlists/plain/37i9dQZF1DX0rfzJZ1SihB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0rfzJZ1SihB)
 
 ### [2025 金音獎精選](https://open.spotify.com/playlist/37i9dQZF1DX0rfzJZ1SihB)
 
 > 金音獎進入第 16 年了！Spotify 當然全力支持！立即欣賞這些最令人驚喜與回味的好作品 ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,863 likes - 90 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,840 likes - 90 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

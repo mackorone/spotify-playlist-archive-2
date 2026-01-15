@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain](/playlists/plain/0LqjAibgbS9ep32zZrDcAN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0LqjAibgbS9ep32zZrDcAN)
+pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain](/playlists/plain/0LqjAibgbS9ep32zZrDcAN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0LqjAibgbS9ep32zZrDcAN)
 
 ### [Welcome Home](https://open.spotify.com/playlist/0LqjAibgbS9ep32zZrDcAN)
 
 > Finally that person that we've missed so much is home\. This deserves  a party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,853 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,851 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

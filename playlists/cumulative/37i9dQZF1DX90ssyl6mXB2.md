@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX90ssyl6mXB2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX90ssyl6mXB2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX90ssyl6mXB2)
+[pretty](/playlists/pretty/37i9dQZF1DX90ssyl6mXB2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX90ssyl6mXB2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX90ssyl6mXB2)
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: PxRRY
+> late night vibes – notifications off\. cover: Karri
 
-302 songs - 13 hr 54 min
+303 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 | 2024-02-02 | 2024-08-03 |
 | [Prettiest Girl \(Tyler's Version\)](https://open.spotify.com/track/0P8sGPeiBOgY5I8k2Vugzf) | [Tyler Watts](https://open.spotify.com/artist/0VqoeHbKgK8rjTpVjtip3B) | [Prettiest Girl \(Remix Pack\)](https://open.spotify.com/album/54n34qDHmKO4QhNGbmvxiz) | 2:18 | 2025-08-08 |  |
 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 | 2025-11-21 |  |
+| [prima donna](https://open.spotify.com/track/7FxvjlrKLQm0GI4GF6dcPz) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [heartstrings](https://open.spotify.com/album/14xSjxFMRUmZI8HNJbMzfn) | 2:18 | 2026-01-09 |  |
 | [Proper](https://open.spotify.com/track/2YiRMyG1lDI6UCbztq44Gi) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Look What You've Done](https://open.spotify.com/album/6l7W1g0ELm06veGU9g4Ps7) | 2:24 | 2024-11-22 |  |
 | [Proper](https://open.spotify.com/track/0kVAuODyktRRJuwoTzulAK) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Proper](https://open.spotify.com/album/6lLjoAo2N8QS79uSbdTy1m) | 2:24 | 2024-11-08 | 2024-11-23 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 |  |

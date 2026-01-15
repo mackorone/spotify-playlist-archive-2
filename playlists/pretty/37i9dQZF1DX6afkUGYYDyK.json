@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 69332,
+  "num_followers": 69693,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,22 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "At This Table",
-        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+        "name": "The Goodness",
+        "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
       },
       "artists": [
         {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 239932,
-      "name": "At This Table",
-      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
+      "duration_ms": 225228,
+      "name": "The Goodness (feat. Blessing Offor)",
+      "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -335,26 +339,6 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "The Goodness",
-        "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 225228,
-      "name": "The Goodness (feat. Blessing Offor)",
-      "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
         "name": "Thank You For It All",
         "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
       },
@@ -367,38 +351,6 @@
       "duration_ms": 264430,
       "name": "Thank You For It All",
       "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "Sons Of Sunday",
-        "url": "https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Sunday",
-          "url": "https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O"
-        }
-      ],
-      "duration_ms": 435322,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/4WBlyFT7SIsAwkKSpmFeAB"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -419,6 +371,54 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Sons Of Sunday",
+        "url": "https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Sunday",
+          "url": "https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O"
+        }
+      ],
+      "duration_ms": 435322,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/4WBlyFT7SIsAwkKSpmFeAB"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "At This Table",
+        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "At This Table",
+      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -475,38 +475,18 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+        "name": "THANK YOU JESUS",
+        "url": "https://open.spotify.com/album/0AHsfQAqgpOVQs4dJkgkMO"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
         }
       ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
-        {
-          "name": "BJ Putnam",
-          "url": "https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500"
-        }
-      ],
-      "duration_ms": 482013,
-      "name": "Thank You Lord (feat. BJ Putnam)",
-      "url": "https://open.spotify.com/track/56o9jizzI7tJKPUO0tUAnA"
+      "duration_ms": 168785,
+      "name": "THANK YOU JESUS",
+      "url": "https://open.spotify.com/track/3YLX1VjbWgtAd44hD8T5I8"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -527,6 +507,26 @@
       "duration_ms": 410513,
       "name": "If The Lord - Live",
       "url": "https://open.spotify.com/track/4PPXXVetUvta9rgTWixeS2"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "BJ Putnam",
+          "url": "https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500"
+        }
+      ],
+      "duration_ms": 482013,
+      "name": "Thank You Lord (feat. BJ Putnam)",
+      "url": "https://open.spotify.com/track/56o9jizzI7tJKPUO0tUAnA"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -563,18 +563,18 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Thank You Jesus",
-        "url": "https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4"
+        "name": "Thank The Lord",
+        "url": "https://open.spotify.com/album/5W8f2P0TXfmMGruXVp4WBF"
       },
       "artists": [
         {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
         }
       ],
-      "duration_ms": 562626,
-      "name": "Thank You Jesus",
-      "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
+      "duration_ms": 207706,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/48NixLE8O2z9G7VnFh2OVf"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -595,34 +595,34 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "THANK YOU JESUS",
-        "url": "https://open.spotify.com/album/0AHsfQAqgpOVQs4dJkgkMO"
+        "name": "Thank You Jesus",
+        "url": "https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4"
       },
       "artists": [
         {
-          "name": "Edgar Sandoval Jr",
-          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
         }
       ],
-      "duration_ms": 168785,
-      "name": "THANK YOU JESUS",
-      "url": "https://open.spotify.com/track/3YLX1VjbWgtAd44hD8T5I8"
+      "duration_ms": 562626,
+      "name": "Thank You Jesus",
+      "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
     },
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Thank The Lord",
-        "url": "https://open.spotify.com/album/5W8f2P0TXfmMGruXVp4WBF"
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
       },
       "artists": [
         {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 207706,
-      "name": "Thank The Lord",
-      "url": "https://open.spotify.com/track/48NixLE8O2z9G7VnFh2OVf"
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Ordinary Ways",
-        "url": "https://open.spotify.com/album/5No8eVyIA1jOyKOUOfG94I"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 205363,
-      "name": "Thank You, Lord",
-      "url": "https://open.spotify.com/track/3s0tfDSB5pfsf36Fbu6LDh"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
         "name": "How Good of God",
         "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 164632,
       "name": "How Good of God",
       "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Ordinary Ways",
+        "url": "https://open.spotify.com/album/5No8eVyIA1jOyKOUOfG94I"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 205363,
+      "name": "Thank You, Lord",
+      "url": "https://open.spotify.com/track/3s0tfDSB5pfsf36Fbu6LDh"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Thank You Lord (Live)",
-        "url": "https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 296179,
-      "name": "Thank You Lord - Live",
-      "url": "https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
+        "name": "Thank You Lord (Live)",
+        "url": "https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 296179,
+      "name": "Thank You Lord - Live",
+      "url": "https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 327000,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "Give Thanks (Live)",
-        "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        }
-      ],
-      "duration_ms": 254426,
-      "name": "Give Thanks - Live",
-      "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -815,18 +799,34 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Thanksgiving Song",
-        "url": "https://open.spotify.com/album/6MbYtL3jRs69YuzxmLriXQ"
+        "name": "Give Thanks (Live)",
+        "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Thanksgiving Song",
-      "url": "https://open.spotify.com/track/7kxLfD1JWkmvhM2qZAZyx6"
+      "duration_ms": 254426,
+      "name": "Give Thanks - Live",
+      "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Mo Wa Dupe (Thank You)",
+        "url": "https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 214158,
+      "name": "Mo Wa Dupe (Thank You)",
+      "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Mo Wa Dupe (Thank You)",
-        "url": "https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 214158,
-      "name": "Mo Wa Dupe (Thank You)",
-      "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC"
       },
@@ -879,26 +863,6 @@
       "duration_ms": 710916,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "Thank You (feat. MARTY)",
-        "url": "https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        },
-        {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        }
-      ],
-      "duration_ms": 202634,
-      "name": "Thank You (feat. MARTY)",
-      "url": "https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -923,18 +887,22 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Live in Chicago",
-        "url": "https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ"
+        "name": "Thank You (feat. MARTY)",
+        "url": "https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T"
       },
       "artists": [
         {
-          "name": "Vincent Bohanan & SOV",
-          "url": "https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        },
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
         }
       ],
-      "duration_ms": 329824,
-      "name": "Oh Give Thanks - Live",
-      "url": "https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7"
+      "duration_ms": 202634,
+      "name": "Thank You (feat. MARTY)",
+      "url": "https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -951,6 +919,38 @@
       "duration_ms": 647154,
       "name": "Thank You - Live",
       "url": "https://open.spotify.com/track/5pctb5fQMqfncJqRRAMsRh"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Thanksgiving Song",
+        "url": "https://open.spotify.com/album/6MbYtL3jRs69YuzxmLriXQ"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Thanksgiving Song",
+      "url": "https://open.spotify.com/track/7kxLfD1JWkmvhM2qZAZyx6"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Live in Chicago",
+        "url": "https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ"
+      },
+      "artists": [
+        {
+          "name": "Vincent Bohanan & SOV",
+          "url": "https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk"
+        }
+      ],
+      "duration_ms": 329824,
+      "name": "Oh Give Thanks - Live",
+      "url": "https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/1u46x7OT5i10TzU83ec0lh"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
         "name": "THANKFULLY!",
         "url": "https://open.spotify.com/album/5Uhh5aYtde3GAEAe7XnHcY"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/1u46x7OT5i10TzU83ec0lh"
+        "name": "Thank You (Famine Or Feast)",
+        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
       },
       "artists": [
         {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 164210,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7"
+      "duration_ms": 203986,
+      "name": "Thank You (Famine Or Feast)",
+      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -1187,22 +1203,6 @@
       "duration_ms": 186000,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/5xPmU88ZnWOfPVFIlUogNk"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "Thank You (Famine Or Feast)",
-        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Thank You (Famine Or Feast)",
-      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
+        "name": "Faithful To Believe",
+        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
+      },
+      "artists": [
+        {
+          "name": "Byron Cage",
+          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+        }
+      ],
+      "duration_ms": 386466,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/1ZjYyqnWU5CV1buejFZFk1"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 195882,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/1jSHuG8UuSHITdKR8EqtrE"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "Faithful To Believe",
-        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
-      },
-      "artists": [
-        {
-          "name": "Byron Cage",
-          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
-        }
-      ],
-      "duration_ms": 386466,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
+        "name": "Thank You (Radio Version)",
+        "url": "https://open.spotify.com/album/5FaWyVNdvnGV1vmNnnXHYf"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 206358,
+      "name": "Thank You - Radio Version",
+      "url": "https://open.spotify.com/track/2oQdsStjfSg02UIM3sR5ra"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
         "name": "Thankful (Live)",
         "url": "https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Thank You (Radio Version)",
-        "url": "https://open.spotify.com/album/5FaWyVNdvnGV1vmNnnXHYf"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 206358,
-      "name": "Thank You - Radio Version",
-      "url": "https://open.spotify.com/track/2oQdsStjfSg02UIM3sR5ra"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
         "name": "Thank God I Do",
         "url": "https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 144574,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
     },
     {
       "added_at": "2025-12-12 22:02:41",
@@ -1467,38 +1483,6 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 144574,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "Classic Gold: Best of Andrae: Andrae Crouch and the Disciples",
-        "url": "https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 217786,
-      "name": "My Tribute",
-      "url": "https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
         "name": "Thank You So Much Jesus",
         "url": "https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 249173,
       "name": "Thank You So Much Jesus",
       "url": "https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
+        "name": "Classic Gold: Best of Andrae: Andrae Crouch and the Disciples",
+        "url": "https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 217786,
+      "name": "My Tribute",
+      "url": "https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86"
     },
     {
       "added_at": "2025-12-12 22:02:41",

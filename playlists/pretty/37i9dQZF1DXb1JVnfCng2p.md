@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain](/playlists/plain/37i9dQZF1DXb1JVnfCng2p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb1JVnfCng2p)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain](/playlists/plain/37i9dQZF1DXb1JVnfCng2p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb1JVnfCng2p)
 
 ### [Cooking Jazz](https://open.spotify.com/playlist/37i9dQZF1DXb1JVnfCng2p)
 

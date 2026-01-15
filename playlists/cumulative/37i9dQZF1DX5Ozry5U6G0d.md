@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5Ozry5U6G0d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Ozry5U6G0d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Ozry5U6G0d)
+[pretty](/playlists/pretty/37i9dQZF1DX5Ozry5U6G0d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Ozry5U6G0d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5Ozry5U6G0d)
 
 ### [Summer Party](https://open.spotify.com/playlist/37i9dQZF1DX5Ozry5U6G0d)
 

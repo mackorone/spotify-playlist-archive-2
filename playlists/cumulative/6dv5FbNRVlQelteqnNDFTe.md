@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6dv5FbNRVlQelteqnNDFTe.md) - cumulative - [plain](/playlists/plain/6dv5FbNRVlQelteqnNDFTe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6dv5FbNRVlQelteqnNDFTe)
+[pretty](/playlists/pretty/6dv5FbNRVlQelteqnNDFTe.md) - cumulative - [plain](/playlists/plain/6dv5FbNRVlQelteqnNDFTe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6dv5FbNRVlQelteqnNDFTe)
 
 ### [All 00's Top Hits](https://open.spotify.com/playlist/6dv5FbNRVlQelteqnNDFTe)
 

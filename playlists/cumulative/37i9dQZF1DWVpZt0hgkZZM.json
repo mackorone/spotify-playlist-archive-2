@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149996,
       "name": "Cumbia Indigena",
       "url": "https://open.spotify.com/track/6ldMNUXJpdxFcPecYTHNU5"
@@ -3810,6 +3810,24 @@
       "duration_ms": 147091,
       "name": "Roberto Ruiz",
       "url": "https://open.spotify.com/track/0k47sNciLjPUyxr5Gq6GgC"
+    },
+    {
+      "album": {
+        "name": "Paradas Continuas",
+        "url": "https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157106,
+      "name": "Se Me Perdio La Cadenita",
+      "url": "https://open.spotify.com/track/5VUR4MhJWAbp2ZHtSDvwJ7"
     },
     {
       "album": {

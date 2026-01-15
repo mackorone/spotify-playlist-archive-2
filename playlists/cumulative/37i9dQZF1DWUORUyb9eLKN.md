@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUORUyb9eLKN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUORUyb9eLKN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUORUyb9eLKN)
+[pretty](/playlists/pretty/37i9dQZF1DWUORUyb9eLKN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUORUyb9eLKN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUORUyb9eLKN)
 
 ### [Qrion's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWUORUyb9eLKN)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYEIx04mlcFR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYEIx04mlcFR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYEIx04mlcFR)
+[pretty](/playlists/pretty/37i9dQZF1DWYEIx04mlcFR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYEIx04mlcFR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYEIx04mlcFR)
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain](/playlists/plain/37i9dQZF1DWZJCoSBAnDiz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZJCoSBAnDiz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain](/playlists/plain/37i9dQZF1DWZJCoSBAnDiz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZJCoSBAnDiz)
 
 ### [Broadway Ballads ](https://open.spotify.com/playlist/37i9dQZF1DWZJCoSBAnDiz)
 
 > Love & longing from Broadway's best & brightest\. Cover: Nicole Scherzinger in Sunset Boulevard
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,032 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,135 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

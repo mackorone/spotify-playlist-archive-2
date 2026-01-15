@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZU5DGR2xCSH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZU5DGR2xCSH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZU5DGR2xCSH)
+[pretty](/playlists/pretty/37i9dQZF1DWZU5DGR2xCSH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZU5DGR2xCSH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZU5DGR2xCSH)
 
 ### [Iconos del Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWZU5DGR2xCSH)
 

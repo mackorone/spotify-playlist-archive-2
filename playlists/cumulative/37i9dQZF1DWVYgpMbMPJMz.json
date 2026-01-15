@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: SEU Worship",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Planetshakers",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -8821,6 +8821,28 @@
     },
     {
       "album": {
+        "name": "Jesus Saves",
+        "url": "https://open.spotify.com/album/14rWgMAATwa7uGuoCFeZwa"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Birmingham Youth & Young Adult Fellowship Choir",
+          "url": "https://open.spotify.com/artist/04ND5vIo82KiV5MBMWzVwI"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184669,
+      "name": "Jesus Saves (with The Birmingham Youth & Young Adult Fellowship Choir)",
+      "url": "https://open.spotify.com/track/3yJEDyVr6QptXTIwAZdLOD"
+    },
+    {
+      "album": {
         "name": "I Saw The Lord (Live)",
         "url": "https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw"
       },
@@ -11720,6 +11742,28 @@
       "duration_ms": 519802,
       "name": "Nothing Left to Prove (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/0afWUoudlKsRf5olahIYV2"
+    },
+    {
+      "album": {
+        "name": "Nothing More",
+        "url": "https://open.spotify.com/album/45dq2OL5MQf1wWn7HWtRdG"
+      },
+      "artists": [
+        {
+          "name": "Echo Worship",
+          "url": "https://open.spotify.com/artist/5wJCWVBImBXWOpHhFDlLOZ"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "Nothing More",
+      "url": "https://open.spotify.com/track/1bRFq7HJBCqE2nfqbwCjx0"
     },
     {
       "album": {
@@ -14698,7 +14742,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 286152,
       "name": "Still The King",
       "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
@@ -15260,6 +15304,28 @@
       "duration_ms": 233886,
       "name": "Testimony - Choral Version",
       "url": "https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3"
+    },
+    {
+      "album": {
+        "name": "THANK GOD I'M FREE",
+        "url": "https://open.spotify.com/album/50w6pz7MRBPunUgo02zsxO"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304584,
+      "name": "THANK GOD I'M FREE",
+      "url": "https://open.spotify.com/track/0APie81Toq4KEJr8ebPFb5"
     },
     {
       "album": {
@@ -16685,6 +16751,24 @@
     },
     {
       "album": {
+        "name": "Open Door (Live)",
+        "url": "https://open.spotify.com/album/0NxDsacgrGu2cZQDuv8LFQ"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370839,
+      "name": "There Is Peace - Live",
+      "url": "https://open.spotify.com/track/1gArkzIvOIPRVWqXoUmpG8"
+    },
+    {
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/5l2mPzW2yGGsQNmYZiUaoB"
       },
@@ -17760,7 +17844,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 244840,
       "name": "WASHED",
       "url": "https://open.spotify.com/track/1w7teeq2bQ0N3JzIUUrvV0"

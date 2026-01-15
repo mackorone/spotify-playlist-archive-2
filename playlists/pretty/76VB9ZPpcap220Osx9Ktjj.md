@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/76VB9ZPpcap220Osx9Ktjj.md) - [plain](/playlists/plain/76VB9ZPpcap220Osx9Ktjj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/76VB9ZPpcap220Osx9Ktjj)
+pretty - [cumulative](/playlists/cumulative/76VB9ZPpcap220Osx9Ktjj.md) - [plain](/playlists/plain/76VB9ZPpcap220Osx9Ktjj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/76VB9ZPpcap220Osx9Ktjj)
 
 ### [Rammstein Europe Stadium Tour \- Setlist](https://open.spotify.com/playlist/76VB9ZPpcap220Osx9Ktjj)
 
 > <a href="https://www.rammstein.de/en/tickets/">Rammstein Tour Dates</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 90,491 likes - 22 songs - 1 hr 36 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 90,428 likes - 22 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

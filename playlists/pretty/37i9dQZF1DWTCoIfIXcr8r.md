@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain](/playlists/plain/37i9dQZF1DWTCoIfIXcr8r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTCoIfIXcr8r)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain](/playlists/plain/37i9dQZF1DWTCoIfIXcr8r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTCoIfIXcr8r)
 
 ### [Focus Ragas](https://open.spotify.com/playlist/37i9dQZF1DWTCoIfIXcr8r)
 
 > Find your flow with a classical Indian soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,395 likes - 50 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 50 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 | 26 | [Bageshri Jod \(Live at HamarikyuAsahi small Hall, Tokyo, 2019\)](https://open.spotify.com/track/26PzvkbEvM1k1uF7M0ulOT) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Rakesh Chaurasia Japan Tour in Tokyo](https://open.spotify.com/album/2SYkCX9qxasWrrA2oM1EMj) | 5:55 |
 | 27 | [Raaga Kafi \- Teentaal](https://open.spotify.com/track/4G526MTBK3TpdNBpvvYO3Z) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ajeet Pathak](https://open.spotify.com/artist/6RewthLD9pGHUn5dmLVaBh) | [Seven Raagas](https://open.spotify.com/album/2DhxWPxZBSFirR62g3I4Zd) | 7:30 |
 | 28 | [Raga Kirwani \- Alap](https://open.spotify.com/track/68zB5Hx9Lk23S3CvqeQdFK) | [Ken Zuckerman](https://open.spotify.com/artist/0Qlqyvs4Clg3MhIRwxx5ku) | [Salon de Musique](https://open.spotify.com/album/2qGpTMsaE3KL0SsmtcbxQX) | 6:01 |
-| 29 | [Raga Jhinjhoti \- Alap](https://open.spotify.com/track/5TwyVQzzKcTVSNqDC9ojWP) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Cutting Edge](https://open.spotify.com/album/5jrFE5JZsHBnC7UqRx9JV7) | 5:57 |
+| 29 | [Raga Jhinjhoti \- Alap](https://open.spotify.com/track/5TwyVQzzKcTVSNqDC9ojWP) | [Pandit Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Cutting Edge](https://open.spotify.com/album/5jrFE5JZsHBnC7UqRx9JV7) | 5:57 |
 | 30 | [Raga Jhinjhoti \- Alaap &amp; Jod](https://open.spotify.com/track/6BGFXeqHcVvxJGZ15flXIc) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT), [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Sheer Magic \(Live\)](https://open.spotify.com/album/3DXhI8f3hsxoeR05cBiebr) | 10:46 |
 | 31 | [Sarod Jhinjhoti](https://open.spotify.com/track/5BAHbAUAw5zoeaWM9Q51yM) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 3:37 |
 | 32 | [Raga Chayanat \- Alap](https://open.spotify.com/track/7CQ1mfQTmIJx8T1ZiYlICx) | [Ken Zuckerman](https://open.spotify.com/artist/0Qlqyvs4Clg3MhIRwxx5ku) | [Salon de Musique](https://open.spotify.com/album/2qGpTMsaE3KL0SsmtcbxQX) | 9:23 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 | 40 | [Raga Shahana Bahar \- Joy](https://open.spotify.com/track/0WyfXgWHwazoukVHipbe8k) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Ragas For Relaxation](https://open.spotify.com/album/4fCk5weyaukYlAyCxX9Zom) | 10:51 |
 | 41 | [Serenity \- Raga Jaijaivanti](https://open.spotify.com/track/2nud2gDGnF8gh0r1owaf0U) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Ragas For Relaxation \- Absolute Calm](https://open.spotify.com/album/2wPCr8ABCsk6txreAXXZie) | 13:49 |
 | 42 | [Raag Jhinjhoti](https://open.spotify.com/track/4ez9fZqF6ZZhLe9cWxXjQ5) | [Arnab Chakrabarty](https://open.spotify.com/artist/4Q71a45GZQftTkJRMYqtVn) | [De\-Stress Refresh](https://open.spotify.com/album/4KRf8I4ALrGL9vUrALCu2X) | 11:23 |
-| 43 | [Raga Kalavati \- Alaap](https://open.spotify.com/track/38W5klddZEyd4qw1DpTuFt) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Dreamwaves](https://open.spotify.com/album/1Fli4PL8CCyZ3KuhF6GPan) | 9:25 |
+| 43 | [Raga Kalavati \- Alaap](https://open.spotify.com/track/38W5klddZEyd4qw1DpTuFt) | [Pandit Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Dreamwaves](https://open.spotify.com/album/1Fli4PL8CCyZ3KuhF6GPan) | 9:25 |
 | 44 | [Raga Shivaranjani \- Alaap and Jod](https://open.spotify.com/track/0mJb387czeAT18YUjtBSIS) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Mukundraj Deo](https://open.spotify.com/artist/4JMS6zNavFjxoH09RQq78D) | [Finesse On Flute](https://open.spotify.com/album/7dzYA4LH7OgBLoY4YYwpco) | 13:14 |
 | 45 | [Raag Jan Sammohini](https://open.spotify.com/track/0Xb7MrsfOwRuzFgCdtlLzp) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Baluji Shrivastav: Shadow of the Lotus \- Classical Indian Ragas](https://open.spotify.com/album/0l9wdltn8tTcrmFMFhFBtK) | 10:10 |
 | 46 | [Prema Chakor](https://open.spotify.com/track/181HBgSfHKApNvIp6PwTzx) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/2gxudz64DF32yDiDTT1gPk) | 9:20 |

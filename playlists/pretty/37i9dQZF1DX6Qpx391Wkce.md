@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain](/playlists/plain/37i9dQZF1DX6Qpx391Wkce) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6Qpx391Wkce)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain](/playlists/plain/37i9dQZF1DX6Qpx391Wkce) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6Qpx391Wkce)
 
 ### [Monika Kruse's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX6Qpx391Wkce)
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,853 likes - 66 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,932 likes - 66 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

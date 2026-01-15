@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Q60SopbIW.md) - [plain](/playlists/plain/37i9dQZF1DX79Q60SopbIW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX79Q60SopbIW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Q60SopbIW.md) - [plain](/playlists/plain/37i9dQZF1DX79Q60SopbIW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX79Q60SopbIW)
 
 ### [This Is The Flaming Lips](https://open.spotify.com/playlist/37i9dQZF1DX79Q60SopbIW)
 

@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 68915,
+  "num_followers": 69465,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAABA68GTlaWZ4UgoIHj42C07",
+  "snapshot_id": "aWbcgAAAAAA0B/e3xRh3mcvyuvLdjTzR",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 384666,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
+      "duration_ms": 344893,
+      "name": "When We Get By",
+      "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 344893,
-      "name": "When We Get By",
-      "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
+      "duration_ms": 384666,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "added_at": null,
@@ -431,6 +431,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 282186,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tical 2000: Judgement Day",
         "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
       },
@@ -471,30 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 282186,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -507,26 +507,6 @@
       "duration_ms": 289026,
       "name": "Ain't That Easy",
       "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finding Forever",
-        "url": "https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 267626,
-      "name": "So Far To Go",
-      "url": "https://open.spotify.com/track/5Hu9CX99Rdyuyweh5mGcah"
     },
     {
       "added_at": null,
@@ -547,6 +527,26 @@
       "duration_ms": 319533,
       "name": "The Hypnotic",
       "url": "https://open.spotify.com/track/5dCi1Y8lJT6o97MtEINbjU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Finding Forever",
+        "url": "https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 267626,
+      "name": "So Far To Go",
+      "url": "https://open.spotify.com/track/5Hu9CX99Rdyuyweh5mGcah"
     },
     {
       "added_at": null,
@@ -583,6 +583,46 @@
       "duration_ms": 235773,
       "name": "Jonz In My Bones - Live At The Jazz Cafe, London/1995",
       "url": "https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red Hot + Riot",
+        "url": "https://open.spotify.com/album/1A8CTj3nDNQrxNs6kXEYsq"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        },
+        {
+          "name": "Femi Kuti",
+          "url": "https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb"
+        },
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        },
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "The Soultronics",
+          "url": "https://open.spotify.com/artist/4b3u2gT5QT5SApOmMUGDeN"
+        },
+        {
+          "name": "Positive Force",
+          "url": "https://open.spotify.com/artist/6kDuO7eG1AJika9vpTF6yG"
+        }
+      ],
+      "duration_ms": 610519,
+      "name": "Water No Get Enemy",
+      "url": "https://open.spotify.com/track/5WFSTTKZxDnvr0EVBJTFpe"
     }
   ],
   "unique_name": "This Is D'Angelo",

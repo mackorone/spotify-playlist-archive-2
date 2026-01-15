@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6j5Nlbvxhi8.md) - [plain](/playlists/plain/37i9dQZF1DX6j5Nlbvxhi8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6j5Nlbvxhi8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6j5Nlbvxhi8.md) - [plain](/playlists/plain/37i9dQZF1DX6j5Nlbvxhi8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6j5Nlbvxhi8)
 
 ### [Best of Hot Hits Japan 2025](https://open.spotify.com/playlist/37i9dQZF1DX6j5Nlbvxhi8)
 
 > 2025年にプレイリスト「Hot Hits Japan」で聴かれた楽曲を総まとめ。 cover: 藤井 風
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,365 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,407 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

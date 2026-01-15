@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain](/playlists/plain/37i9dQZF1DX27Vvs8ZCWJn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX27Vvs8ZCWJn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain](/playlists/plain/37i9dQZF1DX27Vvs8ZCWJn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX27Vvs8ZCWJn)
 
 ### [bohemia tranqui](https://open.spotify.com/playlist/37i9dQZF1DX27Vvs8ZCWJn)
 

@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "INSight (Instrumental Versions)",
+        "url": "https://open.spotify.com/album/00XSjoIbxp9jdOppZVyxcn"
+      },
+      "artists": [
+        {
+          "name": "BlazinG",
+          "url": "https://open.spotify.com/artist/0CZJEhOFoOiEgYc2iUsNV9"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Focus - Instrumental",
+      "url": "https://open.spotify.com/track/2PeUY1CQvZ10wu7qyGRsdI"
+    },
+    {
+      "album": {
         "name": "Future Love Story",
         "url": "https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n"
       },
@@ -2120,6 +2138,24 @@
       "duration_ms": 425195,
       "name": "Last Light",
       "url": "https://open.spotify.com/track/4vwRxp34m8TO3GCCG7o1Sl"
+    },
+    {
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/6FB153y3kIgVArxGejzHgV"
+      },
+      "artists": [
+        {
+          "name": "ROUDS",
+          "url": "https://open.spotify.com/artist/5I1A3GQ1w7E1uQnJvfbC4Z"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4eCTlg0pauVt8REuAuX0sz"
     },
     {
       "album": {

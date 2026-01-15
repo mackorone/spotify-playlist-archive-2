@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2rdMSQHM9YryNLPnEbQ7g6.md) - [plain](/playlists/plain/2rdMSQHM9YryNLPnEbQ7g6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2rdMSQHM9YryNLPnEbQ7g6)
+pretty - [cumulative](/playlists/cumulative/2rdMSQHM9YryNLPnEbQ7g6.md) - [plain](/playlists/plain/2rdMSQHM9YryNLPnEbQ7g6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2rdMSQHM9YryNLPnEbQ7g6)
 
 ### [Joe Cocker](https://open.spotify.com/playlist/2rdMSQHM9YryNLPnEbQ7g6)
 

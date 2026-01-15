@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UC9XmF9YyX.md) - [plain](/playlists/plain/37i9dQZF1DX2UC9XmF9YyX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2UC9XmF9YyX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UC9XmF9YyX.md) - [plain](/playlists/plain/37i9dQZF1DX2UC9XmF9YyX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2UC9XmF9YyX)
 
 ### [Calvin Harris presents Funk Wav Bounces](https://open.spotify.com/playlist/37i9dQZF1DX2UC9XmF9YyX)
 

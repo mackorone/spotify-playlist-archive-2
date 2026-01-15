@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWaUALc1m7Xc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWaUALc1m7Xc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWaUALc1m7Xc)
+[pretty](/playlists/pretty/37i9dQZF1DWWaUALc1m7Xc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWaUALc1m7Xc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWaUALc1m7Xc)
 
 ### [Kiss Sixth Sense\(키스 식스 센스\)](https://open.spotify.com/playlist/37i9dQZF1DWWaUALc1m7Xc)
 

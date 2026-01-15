@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain](/playlists/plain/37i9dQZF1DX0gcho56Immm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0gcho56Immm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain](/playlists/plain/37i9dQZF1DX0gcho56Immm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0gcho56Immm)
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Andrew Aged
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,976 likes - 157 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,918 likes - 157 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

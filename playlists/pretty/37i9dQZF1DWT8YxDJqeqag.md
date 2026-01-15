@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8YxDJqeqag.md) - [plain](/playlists/plain/37i9dQZF1DWT8YxDJqeqag) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT8YxDJqeqag)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8YxDJqeqag.md) - [plain](/playlists/plain/37i9dQZF1DWT8YxDJqeqag) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT8YxDJqeqag)
 
 ### [Deep Dark Minecraft](https://open.spotify.com/playlist/37i9dQZF1DWT8YxDJqeqag)
 
 > Spooky Minecraft music from every game – because it’s not Halloween without some creeper\-y vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,609 likes - 33 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,346 likes - 33 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

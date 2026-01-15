@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM7w8HbieGZ.md) - [plain](/playlists/plain/37i9dQZF1DWSM7w8HbieGZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSM7w8HbieGZ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM7w8HbieGZ.md) - [plain](/playlists/plain/37i9dQZF1DWSM7w8HbieGZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSM7w8HbieGZ)
 
 ### [ドラえもん／ジャイアンのうた\- Gian’s Recital \-](https://open.spotify.com/playlist/37i9dQZF1DWSM7w8HbieGZ)
 
 > Enjoy music of Gian from Doraemon　テレビアニメ「ドラえもん」からジャイアンが歌う歌を中心にセレクトした公式プレイリスト！©︎藤子プロ・小学館・テレビ朝日・シンエイ・ADK
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,203 likes - 29 songs - 58 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 17,277 likes - 29 songs - 58 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

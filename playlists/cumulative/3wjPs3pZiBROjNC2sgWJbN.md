@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3wjPs3pZiBROjNC2sgWJbN.md) - cumulative - [plain](/playlists/plain/3wjPs3pZiBROjNC2sgWJbN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3wjPs3pZiBROjNC2sgWJbN)
+[pretty](/playlists/pretty/3wjPs3pZiBROjNC2sgWJbN.md) - cumulative - [plain](/playlists/plain/3wjPs3pZiBROjNC2sgWJbN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3wjPs3pZiBROjNC2sgWJbN)
 
 ### [Songs to Cook to \| Kitchen Soundtrack ](https://open.spotify.com/playlist/3wjPs3pZiBROjNC2sgWJbN)
 

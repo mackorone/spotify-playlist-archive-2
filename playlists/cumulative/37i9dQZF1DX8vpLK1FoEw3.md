@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8vpLK1FoEw3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8vpLK1FoEw3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8vpLK1FoEw3)
+[pretty](/playlists/pretty/37i9dQZF1DX8vpLK1FoEw3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8vpLK1FoEw3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8vpLK1FoEw3)
 
 ### [BLOCO DO GIGANTE \#MeuSpotify](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
 

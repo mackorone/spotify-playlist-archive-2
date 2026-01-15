@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8gS5vh05dnc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8gS5vh05dnc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8gS5vh05dnc)
+[pretty](/playlists/pretty/37i9dQZF1DX8gS5vh05dnc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8gS5vh05dnc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8gS5vh05dnc)
 
 ### [消除壓力](https://open.spotify.com/playlist/37i9dQZF1DX8gS5vh05dnc)
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-400 songs - 21 hr 22 min
+401 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 | 2024-03-04 | 2024-03-11 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-03-20 |  |
 | [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 | 2024-04-29 | 2024-05-06 |
-| [Feliz Navidad \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4uqRDeCgXPLQFYqA5uf5Tr) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles \- Christmas](https://open.spotify.com/album/2sFIcASZWGhP0KyMPWemSE) | 2:28 | 2023-12-14 |  |
+| [Feliz Navidad \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4uqRDeCgXPLQFYqA5uf5Tr) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles \- Christmas](https://open.spotify.com/album/2sFIcASZWGhP0KyMPWemSE) | 2:28 | 2023-12-14 | 2026-01-15 |
 | [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-03-27 | 2023-04-04 |
 | [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 | 2024-07-08 | 2024-07-15 |
 | [First Flight](https://open.spotify.com/track/1vgxzXRpefvdQo3TVyhvQk) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [吴宇恒](https://open.spotify.com/artist/3mnDVuybDceeA7nzEkcsXL) | [First Flight](https://open.spotify.com/album/3NxIewQVXNmCSi9XWiqoym) | 3:39 | 2024-09-23 | 2024-10-07 |
@@ -370,6 +370,7 @@
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2022-07-25 | 2024-02-08 |
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-21 | 2022-11-29 |
 | [The Worst Part](https://open.spotify.com/track/521RUfyAt3TYMdrynEn0KT) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [HNATA](https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O) | [The Worst Part](https://open.spotify.com/album/6Z0AsQIf39jSgX0W9bhEFL) | 2:45 | 2023-09-18 | 2023-09-26 |
+| [Thinking 'bout You](https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking 'bout You](https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63) | 2:20 | 2026-01-14 |  |
 | [Thirsty](https://open.spotify.com/track/37Gq279gcbTuEndcpQhr24) | [The Sam Willows](https://open.spotify.com/artist/0mXXLFHmd5bUHxkzaC9ujw) | [I Know, But Where](https://open.spotify.com/album/74LIZ0NAj4d5eXwvpdH1xg) | 3:21 | 2022-06-06 | 2022-07-29 |
 | [Throw It Off](https://open.spotify.com/track/4cq3AXjJ3y75uVo71XE5QM) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [Throw It Off](https://open.spotify.com/album/0s1SW2HOER0iorhOwFNWh7) | 3:42 | 2022-06-06 | 2022-07-29 |
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2022-10-10 |  |

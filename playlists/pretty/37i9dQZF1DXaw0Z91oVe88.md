@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain](/playlists/plain/37i9dQZF1DXaw0Z91oVe88) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaw0Z91oVe88)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain](/playlists/plain/37i9dQZF1DXaw0Z91oVe88) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaw0Z91oVe88)
 
 ### [Pop Rising Korea: 2025 베스트 트랙](https://open.spotify.com/playlist/37i9dQZF1DXaw0Z91oVe88)
 
 > 스포티파이 뮤직 에디터가 선정한 2025 베스트 트랙입니다\. \(커버: Lady Gaga\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 55 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

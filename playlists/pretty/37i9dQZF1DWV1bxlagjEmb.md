@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain](/playlists/plain/37i9dQZF1DWV1bxlagjEmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV1bxlagjEmb)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain](/playlists/plain/37i9dQZF1DWV1bxlagjEmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWV1bxlagjEmb)
 
 ### [Sad Folk](https://open.spotify.com/playlist/37i9dQZF1DWV1bxlagjEmb)
 
 > folk songs for the weight of it all, featuring music from Gregory Alan Isakov
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,541 likes - 116 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,843 likes - 116 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

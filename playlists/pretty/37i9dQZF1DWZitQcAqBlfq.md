@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZitQcAqBlfq.md) - [plain](/playlists/plain/37i9dQZF1DWZitQcAqBlfq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZitQcAqBlfq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZitQcAqBlfq.md) - [plain](/playlists/plain/37i9dQZF1DWZitQcAqBlfq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZitQcAqBlfq)
 
 ### [George FitzGerald DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWZitQcAqBlfq)
 

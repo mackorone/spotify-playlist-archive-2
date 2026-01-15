@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrSeoLHavML.md) - [plain](/playlists/plain/37i9dQZF1DXbrSeoLHavML) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbrSeoLHavML)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrSeoLHavML.md) - [plain](/playlists/plain/37i9dQZF1DXbrSeoLHavML) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbrSeoLHavML)
 
 ### [String Quartet 101](https://open.spotify.com/playlist/37i9dQZF1DXbrSeoLHavML)
 

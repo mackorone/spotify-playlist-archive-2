@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYGxBNe4qojI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYGxBNe4qojI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYGxBNe4qojI)
+[pretty](/playlists/pretty/37i9dQZF1DWYGxBNe4qojI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYGxBNe4qojI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYGxBNe4qojI)
 
 ### [I Love My East Coast Classics](https://open.spotify.com/playlist/37i9dQZF1DWYGxBNe4qojI)
 

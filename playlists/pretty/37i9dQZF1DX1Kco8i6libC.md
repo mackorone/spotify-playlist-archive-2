@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Kco8i6libC.md) - [plain](/playlists/plain/37i9dQZF1DX1Kco8i6libC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1Kco8i6libC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Kco8i6libC.md) - [plain](/playlists/plain/37i9dQZF1DX1Kco8i6libC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1Kco8i6libC)
 
 ### [群星報喜：屬狗歌手](https://open.spotify.com/playlist/37i9dQZF1DX1Kco8i6libC)
 
 > 狗年生的人忠誠負責、認真有禮，而且是人生最佳伙伴之一哦！看看有哪些歌手吧！Cover: 王心凌 \(Cyndi Wang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,258 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,256 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

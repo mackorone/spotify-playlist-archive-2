@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX21bRPJuEN7r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX21bRPJuEN7r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX21bRPJuEN7r)
+[pretty](/playlists/pretty/37i9dQZF1DX21bRPJuEN7r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX21bRPJuEN7r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX21bRPJuEN7r)
 
 ### [Composer Weekly: Michael Nyman](https://open.spotify.com/playlist/37i9dQZF1DX21bRPJuEN7r)
 

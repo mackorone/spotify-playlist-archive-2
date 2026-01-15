@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain](/playlists/plain/37i9dQZF1DWZprlljz35Gr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZprlljz35Gr)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain](/playlists/plain/37i9dQZF1DWZprlljz35Gr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZprlljz35Gr)
 
 ### [Bluestronica](https://open.spotify.com/playlist/37i9dQZF1DWZprlljz35Gr)
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,274 likes - 74 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,366 likes - 74 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

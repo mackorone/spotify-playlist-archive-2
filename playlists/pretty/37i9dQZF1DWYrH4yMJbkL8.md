@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain](/playlists/plain/37i9dQZF1DWYrH4yMJbkL8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYrH4yMJbkL8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain](/playlists/plain/37i9dQZF1DWYrH4yMJbkL8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYrH4yMJbkL8)
 
 ### [Indigenous](https://open.spotify.com/playlist/37i9dQZF1DWYrH4yMJbkL8)
 
 > A free space for Indigenous creators\. Currently curated by William Prince.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,853 likes - 32 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,824 likes - 32 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

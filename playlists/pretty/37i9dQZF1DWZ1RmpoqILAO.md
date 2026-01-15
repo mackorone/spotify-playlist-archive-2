@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain](/playlists/plain/37i9dQZF1DWZ1RmpoqILAO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ1RmpoqILAO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain](/playlists/plain/37i9dQZF1DWZ1RmpoqILAO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ1RmpoqILAO)
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
 > you met me at a very indie twang time in my life..\. Snocaps on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,470 likes - 159 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,643 likes - 159 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 4 | [Dandelions](https://open.spotify.com/track/5mHsotYwPLGpCcy6EWHzD9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Back to the Wind](https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT) | 3:16 |
 | 5 | [Cup of Loneliness](https://open.spotify.com/track/3F81ZndWmQF7GDTX7Wz5gs) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH), [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Cup of Loneliness / Choices](https://open.spotify.com/album/7LgCssVLpa87Fg2PGBQxcC) | 2:33 |
 | 6 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/5b7XNPJbJV5ncuFGoh9ZJy) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:28 |
-| 7 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:55 |
+| 7 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
 | 8 | [COME COME COME VAR\. XIV](https://open.spotify.com/track/5C6GbWeiB4UolxeXPXG4Bl) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [THE COUNT](https://open.spotify.com/album/70fXOjp8M86eENswClC51h) | 3:10 |
 | 9 | [Sideways](https://open.spotify.com/track/4mUgLu7PjDvTsKbUF8iTB4) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Sideways](https://open.spotify.com/album/1X6cnNJYkAJoOVEuQ557TF) | 2:59 |
 | 10 | [Blindsided](https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 3:42 |

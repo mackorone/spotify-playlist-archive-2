@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain](/playlists/plain/37i9dQZF1DXdRynaRsnoZs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdRynaRsnoZs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain](/playlists/plain/37i9dQZF1DXdRynaRsnoZs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdRynaRsnoZs)
 
 ### [Christmas Lullabies](https://open.spotify.com/playlist/37i9dQZF1DXdRynaRsnoZs)
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,753 likes - 45 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,621 likes - 45 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

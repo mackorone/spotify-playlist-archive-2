@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdyjMX5o2vCq.md) - [plain](/playlists/plain/37i9dQZF1DXdyjMX5o2vCq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdyjMX5o2vCq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdyjMX5o2vCq.md) - [plain](/playlists/plain/37i9dQZF1DXdyjMX5o2vCq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdyjMX5o2vCq)
 
 ### [This Is Frank Ocean](https://open.spotify.com/playlist/37i9dQZF1DXdyjMX5o2vCq)
 
 > Get to know the shape\-shifting, forward thinking, the one and only, Frank Ocean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,409 likes - 48 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,074 likes - 48 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdyjMX5o2vCq.md) - [plain]
 | 47 | [Futura Free](https://open.spotify.com/track/5k8LB57xOq8UUNVaKWSqrf) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 9:24 |
 | 48 | [End](https://open.spotify.com/track/3liAea2gyRKm8nWubcwsvl) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 2:14 |
 
-Snapshot ID: `AAAAAHsmHM0r0mFqFiKSRptmu2eOct1+`
+Snapshot ID: `AAAAAJa1JqrRT/TbbBbOxtfIQKydZELl`

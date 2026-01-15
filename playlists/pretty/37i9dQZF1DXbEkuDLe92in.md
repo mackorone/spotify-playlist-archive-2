@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain](/playlists/plain/37i9dQZF1DXbEkuDLe92in) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbEkuDLe92in)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain](/playlists/plain/37i9dQZF1DXbEkuDLe92in) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbEkuDLe92in)
 
 ### [Ragas for Yoga](https://open.spotify.com/playlist/37i9dQZF1DXbEkuDLe92in)
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,623 likes - 52 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 323 likes - 52 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 | 41 | [Raga Shahana Bahar \- Joy](https://open.spotify.com/track/0WyfXgWHwazoukVHipbe8k) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Ragas For Relaxation](https://open.spotify.com/album/4fCk5weyaukYlAyCxX9Zom) | 10:51 |
 | 42 | [Raaga Kafi \- Teentaal](https://open.spotify.com/track/4G526MTBK3TpdNBpvvYO3Z) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ajeet Pathak](https://open.spotify.com/artist/6RewthLD9pGHUn5dmLVaBh) | [Seven Raagas](https://open.spotify.com/album/2DhxWPxZBSFirR62g3I4Zd) | 7:30 |
 | 43 | [Guru: Raga Jogeshwari \- Jod, Jhala](https://open.spotify.com/track/0aoSkr47lLA6irEzU9kfdl) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Kenji Ota](https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT) | [Reflections](https://open.spotify.com/album/1PLFjFH557aoApbm2t9OtZ) | 3:59 |
-| 44 | [Raga Jhinjhoti \- Alap](https://open.spotify.com/track/5TwyVQzzKcTVSNqDC9ojWP) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Cutting Edge](https://open.spotify.com/album/5jrFE5JZsHBnC7UqRx9JV7) | 5:57 |
+| 44 | [Raga Jhinjhoti \- Alap](https://open.spotify.com/track/5TwyVQzzKcTVSNqDC9ojWP) | [Pandit Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Cutting Edge](https://open.spotify.com/album/5jrFE5JZsHBnC7UqRx9JV7) | 5:57 |
 | 45 | [Prema Chakor](https://open.spotify.com/track/181HBgSfHKApNvIp6PwTzx) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/2gxudz64DF32yDiDTT1gPk) | 9:20 |
 | 46 | [Raga Malya Maruttam](https://open.spotify.com/track/5TOnz52vVwzN1Gq6nbrpZj) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Pandit Ronu Majumdar: Master of the Indian Bansuri](https://open.spotify.com/album/13P7ue6pRzu9IuQCtwgmaa) | 18:03 |
 | 47 | [Raag Jhinjhoti](https://open.spotify.com/track/4ez9fZqF6ZZhLe9cWxXjQ5) | [Arnab Chakrabarty](https://open.spotify.com/artist/4Q71a45GZQftTkJRMYqtVn) | [De\-Stress Refresh](https://open.spotify.com/album/4KRf8I4ALrGL9vUrALCu2X) | 11:23 |
 | 48 | [Raga Shivaranjani \- Alaap and Jod](https://open.spotify.com/track/0mJb387czeAT18YUjtBSIS) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Mukundraj Deo](https://open.spotify.com/artist/4JMS6zNavFjxoH09RQq78D) | [Finesse On Flute](https://open.spotify.com/album/7dzYA4LH7OgBLoY4YYwpco) | 13:14 |
 | 49 | [Beauty and Power of the Vina \- Malay Marutam](https://open.spotify.com/track/31VI1XppAaDdThtsNeUSzr) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 7:20 |
-| 50 | [Raga Kalavati \- Alaap](https://open.spotify.com/track/38W5klddZEyd4qw1DpTuFt) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Dreamwaves](https://open.spotify.com/album/1Fli4PL8CCyZ3KuhF6GPan) | 9:25 |
+| 50 | [Raga Kalavati \- Alaap](https://open.spotify.com/track/38W5klddZEyd4qw1DpTuFt) | [Pandit Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Dreamwaves](https://open.spotify.com/album/1Fli4PL8CCyZ3KuhF6GPan) | 9:25 |
 | 51 | [Shri Ranjani\- Play of Consciousness](https://open.spotify.com/track/38W6cHZcyVGXRJxkBKEtCM) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 7:46 |
 | 52 | [Raag Jan Sammohini](https://open.spotify.com/track/0Xb7MrsfOwRuzFgCdtlLzp) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Baluji Shrivastav: Shadow of the Lotus \- Classical Indian Ragas](https://open.spotify.com/album/0l9wdltn8tTcrmFMFhFBtK) | 10:10 |
 
-Snapshot ID: `AAAAALb+Y6LjKJXzROZZT0HNwEqWDLfz`
+Snapshot ID: `AAAAAMVXZNuPePqj+mtceLyO0U/P8cJb`

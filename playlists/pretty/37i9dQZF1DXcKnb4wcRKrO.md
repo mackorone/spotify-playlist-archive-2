@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain](/playlists/plain/37i9dQZF1DXcKnb4wcRKrO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcKnb4wcRKrO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain](/playlists/plain/37i9dQZF1DXcKnb4wcRKrO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcKnb4wcRKrO)
 
 ### [Chill Evening](https://open.spotify.com/playlist/37i9dQZF1DXcKnb4wcRKrO)
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,168 likes - 124 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,594 likes - 124 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

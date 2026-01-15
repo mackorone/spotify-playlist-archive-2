@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXb6nc9KYeHHP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb6nc9KYeHHP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb6nc9KYeHHP)
+[pretty](/playlists/pretty/37i9dQZF1DXb6nc9KYeHHP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb6nc9KYeHHP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb6nc9KYeHHP)
 
 ### [LP Giobbi's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DXb6nc9KYeHHP)
 

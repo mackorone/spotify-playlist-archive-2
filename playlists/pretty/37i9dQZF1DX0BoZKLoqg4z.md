@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain](/playlists/plain/37i9dQZF1DX0BoZKLoqg4z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0BoZKLoqg4z)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain](/playlists/plain/37i9dQZF1DX0BoZKLoqg4z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0BoZKLoqg4z)
 
 ### [Stars en herbe](https://open.spotify.com/playlist/37i9dQZF1DX0BoZKLoqg4z)
 
 > Les talents préférés de vos enfants, découverts à la télé!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,315 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,365 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

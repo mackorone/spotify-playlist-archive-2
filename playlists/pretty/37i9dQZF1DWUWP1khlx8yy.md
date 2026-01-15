@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWP1khlx8yy.md) - [plain](/playlists/plain/37i9dQZF1DWUWP1khlx8yy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUWP1khlx8yy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWP1khlx8yy.md) - [plain](/playlists/plain/37i9dQZF1DWUWP1khlx8yy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUWP1khlx8yy)
 
 ### [劇場アニメ『ベルサイユのばら』The Rose of Versailles](https://open.spotify.com/playlist/37i9dQZF1DWUWP1khlx8yy)
 
 > 劇場アニメ『ベルサイユのばら』の楽曲を1つのプレイリストで。Music from "The Rose of Versailles"!  ©池田理代子プロダクション／ベルサイユのばら製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 48 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,112 likes - 48 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

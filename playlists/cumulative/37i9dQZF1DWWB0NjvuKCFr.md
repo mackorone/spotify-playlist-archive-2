@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWB0NjvuKCFr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWB0NjvuKCFr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWB0NjvuKCFr)
+[pretty](/playlists/pretty/37i9dQZF1DWWB0NjvuKCFr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWB0NjvuKCFr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWB0NjvuKCFr)
 
 ### [Fuego \#074 \- Santi's Mixtape](https://open.spotify.com/playlist/37i9dQZF1DWWB0NjvuKCFr)
 

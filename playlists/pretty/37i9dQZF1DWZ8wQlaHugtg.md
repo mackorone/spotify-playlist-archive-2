@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8wQlaHugtg.md) - [plain](/playlists/plain/37i9dQZF1DWZ8wQlaHugtg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ8wQlaHugtg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8wQlaHugtg.md) - [plain](/playlists/plain/37i9dQZF1DWZ8wQlaHugtg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ8wQlaHugtg)
 
 ### [Nneka's Taste](https://open.spotify.com/playlist/37i9dQZF1DWZ8wQlaHugtg)
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nnekaenergy/">Nneka Onuorah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 631 likes - 48 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 633 likes - 48 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

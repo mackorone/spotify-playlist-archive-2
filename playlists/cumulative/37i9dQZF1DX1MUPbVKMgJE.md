@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1MUPbVKMgJE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1MUPbVKMgJE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1MUPbVKMgJE)
+[pretty](/playlists/pretty/37i9dQZF1DX1MUPbVKMgJE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1MUPbVKMgJE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1MUPbVKMgJE)
 
 ### [Disco Forever](https://open.spotify.com/playlist/37i9dQZF1DX1MUPbVKMgJE)
 
@@ -144,7 +144,7 @@
 | [The Second Time Around](https://open.spotify.com/track/6yh8yf1jpPrTMA5cezYpbi) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Big Fun](https://open.spotify.com/album/0wPapw2OnSgmpg8G1DpZtI) | 3:43 | 2021-10-10 |  |
 | [There But For The Grace Of God Go I](https://open.spotify.com/track/76OxYQuhiGc8VynFHZW2PX) | [Machine](https://open.spotify.com/artist/01YHmj2sySjLjP1Q2BK2sH) | [A Night To Remember](https://open.spotify.com/album/4SSp92xYJKNuq1MZgVPMkm) | 4:09 | 2019-05-26\* | 2021-09-22 |
 | [Think \(About It\)](https://open.spotify.com/track/5JOrJKe7DBqxHe3AT9lkBA) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [James Brown's Original Funky Divas](https://open.spotify.com/album/0JxAlDSjUQdO0saQn3hc0H) | 3:22 | 2019-05-26\* | 2021-09-22 |
-| [TSOP \(The Sound of Philadelphia\)](https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:47 | 2021-09-21 |  |
+| [TSOP \(The Sound of Philadelphia\)](https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:43 | 2021-09-21 |  |
 | [Turn the Beat Around](https://open.spotify.com/track/0XQxZZIgdcXBaxgL7zMKpK) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [Never Gonna Let You Go \(Expanded Edition\)](https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC) | 5:33 | 2021-09-21 |  |
 | [Turn the Beat Around \- Single Version](https://open.spotify.com/track/2TziLOnBMT8kDVo2LA1X6t) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 4:12 | 2019-05-26\* | 2021-09-22 |
 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 | 2021-09-21 |  |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaUvpePTXR1D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaUvpePTXR1D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaUvpePTXR1D)
+[pretty](/playlists/pretty/37i9dQZF1DXaUvpePTXR1D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaUvpePTXR1D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaUvpePTXR1D)
 
 ### [Slow Dancing in the Living Room](https://open.spotify.com/playlist/37i9dQZF1DXaUvpePTXR1D)
 

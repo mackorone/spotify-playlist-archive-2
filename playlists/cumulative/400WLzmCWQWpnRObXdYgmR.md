@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/400WLzmCWQWpnRObXdYgmR.md) - cumulative - [plain](/playlists/plain/400WLzmCWQWpnRObXdYgmR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/400WLzmCWQWpnRObXdYgmR)
+[pretty](/playlists/pretty/400WLzmCWQWpnRObXdYgmR.md) - cumulative - [plain](/playlists/plain/400WLzmCWQWpnRObXdYgmR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/400WLzmCWQWpnRObXdYgmR)
 
 ### [Best songs ever ](https://open.spotify.com/playlist/400WLzmCWQWpnRObXdYgmR)
 

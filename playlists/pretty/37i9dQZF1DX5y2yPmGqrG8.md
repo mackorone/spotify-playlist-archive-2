@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain](/playlists/plain/37i9dQZF1DX5y2yPmGqrG8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5y2yPmGqrG8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain](/playlists/plain/37i9dQZF1DX5y2yPmGqrG8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5y2yPmGqrG8)
 
 ### [audífonos con cable](https://open.spotify.com/playlist/37i9dQZF1DX5y2yPmGqrG8)
 
 > Sumérgete en un panorama imaginario de paisajes sonoros atmosféricos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,655 likes - 125 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,884 likes - 125 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain](/playlists/plain/37i9dQZF1DX5Hl0iWtr5b3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Hl0iWtr5b3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain](/playlists/plain/37i9dQZF1DX5Hl0iWtr5b3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5Hl0iWtr5b3)
 
 ### [Bridgerton Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5Hl0iWtr5b3)
 
 > Even a wallflower can bloom...Listen to the music from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,589,894 likes - 108 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,593,664 likes - 108 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

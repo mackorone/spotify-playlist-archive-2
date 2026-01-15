@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSqJd35zS5k3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSqJd35zS5k3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSqJd35zS5k3)
+[pretty](/playlists/pretty/37i9dQZF1DWSqJd35zS5k3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSqJd35zS5k3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSqJd35zS5k3)
 
 ### [Villancicos Navideños](https://open.spotify.com/playlist/37i9dQZF1DWSqJd35zS5k3)
 

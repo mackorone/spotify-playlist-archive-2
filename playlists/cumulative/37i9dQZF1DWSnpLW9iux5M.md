@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSnpLW9iux5M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSnpLW9iux5M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSnpLW9iux5M)
+[pretty](/playlists/pretty/37i9dQZF1DWSnpLW9iux5M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSnpLW9iux5M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSnpLW9iux5M)
 
 ### [Gospel Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSnpLW9iux5M)
 
-> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Jonathan McReynolds
+> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Yolanda Adams
 
 207 songs - 13 hr 24 min
 

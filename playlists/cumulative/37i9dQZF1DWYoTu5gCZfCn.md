@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYoTu5gCZfCn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYoTu5gCZfCn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYoTu5gCZfCn)
+[pretty](/playlists/pretty/37i9dQZF1DWYoTu5gCZfCn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYoTu5gCZfCn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYoTu5gCZfCn)
 
 ### [Landman Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWYoTu5gCZfCn)
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-105 songs - 6 hr 17 min
+108 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Burn The Ground](https://open.spotify.com/track/1cnplHgTYMWsAmnR93N2Oz) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Burn The Ground](https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X) | 3:54 | 2025-12-28 |  |
 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 | 2024-12-29 |  |
 | [Cheers to Disagree](https://open.spotify.com/track/1V4jv3fGY1oMrXBkb9uNlo) | [Hunter Hicks](https://open.spotify.com/artist/6BEOyviLtjXnOGYdBn0ddd) | [Here’s to You](https://open.spotify.com/album/7BguGaWcG1jelJAKPP7joi) | 4:04 | 2025-11-23 |  |
+| [Cotton Fire](https://open.spotify.com/track/7dMr9RFTyWxF38O2CjRVNg) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Cotton Fire](https://open.spotify.com/album/0XvoRxLD0KM90IFBbANV0b) | 3:25 | 2026-01-11 |  |
 | [cowboy friends](https://open.spotify.com/track/3XeCnjiyQkjKSNQtTDOidA) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 2:58 | 2025-11-16 |  |
 | [Crossing Lines](https://open.spotify.com/track/1BuwcJ4WYxvKsIG3nZeGn3) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu) | 2:50 | 2024-12-29 |  |
 | [Debtor's Blues](https://open.spotify.com/track/3lRCvKMyA4wNAJas7wQLvQ) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:37 | 2024-11-17 |  |
@@ -51,6 +52,7 @@
 | [Heaven Sent](https://open.spotify.com/track/0QRO8Mz2U4nXKBnFybworx) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [The SteelDrivers](https://open.spotify.com/album/4OIcFaouZZHOK6HDQNPRYV) | 3:48 | 2025-12-14 |  |
 | [Hillbilly Hippie](https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:31 | 2024-12-22 |  |
 | [Honky Tonk Hall Of Fame](https://open.spotify.com/track/2vopYyV5XSXOGL0DuZ8oYE) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Landman \[Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/5HRneEK33Bxvqc19ZcSRqZ) | 3:09 | 2025-09-26 |  |
+| [House Fire](https://open.spotify.com/track/1RJyToUKkGSEfJjavJHSsF) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:52 | 2026-01-11 |  |
 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 | 2024-12-01 |  |
 | [Hunt You Down](https://open.spotify.com/track/6ks9ln2vMb5XIO3e4ncoRh) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 3:24 | 2024-11-24 |  |
 | [i blame the bar](https://open.spotify.com/track/3AqTDfGgH2jrTVTS1EUux7) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 2:57 | 2024-12-01 |  |
@@ -113,5 +115,6 @@
 | [Wrecked](https://open.spotify.com/track/79QYGruWwuNp5EZ7ZCo7iJ) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 4:59 | 2024-12-01 |  |
 | [Wyoming](https://open.spotify.com/track/4TcjHqVEYmFKWMSKRyzH7D) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [Songs I Swore I'd Never Sing](https://open.spotify.com/album/1GF4Y1duLWnFuLFufy7qXW) | 5:16 | 2025-11-16 |  |
 | [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 | 2025-12-28 |  |
+| [You Ain't Gotta Die \(To Be Dead To Me\)](https://open.spotify.com/track/5Bs3A5vn8M6RPpARXL0cMh) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 3:19 | 2026-01-11 |  |
 
 \*This playlist was first scraped on 2024-11-19. Prior content cannot be recovered.

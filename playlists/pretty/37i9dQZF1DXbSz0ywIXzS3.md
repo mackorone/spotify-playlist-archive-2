@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain](/playlists/plain/37i9dQZF1DXbSz0ywIXzS3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbSz0ywIXzS3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain](/playlists/plain/37i9dQZF1DXbSz0ywIXzS3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbSz0ywIXzS3)
 
 ### [rock songs for us rejects](https://open.spotify.com/playlist/37i9dQZF1DXbSz0ywIXzS3)
 

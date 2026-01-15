@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain](/playlists/plain/37i9dQZF1DX5NXVhu59GCz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5NXVhu59GCz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain](/playlists/plain/37i9dQZF1DX5NXVhu59GCz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5NXVhu59GCz)
 
 ### [Acid Blues](https://open.spotify.com/playlist/37i9dQZF1DX5NXVhu59GCz)
 

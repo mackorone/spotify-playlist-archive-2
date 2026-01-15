@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/67uEKAhAdvMJvumeC8ZgjB.md) - [plain](/playlists/plain/67uEKAhAdvMJvumeC8ZgjB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/67uEKAhAdvMJvumeC8ZgjB)
+pretty - [cumulative](/playlists/cumulative/67uEKAhAdvMJvumeC8ZgjB.md) - [plain](/playlists/plain/67uEKAhAdvMJvumeC8ZgjB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/67uEKAhAdvMJvumeC8ZgjB)
 
 ### [Low Key Revelry](https://open.spotify.com/playlist/67uEKAhAdvMJvumeC8ZgjB)
 
 > Unwind and enjoy the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 26 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 26 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

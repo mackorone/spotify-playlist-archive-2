@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/12dhZvNBx9EStStdpVS0g7.md) - cumulative - [plain](/playlists/plain/12dhZvNBx9EStStdpVS0g7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/12dhZvNBx9EStStdpVS0g7)
+[pretty](/playlists/pretty/12dhZvNBx9EStStdpVS0g7.md) - cumulative - [plain](/playlists/plain/12dhZvNBx9EStStdpVS0g7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/12dhZvNBx9EStStdpVS0g7)
 
 ### [All the best X\-men](https://open.spotify.com/playlist/12dhZvNBx9EStStdpVS0g7)
 

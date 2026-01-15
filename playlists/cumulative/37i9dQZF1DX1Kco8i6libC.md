@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1Kco8i6libC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1Kco8i6libC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1Kco8i6libC)
+[pretty](/playlists/pretty/37i9dQZF1DX1Kco8i6libC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1Kco8i6libC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1Kco8i6libC)
 
 ### [群星報喜：屬狗歌手](https://open.spotify.com/playlist/37i9dQZF1DX1Kco8i6libC)
 

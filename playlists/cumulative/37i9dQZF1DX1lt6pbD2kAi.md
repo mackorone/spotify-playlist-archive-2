@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1lt6pbD2kAi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1lt6pbD2kAi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1lt6pbD2kAi)
+[pretty](/playlists/pretty/37i9dQZF1DX1lt6pbD2kAi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1lt6pbD2kAi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1lt6pbD2kAi)
 
 ### [Top Artistas Brasil 2025](https://open.spotify.com/playlist/37i9dQZF1DX1lt6pbD2kAi)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO48Rn9u.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO48Rn9u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO48Rn9u)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO48Rn9u.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO48Rn9u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO48Rn9u)
 
 ### [This Is Kacey Musgraves](https://open.spotify.com/playlist/37i9dQZF1DZ06evO48Rn9u)
 

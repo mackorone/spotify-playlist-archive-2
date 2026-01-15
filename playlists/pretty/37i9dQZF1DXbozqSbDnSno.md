@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbozqSbDnSno.md) - [plain](/playlists/plain/37i9dQZF1DXbozqSbDnSno) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbozqSbDnSno)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbozqSbDnSno.md) - [plain](/playlists/plain/37i9dQZF1DXbozqSbDnSno) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbozqSbDnSno)
 
 ### [Shakespeare: The Histories](https://open.spotify.com/playlist/37i9dQZF1DXbozqSbDnSno)
 

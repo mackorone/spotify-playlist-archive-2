@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain](/playlists/plain/37i9dQZF1DWSEjz7TrmLMY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSEjz7TrmLMY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain](/playlists/plain/37i9dQZF1DWSEjz7TrmLMY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSEjz7TrmLMY)
 
 ### [\#CHUGG](https://open.spotify.com/playlist/37i9dQZF1DWSEjz7TrmLMY)
 
 > I❤️CHUGGIN \- Onemillionkisses en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,903 likes - 43 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,944 likes - 43 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

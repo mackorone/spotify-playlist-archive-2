@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Gwl5uG0dwX.md) - [plain](/playlists/plain/37i9dQZF1DX6Gwl5uG0dwX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6Gwl5uG0dwX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Gwl5uG0dwX.md) - [plain](/playlists/plain/37i9dQZF1DX6Gwl5uG0dwX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6Gwl5uG0dwX)
 
 ### [Dive Bar Anthems](https://open.spotify.com/playlist/37i9dQZF1DX6Gwl5uG0dwX)
 
 > Indie and alternative favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,924 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,779 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

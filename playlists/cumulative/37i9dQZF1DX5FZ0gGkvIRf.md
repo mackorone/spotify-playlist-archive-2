@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5FZ0gGkvIRf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5FZ0gGkvIRf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5FZ0gGkvIRf)
+[pretty](/playlists/pretty/37i9dQZF1DX5FZ0gGkvIRf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5FZ0gGkvIRf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5FZ0gGkvIRf)
 
 ### [Kickass Metal presents Best Heavy Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX5FZ0gGkvIRf)
 
@@ -181,7 +181,7 @@
 | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr) | 4:21 | 2024-12-04 | 2025-12-04 |
 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/6ZObKi7oiOXcFOPFzssJHH) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 4:23 | 2024-12-04 | 2025-12-04 |
 | [Hurricane](https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Hurricane](https://open.spotify.com/album/65z7MiMcyvptnddVK2LZeC) | 3:02 | 2022-11-30 | 2023-11-30 |
-| [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 | 2025-12-03 |  |
+| [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:27 | 2025-12-03 |  |
 | [I Am Damnation](https://open.spotify.com/track/4PCSGmV5PbkFhGjvY0PPEA) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:42 | 2022-11-30 | 2023-11-30 |
 | [I Believe](https://open.spotify.com/track/6BoY3na8sQtPP4mh3QCw6Z) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [This Consequence](https://open.spotify.com/album/5druVMVmvdpUqoYyIXPyqh) | 3:54 | 2025-12-03 |  |
 | [I Feel Nothing When You Cry](https://open.spotify.com/track/0ewMtem4OT8eys2p1hmyzq) | [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [Umbilical](https://open.spotify.com/album/1WILkP95BuckkTIm4OIQRm) | 3:52 | 2024-12-04 | 2025-12-04 |

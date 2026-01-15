@@ -1,6 +1,6 @@
-[pretty](/playlists/pretty/6bvocDUOsyBDXvTWyQtvaH.md) - cumulative - [plain](/playlists/plain/6bvocDUOsyBDXvTWyQtvaH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6bvocDUOsyBDXvTWyQtvaH)
+[pretty](/playlists/pretty/6bvocDUOsyBDXvTWyQtvaH.md) - cumulative - [plain](/playlists/plain/6bvocDUOsyBDXvTWyQtvaH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6bvocDUOsyBDXvTWyQtvaH)
 
-### [christmas lofi 2025 ⛄❄️🕯️](https://open.spotify.com/playlist/6bvocDUOsyBDXvTWyQtvaH)
+### [christmas lofi 2026 ⛄❄️🕯️](https://open.spotify.com/playlist/6bvocDUOsyBDXvTWyQtvaH)
 
 > christmas lofi \| lofi cozy christmas \| lofi instrumentals \| lofi winter \| holiday lofi \| lofi chill beats \| winter jazz chillhop beats \|  xmas lofi 🎄🎹
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RlkgPvs7y.md) - [plain](/playlists/plain/37i9dQZF1DWZ1RlkgPvs7y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ1RlkgPvs7y)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RlkgPvs7y.md) - [plain](/playlists/plain/37i9dQZF1DWZ1RlkgPvs7y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ1RlkgPvs7y)
 
 ### [Play Your Part, Europe!](https://open.spotify.com/playlist/37i9dQZF1DWZ1RlkgPvs7y)
 

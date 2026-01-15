@@ -1,6 +1,6 @@
 {
-  "description": "Pop music driving the current, every week.  Cover: Shenseea",
-  "num_followers": 37744,
+  "description": "Pop music driving the current, every week.  Cover: PinkPantheress",
+  "num_followers": 37764,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
@@ -9,7 +9,27 @@
   "snapshot_id": "AAAAANF4xgHlv8hFCnu5HbgRS2pY/CHX",
   "tracks": [
     {
-      "added_at": "2025-10-24 18:57:58",
+      "added_at": "2026-01-06 20:37:10",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "BOSS UP",
         "url": "https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/458u353fkPaERY2SoOGPl3"
     },
     {
-      "added_at": "2025-10-24 18:57:58",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "CHANEL",
         "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
@@ -41,7 +61,23 @@
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
-      "added_at": "2025-10-24 18:57:58",
+      "added_at": "2026-01-06 20:37:10",
+      "album": {
+        "name": "No Audience",
+        "url": "https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 173334,
+      "name": "No Audience",
+      "url": "https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp"
+    },
+    {
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Love & Hyperbole (Deluxe)",
         "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
@@ -57,7 +93,7 @@
       "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
     },
     {
-      "added_at": "2025-10-24 18:57:58",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Who\u2019s Dat Girl",
         "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
@@ -77,7 +113,7 @@
       "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
     },
     {
-      "added_at": "2025-10-24 18:57:58",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Please Don't Hate Me",
         "url": "https://open.spotify.com/album/03p0tlHZsQRjw54rG4hPkd"
@@ -93,7 +129,7 @@
       "url": "https://open.spotify.com/track/2cAQTyGQYeeYMukxgi6uEG"
     },
     {
-      "added_at": "2025-10-24 18:57:58",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/3IwmHrw566MMhJk0hsIZrQ"
@@ -109,7 +145,23 @@
       "url": "https://open.spotify.com/track/6SeKBq8l79WLvnDWQDd3GZ"
     },
     {
-      "added_at": "2025-10-24 18:57:58",
+      "added_at": "2026-01-06 20:37:10",
+      "album": {
+        "name": "Backie",
+        "url": "https://open.spotify.com/album/7y2B2JsFSFKicQzrXz4Msz"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 128129,
+      "name": "Backie",
+      "url": "https://open.spotify.com/track/033iFTZGmWiVU9hUGBUvO3"
+    },
+    {
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "White Lighter",
         "url": "https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W"
@@ -125,7 +177,7 @@
       "url": "https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh"
     },
     {
-      "added_at": "2025-10-10 04:00:50",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Orchestra",
         "url": "https://open.spotify.com/album/2HiQlXVhSGSG5TjEtt3Lzb"
@@ -141,7 +193,7 @@
       "url": "https://open.spotify.com/track/418sG9q8N3xPn5iuYd9ddi"
     },
     {
-      "added_at": "2025-10-10 04:00:50",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
@@ -161,7 +213,7 @@
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
     },
     {
-      "added_at": "2025-10-10 04:00:50",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "after the sun goes down",
         "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
@@ -177,7 +229,7 @@
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
     },
     {
-      "added_at": "2025-09-19 04:00:30",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -193,7 +245,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-10-10 04:00:50",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Time Will Tell",
         "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
@@ -209,7 +261,7 @@
       "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
     },
     {
-      "added_at": "2025-09-19 04:00:30",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "AM I THE DRAMA?",
         "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
@@ -229,7 +281,7 @@
       "url": "https://open.spotify.com/track/6M1vkKMDQZoh1sbH4asNcF"
     },
     {
-      "added_at": "2025-09-12 04:00:22",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Olivia Dean - Spotify Live Room",
         "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
@@ -245,7 +297,7 @@
       "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
     },
     {
-      "added_at": "2025-08-22 04:00:35",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Jealous Type",
         "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
@@ -261,7 +313,7 @@
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
     },
     {
-      "added_at": "2025-09-19 04:00:30",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "get better!",
         "url": "https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl"
@@ -277,7 +329,7 @@
       "url": "https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom"
     },
     {
-      "added_at": "2025-09-12 04:00:22",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Cry about it! (feat. Ravyn Lenae)",
         "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
@@ -297,7 +349,7 @@
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
-      "added_at": "2025-10-10 04:00:50",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "I Am Enough",
         "url": "https://open.spotify.com/album/57YQ4POLwqTtEzSyVyEfVc"
@@ -313,7 +365,7 @@
       "url": "https://open.spotify.com/track/2L7MiyDmLaCCZiafYNVRdK"
     },
     {
-      "added_at": "2025-09-12 04:00:22",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "I'm your first",
         "url": "https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE"
@@ -329,7 +381,7 @@
       "url": "https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV"
     },
     {
-      "added_at": "2025-09-12 04:00:22",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "SELLOUT II",
         "url": "https://open.spotify.com/album/1OAJ1g8pCfiJEPQ5h8V8cI"
@@ -345,7 +397,7 @@
       "url": "https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx"
     },
     {
-      "added_at": "2025-09-12 04:00:22",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Little House",
         "url": "https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y"
@@ -361,7 +413,7 @@
       "url": "https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5"
     },
     {
-      "added_at": "2025-08-22 04:00:35",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Monochrome: The White Album",
         "url": "https://open.spotify.com/album/1aL1EchZPlpRwY07pJ6Zub"
@@ -377,7 +429,7 @@
       "url": "https://open.spotify.com/track/3xaw7lWf3dmYsl7RZ8iMDn"
     },
     {
-      "added_at": "2025-07-25 04:15:26",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Icarus",
         "url": "https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq"
@@ -393,7 +445,7 @@
       "url": "https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj"
     },
     {
-      "added_at": "2025-09-19 04:00:30",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Juniper",
         "url": "https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7"
@@ -409,7 +461,7 @@
       "url": "https://open.spotify.com/track/64WrQvHvGsS9TFjSjcl4qI"
     },
     {
-      "added_at": "2025-08-08 04:00:41",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "BLACK STAR",
         "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
@@ -425,7 +477,7 @@
       "url": "https://open.spotify.com/track/0uYNYSkMBQzU0UmVh20BzW"
     },
     {
-      "added_at": "2025-08-08 04:00:41",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Lonyo!",
         "url": "https://open.spotify.com/album/19Me956UK4tz4kL1KKbOeE"
@@ -441,7 +493,7 @@
       "url": "https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP"
     },
     {
-      "added_at": "2025-08-08 04:00:41",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "KELEBU",
         "url": "https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa"
@@ -457,7 +509,7 @@
       "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
     },
     {
-      "added_at": "2025-07-18 04:00:34",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Been A Minute",
         "url": "https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG"
@@ -473,7 +525,7 @@
       "url": "https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR"
     },
     {
-      "added_at": "2025-08-22 04:00:35",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "spark",
         "url": "https://open.spotify.com/album/1NxHLyPjIKj423JWJfXdEO"
@@ -493,7 +545,7 @@
       "url": "https://open.spotify.com/track/0nKImb6fIYwQu149jAwEIb"
     },
     {
-      "added_at": "2025-07-18 04:00:34",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Carat Cake",
         "url": "https://open.spotify.com/album/5mXJe0iw9NXa06rDaKhjoi"
@@ -509,7 +561,7 @@
       "url": "https://open.spotify.com/track/1lQUPc4TwyexiWSXDENSPb"
     },
     {
-      "added_at": "2025-07-25 04:15:26",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "ENOUGH.",
         "url": "https://open.spotify.com/album/3W6u3zgrFAPb6kZ5hwMxUF"
@@ -525,7 +577,7 @@
       "url": "https://open.spotify.com/track/5uvnq6j5kdofhXoPuuoIqF"
     },
     {
-      "added_at": "2025-07-11 04:00:18",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Follow Excitement!",
         "url": "https://open.spotify.com/album/2eTnFkpJoMPxx6MwYiWqxX"
@@ -545,7 +597,7 @@
       "url": "https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx"
     },
     {
-      "added_at": "2025-07-18 04:00:34",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "space",
         "url": "https://open.spotify.com/album/5JexiEUuYNJlspNfNGy4Mt"
@@ -561,7 +613,7 @@
       "url": "https://open.spotify.com/track/24BkrXsHVZdmy7mcoRAqLk"
     },
     {
-      "added_at": "2025-07-25 04:15:26",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
@@ -577,7 +629,7 @@
       "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
-      "added_at": "2025-07-25 04:15:26",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Learn To Love (with Dean Lewis)",
         "url": "https://open.spotify.com/album/2S3BmpJnHH9YthFFyNmv3e"
@@ -597,7 +649,7 @@
       "url": "https://open.spotify.com/track/5qQYndZ8HuHCbN0PZf4l3o"
     },
     {
-      "added_at": "2025-07-18 04:00:34",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Amazing",
         "url": "https://open.spotify.com/album/3WP0A1hksYMbO913fap5PF"
@@ -613,7 +665,7 @@
       "url": "https://open.spotify.com/track/1jjfb6Ne65MgkrT3jTJMLv"
     },
     {
-      "added_at": "2025-07-25 04:15:26",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
         "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
@@ -637,7 +689,7 @@
       "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
     },
     {
-      "added_at": "2025-07-11 04:00:18",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Die For This",
         "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
@@ -653,7 +705,7 @@
       "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
     },
     {
-      "added_at": "2025-07-11 04:00:18",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/0OJjgbzuaOF0f2U7vdriTK"
@@ -669,7 +721,7 @@
       "url": "https://open.spotify.com/track/6wMnZzsRUWQAENpnqTmIJk"
     },
     {
-      "added_at": "2025-03-10 14:34:25",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
@@ -685,7 +737,7 @@
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
-      "added_at": "2025-07-18 04:00:34",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "HIGH STAR",
         "url": "https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95"
@@ -701,23 +753,7 @@
       "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
     },
     {
-      "added_at": "2025-07-11 04:00:18",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
-    },
-    {
-      "added_at": "2025-07-18 13:17:54",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Party Monster",
         "url": "https://open.spotify.com/album/1AMTkFoROS3COqpJ7FW57d"
@@ -733,7 +769,7 @@
       "url": "https://open.spotify.com/track/6Ce4yaLUyw8CO1Tp8AMjgm"
     },
     {
-      "added_at": "2025-07-18 04:00:34",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "ur luv is see through!",
         "url": "https://open.spotify.com/album/0mos8b8lEAkWyDd5b4Uwx8"
@@ -749,23 +785,7 @@
       "url": "https://open.spotify.com/track/0AAik5GZKfDVdXXNzKVTlG"
     },
     {
-      "added_at": "2025-06-30 03:18:59",
-      "album": {
-        "name": "I Just Don't Know You Yet",
-        "url": "https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 201007,
-      "name": "I Just Don't Know You Yet",
-      "url": "https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF"
-    },
-    {
-      "added_at": "2025-07-04 04:00:37",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/5KCMGGVIX1Vn8iuGaLd3Af"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/4j7m2rt1NTlZGpdgzm7kCu"
     },
     {
-      "added_at": "2025-06-27 04:00:41",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "F1 The Album (Cinematic Edition)",
         "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at"
     },
     {
-      "added_at": "2025-06-06 04:00:25",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
     },
     {
-      "added_at": "2025-06-13 04:00:59",
+      "added_at": "2026-01-06 20:37:10",
       "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
@@ -831,22 +851,6 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
-    },
-    {
-      "added_at": "2025-06-20 04:00:48",
-      "album": {
-        "name": "Right Back",
-        "url": "https://open.spotify.com/album/2ef0S3x8CdZfxhDblO5lOl"
-      },
-      "artists": [
-        {
-          "name": "Jacklyn",
-          "url": "https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Right Back",
-      "url": "https://open.spotify.com/track/0LMzUyxzVuW4UwfVQXdfBY"
     }
   ],
   "unique_name": "Pop Frequency",

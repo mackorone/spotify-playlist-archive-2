@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Alain Delon",
+        "url": "https://open.spotify.com/album/1mwrxy88a9rzvdcOj2wjtg"
+      },
+      "artists": [
+        {
+          "name": "Nat Simons",
+          "url": "https://open.spotify.com/artist/6iabh4Ty1lWNv3FLST7Dhn"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232503,
+      "name": "Alain Delon",
+      "url": "https://open.spotify.com/track/5Bj1ygUeHen28HMdlPs9Vj"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
       },
@@ -828,6 +846,24 @@
       "duration_ms": 285040,
       "name": "Antes de que cuente diez",
       "url": "https://open.spotify.com/track/3xiNRrrVROKlHrflHGNTfG"
+    },
+    {
+      "album": {
+        "name": "Antes de que salga el sol",
+        "url": "https://open.spotify.com/album/4Azph2GFU2AqoWuyQX9weg"
+      },
+      "artists": [
+        {
+          "name": "091",
+          "url": "https://open.spotify.com/artist/0A6WBpDrr0afYnqRMvc7OC"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290717,
+      "name": "Antes de que salga el sol",
+      "url": "https://open.spotify.com/track/2Rs0ch2ogTkTyEBan1z7wE"
     },
     {
       "album": {
@@ -3130,7 +3166,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213252,
       "name": "Derribo",
       "url": "https://open.spotify.com/track/3YcsJ1yZYTqkCWbnDdUidw"
@@ -4450,7 +4486,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 243593,
       "name": "El Predicador",
       "url": "https://open.spotify.com/track/4DdbbMxcEOZLlpXlv2pPRn"
@@ -6826,7 +6862,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 286534,
       "name": "La misma canci\u00f3n",
       "url": "https://open.spotify.com/track/5FzIQ5CdSgWekevt2916CE"
@@ -7622,7 +7658,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223182,
       "name": "Llamas de Drag\u00f3n",
       "url": "https://open.spotify.com/track/6QpYqnIGnPKJLmV7TUdtUH"
@@ -7850,7 +7886,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 243164,
       "name": "Los asombros",
       "url": "https://open.spotify.com/track/1NR3Npg2MnDT43VbB45z0s"
@@ -10065,6 +10101,24 @@
     },
     {
       "album": {
+        "name": "Palomas",
+        "url": "https://open.spotify.com/album/6kNXX68cdAoj9CMwExz19G"
+      },
+      "artists": [
+        {
+          "name": "Linze",
+          "url": "https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238871,
+      "name": "Palomas",
+      "url": "https://open.spotify.com/track/7BI3kNzigH6ZPv0VUjAOd9"
+    },
+    {
+      "album": {
         "name": "Para llegar hasta aqu\u00ed",
         "url": "https://open.spotify.com/album/5NjQ9Or66LDDAg1UvBRXYV"
       },
@@ -10294,7 +10348,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 173226,
       "name": "Pienso en Aquella Tarde",
       "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
@@ -10396,7 +10450,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 173533,
       "name": "Pongamos Que Hablo de Madrid",
       "url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
@@ -10508,6 +10562,24 @@
       "duration_ms": 187024,
       "name": "Por Si Acaso",
       "url": "https://open.spotify.com/track/6r4oJ9DhI7HRUb7h0LNM3L"
+    },
+    {
+      "album": {
+        "name": "Altxerri (En directo)",
+        "url": "https://open.spotify.com/album/6YZ9uKODHO1ToFMOJaRC9H"
+      },
+      "artists": [
+        {
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169426,
+      "name": "Por tierras escocesas - En directo Altxerri 2023",
+      "url": "https://open.spotify.com/track/6PkdZl6zBob3FZvPjYYG2n"
     },
     {
       "album": {
@@ -10974,7 +11046,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 218146,
       "name": "Qu\u00e9 M\u00e1s Quisieras",
       "url": "https://open.spotify.com/track/3r6hdxFuzTFg9lch7ewbhU"

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3VlkBR4Jhb.md) - [plain](/playlists/plain/37i9dQZF1DWY3VlkBR4Jhb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY3VlkBR4Jhb)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3VlkBR4Jhb.md) - [plain](/playlists/plain/37i9dQZF1DWY3VlkBR4Jhb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY3VlkBR4Jhb)
 
 ### [This Is Schubert](https://open.spotify.com/playlist/37i9dQZF1DWY3VlkBR4Jhb)
 
 > The essential works of Franz Schubert.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,258 likes - 71 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,433 likes - 71 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

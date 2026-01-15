@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWY0ndulfVsG7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY0ndulfVsG7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY0ndulfVsG7)
+[pretty](/playlists/pretty/37i9dQZF1DWY0ndulfVsG7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY0ndulfVsG7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY0ndulfVsG7)
 
 ### [Berjiran](https://open.spotify.com/playlist/37i9dQZF1DWY0ndulfVsG7)
 
@@ -95,7 +95,7 @@
 | [Perasaanku](https://open.spotify.com/track/0F9MgsXvr3oLfGX8bodXZW) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA) | [Perasaanku](https://open.spotify.com/album/1Aep3n7K9j0m1ech4wRXFD) | 3:58 | 2024-06-21 | 2024-07-06 |
 | [Percayalah](https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet) | [Angly Kansil](https://open.spotify.com/artist/1b6uU6N4Uw7zGLdhn2C291) | [Percayalah](https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0) | 4:26 | 2024-11-29 | 2025-11-15 |
 | [Perempuanku](https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em) | [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:55 | 2024-01-12 |  |
-| [Purnama Merindu](https://open.spotify.com/track/5XvA9FrzIFGkMSlWt206jZ) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Adiwarna](https://open.spotify.com/album/3k2mWs74YcfgJstZGabWGj) | 4:27 | 2024-11-29 | 2025-11-28 |
+| [Purnama Merindu](https://open.spotify.com/track/5XvA9FrzIFGkMSlWt206jZ) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Adiwarna](https://open.spotify.com/album/3k2mWs74YcfgJstZGabWGj) | 4:27 | 2024-11-29 |  |
 | [Rahasia Hati \(New Version\)](https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Rahasia Hati \(New Version\)](https://open.spotify.com/album/2irA4FZKAdkCn7y6iceOhx) | 4:19 | 2024-11-07 | 2024-11-15 |
 | [Risalah Hati](https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Pupus / Risalah Hati](https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki) | 5:01 | 2024-01-12 | 2025-03-06 |
 | [Sakit](https://open.spotify.com/track/3pkLAqPKJWqr9MluDVIc6U) | [IamNeeta](https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg) | [Sakit](https://open.spotify.com/album/7BJzH3Q3qe33MO9KexP6Gc) | 3:25 | 2024-06-21 | 2024-07-06 |
@@ -116,7 +116,7 @@
 | [Seperti Kisah](https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg) | 4:39 | 2024-01-12 | 2024-04-19 |
 | [Seperti Yang Kau Minta](https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Dekade](https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3) | 4:48 | 2024-01-12 | 2024-04-19 |
 | [Sephia](https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:55 | 2024-01-12 |  |
-| [Sepi Sekuntum Mawar Merah](https://open.spotify.com/track/4sRPgFGFMkGGW2zYFgUPZZ) | [Ella](https://open.spotify.com/artist/2ZQY8HKMtEjGdxgcuW2574) | [Identiti](https://open.spotify.com/album/1mtuo1TIeHj64UWWPzjSZI) | 4:40 | 2024-11-29 |  |
+| [Sepi Sekuntum Mawar Merah](https://open.spotify.com/track/4sRPgFGFMkGGW2zYFgUPZZ) | [Ella](https://open.spotify.com/artist/2ZQY8HKMtEjGdxgcuW2574) | [Identiti](https://open.spotify.com/album/1mtuo1TIeHj64UWWPzjSZI) | 4:40 | 2024-11-29 | 2026-01-15 |
 | [Seribu Tahun](https://open.spotify.com/track/5dao4fg11b8udWiLFiXJFx) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Dengan Secara Kebetulan](https://open.spotify.com/album/7aXCIaTMFIXHBKJw66RGIH) | 3:53 | 2024-11-29 | 2025-05-13 |
 | [Setia2u](https://open.spotify.com/track/1eca4fNdl0LJiYu5HdU79w) | [Candy](https://open.spotify.com/artist/5YKtQxW27hc10L9zoUts00) | [Setia2u](https://open.spotify.com/album/35kGA8zxW141ye4p4J4Kji) | 3:50 | 2024-09-27 | 2024-10-18 |
 | [Situasi](https://open.spotify.com/track/5Y1p00AX1pF7jP9irUf50A) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Phobia Phoney](https://open.spotify.com/album/0920Hzcff51JwfH8v0tJOl) | 3:57 | 2024-06-21 | 2024-07-06 |

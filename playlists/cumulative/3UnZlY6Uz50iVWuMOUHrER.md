@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3UnZlY6Uz50iVWuMOUHrER.md) - cumulative - [plain](/playlists/plain/3UnZlY6Uz50iVWuMOUHrER) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3UnZlY6Uz50iVWuMOUHrER)
+[pretty](/playlists/pretty/3UnZlY6Uz50iVWuMOUHrER.md) - cumulative - [plain](/playlists/plain/3UnZlY6Uz50iVWuMOUHrER) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3UnZlY6Uz50iVWuMOUHrER)
 
 ### [ techno schijfjes](https://open.spotify.com/playlist/3UnZlY6Uz50iVWuMOUHrER)
 

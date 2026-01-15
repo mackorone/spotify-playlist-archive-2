@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZo89d5U6t.md) - [plain](/playlists/plain/37i9dQZF1DWTAZo89d5U6t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTAZo89d5U6t)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZo89d5U6t.md) - [plain](/playlists/plain/37i9dQZF1DWTAZo89d5U6t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTAZo89d5U6t)
 
 ### [Teasing Master Takagi\-san からかい上手の高木さん](https://open.spotify.com/playlist/37i9dQZF1DWTAZo89d5U6t)
 
 > Enjoy music & episodes from “Teasing Master Takagi\-san”! 劇場版公開記念『からかい上手の高木さん』プレイリスト！　©S.Y,S/TKGM 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,095 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,131 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

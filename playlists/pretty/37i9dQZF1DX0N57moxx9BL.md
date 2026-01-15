@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain](/playlists/plain/37i9dQZF1DX0N57moxx9BL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0N57moxx9BL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain](/playlists/plain/37i9dQZF1DX0N57moxx9BL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0N57moxx9BL)
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Art of Dying
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,868 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,815 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 41 | [Blood of the Son](https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU) | [Brother Hamm](https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd) | [Blood of the Son](https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt) | 5:40 |
 | 42 | [Don't Let Go](https://open.spotify.com/track/184dbBB3Bg2ktEMFnO9knn) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [Don't Let Go](https://open.spotify.com/album/3JxAO6j6hu3DoCuyLLkpes) | 4:17 |
 | 43 | [Win Build Send](https://open.spotify.com/track/16yLqDkD0GaBOWT8Vm9WFJ) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Skyler Murray](https://open.spotify.com/artist/2GOIrJCT3ZzhSWeX6fxChI) | [Break Away the Stone](https://open.spotify.com/album/4KKycUXhpamAsV1eIMzWwz) | 4:02 |
-| 44 | [Identity Theft](https://open.spotify.com/track/3GNyLio1Z2VueMc8RSMvfj) | [Mr\. Weaverface](https://open.spotify.com/artist/4153J2W6MAMlUO3P7E46UU) | [Identity Theft](https://open.spotify.com/album/0Nb2zlQ9n4qZRIbdanPO8H) | 3:58 |
+| 44 | [Writing on the Wall](https://open.spotify.com/track/33rKDtjJQF9AnqG7Xs1JR8) | [Mr\. Weaverface](https://open.spotify.com/artist/4153J2W6MAMlUO3P7E46UU) | [Writing on the Wall](https://open.spotify.com/album/2TJ1HqBEj12H1VKEOHsESC) | 4:48 |
 | 45 | [Make War](https://open.spotify.com/track/5WTEEft8Gx5LVqt1O65Nye) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Skeleton Psalms \(Deluxe Edition\)](https://open.spotify.com/album/1ZoGRhrtfEksvamNtvB52y) | 4:13 |
 | 46 | [Everything You Ever Wanted](https://open.spotify.com/track/7p7qgUCeFGKs3KKI73UKuF) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK), [Audiophile](https://open.spotify.com/artist/1WzHgbLRerusCquTLsOq2T) | [Everything You Ever Wanted](https://open.spotify.com/album/0xriOiFfYg15JlgpCCkDXA) | 3:44 |
 | 47 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [Undefeated](https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK) | 3:06 |
 | 75 | [Found Again](https://open.spotify.com/track/6GBlqgArnysPVm2dxsGY6T) | [Ryan Tobin](https://open.spotify.com/artist/3fa1pOq8hmczAGWfYtxDPi) | [Found Again](https://open.spotify.com/album/3RRncCTfbBp4ZWBxigLYT6) | 2:36 |
 
-Snapshot ID: `AAAAANYHKJNJdtVzibDZgAVvmICxxYzH`
+Snapshot ID: `AAAAAHsjdgVpBvm2QYVeFq5zkAVy1UVT`

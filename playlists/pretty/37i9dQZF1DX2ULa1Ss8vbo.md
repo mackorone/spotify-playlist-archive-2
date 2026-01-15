@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain](/playlists/plain/37i9dQZF1DX2ULa1Ss8vbo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ULa1Ss8vbo)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain](/playlists/plain/37i9dQZF1DX2ULa1Ss8vbo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2ULa1Ss8vbo)
 
 ### [Irish Folk Ballads](https://open.spotify.com/playlist/37i9dQZF1DX2ULa1Ss8vbo)
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,277 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,452 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 24 | [Valley of Knockanure](https://open.spotify.com/track/1IUN6Bbkhc52DjZb96CfLp) | [Daoirí Farrell](https://open.spotify.com/artist/3KBy2gO90CavieWCNjUxl8) | [True Born Irishman](https://open.spotify.com/album/0M9fvpGHLr5Of2faZKmAJL) | 4:36 |
 | 25 | [Thousands Are Sailing](https://open.spotify.com/track/0OVhZl9SaOLjLvYE6hcLGc) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 5:26 |
 | 26 | [The Parting Glass](https://open.spotify.com/track/4GrSOtphVKCSE8NIvFjfbw) | [Celtic Woman](https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x) | [Decade\. The Songs, The Show, The Traditions, The Classics.](https://open.spotify.com/album/2SsSLomiMLQDeVfSTXGUi9) | 4:16 |
-| 27 | [The Man from the Daily Mail](https://open.spotify.com/track/19VwDKPmW2AMF0kZMvGYhz) | [Fee McGorman](https://open.spotify.com/artist/0jeiwWSPCfU7UgVPzzwu90) | [Songs of the Irish Republic](https://open.spotify.com/album/2139TNKGU2QxntFcxnt6SV) | 2:10 |
+| 27 | [The Man From The Daily Mail](https://open.spotify.com/track/19VwDKPmW2AMF0kZMvGYhz) | [Fee McGorman](https://open.spotify.com/artist/0jeiwWSPCfU7UgVPzzwu90) | [Songs Of The Irish Republic](https://open.spotify.com/album/2139TNKGU2QxntFcxnt6SV) | 2:10 |
 | 28 | [Many Young Men Of Twenty](https://open.spotify.com/track/57SKqppuloHRo83zt762vC) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [Across The Broad Atlantic](https://open.spotify.com/album/6izN8jhhScP4GsPTJnvMIu) | 2:25 |
 | 29 | [Streets of Sorrow / Birmingham Six](https://open.spotify.com/track/76yII1oubGA0n0Dz6jGfZk) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:36 |
 | 30 | [Whiskey in the Jar](https://open.spotify.com/track/0mWhyezAZ65Irfi71I8cUM) | [The Dublin City Ramblers](https://open.spotify.com/artist/6nXiCNSYAvQcYAXcJBN6l0) | [The Craic and the Porter Black \(The Best of Irish Pub Songs\)](https://open.spotify.com/album/45LwCby0Z9mCgPgtB83m2N) | 2:41 |

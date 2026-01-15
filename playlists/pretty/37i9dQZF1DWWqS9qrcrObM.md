@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqS9qrcrObM.md) - [plain](/playlists/plain/37i9dQZF1DWWqS9qrcrObM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWqS9qrcrObM)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqS9qrcrObM.md) - [plain](/playlists/plain/37i9dQZF1DWWqS9qrcrObM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWqS9qrcrObM)
 
 ### [Get Sturdy](https://open.spotify.com/playlist/37i9dQZF1DWWqS9qrcrObM)
 
 > go crazy, go stewpid!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,437 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,463 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain](/playlists/plain/37i9dQZF1DWWGiOQ5f5blv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWGiOQ5f5blv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain](/playlists/plain/37i9dQZF1DWWGiOQ5f5blv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWGiOQ5f5blv)
 
 ### [닥터 차정숙 \(Doctor Cha\)](https://open.spotify.com/playlist/37i9dQZF1DWWGiOQ5f5blv)
 

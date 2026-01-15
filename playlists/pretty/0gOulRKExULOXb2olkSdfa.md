@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0gOulRKExULOXb2olkSdfa.md) - [plain](/playlists/plain/0gOulRKExULOXb2olkSdfa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0gOulRKExULOXb2olkSdfa)
+pretty - [cumulative](/playlists/cumulative/0gOulRKExULOXb2olkSdfa.md) - [plain](/playlists/plain/0gOulRKExULOXb2olkSdfa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0gOulRKExULOXb2olkSdfa)
 
 ### [im not gay but this doesnt help](https://open.spotify.com/playlist/0gOulRKExULOXb2olkSdfa)
 

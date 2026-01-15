@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7JXJKP3xMvIMbEBBGApTPQ.md) - cumulative - [plain](/playlists/plain/7JXJKP3xMvIMbEBBGApTPQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7JXJKP3xMvIMbEBBGApTPQ)
+[pretty](/playlists/pretty/7JXJKP3xMvIMbEBBGApTPQ.md) - cumulative - [plain](/playlists/plain/7JXJKP3xMvIMbEBBGApTPQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7JXJKP3xMvIMbEBBGApTPQ)
 
 ### [K\-Pop Hits 2024](https://open.spotify.com/playlist/7JXJKP3xMvIMbEBBGApTPQ)
 

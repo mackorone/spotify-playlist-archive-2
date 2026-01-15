@@ -21791,6 +21791,24 @@
     },
     {
       "album": {
+        "name": "Cowboys Don't Act Like That",
+        "url": "https://open.spotify.com/album/7cZGiPIhc2cGN42JjcogeH"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "Cowboys Don't Act Like That",
+      "url": "https://open.spotify.com/track/2zUbWb7yjjhdntlFsDseXx"
+    },
+    {
+      "album": {
         "name": "Cowboys Don't Cry",
         "url": "https://open.spotify.com/album/3xQrFUOfjHqrRXvUSCkpkg"
       },
@@ -31432,7 +31450,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/2WF9xPw2LH9CPUN7mE3OQ6"
@@ -41536,6 +41554,24 @@
       "duration_ms": 194069,
       "name": "Hard Feelings",
       "url": "https://open.spotify.com/track/2ECtHKXqVGcvgNcjJ0OwYE"
+    },
+    {
+      "album": {
+        "name": "Hard Pill",
+        "url": "https://open.spotify.com/album/15PD9rnBxeUhFfA13qkXVO"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199714,
+      "name": "Hard Pill",
+      "url": "https://open.spotify.com/track/1MKBNca9hluUAqgsUV4qMG"
     },
     {
       "album": {
@@ -60102,6 +60138,28 @@
       "duration_ms": 260385,
       "name": "Madre Querida",
       "url": "https://open.spotify.com/track/5Yzwdbt45riVXTJOeZmiRW"
+    },
+    {
+      "album": {
+        "name": "MagaZine",
+        "url": "https://open.spotify.com/album/3GY6FKi1kqqpGiAvc51qNA"
+      },
+      "artists": [
+        {
+          "name": "Dimzy",
+          "url": "https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4"
+        },
+        {
+          "name": "67",
+          "url": "https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "MagaZine",
+      "url": "https://open.spotify.com/track/166Jw6qlLJKjL9bQmEvO63"
     },
     {
       "album": {
@@ -84948,7 +85006,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 123870,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/1bWDepPIFdhj8b6FN6enRt"
@@ -106578,7 +106636,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 132503,
       "name": "What We On",
       "url": "https://open.spotify.com/track/6MWxCa81eL7GpzqMpzyRNx"

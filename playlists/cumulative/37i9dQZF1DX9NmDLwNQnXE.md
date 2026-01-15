@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9NmDLwNQnXE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9NmDLwNQnXE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9NmDLwNQnXE)
+[pretty](/playlists/pretty/37i9dQZF1DX9NmDLwNQnXE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9NmDLwNQnXE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9NmDLwNQnXE)
 
 ### [Storm Sounds for Sleep](https://open.spotify.com/playlist/37i9dQZF1DX9NmDLwNQnXE)
 
 > Relax to the sound of a storm setting in.
 
-450 songs - 20 hr 18 min
+451 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,12 +336,13 @@
 | [starlit rainfall](https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:41 | 2022-07-18 | 2024-03-09 |
 | [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 | 2021-11-10 | 2022-10-14 |
 | [Starting to rain](https://open.spotify.com/track/7dkQRyEnWGmki1fGtkvGAW) | [The Wet](https://open.spotify.com/artist/2IgElvWe0O1lxnnW4XPmNE) | [Rain outside my window](https://open.spotify.com/album/4EdscJEihXupZqV6UaKAhc) | 3:32 | 2021-11-10 |  |
+| [Stay Inside](https://open.spotify.com/track/3hdJ1hzaVj0qm1DTVX1WNi) | [Noise Matters](https://open.spotify.com/artist/4NZCehSaIGVPKa1nGQZqJA) | [Stay Inside](https://open.spotify.com/album/4ioM7nm8czvI2P0iKntTRj) | 3:11 | 2025-12-19 |  |
 | [Stetiger Regen](https://open.spotify.com/track/3vwZ7YcQ24GtvvuWQTRcXO) | [Die ganze Nacht](https://open.spotify.com/artist/1OcoltzN3WhJYzAoAtf0Xl) | [Regen die ganze Nacht](https://open.spotify.com/album/1lzDK9FfV0KxJgAbOvYm1s) | 2:11 | 2021-11-10 | 2024-03-23 |
 | [Storm Ahead](https://open.spotify.com/track/4kHA1o1prccwstvGjPAUkP) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Celtic Storm](https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn) | 3:12 | 2021-11-10 | 2024-03-09 |
 | [Storm Away](https://open.spotify.com/track/4JU9FYKj4K1eaey9SazCKE) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Liquid Storm](https://open.spotify.com/album/1bBZfJGjFBeohv2Mdigyti) | 1:45 | 2021-11-10 | 2023-06-16 |
 | [Storm Away](https://open.spotify.com/track/2aRwU4NEBchyPIAvzONd67) | [Dark Thunder Forest](https://open.spotify.com/artist/7HnH9fTkvDwEgTit9qwe9d) | [Dark Thunder 2](https://open.spotify.com/album/2JDGCTkC92RckQGlOeUEch) | 2:42 | 2023-02-13 |  |
 | [Storm Dreaming](https://open.spotify.com/track/5jD3UfznmqTdBvWOkKKPKa) | [Haruna Fields](https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL) | [Black Storm](https://open.spotify.com/album/1F9tRpXv45NOVwyvgSFF9R) | 2:04 | 2021-11-10 |  |
-| [Storm During Night](https://open.spotify.com/track/0DhLvC2rnUUEffwwHYoCt6) | [Atmospheric Force](https://open.spotify.com/artist/6Py5HyyKAoChKdXs6CofD8) | [Stormy Conditions](https://open.spotify.com/album/54Sg1PfgxhbOgIrCmxMuwf) | 2:47 | 2021-11-10 |  |
+| [Storm During Night](https://open.spotify.com/track/0DhLvC2rnUUEffwwHYoCt6) | [Atmospheric Force](https://open.spotify.com/artist/6Py5HyyKAoChKdXs6CofD8) | [Stormy Conditions](https://open.spotify.com/album/54Sg1PfgxhbOgIrCmxMuwf) | 2:47 | 2021-11-10 | 2026-01-15 |
 | [Storm From The North](https://open.spotify.com/track/6suFVz8lztiEwk7WFcM1TN) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm From The North](https://open.spotify.com/album/1uHb3rCfRwo9UTNKvXt7hd) | 2:44 | 2023-02-13 |  |
 | [Storm In Manchester](https://open.spotify.com/track/6OoxcsTg73NQ7gGc163hsz) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [British Storms](https://open.spotify.com/album/2tp4FAKkOdT7SFI0ilV5Ap) | 3:36 | 2021-11-10 | 2024-03-23 |
 | [Storm Is Building Up](https://open.spotify.com/track/13yZWnQQjc3VrHXh16ujky) | [Weather Man](https://open.spotify.com/artist/5znXlYkm0Dv19ioN2utZFv) | [Low Pressure](https://open.spotify.com/album/36Bvfz1AnAQaBYOVZjmf96) | 2:36 | 2021-11-10 |  |

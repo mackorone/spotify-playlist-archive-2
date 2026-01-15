@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaUaRhCgtpCo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaUaRhCgtpCo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaUaRhCgtpCo)
+[pretty](/playlists/pretty/37i9dQZF1DXaUaRhCgtpCo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaUaRhCgtpCo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaUaRhCgtpCo)
 
 ### [Best of Star Wars](https://open.spotify.com/playlist/37i9dQZF1DXaUaRhCgtpCo)
 

@@ -9022,7 +9022,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 202942,
       "name": "ME DIZ AGORA",
       "url": "https://open.spotify.com/track/7jTXfoUTbBQbbDsZFJ4zT3"
@@ -10512,7 +10512,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170623,
       "name": "Nem Tudo S\u00e3o Flores",
       "url": "https://open.spotify.com/track/3zPKgsnvyoRk3G6xhbSiGd"
@@ -12115,6 +12115,32 @@
     },
     {
       "album": {
+        "name": "Passa o Beck",
+        "url": "https://open.spotify.com/album/485NRfVV4lJYPS517lBCN5"
+      },
+      "artists": [
+        {
+          "name": "Bia e Bella",
+          "url": "https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW"
+        },
+        {
+          "name": "Pedro Vern\u00e9",
+          "url": "https://open.spotify.com/artist/50DuPUvDj01Fd3yQb1ALXH"
+        },
+        {
+          "name": "Soft World",
+          "url": "https://open.spotify.com/artist/6oZcMav6FpgRsaHzAJ7vA8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Passa o Beck",
+      "url": "https://open.spotify.com/track/3h54LeGsVaREXywhEnbjDT"
+    },
+    {
+      "album": {
         "name": "Peito Aberto",
         "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
       },
@@ -12736,6 +12762,28 @@
       "duration_ms": 213333,
       "name": "Polo Branca",
       "url": "https://open.spotify.com/track/5YVzSFvj6VB4Kq5TcUX90i"
+    },
+    {
+      "album": {
+        "name": "Polo Sul",
+        "url": "https://open.spotify.com/album/6OESDJVeeDmndkAsqoRVva"
+      },
+      "artists": [
+        {
+          "name": "AION",
+          "url": "https://open.spotify.com/artist/7t3auTvw4mJuqsW2FQXnSP"
+        },
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/42WhuPEr5hc4Z2OaI9nbtm"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Polo Sul",
+      "url": "https://open.spotify.com/track/3NeVYtRfeQP4UsDVhIB8Qn"
     },
     {
       "album": {
@@ -15440,7 +15488,7 @@
       },
       "artists": [
         {
-          "name": "AJULIACOSTA",
+          "name": "AJULLIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {

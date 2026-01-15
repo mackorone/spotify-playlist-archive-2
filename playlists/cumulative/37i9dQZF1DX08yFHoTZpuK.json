@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Disappear | Between Thoughts",
+        "url": "https://open.spotify.com/album/20nwso1U6ydpaVXCPCvlZo"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Atobe",
+          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397964,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/0wS2lHu920Nm9G5Ee24mjW"
+    },
+    {
+      "album": {
         "name": "Asakusa Light",
         "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
       },
@@ -420,7 +438,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 168333,
       "name": "glowing arcade",
       "url": "https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG"
@@ -446,6 +464,24 @@
       "duration_ms": 131054,
       "name": "go!",
       "url": "https://open.spotify.com/track/5t2y268snYiNava21XWxMZ"
+    },
+    {
+      "album": {
+        "name": "ROMP",
+        "url": "https://open.spotify.com/album/1aVH41SAin716xpep2O53d"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "I SYNC",
+      "url": "https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw"
     },
     {
       "album": {
@@ -664,7 +700,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 264473,
       "name": "Outro",
       "url": "https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo"
@@ -722,6 +758,28 @@
       "duration_ms": 366421,
       "name": "Quiet Town of Tokyo",
       "url": "https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu"
+    },
+    {
+      "album": {
+        "name": "Reason EP",
+        "url": "https://open.spotify.com/album/1DQJ48DnUMiPiVagQWlgbP"
+      },
+      "artists": [
+        {
+          "name": "andrew",
+          "url": "https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr"
+        },
+        {
+          "name": "Stupid Kozo",
+          "url": "https://open.spotify.com/artist/3f012UB1Piib4r7kKfixDF"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385286,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/2O9NEC7T5nwhxdRdkoQOcq"
     },
     {
       "album": {
@@ -1112,10 +1170,36 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203020,
       "name": "WHAT",
       "url": "https://open.spotify.com/track/5mJg8tgBqfi99njbzHUFIw"
+    },
+    {
+      "album": {
+        "name": "who do u love?",
+        "url": "https://open.spotify.com/album/6Ixz4Oy2ZEmFQgdhQOUOgM"
+      },
+      "artists": [
+        {
+          "name": "Keep in Touch",
+          "url": "https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd"
+        },
+        {
+          "name": "mee mee mee",
+          "url": "https://open.spotify.com/artist/64ogzjxH3ZXoCbXmmySiUB"
+        },
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197863,
+      "name": "who do u love?",
+      "url": "https://open.spotify.com/track/6xyl77bg5JgjxgJvsIpkml"
     },
     {
       "album": {
@@ -1134,7 +1218,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213700,
       "name": "wo ai ni - Shinichi Osawa Remix",
       "url": "https://open.spotify.com/track/0SMRll97QhuWoiqSkLKwzt"

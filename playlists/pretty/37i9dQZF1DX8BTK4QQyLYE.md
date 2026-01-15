@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BTK4QQyLYE.md) - [plain](/playlists/plain/37i9dQZF1DX8BTK4QQyLYE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8BTK4QQyLYE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BTK4QQyLYE.md) - [plain](/playlists/plain/37i9dQZF1DX8BTK4QQyLYE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8BTK4QQyLYE)
 
 ### [Amber Ruffin's Taste](https://open.spotify.com/playlist/37i9dQZF1DX8BTK4QQyLYE)
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/amberruffin/">Amber Ruffin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,211 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,312 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

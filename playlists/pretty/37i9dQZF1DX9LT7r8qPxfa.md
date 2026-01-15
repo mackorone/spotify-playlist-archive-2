@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain](/playlists/plain/37i9dQZF1DX9LT7r8qPxfa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9LT7r8qPxfa)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain](/playlists/plain/37i9dQZF1DX9LT7r8qPxfa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9LT7r8qPxfa)
 
 ### [dusk](https://open.spotify.com/playlist/37i9dQZF1DX9LT7r8qPxfa)
 
 > sounds to accompany the fading sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,407 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,187 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

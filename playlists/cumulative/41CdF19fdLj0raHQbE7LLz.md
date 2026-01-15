@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/41CdF19fdLj0raHQbE7LLz.md) - cumulative - [plain](/playlists/plain/41CdF19fdLj0raHQbE7LLz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/41CdF19fdLj0raHQbE7LLz)
+[pretty](/playlists/pretty/41CdF19fdLj0raHQbE7LLz.md) - cumulative - [plain](/playlists/plain/41CdF19fdLj0raHQbE7LLz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/41CdF19fdLj0raHQbE7LLz)
 
 ### [Spektre's Selection](https://open.spotify.com/playlist/41CdF19fdLj0raHQbE7LLz)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4nQ5NlnrDCH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4nQ5NlnrDCH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4nQ5NlnrDCH)
+[pretty](/playlists/pretty/37i9dQZF1DX4nQ5NlnrDCH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4nQ5NlnrDCH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4nQ5NlnrDCH)
 
 ### [Chantons avec L'âne Trotro](https://open.spotify.com/playlist/37i9dQZF1DX4nQ5NlnrDCH)
 

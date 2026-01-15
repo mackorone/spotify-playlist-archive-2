@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbDjX0hus3Iu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbDjX0hus3Iu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbDjX0hus3Iu)
+[pretty](/playlists/pretty/37i9dQZF1DXbDjX0hus3Iu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbDjX0hus3Iu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbDjX0hus3Iu)
 
 ### [Southern Rock](https://open.spotify.com/playlist/37i9dQZF1DXbDjX0hus3Iu)
 

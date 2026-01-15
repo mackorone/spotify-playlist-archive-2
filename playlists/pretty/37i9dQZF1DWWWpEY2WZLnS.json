@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: El Alfa",
-  "num_followers": 700650,
+  "num_followers": 701051,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIyV3Tt9ZO9c5Kjqq4m9U13opgrP",
+  "snapshot_id": "AAAAAA9Sauvnp113NYslConWKNZqYubL",
   "tracks": [
     {
       "added_at": "2025-10-09 21:10:05",
@@ -139,6 +139,26 @@
       "duration_ms": 108521,
       "name": "Lo Que Pueda",
       "url": "https://open.spotify.com/track/30nFYRKzWVSRD3On03CbzH"
+    },
+    {
+      "added_at": "2026-01-08 22:14:17",
+      "album": {
+        "name": "Se Dejo Del Novio",
+        "url": "https://open.spotify.com/album/4A379mjlFDtZgMQKkYHXGB"
+      },
+      "artists": [
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 130677,
+      "name": "Se Dejo Del Novio",
+      "url": "https://open.spotify.com/track/1Xr3x1zElsBYlFzTvS60c8"
     },
     {
       "added_at": "2025-07-17 21:05:28",
@@ -355,30 +375,6 @@
       "duration_ms": 140641,
       "name": "Hijo D Perra",
       "url": "https://open.spotify.com/track/1OxXmi5yhIf8jaHeUPlRuV"
-    },
-    {
-      "added_at": "2025-09-27 21:02:54",
-      "album": {
-        "name": "Que Rica",
-        "url": "https://open.spotify.com/album/7asfVYRPtTeyHzdBTVw133"
-      },
-      "artists": [
-        {
-          "name": "Crazy Design",
-          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
-        },
-        {
-          "name": "Alofoke Music",
-          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
-        },
-        {
-          "name": "B One El Productor De Oro",
-          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
-        }
-      ],
-      "duration_ms": 115161,
-      "name": "Crazy Design - Que Rica",
-      "url": "https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1"
     },
     {
       "added_at": "2024-08-23 04:00:00",

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcv6uiiM3OQq.md) - [plain](/playlists/plain/37i9dQZF1DXcv6uiiM3OQq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcv6uiiM3OQq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcv6uiiM3OQq.md) - [plain](/playlists/plain/37i9dQZF1DXcv6uiiM3OQq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcv6uiiM3OQq)
 
 ### [Jay Park  WORLD TOUR \[Serenades & Body Rolls\] In Seoul ](https://open.spotify.com/playlist/37i9dQZF1DXcv6uiiM3OQq)
 
 > Enjoy the Jay Park  WORLD TOUR \[Serenades & Body Rolls\] LIVE SET including the voices of them on stage! \(박재범의 무대 멘트와 목소리가 포함된 \[Serenades & Body Rolls\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,034 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,035 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

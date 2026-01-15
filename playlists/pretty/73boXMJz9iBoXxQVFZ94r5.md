@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/73boXMJz9iBoXxQVFZ94r5.md) - [plain](/playlists/plain/73boXMJz9iBoXxQVFZ94r5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/73boXMJz9iBoXxQVFZ94r5)
+pretty - [cumulative](/playlists/cumulative/73boXMJz9iBoXxQVFZ94r5.md) - [plain](/playlists/plain/73boXMJz9iBoXxQVFZ94r5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/73boXMJz9iBoXxQVFZ94r5)
 
 ### [International Playboy](https://open.spotify.com/playlist/73boXMJz9iBoXxQVFZ94r5)
 
 > If you travel the world and the seven seas, cashing six figure checks in all currencies, this playlist is a perfect companion for that business class seat or limo ride...
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,770 likes - 23 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,721 likes - 23 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

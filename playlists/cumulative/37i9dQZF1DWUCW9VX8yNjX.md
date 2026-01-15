@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUCW9VX8yNjX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUCW9VX8yNjX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUCW9VX8yNjX)
+[pretty](/playlists/pretty/37i9dQZF1DWUCW9VX8yNjX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUCW9VX8yNjX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUCW9VX8yNjX)
 
 ### [La Dinastía de..\. Los Fernández](https://open.spotify.com/playlist/37i9dQZF1DWUCW9VX8yNjX)
 

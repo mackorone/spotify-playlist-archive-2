@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iAOkSHdhFI.md) - [plain](/playlists/plain/37i9dQZF1DX7iAOkSHdhFI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7iAOkSHdhFI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iAOkSHdhFI.md) - [plain](/playlists/plain/37i9dQZF1DX7iAOkSHdhFI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7iAOkSHdhFI)
 
 ### [Green Day: The Early Years](https://open.spotify.com/playlist/37i9dQZF1DX7iAOkSHdhFI)
 
 > The rise of the world's most influential punk band.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,756 likes - 24 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,751 likes - 24 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

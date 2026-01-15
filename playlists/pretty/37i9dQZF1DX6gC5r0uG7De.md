@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gC5r0uG7De.md) - [plain](/playlists/plain/37i9dQZF1DX6gC5r0uG7De) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6gC5r0uG7De)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gC5r0uG7De.md) - [plain](/playlists/plain/37i9dQZF1DX6gC5r0uG7De) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6gC5r0uG7De)
 
 ### [COUNTER//CULTURE: Turnstile](https://open.spotify.com/playlist/37i9dQZF1DX6gC5r0uG7De)
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x?si=mZUAo3dRQaGyttnHQTVj5g">Turnstile's'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,690 likes - 34 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,780 likes - 34 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

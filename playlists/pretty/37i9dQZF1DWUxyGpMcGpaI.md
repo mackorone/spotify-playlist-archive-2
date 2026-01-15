@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain](/playlists/plain/37i9dQZF1DWUxyGpMcGpaI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUxyGpMcGpaI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain](/playlists/plain/37i9dQZF1DWUxyGpMcGpaI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUxyGpMcGpaI)
 
 ### [Chainsaw Man](https://open.spotify.com/playlist/37i9dQZF1DWUxyGpMcGpaI)
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! © 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,174 likes - 96 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,970 likes - 96 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

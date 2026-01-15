@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain](/playlists/plain/20LKsiDZd4ALrlihncFcFa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/20LKsiDZd4ALrlihncFcFa)
+pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain](/playlists/plain/20LKsiDZd4ALrlihncFcFa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/20LKsiDZd4ALrlihncFcFa)
 
 ### [90s ALT ROCK](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
 
 > alt rock \| alternative rock \| 90s alternative rock \| 1990s alt rock \| 90s hits \| grunge \| 90s rock \| 90s throwbacks \| punk \| nirvana \| alice in chains \| incubus \| radiohead \| pearl jam \| foo fighters \| metallica \| soundgarden \| oasis \| audioslave
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 704,823 likes - 150 songs - 10 hr 26 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 704,216 likes - 150 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

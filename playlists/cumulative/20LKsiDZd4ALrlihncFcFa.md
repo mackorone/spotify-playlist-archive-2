@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/20LKsiDZd4ALrlihncFcFa.md) - cumulative - [plain](/playlists/plain/20LKsiDZd4ALrlihncFcFa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/20LKsiDZd4ALrlihncFcFa)
+[pretty](/playlists/pretty/20LKsiDZd4ALrlihncFcFa.md) - cumulative - [plain](/playlists/plain/20LKsiDZd4ALrlihncFcFa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/20LKsiDZd4ALrlihncFcFa)
 
 ### [90s ALT ROCK](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
 

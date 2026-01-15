@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxOR9LGlUTr.md) - [plain](/playlists/plain/37i9dQZF1DWWxOR9LGlUTr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWxOR9LGlUTr)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxOR9LGlUTr.md) - [plain](/playlists/plain/37i9dQZF1DWWxOR9LGlUTr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWxOR9LGlUTr)
 
 ### [COUNTER//CULTURE: Anna Waronker & Craig Wedren](https://open.spotify.com/playlist/37i9dQZF1DWWxOR9LGlUTr)
 
 > These are the songs that have shaped "Yellowjackets" composers Anna Waronker & Craig Wedren's alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,129 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,232 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

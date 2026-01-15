@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain](/playlists/plain/37i9dQZF1DX92WbCyxmvRU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX92WbCyxmvRU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain](/playlists/plain/37i9dQZF1DX92WbCyxmvRU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX92WbCyxmvRU)
 
 ### [SONIC THE HEDGEHOG](https://open.spotify.com/playlist/37i9dQZF1DX92WbCyxmvRU)
 
 > Spotifyで人気のソニックシリーズ楽曲を収録したオフィシャルプレイリスト！/Official playlist of popular Sonic series songs on Spotify!  \(C\)SEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,127 likes - 53 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,408 likes - 53 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

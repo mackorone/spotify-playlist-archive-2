@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJXfCVYbEo4.md) - [plain](/playlists/plain/37i9dQZF1DXdJXfCVYbEo4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdJXfCVYbEo4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJXfCVYbEo4.md) - [plain](/playlists/plain/37i9dQZF1DXdJXfCVYbEo4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdJXfCVYbEo4)
 
 ### [Soda Stereo: 25 Esenciales](https://open.spotify.com/playlist/37i9dQZF1DXdJXfCVYbEo4)
 
 > Las canciones que consagraron a Soda Stereo en Latinoamérica y más allá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,820 likes - 25 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,904 likes - 25 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

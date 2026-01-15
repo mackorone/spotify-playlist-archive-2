@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6bkgIWftG0tADbz8wTOwRh.md) - [plain](/playlists/plain/6bkgIWftG0tADbz8wTOwRh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6bkgIWftG0tADbz8wTOwRh)
+pretty - [cumulative](/playlists/cumulative/6bkgIWftG0tADbz8wTOwRh.md) - [plain](/playlists/plain/6bkgIWftG0tADbz8wTOwRh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6bkgIWftG0tADbz8wTOwRh)
 
 ### [BASS THERAPY](https://open.spotify.com/playlist/6bkgIWftG0tADbz8wTOwRh)
 
 > Bringing you the best dance music of Create Music Group!
 
-[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,074 likes - 69 songs - 4 hr 19 min
+[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,075 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

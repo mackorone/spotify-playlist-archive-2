@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3D78h6FPBPC.md) - [plain](/playlists/plain/37i9dQZF1DX3D78h6FPBPC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3D78h6FPBPC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3D78h6FPBPC.md) - [plain](/playlists/plain/37i9dQZF1DX3D78h6FPBPC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3D78h6FPBPC)
 
 ### [This Is ABBA](https://open.spotify.com/playlist/37i9dQZF1DX3D78h6FPBPC)
 
 > This is ABBA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,782,740 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,784,874 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

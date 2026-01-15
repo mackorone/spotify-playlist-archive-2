@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain](/playlists/plain/37i9dQZF1DWZ4eoHSGpAXu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ4eoHSGpAXu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain](/playlists/plain/37i9dQZF1DWZ4eoHSGpAXu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ4eoHSGpAXu)
 
 ### [Worship Wednesdays](https://open.spotify.com/playlist/37i9dQZF1DWZ4eoHSGpAXu)
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,969 likes - 65 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,151 likes - 65 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

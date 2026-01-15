@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Luis Alfonso",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Yeison Jimenez en portada \ud83e\udd0d",
   "name": "La + Popular",
   "tracks": [
     {
@@ -1893,6 +1893,46 @@
     },
     {
       "album": {
+        "name": "El Mejor (Remix)",
+        "url": "https://open.spotify.com/album/24jc1fs4ZW1bQdj8cnYREv"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "El Mejor - Remix",
+      "url": "https://open.spotify.com/track/1xRRW5ZrL7I9EG8CGZrXHE"
+    },
+    {
+      "album": {
+        "name": "Con el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161401,
+      "name": "El Mejor Caballo",
+      "url": "https://open.spotify.com/track/4Udf3NPZZVggwmVXHcjuqA"
+    },
+    {
+      "album": {
         "name": "El Mozo",
         "url": "https://open.spotify.com/album/4uquyLXvfIUlXkeZQqc8ss"
       },
@@ -2384,7 +2424,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167637,
       "name": "GPS #3 - Yatusa",
       "url": "https://open.spotify.com/track/7hZvxE2DY0ND6J6u926qyv"
@@ -3086,7 +3126,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163354,
       "name": "Ley De La Atracci\u00f3n",
       "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
@@ -5043,6 +5083,24 @@
     },
     {
       "album": {
+        "name": "Con el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179664,
+      "name": "Qu\u00e9 D\u00eda Es Hoy",
+      "url": "https://open.spotify.com/track/5PB1ITleNasy7UMYEaBWkL"
+    },
+    {
+      "album": {
         "name": "No Pongan Esas Canciones",
         "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
       },
@@ -5458,7 +5516,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160818,
       "name": "Sin Ropa Eres M\u00eda",
       "url": "https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm"
@@ -5816,7 +5874,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210024,
       "name": "Tu amor o tu enemigo",
       "url": "https://open.spotify.com/track/0OKEHehzLHS5YX4N2KrTqk"
@@ -5896,7 +5954,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 265026,
       "name": "Tus \u00daltimas Palabras",
       "url": "https://open.spotify.com/track/2jrQM8Yrd97q6eUvRZm1X0"
@@ -5958,6 +6016,24 @@
       "duration_ms": 201001,
       "name": "Un Loco Enamorado",
       "url": "https://open.spotify.com/track/7xSnRDIfclnEVMcz6KGuo4"
+    },
+    {
+      "album": {
+        "name": "Todo de Mi (Vol. 4)",
+        "url": "https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193259,
+      "name": "Un Perro Enamorado",
+      "url": "https://open.spotify.com/track/3kcr3teEgyTOVIAxMPOPeO"
     },
     {
       "album": {
@@ -6118,6 +6194,24 @@
       "duration_ms": 189020,
       "name": "Vete",
       "url": "https://open.spotify.com/track/3ACihAMxekfqGod6LiuKEH"
+    },
+    {
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0Py5k3RPR4YGEPzH3Rq2I4"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189025,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634"
     },
     {
       "album": {

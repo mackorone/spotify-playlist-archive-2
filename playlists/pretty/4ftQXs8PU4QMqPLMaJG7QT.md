@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/4ftQXs8PU4QMqPLMaJG7QT.md) - [plain](/playlists/plain/4ftQXs8PU4QMqPLMaJG7QT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ftQXs8PU4QMqPLMaJG7QT)
+pretty - [cumulative](/playlists/cumulative/4ftQXs8PU4QMqPLMaJG7QT.md) - [plain](/playlists/plain/4ftQXs8PU4QMqPLMaJG7QT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4ftQXs8PU4QMqPLMaJG7QT)
 
 ### [Getaway Rock 2013](https://open.spotify.com/playlist/4ftQXs8PU4QMqPLMaJG7QT)
 

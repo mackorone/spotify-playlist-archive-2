@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/54LbSpjd64NjKPUyYAGkNU.md) - cumulative - [plain](/playlists/plain/54LbSpjd64NjKPUyYAGkNU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/54LbSpjd64NjKPUyYAGkNU)
+[pretty](/playlists/pretty/54LbSpjd64NjKPUyYAGkNU.md) - cumulative - [plain](/playlists/plain/54LbSpjd64NjKPUyYAGkNU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/54LbSpjd64NjKPUyYAGkNU)
 
 ### [Hours of Ours](https://open.spotify.com/playlist/54LbSpjd64NjKPUyYAGkNU)
 

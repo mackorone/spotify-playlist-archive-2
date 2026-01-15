@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain](/playlists/plain/37i9dQZF1DWTTCCEjVC99N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTTCCEjVC99N)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain](/playlists/plain/37i9dQZF1DWTTCCEjVC99N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTTCCEjVC99N)
 
 ### [All Out Arabic 00's](https://open.spotify.com/playlist/37i9dQZF1DWTTCCEjVC99N)
 
 > The biggest Arabic songs in the 2000's\. Cover: Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,141 likes - 76 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,626 likes - 76 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

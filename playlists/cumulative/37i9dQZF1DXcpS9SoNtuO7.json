@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+        "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+          "url": "https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2942764,
+      "name": "#95 \u52dd\u624b\u306b\u8272\u3093\u306a\u201c\u5468\u5e74\u30a4\u30e4\u30fc\u201d\u3092\u795d\u304a\u30462026!!\uff0f\u4eac Premium Live\uff06\u51ac\u30b3\u30df\uff0fangela\u306b\u307e\u305f\u3082\u3084\u5922\u4e2d\uff01",
+      "url": "https://open.spotify.com/episode/2HtJKso8XLxSGPB9JsJZ6d"
+    },
+    {
+      "album": {
         "name": "SUB MACHINE, BEST MACHINE (Best Selected Edition)",
         "url": "https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J"
       },
@@ -1180,6 +1198,24 @@
       "duration_ms": 228420,
       "name": "Ancient Creations - feat. Shing02",
       "url": "https://open.spotify.com/track/7vF3in6pwMoX2827x4d7ZV"
+    },
+    {
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/5uczSYRbdHoSvsFvkX63xC"
+      },
+      "artists": [
+        {
+          "name": "angela",
+          "url": "https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228190,
+      "name": "angela\u4f53\u64cd",
+      "url": "https://open.spotify.com/track/3cdGD7oHNQXWxkQ0fOP9oi"
     },
     {
       "album": {
@@ -1580,7 +1616,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 175727,
       "name": "BOW AND ARROW",
       "url": "https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg"
@@ -4948,7 +4984,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192633,
       "name": "NE-CHU-SHOW",
       "url": "https://open.spotify.com/track/312kNPD3KoZarnIgqs7H3O"
@@ -5190,7 +5226,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 249333,
       "name": "ONE LIFE",
       "url": "https://open.spotify.com/track/4v4R6b5a8lIu7WtS2qQpxv"
@@ -5538,7 +5574,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180832,
       "name": "Plazma",
       "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
@@ -8395,6 +8431,24 @@
     },
     {
       "album": {
+        "name": "\u304b\u3082\u3081\u304c\u7fd4\u3093\u3060\u65e5",
+        "url": "https://open.spotify.com/album/45UNjgq5pGLhXFEzYDZDgH"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "\u304b\u3082\u3081\u304c\u7fd4\u3093\u3060\u65e5",
+      "url": "https://open.spotify.com/track/5tqtKAtIbp4cGueVXmqiFn"
+    },
+    {
+      "album": {
         "name": "PENKI\u3010\u901a\u5e38\u76e4\u3011",
         "url": "https://open.spotify.com/album/1S3RsyQL3xrzs4BYZlu2DZ"
       },
@@ -8630,7 +8684,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 255200,
       "name": "\u305d\u3070\u304b\u3059",
       "url": "https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr"
@@ -8956,7 +9010,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 91200,
       "name": "\u3082\u3046\u3069\u3046\u306a\u3063\u3066\u3082\u3044\u3044\u3084 - Movie edition -",
       "url": "https://open.spotify.com/track/02ud4apJeoeoQPMyl1fVZn"
@@ -10334,7 +10388,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 206506,
       "name": "\u30b9\u30ad\u30ad\u30e9\u30a4\u3082\u8ffd\u3044\u8d8a\u3057\u3066 \uff5e4\u4ebaver.\uff5e",
       "url": "https://open.spotify.com/track/56Ql6zmvUfhVq2Iy7Dl0f3"
@@ -10482,7 +10536,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211494,
       "name": "\u30bc\u30ed\uff65\u30a4\u30b0\u30cb\u30c3\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/355KUmyYlF3KHkoa1X4pyc"
@@ -11400,7 +11454,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221000,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi"
@@ -12228,7 +12282,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 275453,
       "name": "\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3 Myth of Emotions Ver.",
       "url": "https://open.spotify.com/track/60Zt5Ly2WwzmuVVtgMcQQx"
@@ -12394,6 +12448,24 @@
       "duration_ms": 218973,
       "name": "\u541b\u3088\u3000\u6c17\u9ad8\u304f\u3042\u308c",
       "url": "https://open.spotify.com/track/3ciYAkZBt8cXDM6Ekgtgrh"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30de\u30b3\u30b3\u30cb\u30a2\u30eb\u30e2\u30ce",
+        "url": "https://open.spotify.com/album/2EVkdRdHNqS5r2WLaE8MU2"
+      },
+      "artists": [
+        {
+          "name": "Sound Schedule",
+          "url": "https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280706,
+      "name": "\u5420\u3048\u308b\u72ac\u3068\u541b",
+      "url": "https://open.spotify.com/track/4SnUzJYb6KC7bf3GxfqWjS"
     },
     {
       "album": {
@@ -13126,7 +13198,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 201773,
       "name": "\u604b\u306e\u30df\u30af\u30eb\u4f1d\u8aac",
       "url": "https://open.spotify.com/track/1SQ0z3rAndqnUjImZxFaB4"
@@ -13350,7 +13422,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 214627,
       "name": "\u660e\u65e5\u306e\u79c1\u306b\u5e78\u3042\u308c",
       "url": "https://open.spotify.com/track/0ZnvQc8Ql8foFq4aprS3ke"
@@ -14118,7 +14190,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 192562,
       "name": "\u7570\u4e16\u754c\u5354\u594f\u66f2",
       "url": "https://open.spotify.com/track/1HOquS8L5MUXYoArwla467"
@@ -14710,7 +14782,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205984,
       "name": "\u8d70\u308cSAKAMOTO",
       "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"

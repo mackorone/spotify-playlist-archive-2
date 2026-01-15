@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3U0nHO51uqjJUYbqfO6HYN.md) - cumulative - [plain](/playlists/plain/3U0nHO51uqjJUYbqfO6HYN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3U0nHO51uqjJUYbqfO6HYN)
+[pretty](/playlists/pretty/3U0nHO51uqjJUYbqfO6HYN.md) - cumulative - [plain](/playlists/plain/3U0nHO51uqjJUYbqfO6HYN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3U0nHO51uqjJUYbqfO6HYN)
 
 ### [Acid western ](https://open.spotify.com/playlist/3U0nHO51uqjJUYbqfO6HYN)
 

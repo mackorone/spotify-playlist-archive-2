@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 543681,
+  "num_followers": 544044,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Raydio",
+        "url": "https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE"
+      },
+      "artists": [
+        {
+          "name": "Raydio",
+          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
+        }
+      ],
+      "duration_ms": 275666,
+      "name": "Jack and Jill",
+      "url": "https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "The Best of Sister Sledge (1973-1985)",
         "url": "https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 278626,
       "name": "Taste of Bitter Love",
       "url": "https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Raydio",
-        "url": "https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE"
-      },
-      "artists": [
-        {
-          "name": "Raydio",
-          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
-        }
-      ],
-      "duration_ms": 275666,
-      "name": "Jack and Jill",
-      "url": "https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz"
-      },
-      "artists": [
-        {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
-        }
-      ],
-      "duration_ms": 326093,
-      "name": "Going Back to My Roots - 12\" Version",
-      "url": "https://open.spotify.com/track/1a4JG31yqWFwsFccPIxAYO"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "More Monty",
         "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 204200,
       "name": "Turn the Beat Around",
       "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 326093,
+      "name": "Going Back to My Roots - 12\" Version",
+      "url": "https://open.spotify.com/track/1a4JG31yqWFwsFccPIxAYO"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/5cXFnZmxsPswg3h9CnHpyo"
     },
     {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz"
-      },
-      "artists": [
-        {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
-        }
-      ],
-      "duration_ms": 334760,
-      "name": "Native New Yorker - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/1SqON2D7N5VeiOdT5fZE4F"
-    },
-    {
       "added_at": "2021-07-04 17:34:32",
       "album": {
         "name": "Disco Champs",
@@ -659,6 +643,22 @@
       "duration_ms": 223093,
       "name": "Relight My Fire - Single Version",
       "url": "https://open.spotify.com/track/1PheCxmNb4A4d0LhW3ZtQp"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 334760,
+      "name": "Native New Yorker - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/1SqON2D7N5VeiOdT5fZE4F"
     },
     {
       "added_at": "2020-04-14 18:41:41",

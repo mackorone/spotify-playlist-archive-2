@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain](/playlists/plain/37i9dQZF1DX28OajZ4kQnX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX28OajZ4kQnX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain](/playlists/plain/37i9dQZF1DX28OajZ4kQnX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX28OajZ4kQnX)
 
 ### [256 Bars](https://open.spotify.com/playlist/37i9dQZF1DX28OajZ4kQnX)
 
 > Kick it with some of the hottest bars from Uganda +256\. Cover: The Mith
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,824 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,845 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

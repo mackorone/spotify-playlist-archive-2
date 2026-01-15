@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4rmnjMBxfCv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4rmnjMBxfCv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4rmnjMBxfCv)
+[pretty](/playlists/pretty/37i9dQZF1DX4rmnjMBxfCv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4rmnjMBxfCv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4rmnjMBxfCv)
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: HUGEL
 
-285 songs - 18 hr 47 min
+286 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-02-22 | 2025-09-26 |
 | [Dom Tak](https://open.spotify.com/track/1X3OWsFqUsypbW8QJLuoGD) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL) | [Dom Tak](https://open.spotify.com/album/1vwYJkh1ZbgqiXFGh41XTS) | 3:08 | 2025-09-25 |  |
 | [Dom Taka](https://open.spotify.com/track/6OcdY2E4J3M4GWVtIZ2vqf) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Shamoun](https://open.spotify.com/artist/6TZiimSwp7J1XmpV5bivHc), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Dom Taka](https://open.spotify.com/album/6NLXAfVtkh6jtCOFzJpOXG) | 5:20 | 2025-09-25 |  |
-| [Dubai Shit](https://open.spotify.com/track/4A1PTVtszgXnwA6YRXMHQv) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Omada](https://open.spotify.com/artist/53fC8PxrmSh5HQEyzyzlz4) | [Dubai Shit](https://open.spotify.com/album/6VfNPu3ZMLn10HKFA68qWI) | 2:32 | 2024-10-11 |  |
+| [Dubai Shit](https://open.spotify.com/track/4A1PTVtszgXnwA6YRXMHQv) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Omada](https://open.spotify.com/artist/53fC8PxrmSh5HQEyzyzlz4) | [Dubai Shit](https://open.spotify.com/album/6VfNPu3ZMLn10HKFA68qWI) | 2:32 | 2024-10-11 | 2026-01-15 |
 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 | 2022-08-01 | 2023-06-24 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-23 | 2023-08-17 |
 | [El Dunia Helwa](https://open.spotify.com/track/5mVB0eKgO2b6W8JNEKd8si) | [Mohab Sammy](https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j), [Sara Said](https://open.spotify.com/artist/5qgwGFlPCxO4jCEKID6SIE) | [El Dunia Helwa](https://open.spotify.com/album/4DE07uisXHQ7416FuSEAUw) | 4:54 | 2022-10-14 | 2023-02-02 |
@@ -138,6 +138,7 @@
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-05-27 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-08-29 | 2024-07-19 |
 | [IRAQ FOREVER](https://open.spotify.com/track/0lRzw2qxLfIgLmuJJeeYPA) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [IRAQ FOREVER](https://open.spotify.com/album/5wRrxTSwPCCHdeLEFunn2l) | 2:15 | 2023-06-29 | 2023-11-24 |
+| [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 | 2026-01-13 |  |
 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 | 2024-01-26 | 2025-03-01 |
 | [Khabar Abyad](https://open.spotify.com/track/6vxEDjzH2OU938m3muhQ1p) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:51 | 2025-07-03 |  |
 | [Khalawto](https://open.spotify.com/track/0jVFS5HEOtonqqSkm5MGjr) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Houssain Haidar](https://open.spotify.com/artist/4Js1SrrLDWhA5DlXtlcn22) | [Khalawto](https://open.spotify.com/album/7Br2U54Rk7jGJx41KwOPQU) | 3:36 | 2025-02-28 | 2026-01-06 |

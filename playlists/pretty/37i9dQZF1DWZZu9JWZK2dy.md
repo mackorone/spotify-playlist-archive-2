@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain](/playlists/plain/37i9dQZF1DWZZu9JWZK2dy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZZu9JWZK2dy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain](/playlists/plain/37i9dQZF1DWZZu9JWZK2dy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZZu9JWZK2dy)
 
 ### [Anime Hits 00's](https://open.spotify.com/playlist/37i9dQZF1DWZZu9JWZK2dy)
 
 > The hottest Anime hits of the 00s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,110 likes - 66 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,500 likes - 66 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

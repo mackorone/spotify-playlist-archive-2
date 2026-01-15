@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain](/playlists/plain/0Rm77xvh8qMUOJ5pvmeoHm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Rm77xvh8qMUOJ5pvmeoHm)
+pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain](/playlists/plain/0Rm77xvh8qMUOJ5pvmeoHm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0Rm77xvh8qMUOJ5pvmeoHm)
 
 ### [Party Bangers 2026 🎉 Recession Pop Vibes](https://open.spotify.com/playlist/0Rm77xvh8qMUOJ5pvmeoHm)
 
 > Celebrate with these recession pop &amp; hip\-hop party tracks everyone knows and loves!
 
-[Topsify](https://open.spotify.com/user/topsify) - 164,627 likes - 134 songs - 7 hr 20 min
+[Topsify](https://open.spotify.com/user/topsify) - 164,340 likes - 134 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

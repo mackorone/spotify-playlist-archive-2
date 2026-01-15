@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain](/playlists/plain/37i9dQZF1DX1ExvoKgjMK2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ExvoKgjMK2)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain](/playlists/plain/37i9dQZF1DX1ExvoKgjMK2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1ExvoKgjMK2)
 
 ### [Cookie Run: Kingdom ‘Summer Soda Rock Festa \(’쿠키런: 킹덤 ‘섬머소다 락페스타’\)](https://open.spotify.com/playlist/37i9dQZF1DX1ExvoKgjMK2)
 

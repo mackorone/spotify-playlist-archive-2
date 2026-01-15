@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6fi0ExpvtWx0vQUelJkwmV.md) - cumulative - [plain](/playlists/plain/6fi0ExpvtWx0vQUelJkwmV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6fi0ExpvtWx0vQUelJkwmV)
+[pretty](/playlists/pretty/6fi0ExpvtWx0vQUelJkwmV.md) - cumulative - [plain](/playlists/plain/6fi0ExpvtWx0vQUelJkwmV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6fi0ExpvtWx0vQUelJkwmV)
 
 ### [Hip Hop Club Bangers](https://open.spotify.com/playlist/6fi0ExpvtWx0vQUelJkwmV)
 

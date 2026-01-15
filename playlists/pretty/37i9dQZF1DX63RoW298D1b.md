@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain](/playlists/plain/37i9dQZF1DX63RoW298D1b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX63RoW298D1b)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain](/playlists/plain/37i9dQZF1DX63RoW298D1b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX63RoW298D1b)
 
 ### [Relaxing Bath](https://open.spotify.com/playlist/37i9dQZF1DX63RoW298D1b)
 
 > Soothing piano for the ultimate wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,056 likes - 98 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,613 likes - 98 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

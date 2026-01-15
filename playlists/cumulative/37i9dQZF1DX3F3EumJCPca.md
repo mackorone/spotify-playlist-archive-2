@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3F3EumJCPca.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3F3EumJCPca) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3F3EumJCPca)
+[pretty](/playlists/pretty/37i9dQZF1DX3F3EumJCPca.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3F3EumJCPca) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3F3EumJCPca)
 
 ### [This Is Lil Baby \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX3F3EumJCPca)
 

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWv6MSZULLBi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWv6MSZULLBi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWv6MSZULLBi)
+[pretty](/playlists/pretty/37i9dQZF1DWWv6MSZULLBi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWv6MSZULLBi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWv6MSZULLBi)
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Buffalo Traffic Jam
+> A laid\-back trip in the folk scene\. Cover: AHI
 
-1,432 songs - 3 day 14 hr 2 min
+1,439 songs - 3 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Blissful Lands](https://open.spotify.com/track/2RjmK199jrWZFYn6Z8tLbP) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Blissful Lands](https://open.spotify.com/album/6ukumm320OMDbQmN8SHnJS) | 2:59 | 2023-03-17 | 2023-04-29 |
 | [Blood Milk Moon](https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Blood Milk Moon](https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3) | 2:57 | 2023-12-15 | 2024-05-18 |
 | [Blood Related](https://open.spotify.com/track/7fmijYnNPBAyOTq2WsB6uD) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Blood Related](https://open.spotify.com/album/3j3wjW0uiRpE9KQbHnM2kJ) | 3:40 | 2023-11-17 | 2024-01-13 |
+| [Bloodline](https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:00 | 2026-01-09 |  |
 | [Blue](https://open.spotify.com/track/0vj8lKTWKBa6S3pTo14BzK) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Blue](https://open.spotify.com/album/3yHkbGfuST2nbaSyE55U1Q) | 2:21 | 2023-10-20 | 2023-12-02 |
 | [Blue Embers](https://open.spotify.com/track/1I3qnpna2lLZeTk2B06bih) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Blue Embers](https://open.spotify.com/album/5BCmff76yBVEHr9BUnILBM) | 3:30 | 2025-04-11 | 2025-07-29 |
 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 | 2022-05-13 | 2022-05-28 |
@@ -228,6 +229,7 @@
 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-02 | 2024-06-22 |
 | [Change of the Wind](https://open.spotify.com/track/6y0czURsSIIdDXnWlhgqxf) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Change of the Wind](https://open.spotify.com/album/0oj2fOqxUFC0M23WMw4FXc) | 3:49 | 2025-12-05 |  |
 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 | 2023-02-17 | 2023-04-22 |
+| [Changing](https://open.spotify.com/track/3L9JuB82ZFWjivnGJx8u20) | [Josh Sahunta](https://open.spotify.com/artist/37aXAbBndtjTPR4aUKumLV) | [Changing](https://open.spotify.com/album/3TsaPL2yAK5vPa99pnjLcq) | 3:44 | 2026-01-09 |  |
 | [Charioteer](https://open.spotify.com/track/2xY3s8F9xrCuSufGjODYok) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Charioteer](https://open.spotify.com/album/4xcXXjKXcm8FaoNwCGMBzP) | 4:19 | 2022-12-02 | 2023-01-06 |
 | [Chasing a Thread](https://open.spotify.com/track/0VOUG1FnZ3Kbb81fIzQ7rz) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Chasing a Thread](https://open.spotify.com/album/1HAXoXkaOW8MOzatVYeGyJ) | 3:00 | 2025-12-05 |  |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-28 | 2025-04-26 |
@@ -661,6 +663,7 @@
 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2uIsTZsypUTHzRunshIcNd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I’D MISS THE BIRDS](https://open.spotify.com/album/4HzZEBP0zL6DKUg85QtfkW) | 3:09 | 2024-09-13 | 2025-03-22 |
 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 | 2024-09-27 | 2025-04-08 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-05-13 | 2022-08-20 |
+| [January](https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP) | [Marie Dresselhuis](https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL) | [January](https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w) | 3:17 | 2026-01-09 |  |
 | [Jean Jackets](https://open.spotify.com/track/7scjbEORM6rWarLNN8fKbX) | [Poor Nameless Boy](https://open.spotify.com/artist/1dg1JkQ7rtDMlwAi19pTZp) | [Jean Jackets](https://open.spotify.com/album/2cvnqzZA3e0yHufeRx9E02) | 3:36 | 2022-05-13 | 2022-06-25 |
 | [Jenny](https://open.spotify.com/track/3iBbRE7Oqe2IWrTXggqOau) | [clay pigeon](https://open.spotify.com/artist/7BHNqeFLFZUbD5VS0VtoyL) | [Jenny](https://open.spotify.com/album/2np1VMu280TCmJJqrSGRkp) | 3:59 | 2024-06-14 | 2024-12-07 |
 | [Jenny](https://open.spotify.com/track/3SLfONUr1O6vT50WSMRyWQ) | [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [Meantime](https://open.spotify.com/album/1NgTFS7qGNpDq3XmnLk8MC) | 3:38 | 2023-06-30 | 2023-12-09 |
@@ -697,6 +700,7 @@
 | [Knock The Wind](https://open.spotify.com/track/72elIQIbmE6rLBvXXsknK5) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 2:45 | 2023-08-18 | 2023-11-11 |
 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 | 2023-11-24 | 2024-04-19 |
 | [Knowing U Exist](https://open.spotify.com/track/2d8kfISfGgiksl9Bl8kEXH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Knowing U Exist](https://open.spotify.com/album/50e9zfmHABJ6zaAK8HcIZm) | 2:23 | 2024-03-15 | 2024-07-27 |
+| [Köln \(Lost in Time\)](https://open.spotify.com/track/2CwkTHMPLad36ZRr31OINb) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Köln \(Lost in Time\)](https://open.spotify.com/album/5thzR3kjTYHH5M2yovUg8u) | 3:38 | 2026-01-09 |  |
 | [La Chambre](https://open.spotify.com/track/7Km4PvGzWrjEE1p5etb2h7) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:06 | 2024-11-08 | 2025-05-03 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-24 | 2023-07-01 |
 | [lagunas](https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [lagunas](https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx) | 3:39 | 2023-12-22 | 2024-04-06 |
@@ -828,6 +832,7 @@
 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 | 2024-05-24 | 2024-06-29 |
 | [More Change](https://open.spotify.com/track/6T8jm94wSS3fbgM4VAEITF) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [More Change](https://open.spotify.com/album/5z8sVCeIggrJ2FYIfHefJ0) | 2:29 | 2023-05-12 | 2023-09-30 |
 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 | 2025-02-21 | 2025-07-05 |
+| [More Than I Can Dream](https://open.spotify.com/track/5h55mqncCjtq2cPylMGBYn) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [More Than I Can Dream](https://open.spotify.com/album/3QT7ytO3UJc1jqjWvTTfDU) | 4:10 | 2026-01-09 |  |
 | [Mosaic in the Sun](https://open.spotify.com/track/19gw10sPNKZJhsg7nELfxb) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Mosaic in the Sun](https://open.spotify.com/album/1R7dWRs1FNccOtOv2tGz0d) | 3:10 | 2025-10-24 |  |
 | [Most of the Time We Are Lost](https://open.spotify.com/track/6rgu3f5b0EoBGEdKBl2I9z) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Victory Songs](https://open.spotify.com/album/4iIMbpIZP16IHJDyToUekY) | 3:45 | 2025-05-16 | 2025-08-15 |
 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 | 2025-06-27 | 2025-09-12 |
@@ -979,6 +984,7 @@
 | [Pine](https://open.spotify.com/track/0a3SUkWh13mUx6mh2Lg2mq) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Pine](https://open.spotify.com/album/7Br7mFSH8gvJ3pcHFaxu76) | 3:42 | 2025-07-04 | 2025-08-29 |
 | [Place To Be](https://open.spotify.com/track/1jNVZmVkhhIcmnmj8Y1RNb) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Place To Be](https://open.spotify.com/album/06jxHqRQSl3X6e2Sq4m1KG) | 2:43 | 2023-06-30 | 2023-07-29 |
 | [Plans](https://open.spotify.com/track/6yn8dknizhuEz628cHs8xj) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Plans](https://open.spotify.com/album/1tYIJCasFeRn7c6OvDWuiD) | 3:18 | 2024-09-20 | 2024-10-19 |
+| [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-09 |  |
 | [Please Slow Down \- Rubber Bridge Version](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down \(Rubber Bridge Version\)](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 | 2024-08-23 | 2024-12-07 |
 | [Pocket Full of Rain](https://open.spotify.com/track/4eUnqT2pBqi6t2PHy3l3R2) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 3:50 | 2023-09-01 | 2024-01-27 |
 | [Point of View](https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 4:49 | 2025-09-19 |  |
@@ -1211,6 +1217,7 @@
 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-15 | 2024-07-27 |
 | [The Astronaut](https://open.spotify.com/track/3EwdutRwI1EhwZn5RrRxHT) | [Sam Drysdale](https://open.spotify.com/artist/6zWCrZExrSgGtBjCO1jkjY) | [The Astronaut](https://open.spotify.com/album/5V3RqrWIJ5NByBvZAwOaDO) | 3:27 | 2025-02-28 | 2025-07-19 |
 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 | 2023-05-26 | 2023-07-01 |
+| [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 | 2026-01-09 |  |
 | [The Best Part](https://open.spotify.com/track/6bk9Tqq2fQrZBVgNISxgjl) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Therapy Notes](https://open.spotify.com/album/2BCYKHOYEWovCakIv4ZO6j) | 3:57 | 2025-04-07 | 2025-07-29 |
 | [The Bridge](https://open.spotify.com/track/24jaYO61YocxAaD00zmNTM) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [The Bridge](https://open.spotify.com/album/5jybWpBPGtgDzGftITHCjv) | 3:04 | 2025-09-26 |  |
 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-08-11 | 2023-09-16 |

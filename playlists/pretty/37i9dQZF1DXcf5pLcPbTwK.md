@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf5pLcPbTwK.md) - [plain](/playlists/plain/37i9dQZF1DXcf5pLcPbTwK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcf5pLcPbTwK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf5pLcPbTwK.md) - [plain](/playlists/plain/37i9dQZF1DXcf5pLcPbTwK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcf5pLcPbTwK)
 
 ### [Billie Eilish Experience](https://open.spotify.com/playlist/37i9dQZF1DXcf5pLcPbTwK)
 
 > Enter WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,354,432 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,354,191 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

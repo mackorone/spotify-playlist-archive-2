@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain](/playlists/plain/37i9dQZF1EFG2kfqqpW4za) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFG2kfqqpW4za)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain](/playlists/plain/37i9dQZF1EFG2kfqqpW4za) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFG2kfqqpW4za)
 
 ### [Written By Helio Bentes](https://open.spotify.com/playlist/37i9dQZF1EFG2kfqqpW4za)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467 likes - 65 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 65 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 33 | [Nossa História](https://open.spotify.com/track/2PUGJa8QTmGsJRN9NlKuPN) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/51l9CESGdQ1Wh9Nn3s9Gbd) | 5:00 |
 | 34 | [Novo Governo](https://open.spotify.com/track/1HKiGCL92ZYwXRiMCtAJJG) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Novo Governo](https://open.spotify.com/album/7Dpy9MzCSoKBpORbBFCo1D) | 3:05 |
 | 35 | [Semente da Cura](https://open.spotify.com/track/1ZKqtdOXOzH3tCewYqMODU) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I) | [Semente da Cura](https://open.spotify.com/album/1I99YzDXHjfeKTf5qnP4UQ) | 3:46 |
-| 36 | [Introdução \- Ao Vivo](https://open.spotify.com/track/1NLSIkmrqOMF8Vwrw7cz6t) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/3FD7FquzRXThRDn5L8j4jz) | 3:12 |
-| 37 | [Chapa Chapa](https://open.spotify.com/track/5L5oPJYh8WeXAhcNM99PHH) | [Start Rap](https://open.spotify.com/artist/0ID7bamr7fhqeETHBZoCFl), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Fruto do Jogo](https://open.spotify.com/album/4jGgvTXTFX1V9TGdWubhdn) | 3:49 |
+| 36 | [Chapa Chapa](https://open.spotify.com/track/5L5oPJYh8WeXAhcNM99PHH) | [Start Rap](https://open.spotify.com/artist/0ID7bamr7fhqeETHBZoCFl), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Fruto do Jogo](https://open.spotify.com/album/4jGgvTXTFX1V9TGdWubhdn) | 3:49 |
+| 37 | [Introdução \- Ao Vivo](https://open.spotify.com/track/1NLSIkmrqOMF8Vwrw7cz6t) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/3FD7FquzRXThRDn5L8j4jz) | 3:12 |
 | 38 | [Reggae de Terreiro \(Ciência do Quintal\)](https://open.spotify.com/track/4RvPbYKVSnBVzQIwqHWt4L) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Jorge Du Peixe](https://open.spotify.com/artist/2yS2oUDkJ9M5xdCZLjnzL8) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/29OeUfLJCcS7Gdd5nB6aTq) | 5:06 |
 | 39 | [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/3Qcx7JRtyDZ2hge0umwVSi) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Acústico Planta e Raiz 2022, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3Ns6vSE7vj67FMozZM5nNN) | 3:33 |
 | 40 | [Nyah](https://open.spotify.com/track/1QzDwVnFOBDwL7DW3eud1I) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/51l9CESGdQ1Wh9Nn3s9Gbd) | 0:50 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 52 | [Sintonizando](https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:22 |
 | 53 | [Embarque Nesse Trem](https://open.spotify.com/track/6WeGeYFHvDNbrlc3KI7AIe) | [Dub Ataque](https://open.spotify.com/artist/50WcToXLB33txU8Tse0ITY), [Beleza](https://open.spotify.com/artist/1IDFjigtENXy8rm0h0Uqk3), [Rico Neurótico](https://open.spotify.com/artist/5RnbM8vxAn3jHP2sFymsUU), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 4:18 |
 | 54 | [Cultura de Mantança](https://open.spotify.com/track/2I2nONGoK36KToKKCyGbbp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/1hBUpJgASOo4ljocpHr3tF) | 2:28 |
-| 55 | [Guerra Padrão](https://open.spotify.com/track/15ty05GQRXZqpk81ZlttEH) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [Alma de Favela, Pt\. 1](https://open.spotify.com/album/4szKhNy0JgoImu77ygVzL1) | 3:32 |
-| 56 | [Minha Trilha](https://open.spotify.com/track/4mHxl3TuQz1MuHzKD06Ddx) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Quimera](https://open.spotify.com/album/2s6Xis30Leau0FHqOgpWl4) | 4:27 |
+| 55 | [Minha Trilha](https://open.spotify.com/track/4mHxl3TuQz1MuHzKD06Ddx) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Quimera](https://open.spotify.com/album/2s6Xis30Leau0FHqOgpWl4) | 4:27 |
+| 56 | [Guerra Padrão](https://open.spotify.com/track/15ty05GQRXZqpk81ZlttEH) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [Alma de Favela, Pt\. 1](https://open.spotify.com/album/4szKhNy0JgoImu77ygVzL1) | 3:32 |
 | 57 | [No Guanxa](https://open.spotify.com/track/2kdNjxTDo5gXu5ySnzeNMK) | [Mateus Pinguim](https://open.spotify.com/artist/6bpV6yiMTGBOLbhpIfC8z1), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 3:40 |
 | 58 | [Minha Sina](https://open.spotify.com/track/4iImTv3CFPEL2KKg0UzB2k) | [Mateus Pinguim](https://open.spotify.com/artist/6bpV6yiMTGBOLbhpIfC8z1), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 3:24 |
 | 59 | [Vida e Amor](https://open.spotify.com/track/0G7D5zwmnZ3mUEcMR6kHP2) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [7 \(Deluxe Edition\)](https://open.spotify.com/album/17l5EQpLLbjLyJYsEsXE3y) | 3:13 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 64 | [Abraços de Resistência](https://open.spotify.com/track/0czqjbQD16beA5yejlA4V4) | [Laysa](https://open.spotify.com/artist/5Jycy1Tg8JDcxBxFDQL8A6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Abraços de Resistência](https://open.spotify.com/album/3qRWTyyDlw2cS6JiX6cakS) | 4:17 |
 | 65 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `AcGKngAAAADOu2LjThwXm8SmZV8GcMrZ`
+Snapshot ID: `AcHAkAAAAABacO1b5nsopdKIwsi8tGJC`

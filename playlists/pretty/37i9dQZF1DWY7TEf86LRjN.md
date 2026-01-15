@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain](/playlists/plain/37i9dQZF1DWY7TEf86LRjN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY7TEf86LRjN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain](/playlists/plain/37i9dQZF1DWY7TEf86LRjN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWY7TEf86LRjN)
 
 ### [Welcome To Zamrock](https://open.spotify.com/playlist/37i9dQZF1DWY7TEf86LRjN)
 

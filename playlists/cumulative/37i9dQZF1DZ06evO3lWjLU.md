@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO3lWjLU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3lWjLU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3lWjLU)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO3lWjLU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3lWjLU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO3lWjLU)
 
 ### [This Is Danny Ocean](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lWjLU)
 

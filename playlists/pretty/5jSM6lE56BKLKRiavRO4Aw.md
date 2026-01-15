@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5jSM6lE56BKLKRiavRO4Aw.md) - [plain](/playlists/plain/5jSM6lE56BKLKRiavRO4Aw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5jSM6lE56BKLKRiavRO4Aw)
+pretty - [cumulative](/playlists/cumulative/5jSM6lE56BKLKRiavRO4Aw.md) - [plain](/playlists/plain/5jSM6lE56BKLKRiavRO4Aw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5jSM6lE56BKLKRiavRO4Aw)
 
 ### [Rocket League Soundtrack \(Complete OST\)](https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw)
 
 > 
 
-[phaskh](https://open.spotify.com/user/phaskh) - 31,630 likes - 110 songs - 6 hr 53 min
+[phaskh](https://open.spotify.com/user/phaskh) - 31,619 likes - 110 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

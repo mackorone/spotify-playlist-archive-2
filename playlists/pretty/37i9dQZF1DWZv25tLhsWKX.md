@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain](/playlists/plain/37i9dQZF1DWZv25tLhsWKX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZv25tLhsWKX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain](/playlists/plain/37i9dQZF1DWZv25tLhsWKX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZv25tLhsWKX)
 
 ### [Country Soul](https://open.spotify.com/playlist/37i9dQZF1DWZv25tLhsWKX)
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,244 likes - 82 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,291 likes - 82 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

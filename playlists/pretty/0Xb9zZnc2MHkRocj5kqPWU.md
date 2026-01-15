@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain](/playlists/plain/0Xb9zZnc2MHkRocj5kqPWU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Xb9zZnc2MHkRocj5kqPWU)
+pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain](/playlists/plain/0Xb9zZnc2MHkRocj5kqPWU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0Xb9zZnc2MHkRocj5kqPWU)
 
 ### [Wellness](https://open.spotify.com/playlist/0Xb9zZnc2MHkRocj5kqPWU)
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 59,963 likes - 80 songs - 4 hr 6 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 59,869 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

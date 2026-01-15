@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain](/playlists/plain/37i9dQZF1DXbzFWXFlsp56) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbzFWXFlsp56)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain](/playlists/plain/37i9dQZF1DXbzFWXFlsp56) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbzFWXFlsp56)
 
 ### [RADAR Andinos](https://open.spotify.com/playlist/37i9dQZF1DXbzFWXFlsp56)
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: UNIVERSE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,673 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,670 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2uYCFYN7H4JUOEI7N4dLHN.md) - [plain](/playlists/plain/2uYCFYN7H4JUOEI7N4dLHN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2uYCFYN7H4JUOEI7N4dLHN)
+pretty - [cumulative](/playlists/cumulative/2uYCFYN7H4JUOEI7N4dLHN.md) - [plain](/playlists/plain/2uYCFYN7H4JUOEI7N4dLHN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2uYCFYN7H4JUOEI7N4dLHN)
 
 ### [80s Rock](https://open.spotify.com/playlist/2uYCFYN7H4JUOEI7N4dLHN)
 
 > Rock through the 80s\. Over 8 hours of music from iconic bands and artists! Cover: Queen
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 147,944 likes - 125 songs - 8 hr 49 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 147,848 likes - 125 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

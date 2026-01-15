@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 260376,
+  "num_followers": 260679,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,42 @@
     {
       "added_at": "2025-09-12 18:56:37",
       "album": {
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "S\u00e9 Que Te Vas (feat. Matisse) - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/42sSYBxc05zD6dTK0KBZIw"
+    },
+    {
+      "added_at": "2025-09-12 18:56:37",
+      "album": {
+        "name": "Viaje Estelar (En vivo)",
+        "url": "https://open.spotify.com/album/3Pfx0CGAbfEVfoFId87HFw"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "duration_ms": 252964,
+      "name": "Viaje Estelar - En vivo",
+      "url": "https://open.spotify.com/track/6oOcB3B058jyfFzIgiunVs"
+    },
+    {
+      "added_at": "2025-09-12 18:56:37",
+      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -387,42 +423,6 @@
     {
       "added_at": "2025-09-12 18:56:37",
       "album": {
-        "name": "Viaje Estelar (En vivo)",
-        "url": "https://open.spotify.com/album/3Pfx0CGAbfEVfoFId87HFw"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
-        }
-      ],
-      "duration_ms": 252964,
-      "name": "Viaje Estelar - En vivo",
-      "url": "https://open.spotify.com/track/6oOcB3B058jyfFzIgiunVs"
-    },
-    {
-      "added_at": "2025-09-12 18:56:37",
-      "album": {
-        "name": "HA-ASH Primera Fila - Hecho Realidad",
-        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "S\u00e9 Que Te Vas (feat. Matisse) - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/42sSYBxc05zD6dTK0KBZIw"
-    },
-    {
-      "added_at": "2025-09-12 18:56:37",
-      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -435,6 +435,26 @@
       "duration_ms": 197533,
       "name": "As\u00ed Era Ella - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/2eqn7Q34pcc3X1h1Ra68dm"
+    },
+    {
+      "added_at": "2025-09-12 18:56:37",
+      "album": {
+        "name": "Tour Terral (Tres noches en Las Ventas)",
+        "url": "https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 297205,
+      "name": "Qui\u00e9n (feat. Alejandro Sanz) - En directo",
+      "url": "https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E"
     },
     {
       "added_at": "2025-09-12 18:56:37",
@@ -487,26 +507,6 @@
       "duration_ms": 291117,
       "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
       "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
-    },
-    {
-      "added_at": "2025-09-12 18:56:37",
-      "album": {
-        "name": "Tour Terral (Tres noches en Las Ventas)",
-        "url": "https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 297205,
-      "name": "Qui\u00e9n (feat. Alejandro Sanz) - En directo",
-      "url": "https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E"
     },
     {
       "added_at": "2025-09-12 18:56:37",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-09-12 18:56:37",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
-      "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
-    },
-    {
-      "added_at": "2025-09-12 18:56:37",
-      "album": {
         "name": "Ha-Ash \"En Vivo\"",
         "url": "https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 329797,
       "name": "Si T\u00fa No Vuelves (feat. Miguel Bos\u00e9) - En Vivo",
       "url": "https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy"
+    },
+    {
+      "added_at": "2025-09-12 18:56:37",
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
+      "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
     },
     {
       "added_at": "2025-09-12 18:56:37",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-09-12 18:56:37",
       "album": {
+        "name": "Primera Fila Flans",
+        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
+      },
+      "artists": [
+        {
+          "name": "Ilse, Ivonne y Mimi",
+          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
+      "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
+    },
+    {
+      "added_at": "2025-09-12 18:56:37",
+      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 205320,
       "name": "Resp\u00f3ndeme T\u00fa (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
       "url": "https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7"
-    },
-    {
-      "added_at": "2025-09-12 18:56:37",
-      "album": {
-        "name": "Primera Fila Flans",
-        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
-      },
-      "artists": [
-        {
-          "name": "Ilse, Ivonne y Mimi",
-          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
-      "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
     },
     {
       "added_at": "2025-09-12 18:56:37",

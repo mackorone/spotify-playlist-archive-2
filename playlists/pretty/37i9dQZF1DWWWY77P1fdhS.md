@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWY77P1fdhS.md) - [plain](/playlists/plain/37i9dQZF1DWWWY77P1fdhS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWWY77P1fdhS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWY77P1fdhS.md) - [plain](/playlists/plain/37i9dQZF1DWWWY77P1fdhS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWWY77P1fdhS)
 
 ### [Swag ](https://open.spotify.com/playlist/37i9dQZF1DWWWY77P1fdhS)
 
 > Recession Pop 4eva\.  Cover: T\-Pain & Kesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,745 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,234 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

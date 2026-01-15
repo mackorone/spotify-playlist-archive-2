@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Yq6CLhe4yE.md) - [plain](/playlists/plain/37i9dQZF1DX3Yq6CLhe4yE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Yq6CLhe4yE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Yq6CLhe4yE.md) - [plain](/playlists/plain/37i9dQZF1DX3Yq6CLhe4yE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3Yq6CLhe4yE)
 
 ### [The Idea of You Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX3Yq6CLhe4yE)
 
 > Feel...everything\. Listen to the music from The Idea of You, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,067 likes - 27 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,033 likes - 27 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

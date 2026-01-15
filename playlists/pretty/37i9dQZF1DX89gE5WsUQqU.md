@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain](/playlists/plain/37i9dQZF1DX89gE5WsUQqU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX89gE5WsUQqU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain](/playlists/plain/37i9dQZF1DX89gE5WsUQqU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX89gE5WsUQqU)
 
 ### [SPOTIFY HOUSE 서울](https://open.spotify.com/playlist/37i9dQZF1DX89gE5WsUQqU)
 
 > 11월 13\-15, SPOTIFY HOUSE 서울 라인업의 셋리스트를 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907 likes - 115 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912 likes - 115 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

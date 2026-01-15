@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVHNixKGCLqw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVHNixKGCLqw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVHNixKGCLqw)
+[pretty](/playlists/pretty/37i9dQZF1DWVHNixKGCLqw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVHNixKGCLqw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVHNixKGCLqw)
 
 ### [K\-Pop Daebak Presents: Best K\-Pop Songs of 2O2O](https://open.spotify.com/playlist/37i9dQZF1DWVHNixKGCLqw)
 

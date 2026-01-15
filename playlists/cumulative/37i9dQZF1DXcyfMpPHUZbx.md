@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcyfMpPHUZbx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcyfMpPHUZbx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcyfMpPHUZbx)
+[pretty](/playlists/pretty/37i9dQZF1DXcyfMpPHUZbx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcyfMpPHUZbx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcyfMpPHUZbx)
 
 ### [Fuego \#071 \- Francisco Alvarez's Mixtape](https://open.spotify.com/playlist/37i9dQZF1DXcyfMpPHUZbx)
 

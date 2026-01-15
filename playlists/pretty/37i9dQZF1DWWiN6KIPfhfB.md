@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiN6KIPfhfB.md) - [plain](/playlists/plain/37i9dQZF1DWWiN6KIPfhfB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWiN6KIPfhfB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiN6KIPfhfB.md) - [plain](/playlists/plain/37i9dQZF1DWWiN6KIPfhfB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWiN6KIPfhfB)
 
 ### [Il était une fois](https://open.spotify.com/playlist/37i9dQZF1DWWiN6KIPfhfB)
 
 > Une collection de contes de fées pour emmener vos enfants au pays des rêves
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,014 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,071 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

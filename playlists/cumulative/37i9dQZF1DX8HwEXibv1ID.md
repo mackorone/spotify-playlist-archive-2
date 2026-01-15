@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8HwEXibv1ID.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8HwEXibv1ID) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8HwEXibv1ID)
+[pretty](/playlists/pretty/37i9dQZF1DX8HwEXibv1ID.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8HwEXibv1ID) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8HwEXibv1ID)
 
 ### [The Cole Porter Songbook](https://open.spotify.com/playlist/37i9dQZF1DX8HwEXibv1ID)
 

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTQZRn97DpO8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTQZRn97DpO8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTQZRn97DpO8)
+[pretty](/playlists/pretty/37i9dQZF1DWTQZRn97DpO8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTQZRn97DpO8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTQZRn97DpO8)
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯\. Photo : Candice
+> 🍯🍯🍯\. Photo : Myra
 
-493 songs - 1 day 0 hr 13 min
+494 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Photoshop](https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX) | 2:24 | 2023-11-09 | 2024-05-17 |
 | [Photoshop](https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/3ByHDNYa3Wp3ecUHYOd4ve) | 2:24 | 2024-01-25 | 2024-04-19 |
 | [Pillé mais pas détruit](https://open.spotify.com/track/1OUmNgT3puIVi0W1oR7tdY) | [MVRIE\-LOUISE](https://open.spotify.com/artist/6dUsCEhZwMaX18yAH6RGCD) | [Pillé mais pas détruit](https://open.spotify.com/album/2SqZvNnlQodarJJG10ZcBR) | 3:34 | 2025-01-23 | 2025-02-14 |
+| [Pièce manquante](https://open.spotify.com/track/1vHJXlDR2BfMZ03LKPBk2T) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Pièce manquante](https://open.spotify.com/album/7kIDfBCTUUbJOoUSZJt7RC) | 2:57 | 2026-01-08 |  |
 | [Piña Colada](https://open.spotify.com/track/2PSLcpysXnCNwCsf5WB5zz) | [Mee Shel](https://open.spotify.com/artist/0fYdXlJTAY0baUS0YoHfTH) | [Piña Colada](https://open.spotify.com/album/5i4zyH9dQFUPtSSmtdjTom) | 2:36 | 2024-08-29 | 2025-01-31 |
 | [Play it cool](https://open.spotify.com/track/2EwS9uABUpsp7DOixrGHDO) | [Sika Deva](https://open.spotify.com/artist/3UsIngEd65pVgWQpwNjvqu), [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Play it cool](https://open.spotify.com/album/1u0OmGLwBKxErMKkiZQiUE) | 3:23 | 2024-07-18 | 2024-11-29 |
 | [Plus la peine](https://open.spotify.com/track/11okUANe3u6NzVAL2G33So) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Plus la peine](https://open.spotify.com/album/7exJUBfgVVkKFfrnn5eqMZ) | 3:08 | 2023-12-08 | 2024-01-26 |
@@ -415,7 +416,7 @@
 | [Sentiments mentent](https://open.spotify.com/track/2BkeOzac5lqwtHAm8oW4Kj) | [KEIT](https://open.spotify.com/artist/6dMbD5fkI3dZ5dsu39olCX) | [Sentiments mentent](https://open.spotify.com/album/6VgblRYgItu2DXd3b8CU1X) | 2:44 | 2025-03-06 | 2025-04-04 |
 | [Septembre](https://open.spotify.com/track/69oM9FG9MjQg8hmSfHMpiD) | [Mi Yoo](https://open.spotify.com/artist/5nrI4zcbwtB0NLi9O3fBlu) | [Septembre](https://open.spotify.com/album/2AcLdUpK98EXkGbBUZlOiD) | 2:23 | 2025-09-11 | 2025-11-14 |
 | [Seuil](https://open.spotify.com/track/4y9MxsGtYASkUyIKGGtdEH) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Héroïne\(s\)](https://open.spotify.com/album/5UU5HGSORbZ4aCalD2uWhU) | 3:25 | 2024-11-28 | 2025-09-19 |
-| [Sexe & the city](https://open.spotify.com/track/7w3Oy2C0Sp4ymfEiv1dLbK) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT) | 2:29 | 2025-11-20 |  |
+| [Sexe & the city](https://open.spotify.com/track/7w3Oy2C0Sp4ymfEiv1dLbK) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT) | 2:29 | 2025-11-20 | 2026-01-15 |
 | [Si J't'oubliais](https://open.spotify.com/track/0fML4zWjIwNwOOPtUZ3SBC) | [Mocaris](https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j) | [Ginger Season](https://open.spotify.com/album/4kaZiL99Daa2VLA0VQl62o) | 3:46 | 2023-09-28 | 2024-02-16 |
 | [Si je reste](https://open.spotify.com/track/3CyZu7VYkNtU20zdqQqKBl) | [May Hi](https://open.spotify.com/artist/6M3tXpbSUNyON6g1O9fYDf) | [Si je reste](https://open.spotify.com/album/62vpOwtznSBvnBL7jd2rEA) | 3:00 | 2025-10-09 | 2025-11-07 |
 | [Si seulement](https://open.spotify.com/track/7dfIxgOs8OObrkQ9MBWpVD) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Là où les Diamants brillent](https://open.spotify.com/album/6nef3YvZdsFaC6ldV2zSfL) | 2:40 | 2024-02-22 | 2025-02-14 |

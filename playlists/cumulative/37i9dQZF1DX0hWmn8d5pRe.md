@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0hWmn8d5pRe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0hWmn8d5pRe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0hWmn8d5pRe)
+[pretty](/playlists/pretty/37i9dQZF1DX0hWmn8d5pRe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0hWmn8d5pRe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0hWmn8d5pRe)
 
 ### [Born To Run 150 BPM](https://open.spotify.com/playlist/37i9dQZF1DX0hWmn8d5pRe)
 

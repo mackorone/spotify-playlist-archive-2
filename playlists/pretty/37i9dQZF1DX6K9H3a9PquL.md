@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K9H3a9PquL.md) - [plain](/playlists/plain/37i9dQZF1DX6K9H3a9PquL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6K9H3a9PquL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K9H3a9PquL.md) - [plain](/playlists/plain/37i9dQZF1DX6K9H3a9PquL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6K9H3a9PquL)
 
 ### [Sue Tsai's Taste](https://open.spotify.com/playlist/37i9dQZF1DX6K9H3a9PquL)
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/suetsai/">Sue Tsai</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,090 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,230 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

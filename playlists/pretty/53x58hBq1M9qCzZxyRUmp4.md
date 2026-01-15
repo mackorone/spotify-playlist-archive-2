@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain](/playlists/plain/53x58hBq1M9qCzZxyRUmp4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/53x58hBq1M9qCzZxyRUmp4)
+pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain](/playlists/plain/53x58hBq1M9qCzZxyRUmp4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/53x58hBq1M9qCzZxyRUmp4)
 
 ### [Pop\-Punk Classics](https://open.spotify.com/playlist/53x58hBq1M9qCzZxyRUmp4)
 
 > All the essentials of Pop\-Punk
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 10,039 likes - 125 songs - 6 hr 47 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 10,031 likes - 125 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

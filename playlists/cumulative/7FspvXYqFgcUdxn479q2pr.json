@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Back",
+        "url": "https://open.spotify.com/album/3h5hgegSafVStdKRzNdhHY"
+      },
+      "artists": [
+        {
+          "name": "Lahox",
+          "url": "https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/45DtKBIJFCnUz5nyfaru1j"
+    },
+    {
+      "album": {
         "name": "Back To Life",
         "url": "https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW"
       },
@@ -1378,6 +1396,28 @@
       "duration_ms": 123807,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/7bCfSIVQZLVMAe2Z1lxsMM"
+    },
+    {
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/72M4X9HwHWL8qRxaAULU34"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4WaibqSJtFg9rom8oq2FgX"
     },
     {
       "album": {
@@ -2792,6 +2832,24 @@
       "duration_ms": 155250,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7c85rhgZ68cUiORoC33Yhz"
+    },
+    {
+      "album": {
+        "name": "CHAOS",
+        "url": "https://open.spotify.com/album/5kswo1Np0gWNPQuRQyclzS"
+      },
+      "artists": [
+        {
+          "name": "NO. SYGNL",
+          "url": "https://open.spotify.com/artist/1tJIyQ7VJERr5YGEKpgmun"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272133,
+      "name": "CHAOS",
+      "url": "https://open.spotify.com/track/7ezwHpu1HmybWtQUH3XNJt"
     },
     {
       "album": {
@@ -6441,6 +6499,32 @@
     },
     {
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/7nzX1nl2TH8Qx5u1p9cmOC"
+      },
+      "artists": [
+        {
+          "name": "Blookah",
+          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
+        },
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        },
+        {
+          "name": "Jeanne Taylor",
+          "url": "https://open.spotify.com/artist/1HnArnhrvMb1hHokXaZ6aR"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165633,
+      "name": "Go Fast",
+      "url": "https://open.spotify.com/track/2TLq5fijG1v1mbAYMP4LnM"
+    },
+    {
+      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/78dxvt5Zb1nKsC3VV1s12r"
       },
@@ -6721,6 +6805,32 @@
     },
     {
       "album": {
+        "name": "Greece 2000 (Max Styler Rework)",
+        "url": "https://open.spotify.com/album/6waS2OtH6DmHs3uBbRpM43"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Greece 2000 - Max Styler Rework",
+      "url": "https://open.spotify.com/track/1rO61T3jVwbokKW9F1CWBv"
+    },
+    {
+      "album": {
         "name": "Grove St. Party (feat. Kebo Gotti) [Super Future Remix]",
         "url": "https://open.spotify.com/album/5iug0UTgRwD5hb47domSF0"
       },
@@ -6744,6 +6854,24 @@
       "duration_ms": 181714,
       "name": "Grove St. Party (feat. Kebo Gotti) [Super Future Remix]",
       "url": "https://open.spotify.com/track/0IaQfOsYjYWm48e792RlVV"
+    },
+    {
+      "album": {
+        "name": "Hands Up, Hands High",
+        "url": "https://open.spotify.com/album/6s2f09EJI26AuIl95RTrJ7"
+      },
+      "artists": [
+        {
+          "name": "DANIQ",
+          "url": "https://open.spotify.com/artist/4pVwni0qNGtLWvGhRiXmZl"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222971,
+      "name": "Hands Up, Hands High",
+      "url": "https://open.spotify.com/track/5rnWLFfdYQMZu4bac1G5Hk"
     },
     {
       "album": {
@@ -10093,6 +10221,32 @@
     },
     {
       "album": {
+        "name": "Love & Oxygen",
+        "url": "https://open.spotify.com/album/4HahVe8K0u3RiyVjmZn7vT"
+      },
+      "artists": [
+        {
+          "name": "ANAR",
+          "url": "https://open.spotify.com/artist/2lSGu9AjDkj8ebLm1gRsXQ"
+        },
+        {
+          "name": "Gianni Caiaffa",
+          "url": "https://open.spotify.com/artist/3NjXzuiWutUeh3idtGossX"
+        },
+        {
+          "name": "Marlie Chunes",
+          "url": "https://open.spotify.com/artist/48edcOxvFWbAAsX3pYh8HB"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Love & Oxygen",
+      "url": "https://open.spotify.com/track/699g35gD5lCaDaiF1ysIVG"
+    },
+    {
+      "album": {
         "name": "Love Lift Me",
         "url": "https://open.spotify.com/album/1vdBwiAI49QQ60BThS94Hv"
       },
@@ -10742,6 +10896,24 @@
       "duration_ms": 195923,
       "name": "Medellin",
       "url": "https://open.spotify.com/track/1mR45Dp6MAsfKiSOtkOacS"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/58KstZjrzmofYAatM7ojBq"
+      },
+      "artists": [
+        {
+          "name": "BBT",
+          "url": "https://open.spotify.com/artist/7dxvUvJ5HfIoWhlUUIIE7H"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144242,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/3ENTN8H732hWG16L4X3g16"
     },
     {
       "album": {
@@ -14301,6 +14473,24 @@
     },
     {
       "album": {
+        "name": "set me free (let me breath)",
+        "url": "https://open.spotify.com/album/6ALrwN89sLqgRx87c6QN5D"
+      },
+      "artists": [
+        {
+          "name": "mvxim",
+          "url": "https://open.spotify.com/artist/5Wi3TpBFJO2ICEe7AECWL0"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "set me free (let me breath)",
+      "url": "https://open.spotify.com/track/0jg7yfFHwic3uVLKZeXmTq"
+    },
+    {
+      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/5bbrnX5ri4l3b6mtNFYCQ1"
       },
@@ -14642,6 +14832,24 @@
       "duration_ms": 212916,
       "name": "Shake The Room",
       "url": "https://open.spotify.com/track/2nZHWtn66L5h6hCwrWC7Bj"
+    },
+    {
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
     },
     {
       "album": {
@@ -15296,6 +15504,24 @@
       "duration_ms": 208107,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5xFsw3W3K6XDZcWiBjEQ5a"
+      },
+      "artists": [
+        {
+          "name": "Sebastien Castillo",
+          "url": "https://open.spotify.com/artist/1e1kGydXzLwFbWl77B44u8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/21oV1oJW6L53P4l4DAXbrD"
     },
     {
       "album": {
@@ -17217,6 +17443,28 @@
     },
     {
       "album": {
+        "name": "Trivium",
+        "url": "https://open.spotify.com/album/3Odq7sATGVxrsM4PkekWSK"
+      },
+      "artists": [
+        {
+          "name": "Dan Cooper",
+          "url": "https://open.spotify.com/artist/54SmdKIRQCgROJeyiz9lDY"
+        },
+        {
+          "name": "Eftihios",
+          "url": "https://open.spotify.com/artist/7wpSOaMrC95Gb97UKrbA7j"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Trivium",
+      "url": "https://open.spotify.com/track/5fJgYzu006P1xIO2DsRh9c"
+    },
+    {
+      "album": {
         "name": "From Down Under",
         "url": "https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW"
       },
@@ -17452,6 +17700,24 @@
       "duration_ms": 193548,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6CbIPjGM6kGdksZjexDtQG"
+    },
+    {
+      "album": {
+        "name": "Unfaithful",
+        "url": "https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231891,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8"
     },
     {
       "album": {

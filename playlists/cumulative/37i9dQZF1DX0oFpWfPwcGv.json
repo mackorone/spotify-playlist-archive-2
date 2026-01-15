@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 457746,
       "name": "Doctor Love - Tom Moulton 12\" Mix",
       "url": "https://open.spotify.com/track/0zewaxyhaiad2J2V8X12GL"
@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "I Want To Feel Your Love",
+        "url": "https://open.spotify.com/album/5CNIhCpg0W8pdXBJ8b3ISJ"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/2TAuq1e91Y636PDppnI2tq"
+    },
+    {
+      "album": {
         "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
         "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
@@ -572,6 +590,24 @@
       "duration_ms": 423240,
       "name": "Found a Cure - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
+    },
+    {
+      "album": {
+        "name": "Tommy Stewart",
+        "url": "https://open.spotify.com/album/46fNP3GBxPcKJnbUXydeuG"
+      },
+      "artists": [
+        {
+          "name": "Tommy Stewart",
+          "url": "https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289266,
+      "name": "Fulton County Line",
+      "url": "https://open.spotify.com/track/6DNGubEO3jpZE1osALeEkn"
     },
     {
       "album": {
@@ -2034,7 +2070,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 389332,
       "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
       "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"

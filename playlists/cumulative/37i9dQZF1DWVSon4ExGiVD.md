@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVSon4ExGiVD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVSon4ExGiVD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVSon4ExGiVD)
+[pretty](/playlists/pretty/37i9dQZF1DWVSon4ExGiVD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVSon4ExGiVD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVSon4ExGiVD)
 
 ### [Darkchild's Taste](https://open.spotify.com/playlist/37i9dQZF1DWVSon4ExGiVD)
 

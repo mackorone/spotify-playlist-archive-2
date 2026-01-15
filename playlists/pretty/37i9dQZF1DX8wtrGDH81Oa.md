@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain](/playlists/plain/37i9dQZF1DX8wtrGDH81Oa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8wtrGDH81Oa)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain](/playlists/plain/37i9dQZF1DX8wtrGDH81Oa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8wtrGDH81Oa)
 
 ### [House Focus](https://open.spotify.com/playlist/37i9dQZF1DX8wtrGDH81Oa)
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,115 likes - 222 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,955 likes - 222 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 221 | [Catching Up With My Breath](https://open.spotify.com/track/2rZYvvEgUgYGH6B6fZYj1g) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Catching Up With My Breath](https://open.spotify.com/album/5GEduN1QsT99aCG3L66fFs) | 2:36 |
 | 222 | [Rise](https://open.spotify.com/track/1qkg7lW4KprxKYNMD1jijN) | [Martin Bloumy](https://open.spotify.com/artist/2Y3zwpx6WWFI15VYRisM4h) | [Rise](https://open.spotify.com/album/19FmBtvkHhlajoNqElPpIA) | 2:57 |
 
-Snapshot ID: `AAAAACbeAki+4ZNvGj7R2ibV+N0khszR`
+Snapshot ID: `AAAAABsk49Q4NkIwmSc1nY1b9jDfIJNY`

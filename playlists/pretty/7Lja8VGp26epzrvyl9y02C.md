@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7Lja8VGp26epzrvyl9y02C.md) - [plain](/playlists/plain/7Lja8VGp26epzrvyl9y02C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7Lja8VGp26epzrvyl9y02C)
+pretty - [cumulative](/playlists/cumulative/7Lja8VGp26epzrvyl9y02C.md) - [plain](/playlists/plain/7Lja8VGp26epzrvyl9y02C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7Lja8VGp26epzrvyl9y02C)
 
 ### [PlayStation Year In Music](https://open.spotify.com/playlist/7Lja8VGp26epzrvyl9y02C)
 
 > Here are the most streamed songs and artists on the PS4 &amp; PS5 in 2024, 2023, and beyond.
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 53,179 likes - 388 songs - 21 hr 14 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 53,145 likes - 388 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

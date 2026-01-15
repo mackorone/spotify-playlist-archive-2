@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 7208,
+  "num_followers": 7365,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAABRrpBgECHgXa42tiaP9VJE",
+  "snapshot_id": "aWbcgAAAAACUO2pZrCzsudQb8hIOx1Ok",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heat The Streets Some Mo'",
-        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 167965,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad At Fire",
         "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 231532,
       "name": "Mad At Fire",
       "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heat The Streets Some Mo'",
+        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 167965,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Against The Wind",
-        "url": "https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 260240,
-      "name": "Cry Against The Wind",
-      "url": "https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light Work",
         "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 217304,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry Against The Wind",
+        "url": "https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 260240,
+      "name": "Cry Against The Wind",
+      "url": "https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
       "artists": [
         {
@@ -256,73 +256,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Until It's Dust",
-      "url": "https://open.spotify.com/track/616o0X9kcvy732UKKnL68j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heat The Streets",
-        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 165431,
-      "name": "Different Too",
-      "url": "https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 218150,
-      "name": "Open Light",
-      "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyways",
-        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Anyways",
-      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": null,
@@ -352,15 +288,15 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 144672,
-      "name": "Dull Jewellery",
-      "url": "https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd"
+      "duration_ms": 165431,
+      "name": "Different Too",
+      "url": "https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
       },
       "artists": [
         {
@@ -368,9 +304,73 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 218150,
+      "name": "Open Light",
+      "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Until It's Dust",
+      "url": "https://open.spotify.com/track/616o0X9kcvy732UKKnL68j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 144672,
+      "name": "Dull Jewellery",
+      "url": "https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways",
+        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Anyways",
+      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
     },
     {
       "added_at": null,
@@ -387,54 +387,6 @@
       "duration_ms": 241546,
       "name": "Over You By Now - Live From 525",
       "url": "https://open.spotify.com/track/5l5C8OH7yxyCvUVlAJIZvi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Promise Me A Rose",
-      "url": "https://open.spotify.com/track/6poSI6Yb9qbuHWbGCI6XhQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heat The Streets",
-        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 237431,
-      "name": "Give Me A Smile",
-      "url": "https://open.spotify.com/track/1r9wRselEkfiKoN8tpzOGl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Dark Out (Season of Thieves)",
-      "url": "https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB"
     },
     {
       "added_at": null,
@@ -459,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 237431,
+      "name": "Give Me A Smile",
+      "url": "https://open.spotify.com/track/1r9wRselEkfiKoN8tpzOGl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The Deported",
         "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
       },
@@ -468,15 +436,15 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 224842,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/3WJI2S7Zz9pEfHnke2Z6k8"
+      "duration_ms": 201640,
+      "name": "Promise Me A Rose",
+      "url": "https://open.spotify.com/track/6poSI6Yb9qbuHWbGCI6XhQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
       },
       "artists": [
         {
@@ -484,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
+      "duration_ms": 115680,
+      "name": "Dark Out (Season of Thieves)",
+      "url": "https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB"
     },
     {
       "added_at": null,
@@ -507,6 +475,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/3WJI2S7Zz9pEfHnke2Z6k8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL-MEAN",
         "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
@@ -519,38 +519,6 @@
       "duration_ms": 190219,
       "name": "Before I Take A While",
       "url": "https://open.spotify.com/track/7bvDwFcfjSX7BlCpgh2n0X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lover, You Should\u2019ve Come Over",
-        "url": "https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 361175,
-      "name": "Lover, You Should\u2019ve Come Over",
-      "url": "https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marking My Time (Again)",
-        "url": "https://open.spotify.com/album/4iJJ7qtR7T8v0CarMWIM04"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 235229,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4L2xiqRQ5IKQoIwn3XaVkr"
     },
     {
       "added_at": null,
@@ -571,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+        "name": "Lover, You Should\u2019ve Come Over",
+        "url": "https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm"
       },
       "artists": [
         {
@@ -580,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 107693,
-      "name": "For The Deported",
-      "url": "https://open.spotify.com/track/5t1FOawyraADWixmy5pmWM"
+      "duration_ms": 361175,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe"
     },
     {
       "added_at": null,
@@ -612,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 197086,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/0HEn73THkU6Cd2ZkOXltC5"
+      "duration_ms": 235229,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4L2xiqRQ5IKQoIwn3XaVkr"
     },
     {
       "added_at": null,
@@ -644,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 129026,
-      "name": "Grave News",
-      "url": "https://open.spotify.com/track/5TriYLMGrvgW7j1aXymdeX"
+      "duration_ms": 107693,
+      "name": "For The Deported",
+      "url": "https://open.spotify.com/track/5t1FOawyraADWixmy5pmWM"
     },
     {
       "added_at": null,
@@ -667,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+        "name": "Marking My Time (Again)",
+        "url": "https://open.spotify.com/album/4iJJ7qtR7T8v0CarMWIM04"
       },
       "artists": [
         {
@@ -676,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 274030,
-      "name": "Guess We're Leaving",
-      "url": "https://open.spotify.com/track/1CN6cHipfsFph71waKoeee"
+      "duration_ms": 197086,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/0HEn73THkU6Cd2ZkOXltC5"
     },
     {
       "added_at": null,
@@ -695,6 +663,70 @@
       "duration_ms": 170333,
       "name": "Coraline - Live From 525",
       "url": "https://open.spotify.com/track/3K5n6dkpyYLlqWuEWiGz20"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 274030,
+      "name": "Guess We're Leaving",
+      "url": "https://open.spotify.com/track/1CN6cHipfsFph71waKoeee"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Brussels",
+        "url": "https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 113978,
+      "name": "So Into You - Live From Brussels",
+      "url": "https://open.spotify.com/track/6apr5EWxitEo8Kecwc9mCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 129026,
+      "name": "Grave News",
+      "url": "https://open.spotify.com/track/5TriYLMGrvgW7j1aXymdeX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From 525",
+        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 270013,
+      "name": "Pink Matter - Live From 525",
+      "url": "https://open.spotify.com/track/0KRqUVsBSMTJ5LismVoNv1"
     },
     {
       "added_at": null,
@@ -728,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 113978,
-      "name": "So Into You - Live From Brussels",
-      "url": "https://open.spotify.com/track/6apr5EWxitEo8Kecwc9mCC"
+      "duration_ms": 198626,
+      "name": "Breaking Point - Live From Brussels",
+      "url": "https://open.spotify.com/track/5dWRG9Zv96UKVcOxVLlxZK"
     },
     {
       "added_at": null,
@@ -751,38 +783,6 @@
       "duration_ms": 199435,
       "name": "About Us",
       "url": "https://open.spotify.com/track/0CePgbdhXaopN3T58u4fEU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From 525",
-        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 270013,
-      "name": "Pink Matter - Live From 525",
-      "url": "https://open.spotify.com/track/0KRqUVsBSMTJ5LismVoNv1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Brussels",
-        "url": "https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Breaking Point - Live From Brussels",
-      "url": "https://open.spotify.com/track/5dWRG9Zv96UKVcOxVLlxZK"
     }
   ],
   "unique_name": "This Is Elmiene",

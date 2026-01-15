@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrIr0kH1BCb.md) - [plain](/playlists/plain/37i9dQZF1DWUrIr0kH1BCb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUrIr0kH1BCb)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrIr0kH1BCb.md) - [plain](/playlists/plain/37i9dQZF1DWUrIr0kH1BCb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUrIr0kH1BCb)
 
 ### [Best of Sesame Street](https://open.spotify.com/playlist/37i9dQZF1DWUrIr0kH1BCb)
 
 > The top hits from your friends on <a href="spotify:artist:50bY8HGxT0SuDgJX3AilTT">Sesame Street</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,847 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,701 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

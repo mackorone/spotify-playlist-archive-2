@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2ULa1Ss8vbo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2ULa1Ss8vbo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ULa1Ss8vbo)
+[pretty](/playlists/pretty/37i9dQZF1DX2ULa1Ss8vbo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2ULa1Ss8vbo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2ULa1Ss8vbo)
 
 ### [Irish Folk Ballads](https://open.spotify.com/playlist/37i9dQZF1DX2ULa1Ss8vbo)
 
@@ -66,7 +66,7 @@
 | [The Galtee Mountain Boy](https://open.spotify.com/track/4Y8wLkEqxpaBuWcISJZvJP) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [The Fields Of Athenry](https://open.spotify.com/album/2xHoni5Sdk23qiQniBWUQu) | 3:44 | 2019-03-14 |  |
 | [The Irish Rover](https://open.spotify.com/track/2K7lZQojcmdcrl7rkvY3mL) | [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Pure Irish Pub Songs](https://open.spotify.com/album/7lYYpatEqemfpuOajr9w3a) | 2:58 | 2019-03-14 |  |
 | [The Jail of Cluain Meala](https://open.spotify.com/track/18JyT0FmW3uJqQspISVbC4) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a), [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [Pure Irish Folk](https://open.spotify.com/album/2tpUS0uPbCupZUZ8DyVQYY) | 2:47 | 2019-03-14 |  |
-| [The Man from the Daily Mail](https://open.spotify.com/track/19VwDKPmW2AMF0kZMvGYhz) | [Fee McGorman](https://open.spotify.com/artist/0jeiwWSPCfU7UgVPzzwu90) | [Songs of the Irish Republic](https://open.spotify.com/album/2139TNKGU2QxntFcxnt6SV) | 2:10 | 2019-03-14 |  |
+| [The Man From The Daily Mail](https://open.spotify.com/track/19VwDKPmW2AMF0kZMvGYhz) | [Fee McGorman](https://open.spotify.com/artist/0jeiwWSPCfU7UgVPzzwu90) | [Songs Of The Irish Republic](https://open.spotify.com/album/2139TNKGU2QxntFcxnt6SV) | 2:10 | 2019-03-14 |  |
 | [The Parting Glass](https://open.spotify.com/track/4GrSOtphVKCSE8NIvFjfbw) | [Celtic Woman](https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x) | [Decade\. The Songs, The Show, The Traditions, The Classics.](https://open.spotify.com/album/2SsSLomiMLQDeVfSTXGUi9) | 4:16 | 2019-03-14 |  |
 | [The Red Rose Cafe](https://open.spotify.com/track/5tTtnr3lyvNIfvW3Wdunzq) | [The Fureys](https://open.spotify.com/artist/1WHVWwMFnjB3oRcjr7nVPP) | [The Essential Fureys](https://open.spotify.com/album/0gNDC9wgwaHZwT62llFeVa) | 4:03 | 2019-03-14 |  |
 | [The Red Rose Cafe](https://open.spotify.com/track/6SVM7vazjVQNSeFxpOvmt4) | [The Fureys & Davey Arthur](https://open.spotify.com/artist/2hzTqBd559jr5y71uz0WT1) | [Twenty Fifth Anniversary Collection](https://open.spotify.com/album/7Aub6ay5NmxNxeHudMmcJ9) | 4:03 | 2022-07-13 | 2022-11-13 |

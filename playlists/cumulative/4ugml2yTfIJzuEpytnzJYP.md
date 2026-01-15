@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4ugml2yTfIJzuEpytnzJYP.md) - cumulative - [plain](/playlists/plain/4ugml2yTfIJzuEpytnzJYP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ugml2yTfIJzuEpytnzJYP)
+[pretty](/playlists/pretty/4ugml2yTfIJzuEpytnzJYP.md) - cumulative - [plain](/playlists/plain/4ugml2yTfIJzuEpytnzJYP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4ugml2yTfIJzuEpytnzJYP)
 
 ### [Deep Bass / Melodic Bass / 140](https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP)
 

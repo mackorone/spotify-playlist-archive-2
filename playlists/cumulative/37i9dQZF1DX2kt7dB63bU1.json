@@ -3429,6 +3429,24 @@
     },
     {
       "album": {
+        "name": "Dans les rues de Qu\u00e9bec",
+        "url": "https://open.spotify.com/album/5mIAWf2Ba7Lk8LxuBVt3TL"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153369,
+      "name": "Dans les rues de Qu\u00e9bec",
+      "url": "https://open.spotify.com/track/4JWc2mhiHfdLkcqBKS6dqs"
+    },
+    {
+      "album": {
         "name": "Dark and Lovely",
         "url": "https://open.spotify.com/album/01dK18wyaylbyzfSaHpBHu"
       },
@@ -4664,7 +4682,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 142238,
       "name": "Five Senses",
       "url": "https://open.spotify.com/track/2v5Rvh6gdKE7XaSMykpEJ8"
@@ -17852,7 +17870,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 280624,
       "name": "Wonder in the Waiting",
       "url": "https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet"

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 524,
+  "num_followers": 526,
   "original_name": "u pwetty",
   "owner": {
     "name": "CerVon Campbell",
     "url": "https://open.spotify.com/user/1275620579"
   },
-  "snapshot_id": "AAAVjApGEQyvwUYUvl+dh03XyDkRYp4I",
+  "snapshot_id": "AAAVlAAfmmxAnaNVFuHnsN09ebiXyBen",
   "tracks": [
     {
       "added_at": "2025-03-12 13:37:59",
@@ -2291,6 +2291,134 @@
       "duration_ms": 146068,
       "name": "She's My Witch",
       "url": "https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ"
+    },
+    {
+      "added_at": "2026-01-06 14:53:53",
+      "album": {
+        "name": "System",
+        "url": "https://open.spotify.com/album/0siaSZy3DK0G7Oy19ze8rC"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00edo",
+          "url": "https://open.spotify.com/artist/1ekLFJV2uRyWkP1j5BIAGu"
+        }
+      ],
+      "duration_ms": 208766,
+      "name": "System",
+      "url": "https://open.spotify.com/track/3ZheEm7LyyHT14Dw9RZxPH"
+    },
+    {
+      "added_at": "2026-01-07 03:12:17",
+      "album": {
+        "name": "A Place to Call Home",
+        "url": "https://open.spotify.com/album/5XnHiDa8vkJc95wnLw74mx"
+      },
+      "artists": [
+        {
+          "name": "Simon Alexander",
+          "url": "https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA"
+        }
+      ],
+      "duration_ms": 227264,
+      "name": "Northwoods",
+      "url": "https://open.spotify.com/track/3q9YV0kullF1IIEUoKTadq"
+    },
+    {
+      "added_at": "2026-01-07 03:12:35",
+      "album": {
+        "name": "Mythologies",
+        "url": "https://open.spotify.com/album/4kxNO2xUxABCx3RP6CgpSb"
+      },
+      "artists": [
+        {
+          "name": "Herald K",
+          "url": "https://open.spotify.com/artist/1rG4pmrcpdK5cmkqFDVXRk"
+        }
+      ],
+      "duration_ms": 198607,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/4zoyn0XwZ2MysyRYxNcTCp"
+    },
+    {
+      "added_at": "2026-01-07 03:12:42",
+      "album": {
+        "name": "IRS",
+        "url": "https://open.spotify.com/album/3JYd80QtqjS7fw0nZrXBHs"
+      },
+      "artists": [
+        {
+          "name": "MR Smith Group (MSG)",
+          "url": "https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM"
+        }
+      ],
+      "duration_ms": 241204,
+      "name": "IRS",
+      "url": "https://open.spotify.com/track/3IC6BEliAIbqt6cv9yzxWD"
+    },
+    {
+      "added_at": "2026-01-07 03:13:13",
+      "album": {
+        "name": "If We Ever Stopped Talking",
+        "url": "https://open.spotify.com/album/4Yy6yROsIhKb4OY8wqx8sM"
+      },
+      "artists": [
+        {
+          "name": "S1D333",
+          "url": "https://open.spotify.com/artist/6qG3qPtGdzUgV8r6qcppjI"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "If We Ever Stopped Talking",
+      "url": "https://open.spotify.com/track/7gJMxmgGsKdSQkqxFxdAO5"
+    },
+    {
+      "added_at": "2026-01-07 03:13:16",
+      "album": {
+        "name": "If We Ever Stopped Talking",
+        "url": "https://open.spotify.com/album/4Yy6yROsIhKb4OY8wqx8sM"
+      },
+      "artists": [
+        {
+          "name": "S1D333",
+          "url": "https://open.spotify.com/artist/6qG3qPtGdzUgV8r6qcppjI"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "If We Ever Stopped Talking",
+      "url": "https://open.spotify.com/track/7gJMxmgGsKdSQkqxFxdAO5"
+    },
+    {
+      "added_at": "2026-01-09 05:54:22",
+      "album": {
+        "name": "Rosemary Gold",
+        "url": "https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg"
+      },
+      "artists": [
+        {
+          "name": "FXCELESS",
+          "url": "https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl"
+        }
+      ],
+      "duration_ms": 130867,
+      "name": "Rosemary Gold",
+      "url": "https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7"
+    },
+    {
+      "added_at": "2026-01-09 05:55:38",
+      "album": {
+        "name": "All Of My Love",
+        "url": "https://open.spotify.com/album/4GCzlbQoHRDTkWsjKFIaMV"
+      },
+      "artists": [
+        {
+          "name": "Shelton",
+          "url": "https://open.spotify.com/artist/1CMYnWfZqAPKfA7g43RvtB"
+        }
+      ],
+      "duration_ms": 174308,
+      "name": "All Of My Love",
+      "url": "https://open.spotify.com/track/1i2JN0ITHgMC3228pFWxVc"
     }
   ],
   "unique_name": "u pwetty",

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain](/playlists/plain/37i9dQZF1DX4g8Gs5nUhpp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4g8Gs5nUhpp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain](/playlists/plain/37i9dQZF1DX4g8Gs5nUhpp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4g8Gs5nUhpp)
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: \(S\)TRONG
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,995 likes - 53 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,070 likes - 53 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 52 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
 | 53 | [Từng Ngày Yêu Em](https://open.spotify.com/track/3Ids3RXurYBgySph53qWnB) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Từng Ngày Như Mãi Mãi](https://open.spotify.com/album/2DCbDdIBNRxx0SxLtgyd4D) | 3:45 |
 
-Snapshot ID: `AAAAAJeo/URBJSuZrFc41RV59aTVOzdJ`
+Snapshot ID: `AAAAABuuKIKxyQa/3c+/jDtso6h6CAMT`

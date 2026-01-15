@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUt6s1pWAnvP.md) - [plain](/playlists/plain/37i9dQZF1DWUt6s1pWAnvP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUt6s1pWAnvP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUt6s1pWAnvP.md) - [plain](/playlists/plain/37i9dQZF1DWUt6s1pWAnvP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUt6s1pWAnvP)
 
 ### [The Quiet Club](https://open.spotify.com/playlist/37i9dQZF1DWUt6s1pWAnvP)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5Qo2aHhoew.md) - [plain](/playlists/plain/37i9dQZF1DXa5Qo2aHhoew) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa5Qo2aHhoew)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5Qo2aHhoew.md) - [plain](/playlists/plain/37i9dQZF1DXa5Qo2aHhoew) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXa5Qo2aHhoew)
 
 ### [Pitch Perfect: Bumper in Berlin Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXa5Qo2aHhoew)
 
 > Go auf with music from and inspired by the new Original series Pitch Perfect: Bumper in Berlin, streaming only on <a href="https://www.peacocktv.com/stream\-tv/pitch\-perfect\-bumper\-in\-berlin">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,939 likes - 35 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,958 likes - 35 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain](/playlists/plain/37i9dQZF1DX1PCNEM81iS6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1PCNEM81iS6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain](/playlists/plain/37i9dQZF1DX1PCNEM81iS6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1PCNEM81iS6)
 
 ### [That Time I Got Reincarnated as a Slime](https://open.spotify.com/playlist/37i9dQZF1DX1PCNEM81iS6)
 
 > Music from "That Time I Got Reincarnated as a Slime"! ©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,701 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,819 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

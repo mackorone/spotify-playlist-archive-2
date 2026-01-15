@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7ejNI3ll8uMiseo6CM1Hky.md) - cumulative - [plain](/playlists/plain/7ejNI3ll8uMiseo6CM1Hky) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7ejNI3ll8uMiseo6CM1Hky)
+[pretty](/playlists/pretty/7ejNI3ll8uMiseo6CM1Hky.md) - cumulative - [plain](/playlists/plain/7ejNI3ll8uMiseo6CM1Hky) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7ejNI3ll8uMiseo6CM1Hky)
 
 ### [Songs that remind me I'm a furry](https://open.spotify.com/playlist/7ejNI3ll8uMiseo6CM1Hky)
 

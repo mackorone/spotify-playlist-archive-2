@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain](/playlists/plain/37i9dQZF1DWTRnup1IgL4a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTRnup1IgL4a)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain](/playlists/plain/37i9dQZF1DWTRnup1IgL4a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTRnup1IgL4a)
 
 ### [Guitar for Sleep](https://open.spotify.com/playlist/37i9dQZF1DWTRnup1IgL4a)
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,772 likes - 106 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,822 likes - 106 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

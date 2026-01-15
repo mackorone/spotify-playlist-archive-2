@@ -3900,7 +3900,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140917,
       "name": "Figure Say",
       "url": "https://open.spotify.com/track/0FHC1TCjY49MvH1BL7cpv4"
@@ -5660,6 +5660,24 @@
       "duration_ms": 171456,
       "name": "Kaba",
       "url": "https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA"
+    },
+    {
+      "album": {
+        "name": "Kakalika",
+        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181581,
+      "name": "Kakalika",
+      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
       "album": {
@@ -10196,7 +10214,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176112,
       "name": "Soft Soul Lady",
       "url": "https://open.spotify.com/track/5cDAN9rfa5lhCJQrbsO5Vz"
@@ -11126,6 +11144,40 @@
       "duration_ms": 203755,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1"
+    },
+    {
+      "album": {
+        "name": "TSOOBI (AKONOBA)",
+        "url": "https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226809,
+      "name": "TSOOBI (AKONOBA)",
+      "url": "https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR"
     },
     {
       "album": {

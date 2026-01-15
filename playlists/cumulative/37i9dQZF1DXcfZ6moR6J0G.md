@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcfZ6moR6J0G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcfZ6moR6J0G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcfZ6moR6J0G)
+[pretty](/playlists/pretty/37i9dQZF1DXcfZ6moR6J0G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcfZ6moR6J0G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcfZ6moR6J0G)
 
 ### [Nu Metal Era](https://open.spotify.com/playlist/37i9dQZF1DXcfZ6moR6J0G)
 

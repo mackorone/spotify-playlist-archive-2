@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTqYqGLu7kTX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTqYqGLu7kTX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTqYqGLu7kTX)
+[pretty](/playlists/pretty/37i9dQZF1DWTqYqGLu7kTX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTqYqGLu7kTX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTqYqGLu7kTX)
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Gurinder Gill
+> Best of Punjabi Hip\-Hop! Cover:  Jxggi
 
-312 songs - 15 hr 24 min
+313 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 0:00 | 2024-02-02 | 2025-09-13 |
 | [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2023-03-18 | 2025-01-25 |
 | [12 Bande](https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [12 Bande](https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u) | 3:24 | 2023-03-18 | 2025-03-01 |
+| [1911](https://open.spotify.com/track/0SBI2P0sOKIBnr6cPcojbH) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Yung4eva](https://open.spotify.com/artist/3M2xmMHRCGlqdfQm8WsrgC) | [1911](https://open.spotify.com/album/78mvG4GhJ0fjAtTM5ySbJJ) | 2:30 | 2026-01-09 |  |
 | [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/track/76TcsS8szd8ZQjwnz78xg9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/album/7GU2LBCmdNCMJzLTxuPAiR) | 3:28 | 2023-03-18 | 2024-04-06 |
 | [24/7](https://open.spotify.com/track/507LR0bNZxxGoOfVeuE68d) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [24/7](https://open.spotify.com/album/4hSDSdX2SRiifMlk6dnosH) | 3:11 | 2023-03-18 | 2023-04-24 |
 | [25\-25](https://open.spotify.com/track/4aObqXLku7XQqfVQ8azYGo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:35 | 2023-04-23 | 2024-04-06 |
@@ -250,7 +251,7 @@
 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 | 2023-03-18 |  |
 | [Sarpanchi](https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf) | [Harry Dhaliwal](https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [Anwar Rai](https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV) | [Hype](https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz) | 2:11 | 2024-10-01 | 2024-11-20 |
 | [Satisfy](https://open.spotify.com/track/2SazZ5d4m9G5IWu5xdMjZf) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Satisfy](https://open.spotify.com/album/6RYfEZXGozNip5vEpP0Llp) | 4:40 | 2023-03-18 | 2023-04-24 |
-| [Saucy](https://open.spotify.com/track/6HPQuJOxBk2KNP0iwW4qrc) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q) | [Walking on Water](https://open.spotify.com/album/0XJyOVcQlRENIxTGc357JQ) | 2:25 | 2025-12-19 |  |
+| [Saucy](https://open.spotify.com/track/6HPQuJOxBk2KNP0iwW4qrc) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q) | [Walking on Water](https://open.spotify.com/album/0XJyOVcQlRENIxTGc357JQ) | 2:25 | 2025-12-19 | 2026-01-15 |
 | [Sawaal Puchdi \(Feat\. Bohemia\)](https://open.spotify.com/track/0W7oY8NwwVkEeUVsAwF19Z) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 4:09 | 2025-09-26 | 2025-10-18 |
 | [Say Less](https://open.spotify.com/track/5X0ndxwCNoorZjBwFhI0MX) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Say Less](https://open.spotify.com/album/0hKJ7pVTnaXEk63cKTZpFh) | 3:36 | 2025-10-14 | 2025-10-18 |
 | [Scapegoat](https://open.spotify.com/track/7fm1Nbus8X19wI4oz6FFcb) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Scapegoat](https://open.spotify.com/album/57H1cyRJxpt3COMGnSnl7N) | 3:57 | 2023-03-18 | 2025-01-25 |

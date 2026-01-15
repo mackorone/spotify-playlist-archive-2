@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO31S3Vp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO31S3Vp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO31S3Vp)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO31S3Vp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO31S3Vp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO31S3Vp)
 
 ### [This Is Jão](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31S3Vp)
 

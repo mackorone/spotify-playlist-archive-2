@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ku5zxR5pFB.md) - [plain](/playlists/plain/37i9dQZF1DX5Ku5zxR5pFB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Ku5zxR5pFB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ku5zxR5pFB.md) - [plain](/playlists/plain/37i9dQZF1DX5Ku5zxR5pFB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5Ku5zxR5pFB)
 
 ### [This Is V](https://open.spotify.com/playlist/37i9dQZF1DX5Ku5zxR5pFB)
 
 > Let's have a LAYOVER in the V's world 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,675 likes - 27 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,045 likes - 27 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

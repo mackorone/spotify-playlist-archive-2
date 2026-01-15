@@ -961,6 +961,44 @@
     },
     {
       "album": {
+        "name": "Alzypher Vol. 22",
+        "url": "https://open.spotify.com/album/24VBJdmX3mzeztFrd8W1I5"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Frankote",
+          "url": "https://open.spotify.com/artist/6BToY1IkyIPAxJPwkMrlJD"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256363,
+      "name": "Alzypher Vol. 22",
+      "url": "https://open.spotify.com/track/0gS3vRsW1pCS2Y4i4oub65"
+    },
+    {
+      "album": {
         "name": "Alzypher Vol. 9",
         "url": "https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H"
       },
@@ -4660,7 +4698,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213793,
       "name": "Escasez",
       "url": "https://open.spotify.com/track/3wKQFxxQxPrIorCQQyF2n0"
@@ -8026,6 +8064,40 @@
       "duration_ms": 182983,
       "name": "Matense Por La Corona",
       "url": "https://open.spotify.com/track/0Aiz2Y6YlCLMiEAavlbzFe"
+    },
+    {
+      "album": {
+        "name": "MAYONBISNE",
+        "url": "https://open.spotify.com/album/6fv3poj6Fnnl1sHC5q5ydW"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Reke",
+          "url": "https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4"
+        },
+        {
+          "name": "ZEN P",
+          "url": "https://open.spotify.com/artist/79rcJZTSZcSE7SzPdc4xGO"
+        },
+        {
+          "name": "Oldtape",
+          "url": "https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327733,
+      "name": "MAYONBISNE",
+      "url": "https://open.spotify.com/track/5iyCKxkUvM4dFMrmU616sx"
     },
     {
       "album": {
@@ -12246,7 +12318,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 272422,
       "name": "So\u00f1adores Atrevidos",
       "url": "https://open.spotify.com/track/2SVdYwGa9DMTTUR0VrE1tE"

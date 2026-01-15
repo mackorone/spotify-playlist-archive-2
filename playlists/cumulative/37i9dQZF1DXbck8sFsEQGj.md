@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbck8sFsEQGj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbck8sFsEQGj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbck8sFsEQGj)
+[pretty](/playlists/pretty/37i9dQZF1DXbck8sFsEQGj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbck8sFsEQGj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbck8sFsEQGj)
 
 ### [Best of: Coke Studio Pakistan](https://open.spotify.com/playlist/37i9dQZF1DXbck8sFsEQGj)
 

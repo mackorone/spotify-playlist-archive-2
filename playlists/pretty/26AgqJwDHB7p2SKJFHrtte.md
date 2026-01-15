@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/26AgqJwDHB7p2SKJFHrtte.md) - [plain](/playlists/plain/26AgqJwDHB7p2SKJFHrtte) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/26AgqJwDHB7p2SKJFHrtte)
+pretty - [cumulative](/playlists/cumulative/26AgqJwDHB7p2SKJFHrtte.md) - [plain](/playlists/plain/26AgqJwDHB7p2SKJFHrtte) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/26AgqJwDHB7p2SKJFHrtte)
 
 ### [Keep it Low Key](https://open.spotify.com/playlist/26AgqJwDHB7p2SKJFHrtte)
 
 > ..\. and don't take yourself too seriously.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97 likes - 27 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 27 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

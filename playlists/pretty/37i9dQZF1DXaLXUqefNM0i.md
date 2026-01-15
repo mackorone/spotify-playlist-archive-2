@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLXUqefNM0i.md) - [plain](/playlists/plain/37i9dQZF1DXaLXUqefNM0i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaLXUqefNM0i)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLXUqefNM0i.md) - [plain](/playlists/plain/37i9dQZF1DXaLXUqefNM0i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaLXUqefNM0i)
 
 ### [Mixtape \#9 Faye Webster "Songs I Listen to on Repeat"](https://open.spotify.com/playlist/37i9dQZF1DXaLXUqefNM0i)
 
 > Faye Webster invites us into her world\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,747 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,818 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain](/playlists/plain/37i9dQZF1DX6OgmB2fwLGd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6OgmB2fwLGd)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain](/playlists/plain/37i9dQZF1DX6OgmB2fwLGd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6OgmB2fwLGd)
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
 > born on the internet\. ft\. 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,366,380 likes - 105 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,365,740 likes - 105 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

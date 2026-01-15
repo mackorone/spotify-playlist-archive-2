@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWMGLiuK4OqL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWMGLiuK4OqL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWMGLiuK4OqL)
+[pretty](/playlists/pretty/37i9dQZF1DWWMGLiuK4OqL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWMGLiuK4OqL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWMGLiuK4OqL)
 
 ### [Sweet Jazz](https://open.spotify.com/playlist/37i9dQZF1DWWMGLiuK4OqL)
 

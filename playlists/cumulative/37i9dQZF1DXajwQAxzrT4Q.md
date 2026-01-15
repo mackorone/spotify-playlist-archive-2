@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXajwQAxzrT4Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajwQAxzrT4Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajwQAxzrT4Q)
+[pretty](/playlists/pretty/37i9dQZF1DXajwQAxzrT4Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajwQAxzrT4Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXajwQAxzrT4Q)
 
 ### [Jersey Club Heat](https://open.spotify.com/playlist/37i9dQZF1DXajwQAxzrT4Q)
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-339 songs - 13 hr 38 min
+340 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-02-09 |  |
 | [Body Pump \- UNIIQU3 Remix](https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Renaissance \(Remixes\)](https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ) | 3:56 | 2022-02-11 | 2022-12-31 |
 | [Bongos \(feat\. Megan Thee Stallion\) \- DJ SpinKing & DJ Taj Jersey Club Mix](https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [Bongos \(feat\. Megan Thee Stallion\) \[DJ SpinKing & DJ Taj Jersey Club Mix\]](https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc) | 1:37 | 2023-09-15 |  |
-| [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 | 2022-02-11 |  |
+| [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 | 2022-02-11 | 2026-01-15 |
 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 | 2023-08-18 |  |
 | [Bounce](https://open.spotify.com/track/3iAGWI09BCggHdWYq3aNpW) | [Niamoni](https://open.spotify.com/artist/0SPTKSeUoN0qOJHlMH7xhd), [Dj Fresh](https://open.spotify.com/artist/7lmA780bzaejgdZSkWipgY) | [Bounce](https://open.spotify.com/album/0bkjle50P1ZvOu5AiCMU1G) | 2:40 | 2022-07-08 | 2022-07-29 |
 | [Bounce Out](https://open.spotify.com/track/3NtvdMnZZOZsdgWsR81ego) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Bounce Out](https://open.spotify.com/album/50FdMs0QhRdxS97qD9wOCA) | 2:34 | 2022-02-11 | 2022-12-31 |
@@ -132,6 +132,7 @@
 | [Glitchy Gal](https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76) | [Dj Super Will](https://open.spotify.com/artist/3Njy52VdMzOyqMnu2064uu) | [Glitchy Gal](https://open.spotify.com/album/65qyEf2LyFatQqerGJDHdx) | 2:59 | 2022-02-11 | 2022-10-03 |
 | [Go Crazy](https://open.spotify.com/track/7kjZO6UcU6JO1ZReOR6VGR) | [JustFrenchie](https://open.spotify.com/artist/0s0xxazifQuzFsAuxvWPY8), [Dj Crazy](https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK) | [Go Crazy](https://open.spotify.com/album/4DdGXPwFKCr1tpqqrul63p) | 2:36 | 2022-12-30 | 2023-01-06 |
 | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL) | [Chris Mula](https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt) | 1:48 | 2024-05-31 |  |
+| [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 | 2025-12-19 |  |
 | [GOOD LOVING \#jerseyclub](https://open.spotify.com/track/2q1o8E9edYiQrXKAzlx3yu) | [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE) | [GOOD LOVING \#jerseyclub](https://open.spotify.com/album/7Ikhpucqh3CNbfBYXJBmpm) | 1:49 | 2024-04-05 |  |
 | [Good News](https://open.spotify.com/track/04Yhc7qIbIuFg2bjH9wXd4) | [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [Good News](https://open.spotify.com/album/3GnvZEmORtkJoKwaowm7ft) | 2:04 | 2023-09-08 | 2023-10-05 |
 | [Got Back?](https://open.spotify.com/track/0pKuvCp3FIPhHykzwo98FA) | [Leemz](https://open.spotify.com/artist/5P1SmpifePa7JRQko1C9gN), [Yungphnx](https://open.spotify.com/artist/2OAhLVbWM8ONC9JB4DMMIj) | [Got Back?](https://open.spotify.com/album/2Z6haOfHog3DbrXuldYjWX) | 2:15 | 2022-02-11 | 2022-08-17 |

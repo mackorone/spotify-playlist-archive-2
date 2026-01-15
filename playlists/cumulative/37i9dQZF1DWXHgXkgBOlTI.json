@@ -770,7 +770,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 247613,
       "name": "Flowery Flat",
       "url": "https://open.spotify.com/track/0biW20fBvcGbZ2pRf9PrSH"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 146760,
       "name": "Greenfield",
       "url": "https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226266,
       "name": "Mid Summer Shuffle feat. Toshiki Kadomatsu",
       "url": "https://open.spotify.com/track/31wRy64OKfga3gncOQBq2U"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 268425,
       "name": "Never Let Go - Instrumental",
       "url": "https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 299693,
       "name": "Philly's Dance",
       "url": "https://open.spotify.com/track/3dXhHxfQYoJOjwHMUQ8Scc"
@@ -1904,6 +1904,24 @@
       "duration_ms": 256133,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
+    },
+    {
+      "album": {
+        "name": "34/45",
+        "url": "https://open.spotify.com/album/06lupQqsX3gZuaiECZAMge"
+      },
+      "artists": [
+        {
+          "name": "Akira Jimbo",
+          "url": "https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243080,
+      "name": "Soul Funkafied feat. Yoshiaki Muto",
+      "url": "https://open.spotify.com/track/2rFbfBplp0vd2hIFQWVrjY"
     },
     {
       "album": {
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 231722,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
@@ -2494,6 +2512,24 @@
       "duration_ms": 88750,
       "name": "Who is \"LH\"?",
       "url": "https://open.spotify.com/track/6LzMDXrQThX499lfG5ZMU9"
+    },
+    {
+      "album": {
+        "name": "Telepathy",
+        "url": "https://open.spotify.com/album/3qKAQlG3pTQ2dXi9Qg6tPe"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS ACOUSTIC",
+          "url": "https://open.spotify.com/artist/1evtrDEm844KI8zqxp2Rp2"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415733,
+      "name": "WOLF",
+      "url": "https://open.spotify.com/track/2xsyDwq9ZYm9kKYZF8gD4P"
     },
     {
       "album": {

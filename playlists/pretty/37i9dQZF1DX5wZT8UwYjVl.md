@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wZT8UwYjVl.md) - [plain](/playlists/plain/37i9dQZF1DX5wZT8UwYjVl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5wZT8UwYjVl)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wZT8UwYjVl.md) - [plain](/playlists/plain/37i9dQZF1DX5wZT8UwYjVl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5wZT8UwYjVl)
 
 ### [West Side Story Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5wZT8UwYjVl)
 
 > A classic musical reimagined \- listen to the music from West Side Story, only in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,885 likes - 22 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,884 likes - 22 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain](/playlists/plain/37i9dQZF1DX8YFIEyRvxXj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8YFIEyRvxXj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain](/playlists/plain/37i9dQZF1DX8YFIEyRvxXj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8YFIEyRvxXj)
 
 ### [Soul Resistance](https://open.spotify.com/playlist/37i9dQZF1DX8YFIEyRvxXj)
 

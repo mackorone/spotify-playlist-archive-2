@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1EFGspGB3vH6ej.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFGspGB3vH6ej) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFGspGB3vH6ej)
+[pretty](/playlists/pretty/37i9dQZF1EFGspGB3vH6ej.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFGspGB3vH6ej) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFGspGB3vH6ej)
 
 ### [Written By Mariah Carey](https://open.spotify.com/playlist/37i9dQZF1EFGspGB3vH6ej)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-295 songs - 20 hr 5 min
+296 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Infinity](https://open.spotify.com/track/7IzurnmQLvZmMDJcpITUyt) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [\#1 to Infinity](https://open.spotify.com/album/6kRdK7cPgLqNfSoI7AMlyj) | 3:59 | 2024-01-29 |  |
 | [Infinity](https://open.spotify.com/track/6Dus3vfzEG6AJMsPpcuSp3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Infinity](https://open.spotify.com/album/25IaDozrD9sZqL8e6NJcvO) | 4:04 | 2024-01-30 | 2024-02-01 |
 | [Inseparable](https://open.spotify.com/track/3SnzhocraXbgk8dYkIHaBS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 3:33 | 2024-01-29 |  |
-| [Interlude](https://open.spotify.com/track/7sONSf4ZUebcs3BVe8GknG) | [TM Juke](https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R) | [Maps from the Wilderness](https://open.spotify.com/album/7sdJYxemYdWUNldKeFJcKI) | 1:03 | 2024-01-29 |  |
+| [Interlude](https://open.spotify.com/track/6wIkBBvHclAllJ6KBQXKjS) | [TM Juke](https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R) | [Maps From the Wilderness](https://open.spotify.com/album/30cwdhXdMbZ2e51lLQ75A4) | 1:03 | 2026-01-14 |  |
+| [Interlude](https://open.spotify.com/track/7sONSf4ZUebcs3BVe8GknG) | [TM Juke](https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R) | [Maps from the Wilderness](https://open.spotify.com/album/7sdJYxemYdWUNldKeFJcKI) | 1:03 | 2024-01-29 | 2026-01-15 |
 | [Irresistible \(West Side Connection\)](https://open.spotify.com/track/5pEyJpB2PaUxoKOAizbofd) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 5:03 | 2024-01-29 |  |
 | [It's A Wrap](https://open.spotify.com/track/34DQJ0YKBcExT2bFNMjGOe) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 3:58 | 2024-01-29 |  |
 | [It's Like That](https://open.spotify.com/track/6qFEkCFsHB8rNerOBfY5Su) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:23 | 2024-01-29 |  |
@@ -281,7 +282,7 @@
 | [Vision of Love](https://open.spotify.com/track/0gLQ6jhJsyYfl7PrD1RZ7X) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 3:28 | 2024-01-29 |  |
 | [Vulnerability \(Interlude\)](https://open.spotify.com/track/4aDGpzH2gIF67w3hwgCI1J) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 1:11 | 2024-01-29 |  |
 | [Want You](https://open.spotify.com/track/4mUvyHNUEvRxghGy11deBn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:43 | 2024-01-29 |  |
-| [We Belong Together](https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:21 | 2024-01-29 |  |
+| [We Belong Together](https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:21 | 2024-01-29 | 2026-01-15 |
 | [We Belong Together \- Remix](https://open.spotify.com/track/1utrsYxa4IA9zzpLdIxpHB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 4:25 | 2024-01-29 |  |
 | [When Christmas Comes](https://open.spotify.com/track/6b8iHadB73UYCVyXLaFedK) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [When Christmas Comes](https://open.spotify.com/album/2qWK06qVaxSOygIY9RBQ3W) | 4:45 | 2024-07-17 | 2024-11-04 |
 | [When Christmas Comes](https://open.spotify.com/track/1dTzXtog6vWqdLc7BgRScw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Merry Christmas \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/0cS9prZ8u3fdbc7lmtCaMV) | 4:46 | 2024-01-29 |  |

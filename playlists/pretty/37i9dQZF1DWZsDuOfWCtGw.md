@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain](/playlists/plain/37i9dQZF1DWZsDuOfWCtGw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZsDuOfWCtGw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain](/playlists/plain/37i9dQZF1DWZsDuOfWCtGw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZsDuOfWCtGw)
 
 ### [Housewerk Presents Best House Songs of 2024](https://open.spotify.com/playlist/37i9dQZF1DWZsDuOfWCtGw)
 
 > The hottest house tracks we had on repeat in 2024\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,785 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,758 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

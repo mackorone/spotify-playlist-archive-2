@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain](/playlists/plain/37i9dQZF1DX68kWwWBDPYS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX68kWwWBDPYS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain](/playlists/plain/37i9dQZF1DX68kWwWBDPYS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX68kWwWBDPYS)
 
 ### [indie fresco](https://open.spotify.com/playlist/37i9dQZF1DX68kWwWBDPYS)
 
 > morrxs chidxs haciendo música chida\. Méne e Ivana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,618 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,562 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

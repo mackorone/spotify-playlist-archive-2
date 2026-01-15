@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWKJzTTeHfTN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWKJzTTeHfTN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWKJzTTeHfTN)
+[pretty](/playlists/pretty/37i9dQZF1DWWKJzTTeHfTN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWKJzTTeHfTN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWKJzTTeHfTN)
 
 ### [TOMORROW X TOGETHER WORLD TOUR <ACT : SWEET MIRAGE> FINALE](https://open.spotify.com/playlist/37i9dQZF1DWWKJzTTeHfTN)
 

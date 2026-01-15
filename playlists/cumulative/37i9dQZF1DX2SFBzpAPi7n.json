@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: BIG Naughty) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc778\uc131 (INSEONG)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167013,
       "name": "Being a Good Girl Hurts",
       "url": "https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj"
@@ -3886,7 +3886,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "dim,",
       "url": "https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1"
@@ -5092,6 +5092,24 @@
       "duration_ms": 177837,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/3gu28iWFnrj9fzZO523qxf"
+    },
+    {
+      "album": {
+        "name": "Ferris wheel",
+        "url": "https://open.spotify.com/album/3BROQVd2b9S6DgTzIrnGf9"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Ferris wheel",
+      "url": "https://open.spotify.com/track/1Sn7DtIloV3CNuGO3Uok8K"
     },
     {
       "album": {
@@ -6328,7 +6346,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Goodbye, My Summer",
       "url": "https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls"
@@ -8979,6 +8997,24 @@
     },
     {
       "album": {
+        "name": "3LOGY",
+        "url": "https://open.spotify.com/album/3IY5HE1P7GADh5Ojpe5PZU"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Killer Joy",
+      "url": "https://open.spotify.com/track/4QAALgs6KkeklDwg4UeuzP"
+    },
+    {
+      "album": {
         "name": "Knife",
         "url": "https://open.spotify.com/album/0Rm8DxRN9bLmyMoIIs7r5p"
       },
@@ -10402,7 +10438,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193875,
       "name": "LOVERS",
       "url": "https://open.spotify.com/track/3vHkz18weVJNZio2bvbg8g"
@@ -10460,7 +10496,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159000,
       "name": "LUV 2 MUCH",
       "url": "https://open.spotify.com/track/67zKFae520bELVlkMGpWyv"
@@ -11120,6 +11156,24 @@
       "duration_ms": 299000,
       "name": "MUNG",
       "url": "https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m"
+    },
+    {
+      "album": {
+        "name": "Crossfade:",
+        "url": "https://open.spotify.com/album/1WAZmt7JGy7B1BRqG137cf"
+      },
+      "artists": [
+        {
+          "name": "INSEONG",
+          "url": "https://open.spotify.com/artist/36u2c5kavTRe2iEh0fURyL"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214640,
+      "name": "Mute is Off",
+      "url": "https://open.spotify.com/track/6pHBcS2aQTIvUpKB20SJMU"
     },
     {
       "album": {
@@ -15926,7 +15980,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173986,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
@@ -15998,7 +16052,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223000,
       "name": "Still, a Flower",
       "url": "https://open.spotify.com/track/3ZWkJYkX2MOpe1ptsGH6wo"
@@ -16668,7 +16722,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 223026,
       "name": "The 6th Summer",
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
@@ -17468,7 +17522,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 266000,
       "name": "Tomorrow, Promise",
       "url": "https://open.spotify.com/track/4jy5dG5PYnigjz3zP1XHBA"
@@ -17566,6 +17620,32 @@
       "duration_ms": 294000,
       "name": "Tremolo",
       "url": "https://open.spotify.com/track/1TndoyXL6C0Mio69RAQLhR"
+    },
+    {
+      "album": {
+        "name": "SUJI",
+        "url": "https://open.spotify.com/album/3MEafRR73bc02D1xhjlBnp"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151403,
+      "name": "Trippin\u2032 (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/6QCzWMWJSSRk671GThuYlt"
     },
     {
       "album": {
@@ -18979,6 +19059,24 @@
     },
     {
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/7pRxHjR74IRAoQzlNdpCYf"
+      },
+      "artists": [
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/28GGqZ2M6bEQEvKSRhnniw"
+    },
+    {
+      "album": {
         "name": "clover #2",
         "url": "https://open.spotify.com/album/7ze7Ge9MMVxBZmEZPosVQ2"
       },
@@ -20066,7 +20164,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 204133,
       "name": "\uc228\ubc14\uaf2d\uc9c8 (Hide and Seek)",
       "url": "https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe"
@@ -20290,7 +20388,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 200000,
       "name": "\ufeffCredit",
       "url": "https://open.spotify.com/track/4DQ8otby1CE3pNRfQ7rhFv"

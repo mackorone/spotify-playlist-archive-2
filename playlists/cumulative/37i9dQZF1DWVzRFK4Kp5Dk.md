@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVzRFK4Kp5Dk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVzRFK4Kp5Dk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVzRFK4Kp5Dk)
+[pretty](/playlists/pretty/37i9dQZF1DWVzRFK4Kp5Dk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVzRFK4Kp5Dk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVzRFK4Kp5Dk)
 
 ### [Ragnarok Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVzRFK4Kp5Dk)
 

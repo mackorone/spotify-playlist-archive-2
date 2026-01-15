@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N9hVU2pAoX.md) - [plain](/playlists/plain/37i9dQZF1DX1N9hVU2pAoX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1N9hVU2pAoX)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N9hVU2pAoX.md) - [plain](/playlists/plain/37i9dQZF1DX1N9hVU2pAoX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1N9hVU2pAoX)
 
 ### [Tim: The Extended Story](https://open.spotify.com/playlist/37i9dQZF1DX1N9hVU2pAoX)
 
 > If you or someone you know is struggling, you aren’t alone\.  loveislouder.com/prevent
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,426 likes - 12 songs - 38 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 29,412 likes - 12 songs - 38 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

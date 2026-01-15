@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain](/playlists/plain/37i9dQZF1DWT5lkChsPmpy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT5lkChsPmpy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain](/playlists/plain/37i9dQZF1DWT5lkChsPmpy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT5lkChsPmpy)
 
 ### [Workday Lounge](https://open.spotify.com/playlist/37i9dQZF1DWT5lkChsPmpy)
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,612 likes - 276 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,470 likes - 276 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 275 | [Dormant](https://open.spotify.com/track/5fOi6gHQnqBNwM37zupVgr) | [Bjänn](https://open.spotify.com/artist/21Q9pfmgNxjRd5q2O6eVQ9) | [Dormant](https://open.spotify.com/album/5r9MCvOcxCziejbRx7aUsq) | 2:28 |
 | 276 | [Nothing But Love](https://open.spotify.com/track/5Ta751OhMtN2F0IR9fJRFL) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Nothing But Love](https://open.spotify.com/album/4VAJ4cK6wAGBEeoC28bF20) | 2:34 |
 
-Snapshot ID: `AAAAAM2/SVA+tpJxBQkExWTUnIpFVD7o`
+Snapshot ID: `AAAAAEHhrcNaOm8xdCMBn9aspu8jLH4G`

@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162916,
       "name": "Amarga Navidad",
       "url": "https://open.spotify.com/track/4EGf9hOeXowF79OICACmZh"
@@ -2328,6 +2328,24 @@
       "duration_ms": 202414,
       "name": "Enamorado de Ti",
       "url": "https://open.spotify.com/track/653WRYxVaXAmRY44Ikfz5r"
+    },
+    {
+      "album": {
+        "name": "Enam\u00f3rate Otra Vez",
+        "url": "https://open.spotify.com/album/0CCOsxFxoJOMD9ighaY1Ez"
+      },
+      "artists": [
+        {
+          "name": "Chesdana",
+          "url": "https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134013,
+      "name": "Enam\u00f3rate Otra Vez",
+      "url": "https://open.spotify.com/track/6I4LQI0iQMhFsPBiBgeoVx"
     },
     {
       "album": {

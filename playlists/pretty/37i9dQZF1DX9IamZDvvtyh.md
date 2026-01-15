@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain](/playlists/plain/37i9dQZF1DX9IamZDvvtyh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9IamZDvvtyh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain](/playlists/plain/37i9dQZF1DX9IamZDvvtyh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9IamZDvvtyh)
 
 ### [Training Montage](https://open.spotify.com/playlist/37i9dQZF1DX9IamZDvvtyh)
 
 > 80s workout jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,671 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,989 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

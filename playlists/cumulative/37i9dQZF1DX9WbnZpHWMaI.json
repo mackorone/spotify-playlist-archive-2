@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Bakk2thafuture",
+        "url": "https://open.spotify.com/album/3ZQh0QFIhMuc6i1DEYWIzH"
+      },
+      "artists": [
+        {
+          "name": "Ms. Mada",
+          "url": "https://open.spotify.com/artist/5Q2AHnOl7BbmHN3Q8Rgh3K"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179090,
+      "name": "Bakk2thafuture",
+      "url": "https://open.spotify.com/track/5DaYqyXcCFmgtd1OWFmfpn"
+    },
+    {
+      "album": {
         "name": "Bass Boys",
         "url": "https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6"
       },
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 238297,
       "name": "DARWIN",
       "url": "https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj"
@@ -7610,7 +7628,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160564,
       "name": "Love Crimes",
       "url": "https://open.spotify.com/track/0bbyII7PP0Gg6NWgclzZxE"
@@ -8212,6 +8230,24 @@
       "duration_ms": 183035,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/7fqonSY5E0ot4r02igxTrn"
+    },
+    {
+      "album": {
+        "name": "Move & Flow",
+        "url": "https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236110,
+      "name": "Move & Flow",
+      "url": "https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz"
     },
     {
       "album": {

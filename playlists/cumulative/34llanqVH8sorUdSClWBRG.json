@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Public Void",
+        "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252630,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/0mfHN9LcAPidSI3JCPqYml"
+    },
+    {
+      "album": {
         "name": "Happy Pills",
         "url": "https://open.spotify.com/album/5t54vdZ7HdfogMEMKVfRR1"
       },

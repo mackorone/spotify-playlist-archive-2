@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Samuel Welten",
+  "description": "Frisse Nederlandse pop. Cover: Claude",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -922,7 +922,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 156194,
       "name": "Alle Mannen Zijn Honden",
       "url": "https://open.spotify.com/track/5g3zVSmOnKKXBgbTM4l1ea"
@@ -2746,6 +2746,24 @@
       "duration_ms": 166363,
       "name": "beiden gebroken",
       "url": "https://open.spotify.com/track/48DV9IJN747mdOMkYAr8ZA"
+    },
+    {
+      "album": {
+        "name": "Gedoe",
+        "url": "https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R"
+      },
+      "artists": [
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233853,
+      "name": "Bel me als je thuis bent",
+      "url": "https://open.spotify.com/track/64ROYevyhHmxcGmvObFs6E"
     },
     {
       "album": {
@@ -5323,6 +5341,24 @@
     },
     {
       "album": {
+        "name": "dit is later.",
+        "url": "https://open.spotify.com/album/4OV7Ht8x6XthcREzYKaabg"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/612yT1I01LbUQMbc1kU9yw"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162451,
+      "name": "dit is later.",
+      "url": "https://open.spotify.com/track/3Z94R5TBHyNSwSQseHSQPD"
+    },
+    {
+      "album": {
         "name": "Metejoor",
         "url": "https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W"
       },
@@ -5392,6 +5428,24 @@
       "duration_ms": 129851,
       "name": "Ditch Hem Voor Mij",
       "url": "https://open.spotify.com/track/06fiv73LaQ5gnwG8e9X31s"
+    },
+    {
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1k781LjKYC3QydP3Iqi42x"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/4YJmG1aLGeRXrrOm3QqHJ0"
     },
     {
       "album": {
@@ -5739,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "Droom Jij Over Mij Vannacht",
+        "url": "https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190499,
+      "name": "Droom Jij Over Mij Vannacht",
+      "url": "https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL"
+    },
+    {
+      "album": {
         "name": "Droom Maar",
         "url": "https://open.spotify.com/album/2gjHokLZcJNc6AyXWPUfI0"
       },
@@ -5833,6 +5905,24 @@
     },
     {
       "album": {
+        "name": "Eb & Vloed",
+        "url": "https://open.spotify.com/album/4LIDLSPVvf7TBRIYlazQh7"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161481,
+      "name": "Eb & Vloed",
+      "url": "https://open.spotify.com/track/2HaOEZq3sSUHGdZZQg6xzy"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh"
       },
@@ -5898,7 +5988,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160500,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/4FARPRtNwy8VO794jKwrmp"
@@ -9790,7 +9880,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163240,
       "name": "IK MOET GAAN",
       "url": "https://open.spotify.com/track/62PIx4LkcpnwxXdGmdFvzq"
@@ -13209,6 +13299,24 @@
     },
     {
       "album": {
+        "name": "Midnight Cruiser",
+        "url": "https://open.spotify.com/album/5gb6H1SM0TusFvuu92iOZG"
+      },
+      "artists": [
+        {
+          "name": "De Nachtwacht",
+          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171916,
+      "name": "Midnight Cruiser",
+      "url": "https://open.spotify.com/track/26JzuZWfTUNxnzyNoqtVHC"
+    },
+    {
+      "album": {
         "name": "Mijn Amsterdam",
         "url": "https://open.spotify.com/album/31ky7zsR9bDcsRwqVfoIJE"
       },
@@ -13562,7 +13670,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 160678,
       "name": "Moe Van Jezelf",
       "url": "https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo"
@@ -14828,7 +14936,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148548,
       "name": "Nostalgie",
       "url": "https://open.spotify.com/track/1UYrBpgrHje29LfNhSv2MY"
@@ -15360,7 +15468,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178837,
       "name": "Oog van de Orkaan",
       "url": "https://open.spotify.com/track/4Q2nXiRdHJotWpLrtYQhlw"
@@ -16086,7 +16194,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153246,
       "name": "Radeloos",
       "url": "https://open.spotify.com/track/1uEPo1m1b4BM8W2WvMVx2V"
@@ -18241,6 +18349,24 @@
     },
     {
       "album": {
+        "name": "Tel tot 100",
+        "url": "https://open.spotify.com/album/1OAZvbBxM6I3jKG4uFfoqM"
+      },
+      "artists": [
+        {
+          "name": "Bibi van Ansem",
+          "url": "https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Tel tot 100",
+      "url": "https://open.spotify.com/track/0neJ9vnurgfVGWsAdk9Umx"
+    },
+    {
+      "album": {
         "name": "Tempo Giusto",
         "url": "https://open.spotify.com/album/16md54d8y1FGKBZvHZCljR"
       },
@@ -19636,7 +19762,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 166448,
       "name": "Vlaggen In De Wind",
       "url": "https://open.spotify.com/track/6JZPjrGM6gEFQtHrAhY3ur"
@@ -19738,7 +19864,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 187840,
       "name": "Vlinders",
       "url": "https://open.spotify.com/track/21lJmoF9ZKKCYVcu8ilKwp"

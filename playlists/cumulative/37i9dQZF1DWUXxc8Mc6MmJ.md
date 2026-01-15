@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUXxc8Mc6MmJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUXxc8Mc6MmJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUXxc8Mc6MmJ)
+[pretty](/playlists/pretty/37i9dQZF1DWUXxc8Mc6MmJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUXxc8Mc6MmJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUXxc8Mc6MmJ)
 
 ### [Best of Korean OSTs \(OST 명곡 베스트\)](https://open.spotify.com/playlist/37i9dQZF1DWUXxc8Mc6MmJ)
 

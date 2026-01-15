@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0ynuHdDZGi3xe4AXKCbZgJ.md) - [plain](/playlists/plain/0ynuHdDZGi3xe4AXKCbZgJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ynuHdDZGi3xe4AXKCbZgJ)
+pretty - [cumulative](/playlists/cumulative/0ynuHdDZGi3xe4AXKCbZgJ.md) - [plain](/playlists/plain/0ynuHdDZGi3xe4AXKCbZgJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0ynuHdDZGi3xe4AXKCbZgJ)
 
 ### [Some parents deserve to be shot](https://open.spotify.com/playlist/0ynuHdDZGi3xe4AXKCbZgJ)
 

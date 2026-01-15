@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 18442,
+  "num_followers": 18531,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVmtgAAAAACEas6atOecUdT3MaXGtV3O",
+  "snapshot_id": "aWWLAAAAAAA6U7WYcbflkvELJDWx1svo",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -59,7 +43,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "a-sides and b-sides",
+        "name": "a-sides and besides",
         "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
       },
       "artists": [
@@ -75,6 +59,22 @@
       "duration_ms": 128853,
       "name": "Jonathan",
       "url": "https://open.spotify.com/track/2516lVkDpm86amjTlKVIMC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 135386,
-      "name": "womb",
-      "url": "https://open.spotify.com/track/52MCH6YtKG6deQx6BOkoFm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -127,7 +111,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "a-sides and b-sides",
+        "name": "a-sides and besides",
         "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
       },
       "artists": [
@@ -143,6 +127,22 @@
       "duration_ms": 157440,
       "name": "Indiana",
       "url": "https://open.spotify.com/track/1EUYnTI3P1DzoeccZ0IHdD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 135386,
+      "name": "womb",
+      "url": "https://open.spotify.com/track/52MCH6YtKG6deQx6BOkoFm"
     },
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "instrumentals",
-        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 972007,
-      "name": "mostly chimes",
-      "url": "https://open.spotify.com/track/26YdNW3yMLfA5NpTB8wzQy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -195,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+        "name": "instrumentals",
+        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
       },
       "artists": [
         {
@@ -204,9 +188,29 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 183040,
-      "name": "abyss kiss",
-      "url": "https://open.spotify.com/track/4ry8TnIKq7vP1cUqN7eq5n"
+      "duration_ms": 972007,
+      "name": "mostly chimes",
+      "url": "https://open.spotify.com/track/26YdNW3yMLfA5NpTB8wzQy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a-sides and besides",
+        "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/1Pe4hdraYdTG44U0ZPrI7n"
     },
     {
       "added_at": null,
@@ -223,26 +227,6 @@
       "duration_ms": 128700,
       "name": "half return",
       "url": "https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a-sides and b-sides",
-        "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/1Pe4hdraYdTG44U0ZPrI7n"
     },
     {
       "added_at": null,
@@ -272,9 +256,29 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 229133,
-      "name": "symbol",
-      "url": "https://open.spotify.com/track/1uqRGTN9gQNf2SZ3BD6Txf"
+      "duration_ms": 183040,
+      "name": "abyss kiss",
+      "url": "https://open.spotify.com/track/4ry8TnIKq7vP1cUqN7eq5n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a-sides and besides",
+        "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "A Better Time to Meet",
+      "url": "https://open.spotify.com/track/7xZUlkH3UZzxwtZWbgPfQP"
     },
     {
       "added_at": null,
@@ -295,7 +299,39 @@
     {
       "added_at": null,
       "album": {
-        "name": "a-sides and b-sides",
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 235178,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "symbol",
+      "url": "https://open.spotify.com/track/1uqRGTN9gQNf2SZ3BD6Txf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a-sides and besides",
         "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
       },
       "artists": [
@@ -308,9 +344,25 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 188666,
-      "name": "A Better Time to Meet",
-      "url": "https://open.spotify.com/track/7xZUlkH3UZzxwtZWbgPfQP"
+      "duration_ms": 171453,
+      "name": "Kerina",
+      "url": "https://open.spotify.com/track/7g8ItJSkkk3wX65yMUxEne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 248386,
+      "name": "ingydar",
+      "url": "https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc"
     },
     {
       "added_at": null,
@@ -347,74 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 248386,
-      "name": "ingydar",
-      "url": "https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a-sides and b-sides",
-        "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 171453,
-      "name": "Kerina",
-      "url": "https://open.spotify.com/track/7g8ItJSkkk3wX65yMUxEne"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bright Future",
-        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 235178,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "A Love of Some Kind",
-      "url": "https://open.spotify.com/track/2ypOVyRHHqSUiuvaLuP01r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "abysskiss",
         "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
       },
@@ -431,7 +415,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "a-sides and b-sides",
+        "name": "a-sides and besides",
         "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
       },
       "artists": [
@@ -476,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 231880,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/1WBeADv5fmASXC53g32Jg7"
+      "duration_ms": 173253,
+      "name": "A Love of Some Kind",
+      "url": "https://open.spotify.com/track/2ypOVyRHHqSUiuvaLuP01r"
     },
     {
       "added_at": null,
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Hours Were the Birds",
-      "url": "https://open.spotify.com/track/5H87LbORbaiDnHLK5jv3iV"
+      "duration_ms": 231880,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/1WBeADv5fmASXC53g32Jg7"
     },
     {
       "added_at": null,
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 209960,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/4ZwyOegS9PQKCO5UQs5LDS"
+      "duration_ms": 191000,
+      "name": "Hours Were the Birds",
+      "url": "https://open.spotify.com/track/5H87LbORbaiDnHLK5jv3iV"
     },
     {
       "added_at": null,
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Revolution Hall",
-        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 241505,
-      "name": "cut my hair - live",
-      "url": "https://open.spotify.com/track/30Q5yODrRv9oF1Ek4Y0QjR"
+      "duration_ms": 209960,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/4ZwyOegS9PQKCO5UQs5LDS"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 272979,
       "name": "time escaping & wild whistling - live",
       "url": "https://open.spotify.com/track/4KbwWlD5WZj0rzjGI1Ykri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Revolution Hall",
+        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 241505,
+      "name": "cut my hair - live",
+      "url": "https://open.spotify.com/track/30Q5yODrRv9oF1Ek4Y0QjR"
     },
     {
       "added_at": null,

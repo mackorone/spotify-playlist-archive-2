@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Force X EP",
+        "url": "https://open.spotify.com/album/7uS17P6U8ebrZ5x6eiMvWV"
+      },
+      "artists": [
+        {
+          "name": "Anton Kubikov",
+          "url": "https://open.spotify.com/artist/6EFW97xZ8UyegVYNJ2fJtg"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466396,
+      "name": "Force X",
+      "url": "https://open.spotify.com/track/1fvHJJ7Ai2obOE36aKPcgQ"
+    },
+    {
+      "album": {
         "name": "Silent State",
         "url": "https://open.spotify.com/album/3DCJgMiJJWBBJbKcQPQ7Vb"
       },
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 520466,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3TzyEnXCEFChnH6SQyzOsK"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Cash Cobain",
+  "description": "Up and down I-95. Cover: Max B and French Montana",
   "name": "State of Mind",
   "tracks": [
     {
@@ -610,6 +610,24 @@
       "duration_ms": 135381,
       "name": "3 Staxx",
       "url": "https://open.spotify.com/track/6rmOnyjHnohveSxFduYpWy"
+    },
+    {
+      "album": {
+        "name": "3 Strikes",
+        "url": "https://open.spotify.com/album/344ZElgDrO04q2Lv64EgM2"
+      },
+      "artists": [
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115188,
+      "name": "3 Strikes",
+      "url": "https://open.spotify.com/track/0NoJPKd5amX8IuZsbLoRcq"
     },
     {
       "album": {
@@ -2836,7 +2854,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 120784,
       "name": "Baddie Baddie",
       "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
@@ -4179,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Big Guy (from \"The SpongeBob Movie: Search for SquarePants\u201d)",
+        "url": "https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
+      "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
+    },
+    {
+      "album": {
         "name": "Big League",
         "url": "https://open.spotify.com/album/48CmbANm0zAaBpD4wjd6m0"
       },
@@ -5332,7 +5368,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 253673,
       "name": "Both Eyes Closed (From \"Highest 2 Lowest\")",
       "url": "https://open.spotify.com/track/5UmAGADfwg1TDCjcHlBChF"
@@ -9282,7 +9318,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 125545,
       "name": "Dirty Jones",
       "url": "https://open.spotify.com/track/6ldbafQa0WlynuKm30l6Fb"
@@ -11020,6 +11056,28 @@
       "duration_ms": 177915,
       "name": "Estranged",
       "url": "https://open.spotify.com/track/40rEEf9N4MRkVclcQRz9za"
+    },
+    {
+      "album": {
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "Ever Since U Left Me",
+      "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
     },
     {
       "album": {
@@ -14057,7 +14115,7 @@
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 171964,
+      "duration_ms": 171968,
       "name": "GiT Ready",
       "url": "https://open.spotify.com/track/2TWEKZOpQAs1iXEmbrYw9S"
     },
@@ -15804,7 +15862,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 106274,
       "name": "Hoes Be Mad",
       "url": "https://open.spotify.com/track/4Eon806kqIVQCbq7ULjpKg"
@@ -15838,7 +15896,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176599,
       "name": "Hoes Be Mad - 2.0",
       "url": "https://open.spotify.com/track/007REOMMTHhzCr6w1WT2ER"
@@ -16666,6 +16724,32 @@
       "duration_ms": 160940,
       "name": "I Don't Really Care",
       "url": "https://open.spotify.com/track/7AFdKKY8VN6gijdxQJgQr4"
+    },
+    {
+      "album": {
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Dame Grease",
+          "url": "https://open.spotify.com/artist/24IeQOkTkPI6N4Kdin5dZS"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193697,
+      "name": "I Don\u2019t Know",
+      "url": "https://open.spotify.com/track/7EeFl9kqfO0x1rkh8lWGoF"
     },
     {
       "album": {
@@ -19787,6 +19871,28 @@
     },
     {
       "album": {
+        "name": "LiFE 4 A LiFE",
+        "url": "https://open.spotify.com/album/64i9QChgaRNAJVHVBSl6wQ"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179588,
+      "name": "LiFE 4 A LiFE",
+      "url": "https://open.spotify.com/track/6CrpAztWyhMb4Ve2kcg5sK"
+    },
+    {
+      "album": {
         "name": "Catch A Breeze",
         "url": "https://open.spotify.com/album/6HjJtGNheDqJQRSmHOW353"
       },
@@ -19920,6 +20026,28 @@
       "duration_ms": 147350,
       "name": "Like A Star",
       "url": "https://open.spotify.com/track/7K2BRlhDFdrViNepbSXGFy"
+    },
+    {
+      "album": {
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Like I Wasn't",
+      "url": "https://open.spotify.com/track/1ixV842h9YzpWEkz06VFhQ"
     },
     {
       "album": {
@@ -21002,7 +21130,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196418,
       "name": "Make America Wavy Again (MAWA)",
       "url": "https://open.spotify.com/track/38B4Gk8dUqe3jzkC8CGJ8S"
@@ -23866,7 +23994,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 59900,
       "name": "No Heziii",
       "url": "https://open.spotify.com/track/2XRQ46oYaE5bNkdAJSLjfk"
@@ -27875,6 +28003,24 @@
     },
     {
       "album": {
+        "name": "Punk Rocky",
+        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235344,
+      "name": "Punk Rocky",
+      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
+    {
+      "album": {
         "name": "Pup (feat. Luh Tyler)",
         "url": "https://open.spotify.com/album/2f3LlIcQZR3oXSifiomh3l"
       },
@@ -28740,7 +28886,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 122553,
       "name": "Relevant",
       "url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
@@ -37882,7 +38028,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 82530,
       "name": "Why We Talking?",
       "url": "https://open.spotify.com/track/56dtOqdxNAHrJWVtooRZc1"

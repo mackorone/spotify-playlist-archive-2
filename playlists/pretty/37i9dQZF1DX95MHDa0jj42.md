@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95MHDa0jj42.md) - [plain](/playlists/plain/37i9dQZF1DX95MHDa0jj42) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX95MHDa0jj42)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95MHDa0jj42.md) - [plain](/playlists/plain/37i9dQZF1DX95MHDa0jj42) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX95MHDa0jj42)
 
 ### [bossa lofi](https://open.spotify.com/playlist/37i9dQZF1DX95MHDa0jj42)
 
 > sunny bossa beats to chill, focus or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,346 likes - 90 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,911 likes - 90 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

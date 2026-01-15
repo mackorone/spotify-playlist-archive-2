@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1ytWBX3wdQRWyUiQP7YBkr.md) - [plain](/playlists/plain/1ytWBX3wdQRWyUiQP7YBkr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1ytWBX3wdQRWyUiQP7YBkr)
+pretty - [cumulative](/playlists/cumulative/1ytWBX3wdQRWyUiQP7YBkr.md) - [plain](/playlists/plain/1ytWBX3wdQRWyUiQP7YBkr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1ytWBX3wdQRWyUiQP7YBkr)
 
 ### [I had gay sex with god \(it could've gone better\)](https://open.spotify.com/playlist/1ytWBX3wdQRWyUiQP7YBkr)
 

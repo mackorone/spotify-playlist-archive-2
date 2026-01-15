@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2VxQy0Q22k1gP542tzaMCN.md) - cumulative - [plain](/playlists/plain/2VxQy0Q22k1gP542tzaMCN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2VxQy0Q22k1gP542tzaMCN)
+[pretty](/playlists/pretty/2VxQy0Q22k1gP542tzaMCN.md) - cumulative - [plain](/playlists/plain/2VxQy0Q22k1gP542tzaMCN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2VxQy0Q22k1gP542tzaMCN)
 
 ### [Word of Mouth](https://open.spotify.com/playlist/2VxQy0Q22k1gP542tzaMCN)
 

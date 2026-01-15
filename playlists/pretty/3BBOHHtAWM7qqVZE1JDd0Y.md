@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3BBOHHtAWM7qqVZE1JDd0Y.md) - [plain](/playlists/plain/3BBOHHtAWM7qqVZE1JDd0Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3BBOHHtAWM7qqVZE1JDd0Y)
+pretty - [cumulative](/playlists/cumulative/3BBOHHtAWM7qqVZE1JDd0Y.md) - [plain](/playlists/plain/3BBOHHtAWM7qqVZE1JDd0Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3BBOHHtAWM7qqVZE1JDd0Y)
 
 ### [Played by Kidnap](https://open.spotify.com/playlist/3BBOHHtAWM7qqVZE1JDd0Y)
 
 > Music I've been enjoying lately  \- <a href="https://www.instagram.com/kidnapmusic/">Instagram</a>
 
-[kidnapkid](https://open.spotify.com/user/kidnapkid) - 2,381 likes - 39 songs - 2 hr 52 min
+[kidnapkid](https://open.spotify.com/user/kidnapkid) - 2,378 likes - 39 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

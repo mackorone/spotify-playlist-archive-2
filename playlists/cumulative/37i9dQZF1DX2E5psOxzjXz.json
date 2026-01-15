@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Hasan Raheem",
+  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Izzchughtai",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164400,
       "name": "Call",
       "url": "https://open.spotify.com/track/3xBwaX3CSc3OjT0sq8jU53"
@@ -3885,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "Karna Hai",
+        "url": "https://open.spotify.com/album/7D2RcezVtL4cpg3CNYR64j"
+      },
+      "artists": [
+        {
+          "name": "Talha Nadeem",
+          "url": "https://open.spotify.com/artist/5r6f0SK28QDELuAh9Nh1Ec"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218437,
+      "name": "Karna Hai",
+      "url": "https://open.spotify.com/track/37vevBnRpkdL7MkPxpDyoQ"
+    },
+    {
+      "album": {
         "name": "Kasam Ki Kasam",
         "url": "https://open.spotify.com/album/4wub1DvYaUuEf8Jdck6Mvr"
       },
@@ -4162,7 +4180,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 229199,
       "name": "Khwahishain",
       "url": "https://open.spotify.com/track/3JnlRLK9emP2AY7q9kh5aO"
@@ -5309,6 +5327,24 @@
     },
     {
       "album": {
+        "name": "Nadiyan Paar",
+        "url": "https://open.spotify.com/album/2PCRZhd2mGzMRBcGnhlLS0"
+      },
+      "artists": [
+        {
+          "name": "Izzchughtai",
+          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125106,
+      "name": "Nadiyan Paar",
+      "url": "https://open.spotify.com/track/1ezW6n83KlfBvEe4pnaPbK"
+    },
+    {
+      "album": {
         "name": "Nah Keh Diya",
         "url": "https://open.spotify.com/album/2bmsEGDgYoaqEZuxeDzEYw"
       },
@@ -5690,6 +5726,24 @@
       "duration_ms": 150329,
       "name": "Out of Breath",
       "url": "https://open.spotify.com/track/49ogzLkjVeq99OMMcc7l3Z"
+    },
+    {
+      "album": {
+        "name": "Out of Context",
+        "url": "https://open.spotify.com/album/55rurh0ZuuP7Q66NiCQze1"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290500,
+      "name": "Out of Context",
+      "url": "https://open.spotify.com/track/2RYSXKVfd1JPs9noT5lgTw"
     },
     {
       "album": {
@@ -7826,7 +7880,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 274800,
       "name": "Taray",
       "url": "https://open.spotify.com/track/7gO3kiAPcAf2HphgKcfxkb"

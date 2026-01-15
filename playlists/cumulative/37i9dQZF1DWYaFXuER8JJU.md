@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYaFXuER8JJU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYaFXuER8JJU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYaFXuER8JJU)
+[pretty](/playlists/pretty/37i9dQZF1DWYaFXuER8JJU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYaFXuER8JJU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYaFXuER8JJU)
 
 ### [Norteño en Vivo](https://open.spotify.com/playlist/37i9dQZF1DWYaFXuER8JJU)
 

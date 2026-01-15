@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Flores de invierno",
+        "url": "https://open.spotify.com/album/7cvwqBWDj5ZT8e6nFD4iBk"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183023,
+      "name": "Flores de invierno",
+      "url": "https://open.spotify.com/track/6UfyIoanzexeAywXlcsmVF"
+    },
+    {
+      "album": {
         "name": "Flores y Burbujas",
         "url": "https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j"
       },
@@ -3466,7 +3484,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223405,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
@@ -4422,7 +4440,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 191776,
       "name": "Seguirla",
       "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182384,
       "name": "Te Prefiero",
       "url": "https://open.spotify.com/track/7K7tKqnRzLoEQdquvGzZ6n"

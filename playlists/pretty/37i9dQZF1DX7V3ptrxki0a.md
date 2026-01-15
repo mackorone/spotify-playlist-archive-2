@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain](/playlists/plain/37i9dQZF1DX7V3ptrxki0a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7V3ptrxki0a)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain](/playlists/plain/37i9dQZF1DX7V3ptrxki0a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7V3ptrxki0a)
 
 ### [Cumbia Norteña](https://open.spotify.com/playlist/37i9dQZF1DX7V3ptrxki0a)
 
 > Agarren su pareja que es momento de mover ese botecito\. En portada emmanuellcortess\_ 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,535 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,846 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain]
 | 31 | [Como Se Olvida](https://open.spotify.com/track/1qyfC7LJSmMFvkLwDPh0Sv) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Como Se Olvida](https://open.spotify.com/album/0E1K5TwhwYAewToZmBeXwz) | 3:16 |
 | 32 | [Campeon \(Villa Del Refugio\)](https://open.spotify.com/track/1mXwOxGrThacR2y3wlKUmJ) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh) | [Campeon \(Villa Del Refugio\)](https://open.spotify.com/album/2a4qgksn1V3gbcZdmyov6D) | 2:20 |
 | 33 | [Cómo Le Haré](https://open.spotify.com/track/2VLmX3sxll81utJmBGtmUA) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h) | [Cómo Le Haré](https://open.spotify.com/album/2pKSh05bsApJpCh9dhXqj2) | 3:05 |
-| 34 | [Cuando Me Enamoro](https://open.spotify.com/track/7pDCTH1qYcSAURXvSI11s4) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz), [Conjunto Falso](https://open.spotify.com/artist/1YdxpshQDGso4J2KbqSTE7) | [Cuando Me Enamoro](https://open.spotify.com/album/1QKnHrK16zhAkj2r6SLLbw) | 2:57 |
+| 34 | [CUANDO ME ENAMORO](https://open.spotify.com/track/7pDCTH1qYcSAURXvSI11s4) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz), [Conjunto Falso](https://open.spotify.com/artist/1YdxpshQDGso4J2KbqSTE7) | [CUANDO ME ENAMORO](https://open.spotify.com/album/1QKnHrK16zhAkj2r6SLLbw) | 2:57 |
 | 35 | [Perfil No Encontrado](https://open.spotify.com/track/6WnLn2X0GmPN8NDhjOaIV3) | [Elegancia Armada](https://open.spotify.com/artist/3iVFiwrAhaBIlr1fT14r00), [El Emcut Y Los Primos](https://open.spotify.com/artist/3E5sK5vsUya8gyjTUWwqFz) | [Perfil No Encontrado](https://open.spotify.com/album/1Qgs4sxmL9HoC995qKeMeO) | 2:58 |
 | 36 | [Popurrí de Cumbias: Hermanos Barron](https://open.spotify.com/track/4T1u3nOZTfSs2qqJ19ySRn) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG) | [Popurrí de Cumbias: Hermanos Barron](https://open.spotify.com/album/07Mb5D1S65YWSP8hJ2djz5) | 6:56 |
 | 37 | [Mirada](https://open.spotify.com/track/0vRQTZIMrcHKZbjerLRCtz) | [Grupo Anexxado](https://open.spotify.com/artist/5U4SQ3MLlKmphCGAcD1Ls9), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Mirada](https://open.spotify.com/album/1ErowhDwoWnsqVWbPP2rhG) | 3:04 |

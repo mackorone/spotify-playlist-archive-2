@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO2QB6oe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2QB6oe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2QB6oe)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO2QB6oe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2QB6oe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO2QB6oe)
 
 ### [This Is Pedro Capó](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2QB6oe)
 

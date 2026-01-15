@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO3v7h3h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3v7h3h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3v7h3h)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO3v7h3h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3v7h3h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO3v7h3h)
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-113 songs - 7 hr 56 min
+114 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Quem Vem Lá?](https://open.spotify.com/track/388PWP6VLyA5UFDrSkVJl2) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Seis Sons](https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY) | 2:53 | 2024-06-28 | 2024-07-06 |
 | [Quero Ver Segurar](https://open.spotify.com/track/63g4tLM1priHgH8eqUJSpP) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 3:20 | 2024-07-31 | 2025-10-15 |
 | [Química](https://open.spotify.com/track/5ibpnsWL2cbPHZryVdZtHF) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:24 | 2023-09-18 | 2024-04-27 |
+| [R&K](https://open.spotify.com/track/0Qxtt20WzO4tUQPTqmDbjY) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Seis Sons](https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY) | 2:49 | 2026-01-15 |  |
 | [Recordações](https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX) | [Posfácio](https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT) | 4:22 | 2023-09-18 | 2025-09-26 |
 | [Recordações](https://open.spotify.com/track/2s2Ymn2n83dbU8jtrtn9yL) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX) | [Posfácio](https://open.spotify.com/album/6P8pvNFbrgEq8DaIZBNOVt) | 4:22 | 2025-11-16 |  |
 | [Rede Moinho de Março 2](https://open.spotify.com/track/27KohREm8VNgO7sDwaIT4y) | [Rocha](https://open.spotify.com/artist/3LM3WY4VyCmTIC8LwDqMWD), [D\-Cazz](https://open.spotify.com/artist/6CLa3TvsaThfZJH7WNsu97), [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Rede Moinho de Março 2](https://open.spotify.com/album/3Km65A2qQ7GgTnFU1oLc5Y) | 4:03 | 2024-08-28 | 2024-09-02 |
@@ -107,8 +108,8 @@
 | [Superpoder](https://open.spotify.com/track/5TlK8KkKi36wHn6UjUoiXQ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lellê](https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:17 | 2024-05-11 | 2024-08-01 |
 | [Tem Dias Que](https://open.spotify.com/track/4puE88rxsk6E2jmc1p9toN) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 5:19 | 2023-09-18 | 2023-12-14 |
 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 | 2023-09-18 |  |
-| [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 | 2023-09-18 |  |
-| [Um Novo Tom](https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Um Novo Tom](https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1) | 4:50 | 2025-10-24 |  |
+| [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 | 2023-09-18 | 2026-01-15 |
+| [Um Novo Tom](https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Um Novo Tom](https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1) | 4:50 | 2025-10-24 |  |
 | [Um Tom de Azul](https://open.spotify.com/track/0KU4mayaRz3gGeAKo8M7wG) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 4:21 | 2024-08-11 | 2025-11-27 |
 | [Um Tom de Azul](https://open.spotify.com/track/7iob0Rybbkh8xdrqLxs8wD) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Portal](https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx) | 4:21 | 2025-11-28 |  |
 | [Uma Chance](https://open.spotify.com/track/60ym0dw2oPkxwB8ChatGIF) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 3:43 | 2025-04-10 | 2025-04-21 |

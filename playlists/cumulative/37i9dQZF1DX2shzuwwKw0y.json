@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Hermanos Espinoza",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: LENCHO",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 174655,
       "name": "3",
       "url": "https://open.spotify.com/track/44tGQHHdm4JhCbMugPr2Vd"
+    },
+    {
+      "album": {
+        "name": "3 Doritos Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4IWa6UUmfpsaSap5BUDNmC"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145516,
+      "name": "3 Doritos Despu\u00e9s",
+      "url": "https://open.spotify.com/track/6tqgBtpij8t3pTpbrxFXbl"
     },
     {
       "album": {
@@ -6210,7 +6228,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213194,
       "name": "Guerrero de Mil Batallas",
       "url": "https://open.spotify.com/track/3NLiwEsbaihHr32XJwcdcX"
@@ -6430,6 +6448,28 @@
       "duration_ms": 284864,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4"
+    },
+    {
+      "album": {
+        "name": "Hoy Estoy Aqu\u00ed",
+        "url": "https://open.spotify.com/album/1MTR3LyMfx4PdUgWb9rDTu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209132,
+      "name": "Hoy Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2cg377edoXNT7XAuZFtpun"
     },
     {
       "album": {
@@ -8102,7 +8142,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176002,
       "name": "Los Locos",
       "url": "https://open.spotify.com/track/4I32RffCSenTNoqDG2GNyP"
@@ -9615,6 +9655,24 @@
     },
     {
       "album": {
+        "name": "OTRO DESMADRE",
+        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182061,
+      "name": "OTRO DESMADRE",
+      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
+    },
+    {
+      "album": {
         "name": "Origen",
         "url": "https://open.spotify.com/album/6NQdbpGfCxBW7Qw9pfHT3R"
       },
@@ -9958,7 +10016,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165003,
       "name": "Plomo y Letra",
       "url": "https://open.spotify.com/track/3Cml07noHvReE1LyQIouig"

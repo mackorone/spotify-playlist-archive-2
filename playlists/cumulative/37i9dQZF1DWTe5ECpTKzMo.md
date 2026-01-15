@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTe5ECpTKzMo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTe5ECpTKzMo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTe5ECpTKzMo)
+[pretty](/playlists/pretty/37i9dQZF1DWTe5ECpTKzMo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTe5ECpTKzMo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTe5ECpTKzMo)
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
@@ -92,7 +92,7 @@
 | [Nada Me Va A Importar](https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 2:42 | 2022-07-01 | 2024-04-19 |
 | [Nada Me Va Importar](https://open.spotify.com/track/3UJCIM1MPfLJyBcsbLTVts) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Nada Me Va Importar](https://open.spotify.com/album/4d70vMyB37sHtVN3QvF1rL) | 2:42 | 2022-08-15 | 2022-11-13 |
 | [Nada Me Va Importar](https://open.spotify.com/track/24Nj9n6CiMVdKEdnBJxECj) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Nada Me Va Importar](https://open.spotify.com/album/5dHXsjDqasdcq2vU1HMhgw) | 2:42 | 2022-07-01 |  |
-| [NAQUETO](https://open.spotify.com/track/7uK3HaXFTO5b6bkVfTJKlG) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [NAQUETO](https://open.spotify.com/album/5Yq5Ib5xa8SVLV0YroU3N2) | 3:55 | 2025-12-05 |  |
+| [NAQUETO](https://open.spotify.com/track/7uK3HaXFTO5b6bkVfTJKlG) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [NAQUETO](https://open.spotify.com/album/5Yq5Ib5xa8SVLV0YroU3N2) | 3:55 | 2025-12-05 | 2026-01-15 |
 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 | 2023-02-17 |  |
 | [Ni Muy Muy Ni Tan Tan](https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:08 | 2022-07-01 | 2024-04-19 |
 | [Ni Muy Muy Ni Tan Tan](https://open.spotify.com/track/6rR1ToTYq12B2Sj7Pnl6mZ) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Grandes Exitos](https://open.spotify.com/album/5vGdcOxM193KdEycZg5mjh) | 5:08 | 2022-08-15 | 2022-11-13 |

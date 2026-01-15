@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/53yqWl4VM0iD34tl27ABhY.md) - [plain](/playlists/plain/53yqWl4VM0iD34tl27ABhY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/53yqWl4VM0iD34tl27ABhY)
+pretty - [cumulative](/playlists/cumulative/53yqWl4VM0iD34tl27ABhY.md) - [plain](/playlists/plain/53yqWl4VM0iD34tl27ABhY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/53yqWl4VM0iD34tl27ABhY)
 
 ### [Walter \- Dangerous](https://open.spotify.com/playlist/53yqWl4VM0iD34tl27ABhY)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 476 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 475 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

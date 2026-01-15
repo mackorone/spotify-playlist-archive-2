@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtmlD9tpSsp.md) - [plain](/playlists/plain/37i9dQZF1DWUtmlD9tpSsp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUtmlD9tpSsp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtmlD9tpSsp.md) - [plain](/playlists/plain/37i9dQZF1DWUtmlD9tpSsp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUtmlD9tpSsp)
 
 ### [This Is DURDN](https://open.spotify.com/playlist/37i9dQZF1DWUtmlD9tpSsp)
 

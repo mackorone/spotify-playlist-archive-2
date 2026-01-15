@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0F8FtqyAjxC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0F8FtqyAjxC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0F8FtqyAjxC)
+[pretty](/playlists/pretty/37i9dQZF1DX0F8FtqyAjxC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0F8FtqyAjxC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0F8FtqyAjxC)
 
 ### [Jayda G's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX0F8FtqyAjxC)
 

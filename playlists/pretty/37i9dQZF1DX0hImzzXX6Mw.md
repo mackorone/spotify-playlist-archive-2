@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hImzzXX6Mw.md) - [plain](/playlists/plain/37i9dQZF1DX0hImzzXX6Mw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0hImzzXX6Mw)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hImzzXX6Mw.md) - [plain](/playlists/plain/37i9dQZF1DX0hImzzXX6Mw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0hImzzXX6Mw)
 
 ### [This Is Angus & Julia Stone](https://open.spotify.com/playlist/37i9dQZF1DX0hImzzXX6Mw)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2JtkUgJumiz7K4AblbFlgK.md) - [plain](/playlists/plain/2JtkUgJumiz7K4AblbFlgK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2JtkUgJumiz7K4AblbFlgK)
+pretty - [cumulative](/playlists/cumulative/2JtkUgJumiz7K4AblbFlgK.md) - [plain](/playlists/plain/2JtkUgJumiz7K4AblbFlgK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2JtkUgJumiz7K4AblbFlgK)
 
 ### [Acoustic Room](https://open.spotify.com/playlist/2JtkUgJumiz7K4AblbFlgK)
 
 > Chilled out, mellow pop from your favourite artists right now\. Cover: Dylan Gossett
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 354,016 likes - 116 songs - 6 hr 35 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 353,835 likes - 116 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

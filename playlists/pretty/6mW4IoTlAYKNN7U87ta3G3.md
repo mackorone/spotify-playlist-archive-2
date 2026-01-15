@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6mW4IoTlAYKNN7U87ta3G3.md) - [plain](/playlists/plain/6mW4IoTlAYKNN7U87ta3G3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6mW4IoTlAYKNN7U87ta3G3)
+pretty - [cumulative](/playlists/cumulative/6mW4IoTlAYKNN7U87ta3G3.md) - [plain](/playlists/plain/6mW4IoTlAYKNN7U87ta3G3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6mW4IoTlAYKNN7U87ta3G3)
 
 ### [Decca 90](https://open.spotify.com/playlist/6mW4IoTlAYKNN7U87ta3G3)
 
 > Celebrating 90 years of Decca Records.
 
-[Decca Records](https://open.spotify.com/user/deccarecords) - 989 likes - 55 songs - 3 hr 14 min
+[Decca Records](https://open.spotify.com/user/deccarecords) - 987 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

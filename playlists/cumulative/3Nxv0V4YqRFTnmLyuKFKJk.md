@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3Nxv0V4YqRFTnmLyuKFKJk.md) - cumulative - [plain](/playlists/plain/3Nxv0V4YqRFTnmLyuKFKJk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3Nxv0V4YqRFTnmLyuKFKJk)
+[pretty](/playlists/pretty/3Nxv0V4YqRFTnmLyuKFKJk.md) - cumulative - [plain](/playlists/plain/3Nxv0V4YqRFTnmLyuKFKJk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3Nxv0V4YqRFTnmLyuKFKJk)
 
 ### [Country Classics 🤠 Top Country Songs of All Time](https://open.spotify.com/playlist/3Nxv0V4YqRFTnmLyuKFKJk)
 

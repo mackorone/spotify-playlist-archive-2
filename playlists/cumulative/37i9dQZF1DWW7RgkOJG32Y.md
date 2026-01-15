@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW7RgkOJG32Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW7RgkOJG32Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW7RgkOJG32Y)
+[pretty](/playlists/pretty/37i9dQZF1DWW7RgkOJG32Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW7RgkOJG32Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW7RgkOJG32Y)
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Brandon Coleman of The Red Clay Strays
+> Trending for a reason \- the home of country's future monster hits\. Cover: Ella Langley
 
 610 songs - 1 day 8 hr 57 min
 

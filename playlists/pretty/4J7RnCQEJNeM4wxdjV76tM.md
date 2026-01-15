@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain](/playlists/plain/4J7RnCQEJNeM4wxdjV76tM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4J7RnCQEJNeM4wxdjV76tM)
+pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain](/playlists/plain/4J7RnCQEJNeM4wxdjV76tM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4J7RnCQEJNeM4wxdjV76tM)
 
 ### [$$](https://open.spotify.com/playlist/4J7RnCQEJNeM4wxdjV76tM)
 
 > old asl
 
-[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 648 songs - 1 day 11 hr 27 min
+[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 649 songs - 1 day 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -656,5 +656,6 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 646 | [Spray for Me](https://open.spotify.com/track/4KDxH2FhaBbWJWys7IzEoc) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Misunderstood](https://open.spotify.com/album/265RSKLOdNH1q2ts0ta2bg) | 3:03 |
 | 647 | [Thot Thot](https://open.spotify.com/track/4YAH2RzSQ78Oz8lqL9CS13) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Forever 23](https://open.spotify.com/album/0J6Ujzcx1ladoPha3cFQCE) | 2:01 |
 | 648 | [After Me](https://open.spotify.com/track/0mSm74ZDcFbpQzqAOuClhh) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Every Six Seconds](https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe) | 3:52 |
+| 649 | [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 |
 
-Snapshot ID: `AAAETMsuBsleQjepbMmfvDxPTzTKEj1t`
+Snapshot ID: `AAAETak9xr5nWmMHOH0Z42goSFic36cr`

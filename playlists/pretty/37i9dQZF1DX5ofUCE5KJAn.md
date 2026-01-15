@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain](/playlists/plain/37i9dQZF1DX5ofUCE5KJAn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ofUCE5KJAn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain](/playlists/plain/37i9dQZF1DX5ofUCE5KJAn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5ofUCE5KJAn)
 
 ### [La Pozoliza \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX5ofUCE5KJAn)
 

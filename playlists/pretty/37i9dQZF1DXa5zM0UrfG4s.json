@@ -1,91 +1,39 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116603,
+  "num_followers": 116636,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABOC+ZWjpWNAB5c8/wQlUTWkhe6d",
+  "snapshot_id": "AAAAABnawRPlLsZoL0Y1YDcjwoAC65Hi",
   "tracks": [
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Ryker p\u00e5'a igjen",
-        "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
+        "name": "Baby, du er r\u00e5!",
+        "url": "https://open.spotify.com/album/6yFNlkxfGaZSMGEttBWmD7"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         },
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 145111,
-      "name": "Ryker p\u00e5'a igjen",
-      "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
-        "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
         },
         {
-          "name": "Madel\u00e9ne",
-          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
-      "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
+      "duration_ms": 181133,
+      "name": "Baby, du er r\u00e5!",
+      "url": "https://open.spotify.com/track/5pD6vZ2GG9ulDChjwwp8Hv"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "G\u00e5r det bra?",
-        "url": "https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 143314,
-      "name": "G\u00e5r det bra?",
-      "url": "https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Cowboyhatten",
-        "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
-      },
-      "artists": [
-        {
-          "name": "ZadeKing",
-          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
-        },
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "Cowboyhatten",
-      "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "BUBBEL P\u00c5 BALKONGEN",
         "url": "https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn"
@@ -105,7 +53,7 @@
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "P\u00e5 vei",
         "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
@@ -121,7 +69,7 @@
       "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "E45",
         "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
@@ -137,7 +85,7 @@
       "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Bygdegut (her er eg)",
         "url": "https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP"
@@ -157,7 +105,27 @@
       "url": "https://open.spotify.com/track/5t4O0SahpSw7pavJBwGEC5"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Vi trenger ikke preke om det",
+        "url": "https://open.spotify.com/album/3qQRUvBOhiJbCl5bbMYa0u"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 140240,
+      "name": "Vi trenger ikke preke om det",
+      "url": "https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Jentekveld",
         "url": "https://open.spotify.com/album/6sQugPUwv6kMn83YM4Ooaz"
@@ -177,7 +145,59 @@
       "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Berre i natt",
+        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 229433,
+      "name": "Berre i natt",
+      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Cowboyhatten",
+        "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Cowboyhatten",
+      "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "G\u00e5r det bra?",
+        "url": "https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 143314,
+      "name": "G\u00e5r det bra?",
+      "url": "https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Fest i Tr\u00f8ndelag",
         "url": "https://open.spotify.com/album/4y4NUVNk5bzyydVabRpfXl"
@@ -201,23 +221,7 @@
       "url": "https://open.spotify.com/track/7IAzz4Eof2KQzw2AA18aa8"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Berre i natt",
-        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 229433,
-      "name": "Berre i natt",
-      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Pickup truck",
         "url": "https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx"
@@ -233,7 +237,23 @@
       "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "H\u00f8gt over landet",
+        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 203722,
+      "name": "H\u00f8gt over landet",
+      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Flaska",
         "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
@@ -273,7 +293,27 @@
       "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
+        "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        },
+        {
+          "name": "Madel\u00e9ne",
+          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
+      "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "B\u00e6st I Test",
         "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
@@ -289,23 +329,7 @@
       "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "H\u00f8gt over landet",
-        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 203722,
-      "name": "H\u00f8gt over landet",
-      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Staut",
         "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
@@ -321,39 +345,7 @@
       "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Campingstol",
-        "url": "https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Campingstol",
-      "url": "https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "En d\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
@@ -373,7 +365,59 @@
       "url": "https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Campingstol",
+        "url": "https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Campingstol",
+      "url": "https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Dum i haue",
+        "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 144808,
+      "name": "Dum i haue",
+      "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Flesk og duppe",
         "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
@@ -401,43 +445,23 @@
       "url": "https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Dum i haue",
-        "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
+        "name": "Hvem skal nekte meg en \u00f8l?",
+        "url": "https://open.spotify.com/album/0LryBlmnp3nfWLI6jwH0kC"
       },
       "artists": [
         {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 144808,
-      "name": "Dum i haue",
-      "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
+      "duration_ms": 126027,
+      "name": "Hvem skal nekte meg en \u00f8l?",
+      "url": "https://open.spotify.com/track/6bfbQpHqcAMsBT2D5YYPTb"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Jeg har v\u00e6rt en idiot",
-        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 149886,
-      "name": "Jeg har v\u00e6rt en idiot",
-      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Helg",
         "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
@@ -457,23 +481,43 @@
       "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+        "name": "Jeg har v\u00e6rt en idiot",
+        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
       },
       "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 149886,
+      "name": "Jeg har v\u00e6rt en idiot",
+      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Ryker p\u00e5'a igjen",
+        "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
         {
           "name": "Halva Priset",
           "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+      "duration_ms": 145111,
+      "name": "Ryker p\u00e5'a igjen",
+      "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Kunna vorre v\u00e6r",
         "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
@@ -489,39 +533,23 @@
       "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Singel til jeg d\u00f8r",
-        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 142620,
-      "name": "Singel til jeg d\u00f8r",
-      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Langt igjen \u00e5 g\u00e5",
-        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Langt igjen \u00e5 g\u00e5",
-      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Ligga low",
         "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
@@ -537,23 +565,7 @@
       "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Gamlehjem",
-        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 181648,
-      "name": "Gamlehjem",
-      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
@@ -569,43 +581,55 @@
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Norge rundt med Staysman",
-        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
+        "name": "Singel til jeg d\u00f8r",
+        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
       },
       "artists": [
         {
           "name": "Staysman",
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
+        }
+      ],
+      "duration_ms": 142620,
+      "name": "Singel til jeg d\u00f8r",
+      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Langt igjen \u00e5 g\u00e5",
+        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Langt igjen \u00e5 g\u00e5",
+      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
+      },
+      "artists": [
         {
           "name": "Halva Priset",
           "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 138454,
-      "name": "Hytta Mi",
-      "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
@@ -629,23 +653,7 @@
       "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Hvem skal nekte meg en \u00f8l?",
-        "url": "https://open.spotify.com/album/0LryBlmnp3nfWLI6jwH0kC"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 126027,
-      "name": "Hvem skal nekte meg en \u00f8l?",
-      "url": "https://open.spotify.com/track/6bfbQpHqcAMsBT2D5YYPTb"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Morra di",
         "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
@@ -661,10 +669,10 @@
       "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Heidi",
-        "url": "https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g"
+        "name": "Norge rundt med Staysman",
+        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
       "artists": [
         {
@@ -672,32 +680,16 @@
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         },
         {
-          "name": "Sander Elstad",
-          "url": "https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 124137,
-      "name": "Heidi",
-      "url": "https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe"
+      "duration_ms": 138454,
+      "name": "Hytta Mi",
+      "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
-      },
-      "artists": [
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 193374,
-      "name": "Tr\u00f8bbel",
-      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "De g\u00e6rne har det godt",
         "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
@@ -717,7 +709,7 @@
       "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Besseggen",
         "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
@@ -733,7 +725,59 @@
       "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "duration_ms": 193374,
+      "name": "Tr\u00f8bbel",
+      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Heidi",
+        "url": "https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Sander Elstad",
+          "url": "https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Heidi",
+      "url": "https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "En gammal Amazon",
         "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
@@ -749,43 +793,39 @@
       "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "F\u00f8dt i nord",
-        "url": "https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K"
+        "name": "Er det lov \u00e5 leva",
+        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Han Helge & Han H\u00e5kon",
-          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 156030,
-      "name": "F\u00f8dt i nord",
-      "url": "https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja"
+      "duration_ms": 131835,
+      "name": "Er det lov \u00e5 leva",
+      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Polisen",
-        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
+        "name": "Der Jeg H\u00f8rer Te (Bygda)",
+        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
       },
       "artists": [
         {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
         }
       ],
-      "duration_ms": 145645,
-      "name": "Polisen",
-      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
+      "duration_ms": 137106,
+      "name": "Der Jeg H\u00f8rer Te (Bygda)",
+      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
         "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
@@ -805,23 +845,43 @@
       "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Er det lov \u00e5 leva",
-        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
+        "name": "F\u00f8dt i nord",
+        "url": "https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Han Helge & Han H\u00e5kon",
+          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
         }
       ],
-      "duration_ms": 131835,
-      "name": "Er det lov \u00e5 leva",
-      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
+      "duration_ms": 156030,
+      "name": "F\u00f8dt i nord",
+      "url": "https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
+      },
+      "artists": [
+        {
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+        }
+      ],
+      "duration_ms": 145645,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Sv\u00e6re Pupper",
         "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
@@ -837,23 +897,7 @@
       "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Der Jeg H\u00f8rer Te (Bygda)",
-        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        }
-      ],
-      "duration_ms": 137106,
-      "name": "Der Jeg H\u00f8rer Te (Bygda)",
-      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "GUT OG KAR",
         "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
@@ -873,7 +917,7 @@
       "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Ja vi elsker (Typisk Norsk 2019)",
         "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
@@ -889,7 +933,23 @@
       "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Hopp inn i kjerra",
         "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
@@ -909,7 +969,7 @@
       "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Svensk i kv\u00e4ll",
         "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
@@ -929,23 +989,7 @@
       "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "GUTTA (feat. Plumbo)",
         "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
@@ -965,7 +1009,7 @@
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "N\u00e5 er det helg",
         "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
@@ -981,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Aleine over fjell",
         "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
@@ -997,7 +1041,7 @@
       "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Her og n\u00e5",
         "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
@@ -1013,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Naboen har operert kona si",
         "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
@@ -1029,7 +1073,7 @@
       "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "29 tonn",
         "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
@@ -1045,7 +1089,7 @@
       "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Bare for i kveld",
         "url": "https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo"
@@ -1061,7 +1105,7 @@
       "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Siste Kveld",
         "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
@@ -1081,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "H\u00e5per du er lykkelig n\u00e5",
         "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
@@ -1101,7 +1145,7 @@
       "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Best p\u00e5 fest",
         "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
@@ -1117,7 +1161,7 @@
       "url": "https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Flammer og Bensin",
         "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
@@ -1133,7 +1177,7 @@
       "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
         "url": "https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG"
@@ -1149,7 +1193,7 @@
       "url": "https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Baksetefylla",
         "url": "https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe"
@@ -1165,7 +1209,7 @@
       "url": "https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Dagsfylla",
         "url": "https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt"
@@ -1189,7 +1233,7 @@
       "url": "https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Best p\u00e5 fest",
         "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
@@ -1205,7 +1249,7 @@
       "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
     },
     {
-      "added_at": "2025-12-31 11:49:36",
+      "added_at": "2026-01-08 23:00:06",
       "album": {
         "name": "Om igjen",
         "url": "https://open.spotify.com/album/16f2U7RUhhchDESg3o81hV"
@@ -1223,38 +1267,6 @@
       "duration_ms": 175250,
       "name": "Om igjen",
       "url": "https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Hva skjedde i g\u00e5r",
-        "url": "https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD"
-      },
-      "artists": [
-        {
-          "name": "Freddy Kalas",
-          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
-        }
-      ],
-      "duration_ms": 166340,
-      "name": "Hva skjedde i g\u00e5r",
-      "url": "https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Vakker og vill",
-        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Vakker og vill",
-      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

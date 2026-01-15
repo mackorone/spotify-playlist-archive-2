@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain](/playlists/plain/37i9dQZF1DXdRupnl9NVKn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdRupnl9NVKn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain](/playlists/plain/37i9dQZF1DXdRupnl9NVKn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdRupnl9NVKn)
 
 ### [This Is i\-dle](https://open.spotify.com/playlist/37i9dQZF1DXdRupnl9NVKn)
 
 > Neverland, your queens are here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,736 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,644 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

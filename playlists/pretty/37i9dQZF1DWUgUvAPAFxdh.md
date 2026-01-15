@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgUvAPAFxdh.md) - [plain](/playlists/plain/37i9dQZF1DWUgUvAPAFxdh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUgUvAPAFxdh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgUvAPAFxdh.md) - [plain](/playlists/plain/37i9dQZF1DWUgUvAPAFxdh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUgUvAPAFxdh)
 
 ### [Jedi Survivor Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWUgUvAPAFxdh)
 
 > The story of Cal Kestis continues in Star Wars Jedi: Survivor, a third person galaxy\-spanning action\-adventure game from Respawn Entertainment, developed in collaboration with Lucasfilm Games.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,058 likes - 59 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,091 likes - 59 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

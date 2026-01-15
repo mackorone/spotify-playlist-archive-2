@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iFz8juuQdH.md) - [plain](/playlists/plain/37i9dQZF1DX6iFz8juuQdH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6iFz8juuQdH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iFz8juuQdH.md) - [plain](/playlists/plain/37i9dQZF1DX6iFz8juuQdH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6iFz8juuQdH)
 
 ### [Homage](https://open.spotify.com/playlist/37i9dQZF1DX6iFz8juuQdH)
 
 > A trailblazer for Black British music culture\. Cover: Jamal Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,813 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,836 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

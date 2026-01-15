@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain](/playlists/plain/37i9dQZF1DX4Ghyz32wen4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Ghyz32wen4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain](/playlists/plain/37i9dQZF1DX4Ghyz32wen4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4Ghyz32wen4)
 
 ### [sentimiento r&b.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Micro TDH en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,176 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,023 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

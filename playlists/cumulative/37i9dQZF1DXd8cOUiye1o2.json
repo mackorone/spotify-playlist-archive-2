@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover - TMMTMTTM",
+  "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover - Border 2",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -387,6 +387,28 @@
     },
     {
       "album": {
+        "name": "Aazmaati",
+        "url": "https://open.spotify.com/album/6mRDdZqxAbHl9jlrIe86hC"
+      },
+      "artists": [
+        {
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170525,
+      "name": "Aazmaati",
+      "url": "https://open.spotify.com/track/0Q7yFAzSxQNDni4BJ5Pzr2"
+    },
+    {
+      "album": {
         "name": "Ab Chhalakte Hue (From \"Bhoomi 2025\")",
         "url": "https://open.spotify.com/album/24c4qPeifmKRda1ZMoKuoB"
       },
@@ -722,6 +744,24 @@
       "duration_ms": 294500,
       "name": "Arz Kiya Hai | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
+    },
+    {
+      "album": {
+        "name": "atari",
+        "url": "https://open.spotify.com/album/5PtDkXw3gSBYk1g7oDJUda"
+      },
+      "artists": [
+        {
+          "name": "roshnee",
+          "url": "https://open.spotify.com/artist/5bNlV7RugEn70UvFBW2V9D"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "atari",
+      "url": "https://open.spotify.com/track/2QbOs8LucCMsNycmZcyxaB"
     },
     {
       "album": {
@@ -1459,6 +1499,36 @@
     },
     {
       "album": {
+        "name": "Four More Shots Please! Season 4 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4Zx1oqJZiNoe1mRbygUmsn"
+      },
+      "artists": [
+        {
+          "name": "RUUH",
+          "url": "https://open.spotify.com/artist/70OyR3fSaGkXpkr1hMm9KQ"
+        },
+        {
+          "name": "JOH",
+          "url": "https://open.spotify.com/artist/6chON6pmc2A5MZ2g4oDrNk"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Delraaz Bunshah",
+          "url": "https://open.spotify.com/artist/4vuS8QLzsii2BRiXNnTGTx"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Befikri",
+      "url": "https://open.spotify.com/track/5vZ3ZxFy1IcmGlXQBBD9Ux"
+    },
+    {
+      "album": {
         "name": "The Ba***ds Of Bollywood",
         "url": "https://open.spotify.com/album/3cUOrVPYaP7rq8PrpliN5k"
       },
@@ -1756,7 +1826,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 259434,
       "name": "Bitiya",
       "url": "https://open.spotify.com/track/1dyz61WvMMumBNcmM1FRJP"
@@ -1882,6 +1952,32 @@
       "duration_ms": 171173,
       "name": "Chaand",
       "url": "https://open.spotify.com/track/2fz20eNZolwz1QyfPuhRfP"
+    },
+    {
+      "album": {
+        "name": "Chaanta Tera (From \"Happy Patel - Khatarnak Jasoos\")",
+        "url": "https://open.spotify.com/album/3zGe9j2jtBCuawJdLcBkam"
+      },
+      "artists": [
+        {
+          "name": "Akshay & IP",
+          "url": "https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        },
+        {
+          "name": "Nupoor Khedkar",
+          "url": "https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177756,
+      "name": "Chaanta Tera - From \"Happy Patel - Khatarnak Jasoos\"",
+      "url": "https://open.spotify.com/track/35n2qiyBJ29vS0mxsVVEON"
     },
     {
       "album": {
@@ -2330,7 +2426,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 281904,
       "name": "Des",
       "url": "https://open.spotify.com/track/5bdwdRiEMfujLXPbLKFSrG"
@@ -3090,7 +3186,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160039,
       "name": "Ek Mulaqaat",
       "url": "https://open.spotify.com/track/69CIBgYgyhxRGzQK1ewVXv"
@@ -3138,7 +3234,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 257133,
       "name": "Faani",
       "url": "https://open.spotify.com/track/4QXkBuMz87V3U5Rucn34pB"
@@ -3493,6 +3589,28 @@
     },
     {
       "album": {
+        "name": "Happy Patel - Khatarnak Jasoos (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0kId2eCCbis38u21q0CQyy"
+      },
+      "artists": [
+        {
+          "name": "Vir Das",
+          "url": "https://open.spotify.com/artist/60SchmE7vekUDWfuqwIcnB"
+        },
+        {
+          "name": "Parth Parekh",
+          "url": "https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69600,
+      "name": "Goa Aaja - From \"Happy Patel - Khatarnak Jasoos\"",
+      "url": "https://open.spotify.com/track/2XLO4dcQZeaZ5hKkiAz6DH"
+    },
+    {
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/0IMkG7GGjZmK1340bp7zHF"
       },
@@ -3818,7 +3936,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 172055,
       "name": "Harjai",
       "url": "https://open.spotify.com/track/1z8AYOWmOq1IGREhP32Lyc"
@@ -4160,7 +4278,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 375066,
       "name": "Hum Fanaa - From \"Gustaakh Ishq\"",
       "url": "https://open.spotify.com/track/43DYgKUZyNpY3GJxBiBBU4"
@@ -4429,6 +4547,36 @@
     },
     {
       "album": {
+        "name": "Ishq Da Chehra (From \"BORDER 2\")",
+        "url": "https://open.spotify.com/album/1Kv92AwQ8gkm5q4NVEzDQk"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258173,
+      "name": "Ishq Da Chehra (From \"BORDER 2\")",
+      "url": "https://open.spotify.com/track/0x1YAtFe2kPBAYwrnaaPWM"
+    },
+    {
+      "album": {
         "name": "Ishq Hi Kaafi",
         "url": "https://open.spotify.com/album/3Jwzt7lVKrQYAiOmoQkGtC"
       },
@@ -4692,6 +4840,40 @@
       "duration_ms": 185513,
       "name": "Jaane Na Tu",
       "url": "https://open.spotify.com/track/0253QCJ72IoiTcvoAF8lU7"
+    },
+    {
+      "album": {
+        "name": "Jaate Hue Lamhon (From \"BORDER 2\")",
+        "url": "https://open.spotify.com/album/4CVNevhXz2vS2g8sA4iLl9"
+      },
+      "artists": [
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343159,
+      "name": "Jaate Hue Lamhon (From \"BORDER 2\")",
+      "url": "https://open.spotify.com/track/0BPm2ZCYW1DBMNfQKLSNpi"
     },
     {
       "album": {
@@ -5285,6 +5467,24 @@
     },
     {
       "album": {
+        "name": "Just You",
+        "url": "https://open.spotify.com/album/2fPG3AcO2vFiGJQWxXScBH"
+      },
+      "artists": [
+        {
+          "name": "Vilen",
+          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/17hdidwE5rpEEFzqLXmHTl"
+    },
+    {
+      "album": {
         "name": "Kaahe Mose",
         "url": "https://open.spotify.com/album/5A8RUsECb6rmFAFeMwZXVT"
       },
@@ -5626,7 +5826,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 221052,
       "name": "Kariyaa Haan",
       "url": "https://open.spotify.com/track/7aR4nGalo99Zjnh6Re5CPO"
@@ -5850,6 +6050,28 @@
       "duration_ms": 178247,
       "name": "Koi Haseena",
       "url": "https://open.spotify.com/track/5qoRMF5RwDb0OaQrsjDfKr"
+    },
+    {
+      "album": {
+        "name": "Koi Naam",
+        "url": "https://open.spotify.com/album/0yEvTMsYDemfZ75FmcB6hY"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/2V3QpcHI40ZRGMUhr3bHsl"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228795,
+      "name": "Koi Naam",
+      "url": "https://open.spotify.com/track/0vRgu0FsgI5AP1MJ9GupIR"
     },
     {
       "album": {
@@ -6747,6 +6969,28 @@
     },
     {
       "album": {
+        "name": "Mere Qareeb",
+        "url": "https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K"
+      },
+      "artists": [
+        {
+          "name": "Neyhal",
+          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
+        },
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224284,
+      "name": "Mere Qareeb",
+      "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
+    },
+    {
+      "album": {
         "name": "Aap Jaisa Koi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4PGsR7OOUpJxhpNzzwIbim"
       },
@@ -6796,7 +7040,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 200000,
       "name": "Mili Nazar",
       "url": "https://open.spotify.com/track/46D8RnxxnSATr3fJzfKtMN"
@@ -6851,6 +7095,32 @@
     },
     {
       "album": {
+        "name": "BORDER 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/32CMcxPKK2F6ZJWLj0qz9b"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448018,
+      "name": "Mitti Ke Bete",
+      "url": "https://open.spotify.com/track/5xGf6fz2shh4cWGwVEQzgG"
+    },
+    {
+      "album": {
         "name": "Mizaaj",
         "url": "https://open.spotify.com/album/0VNg7XE3d4NXfYgYBtyybU"
       },
@@ -6866,6 +7136,44 @@
       "duration_ms": 278435,
       "name": "Mizaaj",
       "url": "https://open.spotify.com/track/1ShJo66U7vyskeFx5i6sZu"
+    },
+    {
+      "album": {
+        "name": "BORDER 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/32CMcxPKK2F6ZJWLj0qz9b"
+      },
+      "artists": [
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360064,
+      "name": "Mohabbat Ho Gayi Hai",
+      "url": "https://open.spotify.com/track/3xymNFOuhEjimrOOJS0otp"
     },
     {
       "album": {
@@ -7171,7 +7479,7 @@
         },
         {
           "name": "Brinda",
-          "url": "https://open.spotify.com/artist/2bS5YzCfUxDPa6fJXSDU6Q"
+          "url": "https://open.spotify.com/artist/2GPdVUg9TCQY9B0nDUgMJt"
         },
         {
           "name": "Farooq Qaiser",
@@ -7476,7 +7784,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 291021,
       "name": "Nikhar Gaya",
       "url": "https://open.spotify.com/track/4i9oWrSNrLjXSlHmSSKdXM"
@@ -8099,6 +8407,32 @@
     },
     {
       "album": {
+        "name": "BORDER 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/32CMcxPKK2F6ZJWLj0qz9b"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293194,
+      "name": "Pyaari Lage",
+      "url": "https://open.spotify.com/track/5gO5dDsKVBj5Ena0eBhJ5a"
+    },
+    {
+      "album": {
         "name": "Pyar Karta Hun",
         "url": "https://open.spotify.com/album/3rK3ONBSCYWEhkc0RFcWRg"
       },
@@ -8446,7 +8780,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 224190,
       "name": "Radhika - I-Popstar: Vol. 1",
       "url": "https://open.spotify.com/track/5NkpmtxLopsQyvzqMXlEup"
@@ -8756,7 +9090,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 385000,
       "name": "Saans",
       "url": "https://open.spotify.com/track/04T6VRRChkPVq0Ibz1vhnU"
@@ -8882,7 +9216,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 249406,
       "name": "Saaye",
       "url": "https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01"
@@ -9170,6 +9504,24 @@
       "duration_ms": 238195,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/6mfV9MW0BYTiNBFGpdZvwN"
+    },
+    {
+      "album": {
+        "name": "Sanam Beraham",
+        "url": "https://open.spotify.com/album/3vOPTCFkLgYmycCMjLjFjO"
+      },
+      "artists": [
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Sanam Beraham",
+      "url": "https://open.spotify.com/track/0BFtVfD4UCM17SZ2Uz41LL"
     },
     {
       "album": {
@@ -9544,7 +9896,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211921,
       "name": "Sitaare - Top 6 Song (feat. Rishabh Panchal, Rohit Raut & Radhika Bhide) - I-Popstar: Vol. 1",
       "url": "https://open.spotify.com/track/0q88uIwZb3YPIUXzspW8y4"
@@ -9716,6 +10068,32 @@
       "duration_ms": 242262,
       "name": "Suna Lage",
       "url": "https://open.spotify.com/track/13oU2M0DSglVMP4kymSg3s"
+    },
+    {
+      "album": {
+        "name": "Sunhari Kirne (From \"Gandhi Talks\")",
+        "url": "https://open.spotify.com/album/6FZjRBEyXlLPwFusYZu5LH"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sameer Samant",
+          "url": "https://open.spotify.com/artist/5uSpP62V9luVq2RqbUGFbh"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255610,
+      "name": "Sunhari Kirne (From \"Gandhi Talks\")",
+      "url": "https://open.spotify.com/track/11y10Bdw8AGCu2L0amMIus"
     },
     {
       "album": {
@@ -10160,7 +10538,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211261,
       "name": "Tere Zikr Mein",
       "url": "https://open.spotify.com/track/1HZIW6kTWEgFjgItSxdtox"
@@ -10452,7 +10830,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154952,
       "name": "Title Track (From Mrs. Deshpande)",
       "url": "https://open.spotify.com/track/1IcCrRl0iEpdSo0ucbgoRT"
@@ -11622,7 +12000,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153600,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
@@ -11756,6 +12134,28 @@
       "duration_ms": 237024,
       "name": "Zamaana Lage - Rewind (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/7qiMLZ0fpTP5OMewYAo3Tn"
+    },
+    {
+      "album": {
+        "name": "Zara Zara Sa",
+        "url": "https://open.spotify.com/album/4haQvp5sXbnZUeo6E126n5"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Anweshaa",
+          "url": "https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Zara Zara Sa",
+      "url": "https://open.spotify.com/track/0gZ51rSozAPhKwPJxNvPH5"
     },
     {
       "album": {

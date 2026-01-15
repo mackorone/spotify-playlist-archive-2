@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain](/playlists/plain/37i9dQZF1DX03azgB68xev) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX03azgB68xev)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain](/playlists/plain/37i9dQZF1DX03azgB68xev) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX03azgB68xev)
 
 ### [Christian Pop](https://open.spotify.com/playlist/37i9dQZF1DX03azgB68xev)
 
 > Pop bops for the saints!  Cover: Taylor Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,905 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,348 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 15 | [THANK YOU JESUS](https://open.spotify.com/track/3YLX1VjbWgtAd44hD8T5I8) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [THANK YOU JESUS](https://open.spotify.com/album/0AHsfQAqgpOVQs4dJkgkMO) | 2:48 |
 | 16 | [THE ROCK](https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [THE ROCK](https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD) | 2:48 |
 | 17 | [oxygen \- H3nry Thr!ll Version](https://open.spotify.com/track/0m66iu9iCSTEspCzVsbrLA) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [H3nry Thr!ll](https://open.spotify.com/artist/2GKIFC9wCaMs2vohojNLk5) | [oxygen \(H3nry Thr!ll Version\)](https://open.spotify.com/album/0rSbx6nUiWRtbmm0YR8oPa) | 2:00 |
-| 18 | [Gunpowder](https://open.spotify.com/track/27A0b6I98O6Y47FVyvYNz4) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Gunpowder](https://open.spotify.com/album/0jlQXYdBpHw0C5VwATIv35) | 3:33 |
+| 18 | [Gunpowder](https://open.spotify.com/track/27A0b6I98O6Y47FVyvYNz4) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [gracie](https://open.spotify.com/artist/5cEucK6zCdSeFyB5899bKC) | [Gunpowder](https://open.spotify.com/album/0jlQXYdBpHw0C5VwATIv35) | 3:33 |
 | 19 | [History](https://open.spotify.com/track/1K4mkirXUaZ0cT75JFVMty) | [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl) | [The Truth](https://open.spotify.com/album/7lDIdFyF3lcX0OYKfJ2G4j) | 3:01 |
 | 20 | [YOUR WAY'S BETTER](https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [YOUR WAY'S BETTER](https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk) | 3:18 |
 | 21 | [Love Like This](https://open.spotify.com/track/5xdPonunrBkmwGkWNFcKhV) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Love Like This](https://open.spotify.com/album/3OPoxCkmoIe96rtyVpEopw) | 3:09 |

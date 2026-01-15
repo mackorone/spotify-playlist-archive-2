@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTggY0yqBxES.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTggY0yqBxES) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTggY0yqBxES)
+[pretty](/playlists/pretty/37i9dQZF1DWTggY0yqBxES.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTggY0yqBxES) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTggY0yqBxES)
 
 ### [Alternative Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWTggY0yqBxES)
 
 > New, leftfield, and for the real hip\-hop stans! Cover: $uicideboy$
 
-1,398 songs - 2 day 18 hr 2 min
+1,399 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -999,6 +999,7 @@
 | [Pudgy \(with Lil Uzi Vert\)](https://open.spotify.com/track/4oebzB09U8UoYtNnS6vTjt) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:15 | 2022-10-28 | 2023-11-04 |
 | [Pull The Car Around](https://open.spotify.com/track/5Z81JZd5vyOdiPW6o0LLJo) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Pull The Car Around](https://open.spotify.com/album/4RHb6nT6TujNXx0jS0nEz5) | 2:36 | 2024-01-12 | 2024-03-16 |
 | [PULLING UP \(feat\. $uicideboy$\)](https://open.spotify.com/track/30UdcE73xUzIaOPd8EsxrR) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [EVERY DOG HAS ITS DAY](https://open.spotify.com/album/6bAxzhIGK9goBP49UnvbEj) | 3:33 | 2024-03-15 | 2024-08-10 |
+| [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-01-09 |  |
 | [Purple Dye](https://open.spotify.com/track/0a6GQAjN5xk87BaNEPIBOA) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Purple Dye](https://open.spotify.com/album/29SiDlNYMKxITfYMuYQHu0) | 3:40 | 2023-04-07 | 2023-05-06 |
 | [PURPLE HEART \(w/ Don Toliver\)](https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 2:05 | 2023-12-08 | 2024-01-13 |
 | [Purple In My Lungs](https://open.spotify.com/track/57QWhhqJC89JZKhpAc91pO) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Purple In My Lungs](https://open.spotify.com/album/0GiyVKWmPiSgE3X6HZ9JkV) | 2:06 | 2024-01-26 | 2024-02-24 |
@@ -1191,7 +1192,7 @@
 | [talk 2 em](https://open.spotify.com/track/7L4gDJcbomtunXe5zEgYGZ) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [talk 2 em](https://open.spotify.com/album/2Kwe1GT8kYZmOh6hmJhGyX) | 2:24 | 2023-07-21 | 2023-10-07 |
 | [Talk About It \(feat\. Kent Jamz & BJ the Chicago Kid\)](https://open.spotify.com/track/3KRdr6AtApWPUtrR2YLIOf) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 3:31 | 2024-03-29 | 2024-04-06 |
 | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90) | [Dot Da Genius](https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae) | 3:05 | 2022-07-15 | 2023-05-06 |
-| [Talk My Shit \(feat\. Amaarae & Flo Milli\)](https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:45 | 2024-07-19 |  |
+| [Talk My Shit \(feat\. Amaarae & Flo Milli\)](https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:45 | 2024-07-19 | 2026-01-15 |
 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 | 2023-01-27 | 2023-09-02 |
 | [TAMEKA](https://open.spotify.com/track/4zRcLjaYdw0YG5plxtTOuU) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [TAMEKA](https://open.spotify.com/album/1AcYsg4opk03qQO5gupSdc) | 1:49 | 2022-10-21 | 2022-10-29 |
 | [TAN](https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TAN](https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ) | 2:31 | 2023-01-27 | 2023-02-18 |

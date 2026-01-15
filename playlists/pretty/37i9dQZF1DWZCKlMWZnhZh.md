@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCKlMWZnhZh.md) - [plain](/playlists/plain/37i9dQZF1DWZCKlMWZnhZh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZCKlMWZnhZh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCKlMWZnhZh.md) - [plain](/playlists/plain/37i9dQZF1DWZCKlMWZnhZh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZCKlMWZnhZh)
 
 ### [Showstoppers!](https://open.spotify.com/playlist/37i9dQZF1DWZCKlMWZnhZh)
 
 > The get to your feet moments in all our favorite shows\. Cover: WICKED
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,193 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,285 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

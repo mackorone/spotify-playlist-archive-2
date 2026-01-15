@@ -301,6 +301,32 @@
     },
     {
       "album": {
+        "name": "Allons chercher",
+        "url": "https://open.spotify.com/album/3AM3leqISTCPpygzdQR4Ly"
+      },
+      "artists": [
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        },
+        {
+          "name": "Chouchou Salvador",
+          "url": "https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151637,
+      "name": "Allons chercher",
+      "url": "https://open.spotify.com/track/7e5KKhlapDqkvK3fUnpoUD"
+    },
+    {
+      "album": {
         "name": "Allumez",
         "url": "https://open.spotify.com/album/1Svwz2URG49O0mj9XsrhVN"
       },
@@ -2234,7 +2260,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177632,
       "name": "Fimbu",
       "url": "https://open.spotify.com/track/12rxH5rW5Do2hFcxSDpgyV"
@@ -3965,6 +3991,32 @@
     },
     {
       "album": {
+        "name": "ON EST EN CH\u00c9K\u00c9T\u00c9",
+        "url": "https://open.spotify.com/album/4bSKhPMBMCrIBYWh9GRn5Z"
+      },
+      "artists": [
+        {
+          "name": "Arii",
+          "url": "https://open.spotify.com/artist/62QwKcRFb9gwWH5YsUTY5N"
+        },
+        {
+          "name": "Toto le Banzou",
+          "url": "https://open.spotify.com/artist/6biltZdfZXfwvPkrKQItmh"
+        },
+        {
+          "name": "Dydy Yeman",
+          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154187,
+      "name": "ON EST EN CH\u00c9K\u00c9T\u00c9",
+      "url": "https://open.spotify.com/track/4jLmG7pmRcLMsPjBVaXkMo"
+    },
+    {
+      "album": {
         "name": "On Est Puissant",
         "url": "https://open.spotify.com/album/6uCH7SU24RiZ1qIlkdsTOO"
       },
@@ -4262,7 +4314,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170624,
       "name": "P\u00c9T\u00c9",
       "url": "https://open.spotify.com/track/35tlKcLBwsBVmbqVNdZdWK"

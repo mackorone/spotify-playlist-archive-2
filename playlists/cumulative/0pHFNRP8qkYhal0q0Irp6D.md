@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0pHFNRP8qkYhal0q0Irp6D.md) - cumulative - [plain](/playlists/plain/0pHFNRP8qkYhal0q0Irp6D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0pHFNRP8qkYhal0q0Irp6D)
+[pretty](/playlists/pretty/0pHFNRP8qkYhal0q0Irp6D.md) - cumulative - [plain](/playlists/plain/0pHFNRP8qkYhal0q0Irp6D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0pHFNRP8qkYhal0q0Irp6D)
 
 ### [Disco Beats](https://open.spotify.com/playlist/0pHFNRP8qkYhal0q0Irp6D)
 

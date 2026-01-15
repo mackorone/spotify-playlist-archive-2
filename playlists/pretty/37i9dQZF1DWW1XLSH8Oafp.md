@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain](/playlists/plain/37i9dQZF1DWW1XLSH8Oafp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW1XLSH8Oafp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain](/playlists/plain/37i9dQZF1DWW1XLSH8Oafp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW1XLSH8Oafp)
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
 > ur on the list bb 🪐 featuring Benwal
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,211 likes - 149 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,042 likes - 149 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

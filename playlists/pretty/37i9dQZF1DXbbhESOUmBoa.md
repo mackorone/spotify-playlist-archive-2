@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbhESOUmBoa.md) - [plain](/playlists/plain/37i9dQZF1DXbbhESOUmBoa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbbhESOUmBoa)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbhESOUmBoa.md) - [plain](/playlists/plain/37i9dQZF1DXbbhESOUmBoa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbbhESOUmBoa)
 
 ### [TOMORROW X TOGETHER WORLD TOUR \[ACT : TOMORROW\]](https://open.spotify.com/playlist/37i9dQZF1DXbbhESOUmBoa)
 
 > enjoy the TOMORROW X TOGETHER WORLD TOUR \[ACT : TOMORROW\] LIVE SET including the voices of them on stage! \(투모로우바이투게더의 무대 멘트와 목소리가 포함된 \[ACT : TOMORROW\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,939 likes - 37 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,675 likes - 37 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

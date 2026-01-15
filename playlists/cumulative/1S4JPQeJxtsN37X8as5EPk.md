@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1S4JPQeJxtsN37X8as5EPk.md) - cumulative - [plain](/playlists/plain/1S4JPQeJxtsN37X8as5EPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1S4JPQeJxtsN37X8as5EPk)
+[pretty](/playlists/pretty/1S4JPQeJxtsN37X8as5EPk.md) - cumulative - [plain](/playlists/plain/1S4JPQeJxtsN37X8as5EPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1S4JPQeJxtsN37X8as5EPk)
 
 ### [Back to the Roots](https://open.spotify.com/playlist/1S4JPQeJxtsN37X8as5EPk)
 

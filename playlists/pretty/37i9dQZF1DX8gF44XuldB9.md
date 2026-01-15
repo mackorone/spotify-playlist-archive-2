@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gF44XuldB9.md) - [plain](/playlists/plain/37i9dQZF1DX8gF44XuldB9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8gF44XuldB9)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gF44XuldB9.md) - [plain](/playlists/plain/37i9dQZF1DX8gF44XuldB9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8gF44XuldB9)
 
 ### [GLOW TAPES: su, i think](https://open.spotify.com/playlist/37i9dQZF1DX8gF44XuldB9)
 
 > live, laugh, love, curated by su, i think: I made this playlist because I love to laugh and giggle and rock out and vlog and smile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 327 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

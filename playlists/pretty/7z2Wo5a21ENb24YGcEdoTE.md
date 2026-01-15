@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7z2Wo5a21ENb24YGcEdoTE.md) - [plain](/playlists/plain/7z2Wo5a21ENb24YGcEdoTE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7z2Wo5a21ENb24YGcEdoTE)
+pretty - [cumulative](/playlists/cumulative/7z2Wo5a21ENb24YGcEdoTE.md) - [plain](/playlists/plain/7z2Wo5a21ENb24YGcEdoTE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7z2Wo5a21ENb24YGcEdoTE)
 
 ### [2012](https://open.spotify.com/playlist/7z2Wo5a21ENb24YGcEdoTE)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,464 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,443 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

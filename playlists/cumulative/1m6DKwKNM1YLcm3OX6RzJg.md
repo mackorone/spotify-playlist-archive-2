@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1m6DKwKNM1YLcm3OX6RzJg.md) - cumulative - [plain](/playlists/plain/1m6DKwKNM1YLcm3OX6RzJg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1m6DKwKNM1YLcm3OX6RzJg)
+[pretty](/playlists/pretty/1m6DKwKNM1YLcm3OX6RzJg.md) - cumulative - [plain](/playlists/plain/1m6DKwKNM1YLcm3OX6RzJg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1m6DKwKNM1YLcm3OX6RzJg)
 
 ### [Kvinnor att ha koll på 2014](https://open.spotify.com/playlist/1m6DKwKNM1YLcm3OX6RzJg)
 

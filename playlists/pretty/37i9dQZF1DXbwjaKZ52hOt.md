@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain](/playlists/plain/37i9dQZF1DXbwjaKZ52hOt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbwjaKZ52hOt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain](/playlists/plain/37i9dQZF1DXbwjaKZ52hOt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbwjaKZ52hOt)
 
 ### [Nursery Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXbwjaKZ52hOt)
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,306 likes - 150 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,472 likes - 150 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

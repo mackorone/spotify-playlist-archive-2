@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWW6K9D6JN1rY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW6K9D6JN1rY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW6K9D6JN1rY)
+[pretty](/playlists/pretty/37i9dQZF1DWW6K9D6JN1rY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW6K9D6JN1rY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW6K9D6JN1rY)
 
 ### [Learn Irish](https://open.spotify.com/playlist/37i9dQZF1DWW6K9D6JN1rY)
 

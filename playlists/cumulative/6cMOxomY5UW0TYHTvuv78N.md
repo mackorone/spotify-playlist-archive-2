@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6cMOxomY5UW0TYHTvuv78N.md) - cumulative - [plain](/playlists/plain/6cMOxomY5UW0TYHTvuv78N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6cMOxomY5UW0TYHTvuv78N)
+[pretty](/playlists/pretty/6cMOxomY5UW0TYHTvuv78N.md) - cumulative - [plain](/playlists/plain/6cMOxomY5UW0TYHTvuv78N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6cMOxomY5UW0TYHTvuv78N)
 
 ### [Dock Rockers](https://open.spotify.com/playlist/6cMOxomY5UW0TYHTvuv78N)
 

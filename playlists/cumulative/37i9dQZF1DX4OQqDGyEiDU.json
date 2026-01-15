@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Baumkuchen_EndCredits",
+        "url": "https://open.spotify.com/album/1X4eosGFqxc1vzqAkWnWq4"
+      },
+      "artists": [
+        {
+          "name": "amala",
+          "url": "https://open.spotify.com/artist/6gsYua8nnnutLOGReIJHsK"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144720,
+      "name": "Baumkuchen_EndCredits",
+      "url": "https://open.spotify.com/track/3W9qs513ZgVEqK0EN9Okjt"
+    },
+    {
+      "album": {
         "name": "Beyond the way",
         "url": "https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180030,
       "name": "Beyond the way",
       "url": "https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP"
@@ -2389,6 +2407,28 @@
     },
     {
       "album": {
+        "name": "megami (feat. KASANE TETO)",
+        "url": "https://open.spotify.com/album/2XA7zzb1wZspvIPvH8ve4V"
+      },
+      "artists": [
+        {
+          "name": "otonaesper",
+          "url": "https://open.spotify.com/artist/7rSKSwWJ0LWfk2FQBcOw3V"
+        },
+        {
+          "name": "Kasane Teto",
+          "url": "https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169163,
+      "name": "megami (feat. KASANE TETO)",
+      "url": "https://open.spotify.com/track/1RK5fakFKAFnjzWX1GRGXE"
+    },
+    {
+      "album": {
         "name": "METEOR",
         "url": "https://open.spotify.com/album/0tOjjdPOA63W3waKTrKObc"
       },
@@ -2966,6 +3006,32 @@
       "duration_ms": 220174,
       "name": "Posinega*Mistakers",
       "url": "https://open.spotify.com/track/1oXvFoHLJjzAN6kKT8mNXR"
+    },
+    {
+      "album": {
+        "name": "PPPP",
+        "url": "https://open.spotify.com/album/2YpnTJLH8a1xxEL3HXAWQQ"
+      },
+      "artists": [
+        {
+          "name": "TAK",
+          "url": "https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kasane Teto",
+          "url": "https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154835,
+      "name": "PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "url": "https://open.spotify.com/track/6J3pPfXLujwsWQpvR6XMgC"
     },
     {
       "album": {
@@ -4380,7 +4446,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140655,
       "name": "\u304f\u308b\u307f\u5272\u308a\u5973\u738b",
       "url": "https://open.spotify.com/track/28pyRtDvblWqbhflI7HuXh"
@@ -5420,6 +5486,24 @@
       "duration_ms": 180000,
       "name": "\u30a2\u30f3\u30d7\u30e9\u30f3\u30c9\u30fb\u30a2\u30dd\u30c8\u30fc\u30b7\u30b9",
       "url": "https://open.spotify.com/track/2TwVplURaIUB1WoPeVjaLs"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30f4\u30a1\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/6tjcL58JcghZh1NSS2jhm1"
+      },
+      "artists": [
+        {
+          "name": "32ki",
+          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "\u30a2\u30f4\u30a1\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/2DzCfvlMnSkXDN673Mrmt3"
     },
     {
       "album": {
@@ -9358,7 +9442,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210777,
       "name": "\u32f0\u8cac\u4efb\u96c6\u5408\u4f53",
       "url": "https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc"
@@ -11640,7 +11724,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203760,
       "name": "\u795e\u3063\u307d\u3044\u306a",
       "url": "https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu"

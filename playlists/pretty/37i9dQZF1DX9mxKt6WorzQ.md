@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mxKt6WorzQ.md) - [plain](/playlists/plain/37i9dQZF1DX9mxKt6WorzQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9mxKt6WorzQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mxKt6WorzQ.md) - [plain](/playlists/plain/37i9dQZF1DX9mxKt6WorzQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9mxKt6WorzQ)
 
 ### [Train Sounds](https://open.spotify.com/playlist/37i9dQZF1DX9mxKt6WorzQ)
 
 > Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,510 likes - 77 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,787 likes - 77 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

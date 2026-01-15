@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3AFH5Qgf8R3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3AFH5Qgf8R3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3AFH5Qgf8R3)
+[pretty](/playlists/pretty/37i9dQZF1DX3AFH5Qgf8R3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3AFH5Qgf8R3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3AFH5Qgf8R3)
 
 ### [SBS INKIGAYO "UNICON" in TOKYO DOME](https://open.spotify.com/playlist/37i9dQZF1DX3AFH5Qgf8R3)
 

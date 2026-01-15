@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2h7wzI2y3tS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2h7wzI2y3tS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2h7wzI2y3tS)
+[pretty](/playlists/pretty/37i9dQZF1DX2h7wzI2y3tS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2h7wzI2y3tS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2h7wzI2y3tS)
 
 ### [Berceuses pop](https://open.spotify.com/playlist/37i9dQZF1DX2h7wzI2y3tS)
 

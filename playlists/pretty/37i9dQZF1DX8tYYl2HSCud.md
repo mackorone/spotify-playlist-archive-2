@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain](/playlists/plain/37i9dQZF1DX8tYYl2HSCud) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8tYYl2HSCud)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain](/playlists/plain/37i9dQZF1DX8tYYl2HSCud) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8tYYl2HSCud)
 
 ### [Relaxing Baby Music](https://open.spotify.com/playlist/37i9dQZF1DX8tYYl2HSCud)
 
 > Gentle ambient for a calm baby during bath time, playtime or baby massage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,272 likes - 197 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,077 likes - 197 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

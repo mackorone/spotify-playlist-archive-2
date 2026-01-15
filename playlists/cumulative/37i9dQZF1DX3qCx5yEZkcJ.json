@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 203500,
       "name": "easy",
       "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
@@ -9624,7 +9624,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 200061,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
@@ -10987,6 +10987,28 @@
     },
     {
       "album": {
+        "name": "Wherever",
+        "url": "https://open.spotify.com/album/4evOGy6Fre6EO6uCy8oH4Q"
+      },
+      "artists": [
+        {
+          "name": "Tamotsu LeftGroove",
+          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
+        },
+        {
+          "name": "ichimi",
+          "url": "https://open.spotify.com/artist/1ChuYhzwGRbLDx97Q9o3th"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "Wherever",
+      "url": "https://open.spotify.com/track/2LfpFFKcs6F2CY7WjPjGgb"
+    },
+    {
+      "album": {
         "name": "Whiskey Sour / Strammer Max",
         "url": "https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8"
       },
@@ -11326,7 +11348,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147695,
       "name": "zero",
       "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"

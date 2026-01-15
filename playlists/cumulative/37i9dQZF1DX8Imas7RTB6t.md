@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8Imas7RTB6t.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Imas7RTB6t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Imas7RTB6t)
+[pretty](/playlists/pretty/37i9dQZF1DX8Imas7RTB6t.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Imas7RTB6t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8Imas7RTB6t)
 
 ### [Amy Wiles' DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX8Imas7RTB6t)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain](/playlists/plain/37i9dQZF1DWWbEGrb2ydWx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWbEGrb2ydWx)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain](/playlists/plain/37i9dQZF1DWWbEGrb2ydWx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWbEGrb2ydWx)
 
 ### [Logic1000's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWWbEGrb2ydWx)
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,987 likes - 90 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,035 likes - 90 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

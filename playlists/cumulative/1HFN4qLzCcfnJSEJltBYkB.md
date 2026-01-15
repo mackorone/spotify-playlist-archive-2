@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1HFN4qLzCcfnJSEJltBYkB.md) - cumulative - [plain](/playlists/plain/1HFN4qLzCcfnJSEJltBYkB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1HFN4qLzCcfnJSEJltBYkB)
+[pretty](/playlists/pretty/1HFN4qLzCcfnJSEJltBYkB.md) - cumulative - [plain](/playlists/plain/1HFN4qLzCcfnJSEJltBYkB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1HFN4qLzCcfnJSEJltBYkB)
 
 ### [KARENTセレクション Spring Songs](https://open.spotify.com/playlist/1HFN4qLzCcfnJSEJltBYkB)
 

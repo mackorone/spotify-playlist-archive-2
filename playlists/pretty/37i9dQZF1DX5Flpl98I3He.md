@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Flpl98I3He.md) - [plain](/playlists/plain/37i9dQZF1DX5Flpl98I3He) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Flpl98I3He)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Flpl98I3He.md) - [plain](/playlists/plain/37i9dQZF1DX5Flpl98I3He) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5Flpl98I3He)
 
 ### [This Is Rachmaninoff](https://open.spotify.com/playlist/37i9dQZF1DX5Flpl98I3He)
 
 > Dive into the best\-loved works of Sergei Rachmaninoff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,047 likes - 64 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,452 likes - 64 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

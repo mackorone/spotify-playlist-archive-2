@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO0m6Px6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0m6Px6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0m6Px6)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO0m6Px6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0m6Px6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO0m6Px6)
 
 ### [This Is Harrison](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0m6Px6)
 

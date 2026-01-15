@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6TIU4D13lOY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6TIU4D13lOY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6TIU4D13lOY)
+[pretty](/playlists/pretty/37i9dQZF1DX6TIU4D13lOY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6TIU4D13lOY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6TIU4D13lOY)
 
 ### [Soft Rock Drive](https://open.spotify.com/playlist/37i9dQZF1DX6TIU4D13lOY)
 

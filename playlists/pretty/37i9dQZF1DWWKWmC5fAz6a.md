@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKWmC5fAz6a.md) - [plain](/playlists/plain/37i9dQZF1DWWKWmC5fAz6a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWKWmC5fAz6a)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKWmC5fAz6a.md) - [plain](/playlists/plain/37i9dQZF1DWWKWmC5fAz6a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWKWmC5fAz6a)
 
 ### [Heartstopper: Tao and Elle](https://open.spotify.com/playlist/37i9dQZF1DWWKWmC5fAz6a)
 
 > Tao and Elle's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,720 likes - 68 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,557 likes - 68 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

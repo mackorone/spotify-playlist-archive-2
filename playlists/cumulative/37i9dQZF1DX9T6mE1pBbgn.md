@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9T6mE1pBbgn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9T6mE1pBbgn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9T6mE1pBbgn)
+[pretty](/playlists/pretty/37i9dQZF1DX9T6mE1pBbgn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9T6mE1pBbgn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9T6mE1pBbgn)
 
 ### [ILLIT FAN CONCERT \[GLITTER DAY\]](https://open.spotify.com/playlist/37i9dQZF1DX9T6mE1pBbgn)
 

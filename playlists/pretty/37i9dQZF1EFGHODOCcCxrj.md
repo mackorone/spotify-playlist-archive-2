@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain](/playlists/plain/37i9dQZF1EFGHODOCcCxrj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFGHODOCcCxrj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain](/playlists/plain/37i9dQZF1EFGHODOCcCxrj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFGHODOCcCxrj)
 
 ### [Written By Danny L Harle](https://open.spotify.com/playlist/37i9dQZF1EFGHODOCcCxrj)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6lpMQmg0sVeladspBg3BYf">Danny L Harle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326 likes - 85 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 328 likes - 85 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 58 | [Take My Heart Away](https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:05 |
 | 59 | [Boogie All Night](https://open.spotify.com/track/4YyPw3tshZ4Mphjob3ZYBQ) | [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [It’s About Time](https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b) | 3:30 |
 | 60 | [Bom Bom](https://open.spotify.com/track/17u7NdikjpRuWVnHgiPllH) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Bom Bom](https://open.spotify.com/album/1gDP1tT2XQJAE1ZOscTnHg) | 3:39 |
-| 61 | [I Feel Alright](https://open.spotify.com/track/723TSBtH8XHrx5iGhTXYtu) | [Bonzai](https://open.spotify.com/artist/5BydzSmKBIh8HkWFwx4Rrg) | [I Feel Alright](https://open.spotify.com/album/3HvST025ZBfVOtbfCFAyda) | 3:15 |
-| 62 | [Electric](https://open.spotify.com/track/1LQYqouXZXneMu6GUkKshf) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 3:15 |
+| 61 | [Electric](https://open.spotify.com/track/1LQYqouXZXneMu6GUkKshf) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 3:15 |
+| 62 | [I Feel Alright](https://open.spotify.com/track/723TSBtH8XHrx5iGhTXYtu) | [Bonzai](https://open.spotify.com/artist/5BydzSmKBIh8HkWFwx4Rrg) | [I Feel Alright](https://open.spotify.com/album/3HvST025ZBfVOtbfCFAyda) | 3:15 |
 | 63 | [Interlocked](https://open.spotify.com/track/53ClYkBItyVBclAdFVMJt5) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Mayhem](https://open.spotify.com/artist/3n2IwUzU4qAAITPTGtoQWp) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 2:46 |
 | 64 | [you and me again](https://open.spotify.com/track/6Yc385tstnIUpKxNdcLgDl) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [you and me again](https://open.spotify.com/album/5zarmGpQqAdpgKtV47DVXI) | 2:21 |
 | 65 | [Eyes](https://open.spotify.com/track/0OaGQVO7FpWBkOZ4LnjTzw) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:08 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 84 | [Yeva's Lullaby](https://open.spotify.com/track/4vxquvA6UGJbUxj9bQdV9o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 6:53 |
 | 85 | [The Circle Unbroken](https://open.spotify.com/track/7IMgOhpJ9gnkGUl52AY3cc) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 5:17 |
 
-Snapshot ID: `AcGKngAAAAABeKyA0rEY44bKrpZ4vmku`
+Snapshot ID: `AcHAhgAAAAB95HH8X57Vb4woZvNvoHGv`

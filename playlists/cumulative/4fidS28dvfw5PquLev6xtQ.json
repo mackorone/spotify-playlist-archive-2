@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-08-19",
-  "description": "Big Curtiss moving on down and that&#x27;s on sauce \ud83c\udf45 type shit twin",
+  "description": "Dead broke in the new Year but we climbing high to the sky feeling so fly \ud83e\udebd",
   "name": "RYM Top 100 Songs (updated \"bi\"weekly)",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210240,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 1555840,
       "name": "Hasta Que Te Conoc\u00ed (Popurr\u00ed) [En Vivo] - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/7DPqGXrgdRBDDB353sgwYx"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 309093,
       "name": "Idioteque",
       "url": "https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 446145,
       "name": "One (Remastered)",
       "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
@@ -1676,6 +1676,24 @@
       "duration_ms": 206000,
       "name": "Transdermal Celebration",
       "url": "https://open.spotify.com/track/0sll2PXvdsst1w51S2TsHN"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "album": {

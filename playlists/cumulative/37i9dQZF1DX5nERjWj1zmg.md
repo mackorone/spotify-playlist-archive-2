@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5nERjWj1zmg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5nERjWj1zmg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5nERjWj1zmg)
+[pretty](/playlists/pretty/37i9dQZF1DX5nERjWj1zmg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5nERjWj1zmg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5nERjWj1zmg)
 
 ### [Women's Lit](https://open.spotify.com/playlist/37i9dQZF1DX5nERjWj1zmg)
 

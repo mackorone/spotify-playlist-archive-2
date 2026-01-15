@@ -1,16 +1,17 @@
-[pretty](/playlists/pretty/7fJS0hmCN1MYleLBQDJrqy.md) - cumulative - [plain](/playlists/plain/7fJS0hmCN1MYleLBQDJrqy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7fJS0hmCN1MYleLBQDJrqy)
+[pretty](/playlists/pretty/7fJS0hmCN1MYleLBQDJrqy.md) - cumulative - [plain](/playlists/plain/7fJS0hmCN1MYleLBQDJrqy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7fJS0hmCN1MYleLBQDJrqy)
 
 ### [Studentenbangers🍺](https://open.spotify.com/playlist/7fJS0hmCN1MYleLBQDJrqy)
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-99 songs - 4 hr 18 min
+100 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0612345678](https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [0612345678](https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g) | 2:23 | 2025-09-19 |  |
 | [1 Nacht](https://open.spotify.com/track/2dUJ0xW4XC89CC6gD7mjwi) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:13 | 2025-07-18 |  |
 | [10 Cijfers](https://open.spotify.com/track/7JsKljyU2BgTPrYUJEPJyP) | [Mxxdy](https://open.spotify.com/artist/6xP9NJZcCjv4mbWMbyHQ8s) | [10 Cijfers](https://open.spotify.com/album/4DRKKaTvtteptCDxWighTu) | 4:26 | 2025-07-18 | 2025-11-01 |
+| [2002](https://open.spotify.com/track/0I4Fl88OA6fEKvht1AGqXK) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Katja Schuurman](https://open.spotify.com/artist/0w5pt6lTphDQFLfiPeGzlt) | [2002](https://open.spotify.com/album/4aIE8FauGoNqGCigfExEIG) | 2:34 | 2026-01-09 |  |
 | [3D](https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [3D](https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT) | 2:43 | 2025-09-19 |  |
 | [5 tot 9 \(feat\. Joël Domingos\)](https://open.spotify.com/track/2zT6AK44ot39NQ7xVdLi75) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm), [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [5 tot 9 \(feat\. Joël Domingos\)](https://open.spotify.com/album/3MHKLkXnHafqRAqR64SJYK) | 2:29 | 2025-07-18 |  |
 | [ADHD](https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [ADHD](https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ) | 2:54 | 2025-08-29 |  |
@@ -29,7 +30,7 @@
 | [Bro Code](https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Bro Code](https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea) | 2:11 | 2025-07-18 |  |
 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 | 2025-07-18 |  |
 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 | 2025-07-18 |  |
-| [Check D'r In \(feat\. Mr\. Polska\)](https://open.spotify.com/track/3DCKTj8EPMu7iaKm1aCQAb) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Check D'r In \(feat\. Mr\. Polska\)](https://open.spotify.com/album/3zWQ8Is7USfahs7ZLifufD) | 2:09 | 2025-07-18 |  |
+| [Check D'r In \(feat\. Mr\. Polska\)](https://open.spotify.com/track/3DCKTj8EPMu7iaKm1aCQAb) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Check D'r In \(feat\. Mr\. Polska\)](https://open.spotify.com/album/3zWQ8Is7USfahs7ZLifufD) | 2:09 | 2025-07-18 | 2026-01-15 |
 | [Combinatie](https://open.spotify.com/track/1gbc2lBN65iPiXTATrs5YQ) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Combinatie](https://open.spotify.com/album/5dpVpb8NqQfV7JaFWcBzcP) | 3:25 | 2025-09-19 |  |
 | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2) | 3:50 | 2025-09-12 |  |
 | [De Liefde](https://open.spotify.com/track/3MrCOZ0qldvkNiQTWG9GIt) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Liefde](https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy) | 2:04 | 2025-09-19 |  |

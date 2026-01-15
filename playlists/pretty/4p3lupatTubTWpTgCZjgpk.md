@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4p3lupatTubTWpTgCZjgpk.md) - [plain](/playlists/plain/4p3lupatTubTWpTgCZjgpk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4p3lupatTubTWpTgCZjgpk)
+pretty - [cumulative](/playlists/cumulative/4p3lupatTubTWpTgCZjgpk.md) - [plain](/playlists/plain/4p3lupatTubTWpTgCZjgpk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4p3lupatTubTWpTgCZjgpk)
 
 ### [Walk a Country Mile](https://open.spotify.com/playlist/4p3lupatTubTWpTgCZjgpk)
 
 > Countrify your power walk
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,682 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,672 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

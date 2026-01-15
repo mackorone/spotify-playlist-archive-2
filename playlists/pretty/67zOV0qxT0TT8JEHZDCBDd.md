@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/67zOV0qxT0TT8JEHZDCBDd.md) - [plain](/playlists/plain/67zOV0qxT0TT8JEHZDCBDd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/67zOV0qxT0TT8JEHZDCBDd)
+pretty - [cumulative](/playlists/cumulative/67zOV0qxT0TT8JEHZDCBDd.md) - [plain](/playlists/plain/67zOV0qxT0TT8JEHZDCBDd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/67zOV0qxT0TT8JEHZDCBDd)
 
 ### [Miguel](https://open.spotify.com/playlist/67zOV0qxT0TT8JEHZDCBDd)
 
 > Missa inte Miguel på Azalea\-scenen på FREDAG / 21.15
 
-[Spotify](https://open.spotify.com/user/spotify) - 41 likes - 10 songs - 34 min 32 sec
+[Spotify](https://open.spotify.com/user/spotify) - 39 likes - 10 songs - 34 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

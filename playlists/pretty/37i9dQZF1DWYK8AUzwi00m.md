@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain](/playlists/plain/37i9dQZF1DWYK8AUzwi00m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYK8AUzwi00m)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain](/playlists/plain/37i9dQZF1DWYK8AUzwi00m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYK8AUzwi00m)
 
 ### [christmas lofi](https://open.spotify.com/playlist/37i9dQZF1DWYK8AUzwi00m)
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,866 likes - 100 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,258 likes - 100 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

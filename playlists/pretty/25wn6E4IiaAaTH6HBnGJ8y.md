@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain](/playlists/plain/25wn6E4IiaAaTH6HBnGJ8y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/25wn6E4IiaAaTH6HBnGJ8y)
+pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain](/playlists/plain/25wn6E4IiaAaTH6HBnGJ8y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/25wn6E4IiaAaTH6HBnGJ8y)
 
 ### [VOL.4](https://open.spotify.com/playlist/25wn6E4IiaAaTH6HBnGJ8y)
 
 > bangers
 
-[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 5,683 likes - 245 songs - 15 hr 15 min
+[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 5,678 likes - 245 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

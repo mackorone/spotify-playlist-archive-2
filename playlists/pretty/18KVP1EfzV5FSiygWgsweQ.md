@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/18KVP1EfzV5FSiygWgsweQ.md) - [plain](/playlists/plain/18KVP1EfzV5FSiygWgsweQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/18KVP1EfzV5FSiygWgsweQ)
+pretty - [cumulative](/playlists/cumulative/18KVP1EfzV5FSiygWgsweQ.md) - [plain](/playlists/plain/18KVP1EfzV5FSiygWgsweQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/18KVP1EfzV5FSiygWgsweQ)
 
 ### [Zunge](https://open.spotify.com/playlist/18KVP1EfzV5FSiygWgsweQ)
 
 > 
 
-[Till Lindemann](https://open.spotify.com/user/31yxqzpvjyewmzjbgpbhrjkcwwhi) - 3,942 likes - 12 songs - 50 min 24 sec
+[Till Lindemann](https://open.spotify.com/user/31yxqzpvjyewmzjbgpbhrjkcwwhi) - 3,940 likes - 12 songs - 50 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIm5Nuoh0vn.md) - [plain](/playlists/plain/37i9dQZF1DWXIm5Nuoh0vn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXIm5Nuoh0vn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIm5Nuoh0vn.md) - [plain](/playlists/plain/37i9dQZF1DWXIm5Nuoh0vn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXIm5Nuoh0vn)
 
 ### [Fruits Basket \-フルーツバスケット\-](https://open.spotify.com/playlist/37i9dQZF1DWXIm5Nuoh0vn)
 
 > Enjoy Music From "Fruits Basket"! TVアニメ『フルーツバスケット』の魅力を歴代のOP/ED主題歌、サントラでお届けします。©高屋奈月・白泉社/フルーツバスケット製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,104 likes - 55 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,126 likes - 55 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

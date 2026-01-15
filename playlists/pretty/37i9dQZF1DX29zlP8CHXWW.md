@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain](/playlists/plain/37i9dQZF1DX29zlP8CHXWW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX29zlP8CHXWW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain](/playlists/plain/37i9dQZF1DX29zlP8CHXWW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX29zlP8CHXWW)
 
 ### [Road to Passion 2025](https://open.spotify.com/playlist/37i9dQZF1DX29zlP8CHXWW)
 

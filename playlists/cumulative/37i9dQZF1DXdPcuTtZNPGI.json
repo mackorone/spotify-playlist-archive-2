@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "LoveLive! Series 15th Anniversary Tribute Album",
+        "url": "https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "soldier game",
+      "url": "https://open.spotify.com/track/6EjqikavIw48BKxg7Z8gGQ"
+    },
+    {
+      "album": {
         "name": "Stay Gold (from BEYBLADE X)",
         "url": "https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI"
       },

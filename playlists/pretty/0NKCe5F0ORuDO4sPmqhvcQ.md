@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain](/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ)
+pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain](/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ)
 
 ### [Moving Castle Monthly](https://open.spotify.com/playlist/0NKCe5F0ORuDO4sPmqhvcQ)
 
 > selects from music we've been listening
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,446 likes - 84 songs - 4 hr 50 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,441 likes - 84 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

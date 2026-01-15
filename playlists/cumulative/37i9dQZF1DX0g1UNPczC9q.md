@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0g1UNPczC9q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0g1UNPczC9q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0g1UNPczC9q)
+[pretty](/playlists/pretty/37i9dQZF1DX0g1UNPczC9q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0g1UNPczC9q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0g1UNPczC9q)
 
 ### [Queer Prom](https://open.spotify.com/playlist/37i9dQZF1DX0g1UNPczC9q)
 

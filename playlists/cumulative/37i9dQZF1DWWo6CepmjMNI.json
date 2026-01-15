@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: CURS",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YEP MAY YEP",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 240644,
       "name": "1",
       "url": "https://open.spotify.com/track/7C0iw6P8SwYz8FJrN7SGaj"
+    },
+    {
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/3yTe3mfyrz52lfDNqFM6wq"
+      },
+      "artists": [
+        {
+          "name": "Varis",
+          "url": "https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199274,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/56GPuAG9yQKeDZPKyYV1DH"
     },
     {
       "album": {
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 247843,
       "name": "\u0e15\u0e49\u0e2d\u0e07\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/0FLjxJkXkzQ3JTX3mIFUd4"
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 220250,
       "name": "\u0e20\u0e32\u0e1e\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/4IO5XrgTEJmSkeX49WFQa2"
@@ -4398,6 +4416,24 @@
       "duration_ms": 280116,
       "name": "\u0e40\u0e1a\u0e1a\u0e35\u0e4b\u0e40\u0e18\u0e2d\u0e1f\u0e31\u0e07\u0e01\u0e48\u0e2d\u0e19 - Hold On",
       "url": "https://open.spotify.com/track/4PwrJaDUlR5zzpmI78sYGY"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1a\u0e37\u0e48\u0e2d\u0e27\u0e31\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/0uroAdS5U9ej2wifafJc4E"
+      },
+      "artists": [
+        {
+          "name": "nuthkitta",
+          "url": "https://open.spotify.com/artist/7riPWx4NWgGfPv9kYAEJnv"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295600,
+      "name": "\u0e40\u0e1a\u0e37\u0e48\u0e2d\u0e27\u0e31\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/3opfXX70bSpFxnJWkQGdTT"
     },
     {
       "album": {

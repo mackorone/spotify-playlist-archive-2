@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain](/playlists/plain/37i9dQZF1DXc7RvXTzD4rW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc7RvXTzD4rW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain](/playlists/plain/37i9dQZF1DXc7RvXTzD4rW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc7RvXTzD4rW)
 
 ### [声優、歌う Sing Like Talking](https://open.spotify.com/playlist/37i9dQZF1DXc7RvXTzD4rW)
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: 夏川椎菜 Shiina Natsukawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,808 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,810 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

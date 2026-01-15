@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1HFN4qLzCcfnJSEJltBYkB.md) - [plain](/playlists/plain/1HFN4qLzCcfnJSEJltBYkB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1HFN4qLzCcfnJSEJltBYkB)
+pretty - [cumulative](/playlists/cumulative/1HFN4qLzCcfnJSEJltBYkB.md) - [plain](/playlists/plain/1HFN4qLzCcfnJSEJltBYkB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1HFN4qLzCcfnJSEJltBYkB)
 
 ### [KARENTセレクション Spring Songs](https://open.spotify.com/playlist/1HFN4qLzCcfnJSEJltBYkB)
 
 > KARENTレーベルで配信中の楽曲の中から、春に聴きたいボカロ楽曲を選曲。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 107 likes - 40 songs - 2 hr 49 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 108 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

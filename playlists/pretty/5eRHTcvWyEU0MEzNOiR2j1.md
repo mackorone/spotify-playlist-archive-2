@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5eRHTcvWyEU0MEzNOiR2j1.md) - [plain](/playlists/plain/5eRHTcvWyEU0MEzNOiR2j1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5eRHTcvWyEU0MEzNOiR2j1)
+pretty - [cumulative](/playlists/cumulative/5eRHTcvWyEU0MEzNOiR2j1.md) - [plain](/playlists/plain/5eRHTcvWyEU0MEzNOiR2j1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5eRHTcvWyEU0MEzNOiR2j1)
 
 ### [Putte i parken 2012](https://open.spotify.com/playlist/5eRHTcvWyEU0MEzNOiR2j1)
 

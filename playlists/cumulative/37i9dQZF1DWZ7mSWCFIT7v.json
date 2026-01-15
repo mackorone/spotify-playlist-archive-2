@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "The Archives, Vol. 1",
+        "url": "https://open.spotify.com/album/5SH33m7iBZovqeUwFIeqo1"
+      },
+      "artists": [
+        {
+          "name": "Tom Marvin",
+          "url": "https://open.spotify.com/artist/49YMNaFUcHthWqmQ4adbyH"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249374,
+      "name": "BSMR",
+      "url": "https://open.spotify.com/track/2PVA5M1EWqzbwyfPVBSqpA"
+    },
+    {
+      "album": {
         "name": "I Can Hear the Birds",
         "url": "https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s"
       },
@@ -4612,7 +4630,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 227973,
       "name": "Lifeworld",
       "url": "https://open.spotify.com/track/5F7lkoriDmKyFQEjv3yzBg"

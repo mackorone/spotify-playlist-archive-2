@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXb8UvzdN3YBP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb8UvzdN3YBP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb8UvzdN3YBP)
+[pretty](/playlists/pretty/37i9dQZF1DXb8UvzdN3YBP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb8UvzdN3YBP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb8UvzdN3YBP)
 
 ### [Glass Onion Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXb8UvzdN3YBP)
 

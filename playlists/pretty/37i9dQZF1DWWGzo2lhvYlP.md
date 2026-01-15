@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain](/playlists/plain/37i9dQZF1DWWGzo2lhvYlP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWGzo2lhvYlP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain](/playlists/plain/37i9dQZF1DWWGzo2lhvYlP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWGzo2lhvYlP)
 
 ### [Academic Comeback](https://open.spotify.com/playlist/37i9dQZF1DWWGzo2lhvYlP)
 
 > new year let's go
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,716 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,095 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

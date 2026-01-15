@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURZcKqHG6Wr.md) - [plain](/playlists/plain/37i9dQZF1DWURZcKqHG6Wr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWURZcKqHG6Wr)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURZcKqHG6Wr.md) - [plain](/playlists/plain/37i9dQZF1DWURZcKqHG6Wr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWURZcKqHG6Wr)
 
 ### [COUNTER//CULTURE: The Linda Lindas](https://open.spotify.com/playlist/37i9dQZF1DWURZcKqHG6Wr)
 
 > These are the songs that have shaped <a href="spotify:artist:13dTrWNNrnZ3AkgNyQNKP5">The Linda Lindas'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,353 likes - 30 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,396 likes - 30 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

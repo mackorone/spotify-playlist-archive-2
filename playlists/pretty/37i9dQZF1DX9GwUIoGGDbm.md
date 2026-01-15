@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain](/playlists/plain/37i9dQZF1DX9GwUIoGGDbm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9GwUIoGGDbm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain](/playlists/plain/37i9dQZF1DX9GwUIoGGDbm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9GwUIoGGDbm)
 
 ### [KAGUYA\-SAMA: LOVE IS WAR](https://open.spotify.com/playlist/37i9dQZF1DX9GwUIoGGDbm)
 
 > Music from "KAGUYA\-SAMA: LOVE IS WAR"\. ©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,917 likes - 81 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,178 likes - 81 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 | 80 | [魔女の館](https://open.spotify.com/track/0Cl7mvysw3gzg8YeGx9YMi) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:46 |
 | 81 | [悲しくて lulululu \-Original ver.\-](https://open.spotify.com/track/4FVQ7SLv1xLgNRi4y1Dp0m) | [西田圭稀](https://open.spotify.com/artist/65ZK9nLtUCgjxoeuJaEHF6) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 4:10 |
 
-Snapshot ID: `AAAAAK2yWwndwBpHJY7bubPZ3+9pS4s1`
+Snapshot ID: `AAAAALxCtCY3W8Y6QM5iTIqinsBWwHXY`

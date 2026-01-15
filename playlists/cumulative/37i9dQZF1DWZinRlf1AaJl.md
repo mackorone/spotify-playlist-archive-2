@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZinRlf1AaJl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZinRlf1AaJl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZinRlf1AaJl)
+[pretty](/playlists/pretty/37i9dQZF1DWZinRlf1AaJl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZinRlf1AaJl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZinRlf1AaJl)
 
 ### [SEVENTEEN WORLD TOUR  \[NEW\_\]](https://open.spotify.com/playlist/37i9dQZF1DWZinRlf1AaJl)
 

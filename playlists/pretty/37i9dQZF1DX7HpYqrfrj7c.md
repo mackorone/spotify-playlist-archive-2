@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain](/playlists/plain/37i9dQZF1DX7HpYqrfrj7c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7HpYqrfrj7c)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain](/playlists/plain/37i9dQZF1DX7HpYqrfrj7c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7HpYqrfrj7c)
 
 ### [Boom Bap Relax](https://open.spotify.com/playlist/37i9dQZF1DX7HpYqrfrj7c)
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,519 likes - 92 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,060 likes - 92 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

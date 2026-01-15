@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO06Ki7m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO06Ki7m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO06Ki7m)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO06Ki7m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO06Ki7m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO06Ki7m)
 
 ### [This Is Metro Boomin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Ki7m)
 

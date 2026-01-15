@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain](/playlists/plain/37i9dQZF1DX32nf7PAbnUl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX32nf7PAbnUl)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain](/playlists/plain/37i9dQZF1DX32nf7PAbnUl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX32nf7PAbnUl)
 
 ### [Chicha Royale](https://open.spotify.com/playlist/37i9dQZF1DX32nf7PAbnUl)
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,061 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,242 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

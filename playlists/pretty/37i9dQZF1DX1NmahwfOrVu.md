@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1NmahwfOrVu.md) - [plain](/playlists/plain/37i9dQZF1DX1NmahwfOrVu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1NmahwfOrVu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1NmahwfOrVu.md) - [plain](/playlists/plain/37i9dQZF1DX1NmahwfOrVu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1NmahwfOrVu)
 
 ### [Adaya Düşmemiş Şarkılar](https://open.spotify.com/playlist/37i9dQZF1DX1NmahwfOrVu)
 

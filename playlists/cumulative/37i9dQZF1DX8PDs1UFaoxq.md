@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8PDs1UFaoxq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8PDs1UFaoxq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8PDs1UFaoxq)
+[pretty](/playlists/pretty/37i9dQZF1DX8PDs1UFaoxq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8PDs1UFaoxq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8PDs1UFaoxq)
 
 ### [We Were Liars Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX8PDs1UFaoxq)
 

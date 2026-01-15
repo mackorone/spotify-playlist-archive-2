@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXFA5F941Zt.md) - [plain](/playlists/plain/37i9dQZF1DWUXFA5F941Zt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUXFA5F941Zt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXFA5F941Zt.md) - [plain](/playlists/plain/37i9dQZF1DWUXFA5F941Zt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUXFA5F941Zt)
 
 ### [Vintage Halloween](https://open.spotify.com/playlist/37i9dQZF1DWUXFA5F941Zt)
 
 > Celebrate Halloween with the the best in old fashioned spooky Jazz and Blues from the 1920s\-1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,748 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,730 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

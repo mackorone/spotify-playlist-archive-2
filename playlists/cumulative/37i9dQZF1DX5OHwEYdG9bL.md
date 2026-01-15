@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5OHwEYdG9bL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5OHwEYdG9bL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5OHwEYdG9bL)
+[pretty](/playlists/pretty/37i9dQZF1DX5OHwEYdG9bL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5OHwEYdG9bL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5OHwEYdG9bL)
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: DOYOUNG\(도영\)\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: idntt\) \(Enjoy a playlist of songs that support music video features!\)
 
-181 songs - 10 hr 1 min
+182 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [PARADISE](https://open.spotify.com/track/2yQgi0Zzx9E8wfmWDj5H7z) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [PARADISE](https://open.spotify.com/album/5yzF3SY6QRaB10ZxXtBvDU) | 3:03 | 2025-10-24 |  |
 | [Pivot](https://open.spotify.com/track/3A4rp0uvOKv1hyBFuPjSrx) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Pivot](https://open.spotify.com/album/2CN32qHnw9sXYEZpdScw4f) | 3:10 | 2025-07-15 | 2025-08-20 |
 | [POWER \[Official Video\]](https://open.spotify.com/track/3v4QrvFs2vFAht1MdOiAC8) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER \[Official Video\]](https://open.spotify.com/album/3SoygZ2zWfBPX3TSE9i2Kx) | 2:46 | 2025-07-15 | 2025-08-20 |
+| [Pretty Boy Swag](https://open.spotify.com/track/7w8ZbczPuJUDlC16gVk80x) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [Pretty Boy Swag](https://open.spotify.com/album/08Di0TMfvqvCve78eBuJEW) | 2:58 | 2026-01-09 |  |
 | [Promise](https://open.spotify.com/track/6Dxr0JrIN3wOMhNQzxL9RW) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Promise](https://open.spotify.com/album/4zjAHJSBQp7bifv39za7Kq) | 4:04 | 2025-12-13 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/4ABOx8gMHbKsWYrMOBa2ZD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/7DDuWzLVKJxRKPuKUgH9Ob) | 3:53 | 2025-08-13 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/1RJBfvb4imdz0YE0UMoG70) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/4Ze2b2wEqXr6dxntYIBnqk) | 3:55 | 2025-08-13 |  |

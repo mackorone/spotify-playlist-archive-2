@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain](/playlists/plain/3QfEWUJA2k1c2AICnunShP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3QfEWUJA2k1c2AICnunShP)
+pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain](/playlists/plain/3QfEWUJA2k1c2AICnunShP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3QfEWUJA2k1c2AICnunShP)
 
 ### [Klassische Musik zum Lesen, Lernen & Studieren](https://open.spotify.com/playlist/3QfEWUJA2k1c2AICnunShP)
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 31,712 likes - 151 songs - 8 hr 6 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 31,883 likes - 151 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

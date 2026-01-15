@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2qmvifrwrEK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2qmvifrwrEK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2qmvifrwrEK)
+[pretty](/playlists/pretty/37i9dQZF1DX2qmvifrwrEK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2qmvifrwrEK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2qmvifrwrEK)
 
 ### [Womb Sounds](https://open.spotify.com/playlist/37i9dQZF1DX2qmvifrwrEK)
 
@@ -44,7 +44,7 @@
 | [Brown Noise Womb Sound](https://open.spotify.com/track/4dXUA4ZPNAJhW5QjIHhKDh) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Brown Noise Womb Sound](https://open.spotify.com/album/0zaAwBviK7vQRjrpr1JE9G) | 3:19 | 2022-11-18 |  |
 | [Calm and Lush Womb Sound](https://open.spotify.com/track/1ANjDo66oaLCZCg6vuFaOp) | [Womb Sound](https://open.spotify.com/artist/0sKsn885C4hMXbWfhLKGy6) | [The Perfect Background Sounds for Newborns, Infants and Babies](https://open.spotify.com/album/44NiKKg7jPuDdgNeNYfIn8) | 3:19 | 2022-08-26 | 2022-12-16 |
 | [Calm Heartbeat Womb Sound](https://open.spotify.com/track/3c4psbfmOmACLd47l7vHXM) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Sleep Sounds for Babies \(Womb Sounds\)](https://open.spotify.com/album/4hjI9hPlJGHboZkoxzuFH0) | 3:28 | 2022-08-26 |  |
-| [Calm Sleep Sounds](https://open.spotify.com/track/746ue5WbKDFmLEbtQFQbNv) | [esperos](https://open.spotify.com/artist/3nQdnUJzgAr6z8bsk87q0L) | [Nature's Noise](https://open.spotify.com/album/6fi0v1FZs5eGtWDqSQRF67) | 3:11 | 2023-02-24 |  |
+| [Calm Sleep Sounds](https://open.spotify.com/track/746ue5WbKDFmLEbtQFQbNv) | [esperos](https://open.spotify.com/artist/3nQdnUJzgAr6z8bsk87q0L) | [Nature's Noise](https://open.spotify.com/album/6fi0v1FZs5eGtWDqSQRF67) | 3:11 | 2023-02-24 | 2026-01-15 |
 | [Calm Sleep Sounds for Babies](https://open.spotify.com/track/2oUULGrURe3PsiYZqmmF4W) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Wombs Sounds for Baby Sleep \(with Heartbeats\)](https://open.spotify.com/album/2mqMGoA5RNNFt19WGNCc33) | 3:36 | 2022-08-26 |  |
 | [Calm Womb Sound](https://open.spotify.com/track/1HEiOxLqrinHeiXDS2RrgF) | [Cove De Tranquilo](https://open.spotify.com/artist/2dIXmPWwihBELvev9ld8ev) | [Calm Womb Sound](https://open.spotify.com/album/2izEsSOcADOHtszl4MWwf4) | 3:10 | 2023-02-24 |  |
 | [Calming Heartbeat](https://open.spotify.com/track/34cwtCGgW5K0nSBjqZxnE0) | [The Right Noises](https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ) | [Inside The Womb](https://open.spotify.com/album/7fsUdUXeKWPYpTC6dHpnbG) | 3:33 | 2022-11-18 | 2023-07-06 |
@@ -282,7 +282,7 @@
 | [Womb's Soothing Symphony](https://open.spotify.com/track/7q0fOr9dJduMsImWBmXk1q) | [Hormonental](https://open.spotify.com/artist/04vpuXDmz03XLF53WTsbXE) | [Womb's Loving Embrace](https://open.spotify.com/album/1a1X01OJiWmaiVNhgAFQZ4) | 3:09 | 2023-06-16 |  |
 | [Womb's Tranquil Tones](https://open.spotify.com/track/2WSZ2ALSk8Dvh5XBlsgSEW) | [Biologique](https://open.spotify.com/artist/0DudONxjyhGIoLDd0o17f1) | [Womb's Tranquil Tones](https://open.spotify.com/album/3VIv19iSyMqssywCsSQ9ME) | 3:02 | 2023-06-16 |  |
 | [Wombnoise](https://open.spotify.com/track/2oWmdTfCcJ7WmmJQ9LSwKn) | [Schwim](https://open.spotify.com/artist/32CMhytkITmqZdbHLfxvxm) | [Wombnoise](https://open.spotify.com/album/05CrcVMyHt0falWX7bjan7) | 2:23 | 2023-02-24 |  |
-| [Worry Free Womb Sound](https://open.spotify.com/track/7xImVXB3P3bOw6ycpkFBtU) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Baby Sleep Womb Sounds](https://open.spotify.com/album/1XU9xQYBxR8o86MbVQQ8y1) | 2:52 | 2022-12-16 | 2025-11-30 |
+| [Worry Free Womb Sound](https://open.spotify.com/track/7xImVXB3P3bOw6ycpkFBtU) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Baby Sleep Womb Sounds](https://open.spotify.com/album/1XU9xQYBxR8o86MbVQQ8y1) | 2:52 | 2022-12-16 |  |
 | [Yearning Heart \- Noise](https://open.spotify.com/track/2pGNtycHrWbhmbuC2ldWVq) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Little Sky Sleeping \(Noise\)](https://open.spotify.com/album/31ZhTKhgNjC87avPoUrYVg) | 3:04 | 2023-03-30 | 2023-08-15 |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

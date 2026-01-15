@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7gN1qBoBYg.md) - [plain](/playlists/plain/37i9dQZF1DWV7gN1qBoBYg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV7gN1qBoBYg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7gN1qBoBYg.md) - [plain](/playlists/plain/37i9dQZF1DWV7gN1qBoBYg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWV7gN1qBoBYg)
 
 ### [RADAR Nordics](https://open.spotify.com/playlist/37i9dQZF1DWV7gN1qBoBYg)
 
 > Welcome to RADAR: A space for storytelling going beyond the music featuring Yaeger, Sam Ezeh, LOVA, Mina Okabe, Augustine & IVAN$ITO from the Nordics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,500 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,502 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

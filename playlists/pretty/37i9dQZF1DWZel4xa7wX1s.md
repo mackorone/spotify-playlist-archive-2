@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain](/playlists/plain/37i9dQZF1DWZel4xa7wX1s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZel4xa7wX1s)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain](/playlists/plain/37i9dQZF1DWZel4xa7wX1s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZel4xa7wX1s)
 
 ### [The New Waltz](https://open.spotify.com/playlist/37i9dQZF1DWZel4xa7wX1s)
 

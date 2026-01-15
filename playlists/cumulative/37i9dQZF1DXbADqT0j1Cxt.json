@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Air Balloon",
+        "url": "https://open.spotify.com/album/72xH38YYYhBSY92oGdHPH8"
+      },
+      "artists": [
+        {
+          "name": "Pajama Llama",
+          "url": "https://open.spotify.com/artist/29SbmvhRNO8sON3UBDpqoi"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "Air Balloon",
+      "url": "https://open.spotify.com/track/6NmxQ6vOhoe6iBMfpaamix"
+    },
+    {
+      "album": {
         "name": "All Of Your Friends",
         "url": "https://open.spotify.com/album/1gKNUNR60Vhe7SQnYNC9EU"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 116624,
       "name": "All Of Your Friends",
       "url": "https://open.spotify.com/track/2pmYurg3NrwqdCBm4s33Gu"
@@ -1823,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Calm Clouds",
+        "url": "https://open.spotify.com/album/2rc0b9GU3YO5JM8EjV6Uvf"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Bed",
+          "url": "https://open.spotify.com/artist/1P3GZq73nsY4CLVHNcsIHp"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114250,
+      "name": "Calm Clouds",
+      "url": "https://open.spotify.com/track/1EeDEUNJbbgBdD8kGVpAMr"
+    },
+    {
+      "album": {
         "name": "My Dream",
         "url": "https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA"
       },
@@ -2140,7 +2176,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 93513,
       "name": "Colorful Cradle",
       "url": "https://open.spotify.com/track/3mxfB0w2Yvy47YczoYjczW"
@@ -2212,7 +2248,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 120585,
       "name": "Comforting",
       "url": "https://open.spotify.com/track/56zb8O0svsTY7VOJed5rGc"
@@ -4552,7 +4588,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 95291,
       "name": "Have You Seen My Little Cat?",
       "url": "https://open.spotify.com/track/1qZFbZ133PGINEDpzU7KWN"
@@ -4718,6 +4754,24 @@
       "duration_ms": 91000,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/37OI6ky8R9ZjEBnr77tIai"
+    },
+    {
+      "album": {
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/1uM1P2ZpsI0rMQBtDo0tAu"
+      },
+      "artists": [
+        {
+          "name": "Rosalie Andersdotter",
+          "url": "https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128384,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/40BUmfjbLuegeZtrd0xLnC"
     },
     {
       "album": {
@@ -7346,7 +7400,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 106750,
       "name": "Moonlight Song",
       "url": "https://open.spotify.com/track/1Yc2Y64xHLpc6tQ1UFphI1"
@@ -8570,7 +8624,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136750,
       "name": "One, Two, Buckle My Shoe",
       "url": "https://open.spotify.com/track/0o0wWE9iN0MoZuGFSXWXI0"
@@ -10449,6 +10503,42 @@
     },
     {
       "album": {
+        "name": "Slumber",
+        "url": "https://open.spotify.com/album/2LVK7mfR8iXERVJjDdwBus"
+      },
+      "artists": [
+        {
+          "name": "Elvira Sola",
+          "url": "https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132231,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/4DYj0rmkXzXhBbqZhIAQ7U"
+    },
+    {
+      "album": {
+        "name": "Small Wonder",
+        "url": "https://open.spotify.com/album/3M7OoJkSye6N9iinwvHVkI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gomez",
+          "url": "https://open.spotify.com/artist/5eoTI470jRYhgOMVOY6vw2"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108325,
+      "name": "Small Wonder",
+      "url": "https://open.spotify.com/track/69yQAhJXdgB754PMU5xCS6"
+    },
+    {
+      "album": {
         "name": "Snart skal du sove",
         "url": "https://open.spotify.com/album/3Gz3JKTXcHNYjopzM5YhKu"
       },
@@ -11454,6 +11544,24 @@
       "duration_ms": 97000,
       "name": "The Blue Danube",
       "url": "https://open.spotify.com/track/3DF3X25T2Uf1nKqXIpRS7j"
+    },
+    {
+      "album": {
+        "name": "The Cat on the Farm",
+        "url": "https://open.spotify.com/album/6qu6Wz4a5ORePRtY1UyCAZ"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105472,
+      "name": "The Cat on the Farm",
+      "url": "https://open.spotify.com/track/0aCvEe5gafrjw5big528z5"
     },
     {
       "album": {

@@ -2091,6 +2091,28 @@
     },
     {
       "album": {
+        "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
+        "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        },
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249864,
+      "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
+      "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
+    },
+    {
+      "album": {
         "name": "Que Vem Do Mar",
         "url": "https://open.spotify.com/album/6aXTdntsgmdS6VLhVumua0"
       },
@@ -2308,7 +2330,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 166600,
       "name": "REGGAE",
       "url": "https://open.spotify.com/track/2z3t3yHawk37QpM9vDYGpR"

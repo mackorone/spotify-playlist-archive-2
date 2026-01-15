@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZk66p51QrCM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZk66p51QrCM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZk66p51QrCM)
+[pretty](/playlists/pretty/37i9dQZF1DWZk66p51QrCM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZk66p51QrCM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZk66p51QrCM)
 
 ### [F1 23 Official Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DWZk66p51QrCM)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain](/playlists/plain/37i9dQZF1DX7FUaCNVd2fs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FUaCNVd2fs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain](/playlists/plain/37i9dQZF1DX7FUaCNVd2fs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7FUaCNVd2fs)
 
 ### [Nap Time](https://open.spotify.com/playlist/37i9dQZF1DX7FUaCNVd2fs)
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,957 likes - 160 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,135 likes - 160 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

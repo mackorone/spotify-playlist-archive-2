@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8tYYl2HSCud.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8tYYl2HSCud) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8tYYl2HSCud)
+[pretty](/playlists/pretty/37i9dQZF1DX8tYYl2HSCud.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8tYYl2HSCud) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8tYYl2HSCud)
 
 ### [Relaxing Baby Music](https://open.spotify.com/playlist/37i9dQZF1DX8tYYl2HSCud)
 

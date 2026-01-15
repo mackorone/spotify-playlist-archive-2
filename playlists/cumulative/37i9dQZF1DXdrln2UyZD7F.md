@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdrln2UyZD7F.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdrln2UyZD7F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdrln2UyZD7F)
+[pretty](/playlists/pretty/37i9dQZF1DXdrln2UyZD7F.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdrln2UyZD7F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdrln2UyZD7F)
 
 ### [La vie est belle](https://open.spotify.com/playlist/37i9dQZF1DXdrln2UyZD7F)
 

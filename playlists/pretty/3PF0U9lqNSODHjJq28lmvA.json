@@ -1,160 +1,116 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2565,
+  "num_followers": 2566,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEcszC3rpmKkqPjO6mdWz0kAbtWydY",
+  "snapshot_id": "AAAEeyMjiMA8AaZl0+cYjs/wXQ0Ha+zz",
   "tracks": [
     {
-      "added_at": "2026-01-02 14:34:53",
+      "added_at": "2026-01-09 13:33:35",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/6P7yEigR39EHWERC19fJWv"
+        "name": "Per Aspera Ad Astra",
+        "url": "https://open.spotify.com/album/2W2zIsdGgYUg0eQeaoN8js"
       },
       "artists": [
         {
-          "name": "Kal-El",
-          "url": "https://open.spotify.com/artist/0p0bJVJ56ozF6Ejhkdymcf"
-        }
-      ],
-      "duration_ms": 356989,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/0FYVWVHYWDFpgXmc96ZjtB"
-    },
-    {
-      "added_at": "2026-01-02 14:34:53",
-      "album": {
-        "name": "A Fast Detour (Through Dogsword City)",
-        "url": "https://open.spotify.com/album/7dI05Uszdy19uUf5PT9wTV"
-      },
-      "artists": [
-        {
-          "name": "DR\u00d6\u00d6G",
-          "url": "https://open.spotify.com/artist/7eRcVh608qJnnIiYzbUYQv"
-        }
-      ],
-      "duration_ms": 274956,
-      "name": "T\u00e5lamod",
-      "url": "https://open.spotify.com/track/3uuKRCOlw3FbDkC7HNjkZD"
-    },
-    {
-      "added_at": "2026-01-02 14:34:53",
-      "album": {
-        "name": "Close to ghosts",
-        "url": "https://open.spotify.com/album/12Z6XT2XRARLMLdZOs1nhg"
-      },
-      "artists": [
-        {
-          "name": "The Loner Collective",
-          "url": "https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO"
-        }
-      ],
-      "duration_ms": 158832,
-      "name": "Close to ghosts",
-      "url": "https://open.spotify.com/track/0MWFt1jeFkUt2CX4v1SNjD"
-    },
-    {
-      "added_at": "2026-01-02 14:34:53",
-      "album": {
-        "name": "You're Not Nice",
-        "url": "https://open.spotify.com/album/5WmbLxXyjG5Z7esbvEU8NN"
-      },
-      "artists": [
-        {
-          "name": "The Loner Collective",
-          "url": "https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO"
-        }
-      ],
-      "duration_ms": 134952,
-      "name": "You're Not Nice",
-      "url": "https://open.spotify.com/track/47JjQ1m8fFZr8IvprOW15h"
-    },
-    {
-      "added_at": "2026-01-02 14:34:53",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/3g47nYfW0yUrjfK0Jt5FCv"
-      },
-      "artists": [
-        {
-          "name": "Gekko",
-          "url": "https://open.spotify.com/artist/3pAlvy9K8p3VChT6y8n0qa"
-        }
-      ],
-      "duration_ms": 253709,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/0lKd4m2zzpkQLnDSeqkKGm"
-    },
-    {
-      "added_at": "2026-01-02 14:34:53",
-      "album": {
-        "name": "Too Deep",
-        "url": "https://open.spotify.com/album/6klnHXDs9q9cdU68wJo6BF"
-      },
-      "artists": [
-        {
-          "name": "Fred Bundy",
-          "url": "https://open.spotify.com/artist/5RB8BedbGhfsXwSXoGzLfJ"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Too Deep",
-      "url": "https://open.spotify.com/track/3YVRwJnYfK4KaKeI8Zr9RJ"
-    },
-    {
-      "added_at": "2026-01-02 14:34:53",
-      "album": {
-        "name": "\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u044f\u044f",
-        "url": "https://open.spotify.com/album/5sTcSsvR71Adq1vpc3GVc7"
-      },
-      "artists": [
-        {
-          "name": "DOMNK",
-          "url": "https://open.spotify.com/artist/4Zu0EWqK5ZRt5vQ6z46DMB"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u044f\u044f",
-      "url": "https://open.spotify.com/track/3rjCoZqOYQVyES5hhojuo8"
-    },
-    {
-      "added_at": "2026-01-02 14:34:53",
-      "album": {
-        "name": "Corrections",
-        "url": "https://open.spotify.com/album/0bGtD2dXYlzKNTXXcXpUB3"
-      },
-      "artists": [
-        {
-          "name": "Hereby Sunday",
-          "url": "https://open.spotify.com/artist/6HzlModpAwyQH3Ouulxcb4"
+          "name": "Enter The Animus",
+          "url": "https://open.spotify.com/artist/6eK3Q6dKMsZdt2rPs6V0o4"
         },
         {
-          "name": "Paul Ledsham",
-          "url": "https://open.spotify.com/artist/62asv5Vu90GTuraco3gayx"
+          "name": "The Anima Effect",
+          "url": "https://open.spotify.com/artist/6ICayNqPXIZuqvJFEK8LMV"
+        },
+        {
+          "name": "Chiasma",
+          "url": "https://open.spotify.com/artist/3JUPiGh995t6SFMmax0Rn6"
         }
       ],
-      "duration_ms": 295464,
-      "name": "Corrections",
-      "url": "https://open.spotify.com/track/1STobMYemaTslRnDRHNoLp"
+      "duration_ms": 262500,
+      "name": "Per Aspera Ad Astra",
+      "url": "https://open.spotify.com/track/7pUVVItL46oPLIdPlXyTlG"
     },
     {
-      "added_at": "2026-01-02 14:34:53",
+      "added_at": "2026-01-09 13:34:04",
       "album": {
-        "name": "If You Wanna Hate Me (Then Go Ahead)",
-        "url": "https://open.spotify.com/album/7B9238mUhymA4oIrl9yNP1"
+        "name": "V Honda",
+        "url": "https://open.spotify.com/album/7KCfoaN5vXp3eLilRXCAvU"
       },
       "artists": [
         {
-          "name": "Stephen Murphy",
-          "url": "https://open.spotify.com/artist/0IGXpRPNet6sqbv0xB4Zwm"
+          "name": "Jumal Velho",
+          "url": "https://open.spotify.com/artist/5HZeWJteVCHn2PLNSIhoAy"
         }
       ],
-      "duration_ms": 174657,
-      "name": "If You Wanna Hate Me (Then Go Ahead)",
-      "url": "https://open.spotify.com/track/20tLitUbDbywXhKvv3c5P9"
+      "duration_ms": 181970,
+      "name": "V Honda",
+      "url": "https://open.spotify.com/track/0BCuTFbk7AoQ4pYwiFBDwx"
+    },
+    {
+      "added_at": "2026-01-09 13:34:29",
+      "album": {
+        "name": "Stand My Ground",
+        "url": "https://open.spotify.com/album/0qh12nwOJec44slnbjD3wR"
+      },
+      "artists": [
+        {
+          "name": "Symphony Of Sweden",
+          "url": "https://open.spotify.com/artist/6AvBsDOrRn8rAdJdj3srdJ"
+        }
+      ],
+      "duration_ms": 171786,
+      "name": "Stand My Ground",
+      "url": "https://open.spotify.com/track/2g15Gnq7ps0l50KzOQAf4b"
+    },
+    {
+      "added_at": "2026-01-09 13:34:54",
+      "album": {
+        "name": "Tres formas de caer de pie",
+        "url": "https://open.spotify.com/album/2BBasp0r19RFhlviCRcbor"
+      },
+      "artists": [
+        {
+          "name": "DanyCelta",
+          "url": "https://open.spotify.com/artist/1snVR75o14kLvuDQl7SxAb"
+        }
+      ],
+      "duration_ms": 178259,
+      "name": "Es tu deseo que me salga mal",
+      "url": "https://open.spotify.com/track/0yfzNOY2QzdtKylXb5wbuy"
+    },
+    {
+      "added_at": "2026-01-09 13:35:19",
+      "album": {
+        "name": "U.N.I.T.Y. Demo",
+        "url": "https://open.spotify.com/album/6EP3n2lbq5114sLZQU3y5B"
+      },
+      "artists": [
+        {
+          "name": "The Big Hurt",
+          "url": "https://open.spotify.com/artist/66koa39z8kBfqOvtHkh4uz"
+        }
+      ],
+      "duration_ms": 118477,
+      "name": "U.N.I.T.Y.",
+      "url": "https://open.spotify.com/track/1XZO7hnM9buSDUbmR3xPZC"
+    },
+    {
+      "added_at": "2026-01-09 13:35:46",
+      "album": {
+        "name": "Selfishly",
+        "url": "https://open.spotify.com/album/16oHdmV1oknYQUnXQ0JJEo"
+      },
+      "artists": [
+        {
+          "name": "Lyric",
+          "url": "https://open.spotify.com/artist/5CwmMqJxraGLXvJydreBIU"
+        }
+      ],
+      "duration_ms": 290922,
+      "name": "What Do You See_",
+      "url": "https://open.spotify.com/track/5riFnAUMFj81nWRXQxbkvI"
     }
   ],
   "unique_name": "Independent Music Friday",

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5fklOIFLGHF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5fklOIFLGHF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5fklOIFLGHF)
+[pretty](/playlists/pretty/37i9dQZF1DX5fklOIFLGHF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5fklOIFLGHF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5fklOIFLGHF)
 
 ### [La Frecuencia](https://open.spotify.com/playlist/37i9dQZF1DX5fklOIFLGHF)
 

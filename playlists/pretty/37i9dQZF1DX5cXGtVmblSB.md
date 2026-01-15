@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain](/playlists/plain/37i9dQZF1DX5cXGtVmblSB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5cXGtVmblSB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain](/playlists/plain/37i9dQZF1DX5cXGtVmblSB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5cXGtVmblSB)
 
 ### [Cat Calming Music](https://open.spotify.com/playlist/37i9dQZF1DX5cXGtVmblSB)
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,982 likes - 207 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,602 likes - 207 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

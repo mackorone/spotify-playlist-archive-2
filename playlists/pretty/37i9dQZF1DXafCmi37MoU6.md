@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCmi37MoU6.md) - [plain](/playlists/plain/37i9dQZF1DXafCmi37MoU6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafCmi37MoU6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCmi37MoU6.md) - [plain](/playlists/plain/37i9dQZF1DXafCmi37MoU6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXafCmi37MoU6)
 
 ### [50 años de Hip\-Hop Mexicano ](https://open.spotify.com/playlist/37i9dQZF1DXafCmi37MoU6)
 
 > El Hip\-Hop Mexicano es único\. Conoce los 50 tracks esenciales de Toy Selectah y Diego Madrigal
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,260 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,441 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

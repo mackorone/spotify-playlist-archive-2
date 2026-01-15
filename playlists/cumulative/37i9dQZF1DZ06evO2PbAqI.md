@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO2PbAqI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2PbAqI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2PbAqI)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO2PbAqI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2PbAqI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO2PbAqI)
 
 ### [This Is Lacuna Coil](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PbAqI)
 

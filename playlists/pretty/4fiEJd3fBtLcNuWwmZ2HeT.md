@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain](/playlists/plain/4fiEJd3fBtLcNuWwmZ2HeT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4fiEJd3fBtLcNuWwmZ2HeT)
+pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain](/playlists/plain/4fiEJd3fBtLcNuWwmZ2HeT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4fiEJd3fBtLcNuWwmZ2HeT)
 
 ### [KristaLenz](https://open.spotify.com/playlist/4fiEJd3fBtLcNuWwmZ2HeT)
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 407 songs - 23 hr 27 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 416 songs - 1 day 0 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -411,9 +411,18 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 401 | [Still, Still, Still\. \- IVUDOT version](https://open.spotify.com/track/2AsMepFqeVigg7Fbp6clXx) | [BOKUTACHI WA YONAYONA](https://open.spotify.com/artist/3k53XmqUT3nfyRSNjM6dtL) | [Still, Still, Still\. \(IVUDOT version\)](https://open.spotify.com/album/1B6SNGzBOdQuNBw8AmTZKV) | 2:18 |
 | 402 | [LoveXposer](https://open.spotify.com/track/21HFzQoAX8BQdJncyeY9R0) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Nostalzia](https://open.spotify.com/album/1rS3kndeYmd17NDCKHW1Pj) | 2:29 |
 | 403 | [夢のあと](https://open.spotify.com/track/7ftpoSSMQCb3ijQUJ8tIfR) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 5:03 |
-| 404 | [밤아.17](https://open.spotify.com/track/2z7QqddTiSejU4ndgMDIGq) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [밤아.17](https://open.spotify.com/album/4aQDERjxfPiZBUFQJAItj9) | 2:35 |
-| 405 | [The Heavy Snow](https://open.spotify.com/track/3uVoQCKWqqayAPfrujRjfR) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 3:14 |
-| 406 | [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 |
-| 407 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 |
+| 404 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 |
+| 405 | [밤아.17](https://open.spotify.com/track/2z7QqddTiSejU4ndgMDIGq) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [밤아.17](https://open.spotify.com/album/4aQDERjxfPiZBUFQJAItj9) | 2:35 |
+| 406 | [The Heavy Snow](https://open.spotify.com/track/3uVoQCKWqqayAPfrujRjfR) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 3:14 |
+| 407 | [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 |
+| 408 | [Maegamist](https://open.spotify.com/track/7fxcBD2rmzdOe88IAH5lkr) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Maegamist](https://open.spotify.com/album/3Lk6IOFCnkZvHNwDPo9rjf) | 3:59 |
+| 409 | [i'm high](https://open.spotify.com/track/4Ff2jbq4IvpGQRjrwbge4t) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [i'm high](https://open.spotify.com/album/0ZgSMm4S6Bsb3xfxpzYl03) | 4:12 |
+| 410 | [White Happy](https://open.spotify.com/track/5XpvrP7gXzvIXprPar1QBO) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [White Happy](https://open.spotify.com/album/6SOFbTseMyGB6Teu7igCUd) | 3:46 |
+| 411 | [Uminaoshi](https://open.spotify.com/track/3QmfIWqIpaceO6S367nFp0) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Uminaoshi](https://open.spotify.com/album/1xIvU9CvBMqTSv8zoLapWi) | 4:07 |
+| 412 | [New Darling](https://open.spotify.com/track/6kYBu05KmbosbgAwGVn5TL) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [New Darling](https://open.spotify.com/album/1iokJXsnh02ILMpripxiUx) | 2:36 |
+| 413 | [Fascinator \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/5lQk0lpMkT5PH0T96Tj8GT) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Fascinator \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/4ORLOmkirYMKP3s6JavIZY) | 3:18 |
+| 414 | [Coin locker Baby](https://open.spotify.com/track/2A8g4brfM2DG9tS2BbcrHM) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:28 |
+| 415 | [Suji](https://open.spotify.com/track/2zehAIFkpZhvz18TA9lex7) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:32 |
+| 416 | [Mind brand](https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:19 |
 
-Snapshot ID: `AAAJkaAWgmZ/8YB4zh4tCLK4FbmJvKXL`
+Snapshot ID: `AAAJoHchwzb+0LeNQy3Z4VP6l1LU38pa`

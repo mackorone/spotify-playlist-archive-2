@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWT7ItcGUvgJi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT7ItcGUvgJi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT7ItcGUvgJi)
+[pretty](/playlists/pretty/37i9dQZF1DWT7ItcGUvgJi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT7ItcGUvgJi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT7ItcGUvgJi)
 
 ### [Tune Up Meets Fresh Finds](https://open.spotify.com/playlist/37i9dQZF1DWT7ItcGUvgJi)
 

@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141473,
       "name": "3 Cheez",
       "url": "https://open.spotify.com/track/40YadhRdEGHNQP4mu0HZ7m"
@@ -1070,6 +1070,32 @@
       "duration_ms": 174190,
       "name": "Aaja Aaja",
       "url": "https://open.spotify.com/track/0feFfEEL7u8C9bLhF2pdu7"
+    },
+    {
+      "album": {
+        "name": "Aalochna",
+        "url": "https://open.spotify.com/album/1XEZsB1O2H4DSURmYKUkfp"
+      },
+      "artists": [
+        {
+          "name": "Sameer Uddin",
+          "url": "https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        },
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204781,
+      "name": "Aalochna",
+      "url": "https://open.spotify.com/track/3I1RtVVygDUhUkFthtziaQ"
     },
     {
       "album": {
@@ -2258,6 +2284,28 @@
       "duration_ms": 142214,
       "name": "At The Afterparty",
       "url": "https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK"
+    },
+    {
+      "album": {
+        "name": "Atal Path",
+        "url": "https://open.spotify.com/album/7JtuSpUHDv3ELPnW6KT0o9"
+      },
+      "artists": [
+        {
+          "name": "R.H.S",
+          "url": "https://open.spotify.com/artist/4cUCmqUsYhUgDpnJIvH1cz"
+        },
+        {
+          "name": "Beshaq",
+          "url": "https://open.spotify.com/artist/7xuQXSUISAxe5LlItoRMiu"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220292,
+      "name": "Atal Path",
+      "url": "https://open.spotify.com/track/3XQpaQnprow7RybXNW5DVB"
     },
     {
       "album": {
@@ -7599,6 +7647,24 @@
     },
     {
       "album": {
+        "name": "Departure Night",
+        "url": "https://open.spotify.com/album/3FWkDIoim7wB0KvOe9Q0qp"
+      },
+      "artists": [
+        {
+          "name": "Manish Manral",
+          "url": "https://open.spotify.com/artist/2vC797VK3xLQ12eObqvemP"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Departure Night",
+      "url": "https://open.spotify.com/track/1iU2GVF3EhZl34WJFRNCx7"
+    },
+    {
+      "album": {
         "name": "Desi Dil",
         "url": "https://open.spotify.com/album/7h7C25MWYTZlCwlKakUkSv"
       },
@@ -8033,6 +8099,54 @@
     },
     {
       "album": {
+        "name": "DIGGING MACHINE",
+        "url": "https://open.spotify.com/album/29U7fiNo678cOMqlqa9YK5"
+      },
+      "artists": [
+        {
+          "name": "Paras",
+          "url": "https://open.spotify.com/artist/26yIT2gEXjPlDDxwTIvMTZ"
+        },
+        {
+          "name": "ASHEEESH",
+          "url": "https://open.spotify.com/artist/3TuEzjgR9wrZyv7hVBTgFv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192543,
+      "name": "DIGGING MACHINE",
+      "url": "https://open.spotify.com/track/3H4EVrErugYoxfwb2FZT1u"
+    },
+    {
+      "album": {
+        "name": "Dikkat",
+        "url": "https://open.spotify.com/album/1BA5qhjpA4ACu4hKe6Mkuv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/0Cjq5VvjxQBhi3bQM6xHrw"
+        },
+        {
+          "name": "Chandraa",
+          "url": "https://open.spotify.com/artist/3LCcesZ7mMxg9ybTX6doU3"
+        },
+        {
+          "name": "Marz",
+          "url": "https://open.spotify.com/artist/5V7bS224vebOH5hCq5nlMB"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Dikkat",
+      "url": "https://open.spotify.com/track/3aGsQNkk2MRhprUwjpIkW6"
+    },
+    {
+      "album": {
         "name": "Bets On The Vision",
         "url": "https://open.spotify.com/album/7AkyT1LjjIicXPzJGo1ZYc"
       },
@@ -8048,7 +8162,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184644,
       "name": "Dikkatein",
       "url": "https://open.spotify.com/track/7chHiK2CzhZkqJaXWywRk2"
@@ -8742,7 +8856,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159428,
       "name": "Dudh Bhaat",
       "url": "https://open.spotify.com/track/5By1hXM6tB11n1Vq9q2Dkc"
@@ -8988,6 +9102,28 @@
       "duration_ms": 196764,
       "name": "Eid",
       "url": "https://open.spotify.com/track/50d1bEpAFw4Ao5wyhc9GgC"
+    },
+    {
+      "album": {
+        "name": "Ek din",
+        "url": "https://open.spotify.com/album/44ZVUb5mMV45hlFTBIq1KI"
+      },
+      "artists": [
+        {
+          "name": "OG Ankit",
+          "url": "https://open.spotify.com/artist/02hWKonY0HdH08w4o5xMni"
+        },
+        {
+          "name": "Storm",
+          "url": "https://open.spotify.com/artist/7ClSTQnjewVRwbf34DN1uZ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Ek din",
+      "url": "https://open.spotify.com/track/6uoNxZvwPdv0bE0BLCwG69"
     },
     {
       "album": {
@@ -10209,6 +10345,28 @@
     },
     {
       "album": {
+        "name": "G Drill",
+        "url": "https://open.spotify.com/album/7A68gm6PYjFPsZLByTVvJt"
+      },
+      "artists": [
+        {
+          "name": "Ajitesh",
+          "url": "https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3"
+        },
+        {
+          "name": "Lash curry",
+          "url": "https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225205,
+      "name": "G Drill",
+      "url": "https://open.spotify.com/track/0CLpP69JaR2imrO6mZDbrn"
+    },
+    {
+      "album": {
         "name": "Ek Tha Raja",
         "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
       },
@@ -10662,7 +10820,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171800,
       "name": "Ghulaam",
       "url": "https://open.spotify.com/track/0mrhp3a94dDpVR5cTjboEV"
@@ -12209,6 +12367,28 @@
     },
     {
       "album": {
+        "name": "Hukumat",
+        "url": "https://open.spotify.com/album/0v6xe8A7c5NdVkmuxHSEiw"
+      },
+      "artists": [
+        {
+          "name": "Bigdi Santaan",
+          "url": "https://open.spotify.com/artist/2O1R57czRMZye27NTlYeqU"
+        },
+        {
+          "name": "Basslila",
+          "url": "https://open.spotify.com/artist/2acoEMTH1xHtbSasSIYPfC"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Hukumat",
+      "url": "https://open.spotify.com/track/4AYrQBKwrvlYSxGvb9ekWc"
+    },
+    {
+      "album": {
         "name": "Humble Poet 2.0",
         "url": "https://open.spotify.com/album/79mK0vAStt7AXaAJ879O47"
       },
@@ -12988,6 +13168,28 @@
       "duration_ms": 225000,
       "name": "Itachi & Madara",
       "url": "https://open.spotify.com/track/5vN4OfBFvIV8xpLwY2z8DQ"
+    },
+    {
+      "album": {
+        "name": "Jaam",
+        "url": "https://open.spotify.com/album/5mX8xuhPdGMOsTgPKlTYEz"
+      },
+      "artists": [
+        {
+          "name": "KARYAWAAHI",
+          "url": "https://open.spotify.com/artist/0jCViUzxha1IPd2ckwJKLs"
+        },
+        {
+          "name": "Insane Muzik",
+          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Jaam",
+      "url": "https://open.spotify.com/track/5ZRTdRcYoEOdjTsGEDnhtN"
     },
     {
       "album": {
@@ -19476,7 +19678,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 223783,
       "name": "Not Found",
       "url": "https://open.spotify.com/track/21ji4L4MyxEM9tAss3trJV"
@@ -19944,7 +20146,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160182,
       "name": "PABLO",
       "url": "https://open.spotify.com/track/0dnN6WZEz7oIR0ZXbsvMMn"
@@ -22906,7 +23108,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173233,
       "name": "shifa",
       "url": "https://open.spotify.com/track/78cuCsuwWX8jd8YgPpHyK0"
@@ -24994,7 +25196,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190128,
       "name": "The Last Message",
       "url": "https://open.spotify.com/track/6drJ0byKiguyUg8UEwIZUu"
@@ -27504,7 +27706,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211783,
       "name": "You & I",
       "url": "https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF"

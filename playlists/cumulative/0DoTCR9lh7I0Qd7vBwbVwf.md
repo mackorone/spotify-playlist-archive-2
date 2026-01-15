@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0DoTCR9lh7I0Qd7vBwbVwf.md) - cumulative - [plain](/playlists/plain/0DoTCR9lh7I0Qd7vBwbVwf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0DoTCR9lh7I0Qd7vBwbVwf)
+[pretty](/playlists/pretty/0DoTCR9lh7I0Qd7vBwbVwf.md) - cumulative - [plain](/playlists/plain/0DoTCR9lh7I0Qd7vBwbVwf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0DoTCR9lh7I0Qd7vBwbVwf)
 
 ### [FOCUS MUSIC 🎧☁️✨ music for deep focus, deep work, study concentration music](https://open.spotify.com/playlist/0DoTCR9lh7I0Qd7vBwbVwf)
 

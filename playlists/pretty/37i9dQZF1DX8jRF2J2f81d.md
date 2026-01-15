@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain](/playlists/plain/37i9dQZF1DX8jRF2J2f81d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8jRF2J2f81d)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain](/playlists/plain/37i9dQZF1DX8jRF2J2f81d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8jRF2J2f81d)
 
 ### [Students' Union](https://open.spotify.com/playlist/37i9dQZF1DX8jRF2J2f81d)
 
 > The playlist for students, by students\. Powered by Student Music Network and URN at University of Nottingham ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,084 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,090 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYQEbc2LcIWO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYQEbc2LcIWO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYQEbc2LcIWO)
+[pretty](/playlists/pretty/37i9dQZF1DWYQEbc2LcIWO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYQEbc2LcIWO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYQEbc2LcIWO)
 
 ### [Dinner Unplugged](https://open.spotify.com/playlist/37i9dQZF1DWYQEbc2LcIWO)
 

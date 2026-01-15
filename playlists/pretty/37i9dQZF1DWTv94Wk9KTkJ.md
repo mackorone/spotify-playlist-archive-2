@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain](/playlists/plain/37i9dQZF1DWTv94Wk9KTkJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTv94Wk9KTkJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain](/playlists/plain/37i9dQZF1DWTv94Wk9KTkJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTv94Wk9KTkJ)
 
 ### [Jungle Classics](https://open.spotify.com/playlist/37i9dQZF1DWTv94Wk9KTkJ)
 
 > The sound of 90s Jungle rave\. Cover: Roni Size
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,361 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,629 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

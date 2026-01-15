@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYFFegQlq0Hb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYFFegQlq0Hb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYFFegQlq0Hb)
+[pretty](/playlists/pretty/37i9dQZF1DWYFFegQlq0Hb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYFFegQlq0Hb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYFFegQlq0Hb)
 
 ### [Jujutsu Kaisen](https://open.spotify.com/playlist/37i9dQZF1DWYFFegQlq0Hb)
 
-> Enjoy music and podcast from Jujutsu Kaisen!
+> Enjoy music and podcast from Jujutsu Kaisen! ©芥見下々／集英社・呪術廻戦製作委員会
 
-251 songs - 1 day 0 hr 23 min
+254 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Mission](https://open.spotify.com/track/6Tb4mvqh06Pkzsa5hyrrQ0) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [『劇場版 呪術廻戦 0』オリジナル・サウンドトラック](https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso) | 1:35 | 2022-03-07 |  |
 | [About Maki](https://open.spotify.com/track/084etVzDRwzU1ySEqFibC3) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『劇場版 呪術廻戦 0』オリジナル・サウンドトラック](https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso) | 1:46 | 2022-03-07 |  |
 | [About Maki](https://open.spotify.com/track/4DhULE7wOhAjRuv4uJZK3C) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [JUJUTSU KAISEN 0 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU) | 1:46 | 2022-03-07 | 2024-04-19 |
+| [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-01-15 |  |
 | [Arrogance](https://open.spotify.com/track/5kVaz8nPPGazclZHMESeLv) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:21 | 2023-08-04 | 2024-04-19 |
 | [Arrogance](https://open.spotify.com/track/630pBH3SoKjjGgkEK9q4Qw) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [「呪術廻戦 懐玉・玉折」オリジナル・サウンドトラック](https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20) | 2:21 | 2023-08-04 |  |
 | [Attack By Storm](https://open.spotify.com/track/58X6OSh6sgLEiOUaG7TY3n) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [「呪術廻戦 懐玉・玉折」オリジナル・サウンドトラック](https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20) | 1:43 | 2023-08-04 |  |
@@ -177,6 +178,8 @@
 | [Your Battle is My Battle](https://open.spotify.com/track/4iFuZNzjqsn5oShyqezq6q) | [Chica](https://open.spotify.com/artist/7vjO0NvBdNmLrE1sljP7VQ) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 | 2022-03-07 |  |
 | [Your Battle Is My Battle](https://open.spotify.com/track/1tsJoCqWvSQWR0HEgj0RFS) | [Chica](https://open.spotify.com/artist/7vjO0NvBdNmLrE1sljP7VQ), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 4:03 | 2022-03-07 | 2024-04-19 |
 | [【Anime Japan 2021 特別版】 ゲスト瀬戸麻沙美さん「初めての公開収録です！！」](https://open.spotify.com/episode/6MPWg3nJcj8vnPugPiOgn1) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 29:48 | 2022-03-07 | 2023-01-20 |
+| [【じゅじゅとーくサンキ】第 1 回：乙骨憂太役 緒方恵美さん＆脹相役 浪川大輔さん 「殺しに行きます」＆「お兄ちゃんを遂行してるだけなの」編](https://open.spotify.com/episode/1G3SHH35lpHYW2HwFt5Ssm) | [呪術廻戦 じゅじゅとーく サンキ](https://open.spotify.com/show/1OApR2wyRtWRAydfmg3Vto) | [呪術廻戦 じゅじゅとーく サンキ](https://open.spotify.com/album/1OApR2wyRtWRAydfmg3Vto) | 28:26 | 2026-01-15 |  |
+| [よあけのうた \- Yoake no uta](https://open.spotify.com/track/5EiVeDviICNBtdhZwGxp0Z) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [よあけのうた \- Yoake no uta \- JUJUTSU KAISEN The Culling Game part1 Ending Theme Song](https://open.spotify.com/album/58vU4Ix3CBflsbWDI9HpaZ) | 3:19 | 2026-01-15 |  |
 | [アヴァン](https://open.spotify.com/track/6BxPsHJtz8jTEDARrYUSnv) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [アヴァン](https://open.spotify.com/album/4vfjzp5dho1PqElZc3LaIC) | 3:26 | 2022-03-07 |  |
 | [フィジカルギフテッド](https://open.spotify.com/track/4q2wQpH2lxOHagFMvIz4nF) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [「呪術廻戦 懐玉・玉折」オリジナル・サウンドトラック](https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20) | 2:15 | 2023-08-04 |  |
 | [一緒なら](https://open.spotify.com/track/6RLo80Ds4FriePBrxmacsh) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [「呪術廻戦 懐玉・玉折」オリジナル・サウンドトラック](https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20) | 2:26 | 2023-08-04 |  |
@@ -234,8 +237,8 @@
 | [第22回 釘崎野薔薇役の瀬戸麻沙美さんと新田明役の徳井青空さん「私、バリオタクですね」編](https://open.spotify.com/episode/631GfmTsHdcANZbjyWSpEu) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 37:05 | 2022-08-29 | 2023-01-20 |
 | [第23回 血塗役 山口勝平さん&壊相役 檜山修之さん「そのセリフ、ちょっと寄ってます」編](https://open.spotify.com/episode/7GPDeMrFYAK9StHNP56JMM) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 36:51 | 2022-09-04 | 2023-01-20 |
 | [第24回 伏黒恵役 内田雄馬さん&釘崎野薔薇役 瀬戸麻沙美さん「俺たちの戦いは、これからだ！」編](https://open.spotify.com/episode/6tUi3lSzT36JCj7ZH4wCBQ) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 35:49 | 2022-09-12 | 2023-01-20 |
-| [第24回　乙骨憂太役 緒方恵美さん「がんばってください主人公！」編](https://open.spotify.com/episode/6VxizkeJH49oz3RP1mtxBs) | [呪術廻戦 じゅじゅとーく ニキ](https://open.spotify.com/show/1OApR2wyRtWRAydfmg3Vto) | [呪術廻戦 じゅじゅとーく ニキ](https://open.spotify.com/album/1OApR2wyRtWRAydfmg3Vto) | 38:46 | 2024-01-23 |  |
-| [第25回　夏油 傑役 櫻井孝宏さん「口当たり甘いんだけど、苦い」編](https://open.spotify.com/episode/4KGhU1tAivdn0NgwnDLHlX) | [呪術廻戦 じゅじゅとーく ニキ](https://open.spotify.com/show/1OApR2wyRtWRAydfmg3Vto) | [呪術廻戦 じゅじゅとーく ニキ](https://open.spotify.com/album/1OApR2wyRtWRAydfmg3Vto) | 36:45 | 2024-01-25 |  |
+| [第24回　乙骨憂太役 緒方恵美さん「がんばってください主人公！」編](https://open.spotify.com/episode/6VxizkeJH49oz3RP1mtxBs) | [呪術廻戦 じゅじゅとーく ニキ](https://open.spotify.com/show/1OApR2wyRtWRAydfmg3Vto) | [呪術廻戦 じゅじゅとーく ニキ](https://open.spotify.com/album/1OApR2wyRtWRAydfmg3Vto) | 38:46 | 2024-01-23 | 2026-01-15 |
+| [第25回　夏油 傑役 櫻井孝宏さん「口当たり甘いんだけど、苦い」編](https://open.spotify.com/episode/4KGhU1tAivdn0NgwnDLHlX) | [呪術廻戦 じゅじゅとーく ニキ](https://open.spotify.com/show/1OApR2wyRtWRAydfmg3Vto) | [呪術廻戦 じゅじゅとーく ニキ](https://open.spotify.com/album/1OApR2wyRtWRAydfmg3Vto) | 36:45 | 2024-01-25 | 2026-01-15 |
 | [第2回 虎杖＆五条 編 「悠仁は適当に相槌打ってるだけで大丈夫だから」](https://open.spotify.com/episode/6eQbKTHYICz765rdsWRN28) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 28:23 | 2022-03-07 | 2023-01-20 |
 | [第3回 虎杖＆五条 編 「やるでしょ、サプライズ」](https://open.spotify.com/episode/4JpP0Iq0BW8Ee2tT1x1kNg) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 29:32 | 2022-03-07 | 2023-01-20 |
 | [第4回 虎杖＆釘崎 編 「ねえ、虎杖見て見て！」](https://open.spotify.com/episode/3oIwYSB613GZvSbUPy6gvk) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | [呪術廻戦 じゅじゅとーく ＋ オーディオコメンタリー](https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS) | 35:55 | 2022-03-07 | 2023-01-20 |

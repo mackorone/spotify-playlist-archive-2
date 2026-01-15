@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6DLB6M8zkNk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6DLB6M8zkNk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6DLB6M8zkNk)
+[pretty](/playlists/pretty/37i9dQZF1DX6DLB6M8zkNk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6DLB6M8zkNk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6DLB6M8zkNk)
 
 ### [hopeless romantic](https://open.spotify.com/playlist/37i9dQZF1DX6DLB6M8zkNk)
 

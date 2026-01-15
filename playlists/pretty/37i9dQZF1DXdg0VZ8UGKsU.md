@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain](/playlists/plain/37i9dQZF1DXdg0VZ8UGKsU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdg0VZ8UGKsU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain](/playlists/plain/37i9dQZF1DXdg0VZ8UGKsU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdg0VZ8UGKsU)
 
 ### [80s Ballads](https://open.spotify.com/playlist/37i9dQZF1DXdg0VZ8UGKsU)
 

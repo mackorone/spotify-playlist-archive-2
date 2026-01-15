@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdz2Y81ous2K.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdz2Y81ous2K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdz2Y81ous2K)
+[pretty](/playlists/pretty/37i9dQZF1DXdz2Y81ous2K.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdz2Y81ous2K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdz2Y81ous2K)
 
 ### [Crunchyroll's Curated By: Mori Calliope](https://open.spotify.com/playlist/37i9dQZF1DXdz2Y81ous2K)
 

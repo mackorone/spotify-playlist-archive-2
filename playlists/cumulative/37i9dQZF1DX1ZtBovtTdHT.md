@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1ZtBovtTdHT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ZtBovtTdHT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ZtBovtTdHT)
+[pretty](/playlists/pretty/37i9dQZF1DX1ZtBovtTdHT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ZtBovtTdHT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1ZtBovtTdHT)
 
 ### [Dreamy Dance Classics](https://open.spotify.com/playlist/37i9dQZF1DX1ZtBovtTdHT)
 

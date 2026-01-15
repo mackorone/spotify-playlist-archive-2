@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain](/playlists/plain/6yU1l4H28UbyNjgTX1ozHv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6yU1l4H28UbyNjgTX1ozHv)
+pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain](/playlists/plain/6yU1l4H28UbyNjgTX1ozHv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6yU1l4H28UbyNjgTX1ozHv)
 
 ### [Acoustic Driving Songs](https://open.spotify.com/playlist/6yU1l4H28UbyNjgTX1ozHv)
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,852 likes - 150 songs - 8 hr 0 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,845 likes - 150 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 6 | [Glory of Love](https://open.spotify.com/track/2iPOVHVwpJolLjh3VZKRoi) | [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Glory of Love](https://open.spotify.com/album/00t4GVWQGiaxPGhQW67MVY) | 3:55 |
 | 7 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 |
 | 8 | [Is This Love \- Acoustic](https://open.spotify.com/track/4JGlFaRIOBZ9j2DQaDXmVw) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4q1wY0maG1DpmxLFsBU3Cs) | 2:51 |
-| 9 | [\(What A\) Wonderful World](https://open.spotify.com/track/31BXTi89mPf9fjEMBwAL1D) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [\(What A\) Wonderful World](https://open.spotify.com/album/6ESbD3K4x9KmMY98fuO5bw) | 2:42 |
+| 9 | [These Words](https://open.spotify.com/track/1f9bAxVpNIRTmyhlSeOOMz) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [These Words](https://open.spotify.com/album/5rsURGB1QTPnwCrrwRU3B8) | 2:49 |
 | 10 | [My Girl \- Acoustic](https://open.spotify.com/track/529g1MsXGKd0vw7YtG4igP) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [My Girl \(Acoustic\)](https://open.spotify.com/album/5OuYjVW8PepEzH5qzz7xMt) | 2:28 |
 | 11 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 |
 | 12 | [With a Little Help from My Friends \- Acoustic](https://open.spotify.com/track/1AZCVMOIw5SNah2RvXpBHm) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr), [Amba Tremain](https://open.spotify.com/artist/1FRQT3P88o4JVDPbqm4nBd) | [With a Little Help from My Friends \(Acoustic\)](https://open.spotify.com/album/34UXdWmWwbiiKiWPSm9DbG) | 2:50 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 149 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 150 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAGA5xcg9NF8k/5cIQgETbtt7yEotKK`
+Snapshot ID: `AAAGBQSbbumFL5hdXsPRN/nmYGdk3d61`

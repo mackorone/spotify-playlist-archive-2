@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain](/playlists/plain/37i9dQZF1DXcDZD15lRfNn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcDZD15lRfNn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain](/playlists/plain/37i9dQZF1DXcDZD15lRfNn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcDZD15lRfNn)
 
 ### [Sugarman \(투유 프로젝트 슈가맨\)](https://open.spotify.com/playlist/37i9dQZF1DXcDZD15lRfNn)
 

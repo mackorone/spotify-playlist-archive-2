@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/64UxLey0FHAua3Y5XEHUBy.md) - cumulative - [plain](/playlists/plain/64UxLey0FHAua3Y5XEHUBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/64UxLey0FHAua3Y5XEHUBy)
+[pretty](/playlists/pretty/64UxLey0FHAua3Y5XEHUBy.md) - cumulative - [plain](/playlists/plain/64UxLey0FHAua3Y5XEHUBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/64UxLey0FHAua3Y5XEHUBy)
 
 ### [Bath Songs to Relax 🛀](https://open.spotify.com/playlist/64UxLey0FHAua3Y5XEHUBy)
 

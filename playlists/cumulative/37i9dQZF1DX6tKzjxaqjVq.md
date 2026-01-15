@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6tKzjxaqjVq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6tKzjxaqjVq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6tKzjxaqjVq)
+[pretty](/playlists/pretty/37i9dQZF1DX6tKzjxaqjVq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6tKzjxaqjVq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6tKzjxaqjVq)
 
 ### [Shangri\-La Frontier](https://open.spotify.com/playlist/37i9dQZF1DX6tKzjxaqjVq)
 

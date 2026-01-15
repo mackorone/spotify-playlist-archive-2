@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2JKi7oFC6Jv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2JKi7oFC6Jv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2JKi7oFC6Jv)
+[pretty](/playlists/pretty/37i9dQZF1DX2JKi7oFC6Jv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2JKi7oFC6Jv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2JKi7oFC6Jv)
 
 ### [UK Funky](https://open.spotify.com/playlist/37i9dQZF1DX2JKi7oFC6Jv)
 

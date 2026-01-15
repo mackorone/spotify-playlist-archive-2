@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00QnRFT3a0O.md) - [plain](/playlists/plain/37i9dQZF1DX00QnRFT3a0O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX00QnRFT3a0O)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00QnRFT3a0O.md) - [plain](/playlists/plain/37i9dQZF1DX00QnRFT3a0O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX00QnRFT3a0O)
 
 ### [2017 Dove Award Winners](https://open.spotify.com/playlist/37i9dQZF1DX00QnRFT3a0O)
 

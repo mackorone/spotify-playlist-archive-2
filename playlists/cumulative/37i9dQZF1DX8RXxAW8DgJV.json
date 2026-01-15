@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Come on Girls, it's Time to get Ready and Glow!\nCover : Rashi Khanna",
+  "description": "Come on Girls, it's Time to get Ready and Glow!\nCover : Pooja Hegde",
   "name": "#GRWM Tamil",
   "tracks": [
     {
@@ -364,7 +364,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 242628,
       "name": "Bae",
       "url": "https://open.spotify.com/track/4n7h0fD56BijrFnxNJ2ifV"
@@ -1679,6 +1679,36 @@
     },
     {
       "album": {
+        "name": "Monica (From \"Coolie\") (Tamil)",
+        "url": "https://open.spotify.com/album/0JVeWlWdj13Q8PdEFmsjqX"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217627,
+      "name": "Monica (From \"Coolie\") (Tamil)",
+      "url": "https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv"
+    },
+    {
+      "album": {
         "name": "Silunu Oru Kadhal",
         "url": "https://open.spotify.com/album/2V66QirokxORBvsvLCkX75"
       },
@@ -2404,6 +2434,36 @@
       "duration_ms": 287080,
       "name": "Ranjithame (From \"Varisu\")",
       "url": "https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt"
+    },
+    {
+      "album": {
+        "name": "Parasakthi (Tamil)",
+        "url": "https://open.spotify.com/album/34zVDfiL3w19tZh7E9FXGB"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sivakarthikeyan",
+          "url": "https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr"
+        },
+        {
+          "name": "Sreeleela",
+          "url": "https://open.spotify.com/artist/61W6fd3IV7LDXXzwoqg0DP"
+        },
+        {
+          "name": "Jayashree Mathimaran",
+          "url": "https://open.spotify.com/artist/56Ue6IaoBnRqwydcUtQ4Mu"
+        }
+      ],
+      "date_added": "2026-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279272,
+      "name": "Ratnamala",
+      "url": "https://open.spotify.com/track/3119vPmRByxW1WfbZfU5GI"
     },
     {
       "album": {
@@ -3488,7 +3548,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 304000,
       "name": "Veyyon Silli (From \"Soorarai Pottru\")",
       "url": "https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz"

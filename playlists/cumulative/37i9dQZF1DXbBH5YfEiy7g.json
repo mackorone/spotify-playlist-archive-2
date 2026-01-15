@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-11",
-  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: Sneziey",
+  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: Dumi Mkokstad",
   "name": "South African Gospel",
   "tracks": [
     {
@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "All My Days (LIVE AT STATE THEATRE PRETORIA)",
+        "url": "https://open.spotify.com/album/2gkKRsQybdC1fqPesG8XHq"
+      },
+      "artists": [
+        {
+          "name": "Busi Sibiya",
+          "url": "https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451868,
+      "name": "All My Days - LIVE AT STATE THEATRE PRETORIA",
+      "url": "https://open.spotify.com/track/0x8MglZZoD6sdb6jeonMOf"
+    },
+    {
+      "album": {
         "name": "Alwaze Medley (Live)",
         "url": "https://open.spotify.com/album/5pdQ80OEokSSKDrxpPKSyJ"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 468218,
       "name": "Alwaze Medley - Live",
       "url": "https://open.spotify.com/track/7eM0OA1BeAynU1FjeaEt9A"
@@ -3020,6 +3038,24 @@
       "duration_ms": 282440,
       "name": "Sewakhile",
       "url": "https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT"
+    },
+    {
+      "album": {
+        "name": "Sibabaza Wena (Live)",
+        "url": "https://open.spotify.com/album/7BRlHjC2LtftVfcHzKoQ7u"
+      },
+      "artists": [
+        {
+          "name": "Ndlunkulu Nosange",
+          "url": "https://open.spotify.com/artist/2kvJWE7kiQfNXt4RgNuNmN"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570636,
+      "name": "Sibabaza Wena - Live",
+      "url": "https://open.spotify.com/track/3bkA62gLfrNauwMFMhaoGx"
     },
     {
       "album": {

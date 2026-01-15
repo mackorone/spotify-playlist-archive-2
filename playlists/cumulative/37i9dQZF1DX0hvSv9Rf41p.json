@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with GRiZ",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Virtual Riot",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -382,6 +382,28 @@
       "duration_ms": 111760,
       "name": "ACID WASH",
       "url": "https://open.spotify.com/track/0Cgj7nzSBDrSDgHCTJWaPK"
+    },
+    {
+      "album": {
+        "name": "Act Up",
+        "url": "https://open.spotify.com/album/3lsmJ31VSzJ5tJ1qU42SaJ"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "Bass Ventura",
+          "url": "https://open.spotify.com/artist/3IrnsrWAiZZpf4yAJhpIjj"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/1w4QnSXYTNNFtnV2NWPVrX"
     },
     {
       "album": {
@@ -2872,7 +2894,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 212308,
       "name": "Bark Mode",
       "url": "https://open.spotify.com/track/276gvZTtMj6NvWyT1KPtJW"
@@ -4084,7 +4106,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180800,
       "name": "Bonebreaker",
       "url": "https://open.spotify.com/track/5FQ5Ijl6HQsJYD6QaZseFo"
@@ -4610,7 +4632,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 222814,
       "name": "Bring The House Down",
       "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
@@ -5152,6 +5174,28 @@
       "duration_ms": 152015,
       "name": "CALYPSO",
       "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
+    },
+    {
+      "album": {
+        "name": "CALYPSO VIP",
+        "url": "https://open.spotify.com/album/2zVIdJj47fsbsAXe7yiMNf"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164005,
+      "name": "CALYPSO VIP",
+      "url": "https://open.spotify.com/track/17Yc506DrPVDJwgW1Dogp7"
     },
     {
       "album": {
@@ -7530,7 +7574,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157125,
       "name": "Deep In The Underground",
       "url": "https://open.spotify.com/track/0IvVCubKR3KqQ1EBX5Qx3t"
@@ -9532,7 +9576,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205241,
       "name": "Elements",
       "url": "https://open.spotify.com/track/6tGvaNeBmm1hQX330C9tfA"
@@ -9770,7 +9814,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 212671,
       "name": "Energy",
       "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
@@ -12196,7 +12240,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196363,
       "name": "Friends (feat. Linney)",
       "url": "https://open.spotify.com/track/1EwVDjVhYD5ynVOYLNU65g"
@@ -13846,7 +13890,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154285,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2X6eWOiT8dKSeDqWSma45S"
@@ -17064,7 +17108,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 90000,
       "name": "KEEP IT COOL",
       "url": "https://open.spotify.com/track/3aJYTbibvHA4DSQ5Zk0S6v"
@@ -23218,7 +23262,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 215586,
       "name": "Palm Of Your Hand",
       "url": "https://open.spotify.com/track/3mu8f4BXjYVvJNqIOeGqWp"
@@ -23926,7 +23970,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 152147,
       "name": "PONDA",
       "url": "https://open.spotify.com/track/2MAVzueQH0kZZm331wHwjD"
@@ -25528,6 +25572,24 @@
       "duration_ms": 188095,
       "name": "Reptiles",
       "url": "https://open.spotify.com/track/2JDdSaNvQrlEucMA0KOonb"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/2We2z1nLbTSsgJP33xBu61"
+      },
+      "artists": [
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205655,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/1gUeiWDD0SWBFVM0mkvsLJ"
     },
     {
       "album": {
@@ -27147,6 +27209,24 @@
     },
     {
       "album": {
+        "name": "Sh*t's On F*re",
+        "url": "https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Sh*t's On F*re",
+      "url": "https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP"
+    },
+    {
+      "album": {
         "name": "Shadow (feat. Calivania)",
         "url": "https://open.spotify.com/album/3dA7AcTrAWTcaKSUS3r75L"
       },
@@ -28737,6 +28817,28 @@
     },
     {
       "album": {
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
+    },
+    {
+      "album": {
         "name": "Spirit Showdown",
         "url": "https://open.spotify.com/album/0TyETORpxRBLifisOAJkvs"
       },
@@ -29206,7 +29308,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210000,
       "name": "Step 2 It",
       "url": "https://open.spotify.com/track/6uRe0wVj0a53HoWs3KGnb7"
@@ -30392,7 +30494,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 146122,
       "name": "TAKEOVER",
       "url": "https://open.spotify.com/track/0kPgP8ZzA4vifLskKkHFQn"
@@ -31814,7 +31916,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211200,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/62yoC1CtvCigAoLgybU2ub"
@@ -32794,7 +32896,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180009,
       "name": "UNTOUCHABLE",
       "url": "https://open.spotify.com/track/6xSGguEknMByMWrU160kux"

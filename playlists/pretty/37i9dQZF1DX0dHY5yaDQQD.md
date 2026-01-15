@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain](/playlists/plain/37i9dQZF1DX0dHY5yaDQQD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0dHY5yaDQQD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain](/playlists/plain/37i9dQZF1DX0dHY5yaDQQD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0dHY5yaDQQD)
 
 ### [DECONSTRUCTED CLUB](https://open.spotify.com/playlist/37i9dQZF1DX0dHY5yaDQQD)
 

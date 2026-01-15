@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0cYvrVMHxrj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0cYvrVMHxrj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0cYvrVMHxrj)
+[pretty](/playlists/pretty/37i9dQZF1DX0cYvrVMHxrj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0cYvrVMHxrj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0cYvrVMHxrj)
 
 ### [Casa Spotify: Los Artistas Recomiendan](https://open.spotify.com/playlist/37i9dQZF1DX0cYvrVMHxrj)
 

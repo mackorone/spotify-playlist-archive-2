@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYVURwQHUqnN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYVURwQHUqnN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYVURwQHUqnN)
+[pretty](/playlists/pretty/37i9dQZF1DWYVURwQHUqnN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYVURwQHUqnN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYVURwQHUqnN)
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Meryl
+> Photo : KeBlack x Franglish
 
-438 songs - 20 hr 30 min
+439 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Bora](https://open.spotify.com/track/4ImIVsQQOIbMFI1d6ZGD6q) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [Bora](https://open.spotify.com/album/47SP5GlzOBGG0JJNMMHycz) | 2:15 | 2025-08-07 | 2025-08-29 |
 | [Bottega](https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Bottega](https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt) | 2:59 | 2025-05-01 | 2025-11-07 |
 | [BOULOT \(feat\. Genezio\)](https://open.spotify.com/track/7ECLmXM6vT1ApkoJOkDaRZ) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [SEREIN](https://open.spotify.com/album/2SwRAyssqlAy8XwaOKbKWQ) | 3:08 | 2024-02-08 | 2024-04-26 |
-| [BOUTEILLE](https://open.spotify.com/track/0rCgTWCWqYRAeOuMVhTE0B) | [BSF](https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon) | [BOUTEILLE](https://open.spotify.com/album/3Ia2tJEjEPJ8bZ5oSMmSTi) | 2:24 | 2025-12-11 |  |
+| [BOUTEILLE](https://open.spotify.com/track/0rCgTWCWqYRAeOuMVhTE0B) | [BSF](https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon) | [BOUTEILLE](https://open.spotify.com/album/3Ia2tJEjEPJ8bZ5oSMmSTi) | 2:24 | 2025-12-11 | 2026-01-15 |
 | [Brouillon](https://open.spotify.com/track/1lVzaJNhWQMBnXAUrTvT9C) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [Brouillon](https://open.spotify.com/album/2OjA1yRXhycemPWXstBWQs) | 2:14 | 2025-07-17 | 2025-08-29 |
 | [Brouncha](https://open.spotify.com/track/7eKCe1BJJneUcu2y0skZV4) | [Graya](https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Brouncha](https://open.spotify.com/album/5grIMR7xl9JBPvcHKruHLF) | 2:52 | 2025-10-16 |  |
 | [Brrr](https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Brrr](https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s) | 2:10 | 2025-01-09 | 2025-01-29 |
@@ -336,6 +336,7 @@
 | [Qué Miras Bobo](https://open.spotify.com/track/69V8EffxZePjssPL4h7x87) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Qué Miras Bobo](https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6) | 2:30 | 2025-02-06 | 2025-04-25 |
 | [RAP CONSCIENT](https://open.spotify.com/track/2Hj3OjF1QTf8uqHb5C7ArK) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [RAP CONSCIENT](https://open.spotify.com/album/3AIpkvssKn09gqJpEPXdDG) | 2:16 | 2024-06-27 | 2024-07-19 |
 | [RATATA](https://open.spotify.com/track/4tGZCW0Ik3wASPyZXVjZQo) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [RATATA](https://open.spotify.com/album/22dlDdmFV7p4UaFso2PhHo) | 3:04 | 2025-11-13 |  |
+| [Red flag](https://open.spotify.com/track/5nscdqclMch8bJcofelBXl) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Red flag](https://open.spotify.com/album/1DSxsF4IyMBelq0IXloBas) | 2:40 | 2026-01-08 |  |
 | [Remontada \(feat\. Leto\)](https://open.spotify.com/track/1uLESz9GPo9f3kKyf9Us8M) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Art de rue](https://open.spotify.com/artist/1b27lFoOmpecfaxZGgprtA), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Remontada \(feat\. Leto\)](https://open.spotify.com/album/3G83RKl9LzD6JEfzBhzCU2) | 2:43 | 2024-06-20 | 2024-07-27 |
 | [Reste Trankil](https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reste Trankil](https://open.spotify.com/album/3oAjyQtWWMRyZ5SM6mWKzm) | 3:19 | 2023-10-12 | 2024-04-05 |
 | [Rihanna](https://open.spotify.com/track/49w3f0FJLmHw0YSzAevGkT) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Dans Ma Bulle](https://open.spotify.com/album/0HHSgD1xD3dhOkYwZwtRRc) | 2:57 | 2025-12-18 |  |

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UKb6auC53b.md) - [plain](/playlists/plain/37i9dQZF1DX9UKb6auC53b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9UKb6auC53b)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UKb6auC53b.md) - [plain](/playlists/plain/37i9dQZF1DX9UKb6auC53b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9UKb6auC53b)
 
 ### [DAN DA DAN](https://open.spotify.com/playlist/37i9dQZF1DX9UKb6auC53b)
 
 > Music from "DAN DA DAN"! ©龍幸伸／集英社・ダンダダン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,630 likes - 38 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,015 likes - 38 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

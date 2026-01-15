@@ -349,6 +349,28 @@
     },
     {
       "album": {
+        "name": "DESTIERRO",
+        "url": "https://open.spotify.com/album/4XxZN2WxnZuYXKjGn45vFZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157174,
+      "name": "Bruce Wayne (Bonus Track)",
+      "url": "https://open.spotify.com/track/3Zs1ONKrZhhW4v3nqQEzXW"
+    },
+    {
+      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy"
       },

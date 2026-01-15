@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZxJ6a8rr2bu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZxJ6a8rr2bu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZxJ6a8rr2bu)
+[pretty](/playlists/pretty/37i9dQZF1DWZxJ6a8rr2bu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZxJ6a8rr2bu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZxJ6a8rr2bu)
 
 ### [Shatter the Glass](https://open.spotify.com/playlist/37i9dQZF1DWZxJ6a8rr2bu)
 

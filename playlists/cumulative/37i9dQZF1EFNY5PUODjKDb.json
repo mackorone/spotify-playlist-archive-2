@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 273880,
       "name": "Cats - Arr. Eric Knight: Memory",
       "url": "https://open.spotify.com/track/13kcahkBwpIy8uTO68KIXB"
@@ -9458,7 +9458,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 240066,
       "name": "I Believe My Heart",
       "url": "https://open.spotify.com/track/1SWqqW4NaS3rfQhGvKSDu3"
@@ -13898,6 +13898,24 @@
       "duration_ms": 235160,
       "name": "Memory",
       "url": "https://open.spotify.com/track/0I3cUqffwmH2mMUHIfpC0l"
+    },
+    {
+      "album": {
+        "name": "The Andrew Lloyd Webber Karaoke Collection",
+        "url": "https://open.spotify.com/album/77Z2AHsbQjZsh8pkQ3WY4m"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239173,
+      "name": "Memory (From \"Cats\") [Karaoke Version]",
+      "url": "https://open.spotify.com/track/6pSn6B4bW6JjbsRVysnMMO"
     },
     {
       "album": {
@@ -18588,7 +18606,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 235200,
       "name": "Requiem: VII. Pie Jesu",
       "url": "https://open.spotify.com/track/0Xm46GVlQM2SMK4hsZYk04"
@@ -25454,6 +25472,36 @@
       "duration_ms": 199360,
       "name": "Tyler King",
       "url": "https://open.spotify.com/track/12cdR0swtFL6nQm5Sb6JpU"
+    },
+    {
+      "album": {
+        "name": "Starlight Express",
+        "url": "https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Eve Humphrey",
+          "url": "https://open.spotify.com/artist/7qASDSzLLFJp90zDYBUbL1"
+        },
+        {
+          "name": "Ashlyn Weekes",
+          "url": "https://open.spotify.com/artist/7nXGZvBBXrMjGotutFXn9H"
+        },
+        {
+          "name": "Renz Cardenas",
+          "url": "https://open.spotify.com/artist/5t7B9fSyh9qlDPB3HWleKt"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "U.N.C.O.U.P.L.E.D",
+      "url": "https://open.spotify.com/track/2QiyVswmSXvc7PURGoPMI7"
     },
     {
       "album": {

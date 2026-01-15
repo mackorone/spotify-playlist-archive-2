@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaH2LwPQxmpW.md) - [plain](/playlists/plain/37i9dQZF1DXaH2LwPQxmpW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaH2LwPQxmpW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaH2LwPQxmpW.md) - [plain](/playlists/plain/37i9dQZF1DXaH2LwPQxmpW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaH2LwPQxmpW)
 
 ### [Materialists Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXaH2LwPQxmpW)
 
 > A perfect match and an ex she can't forget\. Who would you choose? Listen to music from The Materialists, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,275 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,608 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

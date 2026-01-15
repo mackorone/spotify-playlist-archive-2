@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXd7OfGslpHp1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd7OfGslpHp1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd7OfGslpHp1)
+[pretty](/playlists/pretty/37i9dQZF1DXd7OfGslpHp1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd7OfGslpHp1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXd7OfGslpHp1)
 
 ### [正反対な君と僕 \- Music Inspirations \-](https://open.spotify.com/playlist/37i9dQZF1DXd7OfGslpHp1)
 
 > 主題歌アーティストが選出する、TVアニメ「正反対な君と僕」にインスパイヤされた、青春ラブコメのプレイリスト。Highschool rom\-com playlist inspired by "You and I Are Polar Opposites"\.  Tracks selected by the OPED Artists.
 
-30 songs - 1 hr 59 min
+31 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [ボーイフレンド](https://open.spotify.com/track/4h4qR86LKL1KnzQWM2484a) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [ボーイフレンド](https://open.spotify.com/album/6GvDAL6aZ4j9vV71nW4Eho) | 4:46 | 2025-12-12 |  |
 | [マニフェスト](https://open.spotify.com/track/2glwCeYYx1u1TAAXf6aKZM) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [マニフェスト](https://open.spotify.com/album/5cwbtm1hHxSm4j444aWlwL) | 4:40 | 2025-12-12 |  |
 | [ミラクル](https://open.spotify.com/track/0WWhdc9npUQ9BCAAnUOCDz) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Delight](https://open.spotify.com/album/0avJe7D8ASPbuBk2uyPQPL) | 4:40 | 2025-12-12 |  |
+| [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 | 2026-01-13 |  |
 | [予報通りに晴れた空](https://open.spotify.com/track/5a9LTSyY8373KfJaW9HC5X) | [Meringue](https://open.spotify.com/artist/3NQczbTAyGcQjNH6XcljG5) | [シンメトリー](https://open.spotify.com/album/1YBwsVAvFTTAg7EJ2RANzH) | 4:50 | 2025-12-12 |  |
 | [光](https://open.spotify.com/track/2uR9GsiKf0HQ65l5iDiAYx) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [人間開花](https://open.spotify.com/album/4DzbZVGpyQ4zyqyAsQqDur) | 4:01 | 2025-12-12 |  |
 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 | 2025-12-12 |  |

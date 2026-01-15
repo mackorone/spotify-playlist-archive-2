@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain](/playlists/plain/37i9dQZF1DX3itwlKYlqmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3itwlKYlqmb)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain](/playlists/plain/37i9dQZF1DX3itwlKYlqmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3itwlKYlqmb)
 
 ### [Pasito Sierreño](https://open.spotify.com/playlist/37i9dQZF1DX3itwlKYlqmb)
 
 > De está sierra a la otra sierra se divisa <br/>San José\. En portada: Danny Félix
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,412 likes - 94 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,838 likes - 94 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain](/playlists/plain/37i9dQZF1DX9WxEZbyU6MA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9WxEZbyU6MA)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain](/playlists/plain/37i9dQZF1DX9WxEZbyU6MA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9WxEZbyU6MA)
 
 ### [Choir Classics](https://open.spotify.com/playlist/37i9dQZF1DX9WxEZbyU6MA)
 
 > Relax to the calming sounds of choral music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,687 likes - 113 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,242 likes - 113 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTJqjNA6xi6.md) - [plain](/playlists/plain/37i9dQZF1DWWTJqjNA6xi6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWTJqjNA6xi6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTJqjNA6xi6.md) - [plain](/playlists/plain/37i9dQZF1DWWTJqjNA6xi6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWTJqjNA6xi6)
 
 ### [Netflix Jr\. Jams Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWWTJqjNA6xi6)
 
 > Groove to your family's favorite tracks from Netflix Jr\. Jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207 likes - 28 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212 likes - 28 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

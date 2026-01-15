@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain](/playlists/plain/37i9dQZF1DXbw9rGYPXetO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbw9rGYPXetO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain](/playlists/plain/37i9dQZF1DXbw9rGYPXetO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbw9rGYPXetO)
 
 ### [Best of: Coke Studio Bharat](https://open.spotify.com/playlist/37i9dQZF1DXbw9rGYPXetO)
 
 > Hottest tracks from Coke Studio Bharat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,422 likes - 20 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,519 likes - 20 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

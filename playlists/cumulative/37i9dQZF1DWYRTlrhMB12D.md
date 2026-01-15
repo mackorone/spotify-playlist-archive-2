@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYRTlrhMB12D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYRTlrhMB12D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYRTlrhMB12D)
+[pretty](/playlists/pretty/37i9dQZF1DWYRTlrhMB12D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYRTlrhMB12D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYRTlrhMB12D)
 
 ### [Old is Gold](https://open.spotify.com/playlist/37i9dQZF1DWYRTlrhMB12D)
 

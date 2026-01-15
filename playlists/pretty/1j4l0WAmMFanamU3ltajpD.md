@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1j4l0WAmMFanamU3ltajpD.md) - [plain](/playlists/plain/1j4l0WAmMFanamU3ltajpD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1j4l0WAmMFanamU3ltajpD)
+pretty - [cumulative](/playlists/cumulative/1j4l0WAmMFanamU3ltajpD.md) - [plain](/playlists/plain/1j4l0WAmMFanamU3ltajpD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1j4l0WAmMFanamU3ltajpD)
 
 ### [RAMMSTEIN solo projects](https://open.spotify.com/playlist/1j4l0WAmMFanamU3ltajpD)
 
 > <a href="https://shop.rammstein.de/en/catalog/solo\-projects.html">More about Rammstein's solo projects</a>.
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 4,869 likes - 22 songs - 1 hr 25 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 4,868 likes - 22 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

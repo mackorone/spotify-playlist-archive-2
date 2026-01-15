@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0EzAAkPQtUY7rrbXN8iydd.md) - [plain](/playlists/plain/0EzAAkPQtUY7rrbXN8iydd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0EzAAkPQtUY7rrbXN8iydd)
+pretty - [cumulative](/playlists/cumulative/0EzAAkPQtUY7rrbXN8iydd.md) - [plain](/playlists/plain/0EzAAkPQtUY7rrbXN8iydd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0EzAAkPQtUY7rrbXN8iydd)
 
 ### [Going to Kansas ](https://open.spotify.com/playlist/0EzAAkPQtUY7rrbXN8iydd)
 

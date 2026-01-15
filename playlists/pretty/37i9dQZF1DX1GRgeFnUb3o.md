@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain](/playlists/plain/37i9dQZF1DX1GRgeFnUb3o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1GRgeFnUb3o)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain](/playlists/plain/37i9dQZF1DX1GRgeFnUb3o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1GRgeFnUb3o)
 
 ### [Crate Diggin' Sub Pop Records](https://open.spotify.com/playlist/37i9dQZF1DX1GRgeFnUb3o)
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,822 likes - 61 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,918 likes - 61 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUwJ0RFwrgQP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUwJ0RFwrgQP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUwJ0RFwrgQP)
+[pretty](/playlists/pretty/37i9dQZF1DWUwJ0RFwrgQP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUwJ0RFwrgQP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUwJ0RFwrgQP)
 
 ### [Samedi Party](https://open.spotify.com/playlist/37i9dQZF1DWUwJ0RFwrgQP)
 

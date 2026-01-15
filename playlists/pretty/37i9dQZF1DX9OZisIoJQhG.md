@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain](/playlists/plain/37i9dQZF1DX9OZisIoJQhG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9OZisIoJQhG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain](/playlists/plain/37i9dQZF1DX9OZisIoJQhG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9OZisIoJQhG)
 
 ### [Morning Classical](https://open.spotify.com/playlist/37i9dQZF1DX9OZisIoJQhG)
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,186 likes - 73 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,677 likes - 73 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

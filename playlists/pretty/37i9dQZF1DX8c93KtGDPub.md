@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain](/playlists/plain/37i9dQZF1DX8c93KtGDPub) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8c93KtGDPub)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain](/playlists/plain/37i9dQZF1DX8c93KtGDPub) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8c93KtGDPub)
 
 ### [Folksy Christmas](https://open.spotify.com/playlist/37i9dQZF1DX8c93KtGDPub)
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,200 likes - 142 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,802 likes - 142 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

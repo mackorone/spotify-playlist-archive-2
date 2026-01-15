@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2apWzyECwyZ.md) - [plain](/playlists/plain/37i9dQZF1DX2apWzyECwyZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2apWzyECwyZ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2apWzyECwyZ.md) - [plain](/playlists/plain/37i9dQZF1DX2apWzyECwyZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2apWzyECwyZ)
 
 ### [This Is Bad Bunny](https://open.spotify.com/playlist/37i9dQZF1DX2apWzyECwyZ)
 
 > Benito's greatest hits, los mejores hits del conejo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,890,619 likes - 129 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,903,412 likes - 129 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

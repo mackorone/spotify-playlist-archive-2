@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2dv5GoUdPb2tbF18NeZEDH.md) - cumulative - [plain](/playlists/plain/2dv5GoUdPb2tbF18NeZEDH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2dv5GoUdPb2tbF18NeZEDH)
+[pretty](/playlists/pretty/2dv5GoUdPb2tbF18NeZEDH.md) - cumulative - [plain](/playlists/plain/2dv5GoUdPb2tbF18NeZEDH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2dv5GoUdPb2tbF18NeZEDH)
 
 ### [New Afro House 2026](https://open.spotify.com/playlist/2dv5GoUdPb2tbF18NeZEDH)
 
@@ -705,7 +705,7 @@
 | [MASKARA](https://open.spotify.com/track/5o9Gq3MdlkkMYamhtnLigy) | [Se7enth Fret](https://open.spotify.com/artist/1RHTImcBpYt4lt58OJp938) | [MASKARA](https://open.spotify.com/album/4Lxs8ix1Y1kGX3UO7sOfMp) | 3:39 | 2025-06-19 | 2025-12-14 |
 | [Masks and Dangerous Dreams](https://open.spotify.com/track/561eujaknRkSoqgY0wm3hE) | [V.E.N!](https://open.spotify.com/artist/3sO9u4dOUWYj61kcOTBExd) | [Mystical Songs for Cold Winters](https://open.spotify.com/album/6l3jVkcFNYOOif4UikO0ow) | 4:56 | 2025-06-13 | 2025-12-14 |
 | [Master Blaster \(Jammin'\)](https://open.spotify.com/track/6NjYhDWaI8jKgcSU0ZsJuz) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 5:08 | 2024-04-14 | 2025-12-14 |
-| [Mau Olhado](https://open.spotify.com/track/549vzFtkoTQvy5bOhbYZM8) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Mau Olhado](https://open.spotify.com/album/78xsHp1yyqZQ713s58QTT0) | 2:41 | 2025-12-13 |  |
+| [Mau Olhado](https://open.spotify.com/track/549vzFtkoTQvy5bOhbYZM8) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [Victória dos Santos](https://open.spotify.com/artist/5u9LTxHVFVSQhY7US0pOCn) | [Mau Olhado \(Carranca\)](https://open.spotify.com/album/78xsHp1yyqZQ713s58QTT0) | 2:41 | 2025-12-13 |  |
 | [Maxwell Murder](https://open.spotify.com/track/2w8Tyk8ZiTy4nLjJpeadd9) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/596cCa6FfamS1WvGbIyFGl) | 1:25 | 2024-03-28 | 2025-12-14 |
 | [may be](https://open.spotify.com/track/2fbhU9BAN9DMHUJmVd2WER) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [may be](https://open.spotify.com/album/3r5LuwbKuUEhGt1fO0q0Z6) | 3:27 | 2025-05-19 | 2025-12-14 |
 | [Me Canse De Esperar](https://open.spotify.com/track/10XIqQ8NAR74sPPnMlFvf1) | [Fabi Oterix](https://open.spotify.com/artist/2qFFYkDlojU3ca7hQmwKJK) | [Me Canse De Esperar](https://open.spotify.com/album/69udnZ0JC1IcK7pdQbTfsA) | 3:15 | 2025-08-01 | 2025-12-14 |

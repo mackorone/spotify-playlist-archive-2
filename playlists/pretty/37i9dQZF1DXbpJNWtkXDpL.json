@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92206,
+  "num_followers": 92174,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "si me esperas",
-        "url": "https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        }
-      ],
-      "duration_ms": 180381,
-      "name": "si me esperas",
-      "url": "https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Bellako Loner Club",
         "url": "https://open.spotify.com/album/4cM9FzKuYIyD8kXakMLsbw"
       },
@@ -307,22 +287,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "CRUJIN",
-        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
-      },
-      "artists": [
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
-        }
-      ],
-      "duration_ms": 109016,
-      "name": "TUTOGERME",
-      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "MONICA",
         "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
       },
@@ -339,6 +303,42 @@
       "duration_ms": 131134,
       "name": "Monica",
       "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "si me esperas",
+        "url": "https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "si me esperas",
+      "url": "https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "CRUJIN",
+        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
+      },
+      "artists": [
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/0It6ADGbhMUU2XFwjs41UY"
+        }
+      ],
+      "duration_ms": 109016,
+      "name": "TUTOGERME",
+      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -395,26 +395,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Verde",
-        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 266055,
-      "name": "Otra salida",
-      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Sin Voz",
         "url": "https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 170000,
       "name": "MOMENTO",
       "url": "https://open.spotify.com/track/0lKSSNUWk7baSbP5tbiqnd"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "duration_ms": 266055,
+      "name": "Otra salida",
+      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "MAYDAY",
-        "url": "https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 113506,
-      "name": "arrancame los labios",
-      "url": "https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "so\u00f1\u00e9 que me llevabas",
         "url": "https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 177686,
       "name": "me olvidar\u00e1s (como lo haces ya)",
       "url": "https://open.spotify.com/track/4yxdGAEtZSDh1mggFiBXZ3"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 113506,
+      "name": "arrancame los labios",
+      "url": "https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -619,26 +619,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "LLORAR!",
-        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
-      },
-      "artists": [
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        },
-        {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
-        }
-      ],
-      "duration_ms": 107200,
-      "name": "LLORAR!",
-      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Fall\u00e9",
         "url": "https://open.spotify.com/album/4FdQTvmVrkknQbLePxpZHc"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 135874,
       "name": "Fall\u00e9",
       "url": "https://open.spotify.com/track/68ldiwb2lQUH1ky1PBVW7s"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "LLORAR!",
+        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
+      },
+      "artists": [
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        },
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        }
+      ],
+      "duration_ms": 107200,
+      "name": "LLORAR!",
+      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -687,18 +687,26 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "114",
-        "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
+        "name": "PESADILLA.wav",
+        "url": "https://open.spotify.com/album/20EERNEp1AsioVQ2czUQay"
       },
       "artists": [
         {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+          "name": "Ikoniko",
+          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
+        },
+        {
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
         }
       ],
-      "duration_ms": 192162,
-      "name": "114",
-      "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
+      "duration_ms": 163764,
+      "name": "PESADILLA.wav",
+      "url": "https://open.spotify.com/track/6mU2hruzPWWPaMmDOxO0qG"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -743,42 +751,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "PESADILLA.wav",
-        "url": "https://open.spotify.com/album/20EERNEp1AsioVQ2czUQay"
+        "name": "114",
+        "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
       },
       "artists": [
         {
-          "name": "Ikoniko",
-          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
-        },
-        {
-          "name": "Ruzzo Doblezz",
-          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
-        },
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
         }
       ],
-      "duration_ms": 163764,
-      "name": "PESADILLA.wav",
-      "url": "https://open.spotify.com/track/6mU2hruzPWWPaMmDOxO0qG"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "\u00a1GLORIA EL CENTRO DE REHABILITACION!",
-        "url": "https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j"
-      },
-      "artists": [
-        {
-          "name": "Gloory Hole",
-          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "PUM PUM!",
-      "url": "https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB"
+      "duration_ms": 192162,
+      "name": "114",
+      "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -807,6 +791,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "\u00a1GLORIA EL CENTRO DE REHABILITACION!",
+        "url": "https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "PUM PUM!",
+      "url": "https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "T.V ADDICT",
         "url": "https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K"
       },
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Nocturna (Remix)",
-        "url": "https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        },
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 235752,
-      "name": "Nocturna - Remix",
-      "url": "https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "All I See",
         "url": "https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 189024,
       "name": "All I See",
       "url": "https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Nocturna (Remix)",
+        "url": "https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        },
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 235752,
+      "name": "Nocturna - Remix",
+      "url": "https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Cumbia Psic\u00f3pata",
+        "url": "https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL"
+      },
+      "artists": [
+        {
+          "name": "Insulini",
+          "url": "https://open.spotify.com/artist/41f5h5dLeXaQszzuoNAGYE"
+        }
+      ],
+      "duration_ms": 180908,
+      "name": "Cumbia Psic\u00f3pata",
+      "url": "https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Ni\u00f1os",
         "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
       },
@@ -1023,18 +1039,26 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Cumbia Psic\u00f3pata",
-        "url": "https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL"
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA"
       },
       "artists": [
         {
-          "name": "Insulini",
-          "url": "https://open.spotify.com/artist/41f5h5dLeXaQszzuoNAGYE"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
         }
       ],
-      "duration_ms": 180908,
-      "name": "Cumbia Psic\u00f3pata",
-      "url": "https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY"
+      "duration_ms": 148800,
+      "name": "Chaka",
+      "url": "https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1075,30 +1099,6 @@
       "duration_ms": 194286,
       "name": "Cabello Rojo",
       "url": "https://open.spotify.com/track/2JPq2IjAikdyBRHeveZXks"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Chaka",
-      "url": "https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Buenos Aires",
-        "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
-      },
-      "artists": [
-        {
-          "name": "Tony Mils",
-          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Buenos Aires",
-      "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Buenos Aires",
+        "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
+      },
+      "artists": [
+        {
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Buenos Aires",
+      "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "rompopito",
         "url": "https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 119162,
       "name": "rompopito",
       "url": "https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "inconformidable",
-        "url": "https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5"
-      },
-      "artists": [
-        {
-          "name": "luego luego",
-          "url": "https://open.spotify.com/artist/6ETrCLLn8ZYnM56U2r8Q7R"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "luego",
-      "url": "https://open.spotify.com/track/0MjRGi3GhLRvhwwLkzfMNC"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "inconformidable",
+        "url": "https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5"
+      },
+      "artists": [
+        {
+          "name": "luego luego",
+          "url": "https://open.spotify.com/artist/6ETrCLLn8ZYnM56U2r8Q7R"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "luego",
+      "url": "https://open.spotify.com/track/0MjRGi3GhLRvhwwLkzfMNC"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Pepper",
         "url": "https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Al Infinito y M\u00e1s All\u00e1",
-        "url": "https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ"
-      },
-      "artists": [
-        {
-          "name": "La Cuadrilla Oficial",
-          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
-        }
-      ],
-      "duration_ms": 142277,
-      "name": "Al Infinito y M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "DAYDRMN / MOTION",
         "url": "https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 139500,
       "name": "DAYDRMN",
       "url": "https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Al Infinito y M\u00e1s All\u00e1",
+        "url": "https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ"
+      },
+      "artists": [
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        }
+      ],
+      "duration_ms": 142277,
+      "name": "Al Infinito y M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Viento Feroz",
+        "url": "https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X"
+      },
+      "artists": [
+        {
+          "name": "Mermelada de Pepino",
+          "url": "https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK"
+        }
+      ],
+      "duration_ms": 196107,
+      "name": "Viento Feroz",
+      "url": "https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Hesitated",
         "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Viento Feroz",
-        "url": "https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X"
+        "name": "Exitos Ajenos, Vol. 1",
+        "url": "https://open.spotify.com/album/0TonMYiG2DK3b8oBSe8Yaw"
       },
       "artists": [
         {
-          "name": "Mermelada de Pepino",
-          "url": "https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK"
+          "name": "El Danny Padilla",
+          "url": "https://open.spotify.com/artist/2UJvfUojwzaFvZmxbMtjzg"
         }
       ],
-      "duration_ms": 196107,
-      "name": "Viento Feroz",
-      "url": "https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr"
+      "duration_ms": 206000,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1435,22 +1451,6 @@
       "duration_ms": 191544,
       "name": "UN D\u00cdA INOLVIDABLE",
       "url": "https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Exitos Ajenos, Vol. 1",
-        "url": "https://open.spotify.com/album/0TonMYiG2DK3b8oBSe8Yaw"
-      },
-      "artists": [
-        {
-          "name": "El Danny Padilla",
-          "url": "https://open.spotify.com/artist/2UJvfUojwzaFvZmxbMtjzg"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Llueve Sobre La Ciudad",
-      "url": "https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ"
     },
     {
       "added_at": "2025-10-03 06:00:06",

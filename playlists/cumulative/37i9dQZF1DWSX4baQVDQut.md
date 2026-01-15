@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSX4baQVDQut.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSX4baQVDQut) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSX4baQVDQut)
+[pretty](/playlists/pretty/37i9dQZF1DWSX4baQVDQut.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSX4baQVDQut) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSX4baQVDQut)
 
 ### [¡Baila Sin Parar!](https://open.spotify.com/playlist/37i9dQZF1DWSX4baQVDQut)
 

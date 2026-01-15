@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain](/playlists/plain/37i9dQZF1DX49pAYA86UWp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX49pAYA86UWp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain](/playlists/plain/37i9dQZF1DX49pAYA86UWp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX49pAYA86UWp)
 
 ### [Trap Boricua](https://open.spotify.com/playlist/37i9dQZF1DX49pAYA86UWp)
 

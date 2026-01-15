@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9mxKt6WorzQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9mxKt6WorzQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9mxKt6WorzQ)
+[pretty](/playlists/pretty/37i9dQZF1DX9mxKt6WorzQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9mxKt6WorzQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9mxKt6WorzQ)
 
 ### [Train Sounds](https://open.spotify.com/playlist/37i9dQZF1DX9mxKt6WorzQ)
 

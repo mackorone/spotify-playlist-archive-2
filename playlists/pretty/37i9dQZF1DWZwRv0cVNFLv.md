@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwRv0cVNFLv.md) - [plain](/playlists/plain/37i9dQZF1DWZwRv0cVNFLv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZwRv0cVNFLv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwRv0cVNFLv.md) - [plain](/playlists/plain/37i9dQZF1DWZwRv0cVNFLv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZwRv0cVNFLv)
 
 ### [City Sounds for Sleep](https://open.spotify.com/playlist/37i9dQZF1DWZwRv0cVNFLv)
 
 > Sounds of the city to help you drift off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,001 likes - 138 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,141 likes - 138 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

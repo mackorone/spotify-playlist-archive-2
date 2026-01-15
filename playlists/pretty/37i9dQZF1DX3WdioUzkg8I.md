@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain](/playlists/plain/37i9dQZF1DX3WdioUzkg8I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3WdioUzkg8I)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain](/playlists/plain/37i9dQZF1DX3WdioUzkg8I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3WdioUzkg8I)
 
 ### [Fall Asleep Instantly💤](https://open.spotify.com/playlist/37i9dQZF1DX3WdioUzkg8I)
 
 > Relaxing music and sounds for sleeping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,337 likes - 106 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,867 likes - 106 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

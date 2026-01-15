@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX2oVzuo0LbVg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2oVzuo0LbVg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2oVzuo0LbVg)
+[pretty](/playlists/pretty/37i9dQZF1DX2oVzuo0LbVg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2oVzuo0LbVg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2oVzuo0LbVg)
 
 ### [Pop en Inglés](https://open.spotify.com/playlist/37i9dQZF1DX2oVzuo0LbVg)
 

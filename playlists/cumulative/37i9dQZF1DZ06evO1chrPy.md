@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO1chrPy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1chrPy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1chrPy)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO1chrPy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1chrPy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO1chrPy)
 
 ### [This Is Cage The Elephant](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPy)
 

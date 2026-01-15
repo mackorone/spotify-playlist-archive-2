@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/6U03Hec6J70xDYfiQdJZdY.md) - cumulative - [plain](/playlists/plain/6U03Hec6J70xDYfiQdJZdY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6U03Hec6J70xDYfiQdJZdY)
+[pretty](/playlists/pretty/6U03Hec6J70xDYfiQdJZdY.md) - cumulative - [plain](/playlists/plain/6U03Hec6J70xDYfiQdJZdY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6U03Hec6J70xDYfiQdJZdY)
 
 ### [Classical Relaxation 😌 Music for Anxiety & Stress](https://open.spotify.com/playlist/6U03Hec6J70xDYfiQdJZdY)
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-82 songs - 4 hr 25 min
+83 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Debussy: Arabesque No\. 1](https://open.spotify.com/track/6tLObgg6Uzqo0LINIodq0F) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Aurélien Pontier](https://open.spotify.com/artist/0v3FoXQEW6STimjWkCrbTo) | [Debussy: Arabesque No\. 1](https://open.spotify.com/album/6fzX8dIRoNXEyeeLoim7Kh) | 3:30 | 2025-10-16 |  |
 | [Debussy: Rêverie, CD 76, L\. 68](https://open.spotify.com/track/0PO9GJ0lOcJeA3Nv60BelK) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [The Proust Album \- Debussy: Rêverie](https://open.spotify.com/album/7d5VSPSshcqcYx8CVEyipv) | 3:53 | 2025-10-16 |  |
 | [Desplat: Girl with a Pearl Earring](https://open.spotify.com/track/6OHaWxG6PcMend1woo03WW) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Emmanuel Pahud](https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq), [Orchestre National De France](https://open.spotify.com/artist/5UFYrc7bnGpaojNag3Bv8M) | [Airlines \- Girl with a Pearl Earring](https://open.spotify.com/album/1YKJyiTaAJqiZ5eXqDw7TI) | 7:26 | 2025-10-16 |  |
+| [Echoes](https://open.spotify.com/track/2PYyoWPyuO5DbEIsMDGLDs) | [Olexandr Ignatov](https://open.spotify.com/artist/5N4JPCILHmKjyrhr97DOpG) | [Echoes](https://open.spotify.com/album/1nAxhkUmDivcwWH4wx1JSg) | 2:24 | 2026-01-12 |  |
 | [Einaudi: I giorni](https://open.spotify.com/track/2UvpD4YYxCi27MlwDy1kvs) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Einaudi: I giorni](https://open.spotify.com/album/3D5DFh4FC3IpIEfNwV0JkS) | 6:58 | 2025-10-16 |  |
 | [Elgar: Chanson du matin, Op\. 15](https://open.spotify.com/track/4tqF26fdxfA1njENNp6Q1m) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L) | [Un violon à Paris](https://open.spotify.com/album/1lZyDr7mP2qj6jTl8kj9US) | 2:31 | 2025-10-16 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/73VevVSRPsGB4FFIasDEB2) | [Jean Lucas](https://open.spotify.com/artist/43nGYUDNoXAdaOc7sOI7SJ) | [Eternal Sunshine](https://open.spotify.com/album/5TvrJAZpjUqTATvZXDxCFr) | 2:27 | 2025-10-16 |  |

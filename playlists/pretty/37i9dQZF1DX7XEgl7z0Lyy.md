@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain](/playlists/plain/37i9dQZF1DX7XEgl7z0Lyy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7XEgl7z0Lyy)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain](/playlists/plain/37i9dQZF1DX7XEgl7z0Lyy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7XEgl7z0Lyy)
 
 ### [hexxed](https://open.spotify.com/playlist/37i9dQZF1DX7XEgl7z0Lyy)
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,684 likes - 125 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,323 likes - 125 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

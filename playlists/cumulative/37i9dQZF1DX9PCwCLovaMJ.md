@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9PCwCLovaMJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9PCwCLovaMJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9PCwCLovaMJ)
+[pretty](/playlists/pretty/37i9dQZF1DX9PCwCLovaMJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9PCwCLovaMJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9PCwCLovaMJ)
 
 ### [2024: Låtarna du missade?](https://open.spotify.com/playlist/37i9dQZF1DX9PCwCLovaMJ)
 

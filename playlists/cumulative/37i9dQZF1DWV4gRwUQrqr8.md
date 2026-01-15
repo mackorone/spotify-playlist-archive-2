@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWV4gRwUQrqr8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV4gRwUQrqr8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV4gRwUQrqr8)
+[pretty](/playlists/pretty/37i9dQZF1DWV4gRwUQrqr8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV4gRwUQrqr8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWV4gRwUQrqr8)
 
 ### [SEVENTEEN 8TH FAN MEETING \[SEVENTEEN in CARAT LAND\]](https://open.spotify.com/playlist/37i9dQZF1DWV4gRwUQrqr8)
 

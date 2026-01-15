@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Uol5MpckMS.md) - [plain](/playlists/plain/37i9dQZF1DX7Uol5MpckMS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Uol5MpckMS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Uol5MpckMS.md) - [plain](/playlists/plain/37i9dQZF1DX7Uol5MpckMS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7Uol5MpckMS)
 
 ### [Années 60](https://open.spotify.com/playlist/37i9dQZF1DX7Uol5MpckMS)
 
 > Le meilleur des années 60 en 60 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,414 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,458 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlnebSYUC7v.md) - [plain](/playlists/plain/37i9dQZF1DWYlnebSYUC7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYlnebSYUC7v)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlnebSYUC7v.md) - [plain](/playlists/plain/37i9dQZF1DWYlnebSYUC7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYlnebSYUC7v)
 
 ### [COUNTER//CULTURE: GEL](https://open.spotify.com/playlist/37i9dQZF1DWYlnebSYUC7v)
 
 > These are the songs that have shaped <a href="spotify:artist:1fRv9jiRIN7zAOSpOfRP73">GEL's<a/> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,257 likes - 30 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,277 likes - 30 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

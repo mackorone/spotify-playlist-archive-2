@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgzkrP8EsnC.md) - [plain](/playlists/plain/37i9dQZF1DWSgzkrP8EsnC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSgzkrP8EsnC)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgzkrP8EsnC.md) - [plain](/playlists/plain/37i9dQZF1DWSgzkrP8EsnC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSgzkrP8EsnC)
 
 ### [Fuego \#084 \- Blessd's Mixtape](https://open.spotify.com/playlist/37i9dQZF1DWSgzkrP8EsnC)
 

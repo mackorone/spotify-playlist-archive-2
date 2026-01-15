@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/3CbuNvlevZNRcTpWGKWIZz.md) - cumulative - [plain](/playlists/plain/3CbuNvlevZNRcTpWGKWIZz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3CbuNvlevZNRcTpWGKWIZz)
+[pretty](/playlists/pretty/3CbuNvlevZNRcTpWGKWIZz.md) - cumulative - [plain](/playlists/plain/3CbuNvlevZNRcTpWGKWIZz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3CbuNvlevZNRcTpWGKWIZz)
 
 ### [ODESZA \- ESSENTIALS](https://open.spotify.com/playlist/3CbuNvlevZNRcTpWGKWIZz)
 
 > A few of our recent favorites including the latest tracks from our label <a href="https://open.spotify.com/playlist/6wf7OjL38XBl60m7cLIe6Z">Foreign Family Collective</a>.
 
-50 songs - 3 hr 14 min
+51 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [For The Birds \- Dejector Edit](https://open.spotify.com/track/1q5Rfjwsn3mnhjQaYUo6FW) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO), [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU), [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [For The Birds \(Dejector Edit\)](https://open.spotify.com/album/3Ofjfs5aVxTtdpcJY5x88x) | 3:19 | 2023-12-01 |  |
 | [hei](https://open.spotify.com/track/2T1H0vzQbasvpzU9SbpWw8) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [it’ll all be oki \(ii\)](https://open.spotify.com/album/7KCFKGdbk455atVzZxuRIB) | 4:00 | 2023-12-01 |  |
 | [Hide To Seek](https://open.spotify.com/track/61gEaXyQAtYaBcJxyYdmc9) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:46 | 2023-12-01 |  |
+| [Higher Ground](https://open.spotify.com/track/7KT7VGnPU5QVXN3q1BOeqb) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:35 | 2026-01-14 |  |
 | [Higher Than Ever Before \- ATRIP Remix](https://open.spotify.com/track/1sWXjZ8rxRz51xuzPMlBhf) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Higher Than Ever Before \(ATRIP Remix\)](https://open.spotify.com/album/0jKKn6llm1Ty32tDrfnHE5) | 3:19 | 2023-12-01 |  |
 | [I Can See](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [I Can See](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 | 2023-12-01 |  |
 | [In The Rain](https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [In The Rain](https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha) | 3:59 | 2023-12-01 |  |

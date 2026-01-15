@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX00RdhV73Dbe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX00RdhV73Dbe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX00RdhV73Dbe)
+[pretty](/playlists/pretty/37i9dQZF1DX00RdhV73Dbe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX00RdhV73Dbe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX00RdhV73Dbe)
 
 ### [DJ BORING's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX00RdhV73Dbe)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yPYjSzbGhz.md) - [plain](/playlists/plain/37i9dQZF1DX6yPYjSzbGhz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6yPYjSzbGhz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yPYjSzbGhz.md) - [plain](/playlists/plain/37i9dQZF1DX6yPYjSzbGhz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6yPYjSzbGhz)
 
 ### [Edison Jazz 2025](https://open.spotify.com/playlist/37i9dQZF1DX6yPYjSzbGhz)
 
 > Luister hier naar alle genomineerden voor de Edison Jazz 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 478 likes - 28 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 479 likes - 28 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

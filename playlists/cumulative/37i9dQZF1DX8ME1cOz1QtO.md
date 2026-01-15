@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8ME1cOz1QtO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8ME1cOz1QtO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8ME1cOz1QtO)
+[pretty](/playlists/pretty/37i9dQZF1DX8ME1cOz1QtO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8ME1cOz1QtO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8ME1cOz1QtO)
 
 ### [New Age: The Dawning](https://open.spotify.com/playlist/37i9dQZF1DX8ME1cOz1QtO)
 

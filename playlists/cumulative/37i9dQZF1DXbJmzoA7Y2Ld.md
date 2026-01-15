@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbJmzoA7Y2Ld.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbJmzoA7Y2Ld) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbJmzoA7Y2Ld)
+[pretty](/playlists/pretty/37i9dQZF1DXbJmzoA7Y2Ld.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbJmzoA7Y2Ld) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbJmzoA7Y2Ld)
 
 ### [Best Blues Songs of 2020](https://open.spotify.com/playlist/37i9dQZF1DXbJmzoA7Y2Ld)
 

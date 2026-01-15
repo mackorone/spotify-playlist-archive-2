@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0GIcfETqsfW9HpPGjAv8eU.md) - [plain](/playlists/plain/0GIcfETqsfW9HpPGjAv8eU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0GIcfETqsfW9HpPGjAv8eU)
+pretty - [cumulative](/playlists/cumulative/0GIcfETqsfW9HpPGjAv8eU.md) - [plain](/playlists/plain/0GIcfETqsfW9HpPGjAv8eU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0GIcfETqsfW9HpPGjAv8eU)
 
 ### [One for the witches ](https://open.spotify.com/playlist/0GIcfETqsfW9HpPGjAv8eU)
 

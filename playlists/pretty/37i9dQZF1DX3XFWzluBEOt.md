@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XFWzluBEOt.md) - [plain](/playlists/plain/37i9dQZF1DX3XFWzluBEOt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3XFWzluBEOt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XFWzluBEOt.md) - [plain](/playlists/plain/37i9dQZF1DX3XFWzluBEOt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3XFWzluBEOt)
 
 ### [Soda Stereo: Bajo esta piel](https://open.spotify.com/playlist/37i9dQZF1DX3XFWzluBEOt)
 
 > En el corazón de los fanáticos, canciones que navegaron bajo la superficie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,279 likes - 27 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,296 likes - 27 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

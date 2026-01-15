@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain](/playlists/plain/37i9dQZF1DX6AKLu0DKWt5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6AKLu0DKWt5)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain](/playlists/plain/37i9dQZF1DX6AKLu0DKWt5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6AKLu0DKWt5)
 
 ### [Golden Globes Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6AKLu0DKWt5)
 
 > Music from the nominees of the 83rd Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,764 likes - 37 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,425 likes - 37 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

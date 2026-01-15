@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain](/playlists/plain/37i9dQZF1DX9gDTB1VLIIh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9gDTB1VLIIh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain](/playlists/plain/37i9dQZF1DX9gDTB1VLIIh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9gDTB1VLIIh)
 
 ### [This Is Nasty C](https://open.spotify.com/playlist/37i9dQZF1DX9gDTB1VLIIh)
 

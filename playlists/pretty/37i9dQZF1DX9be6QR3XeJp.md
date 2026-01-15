@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain](/playlists/plain/37i9dQZF1DX9be6QR3XeJp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9be6QR3XeJp)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain](/playlists/plain/37i9dQZF1DX9be6QR3XeJp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9be6QR3XeJp)
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
 > Discover your new favourite artists from UK&IE\. Cover: Cardinals
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,604 likes - 263 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,585 likes - 263 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO49hLQA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO49hLQA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO49hLQA)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO49hLQA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO49hLQA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO49hLQA)
 
 ### [This Is AC/DC](https://open.spotify.com/playlist/37i9dQZF1DZ06evO49hLQA)
 

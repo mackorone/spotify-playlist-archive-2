@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain](/playlists/plain/37i9dQZF1DX7qK8ma5wgG1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7qK8ma5wgG1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain](/playlists/plain/37i9dQZF1DX7qK8ma5wgG1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7qK8ma5wgG1)
 
 ### [Sad Songs](https://open.spotify.com/playlist/37i9dQZF1DX7qK8ma5wgG1)
 
 > It's okay to cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,734,756 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,733,685 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: The Beefs",
+  "description": "New and local indie noise. Cover: SXMPRA",
   "name": "Local Noise",
   "tracks": [
     {
@@ -1490,6 +1490,24 @@
       "duration_ms": 171481,
       "name": "Blame Game",
       "url": "https://open.spotify.com/track/3hr8V6nCTZOqpRXswFZVp3"
+    },
+    {
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215783,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
     },
     {
       "album": {
@@ -3589,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "Idle Viewer",
+        "url": "https://open.spotify.com/album/4aHh0ZVPwmjZ5H6VZGJIOC"
+      },
+      "artists": [
+        {
+          "name": "Eveline Breaker",
+          "url": "https://open.spotify.com/artist/6VOVjDRQnDqCALmKsgQneG"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275454,
+      "name": "Double Clover",
+      "url": "https://open.spotify.com/track/7saFP1pvhh9Uqd2BciqajX"
+    },
+    {
+      "album": {
         "name": "Dr. Frankenstein",
         "url": "https://open.spotify.com/album/6xhrXAuXuP1RYy0blvL6Vs"
       },
@@ -3622,7 +3658,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169693,
       "name": "Drag",
       "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
@@ -4422,7 +4458,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 246639,
       "name": "flaws and disconnections",
       "url": "https://open.spotify.com/track/75cBJQkoaHVNHuE1B5Uqjq"
@@ -5337,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "HEADSPINNER",
+        "url": "https://open.spotify.com/album/33Oa0iAkQPifKKUWADF8lY"
+      },
+      "artists": [
+        {
+          "name": "CHEAP-SKATE",
+          "url": "https://open.spotify.com/artist/3c3StjVdJb72LvLknQfbEC"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "HEADSPINNER",
+      "url": "https://open.spotify.com/track/1TOHLrOndix1KzXjHTG87L"
+    },
+    {
+      "album": {
         "name": "Heart Pumps Blood",
         "url": "https://open.spotify.com/album/38tf14Nlk4xBpZhwax3wZ6"
       },
@@ -5986,7 +6040,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 242007,
       "name": "I Can't Look For You",
       "url": "https://open.spotify.com/track/3OjfVuqoq0yrNqUSWo6lEP"
@@ -6746,7 +6800,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 225743,
       "name": "Kiss the Rain",
       "url": "https://open.spotify.com/track/796pQutsRdXDdYoV0wgCRk"
@@ -8044,6 +8098,24 @@
       "duration_ms": 213666,
       "name": "Move On",
       "url": "https://open.spotify.com/track/3usPMzPwvPJfP5PzX5IeRr"
+    },
+    {
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/1Hex10bhxBUhLIdmdRQNAr"
+      },
+      "artists": [
+        {
+          "name": "Radium Dolls",
+          "url": "https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265267,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/5ZwfDeNHlKaReK18SD6qTm"
     },
     {
       "album": {
@@ -13803,6 +13875,24 @@
     },
     {
       "album": {
+        "name": "want your luv",
+        "url": "https://open.spotify.com/album/3GUp5s5Yyd2gQLjDX7W5hh"
+      },
+      "artists": [
+        {
+          "name": "luv4her",
+          "url": "https://open.spotify.com/artist/0B0whKnPkjxBUQ3FdtQtJz"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182349,
+      "name": "want your luv",
+      "url": "https://open.spotify.com/track/1rLVxCmNdaKlPfacFHwOcU"
+    },
+    {
+      "album": {
         "name": "Want/Need",
         "url": "https://open.spotify.com/album/4g3P3GVh1k6BbRmGcjIvaU"
       },
@@ -14232,7 +14322,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 202702,
       "name": "WONDERFUL",
       "url": "https://open.spotify.com/track/2KlnNibs8vbh1ulZ7124vI"

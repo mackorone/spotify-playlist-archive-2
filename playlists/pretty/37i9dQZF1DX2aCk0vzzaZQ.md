@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aCk0vzzaZQ.md) - [plain](/playlists/plain/37i9dQZF1DX2aCk0vzzaZQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2aCk0vzzaZQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aCk0vzzaZQ.md) - [plain](/playlists/plain/37i9dQZF1DX2aCk0vzzaZQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2aCk0vzzaZQ)
 
 ### [Dramatic Classical](https://open.spotify.com/playlist/37i9dQZF1DX2aCk0vzzaZQ)
 
 > When you're a 19th century villain with excellent taste in music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,369 likes - 69 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,536 likes - 69 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

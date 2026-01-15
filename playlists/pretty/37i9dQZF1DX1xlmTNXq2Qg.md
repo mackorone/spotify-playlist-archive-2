@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xlmTNXq2Qg.md) - [plain](/playlists/plain/37i9dQZF1DX1xlmTNXq2Qg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1xlmTNXq2Qg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xlmTNXq2Qg.md) - [plain](/playlists/plain/37i9dQZF1DX1xlmTNXq2Qg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1xlmTNXq2Qg)
 
 ### [This Is LANY](https://open.spotify.com/playlist/37i9dQZF1DX1xlmTNXq2Qg)
 

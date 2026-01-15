@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWcp8vZ8TtVI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWcp8vZ8TtVI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWcp8vZ8TtVI)
+[pretty](/playlists/pretty/37i9dQZF1DWWcp8vZ8TtVI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWcp8vZ8TtVI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWcp8vZ8TtVI)
 
 ### [A Very Mindy Weiss Wedding](https://open.spotify.com/playlist/37i9dQZF1DWWcp8vZ8TtVI)
 

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX5hIsIIk6w1F.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5hIsIIk6w1F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5hIsIIk6w1F)
+[pretty](/playlists/pretty/37i9dQZF1DX5hIsIIk6w1F.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5hIsIIk6w1F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5hIsIIk6w1F)
 
 ### [Reggaetón Chileno](https://open.spotify.com/playlist/37i9dQZF1DX5hIsIIk6w1F)
 
 > Este Flow tiene otro Flow\. Foto: Gino Mella, Loyalty & King Savagge
 
-1,045 songs - 2 day 7 hr 36 min
+1,047 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [BADBITCH](https://open.spotify.com/track/6MNfA6yPOiSXci4xXcJ3I3) | [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [BADBITCH](https://open.spotify.com/album/4sht24sghIeg901nOQ9nUO) | 2:40 | 2022-08-12 | 2022-09-10 |
 | [Badboy](https://open.spotify.com/track/07JJtGwS49VCkgUL0jnkpI) | [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [Badboy](https://open.spotify.com/album/2VmcmAaPUxSczXc0yVHH6n) | 2:12 | 2023-09-08 | 2023-09-23 |
 | [Baila Morena](https://open.spotify.com/track/4eUjxlmJ41jWjv3LtBrN72) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Baila Morena](https://open.spotify.com/album/7mOdiBhGocIW2uYFihkZKP) | 2:42 | 2022-10-06 | 2022-11-08 |
+| [Baila Para Mi](https://open.spotify.com/track/2a2RrAoCSL0kj1145MHGVE) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Baila Para Mi](https://open.spotify.com/album/2Vbiy5ukQXDLRLxVbEjHpU) | 2:23 | 2026-01-08 |  |
 | [Bailame](https://open.spotify.com/track/518i8nVwobjS1oXrwj1Y0l) | [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S), [Forest](https://open.spotify.com/artist/2j6Up11EpEUKQ5yIfFXhdU) | [Bailame](https://open.spotify.com/album/4sStXzFTDDSs12bIERgfad) | 4:12 | 2022-09-02 | 2022-10-16 |
 | [BAILAME ASI](https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [BAILAME ASI](https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i) | 2:24 | 2025-06-20 |  |
 | [Bailando](https://open.spotify.com/track/20mREmWuPj9NFxzbQd5UbR) | [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED) | [Bailando](https://open.spotify.com/album/2B4hKv5HEo6utw880ClzPh) | 2:49 | 2022-11-18 | 2022-12-03 |
@@ -928,6 +929,7 @@
 | [TE SALI A BUSCAR](https://open.spotify.com/track/01wGuoeNwRjGGWjpHFrB9X) | [CRISMOLAVISION](https://open.spotify.com/artist/71HXixL2Y1cpqt7QaaTHfM), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [TE SALI A BUSCAR](https://open.spotify.com/album/0dddB9oae9Llo05rqYIldA) | 3:15 | 2024-06-07 | 2024-06-15 |
 | [TE SOÑÉ](https://open.spotify.com/track/70wr8wxqFYBA1PufntbwWd) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [TE SOÑÉ](https://open.spotify.com/album/0Z3XYDGZkPDVAG31Ufz6uG) | 2:36 | 2025-08-01 | 2025-09-13 |
 | [Te Tengo](https://open.spotify.com/track/1rpXKw5uBnHw7ZZgcue9vp) | [Frangiel](https://open.spotify.com/artist/2uL54ow7INgDUPqbivXHos), [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ) | [Te Tengo](https://open.spotify.com/album/7qn7Lc3UfPNQ69kSFutqUf) | 3:32 | 2024-04-26 | 2024-05-03 |
+| [Te vas](https://open.spotify.com/track/6dr9iXISR0dSKtERnXkj82) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Te vas](https://open.spotify.com/album/6wiBrZD90bXucMKYx5Wmho) | 2:41 | 2026-01-08 |  |
 | [Techeka](https://open.spotify.com/track/2FrZqlR1PrcznpyO7SGSpz) | [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Claps](https://open.spotify.com/artist/4LvpFsMRq1A6yGVD7D2X6c) | [Techeka](https://open.spotify.com/album/6X3hE2745bY00oHEjAC5HK) | 2:45 | 2022-06-24 | 2022-08-20 |
 | [TENTAR](https://open.spotify.com/track/51sWL32vAHFKLH8Gm90lBc) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [TENTAR](https://open.spotify.com/album/0b8aaR8PaimY1oR68WxnJe) | 3:08 | 2024-10-18 | 2024-11-23 |
 | [Tiempo](https://open.spotify.com/track/1ODGZWR5UbLXVhnVOd8aVV) | [Gio Valentinno](https://open.spotify.com/artist/3wQF7KVBpof2yR1Rk31mCt), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [Tiempo](https://open.spotify.com/album/0oCkY5TMOJvhJKstQaCh62) | 3:38 | 2024-10-15 | 2024-10-26 |

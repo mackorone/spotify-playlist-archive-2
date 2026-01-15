@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain](/playlists/plain/37i9dQZF1DX0MuOvUqmxDz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0MuOvUqmxDz)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain](/playlists/plain/37i9dQZF1DX0MuOvUqmxDz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0MuOvUqmxDz)
 
 ### [Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0MuOvUqmxDz)
 
 > Celebrate the Holiday Season with your favorite country artists\. Cover: Luke Bryan and Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,442 likes - 105 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,133 likes - 105 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

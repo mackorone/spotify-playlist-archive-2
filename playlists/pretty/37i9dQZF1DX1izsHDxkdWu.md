@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1izsHDxkdWu.md) - [plain](/playlists/plain/37i9dQZF1DX1izsHDxkdWu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1izsHDxkdWu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1izsHDxkdWu.md) - [plain](/playlists/plain/37i9dQZF1DX1izsHDxkdWu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1izsHDxkdWu)
 
 ### [Over The Moon Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX1izsHDxkdWu)
 
 > Fire up your rocket and sing\-along with Fei Fei to the Moon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,464 likes - 37 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,448 likes - 37 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

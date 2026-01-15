@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cldCKQHv0t.md) - [plain](/playlists/plain/37i9dQZF1DX8cldCKQHv0t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8cldCKQHv0t)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cldCKQHv0t.md) - [plain](/playlists/plain/37i9dQZF1DX8cldCKQHv0t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8cldCKQHv0t)
 
 ### [Sofi Tukker DJ Mix: Summer in New York](https://open.spotify.com/playlist/37i9dQZF1DX8cldCKQHv0t)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0oyg6NiPryV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0oyg6NiPryV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0oyg6NiPryV)
+[pretty](/playlists/pretty/37i9dQZF1DX0oyg6NiPryV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0oyg6NiPryV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0oyg6NiPryV)
 
 ### [Street Woman Fighter \(스트릿 우먼 파이터\)](https://open.spotify.com/playlist/37i9dQZF1DX0oyg6NiPryV)
 

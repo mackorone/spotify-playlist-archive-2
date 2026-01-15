@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQ8RL8n6RxT.md) - [plain](/playlists/plain/37i9dQZF1DXcQ8RL8n6RxT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcQ8RL8n6RxT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQ8RL8n6RxT.md) - [plain](/playlists/plain/37i9dQZF1DXcQ8RL8n6RxT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcQ8RL8n6RxT)
 
 ### [Building the Band Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcQ8RL8n6RxT)
 
 > All the tracks covered by artists in the new Netflix series Building the Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,773 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,123 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

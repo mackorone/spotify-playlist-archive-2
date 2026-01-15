@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8L1VmOcEBjS.md) - [plain](/playlists/plain/37i9dQZF1DX8L1VmOcEBjS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8L1VmOcEBjS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8L1VmOcEBjS.md) - [plain](/playlists/plain/37i9dQZF1DX8L1VmOcEBjS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8L1VmOcEBjS)
 
 ### [Viva Latino Presents: Best Latin Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX8L1VmOcEBjS)
 
 > Our editors' picks for the best Latin songs of the year! \#SpotifyWrapped Cover:  Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,984 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,804 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

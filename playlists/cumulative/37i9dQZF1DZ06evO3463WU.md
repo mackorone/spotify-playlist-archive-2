@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO3463WU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3463WU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3463WU)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO3463WU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3463WU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO3463WU)
 
 ### [This Is Pancho Barraza](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU)
 

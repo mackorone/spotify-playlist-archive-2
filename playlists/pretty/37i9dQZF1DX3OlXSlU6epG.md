@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3OlXSlU6epG.md) - [plain](/playlists/plain/37i9dQZF1DX3OlXSlU6epG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3OlXSlU6epG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3OlXSlU6epG.md) - [plain](/playlists/plain/37i9dQZF1DX3OlXSlU6epG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3OlXSlU6epG)
 
 ### [The Robert Frost Reading Room](https://open.spotify.com/playlist/37i9dQZF1DX3OlXSlU6epG)
 

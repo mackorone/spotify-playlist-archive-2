@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28e329hmxEg.md) - [plain](/playlists/plain/37i9dQZF1DX28e329hmxEg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX28e329hmxEg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28e329hmxEg.md) - [plain](/playlists/plain/37i9dQZF1DX28e329hmxEg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX28e329hmxEg)
 
 ### [Country Music 101:  Good Vibes](https://open.spotify.com/playlist/37i9dQZF1DX28e329hmxEg)
 

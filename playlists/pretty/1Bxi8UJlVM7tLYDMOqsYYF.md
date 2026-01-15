@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1Bxi8UJlVM7tLYDMOqsYYF.md) - [plain](/playlists/plain/1Bxi8UJlVM7tLYDMOqsYYF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1Bxi8UJlVM7tLYDMOqsYYF)
+pretty - [cumulative](/playlists/cumulative/1Bxi8UJlVM7tLYDMOqsYYF.md) - [plain](/playlists/plain/1Bxi8UJlVM7tLYDMOqsYYF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1Bxi8UJlVM7tLYDMOqsYYF)
 
 ### [Girls Night Out](https://open.spotify.com/playlist/1Bxi8UJlVM7tLYDMOqsYYF)
 
 > The ultimate playlist to get you ready for a fun night out with your girlfriends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153 likes - 47 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151 likes - 47 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

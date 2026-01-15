@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain](/playlists/plain/5JOn3LSfpbCrOQ7azB4S6C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5JOn3LSfpbCrOQ7azB4S6C)
+pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain](/playlists/plain/5JOn3LSfpbCrOQ7azB4S6C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5JOn3LSfpbCrOQ7azB4S6C)
 
 ### [New Singles on Spotify](https://open.spotify.com/playlist/5JOn3LSfpbCrOQ7azB4S6C)
 
 > The latest singles on Spotify all in one playlist\. Updated weekly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,466 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,457 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

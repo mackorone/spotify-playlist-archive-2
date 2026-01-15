@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSKoG4oVafMt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSKoG4oVafMt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSKoG4oVafMt)
+[pretty](/playlists/pretty/37i9dQZF1DWSKoG4oVafMt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSKoG4oVafMt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSKoG4oVafMt)
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 

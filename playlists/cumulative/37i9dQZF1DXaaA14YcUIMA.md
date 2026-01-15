@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXaaA14YcUIMA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaaA14YcUIMA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaaA14YcUIMA)
+[pretty](/playlists/pretty/37i9dQZF1DXaaA14YcUIMA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaaA14YcUIMA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaaA14YcUIMA)
 
 ### [Romance Grupero](https://open.spotify.com/playlist/37i9dQZF1DXaaA14YcUIMA)
 

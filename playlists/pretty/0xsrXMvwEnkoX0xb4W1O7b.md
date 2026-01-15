@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0xsrXMvwEnkoX0xb4W1O7b.md) - [plain](/playlists/plain/0xsrXMvwEnkoX0xb4W1O7b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0xsrXMvwEnkoX0xb4W1O7b)
+pretty - [cumulative](/playlists/cumulative/0xsrXMvwEnkoX0xb4W1O7b.md) - [plain](/playlists/plain/0xsrXMvwEnkoX0xb4W1O7b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0xsrXMvwEnkoX0xb4W1O7b)
 
 ### [Spieltrieb!](https://open.spotify.com/playlist/0xsrXMvwEnkoX0xb4W1O7b)
 

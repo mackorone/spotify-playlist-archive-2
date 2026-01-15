@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEvftu9yFoF.md) - [plain](/playlists/plain/37i9dQZF1DWTEvftu9yFoF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTEvftu9yFoF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEvftu9yFoF.md) - [plain](/playlists/plain/37i9dQZF1DWTEvftu9yFoF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTEvftu9yFoF)
 
 ### [The Mandalorian Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTEvftu9yFoF)
 
 > The Mandalorian and the Child continue their journey, facing enemies and rallying allies as they make their way through a dangerous galaxy in the tumultuous era after the collapse of the Galactic Empire\. Now streaming on Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,707 likes - 119 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,750 likes - 119 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

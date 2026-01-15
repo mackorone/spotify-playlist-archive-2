@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain](/playlists/plain/3C64V048fGyQfCjmu9TIGA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3C64V048fGyQfCjmu9TIGA)
+pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain](/playlists/plain/3C64V048fGyQfCjmu9TIGA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3C64V048fGyQfCjmu9TIGA)
 
 ### [90s HITS \| TOP 100 SONGS](https://open.spotify.com/playlist/3C64V048fGyQfCjmu9TIGA)
 
 > The best of the 1990s classics, NYE, 90s throwbacks, New Years, 90s R&amp;B, New Years Eve, 90s Pop, Party, 90s Songs, 90s Music, 90s Alternative and more from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,471,091 likes - 145 songs - 9 hr 59 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,475,170 likes - 145 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

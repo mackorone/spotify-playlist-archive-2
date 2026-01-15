@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI5fbMaBtko.md) - [plain](/playlists/plain/37i9dQZF1DWZI5fbMaBtko) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZI5fbMaBtko)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI5fbMaBtko.md) - [plain](/playlists/plain/37i9dQZF1DWZI5fbMaBtko) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZI5fbMaBtko)
 
 ### [Baila Reggaeton Presents: Best of 2025](https://open.spotify.com/playlist/37i9dQZF1DWZI5fbMaBtko)
 
 > Our editors' picks for the best reggaeton songs of the year! \#SpotifyWrapped Cover: Katteyes, Jere Klein, Lucky Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,812 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,292 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

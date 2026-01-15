@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 664389,
+  "num_followers": 664504,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 292800,
       "name": "I Wanna Be Adored - Remastered 2009",
       "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "All Change",
-        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
-      },
-      "artists": [
-        {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Walkaway",
-      "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 232333,
       "name": "She Bangs the Drums - Remastered 2009",
       "url": "https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "All Change",
+        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
+      },
+      "artists": [
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Walkaway",
+      "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "All Change",
-        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
-      },
-      "artists": [
-        {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 492946,
       "name": "I Am the Resurrection - Remastered 2009",
       "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "All Change",
+        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
+      },
+      "artists": [
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Brimful of Asha",
         "url": "https://open.spotify.com/album/3zImpd2BehQCHbnTiIJlZB"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 243666,
       "name": "Brimful of Asha (Norman Cook Remix) (Single Version)",
       "url": "https://open.spotify.com/track/29capylmokCeuNAWqGitij"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "(What's the Story) Morning Glory?",
-        "url": "https://open.spotify.com/album/0PTVq4kaAAuROnfvfA7bHG"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 287826,
-      "name": "Don't Look Back In Anger",
-      "url": "https://open.spotify.com/track/3ixTiPABjqkBKPocxq6oIe"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
+        "name": "(What's the Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/0PTVq4kaAAuROnfvfA7bHG"
       },
       "artists": [
         {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
+      "duration_ms": 287826,
+      "name": "Don't Look Back In Anger",
+      "url": "https://open.spotify.com/track/3ixTiPABjqkBKPocxq6oIe"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "The Best Of Ash (Remastered Version)",
+        "url": "https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Girl From Mars",
+      "url": "https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Gold Mother",
         "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 244866,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Different Class / Deluxe Edition",
-        "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 273733,
-      "name": "Disco 2000",
-      "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Best Of Ash (Remastered Version)",
-        "url": "https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib"
+        "name": "Different Class / Deluxe Edition",
+        "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 213533,
-      "name": "Girl From Mars",
-      "url": "https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx"
+      "duration_ms": 273733,
+      "name": "Disco 2000",
+      "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -892,25 +892,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 289146,
-      "name": "Cigarettes & Alcohol - Remastered",
-      "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
+      "duration_ms": 322946,
+      "name": "Rock \u2018n\u2019 Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Urban Hymns",
-        "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
       },
       "artists": [
         {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
         }
       ],
-      "duration_ms": 305066,
-      "name": "The Drugs Don't Work",
-      "url": "https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5"
+      "duration_ms": 156866,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -963,6 +947,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "His 'N' Hers",
+        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
         "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
       },
@@ -972,9 +972,25 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 322946,
-      "name": "Rock \u2018n\u2019 Roll Star - Remastered",
-      "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Urban Hymns",
+        "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "The Drugs Don't Work",
+      "url": "https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1023,22 +1039,6 @@
       "duration_ms": 269840,
       "name": "One To Another",
       "url": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "His 'N' Hers",
-        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Babies",
-      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
     },
     {
       "added_at": "2024-03-18 22:10:08",

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUfOmgBZyBo.md) - [plain](/playlists/plain/37i9dQZF1DXaUfOmgBZyBo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaUfOmgBZyBo)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUfOmgBZyBo.md) - [plain](/playlists/plain/37i9dQZF1DXaUfOmgBZyBo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaUfOmgBZyBo)
 
 ### [ PSYCHO\-PASS サイコパス](https://open.spotify.com/playlist/37i9dQZF1DXaUfOmgBZyBo)
 
 > Music from "PSYCHO\-PASS" Series !「 PSYCHO\-PASS サイコパス」シリーズの楽曲を1つのプレイリストで。©サイコパス製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,011 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,053 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

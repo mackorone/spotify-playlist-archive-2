@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain](/playlists/plain/37i9dQZF1DWTThV2562fDa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTThV2562fDa)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain](/playlists/plain/37i9dQZF1DWTThV2562fDa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTThV2562fDa)
 
 ### [Squid Game Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWTThV2562fDa)
 
 > There's no stopping the game\. Listen to the music from Squid Game, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,103 likes - 78 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,939 likes - 78 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

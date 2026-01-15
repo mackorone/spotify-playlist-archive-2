@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6uXTkT8st0AzDKBGr4Rqdo.md) - cumulative - [plain](/playlists/plain/6uXTkT8st0AzDKBGr4Rqdo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6uXTkT8st0AzDKBGr4Rqdo)
+[pretty](/playlists/pretty/6uXTkT8st0AzDKBGr4Rqdo.md) - cumulative - [plain](/playlists/plain/6uXTkT8st0AzDKBGr4Rqdo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6uXTkT8st0AzDKBGr4Rqdo)
 
 ### [Loud and Proud 2024](https://open.spotify.com/playlist/6uXTkT8st0AzDKBGr4Rqdo)
 

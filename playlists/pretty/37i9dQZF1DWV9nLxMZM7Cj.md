@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9nLxMZM7Cj.md) - [plain](/playlists/plain/37i9dQZF1DWV9nLxMZM7Cj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV9nLxMZM7Cj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9nLxMZM7Cj.md) - [plain](/playlists/plain/37i9dQZF1DWV9nLxMZM7Cj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWV9nLxMZM7Cj)
 
 ### [Viral JRE Episodes](https://open.spotify.com/playlist/37i9dQZF1DWV9nLxMZM7Cj)
 
 > Take a listen to the most viral interviews and episodes of JRE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,545 likes - 29 songs - 3 day 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,528 likes - 29 songs - 3 day 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

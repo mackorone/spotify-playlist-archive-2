@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5IVuKxUE9V.md) - [plain](/playlists/plain/37i9dQZF1DWW5IVuKxUE9V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW5IVuKxUE9V)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5IVuKxUE9V.md) - [plain](/playlists/plain/37i9dQZF1DWW5IVuKxUE9V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW5IVuKxUE9V)
 
 ### [GLOW Tapes: Jack Rooke](https://open.spotify.com/playlist/37i9dQZF1DWW5IVuKxUE9V)
 
 > THE PARTY + THE AFTERS \(Gaylord's Version\), curated by Jack Rooke\. Big indie, electronic bangers for your house party dance floor, turning into chill queer anthems for the DMCs at the kitchen table 👍
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,632 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,646 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

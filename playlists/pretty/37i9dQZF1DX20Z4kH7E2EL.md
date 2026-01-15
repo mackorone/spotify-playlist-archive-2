@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain](/playlists/plain/37i9dQZF1DX20Z4kH7E2EL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX20Z4kH7E2EL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain](/playlists/plain/37i9dQZF1DX20Z4kH7E2EL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX20Z4kH7E2EL)
 
 ### [Qrion's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX20Z4kH7E2EL)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6UGRY7ru8yUPoNLa0f4tWv.md) - [plain](/playlists/plain/6UGRY7ru8yUPoNLa0f4tWv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6UGRY7ru8yUPoNLa0f4tWv)
+pretty - [cumulative](/playlists/cumulative/6UGRY7ru8yUPoNLa0f4tWv.md) - [plain](/playlists/plain/6UGRY7ru8yUPoNLa0f4tWv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6UGRY7ru8yUPoNLa0f4tWv)
 
 ### [Clubland Classix](https://open.spotify.com/playlist/6UGRY7ru8yUPoNLa0f4tWv)
 
 > The Biggest Clubland tunes!
 
-[Clubland](https://open.spotify.com/user/clublandhq) - 295,251 likes - 106 songs - 5 hr 36 min
+[Clubland](https://open.spotify.com/user/clublandhq) - 295,238 likes - 106 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

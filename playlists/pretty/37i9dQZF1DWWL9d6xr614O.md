@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain](/playlists/plain/37i9dQZF1DWWL9d6xr614O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWL9d6xr614O)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain](/playlists/plain/37i9dQZF1DWWL9d6xr614O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWL9d6xr614O)
 
 ### [Sing His Praises](https://open.spotify.com/playlist/37i9dQZF1DWWL9d6xr614O)
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,073 likes - 161 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,160 likes - 161 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ZnvPON3ro.md) - [plain](/playlists/plain/37i9dQZF1DX59ZnvPON3ro) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX59ZnvPON3ro)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ZnvPON3ro.md) - [plain](/playlists/plain/37i9dQZF1DX59ZnvPON3ro) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX59ZnvPON3ro)
 
 ### [Someone Great](https://open.spotify.com/playlist/37i9dQZF1DX59ZnvPON3ro)
 
 > The music from Someone Great on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,662 likes - 29 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,706 likes - 29 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

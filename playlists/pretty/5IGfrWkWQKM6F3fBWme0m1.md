@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain](/playlists/plain/5IGfrWkWQKM6F3fBWme0m1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5IGfrWkWQKM6F3fBWme0m1)
+pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain](/playlists/plain/5IGfrWkWQKM6F3fBWme0m1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5IGfrWkWQKM6F3fBWme0m1)
 
 ### [JG \~ Dusk Til..\. 💫](https://open.spotify.com/playlist/5IGfrWkWQKM6F3fBWme0m1)
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,476 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,475 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

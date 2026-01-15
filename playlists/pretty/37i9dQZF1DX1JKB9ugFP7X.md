@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain](/playlists/plain/37i9dQZF1DX1JKB9ugFP7X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1JKB9ugFP7X)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain](/playlists/plain/37i9dQZF1DX1JKB9ugFP7X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1JKB9ugFP7X)
 
 ### [Electropop](https://open.spotify.com/playlist/37i9dQZF1DX1JKB9ugFP7X)
 
 > Lo mejor del electropop latino\. Foto: Vera Frod
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,820 likes - 102 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,837 likes - 102 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

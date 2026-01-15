@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4v1kmgPjq1t.md) - [plain](/playlists/plain/37i9dQZF1DX4v1kmgPjq1t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4v1kmgPjq1t)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4v1kmgPjq1t.md) - [plain](/playlists/plain/37i9dQZF1DX4v1kmgPjq1t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4v1kmgPjq1t)
 
 ### [TWICE WORLD TOUR \[THIS IS FOR\]](https://open.spotify.com/playlist/37i9dQZF1DX4v1kmgPjq1t)
 
 > Enjoy the TWICE WORLD TOUR \[THIS IS FOR\] LIVE SET including the voices of them on stage! \(트와이스의 무대 멘트와 목소리가 포함된 \[THIS IS FOR\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,899 likes - 29 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,118 likes - 29 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

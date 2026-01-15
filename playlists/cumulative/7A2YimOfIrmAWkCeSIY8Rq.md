@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7A2YimOfIrmAWkCeSIY8Rq.md) - cumulative - [plain](/playlists/plain/7A2YimOfIrmAWkCeSIY8Rq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7A2YimOfIrmAWkCeSIY8Rq)
+[pretty](/playlists/pretty/7A2YimOfIrmAWkCeSIY8Rq.md) - cumulative - [plain](/playlists/plain/7A2YimOfIrmAWkCeSIY8Rq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7A2YimOfIrmAWkCeSIY8Rq)
 
 ### [Calm Classics](https://open.spotify.com/playlist/7A2YimOfIrmAWkCeSIY8Rq)
 

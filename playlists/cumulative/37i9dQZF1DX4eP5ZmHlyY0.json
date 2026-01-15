@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Boys groups/solo artists shining beyond borders. Cover: King & Prince",
+  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Boys groups/solo artists shining beyond borders. Cover: NCT WISH",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -576,7 +576,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170000,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 172000,
       "name": "BBUU!",
       "url": "https://open.spotify.com/track/5aVJRrcywxt8dtjkgihKsF"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 137684,
       "name": "BET YOUR LIFE",
       "url": "https://open.spotify.com/track/3i3i4SqqAjWvihgVhWbQXS"
@@ -1477,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "DxS 1st Mini Album 'Serenade'",
+        "url": "https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7"
+      },
+      "artists": [
+        {
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X"
+    },
+    {
+      "album": {
         "name": "BLUE (Japanese ver.)",
         "url": "https://open.spotify.com/album/7i6ZTJn1LA0V9FDLOEIpC7"
       },
@@ -1510,6 +1528,24 @@
       "duration_ms": 186013,
       "name": "Blue Flame",
       "url": "https://open.spotify.com/track/2HL9ZAoNjflbahJ8QuqqxN"
+    },
+    {
+      "album": {
+        "name": "Blue Noise",
+        "url": "https://open.spotify.com/album/6e3Wl1GxjjkKnKeJP9ISah"
+      },
+      "artists": [
+        {
+          "name": "Ryosuke Yamada",
+          "url": "https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252027,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/4eZoG6oPWtgQSTq2WO2tfB"
     },
     {
       "album": {
@@ -1654,6 +1690,24 @@
       "duration_ms": 224006,
       "name": "BOOST",
       "url": "https://open.spotify.com/track/0aZo9k3b4kOrtq36ZmcJLh"
+    },
+    {
+      "album": {
+        "name": "Borrow your night (Original Soundtrack from Even If This Love Disappears Tonight)",
+        "url": "https://open.spotify.com/album/2dJ3DN0Xk7LZ7LUAMf7ILZ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Borrow your night",
+      "url": "https://open.spotify.com/track/09AlOqeaIaKCiNrbXRGjJp"
     },
     {
       "album": {
@@ -1834,6 +1888,24 @@
       "duration_ms": 228759,
       "name": "BREMEN",
       "url": "https://open.spotify.com/track/2INxMYYnLdxmB16I45lB4E"
+    },
+    {
+      "album": {
+        "name": "BRING THE FIRE",
+        "url": "https://open.spotify.com/album/2AVDc1fKihIJqvLXJW2s89"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "BRING THE FIRE",
+      "url": "https://open.spotify.com/track/1SJaEr3m8ZDONbQAbFHQx7"
     },
     {
       "album": {
@@ -3456,7 +3528,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141000,
       "name": "Eight Eleven",
       "url": "https://open.spotify.com/track/1bA3Iw9z64PdJVohEb8g0D"
@@ -4026,7 +4098,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 220107,
       "name": "Fly to you",
       "url": "https://open.spotify.com/track/4jr5dgzdPw2nuttnYcQf4N"
@@ -4098,7 +4170,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 188000,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk"
@@ -4124,6 +4196,24 @@
       "duration_ms": 192560,
       "name": "Fraktsiya",
       "url": "https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E"
+    },
+    {
+      "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/5KjSbhl2qMeU6Ux7h4Wk0W"
+      },
+      "artists": [
+        {
+          "name": "ALPHA DRIVE ONE",
+          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "FREAK ALARM",
+      "url": "https://open.spotify.com/track/4LYM1IwuTq6b5vqTdQTbag"
     },
     {
       "album": {
@@ -4642,6 +4732,24 @@
       "duration_ms": 179840,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/4fo8TtOwSvjs2obPzIDxt4"
+    },
+    {
+      "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/415PQ4hWnSX9DUkbc4bum3"
+      },
+      "artists": [
+        {
+          "name": "WILD BLUE",
+          "url": "https://open.spotify.com/artist/4qgBzbI2ncLyF2fEGf8GTm"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215149,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/0X5b0hsjQxTy2GnpE8s2hD"
     },
     {
       "album": {
@@ -5291,6 +5399,24 @@
     },
     {
       "album": {
+        "name": "WISHLIST",
+        "url": "https://open.spotify.com/album/0AbenVXd5ypXotWe1z0ytw"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Hello Mellow",
+      "url": "https://open.spotify.com/track/0Bta0rqkUh1ErjpwHIofP6"
+    },
+    {
+      "album": {
         "name": "Hi!Clap!!!!",
         "url": "https://open.spotify.com/album/0kHtlHmRY6Z4QCLZdaVCGc"
       },
@@ -5518,7 +5644,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163000,
       "name": "HUNTER",
       "url": "https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8"
@@ -5800,7 +5926,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193000,
       "name": "ICONIK",
       "url": "https://open.spotify.com/track/3b7ejK9HytsRwa1Wne277w"
@@ -5818,7 +5944,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 241560,
       "name": "ICU",
       "url": "https://open.spotify.com/track/5Pgmc96e272kcUaSdpOKZt"
@@ -5924,7 +6050,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148000,
       "name": "if you wanna",
       "url": "https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP"
@@ -6535,6 +6661,24 @@
     },
     {
       "album": {
+        "name": "Koijanai? - Don't you love me? -",
+        "url": "https://open.spotify.com/album/5jFgDZwTLLswYtwPzxplmP"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184999,
+      "name": "Koijanai? - Don't you love me? -",
+      "url": "https://open.spotify.com/track/6bT7YKm6I8yMZPasNSlAkf"
+    },
+    {
+      "album": {
         "name": "Kyoutou feat. RYOKI from BE:FIRST",
         "url": "https://open.spotify.com/album/5xZRKhx7mmHb6SwlY2uPwh"
       },
@@ -6748,7 +6892,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159000,
       "name": "Lemonade Fever",
       "url": "https://open.spotify.com/track/1NBJqeN7geJr4734PJponO"
@@ -7264,6 +7408,24 @@
       "duration_ms": 167219,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf"
+    },
+    {
+      "album": {
+        "name": "&Joy",
+        "url": "https://open.spotify.com/album/4I50ZuDdnKeLnH8eXLao6m"
+      },
+      "artists": [
+        {
+          "name": "Kis-My-Ft2",
+          "url": "https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Luminar",
+      "url": "https://open.spotify.com/track/3NzXk5Da3FTirFCAHaHqtd"
     },
     {
       "album": {
@@ -9254,7 +9416,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 318546,
       "name": "PIECES - STARGLOW Ver.",
       "url": "https://open.spotify.com/track/1hY0tMMKzSkeW6czNDdPph"
@@ -9553,6 +9715,24 @@
     },
     {
       "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/0bvHQE5uTxsfNnm6x1JhQX"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141203,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/3czXRC1ZSS4aYlLAMoxg2y"
+    },
+    {
+      "album": {
         "name": "Present",
         "url": "https://open.spotify.com/album/5tq7fJiO0PAXr5AZ9Wm73w"
       },
@@ -9622,6 +9802,24 @@
       "duration_ms": 176973,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/4etRRTZx5odrdgKiZqGSZ6"
+    },
+    {
+      "album": {
+        "name": "<yesweare>",
+        "url": "https://open.spotify.com/album/11LKBt6oAhxk5h5nEreqgE"
+      },
+      "artists": [
+        {
+          "name": "idntt",
+          "url": "https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Pretty Boy Swag",
+      "url": "https://open.spotify.com/track/0CAp5YHw319gluaW2uCGJN"
     },
     {
       "album": {
@@ -10351,6 +10549,42 @@
     },
     {
       "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/1r0FKtz7RlCiLJVDbwYVSk"
+      },
+      "artists": [
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146030,
+      "name": "Run It Back",
+      "url": "https://open.spotify.com/track/2DHlMEVSmWkmffblREZazJ"
+    },
+    {
+      "album": {
+        "name": "Running to Future",
+        "url": "https://open.spotify.com/album/4UwJN15Kj788q1cr5X2j5T"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Running to Future",
+      "url": "https://open.spotify.com/track/4GoHlroPFfWSJzp6PSZEzU"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
       },
@@ -10438,6 +10672,24 @@
       "duration_ms": 243498,
       "name": "Same Key",
       "url": "https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n"
+    },
+    {
+      "album": {
+        "name": "Saucin'",
+        "url": "https://open.spotify.com/album/5y364Kj24BuuitP830bMnM"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173041,
+      "name": "Saucin'",
+      "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
     },
     {
       "album": {
@@ -10812,7 +11064,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171744,
       "name": "SKIID",
       "url": "https://open.spotify.com/track/69Lfa6t4sskn5BwiHJ1nch"
@@ -11406,7 +11658,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182000,
       "name": "Stretch",
       "url": "https://open.spotify.com/track/45ika45Kgm9A0a9Hg36tRz"
@@ -11608,6 +11860,24 @@
       "duration_ms": 175800,
       "name": "SUPER CRUISIN'",
       "url": "https://open.spotify.com/track/0kOfUCUvagEqAG7SEpkgph"
+    },
+    {
+      "album": {
+        "name": "SUPER DUPER",
+        "url": "https://open.spotify.com/album/5uXFSurC7P8LZ5kp8FnOBR"
+      },
+      "artists": [
+        {
+          "name": "Hi-Fi Un!corn",
+          "url": "https://open.spotify.com/artist/6095rKDrPnRCro0ckAe9hY"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177794,
+      "name": "SUPER DUPER",
+      "url": "https://open.spotify.com/track/7MIpWfeufPJQij1RajFjz8"
     },
     {
       "album": {
@@ -11816,7 +12086,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190067,
       "name": "SWISH DAT",
       "url": "https://open.spotify.com/track/6Y8Wcj1NS3dy3tk7NTyhvB"
@@ -12094,6 +12364,24 @@
       "duration_ms": 219066,
       "name": "tenkiame",
       "url": "https://open.spotify.com/track/2KW6VGVTCn7vlSrSPTCViG"
+    },
+    {
+      "album": {
+        "name": "TERMiNaL",
+        "url": "https://open.spotify.com/album/1frUG2oy6KBzZiH1PLVthy"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241567,
+      "name": "TERMINAL",
+      "url": "https://open.spotify.com/track/4lrHntVNvwyoT0jFwPbH8f"
     },
     {
       "album": {
@@ -13180,7 +13468,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 230546,
       "name": "What's DXTEEN",
       "url": "https://open.spotify.com/track/5EaRDHfG3BwWPpaJngsSxA"
@@ -13529,6 +13817,24 @@
     },
     {
       "album": {
+        "name": "Wonder Island",
+        "url": "https://open.spotify.com/album/1xdFrSrSHVQVO3DrSs2ZvR"
+      },
+      "artists": [
+        {
+          "name": "LIL LEAGUE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194200,
+      "name": "Wonder Island",
+      "url": "https://open.spotify.com/track/0eglAC74uyZoCxln7VT5il"
+    },
+    {
+      "album": {
         "name": "Wonder Woman",
         "url": "https://open.spotify.com/album/4HPznSYTy5MTam9Ug4dHoS"
       },
@@ -13670,6 +13976,24 @@
       "duration_ms": 171000,
       "name": "X",
       "url": "https://open.spotify.com/track/0XTt8RvNdO1zxxTf0L7ZLr"
+    },
+    {
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/6rwbsr75hgHJ6x8WX2cul2"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172571,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/76qI8ihfONou0gth5gHW18"
     },
     {
       "album": {
@@ -13844,7 +14168,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 207000,
       "name": "Zuruiyo",
       "url": "https://open.spotify.com/track/4NpMC9ea6SJdkbK0zjPxJS"
@@ -14334,7 +14658,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 235826,
       "name": "\u30b5\u30f3\u30bf\u3055\u3093\u3078\u3002",
       "url": "https://open.spotify.com/track/0wrgXZ4dSl8LPm3ddP0YRz"
@@ -15029,6 +15353,24 @@
     },
     {
       "album": {
+        "name": "\u597d\u304d\u3059\u304e\u3066\u6ec5\uff01",
+        "url": "https://open.spotify.com/album/0MKOqrmzENfaB1FpkZjHp7"
+      },
+      "artists": [
+        {
+          "name": "M!LK",
+          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "\u597d\u304d\u3059\u304e\u3066\u6ec5\uff01",
+      "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
+    },
+    {
+      "album": {
         "name": "PHENOMENON",
         "url": "https://open.spotify.com/album/0zXQvdFAbXpptoCqBliBjB"
       },
@@ -15094,7 +15436,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173906,
       "name": "\u5fc3\u76d7\u591c",
       "url": "https://open.spotify.com/track/0r8o7thnwGB9xFbdesiebK"

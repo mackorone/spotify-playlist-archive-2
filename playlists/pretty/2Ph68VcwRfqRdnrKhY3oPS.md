@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2Ph68VcwRfqRdnrKhY3oPS.md) - [plain](/playlists/plain/2Ph68VcwRfqRdnrKhY3oPS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2Ph68VcwRfqRdnrKhY3oPS)
+pretty - [cumulative](/playlists/cumulative/2Ph68VcwRfqRdnrKhY3oPS.md) - [plain](/playlists/plain/2Ph68VcwRfqRdnrKhY3oPS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2Ph68VcwRfqRdnrKhY3oPS)
 
 ### [Rustic Romance Wedding](https://open.spotify.com/playlist/2Ph68VcwRfqRdnrKhY3oPS)
 
 > A charming musical touch to the most significant moment in your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 909 likes - 62 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 907 likes - 62 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

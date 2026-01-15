@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXczt8d1q77fm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXczt8d1q77fm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXczt8d1q77fm)
+[pretty](/playlists/pretty/37i9dQZF1DXczt8d1q77fm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXczt8d1q77fm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXczt8d1q77fm)
 
 ### [Fuego \#050 \- Jess Judith's Mixtape](https://open.spotify.com/playlist/37i9dQZF1DXczt8d1q77fm)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/704d0syHBEyo2KKhGrHfTa.md) - [plain](/playlists/plain/704d0syHBEyo2KKhGrHfTa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/704d0syHBEyo2KKhGrHfTa)
+pretty - [cumulative](/playlists/cumulative/704d0syHBEyo2KKhGrHfTa.md) - [plain](/playlists/plain/704d0syHBEyo2KKhGrHfTa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/704d0syHBEyo2KKhGrHfTa)
 
 ### [East of Earth](https://open.spotify.com/playlist/704d0syHBEyo2KKhGrHfTa)
 

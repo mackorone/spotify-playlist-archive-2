@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnjjHJCYzB8.md) - [plain](/playlists/plain/37i9dQZF1DWXnjjHJCYzB8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXnjjHJCYzB8)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnjjHJCYzB8.md) - [plain](/playlists/plain/37i9dQZF1DWXnjjHJCYzB8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXnjjHJCYzB8)
 
 ### [Spotify Music Studios Originals 2025](https://open.spotify.com/playlist/37i9dQZF1DWXnjjHJCYzB8)
 
 > Spotify Singles, Outside, and Live Room releases from 2025\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,557 likes - 33 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,686 likes - 33 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

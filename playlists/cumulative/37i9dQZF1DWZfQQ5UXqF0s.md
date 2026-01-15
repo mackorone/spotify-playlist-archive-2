@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZfQQ5UXqF0s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZfQQ5UXqF0s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZfQQ5UXqF0s)
+[pretty](/playlists/pretty/37i9dQZF1DWZfQQ5UXqF0s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZfQQ5UXqF0s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZfQQ5UXqF0s)
 
 ### [Los 90 México](https://open.spotify.com/playlist/37i9dQZF1DWZfQQ5UXqF0s)
 

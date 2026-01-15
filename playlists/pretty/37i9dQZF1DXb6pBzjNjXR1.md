@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain](/playlists/plain/37i9dQZF1DXb6pBzjNjXR1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb6pBzjNjXR1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain](/playlists/plain/37i9dQZF1DXb6pBzjNjXR1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXb6pBzjNjXR1)
 
 ### [AfroTech Now](https://open.spotify.com/playlist/37i9dQZF1DXb6pBzjNjXR1)
 
 > Listen to the best in AfroTech as it travels the world's dancefloors\. Cover: <a href="https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=IDV6FFKHTZqZY6esFdH2\-A">Thakzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,655 likes - 61 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,738 likes - 61 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

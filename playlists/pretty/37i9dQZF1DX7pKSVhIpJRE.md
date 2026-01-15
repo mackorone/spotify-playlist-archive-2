@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain](/playlists/plain/37i9dQZF1DX7pKSVhIpJRE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7pKSVhIpJRE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain](/playlists/plain/37i9dQZF1DX7pKSVhIpJRE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7pKSVhIpJRE)
 
 ### [The Crown Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX7pKSVhIpJRE)
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,089 likes - 152 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,242 likes - 152 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: El Manu",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Kyle Raphael",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -1254,6 +1254,24 @@
       "duration_ms": 219180,
       "name": "Buti Nalang",
       "url": "https://open.spotify.com/track/35k1RDZMyUYDYz8wcEQHO2"
+    },
+    {
+      "album": {
+        "name": "Carla's Eyes",
+        "url": "https://open.spotify.com/album/15ryL9taDNnJMQVdztCv8M"
+      },
+      "artists": [
+        {
+          "name": "Ca\u00f1a",
+          "url": "https://open.spotify.com/artist/1gmvYFMrUzI3qL11GrmtD8"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Carla's Eyes",
+      "url": "https://open.spotify.com/track/6ndaTKTNhisOYxYIHhn6bE"
     },
     {
       "album": {
@@ -2918,7 +2936,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 284869,
       "name": "Huling Sandali",
       "url": "https://open.spotify.com/track/5leZwTgwMob3NysJNsfU1a"
@@ -7225,6 +7243,24 @@
     },
     {
       "album": {
+        "name": "Sabihin Mo Lang",
+        "url": "https://open.spotify.com/album/2PgrN7s5f9iQ5cMGVFbYXE"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180588,
+      "name": "Sabihin Mo Lang",
+      "url": "https://open.spotify.com/track/7JGChCgGGxVdPMxopSTzzN"
+    },
+    {
+      "album": {
         "name": "Sabik",
         "url": "https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ"
       },
@@ -8042,7 +8078,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194786,
       "name": "Take It To The Roof",
       "url": "https://open.spotify.com/track/0iP5DWmX7dbpxpKot3VzOR"

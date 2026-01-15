@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Untitled, Vol 1.",
+        "url": "https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh"
+      },
+      "artists": [
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Duct Tape Lips",
+      "url": "https://open.spotify.com/track/1SeQWIqZoNIPlKYAR7qBBU"
+    },
+    {
+      "album": {
         "name": "Untitled, Vol. 1",
         "url": "https://open.spotify.com/album/6o4pjjkrHrrKYHFzPt8hil"
       },
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167799,
       "name": "Duct Tape Lips",
       "url": "https://open.spotify.com/track/1JXk3iFRSPOSWcMWf9Twb6"
@@ -2824,7 +2842,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 181730,
       "name": "Lonely Together",
       "url": "https://open.spotify.com/track/4CznlctarxgWvy3NoMFfMH"
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 181812,
       "name": "Lonely Together (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/2OALaHcDdKkjYEpAr0Qzab"
@@ -4181,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "Untitled, Vol 1.",
+        "url": "https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh"
+      },
+      "artists": [
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210813,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/16S1tKSwbeEx2SJCRgFQZ5"
+    },
+    {
+      "album": {
         "name": "Untitled Vol. 1",
         "url": "https://open.spotify.com/album/2ssQ0Rw8fqgQEDsVVNb0Sm"
       },
@@ -4210,7 +4246,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210821,
       "name": "Snow",
       "url": "https://open.spotify.com/track/4PekhdeGrTUrW1wqbN6nAo"
@@ -4620,6 +4656,24 @@
       "duration_ms": 236198,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/2XXqwxlUq8C3gLc1TyDtPt"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
     },
     {
       "album": {

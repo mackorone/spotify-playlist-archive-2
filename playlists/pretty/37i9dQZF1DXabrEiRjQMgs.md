@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabrEiRjQMgs.md) - [plain](/playlists/plain/37i9dQZF1DXabrEiRjQMgs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXabrEiRjQMgs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabrEiRjQMgs.md) - [plain](/playlists/plain/37i9dQZF1DXabrEiRjQMgs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXabrEiRjQMgs)
 
 ### [Classical Ballet](https://open.spotify.com/playlist/37i9dQZF1DXabrEiRjQMgs)
 
 > Explore the world of ballet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,186 likes - 47 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,865 likes - 47 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62UoGI8fCjx.md) - [plain](/playlists/plain/37i9dQZF1DX62UoGI8fCjx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX62UoGI8fCjx)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62UoGI8fCjx.md) - [plain](/playlists/plain/37i9dQZF1DX62UoGI8fCjx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX62UoGI8fCjx)
 
 ### [80s Road Trip](https://open.spotify.com/playlist/37i9dQZF1DX62UoGI8fCjx)
 
 > 80s jams for the road
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,473 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,808 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

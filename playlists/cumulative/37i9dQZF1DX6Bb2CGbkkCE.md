@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6Bb2CGbkkCE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6Bb2CGbkkCE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6Bb2CGbkkCE)
+[pretty](/playlists/pretty/37i9dQZF1DX6Bb2CGbkkCE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6Bb2CGbkkCE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6Bb2CGbkkCE)
 
 ### [Usain Bolt's Taste](https://open.spotify.com/playlist/37i9dQZF1DX6Bb2CGbkkCE)
 

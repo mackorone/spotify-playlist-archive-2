@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1AqQsk9faDK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1AqQsk9faDK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1AqQsk9faDK)
+[pretty](/playlists/pretty/37i9dQZF1DX1AqQsk9faDK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1AqQsk9faDK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1AqQsk9faDK)
 
 ### [Fé Pelo Ouvir: Julliany Souza](https://open.spotify.com/playlist/37i9dQZF1DX1AqQsk9faDK)
 

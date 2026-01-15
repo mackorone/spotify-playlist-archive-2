@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1EFBM3EPpwQw4z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFBM3EPpwQw4z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFBM3EPpwQw4z)
+[pretty](/playlists/pretty/37i9dQZF1EFBM3EPpwQw4z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFBM3EPpwQw4z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFBM3EPpwQw4z)
 
 ### [Written By KLP](https://open.spotify.com/playlist/37i9dQZF1EFBM3EPpwQw4z)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-150 songs - 8 hr 45 min
+152 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Come Closer](https://open.spotify.com/track/0dZJlgZhbXr1PVC4FFhGMX) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Come Closer](https://open.spotify.com/album/0RfCEgu8lzzV77ciyrqnVV) | 3:26 | 2025-06-25 |  |
 | [Come Thru](https://open.spotify.com/track/0hn8lFibQnnruBtfjOTmTO) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Alter EP](https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J) | 3:17 | 2024-10-08 |  |
 | [Dance Silly](https://open.spotify.com/track/2Cg4El69vtJaIEZyc9ARMl) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 3:04 | 2023-12-30 |  |
+| [Dance Together](https://open.spotify.com/track/2AJTVkedihRvXbhOEAS6zB) | [Chusap](https://open.spotify.com/artist/0P6OwtBYDXTCwksGaLFrts) | [Dance Together](https://open.spotify.com/album/5vWU4MOIFkK5fTRo9SaNQG) | 2:45 | 2026-01-14 |  |
 | [Death Drive](https://open.spotify.com/track/356fWfOPJxJ6ffowduEn19) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Gemini\- EP](https://open.spotify.com/album/0zzetjBCgwYJyIyksv0hCQ) | 4:32 | 2023-12-30 | 2025-11-14 |
 | [Decide](https://open.spotify.com/track/0sMs2sqkf6MUXLGqSwa3Ga) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Decide](https://open.spotify.com/album/5fdIn271QSM8l7x1jTPgK4) | 3:45 | 2023-12-30 | 2025-07-24 |
 | [Deep Cut](https://open.spotify.com/track/0cYqIxP7P85bvMpuFrqOsU) | [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Deep Cut](https://open.spotify.com/album/2slg2V2SUKNspuFrKH5dFM) | 3:25 | 2025-08-14 |  |
@@ -65,6 +66,7 @@
 | [Get Mine](https://open.spotify.com/track/0FYiutOkY2YERaUNzWcevR) | [L\-FRESH The LION](https://open.spotify.com/artist/1pWigxBjUwEk9xH0Ks1r8L), [Parvyn Kaur Singh](https://open.spotify.com/artist/25lhYfZ04x41ucA67sHi9R) | [Become](https://open.spotify.com/album/3jXfpqgxB8fgXK9mOQtDZo) | 3:21 | 2025-07-17 | 2025-08-08 |
 | [Get Mine \(feat\. Parvyn\)](https://open.spotify.com/track/5LtRTCYSVYcHiwsGDssYVa) | [L\-FRESH The LION](https://open.spotify.com/artist/1pWigxBjUwEk9xH0Ks1r8L), [Parvyn](https://open.spotify.com/artist/41S3A4deHBLFfLWRp6qw9e) | [Become](https://open.spotify.com/album/6clzwnCII5aMNb1k3UdDJA) | 3:21 | 2025-08-07 |  |
 | [Get So Close](https://open.spotify.com/track/2NkC2GxIq0hhluqflg8AhW) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:32 | 2023-12-30 |  |
+| [Get Wicked](https://open.spotify.com/track/0snQO0rVUSJzca7jSa3MSO) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Get Wicked](https://open.spotify.com/album/73iNTjZDeuwJz0SakFuFH8) | 2:50 | 2026-01-14 |  |
 | [Getting Dressed Up](https://open.spotify.com/track/2trdxliifJwkiy7Dpy0MiV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:26 | 2023-12-30 |  |
 | [Ghost](https://open.spotify.com/track/20gc52nPIfr9tuvTe2RukI) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:45 | 2023-12-30 |  |
 | [Giver](https://open.spotify.com/track/0bT1k41qDD0fQUhlziToXT) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Dena Amy](https://open.spotify.com/artist/6A1M7uYGABvWsuIPrMaGLM) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:35 | 2023-12-30 |  |

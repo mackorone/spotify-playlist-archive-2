@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3TymQFosH9UgfP5jV5mPEe.md) - [plain](/playlists/plain/3TymQFosH9UgfP5jV5mPEe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3TymQFosH9UgfP5jV5mPEe)
+pretty - [cumulative](/playlists/cumulative/3TymQFosH9UgfP5jV5mPEe.md) - [plain](/playlists/plain/3TymQFosH9UgfP5jV5mPEe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3TymQFosH9UgfP5jV5mPEe)
 
 ### [Soul Soothers](https://open.spotify.com/playlist/3TymQFosH9UgfP5jV5mPEe)
 

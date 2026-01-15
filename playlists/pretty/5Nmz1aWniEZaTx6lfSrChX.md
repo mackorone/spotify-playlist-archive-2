@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/5Nmz1aWniEZaTx6lfSrChX.md) - [plain](/playlists/plain/5Nmz1aWniEZaTx6lfSrChX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5Nmz1aWniEZaTx6lfSrChX)
+pretty - [cumulative](/playlists/cumulative/5Nmz1aWniEZaTx6lfSrChX.md) - [plain](/playlists/plain/5Nmz1aWniEZaTx6lfSrChX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5Nmz1aWniEZaTx6lfSrChX)
 
 ### [The Tale of Pluto](https://open.spotify.com/playlist/5Nmz1aWniEZaTx6lfSrChX)
 

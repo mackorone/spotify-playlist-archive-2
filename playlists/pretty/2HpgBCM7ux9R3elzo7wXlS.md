@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain](/playlists/plain/2HpgBCM7ux9R3elzo7wXlS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2HpgBCM7ux9R3elzo7wXlS)
+pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain](/playlists/plain/2HpgBCM7ux9R3elzo7wXlS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2HpgBCM7ux9R3elzo7wXlS)
 
 ### [The Kitchen Sink  ](https://open.spotify.com/playlist/2HpgBCM7ux9R3elzo7wXlS)
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,075 songs - 2 day 18 hr 4 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,076 songs - 2 day 18 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1083,5 +1083,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1073 | [BLACK FLAG FREESTYLE \(with That Mexican OT\)](https://open.spotify.com/track/1KucENjrvmAEkSVjAgkGH2) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 3:27 |
 | 1074 | [Opening Out](https://open.spotify.com/track/39AAohgvtgo3xJlypPoLho) | [Renaissance](https://open.spotify.com/artist/4MERAVAHX04B50JOnasmWf) | [A Song for All Seasons](https://open.spotify.com/album/7Lrn2mUxwj6X7NFUNmuaQl) | 4:15 |
 | 1075 | [T.L.C\. Tender Love and Care](https://open.spotify.com/track/5eeLVsF0xGfAIrZQsi51m7) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [Honeycomb](https://open.spotify.com/album/5x5n3mLrFMZ1wndB73ytYj) | 2:18 |
+| 1076 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 
-Snapshot ID: `AAAH36/XlHgwjC7jGksim7VxZvIFswNO`
+Snapshot ID: `AAAH4K/h4PXNSmaDS7tAtyfnq6OVf+9N`

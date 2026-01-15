@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain](/playlists/plain/37i9dQZF1DWZUtUMYwCnJI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZUtUMYwCnJI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain](/playlists/plain/37i9dQZF1DWZUtUMYwCnJI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZUtUMYwCnJI)
 
 ### [Fire Force](https://open.spotify.com/playlist/37i9dQZF1DWZUtUMYwCnJI)
 
 > Enjoy the world of “Fire Force”! ©大久保篤・講談社／特殊消防隊動画広報第参課
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,979 likes - 62 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,029 likes - 62 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

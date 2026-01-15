@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1ewVhAJ17m4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ewVhAJ17m4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ewVhAJ17m4)
+[pretty](/playlists/pretty/37i9dQZF1DX1ewVhAJ17m4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ewVhAJ17m4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1ewVhAJ17m4)
 
 ### [Pop Punk's Not Dead](https://open.spotify.com/playlist/37i9dQZF1DX1ewVhAJ17m4)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain](/playlists/plain/37i9dQZF1DWXqzQh2VQNvW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXqzQh2VQNvW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain](/playlists/plain/37i9dQZF1DWXqzQh2VQNvW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXqzQh2VQNvW)
 
 ### [Vibes Right Now](https://open.spotify.com/playlist/37i9dQZF1DWXqzQh2VQNvW)
 

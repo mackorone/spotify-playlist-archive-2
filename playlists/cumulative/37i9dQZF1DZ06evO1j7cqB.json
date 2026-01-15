@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 95262,
       "name": "An Fh\u00ecdeag Airgid (feat. Gillebride MacMillan)",
       "url": "https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 315440,
       "name": "Passacaglia",
       "url": "https://open.spotify.com/track/5B7UhhIGDHgcvY1TdnLl8x"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 429440,
       "name": "The Key to Lallybroch",
       "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
@@ -2106,6 +2106,32 @@
       "duration_ms": 221947,
       "name": "The Second Foundation",
       "url": "https://open.spotify.com/track/7g1ZS3b4q5t0p16We3C3q6"
+    },
+    {
+      "album": {
+        "name": "Percy Jackson and the Olympians: Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NMTLznBXQWex0NA9hpEk4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sparks & Shadows",
+          "url": "https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ"
+        },
+        {
+          "name": "Dayna Ambrosio",
+          "url": "https://open.spotify.com/artist/4nU4BMUknF88tKeK92wehY"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223869,
+      "name": "The Sirens",
+      "url": "https://open.spotify.com/track/5YcU0Oo64xbLOS2RZmiuGy"
     },
     {
       "album": {

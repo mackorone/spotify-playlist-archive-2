@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcBkxDaAQX0a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcBkxDaAQX0a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcBkxDaAQX0a)
+[pretty](/playlists/pretty/37i9dQZF1DXcBkxDaAQX0a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcBkxDaAQX0a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcBkxDaAQX0a)
 
 ### [Punk Unplugged](https://open.spotify.com/playlist/37i9dQZF1DXcBkxDaAQX0a)
 

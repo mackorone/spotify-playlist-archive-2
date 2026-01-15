@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWU6iy0O1kuqg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU6iy0O1kuqg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU6iy0O1kuqg)
+[pretty](/playlists/pretty/37i9dQZF1DWU6iy0O1kuqg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU6iy0O1kuqg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU6iy0O1kuqg)
 
 ### [Norteño\-Banda](https://open.spotify.com/playlist/37i9dQZF1DWU6iy0O1kuqg)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain](/playlists/plain/37i9dQZF1DXaW7Dil94ozt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaW7Dil94ozt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain](/playlists/plain/37i9dQZF1DXaW7Dil94ozt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaW7Dil94ozt)
 
 ### [Let's Rock Festival 2023](https://open.spotify.com/playlist/37i9dQZF1DXaW7Dil94ozt)
 

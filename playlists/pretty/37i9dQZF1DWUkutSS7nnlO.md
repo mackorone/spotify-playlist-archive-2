@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkutSS7nnlO.md) - [plain](/playlists/plain/37i9dQZF1DWUkutSS7nnlO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUkutSS7nnlO)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkutSS7nnlO.md) - [plain](/playlists/plain/37i9dQZF1DWUkutSS7nnlO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUkutSS7nnlO)
 
 ### [Soul Dance Party](https://open.spotify.com/playlist/37i9dQZF1DWUkutSS7nnlO)
 
 > Secouez vos pieds, bougez les jambes, levez les bras sur ces tubes pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298 likes - 61 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,311 likes - 61 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

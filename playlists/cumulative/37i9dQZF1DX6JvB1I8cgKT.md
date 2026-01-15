@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6JvB1I8cgKT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6JvB1I8cgKT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6JvB1I8cgKT)
+[pretty](/playlists/pretty/37i9dQZF1DX6JvB1I8cgKT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6JvB1I8cgKT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6JvB1I8cgKT)
 
 ### [The Idol Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6JvB1I8cgKT)
 

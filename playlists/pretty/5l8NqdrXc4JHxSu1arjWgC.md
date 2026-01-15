@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain](/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5l8NqdrXc4JHxSu1arjWgC)
+pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain](/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5l8NqdrXc4JHxSu1arjWgC)
 
 ### [Red Vox Recent Favorites](https://open.spotify.com/playlist/5l8NqdrXc4JHxSu1arjWgC)
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,692 likes - 772 songs - 2 day 3 hr 28 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,708 likes - 772 songs - 2 day 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO2lcXXq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2lcXXq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2lcXXq)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO2lcXXq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2lcXXq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO2lcXXq)
 
 ### [This Is Lauren Daigle](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lcXXq)
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | ",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Max Styler",
   "name": "Armada Today",
   "tracks": [
     {
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 138853,
       "name": "Are You With Me - Christmas Mix",
       "url": "https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil"
@@ -4664,7 +4664,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196636,
       "name": "Christmas Days",
       "url": "https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ"
@@ -5225,7 +5225,7 @@
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 243779,
+      "duration_ms": 243967,
       "name": "Coming On Strong",
       "url": "https://open.spotify.com/track/3OxO5qycdP6Rg6dFgefWFZ"
     },
@@ -7154,6 +7154,24 @@
       "duration_ms": 145600,
       "name": "Dominos - Parsa Nani Remix",
       "url": "https://open.spotify.com/track/5y49z7kFyN7CKJ8yjqTVI2"
+    },
+    {
+      "album": {
+        "name": "Don't Be Sad",
+        "url": "https://open.spotify.com/album/5mirV0tXJenRtAHEV4C9cr"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "Don't Be Sad",
+      "url": "https://open.spotify.com/track/5IqjGCECLR4Rze7gAGLwUO"
     },
     {
       "album": {
@@ -12560,6 +12578,32 @@
       "duration_ms": 215040,
       "name": "Greece 2000 - KREAM Remix",
       "url": "https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A"
+    },
+    {
+      "album": {
+        "name": "Greece 2000 (Max Styler Rework)",
+        "url": "https://open.spotify.com/album/6waS2OtH6DmHs3uBbRpM43"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Greece 2000 - Max Styler Rework",
+      "url": "https://open.spotify.com/track/1rO61T3jVwbokKW9F1CWBv"
     },
     {
       "album": {
@@ -20411,6 +20455,28 @@
     },
     {
       "album": {
+        "name": "Mind Dimension (Adam Sellouk Remix)",
+        "url": "https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "Mind Dimension - Adam Sellouk Remix",
+      "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
+    },
+    {
+      "album": {
         "name": "Mind Dimension (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/3CX2LjhZKJ0ERvdKW0t5YV"
       },
@@ -26000,6 +26066,28 @@
       "duration_ms": 245538,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2r0V83W8Vue5NKhqjbY1BB"
+    },
+    {
+      "album": {
+        "name": "Right On, Right On",
+        "url": "https://open.spotify.com/album/02AC8OE8Mb2RHA0mNdj8Xq"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        },
+        {
+          "name": "Silicone Soul",
+          "url": "https://open.spotify.com/artist/6VPQvrpzt328DmG3dmLbhE"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Right On, Right On - Vocal Edit",
+      "url": "https://open.spotify.com/track/7CTYYMeByDGnaCouojDp3I"
     },
     {
       "album": {

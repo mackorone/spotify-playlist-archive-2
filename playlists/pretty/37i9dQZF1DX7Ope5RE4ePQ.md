@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain](/playlists/plain/37i9dQZF1DX7Ope5RE4ePQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Ope5RE4ePQ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain](/playlists/plain/37i9dQZF1DX7Ope5RE4ePQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7Ope5RE4ePQ)
 
 ### [royalcore](https://open.spotify.com/playlist/37i9dQZF1DX7Ope5RE4ePQ)
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,610 likes - 84 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,728 likes - 84 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

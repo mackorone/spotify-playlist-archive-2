@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcoZuou9T4RC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcoZuou9T4RC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcoZuou9T4RC)
+[pretty](/playlists/pretty/37i9dQZF1DXcoZuou9T4RC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcoZuou9T4RC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcoZuou9T4RC)
 
 ### [Heather Lowery's Taste](https://open.spotify.com/playlist/37i9dQZF1DXcoZuou9T4RC)
 
@@ -30,7 +30,7 @@
 | [I'm In Love](https://open.spotify.com/track/4B2fostymS9vTnuTKX7Uqd) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band I](https://open.spotify.com/album/3EvlIiQaClYH6gyOTbeRox) | 5:25 | 2024-04-01 |  |
 | [I'M THAT GIRL](https://open.spotify.com/track/1MpCaOeUWhox2Fgigbe1cL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:28 | 2024-04-01 |  |
 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 | 2024-04-01 |  |
-| [In Love With Another Man](https://open.spotify.com/track/1xu91y5jf13yxAssdfsbPt) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:10 | 2024-04-01 |  |
+| [In Love With Another Man \- Official Audio](https://open.spotify.com/track/1xu91y5jf13yxAssdfsbPt) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:10 | 2024-04-01 |  |
 | [Insatiable](https://open.spotify.com/track/3q4SUOc4upvsrFItSrELsX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds and Pearls](https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ) | 6:39 | 2024-04-01 |  |
 | [Into Orbit](https://open.spotify.com/track/24mo8K6ZzBTB4YBS3OtZ0k) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Love / Art Memoirs](https://open.spotify.com/album/23fW2tJdtsfYaRNpoMN3rk) | 5:15 | 2024-04-01 |  |
 | [Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 6:21 | 2024-04-01 |  |

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain](/playlists/plain/37i9dQZF1DX0P1EPhWUeqB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0P1EPhWUeqB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain](/playlists/plain/37i9dQZF1DX0P1EPhWUeqB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0P1EPhWUeqB)
 
 ### [Sierreño en Vivo](https://open.spotify.com/playlist/37i9dQZF1DX0P1EPhWUeqB)
 

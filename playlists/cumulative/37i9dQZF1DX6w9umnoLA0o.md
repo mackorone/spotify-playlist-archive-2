@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6w9umnoLA0o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6w9umnoLA0o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6w9umnoLA0o)
+[pretty](/playlists/pretty/37i9dQZF1DX6w9umnoLA0o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6w9umnoLA0o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6w9umnoLA0o)
 
 ### [昭和仮面ライダー](https://open.spotify.com/playlist/37i9dQZF1DX6w9umnoLA0o)
 

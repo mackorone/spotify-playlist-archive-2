@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3wiMAzIv2YCD4fyKle8vi9.md) - cumulative - [plain](/playlists/plain/3wiMAzIv2YCD4fyKle8vi9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3wiMAzIv2YCD4fyKle8vi9)
+[pretty](/playlists/pretty/3wiMAzIv2YCD4fyKle8vi9.md) - cumulative - [plain](/playlists/plain/3wiMAzIv2YCD4fyKle8vi9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3wiMAzIv2YCD4fyKle8vi9)
 
 ### [Jardín de las Nostalgias](https://open.spotify.com/playlist/3wiMAzIv2YCD4fyKle8vi9)
 

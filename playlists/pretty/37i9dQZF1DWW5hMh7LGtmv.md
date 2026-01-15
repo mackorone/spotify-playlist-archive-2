@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain](/playlists/plain/37i9dQZF1DWW5hMh7LGtmv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW5hMh7LGtmv)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain](/playlists/plain/37i9dQZF1DWW5hMh7LGtmv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW5hMh7LGtmv)
 
 ### [Summer: The Greatest Hits](https://open.spotify.com/playlist/37i9dQZF1DWW5hMh7LGtmv)
 

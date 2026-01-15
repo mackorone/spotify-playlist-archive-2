@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain](/playlists/plain/37i9dQZF1DX1aXwAOtpwvU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1aXwAOtpwvU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain](/playlists/plain/37i9dQZF1DX1aXwAOtpwvU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1aXwAOtpwvU)
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
 > Odkryj nowych ulubionych artystów! Cover:  <a href="spotify:artist:0B4TTzKvNuF5Jcmbe5uQ1T">Pola Maj</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,615 likes - 131 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,624 likes - 131 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 251120,
       "name": "Daniel",
       "url": "https://open.spotify.com/track/5VvsZvy1mwx4teyvI7O9rs"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 328293,
       "name": "House Of Cards",
       "url": "https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB"
@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 321533,
       "name": "Hyper-ballad",
       "url": "https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 289306,
       "name": "Into The Void",
       "url": "https://open.spotify.com/track/3w1x8BZ8zkDqt5pt3IWuEx"
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 417693,
       "name": "Jumbo",
       "url": "https://open.spotify.com/track/56A2b7HaPMzTsIOicdnet1"
@@ -5636,7 +5636,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 151520,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
@@ -5658,6 +5658,32 @@
       "duration_ms": 359785,
       "name": "Run",
       "url": "https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6"
+    },
+    {
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
+      },
+      "artists": [
+        {
+          "name": "VANO 3000",
+          "url": "https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Samuel T. Herring",
+          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111786,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy"
     },
     {
       "album": {
@@ -5864,7 +5890,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 254400,
       "name": "Short Ride in a Fast Machine",
       "url": "https://open.spotify.com/track/39lN1yTJ5gz5AGypvQcq5D"
@@ -6146,7 +6172,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 263560,
       "name": "Solsbury Hill - 2002 Remaster",
       "url": "https://open.spotify.com/track/6DnKPMbm4KnBP16v7xde4J"
@@ -6236,7 +6262,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 179066,
       "name": "Spirits In The Material World - Remastered 2003",
       "url": "https://open.spotify.com/track/0h1wFiJEfkPsuJyPHL5j2H"

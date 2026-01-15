@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 202500,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7417sWBafxcD9NxZ7DbSMW"
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 188160,
       "name": "Distance",
       "url": "https://open.spotify.com/track/2kI2g20VpLziryb7552XS7"
@@ -7193,6 +7193,24 @@
     },
     {
       "album": {
+        "name": "Move & Flow",
+        "url": "https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236110,
+      "name": "Move & Flow",
+      "url": "https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz"
+    },
+    {
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq"
       },
@@ -8347,6 +8365,24 @@
     },
     {
       "album": {
+        "name": "our lives entwined",
+        "url": "https://open.spotify.com/album/5s2Wb9fq6Uf86p4qBi1g7k"
+      },
+      "artists": [
+        {
+          "name": "Leaving Laurel",
+          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356775,
+      "name": "our lives entwined",
+      "url": "https://open.spotify.com/track/7tOWUn8XTf062wu1Okb80B"
+    },
+    {
+      "album": {
         "name": "Our Summer",
         "url": "https://open.spotify.com/album/5elpbAhvASwbEyxrF3Ayd3"
       },
@@ -8358,7 +8394,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185322,
       "name": "Our Summer",
       "url": "https://open.spotify.com/track/4ZIEZTost2ONUFPCSoUOYH"
@@ -12024,7 +12060,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 440000,
       "name": "uHambo",
       "url": "https://open.spotify.com/track/0GDX7CnKqm2yiZdQpkK50P"

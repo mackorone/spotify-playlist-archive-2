@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain](/playlists/plain/7CY3zbRzhGwcihHqQEXyK8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7CY3zbRzhGwcihHqQEXyK8)
+pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain](/playlists/plain/7CY3zbRzhGwcihHqQEXyK8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7CY3zbRzhGwcihHqQEXyK8)
 
 ### [Rook's Collection of Withdrawn Songs](https://open.spotify.com/playlist/7CY3zbRzhGwcihHqQEXyK8)
 

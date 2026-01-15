@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWX9JsANXY37r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX9JsANXY37r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX9JsANXY37r)
+[pretty](/playlists/pretty/37i9dQZF1DWX9JsANXY37r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX9JsANXY37r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX9JsANXY37r)
 
 ### [Drinks no Sofá](https://open.spotify.com/playlist/37i9dQZF1DWX9JsANXY37r)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/25eAhcwuxdBgOJmzbuttR0.md) - cumulative - [plain](/playlists/plain/25eAhcwuxdBgOJmzbuttR0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/25eAhcwuxdBgOJmzbuttR0)
+[pretty](/playlists/pretty/25eAhcwuxdBgOJmzbuttR0.md) - cumulative - [plain](/playlists/plain/25eAhcwuxdBgOJmzbuttR0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/25eAhcwuxdBgOJmzbuttR0)
 
 ### [black eyeliner, brush of mascara](https://open.spotify.com/playlist/25eAhcwuxdBgOJmzbuttR0)
 

@@ -179,6 +179,32 @@
     },
     {
       "album": {
+        "name": "Amillo",
+        "url": "https://open.spotify.com/album/0r2AdcKGYKAYnY7peTJk7E"
+      },
+      "artists": [
+        {
+          "name": "AfroTura",
+          "url": "https://open.spotify.com/artist/3vvjmN7sqoO42Wsusz4wBS"
+        },
+        {
+          "name": "Manoo",
+          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528015,
+      "name": "Amillo",
+      "url": "https://open.spotify.com/track/40QhJOUflMFGdjF2LeHvik"
+    },
+    {
+      "album": {
         "name": "Emmanuel (God Is With Us)",
         "url": "https://open.spotify.com/album/3S9EfLwJmTrcICVxRHH9iG"
       },
@@ -4216,7 +4242,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 288200,
       "name": "Rain On",
       "url": "https://open.spotify.com/track/3In7ZBOtXXgYU0lC1Mgshi"
@@ -4452,6 +4478,32 @@
       "duration_ms": 423050,
       "name": "Shadow of You",
       "url": "https://open.spotify.com/track/330R22RyIop1ppMA7sY5FD"
+    },
+    {
+      "album": {
+        "name": "Shakira",
+        "url": "https://open.spotify.com/album/1Owc9Ygu0V2Mu0EdtVkTYW"
+      },
+      "artists": [
+        {
+          "name": "SubLife",
+          "url": "https://open.spotify.com/artist/6PZjd0IGgGy8f1kVfKp7sc"
+        },
+        {
+          "name": "Ghenda",
+          "url": "https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF"
+        },
+        {
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Shakira",
+      "url": "https://open.spotify.com/track/3bmvru095aLu7EDYp1mBFA"
     },
     {
       "album": {
@@ -4924,7 +4976,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 450020,
       "name": "Tunakuomba",
       "url": "https://open.spotify.com/track/7GF0AyPQ24RaJZ4AYpt3l3"
@@ -5881,6 +5933,28 @@
     },
     {
       "album": {
+        "name": "With You (Tonight)",
+        "url": "https://open.spotify.com/album/3D4xNfGMaDrraBMRuWheM6"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Alta Gracia",
+          "url": "https://open.spotify.com/artist/14yCXkLSKlrnNcp0cadiZa"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200704,
+      "name": "With You (Tonight)",
+      "url": "https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1"
+    },
+    {
+      "album": {
         "name": "Without You (Mr Joe Remix)",
         "url": "https://open.spotify.com/album/2aE8jSS4DkdNeotQSWPJwO"
       },
@@ -5970,7 +6044,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 230477,
       "name": "Yeki",
       "url": "https://open.spotify.com/track/3rIkmgsmnCZbrP7hWXwWqI"

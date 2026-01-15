@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/7smcyWmMxpr2nqnefrh792.md) - [plain](/playlists/plain/7smcyWmMxpr2nqnefrh792) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7smcyWmMxpr2nqnefrh792)
+pretty - [cumulative](/playlists/cumulative/7smcyWmMxpr2nqnefrh792.md) - [plain](/playlists/plain/7smcyWmMxpr2nqnefrh792) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7smcyWmMxpr2nqnefrh792)
 
 ### [💀 Punk\-O\-Rama](https://open.spotify.com/playlist/7smcyWmMxpr2nqnefrh792)
 
 > The greatest tunes inspired by a time when Punk was Punk and parents were nervous.
 
-[Epitaph Records](https://open.spotify.com/user/epitaphrecords) - 5,618 likes - 44 songs - 2 hr 6 min
+[Epitaph Records](https://open.spotify.com/user/epitaphrecords) - 5,620 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

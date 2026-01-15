@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5Dn14a8hNIhT3NLLjUUBGL.md) - cumulative - [plain](/playlists/plain/5Dn14a8hNIhT3NLLjUUBGL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5Dn14a8hNIhT3NLLjUUBGL)
+[pretty](/playlists/pretty/5Dn14a8hNIhT3NLLjUUBGL.md) - cumulative - [plain](/playlists/plain/5Dn14a8hNIhT3NLLjUUBGL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5Dn14a8hNIhT3NLLjUUBGL)
 
 ### [Fuck Valentine!](https://open.spotify.com/playlist/5Dn14a8hNIhT3NLLjUUBGL)
 

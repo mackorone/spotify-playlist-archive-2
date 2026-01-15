@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZBWeillXfzX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZBWeillXfzX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZBWeillXfzX)
+[pretty](/playlists/pretty/37i9dQZF1DWZBWeillXfzX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZBWeillXfzX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZBWeillXfzX)
 
 ### [Modern Blues Guitar](https://open.spotify.com/playlist/37i9dQZF1DWZBWeillXfzX)
 

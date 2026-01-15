@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNoDyBeDgSK.md) - [plain](/playlists/plain/37i9dQZF1DXcNoDyBeDgSK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcNoDyBeDgSK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNoDyBeDgSK.md) - [plain](/playlists/plain/37i9dQZF1DXcNoDyBeDgSK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcNoDyBeDgSK)
 
 ### [Blue Exorcist](https://open.spotify.com/playlist/37i9dQZF1DXcNoDyBeDgSK)
 
 > Music from "Blue Exorcist" ©加藤和恵／集英社・「青の祓魔師」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,278 likes - 59 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,365 likes - 59 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

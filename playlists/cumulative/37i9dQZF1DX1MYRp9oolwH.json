@@ -794,10 +794,36 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 219000,
       "name": "Bangaram Akkarleni (From \"23\")",
       "url": "https://open.spotify.com/track/3MKZzXXdJm8g59rlUZCVkt"
+    },
+    {
+      "album": {
+        "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
+        "url": "https://open.spotify.com/album/4fUeGMIYVi22stROdyMxEr"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
+      "url": "https://open.spotify.com/track/7oPSWYvSHoC8UA8WVUngq4"
     },
     {
       "album": {
@@ -3176,7 +3202,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 317142,
       "name": "Kannamma - From \"Beauty\"",
       "url": "https://open.spotify.com/track/654oaUQPB71vZSNaNFcLxm"
@@ -4356,7 +4382,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198192,
       "name": "Modhati Chinuku (From \"Akkada Ammayi Ikkada Abbayi\")",
       "url": "https://open.spotify.com/track/2A8f1MCP82pmLvziIsZihT"
@@ -5349,6 +5375,32 @@
     },
     {
       "album": {
+        "name": "Nelaraaje (From \"Draupathi - 2\") - Telugu",
+        "url": "https://open.spotify.com/album/4Nikutpeyt10uMsVNlMHhu"
+      },
+      "artists": [
+        {
+          "name": "Padmalatha",
+          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
+        },
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Samrat",
+          "url": "https://open.spotify.com/artist/5RwriSLPFn4NLfH0ln4wT2"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Nelaraaje (From \"Draupathi - 2\")",
+      "url": "https://open.spotify.com/track/3bQWOCc7gxhPucUx1uMruG"
+    },
+    {
+      "album": {
         "name": "Ooru Peru Bhairavakona",
         "url": "https://open.spotify.com/album/6a287rBCL3c5YmfQ9JiQkB"
       },
@@ -5825,6 +5877,40 @@
     },
     {
       "album": {
+        "name": "O Sanna Jaaji (From \"Karikaada - Telugu\")",
+        "url": "https://open.spotify.com/album/3NNmIU73Oyt9dg8ZPMRGC1"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Sindhuri Vishal",
+          "url": "https://open.spotify.com/artist/2xdqASoms5eZQbl2JNEerM"
+        },
+        {
+          "name": "Athishay Jain",
+          "url": "https://open.spotify.com/artist/2zPvFiANV9zd9lA1zzMjmb"
+        },
+        {
+          "name": "Sireesh",
+          "url": "https://open.spotify.com/artist/5xYPxLS3IRWIKOt2567M9S"
+        },
+        {
+          "name": "Gilli Venkatesh",
+          "url": "https://open.spotify.com/artist/3EISdTvkjnETXtRbCjr1Pv"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248656,
+      "name": "O Sanna Jaaji (From \"Karikaada - Telugu\")",
+      "url": "https://open.spotify.com/track/35JmLVoxGRjnxC42aAiaA6"
+    },
+    {
+      "album": {
         "name": "O Tene Palukula (From \"Bimbisara\") - Single",
         "url": "https://open.spotify.com/album/2pDPWuV0UN03bx0zQK45Df"
       },
@@ -6132,7 +6218,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190423,
       "name": "One More Time (From \"Robinhood\")",
       "url": "https://open.spotify.com/track/5XSSZbaI6e4A9IzCQWOHa7"
@@ -6404,6 +6490,36 @@
       "duration_ms": 258000,
       "name": "Paravasame Paravasame (From \"Narayana And Co\")",
       "url": "https://open.spotify.com/track/10UULk3rJivW6YHsP60Una"
+    },
+    {
+      "album": {
+        "name": "Parichayam Avakunda (From \"Dhandoraa\")",
+        "url": "https://open.spotify.com/album/6OPDPgPE5zHzgyh83dUD87"
+      },
+      "artists": [
+        {
+          "name": "Mark K Robin",
+          "url": "https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Harini Ivaturi",
+          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
+        },
+        {
+          "name": "Sri Mani",
+          "url": "https://open.spotify.com/artist/6hPQYxL8DFo19uMkDOeJvw"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219046,
+      "name": "Parichayam Avakunda (From \"Dhandoraa\")",
+      "url": "https://open.spotify.com/track/000PqTyXjCLX8OF0VFASGs"
     },
     {
       "album": {
@@ -6838,7 +6954,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 252000,
       "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
       "url": "https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl"
@@ -7857,6 +7973,36 @@
     },
     {
       "album": {
+        "name": "Parasakthi (Telugu)",
+        "url": "https://open.spotify.com/album/2BpUfh0GRtlO84GOCp5uBR"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Thaaraamani",
+      "url": "https://open.spotify.com/track/3tRdbQA8HrG4Xa8UxmjYUi"
+    },
+    {
+      "album": {
         "name": "Thakathayya (From \"Vinara O Vema\")",
         "url": "https://open.spotify.com/album/19rD3pNoLSkx4XeQyZ0w57"
       },
@@ -7906,7 +8052,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 248752,
       "name": "Thanu (From \"Hit - 3\") (Telugu)",
       "url": "https://open.spotify.com/track/4FsuiOBLNk6pEtFalGC11G"
@@ -8092,6 +8238,36 @@
       "duration_ms": 275625,
       "name": "Urike Urike",
       "url": "https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu"
+    },
+    {
+      "album": {
+        "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
+        "url": "https://open.spotify.com/album/4mdgSaULbXSdgvZ8JTQmuH"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190083,
+      "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
+      "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
     },
     {
       "album": {

@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 268933,
       "name": "De Valor em Valor",
       "url": "https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 224258,
       "name": "N\u00e3o \u00e9 Tarde Demais",
       "url": "https://open.spotify.com/track/5LyZZODJTapW2kjsf5Y2ZZ"
@@ -1662,6 +1662,28 @@
       "duration_ms": 289970,
       "name": "Todo Poderoso",
       "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
+    },
+    {
+      "album": {
+        "name": "Tome Posse da Vit\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4FqY2NSYlpamvnQosMuwVJ"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271586,
+      "name": "Tome Posse da Vit\u00f3ria (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0dPhAYC73cQPAfCDg9yj5T"
     },
     {
       "album": {

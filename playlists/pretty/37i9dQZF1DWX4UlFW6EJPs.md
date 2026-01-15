@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain](/playlists/plain/37i9dQZF1DWX4UlFW6EJPs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX4UlFW6EJPs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain](/playlists/plain/37i9dQZF1DWX4UlFW6EJPs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWX4UlFW6EJPs)
 
 ### [The Last of Us Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWX4UlFW6EJPs)
 
 > Save who you can save\. Listen to music from and inspired by The Last of Us, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,111 likes - 135 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,099 likes - 135 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

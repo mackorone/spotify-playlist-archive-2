@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXap0h4PBqZpr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXap0h4PBqZpr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXap0h4PBqZpr)
+[pretty](/playlists/pretty/37i9dQZF1DXap0h4PBqZpr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXap0h4PBqZpr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXap0h4PBqZpr)
 
 ### [Guest List: Fito Paez](https://open.spotify.com/playlist/37i9dQZF1DXap0h4PBqZpr)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T5Fm23tbLc.md) - [plain](/playlists/plain/37i9dQZF1DX2T5Fm23tbLc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2T5Fm23tbLc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T5Fm23tbLc.md) - [plain](/playlists/plain/37i9dQZF1DX2T5Fm23tbLc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2T5Fm23tbLc)
 
 ### [Metrobüse giderken POV](https://open.spotify.com/playlist/37i9dQZF1DX2T5Fm23tbLc)
 

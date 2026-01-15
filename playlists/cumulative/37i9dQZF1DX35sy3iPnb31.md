@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX35sy3iPnb31.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35sy3iPnb31) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35sy3iPnb31)
+[pretty](/playlists/pretty/37i9dQZF1DX35sy3iPnb31.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35sy3iPnb31) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX35sy3iPnb31)
 
 ### [Editors' picks: Best Canadian Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DX35sy3iPnb31)
 

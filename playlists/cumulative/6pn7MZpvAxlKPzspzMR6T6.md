@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6pn7MZpvAxlKPzspzMR6T6.md) - cumulative - [plain](/playlists/plain/6pn7MZpvAxlKPzspzMR6T6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6pn7MZpvAxlKPzspzMR6T6)
+[pretty](/playlists/pretty/6pn7MZpvAxlKPzspzMR6T6.md) - cumulative - [plain](/playlists/plain/6pn7MZpvAxlKPzspzMR6T6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6pn7MZpvAxlKPzspzMR6T6)
 
 ### [The Scenic Route](https://open.spotify.com/playlist/6pn7MZpvAxlKPzspzMR6T6)
 

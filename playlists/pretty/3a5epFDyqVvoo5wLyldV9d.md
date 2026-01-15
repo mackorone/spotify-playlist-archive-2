@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain](/playlists/plain/3a5epFDyqVvoo5wLyldV9d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3a5epFDyqVvoo5wLyldV9d)
+pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain](/playlists/plain/3a5epFDyqVvoo5wLyldV9d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3a5epFDyqVvoo5wLyldV9d)
 
 ### [Worldly](https://open.spotify.com/playlist/3a5epFDyqVvoo5wLyldV9d)
 
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 131 | [African Dialects](https://open.spotify.com/track/5y9sTZ2UKkddohU5k4gccl) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 4:56 |
 | 132 | [Koroko](https://open.spotify.com/track/2RKP1s8sIrugoaiweuijUZ) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Seya](https://open.spotify.com/album/1nEaABF2RBrAzbX0akAyk6) | 4:21 |
 | 133 | [Morning](https://open.spotify.com/track/7dEvUHcPU9jCXeYkKnHGKi) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azymuth](https://open.spotify.com/album/7cJw0FdllksLJIrybMDzx9) | 3:48 |
-| 134 | [夢中人 \- 電影《重慶森林》歌曲](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [傳奇 \- 胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 |
+| 134 | [夢中人 \- 電影《重慶森林》歌曲](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 |
 | 135 | [MIDNIGHT DRIVER](https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo) | 7:44 |
 | 136 | [TOWN](https://open.spotify.com/track/33VIYJ7IFfPdCPu6i1Da1A) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONSTERS IN TOWN](https://open.spotify.com/album/1NHWRGtO832yHDNLUNAaoE) | 6:19 |
 | 137 | [Acenda o farol](https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:12 |

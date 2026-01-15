@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5zyeLrOc31CPX7uk9xNL7y.md) - [plain](/playlists/plain/5zyeLrOc31CPX7uk9xNL7y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5zyeLrOc31CPX7uk9xNL7y)
+pretty - [cumulative](/playlists/cumulative/5zyeLrOc31CPX7uk9xNL7y.md) - [plain](/playlists/plain/5zyeLrOc31CPX7uk9xNL7y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5zyeLrOc31CPX7uk9xNL7y)
 
 ### [Swing in the New Year](https://open.spotify.com/playlist/5zyeLrOc31CPX7uk9xNL7y)
 
 > Ring in the new year to the sweet sound of jazz and blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,750 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,741 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

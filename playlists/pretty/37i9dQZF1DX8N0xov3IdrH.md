@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8N0xov3IdrH.md) - [plain](/playlists/plain/37i9dQZF1DX8N0xov3IdrH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8N0xov3IdrH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8N0xov3IdrH.md) - [plain](/playlists/plain/37i9dQZF1DX8N0xov3IdrH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8N0xov3IdrH)
 
 ### [This is Jerry Garcia](https://open.spotify.com/playlist/37i9dQZF1DX8N0xov3IdrH)
 

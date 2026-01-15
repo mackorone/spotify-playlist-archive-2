@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9XrA0OT5b6M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9XrA0OT5b6M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9XrA0OT5b6M)
+[pretty](/playlists/pretty/37i9dQZF1DX9XrA0OT5b6M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9XrA0OT5b6M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9XrA0OT5b6M)
 
 ### [ONE PIECE](https://open.spotify.com/playlist/37i9dQZF1DX9XrA0OT5b6M)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX32xIMlZsYDC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX32xIMlZsYDC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX32xIMlZsYDC)
+[pretty](/playlists/pretty/37i9dQZF1DX32xIMlZsYDC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX32xIMlZsYDC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX32xIMlZsYDC)
 
 ### [Piano para Despertar](https://open.spotify.com/playlist/37i9dQZF1DX32xIMlZsYDC)
 

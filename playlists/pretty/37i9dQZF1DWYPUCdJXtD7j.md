@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPUCdJXtD7j.md) - [plain](/playlists/plain/37i9dQZF1DWYPUCdJXtD7j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYPUCdJXtD7j)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPUCdJXtD7j.md) - [plain](/playlists/plain/37i9dQZF1DWYPUCdJXtD7j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYPUCdJXtD7j)
 
 ### [Vroum vroum](https://open.spotify.com/playlist/37i9dQZF1DWYPUCdJXtD7j)
 
 > Pour vos enfants, rien n'est plus beau qu'une petite voiture..\. à part peut\-être un camion pompier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,328 likes - 27 songs - 59 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 9,388 likes - 27 songs - 59 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

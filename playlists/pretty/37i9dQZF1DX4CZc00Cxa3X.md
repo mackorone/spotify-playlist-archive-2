@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain](/playlists/plain/37i9dQZF1DX4CZc00Cxa3X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4CZc00Cxa3X)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain](/playlists/plain/37i9dQZF1DX4CZc00Cxa3X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4CZc00Cxa3X)
 
 ### [The Listening Room](https://open.spotify.com/playlist/37i9dQZF1DX4CZc00Cxa3X)
 

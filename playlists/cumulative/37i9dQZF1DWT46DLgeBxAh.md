@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWT46DLgeBxAh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT46DLgeBxAh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT46DLgeBxAh)
+[pretty](/playlists/pretty/37i9dQZF1DWT46DLgeBxAh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT46DLgeBxAh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT46DLgeBxAh)
 
 ### [La Posada Navideña](https://open.spotify.com/playlist/37i9dQZF1DWT46DLgeBxAh)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ6NBH5aL6A.md) - [plain](/playlists/plain/37i9dQZF1DWTZ6NBH5aL6A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTZ6NBH5aL6A)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ6NBH5aL6A.md) - [plain](/playlists/plain/37i9dQZF1DWTZ6NBH5aL6A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTZ6NBH5aL6A)
 
 ### [The 5 Indie Scenes that Shaped 2025](https://open.spotify.com/playlist/37i9dQZF1DWTZ6NBH5aL6A)
 
 > From trip\-hop to Copenhagen’s underground, ambient textures to indie twang and the Windmill scene — explore the 5 scenes shaping indie now\.   Cover: After
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,083 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,029 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

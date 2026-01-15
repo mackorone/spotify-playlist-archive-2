@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9ET7mtaGmRc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9ET7mtaGmRc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9ET7mtaGmRc)
+[pretty](/playlists/pretty/37i9dQZF1DX9ET7mtaGmRc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9ET7mtaGmRc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9ET7mtaGmRc)
 
 ### [BLACKPINK WORLD TOUR \[BORN PINK\] FINALE IN SEOUL](https://open.spotify.com/playlist/37i9dQZF1DX9ET7mtaGmRc)
 

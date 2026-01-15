@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX649MEn8TxoE.md) - [plain](/playlists/plain/37i9dQZF1DX649MEn8TxoE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX649MEn8TxoE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX649MEn8TxoE.md) - [plain](/playlists/plain/37i9dQZF1DX649MEn8TxoE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX649MEn8TxoE)
 
 ### [This Is Nicki Nicole](https://open.spotify.com/playlist/37i9dQZF1DX649MEn8TxoE)
 

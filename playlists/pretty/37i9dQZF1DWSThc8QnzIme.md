@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain](/playlists/plain/37i9dQZF1DWSThc8QnzIme) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSThc8QnzIme)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain](/playlists/plain/37i9dQZF1DWSThc8QnzIme) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSThc8QnzIme)
 
 ### [Pop Drive](https://open.spotify.com/playlist/37i9dQZF1DWSThc8QnzIme)
 
 > Breeze through your commute with these pop favorites\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,557 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,045 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

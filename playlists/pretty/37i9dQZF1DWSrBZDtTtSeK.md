@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrBZDtTtSeK.md) - [plain](/playlists/plain/37i9dQZF1DWSrBZDtTtSeK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSrBZDtTtSeK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrBZDtTtSeK.md) - [plain](/playlists/plain/37i9dQZF1DWSrBZDtTtSeK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSrBZDtTtSeK)
 
 ### [GIANTS](https://open.spotify.com/playlist/37i9dQZF1DWSrBZDtTtSeK)
 
 > The official playlist for the GIANTS show with the Dean collection, opening in Minneapolis on March 7th\. Get your tickets<a href="https://tickets.artsmia.org/events/01934052\-e7dc\-337b\-b9f3\-e4216feb4d0e"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,023 likes - 69 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,031 likes - 69 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

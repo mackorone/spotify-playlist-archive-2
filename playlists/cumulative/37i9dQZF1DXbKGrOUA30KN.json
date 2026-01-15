@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Angekommen",
+        "url": "https://open.spotify.com/album/5iBfzHMC4tsMpJ92HoCRQg"
+      },
+      "artists": [
+        {
+          "name": "Tim Bendzko",
+          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179466,
+      "name": "Angekommen",
+      "url": "https://open.spotify.com/track/33Z8lvC0M3g0EyAqlrAGcz"
+    },
+    {
+      "album": {
         "name": "Ankommen",
         "url": "https://open.spotify.com/album/07UqjmQ6xt3prwyC6FXth8"
       },
@@ -753,6 +771,28 @@
     },
     {
       "album": {
+        "name": "DAS W\u00c4REN NICHT WIR",
+        "url": "https://open.spotify.com/album/0P6hzn1h0M5iEfGJVLtV4a"
+      },
+      "artists": [
+        {
+          "name": "KAYEF",
+          "url": "https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337"
+        },
+        {
+          "name": "Christoph Sakwerda",
+          "url": "https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126410,
+      "name": "DAS W\u00c4REN NICHT WIR",
+      "url": "https://open.spotify.com/track/2GRWefcLh9dyAjItVBlol9"
+    },
+    {
+      "album": {
         "name": "Dass ich gerade traurig bin",
         "url": "https://open.spotify.com/album/7jMsQAYfDh8bXiwcMGivBe"
       },
@@ -876,7 +916,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 161329,
       "name": "Dienstag",
       "url": "https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ"
@@ -1108,7 +1148,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135693,
       "name": "Erst wenn die Sterne",
       "url": "https://open.spotify.com/track/4eY0kOz83lO8PtQqtTn9SV"
@@ -1126,7 +1166,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149032,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/15IyELrdg32cT3N1NQksUV"
@@ -1162,7 +1202,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 166520,
       "name": "festnetztelefon",
       "url": "https://open.spotify.com/track/1ZTJCX1T4q2tZtHZKRHfom"
@@ -1198,10 +1238,28 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 121461,
       "name": "Flaschenpost",
       "url": "https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw"
+    },
+    {
+      "album": {
+        "name": "Freifahrtschein",
+        "url": "https://open.spotify.com/album/24u8BvomgSwhw6vuYPg55g"
+      },
+      "artists": [
+        {
+          "name": "Jakob",
+          "url": "https://open.spotify.com/artist/1deFmQHcc00lWDUPCZIlL5"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166807,
+      "name": "Freifahrtschein",
+      "url": "https://open.spotify.com/track/43jF316jN1K832BwnZFPGa"
     },
     {
       "album": {
@@ -1281,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Geheimnis",
+        "url": "https://open.spotify.com/album/70khccdVKWgQyOeCZoBjeF"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204687,
+      "name": "Geheimnis",
+      "url": "https://open.spotify.com/track/31Tx7OHXWHZDf4gMLt4RYI"
+    },
+    {
+      "album": {
         "name": "Gl\u00fccklich",
         "url": "https://open.spotify.com/album/2Ur8s1MKlthmU3PC2r4Tgd"
       },
@@ -1296,6 +1372,24 @@
       "duration_ms": 148509,
       "name": "Gl\u00fccklich",
       "url": "https://open.spotify.com/track/1QCtEF7Gq6JwvyQp4sibdM"
+    },
+    {
+      "album": {
+        "name": "Gut mit dir",
+        "url": "https://open.spotify.com/album/2xipWmCGI2F7pNuKjpWDUb"
+      },
+      "artists": [
+        {
+          "name": "Paula Douglas",
+          "url": "https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Gut mit dir",
+      "url": "https://open.spotify.com/track/1OJH6kImbewsfgL7sOhFtd"
     },
     {
       "album": {
@@ -1606,7 +1700,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 159982,
       "name": "ich vermisse dich.",
       "url": "https://open.spotify.com/track/7ltGb3eEdSDc5xVzBnXHiM"
@@ -2012,7 +2106,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 179240,
       "name": "Lang nicht hier",
       "url": "https://open.spotify.com/track/4d452ROWWkwbPKM8DEWfUx"
@@ -2034,6 +2128,24 @@
       "duration_ms": 157243,
       "name": "Lass dich nicht ficken",
       "url": "https://open.spotify.com/track/3sqzMlW70MhS6sOi96VVHN"
+    },
+    {
+      "album": {
+        "name": "lass mich nicht los.",
+        "url": "https://open.spotify.com/album/1AqJsd4Mp6MpmyYmTx6Ky2"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198536,
+      "name": "lass mich nicht los.",
+      "url": "https://open.spotify.com/track/6NeBbqFnXJ8c3P7ZVZ16hz"
     },
     {
       "album": {
@@ -2110,6 +2222,24 @@
       "duration_ms": 210073,
       "name": "Leise",
       "url": "https://open.spotify.com/track/74b7U40UyovtnZPAzIuWLr"
+    },
+    {
+      "album": {
+        "name": "Letzte Liebe",
+        "url": "https://open.spotify.com/album/0QXuNVZSPyLRCF9LK5pPBQ"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "Letzte Liebe",
+      "url": "https://open.spotify.com/track/5xYVJdt0IxIqcVy8Lx4C2o"
     },
     {
       "album": {
@@ -2377,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Nebel",
+        "url": "https://open.spotify.com/album/0Np1wHtrQVStr0H715XnJW"
+      },
+      "artists": [
+        {
+          "name": "helena Delphi ",
+          "url": "https://open.spotify.com/artist/1Bl1zS084yAe6JnH3SYzVy"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226190,
+      "name": "Nebel",
+      "url": "https://open.spotify.com/track/0W91uIfjOLjNC1ijjjNe9T"
+    },
+    {
+      "album": {
         "name": "NEIN",
         "url": "https://open.spotify.com/album/2VBSthzJ393V6wnQyjYSQT"
       },
@@ -2428,6 +2576,28 @@
       "duration_ms": 191727,
       "name": "Nicht an meinem Tisch",
       "url": "https://open.spotify.com/track/4EGzDCiY49NnqKBsltrkKx"
+    },
+    {
+      "album": {
+        "name": "NICHT VER\u00c4NDERT",
+        "url": "https://open.spotify.com/album/14Uyv9xZYUwokRyGIKPcEL"
+      },
+      "artists": [
+        {
+          "name": "FAYAN",
+          "url": "https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF"
+        },
+        {
+          "name": "Dalton",
+          "url": "https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120887,
+      "name": "NICHT VER\u00c4NDERT",
+      "url": "https://open.spotify.com/track/0aUp8SRoWJ0xadMqEbcKeJ"
     },
     {
       "album": {
@@ -2532,7 +2702,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 168105,
       "name": "Pass auf dich auf",
       "url": "https://open.spotify.com/track/0UCqca8dxTRUkFReF0aOPL"
@@ -2716,7 +2886,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170749,
       "name": "Russisch Roulette",
       "url": "https://open.spotify.com/track/4dl2chQiBfJdYqRtSYtQjj"
@@ -2734,7 +2904,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143200,
       "name": "Scherben",
       "url": "https://open.spotify.com/track/4nlGk2Eg1rjXhU4wXcIO0Z"
@@ -2752,10 +2922,28 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211612,
       "name": "SEHNSUCHT",
       "url": "https://open.spotify.com/track/23nvSc6l82ANajc3BVpHt4"
+    },
+    {
+      "album": {
+        "name": "SloMo",
+        "url": "https://open.spotify.com/album/07tzTPuuAi69SazeshqHnm"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/6oT4DQOYDHAJQ6sgTRVFht"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195696,
+      "name": "SloMo",
+      "url": "https://open.spotify.com/track/1EKBXOQtZMHY8TH9BcmYrA"
     },
     {
       "album": {
@@ -2907,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Ti amo, Italiano!",
+        "url": "https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn"
+      },
+      "artists": [
+        {
+          "name": "Sportfreunde Stiller",
+          "url": "https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201806,
+      "name": "Ti amo, Italiano!",
+      "url": "https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd"
+    },
+    {
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh"
       },
@@ -2940,7 +3146,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135412,
       "name": "Tr\u00e4um weiter",
       "url": "https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF"
@@ -3117,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "Verzeihen",
+        "url": "https://open.spotify.com/album/66ilz0N5Quvj3gK3EIompF"
+      },
+      "artists": [
+        {
+          "name": "SEELEMANN",
+          "url": "https://open.spotify.com/artist/045asKAyJ8bk2wKJt7j5YE"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188601,
+      "name": "Verzeihen",
+      "url": "https://open.spotify.com/track/3EA3zsD9l9kaW3Fl4Jmk85"
+    },
+    {
+      "album": {
         "name": "vielleicht fehlst du mir",
         "url": "https://open.spotify.com/album/20f16ZQ8Pj9dMxoQMF1Y03"
       },
@@ -3132,6 +3356,24 @@
       "duration_ms": 155908,
       "name": "vielleicht fehlst du mir",
       "url": "https://open.spotify.com/track/6e4ntmP3oc63oA7pt7ixjg"
+    },
+    {
+      "album": {
+        "name": "Wahrheit oder Pflicht",
+        "url": "https://open.spotify.com/album/2L8feE6pLdkErUCdmhHnX5"
+      },
+      "artists": [
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162994,
+      "name": "Wahrheit oder Pflicht",
+      "url": "https://open.spotify.com/track/1j8QY4LZEjrs2B9xhZ772d"
     },
     {
       "album": {
@@ -3308,7 +3550,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 142052,
       "name": "weit weg",
       "url": "https://open.spotify.com/track/3OEkbJWWQeQJVhx1xijl4d"

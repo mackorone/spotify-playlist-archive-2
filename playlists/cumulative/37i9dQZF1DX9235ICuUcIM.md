@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9235ICuUcIM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9235ICuUcIM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9235ICuUcIM)
+[pretty](/playlists/pretty/37i9dQZF1DX9235ICuUcIM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9235ICuUcIM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9235ICuUcIM)
 
 ### [Hora de la Lloración](https://open.spotify.com/playlist/37i9dQZF1DX9235ICuUcIM)
 

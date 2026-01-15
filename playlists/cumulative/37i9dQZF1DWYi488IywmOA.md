@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYi488IywmOA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYi488IywmOA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYi488IywmOA)
+[pretty](/playlists/pretty/37i9dQZF1DWYi488IywmOA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYi488IywmOA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYi488IywmOA)
 
 ### [Got Blues presents Best Blues of 2025](https://open.spotify.com/playlist/37i9dQZF1DWYi488IywmOA)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWPvraqd9Z2.md) - [plain](/playlists/plain/37i9dQZF1DXdWPvraqd9Z2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdWPvraqd9Z2)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWPvraqd9Z2.md) - [plain](/playlists/plain/37i9dQZF1DXdWPvraqd9Z2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdWPvraqd9Z2)
 
 ### [Iconically Trans](https://open.spotify.com/playlist/37i9dQZF1DXdWPvraqd9Z2)
 
 > Actress and activist Shakina Nayfack shares interviews with some of her favorite trans artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 6 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 519 likes - 6 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX18u16ebmQgx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX18u16ebmQgx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX18u16ebmQgx)
+[pretty](/playlists/pretty/37i9dQZF1DX18u16ebmQgx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX18u16ebmQgx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX18u16ebmQgx)
 
 ### [Salsa Colombiana](https://open.spotify.com/playlist/37i9dQZF1DX18u16ebmQgx)
 

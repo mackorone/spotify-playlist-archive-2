@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain](/playlists/plain/3trfBa7jeme9hRFIwOhAMM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3trfBa7jeme9hRFIwOhAMM)
+pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain](/playlists/plain/3trfBa7jeme9hRFIwOhAMM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3trfBa7jeme9hRFIwOhAMM)
 
 ### [ALL THINGS HOUSE \- CURBI PRESENTS](https://open.spotify.com/playlist/3trfBa7jeme9hRFIwOhAMM)
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-[Curbi](https://open.spotify.com/user/curbimusic) - 4,320 likes - 40 songs - 2 hr 6 min
+[Curbi](https://open.spotify.com/user/curbimusic) - 4,315 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

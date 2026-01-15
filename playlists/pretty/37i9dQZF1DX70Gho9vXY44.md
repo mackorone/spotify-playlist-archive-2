@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain](/playlists/plain/37i9dQZF1DX70Gho9vXY44) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX70Gho9vXY44)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain](/playlists/plain/37i9dQZF1DX70Gho9vXY44) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX70Gho9vXY44)
 
 ### [RAPública Inca](https://open.spotify.com/playlist/37i9dQZF1DX70Gho9vXY44)
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: A.C.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,961 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,949 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

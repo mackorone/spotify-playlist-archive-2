@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/22LeP174pTKLlGkpgznIXg.md) - cumulative - [plain](/playlists/plain/22LeP174pTKLlGkpgznIXg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/22LeP174pTKLlGkpgznIXg)
+[pretty](/playlists/pretty/22LeP174pTKLlGkpgznIXg.md) - cumulative - [plain](/playlists/plain/22LeP174pTKLlGkpgznIXg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/22LeP174pTKLlGkpgznIXg)
 
 ### [The Gift of the Mythical Fire Bird](https://open.spotify.com/playlist/22LeP174pTKLlGkpgznIXg)
 

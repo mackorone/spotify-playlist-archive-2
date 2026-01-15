@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafMg94PbK3.md) - [plain](/playlists/plain/37i9dQZF1DWUafMg94PbK3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUafMg94PbK3)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafMg94PbK3.md) - [plain](/playlists/plain/37i9dQZF1DWUafMg94PbK3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUafMg94PbK3)
 
 ### [Traffic Jam](https://open.spotify.com/playlist/37i9dQZF1DWUafMg94PbK3)
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,743 likes - 71 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,883 likes - 71 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

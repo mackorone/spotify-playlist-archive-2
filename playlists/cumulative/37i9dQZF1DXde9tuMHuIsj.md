@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXde9tuMHuIsj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXde9tuMHuIsj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXde9tuMHuIsj)
+[pretty](/playlists/pretty/37i9dQZF1DXde9tuMHuIsj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXde9tuMHuIsj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXde9tuMHuIsj)
 
 ### [Trap Land](https://open.spotify.com/playlist/37i9dQZF1DXde9tuMHuIsj)
 

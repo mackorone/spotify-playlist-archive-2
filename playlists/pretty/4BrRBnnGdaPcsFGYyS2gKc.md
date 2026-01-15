@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4BrRBnnGdaPcsFGYyS2gKc.md) - [plain](/playlists/plain/4BrRBnnGdaPcsFGYyS2gKc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4BrRBnnGdaPcsFGYyS2gKc)
+pretty - [cumulative](/playlists/cumulative/4BrRBnnGdaPcsFGYyS2gKc.md) - [plain](/playlists/plain/4BrRBnnGdaPcsFGYyS2gKc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4BrRBnnGdaPcsFGYyS2gKc)
 
 ### [ROCK \- THE MIX: best & new rock, alternative, pop, folk & indie \*](https://open.spotify.com/playlist/4BrRBnnGdaPcsFGYyS2gKc)
 
 > the best &amp; new rock\. all the beloved tracks &amp; artists
 
-[Salon Blanc](https://open.spotify.com/user/1125193345) - 1,378 likes - 228 songs - 14 hr 10 min
+[Salon Blanc](https://open.spotify.com/user/1125193345) - 1,377 likes - 228 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain](/playlists/plain/37i9dQZF1DX70dqoLSWJrU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX70dqoLSWJrU)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain](/playlists/plain/37i9dQZF1DX70dqoLSWJrU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX70dqoLSWJrU)
 
 ### [Heartbreak Jazz](https://open.spotify.com/playlist/37i9dQZF1DX70dqoLSWJrU)
 

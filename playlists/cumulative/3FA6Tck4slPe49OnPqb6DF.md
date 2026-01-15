@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3FA6Tck4slPe49OnPqb6DF.md) - cumulative - [plain](/playlists/plain/3FA6Tck4slPe49OnPqb6DF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3FA6Tck4slPe49OnPqb6DF)
+[pretty](/playlists/pretty/3FA6Tck4slPe49OnPqb6DF.md) - cumulative - [plain](/playlists/plain/3FA6Tck4slPe49OnPqb6DF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3FA6Tck4slPe49OnPqb6DF)
 
 ### [Anjunadeep Essentials ](https://open.spotify.com/playlist/3FA6Tck4slPe49OnPqb6DF)
 
@@ -15,7 +15,7 @@
 | [Come Together](https://open.spotify.com/track/7n8sDrEcuMt0yezLDhIbnN) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Come Together / Naturish](https://open.spotify.com/album/51bI3TSSCHo87eNRjPeHMj) | 3:42 | 2025-08-11 |  |
 | [Dapple](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Dapple](https://open.spotify.com/album/1P2cw0QNAaWCdPF7H5fxvJ) | 3:28 | 2025-08-11 |  |
 | [Deep In My Soul \- Original Mix](https://open.spotify.com/track/5nmr0qCA3JXN2MRdEDUFi6) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Deep In My Soul EP](https://open.spotify.com/album/5i7B8WeK7fyaIs09D9JGwT) | 8:03 | 2025-08-11 |  |
-| [Diamonds](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 5:54 | 2025-08-11 | 2025-11-07 |
+| [Diamonds](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 5:54 | 2025-08-11 |  |
 | [Flight](https://open.spotify.com/track/5V61H1tbmh09aXcXqOml1O) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Flight](https://open.spotify.com/album/0DaD68WLGWcd9HGiiAjFSU) | 5:24 | 2025-08-11 |  |
 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 | 2025-08-11 |  |
 | [Got This Feeling \- Original Mix](https://open.spotify.com/track/3Of0ZixrQPzq22I4ogG4TB) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Got This Feeling EP](https://open.spotify.com/album/44O9qirmVyZDrNH9ZDHffH) | 7:27 | 2025-08-11 |  |

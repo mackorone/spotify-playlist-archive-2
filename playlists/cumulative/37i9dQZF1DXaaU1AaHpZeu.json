@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Nuevos hallazgos de m\u00fasica indie en espa\u00f1ol, con Querido en portada.",
+  "description": "Nuevos hallazgos de m\u00fasica indie en espa\u00f1ol, con NAZZZ en portada.",
   "name": "Novedades Indie",
   "tracks": [
     {
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 151500,
       "name": "Achantao en 80bpm",
       "url": "https://open.spotify.com/track/6BY1NmONEbtL2sY9ZRk7QC"
@@ -3770,7 +3770,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 146612,
       "name": "Acto de Navidad",
       "url": "https://open.spotify.com/track/4Um0jMz9p8efR2SxlcCDGq"
@@ -11267,6 +11267,28 @@
     },
     {
       "album": {
+        "name": "AUN ASI, SON MIS SENTIMIENTOS",
+        "url": "https://open.spotify.com/album/5vDogOxQzUvD3sB7So1XM5"
+      },
+      "artists": [
+        {
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        },
+        {
+          "name": "yakashi",
+          "url": "https://open.spotify.com/artist/5dpxMhY3sbmbJmFsLKCTND"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149802,
+      "name": "AUN SI MA\u00d1ANA TE VAS",
+      "url": "https://open.spotify.com/track/1G3PXtcJQpCsU2QtHz0ytC"
+    },
+    {
+      "album": {
         "name": "AUNQ DUELA",
         "url": "https://open.spotify.com/album/4Frn7SINMdiBLT57OU4qHn"
       },
@@ -12386,7 +12408,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209054,
       "name": "B12",
       "url": "https://open.spotify.com/track/32J7VpF5WAwnMEyDbm5SKB"
@@ -12712,7 +12734,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180000,
       "name": "Bailando en diciembre",
       "url": "https://open.spotify.com/track/1PU6Hs8kWNHPQSBg34bMWy"
@@ -15852,6 +15874,24 @@
       "duration_ms": 159732,
       "name": "brujita",
       "url": "https://open.spotify.com/track/6kYLN1jiNx0e7cdj6QsHrM"
+    },
+    {
+      "album": {
+        "name": "Bruma",
+        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
     },
     {
       "album": {
@@ -20700,7 +20740,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149888,
       "name": "Chevrolet, Mercedes-Benz",
       "url": "https://open.spotify.com/track/1tIiTQUkUsZjQMVdGEpn4K"
@@ -22170,6 +22210,24 @@
       "duration_ms": 161029,
       "name": "Claroscuro",
       "url": "https://open.spotify.com/track/6t5AmoKLAhN6XWNDUQAltS"
+    },
+    {
+      "album": {
+        "name": "Clear Enough",
+        "url": "https://open.spotify.com/album/4B62NftCz5qJnKrOj5ReXt"
+      },
+      "artists": [
+        {
+          "name": "Ele Suarez",
+          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210352,
+      "name": "Clear Enough",
+      "url": "https://open.spotify.com/track/30iWZIe2GROhpBjo5MMvvP"
     },
     {
       "album": {
@@ -25360,7 +25418,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170567,
       "name": "Correcciones Patxi",
       "url": "https://open.spotify.com/track/6GlP4F7J6cqZIopTtk3n3X"
@@ -30474,6 +30532,24 @@
     {
       "album": {
         "name": "desde arriba",
+        "url": "https://open.spotify.com/album/1cpioneGnMei1teo1xmSRv"
+      },
+      "artists": [
+        {
+          "name": "NAZZZ",
+          "url": "https://open.spotify.com/artist/6wTmJT0q2BgbcGTYRxEI9j"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124618,
+      "name": "desde arriba",
+      "url": "https://open.spotify.com/track/4FduMcpNb8tgXqlnl1NfRg"
+    },
+    {
+      "album": {
+        "name": "desde arriba",
         "url": "https://open.spotify.com/album/4uxf2klmTRNeveJn7zX5jX"
       },
       "artists": [
@@ -31604,6 +31680,24 @@
       "duration_ms": 288048,
       "name": "Desventura",
       "url": "https://open.spotify.com/track/2AH088Td8CfqFqgVzaxKee"
+    },
+    {
+      "album": {
+        "name": "DES\u00c9AME SUERTE",
+        "url": "https://open.spotify.com/album/7aXnmplUjgWpneSuyxV0pT"
+      },
+      "artists": [
+        {
+          "name": "NANO Mz",
+          "url": "https://open.spotify.com/artist/4ixkwHeiUM9SF9WaJ0GHwn"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "DES\u00c9AME SUERTE",
+      "url": "https://open.spotify.com/track/6KpueqQpQuclzNjuSiCav8"
     },
     {
       "album": {
@@ -33854,7 +33948,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 197790,
       "name": "Dos Sagitarios",
       "url": "https://open.spotify.com/track/3AdAcGSN0SmUfD3Nfuvtqb"
@@ -44269,6 +44363,24 @@
     },
     {
       "album": {
+        "name": "ESTOY ENFERMO",
+        "url": "https://open.spotify.com/album/7vul6nj87izTaxxJQ8q46R"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172358,
+      "name": "ESTOY ENFERMO",
+      "url": "https://open.spotify.com/track/2Hqj4iuaUwKGysehM9bLsJ"
+    },
+    {
+      "album": {
         "name": "KELP",
         "url": "https://open.spotify.com/album/45TfiSTgYPdsXQpBCy0ll1"
       },
@@ -52027,6 +52139,24 @@
     },
     {
       "album": {
+        "name": "High in the sky",
+        "url": "https://open.spotify.com/album/7bvIpDC81g837GCCRTlLmF"
+      },
+      "artists": [
+        {
+          "name": "Juan Cirerol",
+          "url": "https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "High in the sky",
+      "url": "https://open.spotify.com/track/1vbE1yM9H7CVm4Gh5ElvQy"
+    },
+    {
+      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/6rqyzABnm2XOj7MT1sfgMG"
       },
@@ -57918,7 +58048,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 229546,
       "name": "La Ciudad del Fr\u00edo",
       "url": "https://open.spotify.com/track/2KJnoMyGtomarMozFc8dhJ"
@@ -60666,7 +60796,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157464,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU"
@@ -62770,7 +62900,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 216187,
       "name": "las cosas bien",
       "url": "https://open.spotify.com/track/7hEazLRuPCLsPIoil61a8D"
@@ -70923,6 +71053,24 @@
     },
     {
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/61QCCQqE81UeaT3X7UOYIE"
+      },
+      "artists": [
+        {
+          "name": "Sunsets Green",
+          "url": "https://open.spotify.com/artist/2QO1GQDrA72eZ1fU18y7zW"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288868,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/1NAZC9cT0DCeWJuuRBCifk"
+    },
+    {
+      "album": {
         "name": "GLITTER TEARS",
         "url": "https://open.spotify.com/album/45u1Uhfknz9cGMCUncqlST"
       },
@@ -75450,6 +75598,24 @@
       "duration_ms": 195400,
       "name": "Mi Vida Es Para M\u00ed",
       "url": "https://open.spotify.com/track/7vg3fq6K96f9zkBvgaWMTy"
+    },
+    {
+      "album": {
+        "name": "Mi Vision Board",
+        "url": "https://open.spotify.com/album/19fG7DjjFR7mfBxH43hGqG"
+      },
+      "artists": [
+        {
+          "name": "Lua Lelia",
+          "url": "https://open.spotify.com/artist/5Gqhf0Jh17ECXFZB1zXWCn"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193158,
+      "name": "Mi Vision Board",
+      "url": "https://open.spotify.com/track/0JMwzn2W0PpzTfs80SyMki"
     },
     {
       "album": {
@@ -87666,7 +87832,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178323,
       "name": "Nuevo firmamento",
       "url": "https://open.spotify.com/track/2tT6InLq98dHVFSdV1HNl4"
@@ -96361,6 +96527,24 @@
     },
     {
       "album": {
+        "name": "Por la hierba",
+        "url": "https://open.spotify.com/album/2cZaYH3zb4XveFzF0WrJWC"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Stanich",
+          "url": "https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294173,
+      "name": "Por la hierba",
+      "url": "https://open.spotify.com/track/7gFD6p6tWqbPzf94eZ7Vw5"
+    },
+    {
+      "album": {
         "name": "Por Las Tardes",
         "url": "https://open.spotify.com/album/3KvxSo2dtyzgojX2c1p1O0"
       },
@@ -97707,6 +97891,24 @@
     },
     {
       "album": {
+        "name": "prometo no llamar",
+        "url": "https://open.spotify.com/album/0tIuwpBUugenweMLiL2UqO"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164374,
+      "name": "prometo no llamar",
+      "url": "https://open.spotify.com/track/6O6reRnGeZYqdJRYjiYcyt"
+    },
+    {
+      "album": {
         "name": "Prometo No Olvidar",
         "url": "https://open.spotify.com/album/0KtZKEQs7YFP4HIqx8Obqt"
       },
@@ -98702,7 +98904,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163422,
       "name": "Que Me Beses !!!",
       "url": "https://open.spotify.com/track/4NMLAmg0uUdCttXzUSA29p"
@@ -108582,7 +108784,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 124301,
       "name": "siento q voy para atr\u00e1s",
       "url": "https://open.spotify.com/track/4PLWt6NjwInhnnakAwnqUw"
@@ -116537,6 +116739,24 @@
     },
     {
       "album": {
+        "name": "ROCCO / TENTACION",
+        "url": "https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154612,
+      "name": "TENTACION",
+      "url": "https://open.spotify.com/track/5UV82oH62P9kSDDVuL4btL"
+    },
+    {
+      "album": {
         "name": "Tentaci\u00f3n",
         "url": "https://open.spotify.com/album/2MG3Q9gxAXbrTgk8jd6pkM"
       },
@@ -121248,7 +121468,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 211819,
       "name": "tu nombre",
       "url": "https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS"
@@ -123290,6 +123510,24 @@
       "duration_ms": 185690,
       "name": "Un Parque",
       "url": "https://open.spotify.com/track/6w4uvxQ9nhHIpRSjMHWczj"
+    },
+    {
+      "album": {
+        "name": "Un Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222648,
+      "name": "Un Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak"
     },
     {
       "album": {
@@ -128384,7 +128622,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171214,
       "name": "Vos y la mancha",
       "url": "https://open.spotify.com/track/5Q7C9bGv3zZMUP8fpqHcyM"
@@ -129793,6 +130031,24 @@
     },
     {
       "album": {
+        "name": "Y Si Te Pienso",
+        "url": "https://open.spotify.com/album/797DNZOTWjGYvNDVJHJPUN"
+      },
+      "artists": [
+        {
+          "name": "Todo Arde En Silencio",
+          "url": "https://open.spotify.com/artist/1D7PyEtL78gKjto4erdkd8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111125,
+      "name": "Y Si Te Pienso",
+      "url": "https://open.spotify.com/track/4tTFjgQFcnnYtKOPSPmkw2"
+    },
+    {
+      "album": {
         "name": "Y vos dec\u00eds que me gust\u00e1s",
         "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
       },
@@ -130406,6 +130662,24 @@
       "duration_ms": 218666,
       "name": "YA NO QUIERO QUERERTE",
       "url": "https://open.spotify.com/track/0prZbcI7dJKUKXn0Dh6pCK"
+    },
+    {
+      "album": {
+        "name": "Ya No Quiero Saber",
+        "url": "https://open.spotify.com/album/5Qhe2CzqRkF0HJnO3fSU4H"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147541,
+      "name": "Ya No Quiero Saber",
+      "url": "https://open.spotify.com/track/116he6Jm6sjfVdgjC3Aynw"
     },
     {
       "album": {

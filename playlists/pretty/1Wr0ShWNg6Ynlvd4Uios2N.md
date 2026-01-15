@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/1Wr0ShWNg6Ynlvd4Uios2N.md) - [plain](/playlists/plain/1Wr0ShWNg6Ynlvd4Uios2N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1Wr0ShWNg6Ynlvd4Uios2N)
+pretty - [cumulative](/playlists/cumulative/1Wr0ShWNg6Ynlvd4Uios2N.md) - [plain](/playlists/plain/1Wr0ShWNg6Ynlvd4Uios2N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1Wr0ShWNg6Ynlvd4Uios2N)
 
 ### [MG mayhem](https://open.spotify.com/playlist/1Wr0ShWNg6Ynlvd4Uios2N)
 

@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 107311,
+  "num_followers": 107360,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 114206,
+      "name": "nE !?",
+      "url": "https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 186352,
       "name": "24/7",
       "url": "https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 114206,
-      "name": "nE !?",
-      "url": "https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -91,22 +91,6 @@
       "duration_ms": 171880,
       "name": "Krvn",
       "url": "https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "Dale Don Dale",
-        "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
-      },
-      "artists": [
-        {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        }
-      ],
-      "duration_ms": 118104,
-      "name": "Dale Don Dale",
-      "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -147,6 +131,22 @@
       "duration_ms": 126834,
       "name": "behzat \u00e7",
       "url": "https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "Dale Don Dale",
+        "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        }
+      ],
+      "duration_ms": 118104,
+      "name": "Dale Don Dale",
+      "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -255,26 +255,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Made In Turkey",
-        "url": "https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        }
-      ],
-      "duration_ms": 196583,
-      "name": "AYA",
-      "url": "https://open.spotify.com/track/1d9GjRbLvVdAVBOTkwew4j"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "Sa\u011flam Kal\u00e7a",
         "url": "https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk"
       },
@@ -291,22 +271,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "G\u00f6rmem B\u00f6ylesini",
-        "url": "https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0"
+        "name": "Made In Turkey",
+        "url": "https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl"
       },
       "artists": [
         {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
         },
         {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
         }
       ],
-      "duration_ms": 192446,
-      "name": "G\u00f6rmem B\u00f6ylesini",
-      "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
+      "duration_ms": 196583,
+      "name": "AYA",
+      "url": "https://open.spotify.com/track/1d9GjRbLvVdAVBOTkwew4j"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -343,6 +323,26 @@
       "duration_ms": 151520,
       "name": "Sava\u015ft\u0131m Harbiden",
       "url": "https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "G\u00f6rmem B\u00f6ylesini",
+        "url": "https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 192446,
+      "name": "G\u00f6rmem B\u00f6ylesini",
+      "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "ARABA",
-        "url": "https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6"
-      },
-      "artists": [
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        }
-      ],
-      "duration_ms": 91413,
-      "name": "ARABA",
-      "url": "https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "Sen D\u00f6nene Kadar",
         "url": "https://open.spotify.com/album/4qWQUkpliWcfiiLulxM1Xx"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "ARABA",
+        "url": "https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "duration_ms": 91413,
+      "name": "ARABA",
+      "url": "https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "\u015eampanya",
         "url": "https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Ke\u015fke Benim Olsan",
-        "url": "https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR"
-      },
-      "artists": [
-        {
-          "name": "Kozmos",
-          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Ke\u015fke Benim Olsan",
-      "url": "https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "Imdat",
         "url": "https://open.spotify.com/album/1ttu3fHUGU3idSzSNSGlXw"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 194609,
       "name": "Imdat",
       "url": "https://open.spotify.com/track/7nJBXYIjC16eCzC4jw8Wiw"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "Ke\u015fke Benim Olsan",
+        "url": "https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR"
+      },
+      "artists": [
+        {
+          "name": "Kozmos",
+          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Ke\u015fke Benim Olsan",
+      "url": "https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "RARRii",
+        "url": "https://open.spotify.com/album/23Au28uqhjjeDOfqDWMgnT"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "duration_ms": 167372,
+      "name": "RARRii",
+      "url": "https://open.spotify.com/track/7qGw1hPWBrbJwMdWzWjMXn"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 207986,
       "name": "MAD",
       "url": "https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "RARRii",
-        "url": "https://open.spotify.com/album/23Au28uqhjjeDOfqDWMgnT"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        }
-      ],
-      "duration_ms": 167372,
-      "name": "RARRii",
-      "url": "https://open.spotify.com/track/7qGw1hPWBrbJwMdWzWjMXn"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "BABY B\u0130RTANEM",
+        "url": "https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL"
+      },
+      "artists": [
+        {
+          "name": "Zen-G",
+          "url": "https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "BABY B\u0130RTANEM",
+      "url": "https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "Kimse bilmiyor",
         "url": "https://open.spotify.com/album/36w2dxLUwvWx0XwnHVePyK"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 174010,
       "name": "Kimse bilmiyor",
       "url": "https://open.spotify.com/track/3Hkia1c1vf930mO4SZ3ZnA"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "BABY B\u0130RTANEM",
-        "url": "https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL"
-      },
-      "artists": [
-        {
-          "name": "Zen-G",
-          "url": "https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "BABY B\u0130RTANEM",
-      "url": "https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "Senden Vazge\u00e7tim",
+        "url": "https://open.spotify.com/album/72ulEcsqjpgL4lcGO8gnyT"
+      },
+      "artists": [
+        {
+          "name": "Bora",
+          "url": "https://open.spotify.com/artist/0EJe5gUmpf6NraeLEyFF7E"
+        }
+      ],
+      "duration_ms": 110399,
+      "name": "Senden Vazge\u00e7tim",
+      "url": "https://open.spotify.com/track/3RAmJSQDSJWgrzu66Ftcrr"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "T\u00dcM KIZLAR TEHL\u0130KEDE",
         "url": "https://open.spotify.com/album/744VKg1Z39BnJmAkKXRLk0"
       },
@@ -855,42 +871,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Senden Vazge\u00e7tim",
-        "url": "https://open.spotify.com/album/72ulEcsqjpgL4lcGO8gnyT"
-      },
-      "artists": [
-        {
-          "name": "Bora",
-          "url": "https://open.spotify.com/artist/0EJe5gUmpf6NraeLEyFF7E"
-        }
-      ],
-      "duration_ms": 110399,
-      "name": "Senden Vazge\u00e7tim",
-      "url": "https://open.spotify.com/track/3RAmJSQDSJWgrzu66Ftcrr"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "Kod ad\u0131: D.E.V",
-        "url": "https://open.spotify.com/album/4d3SG95olBXGm823dDxlj9"
-      },
-      "artists": [
-        {
-          "name": "6iant",
-          "url": "https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii"
-        },
-        {
-          "name": "T4L",
-          "url": "https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Dillere Destan",
-      "url": "https://open.spotify.com/track/4WVgsEp3WDLZUVU7Zmxxfd"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "PARAMPAR\u00c7A",
         "url": "https://open.spotify.com/album/6s48Hfq7goYvPnRbTXSOOR"
       },
@@ -907,6 +887,22 @@
       "duration_ms": 128776,
       "name": "PARAMPAR\u00c7A",
       "url": "https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "Bachata",
+        "url": "https://open.spotify.com/album/0MxyGwVEOjryLtv3tRlYVM"
+      },
+      "artists": [
+        {
+          "name": "Sehabe",
+          "url": "https://open.spotify.com/artist/6P5Tw2kwv3BAa3iONsQe9x"
+        }
+      ],
+      "duration_ms": 172738,
+      "name": "Bachata",
+      "url": "https://open.spotify.com/track/3qIs49kx7GwWxrjPwH54Ph"
     }
   ],
   "unique_name": "Yaz Ritmi",

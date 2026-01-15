@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain](/playlists/plain/37i9dQZF1DX6nghHfwjiMg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6nghHfwjiMg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain](/playlists/plain/37i9dQZF1DX6nghHfwjiMg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6nghHfwjiMg)
 
 ### [RADAR Al Sur](https://open.spotify.com/playlist/37i9dQZF1DX6nghHfwjiMg)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX33haVNk7fCy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX33haVNk7fCy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX33haVNk7fCy)
+[pretty](/playlists/pretty/37i9dQZF1DX33haVNk7fCy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX33haVNk7fCy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX33haVNk7fCy)
 
 ### [I\-Pop Sad Feels](https://open.spotify.com/playlist/37i9dQZF1DX33haVNk7fCy)
 

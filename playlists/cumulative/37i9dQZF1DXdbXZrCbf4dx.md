@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdbXZrCbf4dx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdbXZrCbf4dx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdbXZrCbf4dx)
+[pretty](/playlists/pretty/37i9dQZF1DXdbXZrCbf4dx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdbXZrCbf4dx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdbXZrCbf4dx)
 
 ### [Ranking of Kings 王様ランキング](https://open.spotify.com/playlist/37i9dQZF1DXdbXZrCbf4dx)
 

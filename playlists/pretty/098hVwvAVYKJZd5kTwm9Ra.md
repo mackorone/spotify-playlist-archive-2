@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain](/playlists/plain/098hVwvAVYKJZd5kTwm9Ra) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/098hVwvAVYKJZd5kTwm9Ra)
+pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain](/playlists/plain/098hVwvAVYKJZd5kTwm9Ra) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/098hVwvAVYKJZd5kTwm9Ra)
 
 ### [BBQ Classics \| 70s 80s 90s Barbecue](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
 
 > BBQ \- Summer Barbeque grilling essentials for your backyard party\. Backyard BBQ, Cookout, Block Party, Summer BBQ, Barbeque Mix, BBQ Chill\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 119,668 likes - 214 songs - 14 hr 20 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 119,625 likes - 214 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

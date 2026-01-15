@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX4UK2Qu9x6KC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4UK2Qu9x6KC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4UK2Qu9x6KC)
+[pretty](/playlists/pretty/37i9dQZF1DX4UK2Qu9x6KC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4UK2Qu9x6KC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4UK2Qu9x6KC)
 
 ### [This Is Tina Turner](https://open.spotify.com/playlist/37i9dQZF1DX4UK2Qu9x6KC)
 

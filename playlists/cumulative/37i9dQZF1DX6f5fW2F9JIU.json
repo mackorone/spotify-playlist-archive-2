@@ -455,6 +455,40 @@
     },
     {
       "album": {
+        "name": "LoveLive! Series 15th Anniversary Tribute Album",
+        "url": "https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u6d77\u6625\u9999 (CV.\u4e2d\u6751\u7e6a\u91cc\u5b50)",
+          "url": "https://open.spotify.com/artist/4VYbbwQ4B6bjc3bJEAjFlL"
+        },
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        },
+        {
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        },
+        {
+          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
+          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
+        },
+        {
+          "name": "\u83ca\u5730 \u771f (CV.\u5e73\u7530\u5b8f\u7f8e)",
+          "url": "https://open.spotify.com/artist/63lsunc6hoqoaUq0A11UZX"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301546,
+      "name": "KiRa-KiRa Sensation!",
+      "url": "https://open.spotify.com/track/1oCb5uIg2DubnPv5pKoKRK"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! -COOL&BITTER!-",
         "url": "https://open.spotify.com/album/47Hkg8JBDUiaQq6vZKTM6U"
       },

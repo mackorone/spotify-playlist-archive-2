@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141369,
       "name": "AYOS LANG",
       "url": "https://open.spotify.com/track/5ao7bBo7bVdG83EV4qyhAf"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 329500,
       "name": "Balang Araw",
       "url": "https://open.spotify.com/track/1FDczJipkMHmpzdX0zvcn7"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 187812,
       "name": "Bulay-bulayin",
       "url": "https://open.spotify.com/track/4lIKuDqhx8q3pUSpsAKlY0"
@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 176000,
       "name": "Bye 3x",
       "url": "https://open.spotify.com/track/7q2fWxTVz2g6ZERBlfs5ow"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 207573,
       "name": "Dalawa",
       "url": "https://open.spotify.com/track/2PPVwTRihaBQHirGqhBhdB"
@@ -4447,7 +4447,7 @@
     },
     {
       "album": {
-        "name": "Ikaw Lagi",
+        "name": "IKAW LAGI",
         "url": "https://open.spotify.com/album/4gLUT2vvF4Hx64G7xtbskK"
       },
       "artists": [
@@ -4460,7 +4460,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 234511,
-      "name": "Ikaw Lagi",
+      "name": "IKAW LAGI",
       "url": "https://open.spotify.com/track/3USJfZzJ3TwIQyXqbkFOmd"
     },
     {
@@ -5437,6 +5437,24 @@
     },
     {
       "album": {
+        "name": "Kung Magugunaw ang Mundo",
+        "url": "https://open.spotify.com/album/1geXyQplbxyXhpCcbRyjzs"
+      },
+      "artists": [
+        {
+          "name": "LEYO",
+          "url": "https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231391,
+      "name": "Kung Magugunaw ang Mundo",
+      "url": "https://open.spotify.com/track/0lDhTznSyQ4QwDdAM4LFHN"
+    },
+    {
+      "album": {
         "name": "Kuntento",
         "url": "https://open.spotify.com/album/3LMSihxIrTWjjhrS4yv9bR"
       },
@@ -5556,7 +5574,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 230154,
       "name": "Lalapit?",
       "url": "https://open.spotify.com/track/6EiNfnUrSbiouZqFx7kxHf"
@@ -6433,6 +6451,28 @@
     },
     {
       "album": {
+        "name": "Malabo",
+        "url": "https://open.spotify.com/album/5u92oijHjzzb1IUlqXPAbt"
+      },
+      "artists": [
+        {
+          "name": "Petsanity",
+          "url": "https://open.spotify.com/artist/1OVaCQucAYwylVm6HxeqXm"
+        },
+        {
+          "name": "El Manu",
+          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208200,
+      "name": "Malabo",
+      "url": "https://open.spotify.com/track/3da177OlgQtJx6IF3Ivrz0"
+    },
+    {
+      "album": {
         "name": "MU",
         "url": "https://open.spotify.com/album/4bGMCLUG61Fveyy16lxbIM"
       },
@@ -6716,6 +6756,24 @@
       "duration_ms": 230998,
       "name": "Masasanay Din",
       "url": "https://open.spotify.com/track/7EBPDWo8i2xqhTWNJ0Baip"
+    },
+    {
+      "album": {
+        "name": "Masunog Man",
+        "url": "https://open.spotify.com/album/3KQHSKJK0Kgtq7NdJq3blO"
+      },
+      "artists": [
+        {
+          "name": "Maymay Entrata",
+          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207727,
+      "name": "Masunog Man",
+      "url": "https://open.spotify.com/track/1DlJsnh0xE51pkSAWXz4W3"
     },
     {
       "album": {
@@ -7012,7 +7070,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180803,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp"
@@ -8276,7 +8334,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 237500,
       "name": "Pagupit",
       "url": "https://open.spotify.com/track/5z9X9Q2mZaWdGUrOj62rkw"
@@ -9846,6 +9904,24 @@
       "duration_ms": 211658,
       "name": "Sabihin Lang (Kung Ayaw Mo)",
       "url": "https://open.spotify.com/track/56SW6kPw7xMoFt7kBoegP5"
+    },
+    {
+      "album": {
+        "name": "Sabihin Mo Lang",
+        "url": "https://open.spotify.com/album/2PgrN7s5f9iQ5cMGVFbYXE"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180588,
+      "name": "Sabihin Mo Lang",
+      "url": "https://open.spotify.com/track/7JGChCgGGxVdPMxopSTzzN"
     },
     {
       "album": {
@@ -12672,7 +12748,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186039,
       "name": "You Deserve It!",
       "url": "https://open.spotify.com/track/4G4BPh9ESJ6qFQLcrzghic"
@@ -12708,7 +12784,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213000,
       "name": "Yours",
       "url": "https://open.spotify.com/track/096GsV4auvK0bXfBjQzbpt"

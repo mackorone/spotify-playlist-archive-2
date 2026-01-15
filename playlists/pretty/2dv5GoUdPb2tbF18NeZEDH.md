@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain](/playlists/plain/2dv5GoUdPb2tbF18NeZEDH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2dv5GoUdPb2tbF18NeZEDH)
+pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain](/playlists/plain/2dv5GoUdPb2tbF18NeZEDH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2dv5GoUdPb2tbF18NeZEDH)
 
 ### [New Afro House 2026](https://open.spotify.com/playlist/2dv5GoUdPb2tbF18NeZEDH)
 
 > Rhythmic afro house driven by deep percussion, organic elements and hypnotic grooves.Submit your music via our Linktree: linktr.ee&\#x2F;gandgfrequency ☝️In collaboration with Deleted Ghost Records.
 
-[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 455 likes - 100 songs - 6 hr 44 min
+[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 459 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain]
 | 66 | [Carranca](https://open.spotify.com/track/7gZqTHp4BehHYjdcevZjX2) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [NenaHalena](https://open.spotify.com/artist/23iRCK9958IO0IMtIvAAJq), [Victória dos Santos](https://open.spotify.com/artist/5u9LTxHVFVSQhY7US0pOCn) | [Carranca](https://open.spotify.com/album/0uJfXZiA8Fmt69oRjM32KK) | 2:41 |
 | 67 | [Mwaki](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz) | 3:28 |
 | 68 | [Ni Wewe \- Raj el Rey Remix](https://open.spotify.com/track/7MPcu0n3ashtEW8e1Xdr2P) | [Urmet K](https://open.spotify.com/artist/46YPQGXkvn7QooB0XJvkdb), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Raj el Rey](https://open.spotify.com/artist/4GfiB4CtVgjtcO2SUpswoN) | [Ni Wewe \(Raj El Rey Remix\)](https://open.spotify.com/album/5QCgOTg4Z8UUZlkguoqb2x) | 3:34 |
-| 69 | [Mau Olhado](https://open.spotify.com/track/549vzFtkoTQvy5bOhbYZM8) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Mau Olhado](https://open.spotify.com/album/78xsHp1yyqZQ713s58QTT0) | 2:41 |
+| 69 | [Mau Olhado](https://open.spotify.com/track/549vzFtkoTQvy5bOhbYZM8) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [Victória dos Santos](https://open.spotify.com/artist/5u9LTxHVFVSQhY7US0pOCn) | [Mau Olhado \(Carranca\)](https://open.spotify.com/album/78xsHp1yyqZQ713s58QTT0) | 2:41 |
 | 70 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
 | 71 | [Maria \- El Mundo Remix](https://open.spotify.com/track/0ayPcLLsra2HOeauWzCiam) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Soul Star](https://open.spotify.com/artist/3hOsGdLoINDweQrMm2tjZy), [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej) | [Maria \(El Mundo Remix\)](https://open.spotify.com/album/7h1i41tmFDk8H4FsrEG2IY) | 4:34 |
 | 72 | [Citadelle](https://open.spotify.com/track/4rcj9dtT3uK0XEYWYI74dU) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Citadelle](https://open.spotify.com/album/0DizSiMxcUKUPaZ09BmAXi) | 3:56 |

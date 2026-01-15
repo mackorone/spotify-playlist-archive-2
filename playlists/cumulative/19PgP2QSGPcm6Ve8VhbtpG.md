@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/19PgP2QSGPcm6Ve8VhbtpG.md) - cumulative - [plain](/playlists/plain/19PgP2QSGPcm6Ve8VhbtpG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/19PgP2QSGPcm6Ve8VhbtpG)
+[pretty](/playlists/pretty/19PgP2QSGPcm6Ve8VhbtpG.md) - cumulative - [plain](/playlists/plain/19PgP2QSGPcm6Ve8VhbtpG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/19PgP2QSGPcm6Ve8VhbtpG)
 
 ### [80s HITS \| TOP 100 SONGS ](https://open.spotify.com/playlist/19PgP2QSGPcm6Ve8VhbtpG)
 

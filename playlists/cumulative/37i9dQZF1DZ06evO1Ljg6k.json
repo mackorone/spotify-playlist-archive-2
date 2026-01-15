@@ -713,6 +713,48 @@
     },
     {
       "album": {
+        "name": "Red Hot + Riot",
+        "url": "https://open.spotify.com/album/1A8CTj3nDNQrxNs6kXEYsq"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        },
+        {
+          "name": "Femi Kuti",
+          "url": "https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb"
+        },
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        },
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "The Soultronics",
+          "url": "https://open.spotify.com/artist/4b3u2gT5QT5SApOmMUGDeN"
+        },
+        {
+          "name": "Positive Force",
+          "url": "https://open.spotify.com/artist/6kDuO7eG1AJika9vpTF6yG"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610519,
+      "name": "Water No Get Enemy",
+      "url": "https://open.spotify.com/track/5WFSTTKZxDnvr0EVBJTFpe"
+    },
+    {
+      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },

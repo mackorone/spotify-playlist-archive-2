@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWREb3EdeDeP.md) - [plain](/playlists/plain/37i9dQZF1DWWREb3EdeDeP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWREb3EdeDeP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWREb3EdeDeP.md) - [plain](/playlists/plain/37i9dQZF1DWWREb3EdeDeP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWREb3EdeDeP)
 
 ### [Star Wars Outlaws Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWWREb3EdeDeP)
 
 > If you’re willing to take the risk, the galaxy is full of opportunity\. Listen to the music from Star Wars Outlaw, available now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,381 likes - 69 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,360 likes - 69 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

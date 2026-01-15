@@ -34,10 +34,28 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 253062,
       "name": "Algebra",
       "url": "https://open.spotify.com/track/1vLEUjeuQeLI4GX3eLSkqY"
+    },
+    {
+      "album": {
+        "name": "Allora come ti va",
+        "url": "https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278576,
+      "name": "Allora come ti va",
+      "url": "https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS"
     },
     {
       "album": {
@@ -564,7 +582,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162199,
       "name": "Initium Concentus",
       "url": "https://open.spotify.com/track/4VNYxI40qpkawwl9acl7ni"
@@ -607,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Ju\u017c",
+        "url": "https://open.spotify.com/album/73fjgrSMpL4uvl6CtvLmwi"
+      },
+      "artists": [
+        {
+          "name": "Lina Pozar",
+          "url": "https://open.spotify.com/artist/5KRKDDVgrT0djvP9Fu9tqT"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117959,
+      "name": "Ju\u017c",
+      "url": "https://open.spotify.com/track/7sqz4ZUtia39yBHwhKSUCK"
+    },
+    {
+      "album": {
         "name": "Kiss Me Before I Die",
         "url": "https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg"
       },
@@ -622,6 +658,24 @@
       "duration_ms": 253085,
       "name": "Kiss Me Before I Die",
       "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
+    },
+    {
+      "album": {
+        "name": "Life Your Way",
+        "url": "https://open.spotify.com/album/0cVUXU3L0dMwDwNnsSUUU7"
+      },
+      "artists": [
+        {
+          "name": "Empress Linoleum",
+          "url": "https://open.spotify.com/artist/4FuR22rpxsrFeXd1VrimbB"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200718,
+      "name": "Life Your Way",
+      "url": "https://open.spotify.com/track/5Pw8oPIkppU49EQbeiucod"
     },
     {
       "album": {
@@ -1216,6 +1270,32 @@
       "duration_ms": 295533,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "album": {
+        "name": "Whatcha Say",
+        "url": "https://open.spotify.com/album/7yUENnspT8aYZQ91SerSTx"
+      },
+      "artists": [
+        {
+          "name": "SPLIZZ",
+          "url": "https://open.spotify.com/artist/09zRtpbeEH5c8KetpKopK6"
+        },
+        {
+          "name": "SLORAX",
+          "url": "https://open.spotify.com/artist/04b2uZtgYpGZ8GDSljy7Q2"
+        },
+        {
+          "name": "Xtina Louise",
+          "url": "https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145166,
+      "name": "Whatcha Say",
+      "url": "https://open.spotify.com/track/3MD1lzIZkbKHHPHFyP0WdY"
     },
     {
       "album": {

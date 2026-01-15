@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1EFEwvBNvyAJTg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFEwvBNvyAJTg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFEwvBNvyAJTg)
+[pretty](/playlists/pretty/37i9dQZF1EFEwvBNvyAJTg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFEwvBNvyAJTg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1EFEwvBNvyAJTg)
 
 ### [Written By Jon Shave](https://open.spotify.com/playlist/37i9dQZF1EFEwvBNvyAJTg)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-258 songs - 14 hr 6 min
+259 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:28 | 2024-06-13 |  |
 | [Don't Kill My Vibe](https://open.spotify.com/track/58tGCL2ir7M0iJDdhCsLLW) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:33 | 2025-05-22 |  |
 | [Don't Need Y'all](https://open.spotify.com/track/4m2k8jQNbNsAINiip5qKSN) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:33 | 2025-01-09 | 2025-04-12 |
+| [Double Edged Sword](https://open.spotify.com/track/1faO8uZBqjwTyUmYOEE5Z5) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Double Edged Sword](https://open.spotify.com/album/10E3qrwPpiy3QXLrzARadz) | 2:47 | 2026-01-14 |  |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2025-01-09 | 2025-04-12 |
 | [Emily](https://open.spotify.com/track/0uxiyzkQ5aweoGgp7hxPUs) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Lower Than Atlantis](https://open.spotify.com/album/25xQevIYTCKcvsw9fyZoDb) | 3:30 | 2025-01-09 | 2025-04-12 |
 | [Enjoy Youth](https://open.spotify.com/track/3fBT8ulgB2jVaOr77QEV9u) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 4:11 | 2024-06-13 |  |

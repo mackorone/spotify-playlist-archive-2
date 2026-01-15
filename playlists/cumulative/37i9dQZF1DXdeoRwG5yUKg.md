@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdeoRwG5yUKg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdeoRwG5yUKg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdeoRwG5yUKg)
+[pretty](/playlists/pretty/37i9dQZF1DXdeoRwG5yUKg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdeoRwG5yUKg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdeoRwG5yUKg)
 
 ### [Blue Ballads](https://open.spotify.com/playlist/37i9dQZF1DXdeoRwG5yUKg)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain](/playlists/plain/37i9dQZF1DWWRBn5XivGEJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWRBn5XivGEJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain](/playlists/plain/37i9dQZF1DWWRBn5XivGEJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWRBn5XivGEJ)
 
 ### [Dead Dead Demon's Dededede Destruction ](https://open.spotify.com/playlist/37i9dQZF1DWWRBn5XivGEJ)
 
 > Music from "Dead Dead Demon's Dededede Destruction"! ©︎浅野いにお／小学館／DeDeDeDe Committee
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,425 likes - 29 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,477 likes - 29 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

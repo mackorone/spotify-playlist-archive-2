@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpiXSzWC9nm.md) - [plain](/playlists/plain/37i9dQZF1DXdpiXSzWC9nm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdpiXSzWC9nm)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpiXSzWC9nm.md) - [plain](/playlists/plain/37i9dQZF1DXdpiXSzWC9nm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdpiXSzWC9nm)
 
 ### [2010s Throwback Video Hits](https://open.spotify.com/playlist/37i9dQZF1DXdpiXSzWC9nm)
 
 > Throw it back to the 2010s with this list of classic videos\. Music videos available only on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,344 likes - 16 songs - 59 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,854 likes - 16 songs - 59 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

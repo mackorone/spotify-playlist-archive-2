@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX06iraQz9RBJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX06iraQz9RBJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX06iraQz9RBJ)
+[pretty](/playlists/pretty/37i9dQZF1DX06iraQz9RBJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX06iraQz9RBJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX06iraQz9RBJ)
 
 ### [Spicy Sports Romance](https://open.spotify.com/playlist/37i9dQZF1DX06iraQz9RBJ)
 

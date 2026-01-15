@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/65mTEy33PMBRsfVtpwexlc.md) - cumulative - [plain](/playlists/plain/65mTEy33PMBRsfVtpwexlc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65mTEy33PMBRsfVtpwexlc)
+[pretty](/playlists/pretty/65mTEy33PMBRsfVtpwexlc.md) - cumulative - [plain](/playlists/plain/65mTEy33PMBRsfVtpwexlc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/65mTEy33PMBRsfVtpwexlc)
 
 ### [90's Alt Rock](https://open.spotify.com/playlist/65mTEy33PMBRsfVtpwexlc)
 
@@ -134,7 +134,7 @@
 | [Plush \- Live at Castaic Lake Natural Amphitheater, 7/2/93](https://open.spotify.com/track/75shjDgN0wxJ3vEydMa9aF) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:05 | 2021-09-01 | 2023-03-01 |
 | [Policy of Truth](https://open.spotify.com/track/0Mb20VmqR2lvtgbEermW2v) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 4:55 | 2021-09-01 |  |
 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 | 2023-02-28 |  |
-| [Praise You \- Radio Edit](https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:47 | 2023-02-28 |  |
+| [Praise You](https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:47 | 2023-02-28 |  |
 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 | 2023-02-28 |  |
 | [Pumping On Your Stereo](https://open.spotify.com/track/55QdsyZaO7av9MaA8seJoT) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/7jSxr2MDcrNoOQOxWYg8zr) | 3:20 | 2023-02-28 |  |
 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 | 2023-02-28 |  |

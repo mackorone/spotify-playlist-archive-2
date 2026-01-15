@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYJer66eoqCP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYJer66eoqCP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYJer66eoqCP)
+[pretty](/playlists/pretty/37i9dQZF1DWYJer66eoqCP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYJer66eoqCP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYJer66eoqCP)
 
 ### [사랑이라 말해요\(Call It Love\)](https://open.spotify.com/playlist/37i9dQZF1DWYJer66eoqCP)
 

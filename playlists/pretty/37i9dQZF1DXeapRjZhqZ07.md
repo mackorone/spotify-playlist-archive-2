@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeapRjZhqZ07.md) - [plain](/playlists/plain/37i9dQZF1DXeapRjZhqZ07) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXeapRjZhqZ07)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeapRjZhqZ07.md) - [plain](/playlists/plain/37i9dQZF1DXeapRjZhqZ07) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXeapRjZhqZ07)
 
 ### [Frozen Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXeapRjZhqZ07)
 
 > Celebrate Frozen's 10th anniversary and listen to all of your Frozen favorites in this official playlist\. Stream the Frozen Collection on Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,250 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,331 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/71kt7mHLzNDQFmmUOVWA6Q.md) - [plain](/playlists/plain/71kt7mHLzNDQFmmUOVWA6Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/71kt7mHLzNDQFmmUOVWA6Q)
+pretty - [cumulative](/playlists/cumulative/71kt7mHLzNDQFmmUOVWA6Q.md) - [plain](/playlists/plain/71kt7mHLzNDQFmmUOVWA6Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/71kt7mHLzNDQFmmUOVWA6Q)
 
 ### [VALORANT \- Music of CHAMPIONS Seoul](https://open.spotify.com/playlist/71kt7mHLzNDQFmmUOVWA6Q)
 
 > Follow the OFFICIAL Playlist for VCT now on the VALORANT Spotify!!
 
-[John Lock](https://open.spotify.com/user/12178106667) - 7,665 likes - 93 songs - 5 hr 15 min
+[John Lock](https://open.spotify.com/user/12178106667) - 7,657 likes - 93 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

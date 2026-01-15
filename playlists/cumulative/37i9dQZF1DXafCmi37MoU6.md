@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXafCmi37MoU6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafCmi37MoU6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafCmi37MoU6)
+[pretty](/playlists/pretty/37i9dQZF1DXafCmi37MoU6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafCmi37MoU6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXafCmi37MoU6)
 
 ### [50 años de Hip\-Hop Mexicano ](https://open.spotify.com/playlist/37i9dQZF1DXafCmi37MoU6)
 

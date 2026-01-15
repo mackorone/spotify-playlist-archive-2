@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4ZZb2B1mTCouH4Wz5ti7qc.md) - cumulative - [plain](/playlists/plain/4ZZb2B1mTCouH4Wz5ti7qc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ZZb2B1mTCouH4Wz5ti7qc)
+[pretty](/playlists/pretty/4ZZb2B1mTCouH4Wz5ti7qc.md) - cumulative - [plain](/playlists/plain/4ZZb2B1mTCouH4Wz5ti7qc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4ZZb2B1mTCouH4Wz5ti7qc)
 
 ### [ROCK IN LYON](https://open.spotify.com/playlist/4ZZb2B1mTCouH4Wz5ti7qc)
 

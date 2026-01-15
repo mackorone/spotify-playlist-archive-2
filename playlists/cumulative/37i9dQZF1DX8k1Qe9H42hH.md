@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8k1Qe9H42hH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8k1Qe9H42hH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8k1Qe9H42hH)
+[pretty](/playlists/pretty/37i9dQZF1DX8k1Qe9H42hH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8k1Qe9H42hH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8k1Qe9H42hH)
 
 ### [Disney Baby](https://open.spotify.com/playlist/37i9dQZF1DX8k1Qe9H42hH)
 

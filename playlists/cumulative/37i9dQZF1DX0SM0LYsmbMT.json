@@ -896,7 +896,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 113117,
       "name": "A Million Times",
       "url": "https://open.spotify.com/track/7j9aWWzY5lb1ngR5QDjF5B"
@@ -3648,7 +3648,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 120000,
       "name": "Another One",
       "url": "https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w"
@@ -5662,7 +5662,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 152279,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5ffanUCz7HuYiT67dHbCap"
@@ -13708,7 +13708,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 136941,
       "name": "Chillwalk",
       "url": "https://open.spotify.com/track/19Cm2BhY04tNN9iXEGGfin"
@@ -21923,6 +21923,28 @@
     },
     {
       "album": {
+        "name": "early hours",
+        "url": "https://open.spotify.com/album/3MbCTW24HzUYqqdaG0nl0E"
+      },
+      "artists": [
+        {
+          "name": "Sundaze",
+          "url": "https://open.spotify.com/artist/2YxIkLC16Y21afaSqjP9b0"
+        },
+        {
+          "name": "iamkosmos",
+          "url": "https://open.spotify.com/artist/6Fwz7z7P6QfQA6mNW5Nze5"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115324,
+      "name": "early hours",
+      "url": "https://open.spotify.com/track/2oIdhGxd2j4CO2Y1GlY0Gr"
+    },
+    {
+      "album": {
         "name": "Early Renaissance Pt. III",
         "url": "https://open.spotify.com/album/0UOMw1pLTf8mBjm3bb1tqH"
       },
@@ -22816,7 +22838,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 92616,
       "name": "Empty Glass",
       "url": "https://open.spotify.com/track/5sCwBoZMMfooOx4eGYtN2a"
@@ -24542,7 +24564,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 128571,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/0eLUwTgJuz6K9dL12GGlgp"
@@ -43330,7 +43352,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 140000,
       "name": "Likewise",
       "url": "https://open.spotify.com/track/48yOuSIiEx6Ub7jFabAgBc"
@@ -48160,7 +48182,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 111610,
       "name": "Midnight Drive",
       "url": "https://open.spotify.com/track/0RgCZ9RKtQGQpvfASJ01B6"
@@ -65848,7 +65870,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 119254,
       "name": "Salt",
       "url": "https://open.spotify.com/track/13lm4JZN6BzI7xVtp9loUg"
@@ -69716,7 +69738,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 155294,
       "name": "Smoked",
       "url": "https://open.spotify.com/track/0wND5DO78fUn6bavabLy43"
@@ -71872,7 +71894,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 127228,
       "name": "Sparkles",
       "url": "https://open.spotify.com/track/5dyCpsSNa115m84rtDDHqI"
@@ -84578,7 +84600,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "Vibe I'm",
       "url": "https://open.spotify.com/track/07RlP8Rj6ihc4sT3wZu7yw"
@@ -85278,7 +85300,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135760,
       "name": "Vivian",
       "url": "https://open.spotify.com/track/4YYfRXiWpGGz7VZIRQabXE"

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX6Rl8uES4jYu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6Rl8uES4jYu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6Rl8uES4jYu)
+[pretty](/playlists/pretty/37i9dQZF1DX6Rl8uES4jYu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6Rl8uES4jYu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6Rl8uES4jYu)
 
 ### [Ready for the Day](https://open.spotify.com/playlist/37i9dQZF1DX6Rl8uES4jYu)
 

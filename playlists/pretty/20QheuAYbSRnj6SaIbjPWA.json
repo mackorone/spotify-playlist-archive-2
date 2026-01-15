@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAABELrHLBp+LaqdxjYoLqNyXSCAMjsR",
+  "snapshot_id": "AAABFMLZmgsC1yGIrSX9+lfTLACirHGf",
   "tracks": [
     {
       "added_at": "2023-02-27 21:53:34",
@@ -743,22 +743,6 @@
       "duration_ms": 238911,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/3G7ZiXrSPvRRQMMIuLnFS9"
-    },
-    {
-      "added_at": "2023-10-11 18:28:34",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Right Here, for Now",
-      "url": "https://open.spotify.com/track/2LxRUWNqcKcTo7zOrctebE"
     },
     {
       "added_at": "2023-10-11 19:20:54",
@@ -2539,6 +2523,38 @@
       "duration_ms": 189000,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
+    },
+    {
+      "added_at": "2026-01-07 00:05:18",
+      "album": {
+        "name": "Tomorrow is Perfect",
+        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
+    },
+    {
+      "added_at": "2026-01-10 17:44:44",
+      "album": {
+        "name": "In Rainbows",
+        "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 228746,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J"
     }
   ],
   "unique_name": "20QheuAYbSRnj6SaIbjPWA",

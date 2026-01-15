@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SEA.",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Saran",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 200425,
       "name": "Hotel Lobby",
       "url": "https://open.spotify.com/track/5ZwO6yhqNgne3juzRbHgDB"
@@ -7677,6 +7677,24 @@
     },
     {
       "album": {
+        "name": "YOU NEVER KNOW",
+        "url": "https://open.spotify.com/album/5y4566wv4cSisuNwLSiL60"
+      },
+      "artists": [
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "YOU NEVER KNOW",
+      "url": "https://open.spotify.com/track/5BeLJRxFkczvAcJUYj8Seg"
+    },
+    {
+      "album": {
         "name": "You the one",
         "url": "https://open.spotify.com/album/4mQ5ETZjIP0wUQiyFx7tnk"
       },
@@ -8234,7 +8252,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 150857,
       "name": "\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07",
       "url": "https://open.spotify.com/track/4wdhaFNWBLih6Smixwg3P5"
@@ -8312,6 +8330,24 @@
       "duration_ms": 199125,
       "name": "\u0e02\u0e2d\u0e41\u0e04\u0e48\u0e1d\u0e31\u0e19",
       "url": "https://open.spotify.com/track/07Z8ao9yf1SrqJ0Q9P7pNG"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/1IHnkb3rPbCFTM7dPwosA9"
+      },
+      "artists": [
+        {
+          "name": "K.AGLET",
+          "url": "https://open.spotify.com/artist/3MjUtSzU4lplyjnX01fTSw"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221408,
+      "name": "\u0e02\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/0diY43l3Rk4t5GMXMFXZOs"
     },
     {
       "album": {
@@ -9211,6 +9247,32 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e30\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e44\u0e1b\u0e44\u0e2b\u0e19",
+        "url": "https://open.spotify.com/album/6Q48zL8XBKfW5ujXAQR6mS"
+      },
+      "artists": [
+        {
+          "name": "K.AGLET",
+          "url": "https://open.spotify.com/artist/3MjUtSzU4lplyjnX01fTSw"
+        },
+        {
+          "name": "GUNNER",
+          "url": "https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv"
+        },
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207931,
+      "name": "\u0e08\u0e30\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e44\u0e1b\u0e44\u0e2b\u0e19",
+      "url": "https://open.spotify.com/track/0tmckE7qL6n5t85O7bpXBG"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e30\u0e23\u0e35\u0e1a\u0e44\u0e1b\u0e44\u0e2b\u0e19\u0e17\u0e33\u0e44\u0e21\u0e44\u0e21\u0e48\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48",
         "url": "https://open.spotify.com/album/4NAYGzOmYbr743suH0iHG2"
       },
@@ -9556,7 +9618,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 105230,
       "name": "\u0e0a\u0e2d\u0e1a\u0e1a\u0e31\u0e1a\u0e19\u0e35\u0e49 (CHOB BAB NEE)",
       "url": "https://open.spotify.com/track/7r8I4ADzWP1Q9QwW23QG4b"
@@ -9760,6 +9822,28 @@
       "duration_ms": 217009,
       "name": "\u0e0b\u0e49\u0e2d\u0e19\u0e23\u0e16",
       "url": "https://open.spotify.com/track/7dG6Fh7ZGC8H2asevRdcl9"
+    },
+    {
+      "album": {
+        "name": "YOUNG J SEASON Vol.1",
+        "url": "https://open.spotify.com/album/5nIjuTavkm3bpPQM4HvKQ3"
+      },
+      "artists": [
+        {
+          "name": "Young J",
+          "url": "https://open.spotify.com/artist/5nYImteGVIjH7sXrD9quLp"
+        },
+        {
+          "name": "DASHIE",
+          "url": "https://open.spotify.com/artist/1svXJPocQXortkRBYQgSKJ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\u0e0b\u0e49\u0e33\u0e23\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/3uyjyWJgxoxLyNcFOk4vZK"
     },
     {
       "album": {
@@ -11926,7 +12010,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 222580,
       "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19 (ROB GUAN)",
       "url": "https://open.spotify.com/track/4NG8WP14FlJo0sA3DYEhfM"
@@ -12262,6 +12346,28 @@
       "duration_ms": 150588,
       "name": "\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e2b\u0e4c",
       "url": "https://open.spotify.com/track/1PQTcYZibE8fCKtGbB784Y"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27\u0e2d\u0e35\u0e01\u0e17\u0e35",
+        "url": "https://open.spotify.com/album/4r1iXiLyOrHnfn0v3NADld"
+      },
+      "artists": [
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        },
+        {
+          "name": "2T FLOW",
+          "url": "https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27\u0e2d\u0e35\u0e01\u0e17\u0e35",
+      "url": "https://open.spotify.com/track/7kiPXq1mQ8yakcIYmqrw6t"
     },
     {
       "album": {
@@ -13051,6 +13157,42 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21",
+        "url": "https://open.spotify.com/album/3Ga8eW2wSU9fOWSUGXirh3"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311591,
+      "name": "\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21",
+      "url": "https://open.spotify.com/track/3WyYrYB7Ib4NcoGkrnWpes"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e41\u0e23\u0e07\u0e23\u0e31\u0e49\u0e07",
+        "url": "https://open.spotify.com/album/0xqfUFRJAKgAjUHG3hWNW0"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156892,
+      "name": "\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e41\u0e23\u0e07\u0e23\u0e31\u0e49\u0e07",
+      "url": "https://open.spotify.com/track/4LJTOvxRIEZpCBfFDUfTKA"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e27\u0e31\u0e19\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a",
         "url": "https://open.spotify.com/album/4hT9XktGfBnIarFtL2kpcZ"
       },
@@ -13464,7 +13606,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 249452,
       "name": "\u0e2b\u0e48\u0e32\u0e07\u0e40\u0e2b\u0e34\u0e19 (Distance) (feat. BLVCKHEART)",
       "url": "https://open.spotify.com/track/1et01NEUFBrE8rK7p01nEk"
@@ -13566,7 +13708,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184615,
       "name": "\u0e2d\u0e18\u0e34\u0e1a\u0e32\u0e22",
       "url": "https://open.spotify.com/track/04zzVireI0JLeYI0ZP3UZP"
@@ -13904,7 +14046,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198074,
       "name": "\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e18\u0e32\u0e19",
       "url": "https://open.spotify.com/track/1WUJexXX7aj8NC8L1wALzY"
@@ -14168,7 +14310,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 224793,
       "name": "\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/6FicBoMn2mM3N5cFKgd3Vp"
@@ -14871,6 +15013,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1a\u0e30\u0e1b\u0e32\u0e01",
+        "url": "https://open.spotify.com/album/255YqVAtY6pABcqtPbZlAN"
+      },
+      "artists": [
+        {
+          "name": "6PSYMON",
+          "url": "https://open.spotify.com/artist/247iVumRgRaG45syTWyfDY"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184903,
+      "name": "\u0e40\u0e1a\u0e30\u0e1b\u0e32\u0e01",
+      "url": "https://open.spotify.com/track/3CeUnHFrb186rS9ePpAwZU"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1b\u0e23\u0e35\u0e22\u0e1a\u0e40\u0e17\u0e35\u0e22\u0e1a",
         "url": "https://open.spotify.com/album/4tpINIfkDekxrdoazlax2C"
       },
@@ -15418,7 +15578,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186644,
       "name": "\u0e40\u0e2d\u0e32\u0e44\u0e27\u0e49\u0e01\u0e48\u0e2d\u0e19",
       "url": "https://open.spotify.com/track/6jYqXXEB9Y5dG6ByX16FNf"
@@ -16994,6 +17154,24 @@
       "duration_ms": 159855,
       "name": "\u0e44\u0e21\u0e48\u0e42\u0e17\u0e29\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/71TgfQlqTvv2rpKMBoa9dF"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/3DqJ2YjutAdb7xv55GTFTd"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/2UYCVz38O2zoQICICt9ZzU"
     },
     {
       "album": {

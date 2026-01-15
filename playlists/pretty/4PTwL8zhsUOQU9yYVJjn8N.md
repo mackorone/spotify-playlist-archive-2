@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain](/playlists/plain/4PTwL8zhsUOQU9yYVJjn8N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4PTwL8zhsUOQU9yYVJjn8N)
+pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain](/playlists/plain/4PTwL8zhsUOQU9yYVJjn8N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4PTwL8zhsUOQU9yYVJjn8N)
 
 ### [^\_^ All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-[beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 359 likes - 195 songs - 6 hr 33 min
+[beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 361 likes - 203 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,5 +203,13 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 193 | [Pity Party](https://open.spotify.com/track/1kcm01NZrEejx3PTaE7A0t) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [It's Been Fun](https://open.spotify.com/album/54xxREc9c1mjBqaOBlvf89) | 2:53 |
 | 194 | [i'm down](https://open.spotify.com/track/7uzi1qfd28lYxjJDxhiH5y) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Peachii](https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Heart After Dark](https://open.spotify.com/album/2I0VYlIm2Ilkojw3maV72G) | 4:38 |
 | 195 | [Anymore](https://open.spotify.com/track/6pfSkblIvBclJXPvFcwNaf) | [MADAME SCARLETT](https://open.spotify.com/artist/4mg8GHGlnYZLHI57YAPU1P), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [ANYMORE](https://open.spotify.com/album/7zB4u0DjsIia8iT1Or7FXF) | 2:12 |
+| 196 | [Anymore \- Phantom Edition](https://open.spotify.com/track/0qy6FxHLmUMhiJIYFCgCvc) | [MADAME SCARLETT](https://open.spotify.com/artist/4mg8GHGlnYZLHI57YAPU1P) | [ANYMORE](https://open.spotify.com/album/7zB4u0DjsIia8iT1Or7FXF) | 3:15 |
+| 197 | [Pity Party](https://open.spotify.com/track/3rR2rXXBCei5ila2JH1RLL) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Pity Party](https://open.spotify.com/album/39OWPReW8XvQn3dRSCkqNL) | 2:53 |
+| 198 | [fresh carcasses.](https://open.spotify.com/track/5znRinARbnUolImY145V1A) | [heykalil](https://open.spotify.com/artist/3JFj1ZTOTyjXo17ajYfYiZ), [yanno](https://open.spotify.com/artist/2HA2MA1o03ZV3hsHCvlH2J), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [bunnywonderland.deluxe](https://open.spotify.com/album/7FiZcYqaMGucvlKaFR4Wsz) | 3:28 |
+| 199 | [fresh carcasses.](https://open.spotify.com/track/7gRlBmCxBdIpn14Y9aqq3I) | [heykalil](https://open.spotify.com/artist/3JFj1ZTOTyjXo17ajYfYiZ), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [fresh carcasses.](https://open.spotify.com/album/2m8hrKWHyfaqrybfcAmEEH) | 3:16 |
+| 200 | [fresh carcasses.](https://open.spotify.com/track/2oIaAK3Bg5bQ8qZQ7gYZoT) | [heykalil](https://open.spotify.com/artist/3JFj1ZTOTyjXo17ajYfYiZ), [yanno](https://open.spotify.com/artist/2HA2MA1o03ZV3hsHCvlH2J), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [bunny wonderland](https://open.spotify.com/album/0qjsg1otuIsBLC77UBm6ET) | 3:28 |
+| 201 | [rose tints](https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [AWAY FROM WHAT MATTERS](https://open.spotify.com/album/4BFOVKidGy8yuH8JbM6iI2) | 3:14 |
+| 202 | [Stay true](https://open.spotify.com/track/2lS3JK9ZgW47cMsxYbGV0x) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 4:08 |
+| 203 | [Tell me!!](https://open.spotify.com/track/4JqNAoZkRgZZrZPgmQe2PI) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 3:13 |
 
-Snapshot ID: `AAAAlW4K2y1LCAJ4xiK4srKzDdlo0qF/`
+Snapshot ID: `AAAAncyFJsYRdG/7E8HPDOEoi/L97OUU`

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain](/playlists/plain/37i9dQZF1DWXuiFJj5T7Ii) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXuiFJj5T7Ii)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain](/playlists/plain/37i9dQZF1DWXuiFJj5T7Ii) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXuiFJj5T7Ii)
 
 ### [Hot Country Presents Best Country Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DWXuiFJj5T7Ii)
 
 > Our editors' picks for best country songs of the year\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,206 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,017 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWWA4PDpFSM3c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWA4PDpFSM3c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWA4PDpFSM3c)
+[pretty](/playlists/pretty/37i9dQZF1DWWA4PDpFSM3c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWA4PDpFSM3c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWWA4PDpFSM3c)
 
 ### [Mellow Telugu](https://open.spotify.com/playlist/37i9dQZF1DWWA4PDpFSM3c)
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-54 songs - 4 hr 8 min
+55 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Chinuku Taake..](https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN) | 4:51 | 2022-09-02 |  |
 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 | 2021-05-18 |  |
 | [Dhim Thana](https://open.spotify.com/track/6bbSwo7GyM7DWjzicUerR9) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Kick](https://open.spotify.com/album/0AWdfmWDjXwMbeGI0so1dR) | 5:01 | 2022-09-02 |  |
+| [Don't Know Why \(From "Magic"\)](https://open.spotify.com/track/4L1x42K4MYwWL0xgm5rand) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [worldofaugust](https://open.spotify.com/artist/6UFFM6ADuQQcNW8oWhijmO), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Don't Know Why \(From "Magic"\)](https://open.spotify.com/album/6hIddP0EOCBuJrsoU4GNpV) | 3:44 | 2025-02-14 |  |
 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 | 2023-11-08 |  |
 | [Ela \(From "Sopathulu"\)](https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Ela \(From "Sopathulu"\)](https://open.spotify.com/album/5ISbEsbvl9lsqdOgYRplS0) | 3:48 | 2024-09-10 |  |
 | [Ela Ela Naalo](https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Panjaa](https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO) | 5:05 | 2022-09-02 |  |
@@ -45,7 +46,7 @@
 | [Neeve](https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anantha Sriram](https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq) | [Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd) | 4:41 | 2022-09-02 |  |
 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 | 2022-09-02 |  |
 | [Nenu Nuvvantu](https://open.spotify.com/track/0X0Y2AnYuIdn9arB8P6EB4) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Nadeesh](https://open.spotify.com/artist/0g5fVrrOznFqf7yfnLd8sE), [U.V.Jackey](https://open.spotify.com/artist/3boPdM5gG0ZyA6IjZCFsyn) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 4:47 | 2022-09-02 |  |
-| [New York Nagarama](https://open.spotify.com/track/3WqTLAB7u84IHk91AQZXHa) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 6:17 | 2022-09-02 |  |
+| [New York Nagarama](https://open.spotify.com/track/3WqTLAB7u84IHk91AQZXHa) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 6:17 | 2022-09-02 | 2026-01-15 |
 | [Ninnu Chuse Anandamlo](https://open.spotify.com/track/16RigX2qPBrjju5ddZv1X6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Anantha Sriram](https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq) | [Gang Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv) | 4:53 | 2021-05-18 |  |
 | [Nuvvena](https://open.spotify.com/track/4k6N1wRZ5Im7KmbINgBdO3) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [K M Radhakrishnan](https://open.spotify.com/artist/579pH2PjdCVSkAyFBv2Z8g) | [Anand](https://open.spotify.com/album/7qe9NgxK1B9zNTyZLUF5pG) | 4:53 | 2022-09-02 | 2025-12-30 |
 | [Nuvvunte Naa Jathagaa](https://open.spotify.com/track/5dG3KI5rIUwiUQNNr3Y1to) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Issrath Quadhri](https://open.spotify.com/artist/4QoJ8BoHjdNimxhVftuiar), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 5:50 | 2022-09-02 |  |

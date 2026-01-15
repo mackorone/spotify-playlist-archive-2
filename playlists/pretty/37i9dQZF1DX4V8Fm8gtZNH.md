@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain](/playlists/plain/37i9dQZF1DX4V8Fm8gtZNH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4V8Fm8gtZNH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain](/playlists/plain/37i9dQZF1DX4V8Fm8gtZNH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4V8Fm8gtZNH)
 
 ### [The Chi Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX4V8Fm8gtZNH)
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,366 likes - 350 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,428 likes - 350 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

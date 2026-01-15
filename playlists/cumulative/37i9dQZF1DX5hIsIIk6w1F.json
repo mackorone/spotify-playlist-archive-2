@@ -2181,6 +2181,28 @@
     },
     {
       "album": {
+        "name": "Baila Para Mi",
+        "url": "https://open.spotify.com/album/2Vbiy5ukQXDLRLxVbEjHpU"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143236,
+      "name": "Baila Para Mi",
+      "url": "https://open.spotify.com/track/2a2RrAoCSL0kj1145MHGVE"
+    },
+    {
+      "album": {
         "name": "Bailame",
         "url": "https://open.spotify.com/album/4sStXzFTDDSs12bIERgfad"
       },
@@ -21878,6 +21900,24 @@
       "duration_ms": 212796,
       "name": "Te Tengo",
       "url": "https://open.spotify.com/track/1rpXKw5uBnHw7ZZgcue9vp"
+    },
+    {
+      "album": {
+        "name": "Te vas",
+        "url": "https://open.spotify.com/album/6wiBrZD90bXucMKYx5Wmho"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Te vas",
+      "url": "https://open.spotify.com/track/6dr9iXISR0dSKtERnXkj82"
     },
     {
       "album": {

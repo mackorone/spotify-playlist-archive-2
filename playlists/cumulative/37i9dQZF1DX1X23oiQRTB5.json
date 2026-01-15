@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Nono La Grinta au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198974,
       "name": "5 bleus",
       "url": "https://open.spotify.com/track/23cgcnVEuIoT1R4b1bnugB"
@@ -5894,6 +5894,24 @@
       "duration_ms": 228575,
       "name": "Philly",
       "url": "https://open.spotify.com/track/0KZwbPHcktfHL3OCxXzoYu"
+    },
+    {
+      "album": {
+        "name": "M.I.L.S 4",
+        "url": "https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190938,
+      "name": "PILIER",
+      "url": "https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU"
     },
     {
       "album": {

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain](/playlists/plain/37i9dQZF1DWVp4cWdnm5ws) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVp4cWdnm5ws)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain](/playlists/plain/37i9dQZF1DWVp4cWdnm5ws) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVp4cWdnm5ws)
 
 ### [Best of RADAR Philippines 2025](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
 > Featuring our Top RADAR Philippines Artist of 2025, Dilaw, and editor’s picks of the best songs from each of our RADAR artists this year!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,953 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,023 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

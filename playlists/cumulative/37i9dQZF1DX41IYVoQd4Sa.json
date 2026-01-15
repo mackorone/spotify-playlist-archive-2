@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184000,
       "name": "360",
       "url": "https://open.spotify.com/track/4CFNVoLBv6DNQO0IOox6u7"
@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d5\u05e4\u05e7 \u05e8\u05d7\u05d5\u05e7",
+        "url": "https://open.spotify.com/album/3YINT9wymRoAkyCAXUyF3B"
+      },
+      "artists": [
+        {
+          "name": "Noam Rotem",
+          "url": "https://open.spotify.com/artist/769lTISrBj4SCvqW9mSK2y"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "\u05d0\u05d9\u05e4\u05d4 \u05d4\u05d9\u05d0 \u05e2\u05db\u05e9\u05d9\u05d5",
+      "url": "https://open.spotify.com/track/7K9y2obuveRTOJb2BnmHn0"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05dc\u05d1 \u05d4\u05d5\u05d0 \u05de\u05e9\u05d0\u05d1\u05d4",
         "url": "https://open.spotify.com/album/3qh2LSzD5oY78id1IiCTCL"
       },
@@ -2602,6 +2620,24 @@
       "duration_ms": 186627,
       "name": "\u05d0\u05de\u05e8\u05ea\u05d9 \u05ea\u05d5\u05d3\u05d4",
       "url": "https://open.spotify.com/track/7rZMtcxPtHkkXo4qsMGGh8"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05e0\u05d7\u05e0\u05d5 \u05e8\u05e7 \u05d7\u05dc\u05d5\u05de\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/58Pz8y5q4ChXKj6cOhgMMF"
+      },
+      "artists": [
+        {
+          "name": "Yuval Banay",
+          "url": "https://open.spotify.com/artist/03Emkz8Ttc4wzWp0Od3vLq"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180046,
+      "name": "\u05d0\u05e0\u05d7\u05e0\u05d5 \u05e8\u05e7 \u05d7\u05dc\u05d5\u05de\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/5G1nH6qN7WtdeBtT67tKnP"
     },
     {
       "album": {
@@ -2864,7 +2900,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 308662,
       "name": "\u05d0\u05e9\u05db\u05e8\u05d4 \u05de\u05d4 \u05e9\u05e7\u05e8\u05d4",
       "url": "https://open.spotify.com/track/1S8hoTrnprqQLWKKk7FXs1"
@@ -3138,6 +3174,24 @@
       "duration_ms": 203626,
       "name": "\u05d3\u05d9!",
       "url": "https://open.spotify.com/track/4NsLoXkf0VIlYm8xPdtqgx"
+    },
+    {
+      "album": {
+        "name": "89 \u05e9\u05e0\u05d9\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL"
+      },
+      "artists": [
+        {
+          "name": "Anat Moshkovski",
+          "url": "https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169160,
+      "name": "\u05d3\u05d9\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj"
     },
     {
       "album": {
@@ -3434,7 +3488,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 272000,
       "name": "\u05d4\u05d9\u05d5\u05dd \u05d9\u05e4\u05d4",
       "url": "https://open.spotify.com/track/0EJBA8fuwfPw7yJrqyjvyI"
@@ -5608,7 +5662,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 297013,
       "name": "\u05de\u05ea \u05de\u05d0\u05d4\u05d1\u05d4",
       "url": "https://open.spotify.com/track/1kRSvhKqClw18juX10vhYb"
@@ -6432,6 +6486,24 @@
       "duration_ms": 126896,
       "name": "\u05e7\u05d9\u05e5 \u05d7\u05d5\u05e8\u05e3 \u05de\u05dc\u05d7\u05de\u05d4 \u05e7\u05e4\u05d4",
       "url": "https://open.spotify.com/track/77t8YgeNsqDgoxaraC0Ugw"
+    },
+    {
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/3VhmehVwpYqJN1R3BFD2xA"
+      },
+      "artists": [
+        {
+          "name": "Tomer Yosef",
+          "url": "https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "\u05e7\u05e8\u05d9\u05de\u05d9\u05e0\u05dc",
+      "url": "https://open.spotify.com/track/3tpI2k1hXu4dxOPtVQvlBr"
     },
     {
       "album": {

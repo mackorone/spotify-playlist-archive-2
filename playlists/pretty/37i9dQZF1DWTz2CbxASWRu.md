@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain](/playlists/plain/37i9dQZF1DWTz2CbxASWRu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTz2CbxASWRu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain](/playlists/plain/37i9dQZF1DWTz2CbxASWRu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTz2CbxASWRu)
 
 ### [Trotamundos](https://open.spotify.com/playlist/37i9dQZF1DWTz2CbxASWRu)
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta\. Hispana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,732 likes - 90 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,670 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

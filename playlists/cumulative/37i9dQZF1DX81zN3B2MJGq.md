@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX81zN3B2MJGq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX81zN3B2MJGq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX81zN3B2MJGq)
+[pretty](/playlists/pretty/37i9dQZF1DX81zN3B2MJGq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX81zN3B2MJGq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX81zN3B2MJGq)
 
 ### [Benny Benassi's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX81zN3B2MJGq)
 

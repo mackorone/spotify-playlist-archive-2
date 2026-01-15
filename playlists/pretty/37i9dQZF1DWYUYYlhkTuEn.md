@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain](/playlists/plain/37i9dQZF1DWYUYYlhkTuEn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYUYYlhkTuEn)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain](/playlists/plain/37i9dQZF1DWYUYYlhkTuEn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYUYYlhkTuEn)
 
 ### [Yoga Electronica](https://open.spotify.com/playlist/37i9dQZF1DWYUYYlhkTuEn)
 
 > Let's flow to the beats of downtempo deep house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,677 likes - 61 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,282 likes - 61 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -7613,6 +7613,24 @@
     },
     {
       "album": {
+        "name": "Frankie Knuckles",
+        "url": "https://open.spotify.com/album/16LjPG5rGfRhrHuAYRRy09"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212173,
+      "name": "Frankie Knuckles",
+      "url": "https://open.spotify.com/track/7Fkoz65bhhz0Nd11O3FHf7"
+    },
+    {
+      "album": {
         "name": "Frauds (Reworked)",
         "url": "https://open.spotify.com/album/6QnPjjXrL8PBfwJHxtqSdm"
       },
@@ -18962,7 +18980,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 257766,
       "name": "The Way I'm Feeling",
       "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"

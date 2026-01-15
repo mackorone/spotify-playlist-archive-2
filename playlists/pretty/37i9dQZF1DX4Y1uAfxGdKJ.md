@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain](/playlists/plain/37i9dQZF1DX4Y1uAfxGdKJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Y1uAfxGdKJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain](/playlists/plain/37i9dQZF1DX4Y1uAfxGdKJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4Y1uAfxGdKJ)
 
 ### [Electronic Running](https://open.spotify.com/playlist/37i9dQZF1DX4Y1uAfxGdKJ)
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,187 likes - 203 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,616 likes - 203 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

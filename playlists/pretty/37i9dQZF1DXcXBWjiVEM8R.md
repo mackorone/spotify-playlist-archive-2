@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXBWjiVEM8R.md) - [plain](/playlists/plain/37i9dQZF1DXcXBWjiVEM8R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcXBWjiVEM8R)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXBWjiVEM8R.md) - [plain](/playlists/plain/37i9dQZF1DXcXBWjiVEM8R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcXBWjiVEM8R)
 
 ### [This Is Avicii](https://open.spotify.com/playlist/37i9dQZF1DXcXBWjiVEM8R)
 
 > This is Avicii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,041,470 likes - 49 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,041,965 likes - 49 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain](/playlists/plain/37i9dQZF1DX21hEmly67Fg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX21hEmly67Fg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain](/playlists/plain/37i9dQZF1DX21hEmly67Fg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX21hEmly67Fg)
 
 ### [Chilled Classical Covers](https://open.spotify.com/playlist/37i9dQZF1DX21hEmly67Fg)
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,690 likes - 129 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,842 likes - 129 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

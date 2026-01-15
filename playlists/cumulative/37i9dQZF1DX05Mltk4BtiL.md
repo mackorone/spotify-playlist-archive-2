@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX05Mltk4BtiL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX05Mltk4BtiL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX05Mltk4BtiL)
+[pretty](/playlists/pretty/37i9dQZF1DX05Mltk4BtiL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX05Mltk4BtiL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX05Mltk4BtiL)
 
 ### [Gegen den Strom](https://open.spotify.com/playlist/37i9dQZF1DX05Mltk4BtiL)
 

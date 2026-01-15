@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0Z8dYUrW0ZgdSMSVmlWlxR.md) - cumulative - [plain](/playlists/plain/0Z8dYUrW0ZgdSMSVmlWlxR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Z8dYUrW0ZgdSMSVmlWlxR)
+[pretty](/playlists/pretty/0Z8dYUrW0ZgdSMSVmlWlxR.md) - cumulative - [plain](/playlists/plain/0Z8dYUrW0ZgdSMSVmlWlxR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0Z8dYUrW0ZgdSMSVmlWlxR)
 
 ### [GOD MODE ARC](https://open.spotify.com/playlist/0Z8dYUrW0ZgdSMSVmlWlxR)
 

@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Dance Together",
+        "url": "https://open.spotify.com/album/5vWU4MOIFkK5fTRo9SaNQG"
+      },
+      "artists": [
+        {
+          "name": "Chusap",
+          "url": "https://open.spotify.com/artist/0P6OwtBYDXTCwksGaLFrts"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Dance Together",
+      "url": "https://open.spotify.com/track/2AJTVkedihRvXbhOEAS6zB"
+    },
+    {
+      "album": {
         "name": "Gemini- EP",
         "url": "https://open.spotify.com/album/0zzetjBCgwYJyIyksv0hCQ"
       },
@@ -1140,6 +1158,24 @@
       "duration_ms": 212500,
       "name": "Get So Close",
       "url": "https://open.spotify.com/track/2NkC2GxIq0hhluqflg8AhW"
+    },
+    {
+      "album": {
+        "name": "Get Wicked",
+        "url": "https://open.spotify.com/album/73iNTjZDeuwJz0SakFuFH8"
+      },
+      "artists": [
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170477,
+      "name": "Get Wicked",
+      "url": "https://open.spotify.com/track/0snQO0rVUSJzca7jSa3MSO"
     },
     {
       "album": {

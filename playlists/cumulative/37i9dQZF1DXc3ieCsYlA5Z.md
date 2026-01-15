@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXc3ieCsYlA5Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc3ieCsYlA5Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc3ieCsYlA5Z)
+[pretty](/playlists/pretty/37i9dQZF1DXc3ieCsYlA5Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc3ieCsYlA5Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc3ieCsYlA5Z)
 
 ### [Reggaeton GOATs](https://open.spotify.com/playlist/37i9dQZF1DXc3ieCsYlA5Z)
 

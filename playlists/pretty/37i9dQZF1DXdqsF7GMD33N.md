@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain](/playlists/plain/37i9dQZF1DXdqsF7GMD33N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdqsF7GMD33N)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain](/playlists/plain/37i9dQZF1DXdqsF7GMD33N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdqsF7GMD33N)
 
 ### [Broadway Belts](https://open.spotify.com/playlist/37i9dQZF1DXdqsF7GMD33N)
 
 > Belt it out\. Cover: Audra McDonald in "Gypsy"
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,578 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,654 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

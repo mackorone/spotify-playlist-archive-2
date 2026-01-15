@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6MmasnAO5O.md) - [plain](/playlists/plain/37i9dQZF1DXc6MmasnAO5O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc6MmasnAO5O)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6MmasnAO5O.md) - [plain](/playlists/plain/37i9dQZF1DXc6MmasnAO5O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc6MmasnAO5O)
 
 ### [Wax Motif's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DXc6MmasnAO5O)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/71OJHVz8ygWcijadEcB3uD.md) - cumulative - [plain](/playlists/plain/71OJHVz8ygWcijadEcB3uD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/71OJHVz8ygWcijadEcB3uD)
+[pretty](/playlists/pretty/71OJHVz8ygWcijadEcB3uD.md) - cumulative - [plain](/playlists/plain/71OJHVz8ygWcijadEcB3uD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/71OJHVz8ygWcijadEcB3uD)
 
 ### [ROCK PARADISE](https://open.spotify.com/playlist/71OJHVz8ygWcijadEcB3uD)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FpedkNl6M0.md) - [plain](/playlists/plain/37i9dQZF1DX0FpedkNl6M0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0FpedkNl6M0)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FpedkNl6M0.md) - [plain](/playlists/plain/37i9dQZF1DX0FpedkNl6M0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0FpedkNl6M0)
 
 ### [JRE Talks Comedy](https://open.spotify.com/playlist/37i9dQZF1DX0FpedkNl6M0)
 
 > Joe laughs out loud with his fellow comedians.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,075 likes - 12 songs - 1 day 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,074 likes - 12 songs - 1 day 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

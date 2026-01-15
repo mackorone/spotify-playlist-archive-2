@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain](/playlists/plain/37i9dQZF1DX10JY0qJoWDu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX10JY0qJoWDu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain](/playlists/plain/37i9dQZF1DX10JY0qJoWDu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX10JY0qJoWDu)
 
 ### [Disney Christmas](https://open.spotify.com/playlist/37i9dQZF1DX10JY0qJoWDu)
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,378 likes - 104 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,133 likes - 104 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdYNGDcCsRS.md) - [plain](/playlists/plain/37i9dQZF1DWYdYNGDcCsRS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYdYNGDcCsRS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdYNGDcCsRS.md) - [plain](/playlists/plain/37i9dQZF1DWYdYNGDcCsRS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYdYNGDcCsRS)
 
 ### [John Dahlbäck's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWYdYNGDcCsRS)
 

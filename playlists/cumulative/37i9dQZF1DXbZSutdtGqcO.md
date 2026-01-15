@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbZSutdtGqcO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbZSutdtGqcO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbZSutdtGqcO)
+[pretty](/playlists/pretty/37i9dQZF1DXbZSutdtGqcO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbZSutdtGqcO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbZSutdtGqcO)
 
 ### [This Is Lil Durk](https://open.spotify.com/playlist/37i9dQZF1DXbZSutdtGqcO)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain](/playlists/plain/6mMk6QCzEgT3QGaCV1R4S5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6mMk6QCzEgT3QGaCV1R4S5)
+pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain](/playlists/plain/6mMk6QCzEgT3QGaCV1R4S5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6mMk6QCzEgT3QGaCV1R4S5)
 
 ### [Dancefloor Beats](https://open.spotify.com/playlist/6mMk6QCzEgT3QGaCV1R4S5)
 
 > Get moving on the dancefloor with some big room beats with the biggest dance hits in 2025
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,523 likes - 25 songs - 1 hr 13 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,499 likes - 26 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,5 +33,6 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 23 | [SPACE INVADER](https://open.spotify.com/track/3CKQVlGKHfhhXnSkwir99e) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/1GVQPCNOTppRtpLTBL8Qot) | 4:34 |
 | 24 | [Dance In The Sunlight](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 |
 | 25 | [Tell Me Where U Go](https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Tell Me Where U Go](https://open.spotify.com/album/3DQS4gzD4RJMsarRUqiQrt) | 3:02 |
+| 26 | [Loitering \(ft\. Kodak Black\)](https://open.spotify.com/track/1jMhBGKs5FSWcFSqXOlyW9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [d00mscrvll](https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [d00mscrvll](https://open.spotify.com/album/7oopgknSuc08RQ5jR0aBjy) | 2:40 |
 
-Snapshot ID: `AAAiaxyupKgdZatmJg7c65Fc4piVu/WV`
+Snapshot ID: `AAAibquUCOILWQVE8dR+XEV8LmzXyi8R`

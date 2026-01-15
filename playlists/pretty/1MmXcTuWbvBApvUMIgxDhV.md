@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain](/playlists/plain/1MmXcTuWbvBApvUMIgxDhV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1MmXcTuWbvBApvUMIgxDhV)
+pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain](/playlists/plain/1MmXcTuWbvBApvUMIgxDhV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1MmXcTuWbvBApvUMIgxDhV)
 
 ### [Date Night At Home](https://open.spotify.com/playlist/1MmXcTuWbvBApvUMIgxDhV)
 
 > 
 
-[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 7,426 likes - 88 songs - 5 hr 7 min
+[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 7,437 likes - 88 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

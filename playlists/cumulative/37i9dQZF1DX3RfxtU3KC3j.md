@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3RfxtU3KC3j.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3RfxtU3KC3j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3RfxtU3KC3j)
+[pretty](/playlists/pretty/37i9dQZF1DX3RfxtU3KC3j.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3RfxtU3KC3j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3RfxtU3KC3j)
 
 ### [Türkçe Rock](https://open.spotify.com/playlist/37i9dQZF1DX3RfxtU3KC3j)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcA2XXbXQ3d.md) - [plain](/playlists/plain/37i9dQZF1DWXcA2XXbXQ3d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXcA2XXbXQ3d)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcA2XXbXQ3d.md) - [plain](/playlists/plain/37i9dQZF1DWXcA2XXbXQ3d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXcA2XXbXQ3d)
 
 ### [This Is Britney Spears \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXcA2XXbXQ3d)
 

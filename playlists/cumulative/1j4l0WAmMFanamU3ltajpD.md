@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1j4l0WAmMFanamU3ltajpD.md) - cumulative - [plain](/playlists/plain/1j4l0WAmMFanamU3ltajpD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1j4l0WAmMFanamU3ltajpD)
+[pretty](/playlists/pretty/1j4l0WAmMFanamU3ltajpD.md) - cumulative - [plain](/playlists/plain/1j4l0WAmMFanamU3ltajpD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1j4l0WAmMFanamU3ltajpD)
 
 ### [RAMMSTEIN solo projects](https://open.spotify.com/playlist/1j4l0WAmMFanamU3ltajpD)
 

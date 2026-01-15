@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06p2NnNBbZc.md) - [plain](/playlists/plain/37i9dQZF1DX06p2NnNBbZc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX06p2NnNBbZc)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06p2NnNBbZc.md) - [plain](/playlists/plain/37i9dQZF1DX06p2NnNBbZc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX06p2NnNBbZc)
 
 ### [On Tour Japan: TWICE](https://open.spotify.com/playlist/37i9dQZF1DX06p2NnNBbZc)
 
 > 【セトリ公開】来日公演 "TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN SPECIAL"のセットリストをプレイリストで聴こう！
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,349 likes - 28 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,323 likes - 28 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

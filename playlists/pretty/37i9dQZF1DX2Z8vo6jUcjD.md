@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z8vo6jUcjD.md) - [plain](/playlists/plain/37i9dQZF1DX2Z8vo6jUcjD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2Z8vo6jUcjD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z8vo6jUcjD.md) - [plain](/playlists/plain/37i9dQZF1DX2Z8vo6jUcjD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2Z8vo6jUcjD)
 
 ### [COUNTER//CULTURE: ThxSoMch](https://open.spotify.com/playlist/37i9dQZF1DX2Z8vo6jUcjD)
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF?si=0Nmwl3bvRHyUGyKCVacoVQ">ThxSoMch's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,119 likes - 31 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,240 likes - 31 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

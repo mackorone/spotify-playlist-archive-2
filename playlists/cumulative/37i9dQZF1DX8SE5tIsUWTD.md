@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8SE5tIsUWTD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8SE5tIsUWTD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8SE5tIsUWTD)
+[pretty](/playlists/pretty/37i9dQZF1DX8SE5tIsUWTD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8SE5tIsUWTD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8SE5tIsUWTD)
 
 ### [Funk & Disco Zamaan](https://open.spotify.com/playlist/37i9dQZF1DX8SE5tIsUWTD)
 

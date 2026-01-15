@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2CTBt2glXb1wEzUa6wCbWU.md) - [plain](/playlists/plain/2CTBt2glXb1wEzUa6wCbWU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2CTBt2glXb1wEzUa6wCbWU)
+pretty - [cumulative](/playlists/cumulative/2CTBt2glXb1wEzUa6wCbWU.md) - [plain](/playlists/plain/2CTBt2glXb1wEzUa6wCbWU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2CTBt2glXb1wEzUa6wCbWU)
 
 ### [Håkan Hellström](https://open.spotify.com/playlist/2CTBt2glXb1wEzUa6wCbWU)
 

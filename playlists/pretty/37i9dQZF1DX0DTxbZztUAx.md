@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain](/playlists/plain/37i9dQZF1DX0DTxbZztUAx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0DTxbZztUAx)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain](/playlists/plain/37i9dQZF1DX0DTxbZztUAx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0DTxbZztUAx)
 
 ### [Tyler Perry's Beauty in Black Official Playlist ](https://open.spotify.com/playlist/37i9dQZF1DX0DTxbZztUAx)
 
 > Survival takes everything\. Listen to the music from Beauty in Black, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,500 likes - 89 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,579 likes - 89 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

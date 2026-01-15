@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2wqwH7uKckoLe7UVTx1RfO.md) - cumulative - [plain](/playlists/plain/2wqwH7uKckoLe7UVTx1RfO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2wqwH7uKckoLe7UVTx1RfO)
+[pretty](/playlists/pretty/2wqwH7uKckoLe7UVTx1RfO.md) - cumulative - [plain](/playlists/plain/2wqwH7uKckoLe7UVTx1RfO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2wqwH7uKckoLe7UVTx1RfO)
 
 ### [Follow Your Bliss](https://open.spotify.com/playlist/2wqwH7uKckoLe7UVTx1RfO)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qyeQZ6gM81.md) - [plain](/playlists/plain/37i9dQZF1DX9qyeQZ6gM81) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9qyeQZ6gM81)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qyeQZ6gM81.md) - [plain](/playlists/plain/37i9dQZF1DX9qyeQZ6gM81) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9qyeQZ6gM81)
 
 ### [Polly Wants to Sing\-Along](https://open.spotify.com/playlist/37i9dQZF1DX9qyeQZ6gM81)
 

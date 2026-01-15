@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdmNVJ304EF5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdmNVJ304EF5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdmNVJ304EF5)
+[pretty](/playlists/pretty/37i9dQZF1DXdmNVJ304EF5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdmNVJ304EF5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdmNVJ304EF5)
 
 ### [Emo 2k](https://open.spotify.com/playlist/37i9dQZF1DXdmNVJ304EF5)
 

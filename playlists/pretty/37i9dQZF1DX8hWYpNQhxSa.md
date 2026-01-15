@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain](/playlists/plain/37i9dQZF1DX8hWYpNQhxSa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8hWYpNQhxSa)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain](/playlists/plain/37i9dQZF1DX8hWYpNQhxSa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8hWYpNQhxSa)
 
 ### [SPY×FAMILY](https://open.spotify.com/playlist/37i9dQZF1DX8hWYpNQhxSa)
 
 > Enjoy music & episodes of "SPY×FAMILY"! ©遠藤達哉／集英社・SPY×FAMILY製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,003 likes - 89 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,234 likes - 89 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 88 | [pseudo family](https://open.spotify.com/track/4eMvMMymXVEBVEsJqmQLi7) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [『劇場版 SPY×FAMILY CODE: White』　オリジナル･サウンドトラック](https://open.spotify.com/album/18QiN7c4MR2N7p1IJxK9or) | 4:14 |
 | 89 | [The beginning of the journey](https://open.spotify.com/track/6W3KCj8gQcgT7VtZk11ugW) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [『劇場版 SPY×FAMILY CODE: White』　オリジナル･サウンドトラック](https://open.spotify.com/album/18QiN7c4MR2N7p1IJxK9or) | 2:38 |
 
-Snapshot ID: `AAAAAFPF0q7VbdO3bo336YNclQWOSP7N`
+Snapshot ID: `AAAAACdh8oG8iCSmLIPItR4ncd5FOqYY`

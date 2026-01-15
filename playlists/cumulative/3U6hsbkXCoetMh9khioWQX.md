@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3U6hsbkXCoetMh9khioWQX.md) - cumulative - [plain](/playlists/plain/3U6hsbkXCoetMh9khioWQX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3U6hsbkXCoetMh9khioWQX)
+[pretty](/playlists/pretty/3U6hsbkXCoetMh9khioWQX.md) - cumulative - [plain](/playlists/plain/3U6hsbkXCoetMh9khioWQX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3U6hsbkXCoetMh9khioWQX)
 
 ### [Top Trending: Pop](https://open.spotify.com/playlist/3U6hsbkXCoetMh9khioWQX)
 

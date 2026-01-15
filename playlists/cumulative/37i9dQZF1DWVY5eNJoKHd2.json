@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 356077,
       "name": "12 years",
       "url": "https://open.spotify.com/track/3CRTPnROcGKtDN4q9iQzae"
@@ -2427,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "Fame is a Gun (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/0BYultK82Rtok4YRsAiic3"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217154,
+      "name": "Fame is a Gun - triple j Like A Version",
+      "url": "https://open.spotify.com/track/3pvo1AGd8ZyL8wSxLS4Wtm"
+    },
+    {
+      "album": {
         "name": "Life of Leisure",
         "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
       },
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 219400,
       "name": "Fitzpleasure",
       "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
@@ -4536,7 +4554,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 179320,
       "name": "Lithonia",
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"

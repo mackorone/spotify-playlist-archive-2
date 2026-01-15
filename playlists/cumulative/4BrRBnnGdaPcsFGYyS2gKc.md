@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4BrRBnnGdaPcsFGYyS2gKc.md) - cumulative - [plain](/playlists/plain/4BrRBnnGdaPcsFGYyS2gKc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4BrRBnnGdaPcsFGYyS2gKc)
+[pretty](/playlists/pretty/4BrRBnnGdaPcsFGYyS2gKc.md) - cumulative - [plain](/playlists/plain/4BrRBnnGdaPcsFGYyS2gKc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4BrRBnnGdaPcsFGYyS2gKc)
 
 ### [ROCK \- THE MIX: best & new rock, alternative, pop, folk & indie \*](https://open.spotify.com/playlist/4BrRBnnGdaPcsFGYyS2gKc)
 

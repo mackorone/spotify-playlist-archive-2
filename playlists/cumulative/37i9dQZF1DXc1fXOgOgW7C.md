@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXc1fXOgOgW7C.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc1fXOgOgW7C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc1fXOgOgW7C)
+[pretty](/playlists/pretty/37i9dQZF1DXc1fXOgOgW7C.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc1fXOgOgW7C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc1fXOgOgW7C)
 
 ### [Los 2010 Argentina](https://open.spotify.com/playlist/37i9dQZF1DXc1fXOgOgW7C)
 

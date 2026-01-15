@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain](/playlists/plain/37i9dQZF1DX4fQhfyVRsHW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4fQhfyVRsHW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain](/playlists/plain/37i9dQZF1DX4fQhfyVRsHW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4fQhfyVRsHW)
 
 ### [Peaceful Hideaway](https://open.spotify.com/playlist/37i9dQZF1DX4fQhfyVRsHW)
 
 > Lie back to calm music enhanced with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,158 likes - 115 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,477 likes - 115 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

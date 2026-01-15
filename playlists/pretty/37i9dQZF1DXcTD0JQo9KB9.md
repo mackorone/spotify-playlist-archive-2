@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain](/playlists/plain/37i9dQZF1DXcTD0JQo9KB9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcTD0JQo9KB9)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain](/playlists/plain/37i9dQZF1DXcTD0JQo9KB9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcTD0JQo9KB9)
 
 ### [見字撐住](https://open.spotify.com/playlist/37i9dQZF1DXcTD0JQo9KB9)
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,495 likes - 124 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,506 likes - 124 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 15 | [小傷疤](https://open.spotify.com/track/0OD7Vr8PYeTfYBHdsIVmuh) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [小傷疤](https://open.spotify.com/album/7tKq50jFMSvK9KP7bLMknJ) | 4:20 |
 | 16 | [今夜無人入睡](https://open.spotify.com/track/2TfOJyud3K5vgXoqpQKgPY) | [Georgina 陳樂頤](https://open.spotify.com/artist/4JO14JxctLwBDIdQh8rWyZ) | [今夜無人入睡](https://open.spotify.com/album/4SQ93cTdHOiYVq9EzsYNTO) | 3:43 |
 | 17 | [What If \(電影《看我今天怎麼說》主題曲\)](https://open.spotify.com/track/2AGJHZhp7lj09CI4QTsjSv) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [What If \(電影《看我今天怎麼說》主題曲\)](https://open.spotify.com/album/6vKTrNdgmalT50fvSE7BgQ) | 3:33 |
-| 18 | [求救的勇氣](https://open.spotify.com/track/1Fj6ahpJNC7sJyG8SRxuaf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [求救的勇氣](https://open.spotify.com/album/4IXv3ydm9NmhdSDBPf1XmK) | 4:36 |
+| 18 | [求救的勇氣](https://open.spotify.com/track/1Fj6ahpJNC7sJyG8SRxuaf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [求救的勇氣](https://open.spotify.com/album/4IXv3ydm9NmhdSDBPf1XmK) | 4:37 |
 | 19 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 |
 | 20 | [計劃書](https://open.spotify.com/track/06Ly3CaLBPDX9BYIDla9wG) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [計劃書](https://open.spotify.com/album/4RohGZKe8Zrr0TI6DY2naG) | 3:41 |
 | 21 | [夜闌人靜](https://open.spotify.com/track/44FUMcOGhsXw79mwOTS6vr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [25](https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf) | 3:13 |

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3QiPV2C1uJQ3L8sKaykshJ.md) - cumulative - [plain](/playlists/plain/3QiPV2C1uJQ3L8sKaykshJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3QiPV2C1uJQ3L8sKaykshJ)
+[pretty](/playlists/pretty/3QiPV2C1uJQ3L8sKaykshJ.md) - cumulative - [plain](/playlists/plain/3QiPV2C1uJQ3L8sKaykshJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3QiPV2C1uJQ3L8sKaykshJ)
 
 ### [The RCA\-List](https://open.spotify.com/playlist/3QiPV2C1uJQ3L8sKaykshJ)
 

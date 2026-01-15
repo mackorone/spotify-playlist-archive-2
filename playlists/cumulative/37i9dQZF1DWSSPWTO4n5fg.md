@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSSPWTO4n5fg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSSPWTO4n5fg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSSPWTO4n5fg)
+[pretty](/playlists/pretty/37i9dQZF1DWSSPWTO4n5fg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSSPWTO4n5fg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSSPWTO4n5fg)
 
 ### [딜리버리맨 \(Delivery Man\)](https://open.spotify.com/playlist/37i9dQZF1DWSSPWTO4n5fg)
 

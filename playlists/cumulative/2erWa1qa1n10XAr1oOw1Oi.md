@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/2erWa1qa1n10XAr1oOw1Oi.md) - cumulative - [plain](/playlists/plain/2erWa1qa1n10XAr1oOw1Oi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2erWa1qa1n10XAr1oOw1Oi)
+[pretty](/playlists/pretty/2erWa1qa1n10XAr1oOw1Oi.md) - cumulative - [plain](/playlists/plain/2erWa1qa1n10XAr1oOw1Oi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2erWa1qa1n10XAr1oOw1Oi)
 
 ### [Reasons not to give me aux](https://open.spotify.com/playlist/2erWa1qa1n10XAr1oOw1Oi)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VT8DGNUrB.md) - [plain](/playlists/plain/37i9dQZF1DX03VT8DGNUrB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX03VT8DGNUrB)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VT8DGNUrB.md) - [plain](/playlists/plain/37i9dQZF1DX03VT8DGNUrB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX03VT8DGNUrB)
 
 ### [Fuego \#081 \- LATIN MAFIA's Mixtape](https://open.spotify.com/playlist/37i9dQZF1DX03VT8DGNUrB)
 

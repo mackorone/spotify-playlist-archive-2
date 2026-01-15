@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6bkgIWftG0tADbz8wTOwRh.md) - cumulative - [plain](/playlists/plain/6bkgIWftG0tADbz8wTOwRh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6bkgIWftG0tADbz8wTOwRh)
+[pretty](/playlists/pretty/6bkgIWftG0tADbz8wTOwRh.md) - cumulative - [plain](/playlists/plain/6bkgIWftG0tADbz8wTOwRh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6bkgIWftG0tADbz8wTOwRh)
 
 ### [BASS THERAPY](https://open.spotify.com/playlist/6bkgIWftG0tADbz8wTOwRh)
 

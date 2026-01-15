@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2MvCdrrhEq.md) - [plain](/playlists/plain/37i9dQZF1DWZ2MvCdrrhEq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ2MvCdrrhEq)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2MvCdrrhEq.md) - [plain](/playlists/plain/37i9dQZF1DWZ2MvCdrrhEq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZ2MvCdrrhEq)
 
 ### [Line Dance 🤠](https://open.spotify.com/playlist/37i9dQZF1DWZ2MvCdrrhEq)
 
 > did your boots start working?
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,517 likes - 56 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,262 likes - 56 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

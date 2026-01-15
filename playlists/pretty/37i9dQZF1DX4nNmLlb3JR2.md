@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain](/playlists/plain/37i9dQZF1DX4nNmLlb3JR2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4nNmLlb3JR2)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain](/playlists/plain/37i9dQZF1DX4nNmLlb3JR2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4nNmLlb3JR2)
 
 ### [lofi covers](https://open.spotify.com/playlist/37i9dQZF1DX4nNmLlb3JR2)
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,369 likes - 150 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,665 likes - 150 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

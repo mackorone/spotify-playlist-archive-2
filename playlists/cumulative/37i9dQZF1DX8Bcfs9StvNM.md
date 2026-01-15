@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX8Bcfs9StvNM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Bcfs9StvNM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Bcfs9StvNM)
+[pretty](/playlists/pretty/37i9dQZF1DX8Bcfs9StvNM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Bcfs9StvNM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8Bcfs9StvNM)
 
 ### [せつない胸に風が吹いてた](https://open.spotify.com/playlist/37i9dQZF1DX8Bcfs9StvNM)
 

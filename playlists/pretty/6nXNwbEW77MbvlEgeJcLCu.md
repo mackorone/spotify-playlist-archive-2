@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/6nXNwbEW77MbvlEgeJcLCu.md) - [plain](/playlists/plain/6nXNwbEW77MbvlEgeJcLCu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6nXNwbEW77MbvlEgeJcLCu)
+pretty - [cumulative](/playlists/cumulative/6nXNwbEW77MbvlEgeJcLCu.md) - [plain](/playlists/plain/6nXNwbEW77MbvlEgeJcLCu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6nXNwbEW77MbvlEgeJcLCu)
 
 ### [sadderday to sadderday](https://open.spotify.com/playlist/6nXNwbEW77MbvlEgeJcLCu)
 
 > tryin&\#x27; to cope, cya next sadderday
 
-[g.fam](https://open.spotify.com/user/paktofonika) - 654 likes - 13 songs - 31 min 55 sec
+[g.fam](https://open.spotify.com/user/paktofonika) - 653 likes - 13 songs - 31 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

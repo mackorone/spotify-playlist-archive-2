@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWSv06P6ZnVVG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSv06P6ZnVVG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSv06P6ZnVVG)
+[pretty](/playlists/pretty/37i9dQZF1DWSv06P6ZnVVG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSv06P6ZnVVG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSv06P6ZnVVG)
 
 ### [Cómo Bailan en Michoacán](https://open.spotify.com/playlist/37i9dQZF1DWSv06P6ZnVVG)
 

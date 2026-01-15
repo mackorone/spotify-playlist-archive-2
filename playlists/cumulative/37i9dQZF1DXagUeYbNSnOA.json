@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The 50 best Latin songs from independent artists in 2025, as chosen by our editors.",
-  "name": "Best of Fresh Finds Latin 2025",
+  "description": "The best new music by independent artists and labels, featuring KORDELYA. Updates every Wednesday.",
+  "name": "Fresh Finds Latin",
   "tracks": [
     {
       "album": {
@@ -2534,6 +2534,24 @@
       "duration_ms": 186529,
       "name": "Algo M\u00e1s",
       "url": "https://open.spotify.com/track/2RfArpJCAC8HyqPajHA082"
+    },
+    {
+      "album": {
+        "name": "Algo Real",
+        "url": "https://open.spotify.com/album/4Yry6ZsTNYPOiSG7r9wGJP"
+      },
+      "artists": [
+        {
+          "name": "Sofia Lafuente",
+          "url": "https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188117,
+      "name": "Algo Real",
+      "url": "https://open.spotify.com/track/1OqbsUfQa7uQzrNB61xIup"
     },
     {
       "album": {
@@ -7754,7 +7772,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 161020,
       "name": "Cara a Cara",
       "url": "https://open.spotify.com/track/1VEFYPNXfo6Q3Vt0WDPGRt"
@@ -9372,7 +9390,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180000,
       "name": "COMPLEJO",
       "url": "https://open.spotify.com/track/1s8NAyWxVkt0pe9XgZnwwu"
@@ -11750,6 +11768,24 @@
       "duration_ms": 129356,
       "name": "De Verdad",
       "url": "https://open.spotify.com/track/4GmWPSMwsKcUh8izKSquJ5"
+    },
+    {
+      "album": {
+        "name": "Dear Friend",
+        "url": "https://open.spotify.com/album/4MTdj70YPLSKZuYZVKCCee"
+      },
+      "artists": [
+        {
+          "name": "Michelle Blades",
+          "url": "https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Dear Friend",
+      "url": "https://open.spotify.com/track/7maxqLIEMaZb3d1gGG3zV5"
     },
     {
       "album": {
@@ -14933,6 +14969,24 @@
     },
     {
       "album": {
+        "name": "El cuento m\u00e1s lindo de la historia",
+        "url": "https://open.spotify.com/album/6DDNExObp6Xo7BYeiLpCtR"
+      },
+      "artists": [
+        {
+          "name": "la ni\u00f1a brava",
+          "url": "https://open.spotify.com/artist/15WLo3aurr6ICjfZ5f3txx"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221275,
+      "name": "El cuento m\u00e1s lindo de la historia",
+      "url": "https://open.spotify.com/track/1580kUT9pnLRSAytUvQncn"
+    },
+    {
+      "album": {
         "name": "El C\u00edrculo",
         "url": "https://open.spotify.com/album/69AcrfwpHx5nN6utzVWOrp"
       },
@@ -15104,6 +15158,24 @@
       "duration_ms": 134574,
       "name": "El Fin de la Ruina",
       "url": "https://open.spotify.com/track/4tGd9SsVg2XnEFRVO054I9"
+    },
+    {
+      "album": {
+        "name": "El Fuckboy",
+        "url": "https://open.spotify.com/album/3R3UbVWNIBWBf8kA8HWY8g"
+      },
+      "artists": [
+        {
+          "name": "Lucianeka",
+          "url": "https://open.spotify.com/artist/6qlZ5BlB9CTm12NtjpWosx"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "El Fuckboy",
+      "url": "https://open.spotify.com/track/5b55H5Nxhj09u6nwz8W3OT"
     },
     {
       "album": {
@@ -17262,7 +17334,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 146815,
       "name": "Eso no me salva de sentir tantas cosas",
       "url": "https://open.spotify.com/track/6HdU1up55esLPak28EP5Wg"
@@ -19958,7 +20030,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 221802,
       "name": "Gris",
       "url": "https://open.spotify.com/track/350K2JHqQR8oN1dIz9kIjV"
@@ -22404,7 +22476,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 170704,
       "name": "JUNO106",
       "url": "https://open.spotify.com/track/5oAnRL7VaJSOSRDIzBGu4U"
@@ -23582,7 +23654,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "LA REFE INDIE",
       "url": "https://open.spotify.com/track/3BdGH9V2K8zdwRhdGx1PaL"
@@ -25172,7 +25244,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 132003,
       "name": "Lo di por sentado",
       "url": "https://open.spotify.com/track/357C7frj471G4xuBozKJeP"
@@ -25364,6 +25436,24 @@
       "duration_ms": 222682,
       "name": "Lo Que No Te Cont\u00e9",
       "url": "https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf"
+    },
+    {
+      "album": {
+        "name": "SARAMONDEIRO",
+        "url": "https://open.spotify.com/album/4IpYrbBi0XM3L5yk5yYQZ6"
+      },
+      "artists": [
+        {
+          "name": "Thom\u00e1s Heredia",
+          "url": "https://open.spotify.com/artist/3c7UvApuFeMIfoD3vzsena"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175210,
+      "name": "LO QUE PASA ES DISTINTO",
+      "url": "https://open.spotify.com/track/3u9XARoZaDXzQxGC7vzaUg"
     },
     {
       "album": {
@@ -27070,7 +27160,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147837,
       "name": "Manantial",
       "url": "https://open.spotify.com/track/21KZWkpr9b7SZSTVcC21Nc"
@@ -31532,7 +31622,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154007,
       "name": "Nicole",
       "url": "https://open.spotify.com/track/4SVqVfRj8G5ekh2HqobV0o"
@@ -33134,7 +33224,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 172521,
       "name": "no voy a salir de casa",
       "url": "https://open.spotify.com/track/5b9jMIQTn9LDmvAiiytOLg"
@@ -37836,7 +37926,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 164371,
       "name": "Que Jodia Tristeza",
       "url": "https://open.spotify.com/track/2xd4iPasbOXSInxNbwftB6"
@@ -37924,6 +38014,24 @@
       "duration_ms": 186748,
       "name": "Que no me encuentre",
       "url": "https://open.spotify.com/track/3Nb4ygzwmt8CNIb3fZ2Pk1"
+    },
+    {
+      "album": {
+        "name": "Las Que Faltan de Amor",
+        "url": "https://open.spotify.com/album/6WCRvcrf5EUxVeuZ1RUt9v"
+      },
+      "artists": [
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207923,
+      "name": "Que Raro",
+      "url": "https://open.spotify.com/track/4skfGeXHXJDRqaEScPN4OL"
     },
     {
       "album": {
@@ -43834,7 +43942,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 197515,
       "name": "S\u00cdGUEME",
       "url": "https://open.spotify.com/track/5VreKSHPnbZ6K0SciwX1vp"
@@ -45332,7 +45440,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 172626,
       "name": "THINK ABOUT IT.",
       "url": "https://open.spotify.com/track/5dLumuQFPQYFX6Jq1m12ic"
@@ -46002,7 +46110,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 241700,
       "name": "todo lo que tengo",
       "url": "https://open.spotify.com/track/3iE8g8w0Qu3eaaAm5WV75o"
@@ -47064,7 +47172,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139373,
       "name": "Tu Carita",
       "url": "https://open.spotify.com/track/5Zxm7FsVXh9sdz7fHS3oRq"
@@ -47682,10 +47790,28 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 190964,
       "name": "T\u00fa Nunca Lo Sabras",
       "url": "https://open.spotify.com/track/2N11YipbkcRe2c35ddvmVa"
+    },
+    {
+      "album": {
+        "name": "t\u00fa y yo",
+        "url": "https://open.spotify.com/album/7JZsAk0CQI5HKLRoCDV9jm"
+      },
+      "artists": [
+        {
+          "name": "fidoisblue",
+          "url": "https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148043,
+      "name": "t\u00fa y yo",
+      "url": "https://open.spotify.com/track/2ctZiTm8JNvmQsBfrr5T3g"
     },
     {
       "album": {
@@ -47871,6 +47997,24 @@
     },
     {
       "album": {
+        "name": "Un d\u00eda como hoy",
+        "url": "https://open.spotify.com/album/1RPNrzKVuYhVoXf3HWfu4C"
+      },
+      "artists": [
+        {
+          "name": "Polo & Teban",
+          "url": "https://open.spotify.com/artist/1BYUTtWFox44GC9AnV3r4K"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158659,
+      "name": "Un d\u00eda como hoy",
+      "url": "https://open.spotify.com/track/79bBKIZG98S8i2gDqPBGjs"
+    },
+    {
+      "album": {
         "name": "Un D\u00eda Nuevo",
         "url": "https://open.spotify.com/album/067mOkOzjfNIe8ECRz9Kjj"
       },
@@ -47972,7 +48116,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180972,
       "name": "Un Recuerdo +",
       "url": "https://open.spotify.com/track/0gT4OX3vTRmEDC1bSiPbRA"
@@ -50088,7 +50232,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 209873,
       "name": "WAYAHEADAT",
       "url": "https://open.spotify.com/track/3oZdQsJCZcNgynl1xMxX3E"
@@ -50248,7 +50392,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186451,
       "name": "Why Bye",
       "url": "https://open.spotify.com/track/1PVKh7FCbXovBOAgjRiL8I"
@@ -51538,7 +51682,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 243785,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/21Ez6ARLdC2bbXYpPQHzub"

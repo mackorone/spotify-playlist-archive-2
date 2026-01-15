@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \ucf00\uc774\uc2dc (Kassy)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \ud558\uc131\uc6b4 (HA SUNG WOON)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -672,6 +672,24 @@
       "duration_ms": 295040,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/3jAap8woUqJhIFbzedFRd7"
+    },
+    {
+      "album": {
+        "name": "IDOL I Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3tmCsno1QcwKCEEpzLOP2i"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237954,
+      "name": "A Story I Never Told You",
+      "url": "https://open.spotify.com/track/5nZ8BMC3OCcEBX5pnGoKdR"
     },
     {
       "album": {
@@ -4565,6 +4583,28 @@
     },
     {
       "album": {
+        "name": "Crazy Excuse",
+        "url": "https://open.spotify.com/album/7vndsEEj6Bxl351Ddg51I4"
+      },
+      "artists": [
+        {
+          "name": "Lee Ye Joon",
+          "url": "https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby"
+        },
+        {
+          "name": "Ja Jung",
+          "url": "https://open.spotify.com/artist/4eOSz0kdCi6Ed4xzcJ1XJK"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Crazy Excuse",
+      "url": "https://open.spotify.com/track/1b5lEXjKIC3LwU4nd9J59z"
+    },
+    {
+      "album": {
         "name": "Crush on you",
         "url": "https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw"
       },
@@ -6902,7 +6942,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 180751,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/7reaS01vXpksmfnt17zNXg"
@@ -8356,6 +8396,24 @@
       "duration_ms": 264000,
       "name": "Greatest Moment",
       "url": "https://open.spotify.com/track/0AU3XZ0sL55ooBVpwxOhub"
+    },
+    {
+      "album": {
+        "name": "Guilt",
+        "url": "https://open.spotify.com/album/2DyLO9uBuy8jN4hMeyPRyJ"
+      },
+      "artists": [
+        {
+          "name": "Min Kyunghoon",
+          "url": "https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Guilt",
+      "url": "https://open.spotify.com/track/3TMIl4bxG9D4nlJQjkMJwz"
     },
     {
       "album": {
@@ -10412,7 +10470,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 247000,
       "name": "I meet you who are infinitely beautiful",
       "url": "https://open.spotify.com/track/2XiDJ5LIke4IeosYWZk8rZ"
@@ -13746,6 +13804,24 @@
       "duration_ms": 248013,
       "name": "LIE",
       "url": "https://open.spotify.com/track/3Fjb8kEVJ6tOfm2uUFTEt7"
+    },
+    {
+      "album": {
+        "name": "Life is a Drama Prelude3",
+        "url": "https://open.spotify.com/album/65DEU4VXqQaDO7qeuOAV6D"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218861,
+      "name": "Life is a Drama",
+      "url": "https://open.spotify.com/track/3doz1ZA13QjszPBEgze1pn"
     },
     {
       "album": {
@@ -20528,7 +20604,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 248716,
       "name": "Season of You",
       "url": "https://open.spotify.com/track/2fVTrbPEjvb6OCp6Xn8rYB"
@@ -21694,7 +21770,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 270800,
       "name": "Song of the White Moon",
       "url": "https://open.spotify.com/track/245tXIPYpAmeBOYJaCD3Xg"
@@ -21730,7 +21806,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 202142,
       "name": "Sorrow at my door(Prod. ROCOBERRY)",
       "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
@@ -23254,6 +23330,24 @@
       "duration_ms": 218328,
       "name": "Tell me this is real",
       "url": "https://open.spotify.com/track/4O9vCvUz8fSJHJVvXKiBMp"
+    },
+    {
+      "album": {
+        "name": "Tell The World",
+        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tell The World",
+      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
     },
     {
       "album": {
@@ -26775,6 +26869,24 @@
     },
     {
       "album": {
+        "name": "When the First Snow Falls",
+        "url": "https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "When the First Snow Falls",
+      "url": "https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj"
+    },
+    {
+      "album": {
         "name": "The Law Cafe (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/2fiweT7ROFobtMNyJpYko5"
       },
@@ -29334,7 +29446,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 237000,
       "name": "\ub2e4\uc2e0 \ubcfc \uc218 \uc5c6\ub294 \ub0b4 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/46uG4MQDfAbsKi6Exh9zy5"
@@ -29771,6 +29883,24 @@
     },
     {
       "album": {
+        "name": "\uc18c\ub780\uc2a4\ub7f0 \uc774\ubcc4 (Our Loud Goodbye)",
+        "url": "https://open.spotify.com/album/0vbdomxmQWviaqagjZxefv"
+      },
+      "artists": [
+        {
+          "name": "Bada",
+          "url": "https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "\uc18c\ub780\uc2a4\ub7f0 \uc774\ubcc4 (Our Loud Goodbye)",
+      "url": "https://open.spotify.com/track/1kSN5UZ3XToeK6aNORsNMf"
+    },
+    {
+      "album": {
         "name": "\u201880s MBC Seoul GAYOJE Preliminary Round",
         "url": "https://open.spotify.com/album/6vL2bB2GvbhnzWEszgyi6r"
       },
@@ -30038,7 +30168,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 236765,
       "name": "\uc778\uc0ac",
       "url": "https://open.spotify.com/track/4EGe0ovVvjRyGS5Wt9uM9C"

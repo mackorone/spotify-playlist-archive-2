@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX717gvXLoUJP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX717gvXLoUJP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX717gvXLoUJP)
+[pretty](/playlists/pretty/37i9dQZF1DX717gvXLoUJP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX717gvXLoUJP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX717gvXLoUJP)
 
 ### [Nina Kraviz' track IDs](https://open.spotify.com/playlist/37i9dQZF1DX717gvXLoUJP)
 

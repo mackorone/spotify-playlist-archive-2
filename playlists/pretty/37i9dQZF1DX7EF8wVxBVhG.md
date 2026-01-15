@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain](/playlists/plain/37i9dQZF1DX7EF8wVxBVhG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7EF8wVxBVhG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain](/playlists/plain/37i9dQZF1DX7EF8wVxBVhG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7EF8wVxBVhG)
 
 ### [Binaural Beats: Focus](https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG)
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,700 likes - 98 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,100 likes - 98 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

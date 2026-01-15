@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX1xiCqpG6Bic.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1xiCqpG6Bic) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1xiCqpG6Bic)
+[pretty](/playlists/pretty/37i9dQZF1DX1xiCqpG6Bic.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1xiCqpG6Bic) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1xiCqpG6Bic)
 
 ### [CARDCAPTOR SAKURA](https://open.spotify.com/playlist/37i9dQZF1DX1xiCqpG6Bic)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYztMONFqfvX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYztMONFqfvX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYztMONFqfvX)
+[pretty](/playlists/pretty/37i9dQZF1DWYztMONFqfvX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYztMONFqfvX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYztMONFqfvX)
 
 ### [This Is Arijit Singh](https://open.spotify.com/playlist/37i9dQZF1DWYztMONFqfvX)
 

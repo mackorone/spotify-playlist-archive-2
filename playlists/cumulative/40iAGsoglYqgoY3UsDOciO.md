@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/40iAGsoglYqgoY3UsDOciO.md) - cumulative - [plain](/playlists/plain/40iAGsoglYqgoY3UsDOciO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/40iAGsoglYqgoY3UsDOciO)
+[pretty](/playlists/pretty/40iAGsoglYqgoY3UsDOciO.md) - cumulative - [plain](/playlists/plain/40iAGsoglYqgoY3UsDOciO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/40iAGsoglYqgoY3UsDOciO)
 
 ### [New Music Daily](https://open.spotify.com/playlist/40iAGsoglYqgoY3UsDOciO)
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-455 songs - 22 hr 5 min
+458 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2034](https://open.spotify.com/track/0WVI3OAt5pylpNeB61p0Hk) | [CLICK!](https://open.spotify.com/artist/33LQfHRm9GAopvbj7liM3R) | [2034](https://open.spotify.com/album/1M7QwfJUSoaYhmQcszbHUa) | 3:38 | 2024-09-03 |  |
 | [21](https://open.spotify.com/track/3ghrcNSSKQ9B3V219HT6Ec) | [qc4lshit](https://open.spotify.com/artist/56h1Llct5QPTjHmFSCFe1J) | [21](https://open.spotify.com/album/7fhneyYxueREbyVOdsGnzI) | 2:15 | 2024-06-16 |  |
 | [22](https://open.spotify.com/track/1VA1pHaqACJXnAKg8oDn25) | [Elizabeth Hall](https://open.spotify.com/artist/0LFFNrtN10OiOUCWVzHh43) | [22](https://open.spotify.com/album/63ItpwueX2ebEfvv6n8a07) | 3:38 | 2024-06-28 |  |
+| [2low](https://open.spotify.com/track/6PuttdMRpU6Ond6z7n5cIs) | [moraux](https://open.spotify.com/artist/2rKXaL6gHUA4OUaCn0EHZt) | [2low](https://open.spotify.com/album/1Qvs6xJkLDJD0SMda9h3iy) | 2:06 | 2026-01-13 |  |
 | [420 freestyle](https://open.spotify.com/track/4mRzDO9DVwxE0asxvlZ6gb) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [420 freestyle](https://open.spotify.com/album/2HqhCRZthOQBwZAAXn3THQ) | 1:43 | 2024-09-24 |  |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-07-26 |  |
 | [5 O'Clock](https://open.spotify.com/track/3vSRKMY9G9dH3TUW6mRA73) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:52 | 2023-07-26 |  |
@@ -102,6 +103,7 @@
 | [Dark Objects](https://open.spotify.com/track/7LAQ2KdUEzv0o0JqKjdmKg) | [Idol Talk](https://open.spotify.com/artist/4Zywk3Dn7UZ2peYgMp1Yhh) | [Allure](https://open.spotify.com/album/7A1CxgVowMWVBneKC3DjzT) | 3:11 | 2025-04-24 |  |
 | [Darling](https://open.spotify.com/track/68jjJ7ppDTlQSgEbc1H1D5) | [SiceVinci](https://open.spotify.com/artist/6KVM2iuQV0axEKj6bOE6Xu) | [TEMPTATION.](https://open.spotify.com/album/2E99pGr4KPQZAMzrT4qFC0) | 2:05 | 2024-09-08 |  |
 | [Daylight](https://open.spotify.com/track/632tpvVASqQdxUcGz4SA9c) | [Shoaib](https://open.spotify.com/artist/6ZdWHDiQLejZYQpPcRVS6f) | [Daylight](https://open.spotify.com/album/0vDhJdJkibjE6K7C7zJtVk) | 2:17 | 2024-08-03 |  |
+| [Dealer of dreams](https://open.spotify.com/track/7FX95R5DwzQz9l5v0t2qWu) | [NeKKoN](https://open.spotify.com/artist/0Rj4a2UfZQS4VoMFpSHPtA) | [Dealer of dreams](https://open.spotify.com/album/6agNfuer5d7ZRmrcNjHHIP) | 4:41 | 2026-01-12 |  |
 | [Decisions \(Rose\)](https://open.spotify.com/track/7lwcyPWE91n8N2hSZAQQ4i) | [Youngking](https://open.spotify.com/artist/2KglwLAdL2gTEQte5GhfpO) | [Decisions \(Rose\)](https://open.spotify.com/album/7ndq6qXxr90sXchOtikjKf) | 2:22 | 2024-06-24 |  |
 | [Deep Down](https://open.spotify.com/track/0i8T5HXjTzE1GXbyaFIcUp) | [Carl Redy](https://open.spotify.com/artist/53MUqdsPOF4OLoFSxl8F1f) | [Robotic A](https://open.spotify.com/album/2pnbXpJ3x5THXpDcBsOVOB) | 2:54 | 2024-12-07 |  |
 | [Del Norte Soy](https://open.spotify.com/track/0aPcKsMhlaeNASWPFWglJx) | [AKA HANIBALL](https://open.spotify.com/artist/0gVWDUIPSAfkROnMSMhZOv), [Jair Guerra](https://open.spotify.com/artist/0WcIgguxaE1U8pTisW1ORM) | [Del Norte Soy](https://open.spotify.com/album/6w80PGINw60SnWSM0D3ANF) | 3:28 | 2024-07-30 |  |
@@ -161,6 +163,7 @@
 | [Good Investment](https://open.spotify.com/track/0LC2d8Y9mMmn8UNcFpJ9wy) | [GoodGuy](https://open.spotify.com/artist/18SvuiHWFjBbnS32hD7yrf), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Good Investment](https://open.spotify.com/album/6dFt0Ek41cpYYy5qKZKiru) | 2:48 | 2024-06-28 |  |
 | [Gossip](https://open.spotify.com/track/10yVyXUnYPVOFszlBHdtZF) | [Monte Hershkowitz](https://open.spotify.com/artist/0iSr1a8fTjXfB5La1Ds1y7) | [Bad Habits](https://open.spotify.com/album/6K8Ev7z2EtcFiZKqzNXZCj) | 1:58 | 2024-06-03 |  |
 | [Got It All](https://open.spotify.com/track/61AVvUrUzIlojOnollk1Ny) | [Ashton Adams](https://open.spotify.com/artist/0f5SnZVfjAD68hcPFGOsJz) | [Got It All](https://open.spotify.com/album/0HvVGX1OrdkQJB6mnlibUF) | 2:26 | 2024-09-10 |  |
+| [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 | 2026-01-13 |  |
 | [Growing Up](https://open.spotify.com/track/5RsO4xvdHFAuC0gBc8v5cX) | [Yungmure](https://open.spotify.com/artist/1vNoWIO6ZWOq7AduRlKIFq) | [Growing Up](https://open.spotify.com/album/3XmPmiGUlOlkm8bZRL2FGn) | 3:27 | 2024-06-11 |  |
 | [Gucci Grocery Bag](https://open.spotify.com/track/1xE36EOBfgpajoGviOzhQi) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS \(Metro's Version\)](https://open.spotify.com/album/0z2a9VgdVmkr0DInVJUgu6) | 2:55 | 2023-07-26 |  |
 | [Guidance](https://open.spotify.com/track/41Wq1UyGImB1Rjg58hlQ96) | [Deslynn Malotana](https://open.spotify.com/artist/6xmdYoghy3dPiroBAkAnZw) | [Guidance](https://open.spotify.com/album/3HsxFqbOQCzOrbDXTFz9BO) | 4:41 | 2025-01-25 |  |

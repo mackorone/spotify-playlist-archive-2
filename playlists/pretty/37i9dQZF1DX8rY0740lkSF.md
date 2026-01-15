@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain](/playlists/plain/37i9dQZF1DX8rY0740lkSF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8rY0740lkSF)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain](/playlists/plain/37i9dQZF1DX8rY0740lkSF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8rY0740lkSF)
 
 ### [Tales of Series 『テイルズ オブ』シリーズ](https://open.spotify.com/playlist/37i9dQZF1DX8rY0740lkSF)
 
 > Music from "Tales of Series!"\. 『テイルズ オブ』シリーズの楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,238 likes - 94 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,247 likes - 94 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

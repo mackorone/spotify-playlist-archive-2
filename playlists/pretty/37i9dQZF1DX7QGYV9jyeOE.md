@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain](/playlists/plain/37i9dQZF1DX7QGYV9jyeOE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7QGYV9jyeOE)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain](/playlists/plain/37i9dQZF1DX7QGYV9jyeOE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7QGYV9jyeOE)
 
 ### [EQUAL New Age](https://open.spotify.com/playlist/37i9dQZF1DX7QGYV9jyeOE)
 

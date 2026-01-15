@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain](/playlists/plain/37i9dQZF1DX0khTY3HFA4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0khTY3HFA4M)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain](/playlists/plain/37i9dQZF1DX0khTY3HFA4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0khTY3HFA4M)
 
 ### [Chill Instrumental Beats](https://open.spotify.com/playlist/37i9dQZF1DX0khTY3HFA4M)
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,819 likes - 400 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,085 likes - 400 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

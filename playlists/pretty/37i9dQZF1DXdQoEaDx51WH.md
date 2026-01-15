@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQoEaDx51WH.md) - [plain](/playlists/plain/37i9dQZF1DXdQoEaDx51WH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdQoEaDx51WH)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQoEaDx51WH.md) - [plain](/playlists/plain/37i9dQZF1DXdQoEaDx51WH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdQoEaDx51WH)
 
 ### [Coke Studio: Season 14](https://open.spotify.com/playlist/37i9dQZF1DXdQoEaDx51WH)
 
 > All\-new tracks by Coke Studio Pakistan Season 14.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,088 likes - 14 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,128 likes - 14 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain](/playlists/plain/37i9dQZF1DXc7vq8Dvj5Nu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc7vq8Dvj5Nu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain](/playlists/plain/37i9dQZF1DXc7vq8Dvj5Nu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc7vq8Dvj5Nu)
 
 ### [Skeleten's track IDs](https://open.spotify.com/playlist/37i9dQZF1DXc7vq8Dvj5Nu)
 
 > <a href="spotify:artist:4VZEaqiJm8GOd1pSgjD62y">Skeleten's </a> favourite tracks\. Updated regularly\. Curated by Skeleten\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,882 likes - 85 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,099 likes - 85 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

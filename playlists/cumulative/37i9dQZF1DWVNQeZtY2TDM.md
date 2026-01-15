@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVNQeZtY2TDM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVNQeZtY2TDM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVNQeZtY2TDM)
+[pretty](/playlists/pretty/37i9dQZF1DWVNQeZtY2TDM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVNQeZtY2TDM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVNQeZtY2TDM)
 
 ### [十年全精選：華語流行](https://open.spotify.com/playlist/37i9dQZF1DWVNQeZtY2TDM)
 

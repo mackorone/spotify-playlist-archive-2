@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HZKseEMBlh.md) - [plain](/playlists/plain/37i9dQZF1DX1HZKseEMBlh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1HZKseEMBlh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HZKseEMBlh.md) - [plain](/playlists/plain/37i9dQZF1DX1HZKseEMBlh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1HZKseEMBlh)
 
 ### [Michael Rainey Jr's Taste](https://open.spotify.com/playlist/37i9dQZF1DX1HZKseEMBlh)
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/michaelraineyjr/">Michael Rainey Jr.</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 880 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 883 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

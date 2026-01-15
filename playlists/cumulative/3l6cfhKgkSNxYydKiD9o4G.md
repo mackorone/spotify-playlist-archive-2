@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3l6cfhKgkSNxYydKiD9o4G.md) - cumulative - [plain](/playlists/plain/3l6cfhKgkSNxYydKiD9o4G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3l6cfhKgkSNxYydKiD9o4G)
+[pretty](/playlists/pretty/3l6cfhKgkSNxYydKiD9o4G.md) - cumulative - [plain](/playlists/plain/3l6cfhKgkSNxYydKiD9o4G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3l6cfhKgkSNxYydKiD9o4G)
 
 ### [RIP James Gandolfini](https://open.spotify.com/playlist/3l6cfhKgkSNxYydKiD9o4G)
 

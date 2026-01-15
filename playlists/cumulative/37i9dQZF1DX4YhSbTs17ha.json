@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. HUMBE en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. ROSAL\u00cdA en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 212019,
       "name": "A escondidas",
       "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
@@ -800,6 +800,24 @@
       "duration_ms": 232350,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/7pVitP3DTRfjOaL1xhuDFl"
+    },
+    {
+      "album": {
+        "name": "Ah\u00ed Voy",
+        "url": "https://open.spotify.com/album/04lZnCUHDdYOx2MEwwKakm"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178743,
+      "name": "Ah\u00ed Voy",
+      "url": "https://open.spotify.com/track/5N8HdHYq8PAkroeoVidxSe"
     },
     {
       "album": {
@@ -4844,7 +4862,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 175375,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/1b0B1bfB9LYbhmAC1Zaz9r"
@@ -5362,7 +5380,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 219719,
       "name": "El Observador",
       "url": "https://open.spotify.com/track/41hUn3whEA2po3ql0s8cK9"
@@ -8393,6 +8411,24 @@
     },
     {
       "album": {
+        "name": "veme as\u00ed (Live performance)",
+        "url": "https://open.spotify.com/album/3PDqU6Qle7lCGzTXbcPVoj"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246688,
+      "name": "lento - Live performance",
+      "url": "https://open.spotify.com/track/1N6yObVx8jtcgcjaE7HKQN"
+    },
+    {
+      "album": {
         "name": "Ley De Gravedad",
         "url": "https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg"
       },
@@ -10652,7 +10688,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 184506,
       "name": "Mu\u00e9rdeme",
       "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
@@ -13190,7 +13226,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 189620,
       "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
       "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
@@ -13872,7 +13908,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 181909,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/2OQUE4MtsLQ5S49MQmaVLe"
@@ -14648,7 +14684,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 226500,
       "name": "Solo Tuya",
       "url": "https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv"

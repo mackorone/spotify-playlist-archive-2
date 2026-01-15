@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain](/playlists/plain/37i9dQZF1DX6EnWBWmEoM4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6EnWBWmEoM4)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain](/playlists/plain/37i9dQZF1DX6EnWBWmEoM4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6EnWBWmEoM4)
 
 ### [Lo Mejor De 100% Cuarteto 2024](https://open.spotify.com/playlist/37i9dQZF1DX6EnWBWmEoM4)
 
 > Exitos de cuarteto del año\. Foto: Q´ Lokura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,407 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,315 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

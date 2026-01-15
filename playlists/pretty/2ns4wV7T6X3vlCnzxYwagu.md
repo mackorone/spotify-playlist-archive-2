@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/2ns4wV7T6X3vlCnzxYwagu.md) - [plain](/playlists/plain/2ns4wV7T6X3vlCnzxYwagu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2ns4wV7T6X3vlCnzxYwagu)
+pretty - [cumulative](/playlists/cumulative/2ns4wV7T6X3vlCnzxYwagu.md) - [plain](/playlists/plain/2ns4wV7T6X3vlCnzxYwagu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2ns4wV7T6X3vlCnzxYwagu)
 
 ### [Grazia Daily: The Best of Primavera](https://open.spotify.com/playlist/2ns4wV7T6X3vlCnzxYwagu)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 15 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 117 likes - 15 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

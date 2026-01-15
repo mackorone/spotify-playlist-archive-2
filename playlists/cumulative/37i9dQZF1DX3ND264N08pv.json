@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141600,
       "name": "Eye Of The Tiger",
       "url": "https://open.spotify.com/track/2ba6ggXCHrYvrnc0jAsAgR"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 196200,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/0Wwn53gqhMwRwhvqvGH5bq"
@@ -5089,6 +5089,36 @@
     },
     {
       "album": {
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/3ewty6LCE4HpJZMG2YH11I"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        },
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Satirized",
+          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
+        },
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173055,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/21CDpIjfYr1FoSA6ulbNTJ"
+    },
+    {
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta"
       },
@@ -7376,6 +7406,28 @@
       "duration_ms": 188000,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/2H0eRy9vmts59596rouqUy"
+    },
+    {
+      "album": {
+        "name": "THRONE",
+        "url": "https://open.spotify.com/album/1OI4m6WfOI3s3aV26V1fVL"
+      },
+      "artists": [
+        {
+          "name": "The Herbalist",
+          "url": "https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu"
+        },
+        {
+          "name": "Amigo",
+          "url": "https://open.spotify.com/artist/0quq9NiPw5T5E9N6GoPJ1y"
+        }
+      ],
+      "date_added": "2026-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "THRONE",
+      "url": "https://open.spotify.com/track/5rfqRff1tGmbZNqWhG4fxk"
     },
     {
       "album": {

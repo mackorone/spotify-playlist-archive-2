@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWTvdcM9QUiSL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTvdcM9QUiSL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTvdcM9QUiSL)
+[pretty](/playlists/pretty/37i9dQZF1DWTvdcM9QUiSL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTvdcM9QUiSL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTvdcM9QUiSL)
 
 ### [Martin Ikin DJ Mix: Feel The Vibe](https://open.spotify.com/playlist/37i9dQZF1DWTvdcM9QUiSL)
 

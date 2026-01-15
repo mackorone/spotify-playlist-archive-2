@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2R0a3scWaq6.md) - [plain](/playlists/plain/37i9dQZF1DX2R0a3scWaq6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2R0a3scWaq6)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2R0a3scWaq6.md) - [plain](/playlists/plain/37i9dQZF1DX2R0a3scWaq6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2R0a3scWaq6)
 
 ### [Electro Heat](https://open.spotify.com/playlist/37i9dQZF1DX2R0a3scWaq6)
 
 > Los grandes hits y los sonidos emergentes de la música electrónica latina están aquí\. Foto: Funk Tribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,133 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,087 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

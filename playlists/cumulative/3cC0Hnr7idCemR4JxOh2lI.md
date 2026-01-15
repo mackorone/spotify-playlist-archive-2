@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3cC0Hnr7idCemR4JxOh2lI.md) - cumulative - [plain](/playlists/plain/3cC0Hnr7idCemR4JxOh2lI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3cC0Hnr7idCemR4JxOh2lI)
+[pretty](/playlists/pretty/3cC0Hnr7idCemR4JxOh2lI.md) - cumulative - [plain](/playlists/plain/3cC0Hnr7idCemR4JxOh2lI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3cC0Hnr7idCemR4JxOh2lI)
 
 ### [Folk & Rock 200 favoriter](https://open.spotify.com/playlist/3cC0Hnr7idCemR4JxOh2lI)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdczBf5zJgeg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdczBf5zJgeg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdczBf5zJgeg)
+[pretty](/playlists/pretty/37i9dQZF1DXdczBf5zJgeg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdczBf5zJgeg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdczBf5zJgeg)
 
 ### [They Cloned Tyrone Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdczBf5zJgeg)
 

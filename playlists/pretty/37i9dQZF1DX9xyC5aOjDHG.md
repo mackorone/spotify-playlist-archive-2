@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain](/playlists/plain/37i9dQZF1DX9xyC5aOjDHG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9xyC5aOjDHG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain](/playlists/plain/37i9dQZF1DX9xyC5aOjDHG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9xyC5aOjDHG)
 
 ### [Sword Art Online ](https://open.spotify.com/playlist/37i9dQZF1DX9xyC5aOjDHG)
 
 > Music & Episodes of “Sword Art Online” series! \(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,213 likes - 105 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,263 likes - 105 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

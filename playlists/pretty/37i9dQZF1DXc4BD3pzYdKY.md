@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain](/playlists/plain/37i9dQZF1DXc4BD3pzYdKY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc4BD3pzYdKY)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain](/playlists/plain/37i9dQZF1DXc4BD3pzYdKY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc4BD3pzYdKY)
 
 ### [The Flow](https://open.spotify.com/playlist/37i9dQZF1DXc4BD3pzYdKY)
 
 > The best of Christian Hip Hop today\.  Cover: Andy Mineo
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,695 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,181 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

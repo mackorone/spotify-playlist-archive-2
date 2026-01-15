@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0sDO43KAaJUWIYassTKWYf.md) - [plain](/playlists/plain/0sDO43KAaJUWIYassTKWYf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0sDO43KAaJUWIYassTKWYf)
+pretty - [cumulative](/playlists/cumulative/0sDO43KAaJUWIYassTKWYf.md) - [plain](/playlists/plain/0sDO43KAaJUWIYassTKWYf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0sDO43KAaJUWIYassTKWYf)
 
 ### [Indie Strings](https://open.spotify.com/playlist/0sDO43KAaJUWIYassTKWYf)
 
 > Songs with some serious violin and cello action.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/2Xgk9QKAYKCn0bkXIlxua4.md) - [plain](/playlists/plain/2Xgk9QKAYKCn0bkXIlxua4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2Xgk9QKAYKCn0bkXIlxua4)
+pretty - [cumulative](/playlists/cumulative/2Xgk9QKAYKCn0bkXIlxua4.md) - [plain](/playlists/plain/2Xgk9QKAYKCn0bkXIlxua4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2Xgk9QKAYKCn0bkXIlxua4)
 
 ### [nothing but r&b/soul](https://open.spotify.com/playlist/2Xgk9QKAYKCn0bkXIlxua4)
 

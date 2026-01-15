@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 507520,
       "name": "I Am Hell (Sonata in C#)",
       "url": "https://open.spotify.com/track/5WSIVWdeIkCWmvTPUmNq0K"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 509817,
       "name": "Sail Into The Black",
       "url": "https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P"
@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316906,
+      "name": "Slanderous",
+      "url": "https://open.spotify.com/track/4tH51l243jr1ZIrdHgXlQm"
+    },
+    {
+      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 183595,
       "name": "Stop The Bleeding (Feat. Jesse Leach)",
       "url": "https://open.spotify.com/track/0yK3bCcDM5cDDykBlQ5S2w"

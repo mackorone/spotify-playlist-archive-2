@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/44uPoVqT6tOn5AphWVnSvu.md) - cumulative - [plain](/playlists/plain/44uPoVqT6tOn5AphWVnSvu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/44uPoVqT6tOn5AphWVnSvu)
+[pretty](/playlists/pretty/44uPoVqT6tOn5AphWVnSvu.md) - cumulative - [plain](/playlists/plain/44uPoVqT6tOn5AphWVnSvu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/44uPoVqT6tOn5AphWVnSvu)
 
 ### [Happy Birthday Prince!](https://open.spotify.com/playlist/44uPoVqT6tOn5AphWVnSvu)
 

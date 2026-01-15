@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain](/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1)
+pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain](/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1)
 
 ### [Thanksgiving Dinner Party Essentials ](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
 > Cozy up with timeless hits for your family and friends to enjoy\.                         Friendsgiving \|Give Thanks \| Thanksgiving 2026.
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 113,890 likes - 54 songs - 3 hr 0 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 113,781 likes - 54 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

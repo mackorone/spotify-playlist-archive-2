@@ -5603,6 +5603,32 @@
     },
     {
       "album": {
+        "name": "Gangwar",
+        "url": "https://open.spotify.com/album/3MxsfNYTKWY1LX9vqA0zRU"
+      },
+      "artists": [
+        {
+          "name": "Gurman Gill",
+          "url": "https://open.spotify.com/artist/56WAK4bABVQfz1sElUDJai"
+        },
+        {
+          "name": "Ash Dhillon",
+          "url": "https://open.spotify.com/artist/1BFd3Y6AGLefGCA1qV7q5U"
+        },
+        {
+          "name": "Arman Isru",
+          "url": "https://open.spotify.com/artist/45sDZFNNvg253CZh6jXycV"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202841,
+      "name": "Gangwar",
+      "url": "https://open.spotify.com/track/5Jne7YAvtp1SUQUYtQC8oz"
+    },
+    {
+      "album": {
         "name": "Gears",
         "url": "https://open.spotify.com/album/4L90juD2dYHLXKlhdnYuDy"
       },
@@ -5958,7 +5984,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139591,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/30sbsEzuROKIkABVBEnp4C"
@@ -9515,6 +9541,24 @@
     },
     {
       "album": {
+        "name": "Mafioso",
+        "url": "https://open.spotify.com/album/1L93dBOnHTETKq8GGtQ5Vl"
+      },
+      "artists": [
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149581,
+      "name": "Mafioso",
+      "url": "https://open.spotify.com/track/1Ec9ciDObX8du129uqDT56"
+    },
+    {
+      "album": {
         "name": "Main Bandey",
         "url": "https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV"
       },
@@ -10786,7 +10830,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173620,
       "name": "Niri Agg",
       "url": "https://open.spotify.com/track/0paTaAAxGD66pPuabVXxNw"
@@ -13196,7 +13240,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 213000,
       "name": "Salute",
       "url": "https://open.spotify.com/track/1uxVdOrmHL5Rsi7mtEGwZv"
@@ -14550,7 +14594,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 99650,
       "name": "Stroom",
       "url": "https://open.spotify.com/track/16AjPF8ZwD9GIboGpoeI5a"
@@ -15070,6 +15114,24 @@
       "duration_ms": 167441,
       "name": "The Remains",
       "url": "https://open.spotify.com/track/3TCUE8qX8FCLORzzvl3So4"
+    },
+    {
+      "album": {
+        "name": "Thinking",
+        "url": "https://open.spotify.com/album/2i5azk8pvUowCWqhRN1t4X"
+      },
+      "artists": [
+        {
+          "name": "NIJJAR",
+          "url": "https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "Thinking",
+      "url": "https://open.spotify.com/track/33R3qS9Gsq6ig289ZxiHFx"
     },
     {
       "album": {
@@ -16594,6 +16656,52 @@
       "duration_ms": 203023,
       "name": "Winnipeg",
       "url": "https://open.spotify.com/track/0bErpkWdMqlXPJZfTEdbE9"
+    },
+    {
+      "album": {
+        "name": "WZR GANG",
+        "url": "https://open.spotify.com/album/1oalrFAcVxoEhZhy8VPQ8q"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Roop Bhullar",
+          "url": "https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d"
+        },
+        {
+          "name": "Jeona Sandhu",
+          "url": "https://open.spotify.com/artist/4zWsm8YmnCds14MpEr153b"
+        },
+        {
+          "name": "Pawan Dhanda",
+          "url": "https://open.spotify.com/artist/4Hoz7OmMfGJhRUcPCUoJgc"
+        },
+        {
+          "name": "Vijay Brar",
+          "url": "https://open.spotify.com/artist/3fuQZePOJQLJ8fgBDLCaZO"
+        },
+        {
+          "name": "Sky 38",
+          "url": "https://open.spotify.com/artist/6pciHEnBi4NOwZohw7jB1f"
+        },
+        {
+          "name": "Chobar",
+          "url": "https://open.spotify.com/artist/1otPBqhfxta9IgOgoRtej4"
+        },
+        {
+          "name": "Aqaal",
+          "url": "https://open.spotify.com/artist/3XpJrdSEPmGsVflzDgVV8D"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260645,
+      "name": "WZR GANG",
+      "url": "https://open.spotify.com/track/5jzegEcChN9SniAzuqlaSP"
     },
     {
       "album": {

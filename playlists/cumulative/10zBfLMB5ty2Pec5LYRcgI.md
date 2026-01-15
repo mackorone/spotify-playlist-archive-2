@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/10zBfLMB5ty2Pec5LYRcgI.md) - cumulative - [plain](/playlists/plain/10zBfLMB5ty2Pec5LYRcgI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/10zBfLMB5ty2Pec5LYRcgI)
+[pretty](/playlists/pretty/10zBfLMB5ty2Pec5LYRcgI.md) - cumulative - [plain](/playlists/plain/10zBfLMB5ty2Pec5LYRcgI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/10zBfLMB5ty2Pec5LYRcgI)
 
 ### [Jesse \- Street Smart](https://open.spotify.com/playlist/10zBfLMB5ty2Pec5LYRcgI)
 

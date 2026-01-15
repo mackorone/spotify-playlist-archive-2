@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/0NaXa68Xyo4wmMiun5Lqgm.md) - [plain](/playlists/plain/0NaXa68Xyo4wmMiun5Lqgm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NaXa68Xyo4wmMiun5Lqgm)
+pretty - [cumulative](/playlists/cumulative/0NaXa68Xyo4wmMiun5Lqgm.md) - [plain](/playlists/plain/0NaXa68Xyo4wmMiun5Lqgm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0NaXa68Xyo4wmMiun5Lqgm)
 
 ### [Carpool Karaoke](https://open.spotify.com/playlist/0NaXa68Xyo4wmMiun5Lqgm)
 

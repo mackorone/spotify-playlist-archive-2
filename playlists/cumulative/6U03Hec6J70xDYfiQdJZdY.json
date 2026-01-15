@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1nAxhkUmDivcwWH4wx1JSg"
+      },
+      "artists": [
+        {
+          "name": "Olexandr Ignatov",
+          "url": "https://open.spotify.com/artist/5N4JPCILHmKjyrhr97DOpG"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144048,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2PYyoWPyuO5DbEIsMDGLDs"
+    },
+    {
+      "album": {
         "name": "Einaudi: I giorni",
         "url": "https://open.spotify.com/album/3D5DFh4FC3IpIEfNwV0JkS"
       },

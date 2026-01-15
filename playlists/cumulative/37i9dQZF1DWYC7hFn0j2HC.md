@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYC7hFn0j2HC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYC7hFn0j2HC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYC7hFn0j2HC)
+[pretty](/playlists/pretty/37i9dQZF1DWYC7hFn0j2HC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYC7hFn0j2HC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYC7hFn0j2HC)
 
 ### [Charros de Oro](https://open.spotify.com/playlist/37i9dQZF1DWYC7hFn0j2HC)
 

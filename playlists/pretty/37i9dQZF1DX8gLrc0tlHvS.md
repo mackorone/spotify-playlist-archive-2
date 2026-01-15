@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain](/playlists/plain/37i9dQZF1DX8gLrc0tlHvS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8gLrc0tlHvS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain](/playlists/plain/37i9dQZF1DX8gLrc0tlHvS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8gLrc0tlHvS)
 
 ### [Stomp & Holler](https://open.spotify.com/playlist/37i9dQZF1DX8gLrc0tlHvS)
 
 > Stomping rhythms, rustic strings, communal harmonies, or maybe something cool like indie folk? Cover: Edward Sharpe & The Magnetic Zeros
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,931 likes - 76 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,993 likes - 76 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

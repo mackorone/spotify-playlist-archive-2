@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/79sVcfxVNazjyK2iBY9l3q.md) - [plain](/playlists/plain/79sVcfxVNazjyK2iBY9l3q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/79sVcfxVNazjyK2iBY9l3q)
+pretty - [cumulative](/playlists/cumulative/79sVcfxVNazjyK2iBY9l3q.md) - [plain](/playlists/plain/79sVcfxVNazjyK2iBY9l3q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/79sVcfxVNazjyK2iBY9l3q)
 
 ### [Incoming](https://open.spotify.com/playlist/79sVcfxVNazjyK2iBY9l3q)
 
 > Rolling Stone contributing editor Joe Levy presents Incoming, a new panel discussion show about what's next and best on Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554 likes - 17 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 553 likes - 17 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

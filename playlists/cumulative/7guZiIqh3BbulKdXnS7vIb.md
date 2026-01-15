@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7guZiIqh3BbulKdXnS7vIb.md) - cumulative - [plain](/playlists/plain/7guZiIqh3BbulKdXnS7vIb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7guZiIqh3BbulKdXnS7vIb)
+[pretty](/playlists/pretty/7guZiIqh3BbulKdXnS7vIb.md) - cumulative - [plain](/playlists/plain/7guZiIqh3BbulKdXnS7vIb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7guZiIqh3BbulKdXnS7vIb)
 
 ### [Retro Road Trip \(Road trip Throwback Playlist\)](https://open.spotify.com/playlist/7guZiIqh3BbulKdXnS7vIb)
 

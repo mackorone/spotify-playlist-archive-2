@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: Gabby's Dollhouse",
+  "description": "New releases for the kids. Cover: PoppyNoji",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 56318,
       "name": "101 Days Of School",
       "url": "https://open.spotify.com/track/0B58suOjvM4z7tOhvzFoCE"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 191239,
       "name": "ABC Hop",
       "url": "https://open.spotify.com/track/07UVHfUEewSrmEKfbZz3fz"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 208379,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169194,
       "name": "All Afternoon (The Bluey Tune)",
       "url": "https://open.spotify.com/track/7bedLuDgxVTh7jNIqtZP7x"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 121846,
       "name": "Amped Up!",
       "url": "https://open.spotify.com/track/66qO1SNYUnVW7wJJzudRic"
@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Anything is Pasta-ble!",
+        "url": "https://open.spotify.com/album/1JFu2Z8e898CVx0w9CRvde"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57214,
+      "name": "Anything is Pasta-ble",
+      "url": "https://open.spotify.com/track/5MyNFmT8whC1xiaT9Zzf7l"
+    },
+    {
+      "album": {
         "name": "Apples And Bananas",
         "url": "https://open.spotify.com/album/3sEoUfIFKLVO43Cr91FcYK"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 129000,
       "name": "Apples And Bananas",
       "url": "https://open.spotify.com/track/0MTsQktnZl5JtBK9pbiYdZ"
@@ -608,7 +626,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162607,
       "name": "APT.",
       "url": "https://open.spotify.com/track/6m58F8A3vrcKGHQMZGtCyl"
@@ -670,7 +688,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195086,
       "name": "Around The World Adventure",
       "url": "https://open.spotify.com/track/2KVp2Tz8nyeT6IiaEJUen2"
@@ -776,7 +794,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 66288,
       "name": "Aura V Anthem",
       "url": "https://open.spotify.com/track/3mjYCpOCqwyv2q4o7E8F0e"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 138529,
       "name": "Baby Elephant - Acoustic Version",
       "url": "https://open.spotify.com/track/64xPADPLOl3PQUFz7gdvqk"
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 178666,
       "name": "Be My Friend",
       "url": "https://open.spotify.com/track/5qB7i1zckwJfYqFLJyQw1b"
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155004,
       "name": "Be Nice To People",
       "url": "https://open.spotify.com/track/1OtAB2xOfGZHLlTPD8AG4k"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 109266,
       "name": "Beach Trolley",
       "url": "https://open.spotify.com/track/3YYujLCTgoOEUHJR0dSev1"
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 90413,
       "name": "Blueberries (Fruit Song)",
       "url": "https://open.spotify.com/track/5Kc2FqpQwi8jCQkzykK2HR"
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 95864,
       "name": "Bunny Counting Song",
       "url": "https://open.spotify.com/track/29crDXsMO04ynU1vwT0iTi"
@@ -2254,7 +2272,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167272,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/7tg6qrdwIo0qKL5tgNWYh0"
@@ -2450,7 +2468,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143032,
       "name": "Can You Find the Cat?",
       "url": "https://open.spotify.com/track/1ncNbRcoOVA8ACt6bclnMv"
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149200,
       "name": "Catch a Falling Star",
       "url": "https://open.spotify.com/track/36vgrUllMvbXcZOefoH5zQ"
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 47043,
       "name": "Catrats Favorite Sandwich",
       "url": "https://open.spotify.com/track/3ojQXfKMCayJr0OmGXzDmR"
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 123300,
       "name": "Centipede Counting Song",
       "url": "https://open.spotify.com/track/4EwylzkPd5YYtkXM7yryzP"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 183669,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/2KO5OTMeX9iTzwLpBNI8Nm"
@@ -2652,7 +2670,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 114690,
       "name": "Chick Chick Chickaletta - Skye's Music Party",
       "url": "https://open.spotify.com/track/13jZd80LS3RTAjgdWwtaU4"
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135058,
       "name": "Clara the Cow",
       "url": "https://open.spotify.com/track/7nGfReWgsbF7OmBe0CjGZu"
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139828,
       "name": "Come On and Get Moving",
       "url": "https://open.spotify.com/track/3YnejZH7w6z5MGB3q9Cruv"
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 122423,
       "name": "Copy Cat",
       "url": "https://open.spotify.com/track/6TtQkgLd6VhTGkZow1asPZ"
@@ -3212,7 +3230,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 160059,
       "name": "Curious Like Me",
       "url": "https://open.spotify.com/track/0gaUvFCsCNdUBWgvrypFrS"
@@ -3252,7 +3270,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177750,
       "name": "Cutest Things in the World",
       "url": "https://open.spotify.com/track/59QeNP0PffnllCFcpjV9e0"
@@ -3586,7 +3604,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201187,
       "name": "Dino Stomp On The Playground",
       "url": "https://open.spotify.com/track/0mqELdcXsyZWY2lC57ASQ1"
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135253,
       "name": "Dog Song",
       "url": "https://open.spotify.com/track/2rOjOR2gmXeYuU5GGVNyg7"
@@ -3778,7 +3796,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 105882,
       "name": "Dollhouse Hotel",
       "url": "https://open.spotify.com/track/4D2EHHH7KtPBvzI1YVaZH0"
@@ -3974,7 +3992,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 63360,
       "name": "Dynamic Duo",
       "url": "https://open.spotify.com/track/4Pc04sqvxFDrUcwuuiPxPL"
@@ -4286,7 +4304,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 122111,
       "name": "Everest is the Best - Skye\u2019s Music Party",
       "url": "https://open.spotify.com/track/0UvYGdkweNcQU4cIbr5CNa"
@@ -4398,7 +4416,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 148743,
       "name": "Everyone's Demanding Bananas",
       "url": "https://open.spotify.com/track/25KvwkDDnnmMjf4lrqkoTU"
@@ -4434,7 +4452,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 119763,
       "name": "Evie!",
       "url": "https://open.spotify.com/track/3JGWN6wzHez1AvrJMUkzJh"
@@ -4934,7 +4952,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 195986,
       "name": "Fire-Breathing Dragon",
       "url": "https://open.spotify.com/track/7wGa3t7Eud55njaCzkM1df"
@@ -4956,7 +4974,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 95948,
       "name": "Fireman Sam Theme Song",
       "url": "https://open.spotify.com/track/0kJ1JsR0QWNXddEsCqzSs4"
@@ -5094,7 +5112,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 158750,
       "name": "Fly Away Feathers",
       "url": "https://open.spotify.com/track/2bx2AhIKGhs8Eh73pqYfWa"
@@ -5112,7 +5130,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 102541,
       "name": "Fly High",
       "url": "https://open.spotify.com/track/6Nl2LiTnWgp5HcdKVM3dYK"
@@ -5204,7 +5222,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 142080,
       "name": "Follow Your Heart",
       "url": "https://open.spotify.com/track/62g0ZP425BgKzILiIWyhzP"
@@ -5302,7 +5320,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 205270,
       "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
       "url": "https://open.spotify.com/track/0epwO9Y9JZkLBRwadMSWYY"
@@ -5342,7 +5360,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149209,
       "name": "Friends!",
       "url": "https://open.spotify.com/track/7ede53DnquX0WWavwWE7QH"
@@ -5498,6 +5516,24 @@
       "duration_ms": 190707,
       "name": "Gabby\u2019s Dollhouse World - from \u201cGabby\u2019s Dollhouse: The Movie Soundtrack\u201d",
       "url": "https://open.spotify.com/track/4TLyB3Q2kpCS3KdRBSQKMK"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 52",
+        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/2sJc3ugnMMMxyif6RJRn5H"
     },
     {
       "album": {
@@ -5844,7 +5880,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -5866,7 +5902,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 116756,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/4xgYZndMpVzMsRlSEwjUNJ"
@@ -5888,7 +5924,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 120217,
       "name": "Good Friends Will Help (You Get Back on Track)",
       "url": "https://open.spotify.com/track/5Co0nXpLAfwrLA95cD8qnA"
@@ -5978,7 +6014,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 110918,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/3ec1Er3elkvHHBYUPlDrdF"
@@ -6138,7 +6174,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 74983,
       "name": "Great Great Day",
       "url": "https://open.spotify.com/track/2wx30pcK4MMak1VWxn7qcX"
@@ -6234,7 +6270,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 209880,
       "name": "Grow",
       "url": "https://open.spotify.com/track/4Q6R09DV3sXgO0eLTnTZmk"
@@ -6676,7 +6712,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147586,
       "name": "Have a Great Time!",
       "url": "https://open.spotify.com/track/6FsBFQkORCWcEf2K4mA0e0"
@@ -6720,7 +6756,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 134958,
       "name": "Head, Shoulders, Knees And Toes",
       "url": "https://open.spotify.com/track/30OfsmHJTl8AMOBmBpczT1"
@@ -6836,7 +6872,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135833,
       "name": "Hello Hello Sunshine",
       "url": "https://open.spotify.com/track/3nbGeDVAOnZYDCED9a1OyS"
@@ -6854,10 +6890,28 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 89014,
       "name": "Hello River",
       "url": "https://open.spotify.com/track/20U0DqUO6B5S5Zu0FRnYtq"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Cotomo Cats Songs",
+        "url": "https://open.spotify.com/album/4bndyKSEev887W3BPc0v9K"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69141,
+      "name": "Hello to All Our Friends!",
+      "url": "https://open.spotify.com/track/0mc4MlKpY4VXTTaOj3GGJm"
     },
     {
       "album": {
@@ -6978,7 +7032,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 103542,
       "name": "Here We Go 'Round the Pirate Ship",
       "url": "https://open.spotify.com/track/62sXIpqeDQ6a5SUdIZ0Mzy"
@@ -7072,6 +7126,24 @@
       "duration_ms": 134459,
       "name": "Hi I'm Vinny",
       "url": "https://open.spotify.com/track/47NPqdno9acqSv25C8IH3l"
+    },
+    {
+      "album": {
+        "name": "Hi, Hello!",
+        "url": "https://open.spotify.com/album/7ptvBlTw8fMD96H90sWVxs"
+      },
+      "artists": [
+        {
+          "name": "PoppyNoji",
+          "url": "https://open.spotify.com/artist/4iIj9s38VLvCLOS9Os9TGl"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119709,
+      "name": "Hi, Hello!",
+      "url": "https://open.spotify.com/track/5mitAplx9PQM0fKVg6ZkcZ"
     },
     {
       "album": {
@@ -7192,7 +7264,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153135,
       "name": "Hot Coco!",
       "url": "https://open.spotify.com/track/5WHHpj3sug3gX3RhE7ftdm"
@@ -7293,6 +7365,28 @@
     },
     {
       "album": {
+        "name": "How Are You Feeling? (Caitie)",
+        "url": "https://open.spotify.com/album/6UlgtGJiCmRal7geRIlH9O"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122391,
+      "name": "How Are You Feeling? (Caitie)",
+      "url": "https://open.spotify.com/track/5hVmy2r0LOceIsOrbAQbSi"
+    },
+    {
+      "album": {
         "name": "How Big Is The Baby Now?",
         "url": "https://open.spotify.com/album/0c6uVuIDNf6CQr3F5R3SVk"
       },
@@ -7304,7 +7398,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 162673,
       "name": "How Big Is the Baby Now?",
       "url": "https://open.spotify.com/track/1NtcOcVeVsKU8JH3Uru24K"
@@ -7366,7 +7460,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 128501,
       "name": "HUMPTY DUMPTY",
       "url": "https://open.spotify.com/track/6RFWQ0pDewcLYULywlvP7x"
@@ -7516,7 +7610,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135346,
       "name": "I Can Do It",
       "url": "https://open.spotify.com/track/1ddHqcqbyRhjmvF7W5HV3T"
@@ -7538,7 +7632,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 119008,
       "name": "I Can Feel Joy",
       "url": "https://open.spotify.com/track/5RrDhsJ8HAfDVZvXeRSJuD"
@@ -7668,7 +7762,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130629,
       "name": "I Have a Toy",
       "url": "https://open.spotify.com/track/2pDyKDiUqgp3VaAc93pzwK"
@@ -7766,7 +7860,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171502,
       "name": "I Love Affirmations",
       "url": "https://open.spotify.com/track/0jqFg0hKxEyfiW1JzmhgDw"
@@ -7784,7 +7878,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 141984,
       "name": "I Love Being Me",
       "url": "https://open.spotify.com/track/3Ay2EFMr4B36FE9qhCYMTC"
@@ -7892,7 +7986,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 144843,
       "name": "I Love Summer",
       "url": "https://open.spotify.com/track/4DtXEFKlerKYVEIini2874"
@@ -7932,7 +8026,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 89631,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/1h7qgGSPpQSXkKtdpTKWWp"
@@ -7990,7 +8084,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 113800,
       "name": "I Won't Grow Up",
       "url": "https://open.spotify.com/track/1EmQ1XMtFcH1aVzvcXiIOG"
@@ -8226,7 +8320,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 122859,
       "name": "Ice Cream Song",
       "url": "https://open.spotify.com/track/2SUPQqOJm3JfMVVsVdwyKx"
@@ -8364,7 +8458,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 57431,
       "name": "If You're Happy And You Know It",
       "url": "https://open.spotify.com/track/5xwbzsP6pu5fsNRYKuqzjp"
@@ -8382,7 +8476,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 101498,
       "name": "If You're Happy And You Know It",
       "url": "https://open.spotify.com/track/6OnsX1WJJujgH6SuLYRUC7"
@@ -8636,7 +8730,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 142317,
       "name": "It's Ok To Make Mistakes",
       "url": "https://open.spotify.com/track/3byXHDxa7ahwDnyIm1NtCc"
@@ -8654,7 +8748,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 113018,
       "name": "It's Raining It's Pouring",
       "url": "https://open.spotify.com/track/59eZPaKvWJvfAun0BVyfRg"
@@ -8724,7 +8818,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 72027,
       "name": "It's Such a Good Feeling",
       "url": "https://open.spotify.com/track/2g0vBvyHoU5MnL0Evf8CBc"
@@ -9076,7 +9170,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135022,
       "name": "Koala",
       "url": "https://open.spotify.com/track/4ePcUtcqfml4OjjA9zHJZS"
@@ -9164,7 +9258,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 123341,
       "name": "Last Dance - Remix",
       "url": "https://open.spotify.com/track/3NFi6A5AVGKr7o6ZvCRKWm"
@@ -9494,7 +9588,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 112941,
       "name": "Let's Go!",
       "url": "https://open.spotify.com/track/6DvjkISFmzW5ba69F0odYb"
@@ -9594,7 +9688,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 182009,
       "name": "Let's Ride!",
       "url": "https://open.spotify.com/track/4UXz1AQMX8rYbZxAztHsIs"
@@ -9650,7 +9744,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 124634,
       "name": "Let's Take Care Of Animals - Sesame Street Version",
       "url": "https://open.spotify.com/track/6SdHmyXQYq1QOExpklTwBp"
@@ -9756,7 +9850,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169000,
       "name": "Like A Sponge",
       "url": "https://open.spotify.com/track/69WlhkemuX4ZE8yJh6w9ta"
@@ -10235,6 +10329,24 @@
     },
     {
       "album": {
+        "name": "KIDZ BOP 52",
+        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188300,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/0QgfsBEUm79puHnQz8N8OT"
+    },
+    {
+      "album": {
         "name": "Circle Time Songs",
         "url": "https://open.spotify.com/album/6xfQODNKbQ1Z7JLFJ9ubMs"
       },
@@ -10340,7 +10452,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 186000,
       "name": "Magic Words",
       "url": "https://open.spotify.com/track/2kDyYf1ltjSVcMV0rjkyEz"
@@ -10376,7 +10488,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 126034,
       "name": "Magical Birthday Wish",
       "url": "https://open.spotify.com/track/1d96ZT2BOzJyD5A1uWUNqI"
@@ -10804,7 +10916,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 244056,
       "name": "Messy",
       "url": "https://open.spotify.com/track/5QVnZ3YuUSIPaOd4NXeQAb"
@@ -10848,7 +10960,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 85687,
       "name": "Minnie Mouse Clubhouse",
       "url": "https://open.spotify.com/track/5hq3Q1yr5MUmfrCPrHVPeB"
@@ -10874,7 +10986,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 122901,
       "name": "Minnie's Bow-Toons: Pet Hotel Main Title (Extended)",
       "url": "https://open.spotify.com/track/6Ao9bXxOe0h0nT2RcqICkn"
@@ -11052,7 +11164,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 163461,
       "name": "Monster High Fright Song",
       "url": "https://open.spotify.com/track/7hEKlcqyoj3oOH0jtJveIS"
@@ -11196,7 +11308,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 71285,
       "name": "Mush and Mash",
       "url": "https://open.spotify.com/track/5u1WIBWQD9s7kyzWrwom6H"
@@ -11316,7 +11428,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 199010,
       "name": "My Pencil Friend",
       "url": "https://open.spotify.com/track/0mcHdaOASgo7E3uHWTdDg1"
@@ -11396,7 +11508,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170288,
       "name": "My Yellow Car",
       "url": "https://open.spotify.com/track/1niDmaOz2GhJKbFFIRsC8c"
@@ -11468,7 +11580,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 215321,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4kB590QDVAqejZUhbYwBB7"
@@ -11490,7 +11602,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 206426,
       "name": "New Friends",
       "url": "https://open.spotify.com/track/3Tm06C6jxOso0h0Czy62ox"
@@ -11570,7 +11682,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 169756,
       "name": "No, No, Toothbrushing!",
       "url": "https://open.spotify.com/track/3YiH9ewhL9Ng9qn3f2ck9F"
@@ -11636,7 +11748,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 174317,
       "name": "Nutbush City Limits",
       "url": "https://open.spotify.com/track/6meKxORSlsmzlwNdUbEAHD"
@@ -11672,7 +11784,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 210451,
       "name": "Old Lady Who Swallowed a Fly",
       "url": "https://open.spotify.com/track/72APooCmwhKyjlyW8W4z4F"
@@ -12096,7 +12208,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185359,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/7B7jyAgjKouWdhtC78f2Ca"
@@ -12292,6 +12404,24 @@
       "duration_ms": 95440,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "album": {
+        "name": "Peas Song",
+        "url": "https://open.spotify.com/album/3SEZ9LIitbpLkDpnnUJQ9t"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146041,
+      "name": "Peas Song",
+      "url": "https://open.spotify.com/track/5Az23ex8jL7ES3L9tnWOoY"
     },
     {
       "album": {
@@ -12534,7 +12664,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 232245,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/5fy9MJv2mZ11FabsC5vv0x"
@@ -12754,7 +12884,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 147148,
       "name": "Pop the Bubbles",
       "url": "https://open.spotify.com/track/7vAUORLkpXOpr1fk5FdCqV"
@@ -12776,7 +12906,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 145714,
       "name": "Pop Those Bubbles",
       "url": "https://open.spotify.com/track/2jiSDVOU6qmk3Dbl4iwdxw"
@@ -12830,7 +12960,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201537,
       "name": "Powers",
       "url": "https://open.spotify.com/track/4CHmOhXvVg89RzifsrIATY"
@@ -13272,7 +13402,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 122264,
       "name": "Rockstar Kid",
       "url": "https://open.spotify.com/track/5ZxNI13c08AgYNZGbHyD1m"
@@ -13580,7 +13710,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173639,
       "name": "Say the Dance, Boots 'N All",
       "url": "https://open.spotify.com/track/2cbxKKukJnjRKm3celtWbg"
@@ -13620,7 +13750,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 85069,
       "name": "Scoot and Giddy Square Dance",
       "url": "https://open.spotify.com/track/2GFxzp8KXtAcnO9SHT1NvR"
@@ -13656,7 +13786,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 149503,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3XmTDe3I7dt1eoA318YHaC"
@@ -13736,7 +13866,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 92809,
       "name": "Sew Many",
       "url": "https://open.spotify.com/track/6IiZJ2HNTSCPcmzbhobc8F"
@@ -13837,6 +13967,28 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1QjOBAh8XyDUaberJCEVka"
+      },
+      "artists": [
+        {
+          "name": "Nada Swara Gembira",
+          "url": "https://open.spotify.com/artist/5AG0d6HPJu728CuJGIzN7p"
+        },
+        {
+          "name": "Alice Gwen Alice",
+          "url": "https://open.spotify.com/artist/0VACyaHOTPxPh38bLvn70B"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197359,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5E0px5fX38zXPz56tazl50"
+    },
+    {
+      "album": {
         "name": "Shine Like the Sun",
         "url": "https://open.spotify.com/album/6qUpKJPe0VicRiU7JRAz8I"
       },
@@ -13884,7 +14036,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 127594,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/2SmYJVVWf2T8lCjAPPWHBN"
@@ -13964,6 +14116,28 @@
       "duration_ms": 156800,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/0vc6baER4BkEumhyJbIMxd"
+    },
+    {
+      "album": {
+        "name": "Sing It Sisters",
+        "url": "https://open.spotify.com/album/7K7vQnLKOnjMmXjzBgaGRz"
+      },
+      "artists": [
+        {
+          "name": "American Girl",
+          "url": "https://open.spotify.com/artist/5uHa58dlzYkc3Yb0WiFhVL"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155989,
+      "name": "Sing It Sisters",
+      "url": "https://open.spotify.com/track/1z6QzmdFTiXziI5ZQcPzXL"
     },
     {
       "album": {
@@ -14072,7 +14246,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 118883,
       "name": "Skye\u2019s Music Party: Fly With Me",
       "url": "https://open.spotify.com/track/3sVY2WwtyqkvOAmXjbNKxJ"
@@ -14214,7 +14388,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 93100,
       "name": "So Many Ways to Be Me",
       "url": "https://open.spotify.com/track/2aAUutpV0K47Nsv2BmDzOF"
@@ -14272,7 +14446,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 112016,
       "name": "Space Kitty (Meow Meow), Pt. 2",
       "url": "https://open.spotify.com/track/5tH7crBtcAVpCHhZhR0GYj"
@@ -14410,7 +14584,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 128722,
       "name": "Spring Song",
       "url": "https://open.spotify.com/track/5wiSXuqBADIJCK8SajKFOH"
@@ -14506,7 +14680,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 125700,
       "name": "Stay on Track with Yourself - from Stay on Track with Yourself",
       "url": "https://open.spotify.com/track/5elS6CbwjCDpChaFLvY1W3"
@@ -14770,7 +14944,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 84974,
       "name": "Sugar Shack - Sweet Memories",
       "url": "https://open.spotify.com/track/2b8FP82vruDAHHyYQwI1Hn"
@@ -14828,7 +15002,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 239251,
       "name": "Summer's at the Door",
       "url": "https://open.spotify.com/track/4cptByEI5W6e7Ya06MKRlq"
@@ -14922,7 +15096,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 157000,
       "name": "Surprise Eggs with Little Chicks",
       "url": "https://open.spotify.com/track/6s5tqboU2TUb1dZsfAkIfy"
@@ -15076,7 +15250,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 225266,
       "name": "Take Time",
       "url": "https://open.spotify.com/track/66fNlMGZDiMzCYZZKv6i4o"
@@ -15302,7 +15476,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 145680,
       "name": "The Alphabet Jawn (feat. Last BeNeVoLeNcE)",
       "url": "https://open.spotify.com/track/5Z6r91qTPWfCgUi32Lv6ya"
@@ -15444,7 +15618,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 172615,
       "name": "The Breakfast Song",
       "url": "https://open.spotify.com/track/03yiK0Uy9GQrO2NadLPnQf"
@@ -15462,7 +15636,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 99861,
       "name": "The Burp Song",
       "url": "https://open.spotify.com/track/5SYt6orEzqP1qGXB0Dffcs"
@@ -15538,7 +15712,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 145601,
       "name": "The Chicken Nugget Dance",
       "url": "https://open.spotify.com/track/1QJ5vZFk965beURiCYSri6"
@@ -15665,6 +15839,24 @@
     },
     {
       "album": {
+        "name": "KIDZ BOP 52",
+        "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225980,
+      "name": "The Fate Of Ophelia",
+      "url": "https://open.spotify.com/track/7fA5XGWwshca6Un5IPYedY"
+    },
+    {
+      "album": {
         "name": "Blippi And Sesame Street Adventures",
         "url": "https://open.spotify.com/album/2XfdTa9USFOgbnANZzyUco"
       },
@@ -15688,7 +15880,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 132290,
       "name": "The Fire Truck Song - Sesame Street Version",
       "url": "https://open.spotify.com/track/3RI2DOLP1uFEKRJRO9STDM"
@@ -15848,7 +16040,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 185808,
       "name": "The Greatest Song Ever",
       "url": "https://open.spotify.com/track/5ZzwhT8kZOcHbWO99FNvpa"
@@ -16084,7 +16276,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136269,
       "name": "The Muffin Man",
       "url": "https://open.spotify.com/track/15zwD4yHjV8vFQ3FdAvc8m"
@@ -16156,7 +16348,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 33177,
       "name": "The Pinch Pinch Song",
       "url": "https://open.spotify.com/track/7i7vQFvwsIGMijMIMkA3bQ"
@@ -16286,7 +16478,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 116550,
       "name": "The True You",
       "url": "https://open.spotify.com/track/6l1JDWrUOm4zrbKNUN8GuV"
@@ -16322,7 +16514,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153617,
       "name": "The Vowel Song",
       "url": "https://open.spotify.com/track/2oE2ftQm75FFiJjCXAtOaB"
@@ -16380,7 +16572,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 194053,
       "name": "The Wheels On The Bus - Nursery Rhymes Remix",
       "url": "https://open.spotify.com/track/6X4Xo0GH3K5bm2CVObmZLY"
@@ -16402,7 +16594,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 139679,
       "name": "The Wheels On The Bus Go Around And Around - Country Version",
       "url": "https://open.spotify.com/track/0VlFrhq8izvFf6NX1p7U2a"
@@ -16518,7 +16710,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135902,
       "name": "There's a Hole in the Bottom of the Sea",
       "url": "https://open.spotify.com/track/16xHOurL9ECC2mVLvQcAwE"
@@ -16536,7 +16728,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 175588,
       "name": "There's a Little Wheel a-Turning in My Heart",
       "url": "https://open.spotify.com/track/5LxiImAnb0VfGJFxXrU2BJ"
@@ -16739,6 +16931,28 @@
     },
     {
       "album": {
+        "name": "Thread of Hope (in aid of BBC Children In Need)",
+        "url": "https://open.spotify.com/album/7Epwa8teYhcdGEp6IY1fCP"
+      },
+      "artists": [
+        {
+          "name": "Tom Fletcher",
+          "url": "https://open.spotify.com/artist/67WcoPwOngc4ZlJiYpOTad"
+        },
+        {
+          "name": "Buzz Fletcher",
+          "url": "https://open.spotify.com/artist/4uUzUKdP97p6NmbxU3V0Ma"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236842,
+      "name": "Thread of Hope (in aid of BBC Children In Need)",
+      "url": "https://open.spotify.com/track/2PqngWF6F3oLGv0lrvGsBR"
+    },
+    {
+      "album": {
         "name": "Three Little Birds",
         "url": "https://open.spotify.com/album/3oKhc5nP7T8LiJVQtEs1MN"
       },
@@ -16812,7 +17026,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 15849,
       "name": "Time For Lunch! - Sped Up",
       "url": "https://open.spotify.com/track/34qmmERcfAw4YnnvVUPQTO"
@@ -16834,7 +17048,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 177857,
       "name": "Time Out (Willy Wow Remix)",
       "url": "https://open.spotify.com/track/1NqWZVJwL4pce7SMWaoeNk"
@@ -17018,7 +17232,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 115927,
       "name": "Totally Awesome (Theme Song) - From \"Disney Jr. Music: Marvel's Iron Man and His Awesome Friends\"",
       "url": "https://open.spotify.com/track/7HlyhsEHiwqHuyQzR5u1Bl"
@@ -17116,7 +17330,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 134000,
       "name": "Treasure Dance",
       "url": "https://open.spotify.com/track/02Ng5tD1jeHq8JOqMWJunA"
@@ -17138,7 +17352,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 146609,
       "name": "Tree Dada",
       "url": "https://open.spotify.com/track/5gzM3QGZ8XeqYjOV6UbaJh"
@@ -17156,7 +17370,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 120825,
       "name": "Trouble - Skye's Music Party",
       "url": "https://open.spotify.com/track/0k505n3iwGBO1rwn2LyYWk"
@@ -17282,7 +17496,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 118845,
       "name": "Upcycle Song - Skye's Music Party",
       "url": "https://open.spotify.com/track/0x35MbKkvniZFYae3oRBSy"
@@ -17380,7 +17594,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 102799,
       "name": "Veggie Fun",
       "url": "https://open.spotify.com/track/4MdOteUzZV2GDD47lucBSW"
@@ -17956,7 +18170,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 126946,
       "name": "Weather: Sun",
       "url": "https://open.spotify.com/track/3iHcDYrOtb2ekdJdcJ2rfH"
@@ -18004,7 +18218,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 132915,
       "name": "Welcome to the Star Squad!",
       "url": "https://open.spotify.com/track/4AlKCQDOPXAnPe0g2AF3io"
@@ -18200,7 +18414,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130050,
       "name": "Wheels on the Bus (at the Zoo)",
       "url": "https://open.spotify.com/track/4Usdaj6QUoJUnb2r6B7TQ5"
@@ -18222,7 +18436,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 143416,
       "name": "Wheels on the Bus (feat. Paul Wall) (H-Town Remix)",
       "url": "https://open.spotify.com/track/4h530TdFjTGeeoiLwRcY17"
@@ -18276,7 +18490,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136668,
       "name": "When We Go Camping",
       "url": "https://open.spotify.com/track/1k7OW4RrUA3WYMuFHzWh6I"
@@ -18312,7 +18526,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 137653,
       "name": "When You Gotta Go!",
       "url": "https://open.spotify.com/track/7fGSB1U0bwRE5gmAzKNSQ0"
@@ -18486,7 +18700,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 146823,
       "name": "Will it Sink or Will it Float?",
       "url": "https://open.spotify.com/track/5PeXeyKbUX3pqCZmffh1Cw"
@@ -18530,7 +18744,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 112864,
       "name": "With My Heart",
       "url": "https://open.spotify.com/track/2jZoxgal2OBfLmqYtKwHEE"
@@ -18664,7 +18878,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 129287,
       "name": "Yo Ho!",
       "url": "https://open.spotify.com/track/72JPnLrCHhJGVwGw4DuTb0"
@@ -18718,7 +18932,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 193226,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/2r62cCIJG9aTO7Oy4TXiDC"
@@ -18888,7 +19102,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 129582,
       "name": "Yummy Fruits and Vegetables",
       "url": "https://open.spotify.com/track/1Psm4PqedOlGmpOuffZ40n"

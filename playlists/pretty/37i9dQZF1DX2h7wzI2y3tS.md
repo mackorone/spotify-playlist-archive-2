@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h7wzI2y3tS.md) - [plain](/playlists/plain/37i9dQZF1DX2h7wzI2y3tS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2h7wzI2y3tS)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h7wzI2y3tS.md) - [plain](/playlists/plain/37i9dQZF1DX2h7wzI2y3tS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2h7wzI2y3tS)
 
 ### [Berceuses pop](https://open.spotify.com/playlist/37i9dQZF1DX2h7wzI2y3tS)
 
 > Les plus grands hits en version berceuse
 
-[Spotify](https://open.spotify.com/user/spotify) - 948 likes - 144 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 956 likes - 144 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

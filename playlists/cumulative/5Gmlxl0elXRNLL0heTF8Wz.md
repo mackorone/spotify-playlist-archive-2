@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/5Gmlxl0elXRNLL0heTF8Wz.md) - cumulative - [plain](/playlists/plain/5Gmlxl0elXRNLL0heTF8Wz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5Gmlxl0elXRNLL0heTF8Wz)
+[pretty](/playlists/pretty/5Gmlxl0elXRNLL0heTF8Wz.md) - cumulative - [plain](/playlists/plain/5Gmlxl0elXRNLL0heTF8Wz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5Gmlxl0elXRNLL0heTF8Wz)
 
 ### [Classical Sunday Morning](https://open.spotify.com/playlist/5Gmlxl0elXRNLL0heTF8Wz)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZGsHBsK4oa7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZGsHBsK4oa7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZGsHBsK4oa7)
+[pretty](/playlists/pretty/37i9dQZF1DWZGsHBsK4oa7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZGsHBsK4oa7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZGsHBsK4oa7)
 
 ### [Pretty Guardian Sailor Moon](https://open.spotify.com/playlist/37i9dQZF1DWZGsHBsK4oa7)
 

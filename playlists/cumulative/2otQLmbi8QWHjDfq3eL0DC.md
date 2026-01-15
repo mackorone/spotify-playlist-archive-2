@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/2otQLmbi8QWHjDfq3eL0DC.md) - cumulative - [plain](/playlists/plain/2otQLmbi8QWHjDfq3eL0DC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2otQLmbi8QWHjDfq3eL0DC)
+[pretty](/playlists/pretty/2otQLmbi8QWHjDfq3eL0DC.md) - cumulative - [plain](/playlists/plain/2otQLmbi8QWHjDfq3eL0DC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2otQLmbi8QWHjDfq3eL0DC)
 
 ### [HOUSE MUSIC 2026 🪩 100 BEST DANCE HITS 2026](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
 > House Music 2026 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2026 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
 
-439 songs - 21 hr 50 min
+440 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,8 @@
 | [Training Season \- Chloé Caillet Mix](https://open.spotify.com/track/54Csi59aEo0ENBuwIWtTPJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Training Season \(Chloé Caillet Mix\)](https://open.spotify.com/album/0XCixBnX3pucK2merSXAN2) | 4:55 | 2024-04-09 | 2024-04-13 |
 | [Tunes Since '89](https://open.spotify.com/track/2Xzgc9BFT2oONrZcD4EW1Y) | [KING BOOO!](https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9) | [Tunes Since '89](https://open.spotify.com/album/0AsDiRYtn1RhcM2ahzg8La) | 3:40 | 2025-11-21 |  |
 | [Turn Around](https://open.spotify.com/track/3aSdp4rrcCXa1omO9rzDrV) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Turn Around](https://open.spotify.com/album/2lE8Ik8rLu59yhGY77rKWF) | 2:25 | 2024-11-01 | 2025-05-31 |
-| [Turn The Lights Off \(feat\. Jon\)](https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Discolized](https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f) | 2:57 | 2025-12-19 |  |
+| [Turn The Lights Off](https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw) | 2:42 | 2026-01-14 |  |
+| [Turn The Lights Off \(feat\. Jon\)](https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Discolized](https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f) | 2:57 | 2025-12-19 | 2026-01-15 |
 | [Under The Sun \(with Alok\)](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Under The Sun \(with Alok\)](https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I) | 2:45 | 2024-05-31 | 2025-11-22 |
 | [Used to Know Me](https://open.spotify.com/track/6rkcBZ4rSwBVgoROwBsrk8) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:25 | 2023-11-03 | 2024-03-02 |
 | [Utopia \(feat\. Yasmin Jane\)](https://open.spotify.com/track/0wEurOs0e5LEv44l6WCduj) | [Kisch](https://open.spotify.com/artist/5geAjOsxhftVd39yemf4r8), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Utopia \(feat\. Yasmin Jane\)](https://open.spotify.com/album/3EoGzBSb6nJxfUMgcmP4Zm) | 3:01 | 2025-05-02 | 2025-10-04 |

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/134BrsErnfQSw0kgArfYCW.md) - [plain](/playlists/plain/134BrsErnfQSw0kgArfYCW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/134BrsErnfQSw0kgArfYCW)
+pretty - [cumulative](/playlists/cumulative/134BrsErnfQSw0kgArfYCW.md) - [plain](/playlists/plain/134BrsErnfQSw0kgArfYCW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/134BrsErnfQSw0kgArfYCW)
 
 ### [Jaren 90 \- Jaren 90 Hits](https://open.spotify.com/playlist/134BrsErnfQSw0kgArfYCW)
 
 > De Jaren 90 playlist met de grootste jaren 90 hits\. Met o.a\. Craig David, Peter Andre, Daft Punk, Blur en alle andere throwback knijters uit de jaren 90! Foto: The Notorious B.I.G.
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 6,906 likes - 110 songs - 7 hr 34 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 6,903 likes - 110 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/134BrsErnfQSw0kgArfYCW.md) - [plain]
 | 109 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
 | 110 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
 
-Snapshot ID: `AAAHrBDk7ZAPPIL2sI51KFAbpf5pZ4Zo`
+Snapshot ID: `AAAHyiuWdexOKrh954E6ayHoJunDJbJh`

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain](/playlists/plain/37i9dQZF1DX93wmY669mVj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX93wmY669mVj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain](/playlists/plain/37i9dQZF1DX93wmY669mVj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX93wmY669mVj)
 
 ### [This Is Liszt](https://open.spotify.com/playlist/37i9dQZF1DX93wmY669mVj)
 
 > Explore the music of Franz Liszt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,367 likes - 65 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,738 likes - 65 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

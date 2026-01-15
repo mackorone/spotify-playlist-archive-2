@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/4tSzT9BRuf3qRJDbPz4SlS.md) - cumulative - [plain](/playlists/plain/4tSzT9BRuf3qRJDbPz4SlS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4tSzT9BRuf3qRJDbPz4SlS)
+[pretty](/playlists/pretty/4tSzT9BRuf3qRJDbPz4SlS.md) - cumulative - [plain](/playlists/plain/4tSzT9BRuf3qRJDbPz4SlS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4tSzT9BRuf3qRJDbPz4SlS)
 
 ### [Top Picks Romance](https://open.spotify.com/playlist/4tSzT9BRuf3qRJDbPz4SlS)
 

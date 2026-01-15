@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUAh5YAbsFlY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUAh5YAbsFlY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUAh5YAbsFlY)
+[pretty](/playlists/pretty/37i9dQZF1DWUAh5YAbsFlY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUAh5YAbsFlY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUAh5YAbsFlY)
 
 ### [Dancing Queens On The Road \(댄스가수유랑단\)](https://open.spotify.com/playlist/37i9dQZF1DWUAh5YAbsFlY)
 

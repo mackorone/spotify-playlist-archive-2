@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3gzwlIik99M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3gzwlIik99M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3gzwlIik99M)
+[pretty](/playlists/pretty/37i9dQZF1DX3gzwlIik99M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3gzwlIik99M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3gzwlIik99M)
 
 ### [Metal del Nuestro](https://open.spotify.com/playlist/37i9dQZF1DX3gzwlIik99M)
 

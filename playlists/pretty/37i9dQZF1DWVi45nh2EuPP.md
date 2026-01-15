@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain](/playlists/plain/37i9dQZF1DWVi45nh2EuPP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVi45nh2EuPP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain](/playlists/plain/37i9dQZF1DWVi45nh2EuPP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVi45nh2EuPP)
 
 ### [League of Legends NewJeans Takeover](https://open.spotify.com/playlist/37i9dQZF1DWVi45nh2EuPP)
 
 > Curated by NewJeans, featuring their League of Legends Worlds Anthem: "GODS."
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,361 likes - 21 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,371 likes - 21 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain](/playlists/plain/37i9dQZF1DXe4DdBWbLDpG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe4DdBWbLDpG)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain](/playlists/plain/37i9dQZF1DXe4DdBWbLDpG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXe4DdBWbLDpG)
 
 ### [Red Bull Batalla](https://open.spotify.com/playlist/37i9dQZF1DXe4DdBWbLDpG)
 
 > Aczino con el hat\-trick: campeón internacional 2022\. Descubre las mejores batallas, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,146 likes - 70 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,152 likes - 70 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

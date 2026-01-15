@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkU1Q0FTEV.md) - [plain](/playlists/plain/37i9dQZF1DWVPkU1Q0FTEV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVPkU1Q0FTEV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkU1Q0FTEV.md) - [plain](/playlists/plain/37i9dQZF1DWVPkU1Q0FTEV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVPkU1Q0FTEV)
 
 ### [Fatima Hajji's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWVPkU1Q0FTEV)
 
 > <a href="spotify:artist:6jZSXmTCxZhFfYELtp78Ci">Fatima Hajji</a>'s favorite tracks\. Updated regularly\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,097 likes - 71 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,211 likes - 71 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

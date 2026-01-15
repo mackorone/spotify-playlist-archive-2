@@ -147,6 +147,32 @@
     },
     {
       "album": {
+        "name": "2.80",
+        "url": "https://open.spotify.com/album/2aQix5cXkJalYzaCVspI7h"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "iDS",
+          "url": "https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161295,
+      "name": "2.80",
+      "url": "https://open.spotify.com/track/5wGYmTRKyiotQGIJSWHuai"
+    },
+    {
+      "album": {
         "name": "20 Benz",
         "url": "https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE"
       },
@@ -1057,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Billets Mauves (feat. SDM)",
+        "url": "https://open.spotify.com/album/3rkAyXIdYPtoyw7OCZ7WOF"
+      },
+      "artists": [
+        {
+          "name": "Stavo",
+          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207991,
+      "name": "Billets Mauves (feat. SDM)",
+      "url": "https://open.spotify.com/track/3yz9i3umZaQTIlUYb8o6bn"
+    },
+    {
+      "album": {
         "name": "Black Card",
         "url": "https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc"
       },
@@ -1130,7 +1178,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 201103,
       "name": "BLOQU\u00c9",
       "url": "https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD"
@@ -1466,6 +1514,24 @@
       "duration_ms": 120894,
       "name": "C'EST RELOU",
       "url": "https://open.spotify.com/track/5tbdseHNGNzlzcR0uo7epR"
+    },
+    {
+      "album": {
+        "name": "Ngannou/C4",
+        "url": "https://open.spotify.com/album/4vl5vzSync32YfNBjWf3Qa"
+      },
+      "artists": [
+        {
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87272,
+      "name": "C4",
+      "url": "https://open.spotify.com/track/1VZuXCpB6NxPq5B9mHvMxA"
     },
     {
       "album": {
@@ -2540,7 +2606,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 136560,
       "name": "DMX",
       "url": "https://open.spotify.com/track/2chY0AJCRglo7Jdp047d89"
@@ -2816,7 +2882,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 112207,
       "name": "emic flow",
       "url": "https://open.spotify.com/track/6qOG3K8WnsiglhcUhZAxdw"
@@ -3804,7 +3870,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171723,
       "name": "IMPASSE",
       "url": "https://open.spotify.com/track/0Vj1MZkIIuGJ1JxZzNRq2Y"
@@ -4091,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "jfais du son",
+        "url": "https://open.spotify.com/album/4fCuMsxklvnCPTpxTFijSL"
+      },
+      "artists": [
+        {
+          "name": "ver2gris",
+          "url": "https://open.spotify.com/artist/1bQuXvPa6fDhLW5uiGMFe8"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134806,
+      "name": "jfais du son",
+      "url": "https://open.spotify.com/track/7dXFQ6d3n3V5ypYbbZdjlT"
+    },
+    {
+      "album": {
         "name": "Jolie (feat. Ninho)",
         "url": "https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2"
       },
@@ -4150,7 +4234,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 197403,
       "name": "JOYSTICK",
       "url": "https://open.spotify.com/track/30TNVFdZWLIiLHEk0crSoI"
@@ -4310,7 +4394,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 154583,
       "name": "La Belle \u00c9poque",
       "url": "https://open.spotify.com/track/74NDsNxYBAizmb6jTsVnb5"
@@ -4830,6 +4914,24 @@
       "duration_ms": 194443,
       "name": "Malsain et sauf",
       "url": "https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI"
+    },
+    {
+      "album": {
+        "name": "man down",
+        "url": "https://open.spotify.com/album/5hboPejEJjKJ1Pr0mSrgrB"
+      },
+      "artists": [
+        {
+          "name": "63OG",
+          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128503,
+      "name": "man down",
+      "url": "https://open.spotify.com/track/5wXIjuSQ0wxBnATunXtslu"
     },
     {
       "album": {
@@ -6243,6 +6345,24 @@
     },
     {
       "album": {
+        "name": "M.I.L.S 4",
+        "url": "https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190938,
+      "name": "PILIER",
+      "url": "https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU"
+    },
+    {
+      "album": {
         "name": "Ping Pong - Les Ultimes Marches de l'Empereur #3",
         "url": "https://open.spotify.com/album/4Llw1ZtSgFpRXRQppMLm07"
       },
@@ -6574,10 +6694,32 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167111,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/19VUjfhtqUlSZGoTthOA7N"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/0QqCEelRlRRNx5qyzWtOR2"
+      },
+      "artists": [
+        {
+          "name": "DVGZ",
+          "url": "https://open.spotify.com/artist/3usGyJ4tlCYQE0DS21ymHk"
+        },
+        {
+          "name": "HLD",
+          "url": "https://open.spotify.com/artist/2tgTUUrbrQd6iuAjW5BQI7"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110476,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/4eit2JCavrGX76R3AMi9Vb"
     },
     {
       "album": {
@@ -7546,6 +7688,24 @@
       "duration_ms": 120199,
       "name": "St-Lau",
       "url": "https://open.spotify.com/track/556A9uNcU31SkPyJcmZXYS"
+    },
+    {
+      "album": {
+        "name": "STEP BY STEP",
+        "url": "https://open.spotify.com/album/42jfcA0NBZcNxbt6nberih"
+      },
+      "artists": [
+        {
+          "name": "FRE5H",
+          "url": "https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "STEP BY STEP",
+      "url": "https://open.spotify.com/track/17pMpqik7JAw2dedqOSUoc"
     },
     {
       "album": {

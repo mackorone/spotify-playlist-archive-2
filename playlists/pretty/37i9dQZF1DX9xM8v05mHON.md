@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain](/playlists/plain/37i9dQZF1DX9xM8v05mHON) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9xM8v05mHON)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain](/playlists/plain/37i9dQZF1DX9xM8v05mHON) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9xM8v05mHON)
 
 ### [Restaurant Focus Noise](https://open.spotify.com/playlist/37i9dQZF1DX9xM8v05mHON)
 

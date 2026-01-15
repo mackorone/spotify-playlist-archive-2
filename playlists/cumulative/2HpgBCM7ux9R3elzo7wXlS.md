@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/2HpgBCM7ux9R3elzo7wXlS.md) - cumulative - [plain](/playlists/plain/2HpgBCM7ux9R3elzo7wXlS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2HpgBCM7ux9R3elzo7wXlS)
+[pretty](/playlists/pretty/2HpgBCM7ux9R3elzo7wXlS.md) - cumulative - [plain](/playlists/plain/2HpgBCM7ux9R3elzo7wXlS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2HpgBCM7ux9R3elzo7wXlS)
 
 ### [The Kitchen Sink  ](https://open.spotify.com/playlist/2HpgBCM7ux9R3elzo7wXlS)
 
 > All of it
 
-1,096 songs - 2 day 19 hr 11 min
+1,097 songs - 2 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,6 +732,7 @@
 | [PROMOTION](https://open.spotify.com/track/5v1yAVGillOAN3yqJ6pmPL) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:38 | 2025-06-02 |  |
 | [Protect Ya Neck](https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:51 | 2025-06-02 |  |
 | [Psychopathic Nostalgia](https://open.spotify.com/track/3k64IGjnVZNZVUK3vqvzPM) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [CASISDEAD](https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs), [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [MEMORIES FOR SALE \-\-\-AT\-\-\-> 66 GREENE ST SOHO NY](https://open.spotify.com/album/2IABxMR9VTFgVcY9PGiLVZ) | 4:27 | 2025-12-20 | 2025-12-22 |
+| [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-01-08 |  |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2025-06-02 |  |
 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 | 2025-06-02 |  |
 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 4:55 | 2025-06-02 |  |

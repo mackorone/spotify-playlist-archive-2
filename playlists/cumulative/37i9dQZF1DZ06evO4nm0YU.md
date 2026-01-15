@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO4nm0YU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4nm0YU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4nm0YU)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO4nm0YU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4nm0YU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO4nm0YU)
 
 ### [This Is Héctor Lavoe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nm0YU)
 

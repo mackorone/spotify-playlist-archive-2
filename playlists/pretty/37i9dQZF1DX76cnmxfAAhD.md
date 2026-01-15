@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76cnmxfAAhD.md) - [plain](/playlists/plain/37i9dQZF1DX76cnmxfAAhD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX76cnmxfAAhD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76cnmxfAAhD.md) - [plain](/playlists/plain/37i9dQZF1DX76cnmxfAAhD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX76cnmxfAAhD)
 
 ### [90s Road Trip](https://open.spotify.com/playlist/37i9dQZF1DX76cnmxfAAhD)
 
 > 90s jams for the road
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,728 likes - 115 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,331 likes - 115 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain](/playlists/plain/5hnjEy2ZXUZcEcy8jT0Wiw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5hnjEy2ZXUZcEcy8jT0Wiw)
+pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain](/playlists/plain/5hnjEy2ZXUZcEcy8jT0Wiw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/5hnjEy2ZXUZcEcy8jT0Wiw)
 
 ### [Cyberpunk Synthwave](https://open.spotify.com/playlist/5hnjEy2ZXUZcEcy8jT0Wiw)
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,071 likes - 308 songs - 21 hr 24 min
+[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,068 likes - 308 songs - 21 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

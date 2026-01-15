@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kXmLEOGDbL.md) - [plain](/playlists/plain/37i9dQZF1DX6kXmLEOGDbL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6kXmLEOGDbL)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kXmLEOGDbL.md) - [plain](/playlists/plain/37i9dQZF1DX6kXmLEOGDbL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6kXmLEOGDbL)
 
 ### [Chantons avec Barbapapa](https://open.spotify.com/playlist/37i9dQZF1DX6kXmLEOGDbL)
 
 > Retrouvez toutes les chansons du dessin animé culte
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,874 likes - 23 songs - 51 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,901 likes - 23 songs - 51 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

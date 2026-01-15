@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWXfgo3OOonqa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXfgo3OOonqa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXfgo3OOonqa)
+[pretty](/playlists/pretty/37i9dQZF1DWXfgo3OOonqa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXfgo3OOonqa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXfgo3OOonqa)
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
 > håll det 100.
 
-2,143 songs - 3 day 19 hr 39 min
+2,146 songs - 3 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1284,6 +1284,7 @@
 | [MER ÄN EN M](https://open.spotify.com/track/3SvzE8kBBFFXsgcYpUZLlf) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [MER ÄN EN M](https://open.spotify.com/album/2qd9pHzgZaNSeGtGo3YDxs) | 2:47 | 2025-07-17 | 2025-12-30 |
 | [MER ÄN KÄRLEK](https://open.spotify.com/track/3YQFlD7ff3RsP2T2qHVgO7) | [NOËL](https://open.spotify.com/artist/4nUSL3ONua6ReBSIuYDKmf), [ABOW](https://open.spotify.com/artist/3y3dsdD0zyorLGIXds3JrB) | [MER ÄN KÄRLEK](https://open.spotify.com/album/5GyKDkQwLpednSPjYB6PG3) | 2:14 | 2025-03-20 | 2025-06-20 |
 | [Merc](https://open.spotify.com/track/5USbq8FHcFhCDkgsfxW2TK) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [Artie](https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE) | [Merc](https://open.spotify.com/album/0Jh1rsDvZ4xKHnsippfPOJ) | 2:57 | 2023-03-09 | 2023-03-25 |
+| [Mercedes](https://open.spotify.com/track/2ujnWvQCnK2ePZIBqsJTSZ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mercedes](https://open.spotify.com/album/18BVEUTH9Efxkx8qdOlsly) | 2:14 | 2026-01-12 |  |
 | [Mercy](https://open.spotify.com/track/2cUnX7lVce4o1oXgUXQAse) | [Simon Möller](https://open.spotify.com/artist/15ZRRN3qAx08HT0b7FnnkZ), [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI) | [Mercy](https://open.spotify.com/album/5HcCytGnBbXLlu1JZYiuwL) | 2:19 | 2025-05-01 | 2025-07-25 |
 | [Mexico](https://open.spotify.com/track/2bR9oBij6wXJkCMFS0ouvE) | [Rankz](https://open.spotify.com/artist/6w8VGrVtEFZLigAvNZKX7F), [CWOTAI](https://open.spotify.com/artist/5JVELXobPeVHNhy1VXeIyS), [Alex Lopesz](https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH) | [Mexico](https://open.spotify.com/album/6fh3fKUobSVkk2f8b5KPiS) | 3:15 | 2023-01-12 | 2023-01-27 |
 | [Mi Amor](https://open.spotify.com/track/2gwdgwRuor7g0uhYGBFuW0) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Mi Amor](https://open.spotify.com/album/6MIwc2cD9gJEXNhcyKHxuX) | 2:47 | 2025-07-17 | 2025-12-30 |
@@ -1338,6 +1339,7 @@
 | [Mob Style](https://open.spotify.com/track/3gNxh5HZRt6OS1TQRwe2EK) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Mob Style](https://open.spotify.com/album/639YONxz7Qhx6GphGudWl8) | 2:39 | 2025-07-17 | 2025-12-30 |
 | [MODE](https://open.spotify.com/track/0RRhERcWUShqApDwqzkc3J) | [Fungz](https://open.spotify.com/artist/12mbpzyxvmv9X0hEascBqo) | [MODE](https://open.spotify.com/album/25tL1F0rn2MlyUUuHKBegZ) | 2:28 | 2022-02-17 | 2022-03-11 |
 | [Modeller](https://open.spotify.com/track/7svT4ypMkqp7IEltrK5eit) | [Gabbe G](https://open.spotify.com/artist/5V8oJaQyjYmXR8VNVAccbq) | [Modeller](https://open.spotify.com/album/0O4vSqdE9AMFQnbDgsIQ3V) | 1:58 | 2023-01-26 | 2023-02-16 |
+| [MODUS OPERANDI](https://open.spotify.com/track/2CfWCtGmuA1g0zHbTPjHn6) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [MODUS OPERANDI](https://open.spotify.com/album/2x3nkWxM81znnlrj4H7epw) | 2:27 | 2026-01-12 |  |
 | [Molto Bella](https://open.spotify.com/track/5RlTxipuBJCbJoJG48CBQH) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Molto Bella](https://open.spotify.com/album/2iKg8SKdNTsQuPeQ254DMu) | 1:56 | 2023-07-13 | 2023-09-29 |
 | [MON FRÉRE](https://open.spotify.com/track/2C05qOxNv5SCtsgwOMOmgb) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [MON FRÉRE](https://open.spotify.com/album/6ptfYBuCBnjD0Ct1qkdPgz) | 1:33 | 2023-02-13 | 2023-03-10 |
 | [Mon Poto](https://open.spotify.com/track/6lL4o9BcZjXyuqZp9xKb7U) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [Mon Poto](https://open.spotify.com/album/2fPLHdR32lgsisW0JwebbH) | 2:03 | 2025-11-13 |  |
@@ -1381,6 +1383,7 @@
 | [Nattbuss](https://open.spotify.com/track/1kZQyJRQi9PcWwzpPHVxwc) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Nattbuss](https://open.spotify.com/album/64dApoo1lReAnvqcz6CETQ) | 3:26 | 2023-03-30 | 2023-04-28 |
 | [NAYO](https://open.spotify.com/track/5qwm534JejTHrzfbwjq9Va) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [44Drumz](https://open.spotify.com/artist/6xm2KDrJUgHEBvASo7OuHY) | [NAYO](https://open.spotify.com/album/6Q5qKyTjw5pbTq8Tn0bvOt) | 2:26 | 2025-06-26 | 2025-09-19 |
 | [NBA ADAAM](https://open.spotify.com/track/6v9S7qqnbAVccHNPNnyhuq) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Castrox](https://open.spotify.com/artist/7chjfvR31wgzbzz3IVtItO) | [TRAPEN TILL RADION](https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k) | 2:30 | 2023-07-20 | 2023-08-11 |
+| [NEED 4 SPEED](https://open.spotify.com/track/0DhMaTtLqIsytd6JnA3RTn) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew), [LLoke](https://open.spotify.com/artist/6ng8zL1LSR6gntI00mGS2Z) | [NEED 4 SPEED](https://open.spotify.com/album/3J6sAxOR13llUx1Vy4dVZp) | 2:27 | 2026-01-12 |  |
 | [Need Me](https://open.spotify.com/track/6M5dFTT5AeacvIB294I4dI) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Need Me](https://open.spotify.com/album/3dUzDraJwOK931HgcTe3Xb) | 2:43 | 2024-09-05 | 2025-01-24 |
 | [Nere](https://open.spotify.com/track/0eJDlTe9RKCmmA2qbqMHY1) | [C3 Too Loose](https://open.spotify.com/artist/3CfOVsIWSeujbqCxwQTQYA), [Primo Beats](https://open.spotify.com/artist/0ZY9jvE802WiRSAqX8eu3L) | [Nere](https://open.spotify.com/album/1J7cOxPTlmbGS4s1Yq6vi4) | 2:11 | 2022-01-13 | 2022-02-04 |
 | [NERVOUS](https://open.spotify.com/track/02TdJAx7jP57xQZTG4NGV8) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [NERVOUS](https://open.spotify.com/album/36oHp22A3Nmsed2MfrJB1Q) | 2:10 | 2022-09-29 | 2022-11-18 |

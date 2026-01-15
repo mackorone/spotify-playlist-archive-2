@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajdJmP3ZBZI.md) - [plain](/playlists/plain/37i9dQZF1DXajdJmP3ZBZI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajdJmP3ZBZI)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajdJmP3ZBZI.md) - [plain](/playlists/plain/37i9dQZF1DXajdJmP3ZBZI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXajdJmP3ZBZI)
 
 ### [Mixtape \#15 "end of summer playlist by me, kyle maclachlan"](https://open.spotify.com/playlist/37i9dQZF1DXajdJmP3ZBZI)
 
 > a seriously incredible playlist from Kyle MacLachlan to say au revoir to Brat Summer\. Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>\. Welcome to the curators' playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,139 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,364 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

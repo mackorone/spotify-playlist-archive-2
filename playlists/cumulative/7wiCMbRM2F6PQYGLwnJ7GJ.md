@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/7wiCMbRM2F6PQYGLwnJ7GJ.md) - cumulative - [plain](/playlists/plain/7wiCMbRM2F6PQYGLwnJ7GJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7wiCMbRM2F6PQYGLwnJ7GJ)
+[pretty](/playlists/pretty/7wiCMbRM2F6PQYGLwnJ7GJ.md) - cumulative - [plain](/playlists/plain/7wiCMbRM2F6PQYGLwnJ7GJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7wiCMbRM2F6PQYGLwnJ7GJ)
 
 ### [Power Hour \(2\)](https://open.spotify.com/playlist/7wiCMbRM2F6PQYGLwnJ7GJ)
 

@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DX62XsrI0XxvK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX62XsrI0XxvK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX62XsrI0XxvK)
+[pretty](/playlists/pretty/37i9dQZF1DX62XsrI0XxvK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX62XsrI0XxvK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX62XsrI0XxvK)
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Nabila Ellisa, Bianura
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Aziz Hedra
 
-204 songs - 12 hr 8 min
+205 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Hidup Denganmu](https://open.spotify.com/track/3CpIWWHfWWqOuR8wnEPmLh) | [Ardetto](https://open.spotify.com/artist/4ui2mAcv3u153kPNdAWkub), [Yan Flow](https://open.spotify.com/artist/1jcPLrBD4ZgMOCkDfaeNq4) | [Hidup Denganmu](https://open.spotify.com/album/4wogs3ji346jeERxX7jhqe) | 3:05 | 2025-11-20 |  |
 | [How Much Love's at Stake?](https://open.spotify.com/track/6p12a8y5vpkcp7PZa8FFvo) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS), [Grill Dg Lopo](https://open.spotify.com/artist/0wyjg41UeDkSPH2zPawbNb) | [A SINNER WHO WILL DIE SINGING](https://open.spotify.com/album/1GADp4d6kTo2dOuuQQnwVY) | 2:46 | 2025-10-16 |  |
 | [hush](https://open.spotify.com/track/6Dv7W37km5fOeuHdAUdJJD) | [gabsav](https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ) | [hush](https://open.spotify.com/album/25udfmqeT2f2ZrTSt2H9Sa) | 4:34 | 2025-05-15 | 2025-08-29 |
+| [I Don't Know Anymore \(Live Session\)](https://open.spotify.com/track/2sxP2jSVMq59dDj5nVpoTn) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [I Don't Know Anymore \(Live Session\)](https://open.spotify.com/album/7LC8lDS175rIUcWD83IAzo) | 4:23 | 2026-01-08 |  |
 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 | 2025-02-14 | 2025-08-01 |
 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-17 |  |
 | [Ibukota](https://open.spotify.com/track/3qQAJe7GwWt0r4Aa19Jorf) | [Traffic Jam](https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM) | [Ibukota](https://open.spotify.com/album/1LhKzOU1Kxeg2HxrOm6TCS) | 3:30 | 2025-10-02 |  |
@@ -125,7 +126,7 @@
 | [love for u \(❤️4U\)](https://open.spotify.com/track/1cU7aqkCntWTZVcMusnHp1) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [love for u \(❤️4U\)](https://open.spotify.com/album/2mHmxlzaXf0yEuab0Up6wq) | 2:32 | 2024-10-03 | 2025-05-02 |
 | [LOVE ME LIKE YOU](https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [LOVE ME LIKE YOU](https://open.spotify.com/album/0kjnm700HNnAVp3S7TK2n8) | 3:02 | 2024-10-03 |  |
 | [lupa](https://open.spotify.com/track/7B2T9lm0FeFnWRzUK20On9) | [Mark Natama](https://open.spotify.com/artist/6M3LQdDjNTANaCzV7wGqMi) | [Bachelor of Romance](https://open.spotify.com/album/7vPFcG0IZ4tMKdB3lHQpCJ) | 3:50 | 2025-07-03 |  |
-| [Lupa Daratan](https://open.spotify.com/track/0ze5tL5lom0zD3MFrH0Gz3) | [Ticya](https://open.spotify.com/artist/0NbMfuIv1DlbPuBZqqhK27) | [Lupa Daratan](https://open.spotify.com/album/7zqXHDGTJuEkTKiOUyM2sM) | 4:09 | 2025-08-14 |  |
+| [Lupa Daratan](https://open.spotify.com/track/0ze5tL5lom0zD3MFrH0Gz3) | [Ticya](https://open.spotify.com/artist/0NbMfuIv1DlbPuBZqqhK27) | [Lupa Daratan](https://open.spotify.com/album/7zqXHDGTJuEkTKiOUyM2sM) | 4:09 | 2025-08-14 | 2026-01-15 |
 | [Magnet](https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Magnet](https://open.spotify.com/album/1DvGtGi6iUv4QHQIueLWYk) | 3:36 | 2024-10-03 | 2025-11-28 |
 | [Man for Me](https://open.spotify.com/track/7zq0xgNwLdwFacF2gFLPGy) | [Almira Zaky](https://open.spotify.com/artist/62aXcFkYSHe0Kai0CImGyy) | [Man for Me](https://open.spotify.com/album/1yA8bE3pLEMjHuzcHTmdXr) | 2:33 | 2025-05-15 | 2025-10-03 |
 | [Melepaskanmu](https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Melepaskanmu](https://open.spotify.com/album/0JGVfb9f2U1f3Ve7KUxpXz) | 4:10 | 2024-10-03 |  |
@@ -169,11 +170,11 @@
 | [Sampai Kita Jadi Tua](https://open.spotify.com/track/1NnEN2eunhro9y6BMkcGPj) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Sampai Kita Jadi Tua](https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p) | 3:34 | 2024-10-03 | 2025-05-30 |
 | [Satu Hari Tanpa Kita](https://open.spotify.com/track/511lgmyXJ2BApxUU6mKAYd) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Satu Hari Tanpa Kita](https://open.spotify.com/album/0aJ7G5YyWHt2kWG9kOxxKZ) | 4:32 | 2025-07-17 | 2025-11-21 |
 | [Satu Mimpiku](https://open.spotify.com/track/2qdaaqZLXjPbJLj6tfQTiN) | [Anjelia Dom](https://open.spotify.com/artist/7AiZ5XZ49xLKToi5dtQ5lJ), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Satu Mimpiku](https://open.spotify.com/album/7zQZXfqafLRyy1XQoqBS3S) | 3:12 | 2025-06-05 |  |
-| [Say Goodbye](https://open.spotify.com/track/5jtVY2GJNGMLr4HuPQWwKp) | [Elmand](https://open.spotify.com/artist/5Ajt8UGOkZoTRDGA1sqyxz), [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD) | [Say Goodbye](https://open.spotify.com/album/3fG3Pg6tLeTfXlWySGuE1v) | 3:04 | 2025-10-23 |  |
+| [Say Goodbye](https://open.spotify.com/track/5jtVY2GJNGMLr4HuPQWwKp) | [Elmand](https://open.spotify.com/artist/5Ajt8UGOkZoTRDGA1sqyxz), [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD) | [Say Goodbye](https://open.spotify.com/album/3fG3Pg6tLeTfXlWySGuE1v) | 3:04 | 2025-10-23 | 2026-01-15 |
 | [Say It to Yourself](https://open.spotify.com/track/3bXL6zTY3ksmLSLORTVKWT) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Say It to Yourself](https://open.spotify.com/album/4xKwnLQfu2DImY8GQyAkWT) | 3:31 | 2024-12-13 | 2025-08-29 |
 | [Second Chance](https://open.spotify.com/track/6f12obh4QrOW62klTGnr9t) | [Murry Monolite](https://open.spotify.com/artist/4J4ZBGKe41WRtpjggHKKn1) | [WAY BACK \(SINGLE\)](https://open.spotify.com/album/0Im0d1yicUliXkWY30rw5w) | 2:34 | 2025-06-05 | 2025-07-18 |
 | [Sedetik](https://open.spotify.com/track/1pBptkRZaXHrYMprAJsu8i) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Mr\. Menawan](https://open.spotify.com/album/2AFvXQe1WKhDMUkx1PJNn7) | 4:02 | 2024-10-03 | 2025-10-17 |
-| [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-10-03 |  |
+| [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-10-03 | 2026-01-15 |
 | [Senyam\-Senyum](https://open.spotify.com/track/0fLY6LDkqU8UsryD54gFnV) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Senyam\-Senyum](https://open.spotify.com/album/3l1KxK7hYKPoUZWHpFXACB) | 3:51 | 2024-10-03 |  |
 | [Shallow Water](https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Shallow Water](https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI) | 2:43 | 2024-10-03 | 2025-05-02 |
 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 | 2025-05-01 |  |
@@ -188,7 +189,7 @@
 | [Soulless Blues](https://open.spotify.com/track/1p5SEMVpbUdQtvFMEqjTTt) | [Arya Novanda](https://open.spotify.com/artist/7bQ37VC8fmdF36yIIOVIlc), [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Soulless Blues](https://open.spotify.com/album/6Cmj3kEEH6TXtFt3lcCVy5) | 4:40 | 2025-06-26 | 2025-10-24 |
 | [Sour Candy](https://open.spotify.com/track/4EnQxvppOihfeLqRQGgnDQ) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Sour Candy](https://open.spotify.com/album/6AST0741qWPUcJAr2HfsCp) | 3:24 | 2025-07-10 |  |
 | [Space & Time](https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Space & Time](https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir) | 2:53 | 2025-01-23 | 2025-05-30 |
-| [Status Palsu](https://open.spotify.com/track/2Q0glA9LEusp3MlGl26VNS) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [status palsu](https://open.spotify.com/album/5WQQrEyQu8ylwVuWPojX5v) | 3:58 | 2024-10-03 |  |
+| [status palsu](https://open.spotify.com/track/2Q0glA9LEusp3MlGl26VNS) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [status palsu](https://open.spotify.com/album/5WQQrEyQu8ylwVuWPojX5v) | 3:58 | 2024-10-03 |  |
 | [Sujud](https://open.spotify.com/track/6W6ouayFyOk3ugWzMzs0jK) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Sujud](https://open.spotify.com/album/0485ThYj1iYy1yGaa0oUm6) | 3:33 | 2025-02-27 | 2025-11-28 |
 | [Sunday](https://open.spotify.com/track/6bXUFU7a1Oivx4i4CZLxgt) | [Gabriel Prince](https://open.spotify.com/artist/16l5VqPQtbScYq3mi7wGxg) | [Sunday](https://open.spotify.com/album/3XwbOiOuzXmRip1hu3Mlu3) | 3:08 | 2024-10-03 | 2025-05-02 |
 | [Tak Secinta Itu](https://open.spotify.com/track/4PR85M8Le8SBr4fU7CCadz) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Tak Secinta Itu](https://open.spotify.com/album/6l4mo22pd6Mxxq2rViRGOQ) | 4:01 | 2025-08-28 |  |

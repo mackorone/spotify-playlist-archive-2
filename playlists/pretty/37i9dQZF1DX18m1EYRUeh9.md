@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain](/playlists/plain/37i9dQZF1DX18m1EYRUeh9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX18m1EYRUeh9)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain](/playlists/plain/37i9dQZF1DX18m1EYRUeh9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX18m1EYRUeh9)
 
 ### [Rarities](https://open.spotify.com/playlist/37i9dQZF1DX18m1EYRUeh9)
 
 > Smooth indie jazz joints from around the globe\. Cover: Yukimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,023 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,505 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

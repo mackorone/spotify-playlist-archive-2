@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain](/playlists/plain/0kIwz3r2VE9uNuYqS5uGRW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0kIwz3r2VE9uNuYqS5uGRW)
+pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain](/playlists/plain/0kIwz3r2VE9uNuYqS5uGRW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0kIwz3r2VE9uNuYqS5uGRW)
 
 ### [u pwetty](https://open.spotify.com/playlist/0kIwz3r2VE9uNuYqS5uGRW)
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 134 songs - 7 hr 0 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 142 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,13 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 132 | [Eclipse](https://open.spotify.com/track/6HJgZKIv8gGEDqieNRHgi3) | [Jessika Elizalde](https://open.spotify.com/artist/1tMcn5ilxoHnYr2EPjbHlO) | [Eclipse](https://open.spotify.com/album/3dVPaj5gIzyJgbkaMtzAP0) | 3:11 |
 | 133 | [Morena Bella](https://open.spotify.com/track/0hc3xjFAcuHRFIGgHgL09f) | [Onell](https://open.spotify.com/artist/2WHiJLWQrvMhJkqYCndpI1) | [Morena Bella](https://open.spotify.com/album/6BCvJS9b0WoYUb5rZBllYW) | 2:56 |
 | 134 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 |
+| 135 | [System](https://open.spotify.com/track/3ZheEm7LyyHT14Dw9RZxPH) | [Lucío](https://open.spotify.com/artist/1ekLFJV2uRyWkP1j5BIAGu) | [System](https://open.spotify.com/album/0siaSZy3DK0G7Oy19ze8rC) | 3:28 |
+| 136 | [Northwoods](https://open.spotify.com/track/3q9YV0kullF1IIEUoKTadq) | [Simon Alexander](https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA) | [A Place to Call Home](https://open.spotify.com/album/5XnHiDa8vkJc95wnLw74mx) | 3:47 |
+| 137 | [Old Soul](https://open.spotify.com/track/4zoyn0XwZ2MysyRYxNcTCp) | [Herald K](https://open.spotify.com/artist/1rG4pmrcpdK5cmkqFDVXRk) | [Mythologies](https://open.spotify.com/album/4kxNO2xUxABCx3RP6CgpSb) | 3:18 |
+| 138 | [IRS](https://open.spotify.com/track/3IC6BEliAIbqt6cv9yzxWD) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [IRS](https://open.spotify.com/album/3JYd80QtqjS7fw0nZrXBHs) | 4:01 |
+| 139 | [If We Ever Stopped Talking](https://open.spotify.com/track/7gJMxmgGsKdSQkqxFxdAO5) | [S1D333](https://open.spotify.com/artist/6qG3qPtGdzUgV8r6qcppjI) | [If We Ever Stopped Talking](https://open.spotify.com/album/4Yy6yROsIhKb4OY8wqx8sM) | 3:08 |
+| 140 | [If We Ever Stopped Talking](https://open.spotify.com/track/7gJMxmgGsKdSQkqxFxdAO5) | [S1D333](https://open.spotify.com/artist/6qG3qPtGdzUgV8r6qcppjI) | [If We Ever Stopped Talking](https://open.spotify.com/album/4Yy6yROsIhKb4OY8wqx8sM) | 3:08 |
+| 141 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 |
+| 142 | [All Of My Love](https://open.spotify.com/track/1i2JN0ITHgMC3228pFWxVc) | [Shelton](https://open.spotify.com/artist/1CMYnWfZqAPKfA7g43RvtB) | [All Of My Love](https://open.spotify.com/album/4GCzlbQoHRDTkWsjKFIaMV) | 2:54 |
 
-Snapshot ID: `AAAVjApGEQyvwUYUvl+dh03XyDkRYp4I`
+Snapshot ID: `AAAVlAAfmmxAnaNVFuHnsN09ebiXyBen`

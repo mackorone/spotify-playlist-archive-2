@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DWVNqlGoNYpy6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVNqlGoNYpy6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVNqlGoNYpy6)
+[pretty](/playlists/pretty/37i9dQZF1DWVNqlGoNYpy6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVNqlGoNYpy6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVNqlGoNYpy6)
 
 ### [Frieren: Beyond Journey's End](https://open.spotify.com/playlist/37i9dQZF1DWVNqlGoNYpy6)
 
 > Enjoy music from Anime "Frieren"\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
 
-58 songs - 2 hr 31 min
+60 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Life and Legacy](https://open.spotify.com/track/0DwBATQQMO1KXrOlIPt6oW) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:47 | 2024-04-16 |  |
 | [Life Is Worth Living](https://open.spotify.com/track/3d6No9aPavYmsvMmaspbUe) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:12 | 2024-04-16 |  |
 | [Lift My Head From Shadow](https://open.spotify.com/track/3LNKHUtutR1b67kmXDTD8T) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:35 | 2024-04-16 |  |
+| [lulu.](https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [lulu.](https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI) | 4:30 | 2026-01-15 |  |
 | [Memories for My Master](https://open.spotify.com/track/4hlLGBsjnVhfx5dr0HGuv4) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:24 | 2024-04-16 |  |
 | [More Than Mere Tales](https://open.spotify.com/track/62busNTCImp4bT9fHxa2mh) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:27 | 2024-04-16 |  |
 | [New and Dangerous Magic](https://open.spotify.com/track/6l9mWX2k6RnNelUT9sEu6P) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:04 | 2024-04-16 |  |
@@ -57,6 +58,7 @@
 | [The End of One Journey](https://open.spotify.com/track/2iG7ct0j6qKix4shPQpz6b) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \- Original Series Soundtrack EP](https://open.spotify.com/album/1uHhpd4ep36y3qtaIcL1sW) | 1:43 | 2023-12-21 | 2024-04-19 |
 | [The Magic Within](https://open.spotify.com/track/5FF8mOgxM7veYg66bo0372) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:23 | 2024-04-16 |  |
 | [The Party of Heroes Returns](https://open.spotify.com/track/2TCWAQkRBCeJeUD7zR7smV) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 0:45 | 2024-04-16 |  |
+| [The Story of Us](https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV) | 4:27 | 2026-01-15 |  |
 | [Time Flows Ever Onward](https://open.spotify.com/track/3HBaCz1gBfnDZMxwEZGPvz) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \- Original Series Soundtrack EP](https://open.spotify.com/album/1uHhpd4ep36y3qtaIcL1sW) | 2:20 | 2023-12-21 | 2024-04-19 |
 | [Time Flows Ever Onward](https://open.spotify.com/track/3tDf9KhhVIhR43uM0pVc4k) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack〜Pre\-release〜](https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa) | 2:20 | 2023-12-21 |  |
 | [To Travel for Aureole](https://open.spotify.com/track/7u0owvcC7QNGWW6LYuqQE2) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:41 | 2024-04-16 |  |

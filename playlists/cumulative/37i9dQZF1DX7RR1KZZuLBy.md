@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX7RR1KZZuLBy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7RR1KZZuLBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7RR1KZZuLBy)
+[pretty](/playlists/pretty/37i9dQZF1DX7RR1KZZuLBy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7RR1KZZuLBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7RR1KZZuLBy)
 
 ### [Gospel Greatness](https://open.spotify.com/playlist/37i9dQZF1DX7RR1KZZuLBy)
 

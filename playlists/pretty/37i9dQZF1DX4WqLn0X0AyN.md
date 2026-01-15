@@ -1,14 +1,14 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WqLn0X0AyN.md) - [plain](/playlists/plain/37i9dQZF1DX4WqLn0X0AyN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4WqLn0X0AyN)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WqLn0X0AyN.md) - [plain](/playlists/plain/37i9dQZF1DX4WqLn0X0AyN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4WqLn0X0AyN)
 
 ### [Dope Caesar's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX4WqLn0X0AyN)
 
 > <a href="https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL?si=SyuRhRzGRsisgugnfbIUdQ">Dope Caesar</a>'s favorite tracks\. Updated regularly\. Curated by Dope Caesar\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,138 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,539 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shabba Madda Pot](https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Shabba Madda Pot \- Single](https://open.spotify.com/album/6blB91ubI6Ul0TFz6X2Non) | 2:22 |
+| 1 | [Shabba Madda Pot](https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Daseca](https://open.spotify.com/artist/4bTPICxfdk6NnzLH7HGgiX) | [Shabba Madda Pot](https://open.spotify.com/album/6blB91ubI6Ul0TFz6X2Non) | 2:22 |
 | 2 | [Shake It To The Max \(FLY\)](https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\)](https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG) | 2:07 |
 | 3 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 4 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |

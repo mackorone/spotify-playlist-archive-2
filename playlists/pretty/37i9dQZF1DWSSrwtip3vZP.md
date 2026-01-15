@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain](/playlists/plain/37i9dQZF1DWSSrwtip3vZP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSSrwtip3vZP)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain](/playlists/plain/37i9dQZF1DWSSrwtip3vZP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSSrwtip3vZP)
 
 ### [study mode](https://open.spotify.com/playlist/37i9dQZF1DWSSrwtip3vZP)
 
 > music to help you \~ focus \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,232 likes - 66 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,011 likes - 66 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

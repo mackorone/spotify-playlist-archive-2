@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX0TD2wVgaeIq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0TD2wVgaeIq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0TD2wVgaeIq)
+[pretty](/playlists/pretty/37i9dQZF1DX0TD2wVgaeIq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0TD2wVgaeIq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX0TD2wVgaeIq)
 
 ### [Relaxing Ragas](https://open.spotify.com/playlist/37i9dQZF1DX0TD2wVgaeIq)
 
@@ -12,7 +12,7 @@
 | [A Summer Storm](https://open.spotify.com/track/17sRymzBu6aQ0SLGJewZA8) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [A Summer Storm](https://open.spotify.com/album/6Q9bJM8sKEeGi4dxDvzRD6) | 5:02 | 2025-05-21 |  |
 | [Acceptance](https://open.spotify.com/track/2Qc1cWzUBOJgnXH1MSjV5h) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Calming Bansuri](https://open.spotify.com/album/3sVxXZRKlXWDdI1HZRKyk3) | 8:39 | 2023-03-09 | 2023-10-06 |
 | [Acceptance](https://open.spotify.com/track/1ZbZSSYeOULYN4ciTmw3tm) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Acceptance](https://open.spotify.com/album/1NfHAgXOY9Lk1eBdXix82J) | 8:33 | 2023-03-09 |  |
-| [Adhyatmik Yoddha](https://open.spotify.com/track/7CIuiUdqH1apSTP9nZ0FQZ) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Adhyatmik Yoddha](https://open.spotify.com/album/2YAsxQ2rTnGWm46Xcu5k4B) | 5:05 | 2025-04-11 |  |
+| [Adhyatmik Yoddha](https://open.spotify.com/track/7CIuiUdqH1apSTP9nZ0FQZ) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Adhyatmik Yoddha](https://open.spotify.com/album/2YAsxQ2rTnGWm46Xcu5k4B) | 5:05 | 2025-04-11 | 2026-01-15 |
 | [Anarkali](https://open.spotify.com/track/6XjsTOdtCJqn50W7ouvXAq) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Temple Leaves](https://open.spotify.com/album/4FgFJmKNa2omZgJxpybnkP) | 5:00 | 2023-03-09 |  |
 | [Antar Naad \(Call Within\)](https://open.spotify.com/track/1NkhkjIxfLcXeQoQ21a6M4) | [Rajendra Teredesai](https://open.spotify.com/artist/2ny041Q4aafztLPkWWDdjj) | [Divine Dimension: Bansuri Flute Meditiations](https://open.spotify.com/album/52xllW6ZS3dpNm8uwO41JV) | 6:43 | 2024-01-19 | 2024-04-19 |
 | [Antar Naad \(Call Within\)](https://open.spotify.com/track/38XSfEdIVskgPWJC9wVMEC) | [Rajendra Teredesai](https://open.spotify.com/artist/2ny041Q4aafztLPkWWDdjj) | [Divine Dimension: Bansuri Flute Meditiations](https://open.spotify.com/album/2YSY3H6O2NQimEDtBY90UH) | 6:43 | 2024-03-26 |  |
@@ -43,7 +43,7 @@
 | [Deep Flow](https://open.spotify.com/track/41ZFBglfLk0bDXJ0MEYByG) | [Liam Eira](https://open.spotify.com/artist/0DcmehohVqz1uugEjY6thE) | [Deep Flow](https://open.spotify.com/album/5dY2bx3BPxV3BMgLBvgv2Z) | 2:37 | 2025-11-11 |  |
 | [Devadas](https://open.spotify.com/track/0Pqi77dqawuAJ1nZdkYL3D) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Aincekoko](https://open.spotify.com/album/65p9RMfayrjN3A1zduAvca) | 4:19 | 2023-03-09 |  |
 | [Dhoop Ki Chhaya](https://open.spotify.com/track/2SYQtdGm5JTUkR9NCCTNtD) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Dhoop Ki Chhaya](https://open.spotify.com/album/6suhkX5lbqhV3ol8kTOius) | 4:34 | 2024-07-18 |  |
-| [Dil Se Dhundho](https://open.spotify.com/track/3hzALxNEWvZG9UGI3m1iVi) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Dil Se Dhundho](https://open.spotify.com/album/68v7KghBf3Eyni2bNpUjMm) | 3:50 | 2023-08-24 |  |
+| [Dil Se Dhundho](https://open.spotify.com/track/3hzALxNEWvZG9UGI3m1iVi) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Dil Se Dhundho](https://open.spotify.com/album/68v7KghBf3Eyni2bNpUjMm) | 3:50 | 2023-08-24 | 2026-01-15 |
 | [Double Horizons](https://open.spotify.com/track/1DwvLv2ri6jasV9nZ0bpb3) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Double Horizons](https://open.spotify.com/album/6Ba5vyGVEhNu0zur5l9jlX) | 2:50 | 2025-07-24 |  |
 | [Dreamy Sunsets](https://open.spotify.com/track/6EUsKAcQcCb01FKohlY1Cd) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Dreamy Sunsets](https://open.spotify.com/album/7ggkVAR9fFqLJFhOR0rhfx) | 6:39 | 2023-03-09 |  |
 | [Dreamyness](https://open.spotify.com/track/0bHE2MBLK0BGpYIFklFILd) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Dreamyness](https://open.spotify.com/album/5TYDxt0ftsFpcLtfQIMvhm) | 3:18 | 2023-03-09 |  |

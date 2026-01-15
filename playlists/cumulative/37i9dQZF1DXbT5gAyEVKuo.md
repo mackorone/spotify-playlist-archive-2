@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbT5gAyEVKuo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbT5gAyEVKuo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbT5gAyEVKuo)
+[pretty](/playlists/pretty/37i9dQZF1DXbT5gAyEVKuo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbT5gAyEVKuo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbT5gAyEVKuo)
 
 ### [Gospel Worship](https://open.spotify.com/playlist/37i9dQZF1DXbT5gAyEVKuo)
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Charlie Weems
 
-233 songs - 1 day 1 hr 14 min
+234 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,11 +90,12 @@
 | [He Is](https://open.spotify.com/track/1HVYkNyIsnwwPZeYzGGsja) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8) | 4:47 | 2023-02-18 | 2024-04-19 |
 | [He Is](https://open.spotify.com/track/7euxCHA7OHB8L4dgvhgpKY) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx) | 4:47 | 2021-06-12 | 2022-07-27 |
 | [He Is](https://open.spotify.com/track/7qFOUqL4zWEXKSTzV1VMjr) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT) | 4:47 | 2021-06-12 | 2023-12-24 |
+| [He Will Provide](https://open.spotify.com/track/6Ej9JXSMgBATGtAwQq3HTb) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [He Will Provide](https://open.spotify.com/album/4uMDmd8DPzOkSKMP3CgBuo) | 5:56 | 2026-01-10 |  |
 | [He Won't \(Worship Medley\)](https://open.spotify.com/track/0zGdGRc5Cv0b89wx3HfiNn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [He Won't \(Worship Medley\)](https://open.spotify.com/album/04pSAhuoZGv9xW2mdTwbgR) | 11:49 | 2025-04-11 |  |
 | [He'll Take The Pain Away \- Live](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 | 2021-06-12 | 2024-11-30 |
 | [Highest Are You](https://open.spotify.com/track/5WSWiZmyYaxCgj7LacvhNg) | [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Highest Are You](https://open.spotify.com/album/5x183jEoCnA6538OMGEUvh) | 5:30 | 2024-11-29 |  |
 | [Holy Spirit](https://open.spotify.com/track/5G80Slm9gl5Y372d0suB05) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Holy Spirit](https://open.spotify.com/album/6sBgLVd4wshumVIIZJmEL5) | 3:43 | 2025-02-22 | 2025-03-15 |
-| [Hosanna \(Blessed Be The Rock\) \- Live](https://open.spotify.com/track/6XtWJyxmugTdmrjGp7Rzof) | [Randy Weston](https://open.spotify.com/artist/6rBxU46le6jDmzkYLD3FVN), [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Testimony Service \(Live\)](https://open.spotify.com/album/3buwWGl7lXHzTBypWohXx0) | 4:09 | 2024-06-24 |  |
+| [Hosanna \(Blessed Be The Rock\) \- Live](https://open.spotify.com/track/6XtWJyxmugTdmrjGp7Rzof) | [Randy Weston](https://open.spotify.com/artist/6rBxU46le6jDmzkYLD3FVN), [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Testimony Service \(Live\)](https://open.spotify.com/album/3buwWGl7lXHzTBypWohXx0) | 4:09 | 2024-06-24 | 2026-01-15 |
 | [How Good \- Live](https://open.spotify.com/track/2EW7VIhw1QPBklP6MIlGTi) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0) | [How Good \(Live\)](https://open.spotify.com/album/2O5Vnb6z2TBONz8ZFtr0Qw) | 5:50 | 2025-03-14 | 2025-05-17 |
 | [Hunger and Thirst](https://open.spotify.com/track/3bdgU93NNzQ9MXuaIwRpCt) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [King Fred Paul](https://open.spotify.com/artist/1HcI99z6RGJeUjfCnArj0O) | [Hunger and Thirst](https://open.spotify.com/album/4EaZOuMBPZPB8ao92QQMR1) | 5:16 | 2025-12-12 |  |
 | [I Do Worship \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [The Essential John P\. Kee](https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy) | 5:26 | 2021-06-12 | 2024-11-30 |

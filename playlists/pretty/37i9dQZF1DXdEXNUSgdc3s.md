@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain](/playlists/plain/37i9dQZF1DXdEXNUSgdc3s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdEXNUSgdc3s)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain](/playlists/plain/37i9dQZF1DXdEXNUSgdc3s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdEXNUSgdc3s)
 
 ### [Binaural Beats: Relaxation](https://open.spotify.com/playlist/37i9dQZF1DXdEXNUSgdc3s)
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,801 likes - 108 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,262 likes - 108 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

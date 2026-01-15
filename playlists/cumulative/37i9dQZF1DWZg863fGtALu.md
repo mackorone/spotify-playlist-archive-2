@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWZg863fGtALu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZg863fGtALu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZg863fGtALu)
+[pretty](/playlists/pretty/37i9dQZF1DWZg863fGtALu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZg863fGtALu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZg863fGtALu)
 
 ### [Summer Throwbacks \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWZg863fGtALu)
 

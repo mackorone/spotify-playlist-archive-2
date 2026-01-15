@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/1scnlLVq91NGtsA9sh0hfw.md) - cumulative - [plain](/playlists/plain/1scnlLVq91NGtsA9sh0hfw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1scnlLVq91NGtsA9sh0hfw)
+[pretty](/playlists/pretty/1scnlLVq91NGtsA9sh0hfw.md) - cumulative - [plain](/playlists/plain/1scnlLVq91NGtsA9sh0hfw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1scnlLVq91NGtsA9sh0hfw)
 
 ### [Nicholas Sparks \| Songs from the Soundtracks](https://open.spotify.com/playlist/1scnlLVq91NGtsA9sh0hfw)
 

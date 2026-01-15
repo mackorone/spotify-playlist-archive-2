@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/6fio8empOCjnGLiR7Q5YiH.md) - cumulative - [plain](/playlists/plain/6fio8empOCjnGLiR7Q5YiH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6fio8empOCjnGLiR7Q5YiH)
+[pretty](/playlists/pretty/6fio8empOCjnGLiR7Q5YiH.md) - cumulative - [plain](/playlists/plain/6fio8empOCjnGLiR7Q5YiH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6fio8empOCjnGLiR7Q5YiH)
 
 ### [Tantrum\-Taming Road Trip Tunes](https://open.spotify.com/playlist/6fio8empOCjnGLiR7Q5YiH)
 

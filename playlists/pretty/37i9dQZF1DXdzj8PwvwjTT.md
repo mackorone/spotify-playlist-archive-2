@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzj8PwvwjTT.md) - [plain](/playlists/plain/37i9dQZF1DXdzj8PwvwjTT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdzj8PwvwjTT)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzj8PwvwjTT.md) - [plain](/playlists/plain/37i9dQZF1DXdzj8PwvwjTT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdzj8PwvwjTT)
 
 ### [Year In Metal 2015](https://open.spotify.com/playlist/37i9dQZF1DXdzj8PwvwjTT)
 

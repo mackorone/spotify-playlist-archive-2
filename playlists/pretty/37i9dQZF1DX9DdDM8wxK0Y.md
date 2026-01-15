@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DdDM8wxK0Y.md) - [plain](/playlists/plain/37i9dQZF1DX9DdDM8wxK0Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9DdDM8wxK0Y)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DdDM8wxK0Y.md) - [plain](/playlists/plain/37i9dQZF1DX9DdDM8wxK0Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9DdDM8wxK0Y)
 
 ### [Hip\-Hop Throwbacks](https://open.spotify.com/playlist/37i9dQZF1DX9DdDM8wxK0Y)
 
 > Classic hip\-hop videos\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,119 likes - 45 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,918 likes - 45 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DdDM8wxK0Y.md) - [plain]
 | 44 | [Aston Martin Music](https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 4:30 |
 | 45 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 4K Remaster](https://open.spotify.com/track/1L2FHWnRjxXhFuIsiPDVhx) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \[4K Remaster\]](https://open.spotify.com/album/6zdyiCErkQoHGlYCRysRBd) | 5:47 |
 
-Snapshot ID: `AAAAABqobx7K2sY40zrGWqmAcO4OzVhX`
+Snapshot ID: `AAAAABNujshNdfsvXukiUIcJe94XS8fB`

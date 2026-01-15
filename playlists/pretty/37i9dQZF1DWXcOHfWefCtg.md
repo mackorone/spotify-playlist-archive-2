@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain](/playlists/plain/37i9dQZF1DWXcOHfWefCtg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXcOHfWefCtg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain](/playlists/plain/37i9dQZF1DWXcOHfWefCtg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXcOHfWefCtg)
 
 ### [Soulful Christmas](https://open.spotify.com/playlist/37i9dQZF1DWXcOHfWefCtg)
 
 > Soulful takes on all your Holiday favorites\. Cover: Devon Gilfillian
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,801 likes - 71 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,654 likes - 71 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

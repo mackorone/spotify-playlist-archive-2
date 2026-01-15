@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain](/playlists/plain/37i9dQZF1DWVEcPtggpQMu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVEcPtggpQMu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain](/playlists/plain/37i9dQZF1DWVEcPtggpQMu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVEcPtggpQMu)
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
 > Only the hottest South African rap\. <br/>Cover: Emtee
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,777 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,195 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 6 | [HUSH](https://open.spotify.com/track/6XtxJYTo8YRCspzt8nvnu5) | [Sonwabile](https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry) | [7](https://open.spotify.com/album/4pZat2TwB5oPrwvNkVkslt) | 2:33 |
 | 7 | [GOBELA](https://open.spotify.com/track/7puq4BGI8373UmiKWEdlk3) | [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D) | [GOBELA](https://open.spotify.com/album/63iobNstF0sK6ird6lDYBL) | 2:53 |
 | 8 | [Today is a good day](https://open.spotify.com/track/2IOiEhA8VTT4gwel9HgJuu) | [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [BEFORE THE WORST](https://open.spotify.com/album/5ZZSx6ZZkhqHGLM1U87ize) | 2:30 |
-| 9 | [Ke Wave](https://open.spotify.com/track/6Eh0cVGv6rTO00HPgpKAom) | [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [Ke Wave](https://open.spotify.com/album/4e1RJVstlcaGkzGOgjRnBU) | 2:53 |
+| 9 | [KE WAVE \(feat\. Brotherkupa\)](https://open.spotify.com/track/6Eh0cVGv6rTO00HPgpKAom) | [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [KE WAVE \(feat\. Brotherkupa\)](https://open.spotify.com/album/4e1RJVstlcaGkzGOgjRnBU) | 2:53 |
 | 10 | [IZONO](https://open.spotify.com/track/5oQDXT9KgV0jSKvcJ47apI) | [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Jepedoh](https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ), [Dahoodhope](https://open.spotify.com/artist/1ngdocoXiu79LWVx5syMLd), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [IZONO](https://open.spotify.com/album/47F6PZTc6gT7pD415MoD9h) | 2:47 |
 | 11 | [Mabulala Amakhosi](https://open.spotify.com/track/4SJh72AVSRZrVqbsYDM5Ez) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn) | [Mabulala Amakhosi](https://open.spotify.com/album/4sMsYEMw8Na5F0BlvBiKSq) | 2:48 |
 | 12 | [The World Is Yours](https://open.spotify.com/track/5dJ60tQj97cP7VnrkrY5Wo) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Mambisa Golden Boy](https://open.spotify.com/album/3rNS7edsfSXxLeb4z1XoyG) | 3:39 |

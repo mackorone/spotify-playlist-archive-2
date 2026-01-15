@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain](/playlists/plain/37i9dQZF1DWT46DLgeBxAh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT46DLgeBxAh)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain](/playlists/plain/37i9dQZF1DWT46DLgeBxAh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWT46DLgeBxAh)
 
 ### [La Posada Navideña](https://open.spotify.com/playlist/37i9dQZF1DWT46DLgeBxAh)
 
 > dale dale dale no pierdas el tino, porque si lo pierdes pierdes el camino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,074 likes - 150 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,785 likes - 150 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXccKkcayc3Ru.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXccKkcayc3Ru) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXccKkcayc3Ru)
+[pretty](/playlists/pretty/37i9dQZF1DXccKkcayc3Ru.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXccKkcayc3Ru) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXccKkcayc3Ru)
 
 ### [BUZZY NOISE バジーノイズ](https://open.spotify.com/playlist/37i9dQZF1DXccKkcayc3Ru)
 

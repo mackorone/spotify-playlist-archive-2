@@ -450,7 +450,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 130063,
       "name": "All I Wanna",
       "url": "https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 199973,
       "name": "CWWDBI",
       "url": "https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y"
@@ -8362,7 +8362,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 195100,
       "name": "Party People",
       "url": "https://open.spotify.com/track/2ABnWO87LfxTHsj2dewC7X"
@@ -8548,7 +8548,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 133846,
       "name": "Play With Me",
       "url": "https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7"
@@ -8788,7 +8788,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 244755,
       "name": "Promise",
       "url": "https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz"
@@ -9270,6 +9270,28 @@
       "duration_ms": 173419,
       "name": "RIDE IT",
       "url": "https://open.spotify.com/track/2WhugaeaAmlt3vq27svNK8"
+    },
+    {
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/7h45Gkcf7cNpqwKhYMO8vh"
+      },
+      "artists": [
+        {
+          "name": "Niels Van Gogh",
+          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
+        },
+        {
+          "name": "Mashmex",
+          "url": "https://open.spotify.com/artist/1AX9WyrNOT1POMpQQWZhQ7"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146958,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/11ocj2KboECoDJrQJgN0GW"
     },
     {
       "album": {
@@ -9808,7 +9830,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 148083,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/0bRzCl937W9PlTCknGfcW8"
@@ -9862,7 +9884,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 153490,
       "name": "Silence",
       "url": "https://open.spotify.com/track/73fb8ruS8vEYXKVLvrEeWm"
@@ -12310,7 +12332,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 135217,
       "name": "Wish You Were Mine",
       "url": "https://open.spotify.com/track/7Iv98VYt9YNFtDljHaZbx6"
@@ -12596,7 +12618,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 275244,
       "name": "Yoyoyo",
       "url": "https://open.spotify.com/track/3mjpUhSiUbEvaPdxikuEZI"

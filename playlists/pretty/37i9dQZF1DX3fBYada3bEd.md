@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fBYada3bEd.md) - [plain](/playlists/plain/37i9dQZF1DX3fBYada3bEd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3fBYada3bEd)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fBYada3bEd.md) - [plain](/playlists/plain/37i9dQZF1DX3fBYada3bEd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3fBYada3bEd)
 
 ### [On The Farm](https://open.spotify.com/playlist/37i9dQZF1DX3fBYada3bEd)
 
 > Sing along to these tunes about everything you can find on the farm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,648 likes - 59 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,646 likes - 59 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

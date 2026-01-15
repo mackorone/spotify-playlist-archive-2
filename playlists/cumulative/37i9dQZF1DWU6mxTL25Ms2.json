@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 293493,
       "name": "BLAZE",
       "url": "https://open.spotify.com/track/1Lz3m4EVjCiXlbyNWqzS25"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 284266,
       "name": "Lucky Comes True! - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/5V3ooILkQ076X0jWHQTkkb"
@@ -998,6 +998,24 @@
       "duration_ms": 260173,
       "name": "Special Record! - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/1BJiiYGFS0CgRpdYjnOO4r"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Series 15th Anniversary Tribute Album",
+        "url": "https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242720,
+      "name": "START!! True dreams",
+      "url": "https://open.spotify.com/track/19vnmCWWf8QK0vYnAz8nlh"
     },
     {
       "album": {
@@ -2368,6 +2386,32 @@
       "duration_ms": 343640,
       "name": "\u5927\u597d\u304d\u306e\u30bf\u30ab\u30e9\u30d0\u30b3 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/4s3OSikjCn2TBGIj9Clbd2"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 04 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/3rtJYpIavHah5Qqf8dfcQ4"
+      },
+      "artists": [
+        {
+          "name": "\u30bf\u30a4\u30ad\u30b7\u30e3\u30c8\u30eb (CV. \u5927\u576a\u7531\u4f73)",
+          "url": "https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz"
+        },
+        {
+          "name": "\u30b0\u30e9\u30b9\u30ef\u30f3\u30c0\u30fc (CV. \u524d\u7530\u73b2\u5948)",
+          "url": "https://open.spotify.com/artist/613a940AwltjxfJv9vqBgG"
+        },
+        {
+          "name": "\u30d2\u30b7\u30a2\u30de\u30be\u30f3 (CV. \u5dfd \u60a0\u8863\u5b50)",
+          "url": "https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "\u5947\u8de1\u3092\u4fe1\u3058\u3066\uff01 - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/6hBMq427uQ8vzcR1xmbiCm"
     },
     {
       "album": {

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwil4x9oaqi.md) - [plain](/playlists/plain/37i9dQZF1DXbwil4x9oaqi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbwil4x9oaqi)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwil4x9oaqi.md) - [plain](/playlists/plain/37i9dQZF1DXbwil4x9oaqi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbwil4x9oaqi)
 
 ### [LE SSERAFIM WORLD TOUR \[EASY CRAZY HOT\]](https://open.spotify.com/playlist/37i9dQZF1DXbwil4x9oaqi)
 
 > Enjoy the LE SSERAFIM WORLD TOUR \[EASY CRAZY HOT\] LIVE SET including the voices of them on stage! \(LE SSERAFIM의 무대 멘트와 목소리가 포함된 \[EASY CRAZY HOT\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,469 likes - 36 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,439 likes - 36 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

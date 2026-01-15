@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain](/playlists/plain/37i9dQZF1DX8Sz1gsYZdwj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Sz1gsYZdwj)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain](/playlists/plain/37i9dQZF1DX8Sz1gsYZdwj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8Sz1gsYZdwj)
 
 ### [Classical Sleep](https://open.spotify.com/playlist/37i9dQZF1DX8Sz1gsYZdwj)
 
 > Drift off to these peaceful classical melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,265 likes - 121 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,397 likes - 121 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

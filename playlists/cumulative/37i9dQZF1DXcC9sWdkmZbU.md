@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcC9sWdkmZbU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcC9sWdkmZbU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcC9sWdkmZbU)
+[pretty](/playlists/pretty/37i9dQZF1DXcC9sWdkmZbU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcC9sWdkmZbU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcC9sWdkmZbU)
 
 ### [Christian & Gospel Kids](https://open.spotify.com/playlist/37i9dQZF1DXcC9sWdkmZbU)
 

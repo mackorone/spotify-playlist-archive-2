@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain](/playlists/plain/37i9dQZF1DXbeoH5duhVIK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbeoH5duhVIK)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain](/playlists/plain/37i9dQZF1DXbeoH5duhVIK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbeoH5duhVIK)
 
 ### [Sex/Life Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbeoH5duhVIK)
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,510 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,599 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

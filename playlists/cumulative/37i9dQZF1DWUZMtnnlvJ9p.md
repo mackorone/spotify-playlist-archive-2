@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUZMtnnlvJ9p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUZMtnnlvJ9p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUZMtnnlvJ9p)
+[pretty](/playlists/pretty/37i9dQZF1DWUZMtnnlvJ9p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUZMtnnlvJ9p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUZMtnnlvJ9p)
 
 ### [The Ultimate Hit Mix](https://open.spotify.com/playlist/37i9dQZF1DWUZMtnnlvJ9p)
 

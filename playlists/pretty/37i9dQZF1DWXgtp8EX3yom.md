@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain](/playlists/plain/37i9dQZF1DWXgtp8EX3yom) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXgtp8EX3yom)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain](/playlists/plain/37i9dQZF1DWXgtp8EX3yom) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXgtp8EX3yom)
 
 ### [Polskie hity 2025](https://open.spotify.com/playlist/37i9dQZF1DWXgtp8EX3yom)
 
 > Największe polskie przeboje w 2025 według naszej redakcji\. Cover: Kuban, Zalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,323 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,602 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

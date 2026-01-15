@@ -1,10 +1,10 @@
-[pretty](/playlists/pretty/37i9dQZF1DXdvqwwMRhV5l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdvqwwMRhV5l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdvqwwMRhV5l)
+[pretty](/playlists/pretty/37i9dQZF1DXdvqwwMRhV5l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdvqwwMRhV5l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdvqwwMRhV5l)
 
 ### [00's Allerbeste](https://open.spotify.com/playlist/37i9dQZF1DXdvqwwMRhV5l)
 
 > Allerbeste songs uit de 00's! Cover: Dinand Woesthoff \(Kane\)
 
-101 songs - 6 hr 36 min
+102 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Something](https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Some Things](https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h) | 3:40 | 2024-07-19 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 | 2024-07-19 |  |
 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 | 2024-07-19 |  |
-| [Summer Jam 2003 \- Remix](https://open.spotify.com/track/6eQQLxpKeoNqwT90zSD4Em) | [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb), [Summermix](https://open.spotify.com/artist/4u4Kde9i4PU3IeJpfAHpCx) | [Remix Hits, Vol.1](https://open.spotify.com/album/6W8E52skHCswgx7R4hfTgb) | 3:49 | 2024-07-19 |  |
+| [Summer Jam 2003 \- Remix](https://open.spotify.com/track/6eQQLxpKeoNqwT90zSD4Em) | [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb), [Summermix](https://open.spotify.com/artist/4u4Kde9i4PU3IeJpfAHpCx) | [Remix Hits, Vol.1](https://open.spotify.com/album/6W8E52skHCswgx7R4hfTgb) | 3:49 | 2024-07-19 | 2026-01-15 |
 | [Sunrise](https://open.spotify.com/track/37mk7t1x4VmKmmqgRU8E2w) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [The Greatest Hits](https://open.spotify.com/album/2c6noDMQYGkc2gMkg3F0gI) | 3:19 | 2024-07-19 |  |
 | [Supergirl](https://open.spotify.com/track/3FhNJaCNypOAnZccdYGAWN) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Tuesday](https://open.spotify.com/album/7JOqKKTUoGSJKjHWcVV7QE) | 4:06 | 2024-07-19 |  |
 | [Supreme](https://open.spotify.com/track/7rQiW2mJDbP77h2RLlASTw) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL) | 4:18 | 2024-07-19 |  |
@@ -97,6 +97,7 @@
 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 | 2024-07-19 |  |
 | [Tijdmachine](https://open.spotify.com/track/0xhWYqbieArhuGsYn9ADzF) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 3:43 | 2024-07-19 |  |
 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 | 2024-07-19 |  |
+| [Unwritten](https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/1meis09isQJFDA65afUTt8) | 4:19 | 2024-07-19 |  |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2024-07-19 |  |
 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 | 2024-07-19 |  |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2024-07-19 |  |

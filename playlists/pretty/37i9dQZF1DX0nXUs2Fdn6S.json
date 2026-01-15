@@ -1,13 +1,113 @@
 {
-  "description": "Best of the EDM scene in India. Cover- Ritviz",
-  "num_followers": 37346,
+  "description": "Best of the EDM scene in India. Cover- Nucleya",
+  "num_followers": 37424,
   "original_name": "EDM in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtRhM3L5AFs1vEatLsuILn8A8sz",
+  "snapshot_id": "AAAAAAQXrj3cfvehfVU5DJblv4fLDKnP",
   "tracks": [
+    {
+      "added_at": "2026-01-15 06:32:04",
+      "album": {
+        "name": "Diggi Bumba",
+        "url": "https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "Diggi Bumba",
+      "url": "https://open.spotify.com/track/5Mw91jYPnrCj49eF0O9CY9"
+    },
+    {
+      "added_at": "2026-01-05 07:00:42",
+      "album": {
+        "name": "Omniverse Divine Frequency",
+        "url": "https://open.spotify.com/album/0nQaegbke7kVsQFB7GBZtJ"
+      },
+      "artists": [
+        {
+          "name": "R-Mystic Beats",
+          "url": "https://open.spotify.com/artist/3fWuWgCL4tqPkYIERC37tv"
+        }
+      ],
+      "duration_ms": 269799,
+      "name": "Omniverse Divine Frequency",
+      "url": "https://open.spotify.com/track/4q3C8XoKxsMV3EZNtyetL5"
+    },
+    {
+      "added_at": "2025-10-25 16:27:56",
+      "album": {
+        "name": "Bass Rani",
+        "url": "https://open.spotify.com/album/0NgHu77V7xVb30uxtUud2J"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Avneet Khurmi",
+          "url": "https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT"
+        }
+      ],
+      "duration_ms": 213913,
+      "name": "Laung Gawacha",
+      "url": "https://open.spotify.com/track/79JMjG6tj2zvCDEukCSgcx"
+    },
+    {
+      "added_at": "2026-01-15 06:32:04",
+      "album": {
+        "name": "Diggi Bumba",
+        "url": "https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "RjDV",
+          "url": "https://open.spotify.com/artist/264ZfvqPku4wBB1KPCwomL"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Gup Chup",
+      "url": "https://open.spotify.com/track/67zEZyUvA2JiveDQjuMCdz"
+    },
+    {
+      "added_at": "2025-10-25 16:27:56",
+      "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        },
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc"
+    },
     {
       "added_at": "2025-11-03 05:42:03",
       "album": {
@@ -55,6 +155,30 @@
     {
       "added_at": "2025-10-25 16:27:56",
       "album": {
+        "name": "Music Is The Weapon",
+        "url": "https://open.spotify.com/album/0B0YAftqQVpzUD7K12wDVg"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Jadi Buti",
+      "url": "https://open.spotify.com/track/5MZ3ZUvMFbS0zKis6DwmAM"
+    },
+    {
+      "added_at": "2025-10-25 16:27:56",
+      "album": {
         "name": "DHA",
         "url": "https://open.spotify.com/album/7hyGAoHe1IroectOWD8I6N"
       },
@@ -67,6 +191,66 @@
       "duration_ms": 214545,
       "name": "DHA",
       "url": "https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh"
+    },
+    {
+      "added_at": "2025-10-25 16:27:56",
+      "album": {
+        "name": "Kesariya Balam (Folktronica Remix)",
+        "url": "https://open.spotify.com/album/1zljyAoQx0tk02UW95NOm4"
+      },
+      "artists": [
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        },
+        {
+          "name": "Flipsyd",
+          "url": "https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Kesariya Balam - Folktronica Remix",
+      "url": "https://open.spotify.com/track/482zJTCsps0aNuSlIqGAB4"
+    },
+    {
+      "added_at": "2025-10-25 16:27:56",
+      "album": {
+        "name": "Marigold Soundsystem",
+        "url": "https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "JAI DHIR",
+          "url": "https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Leja",
+      "url": "https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp"
+    },
+    {
+      "added_at": "2026-01-15 06:32:04",
+      "album": {
+        "name": "Diggi Bumba",
+        "url": "https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Arya Dhayal",
+          "url": "https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Death Roll (VIP)",
+      "url": "https://open.spotify.com/track/30bmJj5nt77ZTixSvDkLtK"
     },
     {
       "added_at": "2025-10-25 16:27:56",
@@ -103,42 +287,6 @@
       "duration_ms": 188000,
       "name": "Shakthi",
       "url": "https://open.spotify.com/track/5xOavYpYa3lROHHVULZwZB"
-    },
-    {
-      "added_at": "2026-01-05 07:00:42",
-      "album": {
-        "name": "Omniverse Divine Frequency",
-        "url": "https://open.spotify.com/album/0nQaegbke7kVsQFB7GBZtJ"
-      },
-      "artists": [
-        {
-          "name": "R-Mystic Beats",
-          "url": "https://open.spotify.com/artist/3fWuWgCL4tqPkYIERC37tv"
-        }
-      ],
-      "duration_ms": 269799,
-      "name": "Omniverse Divine Frequency",
-      "url": "https://open.spotify.com/track/4q3C8XoKxsMV3EZNtyetL5"
-    },
-    {
-      "added_at": "2025-10-25 16:27:56",
-      "album": {
-        "name": "Bass Rani",
-        "url": "https://open.spotify.com/album/0NgHu77V7xVb30uxtUud2J"
-      },
-      "artists": [
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        },
-        {
-          "name": "Avneet Khurmi",
-          "url": "https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT"
-        }
-      ],
-      "duration_ms": 213913,
-      "name": "Laung Gawacha",
-      "url": "https://open.spotify.com/track/79JMjG6tj2zvCDEukCSgcx"
     },
     {
       "added_at": "2025-10-25 16:27:56",
@@ -351,30 +499,6 @@
       "duration_ms": 304429,
       "name": "Smoke & Mirrors",
       "url": "https://open.spotify.com/track/5ENfn7MfW9ms4zmfEyoXRF"
-    },
-    {
-      "added_at": "2025-10-25 16:27:56",
-      "album": {
-        "name": "Noor",
-        "url": "https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R"
-      },
-      "artists": [
-        {
-          "name": "Lost Stories",
-          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
-        },
-        {
-          "name": "Akanksha Bhandari",
-          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
-        },
-        {
-          "name": "Zaeden",
-          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "Noor",
-      "url": "https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc"
     },
     {
       "added_at": "2025-10-25 16:27:56",
@@ -1255,50 +1379,6 @@
     {
       "added_at": "2025-10-25 16:27:56",
       "album": {
-        "name": "Marigold Soundsystem",
-        "url": "https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2"
-      },
-      "artists": [
-        {
-          "name": "Lost Stories",
-          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
-        },
-        {
-          "name": "JAI DHIR",
-          "url": "https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Leja",
-      "url": "https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp"
-    },
-    {
-      "added_at": "2025-10-25 16:27:56",
-      "album": {
-        "name": "Music Is The Weapon",
-        "url": "https://open.spotify.com/album/0B0YAftqQVpzUD7K12wDVg"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        },
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Jadi Buti",
-      "url": "https://open.spotify.com/track/5MZ3ZUvMFbS0zKis6DwmAM"
-    },
-    {
-      "added_at": "2025-10-25 16:27:56",
-      "album": {
         "name": "Love Forever",
         "url": "https://open.spotify.com/album/7bzpFypf96SjUDRKMok6gR"
       },
@@ -1351,26 +1431,6 @@
       "duration_ms": 195000,
       "name": "Mera Dil",
       "url": "https://open.spotify.com/track/4CgB8kj1mrBOkeGnTTw28m"
-    },
-    {
-      "added_at": "2025-10-25 16:27:56",
-      "album": {
-        "name": "Kesariya Balam (Folktronica Remix)",
-        "url": "https://open.spotify.com/album/1zljyAoQx0tk02UW95NOm4"
-      },
-      "artists": [
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        },
-        {
-          "name": "Flipsyd",
-          "url": "https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Kesariya Balam - Folktronica Remix",
-      "url": "https://open.spotify.com/track/482zJTCsps0aNuSlIqGAB4"
     }
   ],
   "unique_name": "EDM in India",

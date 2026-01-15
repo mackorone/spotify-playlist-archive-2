@@ -1,13 +1,29 @@
 {
-  "description": "Tous les classiques du rap fran\u00e7ais dans une seule playlist ! Photo : Diam's",
-  "num_followers": 400272,
+  "description": "Tous les classiques du rap fran\u00e7ais dans une seule playlist ! Photo : \u00c4rsenik",
+  "num_followers": 400363,
   "original_name": "Classiques du Rap FR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACpKxJcesrVNfeHrny4lr8JEUJQG",
+  "snapshot_id": "AAAAAJI935p/ZuiAEhum31tCCbcPdY+v",
   "tracks": [
+    {
+      "added_at": "2025-04-11 11:16:59",
+      "album": {
+        "name": "Quelques gouttes suffisent",
+        "url": "https://open.spotify.com/album/079hEIrYaDqnvcvkcX6il3"
+      },
+      "artists": [
+        {
+          "name": "\u00c4rsenik",
+          "url": "https://open.spotify.com/artist/3Mo6O9iqKSw3Mn6v5zZfEy"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Boxe avec les mots",
+      "url": "https://open.spotify.com/track/5QSGPhlzVUIqYjmjEANDdm"
+    },
     {
       "added_at": "2025-04-11 11:16:59",
       "album": {
@@ -939,22 +955,6 @@
       "duration_ms": 220760,
       "name": "Qui tu es ?",
       "url": "https://open.spotify.com/track/3EigyGDplgMgtL6yaacPSP"
-    },
-    {
-      "added_at": "2025-04-11 11:16:59",
-      "album": {
-        "name": "Quelques gouttes suffisent",
-        "url": "https://open.spotify.com/album/079hEIrYaDqnvcvkcX6il3"
-      },
-      "artists": [
-        {
-          "name": "\u00c4rsenik",
-          "url": "https://open.spotify.com/artist/3Mo6O9iqKSw3Mn6v5zZfEy"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Boxe avec les mots",
-      "url": "https://open.spotify.com/track/5QSGPhlzVUIqYjmjEANDdm"
     },
     {
       "added_at": "2025-04-11 11:16:59",

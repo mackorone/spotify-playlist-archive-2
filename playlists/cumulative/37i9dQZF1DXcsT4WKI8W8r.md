@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXcsT4WKI8W8r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcsT4WKI8W8r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcsT4WKI8W8r)
+[pretty](/playlists/pretty/37i9dQZF1DXcsT4WKI8W8r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcsT4WKI8W8r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcsT4WKI8W8r)
 
 ### [Music for a Workday](https://open.spotify.com/playlist/37i9dQZF1DXcsT4WKI8W8r)
 

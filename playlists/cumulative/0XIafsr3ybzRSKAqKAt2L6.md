@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0XIafsr3ybzRSKAqKAt2L6.md) - cumulative - [plain](/playlists/plain/0XIafsr3ybzRSKAqKAt2L6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0XIafsr3ybzRSKAqKAt2L6)
+[pretty](/playlists/pretty/0XIafsr3ybzRSKAqKAt2L6.md) - cumulative - [plain](/playlists/plain/0XIafsr3ybzRSKAqKAt2L6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0XIafsr3ybzRSKAqKAt2L6)
 
 ### [Bad Anatomy](https://open.spotify.com/playlist/0XIafsr3ybzRSKAqKAt2L6)
 

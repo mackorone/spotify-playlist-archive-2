@@ -1,12 +1,12 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 98030,
+  "num_followers": 98616,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHY0mkJpdAR5SyUEKekE4eG+TK4l",
+  "snapshot_id": "AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS",
   "tracks": [
     {
       "added_at": "2021-05-18 09:57:44",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/6GgP6NTpwRaokozTVyC6Be"
     },
     {
+      "added_at": "2023-12-15 09:05:25",
+      "album": {
+        "name": "Hi Nanna",
+        "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 210154,
+      "name": "Adigaa",
+      "url": "https://open.spotify.com/track/4k9RLcTWZog34sIXt23Ibr"
+    },
+    {
       "added_at": "2021-05-18 09:57:44",
       "album": {
         "name": "Aarya - 2 (Original Motion Picture Soundtrack)",
@@ -223,22 +239,6 @@
       "duration_ms": 321826,
       "name": "Baby He Loves You",
       "url": "https://open.spotify.com/track/4r6jFSaXqHlfq1OmEziT9Q"
-    },
-    {
-      "added_at": "2023-12-15 09:05:25",
-      "album": {
-        "name": "Hi Nanna",
-        "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        }
-      ],
-      "duration_ms": 210154,
-      "name": "Adigaa",
-      "url": "https://open.spotify.com/track/4k9RLcTWZog34sIXt23Ibr"
     },
     {
       "added_at": "2024-02-12 05:31:53",
@@ -525,26 +525,6 @@
       "url": "https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR"
     },
     {
-      "added_at": "2021-05-18 09:57:44",
-      "album": {
-        "name": "Mirchi",
-        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Anitha",
-          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "Idhedho Bagundhe",
-      "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
-    },
-    {
       "added_at": "2023-03-03 17:11:01",
       "album": {
         "name": "Phalana Abbayi Phalana Ammayi",
@@ -571,6 +551,26 @@
     {
       "added_at": "2021-05-18 09:57:44",
       "album": {
+        "name": "Mirchi",
+        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Anitha",
+          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Idhedho Bagundhe",
+      "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
+    },
+    {
+      "added_at": "2021-05-18 09:57:44",
+      "album": {
         "name": "Nenu Local",
         "url": "https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7"
       },
@@ -587,6 +587,30 @@
       "duration_ms": 236617,
       "name": "Arere Yekkada",
       "url": "https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND"
+    },
+    {
+      "added_at": "2024-08-28 12:46:30",
+      "album": {
+        "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Madhura Dhara Talluri",
+          "url": "https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq"
+        },
+        {
+          "name": "Sanapati Bharadwaj Patrudu",
+          "url": "https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL"
+        }
+      ],
+      "duration_ms": 261314,
+      "name": "Laalijo Raagam",
+      "url": "https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy"
     },
     {
       "added_at": "2021-05-18 09:57:44",
@@ -641,28 +665,28 @@
       "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
     },
     {
-      "added_at": "2024-08-28 12:46:30",
+      "added_at": "2024-09-10 05:46:22",
       "album": {
-        "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q"
+        "name": "Ela (From \"Sopathulu\")",
+        "url": "https://open.spotify.com/album/5ISbEsbvl9lsqdOgYRplS0"
       },
       "artists": [
         {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
         },
         {
-          "name": "Madhura Dhara Talluri",
-          "url": "https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq"
+          "name": "Sinjith Yerramilli",
+          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
         },
         {
-          "name": "Sanapati Bharadwaj Patrudu",
-          "url": "https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL"
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
         }
       ],
-      "duration_ms": 261314,
-      "name": "Laalijo Raagam",
-      "url": "https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy"
+      "duration_ms": 228224,
+      "name": "Ela (From \"Sopathulu\")",
+      "url": "https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH"
     },
     {
       "added_at": "2021-05-18 09:57:44",
@@ -705,28 +729,20 @@
       "url": "https://open.spotify.com/track/6z15tFRtCyiSorSGaKLJeu"
     },
     {
-      "added_at": "2024-09-10 05:46:22",
+      "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Ela (From \"Sopathulu\")",
-        "url": "https://open.spotify.com/album/5ISbEsbvl9lsqdOgYRplS0"
+        "name": "Nuvvostanante Nenoddantana",
+        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
       },
       "artists": [
         {
-          "name": "Manisha Eerabathini",
-          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
-        },
-        {
-          "name": "Sinjith Yerramilli",
-          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
         }
       ],
-      "duration_ms": 228224,
-      "name": "Ela (From \"Sopathulu\")",
-      "url": "https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH"
+      "duration_ms": 255292,
+      "name": "Chandrullo Unde",
+      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Nuvvostanante Nenoddantana",
-        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 255292,
-      "name": "Chandrullo Unde",
-      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
         "name": "Pokiri",
         "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 273769,
       "name": "Gala Gala Paruthunna",
       "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
-    },
-    {
-      "added_at": "2021-05-18 09:57:44",
-      "album": {
-        "name": "ABCD - American Born Confused Desi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19kRwbWwLuNJduIg7G7mnt"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Aditi Bhavaraju",
-          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Mella Mellagaa",
-      "url": "https://open.spotify.com/track/4vX7VKZYx1wGAq5DKBTfAF"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -815,6 +795,26 @@
       "duration_ms": 305925,
       "name": "Ela Ela Naalo",
       "url": "https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo"
+    },
+    {
+      "added_at": "2021-05-18 09:57:44",
+      "album": {
+        "name": "ABCD - American Born Confused Desi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19kRwbWwLuNJduIg7G7mnt"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Mella Mellagaa",
+      "url": "https://open.spotify.com/track/4vX7VKZYx1wGAq5DKBTfAF"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -929,6 +929,30 @@
       "url": "https://open.spotify.com/track/6bbSwo7GyM7DWjzicUerR9"
     },
     {
+      "added_at": "2025-02-14 14:01:52",
+      "album": {
+        "name": "Don't Know Why (From \"Magic\")",
+        "url": "https://open.spotify.com/album/6hIddP0EOCBuJrsoU4GNpV"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "worldofaugust",
+          "url": "https://open.spotify.com/artist/6UFFM6ADuQQcNW8oWhijmO"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 224028,
+      "name": "Don't Know Why (From \"Magic\")",
+      "url": "https://open.spotify.com/track/4L1x42K4MYwWL0xgm5rand"
+    },
+    {
       "added_at": "2022-09-02 08:32:31",
       "album": {
         "name": "Oye",
@@ -959,22 +983,6 @@
       "duration_ms": 243809,
       "name": "Hey Radha",
       "url": "https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Nuvvu Nenu Prema",
-        "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        }
-      ],
-      "duration_ms": 377853,
-      "name": "New York Nagarama",
-      "url": "https://open.spotify.com/track/3WqTLAB7u84IHk91AQZXHa"
     }
   ],
   "unique_name": "Mellow Telugu",

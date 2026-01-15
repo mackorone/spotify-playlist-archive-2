@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWUUpbL2j5aTT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUUpbL2j5aTT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUUpbL2j5aTT)
+[pretty](/playlists/pretty/37i9dQZF1DWUUpbL2j5aTT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUUpbL2j5aTT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUUpbL2j5aTT)
 
 ### [House Brasil](https://open.spotify.com/playlist/37i9dQZF1DWUUpbL2j5aTT)
 

@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain](/playlists/plain/37i9dQZF1DWTgSTuHRv7LV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTgSTuHRv7LV)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain](/playlists/plain/37i9dQZF1DWTgSTuHRv7LV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTgSTuHRv7LV)
 
 ### [Mucho Rap](https://open.spotify.com/playlist/37i9dQZF1DWTgSTuHRv7LV)
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Victor Mendivil, Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,537 likes - 218 songs - 11 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,653 likes - 218 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

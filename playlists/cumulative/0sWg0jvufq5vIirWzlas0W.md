@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/0sWg0jvufq5vIirWzlas0W.md) - cumulative - [plain](/playlists/plain/0sWg0jvufq5vIirWzlas0W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0sWg0jvufq5vIirWzlas0W)
+[pretty](/playlists/pretty/0sWg0jvufq5vIirWzlas0W.md) - cumulative - [plain](/playlists/plain/0sWg0jvufq5vIirWzlas0W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0sWg0jvufq5vIirWzlas0W)
 
 ### [Cottage Life](https://open.spotify.com/playlist/0sWg0jvufq5vIirWzlas0W)
 

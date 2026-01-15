@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/37i9dQZF1DWYc8Z858eGwP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYc8Z858eGwP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYc8Z858eGwP)
+[pretty](/playlists/pretty/37i9dQZF1DWYc8Z858eGwP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYc8Z858eGwP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYc8Z858eGwP)
 
-### [Best of RADAR Africa 2025](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
+### [RADAR Africa ](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> 2025's best new artists from Africa, selected by our editors.
+> Best new African artists to have on your radar
 
 516 songs - 1 day 3 hr 19 min
 

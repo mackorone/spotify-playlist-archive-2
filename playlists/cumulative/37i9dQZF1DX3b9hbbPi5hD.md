@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX3b9hbbPi5hD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3b9hbbPi5hD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3b9hbbPi5hD)
+[pretty](/playlists/pretty/37i9dQZF1DX3b9hbbPi5hD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3b9hbbPi5hD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX3b9hbbPi5hD)
 
 ### [Best Tracks from Tarantino Films](https://open.spotify.com/playlist/37i9dQZF1DX3b9hbbPi5hD)
 

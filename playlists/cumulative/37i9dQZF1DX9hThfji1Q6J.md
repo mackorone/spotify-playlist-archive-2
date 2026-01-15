@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX9hThfji1Q6J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9hThfji1Q6J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9hThfji1Q6J)
+[pretty](/playlists/pretty/37i9dQZF1DX9hThfji1Q6J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9hThfji1Q6J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9hThfji1Q6J)
 
 ### [Global Hits From Japan 2025 \-国境を超える日本の音楽\-](https://open.spotify.com/playlist/37i9dQZF1DX9hThfji1Q6J)
 

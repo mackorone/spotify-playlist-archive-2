@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain](/playlists/plain/37i9dQZF1DXdcb8m3Nt9YW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdcb8m3Nt9YW)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain](/playlists/plain/37i9dQZF1DXdcb8m3Nt9YW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdcb8m3Nt9YW)
 
 ### [Sentado en una hielera](https://open.spotify.com/playlist/37i9dQZF1DXdcb8m3Nt9YW)
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Max Peraza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,167 likes - 135 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,729 likes - 135 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

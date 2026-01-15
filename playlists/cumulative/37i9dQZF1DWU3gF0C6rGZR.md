@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DWU3gF0C6rGZR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU3gF0C6rGZR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU3gF0C6rGZR)
+[pretty](/playlists/pretty/37i9dQZF1DWU3gF0C6rGZR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU3gF0C6rGZR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWU3gF0C6rGZR)
 
 ### [Dos Iconos: Serrat y Sabina](https://open.spotify.com/playlist/37i9dQZF1DWU3gF0C6rGZR)
 

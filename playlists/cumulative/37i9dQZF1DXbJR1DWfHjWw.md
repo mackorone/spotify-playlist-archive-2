@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DXbJR1DWfHjWw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbJR1DWfHjWw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbJR1DWfHjWw)
+[pretty](/playlists/pretty/37i9dQZF1DXbJR1DWfHjWw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbJR1DWfHjWw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbJR1DWfHjWw)
 
 ### [Les Dieux du Stade](https://open.spotify.com/playlist/37i9dQZF1DXbJR1DWfHjWw)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DX455rqxvhRwQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX455rqxvhRwQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX455rqxvhRwQ)
+[pretty](/playlists/pretty/37i9dQZF1DX455rqxvhRwQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX455rqxvhRwQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX455rqxvhRwQ)
 
 ### [JRE Talks with Academics](https://open.spotify.com/playlist/37i9dQZF1DX455rqxvhRwQ)
 

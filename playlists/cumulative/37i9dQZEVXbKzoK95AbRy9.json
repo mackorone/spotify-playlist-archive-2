@@ -123,6 +123,28 @@
     },
     {
       "album": {
+        "name": "2026",
+        "url": "https://open.spotify.com/album/40l0eYTiD8VNsU05JZ1rVR"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178048,
+      "name": "2026",
+      "url": "https://open.spotify.com/track/4ZuUJilJAe5MSA8dXHdOXR"
+    },
+    {
+      "album": {
         "name": "Para\u00edso Particular Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA"
       },
@@ -1194,7 +1216,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 198678,
       "name": "Apaguei Pra Todos - Ao Vivo",
       "url": "https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8"
@@ -1424,7 +1446,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 167528,
       "name": "Aquele Lugar - Ao Vivo",
       "url": "https://open.spotify.com/track/6IFF888dQ0P6ilbj4kL6G8"
@@ -1902,7 +1924,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 156536,
       "name": "Bebe, Beija e Trai - Ao Vivo",
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
@@ -2094,10 +2116,28 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 155751,
       "name": "Buqu\u00ea de Bebida - Ao Vivo",
       "url": "https://open.spotify.com/track/0rLe7uJkJ4NUCTLjEbp5ae"
+    },
+    {
+      "album": {
+        "name": "Iniciando Os Trabalhos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ageDtTa54ASyL5M8J03RW"
+      },
+      "artists": [
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155751,
+      "name": "Buqu\u00ea de Bebida - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GvuFO1fp1vVILm9DeSGW6"
     },
     {
       "album": {
@@ -2226,6 +2266,24 @@
       "duration_ms": 186165,
       "name": "Calculista",
       "url": "https://open.spotify.com/track/5mPn4ueXc1oua018FDvknz"
+    },
+    {
+      "album": {
+        "name": "Feito \u00c0 M\u00e3o Vol. 01",
+        "url": "https://open.spotify.com/album/40jGnqAXzR8Bta84lEI5mc"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221583,
+      "name": "Cama e Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4jHrB8ZcGoFbSMVq2FXzmk"
     },
     {
       "album": {
@@ -2496,6 +2554,28 @@
       "duration_ms": 134516,
       "name": "Cara da Serenata - Live",
       "url": "https://open.spotify.com/track/3vpmGewnBcIfbm252E3Xx8"
+    },
+    {
+      "album": {
+        "name": "Carmed Chocolate",
+        "url": "https://open.spotify.com/album/4NhJcsl70YQMc3Dmo8Rw65"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148403,
+      "name": "Carmed Chocolate",
+      "url": "https://open.spotify.com/track/5q6p93gOrBy5dRkxOAylJ4"
     },
     {
       "album": {
@@ -4197,6 +4277,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "Enjoei",
         "url": "https://open.spotify.com/album/0iAbiMGOSs9cBgdFTAfG10"
       },
@@ -4354,7 +4452,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 171207,
       "name": "Escondendo o Ouro - Ao Vivo",
       "url": "https://open.spotify.com/track/0IBCX7PC9NcfFLuyoHxTNt"
@@ -4604,6 +4702,32 @@
       "duration_ms": 186107,
       "name": "EU SOU SENTIMENTO",
       "url": "https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm"
+    },
+    {
+      "album": {
+        "name": "Eu S\u00f3 Quero Voc\u00ea",
+        "url": "https://open.spotify.com/album/2kxC4cGkGlMClS4ySHVmy6"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158173,
+      "name": "Eu S\u00f3 Quero Voc\u00ea",
+      "url": "https://open.spotify.com/track/118oqjHKS0amJfPLi9LoEZ"
     },
     {
       "album": {
@@ -7020,7 +7144,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 173206,
       "name": "Mentira Estampada",
       "url": "https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p"
@@ -8762,7 +8886,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 165231,
       "name": "OR\u00c7AMENTO - Ao Vivo",
       "url": "https://open.spotify.com/track/1WAAgJc6yU4gMCGxpE2b5k"
@@ -10614,7 +10738,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
@@ -10640,7 +10764,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/5bWtlLm47TCz34fmr9hZzL"
@@ -10760,7 +10884,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-15",
       "duration_ms": 164892,
       "name": "Se Eu Te Perdoar - Ao Vivo",
       "url": "https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5"
@@ -11240,6 +11364,36 @@
       "duration_ms": 162194,
       "name": "Silverado (AgroPlay Ver\u00e3o)",
       "url": "https://open.spotify.com/track/26l5FAEVr9cfaILS0szvvt"
+    },
+    {
+      "album": {
+        "name": "Sil\u00eancio",
+        "url": "https://open.spotify.com/album/3dfPwf0JCRFc6Llb2D5wqC"
+      },
+      "artists": [
+        {
+          "name": "Toca Aquela",
+          "url": "https://open.spotify.com/artist/77HrIL9YZ1VR6Uvf3WGHE7"
+        },
+        {
+          "name": "Breno Major",
+          "url": "https://open.spotify.com/artist/53cEbokP6S7cahtXPXvQ5c"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        },
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241326,
+      "name": "Sil\u00eancio",
+      "url": "https://open.spotify.com/track/1scDyegujPu9CK2d6PTYgk"
     },
     {
       "album": {
@@ -12750,7 +12904,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 155307,
       "name": "T\u00f4 na Brasilia com o Zig\u00e3o",
       "url": "https://open.spotify.com/track/4l2Fyw7EYB5XjcKwqcwuHQ"

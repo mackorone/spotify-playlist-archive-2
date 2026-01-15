@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1DZ06evO0Q8JGw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0Q8JGw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0Q8JGw)
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO0Q8JGw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0Q8JGw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DZ06evO0Q8JGw)
 
 ### [This Is Pearl Jam](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q8JGw)
 

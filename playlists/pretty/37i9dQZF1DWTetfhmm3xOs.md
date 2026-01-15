@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain](/playlists/plain/37i9dQZF1DWTetfhmm3xOs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTetfhmm3xOs)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain](/playlists/plain/37i9dQZF1DWTetfhmm3xOs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTetfhmm3xOs)
 
 ### [Meditative State of Mind](https://open.spotify.com/playlist/37i9dQZF1DWTetfhmm3xOs)
 

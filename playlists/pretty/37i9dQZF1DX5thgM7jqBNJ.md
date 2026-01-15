@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5thgM7jqBNJ.md) - [plain](/playlists/plain/37i9dQZF1DX5thgM7jqBNJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5thgM7jqBNJ)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5thgM7jqBNJ.md) - [plain](/playlists/plain/37i9dQZF1DX5thgM7jqBNJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5thgM7jqBNJ)
 
 ### [Big Boys: Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5thgM7jqBNJ)
 
 > The official playlist for the entire series of Big Boys\. Watch all episodes on <a href="https://www.channel4.com/programmes/big\-boys">Channel 4 Streaming!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,595 likes - 111 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,610 likes - 111 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

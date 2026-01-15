@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/0tdTsuJmnf6cRE22DMcgIq.md) - [plain](/playlists/plain/0tdTsuJmnf6cRE22DMcgIq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0tdTsuJmnf6cRE22DMcgIq)
+pretty - [cumulative](/playlists/cumulative/0tdTsuJmnf6cRE22DMcgIq.md) - [plain](/playlists/plain/0tdTsuJmnf6cRE22DMcgIq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0tdTsuJmnf6cRE22DMcgIq)
 
 ### [The 2016 AMAs](https://open.spotify.com/playlist/0tdTsuJmnf6cRE22DMcgIq)
 
 > The American Music Awards is the world’s biggest fan\-voted award show\. This year, hosts Gigi Hadid and Jay Pharoah will share the stage with performers Bruno Mars, Twenty One Pilots, The Chainsmokers, and many more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,265 likes - 35 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,263 likes - 35 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

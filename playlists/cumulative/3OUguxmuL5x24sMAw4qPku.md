@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/3OUguxmuL5x24sMAw4qPku.md) - cumulative - [plain](/playlists/plain/3OUguxmuL5x24sMAw4qPku) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3OUguxmuL5x24sMAw4qPku)
+[pretty](/playlists/pretty/3OUguxmuL5x24sMAw4qPku.md) - cumulative - [plain](/playlists/plain/3OUguxmuL5x24sMAw4qPku) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3OUguxmuL5x24sMAw4qPku)
 
 ### [Acoustic Commute](https://open.spotify.com/playlist/3OUguxmuL5x24sMAw4qPku)
 

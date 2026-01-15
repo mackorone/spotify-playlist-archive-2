@@ -1,10 +1,10 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain](/playlists/plain/37i9dQZF1DWURfu7Lk3xJ1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWURfu7Lk3xJ1)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain](/playlists/plain/37i9dQZF1DWURfu7Lk3xJ1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWURfu7Lk3xJ1)
 
 ### [lofi meditation](https://open.spotify.com/playlist/37i9dQZF1DWURfu7Lk3xJ1)
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,766 likes - 150 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,128 likes - 150 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

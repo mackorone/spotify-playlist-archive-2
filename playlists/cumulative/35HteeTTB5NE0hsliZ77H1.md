@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/35HteeTTB5NE0hsliZ77H1.md) - cumulative - [plain](/playlists/plain/35HteeTTB5NE0hsliZ77H1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/35HteeTTB5NE0hsliZ77H1)
+[pretty](/playlists/pretty/35HteeTTB5NE0hsliZ77H1.md) - cumulative - [plain](/playlists/plain/35HteeTTB5NE0hsliZ77H1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/35HteeTTB5NE0hsliZ77H1)
 
 ### [The Life Eclectic](https://open.spotify.com/playlist/35HteeTTB5NE0hsliZ77H1)
 
