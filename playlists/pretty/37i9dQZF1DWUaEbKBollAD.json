@@ -1,0 +1,938 @@
+{
+  "description": "<a href=\"spotify:artist:4iHnLagnnmgiIwMSm1wuTq\">Giorgia Angiuli</a>'s favorite tracks. Updated regularly. Curated by Giorgia Angiuli. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
+  "num_followers": 57302,
+  "original_name": "Giorgia Angiuli's track IDs",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "AAAAAGjDmRkWiNiQ1nphskgfNtCFJBPm",
+  "tracks": [
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "ACID TEMPLE",
+        "url": "https://open.spotify.com/album/0a4FOEuaNN5I8tVcrNqzss"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 133877,
+      "name": "ACID TEMPLE",
+      "url": "https://open.spotify.com/track/2fESXk5ZmkRWx0nH80KiQU"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Done Searching",
+        "url": "https://open.spotify.com/album/6yiWE718oOyYfQqxPl16Ol"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Anna Reusch",
+          "url": "https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Done Searching",
+      "url": "https://open.spotify.com/track/7zVGrJKv5WEDW23z2qvmLR"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g"
+      },
+      "artists": [
+        {
+          "name": "METODI",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        },
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "duration_ms": 222672,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/78CcHDIIw093COMGylrkXj"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Sacred Geometry",
+        "url": "https://open.spotify.com/album/0CYafEex5MyTsJUfScXI3b"
+      },
+      "artists": [
+        {
+          "name": "Electric Universe",
+          "url": "https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD"
+        },
+        {
+          "name": "Faders",
+          "url": "https://open.spotify.com/artist/1to02GbmzsvkwAWDtKNtwn"
+        }
+      ],
+      "duration_ms": 539586,
+      "name": "Calling for Peace",
+      "url": "https://open.spotify.com/track/4buW4ERMvr8u1QTG2k9Jl5"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Crazy People (Victor Ruiz Remix)",
+        "url": "https://open.spotify.com/album/6TyFYm26pb39Lms5kOnOac"
+      },
+      "artists": [
+        {
+          "name": "Liquid Soul",
+          "url": "https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "duration_ms": 434005,
+      "name": "Crazy People - Victor Ruiz Remix",
+      "url": "https://open.spotify.com/track/3amcv0aAbe57YRevwUxjVw"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Gracias a la Vida (Victor Ruiz Remix)",
+        "url": "https://open.spotify.com/album/4gvBFJbHDzyXIKK96hK0Jz"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "duration_ms": 385777,
+      "name": "Gracias a la Vida - Victor Ruiz Remix",
+      "url": "https://open.spotify.com/track/5vUYZ2rVqQHkZufW6PWmwF"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Various Artist, Vol. 6 - 4 Years",
+        "url": "https://open.spotify.com/album/6zKrUCc1yKmlLtEiexsq2A"
+      },
+      "artists": [
+        {
+          "name": "Noise Mafia",
+          "url": "https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS"
+        },
+        {
+          "name": "JOR",
+          "url": "https://open.spotify.com/artist/7AlKNy0s1YjaiQ7GN20pVG"
+        }
+      ],
+      "duration_ms": 378211,
+      "name": "Everything Done",
+      "url": "https://open.spotify.com/track/66nRIVQe3VCVha8TpWb7DU"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "What's a Girl to Do in '25",
+        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 148047,
+      "name": "What's a Girl to Do in '25",
+      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Na Le (Phaxe Remix)",
+        "url": "https://open.spotify.com/album/6caV8eLYgWB5g93DNeZXvE"
+      },
+      "artists": [
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "Phaxe",
+          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
+        }
+      ],
+      "duration_ms": 418714,
+      "name": "Na Le - Phaxe Remix",
+      "url": "https://open.spotify.com/track/2TbB5iWJtLRCP7xIy8Zh5E"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2vnLGgIxwbShPY4ia6MrOc"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        },
+        {
+          "name": "MR.BLACK",
+          "url": "https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU"
+        }
+      ],
+      "duration_ms": 192827,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/0iVL6ID87Nh8jYY6UX1g5c"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "WIND",
+        "url": "https://open.spotify.com/album/63He7s0muq7kACjVOGszvC"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "WIND",
+      "url": "https://open.spotify.com/track/1UhzFALHc9kjh3UqRJjR02"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/5qwxuDwCYHD0sH8wCfzAnS"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 184551,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/443M0kCEyrSg4V7R5mtq8X"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 261903,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Planetary_4.2 (Live)",
+        "url": "https://open.spotify.com/album/5dSuaG8t4m7y3lefnuMF3M"
+      },
+      "artists": [
+        {
+          "name": "BalQeis Live",
+          "url": "https://open.spotify.com/artist/3QrfETcrieJh4g5rH352Vq"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "Pluto - Live",
+      "url": "https://open.spotify.com/track/6rRIi4fwSDHXYPGsMID3ez"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Peruvian Bounce",
+        "url": "https://open.spotify.com/album/13t5kwqmi6d7d3EeScL1uC"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 224210,
+      "name": "Peruvian Bounce",
+      "url": "https://open.spotify.com/track/57j8aqFe82TJmJPgSzWvXT"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Psytrance Illusions",
+        "url": "https://open.spotify.com/album/39D8OJEixStOiwQAKolaSe"
+      },
+      "artists": [
+        {
+          "name": "Bapper Berny",
+          "url": "https://open.spotify.com/artist/2BnQfcyNz4DoZdZZ1OiDqP"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/7cgc7LsayrPtYm732w24Nb"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Music Never Stops",
+        "url": "https://open.spotify.com/album/0o26WuwLDlmmECVwqsnMDe"
+      },
+      "artists": [
+        {
+          "name": "Kos:mo",
+          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
+        }
+      ],
+      "duration_ms": 362888,
+      "name": "The Tribe - Original Mix",
+      "url": "https://open.spotify.com/track/3lHT8c3vKC3hdUrybNS617"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/1bYHcpySfB2nB010FkFHWC"
+      },
+      "artists": [
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "Sighter",
+          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+        }
+      ],
+      "duration_ms": 224788,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/3HD3QiXD5962IrhFhCyXnd"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Ritualism EP",
+        "url": "https://open.spotify.com/album/0fxg0IWKE9wC47QNPL80uf"
+      },
+      "artists": [
+        {
+          "name": "1200 Micrograms",
+          "url": "https://open.spotify.com/artist/2opB8qXyAmLYSGEZxp7X3U"
+        }
+      ],
+      "duration_ms": 429650,
+      "name": "Speed Freak",
+      "url": "https://open.spotify.com/track/6kjcAmDG2MM2zWUw5lyTGH"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Kreature",
+        "url": "https://open.spotify.com/album/5OIj5hMZE8GCZsp6ihZYAu"
+      },
+      "artists": [
+        {
+          "name": "Bullzeye",
+          "url": "https://open.spotify.com/artist/1UvPQsefYllL0KNxuLyqDB"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Kreature",
+      "url": "https://open.spotify.com/track/3IwWvapDWkJzHr1rfSOP2S"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "K",
+        "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "duration_ms": 297226,
+      "name": "Govinda",
+      "url": "https://open.spotify.com/track/08bnQ31TXHNL0HA4oyG33d"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Darkly Yours EP",
+        "url": "https://open.spotify.com/album/6POModEFwAbejmac6UGQAh"
+      },
+      "artists": [
+        {
+          "name": "La Kajofol",
+          "url": "https://open.spotify.com/artist/6LowYQ25RaBgNFrzbtdMSd"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "Virgin Poison",
+      "url": "https://open.spotify.com/track/5dj96moRuaIOZCE0boVj19"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Spiritum",
+        "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "duration_ms": 193528,
+      "name": "Spiritum",
+      "url": "https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/7wNodDzHW0c1VgR1DOZicQ"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Mila Journ\u00e9e",
+          "url": "https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "Ya Tu Sabe",
+      "url": "https://open.spotify.com/track/28LGgAwi2ZhYCQWHQk0EcB"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/6pc2eGF46AyUmDZDtQC1A7"
+      },
+      "artists": [
+        {
+          "name": "Yahel",
+          "url": "https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF"
+        },
+        {
+          "name": "Juan Verdera",
+          "url": "https://open.spotify.com/artist/5EgbcmnfyDMlWS0Si7gd7v"
+        }
+      ],
+      "duration_ms": 438844,
+      "name": "La Historia - Original Mix",
+      "url": "https://open.spotify.com/track/673wjzs04n60LqO2l9bW9o"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Soulstice",
+        "url": "https://open.spotify.com/album/0SuGNn5zkJSHyiJA1Q4rbe"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Soulstice",
+      "url": "https://open.spotify.com/track/4ODwlv8IZ0PQrqgM8iVOb8"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Sarabande",
+        "url": "https://open.spotify.com/album/4X7B8PnpBn7jZ1xDGrmIRS"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Anna Timofei",
+          "url": "https://open.spotify.com/artist/4srvcFuQaZHS0KyBvFApWG"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Sarabande",
+      "url": "https://open.spotify.com/track/5ZwFCHzRbAll8TTvDmAKht"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Maj\u00e2z",
+        "url": "https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA"
+      },
+      "artists": [
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        }
+      ],
+      "duration_ms": 296853,
+      "name": "Mas\u00e2r",
+      "url": "https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "No One Takes Me Down",
+        "url": "https://open.spotify.com/album/1nvVBiIJJEp2fvfx78kdEK"
+      },
+      "artists": [
+        {
+          "name": "Bentech",
+          "url": "https://open.spotify.com/artist/4tMLkoMpWu60qPkLybmNxu"
+        },
+        {
+          "name": "SIS",
+          "url": "https://open.spotify.com/artist/6SsmtVchggKSXCMt6UZjlj"
+        }
+      ],
+      "duration_ms": 484040,
+      "name": "No One Takes Me Down",
+      "url": "https://open.spotify.com/track/1z1fjczM3nuXLBdJHt3WVp"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Psychedelic Awakening",
+        "url": "https://open.spotify.com/album/6SZ4525Ke0Eu3ZmJLEFeJY"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        }
+      ],
+      "duration_ms": 528000,
+      "name": "Sahara - Original mix",
+      "url": "https://open.spotify.com/track/7m0xP08bcvcHFVnlEzOhBG"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Mantra EP",
+        "url": "https://open.spotify.com/album/1ciTAED3gTIYBfhA3MpGNT"
+      },
+      "artists": [
+        {
+          "name": "Joseph Capriati",
+          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "duration_ms": 215142,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/7800ZSDHsmcAhhwTY8jHQ2"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/4AlP7d5GNEl7h00l6XvkAo"
+      },
+      "artists": [
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "duration_ms": 234998,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/6RAH1GzmFzMgEsNYxHwSyr"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Howling",
+        "url": "https://open.spotify.com/album/5Eg7XnolnMI5OkKabGwdcu"
+      },
+      "artists": [
+        {
+          "name": "Hidden Voices",
+          "url": "https://open.spotify.com/artist/7nm1s5jeLUOtV654BErfeu"
+        }
+      ],
+      "duration_ms": 253548,
+      "name": "Howling",
+      "url": "https://open.spotify.com/track/49rXRdCXdDvdXGQRpvuvoZ"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Pale Light",
+        "url": "https://open.spotify.com/album/6maZwUHv4hHHJl4Bzh4Q9k"
+      },
+      "artists": [
+        {
+          "name": "Skeler",
+          "url": "https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB"
+        }
+      ],
+      "duration_ms": 225025,
+      "name": "Pale Light",
+      "url": "https://open.spotify.com/track/64F0tid5vwapfuC4ERAHyA"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "The Chant",
+        "url": "https://open.spotify.com/album/7MLHFcsLvgaL9nYzCf0AhL"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "duration_ms": 215373,
+      "name": "Tantra",
+      "url": "https://open.spotify.com/track/0FIhFH19nbRao16SbzZ5dQ"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Interconnection EP",
+        "url": "https://open.spotify.com/album/6OWXUShb5cu2AEqxla3jY6"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 433544,
+      "name": "Interconnection",
+      "url": "https://open.spotify.com/track/0oTqSCja48s8TkUDUW5q9w"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Viento EP",
+        "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "So Alive (VIP)",
+        "url": "https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB"
+      },
+      "artists": [
+        {
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        },
+        {
+          "name": "OGUZ",
+          "url": "https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v"
+        },
+        {
+          "name": "ANGEL CANNON",
+          "url": "https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD"
+        }
+      ],
+      "duration_ms": 253161,
+      "name": "So Alive (VIP)",
+      "url": "https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "RITMO",
+        "url": "https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "duration_ms": 193700,
+      "name": "RITMO",
+      "url": "https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Gipsy Queen EP",
+        "url": "https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/5Y1SndahLemyQ1M9ydCf6N"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 235045,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 419164,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/3vX5mMRLcvvpFXh0g0iTqA"
+      },
+      "artists": [
+        {
+          "name": "Gproject",
+          "url": "https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P"
+        },
+        {
+          "name": "Coexist",
+          "url": "https://open.spotify.com/artist/7I08DUDSBedSy10Pctjpjf"
+        }
+      ],
+      "duration_ms": 168428,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/4s5Exhx0XrDLLvpgNuXaCI"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Obsidian (Oscar L Remix)",
+        "url": "https://open.spotify.com/album/4Nf2HEt1CHXJPe6TTpxaeP"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bieger",
+          "url": "https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "duration_ms": 393429,
+      "name": "Obsidian - Oscar L Remix",
+      "url": "https://open.spotify.com/track/1cZyeFJcOTOTEyDDmgQL8j"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Outside World (Bart Skils & Weska Remix)",
+        "url": "https://open.spotify.com/album/4rogCzyAHLJp4hYu6W4TKl"
+      },
+      "artists": [
+        {
+          "name": "Sunbeam",
+          "url": "https://open.spotify.com/artist/1ZXarwne5gA98pXsbC7vph"
+        },
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "Weska",
+          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
+        }
+      ],
+      "duration_ms": 240527,
+      "name": "Outside World - Bart Skils & Weska Remix",
+      "url": "https://open.spotify.com/track/1hNuuUPJWU7c7gZCrNiMYs"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/01Jp0tJMYp8MNRQVAk7liX"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "duration_ms": 372040,
+      "name": "UTOPIA",
+      "url": "https://open.spotify.com/track/3HdrzXCHvjBX39wYnAKc2c"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "2084 (Space 92 Remix)",
+        "url": "https://open.spotify.com/album/38Ws4sERTEy1ACzu4CnLFA"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "2084 - Space 92 Remix",
+      "url": "https://open.spotify.com/track/75SedaGZfay5uZffxEzk7M"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Heaven Is For Warriors EP",
+        "url": "https://open.spotify.com/album/0foqG98xclmbCe33QsRMll"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "duration_ms": 220137,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6AWUWCMEF31w9e0yvGiFBl"
+    },
+    {
+      "added_at": "2025-11-14 16:04:37",
+      "album": {
+        "name": "Born Again (Babylonia) feat. Widemode",
+        "url": "https://open.spotify.com/album/7zKOmzXqKcDNlHGpE1DnQ1"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        },
+        {
+          "name": "Widemode",
+          "url": "https://open.spotify.com/artist/1oB55C2OgosjV7fLfhNoMS"
+        }
+      ],
+      "duration_ms": 137432,
+      "name": "Born Again (Babylonia) feat. Widemode",
+      "url": "https://open.spotify.com/track/6MziWtIveg3XEYr2VVyW0i"
+    }
+  ],
+  "unique_name": "Giorgia Angiuli's track IDs",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUaEbKBollAD"
+}

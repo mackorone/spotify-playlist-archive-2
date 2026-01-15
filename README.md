@@ -1,2 +1,2 @@
-# spotify-playlist-archive-2
-Because the original repo is above its size quota
+# spotify-playlist-archive-2 [![Workflow status](https://github.com/mackorone/spotify-playlist-archive-2/actions/workflows/main.yml/badge.svg)](https://github.com/mackorone/spotify-playlist-archive-2/actions/workflows/main.yml) <a href="https://www.buymeacoffee.com/mackorone"><img align="right" height=36 alt="Save the Children" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
+Because the original repo is above its size quota: [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive)

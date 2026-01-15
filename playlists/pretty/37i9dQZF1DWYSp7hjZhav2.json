@@ -1,0 +1,998 @@
+{
+  "description": "<a href=\"spotify:artist:1UL813H5aj3e8ekE5RqWqc\">Tale Of Us</a>'s favorite tracks. Updated regularly. Curated by Tale Of Us. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
+  "num_followers": 106349,
+  "original_name": "Tale Of Us' track IDs",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "AAAAAPqusM5AWmXxphabbOXBK+Xm0xqD",
+  "tracks": [
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Till I Die (feat. Claudia Valentina)",
+        "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Till I Die (feat. Claudia Valentina)",
+      "url": "https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Carly Gibert",
+          "url": "https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ"
+        }
+      ],
+      "duration_ms": 133848,
+      "name": "Girls MIA",
+      "url": "https://open.spotify.com/track/0WHINYuRlFPt4WrXPBeCvo"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/2qUTOlPGREFMWzFjPY0qzZ"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/7N1fOXXxOvxMXq4Gn1xjZC"
+        }
+      ],
+      "duration_ms": 270967,
+      "name": "Nobody (Extended Mix)",
+      "url": "https://open.spotify.com/track/3osBSgwcOSvcFhUE1SBztt"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Luke Steele",
+          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
+        }
+      ],
+      "duration_ms": 190726,
+      "name": "Human Now (feat. Luke Steele)",
+      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "duration_ms": 206308,
+      "name": "Love Parade",
+      "url": "https://open.spotify.com/track/0LwKAX0JzRSYvOreNvSQzN"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "At Night (Anyma x Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/0pOs24vzDeIobtd78HbZjS"
+      },
+      "artists": [
+        {
+          "name": "Shakedown",
+          "url": "https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "At Night - Anyma x Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/01A16AjdJ0dKGixfZa0Ugd"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Fortuna (feat. Sevdaliza)",
+      "url": "https://open.spotify.com/track/5pAmSfN53jyhPTDA0pvoCO"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "RACER",
+      "url": "https://open.spotify.com/track/0nxkp7rYH6d9aJnEIGQesL"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        }
+      ],
+      "duration_ms": 190371,
+      "name": "Neverland (From Japan)",
+      "url": "https://open.spotify.com/track/2rYwnWnBiy3ESNSp4hUJMo"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Dreamachine",
+        "url": "https://open.spotify.com/album/2KJ8G7agmKdJK89xPrcrMN"
+      },
+      "artists": [
+        {
+          "name": "Hiver",
+          "url": "https://open.spotify.com/artist/5bbog2TKLmx1kqzNER54ZI"
+        }
+      ],
+      "duration_ms": 306093,
+      "name": "Dreamachine",
+      "url": "https://open.spotify.com/track/2OJbaIqQgRaqe4qxN41AJV"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Hello Paki",
+        "url": "https://open.spotify.com/album/27A3vZN49wdHtRPaPs8Nml"
+      },
+      "artists": [
+        {
+          "name": "Alphadog",
+          "url": "https://open.spotify.com/artist/0BCwCDWFMwyKChehFuZFdG"
+        },
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "duration_ms": 409343,
+      "name": "It's Insanity - Goom Gum Remix",
+      "url": "https://open.spotify.com/track/5OR3ekJZQ9zKnjnlSO8n7o"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 180540,
+      "name": "Hypnotized (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/6mAIXsvt8eEIKSskw3YPth"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Last Night (Anyma x Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 256743,
+      "name": "Last Night - Anyma x Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/5JNHMsnjSkx7LUiHuD1RZY"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 260250,
+      "name": "Joke\u2019s On You (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/1Ye0KbfTJJWJRrzukWGfeo"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Gate / Masterplan",
+        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 343764,
+      "name": "Gate",
+      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Final Request",
+          "url": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+        }
+      ],
+      "duration_ms": 238154,
+      "name": "Over Control",
+      "url": "https://open.spotify.com/track/1xlVlX0gmyJlKBVVj5mmTy"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "To Trajad\u00e3o",
+        "url": "https://open.spotify.com/album/3zXzIQOQTvQqOHOSNxz9OK"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "duration_ms": 240758,
+      "name": "To Trajad\u00e3o",
+      "url": "https://open.spotify.com/track/0E2vBJgiR305t4jQ5d8NFH"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Hera",
+        "url": "https://open.spotify.com/album/6jY3lRLOJoWlCV6LCHjY5y"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Hera - Radio Edit",
+      "url": "https://open.spotify.com/track/0jKXCKiiW0HBsWVJSrg713"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Welcome The Night",
+        "url": "https://open.spotify.com/album/5TPXuWzNSFD4jY5BhxLI8f"
+      },
+      "artists": [
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 198407,
+      "name": "Welcome The Night",
+      "url": "https://open.spotify.com/track/73w1V1WwWKOmHA7N75hy10"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 306885,
+      "name": "Lost Echoes",
+      "url": "https://open.spotify.com/track/6bU4EhvU6pBGibBCVFaVjv"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Viento EP",
+        "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Jast",
+          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
+        }
+      ],
+      "duration_ms": 197261,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/6UJsvbg4RCKRuk8dOg1t0E"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "My City's On Fire (Anyma & Cassian Remix)",
+        "url": "https://open.spotify.com/album/7CrZ3IMVHng3uOXib7KFNU"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "My City's On Fire (Anyma & Cassian Remix)",
+      "url": "https://open.spotify.com/track/30sR2mBD6VIUk1w93XDMOL"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "Tharat",
+          "url": "https://open.spotify.com/artist/2NcecTLKPtoGV6xzyTz3yx"
+        },
+        {
+          "name": "shel\u00b7ly",
+          "url": "https://open.spotify.com/artist/3SIRUdFx4iJQ4aj81r2f39"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Wagon",
+      "url": "https://open.spotify.com/track/51CnKfYUwtRjNqviaoJatO"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "Taratata (with Grimes)",
+      "url": "https://open.spotify.com/track/3GiDTOsqG5WMjWTnmtbby2"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Tone Depth",
+          "url": "https://open.spotify.com/artist/356puk5By7WbXAFFZ8Uelf"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "duration_ms": 203947,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/3bg8n2lUulign7pUIJ5EVg"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
+        "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 253433,
+      "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
+      "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2H3i9gfwWUxDVJKkKsvanf"
+      },
+      "artists": [
+        {
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        }
+      ],
+      "duration_ms": 267768,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/6pkR3IU8zXngIXbUjV2gVe"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Sentient EP",
+        "url": "https://open.spotify.com/album/5Nxfg3K5QxTGiHS1ky8cUS"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 274148,
+      "name": "Sentient",
+      "url": "https://open.spotify.com/track/2b02PKAw1WU0W9RigoAP1Q"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 283902,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Add-us",
+          "url": "https://open.spotify.com/artist/2LjaWk8PYlB8M4Cz6MLHGJ"
+        }
+      ],
+      "duration_ms": 252063,
+      "name": "Nami",
+      "url": "https://open.spotify.com/track/3eXH9a9Hxb4GiQXXUygxvy"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "The Belonging",
+        "url": "https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 236975,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/6MLU9TwtV5mAu7E2pfQEgv"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Joshlane",
+          "url": "https://open.spotify.com/artist/1FoIjRlwZYcqNjwZCh7d6P"
+        }
+      ],
+      "duration_ms": 194464,
+      "name": "System Overload",
+      "url": "https://open.spotify.com/track/1zlxe6aLcK8bIrPvFkYdMN"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Endeavour",
+        "url": "https://open.spotify.com/album/78rwQpovCXsZhc1bplaUIc"
+      },
+      "artists": [
+        {
+          "name": "Denes Toth",
+          "url": "https://open.spotify.com/artist/2Bg95LBg2XwB043OQPWAjQ"
+        },
+        {
+          "name": "Yubik",
+          "url": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
+        }
+      ],
+      "duration_ms": 317382,
+      "name": "Endeavour - Yubik Remix",
+      "url": "https://open.spotify.com/track/2vzJKatRMtJnP2oBeu4f6x"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "duration_ms": 206663,
+      "name": "HIDE",
+      "url": "https://open.spotify.com/track/0Y7EeiWe7JsEHsLs0Lpn1I"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Entropy (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/5qzyfGzhUm5YoruJeQRtiI"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "PACS",
+          "url": "https://open.spotify.com/artist/0JQQmVsckc2tcIfzyaIoMc"
+        }
+      ],
+      "duration_ms": 217507,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/6CuUo1BS7kHR880ioZA4kB"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "duration_ms": 235183,
+      "name": "Give You My All",
+      "url": "https://open.spotify.com/track/2QjNW22Y9WEonQkJjIOVV8"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 195238,
+      "name": "Simulation",
+      "url": "https://open.spotify.com/track/6ipbWRqL9jAQT9Skvuf3aP"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Quantum",
+      "url": "https://open.spotify.com/track/6fPkKnzWCeAM6O7XQ6UYPQ"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/2qUTOlPGREFMWzFjPY0qzZ"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        }
+      ],
+      "duration_ms": 353280,
+      "name": "Smoke (Extended Mix)",
+      "url": "https://open.spotify.com/track/1yaub000yK6ERyH5FqTl9p"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Do For Your Love",
+        "url": "https://open.spotify.com/album/3bXzAamzshpdQlDn3ijyCT"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 245211,
+      "name": "Do For Your Love",
+      "url": "https://open.spotify.com/track/3kg6XwcUY1eRJ3ntWvZeSY"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Alone (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/4NeAALY2Y5w5UnEaVmqjgp"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 376279,
+      "name": "Alone - Four Tet Remix",
+      "url": "https://open.spotify.com/track/33gpxTp8FlcGTyj9ksswGe"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/2qUTOlPGREFMWzFjPY0qzZ"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 324285,
+      "name": "All Of The Lights (Extended Mix)",
+      "url": "https://open.spotify.com/track/60iF1pHsFh1t9mkJFKucXi"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/5kGNghKaOm4WCTNFAdmnDX"
+    },
+    {
+      "added_at": "2025-11-17 17:24:21",
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/0R6E19xuHfcWBuUX5VC5rg"
+      },
+      "artists": [
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        },
+        {
+          "name": "DAMEN",
+          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/6DJc0UvXBsVJpvK3XwQgQq"
+    }
+  ],
+  "unique_name": "Tale Of Us' track IDs",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYSp7hjZhav2"
+}

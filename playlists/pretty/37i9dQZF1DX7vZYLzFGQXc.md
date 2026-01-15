@@ -1,0 +1,62 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain](/playlists/plain/37i9dQZF1DX7vZYLzFGQXc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7vZYLzFGQXc)
+
+### [Best of Fresh Finds Korea 2025 ](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
+
+> 스포티파이 뮤직 에디터가 선정한 2025 베스트 트랙입니다\. \(Cover: can’t be blue\)
+
+[Spotify](https://open.spotify.com/user/spotify) - 62,201 likes - 50 songs - 2 hr 44 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [죽어버릴것같아](https://open.spotify.com/track/4Sf5BzR8BYE8IIhiLTTJKR) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [죽어버릴것같아](https://open.spotify.com/album/56lw5jFogVgKW9wZGuqPjG) | 3:24 |
+| 2 | [Stuffy Driver](https://open.spotify.com/track/3ecSR7l6y3cl3ZqQF5HcnC) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [Stuffy Driver](https://open.spotify.com/album/5jHAPe0kbR5caIHDm3BtqG) | 3:02 |
+| 3 | [Petty Thief \(Basecamp Remix\)](https://open.spotify.com/track/2VVadP8EuRhhKnBsXZZqMK) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Petty Thief \(Basecamp Remix\)](https://open.spotify.com/album/6R2HO9qN2IVkYPBe24KKyR) | 2:41 |
+| 4 | [PATIO](https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [sunkissed](https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb) | 2:40 |
+| 5 | [Unconditional love](https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [Unconditional love](https://open.spotify.com/album/6v2Sga9KGrbiYUwbbkVE1n) | 3:50 |
+| 6 | [Hool Hool](https://open.spotify.com/track/2sXnBoZGYGnwLWC3ukomGm) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [HOOL HOOL](https://open.spotify.com/album/6X2HcQCUuqRbibsIbNIdR4) | 3:30 |
+| 7 | [Trauma](https://open.spotify.com/track/7KE80Djfl8WR02D89E1hXS) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.07](https://open.spotify.com/album/0X7Z8bDpZkDzIoIv3JXf4n) | 4:04 |
+| 8 | [Get up](https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Scent](https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN) | 3:57 |
+| 9 | [Last Scene](https://open.spotify.com/track/0tJU0IwpKmUSg2uFOZ7RC6) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Last Scene](https://open.spotify.com/album/1FMpS9DvBEDsGVkYKDSTBa) | 3:46 |
+| 10 | [Hard to Say](https://open.spotify.com/track/3d66TxP7B3pPzEC9vSWKuX) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Hard to Say](https://open.spotify.com/album/6OaIRvMkFS4fJxmHEWVXn2) | 3:14 |
+| 11 | [Nightmare](https://open.spotify.com/track/2LKOR5LWYep8NUfuHDzJTw) | [Mischiefers](https://open.spotify.com/artist/0MTXUD8nmQFUC6v4xRc8aI) | [Nightmare](https://open.spotify.com/album/7tgArUxacLoK9bF44wakOa) | 4:24 |
+| 12 | [First Sight](https://open.spotify.com/track/5trjbfsHbyxkcLdkq7aLN2) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/25K852Vuj9m7hf21rKr6Ra) | 3:33 |
+| 13 | [Like You](https://open.spotify.com/track/45jEOvG3aufhNH0sNqrALd) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Like You](https://open.spotify.com/album/6pmhnoMFLa3e6wf0BtfV2N) | 4:46 |
+| 14 | [To the moon and back](https://open.spotify.com/track/09xUY0s4ADHpnViDL2bYaJ) | [Zoe](https://open.spotify.com/artist/6JNr5y6SiFFr6fO6d7I0UH) | [To the moon and back](https://open.spotify.com/album/4Ln7FFYf1WQm8XSpQUxNpm) | 3:35 |
+| 15 | [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 |
+| 16 | [Ben & Jerry \(Feat\. JUNNY\)](https://open.spotify.com/track/7BO6f9TAUgWUPP4UQays7o) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Ben & Jerry \(Feat\. JUNNY\)](https://open.spotify.com/album/7rkISMCCRWqsE4jXBqLRir) | 2:18 |
+| 17 | [To you.](https://open.spotify.com/track/60KO4Jd3LaG7XOJflLZ224) | [myojin](https://open.spotify.com/artist/1CAP5RxIYcoJ5aosA5xCC3) | [To you.](https://open.spotify.com/album/2cnQUJet3W9uEuPJ87RfZ6) | 3:52 |
+| 18 | [Enough](https://open.spotify.com/track/1sFMTojas7jlOM7idhAdSn) | [Halsoon](https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG) | [Enough](https://open.spotify.com/album/3vD2JcQ4hee4g7if0CQjLR) | 2:36 |
+| 19 | [Me, Myself & I](https://open.spotify.com/track/1xvZEUFAyzQcphDpMrjDs9) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Me, Myself & I](https://open.spotify.com/album/1OsWJNxJABp62RsCo4Mcmb) | 3:04 |
+| 20 | [Handkerchief](https://open.spotify.com/track/4h0Ihfvf0oa0gTVMcZFJVH) | [기태](https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6) | [Handkerchief](https://open.spotify.com/album/3y3lIqzLOKLFid7d2mXZLy) | 3:37 |
+| 21 | [Zzz for You](https://open.spotify.com/track/71mOvCRYjX5gU7gNltBihp) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Zzz for You](https://open.spotify.com/album/1WJfNvZMBLkaPrYBPVRwcv) | 2:54 |
+| 22 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 |
+| 23 | [Red Flag](https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Red Flag](https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB) | 3:10 |
+| 24 | [Cocoa](https://open.spotify.com/track/0EjHPktdg1klqlZFIkK0fk) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [COCOA](https://open.spotify.com/album/6s5P7lk17DKel6JCpEvexk) | 3:14 |
+| 25 | [Hurt](https://open.spotify.com/track/0fqFpVkTs8dY5SZMmyY9Bh) | [SRA](https://open.spotify.com/artist/6ajLYP0hhsrxlmJQWqDruk) | [Hurt](https://open.spotify.com/album/1Ip0Q63pL9yWhLTLbyqKw6) | 3:19 |
+| 26 | [Don't Cry](https://open.spotify.com/track/00J5g1QoLIInU4XER7JLMu) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [bo1](https://open.spotify.com/album/7ievUM2bjICgHvTPVSu9e0) | 2:52 |
+| 27 | [Worry Monster](https://open.spotify.com/track/5EdaSMC0jEg3h8ByazJmjT) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [Worry Monster](https://open.spotify.com/album/0DxeZn68faBLSdUZeoPLDv) | 2:47 |
+| 28 | [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 |
+| 29 | [Baby Step \(feat\. siso\)](https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Baby Step](https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq) | 3:01 |
+| 30 | [No Look](https://open.spotify.com/track/6uWbwbBteI7SnCyPCVuWXU) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [Foggyatthebottom](https://open.spotify.com/artist/3fXHHmLxAY43pSTlWnbYd7) | [No Look](https://open.spotify.com/album/54TAga0U0ZrNmSYDO0t7Bd) | 2:32 |
+| 31 | [water drop](https://open.spotify.com/track/6cGSFAkpPuO4ray6C6IwNp) | [zfuul](https://open.spotify.com/artist/34vy394kjoH1hmTYmIAMnx) | [kyeon](https://open.spotify.com/album/7on3hpcrztRDoNM24qLGDO) | 4:50 |
+| 32 | [First Step](https://open.spotify.com/track/2CwoQbjMZDOyzihiVEczrR) | [빅선](https://open.spotify.com/artist/6dHi2MD6sC6yfuuORMamMK) | [RISE ABOVE](https://open.spotify.com/album/4HEwRyWp6Boo6tFWgIRQg7) | 2:27 |
+| 33 | [Wish](https://open.spotify.com/track/6H9l0RfXdUh5yCmVS0DKp9) | [KYSB](https://open.spotify.com/artist/55LpuSDAoOdp4kESDapt3i) | [Wish](https://open.spotify.com/album/7dusuXy4RDf3KLm0M43Tax) | 3:57 |
+| 34 | [The Summer We Shared](https://open.spotify.com/track/0BtqyDF7zslNB6aXx1sQZl) | [TOVE](https://open.spotify.com/artist/0wF5o1LMXTCIFKdPNkCvze) | [Echoes of Summer](https://open.spotify.com/album/5SRvSeWEjPKy2dqBUkUxeb) | 3:03 |
+| 35 | [Umbrella \(10:00\)](https://open.spotify.com/track/13dcUFDRNgIPuy0d7S0C3g) | [JUNHEE](https://open.spotify.com/artist/19edNqjH3rTGrvHs9VF9Xe) | [The First Day & Night](https://open.spotify.com/album/0sYYE05FeBWONVaAWg3cPt) | 3:28 |
+| 36 | [Harley](https://open.spotify.com/track/7qgTYPbzMfRnIHpNsBUiF8) | [OAH!](https://open.spotify.com/artist/5SH8ZbsJIqONusEcizNep3) | [Harley](https://open.spotify.com/album/37mJ7IDU6PeCD5pRaUPlLo) | 2:13 |
+| 37 | [The Truth Within](https://open.spotify.com/track/6Ozu50nxI1FVMCKzZ8l4LM) | [Yeoro](https://open.spotify.com/artist/2H33No6rbjBG2G5bQYcQJo), [Jeoung iun](https://open.spotify.com/artist/7whA7N4NJICicvcKOU8nkl) | [The Truth Within](https://open.spotify.com/album/0iD1uqSc0Ngf1tVcSI84Vm) | 3:46 |
+| 38 | [ease](https://open.spotify.com/track/2UuBsH8yc2HWsZgYwQFGuR) | [Ghim Reezn](https://open.spotify.com/artist/6sA91BD6gLqVE0tyyxx5zI) | [ease](https://open.spotify.com/album/7y0O4fVqSwFSaPgpahelAU) | 2:12 |
+| 39 | [no love to love](https://open.spotify.com/track/41n6rXEGR6d95mc0M7rBDa) | [yawn](https://open.spotify.com/artist/3vodBtJFpi0OtCviDMOHYc) | [no love to love](https://open.spotify.com/album/4D9OCFrGfPGBghK5kU4D7r) | 3:39 |
+| 40 | [Movie](https://open.spotify.com/track/2i9YP5Olads9g9bEE6Gxm0) | [heeju](https://open.spotify.com/artist/7K57siwKn5EnZAGr6dD9Ct) | [Movie](https://open.spotify.com/album/5f3UPSNId36pblBYOBQVu0) | 2:46 |
+| 41 | [Summer breeze](https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [Summer breeze](https://open.spotify.com/album/3V9CszsycSsdW58DzAIOk0) | 2:57 |
+| 42 | [In The Waves](https://open.spotify.com/track/2CHaA72LgJVFg8HpIUxJMf) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [In The Waves](https://open.spotify.com/album/3DFZJC49crxZ6MZsmxEQKH) | 3:48 |
+| 43 | [Seishun](https://open.spotify.com/track/1vAVFyB521VMfSzvkqnJos) | [we hate jh](https://open.spotify.com/artist/2im2jY0hW7pXNjHuGZxWfN) | [Seishun](https://open.spotify.com/album/5xVahNWfTeHN2tCFWrKwg8) | 4:00 |
+| 44 | [Aspirin & Boutique.mp3](https://open.spotify.com/track/27jP7JW47U1wfVoG4JQTui) | [LETO](https://open.spotify.com/artist/285lBSkYP90rbAfrASyMnQ) | [\[OVA\] DERIVED CITY : SCRAMBLE](https://open.spotify.com/album/4Ognz9XonmylFcd0NAc280) | 2:54 |
+| 45 | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \- Remix](https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS) | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \[Remix\]](https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh) | 2:50 |
+| 46 | [Concrete Valley](https://open.spotify.com/track/0fU8a6ynFpnDx4jECwGLWE) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Concrete Valley 0.5](https://open.spotify.com/album/53Y4VuYwteJcwIlB3PlVvW) | 2:35 |
+| 47 | [Blue to blue](https://open.spotify.com/track/5MZA4FuHdUp4gayeE3fHZ1) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Blue to blue](https://open.spotify.com/album/2BbQWzKxQe2JguIj4CYrtJ) | 3:54 |
+| 48 | [Perfect Timing](https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Turbulence: A Guide to Balance](https://open.spotify.com/album/3GFsHfijih7udSL8yTu3HR) | 3:09 |
+| 49 | [OMW](https://open.spotify.com/track/5IVqC7yn1Q0cMXAvwwFsmE) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq) | [OMW](https://open.spotify.com/album/3tzIgE0Lpie6rNgrFHDFha) | 2:18 |
+| 50 | [take me for granted](https://open.spotify.com/track/46712M20Ndt8S2s53bm5p5) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [corny plots](https://open.spotify.com/album/0zfLg9e00dK71hQxYzsmUO) | 4:00 |
+
+Snapshot ID: `AAAAAF6VCATdb7Vk8cQ1xpc1D4B/ov88`

@@ -1,0 +1,910 @@
+{
+  "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Mega Ran",
+  "num_followers": 120176,
+  "original_name": "Hip-Hop & R&B for Kids",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "AAAAAGeY9iY08HftJA/nni0Yy1JZHhVo",
+  "tracks": [
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Twinkle Twinkle Little Star (R&B Mix)",
+        "url": "https://open.spotify.com/album/5Q3Iil7zkkHuleuTAi5G18"
+      },
+      "artists": [
+        {
+          "name": "Snuggle Bunch",
+          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
+        }
+      ],
+      "duration_ms": 160281,
+      "name": "Twinkle Twinkle Little Star (R&B Mix)",
+      "url": "https://open.spotify.com/track/7N08aWRnOachynM7GX6nJj"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "SHADOWS",
+        "url": "https://open.spotify.com/album/2AWzBg2aG1OdcF6szNgwoe"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "Magic Sword",
+          "url": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
+        },
+        {
+          "name": "GameboyJones",
+          "url": "https://open.spotify.com/artist/1FDAJKaPzIzRHJrl3Smitm"
+        }
+      ],
+      "duration_ms": 152569,
+      "name": "SHADOWS",
+      "url": "https://open.spotify.com/track/0sqDgtFy2YOAoVgj4Kg42s"
+    },
+    {
+      "added_at": "2025-08-08 04:00:43",
+      "album": {
+        "name": "Be Kind Be You",
+        "url": "https://open.spotify.com/album/3ZMakxOH49FKu7SHkqd1EV"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 171502,
+      "name": "I Love Affirmations",
+      "url": "https://open.spotify.com/track/0jqFg0hKxEyfiW1JzmhgDw"
+    },
+    {
+      "added_at": "2025-08-01 04:00:26",
+      "album": {
+        "name": "Chasing Rainbows",
+        "url": "https://open.spotify.com/album/4dCcS4vZi4my5BVpcxkzec"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "duration_ms": 183669,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/2KO5OTMeX9iTzwLpBNI8Nm"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Buddy's Magic Tree House",
+        "url": "https://open.spotify.com/album/0jAohVRLiPG57RDek7zsUM"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "Last BeNeVoLeNcE",
+          "url": "https://open.spotify.com/artist/5fckpprZayLR6c9kQHDNdU"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "The Alphabet Jawn (feat. Last BeNeVoLeNcE)",
+      "url": "https://open.spotify.com/track/5Z6r91qTPWfCgUi32Lv6ya"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/0PQ19dPwxTPuv4FGxCk8kP"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        },
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        }
+      ],
+      "duration_ms": 267272,
+      "name": "Number 1 Fan",
+      "url": "https://open.spotify.com/track/7g4nkY0DO585W0yauxcHBX"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Hot Cross Buns",
+        "url": "https://open.spotify.com/album/1MeEOMlu2f1LznNyIU4QtC"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Hot Cross Buns",
+      "url": "https://open.spotify.com/track/5iXtge2WOKEFkZz90Z4sv8"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "The Bird Song",
+        "url": "https://open.spotify.com/album/4MQ7h2DfxK7VhQlppY5dvP"
+      },
+      "artists": [
+        {
+          "name": "Uncle Apple",
+          "url": "https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "The Bird Song",
+      "url": "https://open.spotify.com/track/6MMZkLNvSHIKvwQo14sMrz"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "ROBLOX FAMOUS",
+        "url": "https://open.spotify.com/album/0P5paC5kQ0sNhNg1lopKSz"
+      },
+      "artists": [
+        {
+          "name": "Coach Kody",
+          "url": "https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9"
+        }
+      ],
+      "duration_ms": 96293,
+      "name": "ROBUX",
+      "url": "https://open.spotify.com/track/2BSGB6RlG2PQYP9HsXiBaJ"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Make Learning Fun Again",
+        "url": "https://open.spotify.com/album/75UgDmStaBkhl4j4VQWVnM"
+      },
+      "artists": [
+        {
+          "name": "Ms. Houston",
+          "url": "https://open.spotify.com/artist/76DQljUzxmijCsi3AMnOyE"
+        }
+      ],
+      "duration_ms": 153617,
+      "name": "The Vowel Song",
+      "url": "https://open.spotify.com/track/2oE2ftQm75FFiJjCXAtOaB"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Fisher-Price Record Player - Hip Hop",
+        "url": "https://open.spotify.com/album/4uvBSaRjYIsXXli1vvWZrq"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 65431,
+      "name": "Nursery Rhyme Rap",
+      "url": "https://open.spotify.com/track/0iDfIHCS8JUWqN9UvrZnAx"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Big Kid Energy",
+        "url": "https://open.spotify.com/album/3YIkAwtzKdqWVvk1HtMLNG"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "duration_ms": 117209,
+      "name": "Big Kid Energy",
+      "url": "https://open.spotify.com/track/0plhaGeJwkHKIyqWG2uIY2"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Wheels on the Bus (feat. Paul Wall) (H-Town Remix)",
+        "url": "https://open.spotify.com/album/2YGI4DO6RtBUyTYTM8bApz"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "duration_ms": 143416,
+      "name": "Wheels on the Bus (feat. Paul Wall) (H-Town Remix)",
+      "url": "https://open.spotify.com/track/4h530TdFjTGeeoiLwRcY17"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Elephant Song",
+        "url": "https://open.spotify.com/album/1saNdYBtgdZ7xJJd2Nk8mR"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "duration_ms": 122526,
+      "name": "Elephant Song",
+      "url": "https://open.spotify.com/track/3ojab84Z6hRFFgNYkDpcLi"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/6LGNhLhl9W6noLznBi2QA9"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        }
+      ],
+      "duration_ms": 208234,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3KIQbhimKhUdiychQWegda"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Nick Jr. Mix It Up! Vol. 13: Move To The Groove (The Remixes)",
+        "url": "https://open.spotify.com/album/2s7pcrZt1MjlDJTvPaFmNW"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "duration_ms": 139194,
+      "name": "Clap Your Hands Everybody - Groove Remix",
+      "url": "https://open.spotify.com/track/0SZ47HNnI88FHhOGzVUC5s"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Celebrate!",
+        "url": "https://open.spotify.com/album/2fqSsy31vWs78Ga6h5us2j"
+      },
+      "artists": [
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        },
+        {
+          "name": "Divi Roxx Kids",
+          "url": "https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR"
+        }
+      ],
+      "duration_ms": 170280,
+      "name": "Celebrate!",
+      "url": "https://open.spotify.com/track/0ud8GbjknpHxDrhGZxwrFl"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "That Girl Lay Lay (Music from Season 2)",
+        "url": "https://open.spotify.com/album/5FHjNYrEKSnIUft6AOzUtK"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "That Girl Lay Lay",
+          "url": "https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ"
+        },
+        {
+          "name": "Good NEWZ Girls",
+          "url": "https://open.spotify.com/artist/72RsQdxG1n4NDTHnP9e4zs"
+        }
+      ],
+      "duration_ms": 130636,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/5PVSIUnD7HPhJdUOEkCa19"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Veggie Dance",
+        "url": "https://open.spotify.com/album/5rFResvBMH7atGl0pFSaUZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "duration_ms": 105124,
+      "name": "Veggie Dance - Steamed Broccoli",
+      "url": "https://open.spotify.com/track/2Ino5VIjhkchNGPk2WfQxO"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Magic Gemstones",
+        "url": "https://open.spotify.com/album/0kvyjC6X4tJ3oo6jhJlBGS"
+      },
+      "artists": [
+        {
+          "name": "Dee & Friends",
+          "url": "https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln"
+        }
+      ],
+      "duration_ms": 104629,
+      "name": "I Won\u2019t Shrink",
+      "url": "https://open.spotify.com/track/3nOqd6Ke2QPCoWV7Pyr5Ix"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Share With A Friend",
+        "url": "https://open.spotify.com/album/0eJvpFoxe5FN1k2YffWTWE"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "duration_ms": 120917,
+      "name": "Share With A Friend",
+      "url": "https://open.spotify.com/track/3H9Ua2hhkeuNnWcxdM2qbg"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "The Planets Song",
+        "url": "https://open.spotify.com/album/5vEi2fuwSvXk9C3mzTJAe1"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "duration_ms": 201318,
+      "name": "The Planets Song",
+      "url": "https://open.spotify.com/track/2bbeE4H4kCINFSUvQcprmE"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/33lzBchLB4ljXBgMfiu1xn"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "I'm Happy",
+      "url": "https://open.spotify.com/track/6r6o3KFnIjHq5oHh3KxEyo"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Cookie Jar",
+        "url": "https://open.spotify.com/album/65HIKw74shHz5R6zAQqqIL"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "duration_ms": 172913,
+      "name": "Cookie Jar",
+      "url": "https://open.spotify.com/track/01rRqiFCeG17apx187OJjo"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Eclipse: The Musical",
+        "url": "https://open.spotify.com/album/4bLwHgjmfLPcT1jl3zno2L"
+      },
+      "artists": [
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "duration_ms": 196543,
+      "name": "Syzygy",
+      "url": "https://open.spotify.com/track/1LBKOcvDxeoPzsP1hgQB5o"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Young Dylan Theme Song (Season 4)",
+        "url": "https://open.spotify.com/album/1HFUHzZNS8a5xQJ9jTjWF6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Perry's Young Dylan",
+          "url": "https://open.spotify.com/artist/0kvZqeOHqGNMGKFlFAKTbZ"
+        }
+      ],
+      "duration_ms": 31926,
+      "name": "Young Dylan Theme Song - Season 4",
+      "url": "https://open.spotify.com/track/6Tn86pGJaJr5kFn9XooZmw"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "NO BULLY ZONE",
+        "url": "https://open.spotify.com/album/2kF2YdgplUMr4snQdE6XGU"
+      },
+      "artists": [
+        {
+          "name": "Coach Kody",
+          "url": "https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9"
+        }
+      ],
+      "duration_ms": 84705,
+      "name": "NO BULLY ZONE",
+      "url": "https://open.spotify.com/track/7FZKNZn3aTCUYfUeG8YubE"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Sloth Song",
+        "url": "https://open.spotify.com/album/1CRGwitVzCfM6ruhkkCUjY"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "duration_ms": 160569,
+      "name": "Sloth Song",
+      "url": "https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Kids Dance Jams",
+        "url": "https://open.spotify.com/album/4QuhMdlQcRvXTe0zV7NTh1"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dennis",
+          "url": "https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "Dance in the Playroom",
+      "url": "https://open.spotify.com/track/2TfF7L9W79OdDaxdp2pKMo"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Affirmation Alphabets",
+        "url": "https://open.spotify.com/album/2fNNnhBbvYqbNTnubH9iiC"
+      },
+      "artists": [
+        {
+          "name": "Phonicsman",
+          "url": "https://open.spotify.com/artist/3uBROWn3YUw9MweORiLbFI"
+        }
+      ],
+      "duration_ms": 308036,
+      "name": "Affirmation Alphabets",
+      "url": "https://open.spotify.com/track/23EL7i3uZgzPROoD1NYL4b"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Believe In Yourself",
+        "url": "https://open.spotify.com/album/6Cr8zKBlb8QtPCHlDaJey7"
+      },
+      "artists": [
+        {
+          "name": "Cali Sad\u00e9",
+          "url": "https://open.spotify.com/artist/412wqueGF3MRBHjzYP5KQC"
+        }
+      ],
+      "duration_ms": 153303,
+      "name": "Believe In Yourself",
+      "url": "https://open.spotify.com/track/4fodXSNCm0wF9IfCjqA9SF"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Girls Run Everything",
+        "url": "https://open.spotify.com/album/0WWP0LfIdeu6zISoDKbJC3"
+      },
+      "artists": [
+        {
+          "name": "ZaZa",
+          "url": "https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn"
+        }
+      ],
+      "duration_ms": 109120,
+      "name": "Girls Run Everything",
+      "url": "https://open.spotify.com/track/79fkHlESwDh9Dq426rbmTn"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Shine Bright",
+        "url": "https://open.spotify.com/album/7xpTudRq1jnZtbsJKaVxsK"
+      },
+      "artists": [
+        {
+          "name": "Super Siah",
+          "url": "https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P"
+        }
+      ],
+      "duration_ms": 107808,
+      "name": "Shine Bright",
+      "url": "https://open.spotify.com/track/0vky4YTaxSuGlnSPjpWHt1"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Martin Luther King Jr. Song for Kids",
+        "url": "https://open.spotify.com/album/5tkC2owfO70QSvP9Pt5y7w"
+      },
+      "artists": [
+        {
+          "name": "Numberock",
+          "url": "https://open.spotify.com/artist/7dBwVUfKAtowGHK94FlzT8"
+        }
+      ],
+      "duration_ms": 324702,
+      "name": "Martin Luther King Jr. Song for Kids",
+      "url": "https://open.spotify.com/track/3LpC4X1bJYj2I1CFTrNvpM"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Ready Set Go!",
+        "url": "https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu"
+      },
+      "artists": [
+        {
+          "name": "Divi Roxx Kids",
+          "url": "https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR"
+        },
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        },
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        }
+      ],
+      "duration_ms": 176613,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/0qVGxEjXwJtHIcV2ool7M7"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "We Dance Full Out",
+        "url": "https://open.spotify.com/album/4KfRi7zVFxgR5GO33iLbTC"
+      },
+      "artists": [
+        {
+          "name": "Karma's World",
+          "url": "https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS"
+        }
+      ],
+      "duration_ms": 142841,
+      "name": "Girls Do It Best",
+      "url": "https://open.spotify.com/track/0Nk5gkcSIkSu29m4XO95mq"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6TyZrOw86JmHZu9TxHW794"
+      },
+      "artists": [
+        {
+          "name": "Grey Skye Evans",
+          "url": "https://open.spotify.com/artist/0xcZxQPXuEniKbWwUMvPPP"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/4YUplkqWWGV9huYJFAKjyY"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "AnceStars",
+        "url": "https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc"
+      },
+      "artists": [
+        {
+          "name": "Pierce Freelon",
+          "url": "https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG"
+        },
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        },
+        {
+          "name": "Jarrett Johnson",
+          "url": "https://open.spotify.com/artist/7s9DvOkGwaNtMa4jPXPpLt"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Help You Do The Work",
+      "url": "https://open.spotify.com/track/4odnaqDDzJuQPTQ69AC7wJ"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Straight Outta Recess",
+        "url": "https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Blazer Fresh",
+          "url": "https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0"
+        }
+      ],
+      "duration_ms": 129142,
+      "name": "SUBS",
+      "url": "https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Daydream Baby",
+        "url": "https://open.spotify.com/album/1wpzMFGu7KpRz6f7PGkxtS"
+      },
+      "artists": [
+        {
+          "name": "Secret Agent 23 Skidoo",
+          "url": "https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q"
+        }
+      ],
+      "duration_ms": 206703,
+      "name": "Daydream Baby",
+      "url": "https://open.spotify.com/track/3vszROWz4cAi5lDYIVaA4W"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Reading is Amazing (World Book Day 2022)",
+        "url": "https://open.spotify.com/album/529nXtwRpnni4MtGtKrEJy"
+      },
+      "artists": [
+        {
+          "name": "MC Grammar",
+          "url": "https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN"
+        }
+      ],
+      "duration_ms": 179516,
+      "name": "Reading is Amazing (World Book Day 2022)",
+      "url": "https://open.spotify.com/track/1V2Ck7XdziVOmHBbXDujQy"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/34pHgSzZar4FBqXhB7anYU"
+      },
+      "artists": [
+        {
+          "name": "Aaron Nigel Smith",
+          "url": "https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4"
+        },
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/1T4TCM0A22kV5Ts0MhDas9"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "We Dance Full Out",
+        "url": "https://open.spotify.com/album/4KfRi7zVFxgR5GO33iLbTC"
+      },
+      "artists": [
+        {
+          "name": "Karma's World",
+          "url": "https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS"
+        }
+      ],
+      "duration_ms": 141083,
+      "name": "Dance Full Out",
+      "url": "https://open.spotify.com/track/3bV1JJ6ItRaTRdaDmlmm8x"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Adventures Of The Music Box",
+        "url": "https://open.spotify.com/album/1GwhMxPANknpYACqJCQU6C"
+      },
+      "artists": [
+        {
+          "name": "The Magic Jones",
+          "url": "https://open.spotify.com/artist/68k1fAn7fhJnsujFNEscyA"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/17rsWinx1UqahD9ntGdkyA"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Mee Wee: Hip Hop For Kids",
+        "url": "https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU"
+      },
+      "artists": [
+        {
+          "name": "Mee Wee",
+          "url": "https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp"
+        }
+      ],
+      "duration_ms": 135880,
+      "name": "Hiphop-O-Potamus - Feat. Jabari & Baby Power",
+      "url": "https://open.spotify.com/track/0ajAIY2IEOjJ4JFmlAEuvM"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Disney Junior Music: Rise Up, Sing Out",
+        "url": "https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U"
+      },
+      "artists": [
+        {
+          "name": "Rise Up, Sing Out - Cast",
+          "url": "https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 101624,
+      "name": "Create Your World",
+      "url": "https://open.spotify.com/track/5LxAmqmVkKAvtJruLIbCJX"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Hip Hope For Kids!",
+        "url": "https://open.spotify.com/album/6EV4fFV1l6P6s43QQSlBCo"
+      },
+      "artists": [
+        {
+          "name": "DJ WILLY WOW!",
+          "url": "https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY"
+        },
+        {
+          "name": "Armand Hutton",
+          "url": "https://open.spotify.com/artist/2tTTLk0nX4eKLe7H2o1nAA"
+        }
+      ],
+      "duration_ms": 79800,
+      "name": "Hold On To Hope",
+      "url": "https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "AnceStars",
+        "url": "https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc"
+      },
+      "artists": [
+        {
+          "name": "Pierce Freelon",
+          "url": "https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG"
+        },
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        },
+        {
+          "name": "Stella Freelon",
+          "url": "https://open.spotify.com/artist/07a4pfP7i1yw280o7TWBCk"
+        }
+      ],
+      "duration_ms": 113506,
+      "name": "ABC You A G",
+      "url": "https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Okay to Be Different",
+        "url": "https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23"
+      },
+      "artists": [
+        {
+          "name": "SaulPaul",
+          "url": "https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY"
+    },
+    {
+      "added_at": "2025-07-20 16:52:29",
+      "album": {
+        "name": "Taste The Sky",
+        "url": "https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5"
+      },
+      "artists": [
+        {
+          "name": "Uncle Jumbo",
+          "url": "https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI"
+        }
+      ],
+      "duration_ms": 182975,
+      "name": "Be You You You",
+      "url": "https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE"
+    }
+  ],
+  "unique_name": "Hip-Hop & R&B for Kids",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWX16Q183eyvd"
+}
