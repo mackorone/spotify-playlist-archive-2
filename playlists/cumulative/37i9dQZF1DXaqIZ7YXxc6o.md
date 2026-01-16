@@ -2,9 +2,9 @@
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Josh Baker
+> Your weekly dose of new dance\. Cover: Silva Bumpa, Paige Cavell, Josh Baker
 
-3,708 songs - 8 day 11 hr 23 min
+3,709 songs - 8 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1324,6 +1324,7 @@
 | [glitter & gold](https://open.spotify.com/track/4QXyIxPeo6sCrBqaVRcYeK) | [tori pepper](https://open.spotify.com/artist/09u9fSAUSjEhFmzEAukWxF) | [glitter & gold](https://open.spotify.com/album/2BABFIQA3yaP1EQjHUCikp) | 3:05 | 2025-05-08 | 2025-06-06 |
 | [Glow](https://open.spotify.com/track/4JKGJgJ4ub6N5vzQndwEtJ) | [Lowbrain](https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek) | [Glow](https://open.spotify.com/album/1r76oW5JicUOGdu0TiMJj6) | 3:25 | 2025-05-01 | 2025-06-13 |
 | [Glow](https://open.spotify.com/track/4S5IrYGzvqHFD2rJGWuMsh) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Higher Lane](https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX) | [Glow](https://open.spotify.com/album/5ARVaKhNQ1MWvmYz8f19zb) | 3:16 | 2025-01-23 | 2025-02-28 |
+| [GLOW\. \(Blusher Remix\)](https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [GLOW\. \(Blusher Remix\)](https://open.spotify.com/album/2r2imdB1FzSZzzsOHfyyna) | 2:05 | 2026-01-15 |  |
 | [Go Ghost](https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Go Ghost](https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm) | 3:29 | 2024-03-07 | 2024-04-12 |
 | [Go Low](https://open.spotify.com/track/2Co42vtSwYwu8ZsKjgeYZT) | [Craig Isto](https://open.spotify.com/artist/6VpPEumiAuTa48CV90GzY9), [Jaybeecombz](https://open.spotify.com/artist/3U3lYfjXKhvJIJj7AbSLS2) | [GENESIS](https://open.spotify.com/album/7cm0MRewpVZnymPFzGoSRj) | 2:17 | 2023-11-02 | 2023-11-25 |
 | [Go Mode](https://open.spotify.com/track/0Rxn4PqpW2wiNhj5a3Sjgd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Go Mode](https://open.spotify.com/album/7Fph1Fv8ybagzOa8If8oVg) | 3:08 | 2026-01-15 |  |

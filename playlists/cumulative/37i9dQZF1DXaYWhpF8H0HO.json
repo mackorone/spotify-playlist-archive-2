@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Jevin Julian",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Rubina",
   "name": "Ke Seberang",
   "tracks": [
     {
@@ -292,6 +292,24 @@
       "duration_ms": 212598,
       "name": "^ANOTHER:night.a.w.y.o.m.m^ (Mardial ver.)",
       "url": "https://open.spotify.com/track/02Ef340mhGp7N2LgvZlimQ"
+    },
+    {
+      "album": {
+        "name": "A Little Less",
+        "url": "https://open.spotify.com/album/7lfeZvHZKJsmsnJEpiyNxi"
+      },
+      "artists": [
+        {
+          "name": "Christabelle Marbun",
+          "url": "https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185421,
+      "name": "A Little Less",
+      "url": "https://open.spotify.com/track/5wm3593QMwEU7Ga9XPqIc9"
     },
     {
       "album": {
@@ -952,6 +970,28 @@
       "duration_ms": 196459,
       "name": "Be My Bee",
       "url": "https://open.spotify.com/track/0tviaBrX0d4oi6eX8VmRF0"
+    },
+    {
+      "album": {
+        "name": "Be Okay",
+        "url": "https://open.spotify.com/album/057yKn8ofGrnK3057HMXNn"
+      },
+      "artists": [
+        {
+          "name": "Manerole",
+          "url": "https://open.spotify.com/artist/3xlUrDBWcUTE1Su96f9L3s"
+        },
+        {
+          "name": "Kathleen Ivanka",
+          "url": "https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259578,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/2fpTQ96rmDiG1OF7thuQOn"
     },
     {
       "album": {
@@ -1808,6 +1848,28 @@
       "duration_ms": 184000,
       "name": "Circles",
       "url": "https://open.spotify.com/track/1fWPzgWTHyE1T6tDewESHU"
+    },
+    {
+      "album": {
+        "name": "Clich\u00e9",
+        "url": "https://open.spotify.com/album/76ZsaotUcUGLaEUYjdiRas"
+      },
+      "artists": [
+        {
+          "name": "vievv",
+          "url": "https://open.spotify.com/artist/3W3rTSU10U0mAlzJwFEXkn"
+        },
+        {
+          "name": "Akira Andana",
+          "url": "https://open.spotify.com/artist/3DMXuvIwzYDSgzuGAXcriF"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195408,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/3Ou8x84gXbsKR6zQs5Y5we"
     },
     {
       "album": {
@@ -5509,6 +5571,28 @@
     },
     {
       "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/5awMsXhDF2KuygL0l3ZH0O"
+      },
+      "artists": [
+        {
+          "name": "OJA Records",
+          "url": "https://open.spotify.com/artist/3gI5NRSwnCDNtfSne6rDiY"
+        },
+        {
+          "name": "Delorians",
+          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/5oMw58scOzi2k5LjfmINLu"
+    },
+    {
+      "album": {
         "name": "Lebih Indah Berpisah",
         "url": "https://open.spotify.com/album/6jiHQGiwBkO07DpUEDdvR8"
       },
@@ -5582,6 +5666,24 @@
       "duration_ms": 230666,
       "name": "let me go",
       "url": "https://open.spotify.com/track/6TWugtzLkUTWnyiHhGmj6n"
+    },
+    {
+      "album": {
+        "name": "Let Me Know When You Get Home",
+        "url": "https://open.spotify.com/album/3Joeu5aierqwOgX5w03uRR"
+      },
+      "artists": [
+        {
+          "name": "Rubina",
+          "url": "https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204581,
+      "name": "Let Me Know When You Get Home",
+      "url": "https://open.spotify.com/track/2xxKabGFfWwz1ScgpK20U1"
     },
     {
       "album": {

@@ -393,6 +393,28 @@
     },
     {
       "album": {
+        "name": "Adada Intha Kodumai",
+        "url": "https://open.spotify.com/album/324JcfpDKbLgghszhfyTdW"
+      },
+      "artists": [
+        {
+          "name": "Franco Simon",
+          "url": "https://open.spotify.com/artist/6tcu1ARwWGIikIrqQXVgh7"
+        },
+        {
+          "name": "JASEER",
+          "url": "https://open.spotify.com/artist/4Ha7I3MhUa1ynp7RghjQxa"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234831,
+      "name": "Adada Intha Kodumai",
+      "url": "https://open.spotify.com/track/299rRlmRARflvRRrGb7uh3"
+    },
+    {
+      "album": {
         "name": "ADAYALAM (FLOP)",
         "url": "https://open.spotify.com/album/1UAyjXU0DRzZk58fNymesb"
       },
@@ -610,7 +632,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 218823,
       "name": "Adiye Paduthadha",
       "url": "https://open.spotify.com/track/0eJfW6OvnpAlU4c7j3Y7Sj"

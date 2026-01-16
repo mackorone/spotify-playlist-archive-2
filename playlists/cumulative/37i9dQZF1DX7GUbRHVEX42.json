@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of current & contemporary Reggae.  Cover: Haile",
+  "description": "The best of current & contemporary Reggae.  Cover: Protoje, Damian Marley",
   "name": "Irie",
   "tracks": [
     {
@@ -375,6 +375,28 @@
     },
     {
       "album": {
+        "name": "At We Feet (with Damian Marley)",
+        "url": "https://open.spotify.com/album/4Fg8syQhosyT8TpB8di7w9"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227680,
+      "name": "At We Feet (with Damian Marley)",
+      "url": "https://open.spotify.com/track/6DM5avm0wR2u3o4JytFHW2"
+    },
+    {
+      "album": {
         "name": "Baby Blue",
         "url": "https://open.spotify.com/album/4XrQjdrNKg4S5j1AVHvPQh"
       },
@@ -390,6 +412,28 @@
       "duration_ms": 174938,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/6AfX87cuEDIb71QFoRsBw8"
+    },
+    {
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2fXdXcYiFoDrb8VKXPDRQY"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Crawba Genius",
+          "url": "https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/0iYz835jZ1PKFs8BAwikFz"
     },
     {
       "album": {
@@ -568,7 +612,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 217114,
       "name": "Born A Rebel",
       "url": "https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6"
@@ -1580,7 +1624,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 236000,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6"
@@ -3815,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/2xJHm1NzkLb4GRiuvuWuuP"
+      },
+      "artists": [
+        {
+          "name": "Ireland Boss",
+          "url": "https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164584,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1BsU0laG5uKASTR51pVGwN"
+    },
+    {
+      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
       },
@@ -5108,7 +5170,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6U03Hec6J70xDYfiQdJZdY.md) - [plain]
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-[Topsify](https://open.spotify.com/user/topsify) - 21,268 likes - 83 songs - 4 hr 27 min
+[Topsify](https://open.spotify.com/user/topsify) - 21,267 likes - 83 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

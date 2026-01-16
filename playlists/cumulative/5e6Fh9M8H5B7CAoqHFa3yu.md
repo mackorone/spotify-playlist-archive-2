@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,734 songs - 4 day 8 hr 55 min
+1,735 songs - 4 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Climax](https://open.spotify.com/track/5ZOLTTGTuiwf8joS2gKD2F) | [Daniel Asciros](https://open.spotify.com/artist/58G7REknkNjf2GRF1nNI0Z) | [Climax](https://open.spotify.com/album/0tUb8yu4Uy7lTTApwFfDZA) | 3:37 | 2025-06-30 |  |
 | [Clonazepam](https://open.spotify.com/track/4qggI8I4GdjeAFttyFLf0o) | [Adrian Quickus](https://open.spotify.com/artist/5VdLBmGaaSDMvAIcJmAcHf) | [Clonazepam](https://open.spotify.com/album/5E4cZn80csF6HwNtLVJeOU) | 2:35 | 2025-06-09 |  |
 | [Closer to Jah](https://open.spotify.com/track/1TOABTELrbUcgF9VmW53ZQ) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:38 | 2024-03-23 |  |
+| [Coffee in Cortina](https://open.spotify.com/track/1TNIf3WyutMSNRWZGq8QLZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Cortina](https://open.spotify.com/album/3pr0rJE67WeyE80oCfheLH) | 3:28 | 2026-01-16 |  |
 | [Coffee in Milano](https://open.spotify.com/track/4wsPvkuY4bHwXXYqExwgAh) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Milano](https://open.spotify.com/album/5CaZY1VbdJAJ7uIjMIwx2v) | 3:56 | 2025-10-17 |  |
 | [Coffee in New York](https://open.spotify.com/track/2kAgs1LUk4z7UCDFZ6GBrW) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in New York](https://open.spotify.com/album/5wolzIv4nc5hb4nMSK5HGR) | 3:46 | 2025-12-16 |  |
 | [Coffee in New York](https://open.spotify.com/track/7HL26Bgq1HHVNXbKYBb84m) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:46 | 2025-12-19 |  |

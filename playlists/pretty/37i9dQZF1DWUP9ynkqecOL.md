@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,652 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,657 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 45 | [DUALQ](https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [DUALQ](https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ) | 3:55 |
 | 46 | [Carnabailito](https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 5:25 |
 | 47 | [Quita La Pena](https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d) | [Terraplén](https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe) | [Terraplén](https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q) | 3:56 |
-| 48 | [Antiguos Dueños de las Flechas](https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Tonolec](https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc) | 4:24 |
+| 48 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
 | 49 | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Ruido Selecto](https://open.spotify.com/artist/0KF0b0vIeTNPIzYSIAOAPu) | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ) | 3:20 |
-| 50 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
+| 50 | [Antiguos Dueños de las Flechas](https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Tonolec](https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc) | 4:24 |
 | 51 | [Telesita](https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK), [Natalia Schvartz](https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05) | [Telesita](https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI) | 4:24 |
 | 52 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 |
 | 53 | [Susurro \- Matanza Remix](https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Susurro \(Matanza Remix\)](https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD) | 5:02 |

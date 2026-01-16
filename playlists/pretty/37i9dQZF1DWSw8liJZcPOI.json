@@ -1,6 +1,6 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 234127,
+  "num_followers": 234157,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
@@ -3635,6 +3635,22 @@
     {
       "added_at": "2025-12-22 16:00:37",
       "album": {
+        "name": "The Time It Takes",
+        "url": "https://open.spotify.com/album/3VUREi1t32vVvHnr01Kjkr"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/4GseyfbqLyCeaUeXOmsCY2"
+    },
+    {
+      "added_at": "2025-12-22 16:00:37",
+      "album": {
         "name": "Itasca",
         "url": "https://open.spotify.com/album/09bjLlMvqD9DdXFApfZQen"
       },
@@ -3651,22 +3667,6 @@
       "duration_ms": 166879,
       "name": "Itasca",
       "url": "https://open.spotify.com/track/4rCH64jtPj5dp8jSXAVYWg"
-    },
-    {
-      "added_at": "2025-12-22 16:00:37",
-      "album": {
-        "name": "The Time It Takes",
-        "url": "https://open.spotify.com/album/3VUREi1t32vVvHnr01Kjkr"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/4GseyfbqLyCeaUeXOmsCY2"
     },
     {
       "added_at": "2025-12-22 16:00:37",

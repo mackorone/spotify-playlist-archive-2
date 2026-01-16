@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 277 likes - 3,890 songs - 8 day 14 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 277 likes - 3,891 songs - 8 day 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3898,5 +3898,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3888 | [LE LINGUE](https://open.spotify.com/track/55nl8mnWrS5cSisYRKZlnd) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [UNA DANZA SENZA FINE](https://open.spotify.com/album/240vYhl7VOgdme2OPuIRmq) | 3:58 |
 | 3889 | [Life goes on](https://open.spotify.com/track/4zfXcdpq3jpUqhYkzAHcUJ) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Life goes on](https://open.spotify.com/album/45a7pL38m9hkThDfPxmdMM) | 3:33 |
 | 3890 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 |
+| 3891 | [Рыжая девочка\-осень](https://open.spotify.com/track/4H7o6gTT8S1PoK5xsHAWCR) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень](https://open.spotify.com/album/4K91LPYMgFjWnGBalCGnRO) | 2:23 |
 
-Snapshot ID: `AAAGwiKbZdnBpeQtXJ9x9wGl0eNJ8Pao`
+Snapshot ID: `AAAGwyp4smYzeuv7nW/z1bQz4CmtpIA0`

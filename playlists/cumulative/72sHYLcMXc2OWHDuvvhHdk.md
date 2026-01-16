@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,961 songs - 4 day 18 hr 56 min
+1,964 songs - 4 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Blind Faith](https://open.spotify.com/track/3nntpWzSUm61YaLy5MYqTm) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Blind Faith](https://open.spotify.com/album/2dvToE0xWlFUbh0GhFxaWB) | 3:38 | 2025-12-09 |  |
 | [Bloom](https://open.spotify.com/track/4eNgts8BOgZyHyqiJhZfWr) | [Debra\-Jean Creelman](https://open.spotify.com/artist/3HxOpbJmZGEnco2SGbmqQY), [Kendel Carson](https://open.spotify.com/artist/2W8FruCxhU62g9jJ8cJESg) | [Bloom](https://open.spotify.com/album/250rDq4Nt802fdfXDCHCTV) | 3:34 | 2025-11-17 |  |
 | [Blooming Again](https://open.spotify.com/track/3gIQIxKCOukekF7aa32BY7) | [Joe Scorza](https://open.spotify.com/artist/6b5cTvps5wIFbHnFWAFixd) | [All Right Turns](https://open.spotify.com/album/1PP9lvcH5UNGIs3U5rghzh) | 2:49 | 2024-07-12 |  |
+| [Blowing in the waves](https://open.spotify.com/track/2da8OZtalIiCX15QOoKkXZ) | [David Aznar Mathonneau](https://open.spotify.com/artist/55aJFxW0hS5JeoJwnXkeNg) | [Blowing in the waves](https://open.spotify.com/album/2eAzFBLjEaKaDv7u7elZon) | 2:17 | 2026-01-15 |  |
 | [Blue Eyes](https://open.spotify.com/track/7fTFbMDIHHesfVEATPyX7e) | [Stef Paglia](https://open.spotify.com/artist/1Zv8l9gDgPcG3ZwTsN9jNb) | [Light & Darkness](https://open.spotify.com/album/1rw7nYTqcS4tD6Z74Ic8hq) | 3:47 | 2024-12-10 |  |
 | [Blue Heels](https://open.spotify.com/track/3lxWP60NqFSOmKUggoZ7fH) | [SAXOFROGO](https://open.spotify.com/artist/1b5mUtK7a2hXLuhK8BS64T) | [Blue Heels](https://open.spotify.com/album/4lkMCAN1n6lwQ1F4eh4d0P) | 2:43 | 2025-12-19 |  |
 | [Blue Remains](https://open.spotify.com/track/0q0C1zBXfvI8hmlSYnHU92) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Blue Remains](https://open.spotify.com/album/7c7rpfOSwalELKta4ODPnN) | 4:37 | 2025-06-23 |  |
@@ -1377,6 +1378,7 @@
 | [Roll The Seminole](https://open.spotify.com/track/55nOMhek906L21n5E38fZE) | [Gavin Burch](https://open.spotify.com/artist/3qBnOfpyN6zcVZshy4HWkG) | [Hairball](https://open.spotify.com/album/4M2jPZ9TMb3S1jrHR5kWhp) | 2:16 | 2025-09-01 |  |
 | [Roses](https://open.spotify.com/track/247MRY3Cbust5YB0Py5gxz) | [Lian](https://open.spotify.com/artist/2sOcUxLnqrruZJRN6m0GzE) | [Roses](https://open.spotify.com/album/0NjovRnD5unUBDJ7U8QH3G) | 4:10 | 2025-06-20 |  |
 | [Rosie Said](https://open.spotify.com/track/4p6qymqebAQWqzLghZdBic) | [Parker](https://open.spotify.com/artist/0BmuwRNzKZ8DBg7DEMebdE) | [Rosie Said](https://open.spotify.com/album/7BbAyg9GhsvbIkgAnZvt3r) | 3:13 | 2025-06-26 |  |
+| [Rough Justice \- Electric Mix](https://open.spotify.com/track/58hDV5XKthZvHA9upaoisk) | [B.J Salyer](https://open.spotify.com/artist/0bqxjfiDpMt6MIrF6A17vN) | [Rough Justice \(Electric Mix\)](https://open.spotify.com/album/7zgWeIdxtoF0POy81ceCN7) | 3:50 | 2026-01-15 |  |
 | [Ruby Sparks](https://open.spotify.com/track/3P21QdeiX5u1KpIIPDmq9n) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/2tiFgOKF0HKloT87H7wDvP) | 4:14 | 2024-08-13 |  |
 | [Run Eternal](https://open.spotify.com/track/1xlyutv7RgzRILZYmZllKx) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Run Eternal](https://open.spotify.com/album/0LnrggCeiux2PQ35mKxp4p) | 5:21 | 2024-10-22 |  |
 | [Run It Back](https://open.spotify.com/track/3bmFOV1ZAoNS223B8tbouC) | [Thousand Foot View](https://open.spotify.com/artist/2UYQ1wbCbJVJlman2oDa93) | [Run It Back](https://open.spotify.com/album/2S3m1yAvJ2AtHW1x2XJswW) | 3:44 | 2025-03-11 |  |
@@ -1955,6 +1957,7 @@
 | [Потанцуй со мной](https://open.spotify.com/track/16VPoNNjPfXhmH4J2M3MDA) | [Алмазные рудники](https://open.spotify.com/artist/1Pzg3icbv2hR9yJ2b4WU0p) | [Там, где ты...](https://open.spotify.com/album/2Qw8e3RYWPEl6IhkH2cadJ) | 2:36 | 2025-04-02 |  |
 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 | 2026-01-14 |  |
 | [Славно](https://open.spotify.com/track/01gLdhCCNYtDeTO2vZ10uu) | [Dieori22](https://open.spotify.com/artist/1pT9dipei03s1GwAseDiC1) | [Славно](https://open.spotify.com/album/2DWIUxzOAYZvOhgjMLqb1k) | 4:10 | 2025-11-20 |  |
+| [Стихи усыпаны золой](https://open.spotify.com/track/15seLkH8hclkpoZeaqSqdU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:37 | 2026-01-15 |  |
 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2025-04-07 |  |
 | [Убийцы](https://open.spotify.com/track/3lnQzTbJSFD9thh1MLNLZU) | [Камбэк](https://open.spotify.com/artist/3VN76YECunIkzUExILxssC) | [Убийцы](https://open.spotify.com/album/2bV9cxmk7lGpQBHN8n4EdE) | 3:20 | 2024-09-01 |  |
 | [чёрный ворон](https://open.spotify.com/track/5cLJrWPW2qWQxIasNDbZEC) | [Katrina Paula Diringa](https://open.spotify.com/artist/2jNIzZ7kWDEP1sVA1SK4lq) | [чёрный ворон](https://open.spotify.com/album/0DOQYakmr9eboI0Zp6SLzY) | 3:59 | 2025-07-11 |  |

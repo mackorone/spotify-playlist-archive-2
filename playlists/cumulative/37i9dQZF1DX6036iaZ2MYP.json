@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Fiokee",
+  "description": "Tracks popping off in the Afro scene. Cover: NSG",
   "name": "Afro Station",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 153520,
       "name": "4H Du Mat (feat. Singuila)",
       "url": "https://open.spotify.com/track/6CLmCxIte8oAGHtvCwhGOm"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 177773,
       "name": "About Us (with Qing Madi)",
       "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
@@ -1912,6 +1912,28 @@
       "duration_ms": 162500,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/53YuOf7HDvRZvHEenrQR8V"
+    },
+    {
+      "album": {
+        "name": "Backa Butty",
+        "url": "https://open.spotify.com/album/3Rtm2GrXrc4ddU9W7UwEFy"
+      },
+      "artists": [
+        {
+          "name": "Titai",
+          "url": "https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173511,
+      "name": "Backa Butty",
+      "url": "https://open.spotify.com/track/4o5m5b4bF4NvacjmwQREoj"
     },
     {
       "album": {
@@ -6381,6 +6403,28 @@
     },
     {
       "album": {
+        "name": "Ebele",
+        "url": "https://open.spotify.com/album/5GjOVeuUYtY9D9h35i0Hb7"
+      },
+      "artists": [
+        {
+          "name": "Pson",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        },
+        {
+          "name": "J\u00e9r\u00e9mie Makiese",
+          "url": "https://open.spotify.com/artist/6VCBinAerlvZxvXSHAFVuq"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Ebele",
+      "url": "https://open.spotify.com/track/78IPY6Ttwv16zYD0RMez17"
+    },
+    {
+      "album": {
         "name": "Eburuje",
         "url": "https://open.spotify.com/album/1EuuhTGEwwuq77GKhiBgYX"
       },
@@ -6906,6 +6950,24 @@
       "duration_ms": 166350,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/5NcCuIJqdsnTB6YvSKx29j"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3GnI0yW22ARDItItoer9hf"
     },
     {
       "album": {
@@ -9492,7 +9554,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 197956,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
@@ -10950,7 +11012,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 141093,
       "name": "La Haine",
       "url": "https://open.spotify.com/track/0pClLhEyZaYI3CKFpwWyYr"
@@ -14136,7 +14198,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 171223,
       "name": "Need It",
       "url": "https://open.spotify.com/track/4g0p4eUXXGWns6Vuqb7Kfl"
@@ -14858,7 +14920,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 184615,
       "name": "Officer, Pt. 2",
       "url": "https://open.spotify.com/track/1wmJ47pSNRkxsyMyfemUPJ"
@@ -15278,6 +15340,24 @@
       "duration_ms": 176102,
       "name": "One Millie",
       "url": "https://open.spotify.com/track/5bCNQkOFtRYQdTkTe2g2CK"
+    },
+    {
+      "album": {
+        "name": "ONE TRACK MIND",
+        "url": "https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "ONE TRACK MIND",
+      "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
     },
     {
       "album": {
@@ -17034,6 +17114,24 @@
       "duration_ms": 158769,
       "name": "REVU OH (feat. Jungeli)",
       "url": "https://open.spotify.com/track/2GbgmXifJhSkonSTGXb8OE"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212306,
+      "name": "RIDER",
+      "url": "https://open.spotify.com/track/0pl8LizYbG6joZS67m8ldP"
     },
     {
       "album": {
@@ -20197,6 +20295,24 @@
     },
     {
       "album": {
+        "name": "Ukanigbe",
+        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169299,
+      "name": "Tumo Weto",
+      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
+    },
+    {
+      "album": {
         "name": "Morning Black",
         "url": "https://open.spotify.com/album/6DtlPtbowcvNlVLDTPTIY8"
       },
@@ -20362,6 +20478,24 @@
       "duration_ms": 126951,
       "name": "UNLIMITED",
       "url": "https://open.spotify.com/track/5Qt3tb5U0VvYbiQXW8SID9"
+    },
+    {
+      "album": {
+        "name": "Vanit\u00e9",
+        "url": "https://open.spotify.com/album/0V9hllhlNbHqK175smjlA1"
+      },
+      "artists": [
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124369,
+      "name": "Vanit\u00e9",
+      "url": "https://open.spotify.com/track/4tLdeAkxD7HoJBKYB5JZQx"
     },
     {
       "album": {

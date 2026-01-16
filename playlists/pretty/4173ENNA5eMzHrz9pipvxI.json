@@ -1,13 +1,29 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: TH;EN",
-  "num_followers": 118718,
+  "num_followers": 118713,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAgd1mldeFK2eRSxTLN7cre7mVP1K1i",
+  "snapshot_id": "AAAge2wUcuOYkN/1Qf8eNN1+rXQw/xwu",
   "tracks": [
+    {
+      "added_at": "2026-01-15 23:20:08",
+      "album": {
+        "name": "Positive Mental Attitude",
+        "url": "https://open.spotify.com/album/3W4YGSCP4rO1IlFj2OJHHT"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 151410,
+      "name": "Positive Mental Attitude",
+      "url": "https://open.spotify.com/track/12uk73TLnkvQlueSNLLlZM"
+    },
     {
       "added_at": "2026-01-08 23:20:10",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 165120,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
+    },
+    {
+      "added_at": "2026-01-15 23:20:11",
+      "album": {
+        "name": "Turn The Lights Off (with Jaxstyle) [HILLS & Dansyn Remix]",
+        "url": "https://open.spotify.com/album/5VEPN4W4wed0acDeJQJtFD"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        },
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
+      "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"
     },
     {
       "added_at": "2026-01-05 14:39:10",
@@ -47,6 +95,46 @@
       "duration_ms": 198688,
       "name": "Chasing Love",
       "url": "https://open.spotify.com/track/3u8tIYpLZPSni3qaEaaRLU"
+    },
+    {
+      "added_at": "2026-01-15 23:20:14",
+      "album": {
+        "name": "Sinai - Arava",
+        "url": "https://open.spotify.com/album/0ZLhaLgCwMik7vekWvxXMC"
+      },
+      "artists": [
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        },
+        {
+          "name": "BEMET",
+          "url": "https://open.spotify.com/artist/1fqI54BLIfyPm5tgLcON1t"
+        }
+      ],
+      "duration_ms": 331547,
+      "name": "Arava",
+      "url": "https://open.spotify.com/track/0k2ZUVgUDvrVlXBOpnrcRA"
+    },
+    {
+      "added_at": "2026-01-15 23:20:16",
+      "album": {
+        "name": "Sinai - Arava",
+        "url": "https://open.spotify.com/album/0ZLhaLgCwMik7vekWvxXMC"
+      },
+      "artists": [
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        },
+        {
+          "name": "BEMET",
+          "url": "https://open.spotify.com/artist/1fqI54BLIfyPm5tgLcON1t"
+        }
+      ],
+      "duration_ms": 333988,
+      "name": "Sinai",
+      "url": "https://open.spotify.com/track/0xSPANMuiyzybY35CTGAc0"
     },
     {
       "added_at": "2025-12-18 23:20:05",
@@ -267,7 +355,7 @@
     {
       "added_at": "2025-12-12 11:00:11",
       "album": {
-        "name": "Now We Are Free (feat. Gabry Ponte & AntoNetta) [THOMM Remix]",
+        "name": "Now We Are Free (feat. AntoNetta) [THOMM Remix]",
         "url": "https://open.spotify.com/album/1tdB8ZIvSEfDRiiasFHjV7"
       },
       "artists": [

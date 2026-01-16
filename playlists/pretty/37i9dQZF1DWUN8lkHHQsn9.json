@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:0aEvxy0vmxXQixOiE9qyhJ\">Mi\u0142osz Skierski</a>",
-  "num_followers": 42383,
+  "num_followers": 42382,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "maybe someday",
-        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
+        "name": "United Kingdom Of Anxiety",
+        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
       },
       "artists": [
         {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
         }
       ],
-      "duration_ms": 292000,
-      "name": "maybe someday",
-      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
+      "duration_ms": 196982,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "United Kingdom Of Anxiety",
-        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
+        "name": "maybe someday",
+        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
       },
       "artists": [
         {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
         }
       ],
-      "duration_ms": 196982,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
+      "duration_ms": 292000,
+      "name": "maybe someday",
+      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -795,42 +795,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/377Q1shRDshpOaNvGil6dp"
-      },
-      "artists": [
-        {
-          "name": "MANOID",
-          "url": "https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM"
-        },
-        {
-          "name": "Milkbaby",
-          "url": "https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX"
-        }
-      ],
-      "duration_ms": 339382,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0ux3SDqL9eeyD5EBdWHjax"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
-        "name": "warszawa",
-        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "warszawa",
-      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI"
       },
@@ -851,6 +815,22 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
+        "name": "warszawa",
+        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "warszawa",
+      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
         "name": "bulletproof",
         "url": "https://open.spotify.com/album/5AnzlgR3wzsG7Yn4REMS5m"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 146181,
       "name": "bulletproof",
       "url": "https://open.spotify.com/track/4DRVf1eh2KhaxdfiQFk5NG"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/377Q1shRDshpOaNvGil6dp"
+      },
+      "artists": [
+        {
+          "name": "MANOID",
+          "url": "https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM"
+        },
+        {
+          "name": "Milkbaby",
+          "url": "https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX"
+        }
+      ],
+      "duration_ms": 339382,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0ux3SDqL9eeyD5EBdWHjax"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "o smutnych ludziach",
-        "url": "https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop"
-      },
-      "artists": [
-        {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        }
-      ],
-      "duration_ms": 157621,
-      "name": "piosenka o smutnych ludziach",
-      "url": "https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "R\u00f3\u017ca",
         "url": "https://open.spotify.com/album/1DIiPl34Fbae4bvcrQ8RMr"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 204160,
       "name": "R\u00f3\u017ca",
       "url": "https://open.spotify.com/track/6eMb3cPoLTEfa7u8w4TSrE"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "o smutnych ludziach",
+        "url": "https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "duration_ms": 157621,
+      "name": "piosenka o smutnych ludziach",
+      "url": "https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "r\u00f3\u017cowa kurtka",
-        "url": "https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB"
-      },
-      "artists": [
-        {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        }
-      ],
-      "duration_ms": 141686,
-      "name": "r\u00f3\u017cowa kurtka",
-      "url": "https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "glorious",
         "url": "https://open.spotify.com/album/0ZpLYh6IYYig3Dc7jKTFv3"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 200000,
       "name": "glorious",
       "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "r\u00f3\u017cowa kurtka",
+        "url": "https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "duration_ms": 141686,
+      "name": "r\u00f3\u017cowa kurtka",
+      "url": "https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "IV!II",
-        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
-      },
-      "artists": [
-        {
-          "name": "Baasch",
-          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
-        }
-      ],
-      "duration_ms": 194418,
-      "name": "Mosty",
-      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 168224,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "IV!II",
+        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
+      },
+      "artists": [
+        {
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+        }
+      ],
+      "duration_ms": 194418,
+      "name": "Mosty",
+      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
+        "name": "Pies na dw\u00f3ch \u0142apach",
+        "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
+      },
+      "artists": [
+        {
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
+        }
+      ],
+      "duration_ms": 219347,
+      "name": "Pies na dw\u00f3ch \u0142apach",
+      "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
         "name": "Born Like That",
         "url": "https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "Pies na dw\u00f3ch \u0142apach",
-        "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
-      },
-      "artists": [
-        {
-          "name": "Rejsel",
-          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
-        }
-      ],
-      "duration_ms": 219347,
-      "name": "Pies na dw\u00f3ch \u0142apach",
-      "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "MOJE SNY",
         "url": "https://open.spotify.com/album/6a1PCoXU35eqzESIuzfTpR"
       },
@@ -1595,6 +1595,42 @@
       "duration_ms": 175110,
       "name": "MOJE SNY",
       "url": "https://open.spotify.com/track/6jF1DPYvvSBNCM5UwC4cKO"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "z\u0142y",
+        "url": "https://open.spotify.com/album/2OYVhUNdJd910EQCkfYwWJ"
+      },
+      "artists": [
+        {
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
+        },
+        {
+          "name": "bieran",
+          "url": "https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "z\u0142y",
+      "url": "https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/7ErTmSBSxGQlXxYkcpNNyg"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kluza",
+          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
+        }
+      ],
+      "duration_ms": 172750,
+      "name": "December",
+      "url": "https://open.spotify.com/track/0IfjvMq4MHyfKoTd0K4WA6"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1623,22 +1659,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/7ErTmSBSxGQlXxYkcpNNyg"
-      },
-      "artists": [
-        {
-          "name": "Kuba Kluza",
-          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
-        }
-      ],
-      "duration_ms": 172750,
-      "name": "December",
-      "url": "https://open.spotify.com/track/0IfjvMq4MHyfKoTd0K4WA6"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Koniec",
         "url": "https://open.spotify.com/album/74alxwrFu943vaOetCUCrT"
       },
@@ -1655,26 +1675,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "z\u0142y",
-        "url": "https://open.spotify.com/album/2OYVhUNdJd910EQCkfYwWJ"
-      },
-      "artists": [
-        {
-          "name": "Rejsel",
-          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
-        },
-        {
-          "name": "bieran",
-          "url": "https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "z\u0142y",
-      "url": "https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Nawzajem",
         "url": "https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI"
       },
@@ -1687,22 +1687,6 @@
       "duration_ms": 142975,
       "name": "Nawzajem",
       "url": "https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
-        "name": "L.O.K. Me",
-        "url": "https://open.spotify.com/album/1y0hDdMurikWP3NdOjz2GD"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
-        }
-      ],
-      "duration_ms": 167882,
-      "name": "L.O.K. Me",
-      "url": "https://open.spotify.com/track/4hZ99dvzmC89HvF2uVWq3k"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1739,18 +1723,34 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "Not My First Rodeo",
-        "url": "https://open.spotify.com/album/6n2TMDdMpqnCONCEh1qALd"
+        "name": "L.O.K. Me",
+        "url": "https://open.spotify.com/album/1y0hDdMurikWP3NdOjz2GD"
       },
       "artists": [
         {
-          "name": "Agata Karczewska",
-          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
         }
       ],
-      "duration_ms": 307213,
-      "name": "Harvest",
-      "url": "https://open.spotify.com/track/3HQeUn8KcfKgPOl2NSrdf7"
+      "duration_ms": 167882,
+      "name": "L.O.K. Me",
+      "url": "https://open.spotify.com/track/4hZ99dvzmC89HvF2uVWq3k"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 167642,
+      "name": "Hikikomori",
+      "url": "https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx"
     }
   ],
   "unique_name": "GLOW Polska",

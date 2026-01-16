@@ -4,7 +4,7 @@
 
 > These are the eclectic sounds of now\. Cover: Oxis
 
-678 songs - 1 day 18 hr 31 min
+679 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [In The Moon](https://open.spotify.com/track/7gQ59bDTYT54x7J1TqNgrH) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD), [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [In The Moon](https://open.spotify.com/album/2lvH6b5JV7yCdjUJ30Awns) | 4:13 | 2024-10-03 | 2025-01-10 |
 | [In This Mess](https://open.spotify.com/track/5OjGj4GGm0RssCpjUQpcNA) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [In This Mess](https://open.spotify.com/album/76owP5O3q8RV2MrFm43iFg) | 6:35 | 2025-05-01 | 2025-10-10 |
 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-06-12 |  |
-| [Indifference](https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Indifference](https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8) | 3:23 | 2025-07-31 |  |
+| [Indifference](https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Indifference](https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8) | 3:23 | 2025-07-31 | 2026-01-16 |
 | [Industrial Love Song](https://open.spotify.com/track/3089w7UmnSQboJ7wC3zchk) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Industrial Love Song / Bells](https://open.spotify.com/album/0jMKVV7RHBC8Pr0kV8R397) | 3:49 | 2025-03-13 | 2025-05-23 |
 | [Infinity Peaking](https://open.spotify.com/track/54k6mnmbMRJ25Z2AY4C32F) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Infinity Peaking](https://open.spotify.com/album/1UZaE72xUgScFlEuBWKRWC) | 5:41 | 2025-01-16 | 2025-03-28 |
 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 | 2024-05-16 | 2024-08-09 |
@@ -409,6 +409,7 @@
 | [No Rush](https://open.spotify.com/track/2LtiO0h0TzdN74yXNjDgZj) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Rush](https://open.spotify.com/album/4mWyF0S5n3m6lHKLLQ5x11) | 4:24 | 2024-07-11 | 2024-08-30 |
 | [Nobody's Perfect](https://open.spotify.com/track/53SirzTK2fEruERQoZ8egL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Nobody's Perfect](https://open.spotify.com/album/3I9FpnzIRxnktCGwDdKeZK) | 2:40 | 2024-11-07 | 2025-03-07 |
 | [Nosara](https://open.spotify.com/track/13oHLPbKyBlt8lL7625Zfa) | [Warbaby](https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK) | [Stereo Rodeo](https://open.spotify.com/album/6kP3GQ1Mg6rSiiDQW2c6oy) | 2:53 | 2025-11-06 |  |
+| [NOT TODAY](https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [NOT TODAY](https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs) | 3:35 | 2026-01-15 |  |
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-25 | 2024-08-23 |
 | [Not Too Late](https://open.spotify.com/track/3s39wf2u7Yg2wh3SNvzWnZ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Any Signs of Love](https://open.spotify.com/album/2IUlfvXdJwL9TCklFvV3f6) | 5:23 | 2024-11-28 | 2025-02-14 |
 | [Nothing Sweeter Than](https://open.spotify.com/track/0vywI185CGmouhRLpF3TtL) | [Timothy and the Apocalypse](https://open.spotify.com/artist/1Vn2elOesHPjL1hnX3x7Fx) | [Nothing Sweeter Than](https://open.spotify.com/album/6eQXRE97XljWxLjhf2GAQH) | 4:21 | 2025-02-13 | 2025-03-07 |

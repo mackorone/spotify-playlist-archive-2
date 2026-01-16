@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKOefHPXPMyf.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,999 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,001 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKOefHPXPMyf.md) - [plain]
 | 32 | [EN EL SEX](https://open.spotify.com/track/42PbWdzS1Gwcp74Gp3XpJC) | [YOWDYLANN](https://open.spotify.com/artist/5Ydm7wacl5pmkPOt8l70Ja) | [EN EL SEX](https://open.spotify.com/album/5zgqIKonvbUDyQEkSi55rG) | 2:33 |
 | 33 | [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 |
 | 34 | [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 |
-| 35 | [Beast](https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Mia Martina](https://open.spotify.com/album/0bvO9rYY63GNkEJdR2Zi5R) | 3:09 |
+| 35 | [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/album/6xMVTI6XdHdvpVgEA20Nlx) | 3:09 |
 | 36 | [El Viaje \- Radio Edit](https://open.spotify.com/track/7ihhABnQnFnpoh7IkVwlZx) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt), [Sebas Guillem](https://open.spotify.com/artist/2Cq21pgOVjJOkTKtnYBpL4) | [En El Silencio](https://open.spotify.com/album/2L0nQQE8GCnMjCTIB5ui7p) | 4:26 |
 | 37 | [Ella Era Fuego](https://open.spotify.com/track/1NY1gXvuvoAuAcVSiS9fAu) | [Javier Miguel](https://open.spotify.com/artist/1tV6tp7n1PxDaUX27prVX2) | [Ella Era Fuego](https://open.spotify.com/album/6ELLkNxeXKJEvctsyYkpXo) | 2:58 |
 | 38 | [San Jose](https://open.spotify.com/track/10faGZlZW8884vtccmxfuG) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [San Jose](https://open.spotify.com/album/01cCEYFBAyC4bWcKZoSoKU) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKOefHPXPMyf.md) - [plain]
 | 49 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 | 50 | [No Soy de Aquí, Ni Soy de Allá](https://open.spotify.com/track/11ZsxSle3jD66Yf6AZreuD) | [Esto es ¡FA!](https://open.spotify.com/artist/0ElbMDEefrgdxl0geuDPHn), [Mex Urtizberea](https://open.spotify.com/artist/2iPrKTKzQOV6F6PZOS8lMI), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Juan Quintero](https://open.spotify.com/artist/3No5HqLrMqJbmpJ1nUjUiM) | [FAlklore Vol\. 2](https://open.spotify.com/album/0hukQey7qPa49oSVhu5kIv) | 3:31 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

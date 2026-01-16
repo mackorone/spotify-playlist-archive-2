@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0FRIIUJN3EmIrO9lyfPYp2.md) - [plain]
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-[dreamscape](https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf) - 15,012 likes - 538 songs - 19 hr 6 min
+[dreamscape](https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf) - 15,011 likes - 538 songs - 19 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,7 +267,7 @@ pretty - [cumulative](/playlists/cumulative/0FRIIUJN3EmIrO9lyfPYp2.md) - [plain]
 | 257 | [sapphire](https://open.spotify.com/track/21GyLZmHNZ7NAcwwpnM93p) | [vinter](https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [sapphire](https://open.spotify.com/album/7aKZv3qNDxdvXaphw1ByW7) | 1:23 |
 | 258 | [lovesick](https://open.spotify.com/track/2AaUjBp0jWJnTVIhASYZQH) | [nohssiwi](https://open.spotify.com/artist/4CVCzMtPgCV07un7s3Ehbt), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [lovesick](https://open.spotify.com/album/3AnRrbAno7szHR96QbjHFY) | 2:29 |
 | 259 | [my dark fantasy dream](https://open.spotify.com/track/2uq62FqNqYGvsJD3O3v5TK) | [rexlity](https://open.spotify.com/artist/6NGwHXK7pxQF4J2mxG4o86) | [my dark fantasy dream](https://open.spotify.com/album/4NDUb5RVzxwuA66wChBMn3) | 1:24 |
-| 260 | [before it begins](https://open.spotify.com/track/2YM1ZUyIr1f9XQAS3theU8) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb), [Dean Korso](https://open.spotify.com/artist/0X7zZBoY6ObInbi8IUVfpx) | [before it begins](https://open.spotify.com/album/3WQOGOt3gFAni6VyhzIoeC) | 2:49 |
+| 260 | [before it begins](https://open.spotify.com/track/2YM1ZUyIr1f9XQAS3theU8) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb), [Dean Korso](https://open.spotify.com/artist/0X7zZBoY6ObInbi8IUVfpx) | [before it begins](https://open.spotify.com/album/3WQOGOt3gFAni6VyhzIoeC) | 2:46 |
 | 261 | [lost in the reminiscences](https://open.spotify.com/track/1HHdH1sUFQxFPOAlS528l2) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [twilight](https://open.spotify.com/album/3Pi7J76N6gTv6EMEfW56w3) | 2:15 |
 | 262 | [glimmer](https://open.spotify.com/track/0thN68ImA5xybssZ4VsnUI) | [killhussein](https://open.spotify.com/artist/468SxIENygOBGOxjSSeb2e), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [glimmer](https://open.spotify.com/album/0Tt25vXpAZdePX9omNdPMA) | 1:57 |
 | 263 | [etherion](https://open.spotify.com/track/3LQvTfqMxDN9TFknMs6brL) | [ØNYZUKA](https://open.spotify.com/artist/3yBMa1a09hdsiU8BaBU5nX), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [etherion](https://open.spotify.com/album/32RwmKOIHKV0TlYU6fx1VT) | 1:51 |

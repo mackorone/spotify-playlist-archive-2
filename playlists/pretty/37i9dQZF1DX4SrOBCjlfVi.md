@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A$AP Rocky, Larry June French Montana & Max B and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,442 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,515 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 1 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 2 | [Ever Since U Left Me](https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Coke Wave 3.5: Narcos](https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE) | 2:16 |
 | 3 | [Harry Potter](https://open.spotify.com/track/0wiEf8greUbMFJTu3UU3qo) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harry Potter](https://open.spotify.com/album/0dh66XoKbWrBZPXID0nlXO) | 5:35 |
 | 4 | [Who Coppin'](https://open.spotify.com/track/4hcMQJ8MInQQjm7r1sFBuv) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Who Coppin'](https://open.spotify.com/album/307LIDS6NyJ4gvU3U8hACU) | 3:21 |

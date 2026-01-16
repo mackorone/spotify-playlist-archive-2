@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With Rob Harrowven, JUST LIZZY, Splitter Conspiracy and more
+> With Rob Harrowven, Splitter Conspiracy, JUST LIZZY and more
 
 271 songs - 17 hr 9 min
 

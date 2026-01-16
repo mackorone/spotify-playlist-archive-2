@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-334 songs - 23 hr 10 min
+335 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [7\-ELEVEN](https://open.spotify.com/track/2tIqu8o4lu1Qrdh9yLp3ce) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [7\-ELEVEN](https://open.spotify.com/album/2EIu5O4R8SMOUOKetizosq) | 2:33 | 2025-04-04 | 2025-05-13 |
 | [777 \(Witch Bitch\)](https://open.spotify.com/track/6U7AenX3g23lQwH4L5vW3I) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ) | [RE:NACER](https://open.spotify.com/album/7apbgWoKzgrdWm4LYymn1P) | 2:45 | 2025-02-28 | 2025-03-07 |
 | [93 HARDCORE](https://open.spotify.com/track/62DKLOXCcUa91wCh3CAOBT) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [William Luck](https://open.spotify.com/artist/57tccTXvNWq70Xz3DJmNVX) | [93 HARDCORE](https://open.spotify.com/album/27G2VHdqnVu3yRoklKiztk) | 5:47 | 2024-04-09 | 2024-11-10 |
-| [999 \(BDSM\)](https://open.spotify.com/track/2TzQLWRlpeTAY4YpZudJ6p) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [999 \(BDSM\)](https://open.spotify.com/album/1TnQKykUUe9GTI48BbGTEe) | 2:38 | 2024-11-01 |  |
+| [999 \(BDSM\)](https://open.spotify.com/track/2TzQLWRlpeTAY4YpZudJ6p) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [999 \(BDSM\)](https://open.spotify.com/album/1TnQKykUUe9GTI48BbGTEe) | 2:38 | 2024-11-01 | 2026-01-16 |
 | [ABYSS](https://open.spotify.com/track/4fLw4RZYwwQMP2pf7i8q3g) | [Juul Exler](https://open.spotify.com/artist/0UX1w5iv2fvXoqdH7XbJM9) | [ABYSS](https://open.spotify.com/album/2WHcALRyJK8CUoDZ8QFCAa) | 3:41 | 2024-04-09 | 2025-04-28 |
 | [Achtuhrvier](https://open.spotify.com/track/6MqW3vrYS9INbfmtz1UgT0) | [Mython](https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5), [Pesante \(GER\)](https://open.spotify.com/artist/2G6DJAM91D5woggl7SK1VH) | [Them Sinners](https://open.spotify.com/album/7Mpr0C99nS6tZjrHJAIlvl) | 6:27 | 2024-04-09 | 2024-10-25 |
 | [Acid](https://open.spotify.com/track/2pwQrOz2ouKTqXxRSJmxbm) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Acid](https://open.spotify.com/album/2tCLqpTFDobTy2KAmuHNot) | 2:40 | 2025-05-23 | 2025-06-12 |
@@ -116,6 +116,7 @@
 | [Feed Me](https://open.spotify.com/track/3J77QHm3P3yqdxWiKfVFG3) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [BELLADONNA+](https://open.spotify.com/artist/0NU5js8LDGTh6b1baG2fjl) | [Feed Me](https://open.spotify.com/album/6yOVonhNTBzGyA0NAqmYxM) | 3:30 | 2024-04-19 | 2024-07-09 |
 | [FEEL THE BEAT](https://open.spotify.com/track/07lXTVglyFGmstcLnDpdAT) | [ABØV](https://open.spotify.com/artist/4k8953mhpM1f8sNe50ZPlm), [BLURREDMOVEMENT](https://open.spotify.com/artist/6OlOGcrJ8WIRYJXcsGjed4) | [RCKLSS011](https://open.spotify.com/album/3gAy86fN8Re5XXsPpG3jrg) | 5:30 | 2024-04-09 | 2024-08-29 |
 | [Feet Down](https://open.spotify.com/track/3BrEKAZM9dwKV21dGxURHQ) | [NineTed](https://open.spotify.com/artist/2Vo7TSjLpWTibQkpZeoEz7) | [COVEN, Vol\. 3](https://open.spotify.com/album/6btbrFS9tvKTEGk4idAK4r) | 6:09 | 2024-04-09 | 2025-01-17 |
+| [Feuerzeug & Benzin](https://open.spotify.com/track/6Fd652yJx5S2oQauUFHicK) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Feuerzeug & Benzin](https://open.spotify.com/album/5RwdhxgvrDLHrK1EW9E5WR) | 3:27 | 2026-01-16 |  |
 | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/track/3RotPxA6cgLQ9sduyM64yX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/album/4hnP64S9CyCy6LzzcOiseW) | 3:50 | 2024-04-09 | 2025-10-12 |
 | [Flute \(KNTRLVRLST Remix\)](https://open.spotify.com/track/1ezQNsp5el8von7KkY99py) | [New World Sound](https://open.spotify.com/artist/4RQQEu24E1oQAQXvkxsLxE), [DJ Thomas Newson](https://open.spotify.com/artist/0tZlnuodIwYzEMCLP86mnt), [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V) | [Flute \(KNTRLVRLST Remix\)](https://open.spotify.com/album/4AAypVDSpB05qmvIeArFso) | 3:07 | 2025-06-20 | 2025-09-05 |
 | [Follow Me](https://open.spotify.com/track/1GgYSbkGStGbUey8oyB5LH) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO) | [Follow Me](https://open.spotify.com/album/6pRYh2gOVr4GW3Qkv9Kmuh) | 3:42 | 2025-01-18 | 2025-06-16 |

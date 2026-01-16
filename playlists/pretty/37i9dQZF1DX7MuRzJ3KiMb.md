@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > aquí están las joyas escondidas del 2025, elegidas por tus editores 🙂‍↕️
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,923 likes - 115 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,932 likes - 115 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

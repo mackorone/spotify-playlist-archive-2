@@ -379,6 +379,28 @@
     },
     {
       "album": {
+        "name": "12345",
+        "url": "https://open.spotify.com/album/0EbtLrLNo4hECE9up04FT6"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        },
+        {
+          "name": "Ceasar DD",
+          "url": "https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159841,
+      "name": "12345",
+      "url": "https://open.spotify.com/track/7wO7OImdTw5LykPtcjDlbL"
+    },
+    {
+      "album": {
         "name": "12TRE",
         "url": "https://open.spotify.com/album/3jA6Md3gWoa6Fo54YCFIPW"
       },
@@ -1056,6 +1078,24 @@
       "duration_ms": 165378,
       "name": "4LIFE",
       "url": "https://open.spotify.com/track/2fqY6Sw40xnB6y1SPHFnIN"
+    },
+    {
+      "album": {
+        "name": "4REAL",
+        "url": "https://open.spotify.com/album/4K1C8qe1jywabXkZOzaYTi"
+      },
+      "artists": [
+        {
+          "name": "R10",
+          "url": "https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130434,
+      "name": "4REAL",
+      "url": "https://open.spotify.com/track/4ahLKX8gVToKrQ1V7N6zlK"
     },
     {
       "album": {
@@ -2918,6 +2958,24 @@
       "duration_ms": 87768,
       "name": "Annan",
       "url": "https://open.spotify.com/track/7svdhnqcvkxKq1m33Vh2V5"
+    },
+    {
+      "album": {
+        "name": "Annan Galax",
+        "url": "https://open.spotify.com/album/7ET0GMBEhmYYdNrzXz0u1z"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Annan Galax",
+      "url": "https://open.spotify.com/track/1Ww5ki6FR0Ym3edCsfaKhy"
     },
     {
       "album": {
@@ -10185,6 +10243,24 @@
     },
     {
       "album": {
+        "name": "Dont Stop",
+        "url": "https://open.spotify.com/album/0TZevyx9qW3q4k6qg4IKA2"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134651,
+      "name": "Dont Stop",
+      "url": "https://open.spotify.com/track/43cKERe8r48weKSswLFm6L"
+    },
+    {
+      "album": {
         "name": "DOPAMIN",
         "url": "https://open.spotify.com/album/0ALPDsweGvG8lUv0T6W2Hi"
       },
@@ -16732,6 +16808,28 @@
       "duration_ms": 163892,
       "name": "Hela v\u00e4rlden",
       "url": "https://open.spotify.com/track/6pFfQuiKFG6Tcup5ngUU6i"
+    },
+    {
+      "album": {
+        "name": "Hem (Firawii Remix)",
+        "url": "https://open.spotify.com/album/1oE0wb1RvtsDEijyqv4NAe"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Firawii",
+          "url": "https://open.spotify.com/artist/4brOAaYRExjmIo0GZm7h1W"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Hem (Firawii Remix)",
+      "url": "https://open.spotify.com/track/1ZHliy9lZHDntId0a8WOuq"
     },
     {
       "album": {
@@ -35383,6 +35481,28 @@
     },
     {
       "album": {
+        "name": "STHLM STATE OF MIND",
+        "url": "https://open.spotify.com/album/6LTBLe37Few0ie14dRGbZz"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "NBLNATION",
+          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165842,
+      "name": "STHLM STATE OF MIND",
+      "url": "https://open.spotify.com/track/5rUutdkNQmw1HB3jo0tX0W"
+    },
+    {
+      "album": {
         "name": "STICKY",
         "url": "https://open.spotify.com/album/1iy7ZOslpXrT7NWtswHDu6"
       },
@@ -38004,6 +38124,28 @@
       "duration_ms": 145000,
       "name": "TOKYO",
       "url": "https://open.spotify.com/track/6pYCanCVdJUmAGNFHXKaox"
+    },
+    {
+      "album": {
+        "name": "TOKYO DRIFT",
+        "url": "https://open.spotify.com/album/4qALmspCM0jvI4bj1XEFsr"
+      },
+      "artists": [
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188470,
+      "name": "TOKYO DRIFT",
+      "url": "https://open.spotify.com/track/0bVun5N1QhG4Ajxgo854Y1"
     },
     {
       "album": {

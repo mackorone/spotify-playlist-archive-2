@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-3,668 songs - 8 day 4 hr 56 min
+3,669 songs - 8 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,8 @@
 | [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-08-06 | 2024-08-11 |
 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-17 | 2024-02-20 |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-11-08 | 2025-01-01 |
-| [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/album/6xMVTI6XdHdvpVgEA20Nlx) | 3:09 | 2026-01-15 |  |
+| [Beast](https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Mia Martina](https://open.spotify.com/album/0bvO9rYY63GNkEJdR2Zi5R) | 3:09 | 2026-01-15 |  |
+| [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/album/6xMVTI6XdHdvpVgEA20Nlx) | 3:09 | 2026-01-15 | 2026-01-16 |
 | [BEAT MÁGICO QUE MEXE COM A SUA MENTE](https://open.spotify.com/track/6nluwwQLiTI2ExXtWm81w6) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [BEAT MÁGICO QUE MEXE COM A SUA MENTE](https://open.spotify.com/album/0JHPsrLQ9rl7SKlHJt7cgN) | 2:35 | 2022-11-27 | 2022-12-17 |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-08-16 | 2022-08-22 |
 | [Beautiful Ones](https://open.spotify.com/track/5yWVfYEeQRPuFtytvkOgU1) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Coming Up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/7M4M2D5vnodz6lmP8iO15S) | 3:50 | 2025-01-10 | 2025-03-24 |
@@ -3474,8 +3475,8 @@
 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 | 2024-06-13 | 2024-06-26 |
 | [Vota 5 Vota Kast \(Viral El Denin\)](https://open.spotify.com/track/4GNvSj2b7uPSn52vltr7DZ) | [José Antonio Kast](https://open.spotify.com/artist/5tKs6OSim6VqkSwTjhxB4U) | [Disco Kast Vol: 5](https://open.spotify.com/album/1xV8JmMzN7MRIdZ5F4mcni) | 2:49 | 2025-11-18 | 2025-12-25 |
 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 | 2025-01-21 | 2025-02-28 |
-| [Voyage Voyage](https://open.spotify.com/track/20y6xEtoOj2ZBCS4NJNzuS) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Voyage Voyage](https://open.spotify.com/album/3R7NpE1dA8PoAwq07Y1JYc) | 2:25 | 2025-12-28 | 2025-12-30 |
-| [Voyage Voyage](https://open.spotify.com/track/5dy0ZEDh2Lxvza4bK6GR8w) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Voyage Voyage](https://open.spotify.com/album/16ayCmILiovTksjEG47GlN) | 2:25 | 2025-12-29 |  |
+| [Voyage Voyage](https://open.spotify.com/track/20y6xEtoOj2ZBCS4NJNzuS) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Voyage Voyage](https://open.spotify.com/album/3R7NpE1dA8PoAwq07Y1JYc) | 2:25 | 2025-12-28 |  |
+| [Voyage Voyage](https://open.spotify.com/track/5dy0ZEDh2Lxvza4bK6GR8w) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Voyage Voyage](https://open.spotify.com/album/16ayCmILiovTksjEG47GlN) | 2:25 | 2025-12-29 | 2026-01-16 |
 | [Vuelve](https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Magicenelbeat](https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43) | [Vuelve](https://open.spotify.com/album/0PsRiRXtSXTFC5nZSrDUvi) | 3:17 | 2022-12-23 | 2022-12-28 |
 | [VULTURES](https://open.spotify.com/track/4202KkXGtULRsbRocWSw09) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:36 | 2024-02-13 | 2024-02-16 |
 | [VULTURES](https://open.spotify.com/track/3SIRBp4RRQ2AO5H4NO7xfq) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:36 | 2024-02-16 | 2024-02-19 |

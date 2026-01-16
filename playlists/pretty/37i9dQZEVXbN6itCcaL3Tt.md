@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Poland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,561 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,579 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 | 47 | [CASABLANCA](https://open.spotify.com/track/1U7ZU4sJsMDzHSA7n333BJ) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [BNP](https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P) | [King Sento 2](https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1) | 3:37 |
 | 48 | [Apollo](https://open.spotify.com/track/2S13g8BhBuFzkGpwDw1ONM) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv), [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S) | [Akademia Sztuk Pięknych](https://open.spotify.com/album/2pzDm1usjCxQGw8nYU8nkZ) | 3:06 |
 | 49 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
-| 50 | [Helicopter](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Helicopter](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
+| 50 | [HELICOPTER](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HELICOPTER](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

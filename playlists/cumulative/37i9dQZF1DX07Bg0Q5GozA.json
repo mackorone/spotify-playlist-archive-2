@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Robyn",
+  "description": "New music off the beaten track. Cover: Fcukers",
   "name": "OFF POP",
   "tracks": [
     {
@@ -3015,6 +3015,28 @@
     },
     {
       "album": {
+        "name": "Busy DJ (David Bay Remix)",
+        "url": "https://open.spotify.com/album/7qqhI8kAoxZY4Eg0jFFpX6"
+      },
+      "artists": [
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        },
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "Busy DJ - David Bay Remix",
+      "url": "https://open.spotify.com/track/0spJ6WVrQ1HtaC8F64MVrU"
+    },
+    {
+      "album": {
         "name": "butterfly (so free)",
         "url": "https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO"
       },
@@ -3664,7 +3686,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 231737,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
@@ -9261,6 +9283,24 @@
     },
     {
       "album": {
+        "name": "Good Night Baby",
+        "url": "https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261884,
+      "name": "Good Night Baby",
+      "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
+    },
+    {
+      "album": {
         "name": "GOOD TIMES (MJ Cole Remix)",
         "url": "https://open.spotify.com/album/4m8KmpwCsY6txydDsN4Pi0"
       },
@@ -10548,7 +10588,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 346306,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/16KL55vlsitZxHtcpWsQ6U"
@@ -10618,6 +10658,24 @@
       "duration_ms": 281510,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/0lsUhcGYv8eQW1tP8pjfKo"
+    },
+    {
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/7Hucl5QaGxsJvuL7oIOvUj"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293831,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/27yWekXkYdCyhuNz7FaXXh"
     },
     {
       "album": {
@@ -10792,6 +10850,24 @@
       "duration_ms": 256656,
       "name": "How The Light Gets In",
       "url": "https://open.spotify.com/track/38ggnZHcWLdzPXAFOv3wOZ"
+    },
+    {
+      "album": {
+        "name": "Hum Of Maybe",
+        "url": "https://open.spotify.com/album/4QHMTMjwQO18X9Jn0eedP5"
+      },
+      "artists": [
+        {
+          "name": "Apparat",
+          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334517,
+      "name": "Hum Of Maybe",
+      "url": "https://open.spotify.com/track/5RoIYMxBl8LgkSRThD1RUC"
     },
     {
       "album": {
@@ -13345,6 +13421,24 @@
     },
     {
       "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "album": {
         "name": "La Danse Heureuse (Edit)",
         "url": "https://open.spotify.com/album/29E6YSbwlIx8nyI7wjFaJb"
       },
@@ -14702,7 +14796,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 211200,
       "name": "Love Recycled 4",
       "url": "https://open.spotify.com/track/13NLxIbD8Bp1efHqpvfwTd"
@@ -20474,7 +20568,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 228911,
       "name": "Searching Places",
       "url": "https://open.spotify.com/track/1XPVn6WdaxLsvKaUTr36MZ"
@@ -23730,7 +23824,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 208000,
       "name": "Tennis Bracelet",
       "url": "https://open.spotify.com/track/0ZCmVf5BIgmWNj1vcqAjJo"
@@ -24150,7 +24244,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 299781,
       "name": "The Orb, TX",
       "url": "https://open.spotify.com/track/1hsfvpjjl5Z8gZZwvT2Vad"
@@ -24306,6 +24400,32 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
+    },
+    {
+      "album": {
+        "name": "THE THING",
+        "url": "https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI"
+      },
+      "artists": [
+        {
+          "name": "TOMORA",
+          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Tom Rowlands",
+          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338120,
+      "name": "THE THING",
+      "url": "https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"
     },
     {
       "album": {

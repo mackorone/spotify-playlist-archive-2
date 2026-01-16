@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 366533,
       "name": "A Balada de Tim Bernardes",
       "url": "https://open.spotify.com/track/2uuFfwsVRuapPM5iWPrxP7"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 366533,
       "name": "A Balada de Tim Bernardes",
       "url": "https://open.spotify.com/track/3VVDPi555MPn9Fpi6vXHkH"
@@ -72259,7 +72259,7 @@
     },
     {
       "album": {
-        "name": "Set do Rincon 1 (feat. The Ro\u00e7a, Edy Lemond, Dj Chris No Beat, DJ Ari SL, Os Loucotores)",
+        "name": "Set do Rincon 1",
         "url": "https://open.spotify.com/album/7Ewks2DMm0iiBe47aPKFku"
       },
       "artists": [
@@ -72280,31 +72280,31 @@
           "url": "https://open.spotify.com/artist/6dBSnoW8EMfIdFC0K8ll9R"
         },
         {
-          "name": "DJ Ari SL",
-          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
-        },
-        {
-          "name": "Dj Chris No Beat",
-          "url": "https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk"
+          "name": "The Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/4vtRfcSGNc3rOtQtztZqKy"
         },
         {
           "name": "Edy Lemond",
           "url": "https://open.spotify.com/artist/65lnOtC17SrJDt6CYdixJI"
         },
         {
-          "name": "Os Loucotores",
-          "url": "https://open.spotify.com/artist/3zxbBt1jsemMT5wqqbECH1"
+          "name": "Dj Chris No Beat",
+          "url": "https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk"
         },
         {
-          "name": "The Ro\u00e7a",
-          "url": "https://open.spotify.com/artist/4vtRfcSGNc3rOtQtztZqKy"
+          "name": "DJ Ari SL",
+          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
+        },
+        {
+          "name": "Os Loucotores",
+          "url": "https://open.spotify.com/artist/3zxbBt1jsemMT5wqqbECH1"
         }
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 361875,
-      "name": "Set do Rincon 1 (feat. The Ro\u00e7a, Edy Lemond, Dj Chris No Beat, DJ Ari SL, Os Loucotores)",
+      "name": "Set do Rincon 1",
       "url": "https://open.spotify.com/track/7t2JELey25yJKmZLA00BJz"
     },
     {

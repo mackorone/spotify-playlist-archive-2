@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s favorite music of 2025. Includes Summer 2024 and bonus tracks. ",
-  "num_followers": 132250,
+  "num_followers": 132244,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA2+T9Qjmbh8p9V/jYHPLybnN90mmzK",
+  "snapshot_id": "AAA2+qfeLHnBf9jOx0irCnC1LpN3h1jv",
   "tracks": [
     {
       "added_at": "2025-12-18 22:42:53",
@@ -1123,6 +1123,22 @@
       "duration_ms": 186000,
       "name": "Down For Whatever",
       "url": "https://open.spotify.com/track/0Lm0eCEbXpPyI1fnzed1BE"
+    },
+    {
+      "added_at": "2026-01-16 00:01:23",
+      "album": {
+        "name": "Kyrie",
+        "url": "https://open.spotify.com/album/6FBs2Sumr0WmCANwErcIoS"
+      },
+      "artists": [
+        {
+          "name": "Classified Frequency",
+          "url": "https://open.spotify.com/artist/5EtpMrUjqENjKl8lSCbC92"
+        }
+      ],
+      "duration_ms": 232725,
+      "name": "Kyrie",
+      "url": "https://open.spotify.com/track/3xcaV5z2wFVw6Edrlz7a9u"
     },
     {
       "added_at": "2024-08-12 20:21:38",

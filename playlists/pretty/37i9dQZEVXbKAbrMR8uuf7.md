@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,479 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,495 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 | 49 | [Velocidad](https://open.spotify.com/track/6CdEtriPufwesYiBXoprfI) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE), [Alofoke Music](https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Tali Goya](https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq), [Luz Baja](https://open.spotify.com/artist/0QfigpCAYd6IhZjFNXEbBC) | [Velocidad](https://open.spotify.com/album/6zefWNSxltzaJ0uJsajP9N) | 2:56 |
 | 50 | [SINSENTI](https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [NO A LA DELINCUENCIA](https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw) | 2:06 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

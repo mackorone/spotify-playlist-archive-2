@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Check out our Substack here!!!!!!!</a> Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,119 likes - 200 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,095 likes - 200 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 3 | [Charlie's Garden](https://open.spotify.com/track/4kPfzkWY23WgM902kNAQLn) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:25 |
 | 4 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 |
 | 5 | [The Order of Death](https://open.spotify.com/track/3QOQEObqJvCi4M2SNeko7V) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [This is What You Want..\. This Is What You Get](https://open.spotify.com/album/72V5EfB3sa97eKf0Fs99EJ) | 4:49 |
-| 6 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 6 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 7 | [Vaseline](https://open.spotify.com/track/0BMmHh3fBjpZxH0ofHcARY) | [Dylan Thom](https://open.spotify.com/artist/75hZOSuF07weHxVJkg60WW) | [t](https://open.spotify.com/album/06ahNVQps5jb47nZ2978ZA) | 3:00 |
 | 8 | [Fame is a Gun \- triple j Like A Version](https://open.spotify.com/track/3pvo1AGd8ZyL8wSxLS4Wtm) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Fame is a Gun \(triple j Like A Version\)](https://open.spotify.com/album/0BYultK82Rtok4YRsAiic3) | 3:37 |
 | 9 | [Cold](https://open.spotify.com/track/4hEIjVe4S6EZJtdZqODBlC) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Cold](https://open.spotify.com/album/5Md4pIOyFZHxPkEln7Y5zG) | 2:57 |

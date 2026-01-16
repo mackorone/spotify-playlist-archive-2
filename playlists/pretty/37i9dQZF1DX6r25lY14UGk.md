@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: PoppyNoji
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,446 likes - 100 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,480 likes - 100 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 94 | [I Like You Too](https://open.spotify.com/track/7oHpXvccGFIJs6tbCKZR70) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Like You Too](https://open.spotify.com/album/658s2lMUX2YqzpiAiaerhY) | 3:11 |
 | 95 | [Monster Dance 2](https://open.spotify.com/track/5AyhdGdMURfRi4VsXm4x1t) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq), [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Monster Dance 2](https://open.spotify.com/album/1Xhgn4IMoCchkaP24E1QHN) | 3:01 |
 | 96 | [Forward and Back](https://open.spotify.com/track/46uVvBNpdIKGP0YS6Dqf6N) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Forward and Back](https://open.spotify.com/album/1CkwTG5aH5MPzPuqtScaCL) | 2:31 |
-| 97 | [Take Me Out to the Ball Game!](https://open.spotify.com/track/65UdHWLSMLEzz1yJtXAswi) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r), [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Take Me Out to the Ball Game!](https://open.spotify.com/album/3DkifXNkw86UmS614BGO1X) | 1:33 |
+| 97 | [Take Me Out to the Ball Game!](https://open.spotify.com/track/65UdHWLSMLEzz1yJtXAswi) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r), [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Take Me Out to the Ball Game!](https://open.spotify.com/album/3DkifXNkw86UmS614BGO1X) | 1:33 |
 | 98 | [Rainbow](https://open.spotify.com/track/6Z6IQFFGaIAi8gXVmASK6N) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Rainbow](https://open.spotify.com/album/7BZD2GF5gsCLzGbU9izjTN) | 2:04 |
 | 99 | [what if?](https://open.spotify.com/track/7AGOyBnih4701KoiAM81X1) | [lennnie](https://open.spotify.com/artist/6wGx1IWZknzdXcDkbCw7Gr) | [what if?](https://open.spotify.com/album/3fHygsd2T5mFEVV0fNvlYF) | 2:12 |
 | 100 | [Use Your Imagination](https://open.spotify.com/track/11J4zlAiuSpN5pN7PnGOyk) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Use Your Imagination](https://open.spotify.com/album/0bhcEjM4EU6qXPjwTPO4Si) | 2:06 |

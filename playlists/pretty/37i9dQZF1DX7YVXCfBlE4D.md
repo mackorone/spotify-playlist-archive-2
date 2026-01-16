@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,642 likes - 170 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,689 likes - 170 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,12 +162,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 152 | [La Sitiera](https://open.spotify.com/track/4rMAQCWxtsNbPII2ias4wk) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O) | 3:57 |
 | 153 | [Prisionero del mar](https://open.spotify.com/track/5ugnbcGftW1mFkBgulO065) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines \- Bolero Romantico](https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg) | 3:03 |
 | 154 | [Niégalo Todo](https://open.spotify.com/track/1lQ82y5K95hQOfTxnEFTBe) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Alma en Los Labios](https://open.spotify.com/album/1qkPIJnQy21i1y8U9reW0z) | 3:24 |
-| 155 | [Contigo](https://open.spotify.com/track/4EzaHs6xWJ2O29BSCtJFSw) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP) | 3:02 |
+| 155 | [Bonita](https://open.spotify.com/track/573AAxwwLe12d2eZTm34GI) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP) | 2:24 |
 | 156 | [Payaso](https://open.spotify.com/track/0EwbMXtmr6jDuyj0gZqysI) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis con Trio](https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS) | 3:16 |
 | 157 | [María Bonita](https://open.spotify.com/track/23WfbJPkKmCBLbUlYpSuNP) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Serie Platino](https://open.spotify.com/album/3a3julBZ8GV0rUf7JYWOt1) | 3:20 |
 | 158 | [Perdon](https://open.spotify.com/track/2IsKqcHOJlVJskX7UhILXU) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/20vzQzOfUlOeKWuGquhhSv) | 3:12 |
 | 159 | [Caribe Soy](https://open.spotify.com/track/5Z2Dgl4nqoeobRrPF1IiE3) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Reminiscencias](https://open.spotify.com/album/0d78QRCyoDBEM71ShrEYsG) | 2:46 |
-| 160 | [Bonita](https://open.spotify.com/track/573AAxwwLe12d2eZTm34GI) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP) | 2:24 |
+| 160 | [Contigo](https://open.spotify.com/track/4EzaHs6xWJ2O29BSCtJFSw) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP) | 3:02 |
 | 161 | [Cerca del Mar](https://open.spotify.com/track/6hnQVccXurK7ZHJzIyJHNx) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Brillantes\- Los Dandys](https://open.spotify.com/album/7KkgaKrYkx8qdqDTuCA5vp) | 3:00 |
 | 162 | [Tu Voz](https://open.spotify.com/track/2DXFZTUFzahoZ1F8dJMeSZ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/4gJvY3r9i45vsDiInQL01D) | 3:10 |
 | 163 | [Hola Soledad](https://open.spotify.com/track/58grdOcf8LLqCTMqkYB4ni) | [Rolando Laserie](https://open.spotify.com/artist/6uMKHBVEnY2FWZVujFGYf5) | [Homenaje Postumo](https://open.spotify.com/album/2qSMNUJCSanfO2ANcbcRoS) | 2:51 |

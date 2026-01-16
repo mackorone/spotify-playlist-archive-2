@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 235746,
+  "num_followers": 235770,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "A Man And His Music",
+        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "El Raton",
+      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Hector Lavoe El Cantante -The Originals",
         "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 225140,
       "name": "Lloraras - Edit",
       "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "A Man And His Music",
-        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "El Raton",
-      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
     },
     {
       "added_at": "2024-09-24 20:30:16",

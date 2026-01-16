@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> La tierra del Rap de oro puro\. Victor Mendivil en portada
+> La tierra del Rap de oro puro\. Santa Fe Klan en portada
 
 159 songs - 9 hr 45 min
 

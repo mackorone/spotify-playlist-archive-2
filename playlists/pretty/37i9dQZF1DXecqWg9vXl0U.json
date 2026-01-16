@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring fidoisblue \u2728",
-  "num_followers": 56028,
+  "num_followers": 56032,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Fantasma",
-        "url": "https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo"
-      },
-      "artists": [
-        {
-          "name": "Azul Aim\u00e9",
-          "url": "https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 201625,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Estudio A",
         "url": "https://open.spotify.com/album/5DzdNL9tkKzE7zXpbnLzVb"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 154282,
       "name": "Acapulco En La Azotea",
       "url": "https://open.spotify.com/track/2YHGUmTcXCnTe40uwDprsj"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo"
+      },
+      "artists": [
+        {
+          "name": "Azul Aim\u00e9",
+          "url": "https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 201625,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
     },
     {
       "added_at": "2025-12-05 14:55:26",

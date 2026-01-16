@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Romania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,475 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,480 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 | 16 | [Talentul ala fin](https://open.spotify.com/track/2ftaktO6DSSPwXkoZkf4dI) | [Raul Talent](https://open.spotify.com/artist/7xgc59lft0bnMy6GeEurfb) | [Talentul ala fin](https://open.spotify.com/album/1fkdyaepe3KtTiUG8wFrCl) | 2:56 |
 | 17 | [Hai tu Maria](https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Hai tu Maria](https://open.spotify.com/album/2xwCwqdWTPKWeYQFOi9W1k) | 2:19 |
 | 18 | [Boca](https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Boca](https://open.spotify.com/album/2TXiVnODiLZOGhzkLdVDgB) | 2:04 |
-| 19 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It up to Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
+| 19 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Only Hits](https://open.spotify.com/album/4LqKKEC8ghEvbMW2xcs4eZ) | 4:03 |
 | 20 | [PRIETENA TA](https://open.spotify.com/track/6lu7h9TW9L94lAevaJbyvy) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV), [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [VARA BRAZIL](https://open.spotify.com/album/66V6JjhgUiN9iJchsWjsP4) | 3:22 |
 | 21 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 22 | [Zambete si Pacate](https://open.spotify.com/track/2ozyskqNWm7TaqBSkZuMzF) | [Reea](https://open.spotify.com/artist/44hpSSInMPfG4vk0MIVOC9), [Adrian Norocel](https://open.spotify.com/artist/07iLLfYlRMf49LJvRu85cD) | [Zambete si Pacate](https://open.spotify.com/album/59xcgK42LFNtKhM30zi2AT) | 2:53 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 | 38 | [Filipineza](https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Filipineza](https://open.spotify.com/album/5q3uvSorja97Z3v8pb6P0q) | 2:34 |
 | 39 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 | 40 | [Nikki beach \- Live](https://open.spotify.com/track/3gH3LMIJc33Ti95LZgESa6) | [Mariano](https://open.spotify.com/artist/6lrgzrRBuMJQZeHMLTBpCg) | [Nikki beach \(Live\)](https://open.spotify.com/album/6hMrWbbrSnYielAFerdfop) | 3:18 |
-| 41 | [Helicopter](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Helicopter](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
+| 41 | [HELICOPTER](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HELICOPTER](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
 | 42 | [Ce Motor](https://open.spotify.com/track/0D5akM6cy8rXkd0BLSiJAA) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Ce Motor](https://open.spotify.com/album/5qMOmOxtVZx47Y9UTX5gFe) | 2:06 |
 | 43 | [Ce Te\-as Suna](https://open.spotify.com/track/2yKgHHs4dWDd69H0rK1lqN) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Arianna](https://open.spotify.com/artist/1lK9fcx3OxpVn9sBYWFHuv) | [Ce Te\-as Suna](https://open.spotify.com/album/3ABAsh0MkHFdmZClm95xod) | 2:24 |
 | 44 | [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 | 49 | [Regele \- From Buzz House: The Movie 2](https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW), [rares bebelusul](https://open.spotify.com/artist/3eCAhRYvSFzfMpPeSgbxvw) | [Regele \(From Buzz House: The Movie 2\)](https://open.spotify.com/album/3c42cmU7lwbcvIFgVELEMk) | 2:40 |
 | 50 | [SLABICIUNEA MEA](https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM) | [COMANN](https://open.spotify.com/artist/6jr4s1ToXLbE4Yp6Rw6pKa), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [SLABICIUNEA MEA](https://open.spotify.com/album/25Dw2g8vvQdIYTw0BgWmyO) | 2:38 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

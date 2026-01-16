@@ -1,12 +1,12 @@
 {
   "description": "New music from Madison Beer, Charlie Puth, DxS, Hafiz Suip, and more!",
-  "num_followers": 71934,
+  "num_followers": 71979,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFtZLiOpjfUpWcwvIEKddDvN+oSq",
+  "snapshot_id": "AAAAAG6cFHRip9DnSl6Wx7t11dsfPJ0w",
   "tracks": [
     {
       "added_at": "2026-01-15 16:00:36",
@@ -139,6 +139,34 @@
       "duration_ms": 172191,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f"
+    },
+    {
+      "added_at": "2026-01-15 18:30:30",
+      "album": {
+        "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+        "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "duration_ms": 208461,
+      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
     },
     {
       "added_at": "2026-01-15 16:00:36",
@@ -523,6 +551,22 @@
       "duration_ms": 210763,
       "name": "Lumba-Lumba (uang kertas)",
       "url": "https://open.spotify.com/track/21xO9JjF0ti7hS97cSJWv6"
+    },
+    {
+      "added_at": "2026-01-15 16:00:36",
+      "album": {
+        "name": "Cegil",
+        "url": "https://open.spotify.com/album/3lxXnNeKdTgQrGiuZtIo5s"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Cegil",
+      "url": "https://open.spotify.com/track/1hfSoyfUsiIYQrB9LJrRN1"
     },
     {
       "added_at": "2026-01-15 16:00:36",
@@ -1379,6 +1423,22 @@
       "duration_ms": 233026,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/2nNElH8jprrtk67FtK0I2v"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 172749,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/41NPpWsUgF7D6t3jNQcEz5"
     },
     {
       "added_at": "2026-01-15 16:00:36",

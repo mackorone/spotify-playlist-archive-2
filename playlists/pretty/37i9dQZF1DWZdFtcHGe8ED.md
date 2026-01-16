@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,055 likes - 200 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,057 likes - 200 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,23 +182,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 172 | [Upon Their Cross](https://open.spotify.com/track/4PSmqz3YU0K3aT9q2mWG1r) | [Vio\-Lence](https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df) | [Let the World Burn](https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn) | 5:27 |
 | 173 | [The Affair of the Poisons](https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [The Affair of the Poisons](https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n) | 4:55 |
 | 174 | [A Bitter Pill](https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb) | [Razor](https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B) | [A Bitter Pill](https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr) | 2:47 |
-| 175 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
-| 176 | [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 |
-| 177 | [Bow Down To the Clowns](https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Bow Down To the Clowns](https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1) | 4:50 |
+| 175 | [Bow Down To the Clowns](https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Bow Down To the Clowns](https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1) | 4:50 |
+| 176 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
+| 177 | [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 |
 | 178 | [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 |
 | 179 | [Bleeding Out](https://open.spotify.com/track/43leqVDeli1HgybvpX93GG) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Bleeding Out](https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO) | 4:33 |
 | 180 | [Killer Of Killers](https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v) | [Zig Zags](https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3) | [Killer Of Killers](https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk) | 3:48 |
 | 181 | [Prove Them Wrong](https://open.spotify.com/track/3W557pYlVALCtGHlCJEgIa) | [Jenner](https://open.spotify.com/artist/1kWUEqAWJpVOFU654bkxzU) | [Prove Them Wrong](https://open.spotify.com/album/7rqwoZ4g2cBEAnAyEYUbE7) | 4:57 |
 | 182 | [Feast of Flesh](https://open.spotify.com/track/5vTuSUoJfY9koIoslz26bO) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [The Sound of Steel](https://open.spotify.com/album/7dn6QFOmR37W4DYczYCjFl) | 3:41 |
 | 183 | [Leave Nothing Behind](https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Leave Nothing Behind](https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl) | 4:11 |
-| 184 | [Casket](https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Casket](https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS) | 1:53 |
-| 185 | [Egyptron](https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN), [The Egyptian Lover](https://open.spotify.com/artist/4iiBwQutE2Bh3bJ5N7jXnP) | [BATS](https://open.spotify.com/album/2AChbUajQYVEq5lntoghx3) | 5:00 |
+| 184 | [Egyptron](https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN), [The Egyptian Lover](https://open.spotify.com/artist/4iiBwQutE2Bh3bJ5N7jXnP) | [BATS](https://open.spotify.com/album/2AChbUajQYVEq5lntoghx3) | 5:00 |
+| 185 | [Casket](https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Casket](https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS) | 1:53 |
 | 186 | [Taphephobia](https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Taphephobia](https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH) | 3:42 |
 | 187 | [Recycled Hate](https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Recycled Hate](https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7) | 3:25 |
 | 188 | [Metal Forces \- Remastered 2011](https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [The Force \(Remastered 2011\)](https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ) | 6:36 |
 | 189 | [Brace for Impact](https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Brace for Impact](https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1) | 4:33 |
-| 190 | [Destroyer](https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS) | [Before The Dawn](https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7) | [Destroyer](https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT) | 4:30 |
-| 191 | [Non\-Existent](https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d) | [Fueled By Fire](https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx) | [Non\-Existent](https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr) | 3:03 |
+| 190 | [Non\-Existent](https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d) | [Fueled By Fire](https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx) | [Non\-Existent](https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr) | 3:03 |
+| 191 | [Destroyer](https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS) | [Before The Dawn](https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7) | [Destroyer](https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT) | 4:30 |
 | 192 | [In Thrash We Trust](https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2) | [Artillery](https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720) | [In Thrash We Trust](https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU) | 4:09 |
 | 193 | [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 |
 | 194 | [Thermonuclear Devastation of the Planet Earth \- 2025 Re\-Recording](https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Origins Of Aggression](https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc) | 1:54 |
@@ -206,7 +206,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 196 | [Architect Of Fears \- 2025 BFS 10 Years Edition](https://open.spotify.com/track/3zwVmUoR1nsTUthC2HYkoI) | [Death Decline](https://open.spotify.com/artist/1bgeQljXQlY64QQSQ7DgEe) | [Architect Of Fears](https://open.spotify.com/album/35CaQAKJGFjuHQ6xdTECcs) | 3:56 |
 | 197 | [Bleed Them Dry](https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Swallowed by Hell](https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2) | 5:23 |
 | 198 | [Strike Back](https://open.spotify.com/track/0cXs8TirSU9BYB2ng46IyU) | [The Lightbringer of Sweden](https://open.spotify.com/artist/6u53rgRUxnjgX8gyyqRsml) | [Strike Back](https://open.spotify.com/album/02Yfyh4R4ONJGNoWGOBTRv) | 5:37 |
-| 199 | [Lockdown Forever](https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg) | [Tankard](https://open.spotify.com/artist/0lKpKsvjBKLUeyVIAPHUy1) | [Lockdown Forever](https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM) | 4:06 |
-| 200 | [Ethereal Nightmare](https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ) | [Hatriot](https://open.spotify.com/artist/7mDUXpqtYFG7g9bJsvaZEh) | [Ethereal Nightmare](https://open.spotify.com/album/5aDwfeotLsMsFOg2XO57K4) | 6:05 |
+| 199 | [Ethereal Nightmare](https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ) | [Hatriot](https://open.spotify.com/artist/7mDUXpqtYFG7g9bJsvaZEh) | [Ethereal Nightmare](https://open.spotify.com/album/5aDwfeotLsMsFOg2XO57K4) | 6:05 |
+| 200 | [Lockdown Forever](https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg) | [Tankard](https://open.spotify.com/artist/0lKpKsvjBKLUeyVIAPHUy1) | [Lockdown Forever](https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM) | 4:06 |
 
 Snapshot ID: `AAAAAIPKGrmSjqCq5MpjJqKq0OIPIdEX`

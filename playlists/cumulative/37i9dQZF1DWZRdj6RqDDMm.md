@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Jenge
 
-601 songs - 1 day 9 hr 33 min
+602 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [AGES](https://open.spotify.com/track/7LV1vjZTfneAA8JhzEkJGu) | [Chris NLC](https://open.spotify.com/artist/7EQFjTLK1i4ju5sUihRXrD), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [AGES](https://open.spotify.com/album/4LgtJSNngqMWbK4eMS7wOn) | 2:59 | 2024-05-31 | 2024-08-09 |
 | [Ain't Bragging \- Live](https://open.spotify.com/track/10oklXEk4wEvuvmmarG4lS) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Ain't Bragging \(Live\)](https://open.spotify.com/album/6G67sJTPZPEosjkooWtain) | 5:26 | 2024-08-16 | 2024-10-18 |
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-10-20 | 2024-01-26 |
+| [Alive](https://open.spotify.com/track/6PSnOhidP6bjHuiFS3l3AV) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [Alive](https://open.spotify.com/album/7hQTCJrXZTRFUqjSMndW67) | 2:24 | 2026-01-16 |  |
 | [All I Need](https://open.spotify.com/track/3POO6wDiNOISVDiPFsiY0l) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [All I Need](https://open.spotify.com/album/5nUlpUbBsbb2mhc71xLMWL) | 2:58 | 2023-10-20 | 2024-01-12 |
 | [All my life](https://open.spotify.com/track/6DYZAXBkdgbvuPMhyvqW52) | [Great Godwin](https://open.spotify.com/artist/32aRAuhgYPnJhfCOrw0ZCZ) | [All my life](https://open.spotify.com/album/6r3wNaZ99b9jKuSWBm3ZZn) | 2:44 | 2025-07-18 | 2025-08-22 |
 | [All Night, All Day](https://open.spotify.com/track/7wgsCLvFX1UP88UD71hfm5) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [All Night, All Day](https://open.spotify.com/album/1gEcIbCaPGtxmgTrApk9pr) | 2:49 | 2024-03-15 | 2024-06-07 |

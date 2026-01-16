@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Criminaliteit",
+        "url": "https://open.spotify.com/album/4mVhfrBLrbHgGoOq0eAzoc"
+      },
+      "artists": [
+        {
+          "name": "Miggs De Bruijn",
+          "url": "https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "Criminaliteit",
+      "url": "https://open.spotify.com/track/0zQ1i8Z58oLo6j25naGb81"
+    },
+    {
+      "album": {
         "name": "CRIP WALK",
         "url": "https://open.spotify.com/album/4yAj58Ret1oxGVyisjMKNv"
       },
@@ -1929,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "DOODMOE",
+        "url": "https://open.spotify.com/album/0OoVFpFjOmR0EOO6aKWank"
+      },
+      "artists": [
+        {
+          "name": "SKO",
+          "url": "https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137903,
+      "name": "DOODMOE",
+      "url": "https://open.spotify.com/track/1U3vZ5UsL16VLTopEmFTP1"
+    },
+    {
+      "album": {
         "name": "Duizend Volle Manen",
         "url": "https://open.spotify.com/album/4xJmuGamirTFgurCtUQfoU"
       },
@@ -1952,6 +1988,24 @@
       "duration_ms": 226666,
       "name": "Duizend Volle Manen",
       "url": "https://open.spotify.com/track/7EZ45ylqoplWkFJpN3lxkd"
+    },
+    {
+      "album": {
+        "name": "E-mail",
+        "url": "https://open.spotify.com/album/3IThUhVnq4QAEd5pysycaf"
+      },
+      "artists": [
+        {
+          "name": "247Loosey",
+          "url": "https://open.spotify.com/artist/6uaH5YMYW84lVDWbBFWk2x"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178676,
+      "name": "E-mail",
+      "url": "https://open.spotify.com/track/2DKNRackqfG5bR9310M2so"
     },
     {
       "album": {
@@ -2352,7 +2406,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 145193,
       "name": "Gaan Naar",
       "url": "https://open.spotify.com/track/3UyT6U96QsbcbyxMqx79n7"
@@ -2593,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Go Punky",
+        "url": "https://open.spotify.com/album/1WRDBet9S38sEgv1wQWh2u"
+      },
+      "artists": [
+        {
+          "name": "PJ Scoolio",
+          "url": "https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147021,
+      "name": "Go Punky",
+      "url": "https://open.spotify.com/track/4k8mRCn0WBVlPXqmDWhEE4"
+    },
+    {
+      "album": {
         "name": "HAUTE CULTURE",
         "url": "https://open.spotify.com/album/4FqHZ3hUSont4Kvj4qGA17"
       },
@@ -2652,6 +2724,24 @@
       "duration_ms": 130440,
       "name": "Gone",
       "url": "https://open.spotify.com/track/11KcArn581AohzEpI5wa1U"
+    },
+    {
+      "album": {
+        "name": "Grimmig",
+        "url": "https://open.spotify.com/album/0pnHayMlrea3RqrkY0h0ay"
+      },
+      "artists": [
+        {
+          "name": "Ella",
+          "url": "https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Grimmig",
+      "url": "https://open.spotify.com/track/7mHHDz5Z4HJ3Vusz20ndns"
     },
     {
       "album": {
@@ -3079,6 +3169,28 @@
     },
     {
       "album": {
+        "name": "Ik wil allang met je zijn",
+        "url": "https://open.spotify.com/album/2ZPP1jk28toK5nrQQQ2DNM"
+      },
+      "artists": [
+        {
+          "name": "SURRI",
+          "url": "https://open.spotify.com/artist/1CLP6paOGZXg1qIkYvyzHo"
+        },
+        {
+          "name": "Dario Santana",
+          "url": "https://open.spotify.com/artist/0y14WanKsCSjfqVk18HoFk"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142262,
+      "name": "Ik wil allang met je zijn",
+      "url": "https://open.spotify.com/track/34wC52eKnmWzuUmuvIWUo7"
+    },
+    {
+      "album": {
         "name": "Toestand",
         "url": "https://open.spotify.com/album/4YogrwLA0r8NNOs1FamLQo"
       },
@@ -3149,6 +3261,28 @@
     },
     {
       "album": {
+        "name": "Jong Leren",
+        "url": "https://open.spotify.com/album/6BfOXdEEwabib36OmR7rNR"
+      },
+      "artists": [
+        {
+          "name": "SOUNDPLUG",
+          "url": "https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX"
+        },
+        {
+          "name": "Millson9",
+          "url": "https://open.spotify.com/artist/39XRDkd41cKPg664L7tfDx"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165161,
+      "name": "Jong Leren",
+      "url": "https://open.spotify.com/track/7hjcn9yixzQ4GucEb4lEoS"
+    },
+    {
+      "album": {
         "name": "Jonge van Beethoven",
         "url": "https://open.spotify.com/album/3wPDHdpHJX8zW8pdRimiAR"
       },
@@ -3214,7 +3348,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 124675,
       "name": "KBS - KING BATI SANKA",
       "url": "https://open.spotify.com/track/2qBFkO5KppgSa0nGr5Mmn2"
@@ -3386,6 +3520,32 @@
       "duration_ms": 180000,
       "name": "Kleine Man",
       "url": "https://open.spotify.com/track/3GZ5exMXuvvgUnV3SUtbXm"
+    },
+    {
+      "album": {
+        "name": "KLOKKEN 2.0",
+        "url": "https://open.spotify.com/album/1Mb5nkOaZuEMIJVpHXDei2"
+      },
+      "artists": [
+        {
+          "name": "Parsa",
+          "url": "https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m"
+        },
+        {
+          "name": "Stackz",
+          "url": "https://open.spotify.com/artist/7JaoaPra85ySxiAoKeAUQS"
+        },
+        {
+          "name": "73 De Pijp",
+          "url": "https://open.spotify.com/artist/12iyh851ZpgQQ0iPIKefFJ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132545,
+      "name": "KLOKKEN 2.0",
+      "url": "https://open.spotify.com/track/3aBgFXPDPJM7Wlqr69A0nB"
     },
     {
       "album": {
@@ -4015,6 +4175,42 @@
     },
     {
       "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/19RGAIdvjUXpQF7TH5E2bD"
+      },
+      "artists": [
+        {
+          "name": "LILO",
+          "url": "https://open.spotify.com/artist/4bpz1DmU9tB2FDq2tPgAFC"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/0lNTugnPWC8ZMy4UXLWFFl"
+    },
+    {
+      "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/1Q4OnOZzILYBlRoO23JzSK"
+      },
+      "artists": [
+        {
+          "name": "LILO",
+          "url": "https://open.spotify.com/artist/4bpz1DmU9tB2FDq2tPgAFC"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/1tJTmiK5BWSlcwvleKFHUD"
+    },
+    {
+      "album": {
         "name": "MARV & MACK",
         "url": "https://open.spotify.com/album/6UPENYnK296D2H8LO56OQx"
       },
@@ -4074,7 +4270,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 188424,
       "name": "MEDELEVEN",
       "url": "https://open.spotify.com/track/4ZzXvZWQ7sPhwZbUzlAogd"
@@ -4703,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "Oh Damn",
+        "url": "https://open.spotify.com/album/1Z5G8vtHA6A2ks4Xdo1EcJ"
+      },
+      "artists": [
+        {
+          "name": "AG BLAXX",
+          "url": "https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138083,
+      "name": "Oh Damn",
+      "url": "https://open.spotify.com/track/0wFSMz19jZtriXJOH4RH7W"
+    },
+    {
+      "album": {
         "name": "On This Side",
         "url": "https://open.spotify.com/album/3vBCVNA2onuYFBeizByDXc"
       },
@@ -4862,6 +5076,24 @@
       "duration_ms": 158171,
       "name": "Oops",
       "url": "https://open.spotify.com/track/2jHVaUzmv8FYwEsNYqGogT"
+    },
+    {
+      "album": {
+        "name": "Op de Counter",
+        "url": "https://open.spotify.com/album/7tWjg1IJE2C0hghR2YFfpa"
+      },
+      "artists": [
+        {
+          "name": "BOKKI",
+          "url": "https://open.spotify.com/artist/4ANqWVazc3lo9jYITK2Ceb"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Op de Counter",
+      "url": "https://open.spotify.com/track/3yCFs0RQZy2HKthpg51pF7"
     },
     {
       "album": {
@@ -5189,6 +5421,24 @@
     },
     {
       "album": {
+        "name": "Probleem",
+        "url": "https://open.spotify.com/album/3jarmRsn4GdDA3sliphmj9"
+      },
+      "artists": [
+        {
+          "name": "MR7",
+          "url": "https://open.spotify.com/artist/1JCHGpXp6v55OMHEkEXJuA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132784,
+      "name": "Probleem",
+      "url": "https://open.spotify.com/track/3djhoyCQQP4Tv5zErWGskZ"
+    },
+    {
+      "album": {
         "name": "Ready",
         "url": "https://open.spotify.com/album/1IsXC8chdEhUQlc2EyRVei"
       },
@@ -5276,7 +5526,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 140838,
       "name": "Regenachtig",
       "url": "https://open.spotify.com/track/7ihfmtkF9vnN7kyY1yvgcQ"
@@ -5422,7 +5672,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 171669,
       "name": "SD Kaart",
       "url": "https://open.spotify.com/track/3TcRryQZXHTrBXtA1ffgMk"
@@ -5484,7 +5734,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 147428,
       "name": "Shinen",
       "url": "https://open.spotify.com/track/6jvfVmpaSEvckOrktLyw4k"
@@ -5888,7 +6138,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 173445,
       "name": "Tell Me Please",
       "url": "https://open.spotify.com/track/6S73aKrnBlfOY804aKerOQ"
@@ -6114,6 +6364,24 @@
       "duration_ms": 163265,
       "name": "TOXIC FIGHT",
       "url": "https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Clep N Flyy",
+          "url": "https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/2rQExsHGxdepLIvwyLN0C3"
     },
     {
       "album": {
@@ -6366,6 +6634,28 @@
       "duration_ms": 182400,
       "name": "Verstandig",
       "url": "https://open.spotify.com/track/0RiU2lKqcj1EO0tRjF5hKf"
+    },
+    {
+      "album": {
+        "name": "VERT3LLEN",
+        "url": "https://open.spotify.com/album/2sQWaHA4bqDVNYJ8GJIY9P"
+      },
+      "artists": [
+        {
+          "name": "Bens",
+          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+        },
+        {
+          "name": "Dammie",
+          "url": "https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "VERT3LLEN",
+      "url": "https://open.spotify.com/track/0BrRABx6pnEqoSQ1Tkmqw4"
     },
     {
       "album": {
@@ -6880,6 +7170,24 @@
       "duration_ms": 188811,
       "name": "Zuidas",
       "url": "https://open.spotify.com/track/5BI3C47nhlC9POwIYdoJtb"
+    },
+    {
+      "album": {
+        "name": "Zwieber",
+        "url": "https://open.spotify.com/album/1XwDCKus4KpeM4OC0ZPQbz"
+      },
+      "artists": [
+        {
+          "name": "Jc",
+          "url": "https://open.spotify.com/artist/2BI5TSwRkOvgTrXKTLVEwh"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150997,
+      "name": "Zwieber",
+      "url": "https://open.spotify.com/track/715N6tEkREfOg8AIexS3PX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6"

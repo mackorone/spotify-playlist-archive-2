@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,054 likes - 146 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,059 likes - 146 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 27 | [THE THING](https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [THE THING](https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI) | 5:38 |
 | 28 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 29 | [Yang Tertulis \- From "Akad Yang Hilang"](https://open.spotify.com/track/1fvqcHQmMQAWJ4FS5oXx0T) | [Dinda Dania](https://open.spotify.com/artist/6zA8TCZT3O5MRvbyh50kxo) | [Yang Tertulis \(From "Akad Yang Hilang"\)](https://open.spotify.com/album/0tegVzr36bicERLoxRPQ9r) | 3:53 |
-| 30 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 30 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 31 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 |
 | 32 | [Yang Engkau Mahukan](https://open.spotify.com/track/2ggVMWtE8vvmECNgRHyCp3) | [Hafiz Suip](https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW) | [Yang Engkau Mahukan](https://open.spotify.com/album/4b0hNFxFkxLzInInzDd5Nn) | 3:59 |
 | 33 | [Running to Future](https://open.spotify.com/track/4GoHlroPFfWSJzp6PSZEzU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/4UwJN15Kj788q1cr5X2j5T) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL3J0k32lWnN.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,551 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,576 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL3J0k32lWnN.md) - [plain]
 | 49 | [I KNOW](https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [I KNOW](https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG) | 3:09 |
 | 50 | [Et sted hvor vi de første](https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Et sted hvor vi de første](https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz) | 3:27 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

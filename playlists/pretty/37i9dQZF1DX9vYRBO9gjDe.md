@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。1月14日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,298 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,317 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 20 | [No\-Yes](https://open.spotify.com/track/53SNaAsWNxB95mETZ122kq) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/4kfczYGAHkiAIGWZOcNThu) | 2:42 |
 | 21 | [瞬き](https://open.spotify.com/track/7hIfpcdUZcyCKHYy8gp49E) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 5:25 |
 | 22 | [未来へ](https://open.spotify.com/track/00NriPfaFaiPDuIUYBkh2k) | [T.N.T](https://open.spotify.com/artist/7hPdXB6soJMZG24vdbfPOC) | [未来へ/I Don't Care](https://open.spotify.com/album/0R5t10YD7m3ALcTTek3QPG) | 4:20 |
-| 23 | [Helicopter](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Helicopter](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
+| 23 | [HELICOPTER](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HELICOPTER](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
 | 24 | [悪戯な天使 \- Itazurana Tenshi](https://open.spotify.com/track/5OScYgWsvZ5jgbDascFV6F) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [悪戯な天使 \(Itazurana Tenshi\)](https://open.spotify.com/album/6fkeAdFCBSQRF4Wb8KBfTO) | 4:30 |
 | 25 | [あのね](https://open.spotify.com/track/3XsDHHA1MbyaOLnuzmU5vy) | [Nanatsukaze](https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH) | [あのね](https://open.spotify.com/album/3xklosNcluI0uFRBosYuO5) | 3:19 |
 | 26 | [雪月花](https://open.spotify.com/track/21UVLrJ0yuJ6CGeElXMG0C) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [BOY & GIRLS](https://open.spotify.com/album/1DiYOvRSotct1CN2A4fwlT) | 5:16 |

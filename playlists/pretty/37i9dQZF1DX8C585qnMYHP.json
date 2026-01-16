@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:2gSV6FsMxBBH01LLNgx6HU\">Babau</a> on cover. Artwork by Thami Nabil, photo by Stefania Zanetti",
-  "num_followers": 192201,
+  "num_followers": 192200,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": ",,, as long as i long to memorise your sky ,,,",
-        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
-      },
-      "artists": [
-        {
-          "name": "elijah jamal asani",
-          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "~~~littleriverhypothesis\u2022\u2022",
-      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 221960,
       "name": "Windows",
       "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": ",,, as long as i long to memorise your sky ,,,",
+        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
+      },
+      "artists": [
+        {
+          "name": "elijah jamal asani",
+          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "~~~littleriverhypothesis\u2022\u2022",
+      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "Sonny Gray",
+        "url": "https://open.spotify.com/album/1fXY2l6fVkSNL8xWC54KZR"
+      },
+      "artists": [
+        {
+          "name": "Alex Wilcox",
+          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
+        }
+      ],
+      "duration_ms": 238625,
+      "name": "I Am The Cucumber Man",
+      "url": "https://open.spotify.com/track/6G0LBBs1XDry3cauKvXYHT"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "punk cake",
         "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 126267,
       "name": "Ghost Ryder",
       "url": "https://open.spotify.com/track/1fd3A5zfvQFtbQR46wa9P3"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Sonny Gray",
-        "url": "https://open.spotify.com/album/1fXY2l6fVkSNL8xWC54KZR"
-      },
-      "artists": [
-        {
-          "name": "Alex Wilcox",
-          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
-        }
-      ],
-      "duration_ms": 238625,
-      "name": "I Am The Cucumber Man",
-      "url": "https://open.spotify.com/track/6G0LBBs1XDry3cauKvXYHT"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "TIDE/TIED",
-        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
-      },
-      "artists": [
-        {
-          "name": "Thanya Iyer",
-          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
-        }
-      ],
-      "duration_ms": 440269,
-      "name": "Waves/Hold/Tied",
-      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Hand To Mouth",
         "url": "https://open.spotify.com/album/3wGORzE4SH5K6toBJhzGnX"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 218962,
       "name": "Consider This",
       "url": "https://open.spotify.com/track/7ibTbfuTYaIUbcGAJlpyzB"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "TIDE/TIED",
+        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+      },
+      "artists": [
+        {
+          "name": "Thanya Iyer",
+          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+        }
+      ],
+      "duration_ms": 440269,
+      "name": "Waves/Hold/Tied",
+      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Tr\u00e4frack",
-        "url": "https://open.spotify.com/album/5ESO4hLBoZGNbR1jXjK1SA"
-      },
-      "artists": [
-        {
-          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
-        }
-      ],
-      "duration_ms": 215375,
-      "name": "Tr\u00e4frack",
-      "url": "https://open.spotify.com/track/49aZTHdzomy42jf6bdCzcJ"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Noor-e Vojood",
         "url": "https://open.spotify.com/album/3tEm5SjojNJ79ZrW5iTQ7R"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 390959,
       "name": "Kampana - Vibration, trembling",
       "url": "https://open.spotify.com/track/0mqCMl0iihyYf4yhnYWReV"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Tr\u00e4frack",
+        "url": "https://open.spotify.com/album/5ESO4hLBoZGNbR1jXjK1SA"
+      },
+      "artists": [
+        {
+          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
+        }
+      ],
+      "duration_ms": 215375,
+      "name": "Tr\u00e4frack",
+      "url": "https://open.spotify.com/track/49aZTHdzomy42jf6bdCzcJ"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Waiting pt 1",
-        "url": "https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA"
-      },
-      "artists": [
-        {
-          "name": "Jane Paknia",
-          "url": "https://open.spotify.com/artist/1Zoaf3n6LhFuN5Ir3Ab4yM"
-        }
-      ],
-      "duration_ms": 132318,
-      "name": "Waiting pt 1",
-      "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Distratta",
         "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 169775,
       "name": "Distratta",
       "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Waiting pt 1",
+        "url": "https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA"
+      },
+      "artists": [
+        {
+          "name": "Jane Paknia",
+          "url": "https://open.spotify.com/artist/1Zoaf3n6LhFuN5Ir3Ab4yM"
+        }
+      ],
+      "duration_ms": 132318,
+      "name": "Waiting pt 1",
+      "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
     },
     {
       "added_at": "2025-11-19 10:21:55",

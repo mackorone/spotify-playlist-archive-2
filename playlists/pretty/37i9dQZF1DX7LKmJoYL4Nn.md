@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,180 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,182 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 70 | [今宵月の館にて](https://open.spotify.com/track/3TSqHmKB8KREL3KUIbzbVF) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:51 |
 | 71 | [聖少年遊戯](https://open.spotify.com/track/4iiMii9sMiAJSqxCeU4NsY) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)、仁兎なずな\(CV.米内佑希\)](https://open.spotify.com/artist/4HzGqYlLXDoEFKbsQWEoPR) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:08 |
 | 72 | [ROCK ROAR \- Game Edit](https://open.spotify.com/track/6ScjwtZQgKtgG7KVIJZAgk) | [デッドマンズ／朔間 零\(CV.増田 俊樹\)、蓮巳 敬人\(CV.梅原 裕一郎\)、大神 晃牙\(CV.小野 友樹\)、鬼龍 紅郎 \(CV.神尾 晋一郎\)](https://open.spotify.com/artist/15JhHuwM0wSTUl0muVA45Z) | [あんさんぶるスターズ！！ デッドマンズ「ROCK ROAR」 \(Game Edit\)](https://open.spotify.com/album/0U1g4lLPkcJdib2IiK2cSU) | 2:30 |
-| 73 | [NEW DAYBREAK](https://open.spotify.com/track/2iom8kZCmuUny8MfbH94VK) | [流星隊/南雲 鉄虎\(CV.中島 ヨシキ\)、高峯 翠\(CV.渡辺 拓海\)、仙石 忍\(CV.新田 杏樹\)、守沢 千秋\(CV.帆世 雄一\)、深海 奏汰\(CV.西山 宏太朗\)](https://open.spotify.com/artist/0cvDPbtYkcYQsdy9MONamK) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 流星隊](https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid) | 3:40 |
-| 74 | [スターライトパレード](https://open.spotify.com/track/5ouz6eWbjO2FP8bQIu1VIj) | [fine & Knights/天祥院 英智\(CV.緑川 光\)、日々樹 渉\(CV.江口 拓也\)、姫宮 桃李\(CV.村瀬 歩\)、伏見 弓弦\(CV.橋本 晃太朗\)、朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/5vBqesXGp3JrQyPiXOhP5S) | [fine ＆ Knights「スターライトパレード」 あんさんぶるスターズ！！ COVER SONG SERIES 06](https://open.spotify.com/album/7KfEKUFVBAxnw9koc1C9fH) | 5:43 |
+| 73 | [スターライトパレード](https://open.spotify.com/track/5ouz6eWbjO2FP8bQIu1VIj) | [fine & Knights/天祥院 英智\(CV.緑川 光\)、日々樹 渉\(CV.江口 拓也\)、姫宮 桃李\(CV.村瀬 歩\)、伏見 弓弦\(CV.橋本 晃太朗\)、朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/5vBqesXGp3JrQyPiXOhP5S) | [fine ＆ Knights「スターライトパレード」 あんさんぶるスターズ！！ COVER SONG SERIES 06](https://open.spotify.com/album/7KfEKUFVBAxnw9koc1C9fH) | 5:43 |
+| 74 | [NEW DAYBREAK](https://open.spotify.com/track/2iom8kZCmuUny8MfbH94VK) | [流星隊/南雲 鉄虎\(CV.中島 ヨシキ\)、高峯 翠\(CV.渡辺 拓海\)、仙石 忍\(CV.新田 杏樹\)、守沢 千秋\(CV.帆世 雄一\)、深海 奏汰\(CV.西山 宏太朗\)](https://open.spotify.com/artist/0cvDPbtYkcYQsdy9MONamK) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 流星隊](https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid) | 3:40 |
 | 75 | [Neo Sanctuary](https://open.spotify.com/track/1utRAdIpdORkH9x2RdtIrA) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [あんさんぶるスターズ！アルバムシリーズ fine](https://open.spotify.com/album/4z49lX1K56H1WPOgE12LMl) | 3:59 |
 
 Snapshot ID: `AAAAALzW+whQ4mZxyPTR12O1i9D43AnI`

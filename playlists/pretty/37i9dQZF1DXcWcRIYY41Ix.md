@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Karmento y Le Parody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,095 likes - 105 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,094 likes - 105 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 16 | [Manolo Mío](https://open.spotify.com/track/7bUPLiY3TknugjNIs0pxnE) | [Cristina Len](https://open.spotify.com/artist/5lgIxzmjmsIDKBOUs999xD) | [Martiago](https://open.spotify.com/album/6JfwfyoAZRsjBRyBPclFnp) | 2:36 |
 | 17 | [Dije que sí](https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Decir que sí](https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0) | 2:18 |
 | 18 | [Así me va](https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Así me va](https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj) | 2:35 |
-| 19 | [El rio no tiene culpa](https://open.spotify.com/track/4liYpkDfh7dlKWq6kXcyCr) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Greenpeace](https://open.spotify.com/artist/4QMn3zRXcDBmuahbt4hk63) | [El río no tiene culpa](https://open.spotify.com/album/1ZoFg15SGUUHgA1TryMNR3) | 6:01 |
+| 19 | [El río no tiene culpa](https://open.spotify.com/track/4liYpkDfh7dlKWq6kXcyCr) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Greenpeace](https://open.spotify.com/artist/4QMn3zRXcDBmuahbt4hk63) | [El río no tiene culpa](https://open.spotify.com/album/1ZoFg15SGUUHgA1TryMNR3) | 6:01 |
 | 20 | [La Maza \- En Vivo Desde Fonobox](https://open.spotify.com/track/66N4z49zmWLC1oOsXRqu09) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [La Maza \(En Vivo Desde Fonobox\)](https://open.spotify.com/album/6FsFC9UhnjHs6kZOqlpbCh) | 5:03 |
 | 21 | [Me Perdono](https://open.spotify.com/track/6xXYaE5cstVvcBhwCJFOGJ) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Me Perdono](https://open.spotify.com/album/3CCGWWOZtZHtWhYiQNa1yA) | 3:20 |
 | 22 | [Las Cosas Que No Dije](https://open.spotify.com/track/0oOpGaV23qGzjaYcBYCldY) | [Martín Dlugonoga](https://open.spotify.com/artist/6gGpi3mTRrqwA1FntShspR) | [Las Cosas Que No Dije](https://open.spotify.com/album/2P0ZLlIOYFyrkanPKw8oE5) | 2:12 |

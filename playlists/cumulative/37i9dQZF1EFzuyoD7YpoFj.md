@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-641 songs - 1 day 10 hr 32 min
+642 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,9 +205,10 @@
 | [Hitchy\-Koo: My cozy little corner in the Ritz](https://open.spotify.com/track/4awcli4SRCRtBLjZiTwfL7) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Frank Saddler](https://open.spotify.com/artist/0eYfjTQgCssFOhftSnR9Dv), [Thomas Hampson/London Symphony Orchestra/John McGlinn](https://open.spotify.com/artist/2icPd5FHYWJ3TIszCPOVPb), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Cole Porter Night and Day: Thomas Hampson](https://open.spotify.com/album/37eRtgxiUCq3qZN1WmxodR) | 2:30 | 2024-07-24 | 2025-06-28 |
 | [Hitchy\-Koo: When I had a uniform on \(orch\. Maurice de Packh\)](https://open.spotify.com/track/0IyYNqJmz40WRGuqXImQZ4) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Maurice de Packh](https://open.spotify.com/artist/2zO3UwJ09Hz2IlBK40mUzL), [Thomas Hampson](https://open.spotify.com/artist/6pxEWWaFpWFJGEZK6dOzsF), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK) | [Cole Porter Night and Day: Thomas Hampson](https://open.spotify.com/album/37eRtgxiUCq3qZN1WmxodR) | 3:32 | 2024-07-24 |  |
 | [Home](https://open.spotify.com/track/0yqj1lmiSbIgcp1fXIpqh1) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Under The Stars](https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM) | 5:52 | 2024-07-24 | 2025-06-28 |
+| [Hot\-House Rose](https://open.spotify.com/track/2ab6hhNW2QBX9ZUF128fGC) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Right to Sing](https://open.spotify.com/album/0SEV4kfGsJ8Z9CfFPJ2zzW) | 2:51 | 2026-01-15 |  |
 | [Hot\-House Rose](https://open.spotify.com/track/5AZssvcrG1UhuxUOHolZ0N) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Presenting Lee Wiley](https://open.spotify.com/album/0x0zRhAWVDUU1syV0prQdQ) | 2:51 | 2024-07-24 | 2024-12-13 |
 | [Hot\-House Rose](https://open.spotify.com/track/5qnEOitJEK4iIOsY1NUlOF) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [A Ghost of a Chance](https://open.spotify.com/album/0Z6PwRMIfCvdxGSESU3ejc) | 2:51 | 2024-12-19 | 2025-12-18 |
-| [Hot\-House Rose](https://open.spotify.com/track/56L2eKVuAaPkzLJxf7zF70) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Sings the Songs of George & Ira Gershwin & Cole Porter](https://open.spotify.com/album/12h9mMJlUqT7OIK7RdeRlX) | 2:51 | 2024-12-12 |  |
+| [Hot\-House Rose](https://open.spotify.com/track/56L2eKVuAaPkzLJxf7zF70) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Sings the Songs of George & Ira Gershwin & Cole Porter](https://open.spotify.com/album/12h9mMJlUqT7OIK7RdeRlX) | 2:51 | 2024-12-12 | 2026-01-16 |
 | [Hotel Balcony](https://open.spotify.com/track/2Y5DJlXI8AO3MAe16BkTAH) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:09 | 2024-07-24 |  |
 | [Hotel Exterior](https://open.spotify.com/track/1bPXS00ewWqWqYAQxgkiJL) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 3:25 | 2024-07-24 |  |
 | [How Could We Be Wrong](https://open.spotify.com/track/6zZXtGTAYByufreIBwnLcV) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R) | [The Very Thought Of You](https://open.spotify.com/album/36exp8KOYFll7y1hX4vqzO) | 3:19 | 2024-07-24 |  |

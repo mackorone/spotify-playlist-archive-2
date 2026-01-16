@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Go hard or go home. Cover: Macky Gee",
+  "description": "Go hard or go home. Cover: Voltage",
   "name": "Jump Up!",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 187240,
       "name": "Alarm (feat. MC ID)",
       "url": "https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 252342,
       "name": "Bad Boy Horns",
       "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Barbera 2026",
+        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243921,
+      "name": "Barbera 2026",
+      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
+    },
+    {
+      "album": {
         "name": "Bass",
         "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
       },
@@ -468,7 +486,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 243103,
       "name": "Beamin\u2019 - K Motionz & skantia Remix",
       "url": "https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr"
@@ -600,7 +618,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 288052,
       "name": "Bomb Squad - Bou Remix",
       "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
@@ -666,7 +684,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 200423,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
@@ -973,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Winter Mix Vol.2",
+        "url": "https://open.spotify.com/album/5LbxXb4abEIXhy0Qv5WC66"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76800,
+      "name": "Cascade - Mixed",
+      "url": "https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B"
+    },
+    {
+      "album": {
         "name": "Critical Presents: Systems 015",
         "url": "https://open.spotify.com/album/2CUQQxHz3I9UaKroXrcYdk"
       },
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 224775,
       "name": "Chant",
       "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
@@ -1060,7 +1096,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 266057,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q"
@@ -1218,7 +1254,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 228706,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
@@ -1236,7 +1272,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 200228,
       "name": "Come With It",
       "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
@@ -1522,7 +1558,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 202068,
       "name": "Dancing In My Sleep",
       "url": "https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7"
@@ -1642,7 +1678,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 201517,
       "name": "Deserted",
       "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
@@ -1762,7 +1798,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 176914,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
@@ -1820,7 +1856,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 146742,
       "name": "Double Vision",
       "url": "https://open.spotify.com/track/1PgRBwqqo6HWujY3zLWd0N"
@@ -1994,10 +2030,36 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 224914,
       "name": "F*ck Jump Up (feat. B Live)",
       "url": "https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB"
+    },
+    {
+      "album": {
+        "name": "Fancy $hit (Skepsis Remix)",
+        "url": "https://open.spotify.com/album/0p1P9uYMuVESTEoj4uDUCG"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Fancy $hit - Skepsis Remix",
+      "url": "https://open.spotify.com/track/6vrHmb5lwdWKc9kdhGUv7Z"
     },
     {
       "album": {
@@ -2322,7 +2384,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 199728,
       "name": "Ghosting Your Love",
       "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
@@ -2454,7 +2516,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 180344,
       "name": "Goose Chase",
       "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
@@ -2856,7 +2918,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 193643,
       "name": "IFTK - Vibe Chemistry Remix",
       "url": "https://open.spotify.com/track/7lXkhek4aKD6v01Rq8fotO"
@@ -3020,6 +3082,28 @@
       "duration_ms": 190344,
       "name": "Inside The Rider",
       "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
+    },
+    {
+      "album": {
+        "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
+        "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
+      },
+      "artists": [
+        {
+          "name": "TC",
+          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
+        },
+        {
+          "name": "Original Sin",
+          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Inside The Rider - TC & Original Sin 2000's Remix",
+      "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
     },
     {
       "album": {
@@ -3560,7 +3644,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 189257,
       "name": "Liquor & Cigarettes (feat. ArrDee)",
       "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
@@ -3822,7 +3906,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 174917,
       "name": "MHITR (Semi-Automatic) [feat. Eksman]",
       "url": "https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY"
@@ -3992,7 +4076,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 128279,
       "name": "Mosh Pit",
       "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
@@ -4044,7 +4128,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 200239,
       "name": "Move Your Body - Hedex Remix",
       "url": "https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz"
@@ -4218,7 +4302,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 163907,
       "name": "No Excuses - Hedex Remix",
       "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
@@ -4262,7 +4346,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 171428,
       "name": "No Warning (feat. Nathan Smoker)",
       "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"
@@ -4444,7 +4528,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 177136,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
@@ -4484,7 +4568,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 235885,
       "name": "Outta Order",
       "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
@@ -4634,7 +4718,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 202971,
       "name": "Polarity - VIP",
       "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
@@ -5012,7 +5096,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 216551,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
@@ -5048,7 +5132,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 164571,
       "name": "Rhythm & Gash VIP",
       "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
@@ -5234,7 +5318,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 180689,
       "name": "RUN",
       "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
@@ -5672,7 +5756,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
@@ -5970,7 +6054,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 204342,
       "name": "Take Cover",
       "url": "https://open.spotify.com/track/2LPqFNyVa0XOJxnLWc9PcI"
@@ -5988,7 +6072,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 215327,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
@@ -6276,7 +6360,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 202020,
       "name": "This Is Acid",
       "url": "https://open.spotify.com/track/0PRrHOr1x8PLwuZk9bpK41"
@@ -6726,7 +6810,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 246900,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd"

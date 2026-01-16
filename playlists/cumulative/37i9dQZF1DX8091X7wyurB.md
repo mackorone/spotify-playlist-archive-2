@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-758 songs - 3 day 4 hr 23 min
+759 songs - 3 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [I Am](https://open.spotify.com/track/2zrsyufGC2p1LPBp8RzKcP) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [I Am](https://open.spotify.com/album/4jQGnOdxBUGyZKcQIkKvOV) | 7:39 | 2025-07-25 | 2025-08-08 |
 | [I AM](https://open.spotify.com/track/6krahQOOJZosOiHKPZBbZS) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4), [Dr Flourish Peters](https://open.spotify.com/artist/1gu1WkuCxG2deha26haepG) | [I AM](https://open.spotify.com/album/1TFzauoARG4LvbAjjvIB7B) | 4:31 | 2023-04-28 | 2023-07-03 |
 | [I Am Temple](https://open.spotify.com/track/42IkSQoEco0FPshWVWNHiQ) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Awakened](https://open.spotify.com/album/6Gcg5SObsua8DuMmszhEs5) | 4:46 | 2025-09-12 | 2025-10-10 |
+| [I Am Who You Say I Am](https://open.spotify.com/track/3aUW5yTFP8RWN15wxlYW0I) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [I Am Who You Say I Am](https://open.spotify.com/album/0c5GmMEQuce9qHm0G2ebVD) | 4:02 | 2026-01-16 |  |
 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 | 2023-11-24 | 2024-01-14 |
 | [I Believe](https://open.spotify.com/track/4aBhXsIOid0Ywk8SagSDeX) | [O'Tims](https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD) | [The Lord's](https://open.spotify.com/album/7kFFcia3s1RBDmsyDPPm0S) | 6:15 | 2025-08-29 | 2025-09-05 |
 | [I Carry Fire](https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [I Carry Fire](https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc) | 6:11 | 2025-09-26 | 2025-10-17 |
@@ -462,7 +463,7 @@
 | [Near](https://open.spotify.com/track/7pJZnf5y8xthqZU4fYnP8K) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [LENG](https://open.spotify.com/album/2N2CQCJBsYGYu9fN60Oj9Q) | 6:40 | 2025-04-25 | 2025-05-30 |
 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 | 2023-12-05 | 2023-12-10 |
 | [Never Again \- Live](https://open.spotify.com/track/0avSfabWivCociv7l1vKRM) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Never Again \(Live\)](https://open.spotify.com/album/2YUIEDZNAge8KlCfIC8oam) | 11:04 | 2025-06-06 | 2025-06-20 |
-| [NEVER ALONE](https://open.spotify.com/track/48BjLsEvyfrNxkRfNLOKT3) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [NEVER ALONE](https://open.spotify.com/album/6E9mQ8c7nG2U1RTPq7gcG7) | 4:24 | 2025-11-21 |  |
+| [NEVER ALONE](https://open.spotify.com/track/48BjLsEvyfrNxkRfNLOKT3) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [NEVER ALONE](https://open.spotify.com/album/6E9mQ8c7nG2U1RTPq7gcG7) | 4:24 | 2025-11-21 | 2026-01-16 |
 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 | 2023-06-29 |
 | [Never Go Back](https://open.spotify.com/track/6p2JFd5je1ulXf2xE9Zmft) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ) | [REDEEMED](https://open.spotify.com/album/6cOAKz1VOn9cFMuCTiNW8S) | 3:17 | 2024-10-18 | 2024-11-08 |
 | [Never Leave Me](https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Never Leave Me](https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG) | 2:40 | 2022-06-30 | 2023-09-01 |

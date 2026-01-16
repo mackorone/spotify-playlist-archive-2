@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "The #1 Destination for the best melodies in the world. Cover: Tyla",
+  "description": "The #1 Destination for the best melodies in the world. Cover: Natanya",
   "name": "Essence",
   "tracks": [
     {
@@ -1411,6 +1411,24 @@
     },
     {
       "album": {
+        "name": "Feline's Return",
+        "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192192,
+      "name": "On Ur Time",
+      "url": "https://open.spotify.com/track/2XX9DsMkC1KSECUs6WGUxd"
+    },
+    {
+      "album": {
         "name": "Here For It All",
         "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
       },
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 167503,
       "name": "SINCERITY",
       "url": "https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1"
@@ -1706,6 +1724,24 @@
       "duration_ms": 143758,
       "name": "So Lucky",
       "url": "https://open.spotify.com/track/3DAJjuBdlhH7APSVY9bN8Z"
+    },
+    {
+      "album": {
+        "name": "Feline's Return",
+        "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224498,
+      "name": "Sofa Joy",
+      "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
     },
     {
       "album": {

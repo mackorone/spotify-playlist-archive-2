@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Harmonize",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jay Melody",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -916,6 +916,24 @@
       "duration_ms": 254706,
       "name": "Basi Tu",
       "url": "https://open.spotify.com/track/6u9PnXag7PlwoosKq9NLFk"
+    },
+    {
+      "album": {
+        "name": "Bedui",
+        "url": "https://open.spotify.com/album/3mtpMHkwhgRZiomFEhSRUm"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180310,
+      "name": "Bedui",
+      "url": "https://open.spotify.com/track/5JXEL6pfOs68LSmjoipFL7"
     },
     {
       "album": {
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 165473,
       "name": "Furaha",
       "url": "https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx"
@@ -3736,7 +3754,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 168142,
       "name": "Inama (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/7radUp1KfnvR1vucxys2ge"
@@ -5036,7 +5054,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 130666,
       "name": "Lala (feat. Abigail Chams)",
       "url": "https://open.spotify.com/track/759DS4sknbTnQXgSsz1i2I"
@@ -5128,6 +5146,28 @@
       "duration_ms": 196595,
       "name": "Leo",
       "url": "https://open.spotify.com/track/03kUovuwKyc4vneZJke4EO"
+    },
+    {
+      "album": {
+        "name": "Leo (feat. Mbosso)",
+        "url": "https://open.spotify.com/album/4RWtxgtUfv22aI31C6wLyq"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Leo (feat. Mbosso)",
+      "url": "https://open.spotify.com/track/19Z2oGUA5DXQqPUDrHg2cB"
     },
     {
       "album": {
@@ -8366,7 +8406,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 248135,
       "name": "Obimo",
       "url": "https://open.spotify.com/track/67ujyXEefurRhsBioXtLiL"
@@ -10167,6 +10207,28 @@
     },
     {
       "album": {
+        "name": "Sio bure",
+        "url": "https://open.spotify.com/album/4wgoyO2tLkpQmPwsKVSbuX"
+      },
+      "artists": [
+        {
+          "name": "FreshBoys",
+          "url": "https://open.spotify.com/artist/4ksHkRc0gFw34fr9vAJEdU"
+        },
+        {
+          "name": "Dayoo",
+          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222399,
+      "name": "Sio bure",
+      "url": "https://open.spotify.com/track/52CnH3bFhkLjclDmCo1OSN"
+    },
+    {
+      "album": {
         "name": "Kamili",
         "url": "https://open.spotify.com/album/7AV9XtcUhyDjbrhAcI8rwB"
       },
@@ -11242,7 +11304,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 215000,
       "name": "Tunapendana",
       "url": "https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y"
@@ -12713,6 +12775,24 @@
     },
     {
       "album": {
+        "name": "Your Loss",
+        "url": "https://open.spotify.com/album/6HzYn6HViKNb7mWwbIC8Ie"
+      },
+      "artists": [
+        {
+          "name": "Abigail Chams",
+          "url": "https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Your Loss",
+      "url": "https://open.spotify.com/track/5v3BFswaqCAri7bZY2g78o"
+    },
+    {
+      "album": {
         "name": "Your Style",
         "url": "https://open.spotify.com/album/3c1y2CkpzEsVO6C6qEM3zC"
       },
@@ -12852,7 +12932,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 229821,
       "name": "Zali",
       "url": "https://open.spotify.com/track/0XWVRZyHXzmvZLAkSLxcFB"

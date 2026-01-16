@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,856 likes - 36 songs - 2 hr 2 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,860 likes - 36 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 10 | [Bad News](https://open.spotify.com/track/06oRwfBISxd06rozMDDogR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:16 |
 | 11 | [LiFE 4 A LiFE](https://open.spotify.com/track/6CrpAztWyhMb4Ve2kcg5sK) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [LiFE 4 A LiFE](https://open.spotify.com/album/64i9QChgaRNAJVHVBSl6wQ) | 2:59 |
 | 12 | [Gestations](https://open.spotify.com/track/6D8DWQb15HP4QEWrpFk5ox) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [Gestations](https://open.spotify.com/album/4zBFrSiG8qwQo8m0Y7jOsB) | 5:07 |
-| 13 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 13 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 14 | [I'm The Outside](https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [I'm The Outside](https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS) | 1:51 |
 | 15 | [Glow](https://open.spotify.com/track/22Gq06C855NgtL0xzq1QuG) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Glow](https://open.spotify.com/album/2ivoPkuZrmLFojrt3BCfJo) | 4:41 |
 | 16 | [Daisies](https://open.spotify.com/track/1KuGzgS3tXTinh04ckoNb7) | [Lantlôs](https://open.spotify.com/artist/1cbBzQxiKcZCsit68iTbTJ) | [Daisies](https://open.spotify.com/album/5OrkOMjTnkPWrbuMG0hhiN) | 2:45 |

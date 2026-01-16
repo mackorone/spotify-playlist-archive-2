@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,301 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,303 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 |
+| 1 | [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 |
 | 2 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 3 | [Тело \- убийца](https://open.spotify.com/track/3mwHmCxMATylKp2ELRGrv0) | [Игнатий Винтуров](https://open.spotify.com/artist/57YgeohDkbDOIrH9hOjDkS) | [Тело \- убийца](https://open.spotify.com/album/5fxrnffsWQVoQeg1PvtBzQ) | 2:53 |
 | 4 | [Ворона](https://open.spotify.com/track/5nqHvvaHypTf4Tbxy19wjb) | [Кэнни](https://open.spotify.com/artist/1ry7s7xTI83pT5k86vwURx), [МС Дымка](https://open.spotify.com/artist/5ds2ulCVJFlT9ePOnUo2tH) | [Ворона](https://open.spotify.com/album/2SiMoleGDAGkFxBg2KMFgC) | 2:42 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 17 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 |
 | 18 | [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 |
 | 19 | [думаю о тебе](https://open.spotify.com/track/2rG0vMueQK6ocCn05MM1hw) | [Damir Mate](https://open.spotify.com/artist/1bi0scU7AqtahNVmXYGZ9M) | [думаю о тебе](https://open.spotify.com/album/3DwtQcUj2BP01d07F4vs6I) | 2:48 |
-| 20 | [Upside Down](https://open.spotify.com/track/5H5IL8XRPLcLsnc8sci1z5) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Upside Down Remix '93](https://open.spotify.com/album/3j1dAiz5C3SrlmKC6dGehb) | 4:05 |
+| 20 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
 | 21 | [Ярмарка судеб](https://open.spotify.com/track/3cxvj78jYNTRF9pzSgrGdg) | [Alena](https://open.spotify.com/artist/0n4tr8bPWo82WIKhCyLpCT) | [Ярмарка судеб](https://open.spotify.com/album/0xPBWkVmnOjlRkV83bQDoJ) | 2:38 |
 | 22 | [I Want Things to Be Beautiful](https://open.spotify.com/track/6uZm4IvkJPbETKFOjRhr1c) | [Devi McCallion](https://open.spotify.com/artist/6i1PYODUPDYMtaK8QCGE9I) | [I Want Things to Be Beautiful](https://open.spotify.com/album/5hHbEzhTnXnWVFYhdacR66) | 1:46 |
 | 23 | [ЗАЛЕТАРИКИ](https://open.spotify.com/track/71rCzvZdS8KrtUg28ISrAU) | [ЧЕЛОВЕК ЯЙЦА](https://open.spotify.com/artist/16CxpHoLlu3zFza7jWf60j) | [ЗАЛЕТАРИКИ](https://open.spotify.com/album/14ZvVmvhzKjp4rUiq2SD1g) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 49 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
 | 50 | [Письма с чердака](https://open.spotify.com/track/5jshfIkbcrEN9paibIuf1E) | [VINOKUROV](https://open.spotify.com/artist/272YatBgtbTqYxjAICuAVt), [THE WIFE](https://open.spotify.com/artist/2roINnKQ77PHvao4M4HMGF) | [Письма с чердака](https://open.spotify.com/album/5WcpNqrhF8sSQLzIZUMw9h) | 2:41 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

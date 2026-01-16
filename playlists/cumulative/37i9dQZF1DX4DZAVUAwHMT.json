@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Viagra Boys ",
+  "description": "The UK's biggest rock playlist. Cover: Kid Kapichi",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233026,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
+    },
+    {
+      "album": {
         "name": "ALL OF U",
         "url": "https://open.spotify.com/album/0qzN96GJVCxQJ1YNGkXlN3"
       },
@@ -1800,7 +1818,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 151733,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3UMbZWBBN0CSjPHqgaQItA"
@@ -2154,6 +2172,28 @@
       "duration_ms": 180200,
       "name": "Bedroom Floor",
       "url": "https://open.spotify.com/track/2igAj8xETxRRxOklMfiknR"
+    },
+    {
+      "album": {
+        "name": "Bedroom Posters (feat. Good Charlotte)",
+        "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218635,
+      "name": "Bedroom Posters (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
     },
     {
       "album": {
@@ -3631,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "Catching Up 2 U",
+        "url": "https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202103,
+      "name": "Catching Up 2 U",
+      "url": "https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD"
+    },
+    {
+      "album": {
         "name": "Catherine Wheels",
         "url": "https://open.spotify.com/album/3l2QKnr6Pc2Ggfjr5QRfsP"
       },
@@ -4338,7 +4396,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 196274,
       "name": "Crazy World",
       "url": "https://open.spotify.com/track/0M8IOrFJ2aQxenkdchLQnf"
@@ -5110,7 +5168,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 231285,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/09ofXA1JKT4UhRDIhRkOpE"
@@ -5543,6 +5601,24 @@
     },
     {
       "album": {
+        "name": "Easing Out Of Control",
+        "url": "https://open.spotify.com/album/5hEpZiyINDmaqRD8PPikmB"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214212,
+      "name": "Easing Out Of Control",
+      "url": "https://open.spotify.com/track/00K12rtcNjGzNBqrl3Dnmd"
+    },
+    {
+      "album": {
         "name": "Easy Distraction",
         "url": "https://open.spotify.com/album/0zHgc3eS8X20SdPkJhPRgF"
       },
@@ -5688,7 +5764,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 192800,
       "name": "End of You",
       "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
@@ -5839,6 +5915,24 @@
     },
     {
       "album": {
+        "name": "Even If I Never Get There",
+        "url": "https://open.spotify.com/album/37tK6EVQs3NQIx3MqTghaL"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195993,
+      "name": "Even If I Never Get There",
+      "url": "https://open.spotify.com/track/0xbhvgbN92iUOddEfdGR4L"
+    },
+    {
+      "album": {
         "name": "Even If It Kills Me",
         "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
       },
@@ -5980,6 +6074,24 @@
       "duration_ms": 258826,
       "name": "Everything I Wanted",
       "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
+    },
+    {
+      "album": {
+        "name": "Evie",
+        "url": "https://open.spotify.com/album/3FfxKIk20ASEmmydSBeKvO"
+      },
+      "artists": [
+        {
+          "name": "Holy Fuck",
+          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243146,
+      "name": "Evie",
+      "url": "https://open.spotify.com/track/5hOPgA2uhZ1ziA3YgLXOMn"
     },
     {
       "album": {
@@ -7112,7 +7224,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 211217,
       "name": "Get By Then Die",
       "url": "https://open.spotify.com/track/3RjrQZqMvyvsnFHsV9JXlx"
@@ -8993,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "human props",
+        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236273,
+      "name": "human props",
+      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
+    },
+    {
+      "album": {
         "name": "Hunger Games",
         "url": "https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC"
       },
@@ -9902,7 +10032,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 212577,
       "name": "infinite source",
       "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
@@ -9978,6 +10108,24 @@
       "duration_ms": 232160,
       "name": "Into the Trap",
       "url": "https://open.spotify.com/track/6wQenOUgfgP9ioeWc6vH0E"
+    },
+    {
+      "album": {
+        "name": "It Comes Creeping",
+        "url": "https://open.spotify.com/album/2Qiaj7HeHTzMW0HquUYqBm"
+      },
+      "artists": [
+        {
+          "name": "DEADLETTER",
+          "url": "https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238631,
+      "name": "It Comes Creeping",
+      "url": "https://open.spotify.com/track/4JGkHDbL8ojXnhXufybIPk"
     },
     {
       "album": {
@@ -12563,6 +12711,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192779,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/2fQdCY3Yoo9XLWSSGQGnmM"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/3WSZtZRBRJVoAljZAaip2m"
       },
@@ -13162,7 +13328,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 212497,
       "name": "NEW AGE",
       "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"
@@ -15638,7 +15804,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 176706,
       "name": "R.I.P. ME",
       "url": "https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd"
@@ -17322,6 +17488,24 @@
       "duration_ms": 283040,
       "name": "SLUGLIFE",
       "url": "https://open.spotify.com/track/1NHC32sx6ZrSgoEid0U496"
+    },
+    {
+      "album": {
+        "name": "Slumber Party",
+        "url": "https://open.spotify.com/album/00t69Vno7qzoiT21WCzpnz"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241483,
+      "name": "Slumber Party",
+      "url": "https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0"
     },
     {
       "album": {
@@ -19950,7 +20134,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 199319,
       "name": "To the Brim",
       "url": "https://open.spotify.com/track/6YjU68fNU3Qnj7f9yhwzIE"
@@ -20148,10 +20332,28 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 246078,
       "name": "Tracing Lines",
       "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/5Hpgp8un1ef1VMdmI6perX"
     },
     {
       "album": {
@@ -22016,7 +22218,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 258200,
       "name": "Worst Kept Secret",
       "url": "https://open.spotify.com/track/6R5QSwgDHQ3PymVA8EQitD"

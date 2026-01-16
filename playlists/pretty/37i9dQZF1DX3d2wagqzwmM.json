@@ -1,6 +1,6 @@
 {
   "description": "Big rooms and big sounds. Cover: Blasterjaxx",
-  "num_followers": 633590,
+  "num_followers": 633616,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
@@ -115,10 +115,14 @@
     {
       "added_at": "2026-01-12 11:01:00",
       "album": {
-        "name": "Now We Are Free (feat. Gabry Ponte & AntoNetta) [THOMM Remix]",
+        "name": "Now We Are Free (feat. AntoNetta) [THOMM Remix]",
         "url": "https://open.spotify.com/album/1tdB8ZIvSEfDRiiasFHjV7"
       },
       "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
         {
           "name": "Blasterjaxx",
           "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
@@ -134,14 +138,10 @@
         {
           "name": "THOMM",
           "url": "https://open.spotify.com/artist/5dYTI0a9mTwRdRD4IWZh7L"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
       "duration_ms": 165000,
-      "name": "Now We Are Free (feat. Gabry Ponte & AntoNetta) [THOMM Remix]",
+      "name": "Now We Are Free (feat. AntoNetta) [THOMM Remix]",
       "url": "https://open.spotify.com/track/5y9lMK546W5uB6ULF2TT6D"
     },
     {

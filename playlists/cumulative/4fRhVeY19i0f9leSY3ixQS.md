@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-680 songs - 1 day 15 hr 11 min
+682 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ain't Shit The Bowl](https://open.spotify.com/track/5k26r5zjRdNXShojJVtKDH) | [Barakade](https://open.spotify.com/artist/3rYQvAdbe089i3VD3IRJva) | [Ain't Shit The Bowl](https://open.spotify.com/album/2mr6g0CLGwTh24HTJR2KNA) | 3:09 | 2025-12-27 |  |
 | [Aksjon På Ål](https://open.spotify.com/track/3N7HOKfCnzcxZver8NPfDg) | [Lysne](https://open.spotify.com/artist/4RsfxkBO6jZw4qHNEJp5xm) | [Under Cover](https://open.spotify.com/album/2Zz2ZGzuUxQoO74uHXQNQD) | 2:12 | 2026-01-09 |  |
 | [Alessa Moore](https://open.spotify.com/track/1QqoAYaNueBN8wRe0w7l5i) | [MAYA](https://open.spotify.com/artist/23I9OKP7cbHuK44IV6hMUz) | [Alessa Moore](https://open.spotify.com/album/00NykSPCDv7MZ5mJrzUPBE) | 2:27 | 2026-01-12 |  |
+| [All Alone](https://open.spotify.com/track/100rGMTMahy3hgUqtSMVW8) | [Summer Stained](https://open.spotify.com/artist/2sEdrlfz7BldSC7bpMhpj3) | [Moving Forward](https://open.spotify.com/album/3XTle8a2FA5STIURdj5rS8) | 2:55 | 2026-01-15 |  |
 | [ALL MY FRIENDS](https://open.spotify.com/track/4LOqG8S1DIMwxJZvdx98cE) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 1:37 | 2025-12-24 | 2026-01-15 |
 | [Alright](https://open.spotify.com/track/56plBR3SfhuF0BwD9QN66H) | [t3rrible humans](https://open.spotify.com/artist/4iC1Bpe1kMhU5jpL7smqud) | [Alright](https://open.spotify.com/album/7sa3zIYb5Q6NHv7R1oJIfu) | 2:18 | 2025-12-13 | 2026-01-06 |
 | [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 | 2025-11-24 | 2025-12-24 |
@@ -150,6 +151,7 @@
 | [Deny Reality](https://open.spotify.com/track/3GUrEA0NBlyPFqf5Rih34l) | [Andrew Van Garratt](https://open.spotify.com/artist/6VaIdfjQNk9VVojLRHgejA) | [Plausible Deniability](https://open.spotify.com/album/2EmdFHNTV52oVRNXxiSKXb) | 3:00 | 2025-11-17 | 2025-12-10 |
 | [Deportation Disco](https://open.spotify.com/track/2P0uV6J1i0bzHAra1z3e8m) | [Sea Biscuit](https://open.spotify.com/artist/5pj01uB1QbcuA3P8s2mBGt) | [Lake City Quiet Pills](https://open.spotify.com/album/0KhGHcQWJFp5wUsDlXpZAM) | 2:44 | 2026-01-08 |  |
 | [Depths of Despair](https://open.spotify.com/track/6jdByF80h8tt79ruAbKHJk) | [Chris Maragoth](https://open.spotify.com/artist/01OJBw7i5uLKADzURGFQr3), [Cherry Summerfield](https://open.spotify.com/artist/1xEjdfTyvS2TjaAiKpMbxH) | [Depths of Despair](https://open.spotify.com/album/0RiyrKSdOIXOLFrTgYKLEM) | 4:48 | 2026-01-01 |  |
+| [DESCENT](https://open.spotify.com/track/43cIju9Ct7euSdX4gq0Gxx) | [BAIKAL](https://open.spotify.com/artist/1Ic18THJhrkih00C2LyczI) | [Baikal](https://open.spotify.com/album/1ZUAbfumLk9K2KfL1ESZ5s) | 5:19 | 2026-01-15 |  |
 | [Descent](https://open.spotify.com/track/24nuSMoXe84JsXSH5upNmK) | [Valar Morghulis](https://open.spotify.com/artist/36ziR9uhd3p9xhOJ93zWqa) | [Descent](https://open.spotify.com/album/1hSIgKoFjNTsAVjfRWM0PX) | 5:21 | 2025-12-30 |  |
 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-01-01 |  |
 | [Desgraça Meritocrata](https://open.spotify.com/track/2toM8JC9BuVV2KWvNI3byX) | [Punkzilla!](https://open.spotify.com/artist/195RH0AAkd21C90BDdtaP9) | [Lutar pela Paz](https://open.spotify.com/album/5ivEjlX5im8gx8jEKzyTyx) | 2:29 | 2025-11-15 | 2025-12-10 |

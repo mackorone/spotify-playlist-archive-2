@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: V-Be",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Savara",
   "name": "Made In Kenya",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "4L",
+      "url": "https://open.spotify.com/track/1A4o9VIKFtD9CFEUMwEvPl"
+    },
     {
       "album": {
         "name": "Add Up",
@@ -561,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Farova Forever",
+        "url": "https://open.spotify.com/album/1W5i6nLPEZtF15WUmuAVW9"
+      },
+      "artists": [
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Farova Forever",
+      "url": "https://open.spotify.com/track/3GJFGFpL1A0WD6RUUPc2Co"
+    },
+    {
+      "album": {
         "name": "SAVAGE LEVEL",
         "url": "https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110"
       },
@@ -806,7 +846,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 174315,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/1TidyHnfWZJ2GcDMESuYUt"
@@ -948,7 +988,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 186995,
       "name": "Ki Design",
       "url": "https://open.spotify.com/track/4rVn0FXqfPw9vVBuSOr4Kl"
@@ -1694,7 +1734,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 189912,
       "name": "PAMOJA",
       "url": "https://open.spotify.com/track/5rqPijQRvxY4qeAP3bhfg9"
@@ -2041,6 +2081,28 @@
     },
     {
       "album": {
+        "name": "Slow Whine",
+        "url": "https://open.spotify.com/album/6m13yXh8EChK75Na2JADN6"
+      },
+      "artists": [
+        {
+          "name": "V-Be",
+          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
+        },
+        {
+          "name": "Vic West",
+          "url": "https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Slow Whine",
+      "url": "https://open.spotify.com/track/7jr5QDAJqpaW9oDqwidSE8"
+    },
+    {
+      "album": {
         "name": "SORE LOSER",
         "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
       },
@@ -2333,6 +2395,28 @@
     },
     {
       "album": {
+        "name": "Up Burukanga",
+        "url": "https://open.spotify.com/album/3rDiAqSlUu4b7yEb7aa4l9"
+      },
+      "artists": [
+        {
+          "name": "Collo Blue",
+          "url": "https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3"
+        },
+        {
+          "name": "ADDEH PRINCE",
+          "url": "https://open.spotify.com/artist/1sieF11qgHWWtegoskP98m"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121237,
+      "name": "Up Burukanga",
+      "url": "https://open.spotify.com/track/3uZPjeBJ0PJbU4RBAcjQ1L"
+    },
+    {
+      "album": {
         "name": "URAO",
         "url": "https://open.spotify.com/album/1ukuZwBGNvkleDv2dCoxWk"
       },
@@ -2396,7 +2480,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 192000,
       "name": "Visa",
       "url": "https://open.spotify.com/track/1l68hLsUbeIyDhq80fCH91"

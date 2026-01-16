@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-2,569 songs - 5 day 12 hr 51 min
+2,570 songs - 5 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | ["conspiracy"](https://open.spotify.com/track/5fp7tsbfsLW8ueAqrvcXOM) | [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck), [AstralKid22](https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ), [Tisci](https://open.spotify.com/artist/7vdksiaT0UGPpZgCCPCKrU), [guapanova](https://open.spotify.com/artist/3cKe8c7z8w2nyYsaVKWJaC) | [BENIHANA](https://open.spotify.com/album/6FdSt0d8iox3MJ8LZR875u) | 3:03 | 2024-03-16 | 2024-03-18 |
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-28 | 2023-10-30 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-17 | 2024-01-03 |
-| [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Only Hits](https://open.spotify.com/album/4LqKKEC8ghEvbMW2xcs4eZ) | 4:03 | 2026-01-15 |  |
+| [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It up to Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 | 2026-01-15 |  |
+| [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Only Hits](https://open.spotify.com/album/4LqKKEC8ghEvbMW2xcs4eZ) | 4:03 | 2026-01-15 | 2026-01-16 |
 | [\-10 000 AURA](https://open.spotify.com/track/3emibWGqiCqprAZnSS8MN7) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [\-10 000 AURA](https://open.spotify.com/album/2EAd8wCF6Dux2M7MZco95m) | 2:30 | 2024-12-27 | 2025-01-02 |
 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring at the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 | 2021-10-06 | 2021-10-16 |
 | [10 Minút](https://open.spotify.com/track/3GAD4OTfUu4k5Y3euOFYat) | [Nerieš](https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN), [DMS](https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D) | [10 Minút](https://open.spotify.com/album/1ovrFGljkAvRIYRuLjsmlG) | 5:31 | 2025-03-09 | 2025-11-11 |

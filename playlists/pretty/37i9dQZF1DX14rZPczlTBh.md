@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,913 likes - 50 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,919 likes - 50 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 46 | [Mirapakai](https://open.spotify.com/track/5XzWkd0hxTesChmAs2o00G) | [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Mirapakay](https://open.spotify.com/album/7jsaQdNi0QERa22Wm7NVq7) | 1:16 |
 | 47 | [Rise of Karthikeya](https://open.spotify.com/track/2tdFX0TdftpyaixQ2OJPvE) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA) | [Karthikeya](https://open.spotify.com/album/5e0PXRVSqL2hqJ4RysHdTC) | 1:21 |
 | 48 | [Ghaati Theme](https://open.spotify.com/track/0Gv0dkofefppyS3PQSDOyR) | [Nagavelli Vidya Sagar](https://open.spotify.com/artist/2ik2sh5tUx1dFIB5AI5cxt) | [GHAATI](https://open.spotify.com/album/3w6G6aozcvPqRawcI1o4UA) | 0:43 |
-| 49 | [CMGR Theme](https://open.spotify.com/track/32pkOK9wETE4BwlGTRmeeL) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2), [Narendra Doddapaneni](https://open.spotify.com/artist/1DEVUybUdaNx5xCgfRxs59) | [Cameraman Gangatho Rambabu](https://open.spotify.com/album/1DzfUGIuSfToncxjmhNiZY) | 1:53 |
-| 50 | [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 |
+| 49 | [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 |
+| 50 | [CMGR Theme](https://open.spotify.com/track/32pkOK9wETE4BwlGTRmeeL) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2), [Narendra Doddapaneni](https://open.spotify.com/artist/1DEVUybUdaNx5xCgfRxs59) | [Cameraman Gangatho Rambabu](https://open.spotify.com/album/1DzfUGIuSfToncxjmhNiZY) | 1:53 |
 
 Snapshot ID: `AAAAAErvZhIWQipzyekqgSGQqb8Uukk9`

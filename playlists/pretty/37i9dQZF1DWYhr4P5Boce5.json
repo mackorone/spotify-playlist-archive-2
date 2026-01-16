@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 209043,
+  "num_followers": 209041,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-12-14 00:14:14",
       "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+    },
+    {
+      "added_at": "2025-12-14 00:14:14",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/5my3MVN5gPepbvZEBL8D5P"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 163902,
       "name": "Always",
       "url": "https://open.spotify.com/track/1YmA9FFtmamIkqP6ZagRdf"
-    },
-    {
-      "added_at": "2025-12-14 00:14:14",
-      "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
     },
     {
       "added_at": "2025-12-14 00:14:14",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2025-12-14 00:14:14",
       "album": {
-        "name": "COME MY WAY",
-        "url": "https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY"
-      },
-      "artists": [
-        {
-          "name": "Jay Sanon",
-          "url": "https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu"
-        },
-        {
-          "name": "Jekasole",
-          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "COME MY WAY",
-      "url": "https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI"
-    },
-    {
-      "added_at": "2025-12-14 00:14:14",
-      "album": {
         "name": "Lions and Liars",
         "url": "https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 192893,
       "name": "We Can Be More",
       "url": "https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji"
+    },
+    {
+      "added_at": "2025-12-14 00:14:14",
+      "album": {
+        "name": "COME MY WAY",
+        "url": "https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY"
+      },
+      "artists": [
+        {
+          "name": "Jay Sanon",
+          "url": "https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu"
+        },
+        {
+          "name": "Jekasole",
+          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "COME MY WAY",
+      "url": "https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI"
     },
     {
       "added_at": "2025-12-14 00:14:14",

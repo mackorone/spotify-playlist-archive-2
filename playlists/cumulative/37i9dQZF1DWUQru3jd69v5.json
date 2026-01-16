@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Macello in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "Pocho in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 153786,
       "name": "Ammunition",
       "url": "https://open.spotify.com/track/3DcrKNoscDYe5NBQXpcuTY"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 145479,
       "name": "ANUBI",
       "url": "https://open.spotify.com/track/7MLhPKIf1fTcJCy1Nfyyyc"
@@ -3886,7 +3886,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 119040,
       "name": "ASSAI",
       "url": "https://open.spotify.com/track/2wyl0autZUUQHyXggbDZtI"
@@ -7607,6 +7607,24 @@
     },
     {
       "album": {
+        "name": "CambiareX2",
+        "url": "https://open.spotify.com/album/1oNkotD0XTcaKA33YigUlw"
+      },
+      "artists": [
+        {
+          "name": "Ishwar",
+          "url": "https://open.spotify.com/artist/1K9hTYLU8RMWmBGIzuhN91"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "CambiareX2",
+      "url": "https://open.spotify.com/track/4nVcnJkJxd3zBRs2OQaYwi"
+    },
+    {
+      "album": {
         "name": "CAMERON DIAZ",
         "url": "https://open.spotify.com/album/3sqJb1sGOGvbZFz7yWSrYs"
       },
@@ -9831,6 +9849,24 @@
     },
     {
       "album": {
+        "name": "COMUNQUE",
+        "url": "https://open.spotify.com/album/6FBITVvcoVJlWfJczs3Ysm"
+      },
+      "artists": [
+        {
+          "name": "Mode Vsm",
+          "url": "https://open.spotify.com/artist/3UNgv46aoBnXKSnazSNlHi"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101366,
+      "name": "COMUNQUE",
+      "url": "https://open.spotify.com/track/65TtmO5uyoFyeE854Ety62"
+    },
+    {
+      "album": {
         "name": "Con Te",
         "url": "https://open.spotify.com/album/7o46tgw63JOeayBOcQlMrw"
       },
@@ -11104,7 +11140,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 146285,
       "name": "DA SOLO",
       "url": "https://open.spotify.com/track/0YgltjOjjq3RCBZfowiGdb"
@@ -11402,7 +11438,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 112500,
       "name": "DATE",
       "url": "https://open.spotify.com/track/3Q1S9lcJ02j0LeTowNSa9Y"
@@ -12608,7 +12644,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 118256,
       "name": "Drip a noleggio",
       "url": "https://open.spotify.com/track/2Q9JFrlIR5izV7d3y0PsI9"
@@ -16744,7 +16780,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 201600,
       "name": "GIOVANI A MET\u00c0 (feat. Nabi)",
       "url": "https://open.spotify.com/track/66zVPJY614pnloRq99Y3bB"
@@ -17416,7 +17452,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 184320,
       "name": "GRAZIE A DIO",
       "url": "https://open.spotify.com/track/1U2D4qbuKlGRG55mWAWD4x"
@@ -19394,6 +19430,32 @@
       "duration_ms": 150796,
       "name": "In 2 Sulla Moto",
       "url": "https://open.spotify.com/track/6M0grxjyfbfKvQu2Tg4cM7"
+    },
+    {
+      "album": {
+        "name": "In Eterno (feat. Dav\u00ecdd & Abby 6ix)",
+        "url": "https://open.spotify.com/album/1EWnh9scXv0GXixkps3tWA"
+      },
+      "artists": [
+        {
+          "name": "Myto",
+          "url": "https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO"
+        },
+        {
+          "name": "Dav\u00ecdd",
+          "url": "https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu"
+        },
+        {
+          "name": "Abby 6ix",
+          "url": "https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177679,
+      "name": "In Eterno (feat. Dav\u00ecdd & Abby 6ix)",
+      "url": "https://open.spotify.com/track/7tR388pXDiAPeupBaHRu4C"
     },
     {
       "album": {
@@ -23542,7 +23604,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 136956,
       "name": "Maglietta Bianca",
       "url": "https://open.spotify.com/track/39MR6whe83H7QiZ2lY2VYD"
@@ -26691,6 +26753,32 @@
     },
     {
       "album": {
+        "name": "momento",
+        "url": "https://open.spotify.com/album/0oBCa1cv27p4rlRO8cIJic"
+      },
+      "artists": [
+        {
+          "name": "Yxto",
+          "url": "https://open.spotify.com/artist/0tJ0lez7iPTrdiupoNnVN1"
+        },
+        {
+          "name": "tretreaura",
+          "url": "https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN"
+        },
+        {
+          "name": "Olli",
+          "url": "https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102315,
+      "name": "momento",
+      "url": "https://open.spotify.com/track/05c1b9H2wzG1KsyGiKhyTw"
+    },
+    {
+      "album": {
         "name": "MOMO DESIGN (feat. Im Envy)",
         "url": "https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG"
       },
@@ -27548,6 +27636,28 @@
       "duration_ms": 153433,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/0RH6vkEKr67OKCnbqjR9p5"
+    },
+    {
+      "album": {
+        "name": "LA TRAP NON MUORE MAI",
+        "url": "https://open.spotify.com/album/5pUC1EVHuM0SDc3dB5bOQK"
+      },
+      "artists": [
+        {
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO"
+        },
+        {
+          "name": "Over Lapa",
+          "url": "https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165490,
+      "name": "MY BAD (feat. Over Lapa)",
+      "url": "https://open.spotify.com/track/3GkepKgluC0L7rW1ufxFkZ"
     },
     {
       "album": {
@@ -30447,6 +30557,24 @@
     },
     {
       "album": {
+        "name": "ONE MILLION",
+        "url": "https://open.spotify.com/album/649dX8xXBZhAwAm2pVrdfL"
+      },
+      "artists": [
+        {
+          "name": "Lil Parta",
+          "url": "https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "ONE MILLION",
+      "url": "https://open.spotify.com/track/6MpeDTBw7zmanMfmat76E0"
+    },
+    {
+      "album": {
         "name": "ONE SHOT",
         "url": "https://open.spotify.com/album/2X7c0HR5EVzB8dHrYN0DrA"
       },
@@ -30946,7 +31074,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 163555,
       "name": "PALOMA",
       "url": "https://open.spotify.com/track/6zmmzQmvAeUeQ7OMo08ZoK"
@@ -31156,7 +31284,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 151640,
       "name": "PANN FIRMAT",
       "url": "https://open.spotify.com/track/4OYVoxzVDupvE8ZkKvzJaC"
@@ -32102,7 +32230,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 127161,
       "name": "Perdersi",
       "url": "https://open.spotify.com/track/3TLZe4PbXoTISRZpgWEpMX"
@@ -32574,7 +32702,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 197777,
       "name": "PLASTICA",
       "url": "https://open.spotify.com/track/7KAzQwmFDfwi2g9fjEkHmK"
@@ -32988,7 +33116,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 170381,
       "name": "Pop Art",
       "url": "https://open.spotify.com/track/4W9D4NaLpNssOg2K8qJxCv"
@@ -35161,6 +35289,28 @@
     },
     {
       "album": {
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/4fwwPrk0T1EnY6aIzH2y8m"
+      },
+      "artists": [
+        {
+          "name": "Ayo Mich",
+          "url": "https://open.spotify.com/artist/3TCtxMB7XKS9QmSZmcJQ3a"
+        },
+        {
+          "name": "Dmoha",
+          "url": "https://open.spotify.com/artist/3Azrc3PGFCLwPxouZw8ELl"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127209,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/5qki6VDTt1Aa8LToJXK0l7"
+    },
+    {
+      "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
       },
@@ -35740,7 +35890,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 124800,
       "name": "Roba vera",
       "url": "https://open.spotify.com/track/6keuJsfsvjEVxrt9GBZXVl"
@@ -36514,7 +36664,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 165428,
       "name": "saliva (feat. 18K)",
       "url": "https://open.spotify.com/track/3LNzRe72yqvczgZ6aUkDe3"
@@ -38529,6 +38679,36 @@
     },
     {
       "album": {
+        "name": "SINCERO",
+        "url": "https://open.spotify.com/album/3kNs9P94NHFnNYvQ6jMZzO"
+      },
+      "artists": [
+        {
+          "name": "Vanno",
+          "url": "https://open.spotify.com/artist/2czX0gDaOHr74vdQOIoVm3"
+        },
+        {
+          "name": "Buss\u00f8",
+          "url": "https://open.spotify.com/artist/0E9ZZAfYoNvEO77tpnlHTi"
+        },
+        {
+          "name": "RT",
+          "url": "https://open.spotify.com/artist/53jy9KonR3xKonPZZLA8Bn"
+        },
+        {
+          "name": "BPOLO",
+          "url": "https://open.spotify.com/artist/2pHOoXAbSf05Cps6sJkCVN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171196,
+      "name": "SINCERO",
+      "url": "https://open.spotify.com/track/0GjNFWTifS1IsXAjIaZJUk"
+    },
+    {
+      "album": {
         "name": "SINNER",
         "url": "https://open.spotify.com/album/6fHzeT0WDZCJJd8xBLnvUx"
       },
@@ -39162,7 +39342,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 121777,
       "name": "SOLO UNA VITA",
       "url": "https://open.spotify.com/track/6hxNMW0dwLiNdtXJNy9Ui6"
@@ -40719,6 +40899,24 @@
     },
     {
       "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/2Q1FKd9wEyNQG8TRhE56J6"
+      },
+      "artists": [
+        {
+          "name": "Occhiaia 47",
+          "url": "https://open.spotify.com/artist/1yERvIWJ5NqsRf5Mu1GNtm"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/2VslyRQw0evN53eFBbVYs0"
+    },
+    {
+      "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/7vvg3X1cXZQUvNG09ZB9IM"
       },
@@ -40950,6 +41148,32 @@
       "duration_ms": 100000,
       "name": "TABULA RASA",
       "url": "https://open.spotify.com/track/33SftIk2OpXhVpMtk1QBJ9"
+    },
+    {
+      "album": {
+        "name": "Tacco di Prada",
+        "url": "https://open.spotify.com/album/1YI4K5Ha49Q6IVxH0yJD5O"
+      },
+      "artists": [
+        {
+          "name": "Lory G",
+          "url": "https://open.spotify.com/artist/67tVbMvYcF1OlbyEUpjYs3"
+        },
+        {
+          "name": "Pocho",
+          "url": "https://open.spotify.com/artist/6Ib960PxdWSXy8x0xAdJTG"
+        },
+        {
+          "name": "Sum M",
+          "url": "https://open.spotify.com/artist/7BIs2dy9J4quveTbB3Yu3t"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154050,
+      "name": "Tacco di Prada",
+      "url": "https://open.spotify.com/track/14ZtGS7bbLgSXlhFJXVqR6"
     },
     {
       "album": {
@@ -43084,7 +43308,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 130560,
       "name": "TUTTO ALLO STESSO MODO (con Carla Hero)",
       "url": "https://open.spotify.com/track/2gAKIdeRfhUXZOVbM6DlEI"
@@ -43120,7 +43344,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 128000,
       "name": "TUTTO APPOSTO",
       "url": "https://open.spotify.com/track/2NgUuNrDEb6haJvEBIkuMz"
@@ -44875,6 +45099,24 @@
     },
     {
       "album": {
+        "name": "DIEGO",
+        "url": "https://open.spotify.com/album/5DqcSwwF6aSC1ArEWUwobl"
+      },
+      "artists": [
+        {
+          "name": "Colo",
+          "url": "https://open.spotify.com/artist/4edn04TuNAXFrOn8Xdyt8k"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "WAKANDA",
+      "url": "https://open.spotify.com/track/1BNY9N7fAk8RXzEfit6ij2"
+    },
+    {
+      "album": {
         "name": "Walkie Talkie",
         "url": "https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B"
       },
@@ -45497,6 +45739,24 @@
     },
     {
       "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2oq3YoRRbXxYTc1U5FtMtS"
+      },
+      "artists": [
+        {
+          "name": "Marshe",
+          "url": "https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159193,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/25OYOpnsOQhlseg980YzQz"
+    },
+    {
+      "album": {
         "name": "WOW",
         "url": "https://open.spotify.com/album/3QWsxMYQ9ESs7SGUMrcRxK"
       },
@@ -45608,7 +45868,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 206250,
       "name": "WRO\u00d8M WRO\u00d8M",
       "url": "https://open.spotify.com/track/60ZDfFRHuY7UB0Dxq9HO8d"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,589 likes - 580 songs - 1 day 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,591 likes - 580 songs - 1 day 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 213 | [I'll Still Love You More](https://open.spotify.com/track/2BQ3U6cCECj2ULc7vUUVcO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 4:24 |
 | 214 | [Walk Away](https://open.spotify.com/track/6U0N0iII20TyI3KJbCdwbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Hunger](https://open.spotify.com/album/6MQWMbtrLuuwjzfFLSJbhu) | 4:11 |
 | 215 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
-| 216 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
-| 217 | [It's Only My Heart \- Alternate Version](https://open.spotify.com/track/65VlkQugl1EffW1DvaBkTE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:31 |
+| 216 | [It's Only My Heart \- Alternate Version](https://open.spotify.com/track/65VlkQugl1EffW1DvaBkTE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:31 |
+| 217 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
 | 218 | [Breaking Apart](https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr\. Lucky](https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc) | 3:39 |
 | 219 | [Too Gone, Too Long](https://open.spotify.com/track/2IOjsucrORGHHlqIlF3OAF) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:42 |
 | 220 | [Come On Down](https://open.spotify.com/track/4HetWr51uag7ayWoZAX9d4) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/04LFXnEBkVE6mZfxGeCLbM) | 4:17 |
@@ -462,7 +462,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 452 | [Best Thing You Ever Did](https://open.spotify.com/track/4KYM8ZCAPIowhO85pNERZD) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Masterplan](https://open.spotify.com/album/7bHRwZ8Q98rlqD8vPSBV29) | 3:24 |
 | 453 | [I Could Be Good for You](https://open.spotify.com/track/10sLmZoJbXFdR0nwczkHfM) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Soul Dancing \(Expanded Edition\)](https://open.spotify.com/album/2Z1SUk5Jo7clpF4ZWqlGmc) | 4:25 |
 | 454 | [I Want Some Of That](https://open.spotify.com/track/66gBh757nMrkE6olNFRNR7) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Key To My Soul](https://open.spotify.com/album/375Syme7dvdaRZsqauSEbd) | 3:50 |
-| 455 | [There You'll Be \- From "Pearl Harbor"](https://open.spotify.com/track/6oUgoPi1HtRVhdxY76b5yG) | [Music Factory](https://open.spotify.com/artist/1QQ91J9Pmq7gVnjZmYoaD5) | [Top Love Super Hits](https://open.spotify.com/album/0LYhCp1OV7WNbENDomS0rJ) | 4:00 |
+| 455 | [There You'll Be \- From Pearl Harbor](https://open.spotify.com/track/1DyZlnrvzYCAjBOc6W8z3v) | [J.F\. Band](https://open.spotify.com/artist/7w5T5hY0evS3a3xQvNLSIC) | [Film In Love Collection Vol\. 1](https://open.spotify.com/album/1J4vXJZr4e3NTHmTiTvKlI) | 4:00 |
 | 456 | [In a Heart Beat](https://open.spotify.com/track/1RA4Mt2feSah7BiLWprjRp) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Time Takes Time](https://open.spotify.com/album/3MoLlCEQ0QmJZQ6KQ9y9iY) | 4:30 |
 | 457 | [Pray For The Love](https://open.spotify.com/track/1N9hQc4dOwszaH1fX49Ckx) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Matt Dunkley](https://open.spotify.com/artist/44glcpJysgIbUkrbHy152q), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Amore Musica](https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K) | 4:54 |
 | 458 | [Riivinrautahumppa](https://open.spotify.com/track/47scnIyEs3O95JVO8cLmlV) | [Eläkeläiset](https://open.spotify.com/artist/3HKoyHD86fikvLBdecyl5j) | [Humpan kuninkaan hovissa](https://open.spotify.com/album/7gz76r9FtfbPseiuLbXRGA) | 2:06 |
@@ -478,10 +478,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 468 | [Live On Love \- Extended Mix](https://open.spotify.com/track/0BEP3J7Dsxb2nlpeAYYXyL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Feel Again](https://open.spotify.com/album/6Z57L1nJyOsBAX2JpP9xMb) | 3:49 |
 | 469 | [Come to me](https://open.spotify.com/track/4OAcAKsJdDUOKpTwrWuJfW) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [Leave a Light On](https://open.spotify.com/album/0X64CLJ2eu6WIDHIPB5xyy) | 4:35 |
 | 470 | [When A Woman Loves](https://open.spotify.com/track/46AvHcDi2KMqHseC0EHqNg) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 4:47 |
-| 471 | [Permanent \- Acoustic](https://open.spotify.com/track/5RrS6yl9Hrs1woLXPyGnCY) | [Sabrina](https://open.spotify.com/artist/5xJfSowQoxaxY4DCVLTfr5) | [Sab](https://open.spotify.com/album/6ms0diwAEhvgSdVBEE53O4) | 4:04 |
-| 472 | [I Fall Apart](https://open.spotify.com/track/6R64DEh82kywtSrV5SUOon) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [I'm On Your Side](https://open.spotify.com/album/2fOvOtI7GLwRP5B9PM4N5L) | 4:02 |
-| 473 | [I Wish That](https://open.spotify.com/track/33nrcL4rmviolRoVWOm02O) | [Bianca Ryan](https://open.spotify.com/artist/0SGZfHICh9e4oEXS8zGOXt) | [Bianca Ryan](https://open.spotify.com/album/4mAToiuP7G4FiXfl9W3oGl) | 3:59 |
-| 474 | [My Heart Stops \- Rare 1991 Single](https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [And Now, Eric Carmen: The Arista Archive](https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr) | 3:25 |
+| 471 | [I Fall Apart](https://open.spotify.com/track/6R64DEh82kywtSrV5SUOon) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [I'm On Your Side](https://open.spotify.com/album/2fOvOtI7GLwRP5B9PM4N5L) | 4:02 |
+| 472 | [Permanent \- Acoustic](https://open.spotify.com/track/5RrS6yl9Hrs1woLXPyGnCY) | [Sabrina](https://open.spotify.com/artist/5xJfSowQoxaxY4DCVLTfr5) | [Sab](https://open.spotify.com/album/6ms0diwAEhvgSdVBEE53O4) | 4:04 |
+| 473 | [My Heart Stops \- Rare 1991 Single](https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [And Now, Eric Carmen: The Arista Archive](https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr) | 3:25 |
+| 474 | [I Wish That](https://open.spotify.com/track/33nrcL4rmviolRoVWOm02O) | [Bianca Ryan](https://open.spotify.com/artist/0SGZfHICh9e4oEXS8zGOXt) | [Bianca Ryan](https://open.spotify.com/album/4mAToiuP7G4FiXfl9W3oGl) | 3:59 |
 | 475 | [Respondeme](https://open.spotify.com/track/3gktJwRyGoWOxpWQLgItbT) | [Nu Flavor](https://open.spotify.com/artist/2gdX1GbQ8sljsTVwDaIpkc) | [Nu Flavor \[New Remix Version\]](https://open.spotify.com/album/7EGNz7EXbb9I7uEjWYC8mh) | 3:52 |
 | 476 | [Mi Historia Tu Seras](https://open.spotify.com/track/0T8D1VQufSXpIQjyLelFWg) | [Millie](https://open.spotify.com/artist/58gEIyWzfX7TWUavPnOGzW) | [Emociones](https://open.spotify.com/album/2h1a0ZEcgWA9ZhAKDrvYJa) | 4:26 |
 | 477 | [Invincible](https://open.spotify.com/track/47L1khhpejms6i2YyRGQrq) | [Michelle McManus](https://open.spotify.com/artist/3HRDoScuuaIimxb59Bd2FX) | [The Meaning Of Love](https://open.spotify.com/album/3z5AXLOIe9PJHmwvqsOUnZ) | 4:43 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 580 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 
-Snapshot ID: `AcHAhgAAAAATKsCG8TmIFZvV06O4uB8b`
+Snapshot ID: `AcHCogAAAABps8+E3KecsV/9R6v4lAO0`

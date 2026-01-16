@@ -2,9 +2,9 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Punchline, storytelling, rap italiano\. Kid Yugi in cover.
+> Punchline, storytelling, rap italiano\. Guè in cover.
 
-348 songs - 17 hr 45 min
+350 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB) | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb) | 2:55 | 2024-09-05 |  |
 | [68](https://open.spotify.com/track/3HG58pNCGOB5f9qZFZY405) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68](https://open.spotify.com/album/6GO4KkMREfAw1gMjPdNy9u) | 3:37 | 2025-05-16 |  |
 | [90MIN](https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:51 | 2025-05-16 |  |
+| [A NAPOLI NON PIOVE](https://open.spotify.com/track/2q5m3HDPuPaLgVwLBIhWNg) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 4:14 | 2026-01-15 |  |
 | [ACQUA SANTA](https://open.spotify.com/track/2C8HQw9ErvSMTNe5WtTras) | [LeeZo](https://open.spotify.com/artist/6hifLfYY0cuT5LXjnV3xkj) | [ACQUA SANTA](https://open.spotify.com/album/6CkrcmTGWOGAzvSq8hp9Xj) | 2:35 | 2025-12-12 |  |
 | [Addio \(feat\. Guè & Noyz Narcos\)](https://open.spotify.com/track/11j3iextfkiRGYrl1UsMwt) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:36 | 2022-04-15 | 2022-07-29 |
 | [Addio \(feat\. Guè & Noyz Narcos\)](https://open.spotify.com/track/1AQLd5sLH95XEJbskcfROp) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 3:36 | 2022-09-15 | 2023-01-13 |
@@ -333,6 +334,7 @@
 | [True Story](https://open.spotify.com/track/1y6okCY7BRD80ckBFf9wkv) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [FASTLIFE 5 : Audio Luxury](https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T) | 2:50 | 2026-01-15 |  |
 | [Tutto bene](https://open.spotify.com/track/48bU70Alq9O3HHIBwiaFX3) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Tutto bene](https://open.spotify.com/album/2bzUMRxsqJ3cceZWFA71zB) | 3:02 | 2022-08-22 | 2023-01-27 |
 | [Tête à Tête](https://open.spotify.com/track/7Ijd2b9eRQ2P37MfyP4ewP) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB) | [PSICOTERAPIA](https://open.spotify.com/album/4upsaa1zy867KcFRvcGrG4) | 2:40 | 2025-05-08 | 2025-05-16 |
+| [UN RICCO E UN POVERO](https://open.spotify.com/track/2fqbBzhl01hcq6JRYoIo11) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:16 | 2026-01-15 |  |
 | [UNA SIGA FA \(feat\. Papa V & Nerissima Serpe\)](https://open.spotify.com/track/57VBA6mBbbbdt7zuMjI5Ll) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Musica Triste](https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN) | 3:10 | 2025-12-05 |  |
 | [Una Volta Sola](https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Penna Capitale](https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL) | 3:22 | 2024-01-02 | 2024-01-04 |
 | [Valzer \(feat\. nayt\)](https://open.spotify.com/track/4EeRcdj7sbwxaNsJlSWS3q) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Viscerale](https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT) | 3:31 | 2025-04-10 |  |

@@ -5063,6 +5063,24 @@
     },
     {
       "album": {
+        "name": "Coffee in Cortina",
+        "url": "https://open.spotify.com/album/3pr0rJE67WeyE80oCfheLH"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208679,
+      "name": "Coffee in Cortina",
+      "url": "https://open.spotify.com/track/1TNIf3WyutMSNRWZGq8QLZ"
+    },
+    {
+      "album": {
         "name": "Coffee in Milano",
         "url": "https://open.spotify.com/album/5CaZY1VbdJAJ7uIjMIwx2v"
       },

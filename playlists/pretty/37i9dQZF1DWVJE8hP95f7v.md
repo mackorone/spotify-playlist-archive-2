@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Paula Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,606 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,599 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Apostas e Contratos](https://open.spotify.com/track/5yIPnOnDyhkCjPzmJaIcup) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Apostas e Contratos](https://open.spotify.com/album/4o7Jk5iI0p3feekAL6dCZ2) | 3:33 |
 | 75 | [Voltando pra casa](https://open.spotify.com/track/2tuyFzuEda8pd2RSNKBhpI) | [Gerson King Combo](https://open.spotify.com/artist/0trib6wgWtz8KhGTbhLb5m), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Voltando pra casa](https://open.spotify.com/album/1BOe7qFLVB2tELnlzwyu5S) | 2:36 |
 
-Snapshot ID: `AAAAAAe1NWdEy0FzTL4nhlUzZBQVmi99`
+Snapshot ID: `AAAAAA5FB/tR+uVjH9z6Z92wjXv1labh`

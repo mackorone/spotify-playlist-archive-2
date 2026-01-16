@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Altea
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,491 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,489 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 69 | [Quante Lacrime](https://open.spotify.com/track/1QsG1bTnygLpg0S4d9Fnrg) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Quante Lacrime](https://open.spotify.com/album/30wIZa2jzdIwvcXcnkrm59) | 3:13 |
 | 70 | [17](https://open.spotify.com/track/4Qorwsh4sJd3ZcUSkBmTi4) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [Dead End](https://open.spotify.com/album/3tMqWsevN8DlWHsofi1Joo) | 3:23 |
 
-Snapshot ID: `AAAAAGBsIEacU5VwnY5vmNOVFuzr1AHg`
+Snapshot ID: `AAAAABRzHEhfT4KIq2vQoCHhMu5JwEvR`

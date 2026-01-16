@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Moy\u00e0",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : James Baker",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -334,6 +334,24 @@
       "duration_ms": 192720,
       "name": "Amour Scandaleux",
       "url": "https://open.spotify.com/track/0ffjGmdQAMy2JLxI3vyuHG"
+    },
+    {
+      "album": {
+        "name": "on s'en rappellera pas",
+        "url": "https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "amsterdam",
+      "url": "https://open.spotify.com/track/0p1jyG640jfYCes1EagSsU"
     },
     {
       "album": {
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 243756,
       "name": "Cheveux d'ange",
       "url": "https://open.spotify.com/track/0MRJUAOzhj6NyrDyVazBqQ"
@@ -1394,6 +1412,24 @@
       "duration_ms": 353858,
       "name": "Conspire",
       "url": "https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH"
+    },
+    {
+      "album": {
+        "name": "Les histoires d'amour de St Graal",
+        "url": "https://open.spotify.com/album/2Yb34HpfejFCJSMtap0HdE"
+      },
+      "artists": [
+        {
+          "name": "St Graal",
+          "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164613,
+      "name": "Contre-soir\u00e9e",
+      "url": "https://open.spotify.com/track/5x8xtP96TVMZpwP6XV7Cji"
     },
     {
       "album": {
@@ -2260,7 +2296,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 140373,
       "name": "FORMIDABLE",
       "url": "https://open.spotify.com/track/2WNZc9WarkNEsdj5r5KZzj"
@@ -3435,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "la chica Tamagotchi \u208a\u00b0\u0f3a\u2764\ufe0e\u0f3b",
+        "url": "https://open.spotify.com/album/6REwDqNlpiOJ0BwMl4uqwX"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124981,
+      "name": "la chica Tamagotchi \u208a\u00b0\u0f3a\u2764\ufe0e\u0f3b",
+      "url": "https://open.spotify.com/track/7Jrp7ZY2VTaahgfV8pDT1P"
+    },
+    {
+      "album": {
         "name": "La d\u00e9licatesse",
         "url": "https://open.spotify.com/album/3qjCkRSt0YOz4mqELWcnum"
       },
@@ -3944,7 +3998,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 160546,
       "name": "LES FRAMBOISES",
       "url": "https://open.spotify.com/track/4WL4dfBOxheHyOcgPtyaZF"
@@ -4734,7 +4788,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 175138,
       "name": "Ne T'En Fais Pas Pour Elle",
       "url": "https://open.spotify.com/track/339AZu1ohdLOfABPMevryC"
@@ -4922,6 +4976,24 @@
       "duration_ms": 253333,
       "name": "On Fait du Rock",
       "url": "https://open.spotify.com/track/3Y6MKj7jBrXqPve2DyoWqO"
+    },
+    {
+      "album": {
+        "name": "ON TRA\u00ceNE!",
+        "url": "https://open.spotify.com/album/4pzM7XQTTktoK05OJ2xP1A"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "ON TRA\u00ceNE!",
+      "url": "https://open.spotify.com/track/51q8Y8fPdifFD5tFC5cV3m"
     },
     {
       "album": {
@@ -5206,7 +5278,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 179380,
       "name": "Pavillons r\u00e9sidentiels",
       "url": "https://open.spotify.com/track/15z178WCmCpGL5FaSDQokZ"
@@ -6832,7 +6904,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 142400,
       "name": "Tornado Queen",
       "url": "https://open.spotify.com/track/0omnj8vNCpnBtoFMMQISiL"
@@ -6890,6 +6962,24 @@
       "duration_ms": 165500,
       "name": "Tovsk",
       "url": "https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "James Baker",
+          "url": "https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/2SevTNSp0JjUiKqk0SQTLS"
     },
     {
       "album": {
@@ -7056,6 +7146,24 @@
       "duration_ms": 231199,
       "name": "Un Autre Nom",
       "url": "https://open.spotify.com/track/2Sftxg76IUpWf3aSH7prbl"
+    },
+    {
+      "album": {
+        "name": "Un Cri Dans Le M\u00e9tro",
+        "url": "https://open.spotify.com/album/6fQKbdeZ74qspEkX5MnuPS"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Un Cri Dans Le M\u00e9tro",
+      "url": "https://open.spotify.com/track/2hWWHIXzcexn3QjpsBWsJP"
     },
     {
       "album": {

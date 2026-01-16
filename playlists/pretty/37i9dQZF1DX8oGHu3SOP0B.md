@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: paiiinntt
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,953 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,954 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [เกิด But with Me](https://open.spotify.com/track/2Vwhm9aT5LGeG0uKE1C8nH) | [Sammy Niche](https://open.spotify.com/artist/3e3rEp9E0m8qz4fxmkQGuL) | [เกิด But with Me](https://open.spotify.com/album/4ZyXBIWBQnlg5JQT2dhab5) | 2:40 |
 | 50 | [เริ่ด \(Slay\)](https://open.spotify.com/track/6rljpFjQ2UbrCuLiLblY3S) | [FELIZZ](https://open.spotify.com/artist/1syMBJs334spaMGj5sZFYo) | [เริ่ด \(Slay\)](https://open.spotify.com/album/5rKGwu0OQ0kHe2uaSAC3aE) | 3:01 |
 
-Snapshot ID: `AAAAAFZPFA2X4wAq0M1RkxuI/cPZ8znU`
+Snapshot ID: `AAAAAM1Fb3+Mv/wihFnhoeOrBYUJLnIs`

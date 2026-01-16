@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 43210,
+  "num_followers": 43211,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "El Ataque de Zorrita",
-        "url": "https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ"
-      },
-      "artists": [
-        {
-          "name": "Venus",
-          "url": "https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "Est\u00e1s Borracho",
-      "url": "https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Cuando el sol est\u00e1 as\u00ed",
         "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 230988,
       "name": "Cuando el sol est\u00e1 as\u00ed",
       "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "El Ataque de Zorrita",
+        "url": "https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ"
+      },
+      "artists": [
+        {
+          "name": "Venus",
+          "url": "https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Est\u00e1s Borracho",
+      "url": "https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Arder",
-        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1s Que Uno",
-          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
-        }
-      ],
-      "duration_ms": 220249,
-      "name": "Tu Caminar",
-      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Cronos",
         "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 229750,
       "name": "Cronos",
       "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Arder",
+        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1s Que Uno",
+          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
+        }
+      ],
+      "duration_ms": 220249,
+      "name": "Tu Caminar",
+      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Quieta",
-        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 175957,
-      "name": "Quieta",
-      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Libido",
         "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 175114,
       "name": "Libido",
       "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Quieta",
+        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 175957,
+      "name": "Quieta",
+      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Excursiones",
-        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 254092,
-      "name": "Excursiones",
-      "url": "https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Desvelo",
         "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 274414,
       "name": "Desvelo",
       "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Excursiones",
+        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
+      },
+      "artists": [
+        {
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+        }
+      ],
+      "duration_ms": 254092,
+      "name": "Excursiones",
+      "url": "https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/3eH5KxTvBazT7Wtr806ekr"
+      },
+      "artists": [
+        {
+          "name": "Isabel De Sebastian",
+          "url": "https://open.spotify.com/artist/6rgRWv9QW0LOCwpJxYfKFh"
+        },
+        {
+          "name": "Bob Telson",
+          "url": "https://open.spotify.com/artist/54Wo220RzJhwhjKRTRxuwA"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/30xSITDKpCkn5TnsABmQHO"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Dime Si (remix)",
         "url": "https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO"
       },
@@ -1527,22 +1547,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/3eH5KxTvBazT7Wtr806ekr"
+        "name": "Misterio Relampago",
+        "url": "https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg"
       },
       "artists": [
         {
-          "name": "Isabel De Sebastian",
-          "url": "https://open.spotify.com/artist/6rgRWv9QW0LOCwpJxYfKFh"
-        },
-        {
-          "name": "Bob Telson",
-          "url": "https://open.spotify.com/artist/54Wo220RzJhwhjKRTRxuwA"
+          "name": "Rosario Bl\u00e9fari",
+          "url": "https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y"
         }
       ],
-      "duration_ms": 184013,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/30xSITDKpCkn5TnsABmQHO"
+      "duration_ms": 208573,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/6EPUMzPlw1YN4kAS70ZGG3"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1559,22 +1575,6 @@
       "duration_ms": 243722,
       "name": "Proclama",
       "url": "https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Misterio Relampago",
-        "url": "https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg"
-      },
-      "artists": [
-        {
-          "name": "Rosario Bl\u00e9fari",
-          "url": "https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/6EPUMzPlw1YN4kAS70ZGG3"
     },
     {
       "added_at": "2025-06-26 15:52:01",

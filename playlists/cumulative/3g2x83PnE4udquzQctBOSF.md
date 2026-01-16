@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-458 songs - 1 day 3 hr 23 min
+460 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Back Out](https://open.spotify.com/track/5NVvOLD77ShDwUYRaRtRbX) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk), [Panna \(BR\)](https://open.spotify.com/artist/34YgnaBrdRLtuwExinbk0t) | [Back Out](https://open.spotify.com/album/7nTo5MrORIqbLQ7CHt7Psu) | 6:33 | 2023-07-16 | 2023-08-20 |
 | [Back To This \(feat\. SoShy\)](https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Soshy](https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp) | [Back To This \(feat\. SoShy\)](https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0) | 2:37 | 2023-04-30 | 2023-05-23 |
 | [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 | 2024-05-19 | 2024-07-08 |
+| [Bad Neighborhood](https://open.spotify.com/track/217TBaTjXmROsyPavHXni3) | [Gino Colombi](https://open.spotify.com/artist/6HaKvR8UvKwViIaIpUPVJA) | [Keep It Real EP](https://open.spotify.com/album/3qtRlSeZXUYak2zeR9ypFB) | 6:17 | 2026-01-15 |  |
 | [Badder](https://open.spotify.com/track/4ZrPmCZRTkZSWYeH3KD7Uh) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Badder](https://open.spotify.com/album/6bn2OYT6wzSlegYgLW1RuB) | 3:28 | 2023-04-16 | 2023-05-01 |
 | [Badman Sound](https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR) | 2:56 | 2023-01-22 | 2023-02-20 |
 | [Baila](https://open.spotify.com/track/4axzFhDS0RnJPTUwFhm7m3) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Conga](https://open.spotify.com/album/4nowK3zy4mq38HDXun5d5T) | 2:51 | 2023-05-28 | 2023-07-03 |
@@ -245,6 +246,7 @@
 | [Kanta](https://open.spotify.com/track/7qwSBOVhhcb4Da6FSpCGb8) | [Zack Darza](https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm) | [Kanta](https://open.spotify.com/album/7q6uEWdfO62rP1fDZI3vWo) | 3:20 | 2023-04-30 | 2023-05-30 |
 | [Kaya \- Radio Edit](https://open.spotify.com/track/6R0zdga9jejhShmtdlUI7S) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [Kaya](https://open.spotify.com/album/0zFTgs6JFCyyi761KS9QfR) | 2:27 | 2024-05-19 | 2024-07-08 |
 | [Keep It Dirty](https://open.spotify.com/track/0W7HK29oIiTaBUggfiY3PR) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [The COCO Chronicles, Vol\. 1](https://open.spotify.com/album/7jmH7guFHIBdxyWnOb5pQp) | 3:15 | 2024-07-07 |  |
+| [Keep It Real](https://open.spotify.com/track/5Z16CQV664VCU6CNJOVJLm) | [Gino Colombi](https://open.spotify.com/artist/6HaKvR8UvKwViIaIpUPVJA) | [Keep It Real EP](https://open.spotify.com/album/3qtRlSeZXUYak2zeR9ypFB) | 6:27 | 2026-01-15 |  |
 | [KI](https://open.spotify.com/track/2ZPaC5zoFqPQAkddghP6y8) | [Leonardo Gonnelli](https://open.spotify.com/artist/1oPZQYWNypR7DseLlEVhXe) | [KI](https://open.spotify.com/album/5zhHlHypTsqQklNTQnbbd4) | 3:51 | 2023-09-24 | 2023-12-14 |
 | [Kick Drums](https://open.spotify.com/track/0tpw2iisVlCnG0QG8SCIG1) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Kick Drums](https://open.spotify.com/album/2bi3SgXvYcAfJyMnzEmscq) | 2:54 | 2023-03-31 | 2023-04-24 |
 | [Kiki](https://open.spotify.com/track/1ktkHmRDSvH971zF5Re1Ha) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [Kiki](https://open.spotify.com/album/5cqz8kbQQzovPfT5vAMxa7) | 3:32 | 2023-02-12 | 2023-03-06 |

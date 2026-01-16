@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIYfjSLbWr4V.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,026 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,028 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIYfjSLbWr4V.md) - [plain]
 | 47 | [Каждый раз](https://open.spotify.com/track/4IjiY0sShCYUEEoOSEwsgY) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Раскраски для взрослых](https://open.spotify.com/album/5dyKK0BGb0LrmIQVdB0ssA) | 3:28 |
 | 48 | [Между нами](https://open.spotify.com/track/5DeaUQWxyUxRC9dRFWV1g1) | [Lizer](https://open.spotify.com/artist/0j6G5eiOcrSdlyqaYwtxwS) | [Не ангел](https://open.spotify.com/album/7HdowOL3fMfsZy3RBDyLXE) | 4:15 |
 | 49 | [Who \(Rock Remix\)](https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 2:51 |
-| 50 | [Helicopter](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Helicopter](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
+| 50 | [HELICOPTER](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HELICOPTER](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

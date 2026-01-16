@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,635 likes - 150 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,651 likes - 150 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,18 +134,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 124 | [Ikata \- 1](https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:04 |
 | 125 | [Heterodina](https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 2](https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL) | 2:19 |
 | 126 | [Calma](https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf) | [Calma](https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x) | 4:53 |
-| 127 | [Our Wretched Fantasy](https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Heaven Come Crashing](https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx) | 3:30 |
-| 128 | [Nostro Tempo](https://open.spotify.com/track/3iPJ0Nhj3vBSM8C86oT40x) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [AMUSIA \(Music From The Film\)](https://open.spotify.com/album/1vjDrpCywC4a1TFmfqIrTx) | 1:56 |
+| 127 | [Nostro Tempo](https://open.spotify.com/track/3iPJ0Nhj3vBSM8C86oT40x) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [AMUSIA \(Music From The Film\)](https://open.spotify.com/album/1vjDrpCywC4a1TFmfqIrTx) | 1:56 |
+| 128 | [Our Wretched Fantasy](https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Heaven Come Crashing](https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx) | 3:30 |
 | 129 | [Fires](https://open.spotify.com/track/70gYrcaIKVDtKkwiDEzMwW) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Endling](https://open.spotify.com/album/3i26oAnvfsqgFFo19IVlQV) | 3:40 |
 | 130 | [Elusive Nature](https://open.spotify.com/track/4Kaw3KyIaiG77duUjjmxHZ) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [The Wyrding Way](https://open.spotify.com/album/1NgfMA8jjeUpSZ7bZaINjm) | 3:12 |
-| 131 | [Aurora](https://open.spotify.com/track/0ueQD35KaDdJ5gSmLebaIa) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Daze](https://open.spotify.com/album/2L8CyJKXjKp0ohDGgHhCOg) | 2:52 |
-| 132 | [Vessel](https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ) | [Eric Hilton](https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB) | [Out of the Blur](https://open.spotify.com/album/4oquIG02DIGmU9JbBm9sDL) | 6:31 |
+| 131 | [Vessel](https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ) | [Eric Hilton](https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB) | [Out of the Blur](https://open.spotify.com/album/4oquIG02DIGmU9JbBm9sDL) | 6:31 |
+| 132 | [Aurora](https://open.spotify.com/track/0ueQD35KaDdJ5gSmLebaIa) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Daze](https://open.spotify.com/album/2L8CyJKXjKp0ohDGgHhCOg) | 2:52 |
 | 133 | [Heliobat](https://open.spotify.com/track/00hrine247guDPYb1jSBKg) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Dostrotime](https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI) | 3:47 |
-| 134 | [Your First Armadillo](https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV) | 4:24 |
-| 135 | [Kumquat](https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Kumquat](https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr) | 3:16 |
+| 134 | [Kumquat](https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Kumquat](https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr) | 3:16 |
+| 135 | [Your First Armadillo](https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV) | 4:24 |
 | 136 | [Aquarium](https://open.spotify.com/track/0jFkXMZkTjM4ECnGKJBkIP) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf) | [Aquarium](https://open.spotify.com/album/24Num3HZM1YIBWnyqU8myw) | 6:18 |
-| 137 | [By the Air \- Six Missing Rework](https://open.spotify.com/track/2OGLsbkQN7nv4iDFvN183f) | [Wicked Expectation](https://open.spotify.com/artist/2DNFg3KAsbnkj62zIc9lyQ), [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [By the Air \(Six Missing Rework\)](https://open.spotify.com/album/261LawGBTfFPu5oGT9TphF) | 3:30 |
-| 138 | [Ray](https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Statik](https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid) | 5:34 |
+| 137 | [Ray](https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Statik](https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid) | 5:34 |
+| 138 | [By the Air \- Six Missing Rework](https://open.spotify.com/track/2OGLsbkQN7nv4iDFvN183f) | [Wicked Expectation](https://open.spotify.com/artist/2DNFg3KAsbnkj62zIc9lyQ), [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [By the Air \(Six Missing Rework\)](https://open.spotify.com/album/261LawGBTfFPu5oGT9TphF) | 3:30 |
 | 139 | [Through The Glass](https://open.spotify.com/track/6562LBNo2tkGbGrUAErv2P) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [The Night](https://open.spotify.com/album/5npaJ4fzxKFgdz7IiLoT6Q) | 2:42 |
 | 140 | [Ocean Flow](https://open.spotify.com/track/1v6TpJ9g0QjdLkMqromKCl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Migratory](https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv) | 3:36 |
 | 141 | [Earth Loop](https://open.spotify.com/track/2JSld8pCWOocc1SHrIzH2F) | [Florian T M Zeisig](https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv) | [A New Life](https://open.spotify.com/album/25GytFPwqK2zbCo5hMrs4l) | 1:44 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 144 | [the applebees outside kalamazoo, michigan](https://open.spotify.com/track/1sglt5KUOn9N3kZm6GuV8U) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [no floor](https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG) | 5:57 |
 | 145 | [After the Rain](https://open.spotify.com/track/7o20ATLEOEw9xpAN1dx9Rn) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [After the Rain](https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp) | 9:00 |
 | 146 | [The Milky Sea](https://open.spotify.com/track/5lTrKIvw7MN30cGS2FQKde) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [The Milky Sea](https://open.spotify.com/album/3xLrHm2vb65AkmaTSuJ8PC) | 20:02 |
-| 147 | [Shizumu \- Ambient Mix](https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Reflections 06](https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx) | 3:24 |
-| 148 | [COMBAT](https://open.spotify.com/track/6P4tx1EUztDygxuZ6RyRSs) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 4:16 |
+| 147 | [COMBAT](https://open.spotify.com/track/6P4tx1EUztDygxuZ6RyRSs) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 4:16 |
+| 148 | [Shizumu \- Ambient Mix](https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Reflections 06](https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx) | 3:24 |
 | 149 | [HYbr:ID Ectopia Field 1](https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [HYbr:ID Ectopia Field 1](https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6) | 4:05 |
 | 150 | [The Eternal Thrill](https://open.spotify.com/track/27Spm7S2VdLGaVxgaM50Cu) | [Eric Hilton](https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB) | [The Eternal Thrill](https://open.spotify.com/album/6UdEjN9OMrdz9DlEzU5U3n) | 7:17 |
 

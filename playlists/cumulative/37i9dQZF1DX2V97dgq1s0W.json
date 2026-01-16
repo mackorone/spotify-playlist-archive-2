@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Samm Henshaw",
+  "description": "The best voices in R&B. Cover: Ella Mai",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 324776,
       "name": "1-800 Heartbreak (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/3YBCTIQjCO7rt0NCPjPnhl"
+    },
+    {
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "album": {
@@ -1007,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "bad",
+        "url": "https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161610,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ"
+    },
+    {
+      "album": {
         "name": "Bag Of You",
         "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
       },
@@ -1793,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "couture",
+        "url": "https://open.spotify.com/album/4b1pJ5a1P2JnpstHQLDQ3c"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153042,
+      "name": "couture",
+      "url": "https://open.spotify.com/track/391NOaXhF0TrlCgwDu3T5V"
+    },
+    {
+      "album": {
         "name": "HYDRAULIC",
         "url": "https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd"
       },
@@ -2446,7 +2500,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 153637,
       "name": "Drama",
       "url": "https://open.spotify.com/track/40ROAtBj7soL5rbqXQjU4k"
@@ -2570,6 +2624,28 @@
       "duration_ms": 179238,
       "name": "Endless No Mores - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
+    },
+    {
+      "album": {
+        "name": "energy!",
+        "url": "https://open.spotify.com/album/4SYq5g75SlsFdR0njSGopV"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212005,
+      "name": "energy!",
+      "url": "https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6"
     },
     {
       "album": {
@@ -3656,7 +3732,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 225874,
       "name": "Have A Baby (With Me)",
       "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
@@ -4810,10 +4886,32 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 162133,
       "name": "JOURNEY",
       "url": "https://open.spotify.com/track/3wPlPqFjJsqWayNqXkXyrU"
+    },
+    {
+      "album": {
+        "name": "Journey To The Sun (feat. Ariel J.)",
+        "url": "https://open.spotify.com/album/1XQSX1VNJPrSR5UEhmlrL9"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "Ariel J.",
+          "url": "https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230644,
+      "name": "Journey To The Sun (feat. Ariel J.)",
+      "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
     },
     {
       "album": {
@@ -5742,7 +5840,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 194000,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
@@ -6128,10 +6226,28 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 195454,
       "name": "move it along (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
+    },
+    {
+      "album": {
+        "name": "Mr. Postman",
+        "url": "https://open.spotify.com/album/2j2XYXQKyY53hMwiUb4t5d"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221679,
+      "name": "Mr. Postman",
+      "url": "https://open.spotify.com/track/1mntRFhXAefGklhOwPtYMT"
     },
     {
       "album": {
@@ -6146,7 +6262,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 175748,
       "name": "Murder",
       "url": "https://open.spotify.com/track/19OgWOJ9fckycODdY7L23X"
@@ -7370,7 +7486,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 125893,
       "name": "Phuckups (Hold Me)",
       "url": "https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ"
@@ -7780,6 +7896,24 @@
       "duration_ms": 236000,
       "name": "RECKLESS",
       "url": "https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e"
+    },
+    {
+      "album": {
+        "name": "Reclusive",
+        "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186416,
+      "name": "Reclusive",
+      "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
     },
     {
       "album": {
@@ -9832,7 +9966,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
@@ -10501,6 +10635,24 @@
     },
     {
       "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/2iKLXxZIGM4af8GBn2RC7K"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/7M2DbRhTl0wHZzeHGVZvn6"
+    },
+    {
+      "album": {
         "name": "What's Luv?",
         "url": "https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp"
       },
@@ -10806,7 +10958,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"

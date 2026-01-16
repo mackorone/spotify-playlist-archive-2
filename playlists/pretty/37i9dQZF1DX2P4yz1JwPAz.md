@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 
 > 808s & Melodies\. Cover: Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 273 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 272 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 | 52 | [Know Your Worth](https://open.spotify.com/track/3qRZfZFalWv7Cu0XZJd6yv) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z) | [Know Your Worth](https://open.spotify.com/album/4vJEXjkTlqYhoJVhUExrGz) | 3:15 |
 | 53 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
 | 54 | [Quiet](https://open.spotify.com/track/5Y3Mj308BxTie361t8iyLt) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ), [Jada O'Neill](https://open.spotify.com/artist/67XWu4IXgDzcwqrx6zvyfi) | [Quiet](https://open.spotify.com/album/0bW473EJyGNL1UkHzoY3jz) | 2:32 |
-| 55 | [Hood Love](https://open.spotify.com/track/6GWXCiPbAyWf6gn09jRrtC) | [Laurena Volanté](https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu) | [RnDrill](https://open.spotify.com/album/2WhlhHXlA3xrM4MBAE1Xvo) | 2:34 |
-| 56 | [Nebula](https://open.spotify.com/track/4e33Gpk6gvBA78S5RgZLGB) | [Lloyd Luther](https://open.spotify.com/artist/6AtOBnmVBGL5a9hZ4WFi6p) | [Nebula](https://open.spotify.com/album/1DOEJ6QPTu2mum2ZbJnrEn) | 3:02 |
+| 55 | [Nebula](https://open.spotify.com/track/4e33Gpk6gvBA78S5RgZLGB) | [Lloyd Luther](https://open.spotify.com/artist/6AtOBnmVBGL5a9hZ4WFi6p) | [Nebula](https://open.spotify.com/album/1DOEJ6QPTu2mum2ZbJnrEn) | 3:02 |
+| 56 | [Hood Love](https://open.spotify.com/track/6GWXCiPbAyWf6gn09jRrtC) | [Laurena Volanté](https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu) | [RnDrill](https://open.spotify.com/album/2WhlhHXlA3xrM4MBAE1Xvo) | 2:34 |
 | 57 | [GET IT TOGETHER](https://open.spotify.com/track/54EGc9OibAphFj1hMFgedw) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [GET IT TOGETHER](https://open.spotify.com/album/4RUxPcYOy8IL3ACwlIXEfu) | 2:20 |
 | 58 | [Out of Time](https://open.spotify.com/track/5HVSXuU4Bn1jD6KNlKTUuG) | [Tidez](https://open.spotify.com/artist/12eUUHfSG9IGizOvLcvuq4) | [Time In Time Out](https://open.spotify.com/album/4rvzK6n79i4QVER1dQdgCd) | 3:37 |
 | 59 | [Pushin'](https://open.spotify.com/track/0wmwAS9SA6Tg3Qoyqx9dqU) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [XVR BLCK](https://open.spotify.com/artist/7utNm67x1f8kErx7PfWb9U) | [Pushin'](https://open.spotify.com/album/65PJkEX27NgzTI8fBAeOzU) | 3:02 |

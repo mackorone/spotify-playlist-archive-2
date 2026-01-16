@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-147 songs - 6 hr 54 min
+149 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Like What U See](https://open.spotify.com/track/1KILi2wUvgaHEBN935D2so) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Like What U See](https://open.spotify.com/album/6QlJOaK2GXm0yKhiWM6yxu) | 2:29 | 2025-07-03 |  |
 | [Look At Me Go](https://open.spotify.com/track/6Y8NDWGqBgJPSz7Ejfn7YQ) | [Marqus Clae](https://open.spotify.com/artist/6CMbYeF5Lb3RZjnig0rSBT) | [Look At Me Go](https://open.spotify.com/album/4ZV3duqSz1IUk84iGlX8a0) | 2:57 | 2025-07-03 |  |
 | [Lost](https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:39 | 2025-07-03 |  |
+| [Lotus \(Skit\)](https://open.spotify.com/track/5482N4XRmNhlYoNQVAxRXR) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Okinawan Wuman](https://open.spotify.com/album/2qdNHigKoFUZtBlnXlYiwb) | 0:34 | 2026-01-15 |  |
 | [Love Her Next](https://open.spotify.com/track/548N8wTu4WmazCh1tqed4p) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part II\)](https://open.spotify.com/album/32YG49zOhGewbdspv1phvG) | 2:45 | 2025-07-03 |  |
 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 | 2025-07-03 |  |
 | [Maan Meri Jaan \(Afterlife\)](https://open.spotify.com/track/0NapkeC45rszeuSgbvcjx4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Maan Meri Jaan \(Afterlife\)](https://open.spotify.com/album/02K4LsS2gNvzJzdVsrZ6Wc) | 3:06 | 2025-07-03 |  |
@@ -144,6 +145,7 @@
 | [Us](https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Us](https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw) | 2:17 | 2025-07-03 |  |
 | [Villain](https://open.spotify.com/track/5rkii4XoHYuaKY5zadbnOg) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:54 | 2025-08-03 |  |
 | [Wax On Wax Off](https://open.spotify.com/track/6OOVIYZMAaSGan0VblqAaq) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Wax On Wax Off](https://open.spotify.com/album/7KDGCPHPJBulOmsSAOXVHj) | 2:51 | 2025-09-16 |  |
+| [Wax On Wax Off \(feat\. R\-指定, NENE, 鎮座DOPENESS & C.O.S.A.\) \[\-Japan Remix\-\]](https://open.spotify.com/track/34JggEOSRwhBnBU0CXCQn3) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Okinawan Wuman](https://open.spotify.com/album/2uISnRUJM9lnew7KyI3z9z) | 4:14 | 2026-01-15 |  |
 | [Way You Move](https://open.spotify.com/track/2D63BaGWZtBjUBOYVSrl5K) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Way You Move](https://open.spotify.com/album/1rxymbQM3Vvv2rH27kpzBp) | 2:58 | 2025-07-26 |  |
 | [We Are The Ones \(feat\. Gucci Mane\)](https://open.spotify.com/track/47AEUwR1rppGeruasDVgBC) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 2:47 | 2025-07-03 |  |
 | [What In The World \(feat\. NATURE\)](https://open.spotify.com/track/6SQTv4pqlFzbofosQGAX69) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [What In The World \(feat\. NATURE\)](https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN) | 3:18 | 2025-07-03 |  |

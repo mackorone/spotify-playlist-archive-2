@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 146862,
+  "num_followers": 146875,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -139,34 +139,6 @@
       "duration_ms": 135160,
       "name": "Music for the Royal Fireworks: Suite HWV 351: 4. La r\u00e9jouissance",
       "url": "https://open.spotify.com/track/2H8nKAoMk1B7yKrd0uppGb"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "Handel: Coronation Anthems / Silete Venti",
-        "url": "https://open.spotify.com/album/32NQs9mZyabnTcGGsDfprX"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Thomas Tallis Chamber Choir",
-          "url": "https://open.spotify.com/artist/5kl66pasgbqK6LFuqImrFN"
-        },
-        {
-          "name": "Royal Academy Consort",
-          "url": "https://open.spotify.com/artist/4Ki3YmkyJwKtoBwqySbpW2"
-        },
-        {
-          "name": "Jeremy Summerly",
-          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
-        }
-      ],
-      "duration_ms": 127440,
-      "name": "Let Thy Hand Be Strengthened, HWV 259: Alleluia",
-      "url": "https://open.spotify.com/track/1kNoMlpsAmV9uKn9BkKbWj"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -1523,6 +1495,34 @@
       "duration_ms": 255693,
       "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
       "url": "https://open.spotify.com/track/6bxf6pkgSmAAOrD24ZOa7Z"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel: Coronation Anthems / Silete Venti",
+        "url": "https://open.spotify.com/album/32NQs9mZyabnTcGGsDfprX"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Thomas Tallis Chamber Choir",
+          "url": "https://open.spotify.com/artist/5kl66pasgbqK6LFuqImrFN"
+        },
+        {
+          "name": "Royal Academy Consort",
+          "url": "https://open.spotify.com/artist/4Ki3YmkyJwKtoBwqySbpW2"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "duration_ms": 127440,
+      "name": "Let Thy Hand Be Strengthened, HWV 259: Alleluia",
+      "url": "https://open.spotify.com/track/1kNoMlpsAmV9uKn9BkKbWj"
     },
     {
       "added_at": "2025-12-23 12:24:26",

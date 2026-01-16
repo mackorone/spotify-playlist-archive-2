@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484613,
+  "num_followers": 484594,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Midnight Man",
-        "url": "https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7"
-      },
-      "artists": [
-        {
-          "name": "Tiger Print",
-          "url": "https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p"
-        }
-      ],
-      "duration_ms": 159910,
-      "name": "Midnight Man",
-      "url": "https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ceviche",
         "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
       },
@@ -1145,20 +1129,20 @@
       "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Rocketship",
-        "url": "https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj"
+        "name": "Midnight Man",
+        "url": "https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7"
       },
       "artists": [
         {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+          "name": "Tiger Print",
+          "url": "https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p"
         }
       ],
-      "duration_ms": 116202,
-      "name": "Rocketship",
-      "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
+      "duration_ms": 159910,
+      "name": "Midnight Man",
+      "url": "https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 174080,
       "name": "Cold Summers",
       "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Rocketship",
+        "url": "https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 116202,
+      "name": "Rocketship",
+      "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
     },
     {
       "added_at": "2024-10-11 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,573 likes - 150 songs - 16 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,567 likes - 150 songs - 16 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 146 | [Saari Duniya](https://open.spotify.com/track/7y127TjQwYli2BDFtLMeaL) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Saari Duniya](https://open.spotify.com/album/4GzAnKEqzZohDHQjfQJniG) | 5:51 |
 | 147 | [Naina De Akhay](https://open.spotify.com/track/3puz5Sf2GA1Psy8uLFqGCU) | [Rizwan & Moazzam](https://open.spotify.com/artist/0AAzQBRltHcZePy2jhpLwD), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 9:26 |
 | 148 | [Mram Mram](https://open.spotify.com/track/6OZYd4D0MLxci7Uq5z7ipN) | [Shamali Afghan](https://open.spotify.com/artist/15zWEwiqpzUOjDXG5Ay1pD) | [Mram Mram](https://open.spotify.com/album/4o2kldNwnCbsA1m3XtALUV) | 6:44 |
-| 149 | [Haq Maujood](https://open.spotify.com/track/3CRJLOEZ1xJjiYoDTfttGk) | [Amanat Ali & Sanam Marvi](https://open.spotify.com/artist/1P4ubBPUrhkW8h9j8Cp2jd), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 7:07 |
-| 150 | [Kamlee](https://open.spotify.com/track/4MvywlWl1pdPGFFFfTnghm) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 7:52 |
+| 149 | [Kamlee](https://open.spotify.com/track/4MvywlWl1pdPGFFFfTnghm) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 7:52 |
+| 150 | [Haq Maujood](https://open.spotify.com/track/3CRJLOEZ1xJjiYoDTfttGk) | [Amanat Ali & Sanam Marvi](https://open.spotify.com/artist/1P4ubBPUrhkW8h9j8Cp2jd), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 7:07 |
 
 Snapshot ID: `AAAAAK8AJIS/RQ2Qpul+RNooydJ5ky9v`

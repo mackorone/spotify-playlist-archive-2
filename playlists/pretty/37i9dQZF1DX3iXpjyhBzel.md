@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Julia Vitória
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,279 likes - 100 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,337 likes - 100 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

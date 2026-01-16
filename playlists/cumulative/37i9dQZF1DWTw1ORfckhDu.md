@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,092 songs - 2 day 3 hr 51 min
+1,093 songs - 2 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [GHOSTAAT \(feat\. Nelli Orell\)](https://open.spotify.com/track/1vFVNxxNiugr1kShikqcDT) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim), [Nelli Orell](https://open.spotify.com/artist/1Buj43f2VREVfcmEsNBjVd) | [GHOSTAAT \(feat\. Nelli Orell\)](https://open.spotify.com/album/4Gge9ChBLHihZRgXhaT3ds) | 2:38 | 2024-02-15 | 2024-03-01 |
 | [Glow](https://open.spotify.com/track/0YpLcVh6Wuq7XUu3s0VRN1) | [Jesse Markin](https://open.spotify.com/artist/3mxJuHRn2ZWD5OofvJtDZY) | [Glow](https://open.spotify.com/album/2kHsf0WVsde3cNmeVJY1H2) | 3:02 | 2024-01-15 | 2024-02-16 |
 | [God Mode \(feat\. Aleksib\)](https://open.spotify.com/track/5zgWmrwBC9Kegpw6uwz4eO) | [The Verkkars](https://open.spotify.com/artist/6G8D4xDyY4yocHtXiXxYmI), [Aleksib](https://open.spotify.com/artist/6oDgf3Yess9EUV2PfwVKE6) | [God Mode \(feat\. Aleksib\)](https://open.spotify.com/album/6iIaCZEHoHtZ9rbhZ0FtNt) | 2:10 | 2024-03-14 | 2024-03-22 |
-| [Griselda Blanco](https://open.spotify.com/track/6FoBHmjnw32uwrdeQcpIqd) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Griselda Blanco](https://open.spotify.com/album/7gvNSb5nIGHOP6qomTNEP5) | 2:43 | 2025-11-13 |  |
+| [Griselda Blanco](https://open.spotify.com/track/6FoBHmjnw32uwrdeQcpIqd) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Griselda Blanco](https://open.spotify.com/album/7gvNSb5nIGHOP6qomTNEP5) | 2:43 | 2025-11-13 | 2026-01-16 |
 | [HAAVEIT](https://open.spotify.com/track/6O7P4MpIhOPUcTavOnvf7D) | [Jokis](https://open.spotify.com/artist/0wqFCqsFsfZFpoTE2Vzcb3), [Hoo](https://open.spotify.com/artist/6pmXXmGmXplVNYI7C6xoVj) | [HAAVEIT](https://open.spotify.com/album/1zQUZTO1xQHxucKKsGWFhs) | 2:47 | 2024-01-04 | 2024-01-19 |
 | [HAAVERI](https://open.spotify.com/track/43abPnVxTyDK7rg5EDXWKc) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [SEPPO MIXTAPE](https://open.spotify.com/album/6k0CnWRzKZDKb7BG4j6A1g) | 2:37 | 2025-01-23 | 2025-04-04 |
 | [Hai](https://open.spotify.com/track/4wMKRyYyepsp78Q78GAd0J) | [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ) | [Hai](https://open.spotify.com/album/4m5PfHC0NViiHaHhPz5icW) | 3:20 | 2024-03-14 | 2024-04-05 |
@@ -865,6 +865,7 @@
 | [Smash Baby \(feat\. JVG\)](https://open.spotify.com/track/43aRo9Yxlj97ZlEOwCGJXk) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Smash Baby \(feat\. JVG\)](https://open.spotify.com/album/70f1d91RA2xKzbbHStUhsF) | 2:21 | 2023-09-21 | 2023-11-03 |
 | [SOITA](https://open.spotify.com/track/6HK5l2iHAovezIXIqw4Xel) | [LILBRO](https://open.spotify.com/artist/1PIujpIZmCo918lfPJfn3w) | [SOITA](https://open.spotify.com/album/6N3jbo2s17nxp6Ew3L7KeT) | 2:02 | 2025-09-04 | 2025-09-19 |
 | [Soita mulle](https://open.spotify.com/track/2Mi2vA7DOMJk80mJIHyJ4N) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Soita mulle](https://open.spotify.com/album/2sMdAWOawJutUfa9axCHCS) | 2:41 | 2025-04-03 | 2025-05-09 |
+| [Solmui](https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Solmui](https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO) | 3:18 | 2026-01-15 |  |
 | [somet1mes a gangsta need a hug 2](https://open.spotify.com/track/3afmu7jGrb67d55mlEr3yX) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [somet1mes a gangsta need a hug 2](https://open.spotify.com/album/3biSZM6nQ2249TfLmFOUu7) | 2:22 | 2024-10-03 | 2024-10-18 |
 | [Sori](https://open.spotify.com/track/7tSbasJQ6SYeDwEhyeUYUa) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Sori](https://open.spotify.com/album/59JKgG2HfalOrIOYYLyXdH) | 2:16 | 2023-09-21 | 2023-11-03 |
 | [Sori rakas](https://open.spotify.com/track/6FBXR79IkXG5buvnkAiuoB) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Sori rakas](https://open.spotify.com/album/0Ig0JcsvzM5zHCp1iQjhUu) | 2:04 | 2025-07-10 | 2025-08-15 |

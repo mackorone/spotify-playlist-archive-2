@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,850 likes - 253 songs - 13 hr 42 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,849 likes - 256 songs - 13 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,5 +261,8 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 251 | [Iris](https://open.spotify.com/track/2JzEXLuOTOOOFGJUbQF9YM) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 2 \- The Light](https://open.spotify.com/album/7GBhGMtGrYUjjb25FQGJaO) | 3:48 |
 | 252 | [Aurora Australis](https://open.spotify.com/track/2Ia8xDbzJyX4UkUXWlx3Ke) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 2 \- The Light](https://open.spotify.com/album/7GBhGMtGrYUjjb25FQGJaO) | 4:10 |
 | 253 | [The Light](https://open.spotify.com/track/6tbAdW7CrYBtcf3gmS3jKD) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 2 \- The Light](https://open.spotify.com/album/7GBhGMtGrYUjjb25FQGJaO) | 1:54 |
+| 254 | [XOXO \(tic tac toe\) \- Acoustic Version](https://open.spotify.com/track/6BchSoqQlFNPrH5eBY68yt) | [blanche brody](https://open.spotify.com/artist/1j8E1QPd2uEbkeIP9FXIEu) | [XOXO \(tic tac toe\) \[Acoustic Version\]](https://open.spotify.com/album/7E8hK3ZCQnXR9TcuEKUFdv) | 2:21 |
+| 255 | [UNPLEASANT](https://open.spotify.com/track/0PpBTkMunTy0dSMomI2Ny0) | [MITZI](https://open.spotify.com/artist/69GJJNYIyjm3Kim616SXW8) | [UNPLEASANT](https://open.spotify.com/album/2DtRXEF7vjrDbFzye8mKeS) | 3:09 |
+| 256 | [Stileta](https://open.spotify.com/track/7rhDc0cq2nlP3tdkLBHHAQ) | [S\. N\. Corval](https://open.spotify.com/artist/5t4F102t7bbqqRv8jWC9Kq) | [Sombreza](https://open.spotify.com/album/1h0Ds9K01jDLTv12QQufqQ) | 1:58 |
 
-Snapshot ID: `AAAzkski9cS4uSchR78YMy2jG8us3/3n`
+Snapshot ID: `AAAzle9GF3uojGBq1u06aTe6ctORLAhQ`

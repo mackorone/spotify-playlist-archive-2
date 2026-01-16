@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: Parris Goebel
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,360 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,359 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LIFE'S WAAAAAAAY TOO FLEEEEETEEN'](https://open.spotify.com/track/3G4jMkTLfEHQPipzLdYs53) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [LIFE'S WAAAAAAAY TOO FLEEEEETEEN'](https://open.spotify.com/album/7II2YgFx0bEccnK4MNLN0o) | 3:40 |
 | 2 | [GYAL LIKE ME](https://open.spotify.com/track/5l91DQDorUyrcLJoNhQasN) | [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [GYAL LIKE ME](https://open.spotify.com/album/1Lbferaa1gKPr01cDcqngD) | 2:52 |
 | 3 | [TENTACION](https://open.spotify.com/track/5UV82oH62P9kSDDVuL4btL) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [ROCCO / TENTACION](https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS) | 2:34 |
-| 4 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 4 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 5 | [the decoupling of the nuclear family](https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [the decoupling of the nuclear family](https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE) | 3:49 |
 | 6 | [POP](https://open.spotify.com/track/4EYpFHf42mqFkp9UT7DWe9) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe) | [POP](https://open.spotify.com/album/2PR5JuYYkG3iYnc1ztSskg) | 1:48 |
 | 7 | [CALYPSO VIP](https://open.spotify.com/track/17Yc506DrPVDJwgW1Dogp7) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [CALYPSO VIP](https://open.spotify.com/album/2zVIdJj47fsbsAXe7yiMNf) | 2:44 |

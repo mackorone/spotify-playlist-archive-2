@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : DRE-A",
+  "description": "Le meilleur du rap africain francophone. Photo : Sindika",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -268,6 +268,24 @@
       "duration_ms": 158186,
       "name": "All\u00f4 All\u00f4",
       "url": "https://open.spotify.com/track/5KP8NGOoGIDTViKvS1R97u"
+    },
+    {
+      "album": {
+        "name": "ALL\u00d4-ALL\u00d4",
+        "url": "https://open.spotify.com/album/17rz2SN0RCzsn0ZUPyH9Bc"
+      },
+      "artists": [
+        {
+          "name": "DEMENTOS",
+          "url": "https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "ALL\u00d4-ALL\u00d4",
+      "url": "https://open.spotify.com/track/4ZWUV50lCAVznwmKcnNFJQ"
     },
     {
       "album": {
@@ -706,7 +724,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 167355,
       "name": "C'est Chaud",
       "url": "https://open.spotify.com/track/1UrnbvkVqediUlSSOh4X3S"
@@ -808,6 +826,28 @@
       "duration_ms": 229399,
       "name": "CA GLOW",
       "url": "https://open.spotify.com/track/7Fp5yUcTy3bVI9eP31WnKf"
+    },
+    {
+      "album": {
+        "name": "29 : Bouteilles \u00e0 la Mer",
+        "url": "https://open.spotify.com/album/6yL3g3AHaN7eeZDM01zsc3"
+      },
+      "artists": [
+        {
+          "name": "Ced'",
+          "url": "https://open.spotify.com/artist/7BbpiKiLkyw6S48KUYcIvB"
+        },
+        {
+          "name": "OG Mahilet",
+          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162491,
+      "name": "CAMERA",
+      "url": "https://open.spotify.com/track/5g6KbDdqijAIhBoaCEsljr"
     },
     {
       "album": {
@@ -1102,7 +1142,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 113032,
       "name": "Contre attaque 4",
       "url": "https://open.spotify.com/track/33eqYBq84ZhGemZKFFDImJ"
@@ -1172,7 +1212,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 200221,
       "name": "C\u2019PAS MM CHOSE",
       "url": "https://open.spotify.com/track/0rIE652lQqE7NK6sHR5ive"
@@ -1778,7 +1818,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 188880,
       "name": "Epayi na biso (feat. C2B)",
       "url": "https://open.spotify.com/track/7zsehFgn9Qziqlh0jBE3CX"
@@ -2929,6 +2969,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "ENFANT NOIR SD",
+          "url": "https://open.spotify.com/artist/46bW6Ptyyb9bOmwDZ6y7py"
+        },
+        {
+          "name": "Philipayne",
+          "url": "https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Marteau ni Tenaille",
+      "url": "https://open.spotify.com/track/4FqXlVG1Ku8kVmXZ01QzL2"
+    },
+    {
+      "album": {
         "name": "Mc One -C' \u00e7a Q\u00e8 l\u00e0",
         "url": "https://open.spotify.com/album/1QIVRYD3CeGRN3OLJe8UzA"
       },
@@ -3114,6 +3176,24 @@
       "duration_ms": 158725,
       "name": "Mood 7.0",
       "url": "https://open.spotify.com/track/2U7TWA683JLcRtVIfTlbxt"
+    },
+    {
+      "album": {
+        "name": "Moulobehi 4",
+        "url": "https://open.spotify.com/album/0SY4jOnQHwD6m0Yq0jGJYQ"
+      },
+      "artists": [
+        {
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192317,
+      "name": "Moulobehi 4",
+      "url": "https://open.spotify.com/track/6ZODaxJHf3WrnfRtVYA6GU"
     },
     {
       "album": {
@@ -4271,6 +4351,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168013,
+      "name": "Thomas Sankara",
+      "url": "https://open.spotify.com/track/2PN6GdHZ7s50kBD4qEckpo"
+    },
+    {
+      "album": {
         "name": "Togolaise",
         "url": "https://open.spotify.com/album/1nLJS31612GXmQYvAn2m6e"
       },
@@ -4294,7 +4396,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 180000,
       "name": "Togolaise",
       "url": "https://open.spotify.com/track/1FvzQz9oH9WD7M4YzXDR3w"
@@ -4415,6 +4517,28 @@
     },
     {
       "album": {
+        "name": "Trop \u00e0 l'aise (feat. JD)",
+        "url": "https://open.spotify.com/album/0SLg6cghxuojuxWMggKXz2"
+      },
+      "artists": [
+        {
+          "name": "Widgunz",
+          "url": "https://open.spotify.com/artist/3sIJ8AYWsQmlgIcLxwiFkt"
+        },
+        {
+          "name": "JD",
+          "url": "https://open.spotify.com/artist/7dlCmucx38So6TIPLzsw0A"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Trop \u00e0 l'aise (feat. JD)",
+      "url": "https://open.spotify.com/track/5gzmS6c2KSDKXcn4LJTwR1"
+    },
+    {
+      "album": {
         "name": "MERCON2BABI\u00c8RE",
         "url": "https://open.spotify.com/album/0v7GxjUA1KSWjjTavVIxRt"
       },
@@ -4506,7 +4630,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 135836,
       "name": "TU DOIS YA",
       "url": "https://open.spotify.com/track/7hydFR3MiW6id3aLww1MJF"
@@ -4550,6 +4674,24 @@
       "duration_ms": 180000,
       "name": "UNDER THE SUN",
       "url": "https://open.spotify.com/track/5ccP5He1bggKx0xBKPy1Zx"
+    },
+    {
+      "album": {
+        "name": "Vanit\u00e9",
+        "url": "https://open.spotify.com/album/0V9hllhlNbHqK175smjlA1"
+      },
+      "artists": [
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124369,
+      "name": "Vanit\u00e9",
+      "url": "https://open.spotify.com/track/4tLdeAkxD7HoJBKYB5JZQx"
     },
     {
       "album": {
@@ -4710,7 +4852,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 166956,
       "name": "Z\u00c9RO",
       "url": "https://open.spotify.com/track/1rCpRaidop0h75ng6VpIDd"

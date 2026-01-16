@@ -50111,6 +50111,24 @@
     },
     {
       "album": {
+        "name": "Kyrie",
+        "url": "https://open.spotify.com/album/6FBs2Sumr0WmCANwErcIoS"
+      },
+      "artists": [
+        {
+          "name": "Classified Frequency",
+          "url": "https://open.spotify.com/artist/5EtpMrUjqENjKl8lSCbC92"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232725,
+      "name": "Kyrie",
+      "url": "https://open.spotify.com/track/3xcaV5z2wFVw6Edrlz7a9u"
+    },
+    {
+      "album": {
         "name": "k\u00f6mak bashi",
         "url": "https://open.spotify.com/album/0rzseyyxzgjOfhgD9uNgVP"
       },

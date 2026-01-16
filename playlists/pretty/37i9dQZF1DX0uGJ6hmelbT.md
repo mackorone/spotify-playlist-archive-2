@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uGJ6hmelbT.md) - [plain]
 
 > ¡Cantos y Rondas de todos los tiempos para jugar y aprender!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,070 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,069 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

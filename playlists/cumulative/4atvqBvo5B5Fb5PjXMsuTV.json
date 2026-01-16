@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Jan 09:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Jan 23:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -8510,7 +8510,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 161346,
       "name": "BACK WHEN YOU WERE MINE",
       "url": "https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT"
@@ -34967,6 +34967,28 @@
     },
     {
       "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/48LFXjxkeU8fobSL4Wzs4U"
+      },
+      "artists": [
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "Sebb Bash",
+          "url": "https://open.spotify.com/artist/3NAVgoymGp2cN3rlqi7Hu5"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198490,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/1ZnGp63y8u3kyEzIyPRooQ"
+    },
+    {
+      "album": {
         "name": "First Original Thought",
         "url": "https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD"
       },
@@ -46556,6 +46578,24 @@
       "duration_ms": 243053,
       "name": "Human Happens",
       "url": "https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl"
+    },
+    {
+      "album": {
+        "name": "human props",
+        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236273,
+      "name": "human props",
+      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
     },
     {
       "album": {
@@ -60362,7 +60402,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 201186,
       "name": "LOVE YOU LESS",
       "url": "https://open.spotify.com/track/5Qud5Ry1MdUNqb2vU6ecZx"
@@ -61092,6 +61132,24 @@
       "duration_ms": 207236,
       "name": "M Television",
       "url": "https://open.spotify.com/track/3gLGnlWONgk3bghvY5fs49"
+    },
+    {
+      "album": {
+        "name": "M-TRAIN",
+        "url": "https://open.spotify.com/album/3wGKTqt1SvhNEzGE2pG3A8"
+      },
+      "artists": [
+        {
+          "name": "Buckshot",
+          "url": "https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "M-TRAIN",
+      "url": "https://open.spotify.com/track/2BlcNm2vzejDiZD9MXbnny"
     },
     {
       "album": {
@@ -68198,7 +68256,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 170533,
       "name": "Never The Same",
       "url": "https://open.spotify.com/track/4OM1Ljxiq04Ma2noNGsXTB"
@@ -75432,7 +75490,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 208000,
       "name": "Persona",
       "url": "https://open.spotify.com/track/5VUUDXscfXDvVcwr8SEjxf"
@@ -78591,7 +78649,7 @@
     },
     {
       "album": {
-        "name": "Punk Rocky",
+        "name": "PUNK ROCKY",
         "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
       },
       "artists": [
@@ -78604,7 +78662,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235344,
-      "name": "Punk Rocky",
+      "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
     },
     {
@@ -96266,7 +96324,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 180000,
       "name": "Tell The World",
       "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
@@ -99670,6 +99728,32 @@
       "duration_ms": 105724,
       "name": "The Thin Grey Line",
       "url": "https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP"
+    },
+    {
+      "album": {
+        "name": "THE THING",
+        "url": "https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI"
+      },
+      "artists": [
+        {
+          "name": "TOMORA",
+          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Tom Rowlands",
+          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338120,
+      "name": "THE THING",
+      "url": "https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"
     },
     {
       "album": {
@@ -106410,6 +106494,24 @@
       "duration_ms": 167190,
       "name": "W OCZY",
       "url": "https://open.spotify.com/track/3KqxRjYLEs1twNChvKUDAk"
+    },
+    {
+      "album": {
+        "name": "w-w-w-w-w",
+        "url": "https://open.spotify.com/album/5wICjFM6k0RJow9l8anfuk"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266906,
+      "name": "w-w-w-w-w",
+      "url": "https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd"
     },
     {
       "album": {

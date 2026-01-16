@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-2,317 songs - 5 day 0 hr 54 min
+2,318 songs - 5 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [$aMAN](https://open.spotify.com/track/6Q5PGWKWR2u4WjO1CX8I5r) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [$aMAN](https://open.spotify.com/album/5vodMk0vdgVhCy6ReoCmTF) | 1:01 | 2022-04-11 | 2022-06-10 |
 | [$P$ \- Studio Session \#02](https://open.spotify.com/track/19sbsJ3EPMs1nQdmMXCFFi) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [$P$ \(Studio Session \#02\)](https://open.spotify.com/album/0L2CClpmtssAMgzfH1VNS6) | 2:30 | 2022-04-12 | 2023-05-01 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-15 | 2023-09-15 |
-| [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It up to Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 | 2026-01-15 |  |
+| [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It up to Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 | 2026-01-15 | 2026-01-16 |
+| [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Only Hits](https://open.spotify.com/album/4LqKKEC8ghEvbMW2xcs4eZ) | 4:03 | 2026-01-15 |  |
 | [03:00 AM](https://open.spotify.com/track/2c2PXzNY3eTIxkvnXbH8Hl) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [CORDIAL](https://open.spotify.com/album/5LpBSwOZaLQfU2mVU3Vyzm) | 2:18 | 2021-12-12 | 2022-03-10 |
 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 | 2021-05-16 | 2021-05-18 |
 | [1 Aprilie](https://open.spotify.com/track/5Ex1sApQ2TmWDLaJOEWtdJ) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Voodoo](https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV) | 3:13 | 2022-02-21 | 2022-03-03 |
@@ -920,7 +921,7 @@
 | [HEAVY](https://open.spotify.com/track/5ucI5OWW5VlzU9jdZmTQ1W) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [Z CLASS](https://open.spotify.com/album/1RIkS7qJEXc9po7PQ664nf) | 2:32 | 2025-08-16 | 2025-11-04 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2024-09-30 |
 | [Heavy Metal](https://open.spotify.com/track/0nak91in8Ooo6XPrpthsSl) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Voodoo Chronicles, Vol\. I](https://open.spotify.com/album/36IxAFv88GZe1xhF3H0GnS) | 2:26 | 2025-05-24 | 2025-05-29 |
-| [Helicopter](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Helicopter](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 | 2026-01-15 |  |
+| [HELICOPTER](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HELICOPTER](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 | 2026-01-15 |  |
 | [HELLO](https://open.spotify.com/track/07zqBVOt8Y6CqILblIqXNZ) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [TRAUME & COȘMARURI](https://open.spotify.com/album/4sCBowHBMloinktllMpNn2) | 2:39 | 2022-10-22 | 2022-10-25 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-12 | 2025-04-14 |
 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-14 |

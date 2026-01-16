@@ -2,7 +2,7 @@
 
 ### [\*hits different\*](https://open.spotify.com/playlist/37i9dQZF1DX6wk8dYln4y0)
 
-> music that just \*hits different\* Cover: Peach PRC
+> music that just \*hits different\* Cover: BENEE
 
 640 songs - 1 day 10 hr 30 min
 

@@ -1,18 +1,34 @@
 {
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Team Paiya",
-  "num_followers": 121479,
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Dydy Yeman",
+  "num_followers": 121523,
   "original_name": "Coup\u00e9 D\u00e9cal\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANO1OGkWsYbhYfplyQeRO5c5NrJ3",
+  "snapshot_id": "AAAAAELcWyM/WE4iv/3nsBlpXp7bavAD",
   "tracks": [
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
-        "name": "Allons chercher",
-        "url": "https://open.spotify.com/album/3AM3leqISTCPpygzdQR4Ly"
+        "name": "Gatement",
+        "url": "https://open.spotify.com/album/13OOXMCOjAghbNn9CT9JWJ"
+      },
+      "artists": [
+        {
+          "name": "Dydy Yeman",
+          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Gatement",
+      "url": "https://open.spotify.com/track/6bBDszeIuIPd21f8hyf8xr"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Tui Tui",
+        "url": "https://open.spotify.com/album/0oFUxlJkZJVhED9kdQw5hv"
       },
       "artists": [
         {
@@ -20,20 +36,176 @@
           "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
         },
         {
-          "name": "Tazeboy",
-          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+          "name": "Grand Homme",
+          "url": "https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9"
         },
         {
-          "name": "Chouchou Salvador",
-          "url": "https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI"
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
         }
       ],
-      "duration_ms": 151637,
-      "name": "Allons chercher",
-      "url": "https://open.spotify.com/track/7e5KKhlapDqkvK3fUnpoUD"
+      "duration_ms": 165957,
+      "name": "Tui Tui",
+      "url": "https://open.spotify.com/track/3iH43p8bTxZCYReFtkj4Lp"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Djeneba Djaba",
+        "url": "https://open.spotify.com/album/4y5SQcEOQN25EhFMYt3XpD"
+      },
+      "artists": [
+        {
+          "name": "Debordo Leekunfa",
+          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Djeneba Djaba",
+      "url": "https://open.spotify.com/track/6Pt5lnHwIUAfnEXItAjmfp"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Best Of DJ Arafat",
+        "url": "https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK"
+      },
+      "artists": [
+        {
+          "name": "DJ Arafat",
+          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
+        }
+      ],
+      "duration_ms": 276900,
+      "name": "Jonathan",
+      "url": "https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Chebaba",
+        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
+      },
+      "artists": [
+        {
+          "name": "DOUPI PAPILLON",
+          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Chebaba",
+      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Kedjevaratitude",
+        "url": "https://open.spotify.com/album/6EqhI5aGnP7SdKzljcjDBJ"
+      },
+      "artists": [
+        {
+          "name": "Kedjevara",
+          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "D\u00c9CAPSULEUR",
+      "url": "https://open.spotify.com/track/6SDUCSyKIkXlm4uNwZ1elB"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Sauteur",
+        "url": "https://open.spotify.com/album/4nmMjKL8AznO7Dke0OvmHh"
+      },
+      "artists": [
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        }
+      ],
+      "duration_ms": 171636,
+      "name": "Sauteur",
+      "url": "https://open.spotify.com/track/6NAPfj5sTMlfBxid1cPRRd"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "MAISON B",
+        "url": "https://open.spotify.com/album/1IP3m7sFLwnEZrlYQlEODo"
+      },
+      "artists": [
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Team 2 poy",
+          "url": "https://open.spotify.com/artist/4dqGz3Bm6XlgOUNXWSeuox"
+        },
+        {
+          "name": "Maison B",
+          "url": "https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "MAISON B",
+      "url": "https://open.spotify.com/track/2oKg3xtRJGNhFqpUux1u8G"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Dibango Dibanga",
+        "url": "https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX"
+      },
+      "artists": [
+        {
+          "name": "Bello Falcao",
+          "url": "https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R"
+        }
+      ],
+      "duration_ms": 180321,
+      "name": "Dibango Dibanga",
+      "url": "https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "L'ARGENT PROPRE",
+      "url": "https://open.spotify.com/track/4VQML2a6HZC4htq4jjnIv4"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "C'EST SON TEMPS",
+        "url": "https://open.spotify.com/album/5pSmtSt3JwN7vQ5AdeESpS"
+      },
+      "artists": [
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "C'EST SON TEMPS",
+      "url": "https://open.spotify.com/track/24Q4IrzjWhZnAB9e5oDGrb"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
       "album": {
         "name": "Ou est Dos la",
         "url": "https://open.spotify.com/album/2WKRypsch6ggIVQzjtVO6q"
@@ -61,135 +233,7 @@
       "url": "https://open.spotify.com/track/68eS9kZwmS9LM8pc1c7wa6"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Cr\u00e9atair",
-        "url": "https://open.spotify.com/album/6NLn3piJhLvA01cVl6Ytk0"
-      },
-      "artists": [
-        {
-          "name": "Serge Beynaud",
-          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Cr\u00e9atair (Dokui)",
-      "url": "https://open.spotify.com/track/3icNhDoAQVBPtBe8NcoQnt"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Taper Dedans",
-        "url": "https://open.spotify.com/album/5LDXH3W3AhhePbIBFTUmbN"
-      },
-      "artists": [
-        {
-          "name": "Bebi Philip",
-          "url": "https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Taper Dedans",
-      "url": "https://open.spotify.com/track/5ZL0TuUEiQAxOXmQOe2VX3"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Vibration Universelle",
-        "url": "https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Tout laisse",
-      "url": "https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "YESSOU\u00c9",
-        "url": "https://open.spotify.com/album/5Byd6Vob8suZ49j47Naag8"
-      },
-      "artists": [
-        {
-          "name": "DJ KEROZEN",
-          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "YESSOU\u00c9",
-      "url": "https://open.spotify.com/track/4xdFh8mBgHIV2vgdkTc1Lx"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "ON EST EN CH\u00c9K\u00c9T\u00c9",
-        "url": "https://open.spotify.com/album/4bSKhPMBMCrIBYWh9GRn5Z"
-      },
-      "artists": [
-        {
-          "name": "Arii",
-          "url": "https://open.spotify.com/artist/62QwKcRFb9gwWH5YsUTY5N"
-        },
-        {
-          "name": "Toto le Banzou",
-          "url": "https://open.spotify.com/artist/6biltZdfZXfwvPkrKQItmh"
-        },
-        {
-          "name": "Dydy Yeman",
-          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
-        }
-      ],
-      "duration_ms": 154187,
-      "name": "ON EST EN CH\u00c9K\u00c9T\u00c9",
-      "url": "https://open.spotify.com/track/4jLmG7pmRcLMsPjBVaXkMo"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Tui Tui",
-        "url": "https://open.spotify.com/album/0oFUxlJkZJVhED9kdQw5hv"
-      },
-      "artists": [
-        {
-          "name": "Team Paiya",
-          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
-        },
-        {
-          "name": "Grand Homme",
-          "url": "https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9"
-        },
-        {
-          "name": "L'Oiseau Rare",
-          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Tui Tui",
-      "url": "https://open.spotify.com/track/3iH43p8bTxZCYReFtkj4Lp"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "M\u00f4g\u00f4 Fariman",
-        "url": "https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl"
-      },
-      "artists": [
-        {
-          "name": "Roseline Layo",
-          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "M\u00f4g\u00f4 Fariman",
-      "url": "https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
         "name": "Dos de chat",
         "url": "https://open.spotify.com/album/5Y8wOOM07VtkJ47PRJ9GPf"
@@ -205,66 +249,10 @@
       "url": "https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
-        "name": "Gatement",
-        "url": "https://open.spotify.com/album/13OOXMCOjAghbNn9CT9JWJ"
-      },
-      "artists": [
-        {
-          "name": "Dydy Yeman",
-          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Gatement",
-      "url": "https://open.spotify.com/track/6bBDszeIuIPd21f8hyf8xr"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "L\u2019hybride",
-        "url": "https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg"
-      },
-      "artists": [
-        {
-          "name": "Safarel Obiang",
-          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
-        },
-        {
-          "name": "Dangereux Junior",
-          "url": "https://open.spotify.com/artist/16igpWquNmXepso7WsP6Lp"
-        },
-        {
-          "name": "Marco",
-          "url": "https://open.spotify.com/artist/60nAdAQcRbgQ3JVdYODRzB"
-        }
-      ],
-      "duration_ms": 198518,
-      "name": "Je suis pas dedans",
-      "url": "https://open.spotify.com/track/52pIkrAGgD5AWhrmaYFE2e"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Kedjevaratitude",
-        "url": "https://open.spotify.com/album/6EqhI5aGnP7SdKzljcjDBJ"
-      },
-      "artists": [
-        {
-          "name": "Kedjevara",
-          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "D\u00c9CAPSULEUR",
-      "url": "https://open.spotify.com/track/6SDUCSyKIkXlm4uNwZ1elB"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "MAISON B",
-        "url": "https://open.spotify.com/album/1IP3m7sFLwnEZrlYQlEODo"
+        "name": "Allons chercher",
+        "url": "https://open.spotify.com/album/3AM3leqISTCPpygzdQR4Ly"
       },
       "artists": [
         {
@@ -272,40 +260,20 @@
           "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
         },
         {
-          "name": "Team 2 poy",
-          "url": "https://open.spotify.com/artist/4dqGz3Bm6XlgOUNXWSeuox"
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
         },
         {
-          "name": "Maison B",
-          "url": "https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse"
+          "name": "Chouchou Salvador",
+          "url": "https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI"
         }
       ],
-      "duration_ms": 146086,
-      "name": "MAISON B",
-      "url": "https://open.spotify.com/track/2oKg3xtRJGNhFqpUux1u8G"
+      "duration_ms": 151637,
+      "name": "Allons chercher",
+      "url": "https://open.spotify.com/track/7e5KKhlapDqkvK3fUnpoUD"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Sauteur",
-        "url": "https://open.spotify.com/album/4nmMjKL8AznO7Dke0OvmHh"
-      },
-      "artists": [
-        {
-          "name": "Kadirov Mania",
-          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
-        },
-        {
-          "name": "Renard Barakissa",
-          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
-        }
-      ],
-      "duration_ms": 171636,
-      "name": "Sauteur",
-      "url": "https://open.spotify.com/track/6NAPfj5sTMlfBxid1cPRRd"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
         "name": "Passer \u00e0 cot\u00e9",
         "url": "https://open.spotify.com/album/6O8hSo39PIBT9LrEdQJ80F"
@@ -321,199 +289,7 @@
       "url": "https://open.spotify.com/track/4L1HVDYcQdB30NwIjHWJhy"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Pousser D\u00e9marrer",
-        "url": "https://open.spotify.com/album/2NQElktTGzLahZN3ZCzSNE"
-      },
-      "artists": [
-        {
-          "name": "Dydy Yeman",
-          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
-        },
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Pousser D\u00e9marrer",
-      "url": "https://open.spotify.com/track/4bjgCHM6Moyn1I8nBWEgB0"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Dibango Dibanga",
-        "url": "https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX"
-      },
-      "artists": [
-        {
-          "name": "Bello Falcao",
-          "url": "https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R"
-        }
-      ],
-      "duration_ms": 180321,
-      "name": "Dibango Dibanga",
-      "url": "https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Djeneba Djaba",
-        "url": "https://open.spotify.com/album/4y5SQcEOQN25EhFMYt3XpD"
-      },
-      "artists": [
-        {
-          "name": "Debordo Leekunfa",
-          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Djeneba Djaba",
-      "url": "https://open.spotify.com/track/6Pt5lnHwIUAfnEXItAjmfp"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Manger la vie",
-        "url": "https://open.spotify.com/album/3BNjYbqQZAE8XlVyrE0hhm"
-      },
-      "artists": [
-        {
-          "name": "Team Paiya",
-          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
-        },
-        {
-          "name": "Team 2 poy",
-          "url": "https://open.spotify.com/artist/4dqGz3Bm6XlgOUNXWSeuox"
-        },
-        {
-          "name": "Tazeboy",
-          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
-        }
-      ],
-      "duration_ms": 157852,
-      "name": "Manger la vie",
-      "url": "https://open.spotify.com/track/6qn92Gi1AjfrCNdquj4zJn"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "C'EST SON TEMPS",
-        "url": "https://open.spotify.com/album/5pSmtSt3JwN7vQ5AdeESpS"
-      },
-      "artists": [
-        {
-          "name": "DJ KEROZEN",
-          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "C'EST SON TEMPS",
-      "url": "https://open.spotify.com/track/24Q4IrzjWhZnAB9e5oDGrb"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Best Of DJ Arafat",
-        "url": "https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK"
-      },
-      "artists": [
-        {
-          "name": "DJ Arafat",
-          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
-        }
-      ],
-      "duration_ms": 276900,
-      "name": "Jonathan",
-      "url": "https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "13500 Volts",
-        "url": "https://open.spotify.com/album/1ChdvOyWF5BAS5DEwGHkXT"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 210050,
-      "name": "13500 Volts",
-      "url": "https://open.spotify.com/track/0WMSn16DmB8Jr62YrtJjqX"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Kedjevaratitude (Deluxe)",
-        "url": "https://open.spotify.com/album/3zg7GD5ljii4Dxrde910mH"
-      },
-      "artists": [
-        {
-          "name": "Kedjevara",
-          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
-        }
-      ],
-      "duration_ms": 255614,
-      "name": "Buvez Doucement",
-      "url": "https://open.spotify.com/track/1JClBCHVPbFmlrJhS7oZ6X"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "L\u2019hybride",
-        "url": "https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg"
-      },
-      "artists": [
-        {
-          "name": "Safarel Obiang",
-          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
-        }
-      ],
-      "duration_ms": 226064,
-      "name": "D\u00e9couper",
-      "url": "https://open.spotify.com/track/1pmrwYqvIqxUzCMi2RPtLF"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "2K225",
-        "url": "https://open.spotify.com/album/0yh6HGCMihGUK9Y9PMJVBz"
-      },
-      "artists": [
-        {
-          "name": "Le D",
-          "url": "https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX"
-        },
-        {
-          "name": "Bol\u00e9mvn",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
-        }
-      ],
-      "duration_ms": 141162,
-      "name": "2K225",
-      "url": "https://open.spotify.com/track/5WO8WYu8JIRexWYGjkCDKt"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "6 Devient 9",
-        "url": "https://open.spotify.com/album/0RstvcWCinIJRwbwi7p3NY"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "6 Devient 9",
-      "url": "https://open.spotify.com/track/7lVT7yMP4OkhMKj0lvA5LG"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
         "name": "La B\u00eatise",
         "url": "https://open.spotify.com/album/3iGx5L6wJZ4RKBFou7fijT"
@@ -537,39 +313,75 @@
       "url": "https://open.spotify.com/track/3Q5EeS00OhCeCphR0X4G2S"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
-        "name": "Ma derni\u00e8re Relation",
-        "url": "https://open.spotify.com/album/754eLu0PvJWfP0vjma4Gai"
+        "name": "L'argent (\u00e9dit radio)",
+        "url": "https://open.spotify.com/album/3KAtQJJwGXNyfaLTlfy1kd"
       },
       "artists": [
         {
-          "name": "Roseline Layo",
-          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+          "name": "Ayanne",
+          "url": "https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl"
+        },
+        {
+          "name": "BUMER",
+          "url": "https://open.spotify.com/artist/45Rwf4lLxQiIaADszIhUib"
         }
       ],
-      "duration_ms": 203211,
-      "name": "Ma derni\u00e8re Relation",
-      "url": "https://open.spotify.com/track/4tUiQ4jkM3lPLzHeDI1nSC"
+      "duration_ms": 196320,
+      "name": "L'argent - \u00e9dit radio",
+      "url": "https://open.spotify.com/track/2H9VxV7TLn6QxFQWJ6Mbpl"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
-        "name": "Chebaba",
-        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
+        "name": "Taper Dedans",
+        "url": "https://open.spotify.com/album/5LDXH3W3AhhePbIBFTUmbN"
       },
       "artists": [
         {
-          "name": "DOUPI PAPILLON",
-          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
+          "name": "Bebi Philip",
+          "url": "https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt"
         }
       ],
-      "duration_ms": 202058,
-      "name": "Chebaba",
-      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
+      "duration_ms": 188571,
+      "name": "Taper Dedans",
+      "url": "https://open.spotify.com/track/5ZL0TuUEiQAxOXmQOe2VX3"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "L\u2019hybride",
+        "url": "https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg"
+      },
+      "artists": [
+        {
+          "name": "Safarel Obiang",
+          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
+        }
+      ],
+      "duration_ms": 226064,
+      "name": "D\u00e9couper",
+      "url": "https://open.spotify.com/track/1pmrwYqvIqxUzCMi2RPtLF"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Cr\u00e9atair",
+        "url": "https://open.spotify.com/album/6NLn3piJhLvA01cVl6Ytk0"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Cr\u00e9atair (Dokui)",
+      "url": "https://open.spotify.com/track/3icNhDoAQVBPtBe8NcoQnt"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
       "album": {
         "name": "Biama Brut Reverse",
         "url": "https://open.spotify.com/album/3xoYfNYq0K6abXFOyAIhIO"
@@ -593,46 +405,10 @@
       "url": "https://open.spotify.com/track/2cql6AVi8ktgedXr4RAFR0"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
-        "name": "L'argent (\u00e9dit radio)",
-        "url": "https://open.spotify.com/album/3KAtQJJwGXNyfaLTlfy1kd"
-      },
-      "artists": [
-        {
-          "name": "Ayanne",
-          "url": "https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl"
-        },
-        {
-          "name": "BUMER",
-          "url": "https://open.spotify.com/artist/45Rwf4lLxQiIaADszIhUib"
-        }
-      ],
-      "duration_ms": 196320,
-      "name": "L'argent - \u00e9dit radio",
-      "url": "https://open.spotify.com/track/2H9VxV7TLn6QxFQWJ6Mbpl"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "Mon Jour",
-        "url": "https://open.spotify.com/album/2pGl4bD1MGVStBsZOl7FD8"
-      },
-      "artists": [
-        {
-          "name": "Obam's",
-          "url": "https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq"
-        }
-      ],
-      "duration_ms": 154833,
-      "name": "Mon Jour",
-      "url": "https://open.spotify.com/track/6terqB0zOo38UfkkIWXngs"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
-        "name": "R\u00c9SONANCE",
-        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
+        "name": "Vibration Universelle",
+        "url": "https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne"
       },
       "artists": [
         {
@@ -640,36 +416,28 @@
           "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
         }
       ],
-      "duration_ms": 162223,
-      "name": "Les Jaloux",
-      "url": "https://open.spotify.com/track/2fyfSbf6jsixylBUff0E0m"
+      "duration_ms": 176000,
+      "name": "Tout laisse",
+      "url": "https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
-        "name": "YOUGOUBA",
-        "url": "https://open.spotify.com/album/4Hzh4YoaH6HYW3PrhF2UUW"
+        "name": "13500 Volts",
+        "url": "https://open.spotify.com/album/1ChdvOyWF5BAS5DEwGHkXT"
       },
       "artists": [
         {
-          "name": "A\u00efcha Kon\u00e9",
-          "url": "https://open.spotify.com/artist/5PAmJH8CruQDoydEcCPkbL"
-        },
-        {
-          "name": "Ariel Sheney",
-          "url": "https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b"
-        },
-        {
-          "name": "Chouchou Salvador",
-          "url": "https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI"
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
         }
       ],
-      "duration_ms": 214285,
-      "name": "YOUGOUBA",
-      "url": "https://open.spotify.com/track/5X4mslURBMq0NFMdQwAyY9"
+      "duration_ms": 210050,
+      "name": "13500 Volts",
+      "url": "https://open.spotify.com/track/0WMSn16DmB8Jr62YrtJjqX"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
         "name": "Ab\u00e9 Soun\u00f4g\u00f4la",
         "url": "https://open.spotify.com/album/1kr0m0UEbTTpElc280IIbk"
@@ -685,23 +453,71 @@
       "url": "https://open.spotify.com/track/251YL5TbA5tfT2Spmgvtmp"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
       "album": {
-        "name": "TU PRENDS ET PUIS TU LAISSES",
-        "url": "https://open.spotify.com/album/7F91Vcw2Kt3uOKWJpJ0eIt"
+        "name": "M\u00f4g\u00f4 Fariman",
+        "url": "https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl"
       },
       "artists": [
         {
-          "name": "AB LE SUPERMAN",
-          "url": "https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ"
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
         }
       ],
-      "duration_ms": 179030,
-      "name": "TU PRENDS ET PUIS TU LAISSES",
-      "url": "https://open.spotify.com/track/4eWms3CUScWTxYGAezmVao"
+      "duration_ms": 258000,
+      "name": "M\u00f4g\u00f4 Fariman",
+      "url": "https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "ON EST EN CH\u00c9K\u00c9T\u00c9",
+        "url": "https://open.spotify.com/album/4bSKhPMBMCrIBYWh9GRn5Z"
+      },
+      "artists": [
+        {
+          "name": "Arii",
+          "url": "https://open.spotify.com/artist/62QwKcRFb9gwWH5YsUTY5N"
+        },
+        {
+          "name": "Toto le Banzou",
+          "url": "https://open.spotify.com/artist/6biltZdfZXfwvPkrKQItmh"
+        },
+        {
+          "name": "Dydy Yeman",
+          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
+        }
+      ],
+      "duration_ms": 154187,
+      "name": "ON EST EN CH\u00c9K\u00c9T\u00c9",
+      "url": "https://open.spotify.com/track/4jLmG7pmRcLMsPjBVaXkMo"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Manger la vie",
+        "url": "https://open.spotify.com/album/3BNjYbqQZAE8XlVyrE0hhm"
+      },
+      "artists": [
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Team 2 poy",
+          "url": "https://open.spotify.com/artist/4dqGz3Bm6XlgOUNXWSeuox"
+        },
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        }
+      ],
+      "duration_ms": 157852,
+      "name": "Manger la vie",
+      "url": "https://open.spotify.com/track/6qn92Gi1AjfrCNdquj4zJn"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
       "album": {
         "name": "C'est qui qui \u00e0 koeur\u00e9?",
         "url": "https://open.spotify.com/album/4AQrYtHFNuagblJEqLA8nM"
@@ -721,7 +537,39 @@
       "url": "https://open.spotify.com/track/3sMa9CW10jJOINelbPeV03"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "6 Devient 9",
+        "url": "https://open.spotify.com/album/0RstvcWCinIJRwbwi7p3NY"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "6 Devient 9",
+      "url": "https://open.spotify.com/track/7lVT7yMP4OkhMKj0lvA5LG"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Mon Jour",
+        "url": "https://open.spotify.com/album/2pGl4bD1MGVStBsZOl7FD8"
+      },
+      "artists": [
+        {
+          "name": "Obam's",
+          "url": "https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq"
+        }
+      ],
+      "duration_ms": 154833,
+      "name": "Mon Jour",
+      "url": "https://open.spotify.com/track/6terqB0zOo38UfkkIWXngs"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
       "album": {
         "name": "Gbrokoto gbrakata",
         "url": "https://open.spotify.com/album/3gY7HkUtDfVfU1ltVRtHUY"
@@ -737,7 +585,151 @@
       "url": "https://open.spotify.com/track/2P8xD8TqtVzoj8taYLcNnz"
     },
     {
-      "added_at": "2026-01-08 23:00:13",
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "2K225",
+        "url": "https://open.spotify.com/album/0yh6HGCMihGUK9Y9PMJVBz"
+      },
+      "artists": [
+        {
+          "name": "Le D",
+          "url": "https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX"
+        },
+        {
+          "name": "Bol\u00e9mvn",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "duration_ms": 141162,
+      "name": "2K225",
+      "url": "https://open.spotify.com/track/5WO8WYu8JIRexWYGjkCDKt"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Pousser D\u00e9marrer",
+        "url": "https://open.spotify.com/album/2NQElktTGzLahZN3ZCzSNE"
+      },
+      "artists": [
+        {
+          "name": "Dydy Yeman",
+          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Pousser D\u00e9marrer",
+      "url": "https://open.spotify.com/track/4bjgCHM6Moyn1I8nBWEgB0"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Ma derni\u00e8re Relation",
+        "url": "https://open.spotify.com/album/754eLu0PvJWfP0vjma4Gai"
+      },
+      "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        }
+      ],
+      "duration_ms": 203211,
+      "name": "Ma derni\u00e8re Relation",
+      "url": "https://open.spotify.com/track/4tUiQ4jkM3lPLzHeDI1nSC"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "Kedjevaratitude (Deluxe)",
+        "url": "https://open.spotify.com/album/3zg7GD5ljii4Dxrde910mH"
+      },
+      "artists": [
+        {
+          "name": "Kedjevara",
+          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
+        }
+      ],
+      "duration_ms": 255614,
+      "name": "Buvez Doucement",
+      "url": "https://open.spotify.com/track/1JClBCHVPbFmlrJhS7oZ6X"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "R\u00c9SONANCE",
+        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "duration_ms": 162223,
+      "name": "Les Jaloux",
+      "url": "https://open.spotify.com/track/2fyfSbf6jsixylBUff0E0m"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "TU PRENDS ET PUIS TU LAISSES",
+        "url": "https://open.spotify.com/album/7F91Vcw2Kt3uOKWJpJ0eIt"
+      },
+      "artists": [
+        {
+          "name": "AB LE SUPERMAN",
+          "url": "https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ"
+        }
+      ],
+      "duration_ms": 179030,
+      "name": "TU PRENDS ET PUIS TU LAISSES",
+      "url": "https://open.spotify.com/track/4eWms3CUScWTxYGAezmVao"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "YESSOU\u00c9",
+        "url": "https://open.spotify.com/album/5Byd6Vob8suZ49j47Naag8"
+      },
+      "artists": [
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "YESSOU\u00c9",
+      "url": "https://open.spotify.com/track/4xdFh8mBgHIV2vgdkTc1Lx"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
+      "album": {
+        "name": "L\u2019hybride",
+        "url": "https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg"
+      },
+      "artists": [
+        {
+          "name": "Safarel Obiang",
+          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
+        },
+        {
+          "name": "Dangereux Junior",
+          "url": "https://open.spotify.com/artist/16igpWquNmXepso7WsP6Lp"
+        },
+        {
+          "name": "Marco",
+          "url": "https://open.spotify.com/artist/60nAdAQcRbgQ3JVdYODRzB"
+        }
+      ],
+      "duration_ms": 198518,
+      "name": "Je suis pas dedans",
+      "url": "https://open.spotify.com/track/52pIkrAGgD5AWhrmaYFE2e"
+    },
+    {
+      "added_at": "2026-01-15 23:00:35",
       "album": {
         "name": "Appeler Appeler",
         "url": "https://open.spotify.com/album/7mNUfx1TmPTuryh4qsqqIU"

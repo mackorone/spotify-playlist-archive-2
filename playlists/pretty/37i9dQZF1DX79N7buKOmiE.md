@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. Cover: girlhood
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,325 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,327 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [Igaz\-Hamis](https://open.spotify.com/track/78AN6stv60uHGYUVqfQq6s) | [Berta'Lami](https://open.spotify.com/artist/4hKnMdOlXgv52JpK4hCbv3) | [Igaz\-Hamis](https://open.spotify.com/album/5p9xc7bEZIlYgUhvo55Qar) | 2:09 |
 | 50 | [Harmat lennék](https://open.spotify.com/track/5AZOc3g6cTPZ98qbh2Ekj7) | [Girl in the mirror](https://open.spotify.com/artist/2mQTU8dOo4PEJF1stERHUe) | [Harmat lennék](https://open.spotify.com/album/3y9izY9vm4guNobuz1qynU) | 2:52 |
 
-Snapshot ID: `AAAAAHi3I8dK110S2W8yDpTNTfmJhwnq`
+Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`

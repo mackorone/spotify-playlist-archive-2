@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Dilsinho com Lauana Prado, DENNIS com L7, Bruno Mars, Thiaguinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,235,383 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,235,330 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 8 | [Piranha de 18](https://open.spotify.com/track/24mPZdfbQIR66TfYMYntAX) | [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Piranha de 18](https://open.spotify.com/album/5YMaCStmAqTG0WwIv2CAfp) | 3:04 |
 | 9 | [Dedinho de Por Aliança \- Ao Vivo](https://open.spotify.com/track/7w5Q1hqnEtRwmPqflWI5Ql) | [Thales Lessa](https://open.spotify.com/artist/3kz1MToxXOeJU18hzSRbRm), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Dedinho de Por Aliança \(Ao Vivo\)](https://open.spotify.com/album/55nXPGB4FAxBNheBjvopOG) | 2:35 |
 | 10 | [Não Era Pra Ir Mas Eu Vou \- Ao Vivo](https://open.spotify.com/track/5XfaIgRnO7gEvhq9v100QB) | [Patrick Costa](https://open.spotify.com/artist/7dAYukLL2okFaG7g8fSNgS), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Vai Balançando \(Ao Vivo\)](https://open.spotify.com/album/5pYPNyTMAVnwM9FdtGf57a) | 3:08 |
-| 11 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 11 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 12 | [diamonds are forever](https://open.spotify.com/track/1VAtSBqecE1fIfxYikIHUG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [diamonds are forever](https://open.spotify.com/album/5OP38JygZWcTBGMeG6smz3) | 2:36 |
 | 13 | [SWEET LOVE](https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [SWEET LOVE](https://open.spotify.com/album/1LEX8A7hoDloo5pJrVrb2f) | 2:25 |
 | 14 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 |

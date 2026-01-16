@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Ozan Bayra\u015fa x Hande Yener",
+  "description": "Pop'un sevilen isimleri. Kapak: Tuna Kiremit\u00e7i",
   "name": "Pop Radyo",
   "tracks": [
+    {
+      "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/2Zp67NyAt4TpBvdR5nBdIl"
+      },
+      "artists": [
+        {
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197010,
+      "name": "16",
+      "url": "https://open.spotify.com/track/1lxFBq5OXiAtxPybeP6RAg"
+    },
     {
       "album": {
         "name": "180",
@@ -168,7 +186,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 128804,
       "name": "Ac\u0131yor Kalbim",
       "url": "https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI"
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 179399,
       "name": "Bay\u0131l\u0131yorum Sana",
       "url": "https://open.spotify.com/track/3k2xuHNxGDtiuI6rEVd3CT"
@@ -1714,10 +1732,28 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 234906,
       "name": "Bir \u00c7i\u00e7ek Daha Ald\u0131m Kendime",
       "url": "https://open.spotify.com/track/4j1wr7DQM6OG2Rl5VErGM2"
+    },
+    {
+      "album": {
+        "name": "Bitmi\u015f Bir R\u00fcya",
+        "url": "https://open.spotify.com/album/0mI8DhOeoZrg44NWlWQihk"
+      },
+      "artists": [
+        {
+          "name": "Tuna Kiremit\u00e7i",
+          "url": "https://open.spotify.com/artist/799GDxXgsUDuGSbh5HJ3Kv"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195188,
+      "name": "Bitmi\u015f Bir R\u00fcya",
+      "url": "https://open.spotify.com/track/6P33rZwtWdm5kYqdOG63GT"
     },
     {
       "album": {
@@ -4785,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "Kim Derdi Ki",
+        "url": "https://open.spotify.com/album/0F1LjE01DyzK56QHmNMERj"
+      },
+      "artists": [
+        {
+          "name": "Ece Mumay",
+          "url": "https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209375,
+      "name": "Kim Derdi Ki",
+      "url": "https://open.spotify.com/track/0eLRwnFU3tk2Tb0chKeCgC"
+    },
+    {
+      "album": {
         "name": "KOCA ADAM",
         "url": "https://open.spotify.com/album/7sYFdkwfB8jmyhgSKTXHUa"
       },
@@ -7752,7 +7806,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 172346,
       "name": "Yang\u0131n",
       "url": "https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3"
@@ -8090,6 +8144,28 @@
       "duration_ms": 170224,
       "name": "yaz\u0131k ettin",
       "url": "https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada"
+    },
+    {
+      "album": {
+        "name": "Yedek Anahtar\u0131m",
+        "url": "https://open.spotify.com/album/1mlD3phxv7BuANLnsvZ74y"
+      },
+      "artists": [
+        {
+          "name": "Sena G\u00fcl",
+          "url": "https://open.spotify.com/artist/5M1xHbIWiKoI6sZpCmeFHq"
+        },
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197384,
+      "name": "Yedek Anahtar\u0131m",
+      "url": "https://open.spotify.com/track/3nB1gam8gNpXkZLWkHlXa3"
     },
     {
       "album": {

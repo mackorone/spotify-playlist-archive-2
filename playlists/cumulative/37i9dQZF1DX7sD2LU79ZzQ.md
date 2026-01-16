@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Toton Caribo
 
-1,331 songs - 3 day 13 hr 11 min
+1,332 songs - 3 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -937,6 +937,7 @@
 | [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 | 2024-07-04 | 2024-08-16 |
 | [Rima Raga](https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Rima Raga](https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR) | 3:13 | 2024-11-14 | 2025-02-28 |
 | [Rindu](https://open.spotify.com/track/5smGKr16p9WR8D9xoe2UsZ) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Rindu](https://open.spotify.com/album/4J8B77nQZbFPclMIuJSyFK) | 2:45 | 2024-11-14 | 2025-02-14 |
+| [Rindu](https://open.spotify.com/track/6AoyuecwUT33mJXQBMOhgX) | [ANGEL PIETERS](https://open.spotify.com/artist/7asPKvMVP4x1mey64TS3PA) | [Rindu](https://open.spotify.com/album/3XFDpilOXSWR2as0Evjpqf) | 4:54 | 2026-01-15 |  |
 | [Rindu Dalam Sunyi \(Thaghut Original Motion Pictures Soundtrack\)](https://open.spotify.com/track/2RGrqXoub7squjIihLpWhu) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Rindu Dalam Sunyi \(Thaghut Original Motion Pictures Soundtrack\)](https://open.spotify.com/album/10zPrC718iV3GiIRVy8cUH) | 4:03 | 2024-06-27 | 2024-07-19 |
 | [Rindu Itu Berat](https://open.spotify.com/track/47pBIJIp0z8EcJnyWDPOPe) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE), [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Rindu Itu Berat](https://open.spotify.com/album/42d2dmMRr2rPgsMK9u3lfe) | 3:13 | 2025-08-28 | 2025-10-03 |
 | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/track/62PDVJCNyBicBG8SNjmqIA) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/album/2SO4bvyRmnNgOQbikwP8nl) | 3:26 | 2024-08-29 | 2024-11-08 |

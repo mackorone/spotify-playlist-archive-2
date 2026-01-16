@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Waxx et Louane",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Coline Rio",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -1671,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Je ne l'ai jamais dit \u00e0 personne",
+        "url": "https://open.spotify.com/album/2zvY1mdV7980cw5d9HCGDF"
+      },
+      "artists": [
+        {
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259845,
+      "name": "Je ne l'ai jamais dit \u00e0 personne",
+      "url": "https://open.spotify.com/track/10YFRCEbeCjWBJCr8DpfEz"
+    },
+    {
+      "album": {
         "name": "Le Cabaret des Pleurs",
         "url": "https://open.spotify.com/album/0k6GwHDCtvQwqWucVnBwiZ"
       },
@@ -1909,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "L'\u00eele aux cygnes",
+        "url": "https://open.spotify.com/album/6wyQq5D5td4PGgCIj0vKLK"
+      },
+      "artists": [
+        {
+          "name": "Laelou",
+          "url": "https://open.spotify.com/artist/3wexCKYkyD5JOB61AF415L"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191357,
+      "name": "L'\u00eele aux cygnes",
+      "url": "https://open.spotify.com/track/3xdTwb3TLh0RoKEihnDj7d"
+    },
+    {
+      "album": {
         "name": "La boh\u00e8me",
         "url": "https://open.spotify.com/album/2L6vtG68KIy1vLgCPGtPpB"
       },
@@ -1938,7 +1974,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 227640,
       "name": "La b\u00e9atitude",
       "url": "https://open.spotify.com/track/5BlUOZzmAhdksyj5YOmGBU"
@@ -2502,7 +2538,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 205840,
       "name": "Le nom des fleurs",
       "url": "https://open.spotify.com/track/3aTMleeOHwd89RFAJzkQsW"
@@ -2520,7 +2556,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 244480,
       "name": "Le penseur",
       "url": "https://open.spotify.com/track/1tv58Ak1QlECDQNAIl1xqz"
@@ -2878,7 +2914,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 217080,
       "name": "Les d\u00e9sirs fatigu\u00e9s des navires d\u2019argent",
       "url": "https://open.spotify.com/track/5yWjsQylhePlSIF14zcWvT"
@@ -4281,6 +4317,24 @@
     },
     {
       "album": {
+        "name": "T'es Beau (Doug's version)",
+        "url": "https://open.spotify.com/album/5pnZ8GsGW0TZ2l0AZ022MK"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134709,
+      "name": "T'es Beau - Doug's version",
+      "url": "https://open.spotify.com/track/7g7sUmIDaZgq5gtHne6jdL"
+    },
+    {
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/3AgM6WhCUcITGdaDKnblSf"
       },
@@ -4766,6 +4820,28 @@
       "duration_ms": 200984,
       "name": "\u00c0 quoi tu penses ?",
       "url": "https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU"
+    },
+    {
+      "album": {
+        "name": "\u00c6thernit\u00e9",
+        "url": "https://open.spotify.com/album/5nffIi37YwFWLk0O87oskr"
+      },
+      "artists": [
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
+        },
+        {
+          "name": "Malik Djoudi",
+          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "\u00c6thernit\u00e9",
+      "url": "https://open.spotify.com/track/0UDavOLP39jnNVJR1fg3wO"
     },
     {
       "album": {

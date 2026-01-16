@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W"
+      },
+      "artists": [
+        {
+          "name": "Yearboox",
+          "url": "https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140348,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V"
+    },
+    {
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u"
       },
@@ -594,6 +612,24 @@
       "duration_ms": 165174,
       "name": "Madison (feat. Janieck)",
       "url": "https://open.spotify.com/track/2dxfmq4OI7iy8ckdQE6J8q"
+    },
+    {
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/6T3J1PFPHbfA0au1k94gm7"
+      },
+      "artists": [
+        {
+          "name": "Alon",
+          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134032,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/2ogeuuFlYmhSwCwTBYV1Fx"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Kusah",
+  "description": "What is your love language? Say it in Swahili.  Cover: Mimi Mars",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -2853,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Mashiko",
+        "url": "https://open.spotify.com/album/3WPA0y6gPmj8tjnxPZDSm2"
+      },
+      "artists": [
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267702,
+      "name": "Mashiko",
+      "url": "https://open.spotify.com/track/2yVR3Ly0eAdqnHc8O5C0Mf"
+    },
+    {
+      "album": {
         "name": "Matatizo",
         "url": "https://open.spotify.com/album/6bUpnezEMD0cNLoGmg8t4v"
       },
@@ -4872,7 +4890,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 201818,
       "name": "Romeo & Julieth (feat. Otile Brown)",
       "url": "https://open.spotify.com/track/2ffwwOr5k4AFYlbQiopAaQ"
@@ -6356,7 +6374,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 177889,
       "name": "Yeye",
       "url": "https://open.spotify.com/track/54DJmNdE1KwaFNIjxSohY2"
@@ -6403,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "Your Loss",
+        "url": "https://open.spotify.com/album/6HzYn6HViKNb7mWwbIC8Ie"
+      },
+      "artists": [
+        {
+          "name": "Abigail Chams",
+          "url": "https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Your Loss",
+      "url": "https://open.spotify.com/track/5v3BFswaqCAri7bZY2g78o"
+    },
+    {
+      "album": {
         "name": "Yule (Remix)",
         "url": "https://open.spotify.com/album/5wfD1q45IeSUz5Tq8aQ42e"
       },
@@ -6440,7 +6476,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 210750,
       "name": "Zawadi (feat. Dadiposlim)",
       "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"

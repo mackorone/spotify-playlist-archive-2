@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/1hWy9l6PBXrEyZoG5hHQCr"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127569,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/5z9OAaepo77JkwbhpSyD3E"
+    },
+    {
+      "album": {
         "name": "Bar Song (Tipsy Techno)",
         "url": "https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI"
       },
@@ -5159,6 +5177,24 @@
     },
     {
       "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"
+    },
+    {
+      "album": {
         "name": "Enjoy the Silence",
         "url": "https://open.spotify.com/album/4BRmWsSzXnjit1n43RxhD8"
       },
@@ -8198,7 +8234,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 116707,
       "name": "Holy Atlantis",
       "url": "https://open.spotify.com/track/7u2FjJcKrJOcfiR10vnxSn"
@@ -8526,7 +8562,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 148292,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0rDQ8iz6ORhJ5cjFpW15EM"
@@ -10566,7 +10602,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 138375,
       "name": "Lime, Salt & Tequila",
       "url": "https://open.spotify.com/track/6X9nRnBOtzzhRgBTPMnJ0s"
@@ -14798,7 +14834,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 151232,
       "name": "Put Your Bassline",
       "url": "https://open.spotify.com/track/3IwC6rhjOfEdswlSV6RvzX"
@@ -15502,6 +15538,24 @@
       "duration_ms": 165857,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/21LTZZP3cRDzVFKmvDEtZt"
+    },
+    {
+      "album": {
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP"
+      },
+      "artists": [
+        {
+          "name": "Tomas Grey",
+          "url": "https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162755,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
     },
     {
       "album": {
@@ -18731,6 +18785,28 @@
     },
     {
       "album": {
+        "name": "TRIPPIN",
+        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202881,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
+    },
+    {
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/4N5GXjk84sniBmSGfwwgzP"
       },
@@ -19056,6 +19132,24 @@
       "duration_ms": 161926,
       "name": "unendlichkeit (rework)",
       "url": "https://open.spotify.com/track/5ceSLoV0tELtpnQzgnt5nm"
+    },
+    {
+      "album": {
+        "name": "Unfaithful",
+        "url": "https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231891,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8"
     },
     {
       "album": {
@@ -20150,7 +20244,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 151500,
       "name": "WITH THE LIGHTS ON",
       "url": "https://open.spotify.com/track/5gKFwoqDtGk8iXnAJXZDp4"

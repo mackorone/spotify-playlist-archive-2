@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: MAYonair
 
-2,244 songs - 5 day 11 hr 31 min
+2,245 songs - 5 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1371,6 +1371,7 @@
 | [NOT A LOVER](https://open.spotify.com/track/1q6QkUdZ6wqghYIcfbNoTP) | [Wang](https://open.spotify.com/artist/0HqNIZwtUtRM5FEuXrdZWf), [Darwindaboi](https://open.spotify.com/artist/6uKR3bSMz8u2Qb9G990NFp), [Naggie](https://open.spotify.com/artist/2rAxHfpCAAkq2ZU2yfA1wi) | [NOT A LOVER](https://open.spotify.com/album/7ckFk3RNEHvytLDzLYGMHx) | 3:19 | 2022-01-06 | 2022-05-12 |
 | [Not The Same](https://open.spotify.com/track/7EsDa5BIIUZXyJIfy67If9) | [Dewie](https://open.spotify.com/artist/2fZ5sWYSqJpL11OqCDr9oY) | [Not The Same](https://open.spotify.com/album/6lrKTsuNtd5JoKTTKPaxG6) | 2:33 | 2022-02-10 | 2022-02-24 |
 | [Notime4flexin](https://open.spotify.com/track/6wXLmajEm9bXTYQZtEx74s) | [AK49](https://open.spotify.com/artist/0PsYNWoA9eUOHO4VUOSp8F), [UYN](https://open.spotify.com/artist/7B221wMn0hUKAdVIhHFn3X), [Urabe](https://open.spotify.com/artist/2uCakPZuXrU9BRGBUWj9oo) | [Notime4flexin](https://open.spotify.com/album/2ksUob5JWAJvbnaQHYNafq) | 2:17 | 2023-12-22 | 2023-12-30 |
+| [NUOCMATDATHOIROI](https://open.spotify.com/track/3Wo9CVEtefTK85DPnlI5Yh) | [Melly](https://open.spotify.com/artist/1Y1xmgxAowScrmVVdESPXs), [Manel](https://open.spotify.com/artist/3GimZFnIH5GgVbT4vAR4ah) | [4U](https://open.spotify.com/album/3h3b3OPY2B1go6M60iS7zD) | 2:51 | 2026-01-15 |  |
 | [Nâng Level](https://open.spotify.com/track/0LIoaQFgZxugyILo7eAcdn) | [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY), [BABY $MOKE](https://open.spotify.com/artist/3hBfMuC62vRVHe0Mn7TifR) | [Nâng Level](https://open.spotify.com/album/4UcMjOUJXu3V8eOKuxGTcE) | 2:28 | 2023-08-01 | 2023-12-23 |
 | [Ném Ly](https://open.spotify.com/track/7Id6K4erY1ZMMr3Tken6ei) | [Remind](https://open.spotify.com/artist/5pGCE6kgFO9yJCiHu9X8NP), [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i) | [Ném Ly](https://open.spotify.com/album/0vVqess3wy7WfxKMedrlkA) | 3:10 | 2024-08-29 | 2024-11-01 |
 | [NÓI](https://open.spotify.com/track/0HTfR57jbmRXHW4oPOf0os) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh), [Linguini](https://open.spotify.com/artist/7rpLLaDI0B2Ni0hGJynccr) | [NÓI](https://open.spotify.com/album/46WIaAk4Igm1v6Pkg5Aseg) | 4:01 | 2025-08-21 | 2025-12-05 |
@@ -2190,7 +2191,7 @@
 | [Đầu To](https://open.spotify.com/track/31HwayLskRLAbNRISnylKt) | [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq), [A.C Xuân Tài](https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE) | [Đầu To](https://open.spotify.com/album/6ECnLHuvUXhu331tIyD1eS) | 3:03 | 2022-06-02 | 2022-06-22 |
 | [ĐẬM SÂU](https://open.spotify.com/track/0frxC5D0uIjToqh6OlVmro) | [Lor](https://open.spotify.com/artist/2F7Jz1oc6c64rzPk6tnwV9), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [ĐẬM SÂU](https://open.spotify.com/album/75JUMhyjihZANZzbe5ZvvV) | 3:21 | 2022-10-10 | 2022-10-21 |
 | [Đập Vỡ Tan Hết](https://open.spotify.com/track/6wXJwN6Kl3EUoN6VfOn6LT) | [Teddy K](https://open.spotify.com/artist/7bCKw3CJqfEUmdpEuNFjLt) | [Đập Vỡ Tan Hết](https://open.spotify.com/album/3EEp4WaJx32XrSilOoCkCs) | 4:00 | 2023-12-28 | 2024-01-19 |
-| [Đậu thần](https://open.spotify.com/track/6QokXuBpqoMXAKAtA9YXin) | [Dreamwork](https://open.spotify.com/artist/65aZV0VGC3Fk2AC4VO7tCw) | [Bán thời gian](https://open.spotify.com/album/2QzRhVsJ2KkVbB7XxG45Ai) | 2:59 | 2025-04-03 |  |
+| [Đậu thần](https://open.spotify.com/track/6QokXuBpqoMXAKAtA9YXin) | [Dreamwork](https://open.spotify.com/artist/65aZV0VGC3Fk2AC4VO7tCw) | [Bán thời gian](https://open.spotify.com/album/2QzRhVsJ2KkVbB7XxG45Ai) | 2:59 | 2025-04-03 | 2026-01-16 |
 | [Đắm Say](https://open.spotify.com/track/3N5czkNQEpX8zD6MCSsnZ7) | [Poll](https://open.spotify.com/artist/3xQWxnx3qhT127zrRaRXMN) | [Đắm Say](https://open.spotify.com/album/3EiLsFu60L1vXBw1X8aYdl) | 3:43 | 2022-01-06 | 2022-03-11 |
 | [Đếm Đi Đếm Lại](https://open.spotify.com/track/7aBI1HeZoKrY2vzRMapDQN) | [Finn Nguyên Hy](https://open.spotify.com/artist/43mZyM5TrKND52DOjdiGFU) | [Đếm Đi Đếm Lại](https://open.spotify.com/album/1oRiNI6nicWBEBzlsSGD2l) | 4:09 | 2025-06-12 | 2025-12-05 |
 | [Đến Bên Anh Được Không](https://open.spotify.com/track/7zRHS0s4rfu9xsSnSl1XWw) | [Oliu](https://open.spotify.com/artist/5bQKHU2peXIxfcBa1LVdS1), [B4OK](https://open.spotify.com/artist/5TexKi2w4DnGsRxBgytISX) | [Đến Bên Anh Được Không](https://open.spotify.com/album/49U71HS8LJdlDsWFNwPPBy) | 3:06 | 2022-10-20 | 2023-02-01 |

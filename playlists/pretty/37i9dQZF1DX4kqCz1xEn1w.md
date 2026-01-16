@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,378 likes - 100 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,376 likes - 100 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 87 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 88 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 89 | [Crown Him With Many Crowns](https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [Crown Him With Many Crowns](https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU) | 4:14 |
-| 90 | [Christ Is Risen](https://open.spotify.com/track/19nAPTRvJIAkru00EY9Eyy) | [Ghost Ship](https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931) | [Christ Is Risen](https://open.spotify.com/album/2Kl8y1D0wLHJ7Hjt2M2pvo) | 4:16 |
-| 91 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 |
+| 90 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 |
+| 91 | [Christ Is Risen](https://open.spotify.com/track/19nAPTRvJIAkru00EY9Eyy) | [Ghost Ship](https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931) | [Christ Is Risen](https://open.spotify.com/album/2Kl8y1D0wLHJ7Hjt2M2pvo) | 4:16 |
 | 92 | [Rolled Away](https://open.spotify.com/track/3xw2yhV13p82PA6P1bw1JA) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Hollow](https://open.spotify.com/album/2Mo9j3A6jzSQHxUhZ5bXad) | 4:51 |
 | 93 | [Kingdom Come \(Live\)](https://open.spotify.com/track/0pyV6VNIlFlJ4EEZhwUG2X) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2) | [Kingdom Come \(Live\)](https://open.spotify.com/album/4i91anP2DihutCCgI2lyhv) | 3:36 |
 | 94 | [Sunday Morning \- Live](https://open.spotify.com/track/0CP1HpKqS9LpXl7ngd3A3u) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Sunday Morning \(Live\)](https://open.spotify.com/album/5eR7lMlo5QOIyfFuHvdbol) | 5:23 |

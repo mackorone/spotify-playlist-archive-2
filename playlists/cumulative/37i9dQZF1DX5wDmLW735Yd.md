@@ -2,9 +2,9 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: Koven
+> The world's biggest Drum 'n' Bass playlist! Cover: Hoax
 
-1,113 songs - 2 day 17 hr 27 min
+1,114 songs - 2 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Calgary](https://open.spotify.com/track/5gmYVdDn3Y4TOw8UqfkXFl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [Calgary](https://open.spotify.com/album/72kkaqtl4k0w0nxfaRO0OU) | 3:47 | 2025-08-28 | 2025-12-12 |
 | [California \(feat\. CLOVES\)](https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [California \(feat\. CLOVES\)](https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw) | 3:18 | 2025-01-31 | 2025-07-04 |
 | [California Dreamin'](https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [California Dreamin'](https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C) | 2:50 | 2025-04-10 | 2025-08-29 |
+| [Call Me Back](https://open.spotify.com/track/4iIfCKo2mwAqyM0cS2DL4H) | [Pete & Bas](https://open.spotify.com/artist/4if49KlQEdVNk97CQYSFvt), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq), [Krucial](https://open.spotify.com/artist/4YhnOqE5pNzEap0pKJjC3v) | [Call Me Back](https://open.spotify.com/album/5h44UPWNxHni34oaJbxsW5) | 2:42 | 2026-01-16 |  |
 | [Call The Hurse](https://open.spotify.com/track/0G3ONeSlmFgHtw1ft1kg1k) | [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [Mad Sam](https://open.spotify.com/artist/7k3N8YrwPhTTtY78ES8i1L) | [Call The Hurse](https://open.spotify.com/album/3KeEMKBTOVMrua11nE9kj6) | 2:49 | 2025-01-25 | 2025-06-27 |
 | [Calling For A Sign](https://open.spotify.com/track/2P0HeCVtqPswUozzV6pBrP) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Calling For A Sign](https://open.spotify.com/album/2b9yXzD0HviQGHpqr5cuz6) | 3:51 | 2023-04-27 | 2023-09-08 |
 | [Can't Decide](https://open.spotify.com/track/12EIsy8ta9mGwPxcY5zpv8) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ) | [MHITR: The Album](https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO) | 3:53 | 2025-10-09 |  |
@@ -198,7 +199,7 @@
 | [Climbing The Walls](https://open.spotify.com/track/7wId87yNWH9OLB9sBBlnkN) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Paul Dowling](https://open.spotify.com/artist/4KIlM7sZWsr4mvfHsqmyqF) | [Climbing The Walls](https://open.spotify.com/album/3UAtZI4X1iM1nCnkZOgutS) | 3:31 | 2022-07-07 | 2022-07-25 |
 | [Close Your Eyes](https://open.spotify.com/track/3WpZaVBGjVgR7lxekzkXTY) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj) | [Close Your Eyes](https://open.spotify.com/album/07kLcqgd4EzFgsXkgFo2lR) | 4:44 | 2022-04-08 | 2022-10-07 |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-05 | 2024-01-19 |
-| [Closer](https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Closer](https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N) | 4:26 | 2025-09-11 |  |
+| [Closer](https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Closer](https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N) | 4:26 | 2025-09-11 | 2026-01-16 |
 | [Closer](https://open.spotify.com/track/3YrsjzxSlmE0x7PS5k4hqG) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Closer](https://open.spotify.com/album/0aOPrsRJgYeTYse9crHB1J) | 4:40 | 2025-09-25 |  |
 | [Closer to Home](https://open.spotify.com/track/0YYvcT0CAZID1BQxifx5es) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Kojo](https://open.spotify.com/artist/4RBh0HmLwnZLdhHS946YWU) | [Closer to Home](https://open.spotify.com/album/1TGbsCAy0280rRVzx4UNO3) | 4:06 | 2022-05-13 | 2022-07-12 |
 | [Cobra](https://open.spotify.com/track/4CHfeRbAh89wGnm7R47HMs) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Cobra / Riddim](https://open.spotify.com/album/1LrKr549uqGd77TPGJKKFr) | 3:50 | 2023-12-15 | 2024-01-26 |

@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-72 songs - 3 hr 46 min
+73 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [My kind Of Woman](https://open.spotify.com/track/5zG9GwLqHaA51EzVkbHxio) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 3:18 | 2024-02-16 |  |
 | [Nakupenda \- Acoustic](https://open.spotify.com/track/02Vc86Z6TX22oJPvxjY9hq) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Nakupenda \(Acoustic\)](https://open.spotify.com/album/3lFdnM707BShGHW5DidZpo) | 3:19 | 2024-11-07 |  |
 | [nobody knows](https://open.spotify.com/track/1Bnm5dUpWfYNqeeqFlhEl1) | [malosh](https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu) | [nobody knows](https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe) | 3:14 | 2024-02-16 |  |
+| [ON YOU \- ACOUSTIC](https://open.spotify.com/track/3qmyX3HXpYrINh36VqgqM6) | [Timi Dre](https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q) | [ON YOU](https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz) | 2:52 | 2026-01-15 |  |
 | [Peru \- Acoustic](https://open.spotify.com/track/6RAFf0mJ498F0GzrFZ1ZsS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru \(Acoustic\)](https://open.spotify.com/album/636MfmRIE3pXhXzk8rVsFC) | 2:52 | 2024-02-16 |  |
 | [Pounds & Dollars \- Acoustic](https://open.spotify.com/track/4ef8LKtDwxS6HlCQenuUoR) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Pounds & Dollars \(Live\)](https://open.spotify.com/album/4y7GWjEodnSJhhsEvGeN9N) | 2:41 | 2024-02-16 |  |
 | [Ready \- Acoustic](https://open.spotify.com/track/1mZtvB2gxTbA4oeXbYkenh) | [Toye Aru](https://open.spotify.com/artist/7HgyJrftDM9DDIwK4ztJoM), [Derrick UGC](https://open.spotify.com/artist/0LUhb3eRD3MsTyqiJtibsS) | [Ready \(Acoustic\)](https://open.spotify.com/album/43liR0KxKxxMaJOyxoR7FE) | 2:51 | 2024-02-16 |  |

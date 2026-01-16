@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Charlotte de Witte",
+  "description": "Techno is a state of mind. Cover: Linska, Riko Dan ",
   "name": "Techno State",
   "tracks": [
     {
@@ -3337,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Evolution EP",
+        "url": "https://open.spotify.com/album/51c4lsjzCLj7e8qDmyFSXc"
+      },
+      "artists": [
+        {
+          "name": "Decka",
+          "url": "https://open.spotify.com/artist/5Vx3hqXBsuHQsNcbMnQTps"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474830,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/2xX6ArPZeUcQ5HhdEkV6Tl"
+    },
+    {
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/2OtmBruepl9cL0kIon06Co"
       },
@@ -5758,7 +5776,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 228372,
       "name": "Let's Go Dancing",
       "url": "https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU"
@@ -5890,6 +5908,32 @@
       "duration_ms": 230909,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/5gjW9eVblEKu8BMn5cEajE"
+    },
+    {
+      "album": {
+        "name": "LIKE THIS",
+        "url": "https://open.spotify.com/album/3s0yzNQbcW0MdVeFnq8h6z"
+      },
+      "artists": [
+        {
+          "name": "LUSU",
+          "url": "https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s"
+        },
+        {
+          "name": "Wiwek",
+          "url": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
+        },
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185222,
+      "name": "LIKE THIS",
+      "url": "https://open.spotify.com/track/2o1jGl0jiTNUPfyqZhaJT4"
     },
     {
       "album": {
@@ -6649,6 +6693,32 @@
     },
     {
       "album": {
+        "name": "Morals",
+        "url": "https://open.spotify.com/album/2HlmQVBNrnKlTY7uBB5dJk"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "ROWN",
+          "url": "https://open.spotify.com/artist/4WZfWEaVAJg0Sil7Ju7iea"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161697,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/2jw3yv4EOzBTzbMs2cHphj"
+    },
+    {
+      "album": {
         "name": "Morning Glow (Edit)",
         "url": "https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF"
       },
@@ -6748,7 +6818,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 223835,
       "name": "Movin' Thru Your System",
       "url": "https://open.spotify.com/track/0Ae3WusC77iw3zN6FUsUQZ"
@@ -8145,6 +8215,28 @@
     },
     {
       "album": {
+        "name": "Phantaxxxy",
+        "url": "https://open.spotify.com/album/59ic7Z0BTDocjAo7nd5q2Y"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        },
+        {
+          "name": "JindaLee",
+          "url": "https://open.spotify.com/artist/3w0mSbEenm5no9kuuDbCeq"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "Phantaxxxy",
+      "url": "https://open.spotify.com/track/5Yh7gED0sQPPwGPDFDamx5"
+    },
+    {
+      "album": {
         "name": "Genesys II",
         "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
       },
@@ -9002,7 +9094,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 279428,
       "name": "Roll The Windows Down",
       "url": "https://open.spotify.com/track/1OQ5MRSyHjkufpiRXOSIh8"
@@ -11902,6 +11994,28 @@
       "duration_ms": 135437,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/20NQhs8KmLKBXmPJXB7jn9"
+    },
+    {
+      "album": {
+        "name": "World & Back (feat. Riko Dan)",
+        "url": "https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n"
+      },
+      "artists": [
+        {
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179956,
+      "name": "World & Back (feat. Riko Dan)",
+      "url": "https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u"
     },
     {
       "album": {

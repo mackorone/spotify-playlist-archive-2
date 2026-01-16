@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 247058,
       "name": "Acid Is My DNA",
       "url": "https://open.spotify.com/track/3qXJhtvUDXsCylmvyQmjyY"
@@ -1677,6 +1677,28 @@
     },
     {
       "album": {
+        "name": "Ayi Giri / Dopamine Machine",
+        "url": "https://open.spotify.com/album/2vhwDcGYmlSy5S3lWEtGF7"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186475,
+      "name": "Ayi Giri",
+      "url": "https://open.spotify.com/track/5xqjH87yvNSUWHN8ezvlpb"
+    },
+    {
+      "album": {
         "name": "B.M.S.",
         "url": "https://open.spotify.com/album/0J0nzv15GeF4a2NMlPNrvy"
       },
@@ -2264,7 +2286,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 384000,
       "name": "Body & Control",
       "url": "https://open.spotify.com/track/5jJU8ryRjijG6HGb9A7J6U"
@@ -2680,7 +2702,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 227737,
       "name": "Buena Vida",
       "url": "https://open.spotify.com/track/0msuIS6nTXf8SmbOOqNLpv"
@@ -5338,7 +5360,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 270422,
       "name": "Drivetonik",
       "url": "https://open.spotify.com/track/4K0MyDzJ6kEYNv6nSejxUT"
@@ -6623,6 +6645,24 @@
     },
     {
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/1F9SVBqjWYPLPnJZxlhEee"
+      },
+      "artists": [
+        {
+          "name": "FOLUAL",
+          "url": "https://open.spotify.com/artist/50xEou9cTjanfYp46mLhBw"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/1Crliybed1n8TCUwZT6KPT"
+    },
+    {
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/2hYXwW0l3RjqMZSwtm0qcy"
       },
@@ -7722,7 +7762,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 270607,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/5o8U7JLG1JRqE4GRLIijEM"
@@ -8636,6 +8676,28 @@
       "duration_ms": 275077,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2uQWi34NKPHpka4ldYrki4"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/43R4qOCodhIde198fTDDbT"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "The Post Brothers",
+          "url": "https://open.spotify.com/artist/7ltZPdxAvYDkb3dqstX4sn"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234629,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0OqFToPNFjF9MVUfHBnDBK"
     },
     {
       "album": {
@@ -10303,6 +10365,24 @@
     },
     {
       "album": {
+        "name": "Kontrol",
+        "url": "https://open.spotify.com/album/2Jw0QJEwD32UHowfgXkqtm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Say",
+          "url": "https://open.spotify.com/artist/6SaiHV8IusL0jz3eGbGMDU"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328888,
+      "name": "Kontrol - Original Mix",
+      "url": "https://open.spotify.com/track/1kJkTcNCKJKUoqaEgi7NKt"
+    },
+    {
+      "album": {
         "name": "Kurayami",
         "url": "https://open.spotify.com/album/5g2R4APV6oci0VhvL1xnES"
       },
@@ -11744,7 +11824,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 172947,
       "name": "Miami Vice",
       "url": "https://open.spotify.com/track/1fKJBxgA3253Afewjb07iH"
@@ -12950,7 +13030,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 184962,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/2YttLz68QVz1Jaoo4wRdyb"
@@ -13230,6 +13310,28 @@
       "duration_ms": 376615,
       "name": "Nova",
       "url": "https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX"
+    },
+    {
+      "album": {
+        "name": "Nox",
+        "url": "https://open.spotify.com/album/5pDDmI55p4KaSxt1zkFWNp"
+      },
+      "artists": [
+        {
+          "name": "Paula van Klar",
+          "url": "https://open.spotify.com/artist/6v3Yy6vkCyGfwk0teqsymt"
+        },
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "Nox",
+      "url": "https://open.spotify.com/track/5PZ7J6gQ45Qwe5yI6RlP7l"
     },
     {
       "album": {
@@ -14546,7 +14648,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 210011,
       "name": "Post Punk",
       "url": "https://open.spotify.com/track/0ENwCtcM4AMJMacQRSUjGl"
@@ -15520,6 +15622,24 @@
       "duration_ms": 406584,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d"
+    },
+    {
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/2JNDJ5GejtKz9yfv48vNUL"
+      },
+      "artists": [
+        {
+          "name": "Fruhwerk",
+          "url": "https://open.spotify.com/artist/7B0VnUS4cZggX5pdt0f0ml"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354193,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/6tHPH22Owa4BYERPdzxwwa"
     },
     {
       "album": {
@@ -17310,6 +17430,24 @@
       "duration_ms": 145822,
       "name": "Skank In The Rave",
       "url": "https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS"
+    },
+    {
+      "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/0euO3SGuwewq7Tv9mcezaG"
+      },
+      "artists": [
+        {
+          "name": "Bianka Banks",
+          "url": "https://open.spotify.com/artist/2fL8FcTGTOjL5CvP153VGN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444705,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/6B0VZA4UXP176BizqYael5"
     },
     {
       "album": {
@@ -21562,6 +21700,24 @@
       "duration_ms": 243345,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/1aR3XDuJI9P49QE7Krh4bV"
+    },
+    {
+      "album": {
+        "name": "You Are Mine",
+        "url": "https://open.spotify.com/album/44VP2ZmsAOrJJa7U7DtkxS"
+      },
+      "artists": [
+        {
+          "name": "Patrik Widmer",
+          "url": "https://open.spotify.com/artist/1kUgQxKImobemPoIPz6V47"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186357,
+      "name": "You Are Mine",
+      "url": "https://open.spotify.com/track/6bjz4xITdHtZNrG6km5393"
     },
     {
       "album": {

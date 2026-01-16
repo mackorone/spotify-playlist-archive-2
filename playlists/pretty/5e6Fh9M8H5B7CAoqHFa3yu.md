@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,799 songs - 4 day 12 hr 55 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,800 songs - 4 day 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1807,5 +1807,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1797 | [It's You](https://open.spotify.com/track/7s6w9dYwiIGcrQiAHiS2Rp) | [Sunshine Riot Commune](https://open.spotify.com/artist/1sAEqe2vPCiXX10D3wI6HE) | [It's You](https://open.spotify.com/album/1onao0AMVSR89hcVr6AOoD) | 2:42 |
 | 1798 | [Sticker Happy](https://open.spotify.com/track/3qxB1Hc3Fv4pGB9E2IEsnY) | [Sunshine Riot Commune](https://open.spotify.com/artist/1sAEqe2vPCiXX10D3wI6HE) | [Sticker Happy](https://open.spotify.com/album/0BOyjQtnYiJKLEYokkLwxk) | 3:17 |
 | 1799 | [Я попрошу](https://open.spotify.com/track/1hrGAjCwqcWUk3RnkhxdiY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Я попрошу](https://open.spotify.com/album/0TiR7KrAF5OQxM4IUjnbcO) | 4:09 |
+| 1800 | [Coffee in Cortina](https://open.spotify.com/track/1TNIf3WyutMSNRWZGq8QLZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Cortina](https://open.spotify.com/album/3pr0rJE67WeyE80oCfheLH) | 3:28 |
 
-Snapshot ID: `AAAH27KlxSZt9/uqjF7wyBUjfqlMGNgd`
+Snapshot ID: `AAAH3DiphCnTIVVDL+233mrKYnKUF42x`

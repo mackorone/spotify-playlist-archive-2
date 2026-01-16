@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 
 > Put your speakers to the test with this eclectic collection of legendary tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,434 likes - 200 songs - 15 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,609 likes - 200 songs - 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,19 +194,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 | 184 | [Islands](https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 2:40 |
 | 185 | [Listen to the Grass Grow](https://open.spotify.com/track/4wVo6hMUpsrjcxrmeYWvdQ) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc), [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818) | [SOAR](https://open.spotify.com/album/4EYDGs1XVGoNaL9vSA246G) | 4:26 |
 | 186 | [Mountains](https://open.spotify.com/track/6WVRhBxRMW9fn6sRkt2gWn) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a78GiEowpaCa7ZJs44xUU) | 3:39 |
-| 187 | [So Far Away \- Full Version](https://open.spotify.com/track/0h8pmQEibj5GUdMoaqrJnF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms \(Remastered\)](https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh) | 5:08 |
-| 188 | [Strict Machine](https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Black Cherry](https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V) | 3:51 |
-| 189 | [Situation \- 2008 Remastered Version](https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [In Your Room](https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v) | 2:24 |
-| 190 | [Texas Sun](https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 4:12 |
-| 191 | [Bad Kingdom](https://open.spotify.com/track/1mCmHiSivRYNDghiq1lfnz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/4mMJMXxteSxAVtAswHN0ky) | 4:22 |
+| 187 | [Bad Kingdom](https://open.spotify.com/track/1mCmHiSivRYNDghiq1lfnz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/4mMJMXxteSxAVtAswHN0ky) | 4:22 |
+| 188 | [So Far Away \- Full Version](https://open.spotify.com/track/0h8pmQEibj5GUdMoaqrJnF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms \(Remastered\)](https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh) | 5:08 |
+| 189 | [Strict Machine](https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Black Cherry](https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V) | 3:51 |
+| 190 | [Situation \- 2008 Remastered Version](https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [In Your Room](https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v) | 2:24 |
+| 191 | [Texas Sun](https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 4:12 |
 | 192 | [Hyper\-ballad](https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:21 |
 | 193 | [Spirits In The Material World \- Remastered 2003](https://open.spotify.com/track/0h1wFiJEfkPsuJyPHL5j2H) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered\)](https://open.spotify.com/album/5ghoXlpcDLKp3QNC2mzZ8A) | 2:59 |
 | 194 | [Into The Void](https://open.spotify.com/track/3w1x8BZ8zkDqt5pt3IWuEx) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/2aGSUmPQtxxPqr07llIBIU) | 4:49 |
 | 195 | [Barbados](https://open.spotify.com/track/20QLmcD7Gc5AXuvN3jLr9u) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J), [Lars Erstrand](https://open.spotify.com/artist/5aUwhctK3ivNtJp3DY8bdL), [Egil Johansen](https://open.spotify.com/artist/5o4LY9qwazUWeGPKh52JLw) | [Jazz at the Pawnshop](https://open.spotify.com/album/65NqpWjm4nMMeb8feGIheP) | 8:17 |
 | 196 | [Solsbury Hill \- 2002 Remaster](https://open.spotify.com/track/6DnKPMbm4KnBP16v7xde4J) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [R\-Kive](https://open.spotify.com/album/7Jigl7PJCgN4mAODbJYkFT) | 4:23 |
-| 197 | [Last Goodbye](https://open.spotify.com/track/4xqw8JSmfNdHLCuT23pHiv) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 4:35 |
-| 198 | [Time \- 2011 Remastered Version](https://open.spotify.com/track/23W5DHu31ZLW9q0p2wQxfN) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side Of The Moon \(2011 Remastered Version\)](https://open.spotify.com/album/6uGYCZLXw3wPFOSYcqLz9F) | 6:53 |
-| 199 | [The Rip](https://open.spotify.com/track/4kOy7M6eT5kYJCZxh0c6Lh) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS) | 4:30 |
+| 197 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
+| 198 | [Last Goodbye](https://open.spotify.com/track/4xqw8JSmfNdHLCuT23pHiv) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 4:35 |
+| 199 | [Time \- 2011 Remastered Version](https://open.spotify.com/track/23W5DHu31ZLW9q0p2wQxfN) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side Of The Moon \(2011 Remastered Version\)](https://open.spotify.com/album/6uGYCZLXw3wPFOSYcqLz9F) | 6:53 |
 | 200 | [Beata viscera \(monophonic conductus\)](https://open.spotify.com/track/1gB7qtssuV9OCnlUnqhoYh) | [Pérotin](https://open.spotify.com/artist/2xeXoF8arRZILlw5MKR2f2), [Tonus Peregrinus](https://open.spotify.com/artist/0K8Dhx1lhmDJaD0kSFyCa8), [Antony Pitts](https://open.spotify.com/artist/5S0hA6Bm22OipedKMmBuyJ) | [Léonin & Pérotin: Sacred Music from Notre\-Dame Cathedral](https://open.spotify.com/album/0Bb5GQ7nB7ig8EzjbXr4Kv) | 6:14 |
 
 Snapshot ID: `AAAAAE+l4ps8HF6qkbHDHP+5sAjHBsUc`

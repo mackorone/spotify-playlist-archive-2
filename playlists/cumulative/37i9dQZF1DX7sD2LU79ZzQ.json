@@ -17667,6 +17667,24 @@
     },
     {
       "album": {
+        "name": "Rindu",
+        "url": "https://open.spotify.com/album/3XFDpilOXSWR2as0Evjpqf"
+      },
+      "artists": [
+        {
+          "name": "ANGEL PIETERS",
+          "url": "https://open.spotify.com/artist/7asPKvMVP4x1mey64TS3PA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294800,
+      "name": "Rindu",
+      "url": "https://open.spotify.com/track/6AoyuecwUT33mJXQBMOhgX"
+    },
+    {
+      "album": {
         "name": "Rindu Dalam Sunyi (Thaghut Original Motion Pictures Soundtrack)",
         "url": "https://open.spotify.com/album/10zPrC718iV3GiIRVy8cUH"
       },

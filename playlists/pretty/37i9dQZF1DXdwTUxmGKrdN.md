@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,165 likes - 150 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,179 likes - 150 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 124 | [Suede](https://open.spotify.com/track/5jmb1MEFD9GjRfy3E2MhEl) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/2oD4MAvCNjWlhMia9x9QmS) | 4:16 |
 | 125 | [Tried and True](https://open.spotify.com/track/2vqG2hLwzZQhTQ3sNs8QY5) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb), [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [The Time Is Now](https://open.spotify.com/album/7DRR47Neht8KT2DvnqDlgE) | 3:46 |
 | 126 | [La Dolce Vita](https://open.spotify.com/track/0bSQopcyBmCEcp2nml5lMM) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/5e7v05kF0hFrTtLnZ57WxJ) | 5:25 |
-| 127 | [Floating World](https://open.spotify.com/track/0ZUeaIWcAtNikrncaYwjHl) | [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Heart To Heart](https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq) | 3:21 |
-| 128 | [Lucy](https://open.spotify.com/track/51WHHNT2v0XYUAWoBGeMdx) | [Dave Sereny](https://open.spotify.com/artist/4FkXwKa3Rv8DozYGUxGymX), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Take This Ride](https://open.spotify.com/album/5YVME781lbKgHkGiYdMOQc) | 3:20 |
+| 127 | [Lucy](https://open.spotify.com/track/51WHHNT2v0XYUAWoBGeMdx) | [Dave Sereny](https://open.spotify.com/artist/4FkXwKa3Rv8DozYGUxGymX), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Take This Ride](https://open.spotify.com/album/5YVME781lbKgHkGiYdMOQc) | 3:20 |
+| 128 | [Floating World](https://open.spotify.com/track/0ZUeaIWcAtNikrncaYwjHl) | [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Heart To Heart](https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq) | 3:21 |
 | 129 | [Driftin'](https://open.spotify.com/track/1HvNKIGfKzR5I26EuLXDwv) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/142E2CAmo6Cnr5LXmIozky) | 3:48 |
 | 130 | [Fired Up](https://open.spotify.com/track/3vkk18EK3VoKePPFGUQhcH) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f) | 4:22 |
 | 131 | [Valentin Dream \(feat\. Bob Baldwin\)](https://open.spotify.com/track/1wugADbCBtcDPbd0D7NtX0) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Quantum Drive](https://open.spotify.com/album/43yX6oV0cDl7E6KEJ3cyb1) | 4:20 |

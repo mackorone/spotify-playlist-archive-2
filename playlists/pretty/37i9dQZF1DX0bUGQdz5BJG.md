@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Ashley Kutcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,642 likes - 199 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,677 likes - 199 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

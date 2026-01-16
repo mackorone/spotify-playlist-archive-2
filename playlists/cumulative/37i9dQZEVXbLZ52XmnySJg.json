@@ -5944,7 +5944,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track",
       "url": "https://open.spotify.com/track/5xKr4HfdnYLMDmAJZkOuBc"
@@ -5990,7 +5990,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
@@ -7948,7 +7948,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 362400,
       "name": "Gehra Hua",
       "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
@@ -7978,7 +7978,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 362400,
       "name": "Gehra Hua (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
@@ -9328,10 +9328,32 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 181165,
       "name": "Hopeless",
       "url": "https://open.spotify.com/track/29f6IOg01XRLHKDhFjua1I"
+    },
+    {
+      "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/6VH8CmKAiDAZASiZbdCTPe"
+      },
+      "artists": [
+        {
+          "name": "Amanraj Gill",
+          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
+        },
+        {
+          "name": "Prem Lata",
+          "url": "https://open.spotify.com/artist/4qGzVU01OgWX907W29vSNw"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181165,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/6ur5tinZFYtormtPmpXLzz"
     },
     {
       "album": {
@@ -10538,7 +10560,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan",
       "url": "https://open.spotify.com/track/7DonHcAdu5FHzLNESEEOuj"
@@ -10584,6 +10606,48 @@
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan",
       "url": "https://open.spotify.com/track/7q3zgWg92unKage2l7OPio"
+    },
+    {
+      "album": {
+        "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/5GE43bjyks7NKKgsflPpYh"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Shahzad Ali",
+          "url": "https://open.spotify.com/artist/1xF1WULzvp8zdsp60CJh2u"
+        },
+        {
+          "name": "Subhadeep Das Chowdhury",
+          "url": "https://open.spotify.com/artist/3biZl77VIJSHTnwBnEZkkd"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Roshan",
+          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
+        },
+        {
+          "name": "Sahir Ludhianvi",
+          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250860,
+      "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/0dkQAG6lAsZvRCeG8QwVwR"
     },
     {
       "album": {
@@ -14882,7 +14946,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 253801,
       "name": "Lutt Le Gaya",
       "url": "https://open.spotify.com/track/2dQMisG0lyz6Z8J4zYdAsG"
@@ -14904,7 +14968,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 253801,
       "name": "Lutt Le Gaya (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/6NAtrsDcRI5YkC6vGvPF6U"
@@ -17722,7 +17786,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 155142,
       "name": "Naal Nachna",
       "url": "https://open.spotify.com/track/2nnDPEbNxnBKq5RG6sObTg"
@@ -17752,7 +17816,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 155142,
       "name": "Naal Nachna (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/0KHOIkAcSHTH9S0H0wZV7Q"
@@ -22820,7 +22884,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 224083,
       "name": "Shararat",
       "url": "https://open.spotify.com/track/0R7grQWU1dRxiOQGIqZm0Z"
@@ -22846,7 +22910,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 224083,
       "name": "Shararat (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/0uvnGQnVe313EXePbRnZEH"

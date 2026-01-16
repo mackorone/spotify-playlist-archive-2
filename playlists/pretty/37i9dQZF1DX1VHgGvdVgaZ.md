@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,563 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,565 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 37 | [Swara Raga Sankarabharanam Adi Thyagaraja](https://open.spotify.com/track/1dKNRFKU3CV4Xx6Ybiwt3H) | [Sheik Chinna Moulana](https://open.spotify.com/artist/2YrHbZUsTCzHMF09I5m4DZ) | [South Indian Classical Music](https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1) | 13:37 |
 | 38 | [Endharo Mahanubhavulu \- Sri \- Adi](https://open.spotify.com/track/0qguzzX3NPA54HNDXpIhtE) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 11:52 |
 | 39 | [Raga Alapana \- Version 2](https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ) | [T\. R\. Mahalingam](https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD) | [Inde du sud : Anthologie de la musique classique \(South India\)](https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E) | 3:06 |
-| 40 | [Ghana Ragamalika Tanam](https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC) | [Doraiswamy Iyengar](https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj) | [The Best of Carnatic Instrumental](https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK) | 5:09 |
-| 41 | [Maha Ganapathim Nata Chatusraekam \- original](https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr) | [Dikshithar](https://open.spotify.com/artist/0eDZju05yhZaoIYegmAO1j), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Blissful Veena \(original\)](https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG) | 5:44 |
+| 40 | [Maha Ganapathim Nata Chatusraekam \- original](https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr) | [Dikshithar](https://open.spotify.com/artist/0eDZju05yhZaoIYegmAO1j), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Blissful Veena \(original\)](https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG) | 5:44 |
+| 41 | [Ghana Ragamalika Tanam](https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC) | [Doraiswamy Iyengar](https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj) | [The Best of Carnatic Instrumental](https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK) | 5:09 |
 | 42 | [Srikanthimati \- Raga Hemavati \- Adi](https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC), [S\. D\. Shreedhar](https://open.spotify.com/artist/4dxOpsI4hcEO0T6LSAAY2v) | [Classical Icons \- U\. Srinivas](https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi) | 26:49 |
 | 43 | [Sriganesa Thilang Adi](https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Mahathi Melodies](https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B) | 6:30 |
 | 44 | [Raagam Keeravani \- Aalapanai](https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs) | [Akkarai Subhalakshmi](https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn) | [Keeravani \- Ragam, Thaanam, Pallavai](https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN) | 19:29 |

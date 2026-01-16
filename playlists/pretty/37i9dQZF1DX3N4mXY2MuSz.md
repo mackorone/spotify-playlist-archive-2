@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,995 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,986 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 79 | [Boxing Day](https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb) | 3:59 |
 | 80 | [Winter Wonderland](https://open.spotify.com/track/6dfvCCCqhqlHYu5dItdG6c) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [We Three Kings](https://open.spotify.com/album/7LjWO9TmQMn1ac6IM9XeYL) | 3:23 |
 | 81 | [The Christmas Song](https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas EP](https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy) | 3:07 |
-| 82 | [Mr\. Winter](https://open.spotify.com/track/4DhKi9aSu9cEf5HnHSAdSE) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [..\. And A Happy New Year \- EP](https://open.spotify.com/album/5gp50OwT4ocLFYjY0yGKoK) | 3:21 |
-| 83 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/4rZ0E41vSsttJd2AzaI4Y1) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work \(Deluxe Version\)](https://open.spotify.com/album/2ZF3l2HMjlP7KR2Na2ClY7) | 3:19 |
+| 82 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/4rZ0E41vSsttJd2AzaI4Y1) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work \(Deluxe Version\)](https://open.spotify.com/album/2ZF3l2HMjlP7KR2Na2ClY7) | 3:19 |
+| 83 | [Mr\. Winter](https://open.spotify.com/track/4DhKi9aSu9cEf5HnHSAdSE) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [..\. And A Happy New Year \- EP](https://open.spotify.com/album/5gp50OwT4ocLFYjY0yGKoK) | 3:21 |
 | 84 | [Hava Nagila](https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Ruin Jonny's Bar Mitzvah](https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n) | 3:41 |
 | 85 | [When Snow Falls](https://open.spotify.com/track/1KWYSmOPmxFczG4iiWA1nV) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [When Snow Falls](https://open.spotify.com/album/3MqWiO7dkWBrIbFzH93hXP) | 3:10 |
 | 86 | [New Year's Revolution](https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Stoke Extinguisher](https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7) | 2:19 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 92 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
 | 93 | [Christmas Lullaby](https://open.spotify.com/track/6csB7qcfwypYTXeItvHcEq) | [CJ Ramone](https://open.spotify.com/artist/3jVd6Z5yEh5SSdvzkzUbUp) | [Christmas Lullaby](https://open.spotify.com/album/4QCofUG55C0lck6URon2Pn) | 3:04 |
 | 94 | [Christmas by the Phone](https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 3:01 |
-| 95 | [Yule Shoot Your Eye Out \- Bonus Track](https://open.spotify.com/track/0YIyNI01NwcDANAruPq7bg) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/1uIgPRSggJqaVxJAwUpPok) | 3:41 |
-| 96 | [I Want An Alien For Christmas](https://open.spotify.com/track/5MosvqhyVHyDsgoTmfImDP) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Out\-Of\-State Plates](https://open.spotify.com/album/2WgUYiKZhGfUEXIhH04lfY) | 2:19 |
+| 95 | [I Want An Alien For Christmas](https://open.spotify.com/track/5MosvqhyVHyDsgoTmfImDP) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Out\-Of\-State Plates](https://open.spotify.com/album/2WgUYiKZhGfUEXIhH04lfY) | 2:19 |
+| 96 | [Yule Shoot Your Eye Out \- Bonus Track](https://open.spotify.com/track/0YIyNI01NwcDANAruPq7bg) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/1uIgPRSggJqaVxJAwUpPok) | 3:41 |
 | 97 | [X\-Mas in Texas](https://open.spotify.com/track/5UkZgMr850fF5mSzJXaGil) | [Driver Friendly](https://open.spotify.com/artist/4UVsgNJN4uOvnnItAllNcQ) | [Hopeless for the Holidays \- EP](https://open.spotify.com/album/2F1pjEHty0MRxnfPZy1KgD) | 3:43 |
 | 98 | [Skank For Christmas](https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:48 |
 | 99 | [This Christmas \(I'll Burn It to the Ground\)](https://open.spotify.com/track/6fCw2dWI97mTUCNWuLanFf) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Christmas](https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3) | 3:27 |

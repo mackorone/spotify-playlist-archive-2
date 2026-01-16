@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Edoboozi Ly'amaziga",
+        "url": "https://open.spotify.com/album/5TdHHwBWwNBwTDQfKgtY5U"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Edoboozi Ly'amaziga",
+      "url": "https://open.spotify.com/track/4oNY2LIB09Xfgr4mxSPKTc"
+    },
+    {
+      "album": {
         "name": "Love and Light",
         "url": "https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ"
       },
@@ -964,7 +982,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 220909,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2m310ptnkUrI39sdNQjwcs"
@@ -1212,6 +1230,28 @@
       "duration_ms": 278388,
       "name": "Ileng",
       "url": "https://open.spotify.com/track/3Y9uzR8D44o11xqB4Pw6ev"
+    },
+    {
+      "album": {
+        "name": "Immanuel",
+        "url": "https://open.spotify.com/album/7Kg1KwSyBFP2yNSMxeeVhj"
+      },
+      "artists": [
+        {
+          "name": "The SandBox Ug",
+          "url": "https://open.spotify.com/artist/5xPuytk2jpNmbWUL63FOj0"
+        },
+        {
+          "name": "LaMar",
+          "url": "https://open.spotify.com/artist/10QL09mFINje9hPl9Z8FW3"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Immanuel",
+      "url": "https://open.spotify.com/track/2G4Ll5uvWrFcQslYUyBLvO"
     },
     {
       "album": {
@@ -1980,7 +2020,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 190122,
       "name": "Nkwagala",
       "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"

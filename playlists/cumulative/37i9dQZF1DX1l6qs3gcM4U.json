@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover:  DENNYH",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover:  Lupambo",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 217999,
       "name": "A Paz do Teu Corpo",
       "url": "https://open.spotify.com/track/7Bk9s1U8auXCwkCChZ1xh4"
@@ -2919,6 +2919,28 @@
     },
     {
       "album": {
+        "name": "D.N.F",
+        "url": "https://open.spotify.com/album/4qQLRrsgoZfnGNikPqvnHe"
+      },
+      "artists": [
+        {
+          "name": "Halison Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N"
+        },
+        {
+          "name": "Dada 2",
+          "url": "https://open.spotify.com/artist/4at1l7I7RmqjlZfKTVoG0V"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Deus N\u00e3o Falha",
+      "url": "https://open.spotify.com/track/4GqUgLpymjUTjlUPIh8pAL"
+    },
+    {
+      "album": {
         "name": "Deusa do Amor",
         "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
@@ -4081,6 +4103,28 @@
     },
     {
       "album": {
+        "name": "Fica L\u00e1",
+        "url": "https://open.spotify.com/album/7cMQBVEaBYGIKJjBCV7asB"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Tony Z",
+          "url": "https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231289,
+      "name": "Fica L\u00e1",
+      "url": "https://open.spotify.com/track/3TvcKZTFnoYuIVdbvk0zpP"
+    },
+    {
+      "album": {
         "name": "Fica Mais Um Pouco",
         "url": "https://open.spotify.com/album/1sBE475AcbCUYyP7QHud24"
       },
@@ -4260,6 +4304,24 @@
       "duration_ms": 179999,
       "name": "Fininho",
       "url": "https://open.spotify.com/track/5AGEa2l0h9fEQSbqQdjh2q"
+    },
+    {
+      "album": {
+        "name": "Fiquei F\u00e3",
+        "url": "https://open.spotify.com/album/2cuJVUf0pFPa2JYksZ3uPP"
+      },
+      "artists": [
+        {
+          "name": "Lupambo",
+          "url": "https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175771,
+      "name": "Fiquei F\u00e3",
+      "url": "https://open.spotify.com/track/3jzZNIbWy7QSZTHgBeCWvp"
     },
     {
       "album": {
@@ -8332,7 +8394,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 185719,
       "name": "Papele",
       "url": "https://open.spotify.com/track/2nJe4lWClWuBwWZ73rnW8O"
@@ -12514,7 +12576,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 192099,
       "name": "VOC\u00ca",
       "url": "https://open.spotify.com/track/5TDju74rOfBANHKVWXGtua"

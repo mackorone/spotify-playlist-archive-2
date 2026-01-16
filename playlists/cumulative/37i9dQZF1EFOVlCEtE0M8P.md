@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-331 songs - 19 hr 11 min
+332 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,8 @@
 | [time of our lives](https://open.spotify.com/track/31Vfan2nGIHQiAhJDEXLFM) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:23 | 2024-03-07 |  |
 | [Tongue Tied](https://open.spotify.com/track/0PpYaJXaLa7CWeOWuz06bZ) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [tongue tied \(at the dmv\)](https://open.spotify.com/album/2OvUzoi1blGPg0aAD1DWZY) | 3:31 | 2024-03-07 |  |
 | [Trap Nest](https://open.spotify.com/track/1sudHlSnZ22l77slLmCPZ5) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 3:59 | 2025-11-28 |  |
-| [Trigger](https://open.spotify.com/track/3zhSWZqg57WAovvV52nlHa) | [Maluca](https://open.spotify.com/artist/3WpKPMVsMAMnTkYUmymXlI) | [Trigger \(Remixes\)](https://open.spotify.com/album/6i1PqlEM32IULbftLEeuji) | 3:11 | 2024-09-25 |  |
+| [Trigger](https://open.spotify.com/track/2Lhm1FTvJ8KSVPyupwkjQx) | [Maluca](https://open.spotify.com/artist/3WpKPMVsMAMnTkYUmymXlI) | [Trigger \(Remixes\)](https://open.spotify.com/album/6CVgikH3MGzLOHgRd5WN22) | 3:11 | 2026-01-15 |  |
+| [Trigger](https://open.spotify.com/track/3zhSWZqg57WAovvV52nlHa) | [Maluca](https://open.spotify.com/artist/3WpKPMVsMAMnTkYUmymXlI) | [Trigger \(Remixes\)](https://open.spotify.com/album/6i1PqlEM32IULbftLEeuji) | 3:11 | 2024-09-25 | 2026-01-16 |
 | [Trigger](https://open.spotify.com/track/7CY0vzv0DNBawyD5tYhK4e) | [Maluca Mala](https://open.spotify.com/artist/5mCtokdEP8IHkj5Zr01hQC) | [Trigger](https://open.spotify.com/album/0QHJMfV0dFYz5rukvZI3aP) | 3:11 | 2024-03-07 | 2024-09-26 |
 | [Truth or Dare](https://open.spotify.com/track/1HbcpRA4XnqOOZZNiN41oi) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Little Daylight](https://open.spotify.com/artist/63aFY9yQyFDJtGkInMUris) | [Trouble](https://open.spotify.com/album/0tJTJOrLDyLiynoSaWW7lf) | 2:30 | 2025-09-12 |  |
 | [Truth or Dare](https://open.spotify.com/track/5cyjpbzo1hv5HecXZCmRZD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Little Daylight](https://open.spotify.com/artist/63aFY9yQyFDJtGkInMUris) | [Trouble](https://open.spotify.com/album/6XT2WI977FCKvwdfFXerkh) | 2:30 | 2024-03-07 | 2025-07-31 |

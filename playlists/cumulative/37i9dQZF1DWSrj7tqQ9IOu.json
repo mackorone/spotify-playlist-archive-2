@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Papooz",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Bolivard",
   "name": "Indie France",
   "tracks": [
     {
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 217894,
       "name": "Blurry Moon - Edit",
       "url": "https://open.spotify.com/track/5VDiA4KWTS0sdTW5ae0x4n"
@@ -5497,6 +5497,32 @@
     },
     {
       "album": {
+        "name": "Blue Jeans (Deluxe)",
+        "url": "https://open.spotify.com/album/45aRY29EwSt5YwXIvUcblX"
+      },
+      "artists": [
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+        },
+        {
+          "name": "Bomel",
+          "url": "https://open.spotify.com/artist/3Y2UFS2qa5dYTZ0CRKsPZ7"
+        },
+        {
+          "name": "Jade Mansion",
+          "url": "https://open.spotify.com/artist/4L5L8gnE5hd4dMWMLbk59O"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188275,
+      "name": "Hors du temps (Feat. Bomel & Jade Mansion)",
+      "url": "https://open.spotify.com/track/3vOTwE2WWQWmsPMSmqDNSL"
+    },
+    {
+      "album": {
         "name": "Hot Summer",
         "url": "https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh"
       },
@@ -5584,6 +5610,24 @@
       "duration_ms": 127138,
       "name": "Human Race",
       "url": "https://open.spotify.com/track/0kqLwnIhgshbOHgT4ni8sf"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Dajak",
+          "url": "https://open.spotify.com/artist/4UzhGDGnyLajt5ZoeEciGh"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325813,
+      "name": "H\u00c2TE DE VIVRE",
+      "url": "https://open.spotify.com/track/5WHBv4A7s71zPJEUBwh29v"
     },
     {
       "album": {
@@ -5714,7 +5758,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 154936,
       "name": "IKnow",
       "url": "https://open.spotify.com/track/4jBEvvUvThuhbyPuWMICHL"
@@ -6181,6 +6225,24 @@
     },
     {
       "album": {
+        "name": "Je ne l'ai jamais dit \u00e0 personne",
+        "url": "https://open.spotify.com/album/2zvY1mdV7980cw5d9HCGDF"
+      },
+      "artists": [
+        {
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259845,
+      "name": "Je ne l'ai jamais dit \u00e0 personne",
+      "url": "https://open.spotify.com/track/10YFRCEbeCjWBJCr8DpfEz"
+    },
+    {
+      "album": {
         "name": "La femme est un homme comme les autres",
         "url": "https://open.spotify.com/album/4zD2CkbrIuuX84CcsJInK4"
       },
@@ -6192,7 +6254,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 168034,
       "name": "Je ne sais pas qui est moi",
       "url": "https://open.spotify.com/track/4PpatTCdC4L8fpVAXsDxSi"
@@ -8408,7 +8470,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 176666,
       "name": "MES NUITS",
       "url": "https://open.spotify.com/track/7hshPg8fnUHLi0zdEgu4nT"
@@ -8792,7 +8854,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 131811,
       "name": "Mr. Plastic",
       "url": "https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb"
@@ -9166,6 +9228,24 @@
       "duration_ms": 151626,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/471rodBEdeDSUbo4f57boM"
+    },
+    {
+      "album": {
+        "name": "No Dawn To Wake",
+        "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
+      },
+      "artists": [
+        {
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180011,
+      "name": "No Dawn To Wake",
+      "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
     },
     {
       "album": {
@@ -12000,6 +12080,24 @@
       "duration_ms": 184857,
       "name": "Strange People",
       "url": "https://open.spotify.com/track/52pJ8X8qEmVfzn6VCBUe9n"
+    },
+    {
+      "album": {
+        "name": "Stylisme",
+        "url": "https://open.spotify.com/album/6VJb7dSMKyk7O3sc7UHBwY"
+      },
+      "artists": [
+        {
+          "name": "Bolivard",
+          "url": "https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143676,
+      "name": "Stylisme",
+      "url": "https://open.spotify.com/track/5MyiXA0ZZ1SUdji7aBTbUN"
     },
     {
       "album": {

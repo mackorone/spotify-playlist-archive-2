@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from The Kid LAROI,  A$AP Rocky, Trompies, Bruno Mars and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,595 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,619 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 |
-| 2 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 2 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 3 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 4 | [Bhemisa \(feat\. Scotts Maphuma, Bhudescar, uGeneral official, Kabza De Small & Toss\)](https://open.spotify.com/track/1aX7OiHxpVSQm2rouCAh2p) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Bhudescar](https://open.spotify.com/artist/3mJT96jNc4bTpi7OT3aiJX), [uGeneral official](https://open.spotify.com/artist/4o1Bq6SDOyH2WfkvRc1fwv), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [Bhemisa \(feat\. Scotts Maphuma, Bhudescar, uGeneral official, Kabza De Small & Toss\)](https://open.spotify.com/album/2ENVQy9e0zObBxKSflEX5T) | 5:06 |
 | 5 | [ROOTS](https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [ROOTS](https://open.spotify.com/album/7zBtA9nV22Xkz776jcA8Rh) | 4:09 |

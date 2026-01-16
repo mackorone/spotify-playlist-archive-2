@@ -1,6 +1,6 @@
 {
   "description": "Spotify music editors' choice for the best Christian & Gospel songs of 2010s. Cover: MercyMe",
-  "num_followers": 149938,
+  "num_followers": 149947,
   "original_name": "2010s Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "What A Beautiful Name",
         "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 238200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 333386,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 279786,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "There Is More (Live)",
         "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 329080,
       "name": "Who You Say I Am - Live",
       "url": "https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "The Ascension",
-        "url": "https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 279786,
-      "name": "This Is Amazing Grace",
-      "url": "https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 568786,
       "name": "Broken Vessels (Amazing Grace) - Live",
       "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust In You",
-      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "Light Up the Sky",
+        "url": "https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "Light Up the Sky",
+      "url": "https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "A Beautiful Exchange",
         "url": "https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 343893,
       "name": "Forever Reign - Live",
       "url": "https://open.spotify.com/track/3Z3mh8aMW1vGBhsSkKT8yR"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "Light Up the Sky",
-        "url": "https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "Light Up the Sky",
-      "url": "https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1587,6 +1587,22 @@
       "duration_ms": 340344,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/3psx3u5uPAG6BH3k6l8gre"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik"
+      },
+      "artists": [
+        {
+          "name": "Hawk Nelson",
+          "url": "https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Drops In the Ocean",
+      "url": "https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1671,22 +1687,6 @@
       "duration_ms": 273906,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/5CTN5yokyAcrCoShGJmlJn"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik"
-      },
-      "artists": [
-        {
-          "name": "Hawk Nelson",
-          "url": "https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Drops In the Ocean",
-      "url": "https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu"
     },
     {
       "added_at": "2025-12-12 06:15:47",

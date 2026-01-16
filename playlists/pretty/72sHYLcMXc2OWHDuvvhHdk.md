@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 554 likes - 2,199 songs - 5 day 8 hr 47 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 554 likes - 2,203 songs - 5 day 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2207,5 +2207,9 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2197 | [Stunned & Confused](https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:17 |
 | 2198 | [far away](https://open.spotify.com/track/0OcQs18sSndVug6cB8iNUP) | [Modo](https://open.spotify.com/artist/5Q0eF4FHLnNpytjOKkjAAm), [Don Domingo](https://open.spotify.com/artist/5rryHvDft16N0XffjfxYlz), [Sunny C](https://open.spotify.com/artist/49Y7H8qbeAWyneIix7wtB3) | [sean vS MODO](https://open.spotify.com/album/7JSAsoIOvCnrbIlDmsoDL9) | 2:45 |
 | 2199 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 |
+| 2200 | [Rough Justice \- Electric Mix](https://open.spotify.com/track/58hDV5XKthZvHA9upaoisk) | [B.J Salyer](https://open.spotify.com/artist/0bqxjfiDpMt6MIrF6A17vN) | [Rough Justice \(Electric Mix\)](https://open.spotify.com/album/7zgWeIdxtoF0POy81ceCN7) | 3:50 |
+| 2201 | [Blowing in the waves](https://open.spotify.com/track/2da8OZtalIiCX15QOoKkXZ) | [David Aznar Mathonneau](https://open.spotify.com/artist/55aJFxW0hS5JeoJwnXkeNg) | [Blowing in the waves](https://open.spotify.com/album/2eAzFBLjEaKaDv7u7elZon) | 2:17 |
+| 2202 | [Heads Carolina, Tails California](https://open.spotify.com/track/71I7kVOofp3kBk5D2G9wvJ) | [Ian Humphreys\-graham](https://open.spotify.com/artist/0rFTdiKjelXhmGDfPDrrF6) | [Heads Carolina, Tails California](https://open.spotify.com/album/3xHtcn676RfMnGyn1kioB2) | 4:02 |
+| 2203 | [Стихи усыпаны золой](https://open.spotify.com/track/15seLkH8hclkpoZeaqSqdU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:37 |
 
-Snapshot ID: `AAAJLGkdca0xiTPDMcTXlKBYdWFSyDeD`
+Snapshot ID: `AAAJMDJYsXkxr0ff8Ohz9xl7HviWaQfT`

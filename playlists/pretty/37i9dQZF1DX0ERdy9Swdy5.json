@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 790266,
+  "num_followers": 790284,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Pa' Otro La 'o",
-        "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "En Tiempo de Amor",
         "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
       },
@@ -1627,8 +1611,24 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Ahora Mas Que Nunca",
-        "url": "https://open.spotify.com/album/1r7GpzIQ7EHHsYrTRey2lV"
+        "name": "Pa' Otro La 'o",
+        "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Me Tengo Que Ir",
+        "url": "https://open.spotify.com/album/7mdskxE2Kr6O5DWiWw3RB2"
       },
       "artists": [
         {
@@ -1636,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 271726,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/5SIoLK4aqXc2UzNrhVHwtp"
+      "duration_ms": 280189,
+      "name": "Me Tengo Que Ir",
+      "url": "https://open.spotify.com/track/3AK05RIuu30jqJ40cfOxLD"
     }
   ],
   "unique_name": "Salsa: Los 90s",

@@ -991,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/1Y3OY3nhlsmEQnzXjkqP9C"
+      },
+      "artists": [
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184826,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6MHU4IpKlrs74RpgDvM3Jg"
+    },
+    {
+      "album": {
         "name": "Meryem",
         "url": "https://open.spotify.com/album/2a7C1v4N081yIZf0ZTVhnu"
       },
@@ -4436,7 +4454,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"

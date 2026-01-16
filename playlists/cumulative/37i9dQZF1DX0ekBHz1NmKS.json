@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 166451,
       "name": "All The Things That I Am",
       "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
@@ -3568,7 +3568,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 175687,
       "name": "Blod",
       "url": "https://open.spotify.com/track/7CoZ6nUpEon9JuvGGEKm3z"
@@ -3784,7 +3784,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 215834,
       "name": "Bl\u00e5\u00f6gd",
       "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 180233,
       "name": "C-dur",
       "url": "https://open.spotify.com/track/0cZ2ad4mATKwobLdVYWgAS"
@@ -15182,7 +15182,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 154754,
       "name": "Hot Air Balloon",
       "url": "https://open.spotify.com/track/7CDxuWmKWMpUiGnWPck1ir"
@@ -26777,6 +26777,24 @@
     },
     {
       "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326068,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
+    },
+    {
+      "album": {
         "name": "Precious Cargo",
         "url": "https://open.spotify.com/album/65BYiMcbsbO8ZUdlMKltgV"
       },
@@ -32449,6 +32467,24 @@
     },
     {
       "album": {
+        "name": "Svartsjuk (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6QEHew6RMgoE4MHTCYPXrV"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165676,
+      "name": "Svartsjuk - Spotify Singles",
+      "url": "https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm"
+    },
+    {
+      "album": {
         "name": "Sverige",
         "url": "https://open.spotify.com/album/1hYGwNkznvm4047Fb3XfRC"
       },
@@ -32720,6 +32756,24 @@
       "duration_ms": 204763,
       "name": "Swishers",
       "url": "https://open.spotify.com/track/7zIwP1iP2CdyEeP3PB8ie9"
+    },
+    {
+      "album": {
+        "name": "Sy dig p\u00e5 mig",
+        "url": "https://open.spotify.com/album/5J5BIqMdGumz71DhWNUtEA"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222549,
+      "name": "Sy dig p\u00e5 mig",
+      "url": "https://open.spotify.com/track/5SVi1gx0aaCMfUD45TTdGS"
     },
     {
       "album": {
@@ -33651,6 +33705,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Tempor\u00e4rt",
+      "url": "https://open.spotify.com/track/4m1wa9jl3VM5vEJYyeVDT1"
+    },
+    {
+      "album": {
         "name": "living room sessions",
         "url": "https://open.spotify.com/album/7nyjhmJfuB4xyfx0lVx3A0"
       },
@@ -34544,6 +34616,24 @@
       "duration_ms": 214062,
       "name": "Tilt",
       "url": "https://open.spotify.com/track/0eQadZfhWLntMvsEjYDRLk"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/1kCx0AeVglLalUMl16ad97"
+      },
+      "artists": [
+        {
+          "name": "Cazzi Opeia",
+          "url": "https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173043,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ"
     },
     {
       "album": {

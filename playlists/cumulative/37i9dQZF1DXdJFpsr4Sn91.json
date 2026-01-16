@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "20:30 (feat. Karim B)",
+        "url": "https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        },
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "20:30 (feat. Karim B)",
+      "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
+    },
+    {
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
@@ -8821,6 +8843,28 @@
     },
     {
       "album": {
+        "name": "Kuolisin sun kaa (feat. pehmoaino)",
+        "url": "https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G"
+      },
+      "artists": [
+        {
+          "name": "Aaro630",
+          "url": "https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV"
+        },
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206999,
+      "name": "Kuolisin sun kaa (feat. pehmoaino)",
+      "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
+    },
+    {
+      "album": {
         "name": "Kuollut liekki",
         "url": "https://open.spotify.com/album/2ZDCC2wA73083ZG8t2xmYV"
       },
@@ -8980,7 +9024,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 181246,
       "name": "K\u00e4\u00e4rmeen vuosi",
       "url": "https://open.spotify.com/track/7iJMiPzzvtKLcPSOn6hErj"
@@ -11926,7 +11970,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 150772,
       "name": "M\u00f6rk\u00f6",
       "url": "https://open.spotify.com/track/4wj5L26lcaUtrEepdP6sJt"
@@ -14848,7 +14892,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 119400,
       "name": "rikki",
       "url": "https://open.spotify.com/track/2m8Hlr1jWj0oq9BLNPcTpd"
@@ -16206,6 +16250,24 @@
       "duration_ms": 161833,
       "name": "Soita mulle",
       "url": "https://open.spotify.com/track/2Mi2vA7DOMJk80mJIHyJ4N"
+    },
+    {
+      "album": {
+        "name": "Solmui",
+        "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198409,
+      "name": "Solmui",
+      "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
     },
     {
       "album": {

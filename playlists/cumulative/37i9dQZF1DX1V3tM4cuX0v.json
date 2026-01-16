@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
@@ -885,7 +885,7 @@
     },
     {
       "album": {
-        "name": "Punk Rocky",
+        "name": "PUNK ROCKY",
         "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
       },
       "artists": [
@@ -898,7 +898,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235344,
-      "name": "Punk Rocky",
+      "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
     },
     {
@@ -2826,6 +2826,24 @@
       "duration_ms": 183657,
       "name": "\u0421\u0442\u0435\u0440\u0432\u0430",
       "url": "https://open.spotify.com/track/0EFwdcg2SJjINoW2wPLANa"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0445\u043e\u0436\u0456",
+        "url": "https://open.spotify.com/album/76ID1R9c35UKtIbf78ljbG"
+      },
+      "artists": [
+        {
+          "name": "Lida Lee",
+          "url": "https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "\u0421\u0445\u043e\u0436\u0456",
+      "url": "https://open.spotify.com/track/2sK5Kc4hRLm53oUu1wIsIu"
     },
     {
       "album": {

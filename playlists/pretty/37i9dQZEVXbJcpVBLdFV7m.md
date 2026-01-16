@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,039 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,041 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Papaoutai \- Afro Soul](https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Chill77](https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s), [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Papaoutai \(Afro Soul\)](https://open.spotify.com/album/7BBGsKeuO9m0shHaMpHCTk) | 4:39 |
-| 2 | [Beast](https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Mia Martina](https://open.spotify.com/album/0bvO9rYY63GNkEJdR2Zi5R) | 3:09 |
+| 2 | [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/album/6xMVTI6XdHdvpVgEA20Nlx) | 3:09 |
 | 3 | [Сърдити да няма](https://open.spotify.com/track/7bGy3jor6BeqeIAHzbpCo9) | [COCONUT HITS](https://open.spotify.com/artist/36uB3Akf81POY28rOMx4OJ) | [Сърдити да няма](https://open.spotify.com/album/2nCmuoREKLkib2WNzIVGtt) | 3:08 |
 | 4 | [Ciumi Ciumi](https://open.spotify.com/track/1vB5YIUqtCesrFyxAAftgq) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy), [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [Ciumi Ciumi](https://open.spotify.com/album/0XqnUIdJNhhFK7OSy9BTDD) | 2:30 |
 | 5 | [Hyperbaiter Disstrack](https://open.spotify.com/track/2p1DODTjdaMbARn6H8HuvS) | [HaVexy](https://open.spotify.com/artist/5HyFjzFkbuemY0v56tPYMn) | [Ear Blessers](https://open.spotify.com/album/5Ef1SpRIiJEMGdaT88Cty6) | 2:51 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 | 8 | [GO!](https://open.spotify.com/track/1zosr2RSeBC8BavrdLOXpn) | [hatikoali](https://open.spotify.com/artist/0gIIFgqTKoleOw5Aym8nhu) | [GO!](https://open.spotify.com/album/62IUrI4xuBxwSoGWPcQSzM) | 2:16 |
 | 9 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 10 | [Turn The Lights Off \(feat\. Jon\)](https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Discolized](https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f) | 2:57 |
-| 11 | [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 |
+| 11 | [My Moon My Man](https://open.spotify.com/track/6mQRbuEmqiAf1ABQYDPwF7) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/5aRmeQVSfJ0R1gjTbGq6mX) | 3:48 |
 | 12 | [I'm Not What Happened To Me](https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt) | [Good Vibes Tribe 11:11](https://open.spotify.com/artist/7xkYlVMlHwFL6oVCs3xrCK) | [I'm Not What Happened To Me](https://open.spotify.com/album/1AcrorE2xHDPHu7Jx1kS0L) | 2:49 |
 | 13 | [Флиртаджийка](https://open.spotify.com/track/4qLEt1zX6T9uBVNzD6ro59) | [Kiara](https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z) | [Флиртаджийка](https://open.spotify.com/album/0sEVcs08CuEplr1JGLrH1A) | 3:14 |
 | 14 | [Luče moje](https://open.spotify.com/track/7iMN7lixf6eLIGH1NKb7yT) | [GroundZero333](https://open.spotify.com/artist/55Ev84g1XOOdSFbWDFtSfc) | [Luče moje](https://open.spotify.com/album/3l9HcZgbohS0eLHJzxT9NP) | 3:27 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 | 22 | [CATEL](https://open.spotify.com/track/2RsYwpXpP0fPAfnbFhf2pF) | [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ) | [CATEL](https://open.spotify.com/album/7wjFm3J6t0Qx3s6WGh1j0i) | 2:40 |
 | 23 | [3 В 1](https://open.spotify.com/track/0eMGY2LlWkgklI8WhHjR0y) | [Upsurt](https://open.spotify.com/artist/42rkrPL1I8hk4RIbqa1lSr), [Milen Tsvetkov](https://open.spotify.com/artist/6F8X9ESmEVMCLodzVRmIFD) | [Quattro](https://open.spotify.com/album/0ZnlH5XKV5bNAXcHQ0yt9d) | 4:06 |
 | 24 | [Трин кила](https://open.spotify.com/track/0YC1MvEJKklZKG6pSbBG5M) | [Кристали](https://open.spotify.com/artist/4zHBUfDo2ntx9Fw0h05dhj) | [Живеем за това](https://open.spotify.com/album/1Ppg8AlGiY7GYBGaIV4MQo) | 3:21 |
-| 25 | [All The Things She Said](https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All The Things She Said](https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ) | 2:50 |
+| 25 | [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 |
 | 26 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 27 | [I Want Things to Be Beautiful](https://open.spotify.com/track/6uZm4IvkJPbETKFOjRhr1c) | [Devi McCallion](https://open.spotify.com/artist/6i1PYODUPDYMtaK8QCGE9I) | [I Want Things to Be Beautiful](https://open.spotify.com/album/5hHbEzhTnXnWVFYhdacR66) | 1:46 |
 | 28 | [Umbrella](https://open.spotify.com/track/53qdXiuRiFr7ubXB4S7Ir1) | [Red Village](https://open.spotify.com/artist/0peThqnLn0V2rxo8pKsMPv), [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN) | [Umbrella](https://open.spotify.com/album/0R2GLcXqpDjj5pUxx3OBe5) | 5:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 | 49 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 |
 | 50 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

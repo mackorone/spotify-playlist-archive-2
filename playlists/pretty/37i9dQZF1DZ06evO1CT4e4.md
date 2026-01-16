@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CT4e4.md) - [plain]
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,306 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,308 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CT4e4.md) - [plain]
 | 49 | [Kanon Pokajanen: Ode VI](https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: Kanon Pokajanen](https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy) | 8:18 |
 | 50 | [Symphony No\. 4 "Los Angeles": III\. Insistentemente – Con intimo sentimento – Deciso](https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [NFM Wrocław Philharmonic](https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: The Symphonies](https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF) | 8:08 |
 
-Snapshot ID: `aWbcgAAAAAASDNiBW30jcB3EymNgxM2R`
+Snapshot ID: `aWbcgAAAAABfQm4x4kviH8L10qcMtnL3`

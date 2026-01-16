@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Kusah
+> What is your love language? Say it in Swahili\.  Cover: Mimi Mars
 
-326 songs - 18 hr 17 min
+328 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Mar Gaya](https://open.spotify.com/track/05Wz87UDG1UaWf9DnlbZLb) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Mar Gaya](https://open.spotify.com/album/6T4f3NNgFGBCaH3FNTGYgM) | 3:04 | 2024-06-27 | 2024-11-01 |
 | [Maradonna](https://open.spotify.com/track/4KTHSeSyn3oo4dOqxheLPn) | [Tanasha Donna](https://open.spotify.com/artist/4pCGeC6vPX6UaEZhLSucym) | [Maradonna](https://open.spotify.com/album/2FWGVLe0Dk9jmc5upTmZs2) | 3:33 | 2022-07-07 | 2022-12-10 |
 | [Marry Me \(feat\. Marioo\)](https://open.spotify.com/track/0TS6oda4nNVHwn8k9V7SJu) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 3:45 | 2022-08-25 | 2023-07-28 |
+| [Mashiko](https://open.spotify.com/track/2yVR3Ly0eAdqnHc8O5C0Mf) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Mashiko](https://open.spotify.com/album/3WPA0y6gPmj8tjnxPZDSm2) | 4:27 | 2026-01-15 |  |
 | [Matatizo](https://open.spotify.com/track/7fAsQA1owdda1wyDRWe4GH) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Matatizo](https://open.spotify.com/album/6bUpnezEMD0cNLoGmg8t4v) | 2:53 | 2024-12-19 | 2025-12-06 |
 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 | 2023-05-11 | 2023-07-21 |
 | [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 | 2022-12-16 | 2023-05-14 |
@@ -252,7 +253,7 @@
 | [Rehab](https://open.spotify.com/track/5pBNVube1fnDWddcpbTj2v) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rehab](https://open.spotify.com/album/1uLzGmzkrwjdbtw76STH6B) | 2:53 | 2025-06-19 |  |
 | [Respect](https://open.spotify.com/track/7jYwtiYbcSBaEeS72pSVGI) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls), [Kontawa](https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk) | [Respect](https://open.spotify.com/album/1FQ5GJT6pJ1nMW7sO6nE4I) | 2:33 | 2023-10-06 | 2024-01-19 |
 | [Rockabye \(feat\. Otile Brown\) \- Remix](https://open.spotify.com/track/5nEdZmQdw7wnMHizKDLXvb) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Rockabye \(feat\. Otile Brown\) \[Remix\]](https://open.spotify.com/album/0uYbJ7UYksWxnuv7e8eohS) | 3:47 | 2024-03-14 | 2024-03-22 |
-| [Romeo & Julieth \(feat\. Otile Brown\)](https://open.spotify.com/track/2ffwwOr5k4AFYlbQiopAaQ) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Romeo & Julieth \(feat\. Otile Brown\)](https://open.spotify.com/album/7HLQpGd1FmWMS3ufnnQJ0x) | 3:21 | 2025-02-13 |  |
+| [Romeo & Julieth \(feat\. Otile Brown\)](https://open.spotify.com/track/2ffwwOr5k4AFYlbQiopAaQ) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Romeo & Julieth \(feat\. Otile Brown\)](https://open.spotify.com/album/7HLQpGd1FmWMS3ufnnQJ0x) | 3:21 | 2025-02-13 | 2026-01-16 |
 | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP) | 3:26 | 2024-04-18 | 2025-02-07 |
 | [Salome](https://open.spotify.com/track/0JLtgyXqNW0qZfPFnA7GTS) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Salome](https://open.spotify.com/album/19xJAnGHkXJiDGGRp1cuds) | 3:57 | 2023-08-17 | 2023-12-08 |
 | [Sare](https://open.spotify.com/track/2Eenhinh9fzmjAeRUon64u) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Sare](https://open.spotify.com/album/3Zx8060RczfKJ1lPB4kgPp) | 3:34 | 2025-01-31 | 2025-06-10 |
@@ -328,11 +329,12 @@
 | [Wote](https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Love Season](https://open.spotify.com/album/3lmgIevac4UvNrj4K5I3hg) | 3:10 | 2025-02-06 |  |
 | [Yako Wapi](https://open.spotify.com/track/3EIGn3wZiw5PZw66eHwBuq) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Yako Wapi](https://open.spotify.com/album/6RCoSr3PynLjqURiK99QRK) | 3:35 | 2025-01-23 | 2025-09-12 |
 | [Yes I Do](https://open.spotify.com/track/4EWsq94xq3M1I4rXZMdEni) | [Barakah The Prince](https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Yes I Do](https://open.spotify.com/album/1I47crfo4NzhbAxlO4Vfng) | 3:39 | 2024-10-17 | 2025-05-30 |
-| [Yeye](https://open.spotify.com/track/54DJmNdE1KwaFNIjxSohY2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Yeye](https://open.spotify.com/album/6q8mOZ3fOVmPyrlQZ4kLTM) | 2:57 | 2025-04-24 |  |
+| [Yeye](https://open.spotify.com/track/54DJmNdE1KwaFNIjxSohY2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Yeye](https://open.spotify.com/album/6q8mOZ3fOVmPyrlQZ4kLTM) | 2:57 | 2025-04-24 | 2026-01-16 |
 | [You \(feat\. Yammi\)](https://open.spotify.com/track/4XTcVh6TLERIw3BcA4sX2D) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [You \(feat\. Yammi\)](https://open.spotify.com/album/6yWJogn1gsms4cAXPE6b7x) | 3:30 | 2024-03-14 | 2024-03-22 |
 | [You Better Go](https://open.spotify.com/track/0kZoAZDJMIz1nObifhVNWC) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [You Better Go](https://open.spotify.com/album/6uVWT5KW2uov5KNYHpM4Mj) | 3:19 | 2024-08-29 | 2025-04-25 |
+| [Your Loss](https://open.spotify.com/track/5v3BFswaqCAri7bZY2g78o) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Your Loss](https://open.spotify.com/album/6HzYn6HViKNb7mWwbIC8Ie) | 2:33 | 2026-01-15 |  |
 | [Yule \- Remix](https://open.spotify.com/track/7t4SpN8c927O7Y3ymBsXnG) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yule \(Remix\)](https://open.spotify.com/album/5wfD1q45IeSUz5Tq8aQ42e) | 3:11 | 2024-06-07 | 2024-12-06 |
-| [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Dadiposlim](https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy) | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou) | 3:30 | 2024-02-15 |  |
+| [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Dadiposlim](https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy) | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou) | 3:30 | 2024-02-15 | 2026-01-16 |
 | [Zoba](https://open.spotify.com/track/6x3liByFkS6SWGUWHUKsjL) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Zoba](https://open.spotify.com/album/5uML55NyKv8bCQRHhROyqh) | 3:36 | 2024-05-30 | 2024-11-01 |
 
 \*This playlist was first scraped on 2022-09-22. Prior content cannot be recovered.

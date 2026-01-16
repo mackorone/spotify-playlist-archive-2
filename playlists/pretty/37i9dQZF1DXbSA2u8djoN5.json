@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIuiwYBR7b6z/gCIQx24gkwk5QAL",
+  "snapshot_id": "AAAAAKzXX3GelLob1HZgoSRrMBJS/Xva",
   "tracks": [
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "ROCKSTAR",
         "url": "https://open.spotify.com/album/78XcVITzuLnYR7m63LJzEs"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3soCMqsD3Gh9OHbiLdPkPm"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "BANDO 4",
         "url": "https://open.spotify.com/album/3wE4neLiYyfvKHzQYMPlVh"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6i8vHHCDrN2KePIjsTP9XR"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "SCRISOARE DE CARTIER",
         "url": "https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "G\u00e2ndul",
         "url": "https://open.spotify.com/album/64bxzzhQGgdtT1wlhJqIjg"
@@ -85,27 +85,27 @@
       "url": "https://open.spotify.com/track/1oQeyBWKXUd56oq0nnHTjF"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
+        "name": "C\u00e2te pietre ai aruncat",
+        "url": "https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Daria Lupi",
+          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
         },
         {
-          "name": "Katarina",
-          "url": "https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0"
+          "name": "Tata Vlad",
+          "url": "https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ"
         }
       ],
-      "duration_ms": 169787,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
+      "duration_ms": 150000,
+      "name": "C\u00e2te pietre ai aruncat",
+      "url": "https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "FREESTYLE P\u00c2N\u0102 LA D.F.D.N.",
         "url": "https://open.spotify.com/album/4GSVFm4e1yKbw1KUw388FH"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/7HZP8qPQPCZiQdh2ptePLZ"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "\u00cemi pas\u0103 p\u00e2n\u0103 nu-mi mai pas\u0103",
         "url": "https://open.spotify.com/album/5UR6KeCOEX1cZBegHCdw2Y"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/7G8lU0MR2PW7co59XRC5VB"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "BMW",
         "url": "https://open.spotify.com/album/2ioNfug2yjskefdNkMJ1s0"
@@ -161,7 +161,27 @@
       "url": "https://open.spotify.com/track/0aCuYXYaCGlf5vmrJBpIGm"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Katarina",
+          "url": "https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
         "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
@@ -181,7 +201,67 @@
       "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Ban pe Ban",
+        "url": "https://open.spotify.com/album/0lv7EdkwtxiIkcfEsC3AqV"
+      },
+      "artists": [
+        {
+          "name": "Badd G",
+          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Ban pe Ban",
+      "url": "https://open.spotify.com/track/1YEbuT9xk8OFosKMbmydsd"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "CALARABALB",
+        "url": "https://open.spotify.com/album/7KxiJo2dNXzTG97RldTs4O"
+      },
+      "artists": [
+        {
+          "name": "Andrew Barabancea",
+          "url": "https://open.spotify.com/artist/2rNZxVvp2uOb3i6z6gdGNG"
+        },
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "duration_ms": 141315,
+      "name": "CALARABALB",
+      "url": "https://open.spotify.com/track/3MI0QjJ55I7jgm2w4cd2po"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "\u00ceMI LIPSE\u0218TI",
+        "url": "https://open.spotify.com/album/7IEwdQ1xKLvozya4asqAKG"
+      },
+      "artists": [
+        {
+          "name": "Yakki",
+          "url": "https://open.spotify.com/artist/10Gn7d0q1THIu8PM5ywP20"
+        },
+        {
+          "name": "Chimie",
+          "url": "https://open.spotify.com/artist/3Ah361wcXL9Y4QRDEprLOS"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "\u00ceMI LIPSE\u0218TI",
+      "url": "https://open.spotify.com/track/2QCwBSqZThIJ6lGNipjjMd"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
@@ -205,47 +285,23 @@
       "url": "https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Ban pe Ban",
-        "url": "https://open.spotify.com/album/0lv7EdkwtxiIkcfEsC3AqV"
+        "name": "Ne vedem acas\u0103",
+        "url": "https://open.spotify.com/album/3KXsYqkmp8SbmCzScrOs1G"
       },
       "artists": [
         {
-          "name": "Badd G",
-          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
-        },
-        {
-          "name": "VANILLA",
-          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+          "name": "Cortes",
+          "url": "https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Ban pe Ban",
-      "url": "https://open.spotify.com/track/1YEbuT9xk8OFosKMbmydsd"
+      "duration_ms": 179340,
+      "name": "Ne vedem acas\u0103",
+      "url": "https://open.spotify.com/track/03YZNYucckHvgYTO2yQe83"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
-      "album": {
-        "name": "CALARABALB",
-        "url": "https://open.spotify.com/album/7KxiJo2dNXzTG97RldTs4O"
-      },
-      "artists": [
-        {
-          "name": "Andrew Barabancea",
-          "url": "https://open.spotify.com/artist/2rNZxVvp2uOb3i6z6gdGNG"
-        },
-        {
-          "name": "Killa Fonic",
-          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
-        }
-      ],
-      "duration_ms": 141315,
-      "name": "CALARABALB",
-      "url": "https://open.spotify.com/track/3MI0QjJ55I7jgm2w4cd2po"
-    },
-    {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Sa MM Care Pleaca",
         "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
@@ -261,7 +317,23 @@
       "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Acasa",
+        "url": "https://open.spotify.com/album/2KP4jjvTTakCQ6ExzkCV3F"
+      },
+      "artists": [
+        {
+          "name": "Criss Blaziny",
+          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Acasa",
+      "url": "https://open.spotify.com/track/7xfAwfLFy8ObH0oHkxZ7hV"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "ultima (noapte)",
         "url": "https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC"
@@ -281,39 +353,27 @@
       "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Acasa",
-        "url": "https://open.spotify.com/album/2KP4jjvTTakCQ6ExzkCV3F"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
-          "name": "Criss Blaziny",
-          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Acasa",
-      "url": "https://open.spotify.com/track/7xfAwfLFy8ObH0oHkxZ7hV"
-    },
-    {
-      "added_at": "2026-01-08 22:00:01",
-      "album": {
-        "name": "Ne vedem acas\u0103",
-        "url": "https://open.spotify.com/album/3KXsYqkmp8SbmCzScrOs1G"
-      },
-      "artists": [
+          "name": "Tomi Marf\u0103",
+          "url": "https://open.spotify.com/artist/6ukiR3J7anX3kgmYmiIkAs"
+        },
         {
-          "name": "Cortes",
-          "url": "https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF"
+          "name": "ASHU",
+          "url": "https://open.spotify.com/artist/1hmxhgy1s2r3FjQE35ePHm"
         }
       ],
-      "duration_ms": 179340,
-      "name": "Ne vedem acas\u0103",
-      "url": "https://open.spotify.com/track/03YZNYucckHvgYTO2yQe83"
+      "duration_ms": 162901,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/4p3206jk0fwiwEnaTRfhvI"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "ANGELINA JOLIE",
         "url": "https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ"
@@ -333,27 +393,7 @@
       "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
-      "album": {
-        "name": "\u00ceMI LIPSE\u0218TI",
-        "url": "https://open.spotify.com/album/7IEwdQ1xKLvozya4asqAKG"
-      },
-      "artists": [
-        {
-          "name": "Yakki",
-          "url": "https://open.spotify.com/artist/10Gn7d0q1THIu8PM5ywP20"
-        },
-        {
-          "name": "Chimie",
-          "url": "https://open.spotify.com/artist/3Ah361wcXL9Y4QRDEprLOS"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "\u00ceMI LIPSE\u0218TI",
-      "url": "https://open.spotify.com/track/2QCwBSqZThIJ6lGNipjjMd"
-    },
-    {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Arunca-ma La Lei",
         "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
@@ -373,7 +413,7 @@
       "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "X6",
         "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
@@ -389,7 +429,7 @@
       "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "CALIFORNIA",
         "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
@@ -409,7 +449,7 @@
       "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Direct din Tei",
         "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
@@ -425,7 +465,7 @@
       "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Antidot",
         "url": "https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm"
@@ -445,7 +485,7 @@
       "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Hustler",
         "url": "https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr"
@@ -465,7 +505,7 @@
       "url": "https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Ofiter la pamant",
         "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
@@ -481,7 +521,7 @@
       "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Voila",
         "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
@@ -501,7 +541,7 @@
       "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Eu Beu / 3 Pahare",
         "url": "https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB"
@@ -525,7 +565,7 @@
       "url": "https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "OCHI ALBA\u0218TRI",
         "url": "https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3"
@@ -545,7 +585,7 @@
       "url": "https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Cine E\u0219ti Tu?",
         "url": "https://open.spotify.com/album/2tDMZPK7136n55jdSz3GL1"
@@ -561,7 +601,7 @@
       "url": "https://open.spotify.com/track/78YoRX0Q9a407ZTgpcdzSJ"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Toata lumea moare",
         "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
@@ -577,7 +617,7 @@
       "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "HE$OYAM",
         "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
@@ -597,7 +637,7 @@
       "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Corina",
         "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
@@ -617,7 +657,7 @@
       "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Copiii Care Am Fost",
         "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
@@ -637,7 +677,7 @@
       "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Birkin Baby",
         "url": "https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH"
@@ -661,7 +701,7 @@
       "url": "https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Grinch",
         "url": "https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6"
@@ -681,7 +721,7 @@
       "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "PLAYBOY CITY",
         "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
@@ -701,7 +741,7 @@
       "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "\u0218tefan IV",
         "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Selfmade",
         "url": "https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5"
@@ -749,7 +789,7 @@
       "url": "https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Asta-i \u021aara Mea",
         "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
@@ -769,7 +809,7 @@
       "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Morgana",
         "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
@@ -785,7 +825,7 @@
       "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "PESTE TOT",
         "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
@@ -801,7 +841,7 @@
       "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Lumea toat\u0103",
         "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
@@ -821,7 +861,7 @@
       "url": "https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "ALTCEVA",
         "url": "https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo"
@@ -841,7 +881,7 @@
       "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Deliric X Silent Strike III",
         "url": "https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch"
@@ -865,7 +905,7 @@
       "url": "https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "CO$ANO$TRA",
         "url": "https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8"
@@ -901,7 +941,7 @@
       "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Twinnin",
         "url": "https://open.spotify.com/album/4Xu6t9blgQ7OT5YNiYAk1W"
@@ -921,7 +961,7 @@
       "url": "https://open.spotify.com/track/1GR0oEHQKR8GcWL3tE1PQ5"
     },
     {
-      "added_at": "2026-01-08 22:00:01",
+      "added_at": "2026-01-15 22:00:28",
       "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/7KXn10FnYYqcoepIO95RdZ"
@@ -935,58 +975,6 @@
       "duration_ms": 151428,
       "name": "Push It",
       "url": "https://open.spotify.com/track/5QxMPQDcRaYThurJz6KYhx"
-    },
-    {
-      "added_at": "2026-01-08 22:00:01",
-      "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
-      },
-      "artists": [
-        {
-          "name": "Endru",
-          "url": "https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Poate",
-      "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
-    },
-    {
-      "added_at": "2026-01-08 22:00:01",
-      "album": {
-        "name": "\u0218mecher",
-        "url": "https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX"
-      },
-      "artists": [
-        {
-          "name": "Badd G",
-          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
-        }
-      ],
-      "duration_ms": 156562,
-      "name": "\u0218mecher",
-      "url": "https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V"
-    },
-    {
-      "added_at": "2026-01-08 22:00:01",
-      "album": {
-        "name": "Tu, M\u0103rie!",
-        "url": "https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr"
-      },
-      "artists": [
-        {
-          "name": "Grasu XXL",
-          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Tu, M\u0103rie!",
-      "url": "https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO"
     }
   ],
   "unique_name": "Suflet + Sunet",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Myra",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : LYNN",
   "name": "le miel",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 150000,
       "name": "2 Options",
       "url": "https://open.spotify.com/track/4qUXv1dLUiVvbAn09Xb4KR"
@@ -204,6 +204,24 @@
       "duration_ms": 226560,
       "name": "A.R.T",
       "url": "https://open.spotify.com/track/5JFuGNMZUtrkBCR7Ok1Ja1"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211638,
+      "name": "AALACH",
+      "url": "https://open.spotify.com/track/6Kpo1jIjaB7PxfXgz4JLEk"
     },
     {
       "album": {
@@ -496,7 +514,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 142080,
       "name": "Aupr\u00e8s de moi - Acoustic",
       "url": "https://open.spotify.com/track/0c6upCThYkuucYZQS35DA5"
@@ -786,6 +804,28 @@
       "duration_ms": 185781,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/2vSrzsRvhzbGWYOkxIWLLS"
+    },
+    {
+      "album": {
+        "name": "Belle \u00e2me",
+        "url": "https://open.spotify.com/album/1nZkcUzIKldLWuYvVi5h93"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187762,
+      "name": "Belle \u00e2me",
+      "url": "https://open.spotify.com/track/2T1gQEwPWRAh0VLCq5YWts"
     },
     {
       "album": {
@@ -1200,7 +1240,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 138105,
       "name": "Ce que tu me fais",
       "url": "https://open.spotify.com/track/0ZiJe4BToIugXNAWqDyYBP"
@@ -1396,7 +1436,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 188328,
       "name": "COLORIAGE",
       "url": "https://open.spotify.com/track/3SPu17FcwHgmhKNJYmkX2t"
@@ -2829,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "fleur bleue",
+        "url": "https://open.spotify.com/album/1YbubU4LCCF8Zev5TgsYUC"
+      },
+      "artists": [
+        {
+          "name": "Alvin Ama\u00efzo",
+          "url": "https://open.spotify.com/artist/4lhjjDpsGu9roJmU0TNlGh"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "fleur bleue",
+      "url": "https://open.spotify.com/track/5omVv07GhoWSfoooEW6xYT"
+    },
+    {
+      "album": {
         "name": "Fleur de peau",
         "url": "https://open.spotify.com/album/2d7yq2lbMNVr1bftb0DvNk"
       },
@@ -3014,6 +3072,24 @@
       "duration_ms": 56086,
       "name": "GIGI",
       "url": "https://open.spotify.com/track/4Rkru3YgYVOCufUoq1uY8H"
+    },
+    {
+      "album": {
+        "name": "La vie me va si bien",
+        "url": "https://open.spotify.com/album/06YzVe7kmSRlUAld9lEPGL"
+      },
+      "artists": [
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219660,
+      "name": "Godbless",
+      "url": "https://open.spotify.com/track/3Q11WlnGGnEmnbgtzVDWMF"
     },
     {
       "album": {
@@ -3416,7 +3492,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 160000,
       "name": "hollywood",
       "url": "https://open.spotify.com/track/64YOZYHyEXdXQABbNmTqsK"
@@ -4480,6 +4556,24 @@
       "duration_ms": 138842,
       "name": "LE MAL EST FAIT...",
       "url": "https://open.spotify.com/track/6edUyzq4ff49OkijuHIupg"
+    },
+    {
+      "album": {
+        "name": "La vie me va si bien",
+        "url": "https://open.spotify.com/album/06YzVe7kmSRlUAld9lEPGL"
+      },
+      "artists": [
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171393,
+      "name": "Le pardon et l'oubli",
+      "url": "https://open.spotify.com/track/4fmMEAf42q9kNefG3QbocN"
     },
     {
       "album": {
@@ -5722,7 +5816,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 135850,
       "name": "Ne pas d\u00e9ranger",
       "url": "https://open.spotify.com/track/1vBS7SOMSfW9Ap4CasUEqR"
@@ -7941,6 +8035,24 @@
     },
     {
       "album": {
+        "name": "Soleil S\u00e9v\u00e8re",
+        "url": "https://open.spotify.com/album/4qGqg1lCpiTIAjolzKBmQl"
+      },
+      "artists": [
+        {
+          "name": "D Juno",
+          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Soleil S\u00e9v\u00e8re",
+      "url": "https://open.spotify.com/track/5yx6m3DNP05PwuSr5zzPbx"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/3quqai6VrVYJVLspnwcPfW"
       },
@@ -8046,7 +8158,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 136630,
       "name": "Star",
       "url": "https://open.spotify.com/track/6ktldhDXKHDYsdvqjytEbA"

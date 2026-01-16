@@ -5512,6 +5512,24 @@
     {
       "album": {
         "name": "Trigger (Remixes)",
+        "url": "https://open.spotify.com/album/6CVgikH3MGzLOHgRd5WN22"
+      },
+      "artists": [
+        {
+          "name": "Maluca",
+          "url": "https://open.spotify.com/artist/3WpKPMVsMAMnTkYUmymXlI"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/2Lhm1FTvJ8KSVPyupwkjQx"
+    },
+    {
+      "album": {
+        "name": "Trigger (Remixes)",
         "url": "https://open.spotify.com/album/6i1PqlEM32IULbftLEeuji"
       },
       "artists": [
@@ -5522,7 +5540,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 191538,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/3zhSWZqg57WAovvV52nlHa"

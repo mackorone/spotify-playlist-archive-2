@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > august ponthier on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,296 likes - 156 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,297 likes - 156 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

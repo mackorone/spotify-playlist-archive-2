@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Ne se iztrivash](https://open.spotify.com/track/7eoO5bQx7uCb1MWxOxnK5h) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Da gori v lyubov](https://open.spotify.com/album/35K16bo1wcz9Lq8pVYJTT6) | 4:06 |
 | 50 | [Мазохистка](https://open.spotify.com/track/6hRJgAPy4kDgOkiyD5s8je) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Мазохистка](https://open.spotify.com/album/0rCdnU7DW11sveEZ3q2IQ3) | 3:37 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

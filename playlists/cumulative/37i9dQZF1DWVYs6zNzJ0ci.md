@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari con Manuel Turizo.
 
-429 songs - 1 day 4 hr 7 min
+430 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Así Se Vive Feliz](https://open.spotify.com/track/1KuBGjOWwsSvpUoIOpND2z) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Unity Sound](https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH) | [Así Se Vive Feliz](https://open.spotify.com/album/5fGENcbYnHf0qXhJTUvGOQ) | 3:19 | 2025-10-17 | 2025-11-15 |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 | 2023-02-03 |  |
 | [Ay Corazón!](https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Ay Corazón!](https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h) | 3:39 | 2024-07-02 |  |
+| [Ay Dale](https://open.spotify.com/track/0S71WAkS1fLsGHMC4NX4zt) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Ay Dale](https://open.spotify.com/album/554YtsiV2xM17gb9XE84TP) | 2:26 | 2026-01-15 |  |
 | [AY MI FÉ!](https://open.spotify.com/track/1VW20Xk91ZpAffsBVeew5n) | [Sr\. Wilson](https://open.spotify.com/artist/7GIl95Mqt4DmPOiVghXffy), [Griffi](https://open.spotify.com/artist/3qqRmPv82dU1KrGy21ZSQD) | [Rutas Interestelares](https://open.spotify.com/album/5gRMXbnASEPtEC1IWiflyy) | 2:50 | 2023-10-27 | 2023-11-11 |
 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 | 2022-07-08 | 2024-04-19 |
 | [Ay, Ay](https://open.spotify.com/track/7KwQb3KXH18ZUSM68Fpa4a) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Ay, Ay](https://open.spotify.com/album/6GeJiKXFpthhsp4lefVGpu) | 3:14 | 2021-12-10 | 2022-05-20 |

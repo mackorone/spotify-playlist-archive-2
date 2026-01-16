@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Planetshakers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,176 likes - 92 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,149 likes - 92 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

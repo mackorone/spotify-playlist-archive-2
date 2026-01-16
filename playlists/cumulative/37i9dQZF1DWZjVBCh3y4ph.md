@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : Aya Nakamura
+> Les hits zouk & kompa du moment\. Photo : Laconi x LÉA CHURROS
 
-354 songs - 18 hr 40 min
+356 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 | 2023-11-23 | 2024-03-01 |
 | [Bla bla bla](https://open.spotify.com/track/6n5AjgKF4mYF4LoPchfcNS) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ), [Klowdy](https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY) | [Bla bla bla](https://open.spotify.com/album/7aK14RK2EXIBcuxYRg3BGx) | 2:27 | 2025-12-11 |  |
 | [Blesser](https://open.spotify.com/track/5mlP39pwHpY1MjS3FFqXPq) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ), [Klowdy](https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY) | [Blesser](https://open.spotify.com/album/3ibvXKgaNmkFWxHOsT1bdG) | 3:11 | 2023-09-28 | 2023-12-22 |
-| [Blessing you](https://open.spotify.com/track/4mYdnx8dfBwkW0J1G4fdhT) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Blessing you](https://open.spotify.com/album/7pnhleO3tBNRDGnDxnyJ73) | 2:47 | 2025-09-18 |  |
+| [Blessing you](https://open.spotify.com/track/4mYdnx8dfBwkW0J1G4fdhT) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Blessing you](https://open.spotify.com/album/7pnhleO3tBNRDGnDxnyJ73) | 2:47 | 2025-09-18 | 2026-01-16 |
 | [Bloqué](https://open.spotify.com/track/6QMzlVLJfuCcE8LvPEOpuL) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj) | [Bloqué](https://open.spotify.com/album/0mCCSNFjdewZs2aYmY48CX) | 2:52 | 2025-03-27 | 2025-05-02 |
 | [Bobo](https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Bobo](https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08) | 3:53 | 2023-12-21 | 2024-05-24 |
 | [Bonbon](https://open.spotify.com/track/0Yc1i5HGcUhPKMde8mJyS7) | [Jeremy Lior](https://open.spotify.com/artist/2BOJKJosuhWbm24je66xOm) | [Bonbon](https://open.spotify.com/album/7tKWEGHKP275DLlmTbhyEK) | 3:48 | 2025-05-29 | 2025-07-04 |
@@ -220,6 +220,7 @@
 | [On a changé](https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [On a changé](https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6) | 2:41 | 2023-09-28 | 2024-06-14 |
 | [On se blesse](https://open.spotify.com/track/2eZ8nYofJxOzkGWwFJyEgZ) | [Fside](https://open.spotify.com/artist/00ZDcRvFcW61HAEYNH0lG9), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351) | [On se blesse](https://open.spotify.com/album/27rw5gQVjcfoUg4taawrKv) | 2:56 | 2025-06-12 | 2025-07-04 |
 | [On Ti Kosé Posé](https://open.spotify.com/track/5BSTdR9vkOlsj8V9wqsaTJ) | [Joël GALIPO](https://open.spotify.com/artist/6rW55fOMEJYi4Gb8PPbU9p) | [On Ti Kosé Posé](https://open.spotify.com/album/0diTvlZKmfkNM061CuystB) | 3:00 | 2025-10-02 | 2025-10-24 |
+| [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 | 2026-01-15 |  |
 | [Ou fè'm mal](https://open.spotify.com/track/5aFXwdIy5hkZ6WZZDHnEcq) | [Bryans](https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW) | [Eclosion](https://open.spotify.com/album/4n2MRSNTulYZomK6KTKKDu) | 3:18 | 2024-11-21 | 2025-02-14 |
 | [Ou fèm vakabon](https://open.spotify.com/track/5keJB9DEzsMnDw3kO6QmSq) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 4:33 | 2024-09-26 | 2024-11-08 |
 | [Ou Pé](https://open.spotify.com/track/0eWNcMTXQ8985SKAZM24cO) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [On di Road](https://open.spotify.com/album/4sVuvKPam9nXw9PzBbdG0m) | 2:16 | 2024-10-10 | 2024-12-06 |
@@ -356,6 +357,7 @@
 | [West Indies](https://open.spotify.com/track/2nJIdiAk5QyqkDilI4Lph6) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [West Indies](https://open.spotify.com/album/2DJLNFCYzyX9piDBw3m7IM) | 2:54 | 2023-09-28 | 2023-10-27 |
 | [Woy](https://open.spotify.com/track/6rHGT6GOkgs1knyVSgpV95) | [Sandro Martelly](https://open.spotify.com/artist/0I6pHt9qiGkXZ25eGkEtsb), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Woy](https://open.spotify.com/album/3So52LLXXOZ9ThVmkQikLW) | 3:16 | 2025-05-22 | 2025-07-11 |
 | [ZABOKA](https://open.spotify.com/track/0cmtrrR2jnzH1P4hpSZy3Y) | [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [Les Copinosss](https://open.spotify.com/artist/3DbijPrwvjQw8UMhCUfMFJ) | [BBW \(Deluxe Edition\)](https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX) | 2:34 | 2023-11-16 | 2024-06-28 |
+| [À Contre Cœur](https://open.spotify.com/track/1a7zONcQKVRluPPSB9PCtj) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [À Contre Cœur](https://open.spotify.com/album/4bGQsXCnbBDHBi4GiSXhcm) | 2:50 | 2026-01-15 |  |
 | [À distance](https://open.spotify.com/track/37bITDXdVJ5LXOiHTAKy9D) | [T\-will](https://open.spotify.com/artist/3LBdfu7utAFydhM7WOyitT), [MELI](https://open.spotify.com/artist/3iJ64eVQCgZkf7jTiFcQj6) | [À distance](https://open.spotify.com/album/7h3lyJI5pQaluxKEJh1exC) | 3:59 | 2025-05-01 | 2025-05-30 |
 | [À genoux](https://open.spotify.com/track/6IayRy7xW9P2PZAtJFFDf4) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [À genoux](https://open.spotify.com/album/7JefwhJoDy84YkjD0n97K1) | 3:35 | 2025-01-16 | 2025-12-19 |
 | [À jamais](https://open.spotify.com/track/40PRV0HzxpyYzyi8IvrxSh) | [Dangerous](https://open.spotify.com/artist/3S71irRdTM0oxf0BnrlAGh) | [À jamais](https://open.spotify.com/album/4TVLhkeCTqROVvZla4aiQU) | 2:57 | 2025-12-04 |  |

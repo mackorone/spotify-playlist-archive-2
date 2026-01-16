@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 692707,
+  "num_followers": 692802,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -2411,26 +2411,6 @@
     {
       "added_at": "2026-01-09 08:38:13",
       "album": {
-        "name": "Genius Loves Company",
-        "url": "https://open.spotify.com/album/4QpvUXLTSvZ5JfA8kOyfNk"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        },
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 210904,
-      "name": "Fever (with Natalie Cole)",
-      "url": "https://open.spotify.com/track/7JMZvdSIUDUkeKupzSF0B5"
-    },
-    {
-      "added_at": "2026-01-09 08:38:13",
-      "album": {
         "name": "You Must Believe in Spring (Chanson de Maxence) [Extract from \"Le grand Michel\", a tribute to Michel Legrand]",
         "url": "https://open.spotify.com/album/1f0Kl8r1rsAm8doLdJtfpv"
       },
@@ -2451,6 +2431,26 @@
       "duration_ms": 265373,
       "name": "You Must Believe in Spring (Chanson de Maxence)",
       "url": "https://open.spotify.com/track/0TqzVz4sWBGKhSOPeiCAfp"
+    },
+    {
+      "added_at": "2026-01-09 08:38:13",
+      "album": {
+        "name": "Genius Loves Company",
+        "url": "https://open.spotify.com/album/4QpvUXLTSvZ5JfA8kOyfNk"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 210904,
+      "name": "Fever (with Natalie Cole)",
+      "url": "https://open.spotify.com/track/7JMZvdSIUDUkeKupzSF0B5"
     },
     {
       "added_at": "2026-01-09 08:38:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,956 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,952 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 | 18 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 |
 | 19 | [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 |
 | 20 | [1000 Vėtrų](https://open.spotify.com/track/2p9Jb5GxSdQvCJ7zTBSuXK) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Sutemos](https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A) | 2:07 |
-| 21 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It up to Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
+| 21 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Only Hits](https://open.spotify.com/album/4LqKKEC8ghEvbMW2xcs4eZ) | 4:03 |
 | 22 | [VISI ŽENKLAI](https://open.spotify.com/track/57l4D9dzqDcRS6gPWnFRZI) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d), [Aistè](https://open.spotify.com/artist/1aGjmnCN164ZJ1t5rqfd14) | [VISI ŽENKLAI](https://open.spotify.com/album/2EutkhwSarjd8rEB7SbxJi) | 2:58 |
 | 23 | [is tinderio](https://open.spotify.com/track/4oVGqzK712kosaeczkZN0E) | [Jedski](https://open.spotify.com/artist/4QZQuHRovRUgrWFQFwM4mF) | [is tinderio](https://open.spotify.com/album/1QFu9VENxUwzYFaP747CfD) | 2:02 |
 | 24 | [Ašara](https://open.spotify.com/track/3HiFbGgC1kSvvoD0RGIs0J) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Žvėris](https://open.spotify.com/album/6qTjtegmTDa5PmitQSqFk9) | 2:07 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 | 37 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 38 | [Meilės Mašina](https://open.spotify.com/track/5vYEYDozkj6nosJ7CyYJg9) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Scenos](https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf) | 4:40 |
 | 39 | [Apkabink](https://open.spotify.com/track/6EOpPeCBiBYF0yITU0VQwT) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Pasaka](https://open.spotify.com/album/6SYCoF4BmXHB9ppAD9fufe) | 2:14 |
-| 40 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 |
+| 40 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 41 | [Stadionai](https://open.spotify.com/track/4IBVt8rAiedyPBORzksLDt) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu), [Rokas](https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt) | [Stadionai](https://open.spotify.com/album/0zcZe6CH2EouUkfFLzv89J) | 3:14 |
 | 42 | [Beržas \(feat\. Monika Liu\)](https://open.spotify.com/track/5GY1DG6DwtqCv7au849YRu) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd), [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [Plastika](https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF) | 4:25 |
 | 43 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 | 45 | [ŽGŽ](https://open.spotify.com/track/5huvzLuhcODlPfXsaosgMq) | [Aklì](https://open.spotify.com/artist/5N0PoQbetugQlXM24VAJG4), [Austieja](https://open.spotify.com/artist/0BscxXwwkLiL6QqDTPX4cf) | [ŽGŽ](https://open.spotify.com/album/2KeP60KpyWWd8OtV0Ekbj2) | 4:04 |
 | 46 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
 | 47 | [Papaoutai \- Afro Soul](https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Chill77](https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s), [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Papaoutai \(Afro Soul\)](https://open.spotify.com/album/7BBGsKeuO9m0shHaMpHCTk) | 4:39 |
-| 48 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 48 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 49 | [Turn The Lights Off \(feat\. Jon\)](https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Discolized](https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f) | 2:57 |
 | 50 | [Tarp Geltonų Rūtų](https://open.spotify.com/track/7oT03aTBgEAC3MqizjLL71) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Sutemos](https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A) | 2:03 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

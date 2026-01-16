@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Ari Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,362 likes - 295 songs - 14 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,383 likes - 295 songs - 14 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

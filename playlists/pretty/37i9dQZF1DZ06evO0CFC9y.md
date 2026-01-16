@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Death Of The Party](https://open.spotify.com/track/7dpnJOu6tMtRXyC61uGNVm) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:21 |
 | 50 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 |
 
-Snapshot ID: `aWWLAAAAAABVlV2Y9Fwe55R1rN7gPJb8`
+Snapshot ID: `aWbcgAAAAADY6PvsYGSt5fEPHUnhmPJd`

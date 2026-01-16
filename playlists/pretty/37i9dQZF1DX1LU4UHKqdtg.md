@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: MISAMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,558 likes - 81 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,571 likes - 81 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Chini Tacchini.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: CARLANGAS.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "3 Segundos",
+        "url": "https://open.spotify.com/album/5HDNvHz7P9yFb6vrKzwyhk"
+      },
+      "artists": [
+        {
+          "name": "Ruto Ne\u00f3n",
+          "url": "https://open.spotify.com/artist/327WgTZ4vsVGhVliK40k5T"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183954,
+      "name": "3 Segundos",
+      "url": "https://open.spotify.com/track/3M6vZ1u8NPRwH6A8NEWxb1"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/0YVmZnTxwPMfUFQ3LxEojk"
       },
@@ -326,7 +348,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 151500,
       "name": "Achantao en 80bpm",
       "url": "https://open.spotify.com/track/6BY1NmONEbtL2sY9ZRk7QC"
@@ -822,7 +844,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 224680,
       "name": "angelito",
       "url": "https://open.spotify.com/track/19Qv79nXtWfMDIMgFUREpS"
@@ -1558,6 +1580,24 @@
       "duration_ms": 148240,
       "name": "campamento base",
       "url": "https://open.spotify.com/track/35WFkBGSmeqyx7fqnoYsEl"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n de Amor N\u00ba1000",
+        "url": "https://open.spotify.com/album/2myTKpnu0EeYXm968x46Vp"
+      },
+      "artists": [
+        {
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228333,
+      "name": "Canci\u00f3n de Amor N\u00ba1000",
+      "url": "https://open.spotify.com/track/4Sz9XD4afgzLSFGwYz7tqo"
     },
     {
       "album": {
@@ -4393,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Feliz Enero Papa",
+        "url": "https://open.spotify.com/album/3pQeIYlkKMUWPDiagE5taN"
+      },
+      "artists": [
+        {
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Feliz Enero Papa",
+      "url": "https://open.spotify.com/track/42sbuwzj8rkkbhzpRrdsLX"
+    },
+    {
+      "album": {
         "name": "Femme Fatale",
         "url": "https://open.spotify.com/album/1NBwBH1VuTQu3sTNR8HeKy"
       },
@@ -6319,6 +6377,24 @@
     },
     {
       "album": {
+        "name": "Ca\u00edda Libre",
+        "url": "https://open.spotify.com/album/6ZkWKq5hKSuGg5fTYlLCiT"
+      },
+      "artists": [
+        {
+          "name": "Volavent",
+          "url": "https://open.spotify.com/artist/6Mh7nmPPk64ydB0liVmXRb"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180556,
+      "name": "Llegar a lo m\u00e1s alto",
+      "url": "https://open.spotify.com/track/69PPkQ17l0vwXuTbJTe3CF"
+    },
+    {
+      "album": {
         "name": "Llenita de nueva luz (feat. diego vega)",
         "url": "https://open.spotify.com/album/0CjgeB8fbuJy5zX3T1TBYt"
       },
@@ -6628,7 +6704,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 225000,
       "name": "loquetienequeser.",
       "url": "https://open.spotify.com/track/5uHFDPiaPlBorYKY8lLnrI"
@@ -7336,7 +7412,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 140307,
       "name": "MERCURIO",
       "url": "https://open.spotify.com/track/7hsGQ1OHnned3qIx4URtfB"
@@ -8632,7 +8708,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 192850,
       "name": "Nuestra Forma de Hablar",
       "url": "https://open.spotify.com/track/5ygPD4YuTA8Tn1GIaYq1E3"
@@ -9015,6 +9091,24 @@
     },
     {
       "album": {
+        "name": "Otro Verano",
+        "url": "https://open.spotify.com/album/7757cblBdxp8Dtphfbpc0j"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263669,
+      "name": "Otro Verano",
+      "url": "https://open.spotify.com/track/1gaDKQPYU6yhbIuHCCxiwa"
+    },
+    {
+      "album": {
         "name": "Pa Que Los Veas T\u00fa",
         "url": "https://open.spotify.com/album/3RQsrtBNp8YU9UA5lIA8ZJ"
       },
@@ -9264,7 +9358,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 146533,
       "name": "PELLIZCO",
       "url": "https://open.spotify.com/track/2fqicai7b4Pr0o6SYgkFbC"
@@ -9478,6 +9572,28 @@
       "duration_ms": 183200,
       "name": "Plastificar",
       "url": "https://open.spotify.com/track/2CCRJ9I82UJb3LokB5Ewc2"
+    },
+    {
+      "album": {
+        "name": "Podr\u00eda Ser Peor",
+        "url": "https://open.spotify.com/album/7B6o3HwzV3FmQaQudLCF2A"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163597,
+      "name": "Podr\u00eda Ser Peor",
+      "url": "https://open.spotify.com/track/4QX91oATP2YYAkxbGACFQi"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: Father John Misty
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,439 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,437 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Old Law](https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Old Law](https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na) | 4:41 |
 | 2 | [Here Comes The Summer](https://open.spotify.com/track/1o3VBLCPBjwM9npexE4Ig0) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [Here Comes The Summer](https://open.spotify.com/album/6WT7wDTt8ZUawLduyUKRTs) | 3:36 |
 | 3 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 |
-| 4 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 4 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 5 | [Leave on your light](https://open.spotify.com/track/5N1HyfEiNByqST0DeZkRif) | [NINON](https://open.spotify.com/artist/3DBmqq0D2KK0q4z7B71dCL) | [Leave on your light](https://open.spotify.com/album/6yttWMuRcyrsj0t1bk4Qmp) | 2:40 |
 | 6 | [Youman](https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Youman](https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv) | 3:36 |
 | 7 | [I Will Wait For You](https://open.spotify.com/track/7hiFzbTjQg3Xc1TrAAb7mR) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [I Will Wait For You](https://open.spotify.com/album/1QSUuLr1vGrlLxu9yRk2nK) | 3:23 |

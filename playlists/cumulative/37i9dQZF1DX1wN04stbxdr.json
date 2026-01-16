@@ -521,6 +521,32 @@
     },
     {
       "album": {
+        "name": "Elektrisk",
+        "url": "https://open.spotify.com/album/40IR6P8ox7OUd6MK1uciEE"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143541,
+      "name": "Elektrisk",
+      "url": "https://open.spotify.com/track/0mQOTQHZ64Xojgf7ypkrKh"
+    },
+    {
+      "album": {
         "name": "Hver Gang Vi M\u00f8tes 2024",
         "url": "https://open.spotify.com/album/2UFpcqs6uBYYbgIYHfu0JI"
       },
@@ -792,6 +818,28 @@
       "duration_ms": 195709,
       "name": "F\u00f8lelser",
       "url": "https://open.spotify.com/track/2k99mwxVgN8hpcVx6OWhRf"
+    },
+    {
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/3Avkrb1LbfKqn8dBYeeI57"
+      },
+      "artists": [
+        {
+          "name": "Musti",
+          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149320,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/0yAKQvJ6z7qAEuUZCcGjyX"
     },
     {
       "album": {
@@ -1329,6 +1377,32 @@
     },
     {
       "album": {
+        "name": "Lommeringe (feat. Emma Steinbakken)",
+        "url": "https://open.spotify.com/album/0BPKNoGYFszX7D6whMtZMO"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "Lommeringe (feat. Emma Steinbakken)",
+      "url": "https://open.spotify.com/track/3Uu2LAOqiEG3ydnTYT4Y6l"
+    },
+    {
+      "album": {
         "name": "Long Natt",
         "url": "https://open.spotify.com/album/2ZzK2UGINUP0rf2TUW7rCB"
       },
@@ -1760,6 +1834,28 @@
       "duration_ms": 176093,
       "name": "Please, bli hos meg",
       "url": "https://open.spotify.com/track/6WvgSShy6ikqdE6B4ZmXZB"
+    },
+    {
+      "album": {
+        "name": "Plystre p\u00e5 d\u00e6",
+        "url": "https://open.spotify.com/album/2WxhlCr2Yh9LbDQzGGUaMe"
+      },
+      "artists": [
+        {
+          "name": "Espen Lind",
+          "url": "https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201928,
+      "name": "Plystre p\u00e5 d\u00e6",
+      "url": "https://open.spotify.com/track/2tm21APvsWvg2oR9lIsapD"
     },
     {
       "album": {
@@ -2343,6 +2439,28 @@
     },
     {
       "album": {
+        "name": "Uforgl\u00f8ymeleg",
+        "url": "https://open.spotify.com/album/6lkofj2lqubxYCkbMjuawi"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204403,
+      "name": "Uforgl\u00f8ymeleg",
+      "url": "https://open.spotify.com/track/04oAUrZcBoWjgcHu5UU462"
+    },
+    {
+      "album": {
         "name": "Under v\u00e5re laken",
         "url": "https://open.spotify.com/album/5yODFEPfLq1PmKRuNwyAQ3"
       },
@@ -2454,6 +2572,28 @@
       "duration_ms": 210416,
       "name": "Viss ein song kan gje meg deg",
       "url": "https://open.spotify.com/track/4Bu9bJgLS4TgR2Y9VQdbIX"
+    },
+    {
+      "album": {
+        "name": "When all the lights go out",
+        "url": "https://open.spotify.com/album/5TdzymnQ4Rsx3bzSyHbcca"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194962,
+      "name": "When all the lights go out",
+      "url": "https://open.spotify.com/track/6Dr15t2VHlpQDyfySJdvcx"
     },
     {
       "album": {

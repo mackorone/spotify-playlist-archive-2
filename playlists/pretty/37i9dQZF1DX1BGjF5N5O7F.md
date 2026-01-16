@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > we didn't even kiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,537 likes - 101 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,524 likes - 101 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

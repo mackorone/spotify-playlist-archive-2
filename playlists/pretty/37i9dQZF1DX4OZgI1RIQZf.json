@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 143516,
+  "num_followers": 143499,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
+        "name": "Never Truly Happy",
+        "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
+      },
+      "artists": [
+        {
+          "name": "NESYA",
+          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
+        }
+      ],
+      "duration_ms": 136459,
+      "name": "delulu",
+      "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 211493,
       "name": "Hunting for Witches",
       "url": "https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
-        "name": "Never Truly Happy",
-        "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
-      },
-      "artists": [
-        {
-          "name": "NESYA",
-          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
-        }
-      ],
-      "duration_ms": 136459,
-      "name": "delulu",
-      "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
     },
     {
       "added_at": "2025-11-03 08:50:06",

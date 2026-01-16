@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,559 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,575 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,19 +79,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 69 | [Un simbronazo](https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO) | [Los Cate](https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:03 |
 | 70 | [Mi Anhelo](https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:44 |
 | 71 | [La Flecha](https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Con Los Grandes](https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA) | 2:09 |
-| 72 | [Vete](https://open.spotify.com/track/2nYzufWjnRBtBEf9ggFtXA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Vete](https://open.spotify.com/album/2HdWMcTl16okf4GA4QQf3K) | 3:18 |
+| 72 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 |
 | 73 | [La Ofelia](https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM) | [Abelardo Dimotta](https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:38 |
 | 74 | [Nostalgias Camperas](https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s), [Dúo Ubeda / Chavez](https://open.spotify.com/artist/58fMfIAKCyYaNnqL65U7b8) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:34 |
-| 75 | [Palomita Mensajera](https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:02 |
-| 76 | [Temple guarani](https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R) | [Juancito el Peregrino](https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:28 |
-| 77 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 |
+| 75 | [Temple guarani](https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R) | [Juancito el Peregrino](https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:28 |
+| 76 | [Palomita Mensajera](https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:02 |
+| 77 | [Vete](https://open.spotify.com/track/2nYzufWjnRBtBEf9ggFtXA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Vete](https://open.spotify.com/album/2HdWMcTl16okf4GA4QQf3K) | 3:18 |
 | 78 | [Adios palomita ingrata](https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3) | [Palomita y Teresita base](https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
 | 79 | [Flor del Litoral](https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:51 |
 | 80 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
 | 81 | [El Jazmín de Tu Recuerdo](https://open.spotify.com/track/1wLFjUwgQFsbuYrdkJhICz) | [Lacho Sena](https://open.spotify.com/artist/6mdVeA18EaI5CBBs0X3dK3) | [Desde el Corazón de Corrientes](https://open.spotify.com/album/79qBF7mZkeyaPFbykHAnIo) | 2:51 |
 | 82 | [Felicidades madrecita](https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe) | [Mario Romero canta Espindola Escobar](https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:40 |
-| 83 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
-| 84 | [Mi Triste Fantasia](https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:06 |
+| 83 | [Mi Triste Fantasia](https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:06 |
+| 84 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
 | 85 | [Porque te fuiste](https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D) | [Duo Aranda Palacio](https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:04 |
 | 86 | [Compañera](https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:19 |
 | 87 | [Pasion oculta](https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:25 |

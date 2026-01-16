@@ -1,13 +1,33 @@
 {
   "description": "Our favourite new music, curated by the XL team. ",
-  "num_followers": 16594,
+  "num_followers": 16595,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "AAAZOVKp/mlpRKhUV4tMJmhLI+klr3La",
+  "snapshot_id": "AAAZO+vTib9/QcCJAEguayRjL/ExAG2P",
   "tracks": [
+    {
+      "added_at": "2026-01-15 18:25:37",
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/0ha55i7NcC11bRLjQhFh80"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 233486,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/2S5gnw0IFfABbzxlDyjlGG"
+    },
     {
       "added_at": "2025-11-07 10:51:19",
       "album": {

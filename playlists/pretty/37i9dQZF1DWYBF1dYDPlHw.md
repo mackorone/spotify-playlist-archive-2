@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 
 > The classics, the modern hits, the genre at it's best\.  Cover: Foals
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,741 likes - 300 songs - 18 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,740 likes - 300 songs - 18 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

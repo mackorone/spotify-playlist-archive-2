@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1243796,
+  "num_followers": 1243844,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Born To Be Wild (Best Of....)",
+        "url": "https://open.spotify.com/album/14Gu72n79AHDrcFWJ86mdc"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 348560,
+      "name": "The Pusher",
+      "url": "https://open.spotify.com/track/28sa14rbWiHZPs9m1IeDI5"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Fifth Dimension",
         "url": "https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 265080,
       "name": "Five To One",
       "url": "https://open.spotify.com/track/4IxCudQYUrgPu6qVrwnB5p"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Born To Be Wild (Best Of....)",
-        "url": "https://open.spotify.com/album/14Gu72n79AHDrcFWJ86mdc"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 348560,
-      "name": "The Pusher",
-      "url": "https://open.spotify.com/track/28sa14rbWiHZPs9m1IeDI5"
     }
   ],
   "unique_name": "Psychedelic Rock",

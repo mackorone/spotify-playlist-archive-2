@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: josefe
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,308 likes - 67 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,228 likes - 67 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

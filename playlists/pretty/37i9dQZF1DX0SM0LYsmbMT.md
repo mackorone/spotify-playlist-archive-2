@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,234,550 likes - 250 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,234,507 likes - 250 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,8 +252,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 242 | [Walk Man](https://open.spotify.com/track/3dkkAQxhrqSax0K5LKB7Xs) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Walk Man](https://open.spotify.com/album/0207ZP0EfLixTqVx53YCik) | 2:41 |
 | 243 | [Whatnot](https://open.spotify.com/track/22C2VHNuZVvPegO22pMoEf) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Whatnot](https://open.spotify.com/album/4VFA0E7IatpLoVnaK5pmul) | 2:41 |
 | 244 | [Jam Time](https://open.spotify.com/track/1PABTmSsFLvGZU6mHno48x) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Jam Time](https://open.spotify.com/album/3GFzmpEOkocS4PdEXigapH) | 2:00 |
-| 245 | [Pennies](https://open.spotify.com/track/6AXC881cTIHH1nfdxJqOx5) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [Pennies](https://open.spotify.com/album/5uA7E5lPHOyRuV3fqONgWF) | 1:55 |
-| 246 | [Arrive](https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Arrive](https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze) | 1:41 |
+| 245 | [Arrive](https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Arrive](https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze) | 1:41 |
+| 246 | [Pennies](https://open.spotify.com/track/6AXC881cTIHH1nfdxJqOx5) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [Pennies](https://open.spotify.com/album/5uA7E5lPHOyRuV3fqONgWF) | 1:55 |
 | 247 | [Midnight Drive](https://open.spotify.com/track/0RgCZ9RKtQGQpvfASJ01B6) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Midnight Drive](https://open.spotify.com/album/2xhBvccmGt1oKQ2SiIJbeV) | 1:51 |
 | 248 | [Empty Glass](https://open.spotify.com/track/5sCwBoZMMfooOx4eGYtN2a) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Empty Glass](https://open.spotify.com/album/46MnfoSu0VfVrdhGOexH0W) | 1:32 |
 | 249 | [Chillwalk](https://open.spotify.com/track/19Cm2BhY04tNN9iXEGGfin) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Chillwalk](https://open.spotify.com/album/5QlsKNPbwKUWP3LzekUlwy) | 2:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uG3nl.md) - [plain]
 
 > This is Addison Rae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,612 likes - 14 songs - 38 min 18 sec
+[Spotify](https://open.spotify.com/user/spotify) - 8,620 likes - 14 songs - 38 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

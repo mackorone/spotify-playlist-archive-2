@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: VICKY",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Katja Krasavice, Ikkimel",
   "name": "me right now",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 198316,
       "name": "1 ADLER",
       "url": "https://open.spotify.com/track/36an2kIaMv6GW7UaNXTWTw"
@@ -3144,7 +3144,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 162989,
       "name": "Alles Nochmal",
       "url": "https://open.spotify.com/track/6DG5Flwe2Q0T48x64aodRm"
@@ -3206,6 +3206,24 @@
       "duration_ms": 127175,
       "name": "alles verloren",
       "url": "https://open.spotify.com/track/5mjlXpzwGp0iCZKQWU2lqL"
+    },
+    {
+      "album": {
+        "name": "alles versucht (tja)",
+        "url": "https://open.spotify.com/album/456oHPEFqCZe4jLu0ckZ72"
+      },
+      "artists": [
+        {
+          "name": "Maiva",
+          "url": "https://open.spotify.com/artist/5DluYS6gq7pRws9o6EgVd5"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140443,
+      "name": "alles versucht (tja)",
+      "url": "https://open.spotify.com/track/3Tuyaz79IoDB3SHQ5dzNrJ"
     },
     {
       "album": {
@@ -5933,6 +5951,42 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222512,
+      "name": "bad enough",
+      "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
+    },
+    {
+      "album": {
+        "name": "bad girl",
+        "url": "https://open.spotify.com/album/1RCnITQ0rXmx4JIDXgHJzc"
+      },
+      "artists": [
+        {
+          "name": "DUEJA",
+          "url": "https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "bad girl",
+      "url": "https://open.spotify.com/track/6pSfV0uoYgozYfJiYVm1aU"
+    },
+    {
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
@@ -7432,7 +7486,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 150733,
       "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
       "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
@@ -7498,6 +7552,24 @@
       "duration_ms": 123292,
       "name": "BIKINI GRELL",
       "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
+    },
+    {
+      "album": {
+        "name": "Bilder gel\u00f6scht",
+        "url": "https://open.spotify.com/album/0bm9QBdzlyofiaGLjdxp9w"
+      },
+      "artists": [
+        {
+          "name": "Rasa",
+          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128208,
+      "name": "Bilder gel\u00f6scht",
+      "url": "https://open.spotify.com/track/0wKWqXhfHCguE2ylxibYOc"
     },
     {
       "album": {
@@ -7760,6 +7832,28 @@
       "duration_ms": 139322,
       "name": "Bist du noch hier?",
       "url": "https://open.spotify.com/track/4wmDcVX8875ieUtLN8469N"
+    },
+    {
+      "album": {
+        "name": "Bitch (feat. Ikkimel)",
+        "url": "https://open.spotify.com/album/1pRTWtQ3KGQXFuzlI4oWrc"
+      },
+      "artists": [
+        {
+          "name": "Katja Krasavice",
+          "url": "https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134854,
+      "name": "Bitch (feat. Ikkimel)",
+      "url": "https://open.spotify.com/track/47SANiKPFr9ahY9rublsio"
     },
     {
       "album": {
@@ -10526,7 +10620,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 155528,
       "name": "Claw Marks",
       "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
@@ -14202,7 +14296,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 147146,
       "name": "Dreamin",
       "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
@@ -16903,6 +16997,24 @@
     },
     {
       "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -18847,6 +18959,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136205,
+      "name": "fremdknutschen",
+      "url": "https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN"
+    },
+    {
+      "album": {
         "name": "French Nails",
         "url": "https://open.spotify.com/album/27MfpZoTZHr8OWIsgjCXCB"
       },
@@ -20280,7 +20410,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 156041,
       "name": "geklaut",
       "url": "https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy"
@@ -20780,6 +20910,24 @@
       "duration_ms": 129356,
       "name": "Gewitter",
       "url": "https://open.spotify.com/track/2C6iVosp38MLFqHKLDRFo4"
+    },
+    {
+      "album": {
+        "name": "Gezeichnet von dir",
+        "url": "https://open.spotify.com/album/74f5BH05TncUY0a5t1jnN8"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155373,
+      "name": "Gezeichnet von dir",
+      "url": "https://open.spotify.com/track/4lqnNr4rUIJeySO6G6RXlX"
     },
     {
       "album": {
@@ -21983,6 +22131,24 @@
     },
     {
       "album": {
+        "name": "Gro\u00dfstadtkinder",
+        "url": "https://open.spotify.com/album/6j51gtdQrQDM0TggpH5TcJ"
+      },
+      "artists": [
+        {
+          "name": "mo\u00e9",
+          "url": "https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113755,
+      "name": "Gro\u00dfstadtkinder",
+      "url": "https://open.spotify.com/track/1ZBpgyrzhn8jD3iXC65D5t"
+    },
+    {
+      "album": {
         "name": "Grund zum Feiern",
         "url": "https://open.spotify.com/album/4i6dgeo8zgXnnKQWWwn8d7"
       },
@@ -22860,7 +23026,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 172149,
       "name": "Hass auf den letzten Blick",
       "url": "https://open.spotify.com/track/2DnwnhbNZgEE9xL3gpuXae"
@@ -24117,6 +24283,24 @@
     },
     {
       "album": {
+        "name": "High On Heaven",
+        "url": "https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "High On Heaven",
+      "url": "https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR"
+    },
+    {
+      "album": {
         "name": "Highlife",
         "url": "https://open.spotify.com/album/4A9h68y8sVTAQ3FQOIsxv6"
       },
@@ -24910,7 +25094,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 162552,
       "name": "Hunde",
       "url": "https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1"
@@ -25670,7 +25854,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -26174,7 +26358,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 146200,
       "name": "ich brauch dich.",
       "url": "https://open.spotify.com/track/1s4T9OQo5ffusLx3KEN1Sq"
@@ -26235,6 +26419,24 @@
     },
     {
       "album": {
+        "name": "ICH GEH ALLEIN",
+        "url": "https://open.spotify.com/album/4hh95TESUJcxjLcwsFrf0u"
+      },
+      "artists": [
+        {
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112303,
+      "name": "ICH GEH ALLEIN",
+      "url": "https://open.spotify.com/track/7K3QB4M8hnsqquXTM4IIfu"
+    },
+    {
+      "album": {
         "name": "ich glaub ich",
         "url": "https://open.spotify.com/album/4the8S6XlsLrZMkgGzkLMN"
       },
@@ -26246,7 +26448,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 166100,
       "name": "ich glaub ich",
       "url": "https://open.spotify.com/track/1mVADHCWdiSsCQdtTlgppI"
@@ -31984,7 +32186,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 194826,
       "name": "Liebe",
       "url": "https://open.spotify.com/track/1ZZXvHOj2w46xknyOK6i9P"
@@ -32842,6 +33044,28 @@
       "duration_ms": 176933,
       "name": "Lola rennt",
       "url": "https://open.spotify.com/track/4rNlJBQ0elqgGU1XD3RQ01"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/73eC5wTTB0XFpHUZ29ma8X"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160540,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0Z6wRXvwfrCGZSZRmbOnAi"
     },
     {
       "album": {
@@ -39156,7 +39380,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -40628,7 +40852,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 186203,
       "name": "Oke",
       "url": "https://open.spotify.com/track/3SRwieXrzjkMvqLGCG6cha"
@@ -41338,7 +41562,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 162201,
       "name": "Orchideen",
       "url": "https://open.spotify.com/track/6aN0HIwaRufPehOAZxFCEl"
@@ -41770,7 +41994,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 152319,
       "name": "PANORAMA DACH",
       "url": "https://open.spotify.com/track/5kEQgrqSo1jtCjQ8PMydGK"
@@ -42426,6 +42650,24 @@
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "album": {
+        "name": "people pleaser",
+        "url": "https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189110,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk"
     },
     {
       "album": {
@@ -43164,6 +43406,24 @@
       "duration_ms": 267520,
       "name": "Pluto Projector",
       "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
+    },
+    {
+      "album": {
+        "name": "Schlau aber blond",
+        "url": "https://open.spotify.com/album/6gSNgh5SP5Pr7C7HHA5RSD"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145365,
+      "name": "pms",
+      "url": "https://open.spotify.com/track/4X7nZHyzzzxW0Fz0SHeQ4W"
     },
     {
       "album": {
@@ -48509,6 +48769,24 @@
     },
     {
       "album": {
+        "name": "skinny jeans",
+        "url": "https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "skinny jeans",
+      "url": "https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U"
+    },
+    {
+      "album": {
         "name": "BAD ASS F*CKING KID",
         "url": "https://open.spotify.com/album/4mpTd22gLh4zNxJZJbcOxO"
       },
@@ -53192,7 +53470,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
@@ -54352,6 +54630,24 @@
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w"
     },
     {
       "album": {
@@ -59563,6 +59859,24 @@
     },
     {
       "album": {
+        "name": "Wenn ich will",
+        "url": "https://open.spotify.com/album/6hBhvvz8vnkRu0YY4HN0xI"
+      },
+      "artists": [
+        {
+          "name": "6euroneunzig",
+          "url": "https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "Wenn ich will",
+      "url": "https://open.spotify.com/track/3lfcl9HogPQH41YKH4qGcM"
+    },
+    {
+      "album": {
         "name": "Wenn nichts von nichts kommt",
         "url": "https://open.spotify.com/album/46bMQ81dlrfU3sRfGuNECZ"
       },
@@ -62612,6 +62926,24 @@
       "duration_ms": 121600,
       "name": "Zu Viel Dopamin",
       "url": "https://open.spotify.com/track/44KEKRyMQIC4YBupZG2Li3"
+    },
+    {
+      "album": {
+        "name": "Zu viel f\u00fcr dich",
+        "url": "https://open.spotify.com/album/4W1Qcez71VJ8OhnGMiTI9i"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144201,
+      "name": "Zu viel f\u00fcr dich",
+      "url": "https://open.spotify.com/track/1KMUUppymUMTNfp5dfCFWk"
     },
     {
       "album": {

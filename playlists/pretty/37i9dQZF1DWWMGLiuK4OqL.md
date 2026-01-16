@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,839 likes - 200 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,860 likes - 200 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,12 +192,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 182 | [I'll Tell You Something](https://open.spotify.com/track/5aHWPIWwqo4cjAJj40C4hc) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [I'll Tell You Something](https://open.spotify.com/album/7icT4J8ofNlqAujrQvmUTv) | 4:11 |
 | 183 | [City Garden](https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/6ziyb5Tcw8wGU9hISjQZEr) | 6:34 |
 | 184 | [Tenderly](https://open.spotify.com/track/0Yz5dTTup2vLhklobv3Qac) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:44 |
-| 185 | [My Revelation](https://open.spotify.com/track/6Ag1owqQsyMVBfIaXFOYcV) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Meshuga Baby](https://open.spotify.com/album/3HahJJpwuLOh40uDe8Ia1W) | 3:21 |
+| 185 | [Makin' Whoopee](https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Makin' Whoopee](https://open.spotify.com/album/3wyxpaIWVZj6DNOU1qgE3S) | 4:24 |
 | 186 | [Comment Allez Vous](https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki By Starlight](https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz) | 2:18 |
 | 187 | [I Remember You](https://open.spotify.com/track/2VHSj38QBpDCqCrAYv5ErA) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 4:05 |
 | 188 | [Something In The Air Between Us](https://open.spotify.com/track/6GBqHQAW0Z16wsQQzN65i4) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/2oGYlZ7vte6lJ1MuwKKCeW) | 4:12 |
 | 189 | [Day Dream](https://open.spotify.com/track/73meRvUTsRHm6Rf0klY4Jf) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Day Dream](https://open.spotify.com/album/7gzHf9YPAQUKBt7vdl0vl2) | 5:21 |
-| 190 | [Makin' Whoopee](https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Makin' Whoopee](https://open.spotify.com/album/3wyxpaIWVZj6DNOU1qgE3S) | 4:24 |
+| 190 | [My Revelation](https://open.spotify.com/track/6Ag1owqQsyMVBfIaXFOYcV) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Meshuga Baby](https://open.spotify.com/album/3HahJJpwuLOh40uDe8Ia1W) | 3:21 |
 | 191 | [All I Do Is Dream of You](https://open.spotify.com/track/7hDBWYQAsf932DH1yXhKA3) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Hushabye Mountain](https://open.spotify.com/album/1P8FJOJUZf979YeyrzRAsZ) | 3:28 |
 | 192 | [It Could Happen to You](https://open.spotify.com/track/6rZWAzKugoYcEqlhPN9DWv) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [It Could Happen to You](https://open.spotify.com/album/5eLzriz99PfQs49eCfHAZ6) | 3:32 |
 | 193 | [And If You Please](https://open.spotify.com/track/7065TeNvF2nMoBv6yD3CIz) | [Mario Romano](https://open.spotify.com/artist/2jFXgkiRAvxNTZQ4rQVg9b), [Jackie Richardson](https://open.spotify.com/artist/1pla8afeXCjPKlzJe6wyQA) | [Fenyrose Non Dimenticar](https://open.spotify.com/album/6Rhkna0aH4rERryCt4gSaa) | 4:31 |

@@ -1,6 +1,6 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 633603,
+  "num_followers": 633604,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
@@ -2523,6 +2523,22 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
+        "name": "Junto al Mar",
+        "url": "https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB"
+      },
+      "artists": [
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "duration_ms": 278244,
+      "name": "Junto al Mar",
+      "url": "https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
         "name": "Un Beso M\u00e1s (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l"
       },
@@ -2539,22 +2555,6 @@
       "duration_ms": 198917,
       "name": "Un Beso M\u00e1s - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
-        "name": "Junto al Mar",
-        "url": "https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB"
-      },
-      "artists": [
-        {
-          "name": "Sofia Macchi",
-          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
-        }
-      ],
-      "duration_ms": 278244,
-      "name": "Junto al Mar",
-      "url": "https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -2707,18 +2707,18 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "Clich\u00e9",
-        "url": "https://open.spotify.com/album/7aVEWvrRBqfRArFCJUtfVf"
+        "name": "Sin respirar",
+        "url": "https://open.spotify.com/album/0qTZiyp0vUHvUFt0xSIOMl"
       },
       "artists": [
         {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
         }
       ],
-      "duration_ms": 224459,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/4LibnjBGrnHExVThKnN3BG"
+      "duration_ms": 189017,
+      "name": "Sin respirar",
+      "url": "https://open.spotify.com/track/62HdGq5m6wEOY7Pvlc75GE"
     }
   ],
   "unique_name": "Caf\u00e9 con Leche",

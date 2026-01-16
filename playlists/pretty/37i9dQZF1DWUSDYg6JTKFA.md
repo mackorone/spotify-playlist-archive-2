@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,234 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,242 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 89 | [No Longer Slaves \(Radio Version\) \[feat\. Jonathan David Helser & Melissa Helser\]](https://open.spotify.com/track/37sWianweYMt42ZoSABn6y) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [No Longer Slaves \(Radio Version\) \[feat\. Jonathan David Helser & Melissa Helser\]](https://open.spotify.com/album/3R0kFFdsc82KAmQlH1WqG0) | 4:07 |
 | 90 | [On My Side](https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 4:19 |
 | 91 | [Even Then](https://open.spotify.com/track/1y6Xu9iSTxUeUjDJyfu61e) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/68jTvE3jFe31IaDI6GdJFK) | 3:16 |
-| 92 | [Giving Up](https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [A New Reality \(Deluxe Version\)](https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf) | 3:35 |
-| 93 | [Hope Has a Name](https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/6c0wkMQRpJeXiDgv74lklV) | 4:48 |
+| 92 | [Hope Has a Name](https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/6c0wkMQRpJeXiDgv74lklV) | 4:48 |
+| 93 | [Giving Up](https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [A New Reality \(Deluxe Version\)](https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf) | 3:35 |
 | 94 | [Mansion](https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Mansion](https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN) | 4:11 |
 | 95 | [Mover of Mountains \(Live\)](https://open.spotify.com/track/7tj72TNjfyaYeYyQ01yNhP) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2) | [Mover of Mountains](https://open.spotify.com/album/2lpkPfilFnBtHHqwbVk92G) | 5:44 |
 | 96 | [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 |

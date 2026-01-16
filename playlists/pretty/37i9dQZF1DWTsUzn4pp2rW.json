@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 191291,
+  "num_followers": 191313,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -1607,6 +1607,30 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/5UZgnCc9E19cfNuhLKD2Pg"
+      },
+      "artists": [
+        {
+          "name": "Wilson's Prom",
+          "url": "https://open.spotify.com/artist/0bOBdnpYotkdGUEdcFoa9M"
+        },
+        {
+          "name": "Feelds",
+          "url": "https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W"
+        },
+        {
+          "name": "Merpire",
+          "url": "https://open.spotify.com/artist/453zlrMQd9y8WApAIe9tkV"
+        }
+      ],
+      "duration_ms": 184835,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/2uqVepDuWS6R39JMwIxUuW"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Sleepy Time",
         "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
       },
@@ -1639,6 +1663,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Before I Do",
+      "url": "https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Catwoman",
         "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
       },
@@ -1651,78 +1691,6 @@
       "duration_ms": 211343,
       "name": "Catwoman",
       "url": "https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
-      },
-      "artists": [
-        {
-          "name": "Untitled Band",
-          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "You're Fine",
-        "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
-      },
-      "artists": [
-        {
-          "name": "Barbra Lica",
-          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "The Birds and the Bees",
-      "url": "https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Back to the Start",
-        "url": "https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6"
-      },
-      "artists": [
-        {
-          "name": "Gordon Robertson",
-          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
-        }
-      ],
-      "duration_ms": 196154,
-      "name": "Back to the Start",
-      "url": "https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Thinking of You",
-        "url": "https://open.spotify.com/album/5UZgnCc9E19cfNuhLKD2Pg"
-      },
-      "artists": [
-        {
-          "name": "Wilson's Prom",
-          "url": "https://open.spotify.com/artist/0bOBdnpYotkdGUEdcFoa9M"
-        },
-        {
-          "name": "Feelds",
-          "url": "https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W"
-        },
-        {
-          "name": "Merpire",
-          "url": "https://open.spotify.com/artist/453zlrMQd9y8WApAIe9tkV"
-        }
-      ],
-      "duration_ms": 184835,
-      "name": "Thinking of You",
-      "url": "https://open.spotify.com/track/2uqVepDuWS6R39JMwIxUuW"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1743,18 +1711,50 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Same Soul",
-        "url": "https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
       },
       "artists": [
         {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+          "name": "Untitled Band",
+          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
         }
       ],
-      "duration_ms": 293504,
-      "name": "Your Hands",
-      "url": "https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc"
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Back to the Start",
+        "url": "https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6"
+      },
+      "artists": [
+        {
+          "name": "Gordon Robertson",
+          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
+        }
+      ],
+      "duration_ms": 196154,
+      "name": "Back to the Start",
+      "url": "https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "The Birds and the Bees",
+      "url": "https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb"
     }
   ],
   "unique_name": "Jazz Pop",

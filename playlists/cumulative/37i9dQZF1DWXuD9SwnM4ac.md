@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: waterbaby
 
-1,260 songs - 3 day 0 hr 23 min
+1,261 songs - 3 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,7 +876,7 @@
 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 | 2025-09-11 | 2025-11-07 |
 | [pitpony](https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc) | [Second House](https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB) | [pitpony](https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c) | 2:36 | 2025-01-30 | 2025-02-28 |
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-10-16 | 2025-12-05 |
-| [pixeldust 18+](https://open.spotify.com/track/3g26F5dbTkGlszlSkXqvaC) | [eli wan](https://open.spotify.com/artist/0qhHbyKPbVyS51pjxelspT) | [pixeldust 18+](https://open.spotify.com/album/7tZZv29EgyItYDGeac8lNL) | 3:33 | 2025-11-13 |  |
+| [pixeldust 18+](https://open.spotify.com/track/3g26F5dbTkGlszlSkXqvaC) | [eli wan](https://open.spotify.com/artist/0qhHbyKPbVyS51pjxelspT) | [pixeldust 18+](https://open.spotify.com/album/7tZZv29EgyItYDGeac8lNL) | 3:33 | 2025-11-13 | 2026-01-16 |
 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 | 2024-05-30 | 2024-07-12 |
 | [PLEASE](https://open.spotify.com/track/7oIy5tbk0oUTnuZ2jeJ7Xo) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [PLEASE](https://open.spotify.com/album/7rEQ82f79p2pl05LQ0WQ3K) | 3:27 | 2025-01-23 | 2025-02-14 |
 | [Please Don't Move To Melbourne](https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Please Don't Move To Melbourne](https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz) | 4:51 | 2025-02-06 | 2025-04-04 |
@@ -899,7 +899,7 @@
 | [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-13 |  |
 | [Problem](https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Problem](https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD) | 3:58 | 2025-01-30 | 2025-03-21 |
 | [Prove](https://open.spotify.com/track/3b0xNfVAT1xj3hRkl23PD6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [It Starts Again](https://open.spotify.com/album/6Pgc6rfkN8tH7Di52bEXnQ) | 3:04 | 2025-10-09 | 2026-01-15 |
-| [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-01-15 |  |
+| [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-01-15 |  |
 | [Purple Teeth, The Bravery](https://open.spotify.com/track/3RbZSOQW9pgZtrnMqrLnAM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Purple Teeth, The Bravery](https://open.spotify.com/album/0IYQON1mYTy2JaE8VUHnmV) | 3:04 | 2024-08-15 | 2024-09-27 |
 | [Quest Luv](https://open.spotify.com/track/3CTrIOnDBoxXRWe2nqVbJy) | [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Quest Luv](https://open.spotify.com/album/5geYy0tygTE8xVkiG8E8v8) | 3:48 | 2024-09-12 | 2024-10-11 |
 | [ragged](https://open.spotify.com/track/3d1s3iEJLz0IRDtx2NiN7a) | [King Howe](https://open.spotify.com/artist/7AUxtXhXm1FrUo1YyspgiV), [Ragged Blossom](https://open.spotify.com/artist/1E87XnnxCOTW92Ef6GGvOR) | [ragged](https://open.spotify.com/album/2ofuD4Ta1KuSRd8B5N8ENk) | 2:27 | 2025-12-04 |  |
@@ -921,6 +921,7 @@
 | [Road Rage](https://open.spotify.com/track/2oqS42cUvvGe6RyLcxPzOl) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [Road Rage](https://open.spotify.com/album/11X46xn7c7uoPDQyIHR1pk) | 3:30 | 2024-11-07 | 2024-11-29 |
 | [Rocketship](https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Rocketship](https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj) | 1:56 | 2025-01-09 | 2025-02-28 |
 | [Rodeo](https://open.spotify.com/track/4lA2t93lXgoe1NAzgP2b6u) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rodeo](https://open.spotify.com/album/26tjiIfV5xBjTbTHbX8XFP) | 3:19 | 2025-04-03 | 2025-04-25 |
+| [romp](https://open.spotify.com/track/1JAD1TsssVNoZM4kvSykCH) | [Kinji](https://open.spotify.com/artist/52BlbTWmOsQ3K4hA1tOluh) | [Thunderhead](https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed) | 4:31 | 2026-01-15 |  |
 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 | 2025-10-23 | 2025-12-05 |
 | [rosemary](https://open.spotify.com/track/4AmTtFkNqOcfjuV3PTUAkj) | [annie hamilton](https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH) | [rosemary](https://open.spotify.com/album/7hoTie5haMGFgvJ0MyNGh5) | 3:29 | 2025-11-27 |  |
 | [Roses](https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Roses](https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu) | 3:35 | 2024-08-15 | 2024-09-20 |

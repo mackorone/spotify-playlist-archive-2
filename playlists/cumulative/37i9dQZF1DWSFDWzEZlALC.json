@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Cordoba78",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JBS, Karina Rose",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 179760,
       "name": "Alles bisschen viel grade",
       "url": "https://open.spotify.com/track/5zA0pTPsMhgaFDzKeZv5VD"
@@ -2335,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Atmen",
+        "url": "https://open.spotify.com/album/4kMMhDsEiHK040n0ezN6qi"
+      },
+      "artists": [
+        {
+          "name": "ALLESS.",
+          "url": "https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Atmen",
+      "url": "https://open.spotify.com/track/4dvvUH98XgjXSMuJYqQnDU"
+    },
+    {
+      "album": {
         "name": "Die Zweiten Schritte",
         "url": "https://open.spotify.com/album/1o1Cyi9v2PK4rvVzt4ZWRZ"
       },
@@ -2618,7 +2636,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 151465,
       "name": "ausnahmsweise",
       "url": "https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx"
@@ -4526,7 +4544,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 164000,
       "name": "Chemie!",
       "url": "https://open.spotify.com/track/1QKopFXR6uqTKR9wowDtTy"
@@ -5457,6 +5475,24 @@
     },
     {
       "album": {
+        "name": "DER KOPIERER",
+        "url": "https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179467,
+      "name": "DER KOPIERER",
+      "url": "https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31"
+    },
+    {
+      "album": {
         "name": "Der letzte Dinosaurier",
         "url": "https://open.spotify.com/album/11o9d9xQ2JbXICrxe9yuKp"
       },
@@ -6354,7 +6390,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 169002,
       "name": "Du Fehlst Hier",
       "url": "https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7"
@@ -7737,6 +7773,24 @@
     },
     {
       "album": {
+        "name": "Es k\u00f6nnte alles ganz anders sein",
+        "url": "https://open.spotify.com/album/2zS8zR8pGV2NLBZQYIUWvD"
+      },
+      "artists": [
+        {
+          "name": "Kapa Tult",
+          "url": "https://open.spotify.com/artist/2wto2E5zWPkws9yYwk81XM"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137266,
+      "name": "Es k\u00f6nnte alles ganz anders sein",
+      "url": "https://open.spotify.com/track/1Y3ZEUTGwmL5vhdXb1jngU"
+    },
+    {
+      "album": {
         "name": "Es k\u00f6nnte kaum sch\u00f6ner sein",
         "url": "https://open.spotify.com/album/4hMkHNxP1dsI9322YAKUnk"
       },
@@ -8966,6 +9020,24 @@
       "duration_ms": 131360,
       "name": "Fremde Stadt",
       "url": "https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136205,
+      "name": "fremdknutschen",
+      "url": "https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN"
     },
     {
       "album": {
@@ -10423,6 +10495,24 @@
     },
     {
       "album": {
+        "name": "Gro\u00dfstadtkinder",
+        "url": "https://open.spotify.com/album/6j51gtdQrQDM0TggpH5TcJ"
+      },
+      "artists": [
+        {
+          "name": "mo\u00e9",
+          "url": "https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113755,
+      "name": "Gro\u00dfstadtkinder",
+      "url": "https://open.spotify.com/track/1ZBpgyrzhn8jD3iXC65D5t"
+    },
+    {
+      "album": {
         "name": "gr\u00e4sslich h\u00e4sslich",
         "url": "https://open.spotify.com/album/6elPSmRmPmUHaEgtyffNbq"
       },
@@ -10710,6 +10800,42 @@
       "duration_ms": 124035,
       "name": "Halb leeres Glas",
       "url": "https://open.spotify.com/track/4WKP1YJZgeTcbUjvjSN94o"
+    },
+    {
+      "album": {
+        "name": "halb mensch halb tv",
+        "url": "https://open.spotify.com/album/2D1CzrBdHpQY5tWbD1Wr3S"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147882,
+      "name": "halb mensch halb tv",
+      "url": "https://open.spotify.com/track/4RDulVhSmKz7Cnx3CXIL7L"
+    },
+    {
+      "album": {
+        "name": "Halb So Sch\u00f6n Wie Du",
+        "url": "https://open.spotify.com/album/4RVp5nMug7J4xhvUVSP6kS"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205647,
+      "name": "Halb So Sch\u00f6n Wie Du",
+      "url": "https://open.spotify.com/track/0aFDcdFXQDju2mUpcZGFhQ"
     },
     {
       "album": {
@@ -13540,7 +13666,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 185630,
       "name": "Kalt gemacht",
       "url": "https://open.spotify.com/track/4hnvcOBmr1WN7TJ0whBbvw"
@@ -14418,7 +14544,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 131858,
       "name": "Kleiner Herbst",
       "url": "https://open.spotify.com/track/3M4X1K2aZlY43ahioolPkV"
@@ -16398,7 +16524,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 154500,
       "name": "Mach Was Ich Will",
       "url": "https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF"
@@ -16420,6 +16546,24 @@
       "duration_ms": 131244,
       "name": "machs f\u00fcr dich allein",
       "url": "https://open.spotify.com/track/0RkKUD6Q8l15P4DAwnRean"
+    },
+    {
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/3Mg5toj2GeadBVAjvRbiOR"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155482,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/5HmeC9Mv4IFmxeIX135sVE"
     },
     {
       "album": {
@@ -16568,6 +16712,28 @@
       "duration_ms": 169987,
       "name": "Manchmal",
       "url": "https://open.spotify.com/track/5EyaNjaGLRK56ZUqs49bGL"
+    },
+    {
+      "album": {
+        "name": "Manchmal",
+        "url": "https://open.spotify.com/album/3dLpsXrqZHIzNgPA2IVPMs"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        },
+        {
+          "name": "Karina Rose",
+          "url": "https://open.spotify.com/artist/3ucTACZuBlt5HPmpH6QOmI"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171202,
+      "name": "Manchmal",
+      "url": "https://open.spotify.com/track/5br8BWCW8il8CKtysx9qLH"
     },
     {
       "album": {
@@ -19479,6 +19645,24 @@
     },
     {
       "album": {
+        "name": "people pleaser",
+        "url": "https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189110,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk"
+    },
+    {
+      "album": {
         "name": "Perfekt",
         "url": "https://open.spotify.com/album/5BBa3S7iNAuxVLmGLsAqgN"
       },
@@ -22321,6 +22505,24 @@
     },
     {
       "album": {
+        "name": "skinny jeans",
+        "url": "https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "skinny jeans",
+      "url": "https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U"
+    },
+    {
+      "album": {
         "name": "SMS an Mama",
         "url": "https://open.spotify.com/album/3gPgKapGoedvuFOIA6aMHw"
       },
@@ -22686,7 +22888,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 171562,
       "name": "sommer",
       "url": "https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6"
@@ -24950,7 +25152,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 139694,
       "name": "Tut gut",
       "url": "https://open.spotify.com/track/3eVCkfRvRbGI0xtYLrkIoO"
@@ -27438,7 +27640,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 141274,
       "name": "Wie du",
       "url": "https://open.spotify.com/track/2wgmhgtrg8mxD8Y7sBRXbo"
@@ -28728,7 +28930,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 168493,
       "name": "Zukunftsangst",
       "url": "https://open.spotify.com/track/1GbzDnAbOpPXSb5xIgW54P"

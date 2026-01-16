@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 37 | [Knock It Off](https://open.spotify.com/track/1wymEUdNjJMH3JKLviAxTt) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 3:01 |
 | 38 | [Poor Judge](https://open.spotify.com/track/2KNggbuQTEKOqhEQgQ1YXI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 3:33 |
 | 39 | [Invisible Ink](https://open.spotify.com/track/2KGK6tkAxNAnz66PxVyg3R) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/5gl67XfmbbdmfJKPkR9rIe) | 4:59 |
-| 40 | [Thirty One Today](https://open.spotify.com/track/4YyMiAFXbxQ71g0fdbqeVF) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 4:52 |
-| 41 | [Winning the War](https://open.spotify.com/track/6i9TOevIr3XDVq2MMzbB6C) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:04 |
+| 40 | [Winning the War](https://open.spotify.com/track/6i9TOevIr3XDVq2MMzbB6C) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:04 |
+| 41 | [Thirty One Today](https://open.spotify.com/track/4YyMiAFXbxQ71g0fdbqeVF) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 4:52 |
 | 42 | [Love in a Vacuum](https://open.spotify.com/track/2uYMbE0sFDyujyxIzIUiqf) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:36 |
 | 43 | [High on Sunday 51](https://open.spotify.com/track/2mMeUx5UStdjnozctLwB8p) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 3:15 |
 | 44 | [The Fall of the World's Own Optimist](https://open.spotify.com/track/50lAkWiBZbEeOfkWrr8j7m) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor No\. 2 \(Or, The Last Remains of the Dodo\)](https://open.spotify.com/album/41Qh3WL5sMD76RZKWWGWQw) | 3:07 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 89 | [Give Me Fifteen](https://open.spotify.com/track/4BsXBJGmQRdYwycT5JrNbn) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:42 |
 | 90 | [You're With Stupid Now](https://open.spotify.com/track/1KMrRIYGxU3jsGzD5fGe17) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:29 |
 | 91 | [Ballantines](https://open.spotify.com/track/5kDodzIoHv0WNNtwoOsLLI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 2:21 |
-| 92 | [The Other End \(Of The Telescope\)](https://open.spotify.com/track/031BORKOyhNOfhCaJEXc3R) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:51 |
-| 93 | [Checks](https://open.spotify.com/track/04flaUqyLAa4bBN4eXtKv7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:34 |
+| 92 | [Checks](https://open.spotify.com/track/04flaUqyLAa4bBN4eXtKv7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:34 |
+| 93 | [The Other End \(Of The Telescope\)](https://open.spotify.com/track/031BORKOyhNOfhCaJEXc3R) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:51 |
 | 94 | [Red Flag Diver](https://open.spotify.com/track/6rWEXZ7XaV5ijYBKteeu5n) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 2:30 |
 | 95 | [Slip and Roll](https://open.spotify.com/track/2EKO7UUCBX6pJ6eJsCB5hq) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 4:12 |
 | 96 | [Medicine Wheel](https://open.spotify.com/track/5NF3y5V3zN2swspWfZW6bK) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 4:08 |
 | 97 | [\(Believed You Were\) Lucky](https://open.spotify.com/track/3Lm7hSTabr01oav0WdSsuD) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:36 |
-| 98 | [Gumby](https://open.spotify.com/track/5FQOrAMfQuMFRHS3x2ShQ2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 2:54 |
-| 99 | [The King of the Jailhouse](https://open.spotify.com/track/05ofQzVshh0SqVqawplofZ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 5:19 |
+| 98 | [The King of the Jailhouse](https://open.spotify.com/track/05ofQzVshh0SqVqawplofZ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 5:19 |
+| 99 | [Gumby](https://open.spotify.com/track/5FQOrAMfQuMFRHS3x2ShQ2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 2:54 |
 | 100 | [I Can't Get My Head Around It](https://open.spotify.com/track/3lPzZX513duhMXjtpBhfrn) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 3:37 |
 | 101 | [She Really Wants You](https://open.spotify.com/track/3zb0HhenugDeG9cmMxf6AU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 3:26 |
 | 102 | [Barfly](https://open.spotify.com/track/216qBjZA9i0J6yh7AnoJad) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 4:01 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 126 | [Jacob Marley's Chain](https://open.spotify.com/track/3MvkWS2gAegv8zPhci1oVL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:01 |
 | 127 | [You Don't Have the Room](https://open.spotify.com/track/5AXqkpZaDcwQYKx32jxkNB) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 4:06 |
 | 128 | [Say Anything](https://open.spotify.com/track/455wWMvRblV4B5RYTCZavI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:57 |
-| 129 | [You Can't Help Me Now](https://open.spotify.com/track/3q5sexZPs7eF2PAWRCT5jT) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:38 |
-| 130 | [All Over Now](https://open.spotify.com/track/40dx7WB6BNF47h7YIEmJq2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:02 |
+| 129 | [All Over Now](https://open.spotify.com/track/40dx7WB6BNF47h7YIEmJq2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:02 |
+| 130 | [You Can't Help Me Now](https://open.spotify.com/track/3q5sexZPs7eF2PAWRCT5jT) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:38 |
 | 131 | [No One Is Watching You Now](https://open.spotify.com/track/1ko1dRz3L0wj0AWqsoCbQ1) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 3:53 |
 | 132 | [You Could Have Been a Roosevelt](https://open.spotify.com/track/2dU0Wk5jvZmygM7qobHZ2n) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:07 |
 | 133 | [Par For The Course](https://open.spotify.com/track/4bGXy2S9unA288Pf4IVRfU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 6:01 |
@@ -156,8 +156,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 146 | [No Sir](https://open.spotify.com/track/5wWI1B8FajA5J1LXL0yhFD) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:46 |
 | 147 | [Lovers' Day](https://open.spotify.com/track/0Gx3aOKq8NlewS6aERcIyx) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:18 |
 | 148 | [Nightmare Girl](https://open.spotify.com/track/6Ygq7cVcSAU2dfIV0of7Tl) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space \(Deluxe Edition\)](https://open.spotify.com/album/2wZRKa4OYNivyrEzakqB7E) | 3:49 |
-| 149 | [Crash And Burn](https://open.spotify.com/track/2Jtg7Mu89QUJVUtEzddMJj) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:46 |
-| 150 | [Check \(reprise\)](https://open.spotify.com/track/3BF0Cb5Qdu7ZraE1RywMed) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:57 |
+| 149 | [Check \(reprise\)](https://open.spotify.com/track/3BF0Cb5Qdu7ZraE1RywMed) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 0:57 |
+| 150 | [Crash And Burn](https://open.spotify.com/track/2Jtg7Mu89QUJVUtEzddMJj) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:46 |
 | 151 | [Limits To Love](https://open.spotify.com/track/2nARrMS9EOkj6oFAoxM5aU) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:36 |
 | 152 | [Have Mercy](https://open.spotify.com/track/1lRvdABhq6Puw62G4huStA) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:54 |
 | 153 | [Sleeping and Waking](https://open.spotify.com/track/1LQSoaEEz8Uio3O0JPT8XW) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 3:23 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `AcGKngAAAAAeJGlmEGClH7pvBXf+We2W`
+Snapshot ID: `AcHCygAAAAC7kOlDMnPbM1sZmGRj+17M`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > Enfin, la chanson tant attendue de Heated Rivalry, signée par un artiste québécois\. Photo: Peter Peter
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,247 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,245 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

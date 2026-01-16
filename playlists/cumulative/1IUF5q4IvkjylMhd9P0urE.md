@@ -4,7 +4,7 @@
 
 > Our favourite new music, curated by the XL team.
 
-882 songs - 2 day 2 hr 18 min
+883 songs - 2 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Laughing for the West](https://open.spotify.com/track/6MRqPCdqqDWW9cNkF7qZGP) | [Joe Winter](https://open.spotify.com/artist/2F1YcOBnAkQInPSRcT5yjv) | [Laughing for the West](https://open.spotify.com/album/5J9rH7mgK7gW2zHxZAmExU) | 3:25 | 2022-12-15 | 2023-02-11 |
 | [Lavish \(feat\. Redders\)](https://open.spotify.com/track/5VRnOOYvlSHKLjD3yAB9mT) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk) | [Lavish \(feat\. Redders\)](https://open.spotify.com/album/4necD8Wd7Zp8aMepQvwhAK) | 2:23 | 2024-09-07 | 2025-03-21 |
 | [leaf](https://open.spotify.com/track/6YWdYTD9jC9yaWp7aC4TDV) | [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ), [Hagan](https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU) | [leaf](https://open.spotify.com/album/4PsEZWoSrgOobCFiSvLEFM) | 3:58 | 2025-10-01 |  |
+| [Lean](https://open.spotify.com/track/2S5gnw0IFfABbzxlDyjlGG) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [Lean](https://open.spotify.com/album/0ha55i7NcC11bRLjQhFh80) | 3:53 | 2026-01-15 |  |
 | [Let Go](https://open.spotify.com/track/3lVz9NRdm8xtQCBZqCoEaB) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Let Go](https://open.spotify.com/album/2hYPJwL4zvk4cmczkjBpvv) | 3:49 | 2022-10-10 | 2022-12-20 |
 | [Let Go / I'm Fresh](https://open.spotify.com/track/4rcu1W1it83gp3xahJ7pIi) | [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee) | [Let Go / I'm Fresh](https://open.spotify.com/album/1ZWiS4FLm40D56GyfnINw5) | 3:09 | 2024-12-09 | 2025-06-26 |
 | [Let You Go \(Jerseyclub\)](https://open.spotify.com/track/25UA9IohP8GQmhjgNbWCgc) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [THE BLUEPRINT](https://open.spotify.com/album/62I8O3GT0uK6VKElr3oQwW) | 2:03 | 2023-08-03 | 2023-12-08 |

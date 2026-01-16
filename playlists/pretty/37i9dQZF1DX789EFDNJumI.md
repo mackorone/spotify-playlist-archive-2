@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX789EFDNJumI.md) - [plain]
 
 > Get your party jumping with this mix of pop, hip\-hop, & dance hits 🎉 Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,974 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,014 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

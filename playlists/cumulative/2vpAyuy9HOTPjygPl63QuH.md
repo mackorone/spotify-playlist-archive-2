@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,383 songs - 5 day 14 hr 15 min
+2,384 songs - 5 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1991,6 +1991,7 @@
 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 | 2022-06-24 | 2022-07-02 |
 | [Tamo Loco](https://open.spotify.com/track/19EwqyuwH4Na6bnOlIe3O0) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tamo Loco](https://open.spotify.com/album/0vsLnW41TjwuMgZI9kd0zA) | 2:40 | 2022-07-01 | 2022-07-10 |
 | [Tantra](https://open.spotify.com/track/7r5P4pGQEb6LlZonogTpVh) | [DEEP INSIDE \(UA\)](https://open.spotify.com/artist/6pbIQVTgSgtIEgPcbt4AFh), [TAU \(UA\)](https://open.spotify.com/artist/6OLybB0kzvZsaAPl3o6lcI) | [Tantra](https://open.spotify.com/album/4gv6XKdDCF5eJtmy7u2aqF) | 5:51 | 2023-04-22 | 2023-04-29 |
+| [Tap That](https://open.spotify.com/track/10Z2ViSDjIXKW5dB1Oog1X) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Tap That](https://open.spotify.com/album/7iLjS24vCdwEHXTENrz9TD) | 2:48 | 2026-01-16 |  |
 | [Tarantula \- Max Styler Remix](https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Tarantula \(Max Styler Remix\)](https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1) | 3:21 | 2024-03-17 | 2024-03-30 |
 | [Targa](https://open.spotify.com/track/0QN7gdtDObMcnhWTKXqb2O) | [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Targa](https://open.spotify.com/album/2gGsxnuv7r7POARudVVnw4) | 3:06 | 2023-05-12 | 2023-05-20 |
 | [Tatum](https://open.spotify.com/track/4NWWqEMt5ENo4HGj0wlvdQ) | [Siwell](https://open.spotify.com/artist/3ktDOdSifPv7lXzeyXX1J1) | [Tatum](https://open.spotify.com/album/3vUQquQ6mxYB7ZEvdkQchi) | 3:51 | 2023-07-15 | 2023-08-05 |

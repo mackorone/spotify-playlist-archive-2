@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Toton Caribo",
-  "num_followers": 144796,
+  "num_followers": 144821,
   "original_name": "Naik Daun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABCJ/Ji2eonTSGva/ZWO782MmWVt",
+  "snapshot_id": "AAAAAKmQoEXhbuKJvAjKExUqctDfXhV6",
   "tracks": [
     {
       "added_at": "2026-01-15 17:00:38",
@@ -311,6 +311,22 @@
       "duration_ms": 186455,
       "name": "Nyaman Yang Ku Pilih",
       "url": "https://open.spotify.com/track/0DPLckXVQ5szKNjnYCVw25"
+    },
+    {
+      "added_at": "2026-01-15 17:24:12",
+      "album": {
+        "name": "Rindu",
+        "url": "https://open.spotify.com/album/3XFDpilOXSWR2as0Evjpqf"
+      },
+      "artists": [
+        {
+          "name": "ANGEL PIETERS",
+          "url": "https://open.spotify.com/artist/7asPKvMVP4x1mey64TS3PA"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "Rindu",
+      "url": "https://open.spotify.com/track/6AoyuecwUT33mJXQBMOhgX"
     },
     {
       "added_at": "2026-01-15 17:00:38",

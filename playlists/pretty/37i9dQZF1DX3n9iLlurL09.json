@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 108464,
+  "num_followers": 108476,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/3Lx8YDSuswGCfV8Tsb6i4E"
-      },
-      "artists": [
-        {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
-        }
-      ],
-      "duration_ms": 204031,
-      "name": "Good As New",
-      "url": "https://open.spotify.com/track/0XIHRIerpIPFLCjlgeLHbN"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "The John Wayne",
         "url": "https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 291636,
       "name": "The John Wayne",
       "url": "https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/3Lx8YDSuswGCfV8Tsb6i4E"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "duration_ms": 204031,
+      "name": "Good As New",
+      "url": "https://open.spotify.com/track/0XIHRIerpIPFLCjlgeLHbN"
     }
   ],
   "unique_name": "Best of Indie 2012",

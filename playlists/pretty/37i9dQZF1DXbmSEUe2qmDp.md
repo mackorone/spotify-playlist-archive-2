@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Gabriel Borges, Luiza Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,525 likes - 68 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,514 likes - 68 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

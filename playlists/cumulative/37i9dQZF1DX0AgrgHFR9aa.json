@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Doria",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Relo",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -1137,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "Candidat",
+        "url": "https://open.spotify.com/album/63eO1a7AmjPlPi8nUXTcO3"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Candidat",
+      "url": "https://open.spotify.com/track/3niWrofogF5tROLqscxeyK"
+    },
+    {
+      "album": {
         "name": "Ce qu'ils veulent",
         "url": "https://open.spotify.com/album/6VSe1tblSprgXjY0ySkLzM"
       },
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 176946,
       "name": "Ce qui restera",
       "url": "https://open.spotify.com/track/453CZ5QOvjjiP2C9mMGfEh"
@@ -1642,6 +1660,24 @@
       "duration_ms": 187013,
       "name": "Dans ma ville",
       "url": "https://open.spotify.com/track/1Pkcszs6KEZqvVHKUVZtlp"
+    },
+    {
+      "album": {
+        "name": "Au commencement c'est toujours la nuit",
+        "url": "https://open.spotify.com/album/6zOoaUu7ZBX7E16ls5OpBy"
+      },
+      "artists": [
+        {
+          "name": "L'ami Caccio",
+          "url": "https://open.spotify.com/artist/2I1eSf1CyqmhvvOYLVt16p"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201346,
+      "name": "Darin Baker",
+      "url": "https://open.spotify.com/track/05F4Ya4H4Bf1vZj5bk4g1z"
     },
     {
       "album": {
@@ -2289,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "GAVROCHE",
+        "url": "https://open.spotify.com/album/0jFA8S73O3U6U5Fmny2qWq"
+      },
+      "artists": [
+        {
+          "name": "Dysto",
+          "url": "https://open.spotify.com/artist/5nhHDbEuy2vGrzOqo2179s"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121248,
+      "name": "GAVROCHE",
+      "url": "https://open.spotify.com/track/7tS5th1dPmFgZYCggjRzh9"
+    },
+    {
+      "album": {
         "name": "NIRVANA",
         "url": "https://open.spotify.com/album/5p583Gi2HJlcjJDQ7R2Tox"
       },
@@ -2532,7 +2586,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 364008,
       "name": "H22",
       "url": "https://open.spotify.com/track/2ARNUVQzaTpKQkktRFcX7g"
@@ -3136,7 +3190,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 118481,
       "name": "L'eau qui dort",
       "url": "https://open.spotify.com/track/1Q9scxOTlgFez4sZ2AJk6H"
@@ -3802,7 +3856,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 203403,
       "name": "Le temps n'emporte rien",
       "url": "https://open.spotify.com/track/3yn2iWbOwDp9eahAoppErl"
@@ -4054,6 +4108,24 @@
       "duration_ms": 152058,
       "name": "Libre-penseur",
       "url": "https://open.spotify.com/track/76r0QoAnrdoeyYWJ1lxYru"
+    },
+    {
+      "album": {
+        "name": "LITTERATURE DU REEL",
+        "url": "https://open.spotify.com/album/2V4xnnr1aysJLiK4u67Xcm"
+      },
+      "artists": [
+        {
+          "name": "Relo",
+          "url": "https://open.spotify.com/artist/5BFtEJBJahei6oC8llF8sf"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158314,
+      "name": "LITTERATURE DU REEL",
+      "url": "https://open.spotify.com/track/1ccupoPsSkr8WQm96kwhlV"
     },
     {
       "album": {
@@ -4529,6 +4601,28 @@
     },
     {
       "album": {
+        "name": "MIRAGE",
+        "url": "https://open.spotify.com/album/7D6Rx8bkffH1JRtW6PaIbI"
+      },
+      "artists": [
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
+        },
+        {
+          "name": "DJA-K",
+          "url": "https://open.spotify.com/artist/6nhNyDEwoYhrkAER8Bv7Hg"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "MIRAGE",
+      "url": "https://open.spotify.com/track/1sDVl9pyLep3T18P2uVQH3"
+    },
+    {
+      "album": {
         "name": "MODE CRYPT\u00c9",
         "url": "https://open.spotify.com/album/0NMoRqiuQw7ink1OfSsxHa"
       },
@@ -4632,7 +4726,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 177040,
       "name": "Ne pas m'aimer",
       "url": "https://open.spotify.com/track/08L1ePVF6FfAuw3C8b07iy"
@@ -5222,7 +5316,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 201879,
       "name": "PLUS QUE DES RIMES",
       "url": "https://open.spotify.com/track/2BTF51YrSRqb7J3vvWUCOa"
@@ -5340,6 +5434,32 @@
       "duration_ms": 266153,
       "name": "Poussez vous 5",
       "url": "https://open.spotify.com/track/2kHX4FsWy0dDitXd7bO9L4"
+    },
+    {
+      "album": {
+        "name": "Poussi\u00e8re d\u2019\u00e9toiles sur le Polo Sport",
+        "url": "https://open.spotify.com/album/5p6wzshjQfb5IsnwO0iB0k"
+      },
+      "artists": [
+        {
+          "name": "PyrrhvsMani",
+          "url": "https://open.spotify.com/artist/3G1wy2R7XbCsTjcWPlGvKK"
+        },
+        {
+          "name": "Akhenaton",
+          "url": "https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu"
+        },
+        {
+          "name": "Sweet Fries Beats",
+          "url": "https://open.spotify.com/artist/2Znv4EtAXAfyIlAwrdfNFZ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193817,
+      "name": "Poussi\u00e8re d\u2019\u00e9toiles sur le Polo Sport",
+      "url": "https://open.spotify.com/track/7apeuODqp6b0oi09BS2KXp"
     },
     {
       "album": {

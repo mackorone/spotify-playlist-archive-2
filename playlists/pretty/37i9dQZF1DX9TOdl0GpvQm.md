@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 
 > deep dark ambient and half\-remembered hypnagogic soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,524 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,542 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 | 84 | [Angel Fossil 天使化石](https://open.spotify.com/track/166BtXtfNGtQf7REpNBBa6) | [Yikii](https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm) | [The Crow\-Cyan Lake 鸦青湖畔](https://open.spotify.com/album/3y1AC3NQFIXIAmMYzkkl4x) | 4:16 |
 | 85 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
 | 86 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
-| 87 | [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 |
-| 88 | [Stabbed In The Face](https://open.spotify.com/track/0XnbRFRIcUnagFtRhvsn7C) | [Wolf Eyes](https://open.spotify.com/artist/6UahQwC9EZGsFSuGjHJNe1) | [Burned Mind](https://open.spotify.com/album/6w5J0DRWsa1vSNOtim8kjp) | 3:39 |
+| 87 | [Stabbed In The Face](https://open.spotify.com/track/0XnbRFRIcUnagFtRhvsn7C) | [Wolf Eyes](https://open.spotify.com/artist/6UahQwC9EZGsFSuGjHJNe1) | [Burned Mind](https://open.spotify.com/album/6w5J0DRWsa1vSNOtim8kjp) | 3:39 |
+| 88 | [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 |
 | 89 | [Broken Theme](https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ) | [Chrome Canyon](https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T) | [Director](https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL) | 2:09 |
 | 90 | [Kinky Korner Klub](https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU) | [The Focus Group](https://open.spotify.com/artist/1rBMmvtO1VqLH4kSpe5oaU) | [The Elektrik Karousel](https://open.spotify.com/album/4JvqNOHhRlmmRedc3NK7v8) | 2:24 |
 | 91 | [Galactic Pulse](https://open.spotify.com/track/6tgs5jLx331P1rjGeSLoZV) | [Retep Folo](https://open.spotify.com/artist/0b3JoBlAB8qvm40kPJe2yU) | [Galactic Sounds](https://open.spotify.com/album/2rp2et7vphJtxSniKKD85T) | 2:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,127 likes - 250 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,157 likes - 250 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,8 +203,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 193 | [IV \- Radio Edit](https://open.spotify.com/track/6C4562gxI9xAheQBbidV28) | [Tom Hodge](https://open.spotify.com/artist/3cHyQs5f4NsAP4LI61G4TO), [Ollie Howell](https://open.spotify.com/artist/6NA5FJR3uBU3T5eVWUsww9), [Ciaran Morahan](https://open.spotify.com/artist/5dME39wvlkpKMR5i7gGkCX), [Collisions](https://open.spotify.com/artist/07x3l0totVsCpV03su5v3M) | [IV \(Radio Edit\)](https://open.spotify.com/album/6es8foodItN0QQapJNbTWt) | 4:18 |
 | 194 | [Nowhere](https://open.spotify.com/track/3Q1wh0DxsauTGfKKy3LMzU) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Tide](https://open.spotify.com/album/5cJeyYSYfVbnnOsRaqkD1G) | 3:04 |
 | 195 | [So That The City Can Begin To Exist](https://open.spotify.com/track/4LNHI3ugcaRGEfa4D0zNtM) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [So That The City Can Begin To Exist](https://open.spotify.com/album/6IcKIhLBwBhYDnC37Nlnuk) | 4:46 |
-| 196 | [Itasca](https://open.spotify.com/track/4rCH64jtPj5dp8jSXAVYWg) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Itasca](https://open.spotify.com/album/09bjLlMvqD9DdXFApfZQen) | 2:46 |
-| 197 | [Respite](https://open.spotify.com/track/4GseyfbqLyCeaUeXOmsCY2) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Time It Takes](https://open.spotify.com/album/3VUREi1t32vVvHnr01Kjkr) | 3:01 |
+| 196 | [Respite](https://open.spotify.com/track/4GseyfbqLyCeaUeXOmsCY2) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Time It Takes](https://open.spotify.com/album/3VUREi1t32vVvHnr01Kjkr) | 3:01 |
+| 197 | [Itasca](https://open.spotify.com/track/4rCH64jtPj5dp8jSXAVYWg) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Itasca](https://open.spotify.com/album/09bjLlMvqD9DdXFApfZQen) | 2:46 |
 | 198 | [Breeze](https://open.spotify.com/track/6jJzqzB4IYzlm04dlqnc0l) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Breeze](https://open.spotify.com/album/7drDLG1fv14tS43OQS2igi) | 3:25 |
 | 199 | [I'll see you in 21 days](https://open.spotify.com/track/4UZC44nlpBIznBrAUKQGgl) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [I'll see you in 21 days](https://open.spotify.com/album/6JQWU4rb25aKO5HuKsWdXi) | 3:50 |
 | 200 | [Heartbreak](https://open.spotify.com/track/5neTcT8wNCDxw6wkLeUc7v) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [Heartbreak](https://open.spotify.com/album/0SlbToWhqsZdKOREMbBwKr) | 3:28 |

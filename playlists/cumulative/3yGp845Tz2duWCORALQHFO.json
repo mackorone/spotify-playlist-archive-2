@@ -70129,6 +70129,24 @@
     },
     {
       "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3JyNWLo5oHH08gLHpQaFX7"
+      },
+      "artists": [
+        {
+          "name": "FREDERIC",
+          "url": "https://open.spotify.com/artist/4sQjflsxjSR9LDYYu4U6Jy"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153727,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/426acnRWhYwQNnKhGEDR2F"
+    },
+    {
+      "album": {
         "name": "Reasons to Love You (Space 92 Remix)",
         "url": "https://open.spotify.com/album/28UE1mPg4KkrFEqzdWXFej"
       },
@@ -86934,6 +86952,28 @@
       "duration_ms": 236250,
       "name": "The Sky Below",
       "url": "https://open.spotify.com/track/1h0B578x28yd4bdIH71erz"
+    },
+    {
+      "album": {
+        "name": "The Sleeper",
+        "url": "https://open.spotify.com/album/3S6ptdNdjSoUjgP4eLXLx0"
+      },
+      "artists": [
+        {
+          "name": "Mala'kai",
+          "url": "https://open.spotify.com/artist/5yrQaGtBMRudJctcPQtTE5"
+        },
+        {
+          "name": "Nat James",
+          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "The Sleeper",
+      "url": "https://open.spotify.com/track/2NNNd2TvXmzBg1MWsvqVXw"
     },
     {
       "album": {

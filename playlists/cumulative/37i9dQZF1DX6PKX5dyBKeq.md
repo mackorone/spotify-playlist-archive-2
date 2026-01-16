@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: AntsLive
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: BXKS
 
-2,225 songs - 4 day 14 hr 19 min
+2,227 songs - 4 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,7 +588,7 @@
 | [DND](https://open.spotify.com/track/5lCgUInjbMSBVuWmfHG7W9) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Nightmare Before Christmas](https://open.spotify.com/album/5sxTwXizIVDkg6B1zKW7v4) | 3:36 | 2024-11-29 | 2025-04-11 |
 | [DND In Greece](https://open.spotify.com/track/14ExPpNKL4lwCkVQYWJ52y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [DND In Greece](https://open.spotify.com/album/1SeV85VSq6CzYA2Qy7N3fe) | 2:08 | 2022-09-23 | 2022-10-22 |
 | [Do It](https://open.spotify.com/track/4e7RrVTWhJED66wH5l0IAo) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v) | [Do It](https://open.spotify.com/album/15lizp5pm5TRIBcXljwzSf) | 2:53 | 2021-03-06 | 2021-04-17 |
-| [Do Too Much](https://open.spotify.com/track/7iPrQixC1StJegCF468i5T) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Do Too Much](https://open.spotify.com/album/56eEJD1fje5QRQGAeRyjMw) | 1:38 | 2025-11-07 |  |
+| [Do Too Much](https://open.spotify.com/track/7iPrQixC1StJegCF468i5T) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Do Too Much](https://open.spotify.com/album/56eEJD1fje5QRQGAeRyjMw) | 1:38 | 2025-11-07 | 2026-01-16 |
 | [Dobale](https://open.spotify.com/track/5A2S9kOi1Kj13sxXCQJOId) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Dobale](https://open.spotify.com/album/2AM7noC8ah9wpla6ySLeBl) | 2:34 | 2020-10-16 | 2020-11-23 |
 | [Doe’d Up](https://open.spotify.com/track/3U8uXDAakV8xPVkBE9th4B) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Doe’d Up](https://open.spotify.com/album/5kfFvmehPhHzMCdZDuEkuo) | 4:10 | 2020-11-06 | 2020-12-18 |
 | [Dog Mout](https://open.spotify.com/track/5nWeo7ARPdLB2yJLEgH2D5) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Dog Mout](https://open.spotify.com/album/7i2e8sYjRNrJqNVKgmxaKo) | 3:32 | 2022-11-18 | 2023-01-06 |
@@ -689,7 +689,7 @@
 | [Every Season](https://open.spotify.com/track/4WjYwEmTeoiKqJQJACuJdA) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Neighbourhood](https://open.spotify.com/album/4qtjFx1Id9ADMFltJknbEK) | 2:32 | 2024-07-05 | 2024-09-27 |
 | [Everybody Knows](https://open.spotify.com/track/1rukVwJA2iC5Sx3wq2TliI) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Everybody Knows](https://open.spotify.com/album/2VZAtWEvKIReS3GDF38Kyf) | 2:49 | 2023-06-08 | 2023-07-28 |
 | [Everyday](https://open.spotify.com/track/5X04jyKedcufuGh7Q9ZkMq) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Everyday](https://open.spotify.com/album/0HtDDfNqqjCiKhiUEiO2F8) | 2:31 | 2025-09-18 | 2025-09-20 |
-| [Everyday](https://open.spotify.com/track/6PW7IX53uKCB1woGe0Uak5) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Don't Look Down](https://open.spotify.com/album/1RAGs6JnmurAIytKWIbAxX) | 2:31 | 2025-09-19 |  |
+| [Everyday](https://open.spotify.com/track/6PW7IX53uKCB1woGe0Uak5) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Don't Look Down](https://open.spotify.com/album/1RAGs6JnmurAIytKWIbAxX) | 2:31 | 2025-09-19 | 2026-01-16 |
 | [Everything Gangster \(feat\. Morrisson\)](https://open.spotify.com/track/2F246LhqckfoUpGo3I8FrS) | [Sleeks](https://open.spotify.com/artist/18UMkfg7oAqJ92nqPvHkPW), [Smoke Boys](https://open.spotify.com/artist/0ZnmpHEiVrHpbyRqDYjnTL), [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Everything Gangster \(feat\. Morrisson\)](https://open.spotify.com/album/5RVs6DlGHYsv3vAar9Vnc9) | 4:05 | 2020-06-19 | 2020-07-03 |
 | [Everything's Personal](https://open.spotify.com/track/6WDFw2wrH5QoKqQX6bi8qk) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [36 Hours](https://open.spotify.com/album/6SQj6gs15aBIcIYzTCQQVF) | 3:10 | 2024-05-10 | 2024-06-21 |
 | [Evicted](https://open.spotify.com/track/7fa52ALD2bCARSLj7R0BUw) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Evicted](https://open.spotify.com/album/3OhdKF1s2F5ZwXNd3UXYaP) | 2:41 | 2024-10-17 | 2025-03-07 |
@@ -1784,6 +1784,7 @@
 | [Simple](https://open.spotify.com/track/4LyEjExaWSezYsp1FVJuQa) | [Stay Flee Get Lizzy](https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Simple](https://open.spotify.com/album/590Evn5v06Vl6n6eLKZDsH) | 2:31 | 2022-07-01 | 2022-08-05 |
 | [SIN CITY \(FEAT\. WRETCH 32\)](https://open.spotify.com/track/6n9FXwIQSUxzfVx94EwInm) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [GOD SAVE THE STREETS](https://open.spotify.com/album/21lqmGSKdoWPHRZqCz6aEM) | 2:48 | 2023-04-14 | 2023-05-19 |
 | [Sinaloa Cartel](https://open.spotify.com/track/4ghWlp4c86QF3ANBtPYZO7) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Sinaloa Cartel](https://open.spotify.com/album/3KT8vaCpSvW72EU29sEwP6) | 2:04 | 2024-02-02 | 2024-02-17 |
+| [SING4ME](https://open.spotify.com/track/6XxWKbPOJGo6cwYFUvLAU3) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [FEAR OF ECLIPSE](https://open.spotify.com/album/7zhi64PIlLEL1O4oqRLKWz) | 2:02 | 2026-01-16 |  |
 | [Sinner](https://open.spotify.com/track/6miftk872yxPKve9CdKaQO) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Lp2loose](https://open.spotify.com/artist/6PvcxssrQ0QaJVaBWHD07l) | [Sinner](https://open.spotify.com/album/1sODnxd2EWcvRsMkfeBL3z) | 3:52 | 2021-05-15 | 2021-06-12 |
 | [Sip](https://open.spotify.com/track/5yxKSaUDhMf8QSRIDdUzZY) | [Horrid1](https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ) | [Sip](https://open.spotify.com/album/1EHpoiEWsmYygRX3NuoVBZ) | 3:25 | 2021-03-26 | 2021-04-26 |
 | [Sirens \(From Ireland\)](https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Sirens \(From Ireland\)](https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp) | 2:40 | 2025-10-09 |  |
@@ -1810,6 +1811,7 @@
 | [Slowly](https://open.spotify.com/track/2B174pdWRHWbkwqP37v89s) | [ACE](https://open.spotify.com/artist/66JqMDVeds5Aw1NyDEH6k0), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Slowly](https://open.spotify.com/album/5rigvshbbuljrrceGXxMrD) | 3:12 | 2021-10-16 | 2021-11-10 |
 | [Slumdog Millionaire](https://open.spotify.com/track/6SiHE9HwrbEmv4X7ilDzlz) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Training Day 3](https://open.spotify.com/album/3pD0TA3tAutL7Bi2Ng8SPb) | 4:24 | 2020-09-18 | 2020-11-03 |
 | [Slut](https://open.spotify.com/track/1zr1bmDxVVHHglNxF0rKyo) | [AM](https://open.spotify.com/artist/6qYIqnnJM4TkFtVKiqQgmm) | [Slut](https://open.spotify.com/album/78aYxgP7BDQvu4qz7OQXwY) | 3:11 | 2022-03-25 | 2022-06-03 |
+| [SMOKE](https://open.spotify.com/track/7lvhQgjoCKu7gFiLomImjU) | [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs) | [The Boy On Fire \(Deluxe\)](https://open.spotify.com/album/6DfC6ALgpurWgKMrmvJRgr) | 2:02 | 2026-01-16 |  |
 | [SMOKE](https://open.spotify.com/track/54KIiAACOVn736iuStrQH6) | [KAVO](https://open.spotify.com/artist/4Rsw28ARMutnjj588QlyWT) | [SMOKE](https://open.spotify.com/album/3L6OqofrbPjmKNhmLqg7TK) | 2:07 | 2022-11-11 | 2022-12-03 |
 | [Smokey \- Freestyle](https://open.spotify.com/track/4EXhYWrUJbwn8GJnMMA2Ko) | [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK) | [Smokey \(Freestyle\)](https://open.spotify.com/album/1FqKQYH9eWJ3LQsSEkB1vY) | 2:15 | 2021-10-16 | 2021-11-26 |
 | [Snack](https://open.spotify.com/track/5wgGcSkWPhNh9lDwbgkPop) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [The Coldest Winter Ever, Pt\. 2](https://open.spotify.com/album/3BBimAtWNEeX4KupS8oqFF) | 3:29 | 2023-03-08 | 2023-03-09 |

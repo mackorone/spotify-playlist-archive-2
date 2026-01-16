@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 
 > Plug your brain into a modular synthesizer analog loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,086 likes - 144 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,100 likes - 144 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 36 | [Romance](https://open.spotify.com/track/0kCQyuaJp2Rx6EKiENpB1q) | [Peter Baumann](https://open.spotify.com/artist/4u9mLb6exlbHuNehyJ11jq) | [Romance 76](https://open.spotify.com/album/5YE2KLhp2lfKULIqMw3gWX) | 6:08 |
 | 37 | [Cat In The Night](https://open.spotify.com/track/6fOSsfrKQDwVC0ONVTnCeR) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [Moog Indigo](https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9) | 3:34 |
 | 38 | [The Unidentified Flying Object](https://open.spotify.com/track/3JccctYY66FfSyFkd3JcbF) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The In Sound From Way Out](https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK) | 1:59 |
-| 39 | [Topless Dancers Of Corfu](https://open.spotify.com/track/0Wh5Dveo8blNIfgio1Wfe7) | [Dick Hyman](https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT) | [Moog: The Electric Eclectics Of Dick Hyman](https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY) | 3:05 |
-| 40 | [Lowpass Risotto](https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Available Forms](https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko) | 5:29 |
+| 39 | [Lowpass Risotto](https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Available Forms](https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko) | 5:29 |
+| 40 | [Topless Dancers Of Corfu](https://open.spotify.com/track/0Wh5Dveo8blNIfgio1Wfe7) | [Dick Hyman](https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT) | [Moog: The Electric Eclectics Of Dick Hyman](https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY) | 3:05 |
 | 41 | [Badaouiah](https://open.spotify.com/track/1Eu3mluKxqsUyLNmQeUi1r) | [Hany Mehanna](https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2) | [The Miracles Of The Seven Dances](https://open.spotify.com/album/1KyFBCRPYSggqq1IQVCkKq) | 4:27 |
 | 42 | [You Moog Me](https://open.spotify.com/track/6l3iWMWq52eEa6sxdzSsAw) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx), [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Moog Acid](https://open.spotify.com/album/3C5nuwx0aR44qaFov9SW7G) | 3:50 |
 | 43 | [Barnyard In Orbit](https://open.spotify.com/track/40gZr472mFyg9YCk8nrzwm) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The Out Sound From Way In!](https://open.spotify.com/album/6JGqckpNnvBhco52GETW15) | 2:26 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 79 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
 | 80 | [Space Express](https://open.spotify.com/track/70RM1aHm0RlhsloKf8vbmn) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:19 |
 | 81 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
-| 82 | [Martha White Theme](https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 1:50 |
-| 83 | [I Am A Spaceman](https://open.spotify.com/track/1Gcn7jvVUIUHN0kGaITg0P) | [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:36 |
-| 84 | [The Sausage Machine](https://open.spotify.com/track/11kli4YSqMTdr54UcsuoWJ) | [Stephen Gray](https://open.spotify.com/artist/6JaoVxWFnK1tu1s6rqox90) | [Kpm 1000 Series: Industry Volume 1](https://open.spotify.com/album/3mdyB0sCvKMoBPEgGVjHoC) | 1:10 |
+| 82 | [I Am A Spaceman](https://open.spotify.com/track/1Gcn7jvVUIUHN0kGaITg0P) | [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:36 |
+| 83 | [The Sausage Machine](https://open.spotify.com/track/11kli4YSqMTdr54UcsuoWJ) | [Stephen Gray](https://open.spotify.com/artist/6JaoVxWFnK1tu1s6rqox90) | [Kpm 1000 Series: Industry Volume 1](https://open.spotify.com/album/3mdyB0sCvKMoBPEgGVjHoC) | 1:10 |
+| 84 | [Martha White Theme](https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 1:50 |
 | 85 | [Variation One](https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:01 |
 | 86 | [Abominatron](https://open.spotify.com/track/22iSVlOmXxj6AIxGh8JnyO) | [33](https://open.spotify.com/artist/31wSPoOA8XFN34WWaRTann) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 2:53 |
 | 87 | [Nanobot Highway](https://open.spotify.com/track/5SUJoc7GRrSgxdEOnDwuKd) | [Money Mark](https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 2:38 |

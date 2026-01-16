@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Cinta Surga",
+        "url": "https://open.spotify.com/album/0UuRIUAyG4x4aqVQnimIXq"
+      },
+      "artists": [
+        {
+          "name": "Nabila Maharani",
+          "url": "https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Cinta Surga",
+      "url": "https://open.spotify.com/track/4gq66GRvG5wFSrwkc6Gogk"
+    },
+    {
+      "album": {
         "name": "Cinta Tak Berbatas",
         "url": "https://open.spotify.com/album/4uUEe2CkioiWLHrjol7dRU"
       },
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 356276,
       "name": "Dambaan Hati",
       "url": "https://open.spotify.com/track/0t283lsPXtiKa23G9sU20W"
@@ -3132,7 +3150,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 275645,
       "name": "Muak",
       "url": "https://open.spotify.com/track/5UxWTyv4xRT3jgeTmgMMV2"
@@ -4170,7 +4188,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 270138,
       "name": "Sebuah Undangan Dinda",
       "url": "https://open.spotify.com/track/6durfC9DV0iqzzSIOlCZ6V"
@@ -4874,7 +4892,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 340312,
       "name": "Tanyakan Pada Hatimu",
       "url": "https://open.spotify.com/track/5dZhfSfgBFoftFV5agpTuj"

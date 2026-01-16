@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Mrs\. GREEN APPLE
 
-2,859 songs - 7 day 10 hr 22 min
+2,862 songs - 7 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [GOLD](https://open.spotify.com/track/5VTYSiBAkyZ4DCqilSU40y) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85) | 3:39 | 2023-05-16 | 2023-08-09 |
 | [golden drop](https://open.spotify.com/track/4skcyviAmJy1Ipf9kDcWxK) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [golden drop](https://open.spotify.com/album/6J7appOuXxe42HB9KhAl4k) | 1:24 | 2023-02-28 | 2023-04-05 |
 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 | 2023-03-14 | 2023-07-12 |
-| [GOOD DAY](https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [GOOD DAY](https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv) | 4:17 | 2025-09-30 |  |
+| [GOOD DAY](https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [GOOD DAY](https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv) | 4:17 | 2025-09-30 | 2026-01-16 |
 | [Good day](https://open.spotify.com/track/1glWb1FkQ8VmnZDkOQm87n) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [Good day](https://open.spotify.com/album/1FOAMzmdgueoPIxncrrKQb) | 4:19 | 2024-08-13 | 2024-08-21 |
 | [good time](https://open.spotify.com/track/0tVG7UROkKBgW2YtYvAkst) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [good time](https://open.spotify.com/album/54bVETGL4E3SpCt2ZWJz5s) | 3:12 | 2024-01-09 | 2024-01-17 |
 | [Goodbye](https://open.spotify.com/track/3ZZAlk3bOrKA1KcXPJjSWW) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Goodbye / Tumbler](https://open.spotify.com/album/4VI6wFz5KdUsuaU3f5cCZl) | 1:53 | 2023-04-19 | 2023-05-31 |
@@ -653,6 +653,7 @@
 | [Kid](https://open.spotify.com/track/5TljUbh99FhqjMn95ZKYro) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/59qykfEGbzmPotBj4HHH9L) | 3:30 | 2023-02-07 | 2023-02-09 |
 | [Kid](https://open.spotify.com/track/7zKieV1uXBhucwmYM4sCzW) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/2yoIDnfb9b819VS5hsh9MZ) | 3:30 | 2023-02-07 | 2023-05-24 |
 | [KILL LOVE](https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [呪いをかけて、まぼろしをといて。](https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp) | 4:45 | 2025-09-09 | 2025-09-18 |
+| [Kill the Noise](https://open.spotify.com/track/43hn4s6ik2tccvWF5ltrEb) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Kill the Noise](https://open.spotify.com/album/0QLdJL8eYUGXTFmJbt79Ud) | 3:33 | 2026-01-15 |  |
 | [kill without the k.](https://open.spotify.com/track/4VCmobNt8wZ29jqArqdlAn) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [kill without the k.](https://open.spotify.com/album/3MfiqHVyJkXWL6YCI7Alhd) | 3:41 | 2024-01-23 | 2024-02-07 |
 | [KILLER KILLER](https://open.spotify.com/track/2G4kWNpGnyNEx5ha1kntfd) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [KILLER KILLER](https://open.spotify.com/album/1dvdYrmHnZUJtfVoIHeXM0) | 4:10 | 2025-06-17 | 2025-07-11 |
 | [Killer Word](https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Killer Word](https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP) | 4:01 | 2023-11-30 | 2024-01-19 |
@@ -1184,7 +1185,7 @@
 | [sonet](https://open.spotify.com/track/3GGIlrGWbONtGr1WcQfdzi) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [sonet](https://open.spotify.com/album/2Sl9xaaLOH2FereRoVFz7n) | 5:37 | 2024-12-03 | 2025-01-22 |
 | [SONG](https://open.spotify.com/track/2ymS78X5VTuW7aWlULYn6C) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [be with you](https://open.spotify.com/album/6A2VRRwE1H5yEykoN8T1Zs) | 3:57 | 2024-01-23 | 2024-07-24 |
 | [Song 4 You](https://open.spotify.com/track/3bb3WAQyfRwoohP51uOOJY) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Song 4 You](https://open.spotify.com/album/2wW7RKv2zKm4tnaPAUt1JM) | 3:38 | 2024-10-29 | 2024-11-20 |
-| [Song About Fat Mike](https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Screaming Newborn Baby](https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE) | 2:56 | 2025-12-16 |  |
+| [Song About Fat Mike](https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Screaming Newborn Baby](https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE) | 2:56 | 2025-12-16 | 2026-01-16 |
 | [song for you](https://open.spotify.com/track/6OML5c5gMbuYNrF5qhISQL) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [Ivy to Fraudulent Game](https://open.spotify.com/album/0OGMPeyg1JwttblgqfC88N) | 3:37 | 2025-08-19 | 2025-09-03 |
 | [Song for you](https://open.spotify.com/track/72v02xOSWuDQphZPZTqxzp) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BUDDY CLUB](https://open.spotify.com/album/0nNF3J9mHGy8v07hWoBLiI) | 2:18 | 2023-04-25 | 2023-05-10 |
 | [Song For You & Me](https://open.spotify.com/track/2PwUNMzovPMyv6i6uibS3D) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [RICORITA](https://open.spotify.com/album/16yI6zhMtzYc1xSoKrxV1M) | 2:52 | 2024-06-11 | 2024-06-19 |
@@ -1312,6 +1313,7 @@
 | [Terra Boy](https://open.spotify.com/track/0aVsgABiI5e2gCx5lsxGj2) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Terra Boy](https://open.spotify.com/album/6mn8aQ8GQNEzTnG2ImrTpt) | 3:27 | 2024-12-31 | 2025-01-29 |
 | [that's all i can do](https://open.spotify.com/track/7twaSJLZIx4k1kjzDhohjm) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [that's all i can do](https://open.spotify.com/album/5VV6xaGGZdOHO2p5WoUyy7) | 2:41 | 2025-10-08 |  |
 | [The 1st chapter](https://open.spotify.com/track/4yhKrIVgnaQM3YD3dbDFc4) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [The 1st chapter](https://open.spotify.com/album/61MfHl4QOaS3pHyP9WWg5v) | 4:12 | 2023-05-23 | 2023-07-05 |
+| [The Abyss](https://open.spotify.com/track/2UgSCqvAIltclKt4ZR4XLO) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [The Abyss](https://open.spotify.com/album/4Sx5ayncxVvBNY1NwM9Ybn) | 3:08 | 2026-01-15 |  |
 | [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 | 2025-11-11 | 2025-11-26 |
 | [The Ballad](https://open.spotify.com/track/3qZJyfGVmggTOagP08zVlM) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Ballad](https://open.spotify.com/album/2MuMJqAeddgmVsgmklENyW) | 3:29 | 2026-01-13 |  |
 | [The Beyond](https://open.spotify.com/track/3NhdX5K3gCxDF69nBWDOTh) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [The Beyond](https://open.spotify.com/album/3zJgwMN7ztFUOHOsZPxCtY) | 4:22 | 2025-09-30 | 2025-10-29 |
@@ -1332,6 +1334,7 @@
 | [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 | 2024-01-23 | 2024-02-02 |
 | [These Magic Words](https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [These Magic Words](https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW) | 2:53 | 2023-12-26 | 2024-01-10 |
 | [Thirst](https://open.spotify.com/track/5dUfCqDv9Qsesv2LRErDID) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Thirst](https://open.spotify.com/album/4tmHlqBEiTL3uqy8Aa6Xol) | 3:47 | 2025-12-09 |  |
+| [THIS IS DESTINY](https://open.spotify.com/track/4letHTMJq0LgnvKI4pM6fD) | [shukatsuclub](https://open.spotify.com/artist/3R2FK3WS1nBCJuaerq98Ra) | [THIS IS DESTINY](https://open.spotify.com/album/0R6L3NgqdgVBe95c70Bly6) | 3:46 | 2026-01-15 |  |
 | [This Night](https://open.spotify.com/track/2s6huLjIDsrn1fdpQShfDR) | [Name the Night](https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH) | [FULL MOON NIGHTS](https://open.spotify.com/album/0bJW4mvn4jQdKXWYuTtXK2) | 5:16 | 2024-12-17 | 2025-01-01 |
 | [This Road](https://open.spotify.com/track/7pbCo0JHhj6Gxgrq9FVrWi) | [MONOBRIGHT](https://open.spotify.com/artist/1fA0ExNzbvrQiX84L8SqQk) | [This Road](https://open.spotify.com/album/63Yx79R00fNi0aOwriu3Y9) | 2:36 | 2025-11-11 | 2025-11-26 |
 | [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:51 | 2023-02-21 | 2023-03-01 |
@@ -2789,7 +2792,7 @@
 | [過去たらし](https://open.spotify.com/track/6WEb2QTuXBzm6Qqe4m0dXG) | [メとメ](https://open.spotify.com/artist/66yrLdRscnShf6ZIKqUltg) | [過去たらし](https://open.spotify.com/album/2i1EDG534hI2XbyRaIW6Wy) | 3:40 | 2024-01-23 | 2024-02-14 |
 | [過呼吸愛](https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [羽化](https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR) | 2:25 | 2023-08-29 | 2023-10-11 |
 | [道の途中](https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [道の途中](https://open.spotify.com/album/2I2XSTxcPhYvozdRWKswAj) | 4:05 | 2023-08-22 | 2023-09-27 |
-| [道化師](https://open.spotify.com/track/0udZXmwCaRbjeZfWhEdRnZ) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/5hoCBFqktQvrW3MCjt5MhE) | 5:00 | 2025-12-09 |  |
+| [道化師](https://open.spotify.com/track/0udZXmwCaRbjeZfWhEdRnZ) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/5hoCBFqktQvrW3MCjt5MhE) | 5:00 | 2025-12-09 | 2026-01-16 |
 | [遠い街](https://open.spotify.com/track/1D2Bn2AInJvhZnkdZhPBW6) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [DISTANCES](https://open.spotify.com/album/6oqE4ErJa0PD0I1xajeA8e) | 3:56 | 2023-11-14 | 2023-12-20 |
 | [遠雷](https://open.spotify.com/track/4pBwrxwaEjKytWr1Pg7SXw) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Sea Gazer](https://open.spotify.com/album/6sJzI6i9ldc3LWcDbzRlrA) | 5:18 | 2023-02-28 | 2023-04-04 |
 | [遥か](https://open.spotify.com/track/3L4DZm5c6fUXlFOgtblo8l) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [Φ](https://open.spotify.com/album/3qdjumiIy1lk8nCsYWcoC1) | 3:00 | 2024-05-21 | 2024-06-26 |

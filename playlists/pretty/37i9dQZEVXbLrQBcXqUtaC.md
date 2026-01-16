@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 | 8 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 | 9 | [يا عين امك](https://open.spotify.com/track/7pz0gzeUrBv4Yfx9jAHYbB) | [عبدالله ابو شعر](https://open.spotify.com/artist/2u4FyhPFpnuZjx0mYZhdm6) | [يا عين امك](https://open.spotify.com/album/0dSmwVLIXgWPxPPy6YvBxT) | 4:26 |
 | 10 | [Armalat Al\-Alpha](https://open.spotify.com/track/7paqmrCBmNEM6frYHCd8GL) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Armalat Al\-Alpha](https://open.spotify.com/album/4DQ6r2s7uCG9I1Xfy2RAtG) | 6:06 |
-| 11 | [Lush Life](https://open.spotify.com/track/4Bd7WFT93cRqlfyGi6eK93) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/21VqeIyh4YvwA1BUkZ48EV) | 3:20 |
+| 11 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 12 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 13 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 |
 | 14 | [شبت نار](https://open.spotify.com/track/4rHm5aa07a56RND2cOBjhb) | [THE DO](https://open.spotify.com/artist/7cACgXY0k1OI20mxoBw0XC) | [شبت نار](https://open.spotify.com/album/4YD70qCtGLLnlbMZ1SYIlt) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 | 49 | [وين وين كحيل العين](https://open.spotify.com/track/36TUr6VZP0a9FE46jjve7O) | [علوش](https://open.spotify.com/artist/4G9x7SwpTluNjCPNfHTdSZ) | [وين وين كحيل العين](https://open.spotify.com/album/7MsmRq2GS70h2u62LiOufQ) | 3:35 |
 | 50 | [Horomat](https://open.spotify.com/track/1n5mYIUFiySvE0QvPBNbW0) | [Qassem Al Sultan](https://open.spotify.com/artist/2wdxoCLR9fnB1V0wwNqJq3) | [Qassem Al Sultan Collection](https://open.spotify.com/album/3XWkVfZNeRskIrZCvisknx) | 6:11 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

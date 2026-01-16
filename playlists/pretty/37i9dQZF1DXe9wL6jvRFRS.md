@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Any Young Mechanic on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,775 likes - 73 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,788 likes - 73 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

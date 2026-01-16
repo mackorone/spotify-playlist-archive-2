@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: VVV\. Artwork: Isu Kim
+> ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: Jeng Phuchit\. Artwork: Isu Kim
 
 2,523 songs - 6 day 14 hr 29 min
 

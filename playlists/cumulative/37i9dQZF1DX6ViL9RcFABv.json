@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira",
+  "description": "Uma playlist de pura alma pop! Foto: B\u00e1rbara Bandeira",
   "name": "Pop PT",
   "tracks": [
     {
@@ -530,7 +530,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 236506,
       "name": "Am\u00e9lia",
       "url": "https://open.spotify.com/track/3PGoLDFmqJDbjnROP2AMfe"
@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Arrependimento",
+        "url": "https://open.spotify.com/album/4aAaMWdI0r8nCGfcvRE97Y"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Abrunhosa",
+          "url": "https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Arrependimento",
+      "url": "https://open.spotify.com/track/3RvNfxUXCgf7xi665J7MyK"
+    },
+    {
+      "album": {
         "name": "As M\u00e3os",
         "url": "https://open.spotify.com/album/00g0rCExmeX34M2kZBD0Am"
       },
@@ -690,6 +708,28 @@
       "duration_ms": 122499,
       "name": "As M\u00e3os",
       "url": "https://open.spotify.com/track/5ntSogYQzyovUX84ez3Lwa"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 ao fim",
+        "url": "https://open.spotify.com/album/2NM3By015MvjHgDpknNYs1"
+      },
+      "artists": [
+        {
+          "name": "Anjos",
+          "url": "https://open.spotify.com/artist/55emZB6OJOvHmTpuqa6HZz"
+        },
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "At\u00e9 ao fim",
+      "url": "https://open.spotify.com/track/4CMzTsNGI2Ppey1wqAkB0H"
     },
     {
       "album": {
@@ -1650,7 +1690,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 196800,
       "name": "Conta-Me Tudo",
       "url": "https://open.spotify.com/track/7zz6eumA7xoGgDt6bkvknu"
@@ -1818,7 +1858,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 208357,
       "name": "Culpa",
       "url": "https://open.spotify.com/track/7IlNHRy6LWaMGFBPLfHMTu"
@@ -2235,6 +2275,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Pedro Abrunhosa",
+          "url": "https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR"
+        },
+        {
+          "name": "Comit\u00e9 Caviar",
+          "url": "https://open.spotify.com/artist/2sys7ECIqGsGa5uiRktCJb"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264906,
+      "name": "Devias Vir Salvar-me",
+      "url": "https://open.spotify.com/track/2gcZpB51K3Hvj5Cx6wjTE7"
+    },
+    {
+      "album": {
         "name": "Devolve-me o Amanh\u00e3",
         "url": "https://open.spotify.com/album/3baRkCpqQHcLXUGaN62yXW"
       },
@@ -2480,7 +2542,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 138084,
       "name": "D\u00e1 C\u00e1 Um Bacalhau",
       "url": "https://open.spotify.com/track/7caPKea4LdKLgZbj8y5ZnN"
@@ -2850,7 +2912,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 163764,
       "name": "Eu Vou Estar Aqui",
       "url": "https://open.spotify.com/track/7F1LSrJYxdVgc7VakwZLTI"
@@ -3504,7 +3566,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 252600,
       "name": "I Can Still Love",
       "url": "https://open.spotify.com/track/2In8B9cHgnwPilUSOSzbmJ"
@@ -3814,6 +3876,24 @@
       "duration_ms": 259431,
       "name": "J\u00e1 vem tarde",
       "url": "https://open.spotify.com/track/24UYhN68e1cW0PzAm4kdN9"
+    },
+    {
+      "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
     },
     {
       "album": {
@@ -4763,6 +4843,24 @@
     },
     {
       "album": {
+        "name": "Me & My Guitar",
+        "url": "https://open.spotify.com/album/5pCN8sl9mTE0rpHRpiAoKH"
+      },
+      "artists": [
+        {
+          "name": "Lucas Ortet",
+          "url": "https://open.spotify.com/artist/5ijrRGEu9hPfvoY1rm57AK"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181231,
+      "name": "Nosso Love",
+      "url": "https://open.spotify.com/track/5NIkY8QV5GNZKkKgkqd0DK"
+    },
+    {
+      "album": {
         "name": "Noutra Vida",
         "url": "https://open.spotify.com/album/5GpaLygIn24UXpH36imoZk"
       },
@@ -5082,6 +5180,24 @@
       "duration_ms": 206836,
       "name": "Olha Para N\u00f3s (feat. Nuno Ribeiro)",
       "url": "https://open.spotify.com/track/5Jcb7C5CslUS9xb1JFWS42"
+    },
+    {
+      "album": {
+        "name": "Olha P\u2019ra Ela",
+        "url": "https://open.spotify.com/album/4yO9UFn9UUAbcMagk23hWB"
+      },
+      "artists": [
+        {
+          "name": "IOLANDA",
+          "url": "https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173381,
+      "name": "Olha P\u2019ra Ela",
+      "url": "https://open.spotify.com/track/65knUcT6YYCnWONjhYYh4r"
     },
     {
       "album": {
@@ -5721,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Lado AB",
+        "url": "https://open.spotify.com/album/4mGRMOTfJmkb8jWrCVWHYq"
+      },
+      "artists": [
+        {
+          "name": "Ana Bacalhau",
+          "url": "https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Pr\u00e1 Frente",
+      "url": "https://open.spotify.com/track/0J3f25RFV6IBqdEWPiPy5d"
+    },
+    {
+      "album": {
         "name": "Puras Donzelas",
         "url": "https://open.spotify.com/album/39jpySYCxCXCJQQMts8arT"
       },
@@ -5772,7 +5906,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 160625,
       "name": "P\u00f4r do Sol",
       "url": "https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ"
@@ -7501,6 +7635,28 @@
     },
     {
       "album": {
+        "name": "Voltar ao Inicio",
+        "url": "https://open.spotify.com/album/1m8uTvFaK5PCwKyUmKiKCC"
+      },
+      "artists": [
+        {
+          "name": "Nayra Mirella",
+          "url": "https://open.spotify.com/artist/2I7XfmIcxcr0mVB2llZNb1"
+        },
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Voltar ao Inicio",
+      "url": "https://open.spotify.com/track/124qzX6fC9it7YRgmKpKK6"
+    },
+    {
+      "album": {
         "name": "Voltas",
         "url": "https://open.spotify.com/album/68yieRSI4NlvQtmS5mABZt"
       },
@@ -7682,7 +7838,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 172208,
       "name": "\u03c0-NOQUIO",
       "url": "https://open.spotify.com/track/1WxBr0pDE5FEchxzhO5xxR"

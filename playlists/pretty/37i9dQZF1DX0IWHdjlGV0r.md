@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,991 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,987 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 78 | [NIKITA](https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Anno Zero](https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr) | 2:34 |
 | 79 | [MILANO 3AM](https://open.spotify.com/track/3ytJd1HfiP249QcPg7rvQP) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [ANGELO BALACLAVA](https://open.spotify.com/album/1n7HkZhfeIrfMaTJJldfEO) | 3:03 |
 | 80 | [Soli \(Assieme\)](https://open.spotify.com/track/2opjdnFzcgsp5wt8IYj8oN) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Mercurio](https://open.spotify.com/album/3pXSt0UQJINOx5GP6NORLj) | 3:25 |
-| 81 | [4 Zeri \(feat\. Silent Bob\)](https://open.spotify.com/track/1fhy5qglfGbaK3cM0qlYBw) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [4 Zeri \(feat\. Silent Bob\)](https://open.spotify.com/album/4AYMeDkVcwrC4X42POYOmf) | 2:30 |
-| 82 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 |
-| 83 | [F\*ck Love](https://open.spotify.com/track/7BZ5YmSnyfMzw3q9RI4MHk) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0) | [F\*ck Love](https://open.spotify.com/album/27P8029lZ9dq9w3S9uwOLL) | 3:23 |
+| 81 | [Veleno \(feat\. Melons\)](https://open.spotify.com/track/6zrqFmqFfx2wfGB4Q0pwmQ) | [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [LIMITLESS](https://open.spotify.com/album/3KMc2fY6MgdjJ9OOR8NFP7) | 2:40 |
+| 82 | [4 Zeri \(feat\. Silent Bob\)](https://open.spotify.com/track/1fhy5qglfGbaK3cM0qlYBw) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [4 Zeri \(feat\. Silent Bob\)](https://open.spotify.com/album/4AYMeDkVcwrC4X42POYOmf) | 2:30 |
+| 83 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 |
 | 84 | [11 SETTEMBRE](https://open.spotify.com/track/2Trj3ehOeoaU11vbMqWLjV) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [11 SETTEMBRE](https://open.spotify.com/album/45lNAPbTPla560wDvlMzuj) | 2:31 |
-| 85 | [Ferma A Guardare](https://open.spotify.com/track/1zVUP6UPrzxZEYLXOl1AV1) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/2hHDTcf1MzvkDdFm0CEujn) | 3:13 |
+| 85 | [F\*ck Love](https://open.spotify.com/track/7BZ5YmSnyfMzw3q9RI4MHk) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0) | [F\*ck Love](https://open.spotify.com/album/27P8029lZ9dq9w3S9uwOLL) | 3:23 |
 
-Snapshot ID: `AAAAALdJSLJW1l9tN+egkxcTTFK/IeLm`
+Snapshot ID: `AAAAAFC4EINzWJg6HA09j0ES+zI0nHnm`

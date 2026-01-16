@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fabiana Sinfrônio, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,394 likes - 49 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,398 likes - 49 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

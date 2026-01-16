@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Jevin Julian
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Rubina
 
-559 songs - 1 day 8 hr 42 min
+564 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [5150](https://open.spotify.com/track/13clE6hDehgCxDEG58Pyw6) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [5150](https://open.spotify.com/album/1gFvztLuk89AzM4lOXciNn) | 2:53 | 2024-11-28 | 2025-03-14 |
 | [\[STILL ON\] REPEAT](https://open.spotify.com/track/6ZPBJ8uWEAiit8PcVk4uOS) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [\[STILL ON\] REPEAT](https://open.spotify.com/album/3Y3xfXevhPYBy4YqJpbCwU) | 4:10 | 2024-06-27 | 2024-09-27 |
 | [^ANOTHER:night.a.w.y.o.m.m^ \(Mardial ver.\)](https://open.spotify.com/track/02Ef340mhGp7N2LgvZlimQ) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md) | [ka/la+ANOTHER:night.](https://open.spotify.com/album/4TIfjh93QtACuWOns7xtzx) | 3:32 | 2025-01-23 | 2025-09-30 |
+| [A Little Less](https://open.spotify.com/track/5wm3593QMwEU7Ga9XPqIc9) | [Christabelle Marbun](https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB) | [A Little Less](https://open.spotify.com/album/7lfeZvHZKJsmsnJEpiyNxi) | 3:05 | 2026-01-15 |  |
 | [a little too sad if you think about it.](https://open.spotify.com/track/3N5ocxGt2itRnxLSZlY57Y) | [VEEY](https://open.spotify.com/artist/6w1o0CIuCMBffOLcaY8Wtw) | [a little too sad if you think about it.](https://open.spotify.com/album/60fCizXXL4UiUXPksbwyfk) | 4:48 | 2025-12-11 |  |
 | [A Man, a Bottle, and a Prayer](https://open.spotify.com/track/6Bhtdq0Rut7PCWOpdRxQ0W) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [The Fool](https://open.spotify.com/album/16h1902jiZgsdH3MN5DUoU) | 3:30 | 2024-10-24 | 2025-01-24 |
 | [A Proper Gander](https://open.spotify.com/track/2aWoIcnR6VgTO7lgaFWXCd) | [Prime Manifez](https://open.spotify.com/artist/2PRy6vElGqZHlWrShjYOCP) | [Vincestyle Tape](https://open.spotify.com/album/1xGoBQyLytsR0aGLRA4EmI) | 3:24 | 2025-04-03 | 2025-05-02 |
@@ -57,6 +58,7 @@
 | [Bad Tattoo](https://open.spotify.com/track/58lElp3BVghKIEURYqzOF6) | [Lalu Carlos](https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS) | [Bad Tattoo](https://open.spotify.com/album/7en3ZzXQI26PJVHlp0PjL1) | 3:37 | 2025-01-23 | 2025-04-18 |
 | [Be My Baby](https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Be My Baby](https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR) | 2:31 | 2025-02-28 | 2025-06-13 |
 | [Be My Bee](https://open.spotify.com/track/0tviaBrX0d4oi6eX8VmRF0) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Be My Bee](https://open.spotify.com/album/4LRTgGRSpf8sFtwLpzPLYl) | 3:16 | 2025-02-13 | 2025-10-31 |
+| [Be Okay](https://open.spotify.com/track/2fpTQ96rmDiG1OF7thuQOn) | [Manerole](https://open.spotify.com/artist/3xlUrDBWcUTE1Su96f9L3s), [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Be Okay](https://open.spotify.com/album/057yKn8ofGrnK3057HMXNn) | 4:19 | 2026-01-15 |  |
 | [Be With Me](https://open.spotify.com/track/6HhAhM9w5RMJEa1mHysHEI) | [Helene](https://open.spotify.com/artist/2BxpFOOgWHQRTJso9vcOPw), [Vanessa Kamga](https://open.spotify.com/artist/2ekSoeXozph2NpFRU6mrzu) | [Be With Me](https://open.spotify.com/album/79Q64FtrKMpC69Cyb1YqtC) | 3:37 | 2024-12-05 | 2025-05-30 |
 | [Be With You](https://open.spotify.com/track/195BQNAlavPubYDUfFIqPu) | [El Michael](https://open.spotify.com/artist/0zaGFZuyRciaCL3GQWApUS) | [Be With You](https://open.spotify.com/album/4gzmxaEfuzHzbLpVBh1BHD) | 4:17 | 2025-07-10 |  |
 | [Be Your Lover](https://open.spotify.com/track/3sRQutpCOD2gzfjlgrt9Cu) | [The Public Service](https://open.spotify.com/artist/08ZFsKiZID7MsOWnXGcLRS) | [Be Your Lover](https://open.spotify.com/album/01hJL0Q7gbF57TOcmZxQTI) | 3:10 | 2024-06-27 | 2024-07-27 |
@@ -103,6 +105,7 @@
 | [cheesewave](https://open.spotify.com/track/3M6dWdZf3z6QR1kA9QssPs) | [Pizza! Pizza!](https://open.spotify.com/artist/772JaMNSokK97L8jpZFDt1) | [cheesewave](https://open.spotify.com/album/4Sl7iao3CzmmntMNIQwSWf) | 3:02 | 2025-10-16 | 2026-01-15 |
 | [Chillin' Mozart](https://open.spotify.com/track/5V7mEQtInMHPjx01GvfOFz) | [ORLNDO](https://open.spotify.com/artist/3xvNkj7lm1TvanBhLfdANq) | [Chillin' Mozart](https://open.spotify.com/album/263VumCcY9ktMlqBHHcPMz) | 4:01 | 2024-06-27 | 2024-10-11 |
 | [Circles](https://open.spotify.com/track/1fWPzgWTHyE1T6tDewESHU) | [angelana](https://open.spotify.com/artist/3BfinGyCz0cTmNSVzngSgf) | [Circles](https://open.spotify.com/album/6CeLHLxEsNCID10IpxLzix) | 3:04 | 2025-11-20 |  |
+| [Cliché](https://open.spotify.com/track/3Ou8x84gXbsKR6zQs5Y5we) | [vievv](https://open.spotify.com/artist/3W3rTSU10U0mAlzJwFEXkn), [Akira Andana](https://open.spotify.com/artist/3DMXuvIwzYDSgzuGAXcriF) | [Cliché](https://open.spotify.com/album/76ZsaotUcUGLaEUYjdiRas) | 3:15 | 2026-01-15 |  |
 | [COMA](https://open.spotify.com/track/7acJWP5ZB8ujLjNNx7kVBu) | [Aftertones](https://open.spotify.com/artist/48ltWo8j0jJsy7Ly2XDgqc) | [COMA](https://open.spotify.com/album/0RIEOXXSljLKMqlazpqcRm) | 4:07 | 2024-06-27 | 2024-09-06 |
 | [Come Back](https://open.spotify.com/track/36QWky9ibpZMWEbAOf9vEq) | [OJA Records](https://open.spotify.com/artist/3gI5NRSwnCDNtfSne6rDiY), [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Come Back](https://open.spotify.com/album/56XtpvYhgC9xwFElxrVSBt) | 3:24 | 2025-01-30 | 2025-04-18 |
 | [coming home](https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:13 | 2024-07-25 | 2024-09-27 |
@@ -296,10 +299,12 @@
 | [Late 20s](https://open.spotify.com/track/70pLAAu14NHM5e7xav4hUm) | [Chris Andrian Yang](https://open.spotify.com/artist/74DSMvAfXpnN3c1KCfvFwQ) | [Late 20s](https://open.spotify.com/album/47GnYMXdfbC6PHeezBtvT6) | 2:40 | 2025-10-23 |  |
 | [Lead The Way](https://open.spotify.com/track/1cLPH5uHyByVdRFMGlnGRE) | [Fleeting Echo](https://open.spotify.com/artist/7bVJizir9RN4yN2pTmEasC) | [Lead The Way](https://open.spotify.com/album/363Q8R5QfP0wjGaRsPMdx3) | 3:58 | 2024-09-19 | 2024-11-16 |
 | [Lean on a Friend](https://open.spotify.com/track/02ilB5DYOmrAauOgORODcY) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Lean on a Friend](https://open.spotify.com/album/3AySg2p6QXJFkUV8xbKjRP) | 3:27 | 2024-07-23 | 2024-09-27 |
+| [Leave](https://open.spotify.com/track/5oMw58scOzi2k5LjfmINLu) | [OJA Records](https://open.spotify.com/artist/3gI5NRSwnCDNtfSne6rDiY), [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Leave](https://open.spotify.com/album/5awMsXhDF2KuygL0l3ZH0O) | 3:49 | 2026-01-15 |  |
 | [Lebih Indah Berpisah](https://open.spotify.com/track/6EtXpBUmPm7fyhUGnca7hr) | [Bella Astillah](https://open.spotify.com/artist/3MPMcG7cDVBwFnEEzAQcKk), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Lebih Indah Berpisah](https://open.spotify.com/album/6jiHQGiwBkO07DpUEDdvR8) | 4:45 | 2025-05-01 | 2025-12-06 |
 | [Lemonade](https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Lemonade](https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU) | 2:36 | 2025-07-24 |  |
 | [Let Me Be Your Man](https://open.spotify.com/track/4cm2ZdTcIwNhn0ZnEnkf8s) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Let Me Be Your Man](https://open.spotify.com/album/2zhlUYDJZuHyZVaqjrgYjB) | 3:38 | 2025-04-10 |  |
 | [let me go](https://open.spotify.com/track/6TWugtzLkUTWnyiHhGmj6n) | [RAJASINAGA](https://open.spotify.com/artist/4EMAvLGauV6azMgm7j6KQe) | [let me go](https://open.spotify.com/album/2y6uzhjzlP2N0er9tlbltS) | 3:50 | 2024-06-27 | 2024-08-10 |
+| [Let Me Know When You Get Home](https://open.spotify.com/track/2xxKabGFfWwz1ScgpK20U1) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Let Me Know When You Get Home](https://open.spotify.com/album/3Joeu5aierqwOgX5w03uRR) | 3:24 | 2026-01-15 |  |
 | [Let The Phone Ring](https://open.spotify.com/track/1JOtfDuLy9613DhIPbaaWh) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj), [Popsickle](https://open.spotify.com/artist/3cR3YTiVngJTX0z7zXFeid) | [Let The Phone Ring](https://open.spotify.com/album/4kffsYGyx1SBgOqDQ5iK7i) | 3:36 | 2024-10-31 | 2025-01-24 |
 | [Life Of The Party](https://open.spotify.com/track/6XPibXdca5CWY3Zz6iNSi2) | [Reisha](https://open.spotify.com/artist/3hqQKsWWWTfJq3JamRl5C9) | [Life Of The Party](https://open.spotify.com/album/1rOcdVbjMEfs5DBSVaBcQb) | 3:20 | 2024-11-07 | 2025-03-14 |
 | [Light](https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ) | [Inara](https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Light](https://open.spotify.com/album/3WZjmog0USmx1kp1PmH5Nt) | 3:06 | 2025-06-12 | 2025-08-08 |

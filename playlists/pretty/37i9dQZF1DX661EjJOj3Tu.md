@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Gracias por la música, Eddie Palmieri 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,232 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,233 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,13 +94,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 84 | [Merengue Today](https://open.spotify.com/track/0G1w6A1w7LVJXjyOZoxBgd) | [Cesar Orozco](https://open.spotify.com/artist/0eO6MjeuzzOF9gOUVdDRfx), [Jorge Glem](https://open.spotify.com/artist/4fFCGaz0oMwRLzJIu13ba5) | [Stringwise](https://open.spotify.com/album/2MG0iMoEPcF2qqgjqOndzA) | 4:00 |
 | 85 | [No Soy de Esos](https://open.spotify.com/track/1dneaKWwY5pvoHoGQJ6VDD) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [Yesun](https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ) | 4:32 |
 | 86 | [Broasted or Fried](https://open.spotify.com/track/2qoCpDq50LWRd5CXVzN4x0) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Broasted or Fried](https://open.spotify.com/album/6pp0ioGUccRIFwT2hOlBqL) | 3:55 |
-| 87 | [El Suelo Mio](https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t) | [Jorge Roeder](https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x) | [El Suelo Mio](https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4) | 3:29 |
-| 88 | [El Lider](https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr) | [Bobby Sanabria](https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF) | [Big Band Urban Folktales](https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr) | 7:20 |
+| 87 | [El Lider](https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr) | [Bobby Sanabria](https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF) | [Big Band Urban Folktales](https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr) | 7:20 |
+| 88 | [El Suelo Mio](https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t) | [Jorge Roeder](https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x) | [El Suelo Mio](https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4) | 3:29 |
 | 89 | [Estrada Real](https://open.spotify.com/track/4biVllhsCT8OGoRB42BlWx) | [Chico Pinheiro](https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy) | [City of Dreams](https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG) | 4:13 |
 | 90 | [Enchantment](https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 7:12 |
 | 91 | [Sólo Le Pido a Dios](https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr) | [Eva Cortés](https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw) | [Todas Las Voces](https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l) | 3:40 |
-| 92 | [Encontros E Despedidas](https://open.spotify.com/track/1fFSzpBvEwJ8G9lbyMlGlZ) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Bruma: Celebrating Milton Nascimento](https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e) | 5:28 |
-| 93 | [They Can't Take That Away from Me](https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [The Standards](https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr) | 4:03 |
+| 92 | [They Can't Take That Away from Me](https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [The Standards](https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr) | 4:03 |
+| 93 | [Encontros E Despedidas](https://open.spotify.com/track/1fFSzpBvEwJ8G9lbyMlGlZ) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Bruma: Celebrating Milton Nascimento](https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e) | 5:28 |
 | 94 | [Guarajazz](https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI) | [The Bronx Pyramid](https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw) | 5:44 |
 | 95 | [Te Escucho](https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7) | [Sofia Ribeiro](https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven), [ELENI](https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh) | [Te Escucho](https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8) | 3:50 |
 | 96 | [Palabras para Nombrarte](https://open.spotify.com/track/2eupFPL10HymH4hjkwwuoK) | [Carlos Aguirre](https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN), [Fernando Silva](https://open.spotify.com/artist/3FcHb7JOKIhDovhaKKKmL9), [Luciano Cuviello](https://open.spotify.com/artist/0z6226KaYzAynQaoewHRVf) | [Calma](https://open.spotify.com/album/5OQeChqQg9hIfp2Q1jxbOl) | 7:07 |

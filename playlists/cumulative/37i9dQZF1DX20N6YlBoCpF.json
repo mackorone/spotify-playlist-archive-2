@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Jaakie, Liam Bosman, Desmond Wells, Kris Ray en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Joshua Na Die Re\u00ebn, \nSeuns van Vlug, Louis van Lill, Justin Coetzee en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -710,6 +710,24 @@
       "duration_ms": 206557,
       "name": "Aan Beweeg",
       "url": "https://open.spotify.com/track/17esBraPyd3q41QJPyEklH"
+    },
+    {
+      "album": {
+        "name": "Aan My Sy",
+        "url": "https://open.spotify.com/album/2fqSBtbZtOhGhkfSvpzIbV"
+      },
+      "artists": [
+        {
+          "name": "Justin Coetzee",
+          "url": "https://open.spotify.com/artist/4gtgBeq9fxIuKdgBX0DjIj"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204102,
+      "name": "Aan My Sy",
+      "url": "https://open.spotify.com/track/5jZzS7X6DglSX3TuvKD2jm"
     },
     {
       "album": {
@@ -11095,6 +11113,24 @@
     },
     {
       "album": {
+        "name": "Ek en Muis",
+        "url": "https://open.spotify.com/album/7AmSUFf3t5rrsh5s506RKu"
+      },
+      "artists": [
+        {
+          "name": "Kristoe Strauss",
+          "url": "https://open.spotify.com/artist/25ESQB9iy01R1CGlqnW517"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178706,
+      "name": "Ek en Muis",
+      "url": "https://open.spotify.com/track/0kf2cBXhFo17xWexjMJdIX"
+    },
+    {
+      "album": {
         "name": "Ek En My Huis",
         "url": "https://open.spotify.com/album/3kmY2Afffk3r9kTEErhq4d"
       },
@@ -13244,7 +13280,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 210000,
       "name": "Gemoedsrus",
       "url": "https://open.spotify.com/track/2EhaXA1mC6zVw7X5cjH6Pa"
@@ -18458,7 +18494,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 253381,
       "name": "Jy Speel Met Vuur",
       "url": "https://open.spotify.com/track/5nEmUGFDaqS7a1Q1xW4695"
@@ -24551,6 +24587,28 @@
     },
     {
       "album": {
+        "name": "Medisyne Mens",
+        "url": "https://open.spotify.com/album/1Ur9YOGmuBUHv8YYEkU3LQ"
+      },
+      "artists": [
+        {
+          "name": "Riku L\u00e4tti",
+          "url": "https://open.spotify.com/artist/4E3S8voohPSw4En4DYX130"
+        },
+        {
+          "name": "Jackie L\u00e4tti",
+          "url": "https://open.spotify.com/artist/5mJ0ib8PXz9BXvkgBzm5lY"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369437,
+      "name": "Medisyne Mens",
+      "url": "https://open.spotify.com/track/3nMGX6lm41umVDH2k8vvqu"
+    },
+    {
+      "album": {
         "name": "Estetika",
         "url": "https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS"
       },
@@ -27797,6 +27855,28 @@
     },
     {
       "album": {
+        "name": "Noorderlig",
+        "url": "https://open.spotify.com/album/3sNkWwLJrdkiDsIBMTdEus"
+      },
+      "artists": [
+        {
+          "name": "Joshua Na Die Re\u00ebn",
+          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
+        },
+        {
+          "name": "Seuns van Vlug",
+          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273267,
+      "name": "Noorderlig",
+      "url": "https://open.spotify.com/track/0A8LsxXyzdpFlkRQoChoUo"
+    },
+    {
+      "album": {
         "name": "Nora Vlok",
         "url": "https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs"
       },
@@ -29247,6 +29327,24 @@
     },
     {
       "album": {
+        "name": "Oom Kiewiet",
+        "url": "https://open.spotify.com/album/5epJJfImvw4bcTJriqKcaa"
+      },
+      "artists": [
+        {
+          "name": "Louis van Lill",
+          "url": "https://open.spotify.com/artist/1vqMsqSbWQUOoZNCmPnjY3"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Oom Kiewiet",
+      "url": "https://open.spotify.com/track/7pb2zaXoqZXBK7Ln3n9mh7"
+    },
+    {
+      "album": {
         "name": "Oom Olifant",
         "url": "https://open.spotify.com/album/2FtIctMfKxwFkrc0QfuqJV"
       },
@@ -29680,7 +29778,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 174576,
       "name": "Ou Liefde",
       "url": "https://open.spotify.com/track/0NaJiaBZix7RYGhPfmbyQB"
@@ -33662,7 +33760,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 198250,
       "name": "Skoenlapper",
       "url": "https://open.spotify.com/track/1fM9piF8QBOZiMANffSzd8"
@@ -34254,7 +34352,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 189310,
       "name": "Soeke na jou",
       "url": "https://open.spotify.com/track/1c62eC7kmHyQ78DA9Zo0Cb"

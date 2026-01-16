@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Juan Boucher<br/>en SANFRANDISCO
+> Net die beste Afrikaanse musiek! Omslag: Liezel Pieters en Gerhard Steyn
 
 368 songs - 20 hr 22 min
 

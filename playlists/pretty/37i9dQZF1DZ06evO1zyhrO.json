@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103973,
+  "num_followers": 103969,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWWLAAAAAADkGzpOsq9+E2CdHDx3sBiO",
+  "snapshot_id": "aWbcgAAAAABFI1D1AfOx1BJPUWRCfkM1",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 167796,
+      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing Like This",
         "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
       },
@@ -759,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/5jw97P9AddXp0lYCs5wRJO"
       },
       "artists": [
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 167796,
-      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
+      "duration_ms": 173244,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/7FnkxloNV0PSuwa5ruPhio"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 200403,
       "name": "Commitment Pt. 2",
       "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/5jw97P9AddXp0lYCs5wRJO"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 173244,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/7FnkxloNV0PSuwa5ruPhio"
     },
     {
       "added_at": null,

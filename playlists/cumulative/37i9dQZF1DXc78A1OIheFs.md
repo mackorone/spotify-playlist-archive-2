@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-319 songs - 18 hr 21 min
+320 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [KAVAFIED](https://open.spotify.com/track/78Mrv1y0tVzrhNRpv9BcXj) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Revus](https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa) | [KAVAFIED](https://open.spotify.com/album/6XXFEoCUDmrONzj2qLNGgq) | 3:04 | 2025-04-03 | 2025-04-21 |
 | [Keep Calling](https://open.spotify.com/track/01xOq1y8KJhitTuoq59NNi) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Now Forever](https://open.spotify.com/album/0geaFx2oD4MQuy46l2akmu) | 2:58 | 2024-05-20 | 2024-11-08 |
 | [Kiss Me Like You're So In Love](https://open.spotify.com/track/0BcsYXyRxgfjtyxkDKTJKG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Kiss Me Like You're So In Love](https://open.spotify.com/album/24dH4zH1SsLXGO86wCD1Ce) | 3:27 | 2025-02-20 | 2025-04-28 |
+| [Knocking At Your Door](https://open.spotify.com/track/2OBGlsbiixDJUK9hZJMfvH) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Knocking At Your Door](https://open.spotify.com/album/7dfLlEgi0O9NzbvyUJiWN3) | 2:34 | 2026-01-15 |  |
 | [Kāhore He Manu E](https://open.spotify.com/track/41m7XS3swYTSZDR1rbfP8T) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Kāhore He Manu E](https://open.spotify.com/album/3faF34VLFPLjbJqfhknVDB) | 2:21 | 2025-02-27 | 2025-05-17 |
 | [Kātuarehe](https://open.spotify.com/track/0nE77HMICYZIYuari7ZrIA) | [Anna Coddington](https://open.spotify.com/artist/0N4Wl36KNZ1bG2YelyeSlG) | [Kātuarehe](https://open.spotify.com/album/2KqItPwvyMukaYUPvWsAfb) | 3:13 | 2024-05-20 | 2024-11-08 |
 | [Largo](https://open.spotify.com/track/7EG26r1w1cnsJdmPt27o2l) | [Thorington](https://open.spotify.com/artist/2ZfNUfuaM93ICPYjH0Zgq8) | [Largo](https://open.spotify.com/album/6yxOW2mT4AfdpFO4L8IV2I) | 3:10 | 2024-05-20 | 2024-11-08 |
@@ -221,7 +222,7 @@
 | [One True Love](https://open.spotify.com/track/43FQqxSy16OabeFD0X2cgj) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Sheldon Palmer](https://open.spotify.com/artist/0VNnu9f86UN5ATrAuDKu64) | [One True Love](https://open.spotify.com/album/5tJylxYHIt86FGsLNNTRF5) | 3:37 | 2024-05-20 | 2024-11-08 |
 | [Painting My Roof Again](https://open.spotify.com/track/5hzO1rv7G7oYVWuLN7VUsl) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Painting My Roof Again](https://open.spotify.com/album/5KRo3jirSE4UEq2m2432No) | 4:08 | 2024-08-15 | 2024-11-08 |
 | [Papier\-Mâché](https://open.spotify.com/track/3GC0NNZxyIQSMOSoyUqpZ1) | [Tarn PK](https://open.spotify.com/artist/0o5jOQbBI6oSsI0U6OT41X) | [Papier\-Mâché](https://open.spotify.com/album/21wGL1QvVrXM5yJUNki3ag) | 4:00 | 2024-05-20 | 2024-10-04 |
-| [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 | 2024-05-20 |  |
+| [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 | 2024-05-20 | 2026-01-16 |
 | [Paris in the Rain](https://open.spotify.com/track/6lK86hPXQmCqWVQzpr2cCv) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Paris in the Rain](https://open.spotify.com/album/5MpXRd4igSRnaCpSb8mFyp) | 3:13 | 2025-11-06 | 2025-12-09 |
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-15 | 2025-03-21 |
 | [pinky girl](https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky girl](https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR) | 3:54 | 2024-10-03 | 2026-01-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIVYVBNw9D5K.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,925 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,997 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIVYVBNw9D5K.md) - [plain]
 | 49 | [Nilüfer](https://open.spotify.com/track/4cHrCNJTdMfbtY0fjc5ged) | [Müslüm Gürses](https://open.spotify.com/artist/4cMwyqmHCwJjRZ3frIVHTr) | [Aşk Tesadüfleri Sever \(Mucize ve Buluşma\)](https://open.spotify.com/album/5Q3EXfOt4y9MSS6FZJYA7M) | 4:18 |
 | 50 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

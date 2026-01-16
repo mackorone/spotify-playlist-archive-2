@@ -357,6 +357,40 @@
     },
     {
       "album": {
+        "name": "90S",
+        "url": "https://open.spotify.com/album/1lqzpBgNsPrfQLnSxcFo2Y"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209700,
+      "name": "90s",
+      "url": "https://open.spotify.com/track/4CmAasAiVnxo3WGy0PNxHA"
+    },
+    {
+      "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/5V0x6nAchFtGx4EOMbgVVK"
       },
@@ -890,6 +924,24 @@
       "duration_ms": 145231,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/5hnhH9GlQSgIyljtsvjFM1"
+    },
+    {
+      "album": {
+        "name": "Be So Bad",
+        "url": "https://open.spotify.com/album/6Hi4bhaRpO4EVb6y1zd6ZD"
+      },
+      "artists": [
+        {
+          "name": "Jane Macgizmo",
+          "url": "https://open.spotify.com/artist/4plzsAuxRehTrEn92axavn"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Be So Bad",
+      "url": "https://open.spotify.com/track/6BRBW3sMYOHoyfUNXhyQ5d"
     },
     {
       "album": {
@@ -2616,6 +2668,24 @@
       "duration_ms": 196706,
       "name": "Dirt To Bentley (feat. Kranium)",
       "url": "https://open.spotify.com/track/4fUw8ekzehYoBXjVc5fzsk"
+    },
+    {
+      "album": {
+        "name": "Dirth Day",
+        "url": "https://open.spotify.com/album/1IMVY0G5IzKHVCaIHxK1Ra"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294263,
+      "name": "Dirth Day",
+      "url": "https://open.spotify.com/track/78t72fRtSkO0poJAPijtJA"
     },
     {
       "album": {
@@ -4989,6 +5059,24 @@
     },
     {
       "album": {
+        "name": "Nothing Without God",
+        "url": "https://open.spotify.com/album/65clKbczk7FXoDZP4HUWOY"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161148,
+      "name": "Immortal Life",
+      "url": "https://open.spotify.com/track/2zB0nv4Xh29wGrvWSHitrh"
+    },
+    {
+      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/5LoNcj0I59uOuAIBvY9cLG"
       },
@@ -5630,6 +5718,28 @@
       "duration_ms": 174059,
       "name": "Like Glu",
       "url": "https://open.spotify.com/track/2ntyJMLjpnFX69RhKUUesj"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/0XF5pY3GW1x5DASvQE0aPK"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145836,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/4df0O8eGWBUvW73DPVCoqY"
     },
     {
       "album": {
@@ -6881,6 +6991,28 @@
     },
     {
       "album": {
+        "name": "Dancehall Ranger Riddim",
+        "url": "https://open.spotify.com/album/35Wwx0Po9TNPBzL3gXAWqt"
+      },
+      "artists": [
+        {
+          "name": "Bramma",
+          "url": "https://open.spotify.com/artist/6MCVsi6GS30CyBcLvhKcRg"
+        },
+        {
+          "name": "Dj Jahmar",
+          "url": "https://open.spotify.com/artist/1CLuf7GoXNA97lBr86pIOp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190824,
+      "name": "NUMBER ONE",
+      "url": "https://open.spotify.com/track/3lEz01gfZf125ECJsThR5V"
+    },
+    {
+      "album": {
         "name": "Vanquish",
         "url": "https://open.spotify.com/album/6h9zRriP6rftIyWyqzrJRp"
       },
@@ -7092,6 +7224,28 @@
       "duration_ms": 118768,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3Ibz41D18EEpiYv07FYea6"
+    },
+    {
+      "album": {
+        "name": "Outta Control",
+        "url": "https://open.spotify.com/album/79Mar27X6OEtQRBFioRM8N"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        },
+        {
+          "name": "Primetime Music",
+          "url": "https://open.spotify.com/artist/4xjHzpu4PqBOLsgCFEoNnR"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217647,
+      "name": "Outta Control",
+      "url": "https://open.spotify.com/track/4KsTKOIlBNhL6GQcv3bj57"
     },
     {
       "album": {
@@ -7336,6 +7490,28 @@
       "duration_ms": 230781,
       "name": "Party Shot",
       "url": "https://open.spotify.com/track/5qTUtzaIFKv09VqAdjTAUN"
+    },
+    {
+      "album": {
+        "name": "Passport Princess",
+        "url": "https://open.spotify.com/album/2eUtwXjwqOfFVatGK9ri8h"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134874,
+      "name": "Passport Princess",
+      "url": "https://open.spotify.com/track/2xoieEijJbhwhxBzXVpvnm"
     },
     {
       "album": {
@@ -7690,6 +7866,24 @@
       "duration_ms": 152570,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/1tOGmAJWpcu9TzDAylHPwI"
+    },
+    {
+      "album": {
+        "name": "Pu**y",
+        "url": "https://open.spotify.com/album/4dQILAZFKB795BljJ8pMVr"
+      },
+      "artists": [
+        {
+          "name": "Roe Summerz",
+          "url": "https://open.spotify.com/artist/28qKo7P9G17aasylX64m79"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275285,
+      "name": "Pu**y",
+      "url": "https://open.spotify.com/track/6nkbTGIGkzBjkYGe8e7LSJ"
     },
     {
       "album": {
@@ -11114,6 +11308,36 @@
       "duration_ms": 181115,
       "name": "Whap Whap (feat. F.S.)",
       "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
+    },
+    {
+      "album": {
+        "name": "What I Like (with Moliy, Ayetian, & Tyga)",
+        "url": "https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156140,
+      "name": "What I Like (with Moliy, Ayetian, & Tyga)",
+      "url": "https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB"
     },
     {
       "album": {

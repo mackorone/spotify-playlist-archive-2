@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Dembow de to el mundo pa to el mundo. Foto: Tokischa",
+  "description": "Dembow de to el mundo pa to el mundo. Foto: Arlene MC",
   "name": "Rep\u00fablica Dembow",
   "tracks": [
     {
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 126666,
       "name": "BROCOLI REMIX",
       "url": "https://open.spotify.com/track/6BEhajtf8MsBUt6ZxkL94g"
@@ -3434,7 +3434,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 114418,
       "name": "Chocate",
       "url": "https://open.spotify.com/track/1gQJbp8Occ6HkZjy7qJYcz"
@@ -4150,7 +4150,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 173824,
       "name": "Con Pila de Sed",
       "url": "https://open.spotify.com/track/2gaJjRzjcRy0UNRj2S0oBT"
@@ -4946,6 +4946,40 @@
       "duration_ms": 158473,
       "name": "Dale Papi",
       "url": "https://open.spotify.com/track/5UaCoB7Vdj7UCsa0VWtu39"
+    },
+    {
+      "album": {
+        "name": "DALE TEJIO",
+        "url": "https://open.spotify.com/album/4mnmVFRtTsPxgi7B2kXoVZ"
+      },
+      "artists": [
+        {
+          "name": "Hebreo Productions",
+          "url": "https://open.spotify.com/artist/3KlOGOGP24bx6nfm1Fvgzc"
+        },
+        {
+          "name": "Young Gatillo",
+          "url": "https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD"
+        },
+        {
+          "name": "Bella Abrew",
+          "url": "https://open.spotify.com/artist/1B6VuxZdrkUumNwmHC8ccK"
+        },
+        {
+          "name": "Aleica",
+          "url": "https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE"
+        },
+        {
+          "name": "Menor Queen",
+          "url": "https://open.spotify.com/artist/1MsuHuJMhPWFbzl2KWLyzz"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95303,
+      "name": "DALE TEJIO",
+      "url": "https://open.spotify.com/track/2T2EKld3MX5bp9iiZqr4Hx"
     },
     {
       "album": {
@@ -5930,7 +5964,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 141145,
       "name": "Digo U",
       "url": "https://open.spotify.com/track/1JI1QpaPo7njtr6upeJwyO"
@@ -7226,6 +7260,28 @@
       "duration_ms": 128386,
       "name": "El Pantalon",
       "url": "https://open.spotify.com/track/3lD8b8upUlaVyQtZCKKDnF"
+    },
+    {
+      "album": {
+        "name": "El Party",
+        "url": "https://open.spotify.com/album/4RIl6BJARTzxcICyTvmBKR"
+      },
+      "artists": [
+        {
+          "name": "Bilin Gang",
+          "url": "https://open.spotify.com/artist/54o5PLz1IsKvhSxTAXWsxm"
+        },
+        {
+          "name": "DJ Leury Prod",
+          "url": "https://open.spotify.com/artist/1fau2FYFAysj2HTmVt0ftq"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106421,
+      "name": "El Party",
+      "url": "https://open.spotify.com/track/3BVxVjygn9ARETTtNrNp8I"
     },
     {
       "album": {
@@ -10636,7 +10692,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 122022,
       "name": "La Blusa",
       "url": "https://open.spotify.com/track/0CpeOzZdjkGazvzX5OUPsA"
@@ -11775,6 +11831,24 @@
     },
     {
       "album": {
+        "name": "lambon y traicionero",
+        "url": "https://open.spotify.com/album/64RRHUrxXAQuZFDZMtlLxj"
+      },
+      "artists": [
+        {
+          "name": "Maceo El Perro Blanco",
+          "url": "https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90555,
+      "name": "lambon y traicionero",
+      "url": "https://open.spotify.com/track/5SYrQzOWa1IavDer4Uy4bQ"
+    },
+    {
+      "album": {
         "name": "Las Gatas (Dembow)",
         "url": "https://open.spotify.com/album/7pFUFza5kEYzrl2M4s1hga"
       },
@@ -11898,7 +11972,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 96005,
       "name": "Le M3temos S4lvaje",
       "url": "https://open.spotify.com/track/59MQu9sYwrVtYRzvO3w5pB"
@@ -12744,6 +12818,28 @@
       "duration_ms": 96806,
       "name": "lowkey",
       "url": "https://open.spotify.com/track/0eTy7mvCJiAkn2AYbCvStD"
+    },
+    {
+      "album": {
+        "name": "Lukiti Toky",
+        "url": "https://open.spotify.com/album/4IzQQ2yjIPITlqDf6sEgwN"
+      },
+      "artists": [
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
+        },
+        {
+          "name": "LA R",
+          "url": "https://open.spotify.com/artist/3x8Tzu2itDHSop4D0FOzZ9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135762,
+      "name": "Lukiti Toky",
+      "url": "https://open.spotify.com/track/7qLgDtCOYThTxgxCRd9m5f"
     },
     {
       "album": {
@@ -14923,6 +15019,28 @@
     },
     {
       "album": {
+        "name": "Morbo",
+        "url": "https://open.spotify.com/album/6muHMxcWvBgw1XkTgVnlwQ"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Breyco En Producidera",
+          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150005,
+      "name": "Morbo",
+      "url": "https://open.spotify.com/track/3bnvRn6OMV2D9UfnC6fj2C"
+    },
+    {
+      "album": {
         "name": "MORDERTE Y LAMBERTE",
         "url": "https://open.spotify.com/album/2gmsu4Aq4UKA5CUeTmEt17"
       },
@@ -15234,6 +15352,24 @@
       "duration_ms": 192708,
       "name": "Muevete Jevi",
       "url": "https://open.spotify.com/track/5kPwL6WDISXxt74V7tCsOV"
+    },
+    {
+      "album": {
+        "name": "Muevete Jevy",
+        "url": "https://open.spotify.com/album/2zv5wwfaCHzoSBmfuz3HCC"
+      },
+      "artists": [
+        {
+          "name": "El Fecho RD",
+          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139725,
+      "name": "Muevete Jevy",
+      "url": "https://open.spotify.com/track/1RiJuk5787sdELiyS4ht9K"
     },
     {
       "album": {
@@ -15744,6 +15880,28 @@
       "duration_ms": 147706,
       "name": "No estamos hablando de ti",
       "url": "https://open.spotify.com/track/1vYGT7nv8WIcwc6VkuXJRq"
+    },
+    {
+      "album": {
+        "name": "No Hay",
+        "url": "https://open.spotify.com/album/5dpC71aZxlU4AxGAkaRo9h"
+      },
+      "artists": [
+        {
+          "name": "Reissel",
+          "url": "https://open.spotify.com/artist/5PBjt4OmB9jEdcuTIUu6Go"
+        },
+        {
+          "name": "Recio DC",
+          "url": "https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102956,
+      "name": "No Hay",
+      "url": "https://open.spotify.com/track/2ijt4s3pmnUGb6zzXSBX7k"
     },
     {
       "album": {
@@ -16792,7 +16950,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 71111,
       "name": "Pa Que No Lo Brille",
       "url": "https://open.spotify.com/track/30HdnL6bygKEASmN0aGivG"
@@ -16902,6 +17060,28 @@
       "duration_ms": 108413,
       "name": "PA' QUE BAILES",
       "url": "https://open.spotify.com/track/2t6MAiKwBnsXV6os21BBet"
+    },
+    {
+      "album": {
+        "name": "PA' QUE BAJE",
+        "url": "https://open.spotify.com/album/3p2YRTOifRW8Kl9PtpfQUt"
+      },
+      "artists": [
+        {
+          "name": "Mafeo 13",
+          "url": "https://open.spotify.com/artist/6qgOVc7H8dqguJGtvpzeiP"
+        },
+        {
+          "name": "Julio Zaza 240",
+          "url": "https://open.spotify.com/artist/3IJjWvpF4CF9Z32M2qMAwZ"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115240,
+      "name": "PA' QUE BAJE",
+      "url": "https://open.spotify.com/track/0t3SnArzBuvqDfAZ2Y4dqt"
     },
     {
       "album": {
@@ -17518,6 +17698,24 @@
       "duration_ms": 169090,
       "name": "Peluche Bandida",
       "url": "https://open.spotify.com/track/1d6wGeZaMLCnAfCh5zQo1K"
+    },
+    {
+      "album": {
+        "name": "Pensando",
+        "url": "https://open.spotify.com/album/2weg7IqNiToqS4qeXtDjKv"
+      },
+      "artists": [
+        {
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130297,
+      "name": "Pensando",
+      "url": "https://open.spotify.com/track/3dMzmdy8OqMNBkAYSew3Nm"
     },
     {
       "album": {
@@ -18458,6 +18656,28 @@
       "duration_ms": 120419,
       "name": "Pok Pok",
       "url": "https://open.spotify.com/track/3naEyuhMhK1fnEVWeWSQsn"
+    },
+    {
+      "album": {
+        "name": "Pon El De 30",
+        "url": "https://open.spotify.com/album/4mXcYLBep9QGcK9ZtXqMvN"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118389,
+      "name": "Pon El De 30",
+      "url": "https://open.spotify.com/track/3AIOvT3EdgNg3zBYu3AU7G"
     },
     {
       "album": {
@@ -21128,7 +21348,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 126949,
       "name": "Rubiesita",
       "url": "https://open.spotify.com/track/2cSPGO4jBWwpUauenWGjNi"
@@ -21374,6 +21594,32 @@
       "duration_ms": 132004,
       "name": "San Juan",
       "url": "https://open.spotify.com/track/3BCDbyPWOa5ZDStKlDORW4"
+    },
+    {
+      "album": {
+        "name": "San Vincente",
+        "url": "https://open.spotify.com/album/0mS4tHLfNexrQeU7yEdLaa"
+      },
+      "artists": [
+        {
+          "name": "El Toro 380",
+          "url": "https://open.spotify.com/artist/22JaS8RI5SMpPiEZNp9M9F"
+        },
+        {
+          "name": "Jhayseven",
+          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
+        },
+        {
+          "name": "Moncholo La Vainilla",
+          "url": "https://open.spotify.com/artist/11QRlEwbooxjVZNRQHH1KX"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "San Vicente",
+      "url": "https://open.spotify.com/track/71brd2gK8fxkx1MfqKLlX2"
     },
     {
       "album": {
@@ -22078,7 +22324,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 127461,
       "name": "Si Me Dan",
       "url": "https://open.spotify.com/track/23GGExfquFXSPUAQsfmn9Y"
@@ -25266,7 +25512,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 172500,
       "name": "TODO EL MUNDO LOCO",
       "url": "https://open.spotify.com/track/7idTFUbsopNSzb13IZ2rpR"
@@ -28624,7 +28870,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 96726,
       "name": "\u00d1aca \u00d1aca",
       "url": "https://open.spotify.com/track/63Kd4QrTc5VPrPXNyWSQrS"

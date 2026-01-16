@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,316 likes - 150 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,335 likes - 150 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,15 +121,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 111 | [Pannonica](https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Joyous Encounter](https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu) | 8:05 |
 | 112 | [Slidin' Through](https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU) | [Arthur Blythe](https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33) | [Lenox Avenue Breakdown](https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7) | 9:38 |
 | 113 | [Eco \- Remastered](https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Right Now](https://open.spotify.com/album/18bi2UuLLBj78oai30goPA) | 6:08 |
-| 114 | [A Side Order of Hijiki](https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Pushing the World Away](https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79) | 3:43 |
-| 115 | [I Remember You \- 2006 Digital Remaster](https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 7:29 |
+| 114 | [I Remember You \- 2006 Digital Remaster](https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 7:29 |
+| 115 | [A Side Order of Hijiki](https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Pushing the World Away](https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79) | 3:43 |
 | 116 | [Haghia Sophia](https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Quartets](https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk) | 7:24 |
 | 117 | [Kalypso](https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Sirens](https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK) | 8:24 |
 | 118 | [Blues in G Flat](https://open.spotify.com/track/0Ue2r9lo6Af2Ix8V1OJWy4) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D), [Dave Cliff](https://open.spotify.com/artist/766o096cn0XlOgdB9IB5Cy), [Niels\-Henning Ørsted Pedersen](https://open.spotify.com/artist/673nUEedXxOIdNlPvxXLiM), [Alan Levitt](https://open.spotify.com/artist/5Akzw2vZjeRvDamf6c4FJW) | [The Unissued Copenhagen Studio Session](https://open.spotify.com/album/2x0fbyQOBccjXwUZPVTvWc) | 7:26 |
 | 119 | [Elysium](https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Contemporary Jazz](https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ) | 16:02 |
-| 120 | [J.E.V.](https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Arild Andersen](https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m), [Edward Vesala](https://open.spotify.com/artist/1L8P0focMerZcfKibETMRr) | [Triptykon](https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb) | 7:27 |
-| 121 | [The Last Train](https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn) | [David Liebman Quartet / Quintet Live](https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz) | 13:19 |
-| 122 | [Back East](https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Back East](https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE) | 6:40 |
+| 120 | [Back East](https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Back East](https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE) | 6:40 |
+| 121 | [J.E.V.](https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Arild Andersen](https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m), [Edward Vesala](https://open.spotify.com/artist/1L8P0focMerZcfKibETMRr) | [Triptykon](https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb) | 7:27 |
+| 122 | [The Last Train](https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn) | [David Liebman Quartet / Quintet Live](https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz) | 13:19 |
 | 123 | [The Mac Man](https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [On This Night](https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3) | 7:27 |
 | 124 | [Salt And Pepper](https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi) | [Fly Trio](https://open.spotify.com/artist/7ygwEivK0GOVKlrtEPK1y7) | [Year Of The Snake](https://open.spotify.com/album/7qVhLKleQh9hqqUdTtZJSh) | 5:04 |
 | 125 | [New Days](https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim) | [Benny Reid](https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe) | [Escaping Shadows](https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW) | 5:29 |

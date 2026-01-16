@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,128 likes - 345 songs - 19 hr 31 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,129 likes - 347 songs - 19 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -353,5 +353,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 343 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 |
 | 344 | [Faint](https://open.spotify.com/track/66vElSVmVuC9StxwlBrbYa) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Faint](https://open.spotify.com/album/7EeNUyO2Qcjm9cQYAtkiEb) | 3:27 |
 | 345 | [Cicles caduquen](https://open.spotify.com/track/3n4BLzoQrth8l0WEWLWP8e) | [Només Tot](https://open.spotify.com/artist/5WYj8w4O9AiT8jrOroxydL) | [Cicles Caduquen](https://open.spotify.com/album/1TixayhHk8ebpP5aTBhqdf) | 2:04 |
+| 346 | [DESCENT](https://open.spotify.com/track/43cIju9Ct7euSdX4gq0Gxx) | [BAIKAL](https://open.spotify.com/artist/1Ic18THJhrkih00C2LyczI) | [Baikal](https://open.spotify.com/album/1ZUAbfumLk9K2KfL1ESZ5s) | 5:19 |
+| 347 | [All Alone](https://open.spotify.com/track/100rGMTMahy3hgUqtSMVW8) | [Summer Stained](https://open.spotify.com/artist/2sEdrlfz7BldSC7bpMhpj3) | [Moving Forward](https://open.spotify.com/album/3XTle8a2FA5STIURdj5rS8) | 2:55 |
 
-Snapshot ID: `AAAJ9J3Zav5Kt2s7rBMJRL6b74OItlmx`
+Snapshot ID: `AAAJ9mxTrgIlmzP7GV/2p6ZU+PJ+5A3I`

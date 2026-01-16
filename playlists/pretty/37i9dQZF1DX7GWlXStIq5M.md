@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: GABI LINS
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,196 likes - 79 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,161 likes - 79 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 62 | [Falo Demais](https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Falo Demais](https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy) | 2:51 |
 | 63 | [O Motivo](https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Tutti Beats](https://open.spotify.com/artist/7bn1rXxEuE0LpV3LQ5PatH) | [O Motivo](https://open.spotify.com/album/5j7Wfy6vxuPgjN1b1PY7SW) | 3:04 |
 | 64 | [Bem Bem](https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Bem Bem](https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l) | 2:16 |
-| 65 | [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 |
+| 65 | [Sagitariano](https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Sagitariano](https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9) | 2:21 |
 | 66 | [T Ó X I C O](https://open.spotify.com/track/7a0ik6D4mG9zqQqOGunsPA) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [T Ó X I C O](https://open.spotify.com/album/5ZDRU1H00G4Qjqzl05p1cg) | 2:12 |
-| 67 | [Sagitariano](https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Sagitariano](https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9) | 2:21 |
+| 67 | [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 |
 | 68 | [Visões](https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh) | [Visões](https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7) | 2:39 |
 | 69 | [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 |
 | 70 | [Queda Livre](https://open.spotify.com/track/2hDXBmxT4SpgZxsXkQsK14) | [NATI OFICIAL](https://open.spotify.com/artist/0hKYGll2ZuRZFNNHkrexY4) | [Queda Livre](https://open.spotify.com/album/3gois0Rmk5Bcbumx6QRarj) | 1:41 |

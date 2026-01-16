@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,440 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,456 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 64 | [A Better Song \(Inspired by the book, “The Heart Who Wanted to Sing” by Beth Guckenberger\)](https://open.spotify.com/track/6Bzg7W7srn2n91cazUIcHR) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [A Better Song \(Inspired by the book, “The Heart Who Wanted to Sing” by Beth Guckenberger\)](https://open.spotify.com/album/5aByZBN1zW6INKgllKgd4z) | 3:21 |
 | 65 | [When I Talk to God](https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 2:37 |
 | 66 | [Trust And Obey](https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 4:33 |
-| 67 | [I Am the Way \(John 14:6\)](https://open.spotify.com/track/76VHEBR3LQ6zYUg0fF09Hd) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:21 |
-| 68 | [Books Of The Bible](https://open.spotify.com/track/6s9sOW9Qc5aqL7S34LWBNY) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [3 Little Words, Vol\. 7](https://open.spotify.com/album/1KgPjPGJIMARbxRtNlwKyD) | 1:55 |
-| 69 | [Be Completely Changed](https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [You Amaze Me](https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY) | 2:32 |
+| 67 | [Be Completely Changed](https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [You Amaze Me](https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY) | 2:32 |
+| 68 | [I Am the Way \(John 14:6\)](https://open.spotify.com/track/76VHEBR3LQ6zYUg0fF09Hd) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:21 |
+| 69 | [Books Of The Bible](https://open.spotify.com/track/6s9sOW9Qc5aqL7S34LWBNY) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [3 Little Words, Vol\. 7](https://open.spotify.com/album/1KgPjPGJIMARbxRtNlwKyD) | 1:55 |
 | 70 | [No Greater Love](https://open.spotify.com/track/2AfFMm3DTsbQ1qvE61uZwM) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 3:50 |
 | 71 | [Superhero \- Reimagined](https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Jesus Is My Superhero](https://open.spotify.com/album/0j0VyoOTsSC3bklFDRrgCT) | 2:44 |
 | 72 | [The New Testament Song](https://open.spotify.com/track/3dvNnUeafyziPJvmgcFz6i) | [Seeds Kids Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [The New Testament Song](https://open.spotify.com/album/1ZawOBwcYWtpKMVwVqE59Y) | 2:54 |
-| 73 | [Psalms 150](https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [Psalms 150](https://open.spotify.com/album/5JnXfbyb5m4kbtYkLzPMz2) | 2:29 |
-| 74 | [Spring Sings](https://open.spotify.com/track/0AIAI0gEUkN4di7wx4nPov) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Spring Sings](https://open.spotify.com/album/385COA05ACgHNxR3zojfE1) | 3:51 |
+| 73 | [Spring Sings](https://open.spotify.com/track/0AIAI0gEUkN4di7wx4nPov) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Spring Sings](https://open.spotify.com/album/385COA05ACgHNxR3zojfE1) | 3:51 |
+| 74 | [Psalms 150](https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [Psalms 150](https://open.spotify.com/album/5JnXfbyb5m4kbtYkLzPMz2) | 2:29 |
 | 75 | [Every Move I Make](https://open.spotify.com/track/6hv4MN2Knt4Zk2EyeCJ1pb) | [KidStuf Singers](https://open.spotify.com/artist/5JuIVBnUSqlAIXIO4xxXnM), [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Shout to the Lord Kids](https://open.spotify.com/album/3srxJtNh6S5SCHgxoMomWV) | 3:10 |
 
 Snapshot ID: `AAAAAO2StCo0l76tYYmXIg4Vf2fu3kFP`

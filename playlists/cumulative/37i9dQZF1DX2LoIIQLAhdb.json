@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Blynk x RnBoi",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi x Nono La Grinta",
   "name": "R&Bae",
   "tracks": [
     {
@@ -550,6 +550,28 @@
       "duration_ms": 199123,
       "name": "Au suivant",
       "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
+    },
+    {
+      "album": {
+        "name": "AVEC MOI",
+        "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "AVEC MOI",
+      "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
     },
     {
       "album": {
@@ -1885,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/78VRTJHZufFmwD16lwpT3p"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/682L6zgrJ2fHIrxy17l49J"
+    },
+    {
+      "album": {
         "name": "Colombe",
         "url": "https://open.spotify.com/album/4icE1928MumHUI9Y1sxnHq"
       },
@@ -2600,7 +2640,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 131000,
       "name": "Dedans",
       "url": "https://open.spotify.com/track/4KtN92VvzPx04D8w9QvmvP"
@@ -3018,6 +3058,28 @@
       "duration_ms": 169791,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/6Gjm6vFZqzoXvHiokZLIeO"
+    },
+    {
+      "album": {
+        "name": "Douter",
+        "url": "https://open.spotify.com/album/2JcBQdFHViwE5onB7eD1L8"
+      },
+      "artists": [
+        {
+          "name": "Mkz03",
+          "url": "https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi"
+        },
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Douter",
+      "url": "https://open.spotify.com/track/3mrVKqmydppsdIZ2uUu6An"
     },
     {
       "album": {
@@ -3713,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "FIRST DATE",
+        "url": "https://open.spotify.com/album/3KBZwFPZz9CGqpmZbmi3b1"
+      },
+      "artists": [
+        {
+          "name": "Ophi",
+          "url": "https://open.spotify.com/artist/5s16Xc4BNte6wSYcjBekbn"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133069,
+      "name": "FIRST DATE",
+      "url": "https://open.spotify.com/track/1hl3P1lMBTvAy484nf20t2"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/3cVnkUmA5GSSWCrYDpKwoZ"
       },
@@ -4344,7 +4424,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 222068,
       "name": "Ici ou ailleurs",
       "url": "https://open.spotify.com/track/2j1moEf05wADCnu8DIEsHR"
@@ -5630,7 +5710,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 230551,
       "name": "LECHOIX",
       "url": "https://open.spotify.com/track/49p3bg5Djy5Znzf8LuiSJk"
@@ -6774,7 +6854,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 162471,
       "name": "MJ Style",
       "url": "https://open.spotify.com/track/1wz3kQevRiisr0T3r1sOqS"
@@ -9722,7 +9802,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 140160,
       "name": "Sexy Drill",
       "url": "https://open.spotify.com/track/1YWlYc2DJhavTmor6jFQgg"
@@ -11030,6 +11110,28 @@
       "duration_ms": 186665,
       "name": "Tout le quartier",
       "url": "https://open.spotify.com/track/4fv67Ng1bfkj6sLApDlJPE"
+    },
+    {
+      "album": {
+        "name": "Tout se sait",
+        "url": "https://open.spotify.com/album/4HopVoWJplseTouNu1qJnU"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212685,
+      "name": "Tout se sait",
+      "url": "https://open.spotify.com/track/3AwtCxUXJfQqy2mwWVRzTl"
     },
     {
       "album": {

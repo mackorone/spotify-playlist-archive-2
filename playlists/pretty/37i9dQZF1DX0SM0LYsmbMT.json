@@ -1,6 +1,6 @@
 {
   "description": "The original chill instrumental beats playlist.",
-  "num_followers": 2234550,
+  "num_followers": 2234507,
   "original_name": "Jazz Vibes",
   "owner": {
     "name": "Spotify",
@@ -4647,26 +4647,6 @@
     {
       "added_at": "2026-01-09 04:00:17",
       "album": {
-        "name": "Pennies",
-        "url": "https://open.spotify.com/album/5uA7E5lPHOyRuV3fqONgWF"
-      },
-      "artists": [
-        {
-          "name": "Civin",
-          "url": "https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW"
-        },
-        {
-          "name": "Viva Alpagua Lo-Fi",
-          "url": "https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd"
-        }
-      ],
-      "duration_ms": 115813,
-      "name": "Pennies",
-      "url": "https://open.spotify.com/track/6AXC881cTIHH1nfdxJqOx5"
-    },
-    {
-      "added_at": "2026-01-09 04:00:17",
-      "album": {
         "name": "Arrive",
         "url": "https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze"
       },
@@ -4683,6 +4663,26 @@
       "duration_ms": 101052,
       "name": "Arrive",
       "url": "https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z"
+    },
+    {
+      "added_at": "2026-01-09 04:00:17",
+      "album": {
+        "name": "Pennies",
+        "url": "https://open.spotify.com/album/5uA7E5lPHOyRuV3fqONgWF"
+      },
+      "artists": [
+        {
+          "name": "Civin",
+          "url": "https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW"
+        },
+        {
+          "name": "Viva Alpagua Lo-Fi",
+          "url": "https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd"
+        }
+      ],
+      "duration_ms": 115813,
+      "name": "Pennies",
+      "url": "https://open.spotify.com/track/6AXC881cTIHH1nfdxJqOx5"
     },
     {
       "added_at": "2026-01-09 04:00:17",

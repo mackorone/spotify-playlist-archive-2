@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,179 likes - 100 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,197 likes - 100 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 91 | [Richter Sonntag](https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1) | [Nils Berg Cinemascope](https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3) | [We Seem to Be Drifting Apart](https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2) | 2:46 |
 | 92 | [Fanfar](https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB) | [Thommy Andersson](https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6) | [Wood Circles](https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP) | 5:23 |
 | 93 | [Sævelid](https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Funeral Dance](https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE) | 5:20 |
-| 94 | [Lena](https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX) | [The Stoner](https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe) | [Kinder Call](https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z) | 4:06 |
-| 95 | [Origin Story](https://open.spotify.com/track/7GUUMi4uAhyBLr0btnmyaY) | [Kaisa's Machine](https://open.spotify.com/artist/0stN0RJaUEq8knBvMdNjtl), [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [Origin Story](https://open.spotify.com/album/7v2HxxReiFQJZuwrf2ty3K) | 5:48 |
-| 96 | [Dawn](https://open.spotify.com/track/2uu6m4hZRyQeCnY5UNh8yO) | [Henning Ullén](https://open.spotify.com/artist/5jGoaN0eufjXrK4RAikXfC), [Mauritz Agnas](https://open.spotify.com/artist/37cquj8T6GWH3AjTTluu8P), [Nils Agnas](https://open.spotify.com/artist/5HbFG8La8D4a3AB2aj18s2) | [Play!](https://open.spotify.com/album/47Wpf2GK64iLCQkISlvK9B) | 4:11 |
+| 94 | [Dawn](https://open.spotify.com/track/2uu6m4hZRyQeCnY5UNh8yO) | [Henning Ullén](https://open.spotify.com/artist/5jGoaN0eufjXrK4RAikXfC), [Mauritz Agnas](https://open.spotify.com/artist/37cquj8T6GWH3AjTTluu8P), [Nils Agnas](https://open.spotify.com/artist/5HbFG8La8D4a3AB2aj18s2) | [Play!](https://open.spotify.com/album/47Wpf2GK64iLCQkISlvK9B) | 4:11 |
+| 95 | [Lena](https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX) | [The Stoner](https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe) | [Kinder Call](https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z) | 4:06 |
+| 96 | [Origin Story](https://open.spotify.com/track/7GUUMi4uAhyBLr0btnmyaY) | [Kaisa's Machine](https://open.spotify.com/artist/0stN0RJaUEq8knBvMdNjtl), [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [Origin Story](https://open.spotify.com/album/7v2HxxReiFQJZuwrf2ty3K) | 5:48 |
 | 97 | [Anten](https://open.spotify.com/track/1kTvRa6n1mCKUcyw9djisF) | [Agnes Darelid](https://open.spotify.com/artist/7btMzx5phlm78f1z2irPQ1), [Liliana Zavala](https://open.spotify.com/artist/318joJnkZbXBwp9t8DGqyx) | [RISE](https://open.spotify.com/album/0pQQ091wlhGXqGzpdV6aW7) | 5:50 |
 | 98 | [Slow Fox](https://open.spotify.com/track/3SfRQdSlVB3hIppPaALL1I) | [Tore Johansen](https://open.spotify.com/artist/54avVjmKZsborJSxzfYttt), [Vigleik Storaas](https://open.spotify.com/artist/7lDE36judogNbn12iCXQce), [Ole Morten Vågan](https://open.spotify.com/artist/5ZYJVTtkOgQLZaa5QqgRJn) | [Rainbow Session](https://open.spotify.com/album/5MHtrcpYvw5zqwOGBvYe9p) | 4:54 |
 | 99 | [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 |

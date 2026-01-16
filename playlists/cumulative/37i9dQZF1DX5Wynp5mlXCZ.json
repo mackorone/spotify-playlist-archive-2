@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Bruno Mars",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: DOROFEEVA & Elysees",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -92,6 +92,28 @@
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
+    },
+    {
+      "album": {
+        "name": "505 (Remix)",
+        "url": "https://open.spotify.com/album/4o3EOvTc73thHnvteMEXoD"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        },
+        {
+          "name": "Elysees",
+          "url": "https://open.spotify.com/artist/51XJSRmRUa7EifeJld9Wn9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150119,
+      "name": "505 - Remix",
+      "url": "https://open.spotify.com/track/2qGJ5zgXBIfqEjxpAYJ4v7"
     },
     {
       "album": {
@@ -327,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Beat Yourself Up",
+        "url": "https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Beat Yourself Up",
+      "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -494,7 +534,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 242584,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
@@ -640,6 +680,24 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
+    },
+    {
+      "album": {
+        "name": "CATHARTICUS (prayer)",
+        "url": "https://open.spotify.com/album/6BaxdtefdTdELBbxuIdM2K"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "CATHARTICUS (prayer)",
+      "url": "https://open.spotify.com/track/0h515vyyNVzcmpkSB1r2Oh"
     },
     {
       "album": {
@@ -1030,7 +1088,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 231680,
       "name": "Don't Cry, Put Your Head On My Shoulder",
       "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
@@ -2167,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "In the dark",
+        "url": "https://open.spotify.com/album/21puYuE4acIgc3FxbLUzGq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Niro",
+          "url": "https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "In the dark",
+      "url": "https://open.spotify.com/track/4nucABfBIdolTxEy5LYzbO"
+    },
+    {
+      "album": {
         "name": "Incredible (feat. Labrinth)",
         "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
       },
@@ -2309,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "LIGHTKEEPER",
+        "url": "https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE"
+      },
+      "artists": [
+        {
+          "name": "LAUD",
+          "url": "https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179692,
+      "name": "LIGHTKEEPER",
+      "url": "https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -2436,7 +2530,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 172306,
       "name": "LOVE SONG",
       "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
@@ -3422,7 +3516,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 229458,
       "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
       "url": "https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ"
@@ -3896,7 +3990,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 132539,
       "name": "Talk",
       "url": "https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb"
@@ -4308,6 +4402,24 @@
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+    },
+    {
+      "album": {
+        "name": "TYT",
+        "url": "https://open.spotify.com/album/5e5IyjB6CJTrEh8TD5YzhR"
+      },
+      "artists": [
+        {
+          "name": "Monokate",
+          "url": "https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166486,
+      "name": "TYT",
+      "url": "https://open.spotify.com/track/6qj3K4gUD0vALscsTgMUpV"
     },
     {
       "album": {
@@ -5280,6 +5392,24 @@
       "duration_ms": 193279,
       "name": "\u0412\u0441\u0435 \u041e\u041a",
       "url": "https://open.spotify.com/track/1kz3kY07LYcVPxB1WlQCHv"
+    },
+    {
+      "album": {
+        "name": "\u0412\u0441\u0435 \u043f\u043e \u043a\u043e\u043b\u0443",
+        "url": "https://open.spotify.com/album/5KW2YY8ttyygKGl7tsN0hI"
+      },
+      "artists": [
+        {
+          "name": "KAZKA",
+          "url": "https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163967,
+      "name": "\u0412\u0441\u0435 \u043f\u043e \u043a\u043e\u043b\u0443",
+      "url": "https://open.spotify.com/track/1QtvlaZUhEU5AxtiIxNrAa"
     },
     {
       "album": {
@@ -6612,7 +6742,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 155230,
       "name": "\u041c\u041e\u0417\u041e\u041a \u0414\u0418\u0421\u041a\u041e",
       "url": "https://open.spotify.com/track/5UMxH9psk5dXg3NDqeZLh6"
@@ -7176,7 +7306,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 187000,
       "name": "\u041d\u0435\u0431\u0435\u0441\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/1sEXmH4Ch0o6p2EETkgErS"
@@ -8528,7 +8658,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 238052,
       "name": "\u0424\u0440\u0430\u043d\u0441\u0443\u0430",
       "url": "https://open.spotify.com/track/5nxvhdJsVBsmNm7UIWLF4w"

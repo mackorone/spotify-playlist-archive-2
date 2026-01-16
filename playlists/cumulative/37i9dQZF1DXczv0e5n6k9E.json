@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: TAFF",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: YungKapa",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -478,7 +478,7 @@
           "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
         },
         {
-          "name": "BLVD Studio",
+          "name": "BLVD",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
@@ -784,6 +784,36 @@
       "duration_ms": 144578,
       "name": "ALADDIN",
       "url": "https://open.spotify.com/track/4WRdYQM21e3bji4xHSVNoG"
+    },
+    {
+      "album": {
+        "name": "ALANES",
+        "url": "https://open.spotify.com/album/1j0KKlfQZ4kOxlnq5lUOIO"
+      },
+      "artists": [
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        },
+        {
+          "name": "ENEM",
+          "url": "https://open.spotify.com/artist/6ASifUtmNbT4u8x7O8YBHW"
+        },
+        {
+          "name": "TSE",
+          "url": "https://open.spotify.com/artist/06dkSTsCWI3Lk4OR3g9FPe"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230588,
+      "name": "ALANES",
+      "url": "https://open.spotify.com/track/2Q1uy0j0YpWW6CwUr6LB5L"
     },
     {
       "album": {
@@ -1186,7 +1216,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 160000,
       "name": "ASTERIA",
       "url": "https://open.spotify.com/track/0cLg1MKOIjGgSYhSxmKPe4"
@@ -1312,6 +1342,28 @@
       "duration_ms": 186986,
       "name": "AYO!",
       "url": "https://open.spotify.com/track/0wKGnQd4X0cf5WH17J7jsu"
+    },
+    {
+      "album": {
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "BABA",
+      "url": "https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC"
     },
     {
       "album": {
@@ -1526,6 +1578,32 @@
       "duration_ms": 209647,
       "name": "BANDA",
       "url": "https://open.spotify.com/track/0qwaa6tqNgy2KmTd9bdX4h"
+    },
+    {
+      "album": {
+        "name": "BANDA ORGANISE",
+        "url": "https://open.spotify.com/album/702rd1OEJ3RAzW0fds5SCQ"
+      },
+      "artists": [
+        {
+          "name": "Baby Grim",
+          "url": "https://open.spotify.com/artist/69nPV8F506jroOnHRHxG2g"
+        },
+        {
+          "name": "GERAL",
+          "url": "https://open.spotify.com/artist/4HefPeLLxuTlcF0QzKqF9V"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156837,
+      "name": "BANDA ORGANISE",
+      "url": "https://open.spotify.com/track/6IVZ7TzEOS8N4eeGCi1rep"
     },
     {
       "album": {
@@ -2550,7 +2628,7 @@
           "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
         },
         {
-          "name": "BLVD Studio",
+          "name": "BLVD",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
@@ -3089,6 +3167,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kid Young",
+          "url": "https://open.spotify.com/artist/6VuPL5ClnBVIo5HLo7nBtz"
+        },
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Dilitirio",
+      "url": "https://open.spotify.com/track/3kP8vlpYGKJtWg4rJF94Vl"
+    },
+    {
+      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/0LZpJ5aYy9WRFpK79m0T6u"
       },
@@ -3112,6 +3212,32 @@
       "duration_ms": 198347,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/6eyAhSQLBbGHeh8E4ees5m"
+    },
+    {
+      "album": {
+        "name": "DIO KARDIES",
+        "url": "https://open.spotify.com/album/6IhmTZhE9F91ozgvQULr6Z"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Michalis Karagkounis",
+          "url": "https://open.spotify.com/artist/2pyJFxIC4rry7PluWUSiBD"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200412,
+      "name": "DIO KARDIES",
+      "url": "https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy"
     },
     {
       "album": {
@@ -3948,7 +4074,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 199132,
       "name": "EVOQUE",
       "url": "https://open.spotify.com/track/45ed94prkQyGqZ8gZLo9np"
@@ -4122,7 +4248,7 @@
           "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
         },
         {
-          "name": "BLVD Studio",
+          "name": "BLVD",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
@@ -7353,6 +7479,28 @@
     },
     {
       "album": {
+        "name": "MANY MEN",
+        "url": "https://open.spotify.com/album/4zTNVuFIYUZs40vtIZ0wmf"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130941,
+      "name": "MANY MEN",
+      "url": "https://open.spotify.com/track/4149nuoX8ki4zAS1w6BDNo"
+    },
+    {
+      "album": {
         "name": "MAQUO",
         "url": "https://open.spotify.com/album/7s4zPalLZZLVWyQXAsoAzb"
       },
@@ -7776,7 +7924,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 120000,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/6QPJznZa06kApEw4r6BlRZ"
@@ -7820,7 +7968,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 164506,
       "name": "MOLOTOV",
       "url": "https://open.spotify.com/track/1U9oT9anqEgC7axD1Th7NT"
@@ -7840,7 +7988,7 @@
           "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
         },
         {
-          "name": "BLVD Studio",
+          "name": "BLVD",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         },
         {
@@ -7901,6 +8049,24 @@
     },
     {
       "album": {
+        "name": "MONO ESY",
+        "url": "https://open.spotify.com/album/3gJ7HsKlhfaChj2TK86ZQM"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "MONO ESY",
+      "url": "https://open.spotify.com/track/23OOJ61oprS8Kcaj6WmUgJ"
+    },
+    {
+      "album": {
         "name": "XORIS NA NTREPOMAI",
         "url": "https://open.spotify.com/album/3gV9SmAASd1VRSzguYudAq"
       },
@@ -7958,7 +8124,7 @@
           "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
         },
         {
-          "name": "BLVD Studio",
+          "name": "BLVD",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
@@ -8116,7 +8282,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 188181,
       "name": "Multivitamin",
       "url": "https://open.spotify.com/track/12kbGZkxsbmAnzLJlpjkOK"
@@ -8785,6 +8951,32 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kid Young",
+          "url": "https://open.spotify.com/artist/6VuPL5ClnBVIo5HLo7nBtz"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Oloi",
+      "url": "https://open.spotify.com/track/3vf4jc8eUcmsFxmsygVz6v"
+    },
+    {
+      "album": {
         "name": "OMERTA",
         "url": "https://open.spotify.com/album/3RjUzkbQoicQtpcgZ2fXMM"
       },
@@ -9096,7 +9288,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 139607,
       "name": "OSE",
       "url": "https://open.spotify.com/track/0Ythgq8uacb9uwkWSs0Vkb"
@@ -9288,7 +9480,7 @@
           "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
         },
         {
-          "name": "BLVD Studio",
+          "name": "BLVD",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
@@ -9350,7 +9542,7 @@
           "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
         },
         {
-          "name": "BLVD Studio",
+          "name": "BLVD",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
@@ -9484,7 +9676,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 155789,
       "name": "PATEK",
       "url": "https://open.spotify.com/track/4hP3SgO11Vn5ZPW2UfK73q"
@@ -10378,7 +10570,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 130909,
       "name": "PWS TO THELEIS",
       "url": "https://open.spotify.com/track/7J0ZOyAMv031Dr8LaC4YaE"
@@ -10546,7 +10738,7 @@
           "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
         },
         {
-          "name": "BLVD Studio",
+          "name": "BLVD",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
@@ -11670,7 +11862,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 147000,
       "name": "STABA",
       "url": "https://open.spotify.com/track/1zPbtDdZs62xoHsGulS64C"
@@ -12204,6 +12396,28 @@
       "duration_ms": 151000,
       "name": "TARTUFO",
       "url": "https://open.spotify.com/track/2tPsXUfPwXbQtHbHl2McA4"
+    },
+    {
+      "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/2a0hMD2XGea5eYLL7lOlYv"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "TE QUIERO",
+      "url": "https://open.spotify.com/track/3vw2KhRx62NVY8cMPTLVsl"
     },
     {
       "album": {
@@ -13418,7 +13632,7 @@
           "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
         },
         {
-          "name": "BLVD Studio",
+          "name": "BLVD",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],

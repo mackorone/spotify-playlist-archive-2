@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-861 songs - 1 day 23 hr 27 min
+864 songs - 1 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,6 +696,7 @@
 | [Stay With The Feeling](https://open.spotify.com/track/7fLKKUd3zEvhCa4TA6S5Ee) | [OLYV](https://open.spotify.com/artist/1PKh8rrEMkkJt1DDJMLkGU) | [Stay With The Feeling](https://open.spotify.com/album/3Yow2jqjZLYqF88y6LlWZ4) | 2:27 | 2025-11-11 | 2025-12-13 |
 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 | 2026-01-04 |  |
 | [Stick It To The Man](https://open.spotify.com/track/5gKANcaA1QBVcukkHepFoL) | [Toxic Trash Angels](https://open.spotify.com/artist/0fO8pwZDTlANGvANUlBhkl) | [Trapped In My Head](https://open.spotify.com/album/0eop7Ool2Xi0Yydp11Figt) | 2:39 | 2026-01-01 |  |
+| [Stileta](https://open.spotify.com/track/7rhDc0cq2nlP3tdkLBHHAQ) | [S\. N\. Corval](https://open.spotify.com/artist/5t4F102t7bbqqRv8jWC9Kq) | [Sombreza](https://open.spotify.com/album/1h0Ds9K01jDLTv12QQufqQ) | 1:58 | 2026-01-15 |  |
 | [Stormbringer](https://open.spotify.com/track/6PYA6Z6fdiQiTnzApdlpgP) | [Scale Storm](https://open.spotify.com/artist/2vFSpHPDkAlcBzW4DN8WHG) | [FIGHT!](https://open.spotify.com/album/2L12zByc2GSavAGGDyzH6Q) | 3:35 | 2025-10-30 | 2025-12-01 |
 | [Story with You](https://open.spotify.com/track/1TTS1igUK6LihSNMW0C4sv) | [Fachriasshidiqi](https://open.spotify.com/artist/3MBzLPJRlHjn38e0dQTxRA), [idontwantalkabouthat](https://open.spotify.com/artist/09E9uEiky7nQJYLd3l80rL) | [Story with You](https://open.spotify.com/album/27nyi822f2cjrvdN1S4w7E) | 3:24 | 2025-10-19 | 2025-11-23 |
 | [Stroll in the Sun](https://open.spotify.com/track/17sI3RmSvGBraRrRnbeArO) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Stroll in the Sun](https://open.spotify.com/album/75ZjghigBhGdyAeKB8AKam) | 2:59 | 2025-10-04 | 2026-01-15 |
@@ -792,6 +793,7 @@
 | [Under the Same Sky](https://open.spotify.com/track/4pG5FmwfWQ6mahm00U3oDr) | [Luna M](https://open.spotify.com/artist/6Ct0jgOTwEPickcfSqGeDe), [Street Soul](https://open.spotify.com/artist/7iTjHrehKZqos7LU5FiN2k) | [Under the Same Sky](https://open.spotify.com/album/1nKbFV935ekb3ZUGkChnQe) | 2:37 | 2026-01-09 |  |
 | [Unflexible Girl](https://open.spotify.com/track/0ukoyzcHI2YnamOsC3PhZb) | [Elecprote1n](https://open.spotify.com/artist/2xjeyiw2CsGHyVhT7SUapN) | [Unflexible Girl](https://open.spotify.com/album/0RdJwpFzpmNE4yJsGvhWMI) | 6:49 | 2025-11-14 | 2025-12-15 |
 | [Unmasked](https://open.spotify.com/track/63r1LT5c2KS75gkkLEmqzK) | [Ale Noa](https://open.spotify.com/artist/0m3HzckJXPH0OfGbqmmgxl) | [Unmasked](https://open.spotify.com/album/3aZMnCwpp9D7PQPjCRg47z) | 3:57 | 2025-11-01 | 2025-12-03 |
+| [UNPLEASANT](https://open.spotify.com/track/0PpBTkMunTy0dSMomI2Ny0) | [MITZI](https://open.spotify.com/artist/69GJJNYIyjm3Kim616SXW8) | [UNPLEASANT](https://open.spotify.com/album/2DtRXEF7vjrDbFzye8mKeS) | 3:09 | 2026-01-15 |  |
 | [UNTIL I SEE YOU](https://open.spotify.com/track/7wEVq8rQDOmsWhu0UwsP2O) | [LOST PAIN](https://open.spotify.com/artist/2NgDo9eUU3j7TtYt9XKrBW) | [UNTIL I SEE YOU](https://open.spotify.com/album/5IDgX5lxhCy47KqfqLNGW7) | 2:53 | 2025-11-22 | 2025-12-24 |
 | [Until It's Time](https://open.spotify.com/track/77v6TueXjlHHOOBsFOrNGl) | [Cut Flowers](https://open.spotify.com/artist/5qRls3Usdh6jOe0ek8ZCXS) | [Until It's Time](https://open.spotify.com/album/6Ulxw0G7DRwcWy6FG0Yq0Z) | 2:48 | 2025-12-11 | 2026-01-15 |
 | [Until You Say No](https://open.spotify.com/track/6rXspyiwjxfXz8IQcv0kWz) | [B Johny](https://open.spotify.com/artist/1ZLFH1PilL3beYC2fntEr5) | [Until You Say No](https://open.spotify.com/album/5vkMZG18pBaGwK6jPYfOUC) | 2:54 | 2025-10-19 | 2025-11-23 |
@@ -844,6 +846,7 @@
 | [Wouldn't Wish This On Anyone](https://open.spotify.com/track/5OcSPogMDhBKpSjbqeZ8Av) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [Wouldn't Wish This On Anyone](https://open.spotify.com/album/7HenlyKBqRtjT62BvsS6SP) | 3:25 | 2025-11-24 | 2025-12-28 |
 | [Wrapped Memories](https://open.spotify.com/track/2pMmvf0zwtKRXBZc9in5nY) | [Aaron Melody](https://open.spotify.com/artist/29sCXAGfrDIl85EFHdPdUo) | [Wrapped Memories](https://open.spotify.com/album/1lWDIROPerg4LPD4aLulqz) | 2:43 | 2025-11-17 | 2025-12-19 |
 | [wtv u want](https://open.spotify.com/track/2VeBAEtzt2sicYl2MZufB6) | [Scarly](https://open.spotify.com/artist/1pPWbzO1zyaaQv00yW1hcr) | [wtv u want](https://open.spotify.com/album/0w5Y7HoqYME7ASKyMTf7Al) | 3:21 | 2025-11-15 | 2025-12-17 |
+| [XOXO \(tic tac toe\) \- Acoustic Version](https://open.spotify.com/track/6BchSoqQlFNPrH5eBY68yt) | [blanche brody](https://open.spotify.com/artist/1j8E1QPd2uEbkeIP9FXIEu) | [XOXO \(tic tac toe\) \[Acoustic Version\]](https://open.spotify.com/album/7E8hK3ZCQnXR9TcuEKUFdv) | 2:21 | 2026-01-15 |  |
 | [Yellow](https://open.spotify.com/track/58pq0rNTKIRAYhRiljdqGJ) | [Electrekated](https://open.spotify.com/artist/1MnywL795Nz1Nxdf6Bsu8m) | [under the shining stars](https://open.spotify.com/album/6oU7qXlxf3XFzmyk5UdHGM) | 4:19 | 2025-11-17 | 2025-12-19 |
 | [Yikes...!](https://open.spotify.com/track/4v93x1BjKln0pFBm685Fjd) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [Reprisal: The Deluxe Edition](https://open.spotify.com/album/7xC0gBNd1VNt3cX8eUmJ7F) | 2:52 | 2025-12-31 |  |
 | [You](https://open.spotify.com/track/7Fm3Cnqtf4WU13I8Q9mkJW) | [3Towns](https://open.spotify.com/artist/2ZX5qcRLXJik7H78HU5Kn9) | [11 Miles from Everywhere](https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We) | 3:08 | 2025-12-22 |  |

@@ -2,7 +2,7 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Kato au top des bangers dance/electro du moment !
+> Jonas Blue x Malive au top des bangers dance/electro du moment !
 
 320 songs - 14 hr 44 min
 

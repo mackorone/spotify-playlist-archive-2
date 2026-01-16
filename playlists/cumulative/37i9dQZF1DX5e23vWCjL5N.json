@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Kid Yugi in cover.",
+  "description": "Punchline, storytelling, rap italiano. Gu\u00e8 in cover.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -328,6 +328,24 @@
       "duration_ms": 231920,
       "name": "90MIN",
       "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254846,
+      "name": "A NAPOLI NON PIOVE",
+      "url": "https://open.spotify.com/track/2q5m3HDPuPaLgVwLBIhWNg"
     },
     {
       "album": {
@@ -7104,6 +7122,24 @@
       "duration_ms": 160589,
       "name": "T\u00eate \u00e0 T\u00eate",
       "url": "https://open.spotify.com/track/7Ijd2b9eRQ2P37MfyP4ewP"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196681,
+      "name": "UN RICCO E UN POVERO",
+      "url": "https://open.spotify.com/track/2fqbBzhl01hcq6JRYoIo11"
     },
     {
       "album": {

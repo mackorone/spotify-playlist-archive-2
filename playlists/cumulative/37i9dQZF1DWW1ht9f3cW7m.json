@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "peach is an indie pop playlist \ud83e\udd64\ncover: Jenny On Holiday",
+  "description": "peach is an indie pop playlist \ud83e\ude77\ncover: MARO",
   "name": "peach",
   "tracks": [
     {
@@ -4597,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
+    },
+    {
+      "album": {
         "name": "Kiss Me Like You're Leaving",
         "url": "https://open.spotify.com/album/4kStSM0UKjniVUclhDnieM"
       },
@@ -5412,6 +5430,24 @@
       "duration_ms": 146880,
       "name": "monsters",
       "url": "https://open.spotify.com/track/7BFIBULShxfEOaPEHUZP61"
+    },
+    {
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/6w1CKIcPNOtHsayL7gyD2M"
+      },
+      "artists": [
+        {
+          "name": "Majik",
+          "url": "https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/11jXhlTnjdzyXTxGCuBOw4"
     },
     {
       "album": {

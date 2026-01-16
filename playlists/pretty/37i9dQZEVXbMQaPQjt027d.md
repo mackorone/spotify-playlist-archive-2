@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMQaPQjt027d.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,170 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,169 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMQaPQjt027d.md) - [plain]
 | 49 | [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 4:06 |
 | 50 | [Rakete \- Party Edit](https://open.spotify.com/track/1bPPGrKv9D6z4RSwYm76QY) | [Mätropolis](https://open.spotify.com/artist/7iYhDa5Ucrs8Ucsi0Vv1uG), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Rakete \(Party Edit\)](https://open.spotify.com/album/2YP8W81DKC5crHKWHaLKM3) | 3:08 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "name": "Aperitivo Time",
+  "description": "ti devo raccontare di persona, facciamo ape? \ud83e\uded2",
+  "name": "ape time",
   "tracks": [
     {
       "album": {
@@ -2577,6 +2577,32 @@
     },
     {
       "album": {
+        "name": "Feel This Way",
+        "url": "https://open.spotify.com/album/0BVGCcx3DWdTu1ComULh5k"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184085,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz"
+    },
+    {
+      "album": {
         "name": "Fell In Luv",
         "url": "https://open.spotify.com/album/16BgVS1U2T7UvDmewU2t5m"
       },
@@ -2596,6 +2622,24 @@
       "duration_ms": 238000,
       "name": "Fell In Luv",
       "url": "https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K"
+    },
+    {
+      "album": {
+        "name": "First Light Falling",
+        "url": "https://open.spotify.com/album/2PaB13NTijH8mj8Z9U1jt9"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "First Light Falling",
+      "url": "https://open.spotify.com/track/0ZocjCzNp403Gmy6pEkuD9"
     },
     {
       "album": {
@@ -3024,7 +3068,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 265263,
       "name": "Half-time Dreams",
       "url": "https://open.spotify.com/track/7LKPoZj6pjbpykI0ZKYPxR"
@@ -4042,7 +4086,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 233505,
       "name": "Kongo (Han\u00ee\u00b4s Remix)",
       "url": "https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN"
@@ -4350,7 +4394,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 330269,
       "name": "Lingua di Sole",
       "url": "https://open.spotify.com/track/2m0uaHMnqVr4b7ed70mXmW"
@@ -4488,7 +4532,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
@@ -7091,6 +7135,24 @@
     },
     {
       "album": {
+        "name": "still love u",
+        "url": "https://open.spotify.com/album/4s4IhJA2eHR7QoOhoRHatM"
+      },
+      "artists": [
+        {
+          "name": "Kronol",
+          "url": "https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "still love u",
+      "url": "https://open.spotify.com/track/1eGe7548OaeO9c1blR1mtX"
+    },
+    {
+      "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
       },
@@ -7572,7 +7634,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 289208,
       "name": "The Semimodular Bird of Jazz",
       "url": "https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M"
@@ -7674,6 +7736,24 @@
       "duration_ms": 421700,
       "name": "These Are Just Places To Me Now",
       "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
+    },
+    {
+      "album": {
+        "name": "think & dream",
+        "url": "https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH"
+      },
+      "artists": [
+        {
+          "name": "altrice",
+          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "think & dream",
+      "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
     },
     {
       "album": {
@@ -8348,6 +8428,24 @@
       "duration_ms": 296360,
       "name": "What I Am",
       "url": "https://open.spotify.com/track/6hHUiDe461VUoTHnsplRYs"
+    },
+    {
+      "album": {
+        "name": "Future Chic EP",
+        "url": "https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2"
+      },
+      "artists": [
+        {
+          "name": "Davide Dev",
+          "url": "https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167841,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
     },
     {
       "album": {

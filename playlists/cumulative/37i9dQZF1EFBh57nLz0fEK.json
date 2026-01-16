@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192009,
+      "name": "Lust or Love",
+      "url": "https://open.spotify.com/track/2omlrmLwyZOvUTghaI4QsR"
+    },
+    {
+      "album": {
         "name": "Made For Now",
         "url": "https://open.spotify.com/album/57EpF5I46euNXXKVry6NW5"
       },

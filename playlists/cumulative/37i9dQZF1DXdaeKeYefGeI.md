@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
 
-241 songs - 14 hr 40 min
+242 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 | 2023-02-10 | 2025-09-11 |
 | [Als de liefde niet bestond](https://open.spotify.com/track/2BsaPniwYE4dduBgECdsXR) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Als de liefde niet bestond](https://open.spotify.com/album/3cbKomLGWoW2LxfyzDNc6H) | 3:02 | 2025-07-17 |  |
 | [Als ik ooit wil gaan](https://open.spotify.com/track/1LVfKIpNTPgQknWN7TTsWM) | [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Als ik ooit wil gaan](https://open.spotify.com/album/2mSuGoBYlFj2pIjgHqG2vd) | 3:28 | 2023-06-01 | 2023-11-11 |
+| [Als Je Niet Meer Van Me Houdt](https://open.spotify.com/track/2RAawfWrnaZLBAmP0kYaBh) | [Alex Roeka](https://open.spotify.com/artist/7yZlxklSzsDJIpuRRwe6bO) | [Als Je Niet Meer Van Me Houdt](https://open.spotify.com/album/0IRzfnTCqYrPPqyJzjKqP5) | 3:47 | 2026-01-15 |  |
 | [Als Water](https://open.spotify.com/track/6Crw1yc2A4W6L5LgOPnolS) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 2:34 | 2024-03-04 | 2024-03-15 |
 | [Alsof](https://open.spotify.com/track/5BM1VtsHL1HxUsF2xQVz2G) | [Thijs Borsten](https://open.spotify.com/artist/2rXcix5yePOodUVqDUiRKh), [Fay Lovsky](https://open.spotify.com/artist/2NEeqYen2FsMivq7JBIJiv) | [Alsof](https://open.spotify.com/album/38XTEhm8maA44fEQdvjcnF) | 3:23 | 2023-02-10 | 2023-03-18 |
 | [Altijd Dorst](https://open.spotify.com/track/3HyWVDESd05MxK1S23eMm3) | [Youp van 't Hek](https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP), [Ton Scherpenzeel](https://open.spotify.com/artist/17a49nqhcCd0kvqHwxbVhP), [Matangi Quartet](https://open.spotify.com/artist/24NmIo95ZKPV5DKMKCXgaL) | [Huisje aan C](https://open.spotify.com/album/3xOBDqh78LgGXFMZDJDl0l) | 4:10 | 2023-02-10 | 2023-05-16 |
@@ -207,7 +208,7 @@
 | [Troostliedje](https://open.spotify.com/track/3wjD0K6q3g81Eo9hT9Pkii) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Troostliedje](https://open.spotify.com/album/5NewFgJdkg0r6rhELb8RHZ) | 3:18 | 2023-02-10 | 2023-11-11 |
 | [Vaderdag \(deel 2\)](https://open.spotify.com/track/34ihQUWfBW2pI0fVruWhkF) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Vaderdag \(deel 2\)](https://open.spotify.com/album/3SA3Wh7wmIS8K3xUtzVIUD) | 3:18 | 2024-10-03 |  |
 | [Vaderland](https://open.spotify.com/track/2tD9WSm02XImRDAc5jsvCD) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Vaderland](https://open.spotify.com/album/47eizTmbC25xFfzp0kB8sD) | 6:28 | 2023-02-10 | 2023-06-02 |
-| [Vallen](https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Vallen](https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY) | 2:41 | 2025-02-27 |  |
+| [Vallen](https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Vallen](https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY) | 2:41 | 2025-02-27 | 2026-01-16 |
 | [Vallen en Weer Opstaan](https://open.spotify.com/track/4jkmmV57x7CY8K4f0wKbi3) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Vallen en Weer Opstaan](https://open.spotify.com/album/5qWstIv3DEVpfUvfXHCCHu) | 3:45 | 2023-02-10 | 2023-11-11 |
 | [Vanmorgen Vloog Ze Nog](https://open.spotify.com/track/2WZBD5MI3pVaKIweuZj5pc) | [Robert Long](https://open.spotify.com/artist/4e345XgeCOfD96TnOVhH7f), [Martine Bijl](https://open.spotify.com/artist/5ayboLANPe5lXssiZopVb8), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0), [Robert Paul](https://open.spotify.com/artist/0esNt1hWsO271oogWw8c2o) | [Tsjechov \- De Musical Van Dimitri Frenkel Frank En Robert Lo](https://open.spotify.com/album/5bsv5G1wExKRiRGcu2emUl) | 5:06 | 2023-02-10 | 2025-05-09 |
 | [Verander Mij](https://open.spotify.com/track/0q1a1up84HYFToJytRAzgy) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Bente\)](https://open.spotify.com/album/3Xd1r4LzsglS3mjaQzjDtX) | 2:55 | 2025-09-10 | 2025-11-07 |

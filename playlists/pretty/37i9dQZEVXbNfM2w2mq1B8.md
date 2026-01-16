@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNfM2w2mq1B8.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,689 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,695 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNfM2w2mq1B8.md) - [plain]
 | 18 | [Imame li vrazka](https://open.spotify.com/track/3XNlp4fJs4W7jbeYDfD3aD) | [Alisia](https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6) | [Tvoya Totalno](https://open.spotify.com/album/3qFr1hLqtRlXwhd5vICUTK) | 3:27 |
 | 19 | [Просто ми кажи](https://open.spotify.com/track/575F5O0CzbuFtRZKxLcgXb) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Просто ми кажи](https://open.spotify.com/album/3F5J77oNGByIQ5ZvPMeZeo) | 3:54 |
 | 20 | [Topa Topa](https://open.spotify.com/track/1qHWI1NYKH5GkyFO18p2Uq) | [Andrea](https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw), [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Costi](https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw) | [Topa Topa](https://open.spotify.com/album/5wOqRUxTWqDqMDEIX8bE2r) | 3:22 |
-| 21 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It up to Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
+| 21 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Only Hits](https://open.spotify.com/album/4LqKKEC8ghEvbMW2xcs4eZ) | 4:03 |
 | 22 | [Тази дискотека](https://open.spotify.com/track/4ZMpVZ52QE7EMJ35F5ReN2) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Тази дискотека](https://open.spotify.com/album/4BKWSEifxxparI4dOCRrcq) | 3:33 |
 | 23 | [S men da varvish](https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt) | [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Da ti bada korona](https://open.spotify.com/album/4Y6emNYvaVKOwU5AFL40nM) | 4:12 |
 | 24 | [Дале дале](https://open.spotify.com/track/0n0EI2pBX3dtF6MICMM6TC) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls), [Tomas](https://open.spotify.com/artist/6Pu7616ebCHHPJkcpuiBZd) | [Дале дале](https://open.spotify.com/album/7CRtx8ujJFVrTLRYNkjknI) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNfM2w2mq1B8.md) - [plain]
 | 49 | [Мазохистка](https://open.spotify.com/track/6hRJgAPy4kDgOkiyD5s8je) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Мазохистка](https://open.spotify.com/album/0rCdnU7DW11sveEZ3q2IQ3) | 3:37 |
 | 50 | [Hasta La Vista Baby](https://open.spotify.com/track/3vhDg4065joVp9xyBUPo4o) | [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn), [Silver](https://open.spotify.com/artist/6JzjHqstcEDuJs6Hlqe0M5) | [Hasta La Vista Baby](https://open.spotify.com/album/6hoAUKIABNpNi6M3IeyNgU) | 3:22 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

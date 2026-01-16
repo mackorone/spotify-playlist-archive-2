@@ -152,7 +152,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 204750,
       "name": "A Toro Pasao",
       "url": "https://open.spotify.com/track/2DQeFpkjR3hmkUxK7LVEWe"
@@ -1044,6 +1044,28 @@
       "duration_ms": 173748,
       "name": "Bailando en la Lluvia",
       "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
+    },
+    {
+      "album": {
+        "name": "Basshall Party",
+        "url": "https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123647,
+      "name": "Basshall Party",
+      "url": "https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc"
     },
     {
       "album": {

@@ -133,6 +133,32 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "2 GIORNI DI FILA (feat. Sfera Ebbasta, ANNA)",
+      "url": "https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk"
+    },
+    {
+      "album": {
         "name": "20 Anni (feat. Silent Bob)",
         "url": "https://open.spotify.com/album/4RNz1Uiv4jbhkN24paHZEV"
       },
@@ -2694,7 +2720,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 215500,
       "name": "IMMORTALE",
       "url": "https://open.spotify.com/track/73s6ijGUtexqEJGGLii98h"
@@ -4565,6 +4591,24 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194193,
+      "name": "P'FORZ",
+      "url": "https://open.spotify.com/track/41fSmhPqa9SYuYTalNyNM9"
+    },
+    {
+      "album": {
         "name": "Tropico Del Capricorno",
         "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
       },
@@ -5314,7 +5358,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 197955,
       "name": "SAYAN",
       "url": "https://open.spotify.com/track/3kv70BJZSKR7QJN73UwQU1"

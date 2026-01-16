@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "STE in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Dario Jacque e Lauryyn in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 189187,
       "name": "Autostima (luna gibbosa crescente)",
       "url": "https://open.spotify.com/track/0sWgJe2u0Iga2nwrxVNIYp"
@@ -2198,6 +2198,24 @@
       "duration_ms": 284615,
       "name": "Brave",
       "url": "https://open.spotify.com/track/5Or5fUArNnHP0SvpPkTuLq"
+    },
+    {
+      "album": {
+        "name": "Briciole gourmet",
+        "url": "https://open.spotify.com/album/52RLvEOCJJ9UKDLPoi0Bi9"
+      },
+      "artists": [
+        {
+          "name": "Calmo",
+          "url": "https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145337,
+      "name": "Briciole gourmet",
+      "url": "https://open.spotify.com/track/5Tg7VWkaMjUAtqxSvjn4Jq"
     },
     {
       "album": {
@@ -3346,6 +3364,28 @@
       "duration_ms": 177107,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/4sCu7KuollkAt9xFFC7upq"
+    },
+    {
+      "album": {
+        "name": "coce lu core",
+        "url": "https://open.spotify.com/album/4HPvNq5zgTLgvgXTvvys36"
+      },
+      "artists": [
+        {
+          "name": "Dario Jacque",
+          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+        },
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "coce lu core",
+      "url": "https://open.spotify.com/track/1hyDGYVuO2WoAJNiLl18Hp"
     },
     {
       "album": {
@@ -5197,6 +5237,24 @@
     },
     {
       "album": {
+        "name": "Dove si va",
+        "url": "https://open.spotify.com/album/4LFYZLxFF1N6f1k0lbQIis"
+      },
+      "artists": [
+        {
+          "name": "Sidy",
+          "url": "https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171895,
+      "name": "Dove si va",
+      "url": "https://open.spotify.com/track/0JvcY0D5PUPBAfjr7Np5SQ"
+    },
+    {
+      "album": {
         "name": "Dreamworks",
         "url": "https://open.spotify.com/album/6YFe07pZiaJN6CLoTdzNnW"
       },
@@ -5680,7 +5738,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 143850,
       "name": "Farti Fuori",
       "url": "https://open.spotify.com/track/19xkTUHX8VtAJI1mlAOm97"
@@ -6250,7 +6308,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 228542,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/7CxJbkf97yE1yQBUZBAx3j"
@@ -7378,7 +7436,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 87476,
       "name": "IL DOTTORE DI SQUID GAME",
       "url": "https://open.spotify.com/track/7MaHjiw6xM4rJ2yWtPBB6b"
@@ -7882,7 +7940,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 180113,
       "name": "Jane",
       "url": "https://open.spotify.com/track/0NJowfv0oPbfAw7YjDYeRD"
@@ -11836,7 +11894,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 160000,
       "name": "Nun \u00e8 cos",
       "url": "https://open.spotify.com/track/2hk8qmbTy4yzf4t8PAfoiE"
@@ -14155,6 +14213,28 @@
     },
     {
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/0MlDO8xL9eyADGGkMnODpC"
+      },
+      "artists": [
+        {
+          "name": "monnY",
+          "url": "https://open.spotify.com/artist/1fsGHQobyeSJbN2nirbJVZ"
+        },
+        {
+          "name": "Kabvki",
+          "url": "https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/1ndJCkf0fUm39MZH67rEPh"
+    },
+    {
+      "album": {
         "name": "Totem Crush",
         "url": "https://open.spotify.com/album/7oWcASQbb6MxkvcNPBzCaN"
       },
@@ -15870,6 +15950,24 @@
       "duration_ms": 144864,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4v7o3iqvL88jdc2HzADlMZ"
+    },
+    {
+      "album": {
+        "name": "Sono in un van",
+        "url": "https://open.spotify.com/album/0AFXz4DplekNh1kpRqkCq8"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191111,
+      "name": "Sono in un van",
+      "url": "https://open.spotify.com/track/4HdZOd5NQ6BAAMg18TqAQg"
     },
     {
       "album": {
@@ -17854,6 +17952,24 @@
       "duration_ms": 148224,
       "name": "Un'altra festa",
       "url": "https://open.spotify.com/track/1KpgcZBATfN2xyoKcyj1TH"
+    },
+    {
+      "album": {
+        "name": "un'altra nel mio letto",
+        "url": "https://open.spotify.com/album/5MeZt2K7samMv8dFdQREej"
+      },
+      "artists": [
+        {
+          "name": "Evra",
+          "url": "https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "un'altra nel mio letto",
+      "url": "https://open.spotify.com/track/69zX3dTK2h7LVJbykdBzL4"
     },
     {
       "album": {

@@ -647,6 +647,28 @@
     },
     {
       "album": {
+        "name": "Ay Dale",
+        "url": "https://open.spotify.com/album/554YtsiV2xM17gb9XE84TP"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Ay Dale",
+      "url": "https://open.spotify.com/track/0S71WAkS1fLsGHMC4NX4zt"
+    },
+    {
+      "album": {
         "name": "Rutas Interestelares",
         "url": "https://open.spotify.com/album/5gRMXbnASEPtEC1IWiflyy"
       },

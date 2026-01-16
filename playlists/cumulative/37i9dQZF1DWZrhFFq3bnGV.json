@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Societeit de Harmonie, Natasya Elvira",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ArumtaLa",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -456,6 +456,28 @@
       "duration_ms": 185142,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz"
+    },
+    {
+      "album": {
+        "name": "Anagnorisis",
+        "url": "https://open.spotify.com/album/2sUuADmozyqOfocs8Gy081"
+      },
+      "artists": [
+        {
+          "name": "Dwiki Dharmawan",
+          "url": "https://open.spotify.com/artist/3JB5yaZki9KmsqVulHgSmP"
+        },
+        {
+          "name": "Gilad Atzmon",
+          "url": "https://open.spotify.com/artist/2gOuS1oWkTtjn7OTam4wjn"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512000,
+      "name": "Anagnorisis",
+      "url": "https://open.spotify.com/track/0OlXlakB0nyPEbbhX1NtZt"
     },
     {
       "album": {
@@ -4558,6 +4580,24 @@
       "duration_ms": 246857,
       "name": "Sahabat Yang Di Sana",
       "url": "https://open.spotify.com/track/5b857o3dghGQVSxIQzzj2w"
+    },
+    {
+      "album": {
+        "name": "Salam Sehat",
+        "url": "https://open.spotify.com/album/5OxVtjhHUNHQT8k1YtLfsL"
+      },
+      "artists": [
+        {
+          "name": "ArumtaLa",
+          "url": "https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201301,
+      "name": "Salam Sehat",
+      "url": "https://open.spotify.com/track/0zE5peq7taXYbAUwWz67jx"
     },
     {
       "album": {

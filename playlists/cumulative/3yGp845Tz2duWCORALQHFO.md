@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,630 songs - 10 day 13 hr 14 min
+4,632 songs - 10 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3264,6 +3264,7 @@
 | [Realise](https://open.spotify.com/track/6gJfyZxbUH5xBYBgPRpbCi) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [Motions](https://open.spotify.com/album/74llMjtisXlfWXgtW6pfGQ) | 3:13 | 2024-08-16 | 2024-08-24 |
 | [Reality](https://open.spotify.com/track/2bShswESgPeQ8Oy7Z1UZnw) | [HAUMS](https://open.spotify.com/artist/2rHkapXIPIa4EVvMC8Nm6G) | [Reality](https://open.spotify.com/album/3r1gHznwKf1YWseKwLO3jO) | 5:43 | 2024-11-15 | 2024-11-23 |
 | [Reason](https://open.spotify.com/track/4r6JkCnbop7FvJU4QqjujL) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Reason](https://open.spotify.com/album/7efQdZFkaXs5SiKVS7PFSu) | 3:58 | 2025-08-29 | 2025-09-06 |
+| [Reason](https://open.spotify.com/track/426acnRWhYwQNnKhGEDR2F) | [FREDERIC](https://open.spotify.com/artist/4sQjflsxjSR9LDYYu4U6Jy) | [Reason](https://open.spotify.com/album/3JyNWLo5oHH08gLHpQaFX7) | 2:33 | 2026-01-15 |  |
 | [Reasons to Love You \- Space 92 Remix](https://open.spotify.com/track/4fT39zh4M3QTYTppfoZXDT) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Reasons to Love You \(Space 92 Remix\)](https://open.spotify.com/album/28UE1mPg4KkrFEqzdWXFej) | 4:43 | 2024-11-15 | 2024-11-23 |
 | [Rebel Heart](https://open.spotify.com/track/1uSMVWFeZr3sLfCjZPYYOZ) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Rebel Heart](https://open.spotify.com/album/6IXEiaAZLwz49AiaHq01kk) | 2:07 | 2024-11-22 | 2024-11-25 |
 | [Rebel Surge](https://open.spotify.com/track/1J3sgL9XFF4Ru4XruxElbY) | [ECLYP](https://open.spotify.com/artist/4HChIBz1tnhUbJoYswBIn7) | [Rebel Surge](https://open.spotify.com/album/00TyCaUM33ZCfg80XOfohP) | 2:33 | 2025-04-08 | 2025-04-12 |
@@ -4042,6 +4043,7 @@
 | [The Showdown](https://open.spotify.com/track/0GMhPWb7ljKYBpJ8iEqInL) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [JDX](https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4) | [The Showdown](https://open.spotify.com/album/1HVwxjRTjijCJfMWQLfGCA) | 3:00 | 2024-07-12 | 2024-07-19 |
 | [The Singularity](https://open.spotify.com/track/7xCRuEt0USOyZlQo7pzJS6) | [Amorphous Nature](https://open.spotify.com/artist/2ctesaEmraEfx4snPWmjeD) | [The Singularity](https://open.spotify.com/album/6pDIMzX3M9ZdaD8x62ZU1G) | 2:39 | 2025-03-02 | 2025-03-08 |
 | [The Sky Below](https://open.spotify.com/track/1h0B578x28yd4bdIH71erz) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Welcome To My World](https://open.spotify.com/album/0g85Ir9Nj7RWzQFJHU5cAe) | 3:56 | 2024-12-05 | 2024-12-14 |
+| [The Sleeper](https://open.spotify.com/track/2NNNd2TvXmzBg1MWsvqVXw) | [Mala'kai](https://open.spotify.com/artist/5yrQaGtBMRudJctcPQtTE5), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [The Sleeper](https://open.spotify.com/album/3S6ptdNdjSoUjgP4eLXLx0) | 3:46 | 2026-01-15 |  |
 | [The Sleepless Year](https://open.spotify.com/track/5t0jTvSNwQM0kfS1eO488I) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [The Sleepless Year](https://open.spotify.com/album/3hg6UzKtDTVWQBiqAKPyQV) | 3:55 | 2024-09-26 | 2024-10-05 |
 | [The Sound](https://open.spotify.com/track/3VGUHCjrqnr8bDdEaMDiZJ) | [Cloudrider](https://open.spotify.com/artist/1IFpNmUKwzy9E3efjDmCBp) | [The Sound](https://open.spotify.com/album/5aYGov9PS3Oo3GysvZH88W) | 2:59 | 2025-10-31 | 2025-11-08 |
 | [The Sound](https://open.spotify.com/track/3vhCwlOTLPr6gZDDhwbckp) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla) | [The Sound](https://open.spotify.com/album/7yFX9bFlQKeuy2LjRvG52v) | 3:53 | 2024-09-05 | 2024-09-13 |

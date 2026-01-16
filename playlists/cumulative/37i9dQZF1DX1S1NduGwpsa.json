@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Jowee Omicil",
+  "description": "The best jazz new releases. Cover: Gabi Hartmann",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 208880,
       "name": "Always Be (feat. Kaya Thomas-Dyke)",
       "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 236840,
       "name": "And it's Supposed to be Love",
       "url": "https://open.spotify.com/track/0urxP2bs2nCwRAssKUWjmh"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 286398,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/3k9o6akjp2ZnKipCG9VPw4"
@@ -1522,6 +1522,36 @@
       "duration_ms": 219293,
       "name": "Banho De Mar",
       "url": "https://open.spotify.com/track/3gzkPFZ7Me9lP4j4qNUD2X"
+    },
+    {
+      "album": {
+        "name": "Bass For Peace",
+        "url": "https://open.spotify.com/album/1Nm5dUA0gJq04FsQKBaqbr"
+      },
+      "artists": [
+        {
+          "name": "The Getdown",
+          "url": "https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ"
+        },
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        },
+        {
+          "name": "Arnaud Dolmen",
+          "url": "https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243485,
+      "name": "Bass For Peace",
+      "url": "https://open.spotify.com/track/6FnpT7ubI45NKmr7rq00vS"
     },
     {
       "album": {
@@ -2414,7 +2444,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 297693,
       "name": "Caf\u00e9 com P\u00e3o",
       "url": "https://open.spotify.com/track/5Trvm4UBCoBAmEG35HehAY"
@@ -5075,6 +5105,28 @@
     },
     {
       "album": {
+        "name": "Fall Down (feat. Erik Truffaz)",
+        "url": "https://open.spotify.com/album/1Kw5PW3ZtpdXdx4qRGQWzS"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        },
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251073,
+      "name": "Fall Down (feat. Erik Truffaz)",
+      "url": "https://open.spotify.com/track/6IhFq2Io95ZyMpyHKfqKf5"
+    },
+    {
+      "album": {
         "name": "Six Songs",
         "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
       },
@@ -6946,6 +6998,24 @@
       "duration_ms": 185497,
       "name": "I Can't Sleep",
       "url": "https://open.spotify.com/track/0c5D3qXQ1WfyDspBrS8SRV"
+    },
+    {
+      "album": {
+        "name": "I Cannot Believe In Tomorrow",
+        "url": "https://open.spotify.com/album/5b7x03T43AJwPQNg7gEhO0"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227733,
+      "name": "I Cannot Believe In Tomorrow",
+      "url": "https://open.spotify.com/track/3V8Uo8FEWucjOaKoExg6R6"
     },
     {
       "album": {
@@ -10627,6 +10697,28 @@
     },
     {
       "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/08KGb1DdDe5ZHqEgzD4LFV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250237,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
+    },
+    {
+      "album": {
         "name": "La Septi\u00e8me Reine",
         "url": "https://open.spotify.com/album/33gLfX0wqcpYOhmZViuXAO"
       },
@@ -11026,6 +11118,28 @@
       "duration_ms": 168997,
       "name": "My One and Only",
       "url": "https://open.spotify.com/track/2jCaIOqD6BTFsz4gdTE01H"
+    },
+    {
+      "album": {
+        "name": "My Very Own Ride",
+        "url": "https://open.spotify.com/album/70qZS6hqpcc8kOFWkd22g0"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531662,
+      "name": "My Very Own Ride",
+      "url": "https://open.spotify.com/track/59ZAfJo35Lunuv56upvhCZ"
     },
     {
       "album": {
@@ -14204,7 +14318,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 292254,
       "name": "Something Like Us",
       "url": "https://open.spotify.com/track/2bn5IOHbNKMRQVV0zenExX"
@@ -15616,7 +15730,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 175394,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/5LsONMtTM5mUvPBoo0Ayl0"
@@ -16835,6 +16949,42 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/7bxsLsRvyJDVsTTSKLgQ6h"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The James Hunter Six",
+          "url": "https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/4Dkjf9iITfWIy5tokfNop0"
+    },
+    {
+      "album": {
         "name": "Transe",
         "url": "https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL"
       },
@@ -17900,7 +18050,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 261176,
       "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
       "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"

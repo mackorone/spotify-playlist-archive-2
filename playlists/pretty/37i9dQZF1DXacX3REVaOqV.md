@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 
 > The best in house music
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,532 likes - 120 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,523 likes - 120 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 | 119 | [Wanna Party?](https://open.spotify.com/track/79XjyfvxxbRjog2o3fbfD7) | [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo) | [Wanna Party?](https://open.spotify.com/album/6KbwQMIY8pA0kAhLlz2xZf) | 4:00 |
 | 120 | [take your vibes and go \- Dam Swindle Remix](https://open.spotify.com/track/0v0v5vFIqp83R0M8y3fdlt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go \(Dam Swindle Remix\)](https://open.spotify.com/album/1ohCvUgMQuiwwkDINauTsf) | 5:33 |
 
-Snapshot ID: `AAAAAO5QCJ7MciptVdHJrASSHyGWHC2+`
+Snapshot ID: `AAAAAEP/rIh2Xv+8YwYAXXUJPP5dF/6d`

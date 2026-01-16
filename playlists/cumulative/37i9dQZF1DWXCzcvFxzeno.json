@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 158941,
       "name": "999 (BDSM)",
       "url": "https://open.spotify.com/track/2TzQLWRlpeTAY4YpZudJ6p"
@@ -2246,6 +2246,24 @@
       "duration_ms": 369250,
       "name": "Feet Down",
       "url": "https://open.spotify.com/track/3BrEKAZM9dwKV21dGxURHQ"
+    },
+    {
+      "album": {
+        "name": "Feuerzeug & Benzin",
+        "url": "https://open.spotify.com/album/5RwdhxgvrDLHrK1EW9E5WR"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207396,
+      "name": "Feuerzeug & Benzin",
+      "url": "https://open.spotify.com/track/6Fd652yJx5S2oQauUFHicK"
     },
     {
       "album": {

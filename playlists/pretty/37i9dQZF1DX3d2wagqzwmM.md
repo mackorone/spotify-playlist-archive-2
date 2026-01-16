@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,590 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,616 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 3 | [Unfaithful](https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Unfaithful](https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV) | 3:51 |
 | 4 | [Transmission](https://open.spotify.com/track/4mibonjnCp3wKEzoEphoTs) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Transmission](https://open.spotify.com/album/6SAmBQXySShXE2X5Cm2SuN) | 3:06 |
 | 5 | [Up To No Good](https://open.spotify.com/track/6PuGOIAMLdSBOsxxQz7PHm) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Up To No Good](https://open.spotify.com/album/1rhezNpe3lFrkiVINOU1ru) | 2:37 |
-| 6 | [Now We Are Free \(feat\. Gabry Ponte & AntoNetta\) \[THOMM Remix\]](https://open.spotify.com/track/5y9lMK546W5uB6ULF2TT6D) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa), [AntoNetta](https://open.spotify.com/artist/2AtZ6NmtS2BO2GgUTIw3aL), [THOMM](https://open.spotify.com/artist/5dYTI0a9mTwRdRD4IWZh7L), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Now We Are Free \(feat\. Gabry Ponte & AntoNetta\) \[THOMM Remix\]](https://open.spotify.com/album/1tdB8ZIvSEfDRiiasFHjV7) | 2:45 |
+| 6 | [Now We Are Free \(feat\. AntoNetta\) \[THOMM Remix\]](https://open.spotify.com/track/5y9lMK546W5uB6ULF2TT6D) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa), [AntoNetta](https://open.spotify.com/artist/2AtZ6NmtS2BO2GgUTIw3aL), [THOMM](https://open.spotify.com/artist/5dYTI0a9mTwRdRD4IWZh7L) | [Now We Are Free \(feat\. AntoNetta\) \[THOMM Remix\]](https://open.spotify.com/album/1tdB8ZIvSEfDRiiasFHjV7) | 2:45 |
 | 7 | [Wait](https://open.spotify.com/track/74a9POPKLVfLqqrYY65JmC) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Fedo](https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M) | [Wait](https://open.spotify.com/album/5h68xM7y94PgItlUJrSK7M) | 3:07 |
 | 8 | [Cathedral](https://open.spotify.com/track/4c5dHcZ79J0bASxB7LenyG) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [DJ Terry](https://open.spotify.com/artist/49vRRr0jNCPO794NATNr3j) | [Cathedral](https://open.spotify.com/album/6PIgMhoYlh3bN6HBlyOIqs) | 3:13 |
 | 9 | [Tonight The Devil Is a DJ](https://open.spotify.com/track/0t8Qtcn4EcCVy4SG0f8Fba) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Tonight The Devil Is a DJ](https://open.spotify.com/album/6uxTGgpBzvv4upJUM1gU1u) | 2:51 |

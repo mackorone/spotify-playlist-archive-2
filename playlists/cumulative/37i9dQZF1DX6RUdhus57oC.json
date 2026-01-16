@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Autumnus",
+        "url": "https://open.spotify.com/album/7AYdnlll4TIXurrFp40toN"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149624,
+      "name": "Autumnus",
+      "url": "https://open.spotify.com/track/4MGa0HISMquPlfIrvboHqb"
+    },
+    {
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc"
       },
@@ -726,6 +744,24 @@
       "duration_ms": 148090,
       "name": "Ensamma n\u00e4tter",
       "url": "https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece"
+    },
+    {
+      "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/7hXxxaiE5ruteHtSHz1EVu"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wiese",
+          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151953,
+      "name": "Escapism",
+      "url": "https://open.spotify.com/track/5WkclLoutSWdqdYjCcLAbD"
     },
     {
       "album": {
@@ -1576,7 +1612,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 157134,
       "name": "New Era For Me",
       "url": "https://open.spotify.com/track/3e1LaYRy3UgTqOzVEvkaAz"
@@ -1782,6 +1818,24 @@
       "duration_ms": 150242,
       "name": "Ordinary Day",
       "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
+    },
+    {
+      "album": {
+        "name": "Page",
+        "url": "https://open.spotify.com/album/7tzcbTuaT2q5xltVSk22ZK"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Page",
+      "url": "https://open.spotify.com/track/02kN88Xc8ks3JiKkGrMNpm"
     },
     {
       "album": {
@@ -2520,7 +2574,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 173161,
       "name": "Symbios",
       "url": "https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0"
@@ -2988,7 +3042,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 144500,
       "name": "Wild Dandelion - Solo Piano",
       "url": "https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx"

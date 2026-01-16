@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Charlie Puth
 
-2,431 songs - 5 day 5 hr 17 min
+2,433 songs - 5 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,6 +803,7 @@
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2023-08-10 | 2023-10-06 |
 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 | 2024-08-01 | 2024-08-30 |
 | [Glide](https://open.spotify.com/track/7e2polOF7Yjrs3eGiexCVW) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [Glide](https://open.spotify.com/album/1exJ4zN191WcU3Ok2OeOOT) | 2:38 | 2025-06-26 | 2025-08-22 |
+| [GLOW\. \(Blusher Remix\)](https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [GLOW\. \(Blusher Remix\)](https://open.spotify.com/album/2r2imdB1FzSZzzsOHfyyna) | 2:05 | 2026-01-15 |  |
 | [GO](https://open.spotify.com/track/5LuMzEBhXsbQpsy6vNKbYQ) | [YAHYAH](https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w) | [GO](https://open.spotify.com/album/6Z8kJRbiWBPx4rsVcznL11) | 3:08 | 2023-06-15 | 2023-06-23 |
 | [god complex](https://open.spotify.com/track/49aZox2OKhWCsmorRsCF3D) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [god complex](https://open.spotify.com/album/0xLDiRQyvRM2Jh18sWTG5Z) | 3:08 | 2023-07-13 | 2023-09-15 |
 | [God Damn Baby](https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [God Damn Baby](https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR) | 3:12 | 2025-09-04 | 2025-10-10 |
@@ -1722,6 +1723,7 @@
 | [Rollercoaster](https://open.spotify.com/track/4QxtzmKiq03CbuoHDjZFPL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Rollercoaster](https://open.spotify.com/album/2S4DjbcLrA37I229RnZXbP) | 3:06 | 2025-02-13 | 2025-03-21 |
 | [Romeo](https://open.spotify.com/track/034hnKKD4lRG2QkizYbKV3) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Romeo](https://open.spotify.com/album/1dzlLlAmnoDHsPnGlLEZr7) | 3:13 | 2023-11-09 | 2023-12-22 |
 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-25 | 2024-08-23 |
+| [Roommates](https://open.spotify.com/track/41NPpWsUgF7D6t3jNQcEz5) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Roommates](https://open.spotify.com/album/2nNElH8jprrtk67FtK0I2v) | 2:52 | 2026-01-15 |  |
 | [Roots](https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots](https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2) | 2:43 | 2024-07-12 | 2024-10-04 |
 | [Roses](https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Roses](https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu) | 3:35 | 2024-08-08 | 2024-10-04 |
 | [Roses](https://open.spotify.com/track/1qJpu12bMG9Qg5xcaCXo5T) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin +](https://open.spotify.com/album/5T0OkyozqrjKiBoQPX8BIC) | 4:02 | 2024-03-14 | 2024-04-19 |

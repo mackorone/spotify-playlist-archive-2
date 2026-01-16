@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Tony Boy
 
-245 songs - 12 hr 28 min
+246 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Ex Angelo \- Original Version](https://open.spotify.com/track/5Ac0RG0vnlsy3e5eeYEryB) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:23 | 2024-12-18 |  |
 | [F\*ck Love](https://open.spotify.com/track/7BZ5YmSnyfMzw3q9RI4MHk) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0) | [F\*ck Love](https://open.spotify.com/album/27P8029lZ9dq9w3S9uwOLL) | 3:23 | 2025-07-13 |  |
 | [Faraway](https://open.spotify.com/track/0wUgl8594IkO3YtjHM1nd4) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:19 | 2022-05-03 | 2022-06-04 |
-| [Ferma A Guardare](https://open.spotify.com/track/1zVUP6UPrzxZEYLXOl1AV1) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/2hHDTcf1MzvkDdFm0CEujn) | 3:13 | 2022-05-03 |  |
+| [Ferma A Guardare](https://open.spotify.com/track/1zVUP6UPrzxZEYLXOl1AV1) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/2hHDTcf1MzvkDdFm0CEujn) | 3:13 | 2022-05-03 | 2026-01-16 |
 | [FINCHÉ FA GIORNO](https://open.spotify.com/track/5yYsbDBAflTr31aksx8BHS) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [FINCHÉ FA GIORNO](https://open.spotify.com/album/5o7p3GN41Aak9jgKTtaX73) | 3:02 | 2022-05-03 | 2023-02-02 |
 | [fine \(feat\. Promessa\)](https://open.spotify.com/track/18Ait0H465AiTkmBAYhB6C) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [fango](https://open.spotify.com/album/5KHf4zpuHsj0u2SrMfPsNL) | 2:43 | 2025-07-13 | 2025-11-07 |
 | [FINISCIMI](https://open.spotify.com/track/1FQFjNMOuOOsCPmnanGRcu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 | 2022-11-07 | 2022-11-26 |
@@ -243,6 +243,7 @@
 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 | 2022-05-03 |  |
 | [Utopia \(feat\. Gemitaiz\)](https://open.spotify.com/track/1YOiFqx9ON69FAQu2EZ1DP) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [LONEWOLF](https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A) | 3:10 | 2024-05-30 | 2024-06-21 |
 | [Veleno](https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:14 | 2022-05-03 |  |
+| [Veleno \(feat\. Melons\)](https://open.spotify.com/track/6zrqFmqFfx2wfGB4Q0pwmQ) | [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [LIMITLESS](https://open.spotify.com/album/3KMc2fY6MgdjJ9OOR8NFP7) | 2:40 | 2026-01-16 |  |
 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 | 2023-07-06 | 2024-07-20 |
 | [Vida Mala \(feat\. Medy\)](https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Vida Mala \(feat\. Medy\)](https://open.spotify.com/album/4UbeTkpOQKC95anCPKd7q0) | 2:34 | 2023-05-04 | 2023-06-09 |
 | [VISCERALE \- closer](https://open.spotify.com/track/7bgJm5Z7EpvXRMdysiUjCj) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:04 | 2023-05-18 | 2023-10-20 |

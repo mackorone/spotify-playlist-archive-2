@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-55 songs - 2 hr 32 min
+57 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Follow](https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Follow](https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ) | 2:32 | 2024-06-13 |  |
 | [Give Me Love \- Radio Mix](https://open.spotify.com/track/46HRTWiEANPMSuK8ENoSYS) | [Leon Brooks](https://open.spotify.com/artist/2GZHmWUQnKMycWLleLn6UH), [Sahbi](https://open.spotify.com/artist/60YEk0jOcB6gKAJyjAPQbE) | [Give Me Love](https://open.spotify.com/album/7p70VDZz42iHGlIyUjd71Y) | 3:06 | 2025-01-09 | 2025-04-12 |
 | [GOAT](https://open.spotify.com/track/0ACNb58uJrEqNlZXmNVyDf) | [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [GOAT](https://open.spotify.com/album/2u7zWNBAM8cCqVDRdb7sLd) | 2:22 | 2024-06-13 |  |
+| [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 | 2026-01-15 |  |
 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 | 2024-06-13 |  |
 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 | 2024-06-13 |  |
 | [How \(Do I Love You\)](https://open.spotify.com/track/1wNC6sLBGiN6WdnhCvE9SF) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How \(Do I Love You\)](https://open.spotify.com/album/2ELOXw40fZeu3WxJDlNa9S) | 2:34 | 2024-06-13 |  |
@@ -36,6 +37,7 @@
 | [Little Hollywood](https://open.spotify.com/track/3tKZrYDtkte1E68aNozR75) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:02 | 2024-06-13 |  |
 | [Looking 4 Love](https://open.spotify.com/track/16PmdK3tuq8vlJrEXGJlqB) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5) | [Looking 4 Love](https://open.spotify.com/album/1wUKnR8UdzL4lDhWGbWTj5) | 2:22 | 2025-02-19 |  |
 | [Madison \(feat\. Janieck\)](https://open.spotify.com/track/2dxfmq4OI7iy8ckdQE6J8q) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Music Is My Best Friend](https://open.spotify.com/album/32QOMbVCKKaKkFiEmX4laq) | 2:45 | 2024-06-13 |  |
+| [Make Me Feel](https://open.spotify.com/track/2ogeuuFlYmhSwCwTBYV1Fx) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Make Me Feel](https://open.spotify.com/album/6T3J1PFPHbfA0au1k94gm7) | 2:14 | 2026-01-15 |  |
 | [Maybe](https://open.spotify.com/track/6t3p46iojKrsOln9fazd23) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Maybe](https://open.spotify.com/album/5QB6qx8rvfe52nHrialFPJ) | 2:33 | 2024-06-13 |  |
 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 | 2025-02-14 |  |
 | [Narcotic](https://open.spotify.com/track/7M9w4C8WenlvWfNRAulZOX) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Senex](https://open.spotify.com/artist/2n0Qz7ZvKS6kwjPuj9sW4H) | [Narcotic](https://open.spotify.com/album/5J3cTpJJ1EgXK8ZCEylSZO) | 3:12 | 2024-06-13 |  |

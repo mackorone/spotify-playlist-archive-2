@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from YoungBoy Never Broke Again, Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 84,773 likes - 212 songs - 10 hr 59 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 84,771 likes - 212 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Upgrade](https://open.spotify.com/track/0u3xMSqRjaQtuxX4CRY5f7) | [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3) | [Upgrade](https://open.spotify.com/album/7CWK9cw9sDVlYnkATklTiG) | 2:53 |
 | 2 | [Supreme Sanders](https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Supreme Sanders](https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la) | 2:22 |
 | 3 | [Top Cobain](https://open.spotify.com/track/3SKyzZJvKDSabul0KwvMzn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top Cobain](https://open.spotify.com/album/7cBvKQxlZT5Cglic7x2T5r) | 3:45 |
-| 4 | [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
+| 4 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 5 | [Harry Potter](https://open.spotify.com/track/0wiEf8greUbMFJTu3UU3qo) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harry Potter](https://open.spotify.com/album/0dh66XoKbWrBZPXID0nlXO) | 5:35 |
 | 6 | [FDO](https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [FDO](https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be) | 5:19 |
 | 7 | [It Is What It Is \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/track/14nMlxfvVkDWIN9xpUcO7m) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It Is What It Is \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/album/56kJP9lfLUCpTAxcNlud28) | 2:39 |

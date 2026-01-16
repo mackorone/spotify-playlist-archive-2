@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Societeit de Harmonie, Natasya Elvira
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: ArumtaLa
 
-282 songs - 19 hr 31 min
+284 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ah Pusing!](https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Mari Bahagia](https://open.spotify.com/album/7FJlmFABalYgok0ws9aEyS) | 3:12 | 2022-09-22 | 2022-11-13 |
 | [Aku Merindu](https://open.spotify.com/track/5QrHazWlVxp2Raf4DRGYKf) | [Tya Subiakto](https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo), [Alex Kuple](https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9) | [Aku Merindu](https://open.spotify.com/album/2j12LBVG0kDE3RB4NZR1WK) | 3:12 | 2025-11-06 |  |
 | [Aliens](https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [Aliens](https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr) | 3:05 | 2025-02-06 | 2025-10-17 |
+| [Anagnorisis](https://open.spotify.com/track/0OlXlakB0nyPEbbhX1NtZt) | [Dwiki Dharmawan](https://open.spotify.com/artist/3JB5yaZki9KmsqVulHgSmP), [Gilad Atzmon](https://open.spotify.com/artist/2gOuS1oWkTtjn7OTam4wjn) | [Anagnorisis](https://open.spotify.com/album/2sUuADmozyqOfocs8Gy081) | 8:32 | 2026-01-15 |  |
 | [As Falsas](https://open.spotify.com/track/0qPLO41igft7jd9NzSFOKd) | [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt), [Shinjoko](https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i) | [As Falsas](https://open.spotify.com/album/1wXWG6BuyyS9oQMHMvSg9t) | 3:57 | 2025-07-17 |  |
 | [As We Talk](https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Leca Percussion](https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q), [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Scars Souvenir](https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0) | 2:59 | 2023-03-09 | 2025-09-12 |
 | [Asawari](https://open.spotify.com/track/6HWga9JFQbfbUA14FbIQ1l) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Georgie Tanasale](https://open.spotify.com/artist/5CbrdBbi4FsEjx5oPwaHcd) | [Asawari](https://open.spotify.com/album/2mLxqTFkSPS6XF4HhdadcC) | 2:56 | 2023-06-15 | 2024-06-01 |
@@ -232,6 +233,7 @@
 | [Run Over the Line](https://open.spotify.com/track/1wNQ9mNK1IRgl6IXR9Wqhc) | [Alsa](https://open.spotify.com/artist/6dL42hXSnnoaGCn77eumjF), [Indro Hardjodikoro](https://open.spotify.com/artist/7q8VBRFqJizAz9urUzLV9B) | [The Moment with You](https://open.spotify.com/album/3CJbn7rPgzZo0MljADYFPL) | 4:02 | 2023-03-03 | 2023-08-25 |
 | [Sabda Alam](https://open.spotify.com/track/2kPSx1M7cA5jR9whhWKQOJ) | [Kevin Yosua Big 6](https://open.spotify.com/artist/5cbbRDzY0d8E2GI1gMq10J), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [The Great Indonesian Songbook, Vol\. 1](https://open.spotify.com/album/2YojABrSHC3cfPDHMbkx2x) | 4:32 | 2025-10-09 |  |
 | [Sahabat Yang Di Sana](https://open.spotify.com/track/5b857o3dghGQVSxIQzzj2w) | [Attar & Rahel](https://open.spotify.com/artist/5R1zwGQWctXI4QxZpWU5O6), [Nesia Ardi](https://open.spotify.com/artist/5qmSZ1mubcNpvbmimc4FAu) | [Attar & Rahel](https://open.spotify.com/album/55Vl6UqK2kP1VQ1q2ZB89p) | 4:06 | 2022-09-02 | 2024-09-07 |
+| [Salam Sehat](https://open.spotify.com/track/0zE5peq7taXYbAUwWz67jx) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Salam Sehat](https://open.spotify.com/album/5OxVtjhHUNHQT8k1YtLfsL) | 3:21 | 2026-01-15 |  |
 | [Sampai Di Sini](https://open.spotify.com/track/45RXfgUVMmQxU8eHuY6oiA) | [Gerald Situmorang](https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW) | [Saga](https://open.spotify.com/album/4PkercAUk0aNKHoiurzUvu) | 5:38 | 2022-09-02 | 2023-08-18 |
 | [Sandman](https://open.spotify.com/track/2nR5RuOatuTHHZeXKtw22O) | [Valentine](https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k) | [Sandman](https://open.spotify.com/album/1W3ikg59vMZmXLnhGCMlnh) | 1:43 | 2024-08-01 |  |
 | [Sangfroid](https://open.spotify.com/track/7tng7M3wHsQSLBslv2i9Nd) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Sangfroid](https://open.spotify.com/album/6jnZR9Unzi708wR0T3vMHe) | 5:00 | 2022-09-02 | 2023-08-18 |

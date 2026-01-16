@@ -6,8 +6,40 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARQrbMZ0kIUI1qbxfeuieY/CzAa6b9",
+  "snapshot_id": "AAARRL2h5l3wMGYB+FDl6fWbMrNYo/Ae",
   "tracks": [
+    {
+      "added_at": "2026-01-15 21:05:49",
+      "album": {
+        "name": "Keep It Real EP",
+        "url": "https://open.spotify.com/album/3qtRlSeZXUYak2zeR9ypFB"
+      },
+      "artists": [
+        {
+          "name": "Gino Colombi",
+          "url": "https://open.spotify.com/artist/6HaKvR8UvKwViIaIpUPVJA"
+        }
+      ],
+      "duration_ms": 377419,
+      "name": "Bad Neighborhood",
+      "url": "https://open.spotify.com/track/217TBaTjXmROsyPavHXni3"
+    },
+    {
+      "added_at": "2026-01-15 19:15:16",
+      "album": {
+        "name": "Keep It Real EP",
+        "url": "https://open.spotify.com/album/3qtRlSeZXUYak2zeR9ypFB"
+      },
+      "artists": [
+        {
+          "name": "Gino Colombi",
+          "url": "https://open.spotify.com/artist/6HaKvR8UvKwViIaIpUPVJA"
+        }
+      ],
+      "duration_ms": 387096,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/5Z16CQV664VCU6CNJOVJLm"
+    },
     {
       "added_at": "2026-01-14 17:27:57",
       "album": {

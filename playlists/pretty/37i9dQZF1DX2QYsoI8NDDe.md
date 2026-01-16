@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: DiDi R & Carolina Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,671 likes - 150 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,665 likes - 150 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 115 | [No Me Pregunten Por Él](https://open.spotify.com/track/5N3UilPh2Nsk5tx1VeotXs) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [No Me Pregunten Por Él](https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm) | 3:11 |
 | 116 | [La Hembra Que Soy](https://open.spotify.com/track/6ZZhzA0fE9eqLr5MJ5ASV5) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [La Hembra Que Soy](https://open.spotify.com/album/74a3rxJUXhLXHiMzBPvdYi) | 3:30 |
 | 117 | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/track/0ip9TvhqsZDH0BnHY34Lf8) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/album/3EkBJx1ExXIc25ZGreesHi) | 2:04 |
-| 118 | [Me Vale Perderte](https://open.spotify.com/track/2xv1Qn9FQtgMgApA8HVkie) | [Fernanda Lamarque](https://open.spotify.com/artist/1aT0HYID43MZDWBMHDocCo) | [Desde El Comienzo](https://open.spotify.com/album/0MhDjk87DWTAmYYiyoBjJ6) | 2:48 |
-| 119 | [Fan de Su Relación](https://open.spotify.com/track/1mAhrhjWDdwWArEYvMHthd) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Fan de Su Relación](https://open.spotify.com/album/3VOZkGzzVP8EWOww28izCD) | 3:12 |
+| 118 | [Fan de Su Relación](https://open.spotify.com/track/1mAhrhjWDdwWArEYvMHthd) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Fan de Su Relación](https://open.spotify.com/album/3VOZkGzzVP8EWOww28izCD) | 3:12 |
+| 119 | [Me Vale Perderte](https://open.spotify.com/track/2xv1Qn9FQtgMgApA8HVkie) | [Fernanda Lamarque](https://open.spotify.com/artist/1aT0HYID43MZDWBMHDocCo) | [Desde El Comienzo](https://open.spotify.com/album/0MhDjk87DWTAmYYiyoBjJ6) | 2:48 |
 | 120 | [NADIE TE NECESITA](https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [NADIE TE NECESITA](https://open.spotify.com/album/6o9qf3JCGBTibrBlmDDgyx) | 2:57 |
 | 121 | [Frente a Frente](https://open.spotify.com/track/0dggN0Sep5Z9lTRiQwuDm1) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Frente a Frente](https://open.spotify.com/album/5joUA35bE7GryylC1Ps9CH) | 3:45 |
 | 122 | [Miro La Luna](https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Miro La Luna](https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9) | 2:06 |

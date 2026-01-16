@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-2,522 songs - 5 day 8 hr 59 min
+2,523 songs - 5 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 | 2025-01-29 | 2025-02-02 |
 | [All In](https://open.spotify.com/track/3CHPWUZSCRwkjZeBEBMM0Y) | [D2L](https://open.spotify.com/artist/5UCM5UiwIFX15jCZjnp1M3) | [Validé \- Saison 3 \(Bande originale de la série\)](https://open.spotify.com/album/4Y7Z9oCyul9uq6mgkHBAh1) | 2:47 | 2025-12-17 | 2025-12-19 |
 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-10-01 | 2024-10-05 |
-| [All The Things She Said](https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All The Things She Said](https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ) | 2:50 | 2026-01-15 |  |
+| [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 | 2026-01-15 |  |
+| [All The Things She Said](https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All The Things She Said](https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ) | 2:50 | 2026-01-15 | 2026-01-16 |
 | [All The Things She Said \(Culture Shock Version\)](https://open.spotify.com/track/4hp4cs1fKConq0Cmr4luW9) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [All The Things She Said \(Culture Shock Version\)](https://open.spotify.com/album/4iHVL611SiXiIYtgEJbmRS) | 2:38 | 2025-09-30 | 2025-10-02 |
 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 | 2024-08-20 | 2024-08-28 |
 | [All You Children](https://open.spotify.com/track/3cfgisz6DhZmooQk08P4Eu) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 4:14 | 2024-09-26 | 2024-09-29 |

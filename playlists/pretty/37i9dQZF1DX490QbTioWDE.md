@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,395 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,503 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Corazón Partío \- En Vivo](https://open.spotify.com/track/1og22H4fikIPnS3wu92Gzr) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Corazón Partío \(En Vivo\)](https://open.spotify.com/album/6SquTKyvOuQuFxF2M3MZ0C) | 3:01 |
 | 100 | [Confesión](https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Confesión](https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr) | 3:21 |
 
-Snapshot ID: `AAAAAKqzIXNIdzFiOyx9VNt/lVPMXJFS`
+Snapshot ID: `AAAAAM6EAwupMjQwH5zO6hejUMX9UUlX`

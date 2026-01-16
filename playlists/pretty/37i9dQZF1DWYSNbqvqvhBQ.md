@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: Douwe Bob
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,594 likes - 77 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,581 likes - 77 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

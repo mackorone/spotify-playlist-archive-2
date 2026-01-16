@@ -2,9 +2,9 @@
 
 ### [alt/pop](https://open.spotify.com/playlist/37i9dQZF1DXdfR43X3iEzK)
 
-> my alt/pop could mean anything ⚔️ cover: Erin LeCount
+> my alt/pop could mean anything ⚔️ cover: Charli xcx
 
-571 songs - 1 day 6 hr 44 min
+574 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-02-14 | 2025-03-28 |
 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 | 2025-04-03 | 2025-06-07 |
 | [24 hours](https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [24 hours](https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2) | 3:40 | 2024-06-07 | 2024-07-22 |
+| [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-01-16 |  |
 | [3000](https://open.spotify.com/track/2K2kvzUvkoX9vSy7Sg6Z5h) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [3000](https://open.spotify.com/album/0REUr33wXm6LWBoI8KpAfg) | 2:01 | 2025-09-11 | 2025-12-12 |
 | [360 featuring robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [360 featuring robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 | 2024-06-07 | 2024-10-11 |
 | [3x](https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:40 | 2025-07-24 | 2025-09-20 |
@@ -107,7 +108,7 @@
 | [Caterpillar](https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Caterpillar](https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6) | 3:37 | 2025-04-24 | 2025-05-31 |
 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 | 2025-11-14 |  |
 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 | 2025-06-06 | 2025-09-20 |
-| [change your mind](https://open.spotify.com/track/2D2tnrASkskAyVKf7HULAg) | [bodydrive](https://open.spotify.com/artist/5tnWqhwxkbOnWHzTObneAc) | [change your mind](https://open.spotify.com/album/6NSAs63gZMzYZnx0KZbxdv) | 2:42 | 2025-10-23 |  |
+| [change your mind](https://open.spotify.com/track/2D2tnrASkskAyVKf7HULAg) | [bodydrive](https://open.spotify.com/artist/5tnWqhwxkbOnWHzTObneAc) | [change your mind](https://open.spotify.com/album/6NSAs63gZMzYZnx0KZbxdv) | 2:42 | 2025-10-23 | 2026-01-16 |
 | [Chapel of Salt](https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ginkgo](https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW) | 3:08 | 2025-04-03 | 2025-05-10 |
 | [charm bracelet](https://open.spotify.com/track/1VnJctj1fsfZFXeFkk4dVz) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [charm bracelet](https://open.spotify.com/album/7hIWydGtQ3uPp1Olv0m0yc) | 2:12 | 2025-03-14 | 2025-04-04 |
 | [Cheeky](https://open.spotify.com/track/0BD5VUA6o7AH29u2dTzBYu) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What’s Wrong With New York?: Afters](https://open.spotify.com/album/6Koz57deVak6xZwiY5rOTK) | 2:35 | 2025-06-19 | 2025-07-11 |
@@ -312,7 +313,7 @@
 | [Knuckles](https://open.spotify.com/track/5CPiw497PAVv64BJaeQPF4) | [Magdala](https://open.spotify.com/artist/5yfayu54jgsElzh9ZzhL0u) | [Knuckles](https://open.spotify.com/album/68aAeeuYZQS26ofh8ZUFQM) | 3:42 | 2025-04-24 | 2025-05-31 |
 | [L 4 U](https://open.spotify.com/track/6B7Wtk23dzqMMs74WPQPoj) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [L 4 U](https://open.spotify.com/album/5nye3GvEkleWWUSjeUwxCl) | 1:54 | 2025-09-19 | 2025-12-12 |
 | [L.O.V.E.](https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [L.O.V.E.](https://open.spotify.com/album/2XGWlzeYSdqAyyq2dJqZ8L) | 3:56 | 2025-02-14 | 2025-04-18 |
-| [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2025-11-07 |  |
+| [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2025-11-07 | 2026-01-16 |
 | [Lapinou](https://open.spotify.com/track/2GSTQtsqF1ISi2FWzTSPqY) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Detrimentors](https://open.spotify.com/album/2oNmy4VbIkoOU30KhgLrVN) | 3:31 | 2025-05-01 | 2025-06-27 |
 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 | 2025-04-03 | 2025-05-23 |
 | [Late to the Party](https://open.spotify.com/track/2Ks2VjMJthZ5sW7K7LljKS) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Late to the Party](https://open.spotify.com/album/0J7ZYI4k5S2uw7MW1BEtXN) | 3:12 | 2025-03-07 | 2025-07-18 |
@@ -346,6 +347,7 @@
 | [Maria's Problem](https://open.spotify.com/track/7xZFi4ynabOvC3aQsRGJEp) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Maria's Problem](https://open.spotify.com/album/4sXxrzKCKTaYDJOdFuZJoL) | 4:42 | 2025-09-11 |  |
 | [Maybe We Should Break Up](https://open.spotify.com/track/2zC4naFRyKUEe3WZyvHrcX) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [Maybe We Should Break Up](https://open.spotify.com/album/5DJqdWWgK0YqToUuHmCtaH) | 2:52 | 2025-11-28 |  |
 | [MDE](https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [MDE](https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm) | 4:47 | 2025-04-03 | 2025-09-20 |
+| [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-16 |  |
 | [Merry Go Round](https://open.spotify.com/track/4m0DUFZIHDZljTX3A9viUJ) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Merry Go Round](https://open.spotify.com/album/1CzK5nIf8Vrh3IITXTqW20) | 2:46 | 2025-12-05 |  |
 | [Messiah](https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 4:36 | 2025-08-21 | 2025-10-24 |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2025-03-07 | 2025-03-14 |
@@ -473,9 +475,10 @@
 | [Skydiver](https://open.spotify.com/track/1IX5RUHNGNdIM92qwebSU8) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Skydiver](https://open.spotify.com/album/7rujHjkYRu2sJrCfJSlFtE) | 3:59 | 2024-06-07 | 2024-08-19 |
 | [slack](https://open.spotify.com/track/7EfA4kiIZJebf3fIHiO0Ge) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [slack / she's all that i need](https://open.spotify.com/album/6ZAEBW95fQsflooTxmkLmY) | 2:40 | 2025-05-15 | 2025-07-18 |
 | [Sleeper \(Hit\)](https://open.spotify.com/track/6gXkV4YnMvB4ao0zFNXMHZ) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Sleeper \(Hit\)](https://open.spotify.com/album/0DpiDseJ4gpSIsaMKEDmy1) | 2:54 | 2025-04-24 | 2025-07-11 |
+| [Sleepwalker's Pendulum](https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [](https://open.spotify.com/album/null) | 3:22 | 2026-01-16 |  |
 | [So Fast](https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:30 | 2024-07-12 | 2025-03-08 |
 | [SOFT SCOOP TALKING DOG](https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [SOFT SCOOP TALKING DOG](https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V) | 2:03 | 2025-06-26 | 2025-11-29 |
-| [Someone](https://open.spotify.com/track/5XQKo6ve2FLZLZej6elcD9) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Someone](https://open.spotify.com/album/2YmIBPV0HACgBjIoDThJEA) | 3:26 | 2026-01-09 |  |
+| [Someone](https://open.spotify.com/track/5XQKo6ve2FLZLZej6elcD9) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Someone](https://open.spotify.com/album/2YmIBPV0HACgBjIoDThJEA) | 3:26 | 2026-01-09 | 2026-01-16 |
 | [Something In The Air](https://open.spotify.com/track/7rvhBrHKRK7G4SJFgclkr7) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Something In The Air](https://open.spotify.com/album/2RoSPQyzfjJl6ADhGFUnhr) | 3:47 | 2024-10-10 | 2025-02-14 |
 | [Somewhere](https://open.spotify.com/track/3GPybyy3AiWaWGfUTaIZh6) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Somewhere](https://open.spotify.com/album/4jTq7j1OnDNGUhoenowReN) | 4:32 | 2025-06-26 | 2025-10-03 |
 | [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 | 2025-03-14 | 2025-04-18 |
@@ -545,7 +548,7 @@
 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-02 | 2025-11-07 |
 | [We Move](https://open.spotify.com/track/7ahvkrZ5wIpOTRBKYmL0i0) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Common People](https://open.spotify.com/album/6QuyXjOtOEWJ0RkUanzAlu) | 2:26 | 2024-08-23 | 2024-10-11 |
 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 | 2025-06-19 | 2025-08-22 |
-| [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-11 |  |
+| [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-11 | 2026-01-16 |
 | [What Happened.](https://open.spotify.com/track/4JHIRSicUIwvi997lxoAN3) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [15](https://open.spotify.com/album/5eDAiMfKjtgrk5RK7OTfvO) | 2:33 | 2025-03-14 | 2025-04-04 |
 | [What If You're The Love of My Life?](https://open.spotify.com/track/2rNp14nmgJc4IK0FajIzGn) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [What If You're The Love of My Life?](https://open.spotify.com/album/3gHdoNyalsBcrZ4QSJAmuc) | 2:08 | 2024-06-07 | 2024-08-09 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-06-07 | 2025-03-08 |

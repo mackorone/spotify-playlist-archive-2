@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-168 songs - 9 hr 38 min
+169 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Exile](https://open.spotify.com/track/5uVQDpZ8QBy5gBAxXTufHN) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Exile](https://open.spotify.com/album/41gsdwJILd5NLUgFvhjXl5) | 4:33 | 2025-07-16 | 2025-09-16 |
 | [Faith](https://open.spotify.com/track/2E4ImcUM9GrVevTrs3AqXI) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [Faith](https://open.spotify.com/album/6mUtkNsbNHsMszmKpCoCZU) | 2:28 | 2025-07-16 | 2025-10-22 |
 | [Familiar Love \- Radio Edit](https://open.spotify.com/track/2sFw1i3lq7fUV7LdDoxXFU) | [Boogie Monster](https://open.spotify.com/artist/7f0mZeCsi8b1qMvMre72t4) | [Familiar Love](https://open.spotify.com/album/6IZ0UereWBxasy0E8S31N3) | 4:38 | 2025-07-16 | 2025-09-16 |
-| [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 | 2025-07-16 |  |
+| [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 | 2025-07-16 | 2026-01-16 |
+| [Feels Like](https://open.spotify.com/track/03tJaPX5xiJEw8C7kTCJTJ) | [Uknow](https://open.spotify.com/artist/4lTxm1US6O7MJ78lwocSVW), [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Feels Like](https://open.spotify.com/album/3v3YqPMvFOBbHLSSOxZRTp) | 2:24 | 2026-01-15 |  |
 | [Forever Yours](https://open.spotify.com/track/228SCNyICAP1THsuLdzLW4) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Forever Yours](https://open.spotify.com/album/6uHQ0lm7VJwSqp7frFaSMk) | 3:02 | 2025-07-16 | 2025-09-19 |
 | [Front Row Ticket](https://open.spotify.com/track/7esAvx4OIfU1UbIjjDsh3o) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Front Row Ticket](https://open.spotify.com/album/4i2CHH2OcpzHOwWBYgbiGL) | 2:48 | 2025-07-16 | 2025-09-19 |
 | [FYI](https://open.spotify.com/track/5Px94nagQ9C6WrklMCxVk1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [FYI](https://open.spotify.com/album/5UCXFRJjjySyFCXa76gFVC) | 3:22 | 2025-07-16 | 2025-11-12 |

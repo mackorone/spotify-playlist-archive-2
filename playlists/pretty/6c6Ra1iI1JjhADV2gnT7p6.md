@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,615 likes - 555 songs - 1 day 7 hr 13 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,612 likes - 555 songs - 1 day 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,25 +116,25 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 106 | [run for cover](https://open.spotify.com/track/2xPZOHiPDZnxs2uirXv6O5) | [The Flamingo Years](https://open.spotify.com/artist/6uFb30We9gUzsagzjPdmzQ) | [run for cover](https://open.spotify.com/album/4VQkBc8EXkdA8qDEgAjCpi) | 2:57 |
 | 107 | [Seven](https://open.spotify.com/track/5TgG1E2IMh72gluvOFzuBL) | [Hayes Noble](https://open.spotify.com/artist/7uO6P0OnlmeLwbdYj4x9Ow) | [Never Blue](https://open.spotify.com/album/1i5U7lRQUWOSrN5XhyY9O8) | 3:25 |
 | 108 | [dimelo](https://open.spotify.com/track/4wRtkEux8WVjCeDg6u2Vzm) | [Maneka](https://open.spotify.com/artist/2jDmHyttVnEsH5J1O1uygh) | [bathes and listens](https://open.spotify.com/album/3mweLW4sPSKubnfztexdpl) | 2:01 |
-| 109 | [Everyone Loves You](https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3) | [Glasshouse Red Spider Mite](https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli) | [Everyone Loves You](https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu) | 6:34 |
-| 110 | [Every Day Without Fail](https://open.spotify.com/track/1ifoquoDyxdnXTgoo7zoA4) | [Guitar](https://open.spotify.com/artist/5hhxj6UF5Qg4bOMTpV7VSa) | [We're Headed To The Lake](https://open.spotify.com/album/2kmlSkBYgTZa3YoHARJ6Iu) | 2:42 |
-| 111 | [Company Car](https://open.spotify.com/track/4lDNefE6V8YPnAQkwEKsXs) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 2:03 |
+| 109 | [Every Day Without Fail](https://open.spotify.com/track/1ifoquoDyxdnXTgoo7zoA4) | [Guitar](https://open.spotify.com/artist/5hhxj6UF5Qg4bOMTpV7VSa) | [We're Headed To The Lake](https://open.spotify.com/album/2kmlSkBYgTZa3YoHARJ6Iu) | 2:42 |
+| 110 | [Company Car](https://open.spotify.com/track/4lDNefE6V8YPnAQkwEKsXs) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 2:03 |
+| 111 | [The Color Clear](https://open.spotify.com/track/6g7peIzaeZ3cFDZ69D4geb) | [Starcharm](https://open.spotify.com/artist/4ukMjuOtO6cfc16gv5dSoJ) | [The Color Clear](https://open.spotify.com/album/0Hi5PbnszBdsmfahquYKGn) | 3:32 |
 | 112 | [Lasting Impression](https://open.spotify.com/track/51AAojIOUnLXaEGA6gHynq) | [Ava Luna](https://open.spotify.com/artist/7xkkeemZnfafRwrWEtlyaN) | [Ava Luna](https://open.spotify.com/album/6XhDeCKY32qA1ITETidguz) | 2:42 |
-| 113 | [The Color Clear](https://open.spotify.com/track/6g7peIzaeZ3cFDZ69D4geb) | [Starcharm](https://open.spotify.com/artist/4ukMjuOtO6cfc16gv5dSoJ) | [The Color Clear](https://open.spotify.com/album/0Hi5PbnszBdsmfahquYKGn) | 3:32 |
-| 114 | [Foreign Feeling](https://open.spotify.com/track/2MiduczgnQHlMdue2C37Ly) | [Harris](https://open.spotify.com/artist/6OlJro7ph76r7hnR61h7ns) | [Murmur Ballads](https://open.spotify.com/album/6JHT6yncyYXScoDbdNrsrs) | 3:05 |
-| 115 | [CBB](https://open.spotify.com/track/6SdfznBX9Ec8P3StAPHQ5J) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [CBB](https://open.spotify.com/album/63o5sIdESOjt5Ccjbonvmg) | 3:11 |
-| 116 | [Doesn't Really Matter](https://open.spotify.com/track/4HfN7246HT9BiXgU0d5HLl) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4), [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Rest Here](https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL) | 4:29 |
-| 117 | [Neo](https://open.spotify.com/track/3qf2aHdKwlZ8D7j9dENYOJ) | [Beverly Hell](https://open.spotify.com/artist/7eiF8NIBIp0YUmPb47DgBo) | [Neo](https://open.spotify.com/album/3mjxPVyBa2jxhKs5Y3Tlxz) | 2:41 |
-| 118 | [Some Kinda Glory](https://open.spotify.com/track/0XSXCd5vK1XtlaBwe382Wq) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [Some Kinda Glory](https://open.spotify.com/album/3B4ssiovd26NN0D8GCBVj4) | 3:51 |
-| 119 | [Radio Silence](https://open.spotify.com/track/2Ceng9eyqEnwuTMx5Pd85k) | [Danny Balentine](https://open.spotify.com/artist/3BQaUhtWdTGZFpaQMlnawf) | [Radio Silence](https://open.spotify.com/album/68Sx9axFpNn2OGBFejfBcV) | 3:51 |
-| 120 | [I Want You](https://open.spotify.com/track/0POZcZCXYeUF7fC4EnRlVp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [I Want You](https://open.spotify.com/album/5zWogd3YFW9oUU2fQHZdWQ) | 2:18 |
-| 121 | [When I Die](https://open.spotify.com/track/0FomWIDUKAutMMoLcVz9Nm) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [When I Die](https://open.spotify.com/album/6QrPjHOZbgL2TeOtaS2GCx) | 3:02 |
-| 122 | [Ersatz Intercity](https://open.spotify.com/track/2IOwqvaquZQOoOlfb8nWUz) | [AUA](https://open.spotify.com/artist/5RHQpsM8yVMEddtL2skbrH) | [Ersatz Intercity](https://open.spotify.com/album/5zkDalNygPPBH9mJBX5hIw) | 4:08 |
-| 123 | [The Reply](https://open.spotify.com/track/6C4MS01E2CU2vp8FkHbOHT) | [Agriculture](https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY) | [The Spiritual Sound](https://open.spotify.com/album/4HxzA7GFGtbcLiCNNd4AmZ) | 6:29 |
-| 124 | [Good Lickin](https://open.spotify.com/track/65VvJ3iNubIHQmijMAWdyH) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [Sex Angel](https://open.spotify.com/album/6VaB8Uaum2moqEI56waiKy) | 4:29 |
-| 125 | [stick horse](https://open.spotify.com/track/1BZisExwFCmX2eTJwOsF4E) | [Sindy](https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa) | [stick horse](https://open.spotify.com/album/2WXBln1OwUUWkxNMKCUJiZ) | 2:18 |
-| 126 | [Polka dot](https://open.spotify.com/track/7sZ9IdFPv0GkiIrvTdzPvs) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Cheerleader](https://open.spotify.com/album/54YKB5aeBIRCjUe5ssHQzo) | 1:38 |
-| 127 | [Why Is it That Way?](https://open.spotify.com/track/7f0390bLFdKLzf8lEWfSCF) | [M\. T\. Hadley](https://open.spotify.com/artist/3O9qxLTLMvR9Dn1OAFoWaH) | [Make Room For Happiness](https://open.spotify.com/album/6EHfFtuA9cr64vXgU5gDNG) | 3:32 |
+| 113 | [Foreign Feeling](https://open.spotify.com/track/2MiduczgnQHlMdue2C37Ly) | [Harris](https://open.spotify.com/artist/6OlJro7ph76r7hnR61h7ns) | [Murmur Ballads](https://open.spotify.com/album/6JHT6yncyYXScoDbdNrsrs) | 3:05 |
+| 114 | [CBB](https://open.spotify.com/track/6SdfznBX9Ec8P3StAPHQ5J) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [CBB](https://open.spotify.com/album/63o5sIdESOjt5Ccjbonvmg) | 3:11 |
+| 115 | [Doesn't Really Matter](https://open.spotify.com/track/4HfN7246HT9BiXgU0d5HLl) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4), [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Rest Here](https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL) | 4:29 |
+| 116 | [Neo](https://open.spotify.com/track/3qf2aHdKwlZ8D7j9dENYOJ) | [Beverly Hell](https://open.spotify.com/artist/7eiF8NIBIp0YUmPb47DgBo) | [Neo](https://open.spotify.com/album/3mjxPVyBa2jxhKs5Y3Tlxz) | 2:41 |
+| 117 | [Some Kinda Glory](https://open.spotify.com/track/0XSXCd5vK1XtlaBwe382Wq) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [Some Kinda Glory](https://open.spotify.com/album/3B4ssiovd26NN0D8GCBVj4) | 3:51 |
+| 118 | [Radio Silence](https://open.spotify.com/track/2Ceng9eyqEnwuTMx5Pd85k) | [Danny Balentine](https://open.spotify.com/artist/3BQaUhtWdTGZFpaQMlnawf) | [Radio Silence](https://open.spotify.com/album/68Sx9axFpNn2OGBFejfBcV) | 3:51 |
+| 119 | [I Want You](https://open.spotify.com/track/0POZcZCXYeUF7fC4EnRlVp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [I Want You](https://open.spotify.com/album/5zWogd3YFW9oUU2fQHZdWQ) | 2:18 |
+| 120 | [When I Die](https://open.spotify.com/track/0FomWIDUKAutMMoLcVz9Nm) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [When I Die](https://open.spotify.com/album/6QrPjHOZbgL2TeOtaS2GCx) | 3:02 |
+| 121 | [Ersatz Intercity](https://open.spotify.com/track/2IOwqvaquZQOoOlfb8nWUz) | [AUA](https://open.spotify.com/artist/5RHQpsM8yVMEddtL2skbrH) | [Ersatz Intercity](https://open.spotify.com/album/5zkDalNygPPBH9mJBX5hIw) | 4:08 |
+| 122 | [Good Lickin](https://open.spotify.com/track/65VvJ3iNubIHQmijMAWdyH) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [Sex Angel](https://open.spotify.com/album/6VaB8Uaum2moqEI56waiKy) | 4:29 |
+| 123 | [stick horse](https://open.spotify.com/track/1BZisExwFCmX2eTJwOsF4E) | [Sindy](https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa) | [stick horse](https://open.spotify.com/album/2WXBln1OwUUWkxNMKCUJiZ) | 2:18 |
+| 124 | [The Reply](https://open.spotify.com/track/6C4MS01E2CU2vp8FkHbOHT) | [Agriculture](https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY) | [The Spiritual Sound](https://open.spotify.com/album/4HxzA7GFGtbcLiCNNd4AmZ) | 6:29 |
+| 125 | [Polka dot](https://open.spotify.com/track/7sZ9IdFPv0GkiIrvTdzPvs) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Cheerleader](https://open.spotify.com/album/54YKB5aeBIRCjUe5ssHQzo) | 1:38 |
+| 126 | [Why Is it That Way?](https://open.spotify.com/track/7f0390bLFdKLzf8lEWfSCF) | [M\. T\. Hadley](https://open.spotify.com/artist/3O9qxLTLMvR9Dn1OAFoWaH) | [Make Room For Happiness](https://open.spotify.com/album/6EHfFtuA9cr64vXgU5gDNG) | 3:32 |
+| 127 | [Everyone Loves You](https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3) | [Glasshouse Red Spider Mite](https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli) | [Everyone Loves You](https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu) | 6:34 |
 | 128 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 |
 | 129 | [Your Dinner Is Ready](https://open.spotify.com/track/7iOg073VmVZuGyrZfk0Pk9) | [The Blush Tribe](https://open.spotify.com/artist/1pjCPqdI6nJ8v9RrcIPV8R) | [Your Dinner Is Ready](https://open.spotify.com/album/4WwWc3dnt6KNSGevGrxbHe) | 4:00 |
 | 130 | [Automatic](https://open.spotify.com/track/6h58rsGQQYTBuVkGtwWvIi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [RUDE](https://open.spotify.com/album/07aVgAaXvYBOPFY0kWX6HK) | 2:31 |
@@ -564,4 +564,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 554 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
 | 555 | [end times](https://open.spotify.com/track/5bMvNs6meJT1PdSh0RvqzA) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/079zqQhPZszlwoSCW4uRKj) | 4:50 |
 
-Snapshot ID: `AAAsWBoO0mh/1ZquMbDqtVyRpd7OCjEj`
+Snapshot ID: `AAAsXua+WZl7iA2Lc+6m7MyuObkqeEbN`

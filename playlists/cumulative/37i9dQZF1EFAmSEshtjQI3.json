@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Dos Sagitarios",
+        "url": "https://open.spotify.com/album/6kHT8gWkafyoZ6KM4Qu1rD"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197790,
+      "name": "Dos Sagitarios",
+      "url": "https://open.spotify.com/track/3AdAcGSN0SmUfD3Nfuvtqb"
+    },
+    {
+      "album": {
         "name": "\u00bfQu\u00e9 Significa El Amor?",
         "url": "https://open.spotify.com/album/1tRHRbIHP3vNA6M6h598xe"
       },

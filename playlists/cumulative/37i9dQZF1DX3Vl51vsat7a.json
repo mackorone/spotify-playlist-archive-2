@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Brich mich",
+        "url": "https://open.spotify.com/album/3T5br6m5wsjODxas4HyLeN"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165629,
+      "name": "Brich mich",
+      "url": "https://open.spotify.com/track/2r67sBB5WQWUdrVKz8sFnU"
+    },
+    {
+      "album": {
         "name": "Bring The Good Mood Back",
         "url": "https://open.spotify.com/album/4oHJfzm4Snx1mvehq0a9RE"
       },
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 177168,
       "name": "Drama Baby",
       "url": "https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN"
@@ -3394,6 +3412,24 @@
       "duration_ms": 173045,
       "name": "Headbanger",
       "url": "https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204112,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A"
     },
     {
       "album": {
@@ -4610,6 +4646,28 @@
       "duration_ms": 223500,
       "name": "Locker Room",
       "url": "https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/73eC5wTTB0XFpHUZ29ma8X"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160540,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0Z6wRXvwfrCGZSZRmbOnAi"
     },
     {
       "album": {
@@ -5912,7 +5970,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 177262,
       "name": "Pflaster",
       "url": "https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt"
@@ -6234,7 +6292,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 178217,
       "name": "Regentage",
       "url": "https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T"

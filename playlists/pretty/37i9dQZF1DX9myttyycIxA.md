@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Pretty Sick
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,075 likes - 140 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,072 likes - 140 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

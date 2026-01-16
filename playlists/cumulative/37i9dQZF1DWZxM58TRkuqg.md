@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Tohpati, Fabio Asher
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Nabila Taqiyyah
 
-566 songs - 1 day 12 hr 53 min
+570 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Cahaya](https://open.spotify.com/track/4ZJ0hcwJ69NyY0x8TlbnQV) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Cahaya](https://open.spotify.com/album/3XnIcjWBfEuKeLRsL6743o) | 3:05 | 2024-05-23 | 2024-06-28 |
 | [CANDYRELLA \- sweeter](https://open.spotify.com/track/4qG74FcxHBeDcveHfOlqtQ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [CANDYRELLA](https://open.spotify.com/album/1n9VJFm671VITcO2VnttNh) | 3:10 | 2024-05-16 | 2024-07-05 |
 | [Cantik](https://open.spotify.com/track/3tri5XrdkhTT8dXPhWXZDa) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [ArTi Semestinya Cinta](https://open.spotify.com/album/48VJneXoN4AW5QAT4Ruwkc) | 4:00 | 2024-03-07 | 2025-02-14 |
+| [Cegil](https://open.spotify.com/track/1hfSoyfUsiIYQrB9LJrRN1) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Cegil](https://open.spotify.com/album/3lxXnNeKdTgQrGiuZtIo5s) | 2:56 | 2026-01-15 |  |
 | [Cendana](https://open.spotify.com/track/0PKoCpeBjGdx6TTXPZVLbM) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Cendana](https://open.spotify.com/album/3tYfzqhCpTXLRrHzwSN2iA) | 3:57 | 2025-10-09 | 2025-11-14 |
 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 | 2024-01-26 | 2024-03-22 |
 | [Cinta Aku Bisa Apa](https://open.spotify.com/track/4nJoJe7PspYQMpqYch5ADK) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Cinta Aku Bisa Apa](https://open.spotify.com/album/3AY29eYIsUotH4rFjzds3R) | 4:03 | 2024-01-26 | 2024-02-09 |
@@ -142,6 +143,7 @@
 | [Diam \- Diam](https://open.spotify.com/track/2edZTwBfXyirEH04n3TnhG) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Diam \- Diam](https://open.spotify.com/album/4KWJEKCbo8XxwEOwwRv8ho) | 3:31 | 2025-02-27 | 2025-04-25 |
 | [Dibalas Dengan Dusta](https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Dibalas Dengan Dusta](https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI) | 4:05 | 2024-06-20 | 2024-11-15 |
 | [Did You Like Her In The Morning?](https://open.spotify.com/track/5SwdrJLtyFyC926bXw5PCz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:37 | 2024-08-29 | 2024-10-18 |
+| [Dirimu Yang Dulu](https://open.spotify.com/track/3GIiXoibZNOxoB4QJ0b8UR) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:00 | 2026-01-15 |  |
 | [Don't Stop](https://open.spotify.com/track/6WkBMtZ1RAYr8yht4Y8uic) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Forever In The Air](https://open.spotify.com/album/07rCINMa9qmft2nk9beVSZ) | 3:03 | 2025-10-09 | 2025-11-14 |
 | [Don't You Dare Hesitate](https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 2:23 | 2024-05-10 | 2024-08-09 |
 | [Dunia Yang Terlupa](https://open.spotify.com/track/1B4d9vrImt99bpCI5eHPe9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Hari Yang Cerah](https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U) | 3:31 | 2024-01-26 | 2024-03-15 |
@@ -540,6 +542,7 @@
 | [Terlalu Dalam](https://open.spotify.com/track/5DYth0Di3el4V56SGM3eva) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi) | [Terlalu Dalam](https://open.spotify.com/album/6ahJbgEWJBaTrSpy3RkQoR) | 3:17 | 2025-04-24 | 2025-06-06 |
 | [Ternyata](https://open.spotify.com/track/7MQW08eDg5CTLhtILqkKN7) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Ternyata](https://open.spotify.com/album/30gZnxUnWFrUpiwpTdzQZv) | 2:54 | 2024-06-27 | 2024-11-15 |
 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 | 2024-10-18 |  |
+| [Terpikat Pada Cinta](https://open.spotify.com/track/0SqLgHSQzJoY42H6qek9XR) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Terpikat Pada Cinta](https://open.spotify.com/album/1BbbnT6zieG9F20Z63T8yX) | 4:10 | 2026-01-15 |  |
 | [Tersemogakan](https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tersemogakan](https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi) | 4:14 | 2024-07-04 | 2024-11-15 |
 | [Terserah](https://open.spotify.com/track/1OSg4uyjhjb5SMFeXAGC2i) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Terserah](https://open.spotify.com/album/7cclWVYR07f5NzewlRdfkd) | 4:00 | 2025-05-01 | 2025-08-08 |
 | [Teruntuk Dirimu](https://open.spotify.com/track/7bI01b0ysHcQOeMZ3u6cl4) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Teruntuk Dirimu](https://open.spotify.com/album/0OYS4La7wPJayqBmrZfSLr) | 4:09 | 2025-08-14 |  |
@@ -557,6 +560,7 @@
 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2025-10-09 |  |
 | [Tuhan Tolong](https://open.spotify.com/track/3lUTrUsQ3XURWmJJ6qHSvm) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tuhan Tolong](https://open.spotify.com/album/4tE6ZHYHvubVbM2pSLkKnW) | 4:20 | 2024-12-12 | 2025-02-07 |
 | [Tuhan Yang Tahu](https://open.spotify.com/track/1695rzxy8HrOhjtvEZ3LjF) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Baik Dan Burukmu Tuhan Yang Tahu](https://open.spotify.com/album/3pnJ1JefhcYPoIq6alYuhL) | 4:19 | 2024-03-07 | 2024-03-29 |
+| [Tulang Punggung](https://open.spotify.com/track/0YwEhTKPAsQkMd9oehSJHz) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tulang Punggung](https://open.spotify.com/album/5HAKMVQl0u6irMKdfGv6EO) | 4:35 | 2026-01-15 |  |
 | [Tunggal Eka](https://open.spotify.com/track/7g4Ewuh8njWucqfwY7PdmR) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Tunggal Eka](https://open.spotify.com/album/7BzdpKIiRQSgaTPvGrasLB) | 4:32 | 2025-12-18 |  |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-09-06 | 2025-02-14 |
 | [Tunggulah Sebentar](https://open.spotify.com/track/0A3wcFYUZLeVqvJMj95qXq) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Bertumbuh](https://open.spotify.com/album/5NsLnUV8d8Ppiwwlr0RRX9) | 4:13 | 2024-02-23 | 2024-07-12 |

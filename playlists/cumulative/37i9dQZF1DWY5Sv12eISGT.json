@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "ON YOU",
+        "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
+      },
+      "artists": [
+        {
+          "name": "Timi Dre",
+          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "ON YOU - ACOUSTIC",
+      "url": "https://open.spotify.com/track/3qmyX3HXpYrINh36VqgqM6"
+    },
+    {
+      "album": {
         "name": "Peru (Acoustic)",
         "url": "https://open.spotify.com/album/636MfmRIE3pXhXzk8rVsFC"
       },

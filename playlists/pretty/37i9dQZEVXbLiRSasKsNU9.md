@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,780,132 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,780,167 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 | 24 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 | 25 | [Gehra Hua \(From "Dhurandhar"\)](https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP), [Armaan Khan](https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ) | [Gehra Hua \(From "Dhurandhar"\)](https://open.spotify.com/album/19tZ6ucshEQgvZy3v9RNYW) | 6:02 |
 | 26 | [Meri Zindagi Hai Tu](https://open.spotify.com/track/5RYXTC4G3RYYP6pUmaF6s2) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn) | [Meri Zindagi Hai Tu](https://open.spotify.com/album/4FWgeZQOq8g7kLQAniEdzR) | 3:46 |
-| 27 | [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 |
+| 27 | [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 |
 | 28 | [Ishqa Ve](https://open.spotify.com/track/0febwTwLDSZzrt46i1RBF5) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92), [Yuvraj Tung](https://open.spotify.com/artist/7yqoq4MWdw2ZNyAKDqH0fE), [Sandeep Aulakh](https://open.spotify.com/artist/3allL5EVHCpBzNZHN2JCc5), [Honey Dhillon](https://open.spotify.com/artist/0d4qS5KvrIwi0l5OMiftsH) | [Ishqa Ve](https://open.spotify.com/album/76crGpcBjaBuRTLpxBePXS) | 3:27 |
 | 29 | [JETSKI](https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [JETSKI](https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o) | 2:28 |
 | 30 | [KALYANI](https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [FIFTY4](https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [KALYANI](https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 | 49 | [A Little Thing Like Love](https://open.spotify.com/track/2PIx1sfY7xqlS6XxWJ8R4s) | [Kayla Kross](https://open.spotify.com/artist/6HnvNzsqH33fKnRO0qoZui) | [Kayla](https://open.spotify.com/album/6G1edNBjnT0CP3mJJCUX2g) | 3:07 |
 | 50 | [Fanatismo](https://open.spotify.com/track/1bWYjhtGuje05MGLOAQvpj) | [Yasmin Sensação](https://open.spotify.com/artist/30tExRU8h8VOiCeL9ia2aK) | [Repertório Fim de Ano](https://open.spotify.com/album/1lgnxbdljukcNXswFLN4LX) | 2:22 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -2,9 +2,9 @@
 
 ### [peach](https://open.spotify.com/playlist/37i9dQZF1DWW1ht9f3cW7m)
 
-> peach is an indie pop playlist 🥤<br/>cover: Jenny On Holiday
+> peach is an indie pop playlist 🩷<br/>cover: MARO
 
-489 songs - 1 day 2 hr 21 min
+491 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-14 | 2024-11-04 |
 | [kickin](https://open.spotify.com/track/7dCBUjjAsLorCkDdddJgts) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [kickin](https://open.spotify.com/album/08OXFLUMb7ZdrHk0w0dXJ6) | 2:56 | 2024-09-20 | 2025-04-13 |
 | [Killing the Game](https://open.spotify.com/track/4uKMuSSz5efdaVKZINX0Mi) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Late to the World](https://open.spotify.com/album/52IVBszkmihtHkZ1QQqjki) | 4:01 | 2025-04-12 | 2025-06-13 |
+| [KISS ME](https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [KISS ME](https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G) | 3:03 | 2026-01-16 |  |
 | [Kiss Me Like You're Leaving](https://open.spotify.com/track/6rA5wCxRTEE5G2EWwrQY4e) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Kiss Me Like You're Leaving](https://open.spotify.com/album/4kStSM0UKjniVUclhDnieM) | 3:40 | 2025-05-01 | 2025-07-25 |
 | [Kiss My Apocalypse](https://open.spotify.com/track/0N1ItNWhn5N7WiHarezCA8) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Kiss My Apocalypse](https://open.spotify.com/album/2X42JsIZ1VkhOooPBBfDZl) | 3:48 | 2025-01-24 | 2025-05-16 |
 | [kissing for practice](https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [kissing for practice](https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG) | 3:29 | 2025-05-01 | 2025-06-27 |
@@ -305,6 +306,7 @@
 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2025-01-24 | 2025-05-16 |
 | [Monster in My Mouth](https://open.spotify.com/track/2dyezheEi2PqhDXLH1J3Ql) | [Aaron Dinning](https://open.spotify.com/artist/7xutVKUy1wLHmi2rmSvacV) | [Monster in My Mouth](https://open.spotify.com/album/64m769bJW5YUmmuM04apPs) | 4:06 | 2025-07-10 | 2025-08-29 |
 | [monsters](https://open.spotify.com/track/7BFIBULShxfEOaPEHUZP61) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [monsters](https://open.spotify.com/album/7sUVCCRwEkQHONmQ7A2aAU) | 2:26 | 2024-07-12 | 2024-08-22 |
+| [Monsters](https://open.spotify.com/track/11jXhlTnjdzyXTxGCuBOw4) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [Monsters](https://open.spotify.com/album/6w1CKIcPNOtHsayL7gyD2M) | 2:59 | 2026-01-16 |  |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-08 | 2025-06-13 |
 | [Move](https://open.spotify.com/track/3JwqPnEhD8X3c28XxQqJgK) | [Sylvie Hallam](https://open.spotify.com/artist/61YmVC7AZdALYFPh6wuqiV) | [Move](https://open.spotify.com/album/2ssP9SFBaJPxRSW7QPKbbt) | 3:54 | 2025-10-23 |  |
 | [moving on](https://open.spotify.com/track/4Fv5w4w5rIVMY29GECwlpP) | [Asher Finlon](https://open.spotify.com/artist/5eMaMRRedFIFXm2o3NtOQB) | [moving on](https://open.spotify.com/album/3Lr4ujf2aw4Z1ResHBPv5C) | 3:40 | 2025-05-15 | 2025-07-11 |

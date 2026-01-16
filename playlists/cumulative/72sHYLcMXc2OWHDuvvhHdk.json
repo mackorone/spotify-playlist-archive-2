@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Blowing in the waves",
+        "url": "https://open.spotify.com/album/2eAzFBLjEaKaDv7u7elZon"
+      },
+      "artists": [
+        {
+          "name": "David Aznar Mathonneau",
+          "url": "https://open.spotify.com/artist/55aJFxW0hS5JeoJwnXkeNg"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137080,
+      "name": "Blowing in the waves",
+      "url": "https://open.spotify.com/track/2da8OZtalIiCX15QOoKkXZ"
+    },
+    {
+      "album": {
         "name": "Light & Darkness",
         "url": "https://open.spotify.com/album/1rw7nYTqcS4tD6Z74Ic8hq"
       },
@@ -25519,6 +25537,24 @@
     },
     {
       "album": {
+        "name": "Rough Justice (Electric Mix)",
+        "url": "https://open.spotify.com/album/7zgWeIdxtoF0POy81ceCN7"
+      },
+      "artists": [
+        {
+          "name": "B.J Salyer",
+          "url": "https://open.spotify.com/artist/0bqxjfiDpMt6MIrF6A17vN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230810,
+      "name": "Rough Justice - Electric Mix",
+      "url": "https://open.spotify.com/track/58hDV5XKthZvHA9upaoisk"
+    },
+    {
+      "album": {
         "name": "After School Club",
         "url": "https://open.spotify.com/album/2tiFgOKF0HKloT87H7wDvP"
       },
@@ -36236,6 +36272,24 @@
       "duration_ms": 250392,
       "name": "\u0421\u043b\u0430\u0432\u043d\u043e",
       "url": "https://open.spotify.com/track/01gLdhCCNYtDeTO2vZ10uu"
+    },
+    {
+      "album": {
+        "name": "\u041a\u043e\u0441\u043c\u043e\u0441",
+        "url": "https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157697,
+      "name": "\u0421\u0442\u0438\u0445\u0438 \u0443\u0441\u044b\u043f\u0430\u043d\u044b \u0437\u043e\u043b\u043e\u0439",
+      "url": "https://open.spotify.com/track/15seLkH8hclkpoZeaqSqdU"
     },
     {
       "album": {

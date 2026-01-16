@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,213 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,221 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 20 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 | 21 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
 | 22 | [No Me Sofoco](https://open.spotify.com/track/3X0JPpWypjuxQA9Aqg481j) | [4AMTapes](https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh) | [No Me Sofoco](https://open.spotify.com/album/5jhwSbP9as9I3ZnqayXHuW) | 4:29 |
-| 23 | [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/album/6xMVTI6XdHdvpVgEA20Nlx) | 3:09 |
+| 23 | [Beast](https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Mia Martina](https://open.spotify.com/album/0bvO9rYY63GNkEJdR2Zi5R) | 3:09 |
 | 24 | [Pensando Brigido](https://open.spotify.com/track/5hTAltMXPzPf2tLKZiBLKM) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [LAS FILTRADAS](https://open.spotify.com/album/4AL3l5qn3kF1FMBUoW5AKq) | 3:46 |
 | 25 | [MURAKAMI](https://open.spotify.com/track/5JVUhvcanHXMOL6y3HsvNN) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [MURAKAMI](https://open.spotify.com/album/5hmKsvbURF6ny5eSfEm8Zz) | 2:36 |
 | 26 | [Ya Borracho](https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Noches Sin Fin](https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM) | 2:38 |
 | 27 | [Quiero paz nada más](https://open.spotify.com/track/5ioSXhqg7ViPekWDnQuga7) | [NACHO CASTILLO](https://open.spotify.com/artist/3gInyXc0GJS9jFvlRXEc3H) | [Quiero paz nada más](https://open.spotify.com/album/1IxR1MtjVsqwmsuSG8A1R2) | 2:27 |
 | 28 | [Tu Nombre en la Oscuridad](https://open.spotify.com/track/13XTDTngvvkb3b2FpBOQXU) | [JERRY'S SOUND ROOM](https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH) | [Tu Nombre en la Oscuridad](https://open.spotify.com/album/0D2cV9WV5VCFtrAm0uieSE) | 4:08 |
-| 29 | [Voyage Voyage](https://open.spotify.com/track/5dy0ZEDh2Lxvza4bK6GR8w) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Voyage Voyage](https://open.spotify.com/album/16ayCmILiovTksjEG47GlN) | 2:25 |
+| 29 | [Voyage Voyage](https://open.spotify.com/track/20y6xEtoOj2ZBCS4NJNzuS) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Voyage Voyage](https://open.spotify.com/album/3R7NpE1dA8PoAwq07Y1JYc) | 2:25 |
 | 30 | [Destino Final](https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Destino Final](https://open.spotify.com/album/66BS1FKL1YeuRLQo5Y5fMQ) | 2:53 |
 | 31 | [La Intuición](https://open.spotify.com/track/4FPcrNWSVIdGcqDXUKbOQk) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Chusi](https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b) | [La Intuición](https://open.spotify.com/album/57FEOShxnLZEo29OFNnZWa) | 3:34 |
 | 32 | [Te Amo y Me Amas](https://open.spotify.com/track/1zcpINZGUYXn2dzO1QSlUo) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Linda Mujer](https://open.spotify.com/album/5T8dK0xt8rYynYjnKbPFAO) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 49 | [Never Ending Story](https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i) | [Gaten Matarazzo](https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6), [Gabriella Pizzolo](https://open.spotify.com/artist/7FZcgLmT7hkZWlODqmOFNo) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 2:05 |
 | 50 | [KLOuFRENS](https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:19 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics\. Cover: Behemoth
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,147 likes - 150 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,126 likes - 150 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 125 | [Hex Unending \(feat\. Dan Sugarman & Ice Nine Kills\)](https://open.spotify.com/track/520YV13ulSpYYFH3PF8bu3) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Dan Sugarman](https://open.spotify.com/artist/33tcoGD8qMbSSRzi2LREmz), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hex Unending \(feat\. Dan Sugarman & Ice Nine Kills\)](https://open.spotify.com/album/0bTO5gZDrhs4BgdqZXJq8V) | 3:32 |
 | 126 | [The Carrion Fleet](https://open.spotify.com/track/5tTvAAEyf75xdoyjU5uamJ) | [Summoning the Lich](https://open.spotify.com/artist/50hQBBOvJ0XIyUmFEnCy2W) | [Under The Reviled Throne](https://open.spotify.com/album/5tSuVWooK3ZtbWRBz7pJ0p) | 3:59 |
 | 127 | [Iridescent](https://open.spotify.com/track/38guYrF0gFhiDaaWCpsAzB) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Iridescent](https://open.spotify.com/album/137nDzRsg8KyAuBg9MYDED) | 2:53 |
-| 128 | [Glimmers in the Underworld](https://open.spotify.com/track/09b99GnXKcgzQmgb6rhXsB) | [Crypt Sermon](https://open.spotify.com/artist/363ih5wuNGWBFcjeKFG8cc) | [The Stygian Rose](https://open.spotify.com/album/4ZboZxi4dwNEzhRqWIZmlI) | 8:13 |
-| 129 | [Sentenced](https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Sentenced](https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand) | 4:09 |
+| 128 | [Sentenced](https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Sentenced](https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand) | 4:09 |
+| 129 | [Glimmers in the Underworld](https://open.spotify.com/track/09b99GnXKcgzQmgb6rhXsB) | [Crypt Sermon](https://open.spotify.com/artist/363ih5wuNGWBFcjeKFG8cc) | [The Stygian Rose](https://open.spotify.com/album/4ZboZxi4dwNEzhRqWIZmlI) | 8:13 |
 | 130 | [Chief Rebel Angel](https://open.spotify.com/track/4szPYZmj6OIASA80fLsK57) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [Divided You'll Stand & United You'll Fall](https://open.spotify.com/album/0ygHMxnxuQmY8ob8WnWf7P) | 4:21 |
 | 131 | [Fly with Me](https://open.spotify.com/track/7bdMpp3VlobHOzuqSi0GWT) | [Brymir](https://open.spotify.com/artist/3YDtlBGmfvE2Xw0avhHeK5) | [Fly with Me](https://open.spotify.com/album/33VKMEjDVQiytCE8sTtkGA) | 4:51 |
 | 132 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
@@ -150,13 +150,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 140 | [On the Wings of Cosmic Fire](https://open.spotify.com/track/4MjToDaPoADzwE6QzjcAno) | [Thulcandra](https://open.spotify.com/artist/3cJkyh6iM5N2AI07hNlu1j) | [Hail the Abyss](https://open.spotify.com/album/3dGCSviVjsc466RJYlR0DI) | 4:18 |
 | 141 | [Casket](https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Casket](https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS) | 1:53 |
 | 142 | [Fire, Walk With Me](https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy) | [Mors Subita](https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8) | [Origin of Fire](https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh) | 3:20 |
-| 143 | [In Honour of the Fallen](https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK) | [Graveworm](https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX) | [Killing Innocence](https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss) | 5:50 |
-| 144 | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/track/5OK5Q6B4jgyXKIAItybyBx) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/album/7zfTJVYMmEM5CotxG7SPuf) | 4:20 |
+| 143 | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/track/5OK5Q6B4jgyXKIAItybyBx) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/album/7zfTJVYMmEM5CotxG7SPuf) | 4:20 |
+| 144 | [In Honour of the Fallen](https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK) | [Graveworm](https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX) | [Killing Innocence](https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss) | 5:50 |
 | 145 | [Death from Above](https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Death from Above](https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO) | 3:32 |
 | 146 | [Hell On Four Wheels](https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Hell On Four Wheels](https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7) | 3:39 |
-| 147 | [Awakening](https://open.spotify.com/track/0u6RMg7TrNHaLNPsVwt9mn) | [Swansong](https://open.spotify.com/artist/41o7icKIwWbg8W9i55eVeW) | [Awakening](https://open.spotify.com/album/0TFqMj4XV9sYni2jsdjZzN) | 3:57 |
+| 147 | [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 |
 | 148 | [Jailbreak](https://open.spotify.com/track/0zAMnEOY4hrzwThQuRbRiI) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Jailbreak](https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY) | 3:25 |
-| 149 | [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 |
+| 149 | [Awakening](https://open.spotify.com/track/0u6RMg7TrNHaLNPsVwt9mn) | [Swansong](https://open.spotify.com/artist/41o7icKIwWbg8W9i55eVeW) | [Awakening](https://open.spotify.com/album/0TFqMj4XV9sYni2jsdjZzN) | 3:57 |
 | 150 | [Chapter III: Nest](https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter III: Nest](https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj) | 3:43 |
 
 Snapshot ID: `AAAAAH1cfdwu0VxIidn7mHk0Xmob5/lk`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Doechii",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: NSG",
   "name": "Who We Be",
   "tracks": [
     {
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 144250,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2IBeAHumOwj6gN0Ws3QyN6"
@@ -5326,6 +5326,32 @@
       "duration_ms": 274250,
       "name": "Casablanca (feat. Morad)",
       "url": "https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213186,
+      "name": "CASAMIZZY",
+      "url": "https://open.spotify.com/track/05bOhIQdobRRRmORRAyzli"
     },
     {
       "album": {
@@ -12578,7 +12604,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 162781,
       "name": "GRIME 2.0",
       "url": "https://open.spotify.com/track/1OGK6i258hee6esLcnPeMK"
@@ -16021,6 +16047,28 @@
     },
     {
       "album": {
+        "name": "Jogodo",
+        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188861,
+      "name": "Jogodo",
+      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
+    },
+    {
+      "album": {
         "name": "Join the Team",
         "url": "https://open.spotify.com/album/6WAn5rV7h9OFCr5YpYoeGx"
       },
@@ -18548,7 +18596,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 177457,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/4xAq1L431CBEpYit2yBY48"
@@ -27455,6 +27503,24 @@
     },
     {
       "album": {
+        "name": "FEAR OF ECLIPSE",
+        "url": "https://open.spotify.com/album/7zhi64PIlLEL1O4oqRLKWz"
+      },
+      "artists": [
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122834,
+      "name": "SING4ME",
+      "url": "https://open.spotify.com/track/6XxWKbPOJGo6cwYFUvLAU3"
+    },
+    {
+      "album": {
         "name": "Single Player",
         "url": "https://open.spotify.com/album/1GneUvQfEE0xn4z2UCNjQr"
       },
@@ -34692,7 +34758,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 134333,
       "name": "Your Love Alone",
       "url": "https://open.spotify.com/track/340z5vIbttWKdm66u3XN4J"

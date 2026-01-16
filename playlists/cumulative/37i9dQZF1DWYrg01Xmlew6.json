@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Tutto \u00e8 possibile sta arrivando, Geolier in cover.",
+  "description": "Tutto \u00e8 possibile \u00e8 qua, Geolier in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -116,6 +116,24 @@
       "duration_ms": 175734,
       "name": "081",
       "url": "https://open.spotify.com/track/5EtlojWtD8y7pnoDb80JwP"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140567,
+      "name": "1H",
+      "url": "https://open.spotify.com/track/4wXXDlUk1yyATd1pUvPVdL"
     },
     {
       "album": {
@@ -544,6 +562,24 @@
       "duration_ms": 137419,
       "name": "Affiliati (feat. Rasty Kilo)",
       "url": "https://open.spotify.com/track/4icmvVTnDoMY1Vq4UrDci5"
+    },
+    {
+      "album": {
+        "name": "AFRICA TWIN",
+        "url": "https://open.spotify.com/album/7f0F8qDdirkWacMdfAYvOH"
+      },
+      "artists": [
+        {
+          "name": "Christian Liguori",
+          "url": "https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151556,
+      "name": "AFRICA TWIN",
+      "url": "https://open.spotify.com/track/39psWh1pYgu6CQcEev1qv9"
     },
     {
       "album": {
@@ -3245,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "FACIL FACIL",
+      "url": "https://open.spotify.com/track/25KIhhxpokm19ivM2CA09S"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -4230,7 +4284,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 177545,
       "name": "HEETS (feat. Geolier)",
       "url": "https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo"
@@ -4248,7 +4302,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 176000,
       "name": "HERMES",
       "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
@@ -5886,7 +5940,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 208928,
       "name": "MEA CRR (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Geolier)",
       "url": "https://open.spotify.com/track/1kgbsnrzXeTjVV9iolP8sa"
@@ -7020,7 +7074,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 173596,
       "name": "NU SUONN",
       "url": "https://open.spotify.com/track/0acALfHPyz5J9bLMzh4akk"
@@ -7496,6 +7550,28 @@
       "duration_ms": 200546,
       "name": "Odiami",
       "url": "https://open.spotify.com/track/59hMuCMWPM194Wtcz3UPmu"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185384,
+      "name": "OL\u00c8 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/0FZtlHn0k4BDCLd2s38PIU"
     },
     {
       "album": {
@@ -8138,7 +8214,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 179386,
       "name": "PER SEMPRE",
       "url": "https://open.spotify.com/track/1tIGa9fXqu3T3AikU5G8Ds"
@@ -8586,7 +8662,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 116819,
       "name": "PRASSI (FREESTYLE)",
       "url": "https://open.spotify.com/track/14LUkVHB5XXy1qaT2zSPkG"
@@ -9740,7 +9816,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 174893,
       "name": "SENZA ADDIJ",
       "url": "https://open.spotify.com/track/0AU7tqXlSiU7IlwCpMhrVG"
@@ -11434,6 +11510,24 @@
       "duration_ms": 164583,
       "name": "Un Amaro o Ti Sparo",
       "url": "https://open.spotify.com/track/4CjFxG87FemEd0Qaz4t5T4"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196681,
+      "name": "UN RICCO E UN POVERO",
+      "url": "https://open.spotify.com/track/2fqbBzhl01hcq6JRYoIo11"
     },
     {
       "album": {

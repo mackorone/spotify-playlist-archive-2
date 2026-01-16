@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-288 songs - 1 day 14 hr 58 min
+289 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Freedom chant \- Live](https://open.spotify.com/track/7bBecDvVJ3ngeIFGs1M8BG) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Chinedu Ndubueze](https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr) | [Freedom chant \(Live\)](https://open.spotify.com/album/7Gs5hlOMJxcpBeVQQAfUpm) | 6:37 | 2025-01-31 | 2025-03-07 |
 | [FRESH FIRE \- LIVE](https://open.spotify.com/track/7sDMSbBoYKZBu5BGwtJWAP) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [FRESH FIRE \(LIVE\)](https://open.spotify.com/album/1DiDnNc3mQqPu4lUDDU0gw) | 6:43 | 2024-05-31 | 2024-11-01 |
 | [Full Surrender \(Live\)](https://open.spotify.com/track/7ECm6U66LhwROK4CvqcnD2) | [Rivers Worship](https://open.spotify.com/artist/57XcYA50Fcakr6lTthQkaQ) | [Full Surrender \(Live\)](https://open.spotify.com/album/35c3pfkXamPsGb7Wdh6TuA) | 6:00 | 2025-11-07 |  |
+| [Gbope Mi \- Live](https://open.spotify.com/track/2ZHAaraotmmXc13Ir9DOVy) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Gbope Mi \(Live\)](https://open.spotify.com/album/6xAjLrGrMyXKMHfwpW880A) | 3:14 | 2026-01-16 |  |
 | [Ghana Medley \- Live](https://open.spotify.com/track/2PeUrNdSua8lFGb4CtQVV0) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Heaven's Scroll \(Live\)](https://open.spotify.com/album/0IdIW30hdyEVScUQdr4UyV) | 8:41 | 2024-06-07 | 2024-10-04 |
 | [Glory \(Live\)](https://open.spotify.com/track/0iymH5SFw2bAkOaBBoLFB2) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Glory \(Live\)](https://open.spotify.com/album/0tFBkbECWVx5PF18ZNAral) | 5:37 | 2024-11-08 | 2024-12-20 |
 | [Glory to God \(Live\)](https://open.spotify.com/track/23yCRDXfApu8gYJSZV8CkU) | [Sound Of Goshen](https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW), [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s) | [Praise and Worship \(Live\)](https://open.spotify.com/album/6Gwwh8hPZKpX2wKyNLdW5C) | 20:30 | 2025-11-14 |  |
@@ -132,7 +133,7 @@
 | [Jehovah 'Meliwo \(feat\. 121 Selah\) \- Live](https://open.spotify.com/track/0WWIMPvI6lvaAVRUf2N2lO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(feat\. 121 Selah\) \[Live\]](https://open.spotify.com/album/7KTg30fPTIjgdlMlWPens6) | 4:59 | 2024-02-23 | 2024-04-19 |
 | [Jehovah 'Meliwo \- Live](https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(Live\)](https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u) | 4:59 | 2024-02-23 |  |
 | [Jehovah Is Your Name \- Live](https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/6p0LBheyF3ZI3W03CSuUsY) | 7:38 | 2024-02-23 |  |
-| [Jesus Revealed \(Healing Wings Anthem\)](https://open.spotify.com/track/1K2U4sg92rbEekbwTBAUqA) | [Petra Odubayo](https://open.spotify.com/artist/1sL3aemHcqUxh1UIrGkYIA) | [Jesus Revealed \(Healing Wings Anthem\)](https://open.spotify.com/album/2CcN91shjaQq5uMzZ0ng0Q) | 7:39 | 2025-11-28 |  |
+| [Jesus Revealed \(Healing Wings Anthem\)](https://open.spotify.com/track/1K2U4sg92rbEekbwTBAUqA) | [Petra Odubayo](https://open.spotify.com/artist/1sL3aemHcqUxh1UIrGkYIA) | [Jesus Revealed \(Healing Wings Anthem\)](https://open.spotify.com/album/2CcN91shjaQq5uMzZ0ng0Q) | 7:39 | 2025-11-28 | 2026-01-16 |
 | [Jesus You Reign \- Live](https://open.spotify.com/track/4icG1gAvu1wOOxrkwTIXLJ) | [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Jesus You Reign \(Live\)](https://open.spotify.com/album/4JgJzuN9fvlR8LGHoiVIsl) | 8:42 | 2024-12-06 | 2025-02-14 |
 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 | 2024-03-08 |  |
 | [JHN316](https://open.spotify.com/track/3MNFGuFL8Cc0W0XwevAefv) | [Chinedu Ndubueze](https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr) | [JHN316](https://open.spotify.com/album/2XwngzvHJkBIbSdKvwq6Je) | 9:52 | 2025-03-07 | 2025-04-25 |

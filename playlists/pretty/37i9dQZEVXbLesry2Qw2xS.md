@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLesry2Qw2xS.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,671 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,674 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLesry2Qw2xS.md) - [plain]
 | 37 | [ulakas kaunitar](https://open.spotify.com/track/0jcJEcK0eX5acLVU1VYmbd) | [triibupasta](https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL), [Maiduk](https://open.spotify.com/artist/2RYvGHgapA1c9dUXaHd8KY) | [õlleavaja](https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K) | 2:55 |
 | 38 | [Nälg](https://open.spotify.com/track/2pCih9J1SLfoYF8KyWKqdE) | [SADU](https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K) | [PROBLEEMID PARADIISIS](https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH) | 2:50 |
 | 39 | [Ebapopulaarne](https://open.spotify.com/track/4nnBWEm9NoFOxYl453b2XJ) | [Kermo Murel](https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf) | [Ebapopulaarne](https://open.spotify.com/album/0gCaW7dl3Gey7RRncwn4a3) | 2:40 |
-| 40 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It up to Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
+| 40 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Only Hits](https://open.spotify.com/album/4LqKKEC8ghEvbMW2xcs4eZ) | 4:03 |
 | 41 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
 | 42 | [parasiit](https://open.spotify.com/track/2qW8hfxkbyrDYowSKMCMMv) | [ALIKA](https://open.spotify.com/artist/0k7PxyzK6aIWSzmC3522c4), [säm](https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X) | [parasiit](https://open.spotify.com/album/3RLYPVVEoZ6tOH5x38mZJp) | 3:22 |
 | 43 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 |
 | 44 | [Igavuse teisel pool](https://open.spotify.com/track/19UjxZfTUUPTBTvADICXKw) | [SADU](https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K) | [PROBLEEMID PARADIISIS](https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH) | 3:36 |
 | 45 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
-| 46 | [Helicopter](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Helicopter](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
+| 46 | [HELICOPTER](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HELICOPTER](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 |
 | 47 | [TIPUS ULUB TUUL](https://open.spotify.com/track/0DGsLP0TvRcU23zCme7zR2) | [nublu](https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i), [Vaiko Eplik](https://open.spotify.com/artist/4bUkC2pVAl1Hk0uXok7W1t) | [SUPERSUURE HOOLEGA.](https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm) | 2:48 |
 | 48 | [push it](https://open.spotify.com/track/7AleqJvqrVBeQitkWntUUc) | [nublu](https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i), [maria kallastu](https://open.spotify.com/artist/6kSiYWWt4597uZNH0Cpjig) | [push it](https://open.spotify.com/album/5z8qzmFPXBk5GhBCiJOTJJ) | 2:44 |
 | 49 | [6llekas](https://open.spotify.com/track/42L8fRwgmWXnNcq1R5QsJr) | [triibupasta](https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL) | [6llekas](https://open.spotify.com/album/766nukWzL7P7uayNpEtrXb) | 3:46 |
 | 50 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

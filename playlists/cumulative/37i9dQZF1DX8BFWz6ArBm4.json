@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Panos Kiamos",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Elli Kokkinou, Foivos",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Apo Pou Ki Os Pou",
+        "url": "https://open.spotify.com/album/2RyuTWc8oJZTNVBSMZrHEH"
+      },
+      "artists": [
+        {
+          "name": "Elli Kokkinou",
+          "url": "https://open.spotify.com/artist/3dHMnH9LXTSuhfdcWfjnoc"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250309,
+      "name": "Apo Pou Ki Os Pou",
+      "url": "https://open.spotify.com/track/1n515DffsN53KfmP0SFDIB"
+    },
+    {
+      "album": {
         "name": "Kalispera (Aroma Elladas Edition)",
         "url": "https://open.spotify.com/album/47rB6fuVlzNXXfEjC8vYws"
       },
@@ -596,7 +618,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 202615,
       "name": "De Ginetai",
       "url": "https://open.spotify.com/track/0qE3a0JDePYhl0ml3Dy1oe"
@@ -676,7 +698,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 207435,
       "name": "Den Metaniono",
       "url": "https://open.spotify.com/track/5ThCCpyyb7k6DHGJXEO9cL"
@@ -912,7 +934,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 195028,
       "name": "Einai Kria Ta Sentonia",
       "url": "https://open.spotify.com/track/3D0pNw2YlNzOFBurCcuMny"
@@ -2149,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Matia Mou",
+        "url": "https://open.spotify.com/album/0Np3xakjySsq2L133xPFFo"
+      },
+      "artists": [
+        {
+          "name": "Ilias Vrettos",
+          "url": "https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231480,
+      "name": "Matia Mou",
+      "url": "https://open.spotify.com/track/3cTnyjyZpo93SfoO4RAA6v"
+    },
+    {
+      "album": {
         "name": "Mavra Matia",
         "url": "https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z"
       },
@@ -2266,7 +2306,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 210007,
       "name": "Me Sighorite",
       "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
@@ -2584,7 +2624,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 198444,
       "name": "Nero - Live Edition",
       "url": "https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds"
@@ -3036,7 +3076,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 228835,
       "name": "Perifanos Aetos",
       "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
@@ -4074,7 +4114,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 251308,
       "name": "Thalassografia",
       "url": "https://open.spotify.com/track/0PfaNcbiGZHzadkKGdetYg"
@@ -4324,7 +4364,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 207556,
       "name": "To Vale",
       "url": "https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP"

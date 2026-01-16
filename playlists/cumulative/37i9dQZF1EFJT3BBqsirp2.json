@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201422,
+      "name": "Glamorous",
+      "url": "https://open.spotify.com/track/21phwdMQD03XnSLUD9MRBg"
+    },
+    {
+      "album": {
         "name": "The Kick",
         "url": "https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n"
       },
@@ -594,6 +612,24 @@
       "duration_ms": 145773,
       "name": "HARDPAIN",
       "url": "https://open.spotify.com/track/1Ak6Bwm8W0v83SGEKziaKY"
+    },
+    {
+      "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189131,
+      "name": "Heart Sing",
+      "url": "https://open.spotify.com/track/4t7DKJPtzK0ZbQ9xdZNvcO"
     },
     {
       "album": {
@@ -1330,7 +1366,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"

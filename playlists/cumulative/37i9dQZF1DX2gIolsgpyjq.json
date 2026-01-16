@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: MASAKA",
+  "description": "The best new music by independent artists in the Nordics. Cover: AGGi",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 163000,
       "name": "Baddiez",
       "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
@@ -3140,7 +3140,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 213250,
       "name": "Bully",
       "url": "https://open.spotify.com/track/7hhofXZVulCPtTtDH27e0o"
@@ -4806,7 +4806,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 137250,
       "name": "Crazy Young And Wild",
       "url": "https://open.spotify.com/track/66WdoaGA1GG3WCosRL8riO"
@@ -5948,7 +5948,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 161053,
       "name": "dollar signs",
       "url": "https://open.spotify.com/track/3g6PIFCw7VYqNmEVjvFMpT"
@@ -7074,7 +7074,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 158400,
       "name": "EVERYTHING AT ONCE",
       "url": "https://open.spotify.com/track/7M9xRZm1gXwgkdKJLpaQ13"
@@ -7942,6 +7942,24 @@
       "duration_ms": 184000,
       "name": "FIRST LIFE",
       "url": "https://open.spotify.com/track/0ISQvLUSmLaX77cIzRsW6y"
+    },
+    {
+      "album": {
+        "name": "First To Know",
+        "url": "https://open.spotify.com/album/4ta7caZ5JfIn5x5tCkR1ce"
+      },
+      "artists": [
+        {
+          "name": "sweepy",
+          "url": "https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "First To Know",
+      "url": "https://open.spotify.com/track/6QBWnljtxE8vJuthDS8vNH"
     },
     {
       "album": {
@@ -9182,7 +9200,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 207428,
       "name": "go to hell",
       "url": "https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r"
@@ -10327,6 +10345,24 @@
     },
     {
       "album": {
+        "name": "Hey Boy",
+        "url": "https://open.spotify.com/album/5mQYfAy3DFCBXPePlzxQ7F"
+      },
+      "artists": [
+        {
+          "name": "AGGi",
+          "url": "https://open.spotify.com/artist/1Vd4zITUpdG9sIb2no0e9c"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166494,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/52l4xFsgK4TQIk0xjrXnwe"
+    },
+    {
+      "album": {
         "name": "Hey Little Love",
         "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
       },
@@ -11417,6 +11453,24 @@
     },
     {
       "album": {
+        "name": "I Need To Sleep",
+        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179731,
+      "name": "I Need To Sleep",
+      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
+    },
+    {
+      "album": {
         "name": "I Never Gave Up",
         "url": "https://open.spotify.com/album/7LNYV8uoNicDaBb8gUmHT0"
       },
@@ -11554,7 +11608,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 168515,
       "name": "I Want Back The Money",
       "url": "https://open.spotify.com/track/07XFxGlZCPgmFhKH7v9dwq"
@@ -12114,7 +12168,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 180808,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
@@ -12446,6 +12500,24 @@
       "duration_ms": 162612,
       "name": "infected",
       "url": "https://open.spotify.com/track/1xeZcisQssuBnwZzH78EYn"
+    },
+    {
+      "album": {
+        "name": "Infected mind",
+        "url": "https://open.spotify.com/album/6HgyCeU7CMl8osCmd7pGX2"
+      },
+      "artists": [
+        {
+          "name": "RIVER",
+          "url": "https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205963,
+      "name": "Infected mind",
+      "url": "https://open.spotify.com/track/5OO93UhmqN2UFKsYE7ERdo"
     },
     {
       "album": {
@@ -14768,7 +14840,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 131784,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/1CKjiDpIV5bfe17m1ePp2x"
@@ -14898,6 +14970,24 @@
       "duration_ms": 175928,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/60kMTxFUxC7jbbBE3OQ8bK"
+    },
+    {
+      "album": {
+        "name": "LOVER GIRL",
+        "url": "https://open.spotify.com/album/7wmfrdVbM8gxO77gvvwLGi"
+      },
+      "artists": [
+        {
+          "name": "Sara Kurt",
+          "url": "https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132301,
+      "name": "LOVER GIRL",
+      "url": "https://open.spotify.com/track/2F4BM8L2pmbukd90ASLP8N"
     },
     {
       "album": {
@@ -15094,6 +15184,24 @@
       "duration_ms": 152500,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/0QXGgPqYuONre4dq860mwz"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Florian Hope",
+          "url": "https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154061,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/4Hbw9v9FzmpEG2lsEkNePw"
     },
     {
       "album": {
@@ -15929,6 +16037,24 @@
     },
     {
       "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/7yu5BR8fzZ7i0zsGxNxFhq"
+      },
+      "artists": [
+        {
+          "name": "sk\u00f8ien",
+          "url": "https://open.spotify.com/artist/0nLcBTkyWqwEsUJB2Xnw6y"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149558,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/6yHRGd0A1mF3tys6GNTlnD"
+    },
+    {
+      "album": {
         "name": "Money (That's What I Want)",
         "url": "https://open.spotify.com/album/6ilTRkJQwS8wrKA2HYxCT1"
       },
@@ -16092,7 +16218,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 257311,
       "name": "mountain eagle",
       "url": "https://open.spotify.com/track/2hgpE2qRsFAL6W57rPPDMf"
@@ -16338,6 +16464,24 @@
       "duration_ms": 211428,
       "name": "National Heartbreak",
       "url": "https://open.spotify.com/track/6W1Iqfesgf1HAPmHfI6VJV"
+    },
+    {
+      "album": {
+        "name": "Need You To Need Me",
+        "url": "https://open.spotify.com/album/5fNlXJlkwbk49mcvMRlDnn"
+      },
+      "artists": [
+        {
+          "name": "Those Without",
+          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221688,
+      "name": "Need You To Need Me",
+      "url": "https://open.spotify.com/track/0lC23qVHWy9mcotinVldmu"
     },
     {
       "album": {
@@ -18936,7 +19080,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 166785,
       "name": "Play n Repeat",
       "url": "https://open.spotify.com/track/3SfZm17PVsua5tI5LQNimt"
@@ -23037,6 +23181,24 @@
     },
     {
       "album": {
+        "name": "Half Decade Addiction",
+        "url": "https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP"
+      },
+      "artists": [
+        {
+          "name": "RABO",
+          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273760,
+      "name": "Stuck In November",
+      "url": "https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C"
+    },
+    {
+      "album": {
         "name": "Stuck On Us",
         "url": "https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD"
       },
@@ -24864,7 +25026,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 154199,
       "name": "To Myself",
       "url": "https://open.spotify.com/track/4vMiSFEGmwOCeemWn30jkS"
@@ -25566,6 +25728,24 @@
       "duration_ms": 315737,
       "name": "Underwater Station (Safer)",
       "url": "https://open.spotify.com/track/6NLgA7ndnmuXHQdUWTLo9x"
+    },
+    {
+      "album": {
+        "name": "Untangling",
+        "url": "https://open.spotify.com/album/3NIoEPYNraduzuqJ6Ynhcl"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Bangfield",
+          "url": "https://open.spotify.com/artist/1xPMsPZNvSHAhw5wzYApho"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Untangling",
+      "url": "https://open.spotify.com/track/77hS4ySY9c5Hr2rLZ0JLKf"
     },
     {
       "album": {
@@ -27285,6 +27465,24 @@
     },
     {
       "album": {
+        "name": "Won't Be Me",
+        "url": "https://open.spotify.com/album/5XYyBiglieh4aWPzD42yhW"
+      },
+      "artists": [
+        {
+          "name": "Emily Bowen",
+          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167065,
+      "name": "Won't Be Me",
+      "url": "https://open.spotify.com/track/3284BEXIhvZaoczL30GfPr"
+    },
+    {
+      "album": {
         "name": "Work It Out",
         "url": "https://open.spotify.com/album/2QemH2gR2VLTE6C2yVt3Rl"
       },
@@ -27372,7 +27570,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 198442,
       "name": "wurl",
       "url": "https://open.spotify.com/track/2lEv1yBUG8BcT4s1xKD237"

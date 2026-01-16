@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,128 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,129 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 | 49 | [Late Mi Nombre En Tu Piel](https://open.spotify.com/track/1by2nui77V92VcqSOrVbzA) | [JERRY'S SOUND ROOM](https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH) | [Late Mi Nombre En Tu Piel](https://open.spotify.com/album/1o4apB2S367xOmUYzpESKr) | 3:47 |
 | 50 | [No Me Sofoco](https://open.spotify.com/track/3X0JPpWypjuxQA9Aqg481j) | [4AMTapes](https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh) | [No Me Sofoco](https://open.spotify.com/album/5jhwSbP9as9I3ZnqayXHuW) | 4:29 |
 
-Snapshot ID: `MPvJKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MPxMaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

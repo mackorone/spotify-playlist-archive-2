@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "My Heart Cries",
+        "url": "https://open.spotify.com/album/1x3qLHVC4DHBV8j6kRddVM"
+      },
+      "artists": [
+        {
+          "name": "Tex Beneke",
+          "url": "https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115680,
+      "name": "A Wonderful Guy",
+      "url": "https://open.spotify.com/track/0wAtFj61WZQpKX3g79eyT2"
+    },
+    {
+      "album": {
         "name": "Presenting Tex Beneke",
         "url": "https://open.spotify.com/album/24Q0GW9ZHl8CZNLPFbOlYU"
       },
@@ -310,7 +328,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-16",
       "duration_ms": 115696,
       "name": "A Wonderful Guy",
       "url": "https://open.spotify.com/track/7DKjnQH7yeCUPXX88Hh12p"

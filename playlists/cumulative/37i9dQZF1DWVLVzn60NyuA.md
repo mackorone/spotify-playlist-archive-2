@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-560 songs - 1 day 5 hr 23 min
+561 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-05-18 | 2025-02-23 |
 | [911](https://open.spotify.com/track/5jFQM82pmdJSBHGnlhL8as) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [911](https://open.spotify.com/album/4UKWh8YBQqktuX1HArlnwq) | 3:13 | 2021-12-16 | 2022-01-26 |
 | [911](https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Lafropop](https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB) | [911](https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3) | 2:49 | 2023-04-12 | 2024-04-19 |
-| [A Toro Pasao](https://open.spotify.com/track/2DQeFpkjR3hmkUxK7LVEWe) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [A Toro Pasao](https://open.spotify.com/album/3vkguHKm1kGA5CryAk48bi) | 3:24 | 2025-10-16 |  |
+| [A Toro Pasao](https://open.spotify.com/track/2DQeFpkjR3hmkUxK7LVEWe) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [A Toro Pasao](https://open.spotify.com/album/3vkguHKm1kGA5CryAk48bi) | 3:24 | 2025-10-16 | 2026-01-16 |
 | [Abena](https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:04 | 2021-12-16 | 2023-03-09 |
 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-03-23 | 2024-03-29 |
 | [Activate](https://open.spotify.com/track/0aHV99VipGqb8uwnMTxbYh) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91) | [Activate](https://open.spotify.com/album/0tQ3jHEuVyNat7bmECwY4d) | 3:10 | 2021-12-28 | 2022-07-20 |
@@ -55,6 +55,7 @@
 | [Baila](https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:25 | 2022-07-18 |  |
 | [Baila Kumi](https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Baila Kumi](https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav) | 3:26 | 2021-12-28 | 2024-03-14 |
 | [Bailando en la Lluvia](https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Bailando en la Lluvia](https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk) | 2:53 | 2024-10-03 | 2025-02-20 |
+| [Basshall Party](https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Basshall Party](https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY) | 2:03 | 2026-01-15 |  |
 | [Batty Rider Shorts](https://open.spotify.com/track/0umOVszFJr1XMGBXK1i4xK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Batty Rider Shorts](https://open.spotify.com/album/3Wgc0ssm8QiWJ8UecTW8ex) | 3:19 | 2021-12-16 | 2022-02-24 |
 | [Been Calling](https://open.spotify.com/track/6alXWmBKxLoRFxCQAUZGks) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Been Calling](https://open.spotify.com/album/18Z9euZ6BhWEq5ivZgk17U) | 3:16 | 2021-12-16 | 2023-04-07 |
 | [before](https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG) | [iluminada](https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr) | 2:55 | 2022-07-28 | 2024-04-19 |

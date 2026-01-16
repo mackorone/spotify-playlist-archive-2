@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s favorite music of 2025\. Includes Summer 2024 and bonus tracks.
 
-5,631 songs - 13 day 2 hr 48 min
+5,632 songs - 13 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2641,6 +2641,7 @@
 | [KRIBZ](https://open.spotify.com/track/6BcWxkpZHe1v0u4yIBfst7) | [AP x FOCUS](https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5) | [KRIBZ](https://open.spotify.com/album/3DjkFiqKmg9USDb55PsNK7) | 2:38 | 2024-06-23 | 2024-07-05 |
 | [Kryptonite](https://open.spotify.com/track/4SMRDMuAUCbgX3LSBPLsx8) | [Prohaize](https://open.spotify.com/artist/71s3h1fzqdwLZ5drtELLgp), [H3NRY](https://open.spotify.com/artist/4qTkUisEVy6GGP2BDhJfWi) | [Kryptonite](https://open.spotify.com/album/3948v6qzUcbQUVqto931jJ) | 2:26 | 2020-10-17 | 2020-11-03 |
 | [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:04 | 2021-07-12 | 2021-11-19 |
+| [Kyrie](https://open.spotify.com/track/3xcaV5z2wFVw6Edrlz7a9u) | [Classified Frequency](https://open.spotify.com/artist/5EtpMrUjqENjKl8lSCbC92) | [Kyrie](https://open.spotify.com/album/6FBs2Sumr0WmCANwErcIoS) | 3:52 | 2026-01-16 |  |
 | [kömak bashi](https://open.spotify.com/track/1iqIF7GxDOfBB5t4oI8Ozw) | [5urati](https://open.spotify.com/artist/6J7Awu6ho0iwisvF9sUQBR), [Ashley Zarah](https://open.spotify.com/artist/7zx2lEBvJVxPcD4INOgloz) | [kömak bashi](https://open.spotify.com/album/0rzseyyxzgjOfhgD9uNgVP) | 2:43 | 2022-04-29 | 2025-01-19 |
 | [L'Anse D'Argent](https://open.spotify.com/track/2rIm4k3zVS3dVzhINPxYtw) | [Gold Lounge](https://open.spotify.com/artist/7F8pI89hM1a5tVQBLwZPVJ), [Sine](https://open.spotify.com/artist/5R1ovoPm5UcRJXRdyacN13) | [L'Anse D'Argent](https://open.spotify.com/album/1Rl59fG7ssncIeSQ9lDTGd) | 4:05 | 2024-03-22 | 2024-04-05 |
 | [L'HYMME NATIONAL \#2](https://open.spotify.com/track/6sQtn1uf82cvY4HmauofVk) | [Vane Carter](https://open.spotify.com/artist/2U7rEU74rnndJeanBvrb96) | [L'HYMME NATIONAL \#2](https://open.spotify.com/album/5mlBDMifDTgsJbFkQd6zlP) | 3:59 | 2025-02-12 | 2025-02-25 |
