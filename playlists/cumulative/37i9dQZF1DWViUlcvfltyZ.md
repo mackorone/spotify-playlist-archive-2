@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 SI! BOOM! VOILÀ! in cover
 
-1,809 songs - 4 day 4 hr 42 min
+1,810 songs - 4 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,7 +761,7 @@
 | [Il vento](https://open.spotify.com/track/6vO8miBm2egYQXiDcsJshV) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Sale \(Elas\)](https://open.spotify.com/album/1mZdqKhXnngN363k2kXdA0) | 2:46 | 2022-11-03 | 2022-12-24 |
 | [Imma Stunt](https://open.spotify.com/track/1KrXZYgqTmmVGwgX2TNi48) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/7ct6sqL49mXsqcGZftcKnn) | 2:11 | 2023-12-01 | 2024-03-15 |
 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 | 2022-05-12 | 2022-07-08 |
-| [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [](https://open.spotify.com/album/null) | 4:16 | 2026-01-15 |  |
+| [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Dementia](https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw) | 4:16 | 2026-01-15 |  |
 | [Immagine](https://open.spotify.com/track/2nbrPkNUQ3VrWCGoo34Frv) | [Meant](https://open.spotify.com/artist/5Uy6aBtXxNvO0Zx0pbB6Fy) | [Meant](https://open.spotify.com/album/7FtZO40LmPeerFvqlndi06) | 1:42 | 2024-09-12 | 2024-10-25 |
 | [Immortals](https://open.spotify.com/track/4d3a5WyZhMsqojMU0MHJ3k) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Immortals](https://open.spotify.com/album/2vrXlMSOiUhVHnKqcUuHCD) | 2:53 | 2025-01-30 | 2025-03-28 |
 | [Impareremo a perdere](https://open.spotify.com/track/7zFUNZMsqLMYgX5M43D5OT) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Impareremo a perdere](https://open.spotify.com/album/3cCoAJyQ5vtSy1qDowM0f4) | 3:48 | 2025-09-25 | 2026-01-16 |
@@ -1607,6 +1607,7 @@
 | [The Wolf](https://open.spotify.com/track/3RlTCt2Uy4NI3pF0VbcwsZ) | [The Peawees](https://open.spotify.com/artist/4VBH5wOuG96Gx97VGJh16p) | [The Wolf](https://open.spotify.com/album/2WVizNmQ8s1AivARddLZkm) | 3:36 | 2024-04-11 | 2024-05-10 |
 | [These waves are lava](https://open.spotify.com/track/331np5jAf8H3zgXCuZhStX) | [Packers](https://open.spotify.com/artist/6qLVcqEgz0XnB2tKhIkGJh) | [Summer Nights Secrets](https://open.spotify.com/album/3wJ9zymkSJwcPLoFLx67Iu) | 2:50 | 2025-04-17 | 2025-05-16 |
 | [Thin Ice](https://open.spotify.com/track/4EJhnSQtPRUN5cUzaSA0ZH) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u) | 2:32 | 2022-10-13 | 2022-12-02 |
+| [Thunder](https://open.spotify.com/track/5JAep5rCtwuk3LjYfKMCdX) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [Thunder](https://open.spotify.com/album/5agN1ThYCdAW5PKIWCK8xx) | 3:40 | 2026-01-15 |  |
 | [Ti](https://open.spotify.com/track/6lDYy8RvL0zcVWsJ14OZ66) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [Ti](https://open.spotify.com/album/7uNyNaDnyWTVDecJXhBKKp) | 3:34 | 2025-05-22 | 2025-07-04 |
 | [Ti Amerei](https://open.spotify.com/track/09EeLpRYDS8Qxk5Q7mOa1A) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Serole](https://open.spotify.com/album/4WrXBdup2TcNuo7eOLWGFG) | 3:25 | 2024-01-16 | 2024-05-03 |
 | [ti amo](https://open.spotify.com/track/6DcjeQjrg5zhGxiIZJsVbK) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [ti amo](https://open.spotify.com/album/0Xh1rWxeQHKFkpi7MrJdps) | 2:18 | 2024-11-14 | 2025-01-31 |

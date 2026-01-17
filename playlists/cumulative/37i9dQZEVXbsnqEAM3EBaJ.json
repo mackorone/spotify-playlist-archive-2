@@ -4451,6 +4451,24 @@
     },
     {
       "album": {
+        "name": "Charlie The Wonderdog (Original Songs from the Motion Picture)",
+        "url": "https://open.spotify.com/album/377uHBrhHsJU4XsGagTrs3"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177015,
+      "name": "Anything Is Possible",
+      "url": "https://open.spotify.com/track/1Ur3VwP8QqqDpA5fHQREPd"
+    },
+    {
+      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY"
       },
@@ -6232,6 +6250,28 @@
       "duration_ms": 238363,
       "name": "Becoming the Bull - Reimagined",
       "url": "https://open.spotify.com/track/6XoxNa6G8rsbj2W2lxBAFZ"
+    },
+    {
+      "album": {
+        "name": "Bedroom Posters (feat. Good Charlotte)",
+        "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218635,
+      "name": "Bedroom Posters (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
     },
     {
       "album": {
@@ -9546,6 +9586,28 @@
       "duration_ms": 214400,
       "name": "Chains",
       "url": "https://open.spotify.com/track/6IRhFIVo71T4Oe7BbPLtSX"
+    },
+    {
+      "album": {
+        "name": "The Great Nothing",
+        "url": "https://open.spotify.com/album/1qWJhQklBKHJWrtkR0CA4S"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66230,
+      "name": "Chamber of the Departed",
+      "url": "https://open.spotify.com/track/39A1mYvPC5U9bCtLQkC12m"
     },
     {
       "album": {
@@ -16818,7 +16880,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 167663,
       "name": "Esto Es El Campo",
       "url": "https://open.spotify.com/track/53m9KsBzgo5FeHWfXVAnHI"
@@ -26897,6 +26959,24 @@
     },
     {
       "album": {
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/5SVfHoZLhj58lAJzl2iD9g"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214723,
+      "name": "Into Oblivion",
+      "url": "https://open.spotify.com/track/0bUxpdWMazVZv1f7TSNSCW"
+    },
+    {
+      "album": {
         "name": "Into the Abyss",
         "url": "https://open.spotify.com/album/69fNGvNsEPvOxmHOLhNH1t"
       },
@@ -30875,6 +30955,24 @@
     },
     {
       "album": {
+        "name": "Set The Dark On Fire",
+        "url": "https://open.spotify.com/album/19rLunxMgSHBPOs2ydLZut"
+      },
+      "artists": [
+        {
+          "name": "Edenbridge",
+          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331053,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/19KU4MnUg3X2DEDTuwgxUV"
+    },
+    {
+      "album": {
         "name": "Lights Out Chicago 1980 (Live)",
         "url": "https://open.spotify.com/album/3vjRpY5cqVx27EpetHfr53"
       },
@@ -31790,6 +31888,28 @@
       "duration_ms": 259812,
       "name": "Loose Ends - Live at Continental Airlines Arena, E. Rutherford, NJ - 7/18/1999",
       "url": "https://open.spotify.com/track/1DwjL5CZ8XNTGQg6rhozcJ"
+    },
+    {
+      "album": {
+        "name": "Los Hermanos",
+        "url": "https://open.spotify.com/album/2SMv8PtmP4VqErZPAozrdQ"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214128,
+      "name": "Los Hermanos",
+      "url": "https://open.spotify.com/track/7fhFwAQ4QFph4AXpPLdP6w"
     },
     {
       "album": {
@@ -38501,6 +38621,36 @@
     },
     {
       "album": {
+        "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+        "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208461,
+      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
+    },
+    {
+      "album": {
         "name": "VSQ Performs the Hits of 2025, Vol. 1",
         "url": "https://open.spotify.com/album/6zVzIXdCpItzGUetIXfsPW"
       },
@@ -40168,6 +40318,24 @@
       "duration_ms": 194775,
       "name": "Play Dead",
       "url": "https://open.spotify.com/track/11CCwCjixBQpz4I1pFBjfP"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229322,
+      "name": "Play The Old Shit",
+      "url": "https://open.spotify.com/track/5APFyddMz5a4EGXvtEQVAc"
     },
     {
       "album": {
@@ -47874,7 +48042,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 65980,
       "name": "Souls from the Grave",
       "url": "https://open.spotify.com/track/1YEMVtYGrGrHvsjaNC9ZVv"

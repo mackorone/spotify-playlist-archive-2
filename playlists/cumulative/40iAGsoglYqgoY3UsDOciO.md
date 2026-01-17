@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-458 songs - 22 hr 16 min
+459 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Ease My Mind Freestyle](https://open.spotify.com/track/0RCxGB0gXn1BFZ081rVP7x) | [Izzy TheAdvocate](https://open.spotify.com/artist/5P6MjFxBijXHcGl11wnF6F) | [Ease My Mind Freestyle](https://open.spotify.com/album/3C0YNx86ocDRyyaDB6YvOF) | 3:27 | 2024-06-11 |  |
 | [either way](https://open.spotify.com/track/73SKX93vHGwQN9KNPPgcCT) | [Eva Grace](https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr) | [either way](https://open.spotify.com/album/1F3o5qgFehteE0HWY4NN3m) | 2:17 | 2023-07-26 |  |
 | [El Vicio](https://open.spotify.com/track/2B8XEfSBMsiKgMBt69sWOH) | [AKA HANIBALL](https://open.spotify.com/artist/0gVWDUIPSAfkROnMSMhZOv) | [EL POLVADERON](https://open.spotify.com/album/5i0qpGWLJDZmEK8A7rT72e) | 3:30 | 2024-07-16 |  |
+| [Empire](https://open.spotify.com/track/6mjUMGvDzZKmowEHEab8v2) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Empire](https://open.spotify.com/album/37GecuXJd0Q9FDpl2KZjUa) | 2:55 | 2026-01-16 |  |
 | [empty.](https://open.spotify.com/track/6X7Hrtlz6Mm8l4Z0eAK38v) | [Sam AVRY](https://open.spotify.com/artist/3kTdHg7Bzg1cCnuI8XPBgT) | [empty.](https://open.spotify.com/album/5zBW2qA58BwrKo6CBao10E) | 2:28 | 2024-07-17 |  |
 | [Enemies](https://open.spotify.com/track/0C1ltimDyEaVszGbdgA690) | [Yung Skelli](https://open.spotify.com/artist/0GJLYzJ8XOP2fT2ippTa1h) | [Enemies](https://open.spotify.com/album/4Kp0hwbcj1b4ftQdKXZevb) | 2:04 | 2024-07-21 |  |
 | [Ephemeral](https://open.spotify.com/track/5kj66G8R0qD0wWtFBttiXG) | [Markeq](https://open.spotify.com/artist/6w0JFZFstrYbJzT9O2Lryg) | [Ephemeral](https://open.spotify.com/album/52HPGZJ6YvCTiNk9GLCSPl) | 2:15 | 2024-07-09 |  |

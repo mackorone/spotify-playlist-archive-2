@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAflPA4X22umWIkxrmAgMojQPvJawZK",
+  "snapshot_id": "AAAflShrP802+LN3yWbTCmEuaPLyXF/G",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -8211,6 +8211,26 @@
       "duration_ms": 229106,
       "name": "What We Do",
       "url": "https://open.spotify.com/track/5kDkWHFx0AEvJ1Pfm2i0ac"
+    },
+    {
+      "added_at": "2026-01-16 16:23:19",
+      "album": {
+        "name": "Don't Quit Your Day Job",
+        "url": "https://open.spotify.com/album/37dKTmpuFAV0n0A5THoliS"
+      },
+      "artists": [
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 251906,
+      "name": "The Good, The Bad, The Ugly (feat. Kanye West) - Explicit Album Version",
+      "url": "https://open.spotify.com/track/52uU5uNt9lOstGCc6C7QEJ"
     }
   ],
   "unique_name": "main ",

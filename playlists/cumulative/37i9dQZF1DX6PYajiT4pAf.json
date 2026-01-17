@@ -3609,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224279,
+      "name": "AIR FORCE (BLACK DEMARCO)",
+      "url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
+    },
+    {
+      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/6yqNx1ROZUgdP3YeLj028W"
       },
@@ -25028,6 +25046,10 @@
           "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
         },
         {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        },
+        {
           "name": "Willy William",
           "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
         },
@@ -25038,10 +25060,6 @@
         {
           "name": "Jombriel",
           "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
-        },
-        {
-          "name": "Kate Linn",
-          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
         }
       ],
       "date_added": "2026-01-15",
@@ -35497,8 +35515,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Volando",
+        "url": "https://open.spotify.com/album/25r6TO25iGW3lOhEix5sVi"
       },
       "artists": [
         {
@@ -52269,8 +52287,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/61Pzajp2zp71SqsK3Ve4wg"
       },
       "artists": [
         {
@@ -52879,8 +52897,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ZENIT",
+        "url": "https://open.spotify.com/album/77eRU1NtrMOfwOC0DmsG41"
       },
       "artists": [
         {
@@ -55149,8 +55167,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "El D\u00eda que me Olvides",
+        "url": "https://open.spotify.com/album/5dr5f9aeHuDORZXkJIQWGB"
       },
       "artists": [
         {
@@ -84816,6 +84834,24 @@
       "duration_ms": 218000,
       "name": "Walking",
       "url": "https://open.spotify.com/track/3t7Mv4p7c4S7gXFxFJa7lp"
+    },
+    {
+      "album": {
+        "name": "Wall of Sound",
+        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "Wall of Sound",
+      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
     },
     {
       "album": {

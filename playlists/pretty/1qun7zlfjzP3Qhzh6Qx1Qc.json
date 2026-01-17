@@ -1,12 +1,12 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.",
-  "num_followers": 34024,
+  "num_followers": 34016,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAANnhTZBRKMAaS0qos/7JAQJmkKR46h",
+  "snapshot_id": "AAANoyHd1CiEZdE+Iim4qFt6vTmRf5DX",
   "tracks": [
     {
       "added_at": "2026-01-09 15:25:54",
@@ -1675,6 +1675,86 @@
       "duration_ms": 232718,
       "name": "Safe Place To Break",
       "url": "https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA"
+    },
+    {
+      "added_at": "2026-01-16 21:04:51",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/4sDwA8aZsjRN9gSotJQwYa"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 229420,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/6ryklsC1VIlTSV7QtWh24G"
+    },
+    {
+      "added_at": "2026-01-16 21:07:03",
+      "album": {
+        "name": "Wish I Didn't",
+        "url": "https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 209479,
+      "name": "Wish I Didn't",
+      "url": "https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB"
+    },
+    {
+      "added_at": "2026-01-16 21:09:02",
+      "album": {
+        "name": "Message to You",
+        "url": "https://open.spotify.com/album/7ki0RbD7gen6uL67N6Baqo"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 217422,
+      "name": "Message to You",
+      "url": "https://open.spotify.com/track/00asEdGggYrPYfLbDRI6HE"
+    },
+    {
+      "added_at": "2026-01-16 21:25:54",
+      "album": {
+        "name": "enabling",
+        "url": "https://open.spotify.com/album/2wUsvgaVMbVWJulBNAROWC"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "enabling",
+      "url": "https://open.spotify.com/track/0qYEfg6RftcrQoSVQn4fKw"
+    },
+    {
+      "added_at": "2026-01-16 21:27:00",
+      "album": {
+        "name": "Always Be The One",
+        "url": "https://open.spotify.com/album/4lr4Mosc7nogwInirByGPG"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 186768,
+      "name": "Always Be The One",
+      "url": "https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml"
     }
   ],
   "unique_name": "Country Smash Hits",

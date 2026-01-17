@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Baby Daiz",
-  "num_followers": 127152,
+  "num_followers": 127282,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2026-01-14 12:24:12",
       "album": {
-        "name": "Rover",
-        "url": "https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Rover",
-      "url": "https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs"
-    },
-    {
-      "added_at": "2026-01-14 12:24:12",
-      "album": {
         "name": "WhatsApp",
         "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+    },
+    {
+      "added_at": "2026-01-14 12:24:12",
+      "album": {
+        "name": "Rover",
+        "url": "https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Rover",
+      "url": "https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs"
     },
     {
       "added_at": "2026-01-14 12:24:12",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-14 12:24:12",
       "album": {
-        "name": "Kaizen",
-        "url": "https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Kaizen's Intro",
-      "url": "https://open.spotify.com/track/05wzOC5B76dXhpT2z9xgKO"
-    },
-    {
-      "added_at": "2026-01-14 12:24:12",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 160824,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
+    },
+    {
+      "added_at": "2026-01-14 12:24:12",
+      "album": {
+        "name": "Kaizen",
+        "url": "https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Kaizen's Intro",
+      "url": "https://open.spotify.com/track/05wzOC5B76dXhpT2z9xgKO"
     },
     {
       "added_at": "2026-01-14 12:24:12",
@@ -839,22 +839,18 @@
     {
       "added_at": "2026-01-14 12:24:12",
       "album": {
-        "name": "Muyeez (Deluxe)",
-        "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
       },
       "artists": [
         {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
         }
       ],
-      "duration_ms": 154689,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
     },
     {
       "added_at": "2026-01-14 12:24:12",
@@ -875,6 +871,26 @@
       "duration_ms": 149896,
       "name": "FIND MONEY (feat. Zerrydl)",
       "url": "https://open.spotify.com/track/19FyHGQSvrg8H88eaKvUQI"
+    },
+    {
+      "added_at": "2026-01-14 12:24:12",
+      "album": {
+        "name": "Muyeez (Deluxe)",
+        "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 154689,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
     },
     {
       "added_at": "2026-01-14 12:24:12",
@@ -923,22 +939,6 @@
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
-    },
-    {
-      "added_at": "2026-01-14 12:24:12",
-      "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
-      },
-      "artists": [
-        {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
-        }
-      ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
     },
     {
       "added_at": "2026-01-14 12:24:12",
@@ -1119,18 +1119,26 @@
     {
       "added_at": "2026-01-14 12:24:12",
       "album": {
-        "name": "Oblelanalana",
-        "url": "https://open.spotify.com/album/7LqXuP5KLM0AUGRw0xBfle"
+        "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+        "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
       },
       "artists": [
         {
-          "name": "Dj Yk Mule",
-          "url": "https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 123504,
-      "name": "Oblelanalana",
-      "url": "https://open.spotify.com/track/72aA1NVN1aN2b8YwbelwSp"
+      "duration_ms": 180530,
+      "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+      "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
     }
   ],
   "unique_name": "Street Energy ",

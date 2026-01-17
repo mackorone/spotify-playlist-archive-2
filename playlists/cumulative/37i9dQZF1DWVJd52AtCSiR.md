@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-170 songs - 8 hr 42 min
+171 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Honor to Us All](https://open.spotify.com/track/3F9HXdijdjghQ8rlnZ4fqR) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 1:54 | 2021-10-07 |  |
 | [How Far I'll Go \- From "Moana"](https://open.spotify.com/track/6VChVf3NAbBtJzvSVEwqJ3) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:48 | 2021-10-07 |  |
 | [I See The Light \- From "Tangled"](https://open.spotify.com/track/12s9pwzuMlUuJjkkMOLXxx) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 3:52 | 2021-10-07 |  |
+| [I Won't Say I'm in Love](https://open.spotify.com/track/0eVGKrXC2PAHY5nnYKwvv2) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Strings: Enchanted](https://open.spotify.com/album/4DaP0EiSR4ARb3c808jR3A) | 2:17 | 2026-01-16 |  |
 | [I'm Lost](https://open.spotify.com/track/4NxkKbiXAUa7e3CFGohZqh) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 4:39 | 2021-10-07 | 2022-07-16 |
 | [Joy Turns to Sadness/A Growing Personality](https://open.spotify.com/track/2AvRw4BD8jmmSqMERo2M2L) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 7:49 | 2021-10-07 | 2022-09-03 |
 | [Kingdom Dance \- From "Tangled"/Score](https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:20 | 2021-10-07 | 2022-07-16 |

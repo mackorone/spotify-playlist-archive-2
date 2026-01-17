@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 
 > we got you\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,908 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,921 likes - 120 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 |
-| 2 | [times of my life](https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [times of my life](https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu) | 2:49 |
-| 3 | [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used 2 Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 |
-| 4 | [in your arms](https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in your arms](https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ) | 3:19 |
-| 5 | [911](https://open.spotify.com/track/7AikJn0VCWhnKvuNgfJa8j) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Eon Zero](https://open.spotify.com/artist/7mkjJXcIIgW5F92qaNFV98), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH), [Jake Luke](https://open.spotify.com/artist/7bkZ9WvOveMiDLvTIGiMyw) | [911](https://open.spotify.com/album/62nSQQw0KJZhjRrwk4AbwO) | 3:26 |
-| 6 | [SORRY](https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [SORRY](https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn) | 3:11 |
-| 7 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 |
+| 1 | [Confessions](https://open.spotify.com/track/0t5Jg0F8pp7r5TUy6KW6Aa) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Confessions](https://open.spotify.com/album/3x269q50OnduXRbyEHPxU5) | 2:33 |
+| 2 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 |
+| 3 | [times of my life](https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [times of my life](https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu) | 2:49 |
+| 4 | [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used 2 Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 |
+| 5 | [in your arms](https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in your arms](https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ) | 3:19 |
+| 6 | [911](https://open.spotify.com/track/7AikJn0VCWhnKvuNgfJa8j) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Eon Zero](https://open.spotify.com/artist/7mkjJXcIIgW5F92qaNFV98), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH), [Jake Luke](https://open.spotify.com/artist/7bkZ9WvOveMiDLvTIGiMyw) | [911](https://open.spotify.com/album/62nSQQw0KJZhjRrwk4AbwO) | 3:26 |
+| 7 | [SORRY](https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [SORRY](https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn) | 3:11 |
 | 8 | [Games](https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Games](https://open.spotify.com/album/0qhjCNkQX5WQGFcY3ZOOfG) | 2:50 |
 | 9 | [i won't live forever](https://open.spotify.com/track/7BOTAsFUDxqriXuhoddUm7) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [i won't live forever](https://open.spotify.com/album/031A1BdfESmR6Yimo5YwOt) | 1:40 |
 | 10 | [Make You Stay](https://open.spotify.com/track/27nrdUSV3A2FmnXUUvPnbM) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Some Sad Songs](https://open.spotify.com/album/1ds7LPYGFxM5U8AUA62qp9) | 2:30 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 119 | [see me cry](https://open.spotify.com/track/6Q3wnpKg9YJ4yyYj1gxe3J) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy), [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [see me cry](https://open.spotify.com/album/6FeLEFNqmzJDhL8kxwQuCq) | 2:43 |
 | 120 | [My Everything](https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [My Everything](https://open.spotify.com/album/4kIsccihJrNx2sXGbVw41Y) | 3:20 |
 
-Snapshot ID: `AAAAADHn7QKtPNVmUSXqKVoAS9Zu4yRa`
+Snapshot ID: `AAAAAHU6poGl2KOXjiGKtEUIJ+quZfQN`

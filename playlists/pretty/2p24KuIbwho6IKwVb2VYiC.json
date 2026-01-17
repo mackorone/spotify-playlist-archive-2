@@ -1,12 +1,12 @@
 {
   "description": "The best Dance, House, Bass and EDM tracks right now, curated by <a href=\"https://www.instagram.com/nightvision/\">NIGHTVISION</a>!  Cover: Nelly Furtado &amp; HAYLA",
-  "num_followers": 21203,
+  "num_followers": 21201,
   "original_name": "ALL ACCESS DANCE",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAhHTEDfic/8kxaLo1pfJDKATN4vd2V",
+  "snapshot_id": "AAAhIbH2j/rR2uwldVyBpUykQ0lW1AYo",
   "tracks": [
     {
       "added_at": "2026-01-09 15:54:20",
@@ -87,6 +87,30 @@
       "duration_ms": 152307,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1z6KDSVHP7QnNVCk2ZWcFQ"
+    },
+    {
+      "added_at": "2026-01-16 19:42:34",
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD"
     },
     {
       "added_at": "2026-01-09 15:54:20",

@@ -1,13 +1,125 @@
 {
-  "description": "Latest music from Jasleen Royal, Rashmeet Kaur,  tricksingh and more.",
-  "num_followers": 86246,
+  "description": "Latest music from Bismil, Shaan,  Anweshaa and more.",
+  "num_followers": 86326,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF1rheOA42+OCJOrDRn84vFPYq0w",
+  "snapshot_id": "AAAAAEITV19+qA341teTwnxvW7UnqaYM",
   "tracks": [
+    {
+      "added_at": "2026-01-16 02:37:05",
+      "album": {
+        "name": "Jaan Kehte They",
+        "url": "https://open.spotify.com/album/3du5cYbyEVF2LYEnZyvzZx"
+      },
+      "artists": [
+        {
+          "name": "Bismil",
+          "url": "https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        }
+      ],
+      "duration_ms": 243054,
+      "name": "Jaan Kehte They",
+      "url": "https://open.spotify.com/track/5Ii8bwz1KikZUouVHtBJJX"
+    },
+    {
+      "added_at": "2026-01-16 06:29:56",
+      "album": {
+        "name": "Jee Nai Lagda",
+        "url": "https://open.spotify.com/album/3vR4DUl5hgrqpa4WtnFSfF"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        }
+      ],
+      "duration_ms": 163136,
+      "name": "Jee Nai Lagda",
+      "url": "https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E"
+    },
+    {
+      "added_at": "2026-01-16 02:37:05",
+      "album": {
+        "name": "Zara Zara Sa",
+        "url": "https://open.spotify.com/album/4haQvp5sXbnZUeo6E126n5"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Anweshaa",
+          "url": "https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Zara Zara Sa",
+      "url": "https://open.spotify.com/track/0gZ51rSozAPhKwPJxNvPH5"
+    },
+    {
+      "added_at": "2026-01-16 02:37:05",
+      "album": {
+        "name": "Aise Na Humko",
+        "url": "https://open.spotify.com/album/03B5hEkHkzXmE9nWaHWMZ3"
+      },
+      "artists": [
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        },
+        {
+          "name": "Shrey Gupta",
+          "url": "https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Aise Na Humko",
+      "url": "https://open.spotify.com/track/5PZyPpc0GfYfMTx6KmFK5i"
+    },
+    {
+      "added_at": "2026-01-16 02:37:05",
+      "album": {
+        "name": "Uss Dilnashi",
+        "url": "https://open.spotify.com/album/59P88ZCHATtmDrYJA310qi"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Uss Dilnashi",
+      "url": "https://open.spotify.com/track/3je1pOIzXhiWjuUKaWN4lc"
+    },
     {
       "added_at": "2026-01-09 06:48:14",
       "album": {
@@ -27,6 +139,62 @@
       "duration_ms": 228795,
       "name": "Koi Naam",
       "url": "https://open.spotify.com/track/0vRgu0FsgI5AP1MJ9GupIR"
+    },
+    {
+      "added_at": "2026-01-16 02:37:05",
+      "album": {
+        "name": "Chaal",
+        "url": "https://open.spotify.com/album/5g3aydqrHDiNAS5is2MtA0"
+      },
+      "artists": [
+        {
+          "name": "Salman Ali",
+          "url": "https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Chaal",
+      "url": "https://open.spotify.com/track/2t67X9iFlgDAyZRrlgALnG"
+    },
+    {
+      "added_at": "2026-01-16 10:39:25",
+      "album": {
+        "name": "Sanam Beraham",
+        "url": "https://open.spotify.com/album/3vOPTCFkLgYmycCMjLjFjO"
+      },
+      "artists": [
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Sanam Beraham",
+      "url": "https://open.spotify.com/track/0BFtVfD4UCM17SZ2Uz41LL"
+    },
+    {
+      "added_at": "2026-01-16 02:37:05",
+      "album": {
+        "name": "Saanu Tere Naal",
+        "url": "https://open.spotify.com/album/5BmUhx8SXUqQEkcYVJatXW"
+      },
+      "artists": [
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        },
+        {
+          "name": "Arvinder Singh",
+          "url": "https://open.spotify.com/artist/4ZY81pabNXmCTyutcniAVW"
+        },
+        {
+          "name": "Sid Paul",
+          "url": "https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Saanu Tere Naal",
+      "url": "https://open.spotify.com/track/50LOCpH5OsXbQ9Wq0OKvbl"
     },
     {
       "added_at": "2026-01-09 06:48:14",
@@ -75,22 +243,6 @@
     {
       "added_at": "2026-01-09 06:48:14",
       "album": {
-        "name": "Just You",
-        "url": "https://open.spotify.com/album/2fPG3AcO2vFiGJQWxXScBH"
-      },
-      "artists": [
-        {
-          "name": "Vilen",
-          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
-        }
-      ],
-      "duration_ms": 190124,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/17hdidwE5rpEEFzqLXmHTl"
-    },
-    {
-      "added_at": "2026-01-09 06:48:14",
-      "album": {
         "name": "Inaam",
         "url": "https://open.spotify.com/album/2c6wzrX9E7bdrY8UU4ISbL"
       },
@@ -103,6 +255,22 @@
       "duration_ms": 257177,
       "name": "Inaam",
       "url": "https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl"
+    },
+    {
+      "added_at": "2026-01-09 06:48:14",
+      "album": {
+        "name": "Just You",
+        "url": "https://open.spotify.com/album/2fPG3AcO2vFiGJQWxXScBH"
+      },
+      "artists": [
+        {
+          "name": "Vilen",
+          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
+        }
+      ],
+      "duration_ms": 190124,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/17hdidwE5rpEEFzqLXmHTl"
     },
     {
       "added_at": "2026-01-09 06:48:14",
@@ -663,38 +831,6 @@
     {
       "added_at": "2026-01-09 06:48:14",
       "album": {
-        "name": "Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult)",
-        "url": "https://open.spotify.com/album/1Ha2M1Be1iDXtWOfAPBxhp"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Rusha & Blizza",
-          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/6hMU7eUsEX5HWVRLTIGw6Y"
-    },
-    {
-      "added_at": "2026-01-09 06:48:14",
-      "album": {
         "name": "In Case We Forget",
         "url": "https://open.spotify.com/album/4UCUZ5mScC73JlcCGy5Ga3"
       },
@@ -711,26 +847,6 @@
       "duration_ms": 249406,
       "name": "Saaye",
       "url": "https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01"
-    },
-    {
-      "added_at": "2026-01-09 06:48:14",
-      "album": {
-        "name": "Ban gayi main teri piya",
-        "url": "https://open.spotify.com/album/6CJklnf3cR64FFTWfCrZA3"
-      },
-      "artists": [
-        {
-          "name": "Shrinidhi Ghatate",
-          "url": "https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW"
-        },
-        {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        }
-      ],
-      "duration_ms": 200490,
-      "name": "Ban gayi main teri piya",
-      "url": "https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh"
     },
     {
       "added_at": "2026-01-09 06:48:14",
@@ -875,82 +991,6 @@
     {
       "added_at": "2026-01-09 06:48:14",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6omx5bOxqjgS3JraemLej2"
-      },
-      "artists": [
-        {
-          "name": "Denny",
-          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
-        },
-        {
-          "name": "Rishi Rich",
-          "url": "https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44"
-        },
-        {
-          "name": "Junaid Ahmed",
-          "url": "https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E"
-        },
-        {
-          "name": "Mandy Gill",
-          "url": "https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k"
-        }
-      ],
-      "duration_ms": 178329,
-      "name": "Bewafa",
-      "url": "https://open.spotify.com/track/7w98XXwu7fVzWhRCRbOAjt"
-    },
-    {
-      "added_at": "2026-01-09 06:48:14",
-      "album": {
-        "name": "Pehla Ishq",
-        "url": "https://open.spotify.com/album/4FXI6yJutTa8fDODneckUf"
-      },
-      "artists": [
-        {
-          "name": "Dhvani Bhanushali",
-          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        },
-        {
-          "name": "Sachin Gupta",
-          "url": "https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Pehla Ishq",
-      "url": "https://open.spotify.com/track/4w1V0Tw923MIGcwxYvsccf"
-    },
-    {
-      "added_at": "2026-01-09 06:48:14",
-      "album": {
-        "name": "Le Jayenge Tere Sajna",
-        "url": "https://open.spotify.com/album/6sx8VbznUx2bQp50zTqF8O"
-      },
-      "artists": [
-        {
-          "name": "Pawan Singh",
-          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
-        },
-        {
-          "name": "Palak Muchhal",
-          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
-        },
-        {
-          "name": "Shabbir Ahmed",
-          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
-        }
-      ],
-      "duration_ms": 254165,
-      "name": "Le Jayenge Tere Sajna",
-      "url": "https://open.spotify.com/track/2QqJuevuNFAK8pkAECODLW"
-    },
-    {
-      "added_at": "2026-01-09 06:48:14",
-      "album": {
         "name": "Aur Kya Chahiye",
         "url": "https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe"
       },
@@ -1035,74 +1075,6 @@
       "duration_ms": 168120,
       "name": "Rum Rum Rum",
       "url": "https://open.spotify.com/track/40WiRVYLt461xQM31KIbMc"
-    },
-    {
-      "added_at": "2026-01-09 06:48:14",
-      "album": {
-        "name": "I Loved You",
-        "url": "https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq"
-      },
-      "artists": [
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 214264,
-      "name": "Nafrat",
-      "url": "https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI"
-    },
-    {
-      "added_at": "2026-01-09 06:48:14",
-      "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "MixSingh",
-          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Kufar",
-      "url": "https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1"
-    },
-    {
-      "added_at": "2026-01-09 06:48:14",
-      "album": {
-        "name": "Nai Jaana",
-        "url": "https://open.spotify.com/album/7xaABAMIF46Wc0fVkZ8zzL"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "JAI DHIR",
-          "url": "https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP"
-        },
-        {
-          "name": "Simran Choudhary",
-          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
-        },
-        {
-          "name": "Ashish Bhatia",
-          "url": "https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk"
-        }
-      ],
-      "duration_ms": 157358,
-      "name": "Nai Jaana",
-      "url": "https://open.spotify.com/track/0YgwOVWiL1RdrsWM0xOda9"
     }
   ],
   "unique_name": "New Music Friday I-Pop ",

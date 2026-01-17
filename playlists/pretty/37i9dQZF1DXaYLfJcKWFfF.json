@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Babble Hume",
-  "num_followers": 5078,
+  "num_followers": 5095,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,18 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "Embody",
-        "url": "https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz"
+        "name": "Mighty",
+        "url": "https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3"
       },
       "artists": [
         {
-          "name": "Tessi Nandi",
-          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
+          "name": "SaxbyTwins",
+          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
         }
       ],
-      "duration_ms": 167339,
-      "name": "Embody",
-      "url": "https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN"
+      "duration_ms": 233880,
+      "name": "Mighty",
+      "url": "https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "Mighty",
-        "url": "https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3"
-      },
-      "artists": [
-        {
-          "name": "SaxbyTwins",
-          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Mighty",
-      "url": "https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
         "name": "Ngibongiseni",
         "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 156000,
       "name": "Ngibongiseni",
       "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
+        "name": "Embody",
+        "url": "https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz"
+      },
+      "artists": [
+        {
+          "name": "Tessi Nandi",
+          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
+        }
+      ],
+      "duration_ms": 167339,
+      "name": "Embody",
+      "url": "https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -571,22 +571,22 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "Gatekeepers (feat. Pa Salieu)",
-        "url": "https://open.spotify.com/album/4y3fj7IPS9d5lWuKxDcI2f"
+        "name": "Nyoni Yami",
+        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
       },
       "artists": [
         {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
         },
         {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+          "name": "Yoav",
+          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
         }
       ],
-      "duration_ms": 170775,
-      "name": "Gatekeepers (feat. Pa Salieu)",
-      "url": "https://open.spotify.com/track/0ZXbCEygGWkT2UGDqGgiV2"
+      "duration_ms": 212500,
+      "name": "Nyoni Yami",
+      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -607,22 +607,22 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "Nyoni Yami",
-        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
+        "name": "Gatekeepers (feat. Pa Salieu)",
+        "url": "https://open.spotify.com/album/4y3fj7IPS9d5lWuKxDcI2f"
       },
       "artists": [
         {
-          "name": "Jabulile Majola",
-          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
         },
         {
-          "name": "Yoav",
-          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Nyoni Yami",
-      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
+      "duration_ms": 170775,
+      "name": "Gatekeepers (feat. Pa Salieu)",
+      "url": "https://open.spotify.com/track/0ZXbCEygGWkT2UGDqGgiV2"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 209042,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 198953,
       "name": "changing",
       "url": "https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 209042,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "Salty Chips",
-        "url": "https://open.spotify.com/album/4DTFPl5XlUy5rZDOgUCll1"
-      },
-      "artists": [
-        {
-          "name": "Juney Luv",
-          "url": "https://open.spotify.com/artist/1iBaEWkXNbRPVQDaSdXvhI"
-        }
-      ],
-      "duration_ms": 148099,
-      "name": "Salty Chips",
-      "url": "https://open.spotify.com/track/4jveq3HIgawbJsjjvNQA2A"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
         "name": "Holu Lufuno",
         "url": "https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 201959,
       "name": "Holu Lufuno",
       "url": "https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
+        "name": "Salty Chips",
+        "url": "https://open.spotify.com/album/4DTFPl5XlUy5rZDOgUCll1"
+      },
+      "artists": [
+        {
+          "name": "Juney Luv",
+          "url": "https://open.spotify.com/artist/1iBaEWkXNbRPVQDaSdXvhI"
+        }
+      ],
+      "duration_ms": 148099,
+      "name": "Salty Chips",
+      "url": "https://open.spotify.com/track/4jveq3HIgawbJsjjvNQA2A"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "If I'm Honest",
-        "url": "https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "If I'm Honest",
-      "url": "https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
         "name": "take it & leave",
         "url": "https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 248000,
       "name": "take it & leave",
       "url": "https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT"
+      },
+      "artists": [
+        {
+          "name": "Nic van Graan",
+          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
         "name": "How Dare You",
         "url": "https://open.spotify.com/album/5m3yTfB7TPF4ZEH45jEkL4"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 219605,
       "name": "How Dare You",
       "url": "https://open.spotify.com/track/3NxnFgg4YKQkqzNPQqAKRX"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT"
-      },
-      "artists": [
-        {
-          "name": "Nic van Graan",
-          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "Citrus",
-        "url": "https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX"
-      },
-      "artists": [
-        {
-          "name": "Mia Lord",
-          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Citrus",
-      "url": "https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
         "name": "K\u00fa y\u00e2k \u00f1tu\u00e0 \u00e9y\u00e9t",
         "url": "https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 351900,
       "name": "K\u00fa y\u00e2k \u00f1tu\u00e0 \u00e9y\u00e9t",
       "url": "https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
+        "name": "Citrus",
+        "url": "https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX"
+      },
+      "artists": [
+        {
+          "name": "Mia Lord",
+          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Citrus",
+      "url": "https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU"
     },
     {
       "added_at": "2025-12-11 22:00:30",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-12-11 22:00:30",
       "album": {
-        "name": "Beach Uniform",
-        "url": "https://open.spotify.com/album/1NYh7mmW97T2poHSbO3TyU"
-      },
-      "artists": [
-        {
-          "name": "Second House",
-          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
-        }
-      ],
-      "duration_ms": 141975,
-      "name": "Beach Uniform",
-      "url": "https://open.spotify.com/track/1S0XDSYMauoLf1kUp8fBEx"
-    },
-    {
-      "added_at": "2025-12-11 22:00:30",
-      "album": {
         "name": "SNOWDOME",
         "url": "https://open.spotify.com/album/1KnrKclfD8d1x6RAMYZ8FX"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 210386,
       "name": "Cold Zone",
       "url": "https://open.spotify.com/track/0SU1P7VuVWc9BsMv98o7Lf"
+    },
+    {
+      "added_at": "2025-12-11 22:00:30",
+      "album": {
+        "name": "Beach Uniform",
+        "url": "https://open.spotify.com/album/1NYh7mmW97T2poHSbO3TyU"
+      },
+      "artists": [
+        {
+          "name": "Second House",
+          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
+        }
+      ],
+      "duration_ms": 141975,
+      "name": "Beach Uniform",
+      "url": "https://open.spotify.com/track/1S0XDSYMauoLf1kUp8fBEx"
     },
     {
       "added_at": "2025-12-11 22:00:30",

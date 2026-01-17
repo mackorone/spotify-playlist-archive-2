@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Lift Me High",
+        "url": "https://open.spotify.com/album/7Gct4ch1N1VvhTEjxTnzLq"
+      },
+      "artists": [
+        {
+          "name": "Moeaike",
+          "url": "https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208534,
+      "name": "Lift Me High",
+      "url": "https://open.spotify.com/track/4m0F3I0T7y2tkSSZ1Ha80B"
+    },
+    {
+      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/41RncdoLzWmK2GwtjbOLez"
       },

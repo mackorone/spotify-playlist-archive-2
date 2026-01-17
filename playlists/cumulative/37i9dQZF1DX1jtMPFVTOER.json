@@ -6160,7 +6160,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 247000,
       "name": "I\u2019m The President",
       "url": "https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU"
@@ -8505,6 +8505,28 @@
     },
     {
       "album": {
+        "name": "More Speedo",
+        "url": "https://open.spotify.com/album/5pe0UzWRW3k4GpoV8Fl1sB"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        },
+        {
+          "name": "Ghais Guevara",
+          "url": "https://open.spotify.com/artist/7zQ4NNGWgCVWU80Rg6dXOH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85812,
+      "name": "Obsidian (feat. Ghais Guevara)",
+      "url": "https://open.spotify.com/track/5eiaBgZzdsUePTSKxY2Atq"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/1PGcEbEh0G6uyUxM3055RA"
       },
@@ -9416,7 +9438,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 259842,
       "name": "RagJazz",
       "url": "https://open.spotify.com/track/7DAuQoUWFq40NBVXwWs4xU"
@@ -13046,6 +13068,24 @@
       "duration_ms": 203319,
       "name": "What It Feels Like - Carrtoons Remix",
       "url": "https://open.spotify.com/track/6cBgiFiJ3qJgLRldC3MPtF"
+    },
+    {
+      "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/2iKLXxZIGM4af8GBn2RC7K"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/7M2DbRhTl0wHZzeHGVZvn6"
     },
     {
       "album": {

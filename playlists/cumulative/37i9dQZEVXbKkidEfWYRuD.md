@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-2,080 songs - 4 day 0 hr 31 min
+2,082 songs - 4 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [4 ur girl](https://open.spotify.com/track/7wttW3gnMHuS0eXHs5RwUZ) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 2:55 | 2023-10-28 | 2023-11-11 |
 | [4x4](https://open.spotify.com/track/6UeYUsnV81SKokLaNBNSei) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [VARSKVA](https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w) | 3:13 | 2023-11-25 | 2023-12-01 |
 | [5 Nights Crazy](https://open.spotify.com/track/7vbXtUsr3lSZtBzwL6lpVg) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:19 | 2021-10-23 | 2021-12-14 |
+| [505 \- Remix](https://open.spotify.com/track/2qGJ5zgXBIfqEjxpAYJ4v7) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Elysees](https://open.spotify.com/artist/51XJSRmRUa7EifeJld9Wn9) | [505 \(Remix\)](https://open.spotify.com/album/4o3EOvTc73thHnvteMEXoD) | 2:30 | 2026-01-16 |  |
 | [52 & HAUNTED](https://open.spotify.com/track/4OWzUW3tkhBVwIwE5HLpfu) | [ALBLAK 52](https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [52 & HAUNTED](https://open.spotify.com/album/3uPela7bf7RAtg7EnkfQ2M) | 2:32 | 2024-04-13 | 2024-04-17 |
 | [5:00 AM](https://open.spotify.com/track/3VrsQ6PAcP2eDJKhP1m7fa) | [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [5:00 AM](https://open.spotify.com/album/0j42aJ2EUyOPIZ9WwLznY5) | 2:19 | 2022-07-23 | 2022-07-28 |
 | [5IVE](https://open.spotify.com/track/2kLmAwQCBSlvtcptioAoTv) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [5IVE](https://open.spotify.com/album/4YOwEVRxXTTnq5taJ3fT7J) | 2:23 | 2023-01-08 | 2023-02-18 |
@@ -965,6 +966,7 @@
 | [SOS](https://open.spotify.com/track/5te7CQBdUAT6fUUwAGLc86) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d) | 2:02 | 2024-08-10 | 2024-09-01 |
 | [SOUTH ATLANTA BABY](https://open.spotify.com/track/7cHhlnawdN87aZbjO6LMRN) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:13 | 2025-03-15 | 2025-03-17 |
 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-22 | 2025-04-03 |
+| [speed](https://open.spotify.com/track/0W5znUzvfYYIwgdIaiP0Fd) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [speed](https://open.spotify.com/album/6cuSFwuh5AIECmWZshd7TZ) | 1:25 | 2026-01-16 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-23 | 2024-02-21 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-11 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-09 | 2022-12-24 |
@@ -1201,7 +1203,7 @@
 | [Бальзам](https://open.spotify.com/track/783bTF26cUZEmNhP5v9HNz) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Сонь, ти спиш?](https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d) | 2:00 | 2025-12-14 | 2025-12-22 |
 | [Банда Крыс](https://open.spotify.com/track/5yX4rBk1qUoX93nhUBZ6wH) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [RATT\#WHORE](https://open.spotify.com/album/7olRBxE5mxa6h0XHF3057r) | 3:08 | 2024-10-12 | 2024-10-14 |
 | [БАНК](https://open.spotify.com/track/4pSZzeXqMWot9wgbzbuXQ0) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r), [Zivert](https://open.spotify.com/artist/1pvmXh50KezixmCHnp9XvV) | [БАНК](https://open.spotify.com/album/2WBpBx8mvWUr89ZvGdeMMA) | 2:57 | 2025-11-14 | 2025-11-23 |
-| [Банкомат](https://open.spotify.com/track/3rGOoMEEIBonQBGOX48yjB) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [СПЛЕТНИЦА](https://open.spotify.com/album/3KdIGJs1B4TarMpwCw6481) | 3:19 | 2024-12-26 |  |
+| [Банкомат](https://open.spotify.com/track/3rGOoMEEIBonQBGOX48yjB) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [СПЛЕТНИЦА](https://open.spotify.com/album/3KdIGJs1B4TarMpwCw6481) | 3:19 | 2024-12-26 | 2026-01-17 |
 | [баночка с окурками](https://open.spotify.com/track/7j6eSKC2Hv3lcElPyR1bP3) | [КОСМОНАВТОВ НЕТ](https://open.spotify.com/artist/2rRyviUwWAHYmzyVzmXWpZ) | [1+1=11](https://open.spotify.com/album/2MjE1xXSjJQVbqOusXdRQI) | 2:42 | 2022-01-06 | 2022-03-25 |
 | [Бар за баром](https://open.spotify.com/track/2EJZw3QSNQS1LSIQMTd2TQ) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Бар за баром](https://open.spotify.com/album/1Q6PmLZZ13aQQ4jWr9sELF) | 2:17 | 2024-04-24 | 2024-05-14 |
 | [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 | 2024-04-26 | 2024-05-29 |
@@ -1966,7 +1968,7 @@
 | [Хай пишуть](https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хай пишуть](https://open.spotify.com/album/5T3DYiV80d2Z21sNOdncwV) | 2:42 | 2023-12-09 | 2025-07-29 |
 | [ХАЙЕГОХО](https://open.spotify.com/track/5DIprzXMd8Ot7RSVe50qfq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [JAZZ DO IT](https://open.spotify.com/album/54qJYajtPSQ350ArxQmmcU) | 1:36 | 2023-07-08 | 2023-08-27 |
 | [Халливуд Хоус](https://open.spotify.com/track/24OKb78jzb0IEUKlNWnfcR) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Халливуд Хоус](https://open.spotify.com/album/0mEvl65Cm91K1EAIjiGfOG) | 2:25 | 2022-03-26 | 2022-04-06 |
-| [Ханнамонтана](https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:10 | 2024-09-06 |  |
+| [Ханнамонтана](https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:10 | 2024-09-06 | 2026-01-17 |
 | [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 | 2024-06-21 | 2024-09-28 |
 | [Хартбіт](https://open.spotify.com/track/7DJHeuuTpNjXLu25zCADhQ) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 3:07 | 2024-09-27 | 2025-08-30 |
 | [Хвилi \(feat\. Jerry Heil\)](https://open.spotify.com/track/0fQ4uYwlzD6TYVobAoz8Qt) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Хвилi \(feat\. Jerry Heil\)](https://open.spotify.com/album/0wiLpMXy37lbSQIlU3oZpN) | 3:01 | 2022-05-16 | 2022-05-29 |

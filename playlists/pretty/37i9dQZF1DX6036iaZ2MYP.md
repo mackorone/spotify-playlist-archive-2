@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: NSG
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,650 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,096 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RIDER](https://open.spotify.com/track/0pl8LizYbG6joZS67m8ldP) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [](https://open.spotify.com/album/null) | 3:32 |
+| 1 | [RIDER](https://open.spotify.com/track/0pl8LizYbG6joZS67m8ldP) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Sounds Of The Diaspora](https://open.spotify.com/album/0n7r3MD92Fj1CYutyMj8fK) | 3:32 |
 | 2 | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp) | 2:39 |
 | 3 | [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 |
 | 4 | [2MYROOM](https://open.spotify.com/track/2QatYIewQEyyT6yvIaDv2s) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Jeune prince \(Part\. II\)](https://open.spotify.com/album/1zqtM2XR3DssG9U96oWckW) | 2:39 |

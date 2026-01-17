@@ -2,7 +2,7 @@
 
 ### [Éxitos Centroamérica](https://open.spotify.com/playlist/37i9dQZF1DX1KN7YrOIxQD)
 
-> Los éxitos del momento en Centroamérica\. Portada: Peso Pluma,  Tito Double P
+> Los éxitos del momento en Centroamérica\. Portada: Ryan Castro, Kapo, Gangsta
 
 492 songs - 1 day 3 hr 12 min
 

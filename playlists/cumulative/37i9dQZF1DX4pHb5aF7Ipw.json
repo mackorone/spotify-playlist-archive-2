@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Hip-Hop Tracks by Chinna & More ",
+  "description": "Fresh Punjabi Hip-Hop Tracks by Real Boss & More ",
   "name": "New Rap Punjabi",
   "tracks": [
     {
@@ -932,7 +932,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 134575,
       "name": "ABOVE ALL",
       "url": "https://open.spotify.com/track/5tn3v0dI1CUvR9szBbJHwO"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 179340,
       "name": "Aish Full",
       "url": "https://open.spotify.com/track/1HmzvonXngsnWQkWmS3qf3"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 143389,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/4TEAN4lkqV5W3gkVsWuTXw"
@@ -3793,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Charged",
+        "url": "https://open.spotify.com/album/18BRZNrEYkeiNiiByV5rfR"
+      },
+      "artists": [
+        {
+          "name": "Big Scene",
+          "url": "https://open.spotify.com/artist/27W0GoT0fL5RqmkozZ7aLo"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162476,
+      "name": "Charged",
+      "url": "https://open.spotify.com/track/3phpdHYUGmpI9vjwfmI7OE"
+    },
+    {
+      "album": {
         "name": "Intense",
         "url": "https://open.spotify.com/album/5Ss6brlEyAXJfa4JuJDTq4"
       },
@@ -4592,7 +4610,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 189864,
       "name": "DAS DE",
       "url": "https://open.spotify.com/track/3zsy8X1GP3cuKpA31DX6D8"
@@ -5225,6 +5243,24 @@
     },
     {
       "album": {
+        "name": "Dixie Road",
+        "url": "https://open.spotify.com/album/22mqf6RZ6qX1KN8FdbujTW"
+      },
+      "artists": [
+        {
+          "name": "Batth",
+          "url": "https://open.spotify.com/artist/6dWOsTtvI75GqXdkXxWlJx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179393,
+      "name": "Dixie Road",
+      "url": "https://open.spotify.com/track/7qmxsQYEl8CB9IizxE7iF0"
+    },
+    {
+      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/3ySYqXXj6Ycfy1NdPCT6y1"
       },
@@ -5558,6 +5594,42 @@
       "duration_ms": 167725,
       "name": "Drip",
       "url": "https://open.spotify.com/track/0fNzwtN9z0pLweNLrT2jWJ"
+    },
+    {
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/3hhnp5FZk8iSZVzlUuHUtz"
+      },
+      "artists": [
+        {
+          "name": "Tazer Music",
+          "url": "https://open.spotify.com/artist/1f22RyZZloviEEgIjjdbkn"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167583,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/4AKNomr5Ge2YTntVCqcxr0"
+    },
+    {
+      "album": {
+        "name": "MMVI",
+        "url": "https://open.spotify.com/album/5bUMCLYS06bRWtIEocwqKO"
+      },
+      "artists": [
+        {
+          "name": "Raman Brar",
+          "url": "https://open.spotify.com/artist/2rQtudwQbw6YDJCZbWj3Hl"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120729,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/4EstQryUcdySaIW3S24Dbg"
     },
     {
       "album": {
@@ -5992,6 +6064,28 @@
       "duration_ms": 153897,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/3xMNg7xrFbQbvOhjHHEboW"
+    },
+    {
+      "album": {
+        "name": "Fate Trials",
+        "url": "https://open.spotify.com/album/2vKturIrTiHGJDF7t4whgL"
+      },
+      "artists": [
+        {
+          "name": "Madhakaala Brar",
+          "url": "https://open.spotify.com/artist/795ZMlNN8jjVfrv32qm6Iv"
+        },
+        {
+          "name": "Kunwxrr",
+          "url": "https://open.spotify.com/artist/2ln8u0bAiqCrbEeskIGOpL"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197922,
+      "name": "Fate Trials",
+      "url": "https://open.spotify.com/track/5ur1BecnPBfCKLLQmPGcmA"
     },
     {
       "album": {
@@ -6838,7 +6932,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 117362,
       "name": "Gallan Dil Di",
       "url": "https://open.spotify.com/track/1VvdLYxKcSx61Xt8x7K0hS"
@@ -7792,7 +7886,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 162014,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/0AcTZKntdm80BEDqGTg5ZJ"
@@ -8328,7 +8422,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 161052,
       "name": "HOOD RULES",
       "url": "https://open.spotify.com/track/73M4LyBTCsEcCcClIZNU2Z"
@@ -8954,7 +9048,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 159101,
       "name": "Il Capo",
       "url": "https://open.spotify.com/track/5lfzzSrGiid1bvw0W8K2HA"
@@ -9144,6 +9238,24 @@
       "duration_ms": 192000,
       "name": "Iran",
       "url": "https://open.spotify.com/track/0hKQDXkIlbY1IomBdmFiIc"
+    },
+    {
+      "album": {
+        "name": "ISTG",
+        "url": "https://open.spotify.com/album/0gxSdLbZ39EUje51ZK4ek3"
+      },
+      "artists": [
+        {
+          "name": "Karxm",
+          "url": "https://open.spotify.com/artist/4SEREA7tecM4mW2W467aDR"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "ISTG",
+      "url": "https://open.spotify.com/track/0NCh8gcRTKzyajxPHa3VJs"
     },
     {
       "album": {
@@ -9982,7 +10094,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 161052,
       "name": "Kaun Ae Tu",
       "url": "https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz"
@@ -10364,6 +10476,24 @@
       "duration_ms": 134347,
       "name": "Lalkaare",
       "url": "https://open.spotify.com/track/2aQn2FJ0MbhIp8OYcNWYEi"
+    },
+    {
+      "album": {
+        "name": "Lamborghini",
+        "url": "https://open.spotify.com/album/6sM0VFef8Hjh84hzwTGX8R"
+      },
+      "artists": [
+        {
+          "name": "Latti Aulakh",
+          "url": "https://open.spotify.com/artist/28Kji83VPTGRtcH9Xm9CJ8"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151045,
+      "name": "Lamborghini",
+      "url": "https://open.spotify.com/track/6k6c0LPMlQDAOs2xgdss1c"
     },
     {
       "album": {
@@ -11076,6 +11206,24 @@
       "duration_ms": 141333,
       "name": "Mafia Mindset",
       "url": "https://open.spotify.com/track/6Ctd0qhsM19ayMM5tohKV7"
+    },
+    {
+      "album": {
+        "name": "Mafioso",
+        "url": "https://open.spotify.com/album/1L93dBOnHTETKq8GGtQ5Vl"
+      },
+      "artists": [
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149581,
+      "name": "Mafioso",
+      "url": "https://open.spotify.com/track/1Ec9ciDObX8du129uqDT56"
     },
     {
       "album": {
@@ -12166,7 +12314,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 187804,
       "name": "Nakhre",
       "url": "https://open.spotify.com/track/1hruMJYAPjn2PQCn1RyyyZ"
@@ -12813,6 +12961,28 @@
     },
     {
       "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/1Fs44yVek6kHBmbSHvcaDu"
+      },
+      "artists": [
+        {
+          "name": "Ink Heart",
+          "url": "https://open.spotify.com/artist/010tbxYFwrOC8Nl2paePR6"
+        },
+        {
+          "name": "Gp Hira",
+          "url": "https://open.spotify.com/artist/7eXqSwyCGm0zLwwvcr0mHS"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/3yYuaMFvxqmz4EeNPhHN6a"
+    },
+    {
+      "album": {
         "name": "No Parking",
         "url": "https://open.spotify.com/album/23R89MWv4MssTrDBRG15Ik"
       },
@@ -13142,7 +13312,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 156571,
       "name": "ODYSSEY",
       "url": "https://open.spotify.com/track/49Zq4kN3GmkrGvsSfpwGjI"
@@ -14693,6 +14863,24 @@
     },
     {
       "album": {
+        "name": "Real Rapper",
+        "url": "https://open.spotify.com/album/29iEnwSRpLBWBW2fWJlvDZ"
+      },
+      "artists": [
+        {
+          "name": "JA$$A",
+          "url": "https://open.spotify.com/artist/15kMGTugB8ykrokYUF3NAR"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Real Rapper",
+      "url": "https://open.spotify.com/track/5R4UVgexSrOZ8DsO42GMde"
+    },
+    {
+      "album": {
         "name": "NO REMORSE",
         "url": "https://open.spotify.com/album/1kAlPyvPOUkphqKNBvfnjS"
       },
@@ -15002,6 +15190,24 @@
       "duration_ms": 245061,
       "name": "Rishta",
       "url": "https://open.spotify.com/track/55cfAVkcEdk3UFs1m3GcDC"
+    },
+    {
+      "album": {
+        "name": "Rollin Hits",
+        "url": "https://open.spotify.com/album/4FWDfkF69uN5GOprv9tWxX"
+      },
+      "artists": [
+        {
+          "name": "Jp Hunjan",
+          "url": "https://open.spotify.com/artist/7yvfDUNwiiNoQDSs4beKQ3"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129232,
+      "name": "Rollin Hits",
+      "url": "https://open.spotify.com/track/1hrx9Mw5tWofE6AoaLinNk"
     },
     {
       "album": {
@@ -15356,7 +15562,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 196578,
       "name": "Sanghastyle",
       "url": "https://open.spotify.com/track/0HYEmFPFusPRA8YmiM4eAA"
@@ -15874,7 +16080,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 201600,
       "name": "Shell Shock",
       "url": "https://open.spotify.com/track/3YxZCVkbXz5nxmHnnVmfE9"
@@ -16220,6 +16426,24 @@
       "duration_ms": 167500,
       "name": "Siren",
       "url": "https://open.spotify.com/track/3n49nCAdB75Gw35seitxb7"
+    },
+    {
+      "album": {
+        "name": "Six Sense",
+        "url": "https://open.spotify.com/album/309oIYk7c64dTBC6txzX3V"
+      },
+      "artists": [
+        {
+          "name": "Kuwar Virk",
+          "url": "https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Six Sense",
+      "url": "https://open.spotify.com/track/6k9KlFo5UPPh5vsCSQnGJa"
     },
     {
       "album": {
@@ -19258,6 +19482,52 @@
       "duration_ms": 313411,
       "name": "Wrong Life",
       "url": "https://open.spotify.com/track/7F4c5Xio4eQLI1VuzPAOaO"
+    },
+    {
+      "album": {
+        "name": "WZR GANG",
+        "url": "https://open.spotify.com/album/1oalrFAcVxoEhZhy8VPQ8q"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Roop Bhullar",
+          "url": "https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d"
+        },
+        {
+          "name": "Jeona Sandhu",
+          "url": "https://open.spotify.com/artist/4zWsm8YmnCds14MpEr153b"
+        },
+        {
+          "name": "Pawan Dhanda",
+          "url": "https://open.spotify.com/artist/4Hoz7OmMfGJhRUcPCUoJgc"
+        },
+        {
+          "name": "Vijay Brar",
+          "url": "https://open.spotify.com/artist/3fuQZePOJQLJ8fgBDLCaZO"
+        },
+        {
+          "name": "Sky 38",
+          "url": "https://open.spotify.com/artist/6pciHEnBi4NOwZohw7jB1f"
+        },
+        {
+          "name": "Chobar",
+          "url": "https://open.spotify.com/artist/1otPBqhfxta9IgOgoRtej4"
+        },
+        {
+          "name": "Aqaal",
+          "url": "https://open.spotify.com/artist/3XpJrdSEPmGsVflzDgVV8D"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260645,
+      "name": "WZR GANG",
+      "url": "https://open.spotify.com/track/5jzegEcChN9SniAzuqlaSP"
     },
     {
       "album": {

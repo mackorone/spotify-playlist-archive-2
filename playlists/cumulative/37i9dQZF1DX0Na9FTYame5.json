@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Bilder gel\u00f6scht",
+        "url": "https://open.spotify.com/album/0bm9QBdzlyofiaGLjdxp9w"
+      },
+      "artists": [
+        {
+          "name": "Rasa",
+          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128208,
+      "name": "Bilder gel\u00f6scht",
+      "url": "https://open.spotify.com/track/0wKWqXhfHCguE2ylxibYOc"
+    },
+    {
+      "album": {
         "name": "Bis ins Grab",
         "url": "https://open.spotify.com/album/2hgBF2jOKJaLBwCMyWYEFP"
       },
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 182823,
       "name": "Himmel Leer",
       "url": "https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl"

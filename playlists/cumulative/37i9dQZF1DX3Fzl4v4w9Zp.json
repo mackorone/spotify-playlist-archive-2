@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 270413,
       "name": "After The Setting Sun",
       "url": "https://open.spotify.com/track/2F9T7qKqhmZeAR7fdKBQF1"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 190026,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 184283,
       "name": "Canyon Walls",
       "url": "https://open.spotify.com/track/3MMnyvIcSvXeUPEe368nnr"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 254260,
       "name": "Cons and Clowns",
       "url": "https://open.spotify.com/track/2ekZyfx35076vxQPlr2TKu"
@@ -3436,6 +3436,24 @@
       "duration_ms": 235773,
       "name": "Dance Floor",
       "url": "https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8"
+    },
+    {
+      "album": {
+        "name": "The Dreamin' Kind",
+        "url": "https://open.spotify.com/album/5MK4yVKiCMIpSQtCUyVUGC"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219030,
+      "name": "Dance On Thru",
+      "url": "https://open.spotify.com/track/5IN1bAiqeVW8Xb7ZV2pWBj"
     },
     {
       "album": {
@@ -4469,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/2Bn5Qn9nmG0lVZTbU6C6Gz"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243675,
+      "name": "Everyone Wants To Feel Like You Do",
+      "url": "https://open.spotify.com/track/0S4FrT5ZhIwjdnqsGI69lZ"
+    },
+    {
+      "album": {
         "name": "The Chicago Sessions",
         "url": "https://open.spotify.com/album/43n3JA5Xt9rnxgq3yQ7i6o"
       },
@@ -5004,6 +5040,32 @@
       "duration_ms": 240629,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
+    },
+    {
+      "album": {
+        "name": "Celestun",
+        "url": "https://open.spotify.com/album/1rmjG24eR4dWSKYMIRRtVt"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ramsey",
+          "url": "https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK"
+        },
+        {
+          "name": "Carl Broemel",
+          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
+        },
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221248,
+      "name": "Flying Things",
+      "url": "https://open.spotify.com/track/68kAGTN3TTGgA5KlvCtZy5"
     },
     {
       "album": {
@@ -5672,7 +5734,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 169743,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/01n39Mu47mpIcU98RO9PaW"
@@ -6739,6 +6801,24 @@
     },
     {
       "album": {
+        "name": "Hi, I\u2019m The Preacher\u2019s Son",
+        "url": "https://open.spotify.com/album/4MUXB6ovKAevEaZpRwfazU"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246329,
+      "name": "Hi, I\u2019m The Preacher's Son",
+      "url": "https://open.spotify.com/track/2JmsEJreSudPlWqnYhRS33"
+    },
+    {
+      "album": {
         "name": "Hide Anymore / Devil In My Eyes",
         "url": "https://open.spotify.com/album/6qLcy29RQ8wsIiqsxJWsye"
       },
@@ -7716,6 +7796,28 @@
       "duration_ms": 330636,
       "name": "If Not for the Rain",
       "url": "https://open.spotify.com/track/09KLleKjGJXVYKlkRB548W"
+    },
+    {
+      "album": {
+        "name": "We're Only Human (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5krbedW1pzBvLi5RhpaJUZ"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307339,
+      "name": "If We Don't Try",
+      "url": "https://open.spotify.com/track/1QcH0s1zMAfjlNNQypKxsw"
     },
     {
       "album": {
@@ -8793,6 +8895,24 @@
     },
     {
       "album": {
+        "name": "Like a Child",
+        "url": "https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216380,
+      "name": "Like a Child",
+      "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
+    },
+    {
+      "album": {
         "name": "A Thousand Turns",
         "url": "https://open.spotify.com/album/7B1SY1ny6RhqjdQRxHpXdQ"
       },
@@ -9328,7 +9448,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 294404,
       "name": "Matches",
       "url": "https://open.spotify.com/track/4pybVDU00cH4bqUxqKg4ve"
@@ -10395,6 +10515,24 @@
     },
     {
       "album": {
+        "name": "Nothing Comes Easy",
+        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174087,
+      "name": "Nothing Comes Easy",
+      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
+    },
+    {
+      "album": {
         "name": "Nothing I Need",
         "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
       },
@@ -10406,7 +10544,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 213283,
       "name": "Nothing I Need",
       "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
@@ -10554,7 +10692,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 213137,
       "name": "Oh My Days",
       "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
@@ -10572,7 +10710,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 149435,
       "name": "Old Fort Steel Trail",
       "url": "https://open.spotify.com/track/4kcsDPAER6xQl8WFyWP1gr"
@@ -10680,7 +10818,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 281602,
       "name": "On The Red River",
       "url": "https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM"
@@ -11274,7 +11412,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 232952,
       "name": "Piece Of Mind",
       "url": "https://open.spotify.com/track/1rwtU3nXaJHbB4Huhhu76B"

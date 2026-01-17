@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -14324,7 +14324,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 122246,
       "name": "Everything is romantic - Reimagined",
       "url": "https://open.spotify.com/track/6JvdunPHOc9bKBIlojEKJM"
@@ -15124,7 +15124,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 90526,
       "name": "Fendi 2",
       "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
@@ -22432,7 +22432,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 155312,
       "name": "J'attends au Carrefour Market",
       "url": "https://open.spotify.com/track/6T1zGi3OVN6ETmPoSol0oS"
@@ -32818,10 +32818,28 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 177745,
       "name": "NOUS#2",
       "url": "https://open.spotify.com/track/0Uk6hWslV7htWKJJeXptG6"
+    },
+    {
+      "album": {
+        "name": "NOUS#2",
+        "url": "https://open.spotify.com/album/6IyODJS95ZHOWWBmR6XeWM"
+      },
+      "artists": [
+        {
+          "name": "K2_sp",
+          "url": "https://open.spotify.com/artist/4umoFzSNxHe3qePhsY2eqd"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177758,
+      "name": "NOUS#2",
+      "url": "https://open.spotify.com/track/49I6wzkGWO11FFNicqY7oa"
     },
     {
       "album": {
@@ -40646,7 +40664,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 212400,
       "name": "Solide",
       "url": "https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX"

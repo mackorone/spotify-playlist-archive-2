@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,540 songs - 3 day 16 hr 48 min
+1,543 songs - 3 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Forgotten Love \- Claptone Remix](https://open.spotify.com/track/22rQTTEmj9aXKmep11k2IW) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Forgotten Love \(Claptone Remix\)](https://open.spotify.com/album/3e78WmQ1jpeeAtlAN3WhQE) | 3:03 | 2019-08-09\* | 2020-03-27 |
 | [Found Love](https://open.spotify.com/track/1mO3hOEayERMNUGIpAwImF) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Found Love](https://open.spotify.com/album/57eCaYt4N19oDxYyDVeSY4) | 3:20 | 2025-04-25 |  |
 | [Found You](https://open.spotify.com/track/7HSNDCmILAqYrMZh4tZgp4) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Found You](https://open.spotify.com/album/5gSBj2sB9Y304uCdvNpqFE) | 3:16 | 2019-08-09\* | 2019-09-25 |
+| [Found Your Love](https://open.spotify.com/track/1mAJL4ypRyWLI0UMDxAanG) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Found Your Love](https://open.spotify.com/album/0GbWTbFQk0gXHxwhG0zXbS) | 3:03 | 2026-01-16 |  |
 | [Fractures](https://open.spotify.com/track/4G3IXyVRxSx5lLhUvv3fu3) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Awake](https://open.spotify.com/album/5rvIgXvAPGWspXY4rDLkeU) | 4:05 | 2019-08-09\* | 2019-11-29 |
 | [Free](https://open.spotify.com/track/2EVfXWxhsdR4izZEhfJNRq) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [x.o.anne](https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq) | [Free](https://open.spotify.com/album/0LWP67zCgd6X3cP7dcSMMB) | 3:16 | 2024-07-26 |  |
 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 | 2022-05-13 | 2024-04-10 |
@@ -1191,6 +1192,7 @@
 | [Someone Like Me](https://open.spotify.com/track/1D3qSUMiemq8wa4xXOC2qi) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Someone Like Me](https://open.spotify.com/album/1LySaog72VAyFPovOxAPUx) | 3:24 | 2023-02-24 | 2023-05-21 |
 | [Someone To You \- Pilton Remix](https://open.spotify.com/track/6SJ6CTasOK36srbMBZboev) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [pilton](https://open.spotify.com/artist/4yd7yIMgOjvfUnubRvz3YT) | [Someone To You](https://open.spotify.com/album/5pUQMrcO8qgvOWtBh853N5) | 3:44 | 2020-10-30 | 2021-09-25 |
 | [Something About Your Love](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 5:23 | 2022-07-08 | 2024-04-10 |
+| [SOMETHING BEAUTIFUL](https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [SOMETHING BEAUTIFUL](https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ) | 1:51 | 2026-01-16 |  |
 | [Something Better](https://open.spotify.com/track/6fy2SxEFRlk1CIdlvKRP0m) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Something Better](https://open.spotify.com/album/5vssPgViyfH4SBdZ1MNOZ3) | 3:32 | 2019-08-09\* | 2019-08-27 |
 | [Something Good](https://open.spotify.com/track/0qscIsYCxSWh66upVCgIHi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Something Good](https://open.spotify.com/album/7Jreo1cECF4Mc8uaxluXIo) | 3:12 | 2019-08-09\* | 2020-03-29 |
 | [Something In The Way \- triple j Like A Version](https://open.spotify.com/track/10BJncb5uin37ip2IhSoJz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Something In The Way \(triple j Like A Version\)](https://open.spotify.com/album/4mzRCuc9TIoJ4M3a7eFuvX) | 4:34 | 2023-03-24 | 2024-04-19 |
@@ -1430,6 +1432,7 @@
 | [Way Back Home](https://open.spotify.com/track/2ZpL0ykp4gIyMxHam6vi6G) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Way Back Home](https://open.spotify.com/album/4I4yBrnQO22XwUh0iUYiSO) | 2:44 | 2022-11-11 | 2024-04-10 |
 | [Way Back Home](https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Way Back Home](https://open.spotify.com/album/0uzdr4Q8ftYWdrAeej6M5F) | 2:55 | 2021-09-11 | 2022-05-14 |
 | [Way That I Do](https://open.spotify.com/track/1SlbKGl5Evbifvn0omh6r7) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Way That I Do](https://open.spotify.com/album/0R4yvFZBJgGskBvJUtf7hv) | 3:05 | 2022-01-07 | 2022-10-29 |
+| [WAY YOU SMILE](https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [TO MAKE PEOPLE HAPPY](https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq) | 3:22 | 2026-01-16 |  |
 | [We Are Lucky People \- Album Mix](https://open.spotify.com/track/4S1IVFlq1QKDAsB49sGa5s) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA) | [We Are Lucky People](https://open.spotify.com/album/2wAy5XYfurWIjkl5F3xCkU) | 4:31 | 2019-08-09\* | 2019-08-27 |
 | [We Are One \- Radio Edit](https://open.spotify.com/track/3zDNawOBsMoGKjbiq3MIHb) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [We Are One](https://open.spotify.com/album/2ZKrKCPSzoCjxreLbx4Phd) | 3:11 | 2019-08-09\* | 2019-08-27 |
 | [We Can't Give Up](https://open.spotify.com/track/7lBAKSeXGXmMEhLiz0qw9M) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [We Can't Give Up](https://open.spotify.com/album/2xBnlbYxvlKHn3tPy7oWef) | 2:38 | 2019-08-09\* | 2021-08-30 |

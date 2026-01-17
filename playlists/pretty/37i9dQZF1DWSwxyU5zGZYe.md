@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,726 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,757 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Dil Diyan Gallan \(Unplugged\)](https://open.spotify.com/track/1As58Rpu8oZtLDAeVFHVyq) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tiger Zinda Hai](https://open.spotify.com/album/2q00VQKBQu6ZUesFREPFWc) | 4:03 |
 | 50 | [Roya Jab Tu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/0IKoHIQ1CshjtvYIOu5hwB) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Azeem Dayani](https://open.spotify.com/artist/3LS9qSMFoF810jMMBGf4fU) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 5:00 |
 
-Snapshot ID: `AAAAAGjAXHyFru3JrYEUxb6tWY4wm+N+`
+Snapshot ID: `AAAAAGr/c/hbho5FDEBUMkWIM2ayHK8T`

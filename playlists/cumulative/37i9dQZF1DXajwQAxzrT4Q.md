@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-340 songs - 13 hr 40 min
+341 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Running Man Challenge \(My Boo\)](https://open.spotify.com/track/60JiEa7IaQguLaV3Vc6GUc) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Running Man Challenge \(My Boo\)](https://open.spotify.com/album/0hENRboSeMbq3feQzjSMBA) | 1:57 | 2022-04-01 | 2022-05-10 |
 | [Ryde Dat](https://open.spotify.com/track/40NRmZ9L2ZMv33VOiHecTA) | [Leemz](https://open.spotify.com/artist/5P1SmpifePa7JRQko1C9gN) | [Ryde Dat](https://open.spotify.com/album/0vwFCu3RX5O8paW5Cg2mjV) | 3:32 | 2022-02-11 | 2022-08-30 |
 | [Saint Laurent](https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Saint Laurent](https://open.spotify.com/album/4eD8ndZc5zCAMSHpHm3Qzj) | 2:32 | 2022-02-11 | 2023-07-20 |
-| [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 | 2022-10-28 |  |
+| [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 | 2022-10-28 | 2026-01-17 |
 | [Self Esteem \(feat\. NLE Choppa\) \- DJ Smallz 732 Jersey Club Remix](https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(feat\. NLE Choppa\) \[DJ Smallz 732 Jersey Club Remix\]](https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC) | 1:29 | 2023-03-10 | 2024-05-19 |
 | [Serbian Dancing Lady](https://open.spotify.com/track/2UA6a86JxflDu8cHJJpnti) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Serbian Dancing Lady](https://open.spotify.com/album/5Wdr2NUvHYKWuPwsFnsaSD) | 1:54 | 2024-02-23 | 2024-04-06 |
 | [Shake Dat](https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3) | [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx) | [Shake Dhat](https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL) | 0:56 | 2022-02-11 | 2022-12-31 |
@@ -336,6 +336,7 @@
 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 | 2022-02-11 |  |
 | [Weak \(Bend Over\)](https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Ayo Smallz](https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E) | 1:25 | 2022-02-11 |  |
 | [What Happened 2 Me?](https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [What Happened 2 Me?](https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x) | 1:39 | 2023-11-24 | 2025-01-02 |
+| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-16 |  |
 | [When We Get Home](https://open.spotify.com/track/0T6FWFUiWZeMFsJwCGZRpA) | [Mike Hardy](https://open.spotify.com/artist/1RTH5BpQTgj2EUBgE357It), [West End Tricks](https://open.spotify.com/artist/4KWruAZX5BRTjIW1l9wgSK) | [When We Get Home](https://open.spotify.com/album/3caxs1G4p2kggKYYbg5RQf) | 2:07 | 2022-02-11 | 2022-07-25 |
 | [When We Vibe \- DeFalco Remix](https://open.spotify.com/track/59IH8DOmxiE2bfMl4SBVAv) | [Noa James](https://open.spotify.com/artist/03lFyWOEdgNdHvpdxZbfC6), [Eugene O'Neil](https://open.spotify.com/artist/6KwtNpi7qRdWa0TR2S6HUW) | [When We Vibe \(DeFalco Remix\)](https://open.spotify.com/album/3tHIvRqrICU2PBLQnaRIpB) | 2:28 | 2022-02-11 | 2022-07-29 |
 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 | 2023-10-27 |  |

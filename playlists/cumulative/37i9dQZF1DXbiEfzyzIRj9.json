@@ -34275,6 +34275,24 @@
     },
     {
       "album": {
+        "name": "The Story Continues EP",
+        "url": "https://open.spotify.com/album/0t7SXv37enQ1Y5YNb27dzK"
+      },
+      "artists": [
+        {
+          "name": "Dj Steaw",
+          "url": "https://open.spotify.com/artist/718Tju2ByjiEXnhaiUeQZE"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "The Truth Is Out There - Edit",
+      "url": "https://open.spotify.com/track/3ljDpdbBrt8vbrQ2G6VL9g"
+    },
+    {
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA"
       },
@@ -35310,24 +35328,6 @@
       "duration_ms": 222000,
       "name": "TR Smooth",
       "url": "https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Dj Steaw",
-          "url": "https://open.spotify.com/artist/718Tju2ByjiEXnhaiUeQZE"
-        }
-      ],
-      "date_added": "2026-01-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3ljDpdbBrt8vbrQ2G6VL9g"
     },
     {
       "album": {

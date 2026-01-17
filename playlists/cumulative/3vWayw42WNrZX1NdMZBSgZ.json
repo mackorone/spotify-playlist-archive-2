@@ -4997,6 +4997,24 @@
     },
     {
       "album": {
+        "name": "Divina (En Vivo Coliseo de Puerto Rico)",
+        "url": "https://open.spotify.com/album/3CmeFFS7qeZFdsohBBPqut"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211485,
+      "name": "Divina - En Vivo Coliseo de Puerto Rico",
+      "url": "https://open.spotify.com/track/18cnKKqYMWyCGDYoBZUGT9"
+    },
+    {
+      "album": {
         "name": "Don't Wait Up",
         "url": "https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp"
       },
@@ -14004,6 +14022,24 @@
       "duration_ms": 218480,
       "name": "Por Si Me Vuelves a Querer",
       "url": "https://open.spotify.com/track/1rBeu1vaULdjMNOBa7JerW"
+    },
+    {
+      "album": {
+        "name": "Por un Pendejo no se llora (Salud mi Reina)",
+        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151146,
+      "name": "Por un Pendejo no se llora - Salud mi Reina",
+      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
     },
     {
       "album": {

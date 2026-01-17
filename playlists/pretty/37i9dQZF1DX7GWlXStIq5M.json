@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: GABI LINS",
-  "num_followers": 365161,
+  "num_followers": 365128,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOSXzbTRuX7pAnPXQWO3QQ5kcMZU",
+  "snapshot_id": "AAAAADS1WMOu84GENGnQdxnNowjG2EFI",
   "tracks": [
     {
       "added_at": "2026-01-09 03:01:26",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "TANTAS FORMAS DE DIZER ADEUS",
+        "url": "https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 160741,
+      "name": "Coincidentemente (Tirando Certas Coisas)",
+      "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "Mil e uma Noites",
         "url": "https://open.spotify.com/album/3yU72PPiAtFrH1J0aEeOyx"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "TANTAS FORMAS DE DIZER ADEUS",
-        "url": "https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi"
+        "name": "baseado em surtos reais",
+        "url": "https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC"
       },
       "artists": [
         {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
         }
       ],
-      "duration_ms": 160741,
-      "name": "Coincidentemente (Tirando Certas Coisas)",
-      "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
+      "duration_ms": 139726,
+      "name": "exausta",
+      "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -427,22 +443,6 @@
       "duration_ms": 198926,
       "name": "Hist\u00f3ria para dois",
       "url": "https://open.spotify.com/track/0yUf4HZet2Kc6ftAOgtT35"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "baseado em surtos reais",
-        "url": "https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC"
-      },
-      "artists": [
-        {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "exausta",
-      "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "furta-cor",
+        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "furta-cor",
+      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "Eu \u00c5doro",
         "url": "https://open.spotify.com/album/5VS4W67U1VxG3qMGMFSMdW"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 157347,
       "name": "Eu \u00c5doro",
       "url": "https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "furta-cor",
-        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "furta-cor",
-      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Falo Demais",
-        "url": "https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 171951,
-      "name": "Falo Demais",
-      "url": "https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "O Motivo",
         "url": "https://open.spotify.com/album/5j7Wfy6vxuPgjN1b1PY7SW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 184019,
       "name": "O Motivo",
       "url": "https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Falo Demais",
+        "url": "https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 171951,
+      "name": "Falo Demais",
+      "url": "https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Meu I\u00f4 I\u00f4",
-      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Vis\u00f5es",
         "url": "https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 159117,
       "name": "Vis\u00f5es",
       "url": "https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "added_at": "2026-01-09 03:01:26",

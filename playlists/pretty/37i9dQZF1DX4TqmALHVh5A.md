@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : James Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,134 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,170 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/2SevTNSp0JjUiKqk0SQTLS) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Rose](https://open.spotify.com/track/2SevTNSp0JjUiKqk0SQTLS) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy Rose](https://open.spotify.com/album/1mnFieEOP2S3wQbZaYwEne) | 4:00 |
 | 2 | [Un Cri Dans Le Métro](https://open.spotify.com/track/2hWWHIXzcexn3QjpsBWsJP) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Un Cri Dans Le Métro](https://open.spotify.com/album/6fQKbdeZ74qspEkX5MnuPS) | 3:22 |
 | 3 | [La délicatesse](https://open.spotify.com/track/56n9Iuw4IMSWk4SCMUYMFF) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [La délicatesse](https://open.spotify.com/album/3qjCkRSt0YOz4mqELWcnum) | 3:09 |
 | 4 | [amsterdam](https://open.spotify.com/track/0p1jyG640jfYCes1EagSsU) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [on s'en rappellera pas](https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5) | 3:10 |

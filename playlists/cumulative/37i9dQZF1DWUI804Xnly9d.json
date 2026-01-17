@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 310509,
       "name": "Fikhar",
       "url": "https://open.spotify.com/track/7mUHIGHf5T9b8sUhhF2viD"
@@ -7248,6 +7248,24 @@
       "duration_ms": 267043,
       "name": "Masoom",
       "url": "https://open.spotify.com/track/1Bq5DRGjTStmHKIScZ4poF"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Amarabha Banerjee",
+          "url": "https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248145,
+      "name": "Maula Mere",
+      "url": "https://open.spotify.com/track/7ss3vPgVJ4TmIjdVdmjnvT"
     },
     {
       "album": {

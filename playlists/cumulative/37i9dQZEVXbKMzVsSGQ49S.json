@@ -8300,7 +8300,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 109714,
       "name": "Century",
       "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
@@ -29374,7 +29374,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 217338,
       "name": "Leyndarm\u00e1l",
       "url": "https://open.spotify.com/track/3wuDSL9MTYw246xmIz2KPd"
@@ -48623,6 +48623,28 @@
     },
     {
       "album": {
+        "name": "S\u00edr\u00f3p",
+        "url": "https://open.spotify.com/album/0DdF1VZcTgaz9By2OaUO3R"
+      },
+      "artists": [
+        {
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        },
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161017,
+      "name": "S\u00edr\u00f3p",
+      "url": "https://open.spotify.com/track/02YzSdcvtxP5lBum1foawq"
+    },
+    {
+      "album": {
         "name": "S\u00f3 n\u00e3o dou meu celular",
         "url": "https://open.spotify.com/album/5Q9X5b2s3zeKjskcXzSs2l"
       },
@@ -57366,6 +57388,24 @@
       "duration_ms": 184060,
       "name": "you say",
       "url": "https://open.spotify.com/track/2xOk6Q1M6SLVuZg0ZyvvPg"
+    },
+    {
+      "album": {
+        "name": "You Stole The Show",
+        "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207190,
+      "name": "You Stole The Show",
+      "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
     },
     {
       "album": {

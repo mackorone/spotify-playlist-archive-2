@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,523 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,598 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 7 | [Sauteur](https://open.spotify.com/track/6NAPfj5sTMlfBxid1cPRRd) | [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Sauteur](https://open.spotify.com/album/4nmMjKL8AznO7Dke0OvmHh) | 2:51 |
 | 8 | [MAISON B](https://open.spotify.com/track/2oKg3xtRJGNhFqpUux1u8G) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Team 2 poy](https://open.spotify.com/artist/4dqGz3Bm6XlgOUNXWSeuox), [Maison B](https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse) | [MAISON B](https://open.spotify.com/album/1IP3m7sFLwnEZrlYQlEODo) | 2:26 |
 | 9 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 |
-| 10 | [L'ARGENT PROPRE](https://open.spotify.com/track/4VQML2a6HZC4htq4jjnIv4) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [](https://open.spotify.com/album/null) | 3:56 |
+| 10 | [L'ARGENT PROPRE](https://open.spotify.com/track/4VQML2a6HZC4htq4jjnIv4) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [DONI DONI](https://open.spotify.com/album/15Q3TClLlr3rurOsOAOksr) | 3:56 |
 | 11 | [C'EST SON TEMPS](https://open.spotify.com/track/24Q4IrzjWhZnAB9e5oDGrb) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'EST SON TEMPS](https://open.spotify.com/album/5pSmtSt3JwN7vQ5AdeESpS) | 3:58 |
 | 12 | [Ou est Dos la](https://open.spotify.com/track/68eS9kZwmS9LM8pc1c7wa6) | [Puissance 225](https://open.spotify.com/artist/39MKS7R6rFb0JwY0Nglq7t), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Team2poy](https://open.spotify.com/artist/29PYWKj290o1Mowz6cmuht), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Ou est Dos la](https://open.spotify.com/album/2WKRypsch6ggIVQzjtVO6q) | 3:45 |
 | 13 | [Dos de chat](https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Dos de chat](https://open.spotify.com/album/5Y8wOOM07VtkJ47PRJ9GPf) | 3:19 |

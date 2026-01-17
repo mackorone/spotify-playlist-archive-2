@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Al Xapo, Benzoo, Eeque
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,021 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,277 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Umlungu Wami](https://open.spotify.com/track/0Z63ASshEjLPyOxguKGYve) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1) | [Under The Sun \(Part One\)](https://open.spotify.com/album/7kkAq9kErGaqUJSfC4qGu4) | 4:51 |
 | 50 | [Mind Expansion \- Radio Edit](https://open.spotify.com/track/3Ms9GelNWS4xAmlCcy0Lx5) | [Floyd Lavine](https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw), [The Illustrious Blacks](https://open.spotify.com/artist/1ZZthpcsHPWbkTUw7HNTu1) | [HEKIMA](https://open.spotify.com/album/5n0LltozgBNetnbRDoPxdn) | 3:30 |
 
-Snapshot ID: `AAAAAPbes0HClwmJ1Fw8JPcta2PHJXyg`
+Snapshot ID: `AAAAAArTv2QdIKI4tCdxzXpAYi/XfG7p`

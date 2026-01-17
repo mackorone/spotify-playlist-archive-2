@@ -6,8 +6,40 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABKHu7K7mUD1l97+J8dyz7hxMHejwUd",
+  "snapshot_id": "AABKKCl0tBqPUiBCofQBeV02ydobjcoZ",
   "tracks": [
+    {
+      "added_at": "2026-01-16 11:21:07",
+      "album": {
+        "name": "STRNGEWRLD",
+        "url": "https://open.spotify.com/album/7xvqS4Y4O3S931oP8sWU2p"
+      },
+      "artists": [
+        {
+          "name": "Last Hounds",
+          "url": "https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/0LgvHiRFSslEPGpBdE7A2Z"
+    },
+    {
+      "added_at": "2026-01-16 11:22:01",
+      "album": {
+        "name": "4 in a Cycle of Thirds",
+        "url": "https://open.spotify.com/album/3rjRIXiPyLMtaKghJpNYf2"
+      },
+      "artists": [
+        {
+          "name": "Alev Lenz",
+          "url": "https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg"
+        }
+      ],
+      "duration_ms": 161063,
+      "name": "Brittle (on Gb)",
+      "url": "https://open.spotify.com/track/3TD6CyPupgZSAjWGFgddCo"
+    },
     {
       "added_at": "2026-01-15 08:33:29",
       "album": {
@@ -23,6 +55,54 @@
       "duration_ms": 204963,
       "name": "Bridge of Sacrifice",
       "url": "https://open.spotify.com/track/1TcxVhdUtm5SU3gbEoWGr1"
+    },
+    {
+      "added_at": "2026-01-16 11:20:39",
+      "album": {
+        "name": "Karula",
+        "url": "https://open.spotify.com/album/1J6ohljXo3gfqVZcqz0PQ7"
+      },
+      "artists": [
+        {
+          "name": "baptisma",
+          "url": "https://open.spotify.com/artist/3NP6WSymS4GrjWJRzNLh6i"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Karula",
+      "url": "https://open.spotify.com/track/22jnNhL4ZE4sFGMdymik47"
+    },
+    {
+      "added_at": "2026-01-16 11:20:50",
+      "album": {
+        "name": "Vatten",
+        "url": "https://open.spotify.com/album/22sD8xTn4oPjdZQgajFJ9O"
+      },
+      "artists": [
+        {
+          "name": "LISA MONTAN",
+          "url": "https://open.spotify.com/artist/0NsKLKqPAR6wB9uUFg7uYx"
+        }
+      ],
+      "duration_ms": 289071,
+      "name": "Vatten",
+      "url": "https://open.spotify.com/track/3tVwdweF412Bzudo85lFoE"
+    },
+    {
+      "added_at": "2026-01-16 11:21:35",
+      "album": {
+        "name": "Through Lands Of Ghosts",
+        "url": "https://open.spotify.com/album/3uAqddepe9JruVbkRj9cSZ"
+      },
+      "artists": [
+        {
+          "name": "Foster Neville",
+          "url": "https://open.spotify.com/artist/6TxSiRc59uPw0NLoQRYYCr"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Long Sleep of West Kennet Long Barrow",
+      "url": "https://open.spotify.com/track/6rUAwXgBStL8UduCnA3roq"
     },
     {
       "added_at": "2026-01-15 08:35:55",

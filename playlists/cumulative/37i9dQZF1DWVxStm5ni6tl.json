@@ -18979,6 +18979,24 @@
     },
     {
       "album": {
+        "name": "High Vibration",
+        "url": "https://open.spotify.com/album/0OvvRvGZuMbMl7iM1AZZuz"
+      },
+      "artists": [
+        {
+          "name": "Stuck On Planet Earth",
+          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200196,
+      "name": "High Vibration",
+      "url": "https://open.spotify.com/track/58GcuQsfJ5dHaUX4nfUl3A"
+    },
+    {
+      "album": {
         "name": "Highway Money",
         "url": "https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa"
       },
@@ -21450,6 +21468,24 @@
       "duration_ms": 229432,
       "name": "Ici",
       "url": "https://open.spotify.com/track/5HJ9beWs5XyDhymqcDpKEo"
+    },
+    {
+      "album": {
+        "name": "BEFORE I LEAVE YOUR MIND",
+        "url": "https://open.spotify.com/album/1QdjBlKOJoSOAxveCyZAuN"
+      },
+      "artists": [
+        {
+          "name": "DACEY",
+          "url": "https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162132,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/2ye2tvHyJSOVzsTdm81s6Z"
     },
     {
       "album": {
@@ -48418,42 +48454,6 @@
       "duration_ms": 189510,
       "name": "Tracer des lignes",
       "url": "https://open.spotify.com/track/19G5LnSJ7Gc3fuww6Q7oET"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Stuck On Planet Earth",
-          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
-        }
-      ],
-      "date_added": "2026-01-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/58GcuQsfJ5dHaUX4nfUl3A"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "DACEY",
-          "url": "https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0"
-        }
-      ],
-      "date_added": "2026-01-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/2ye2tvHyJSOVzsTdm81s6Z"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 400268,
+  "num_followers": 400310,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Mademoiselle Chante",
-        "url": "https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7"
-      },
-      "artists": [
-        {
-          "name": "Patricia Kaas",
-          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
-        }
-      ],
-      "duration_ms": 253666,
-      "name": "Mon mec \u00e0 moi",
-      "url": "https://open.spotify.com/track/1UZGVlCoNGQ6ps64QDvydQ"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Voyou (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 161493,
       "name": "Diego libre dans sa t\u00eate - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Mademoiselle Chante",
+        "url": "https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7"
+      },
+      "artists": [
+        {
+          "name": "Patricia Kaas",
+          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
+        }
+      ],
+      "duration_ms": 253666,
+      "name": "Mon mec \u00e0 moi",
+      "url": "https://open.spotify.com/track/1UZGVlCoNGQ6ps64QDvydQ"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "L'essentiel",
-        "url": "https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym"
-      },
-      "artists": [
-        {
-          "name": "Elsa",
-          "url": "https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1"
-        }
-      ],
-      "duration_ms": 328266,
-      "name": "T'en va pas",
-      "url": "https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Mistral gagnant",
         "url": "https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 255026,
       "name": "Miss Maggie",
       "url": "https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "L'essentiel",
+        "url": "https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym"
+      },
+      "artists": [
+        {
+          "name": "Elsa",
+          "url": "https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1"
+        }
+      ],
+      "duration_ms": 328266,
+      "name": "T'en va pas",
+      "url": "https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8"
     },
     {
       "added_at": "2025-12-29 17:53:07",

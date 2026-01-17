@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 128613,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6nVT7yKO7jV4Qw6PZ9B0PK"
@@ -3214,6 +3214,24 @@
       "duration_ms": 193377,
       "name": "Watch For The View",
       "url": "https://open.spotify.com/track/1YxZJ9dgrOCa41kVaZe9bc"
+    },
+    {
+      "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/2iKLXxZIGM4af8GBn2RC7K"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/7M2DbRhTl0wHZzeHGVZvn6"
     },
     {
       "album": {

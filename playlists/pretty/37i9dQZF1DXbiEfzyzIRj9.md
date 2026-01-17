@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: パソコン音楽クラブ
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,401 likes - 99 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,439 likes - 99 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 5 | [Tentone](https://open.spotify.com/track/21h3rDX7IGqIXCSGWYmjS5) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Tentone](https://open.spotify.com/album/4LSYomT49BOhrH8lATVhUq) | 3:59 |
 | 6 | [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 |
 | 7 | [Agate](https://open.spotify.com/track/7xKGzMdTSQ1GSAucu8x9eX) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Caught in Latency](https://open.spotify.com/album/0ALWI6UeX3IBMa6oDNWaCq) | 4:53 |
-| 8 | [Track 2](https://open.spotify.com/track/3ljDpdbBrt8vbrQ2G6VL9g) | [Dj Steaw](https://open.spotify.com/artist/718Tju2ByjiEXnhaiUeQZE) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [The Truth Is Out There \- Edit](https://open.spotify.com/track/3ljDpdbBrt8vbrQ2G6VL9g) | [Dj Steaw](https://open.spotify.com/artist/718Tju2ByjiEXnhaiUeQZE) | [The Story Continues EP](https://open.spotify.com/album/0t7SXv37enQ1Y5YNb27dzK) | 3:19 |
 | 9 | [Go On](https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Go On](https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4) | 3:24 |
 | 10 | [Cool and Dope](https://open.spotify.com/track/3ah73cv3hKLdZRmL1WWNqX) | [Austin Ato](https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66) | [Cool and Dope](https://open.spotify.com/album/4eIbaypmnzzq5feGQsiif8) | 7:07 |
 | 11 | [Say Nothing](https://open.spotify.com/track/4XFitOZjhnQw66LVvd3EfW) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Say Nothing](https://open.spotify.com/album/3XkbLaT1UrPtCThjFE9FAX) | 3:08 |

@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,093 songs - 2 day 3 hr 54 min
+1,094 songs - 2 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [CEO](https://open.spotify.com/track/3n2bJ5mrCykRM3SFpkli6C) | [ALE](https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW) | [CEO](https://open.spotify.com/album/3ELv9ibqvgohdIUHJyXddx) | 2:47 | 2023-10-02 | 2023-10-20 |
 | [CHAKRAT SEKASIN](https://open.spotify.com/track/2Wb80vbgLfUaVhEn1klrUb) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL) | [CHAKRAT SEKASIN](https://open.spotify.com/album/0AqgZh11n5YJ4bXoCCzfeC) | 2:17 | 2024-02-22 | 2024-03-08 |
 | [Cheese](https://open.spotify.com/track/0qLOfTNHwfMOzNdLDkE4cv) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY) | [Cheese](https://open.spotify.com/album/6t9mx1Zbk4ohWJphkaRRRl) | 3:30 | 2025-04-17 | 2025-04-25 |
-| [Chilleis](https://open.spotify.com/track/4zqRIepMt6pKkegF3hyLoP) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Chilleis](https://open.spotify.com/album/4kT5z7LW6JKBkET0a8hsFW) | 2:05 | 2025-12-18 |  |
+| [Chilleis](https://open.spotify.com/track/4zqRIepMt6pKkegF3hyLoP) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Chilleis](https://open.spotify.com/album/4kT5z7LW6JKBkET0a8hsFW) | 2:05 | 2025-12-18 | 2026-01-17 |
 | [Clean](https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Clean](https://open.spotify.com/album/3e100jRy19dNFWOzHRC59d) | 2:32 | 2023-09-21 | 2023-10-20 |
 | [Clique La Lv](https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om) | [Clique La Lv](https://open.spotify.com/album/2dSvQVodGZaLeDJ822DQNP) | 2:16 | 2025-12-18 |  |
 | [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Cocaina \(feat\. JVG\)](https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C) | 3:19 | 2026-01-01 |  |
@@ -575,6 +575,7 @@
 | [Miljoona tapaa \(feat\. EL'o\)](https://open.spotify.com/track/3wI1ZdK5YdoTcMG5N1xnSL) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [EL'o](https://open.spotify.com/artist/0Cqk8ixu2235ou4QsVpxnC) | [Miljoona tapaa \(feat\. EL'o\)](https://open.spotify.com/album/5Q29Zu4v5Aoe4ayRVcdaDS) | 3:12 | 2024-02-15 | 2024-03-08 |
 | [MILJOONII](https://open.spotify.com/track/3tikbLyxxOoXhSlJDhf5oc) | [JÄNÖKLUBI](https://open.spotify.com/artist/1pbxlp8DwtJROYvnt5PmRN), [Ghosti](https://open.spotify.com/artist/7e6kAM665pteBgJahEOisr), [Armas](https://open.spotify.com/artist/2qMX0BkNbPIsSdgC70ue9s), [Cozie](https://open.spotify.com/artist/38f9ZxefXrMjdW985F0WbO), [Noitatohtori](https://open.spotify.com/artist/0iVzVqpZiYK46ssXx7nqj9), [Kullervo](https://open.spotify.com/artist/39KHP6jiqcSRQRO9KOXbBs), [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7), [pikkuprinssi](https://open.spotify.com/artist/4adCYLwUNtncXNpTAq1mkq), [Neal low](https://open.spotify.com/artist/35iNct4qRvi6dSqP1I7U0A) | [MILJOONII](https://open.spotify.com/album/60IS1bGVL6bS7b0hXTqtdk) | 7:02 | 2023-11-11 | 2023-12-15 |
 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 | 2024-12-05 | 2025-04-18 |
+| [Million Dollar Smile](https://open.spotify.com/track/6kB0VQW17TAt7XddE7pkz5) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Million Dollar Smile](https://open.spotify.com/album/7v2aumxwZIVMH7bf26YGDq) | 2:54 | 2026-01-15 |  |
 | [Milt Se Tuntuu](https://open.spotify.com/track/2SbK2yP4FlKvl4s2WTBZni) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [EK2](https://open.spotify.com/album/6vKEXHMM0rHkasYJUt4nos) | 3:03 | 2024-11-21 | 2024-11-29 |
 | [Minimi \(feat\. Purplape\)](https://open.spotify.com/track/3YS6ps8C4Dh3DbizRvgpjc) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Minimi \(feat\. Purplape\)](https://open.spotify.com/album/65xRptwAW4alJtexDzKfci) | 2:59 | 2023-10-19 | 2023-12-01 |
 | [Ministerinpaikal](https://open.spotify.com/track/0eM9z8LrY9bdKF99D0P98i) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Ministerinpaikal / 1987](https://open.spotify.com/album/0F2xzUyFFvkTIRKHhVsfu7) | 3:48 | 2025-03-13 | 2025-06-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,580 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,666 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 49 | [Trem da Central](https://open.spotify.com/track/2mCDv73NQlObobNjntqKxx) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Vale Tudo](https://open.spotify.com/album/7eBRD6tCaMVuAQGXJ01AJc) | 4:02 |
 | 50 | [I Love You](https://open.spotify.com/track/7BtHSp6LBcnwB1kZItzxv0) | [Sandro Becker](https://open.spotify.com/artist/1w1OvUZS64uxOfV8yBZQJR) | [Sandro Becker](https://open.spotify.com/album/4CSbRoBJMyLc49gBelKvFB) | 2:55 |
 
-Snapshot ID: `AAAAAI/s9t+mZB29FpQV44Wh6wMxD+0b`
+Snapshot ID: `AAAAAG57zRT6lqi47w3hwo7xb+SgxJMb`

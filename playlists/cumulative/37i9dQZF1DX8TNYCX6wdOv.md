@@ -2,7 +2,7 @@
 
 ### [Best of Rising 65 2025](https://open.spotify.com/playlist/37i9dQZF1DX8TNYCX6wdOv)
 
-> Editor's picks of the best of Rising 65 this year\. Cover: karan
+> Editor's picks of the best of Rising 65 in 2025\. Cover: karan
 
 150 songs - 8 hr 15 min
 

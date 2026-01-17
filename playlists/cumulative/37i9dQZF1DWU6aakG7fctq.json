@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Los Aptos",
+  "description": "Fresh Latin Indie you should know. Cover: Nina del R\u00edo",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 208351,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+    },
+    {
+      "album": {
+        "name": "15 de enero",
+        "url": "https://open.spotify.com/album/3RSbMAaXv0uEFZZQDMyNBA"
+      },
+      "artists": [
+        {
+          "name": "DEL TORO",
+          "url": "https://open.spotify.com/artist/1Jn7RTBozrxlbYnnvLZnEU"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161086,
+      "name": "15 de enero",
+      "url": "https://open.spotify.com/track/3apQ07OXsYPymxuzUYENus"
     },
     {
       "album": {
@@ -2606,7 +2624,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 235136,
       "name": "Camas Separadas - ft. Disco Bah\u00eda",
       "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
@@ -4954,7 +4972,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 177230,
       "name": "D\u00e9jame Ser",
       "url": "https://open.spotify.com/track/5HE4LJrZlzTgadmAiCCEwR"
@@ -4998,6 +5016,28 @@
       "duration_ms": 154500,
       "name": "D\u00f3nde Tu Est\u00e1s",
       "url": "https://open.spotify.com/track/2evmjqcUcR6nRWjfz7GjWU"
+    },
+    {
+      "album": {
+        "name": "echar el vuelo",
+        "url": "https://open.spotify.com/album/004aRcw6uzDizz3BVw5ftW"
+      },
+      "artists": [
+        {
+          "name": "Alexia Naomi",
+          "url": "https://open.spotify.com/artist/6f9J2VhTUt61qMX87UtIqn"
+        },
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219163,
+      "name": "echar el vuelo",
+      "url": "https://open.spotify.com/track/4pdwknmiUujyfOE3wgmlOo"
     },
     {
       "album": {
@@ -11225,6 +11265,24 @@
     },
     {
       "album": {
+        "name": "miau",
+        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206366,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "album": {
         "name": "Midnight Freak-Out",
         "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
       },
@@ -11324,6 +11382,24 @@
       "duration_ms": 161147,
       "name": "Migajas",
       "url": "https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M"
+    },
+    {
+      "album": {
+        "name": "Mil Noches",
+        "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164584,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
     },
     {
       "album": {
@@ -15682,7 +15758,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 154352,
       "name": "revivirlo",
       "url": "https://open.spotify.com/track/3pkVWHKD3qy1QcJl0xkeV5"
@@ -15856,7 +15932,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 166615,
       "name": "sabes que tq",
       "url": "https://open.spotify.com/track/3k561iOFCWMNUW2WZYzN4M"
@@ -17888,7 +17964,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 439125,
       "name": "The Manifesto (feat. Trueno and Proof)",
       "url": "https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B"
@@ -18102,6 +18178,28 @@
       "duration_ms": 144417,
       "name": "toca toca",
       "url": "https://open.spotify.com/track/5DQ2SXXrp6aCRbwa6dyR5P"
+    },
+    {
+      "album": {
+        "name": "tocando",
+        "url": "https://open.spotify.com/album/2hlhkeSfcNaOeIht98vjDs"
+      },
+      "artists": [
+        {
+          "name": "Alex Andre",
+          "url": "https://open.spotify.com/artist/0So3HGVDzRlPenYsAskPYI"
+        },
+        {
+          "name": "raquelita",
+          "url": "https://open.spotify.com/artist/6iLMJI843g4mQbBL9GNSZF"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208275,
+      "name": "tocando",
+      "url": "https://open.spotify.com/track/00BgZZQ8zvHNoyb5vmlmYo"
     },
     {
       "album": {
@@ -20528,6 +20626,24 @@
       "duration_ms": 174813,
       "name": "\u00daltimo D\u00eda",
       "url": "https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0"
+    },
+    {
+      "album": {
+        "name": "\u02d6\u207a\u2027\u208a\u02da \u2661 Sentimental \u2661 \u02da\u208a\u2027\u207a\u02d6",
+        "url": "https://open.spotify.com/album/1FLZq0n09OKbdk9L0vdt2H"
+      },
+      "artists": [
+        {
+          "name": "Amarillo Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/3ViegLXm8G6MSGjMyugONL"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\u02d6\u207a\u2027\u208a\u02da \u2661 Sentimental \u2661 \u02da\u208a\u2027\u207a\u02d6",
+      "url": "https://open.spotify.com/track/5JJ3mbjr0yKfxGPcKrv42B"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU6aakG7fctq"

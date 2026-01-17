@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Lenine",
+  "description": "As belas novidades da MPB. Foto: Guilherme Arantes",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Algo Me Diz (Acusticamente)",
+        "url": "https://open.spotify.com/album/6kYYHDpVNwqkbOyQb0MHPx"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176012,
+      "name": "Algo Me Diz (Acusticamente)",
+      "url": "https://open.spotify.com/track/45sD7ZPV3rTYAN1dekDDL0"
+    },
+    {
+      "album": {
         "name": "Algum Ritmo",
         "url": "https://open.spotify.com/album/4v4NXk4pD9IcbquIVSJvcV"
       },
@@ -2100,7 +2118,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 189059,
       "name": "Arqueologia de Arm\u00e1rio",
       "url": "https://open.spotify.com/track/3dEknVo2mZrv3uRbnm30E6"
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 170250,
       "name": "Avesso",
       "url": "https://open.spotify.com/track/5Fx97HX04kMmefn51pGnTY"
@@ -6722,7 +6740,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 177142,
       "name": "ECLIPSE REVERSO",
       "url": "https://open.spotify.com/track/7E22Fmyid9KC9hZ4t6ngpf"
@@ -9243,6 +9261,24 @@
     },
     {
       "album": {
+        "name": "Interdimensional",
+        "url": "https://open.spotify.com/album/3VWSx7bRCcUed35cSddMl2"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Arantes",
+          "url": "https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Intergal\u00e1ctica Miss\u00e3o (Balada Interdimensional)",
+      "url": "https://open.spotify.com/track/18wHdF7isgfRrL61gnhkV2"
+    },
+    {
+      "album": {
         "name": "Inverno Sem Ver\u00e3o",
         "url": "https://open.spotify.com/album/0ZAIm8VlJw8IqQ3UmYMEnf"
       },
@@ -10918,7 +10954,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 261178,
       "name": "Me Leva Tambor",
       "url": "https://open.spotify.com/track/4zzm4hkV2JY18nhxVQbiY9"
@@ -12062,7 +12098,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 211480,
       "name": "Na Mata",
       "url": "https://open.spotify.com/track/4osX1Xf6L6tLc2tTTwPhCZ"
@@ -18109,6 +18145,24 @@
     },
     {
       "album": {
+        "name": "Se Acabou",
+        "url": "https://open.spotify.com/album/3Wqq7nrFYkF6igVeA23YxH"
+      },
+      "artists": [
+        {
+          "name": "Luca Argel",
+          "url": "https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159258,
+      "name": "Se Acabou",
+      "url": "https://open.spotify.com/track/08LLtcRnpmGk0jXhO0yHvs"
+    },
+    {
+      "album": {
         "name": "Se Acaso Voc\u00ea Chegasse",
         "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
       },
@@ -21247,6 +21301,28 @@
     },
     {
       "album": {
+        "name": "Bossa Sempre Nova",
+        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234950,
+      "name": "Um Pouco de Mim",
+      "url": "https://open.spotify.com/track/53OZRiDh8xAQZ0F0B8LRS1"
+    },
+    {
+      "album": {
         "name": "Um P\u00f4r do Sol Na Praia",
         "url": "https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO"
       },
@@ -21824,6 +21900,24 @@
       "duration_ms": 255800,
       "name": "Vento Sardo",
       "url": "https://open.spotify.com/track/71JSog0YrgWmY0D0CPkqot"
+    },
+    {
+      "album": {
+        "name": "Vera Cruz",
+        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Vera Cruz",
+      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
     },
     {
       "album": {

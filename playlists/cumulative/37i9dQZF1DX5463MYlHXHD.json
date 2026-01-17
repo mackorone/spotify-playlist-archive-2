@@ -2111,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Duros que Nunca",
+        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
+      },
+      "artists": [
+        {
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278466,
+      "name": "El Pibe Villero",
+      "url": "https://open.spotify.com/track/5qz6d7xTHxLnTNqyeDWNWX"
+    },
+    {
+      "album": {
         "name": "EL PRESO",
         "url": "https://open.spotify.com/album/3UiqD2eUHBYfHrRTUlv9JE"
       },
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 275356,
       "name": "El reloj cu cu",
       "url": "https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t"

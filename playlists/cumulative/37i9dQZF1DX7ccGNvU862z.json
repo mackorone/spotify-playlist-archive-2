@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Saran",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YUNGTARR",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -1312,6 +1312,28 @@
       "duration_ms": 168476,
       "name": "Chi Mi",
       "url": "https://open.spotify.com/track/7FYBz12pHDBPsSXsm3pH7a"
+    },
+    {
+      "album": {
+        "name": "CLOSE FRIEND",
+        "url": "https://open.spotify.com/album/0yUbamiimUZ4HC38VVKZ5N"
+      },
+      "artists": [
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        },
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156237,
+      "name": "CLOSE FRIEND",
+      "url": "https://open.spotify.com/track/6s8EuV3z1NQ8u2mJwzTv8R"
     },
     {
       "album": {
@@ -8344,7 +8366,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 221408,
       "name": "\u0e02\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/0diY43l3Rk4t5GMXMFXZOs"
@@ -8734,6 +8756,24 @@
       "duration_ms": 279201,
       "name": "\u0e04\u0e19\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e07",
       "url": "https://open.spotify.com/track/1B8SFaWvTDI1RPyuG0a5fT"
+    },
+    {
+      "album": {
+        "name": "MultiColorBands",
+        "url": "https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS"
+      },
+      "artists": [
+        {
+          "name": "YUNGTARR",
+          "url": "https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "\u0e04\u0e23\u0e2d\u0e07\u0e42\u0e25\u0e01",
+      "url": "https://open.spotify.com/track/76j0uitplft5gODYnoQ62V"
     },
     {
       "album": {
@@ -12098,7 +12138,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 210337,
       "name": "\u0e23\u0e31\u0e01 \u0e40\u0e28\u0e23\u0e49\u0e32 \u0e40\u0e2b\u0e07\u0e32 \u0e0b\u0e36\u0e21",
       "url": "https://open.spotify.com/track/568nWRjM9cZztz8Vabw7Y9"
@@ -13490,6 +13530,24 @@
       "duration_ms": 191812,
       "name": "\u0e2b\u0e21\u0e35\u0e02\u0e31\u0e49\u0e27\u0e42\u0e25\u0e01 (Polar Bear)",
       "url": "https://open.spotify.com/track/3AJMEPpRSY9yv4WD4NaquP"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e25\u0e31\u0e1a\u0e15\u0e32\u0e1d\u0e31\u0e19\u0e16\u0e36\u0e07\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/5kSRnQMVPBLIDva5ZZwbZj"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224024,
+      "name": "\u0e2b\u0e25\u0e31\u0e1a\u0e15\u0e32\u0e1d\u0e31\u0e19\u0e16\u0e36\u0e07\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/00EzdWhfYcUQ8TZLXBciHY"
     },
     {
       "album": {
@@ -15024,7 +15082,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 184903,
       "name": "\u0e40\u0e1a\u0e30\u0e1b\u0e32\u0e01",
       "url": "https://open.spotify.com/track/3CeUnHFrb186rS9ePpAwZU"
@@ -16847,6 +16905,28 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e17\u0e31\u0e19\u0e04\u0e34\u0e14",
+        "url": "https://open.spotify.com/album/7xlxcjDJbPEF2pb5DzR3ph"
+      },
+      "artists": [
+        {
+          "name": "9tokyo",
+          "url": "https://open.spotify.com/artist/3FxGLtMGpuO4myzWo0gktr"
+        },
+        {
+          "name": "GH",
+          "url": "https://open.spotify.com/artist/4VNbwWbzZXDyWiclqpKVKv"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251967,
+      "name": "\u0e44\u0e21\u0e48\u0e17\u0e31\u0e19\u0e04\u0e34\u0e14",
+      "url": "https://open.spotify.com/track/6vOwxjx4VxXmyqRPFlOBIX"
+    },
+    {
+      "album": {
         "name": "MAS|S|TERPIECE",
         "url": "https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2"
       },
@@ -17266,7 +17346,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 252203,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e04\u0e34\u0e14\u0e2d\u0e30\u0e44\u0e23",
       "url": "https://open.spotify.com/track/2B7oTxtV8gVTh9Jq4jwiin"

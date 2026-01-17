@@ -3071,6 +3071,40 @@
     },
     {
       "album": {
+        "name": "45 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2dvVH2bXQxkZtXGGgmtwAR"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        },
+        {
+          "name": "Anil Kumar",
+          "url": "https://open.spotify.com/artist/22F1u1k58wM2mYjUU59RsZ"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237447,
+      "name": "Aseema Prema Radheyadenu",
+      "url": "https://open.spotify.com/track/5Yv0ZKZEMS0du5Nf8AKXqU"
+    },
+    {
+      "album": {
         "name": "Asura Hananam (From \"Hari Hara Veera Mallu\") [Kannada]",
         "url": "https://open.spotify.com/album/46jgIG5K97ZumSk0i5G9Ki"
       },
@@ -11046,7 +11080,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 145695,
       "name": "Ellige Payana Yavudo Daari Title Track (From \"Ellige Payana Yavudo Daari\")",
       "url": "https://open.spotify.com/track/4kpF8sihHyhWfmnfj8v9qi"

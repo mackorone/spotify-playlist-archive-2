@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 105808,
+  "num_followers": 105824,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2025-11-21 08:38:25",
       "album": {
+        "name": "Alfarero",
+        "url": "https://open.spotify.com/album/2GxTHBxsy5sYDSIiWKAYH3"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        },
+        {
+          "name": "Ver\u00f3nica Solares",
+          "url": "https://open.spotify.com/artist/066fEYGdOegnz2e3wjbKxr"
+        }
+      ],
+      "duration_ms": 202859,
+      "name": "Alfarero",
+      "url": "https://open.spotify.com/track/4s1V1jpkVthD7Om3I4ZaVx"
+    },
+    {
+      "added_at": "2025-11-21 08:38:25",
+      "album": {
         "name": "R\u00edo",
         "url": "https://open.spotify.com/album/3Vffp6zBqad0Lvs73NvXmj"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 183148,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
-    },
-    {
-      "added_at": "2025-11-21 08:38:25",
-      "album": {
-        "name": "Alfarero",
-        "url": "https://open.spotify.com/album/2GxTHBxsy5sYDSIiWKAYH3"
-      },
-      "artists": [
-        {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        },
-        {
-          "name": "Ver\u00f3nica Solares",
-          "url": "https://open.spotify.com/artist/066fEYGdOegnz2e3wjbKxr"
-        }
-      ],
-      "duration_ms": 202859,
-      "name": "Alfarero",
-      "url": "https://open.spotify.com/track/4s1V1jpkVthD7Om3I4ZaVx"
     },
     {
       "added_at": "2025-11-21 08:38:25",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-11-21 08:38:25",
       "album": {
-        "name": "Adorar A Dios",
-        "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
-      },
-      "artists": [
-        {
-          "name": "El Swing Divino",
-          "url": "https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Nos Vamos A Gozar",
-      "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
-    },
-    {
-      "added_at": "2025-11-21 08:38:25",
-      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 209837,
       "name": "Baila",
       "url": "https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb"
+    },
+    {
+      "added_at": "2025-11-21 08:38:25",
+      "album": {
+        "name": "Adorar A Dios",
+        "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
+      },
+      "artists": [
+        {
+          "name": "El Swing Divino",
+          "url": "https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Nos Vamos A Gozar",
+      "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
     },
     {
       "added_at": "2025-11-21 08:38:25",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-11-21 08:38:25",
       "album": {
-        "name": "Hay Una Fuente en M\u00ed",
-        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Hay Una Fuente en M\u00ed",
-      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
-    },
-    {
-      "added_at": "2025-11-21 08:38:25",
-      "album": {
         "name": "Me Encontr\u00f3",
         "url": "https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 234432,
       "name": "Me Encontr\u00f3",
       "url": "https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu"
+    },
+    {
+      "added_at": "2025-11-21 08:38:25",
+      "album": {
+        "name": "Hay Una Fuente en M\u00ed",
+        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Hay Una Fuente en M\u00ed",
+      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
     },
     {
       "added_at": "2025-11-21 08:38:25",

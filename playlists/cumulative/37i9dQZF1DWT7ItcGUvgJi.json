@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-07-21",
-  "description": "Where two indie music powerhouses meet!\nEnjoy the [Tune Up Meets Fresh Finds] LIVE SET including the voices of them on stage! \ud83c\udfb6\u2728 (\uc778\ub514\uc74c\uc545\uc744 \uc9c0\uc6d0\ud558\ub294 \ub450 \ud504\ub85c\uadf8\ub7a8\uc758 \ub9cc\ub0a8! [Tune Up Meets Fresh Finds] \uacf5\uc5f0\uc758 \ub77c\uc774\ube0c\uc14b\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Where two indie music powerhouses meet! Get in the groove and gear up for the show with the best tracks from the lineup. \ud83c\udfb6\u2728 (\uc778\ub514\uc74c\uc545\uc744 \uc9c0\uc6d0\ud558\ub294 \ub450 \ud504\ub85c\uadf8\ub7a8\uc758 \ub9cc\ub0a8! \uacf5\uc5f0 \ub77c\uc778\uc5c5\uc758 \ubca0\uc2a4\ud2b8 \uace1\ub4e4\uc744 \ub4e4\uc73c\uba70 \uacf5\uc5f0\uc744 \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
   "name": "Tune Up Meets Fresh Finds",
   "tracks": [
+    {
+      "album": {
+        "name": "01",
+        "url": "https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148226,
+      "name": "01",
+      "url": "https://open.spotify.com/track/1WkKOsIPQHGEjWzqY2ZITL"
+    },
     {
       "album": {
         "name": "Dance With Me Before We Cry",
@@ -23,6 +41,24 @@
     },
     {
       "album": {
+        "name": "TEENS",
+        "url": "https://open.spotify.com/album/2fIBmFkOU6Tt1Xs6JHuTGU"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "B4N (Bye For Now)",
+      "url": "https://open.spotify.com/track/0YzCPrOCZrVtStloUYxC9B"
+    },
+    {
+      "album": {
         "name": "Baby Blue",
         "url": "https://open.spotify.com/album/0gnEHE1k9eKpHbQr6XzUi9"
       },
@@ -34,10 +70,46 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 226795,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/1dAyqyYEuX09OH2xroX4oE"
+    },
+    {
+      "album": {
+        "name": "Belated Regret",
+        "url": "https://open.spotify.com/album/6LHysm27XSwwR9Y5WG1Y6A"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241413,
+      "name": "Belated Regret",
+      "url": "https://open.spotify.com/track/7lXnwQze1f6JNphwZfO3kG"
+    },
+    {
+      "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/7vv4Tt7mGvnnmMO8e6KBC3"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "BlaCk and wHite",
+      "url": "https://open.spotify.com/track/7ydLdMjsLFku078oF7i9D0"
     },
     {
       "album": {
@@ -52,7 +124,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 142750,
       "name": "Blue vinyl",
       "url": "https://open.spotify.com/track/7xrM3zfJEYD1pboS1hoz9Z"
@@ -95,6 +167,60 @@
     },
     {
       "album": {
+        "name": "SingAgain4 - Battle of the Unknown, Ep.1 (From the JTBC TV Show)",
+        "url": "https://open.spotify.com/album/3SiU4FUR6lYSNoeXb9vkW7"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172402,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/5tSdmyX5VkmWU5dsAvGAtX"
+    },
+    {
+      "album": {
+        "name": "My dearest FU BAO (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5H7JM28NOF8tHvHqna62ZN"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/3uZlCkefm5SumXIx1OLgFD"
+    },
+    {
+      "album": {
+        "name": "\u2018BLUISH\u2019 Unplugged",
+        "url": "https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Catwings",
+      "url": "https://open.spotify.com/track/14N0Pz1pxtke0UMNHBbb4n"
+    },
+    {
+      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/0Ol2ti1tUO7Uu6sq3fC3lI"
       },
@@ -106,10 +232,100 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 248173,
       "name": "Cotton Mouth",
       "url": "https://open.spotify.com/track/0jrq6kvqkPcxPqZzR3Ceta"
+    },
+    {
+      "album": {
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0"
+    },
+    {
+      "album": {
+        "name": "01",
+        "url": "https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204680,
+      "name": "doors",
+      "url": "https://open.spotify.com/track/4jPdoEjNEDtOj76ZdNRj4h"
+    },
+    {
+      "album": {
+        "name": "Dream that can never be",
+        "url": "https://open.spotify.com/album/1j58JtfBwhk3tfRUjYduF3"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Dream that can never be",
+      "url": "https://open.spotify.com/track/0DBtDNmdnmJljCfoJcVnrU"
+    },
+    {
+      "album": {
+        "name": "echo",
+        "url": "https://open.spotify.com/album/4RTph9mwBNSXPw583WX5OE"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212393,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/6znYZ3QSDGuVde8I0LV5kR"
+    },
+    {
+      "album": {
+        "name": "escape",
+        "url": "https://open.spotify.com/album/3rSKwvQZRfKOvKCHcHa77w"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214362,
+      "name": "escape",
+      "url": "https://open.spotify.com/track/1UOVCDjkiXLmQ4vvcI7Lkt"
     },
     {
       "album": {
@@ -131,6 +347,24 @@
     },
     {
       "album": {
+        "name": "01",
+        "url": "https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201360,
+      "name": "fireworks",
+      "url": "https://open.spotify.com/track/7Fo28nzhklLaZSEYOE6cSh"
+    },
+    {
+      "album": {
         "name": "First Sight",
         "url": "https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI"
       },
@@ -142,10 +376,28 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 213326,
       "name": "First Sight",
       "url": "https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ"
+    },
+    {
+      "album": {
+        "name": "sunkissed",
+        "url": "https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171367,
+      "name": "Flower Pot",
+      "url": "https://open.spotify.com/track/3hfOKqTILdPD8oiM8Egssy"
     },
     {
       "album": {
@@ -160,7 +412,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 218586,
       "name": "Get My Money Back",
       "url": "https://open.spotify.com/track/0d9yXZVK8L4mGEdL47vGZX"
@@ -178,10 +430,46 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 215069,
       "name": "Girl At Night",
       "url": "https://open.spotify.com/track/1SPV5U0bXTlHsDoADnFU3w"
+    },
+    {
+      "album": {
+        "name": "Glimpse of summer",
+        "url": "https://open.spotify.com/album/6FGWrApWPzH8j4z3DytqXP"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168322,
+      "name": "Glimpse of summer",
+      "url": "https://open.spotify.com/track/4LMrauwDzD6S99Ktt1mwQc"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/34u5QnHo33LkkxDhfrokrQ"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/1UBKXAzmO6NlBINXjTTYS4"
     },
     {
       "album": {
@@ -196,7 +484,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
@@ -214,7 +502,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 198666,
       "name": "Horses",
       "url": "https://open.spotify.com/track/22dNi7hvJmfo4oJfZXjOuE"
@@ -232,7 +520,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 32213,
       "name": "i know it's not forever",
       "url": "https://open.spotify.com/track/2f6Tp3o5QtFh6RPdQabuF8"
@@ -250,7 +538,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 240266,
       "name": "I Love u..r shoes",
       "url": "https://open.spotify.com/track/1adidOIc4dH3q7Vjz4TVPV"
@@ -268,10 +556,64 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 318626,
       "name": "If You Say So",
       "url": "https://open.spotify.com/track/1cQKYKbN27DZbZe53JgEkc"
+    },
+    {
+      "album": {
+        "name": "La La La Love Song (From \"Operation: True Love\")",
+        "url": "https://open.spotify.com/album/0aUqli3ob5tyZsNWPaOLzU"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200120,
+      "name": "La La La Love Song",
+      "url": "https://open.spotify.com/track/7iJEuhuHPhNCrfaYSBIBqW"
+    },
+    {
+      "album": {
+        "name": "SingAgain4 - Battle of the Unknown, Ep.11 (From the JTBC TV Show)",
+        "url": "https://open.spotify.com/album/1ApPEYGQpsIFJOMVD8pNkI"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211868,
+      "name": "Limitation",
+      "url": "https://open.spotify.com/track/27PUKw2ZiPMkEaXLys0SRT"
+    },
+    {
+      "album": {
+        "name": "Undercover High School OST Part.2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Love Is You",
+      "url": "https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a"
     },
     {
       "album": {
@@ -304,7 +646,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 152960,
       "name": "Margo",
       "url": "https://open.spotify.com/track/3gyZ0ejJMsgEnyQyLFjiEj"
@@ -322,7 +664,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 187000,
       "name": "Matryoshka",
       "url": "https://open.spotify.com/track/09yxk5cVVFVdc8WTZ1dWsk"
@@ -340,10 +682,46 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 190160,
       "name": "Miss you amigo",
       "url": "https://open.spotify.com/track/4GaSlMSUnEFSkuAly9QjS1"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0t5zI927y0bDAAvo4qViuv"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/5gMh9KvpISvqj2eGWS1ZDS"
+    },
+    {
+      "album": {
+        "name": "sunkissed",
+        "url": "https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160586,
+      "name": "PATIO",
+      "url": "https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP"
     },
     {
       "album": {
@@ -358,7 +736,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 231386,
       "name": "Peanut butter Sandwich",
       "url": "https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21"
@@ -380,6 +758,42 @@
       "duration_ms": 187215,
       "name": "Pi\u00f1ata Head",
       "url": "https://open.spotify.com/track/0O56HkasHwgBVvl98TKqhT"
+    },
+    {
+      "album": {
+        "name": "Reuben",
+        "url": "https://open.spotify.com/album/30bpwihRVMaxSS6PEbplDe"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153831,
+      "name": "Reuben",
+      "url": "https://open.spotify.com/track/3Y51ddb8xmMxDKCWHZa13h"
+    },
+    {
+      "album": {
+        "name": "\u2018BLUISH\u2019 Unplugged",
+        "url": "https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Romeo & Juliet",
+      "url": "https://open.spotify.com/track/2WkJb27TKlVaNTM4vulZDy"
     },
     {
       "album": {
@@ -412,7 +826,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 214409,
       "name": "Sick of you",
       "url": "https://open.spotify.com/track/6fcOwpo7xvQzEbHdVMnxfm"
@@ -466,7 +880,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 90891,
       "name": "Stage Comment from can't be blue 1",
       "url": "https://open.spotify.com/track/6Almd5UKehInNnYll80QuR"
@@ -484,7 +898,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 60589,
       "name": "Stage Comment from can't be blue 2",
       "url": "https://open.spotify.com/track/0B5qTRT8Dx77GaJRSXc7cs"
@@ -502,7 +916,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 30287,
       "name": "Stage Comment from jisokuryClub 1",
       "url": "https://open.spotify.com/track/7i3xWLEnLIzHc4C9BRkiQl"
@@ -520,7 +934,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 45438,
       "name": "Stage Comment from jisokuryClub 2",
       "url": "https://open.spotify.com/track/5M3IVa3oamAVYof1FNIt4Y"
@@ -538,7 +952,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 62104,
       "name": "Stage Comment from There's A Tuesday 1",
       "url": "https://open.spotify.com/track/7CFVxmq9S3BDEgv4G8ISWw"
@@ -556,10 +970,28 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 74225,
       "name": "Stage Comment from There's A Tuesday 2",
       "url": "https://open.spotify.com/track/188I6Xvjqn5GQL3eExMxVN"
+    },
+    {
+      "album": {
+        "name": "Stuck in",
+        "url": "https://open.spotify.com/album/6WDMeJ2Xqahu4Ru5jT3kpa"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214146,
+      "name": "Stuck in",
+      "url": "https://open.spotify.com/track/2WhhlJUnanu0CaP5kxJoST"
     },
     {
       "album": {
@@ -592,10 +1024,28 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 233426,
       "name": "Then Tonight",
       "url": "https://open.spotify.com/track/4B9GdhLzBOhvSMeLXDZDxD"
+    },
+    {
+      "album": {
+        "name": "polarity",
+        "url": "https://open.spotify.com/album/43Z7XchjEhczYHvyQuDR07"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Though we have no voice",
+      "url": "https://open.spotify.com/track/40Y6nEq38QkdwsYjViNc8q"
     },
     {
       "album": {
@@ -610,10 +1060,28 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 230547,
       "name": "To:Amy",
       "url": "https://open.spotify.com/track/2QDwztWHi4eYRHM45Wm04H"
+    },
+    {
+      "album": {
+        "name": "sunkissed",
+        "url": "https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173980,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0GoPuSuw6ouoYT56z9Zlh1"
     },
     {
       "album": {
@@ -628,10 +1096,28 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 293413,
       "name": "Under the Sea",
       "url": "https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk"
+    },
+    {
+      "album": {
+        "name": "Flows #1",
+        "url": "https://open.spotify.com/album/0VE21TX2tFmw1j5zEtodoR"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277162,
+      "name": "Unlove mind",
+      "url": "https://open.spotify.com/track/60MkU6W6M4gySwhijpjKOI"
     },
     {
       "album": {
@@ -646,10 +1132,46 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 187893,
       "name": "Water Baby",
       "url": "https://open.spotify.com/track/4HPnFOPzT09ixh8X2Uhzg0"
+    },
+    {
+      "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe"
+    },
+    {
+      "album": {
+        "name": "Winter Love Song",
+        "url": "https://open.spotify.com/album/0FC5QSHZdURNeHbhwqHJtt"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196973,
+      "name": "Winter Love Song",
+      "url": "https://open.spotify.com/track/4z4dS537WB1sA1wAcRbqBC"
     },
     {
       "album": {
@@ -700,10 +1222,28 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 202800,
       "name": "work, shit, sleep",
       "url": "https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK"
+    },
+    {
+      "album": {
+        "name": "01",
+        "url": "https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "yoonseul",
+      "url": "https://open.spotify.com/track/4o25sdyOvubfRSk0cP1TXL"
     },
     {
       "album": {
@@ -718,7 +1258,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 199738,
       "name": "\uc0ac\ub791\uc774\ub77c \ud588\ub358 \ub9d0 \uc18d\uc5d0\uc11c",
       "url": "https://open.spotify.com/track/0XyClpdRwhN06hxTNgIVHI"
@@ -736,7 +1276,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 204026,
       "name": "\uc8fd\uc5b4\ubc84\ub9b4\uac83\uac19\uc544",
       "url": "https://open.spotify.com/track/4Sf5BzR8BYE8IIhiLTTJKR"

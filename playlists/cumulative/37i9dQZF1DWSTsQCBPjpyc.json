@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Didn't I Keep Runnin'",
+        "url": "https://open.spotify.com/album/0G1CMLfaqiXJ39DpUHWHL2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259813,
+      "name": "Didn't I Keep Runnin'",
+      "url": "https://open.spotify.com/track/1nH7bZ7xWEhsaSP3pax31s"
+    },
+    {
+      "album": {
         "name": "That's What I Heard",
         "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
       },

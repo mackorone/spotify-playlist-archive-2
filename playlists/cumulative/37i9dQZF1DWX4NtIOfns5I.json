@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "august ponthier on the cover",
+  "description": "jana horn on the cover",
   "name": "juniper",
   "tracks": [
     {
@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180459,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
+    },
+    {
+      "album": {
         "name": "Blow Wind Blow",
         "url": "https://open.spotify.com/album/6MiDRCah5wxJOOsCBp8sE2"
       },
@@ -1376,6 +1394,24 @@
       "duration_ms": 222708,
       "name": "Bumper Sticker",
       "url": "https://open.spotify.com/track/7MUslKGuUlcOPAcYpYEpco"
+    },
+    {
+      "album": {
+        "name": "Cabernet Serenade",
+        "url": "https://open.spotify.com/album/6jQDx5njBoC3wNmoUZ1Aso"
+      },
+      "artists": [
+        {
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Cabernet Serenade",
+      "url": "https://open.spotify.com/track/0XG5jhNcapzOJG2GVFxwBG"
     },
     {
       "album": {
@@ -2379,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Jana Horn",
+        "url": "https://open.spotify.com/album/3j3qHKhSkQzRezTYeyZqUr"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243737,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/1e6vuiaCZRdDpRGAFG80fp"
+    },
+    {
+      "album": {
         "name": "Stick Season (We'll All Be Here Forever)",
         "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
       },
@@ -2488,6 +2542,24 @@
       "duration_ms": 176475,
       "name": "Dig Myself Out",
       "url": "https://open.spotify.com/track/70JmaiNir097KCH7yInIC1"
+    },
+    {
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/4OeO7wZnfrvVRygI1FAlkK"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309080,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/2I0s3nebFwKQzFlhGT2mkD"
     },
     {
       "album": {
@@ -6392,7 +6464,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 218151,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
@@ -6684,7 +6756,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 260036,
       "name": "Might",
       "url": "https://open.spotify.com/track/55ZwLTMAr2gGDawefZAUdN"
@@ -7178,7 +7250,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 406124,
       "name": "My Love Is Free",
       "url": "https://open.spotify.com/track/1TzdiVSUg4y1FzVYQKFx2P"
@@ -7758,7 +7830,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 206874,
       "name": "Oh No! - Edit",
       "url": "https://open.spotify.com/track/6WNz0P5M39PYy06ujl54Ku"
@@ -7978,7 +8050,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 205003,
       "name": "Outdoor Shower",
       "url": "https://open.spotify.com/track/6pOogh0qZALsuhj5I3uKKT"
@@ -8072,7 +8144,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 195452,
       "name": "paper doll",
       "url": "https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV"
@@ -8202,7 +8274,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 208720,
       "name": "Photograph of a Cyclone",
       "url": "https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE"
@@ -8906,7 +8978,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 199493,
       "name": "Rivers Run Red",
       "url": "https://open.spotify.com/track/1Wcny0prfuTcuJVj5etom7"
@@ -9728,7 +9800,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 243600,
       "name": "So Much Wine",
       "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
@@ -11980,7 +12052,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 365921,
       "name": "When I get home",
       "url": "https://open.spotify.com/track/3SAepbmfa2jEMXu6OWrwyh"

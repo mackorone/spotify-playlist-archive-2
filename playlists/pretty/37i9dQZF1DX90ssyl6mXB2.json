@@ -1,28 +1,32 @@
 {
-  "description": "late night vibes \u2013 notifications off. cover: Karri",
-  "num_followers": 175265,
+  "description": "late night vibes \u2013 notifications off. cover: RAAHiiM & Karri",
+  "num_followers": 175272,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAM9YRTaWCvaA9L4O0K9o9rAsMpm",
+  "snapshot_id": "AAAAACfxs5vPKesxwtae3OHuq+51Y6bm",
   "tracks": [
     {
-      "added_at": "2025-12-05 08:06:52",
+      "added_at": "2026-01-16 05:00:39",
       "album": {
-        "name": "SLIDER II",
-        "url": "https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or"
+        "name": "SLIDE4U (Hating)",
+        "url": "https://open.spotify.com/album/5Ba1jyNWBhOSxZUI1SPqKF"
       },
       "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        },
         {
           "name": "Karri",
           "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
         }
       ],
-      "duration_ms": 162773,
-      "name": "swv",
-      "url": "https://open.spotify.com/track/6GJc93iZwtT1sennWoDYLa"
+      "duration_ms": 245159,
+      "name": "SLIDE4U (Hating)",
+      "url": "https://open.spotify.com/track/2YjwAcWg2VUHwhVQatQP2q"
     },
     {
       "added_at": "2025-11-14 10:00:24",
@@ -81,40 +85,24 @@
       "url": "https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J"
     },
     {
-      "added_at": "2025-12-12 05:00:49",
+      "added_at": "2026-01-16 05:00:39",
       "album": {
-        "name": "Cowboy From Brooklyn",
-        "url": "https://open.spotify.com/album/0VRjbRVRxZ3MyMz31W1KLW"
+        "name": "wyd (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/3MHYYitTirzsOFjh3mhNv1"
       },
       "artists": [
         {
-          "name": "nyan",
-          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Closer To Me",
-      "url": "https://open.spotify.com/track/0o4piMLvJHGh45M68ClmYZ"
-    },
-    {
-      "added_at": "2026-01-09 07:37:13",
-      "album": {
-        "name": "heartstrings",
-        "url": "https://open.spotify.com/album/14xSjxFMRUmZI8HNJbMzfn"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+          "name": "Plaqueboymax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
         },
         {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 138862,
-      "name": "prima donna",
-      "url": "https://open.spotify.com/track/7FxvjlrKLQm0GI4GF6dcPz"
+      "duration_ms": 201028,
+      "name": "wyd (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/6BeBTdd0bE2rim6FGePOdC"
     },
     {
       "added_at": "2025-12-05 08:06:52",
@@ -153,6 +141,38 @@
       "url": "https://open.spotify.com/track/5tfbPQ9xEeLgMXsA6KmCBP"
     },
     {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/7dzn4ykqrLk9mUDUbBNLbc"
+      },
+      "artists": [
+        {
+          "name": "Vikter",
+          "url": "https://open.spotify.com/artist/65ydOnRlyOCY3VQ0UdpgF9"
+        }
+      ],
+      "duration_ms": 91016,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4RXgPujZmgl901y537UDsn"
+    },
+    {
+      "added_at": "2025-12-05 08:06:52",
+      "album": {
+        "name": "SLIDER II",
+        "url": "https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 162773,
+      "name": "swv",
+      "url": "https://open.spotify.com/track/6GJc93iZwtT1sennWoDYLa"
+    },
+    {
       "added_at": "2025-12-05 08:06:52",
       "album": {
         "name": "Addiction",
@@ -167,6 +187,62 @@
       "duration_ms": 117460,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/250EPvE8NZiTdFoJoU4sSO"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "Circles / Intruder",
+        "url": "https://open.spotify.com/album/10wD7KWqdUhc43rkK7wBIR"
+      },
+      "artists": [
+        {
+          "name": "STEVIE.",
+          "url": "https://open.spotify.com/artist/2SM8najql91sR1sjsIAlW2"
+        },
+        {
+          "name": "Nolais",
+          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
+        }
+      ],
+      "duration_ms": 165465,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3w1ZQE2mVWLbJtOuYCbhJc"
+    },
+    {
+      "added_at": "2025-12-12 05:00:49",
+      "album": {
+        "name": "Cowboy From Brooklyn",
+        "url": "https://open.spotify.com/album/0VRjbRVRxZ3MyMz31W1KLW"
+      },
+      "artists": [
+        {
+          "name": "nyan",
+          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Closer To Me",
+      "url": "https://open.spotify.com/track/0o4piMLvJHGh45M68ClmYZ"
+    },
+    {
+      "added_at": "2026-01-09 07:37:13",
+      "album": {
+        "name": "heartstrings",
+        "url": "https://open.spotify.com/album/14xSjxFMRUmZI8HNJbMzfn"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 138862,
+      "name": "prima donna",
+      "url": "https://open.spotify.com/track/7FxvjlrKLQm0GI4GF6dcPz"
     },
     {
       "added_at": "2025-11-21 10:25:58",

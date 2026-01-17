@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,587 songs - 2 day 11 hr 38 min
+1,588 songs - 2 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,7 +992,7 @@
 | [Ocean Breeze](https://open.spotify.com/track/5I9UpeH4RFZBbDRZoivrvj) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Ocean Breeze](https://open.spotify.com/album/5B1h06rh70brShnJkHS318) | 2:20 | 2022-11-11 | 2025-10-24 |
 | [Ocean Eyes](https://open.spotify.com/track/65S8gsz2r9F1ZYJRX5I4Oa) | [Pante H á](https://open.spotify.com/artist/3Wg0M8lS9TkJqSHgSotvGf) | [Love and Monsters](https://open.spotify.com/album/5Of6mG0ssB68DJfEBgAcgi) | 1:26 | 2022-01-27 | 2022-05-20 |
 | [Octavium](https://open.spotify.com/track/5wov0ejrVbOcp2RZYSssAx) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 | 2022-01-27 | 2022-09-03 |
-| [Old Fashioned](https://open.spotify.com/track/3lq0gEcNJ0goRB1DxgDP58) | [Monaqee](https://open.spotify.com/artist/4EGwgTccVIMRAeJbpcIlaq) | [Old Fashioned](https://open.spotify.com/album/4XxOCtaZUwN6CzpDNuurFa) | 2:24 | 2023-09-22 |  |
+| [Old Fashioned](https://open.spotify.com/track/3lq0gEcNJ0goRB1DxgDP58) | [Monaqee](https://open.spotify.com/artist/4EGwgTccVIMRAeJbpcIlaq) | [Old Fashioned](https://open.spotify.com/album/4XxOCtaZUwN6CzpDNuurFa) | 2:24 | 2023-09-22 | 2026-01-17 |
 | [Old Leaves](https://open.spotify.com/track/7zvc6SizCwqarhqPqb4JEv) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Old Leaves](https://open.spotify.com/album/0elSaoLDLvcqbSn06FO6Km) | 2:18 | 2022-11-11 | 2023-09-05 |
 | [Old School Love](https://open.spotify.com/track/6eNdKA73IIJr2SU4AbFzDf) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [Cinematic Lofi](https://open.spotify.com/album/6ckc7Vooz6ZBurIesj3G2V) | 2:46 | 2022-03-18 | 2023-05-20 |
 | [Old Shoe Dreams](https://open.spotify.com/track/0NO9VHwfvXUQDgvh9aRacG) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Old Shoe Dreams](https://open.spotify.com/album/0qqDozkEvIXaytPt0uClE9) | 1:55 | 2024-02-02 | 2024-07-27 |
@@ -1052,6 +1052,7 @@
 | [Perception](https://open.spotify.com/track/6771GihRWSltfIeiffL35K) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Perception](https://open.spotify.com/album/5P3uVvsBSqIU4GMqR6EeRf) | 2:22 | 2024-09-13 | 2024-10-08 |
 | [Perfect Moment](https://open.spotify.com/track/4LQXHGOAjC249XnciBfeAA) | [Karma Malkoha](https://open.spotify.com/artist/1wcKzZJIxrrqjPVulFgWHo) | [Perfect Moment](https://open.spotify.com/album/0kVPrRM5ESaI9uRJlpeBqa) | 2:24 | 2023-04-11 | 2025-07-26 |
 | [Perfume](https://open.spotify.com/track/4QwS1glD2QjJZyeUFB2Qey) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [demete](https://open.spotify.com/artist/1jeNyNdvWrq0u9zd4cI7Sl) | [Perfume](https://open.spotify.com/album/51i1kBsirM9QAu2CM9ItBA) | 2:01 | 2022-09-16 | 2023-09-22 |
+| [Petit cœur](https://open.spotify.com/track/7yzFraT9cokM2IzDPxsW1m) | [Muroki](https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n) | [Petit cœur](https://open.spotify.com/album/6PqNsrwBFdjwbHEbQgMEa5) | 1:32 | 2026-01-16 |  |
 | [Petula Thomas](https://open.spotify.com/track/34buaMEM4YjE8xsbX1L7PL) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Angels Below](https://open.spotify.com/album/3nkx7BWx32cqXUVIrKEQwv) | 2:28 | 2022-06-17 | 2025-09-28 |
 | [Phases](https://open.spotify.com/track/6GcZ3jOpt8JXd1CiFDdOFQ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [chillhop beat tapes: SwuM x Idealism](https://open.spotify.com/album/5GwujitgR1gThoKTxl1hUp) | 3:03 | 2022-08-19 | 2022-12-24 |
 | [Phew](https://open.spotify.com/track/2h2s62yHkjcB2icZMZG3L4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Antônio Neves](https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683), [Ed Santana](https://open.spotify.com/artist/6M74DHDHLcc0kD9OefNZUo) | [Phew](https://open.spotify.com/album/72RgoGYxbXsIYTkObWrvId) | 2:02 | 2022-01-27 | 2022-06-10 |

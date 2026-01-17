@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: DZ Deathrays
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,813 likes - 125 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,948 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 9 | [The Sound It Made](https://open.spotify.com/track/0X8xSULeOMS3n3D0QxeYNZ) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [The Sound It Made](https://open.spotify.com/album/3ejGatYed8blR2jFn3Vtbm) | 2:38 |
 | 10 | [Dark Passenger](https://open.spotify.com/track/4ddu2y3fVE2yaSSeRxGLCy) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Dark Passenger](https://open.spotify.com/album/7FjK5e51WkhUMVzww0e4gB) | 3:09 |
 | 11 | [Poetic Machine Gun](https://open.spotify.com/track/2sXvmV77EUQd6lOjSolVOf) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Poetic Machine Gun](https://open.spotify.com/album/5Gstc7UsioF0ZbEmnhiNaS) | 2:34 |
-| 12 | [Proud](https://open.spotify.com/track/1uWB5c47IyRjKxXRtVvQ7Q) | [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [](https://open.spotify.com/album/null) | 4:26 |
-| 13 | [Track 10](https://open.spotify.com/track/7x8kQyWDkAhVqSggGZuldF) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [Proud](https://open.spotify.com/track/1uWB5c47IyRjKxXRtVvQ7Q) | [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [I Promised The World](https://open.spotify.com/album/1EXpf001uNajFTN22UdSkr) | 4:26 |
+| 13 | [Cope In The Coma](https://open.spotify.com/track/7x8kQyWDkAhVqSggGZuldF) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Severed Heart City](https://open.spotify.com/album/0XWdKiMDlAU5Lsfkmpxpql) | 3:36 |
 | 14 | [DOG POUND](https://open.spotify.com/track/3FZaY7dTwbVFOA2e45vbin) | [Commitment](https://open.spotify.com/artist/6BDSYruuDE2UN8FidNylVn) | [DOG POUND](https://open.spotify.com/album/0m9VbcopBmqgovnyf9YNtT) | 1:26 |
 | 15 | [Rival Males](https://open.spotify.com/track/57hTvWPQHsi2UvJfSR4IH8) | [Landowner](https://open.spotify.com/artist/0boSTR5Dvu6chqBy3RxgS8) | [Rival Males](https://open.spotify.com/album/2DrtjMVM7wKLt1n33MhVUV) | 1:33 |
 | 16 | [Stay Melted](https://open.spotify.com/track/28UbblRPSf3CVyN8Cqv313) | [Filth is Eternal](https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0) | [Stay Melted](https://open.spotify.com/album/48C2RFqoBquJd6jWdXYABn) | 2:25 |

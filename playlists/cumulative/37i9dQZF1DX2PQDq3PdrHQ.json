@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 122555,
       "name": "3 a.m.",
       "url": "https://open.spotify.com/track/2kGvKLA57IW4MNGSE80XAl"
@@ -346,6 +346,24 @@
       "duration_ms": 147404,
       "name": "a place called home",
       "url": "https://open.spotify.com/track/2ev6kqZtCGyZQZh3DhFRya"
+    },
+    {
+      "album": {
+        "name": "a setting sun",
+        "url": "https://open.spotify.com/album/7FKjcZ6PhLPebLSa7IQEjr"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "a setting sun",
+      "url": "https://open.spotify.com/track/31Nc2G0gw3QOqTPuut5HRE"
     },
     {
       "album": {
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 147797,
       "name": "Breakfast For Dinner",
       "url": "https://open.spotify.com/track/5dc1N9AduPhaxLKF4HGmeg"
@@ -2631,6 +2649,28 @@
     },
     {
       "album": {
+        "name": "Count the Sheep",
+        "url": "https://open.spotify.com/album/6i7DNjuyLG7QgSg7a8QrYM"
+      },
+      "artists": [
+        {
+          "name": "Skeptika",
+          "url": "https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT"
+        },
+        {
+          "name": "wavvzz",
+          "url": "https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129230,
+      "name": "Count the Sheep",
+      "url": "https://open.spotify.com/track/5OuJlJHIjjLUqq6DGxqir4"
+    },
+    {
+      "album": {
         "name": "counting the days until we meet again",
         "url": "https://open.spotify.com/album/0Mh4bl2SRoNKzkrsrPabqa"
       },
@@ -3352,7 +3392,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 120615,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
@@ -5194,6 +5234,28 @@
       "duration_ms": 137777,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0Lc8QqlrA0idVJrZiSbLk3"
+    },
+    {
+      "album": {
+        "name": "for however long",
+        "url": "https://open.spotify.com/album/37ZeNGQoq047P6Ipn7d1cS"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133678,
+      "name": "for however long",
+      "url": "https://open.spotify.com/track/2P0jtdw4T1m67vZee4ZvZn"
     },
     {
       "album": {
@@ -8793,6 +8855,24 @@
     },
     {
       "album": {
+        "name": "Mellow Meadows",
+        "url": "https://open.spotify.com/album/49sSz1M8KGqVEEbSk5fWNK"
+      },
+      "artists": [
+        {
+          "name": "aliozzo",
+          "url": "https://open.spotify.com/artist/5ehdZzjCjL6JtdnDfzsb67"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "Mellow Meadows",
+      "url": "https://open.spotify.com/track/4ecLl0KCzgW9CjBZoFRxIC"
+    },
+    {
+      "album": {
         "name": "Blinds",
         "url": "https://open.spotify.com/album/0fW00C53VCRnbKD7SDfyeb"
       },
@@ -9464,6 +9544,24 @@
       "duration_ms": 128000,
       "name": "morning fog",
       "url": "https://open.spotify.com/track/6OtD7sy5SkgGYjM5W6jPi7"
+    },
+    {
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/37WCdMLXqBcavQ7EcAmast"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/4kcDsRcFHPefEzyv39hXg0"
     },
     {
       "album": {
@@ -10762,7 +10860,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 135750,
       "name": "Out of the day",
       "url": "https://open.spotify.com/track/53RRv08qJ39rEkweiKCaoC"
@@ -11654,7 +11752,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 140762,
       "name": "reflections in water",
       "url": "https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9"
@@ -11854,6 +11952,24 @@
       "duration_ms": 173035,
       "name": "rest well, my friend",
       "url": "https://open.spotify.com/track/0738erQUGAGMVPv6vD9ROL"
+    },
+    {
+      "album": {
+        "name": "Restful",
+        "url": "https://open.spotify.com/album/1SMKz5tZR7et39TUWCIGDG"
+      },
+      "artists": [
+        {
+          "name": "Vries",
+          "url": "https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186985,
+      "name": "Restful",
+      "url": "https://open.spotify.com/track/4XJQbfmfevObU4MHU6ldhv"
     },
     {
       "album": {
@@ -12984,6 +13100,24 @@
       "duration_ms": 133341,
       "name": "Sleepy Head",
       "url": "https://open.spotify.com/track/6pxQSodKSYDVDwDE8LfmTe"
+    },
+    {
+      "album": {
+        "name": "Sleepy Memory",
+        "url": "https://open.spotify.com/album/5P7VSWWK7DqLILAshKhVky"
+      },
+      "artists": [
+        {
+          "name": "Mellow Melt",
+          "url": "https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190296,
+      "name": "Sleepy Memory",
+      "url": "https://open.spotify.com/track/3OrIUFe4Eu1eOTHqDZD0Sc"
     },
     {
       "album": {
@@ -15116,10 +15250,32 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 129782,
       "name": "Tonight's The Night",
       "url": "https://open.spotify.com/track/3a6yAWWJuCinjbyXF0SWvQ"
+    },
+    {
+      "album": {
+        "name": "too late",
+        "url": "https://open.spotify.com/album/2QJ3GbHpI6s4srQTaw57ag"
+      },
+      "artists": [
+        {
+          "name": "Symoo",
+          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+        },
+        {
+          "name": "Chilliax",
+          "url": "https://open.spotify.com/artist/3bQJfGrGvhxgCVrojc0pm3"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "too late",
+      "url": "https://open.spotify.com/track/59WKJepx2G2TaThQQ4i4Rd"
     },
     {
       "album": {
@@ -15532,7 +15688,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 155846,
       "name": "under the same moon",
       "url": "https://open.spotify.com/track/4GCVjVf6d2TBRRaaTl8QVo"
@@ -16148,7 +16304,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 144615,
       "name": "Wishful",
       "url": "https://open.spotify.com/track/7LQLDASdfCRXYNCw6pUukK"

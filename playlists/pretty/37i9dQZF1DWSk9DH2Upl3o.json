@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 43001,
+  "num_followers": 43017,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEe9Rg2F2+6Bmd6EkC1u38MRYA1o",
+  "snapshot_id": "AAAAAP+hPdX90y0MbQaOv9wfWPjyAsIt",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:34",
+      "album": {
+        "name": "Short Skirt/Long Jacket",
+        "url": "https://open.spotify.com/album/4TbGsFL6OrJ4m4nyCmt8TP"
+      },
+      "artists": [
+        {
+          "name": "Kendall Street Company",
+          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
+        }
+      ],
+      "duration_ms": 195998,
+      "name": "Short Skirt/Long Jacket",
+      "url": "https://open.spotify.com/track/1QScMADrwCqpuNyTPmUGzH"
+    },
     {
       "added_at": "2025-09-26 04:00:44",
       "album": {
@@ -59,22 +75,6 @@
       "duration_ms": 355626,
       "name": "Royal",
       "url": "https://open.spotify.com/track/4mm74pVCGXcaa6kU86D1K9"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Me & My Lady",
-        "url": "https://open.spotify.com/album/0rt2SrLVvxNBf4Ev1rg40R"
-      },
-      "artists": [
-        {
-          "name": "Kendall Street Company",
-          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
-        }
-      ],
-      "duration_ms": 190535,
-      "name": "Me & My Lady",
-      "url": "https://open.spotify.com/track/6L4iw08eNogB3cEssYFGNl"
     },
     {
       "added_at": "2025-07-04 04:00:19",

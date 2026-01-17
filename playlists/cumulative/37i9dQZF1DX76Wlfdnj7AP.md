@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,452 songs - 3 day 6 hr 15 min
+1,453 songs - 3 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1122,7 +1122,7 @@
 | [Show Stop](https://open.spotify.com/track/4o7sl87Ock4SGA8b3gRR2l) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [New Beginnings](https://open.spotify.com/album/3wzeXReoE5Ul6ZMLvkAnHw) | 2:59 | 2021-02-25 | 2022-04-21 |
 | [Show Stop](https://open.spotify.com/track/779bZ6dEbYnVU7gMmEtgFP) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Show Stop](https://open.spotify.com/album/1XcjUvabEhf1xDvgs1mUgR) | 3:01 | 2020-02-27 | 2021-02-28 |
 | [Showtime](https://open.spotify.com/track/54VuEuBobGL2MgAMNguPE2) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL), [Blaize](https://open.spotify.com/artist/3JWujTYoN6ZnxXg3dTWpno) | [Showtime](https://open.spotify.com/album/5JWUgPD3JMn5UHmo0SgItj) | 2:28 | 2020-07-03 | 2020-09-15 |
-| [SHYNE](https://open.spotify.com/track/4lUAlhQOVzhitQKjxrHVny) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:13 | 2025-07-18 |  |
+| [SHYNE](https://open.spotify.com/track/4lUAlhQOVzhitQKjxrHVny) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:13 | 2025-07-18 | 2026-01-17 |
 | [Sicko Drop](https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/19WhhSvX9yW51l5R2yrJmS) | 2:27 | 2021-04-22 | 2022-07-29 |
 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 | 2022-07-25 | 2024-03-06 |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2019-05-26\* |  |
@@ -1372,6 +1372,7 @@
 | [Weather the Storm \(feat\. Meek Mill & Lil Baby\)](https://open.spotify.com/track/6xVhqLT40s5sVhepe9Mckc) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 2:33 | 2019-05-26\* | 2019-06-15 |
 | [Welcome To The Party](https://open.spotify.com/track/4KTFcXJcayX6ZhWXgPeJia) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Welcome To The Party](https://open.spotify.com/album/6J5ZTBRWJ20efaaEdZbF4Y) | 3:35 | 2019-07-27 | 2019-08-09 |
 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 | 2022-03-30 | 2023-03-09 |
+| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-16 |  |
 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 | 2021-03-16 | 2022-11-13 |
 | [What's Up Danger \- Black Caviar Remix](https://open.spotify.com/track/0fOxkxw7FKXuzNs64bsmyb) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [What's Up Danger \(Black Caviar Remix\)](https://open.spotify.com/album/4zuVeB0Vr3EMzXzB5vy4Qt) | 3:17 | 2019-10-23 | 2020-01-26 |
 | [Whatcha Gon Do \(feat\. Bhad Bhabie, Rich The Kid & 24hrs\)](https://open.spotify.com/track/7wIg5t5GmEdYrzTu2dQhOj) | [Benzi](https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl), [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Whatcha Gon Do \(feat\. Bhad Bhabie, Rich The Kid & 24hrs\)](https://open.spotify.com/album/009y65ikYn0WepKbgPVdNM) | 3:17 | 2019-06-21 | 2019-07-06 |

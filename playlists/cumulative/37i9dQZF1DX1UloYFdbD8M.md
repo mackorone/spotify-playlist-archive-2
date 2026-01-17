@@ -2,9 +2,9 @@
 
 ### [Malayalam Indie](https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M)
 
-> Super Cool Indie Tracks from Gods Own Country<br/>Cover: When Chai Met Toast
+> Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-456 songs - 1 day 4 hr 13 min
+457 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Karupp](https://open.spotify.com/track/6NH0ta5RMkQZUjxNYoVeKg) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [anxious](https://open.spotify.com/artist/6PGTb8THZQGSwivV5z26Vj) | [Varthamanam](https://open.spotify.com/album/7LOWpo19ROx5TL0qYTEsnp) | 3:07 | 2025-10-03 | 2025-11-08 |
 | [Karutha Pookal](https://open.spotify.com/track/5RMoZxbhHJdgb9dH12dcdL) | [Ian Camerson Paiva](https://open.spotify.com/artist/0QBe9WoPk3s1zyUFhHfva6), [Rishab Baiju](https://open.spotify.com/artist/16BRiW2O7JQQd2q5KeEZOD), [Anupama Sreedevi](https://open.spotify.com/artist/4jF3Fv8Q1JUTGWnHkV7Paf), [Mushin Muhammed](https://open.spotify.com/artist/0uNE4R0OdrI5uygEpiQMkV) | [Sorry](https://open.spotify.com/album/146kqGPQrWcgtda2IrgUTL) | 3:45 | 2025-03-17 | 2025-06-17 |
 | [Katturumbu](https://open.spotify.com/track/2jjzkXKzLB0iqq6YHXxeOD) | [Sangeeth](https://open.spotify.com/artist/3eLmrMxtn3oTcqng8BNoPZ) | [Katturumbu](https://open.spotify.com/album/0AVeHvPxaAuhDVprmsL4J8) | 4:56 | 2023-10-10 | 2025-02-20 |
+| [Khuda](https://open.spotify.com/track/3MdbyaX5P8fkgPrxEtfLwR) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Suhail Koya](https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv) | [Khuda](https://open.spotify.com/album/0YHrwh80kqIX6NZ4NEcV9J) | 5:24 | 2026-01-16 |  |
 | [Kiliyo](https://open.spotify.com/track/1NgJjC3GOpKJw0Z06P7geV) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [JORJ.](https://open.spotify.com/artist/2itDiy3z59T67qlYGJSIiO) | [Kiliyo](https://open.spotify.com/album/1i0zVVIWvyELuDV87VIu4h) | 3:50 | 2025-08-08 | 2026-01-15 |
 | [Krishna Krishna \- House of Saraswati](https://open.spotify.com/track/2mgfZWIJKV4s6rCAAQVNma) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Krishna Krishna \(House of Saraswati\)](https://open.spotify.com/album/7nw7toDdqStNzJ2jBVrWMI) | 3:41 | 2025-04-21 | 2025-07-11 |
 | [KUMMBA](https://open.spotify.com/track/1Xyl21ZvU2lIz15UxvQzOT) | [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR), [Vaishakh Jyothis](https://open.spotify.com/artist/3jybpgiCCmad0SiDsen7ot) | [KUMMBA](https://open.spotify.com/album/4YQlEmpiyRykq6R6DuZtiK) | 3:46 | 2024-11-27 | 2025-05-06 |
@@ -245,7 +246,7 @@
 | [Maut](https://open.spotify.com/track/7iCOtipsMA7HYwe4s8RWpG) | [Amal R Vp](https://open.spotify.com/artist/0MnFFZZSySNrGopyFPWad5), [Musicaholic](https://open.spotify.com/artist/248iJr8broW390N2E72Fyd) | [Maut](https://open.spotify.com/album/1lIxgM4kvISw0QhRhqXuvP) | 4:02 | 2025-06-16 | 2025-08-07 |
 | [Mayathe](https://open.spotify.com/track/6EyYDqDJnoCmAwWBpYRMKE) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [Mayathe](https://open.spotify.com/album/79q8Ugegn7tkGxGqNeYmhv) | 2:26 | 2024-07-16 | 2025-02-11 |
 | [Mayatheeram](https://open.spotify.com/track/5Ox3gerw8gatalUBOQdumf) | [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [Sreeranjini Kodampally](https://open.spotify.com/artist/4LJRTEt0rKZfEwMWSTGJM5) | [Mayatheeram](https://open.spotify.com/album/2ahKKTbwW8CnpTE6Lnu8dH) | 3:56 | 2025-11-07 |  |
-| [Mazha](https://open.spotify.com/track/0utq0RvHLW5pd062106sSz) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [K Santhosh](https://open.spotify.com/artist/75n3hVy4nSg0WWFbWOqCnJ), [Prats Nair](https://open.spotify.com/artist/4X0mjRFe10wgDe2bRFgY3w) | [Mazha](https://open.spotify.com/album/2FHWcvey1zk7dIVX9KV9Kz) | 1:41 | 2025-07-15 |  |
+| [Mazha](https://open.spotify.com/track/0utq0RvHLW5pd062106sSz) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [K Santhosh](https://open.spotify.com/artist/75n3hVy4nSg0WWFbWOqCnJ), [Prats Nair](https://open.spotify.com/artist/4X0mjRFe10wgDe2bRFgY3w) | [Mazha](https://open.spotify.com/album/2FHWcvey1zk7dIVX9KV9Kz) | 1:41 | 2025-07-15 | 2026-01-17 |
 | [Mazha](https://open.spotify.com/track/6FQlgBbteed9kBiZIHfYuk) | [Rohit Matt](https://open.spotify.com/artist/2NxaBdfeHXKhnl7fBoJBOC), [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T) | [Mazha](https://open.spotify.com/album/0duNv6aeYqZA46xqHLwH4G) | 3:51 | 2023-10-10 | 2024-03-09 |
 | [Mazhamegam](https://open.spotify.com/track/3fnO3TqRRKGMdC5uaZNuwp) | [P S Ajmal Shah](https://open.spotify.com/artist/6UfrHGnTCdPQQvvB8XHPtR) | [Mazhamegam](https://open.spotify.com/album/4iDdMRaPy6VXsDPporlfWd) | 1:29 | 2024-02-29 | 2024-09-11 |
 | [Mazhayayi](https://open.spotify.com/track/38b0PWjywZlQHCuBkhZ4f9) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [San Jame Bobby](https://open.spotify.com/artist/55zuvLXQ0myK8Pg9pHSF49), [Dan Jude Bobby](https://open.spotify.com/artist/2spbsj0fPN52eQRr75ZBE4), [Bobby S Robert](https://open.spotify.com/artist/73C9ZWwwci9QULTcAbq9b1) | [Mazhayayi](https://open.spotify.com/album/5vIsu0BvsTAhC5Srn2DtZH) | 3:25 | 2025-08-01 | 2025-11-12 |

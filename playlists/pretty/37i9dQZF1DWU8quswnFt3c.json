@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Moliy",
-  "num_followers": 1053480,
+  "num_followers": 1053371,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-01-07 15:02:04",
       "album": {
-        "name": "Scotland In The Snow",
-        "url": "https://open.spotify.com/album/0nYhSrICuH9wF0625WlPBT"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Scotland In The Snow",
-      "url": "https://open.spotify.com/track/5BIAqf246BYNH3YA8PQ9qg"
-    },
-    {
-      "added_at": "2026-01-07 15:02:04",
-      "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 135283,
       "name": "Ups and downs",
       "url": "https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat"
+    },
+    {
+      "added_at": "2026-01-07 15:02:04",
+      "album": {
+        "name": "Scotland In The Snow",
+        "url": "https://open.spotify.com/album/0nYhSrICuH9wF0625WlPBT"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Scotland In The Snow",
+      "url": "https://open.spotify.com/track/5BIAqf246BYNH3YA8PQ9qg"
     },
     {
       "added_at": "2026-01-07 15:02:04",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-01-07 15:02:04",
       "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 205669,
+      "name": "El acuerdo",
+      "url": "https://open.spotify.com/track/1LLWnqc93bK8DgWxmYvARN"
+    },
+    {
+      "added_at": "2026-01-07 15:02:04",
+      "album": {
         "name": "RAGE GIRL (Remix)",
         "url": "https://open.spotify.com/album/3ztsnfBbpSB67hYnJGJMwm"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 208851,
       "name": "RAGE GIRL (Remix)",
       "url": "https://open.spotify.com/track/3Lry62qNJ7Kgxtwq2Fh1jV"
-    },
-    {
-      "added_at": "2026-01-07 15:02:04",
-      "album": {
-        "name": "Amor\u00edo",
-        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 205669,
-      "name": "El acuerdo",
-      "url": "https://open.spotify.com/track/1LLWnqc93bK8DgWxmYvARN"
     },
     {
       "added_at": "2026-01-07 15:02:04",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-01-07 15:02:04",
       "album": {
-        "name": "Asteromata",
-        "url": "https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y"
-      },
-      "artists": [
-        {
-          "name": "Klavdia",
-          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
-        }
-      ],
-      "duration_ms": 175385,
-      "name": "Asteromata",
-      "url": "https://open.spotify.com/track/5mrxikyMGplgzRgTrkIJo6"
-    },
-    {
-      "added_at": "2026-01-07 15:02:04",
-      "album": {
         "name": "\u662f\u90a3\u9ebc\u8072\u52e2\u6d69\u5927 LOUD & PROUD",
         "url": "https://open.spotify.com/album/5gI35OdhpjrAjUjOAk9Y4h"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 217072,
       "name": "\u662f\u90a3\u9ebc\u8072\u52e2\u6d69\u5927 LOUD & PROUD",
       "url": "https://open.spotify.com/track/5ysyYcp5Czk2cisdkr5Spl"
+    },
+    {
+      "added_at": "2026-01-07 15:02:04",
+      "album": {
+        "name": "Asteromata",
+        "url": "https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "duration_ms": 175385,
+      "name": "Asteromata",
+      "url": "https://open.spotify.com/track/5mrxikyMGplgzRgTrkIJo6"
     },
     {
       "added_at": "2026-01-07 15:02:04",

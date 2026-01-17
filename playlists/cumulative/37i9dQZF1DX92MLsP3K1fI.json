@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! EMJAY en portada",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Ana Torroja en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -360,6 +360,24 @@
       "duration_ms": 194262,
       "name": "A Un Paso De La Luna - Remix",
       "url": "https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv"
+    },
+    {
+      "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/4o5XUPdw1HeAY7LtBpRMnw"
+      },
+      "artists": [
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232918,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/3N1yNINZKp7j62WbA39ToX"
     },
     {
       "album": {
@@ -2386,6 +2404,24 @@
       "duration_ms": 216796,
       "name": "Coro de Amor",
       "url": "https://open.spotify.com/track/3n87suj86yX3ywoUBZUFyy"
+    },
+    {
+      "album": {
+        "name": "Cosas de Superstar",
+        "url": "https://open.spotify.com/album/0tknd59P5Y5XBkeYW7JwCT"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154921,
+      "name": "Cosas de Superstar",
+      "url": "https://open.spotify.com/track/1it6i3ytU15vcLUWWTztvg"
     },
     {
       "album": {
@@ -5708,7 +5744,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 158483,
       "name": "Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
@@ -7510,7 +7546,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 201493,
       "name": "Nunca Volvieron",
       "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
@@ -7644,6 +7680,24 @@
       "duration_ms": 185751,
       "name": "Oportunidad",
       "url": "https://open.spotify.com/track/6wzdMhX1spHmcZiMfQcA7R"
+    },
+    {
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/12L1vxHaS7zk9jkA9vhBwQ"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/1AcoghNuDqCo4WoUqjYYG0"
     },
     {
       "album": {
@@ -8001,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "pelinegra",
+        "url": "https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211084,
+      "name": "pelinegra",
+      "url": "https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x"
+    },
+    {
+      "album": {
         "name": "Pel\u00edcula (Intervenida por Ximena Sari\u00f1ana)",
         "url": "https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS"
       },
@@ -8338,7 +8410,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 164374,
       "name": "prometo no llamar",
       "url": "https://open.spotify.com/track/6O6reRnGeZYqdJRYjiYcyt"
@@ -9370,7 +9442,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 153674,
       "name": "Siempre Que Lo Beso",
       "url": "https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR"
@@ -9414,6 +9486,28 @@
       "duration_ms": 207500,
       "name": "Siesta Americana",
       "url": "https://open.spotify.com/track/6fSrXIb8rOqMqPxlGT7zhL"
+    },
+    {
+      "album": {
+        "name": "sigues aqu\u00ed?",
+        "url": "https://open.spotify.com/album/3iZOS2KpqIeqayYSFgVlJ6"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        },
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203555,
+      "name": "sigues aqu\u00ed?",
+      "url": "https://open.spotify.com/track/5KtVRCzur1RMEnTdabkIYg"
     },
     {
       "album": {
@@ -11448,7 +11542,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 193342,
       "name": "\u00bfEs En Serio?",
       "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"

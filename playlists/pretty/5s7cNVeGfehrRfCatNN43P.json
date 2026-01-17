@@ -1,260 +1,292 @@
 {
-  "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10861,
+  "description": "Song Of The Week at the top. ",
+  "num_followers": 10862,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "AAALnTvqj+NLFPV/9jVSFIvsJifmq7/X",
+  "snapshot_id": "AAALoAJcVFad1ZG5V93CriVtysZbMuvX",
   "tracks": [
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "THAT'S SHOWBIZ BABY! THE ENCORE",
-        "url": "https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0"
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q"
       },
       "artists": [
         {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
         }
       ],
-      "duration_ms": 198320,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/3XTvde1MWJfqFBA1XLN96P"
+      "duration_ms": 326068,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/0Hwfl9l8bI0CPBLxU8H5AT"
+        "name": "Half Decade Addiction",
+        "url": "https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP"
       },
       "artists": [
         {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+          "name": "RABO",
+          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
         }
       ],
-      "duration_ms": 215298,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR"
+      "duration_ms": 273760,
+      "name": "Stuck In November",
+      "url": "https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "MAKE IT RIGHT",
-        "url": "https://open.spotify.com/album/7iVJ0ApHGfPqtcj8d4XTLS"
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
       },
       "artists": [
         {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 108600,
-      "name": "MAKE IT RIGHT",
-      "url": "https://open.spotify.com/track/2yXyDFCnB6qcAmMZA2HfEl"
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "People Watching (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+        "name": "Raft In The Sea",
+        "url": "https://open.spotify.com/album/3bPDiTVEsqTk0aInxUKvPE"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "The Treadmill",
-      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
-    },
-    {
-      "added_at": "2025-12-05 13:38:14",
-      "album": {
-        "name": "Quantum Beats",
-        "url": "https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
         },
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 215352,
+      "name": "Raft In The Sea",
+      "url": "https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1"
+    },
+    {
+      "added_at": "2026-01-16 08:47:56",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/3Avkrb1LbfKqn8dBYeeI57"
+      },
+      "artists": [
+        {
+          "name": "Musti",
+          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
         },
         {
-          "name": "Lonely Club",
-          "url": "https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 171200,
-      "name": "Broken Angel (This is Lonely Club)",
-      "url": "https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr"
+      "duration_ms": 149320,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/0yAKQvJ6z7qAEuUZCcGjyX"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "Delusional",
-        "url": "https://open.spotify.com/album/5VL11F19vY5g5j0jw2D2Ar"
+        "name": "Wall of Sound",
+        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
       },
       "artists": [
         {
-          "name": "Phoebe Isobel",
-          "url": "https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/5XJvCvOx6I7H7EUsvTOpny"
+      "duration_ms": 144426,
+      "name": "Wall of Sound",
+      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "RING THE ALARM",
-        "url": "https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV"
+        "name": "DANCE...",
+        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
       },
       "artists": [
         {
-          "name": "TOMORA",
-          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        },
-        {
-          "name": "Tom Rowlands",
-          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 331413,
-      "name": "RING THE ALARM",
-      "url": "https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG"
+      "duration_ms": 236041,
+      "name": "DANCE... - Edit",
+      "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
-        "url": "https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0"
+        "name": "BRITPOP",
+        "url": "https://open.spotify.com/album/7IDBud1rBMe8dK6qyoq2VR"
       },
       "artists": [
         {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 151506,
-      "name": "DUVET",
-      "url": "https://open.spotify.com/track/6AC9alC8qJ7cXuYifgAfQn"
+      "duration_ms": 215193,
+      "name": "Morrissey",
+      "url": "https://open.spotify.com/track/7g0QI7P5ef3nhu3CeKL6kN"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "More Love",
-        "url": "https://open.spotify.com/album/42uozpGHqQ5HPCegmvEtpS"
+        "name": "Running With Scissors",
+        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        },
-        {
-          "name": "KONXIOUS",
-          "url": "https://open.spotify.com/artist/7ifmiN7sqthTZQuo91fOQ7"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 226000,
-      "name": "More Love",
-      "url": "https://open.spotify.com/track/72qkEdLo7hkJcpJ5ARfvgW"
+      "duration_ms": 124133,
+      "name": "Cryptid",
+      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "Damaged Goods",
-        "url": "https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0"
+        "name": "Where's My Phone?",
+        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
       },
       "artists": [
         {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 278154,
-      "name": "Damaged Goods",
-      "url": "https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV"
+      "duration_ms": 189853,
+      "name": "Where's My Phone?",
+      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+        "name": "Hi My Love",
+        "url": "https://open.spotify.com/album/5IUwyON6SEB85IblIjowCP"
       },
       "artists": [
         {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
         }
       ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+      "duration_ms": 176486,
+      "name": "Hi My Love",
+      "url": "https://open.spotify.com/track/5ZHRKtrosRwOzUHv7WmyGK"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "the girls",
-        "url": "https://open.spotify.com/album/0nTONWRigbS3Q6ve6GcwUv"
+        "name": "EVERYTHING CHANGES",
+        "url": "https://open.spotify.com/album/1asaUEJ8xf7YFxkMHluTal"
       },
       "artists": [
         {
-          "name": "su i think",
-          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
         }
       ],
-      "duration_ms": 128992,
-      "name": "the girls",
-      "url": "https://open.spotify.com/track/06UKOoDojEFKZKTooWtz2W"
+      "duration_ms": 187428,
+      "name": "EVERYTHING CHANGES",
+      "url": "https://open.spotify.com/track/0kMVmRHVHzqJutC4v4j72x"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "Immortal Love",
-        "url": "https://open.spotify.com/album/0zwbJ10ZAvQQrsFOcp7DWm"
+        "name": "El Paso",
+        "url": "https://open.spotify.com/album/55U9VgpoJW2BOSMH4Bvbxy"
       },
       "artists": [
         {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          "name": "System Olympia",
+          "url": "https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX"
         }
       ],
-      "duration_ms": 176947,
-      "name": "Immortal Love",
-      "url": "https://open.spotify.com/track/0cD8sJCbcePOMpTTVWN1pM"
+      "duration_ms": 135930,
+      "name": "El Paso",
+      "url": "https://open.spotify.com/track/3JDMDjJGwnJzwWy3eppY2L"
     },
     {
-      "added_at": "2025-12-05 13:38:14",
+      "added_at": "2026-01-16 08:47:56",
       "album": {
-        "name": "Kylie Christmas (Fully Wrapped)",
-        "url": "https://open.spotify.com/album/2Qqr2SBEHLPEyqsQPYTa6y"
+        "name": "I Need To Sleep",
+        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
         }
       ],
-      "duration_ms": 192107,
-      "name": "Hot in December",
-      "url": "https://open.spotify.com/track/1yepCSPoxirpHDK1580Eq5"
+      "duration_ms": 179731,
+      "name": "I Need To Sleep",
+      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
+    },
+    {
+      "added_at": "2026-01-16 08:47:56",
+      "album": {
+        "name": "Outta My Mind (Touch)",
+        "url": "https://open.spotify.com/album/5Nsw2netaTGJomcUKTmVzF"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "duration_ms": 227961,
+      "name": "Outta My Mind (Touch)",
+      "url": "https://open.spotify.com/track/4qkiVYEL9WvPa99NmpUCmX"
+    },
+    {
+      "added_at": "2026-01-16 08:47:56",
+      "album": {
+        "name": "Want Somebody",
+        "url": "https://open.spotify.com/album/6pIYc0H0tZPwuQ8b8pJeVH"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        }
+      ],
+      "duration_ms": 205909,
+      "name": "Want Somebody",
+      "url": "https://open.spotify.com/track/53bBuXb07xaPlXFyzxzYBW"
+    },
+    {
+      "added_at": "2026-01-16 08:47:56",
+      "album": {
+        "name": "My Empire",
+        "url": "https://open.spotify.com/album/0DGTlvusRCwOPfBy1MlopK"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 220956,
+      "name": "My Empire",
+      "url": "https://open.spotify.com/track/2TOIyy0CYudM0YMwT7gPE3"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

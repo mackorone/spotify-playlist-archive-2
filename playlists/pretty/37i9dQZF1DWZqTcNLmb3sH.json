@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Mark",
-  "num_followers": 66860,
+  "num_followers": 66879,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNkLK6tijq4zP3Q5MpEjxsqin4e",
+  "snapshot_id": "AAAAAIC4df2IYIv72s/PrhdlivHttndn",
   "tracks": [
     {
       "added_at": "2026-01-14 10:57:55",
@@ -59,6 +59,38 @@
       "duration_ms": 265716,
       "name": "Ellinda Bande Neenu (From \"Katle\")",
       "url": "https://open.spotify.com/track/1PgXIN7REIlNzO32ZNlNrC"
+    },
+    {
+      "added_at": "2026-01-16 10:25:54",
+      "album": {
+        "name": "45 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2dvVH2bXQxkZtXGGgmtwAR"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        },
+        {
+          "name": "Anil Kumar",
+          "url": "https://open.spotify.com/artist/22F1u1k58wM2mYjUU59RsZ"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 237447,
+      "name": "Aseema Prema Radheyadenu",
+      "url": "https://open.spotify.com/track/5Yv0ZKZEMS0du5Nf8AKXqU"
     },
     {
       "added_at": "2026-01-05 07:47:14",
@@ -1567,26 +1599,6 @@
       "duration_ms": 228600,
       "name": "Miracle (From \"Bank Of Bhagyalakshmi\")",
       "url": "https://open.spotify.com/track/0NI2MqJM8zwlmtUSmh3oT5"
-    },
-    {
-      "added_at": "2025-12-12 09:01:30",
-      "album": {
-        "name": "Ellige Payana Yavudo Daari Title Track (From \"Ellige Payana Yavudo Daari\")",
-        "url": "https://open.spotify.com/album/0Yl8a3lsBiZL2518WCtmjE"
-      },
-      "artists": [
-        {
-          "name": "Pranav Rao",
-          "url": "https://open.spotify.com/artist/0MNSM3C5suE6OAkv9cuylb"
-        },
-        {
-          "name": "Kiren S Suryaa",
-          "url": "https://open.spotify.com/artist/6CwtLXWDdiZrQHT6CM1pFM"
-        }
-      ],
-      "duration_ms": 145695,
-      "name": "Ellige Payana Yavudo Daari Title Track (From \"Ellige Payana Yavudo Daari\")",
-      "url": "https://open.spotify.com/track/4kpF8sihHyhWfmnfj8v9qi"
     },
     {
       "added_at": "2025-12-01 06:46:11",

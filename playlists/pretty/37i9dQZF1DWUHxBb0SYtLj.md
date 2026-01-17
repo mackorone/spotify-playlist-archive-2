@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Altea
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,489 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,495 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 64 | [mosca cieca](https://open.spotify.com/track/3evxzEZhjNxvpvKwKesSdT) | [juni](https://open.spotify.com/artist/3AKqJ5gNjU2hp8Xm8Mywvb) | [nero, attimo](https://open.spotify.com/album/0Wfyq0Ov2iBAZ5KMbGT4JA) | 3:16 |
 | 65 | [Sola](https://open.spotify.com/track/2wtZl2CNtpkikwQhdFztkQ) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [Luce](https://open.spotify.com/album/6QSPG6nzl1OaqCCt9Tg2Pv) | 2:35 |
 | 66 | [B\-AXX SHAKING SONG](https://open.spotify.com/track/0lzEJo5zpsyNUXfKg7dM9K) | [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv) | [B\-AXX SHAKING SONG](https://open.spotify.com/album/33tqHQX0ydaXQV1iWvq3Cu) | 2:42 |
-| 67 | [Notte](https://open.spotify.com/track/11zim72mVuDn4HWcvLufmK) | [Luzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Estranea](https://open.spotify.com/album/6D7ZWGhaTOz0mel7CiOIwg) | 3:47 |
+| 67 | [Notte](https://open.spotify.com/track/11zim72mVuDn4HWcvLufmK) | [LUZAI](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Estranea](https://open.spotify.com/album/6D7ZWGhaTOz0mel7CiOIwg) | 3:47 |
 | 68 | [VAI](https://open.spotify.com/track/7gOvyM0lngEeH3fWTsccj4) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [VAI](https://open.spotify.com/album/26PNNkpnqJ7Un82W5P3FTz) | 2:48 |
 | 69 | [Quante Lacrime](https://open.spotify.com/track/1QsG1bTnygLpg0S4d9Fnrg) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Quante Lacrime](https://open.spotify.com/album/30wIZa2jzdIwvcXcnkrm59) | 3:13 |
 | 70 | [17](https://open.spotify.com/track/4Qorwsh4sJd3ZcUSkBmTi4) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [Dead End](https://open.spotify.com/album/3tMqWsevN8DlWHsofi1Joo) | 3:23 |

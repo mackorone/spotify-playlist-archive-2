@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-365 songs - 20 hr 18 min
+366 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,8 +107,9 @@
 | [El Marginal](https://open.spotify.com/track/4SEhmRp9PAp0uS0AlefNWs) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/58EvYnCxnhrid5sUBLCUW3) | 3:09 | 2023-07-17 | 2023-10-12 |
 | [El Mas Piola](https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Mas Piola](https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml) | 3:37 | 2023-05-26 | 2023-08-04 |
 | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH) | 2:09 | 2023-05-26 | 2024-04-19 |
+| [El Pibe Villero](https://open.spotify.com/track/5qz6d7xTHxLnTNqyeDWNWX) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 4:38 | 2026-01-09 |  |
 | [EL PRESO](https://open.spotify.com/track/30ifw7I5iQXqhuF87LtcAd) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [EL PRESO](https://open.spotify.com/album/3UiqD2eUHBYfHrRTUlv9JE) | 4:30 | 2023-06-30 | 2023-07-08 |
-| [El reloj cu cu](https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [De Culo](https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2) | 4:35 | 2025-11-20 |  |
+| [El reloj cu cu](https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [De Culo](https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2) | 4:35 | 2025-11-20 | 2026-01-17 |
 | [El Verano Suena Asi](https://open.spotify.com/track/0fLLOtbko6bfMsfxpCR3TA) | [LT Promise](https://open.spotify.com/artist/69ElvGSkRPaoxWFPLqfUac), [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [Jorgito Barrionuevo](https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH) | [El Verano Suena Asi](https://open.spotify.com/album/2nOAAHo4RabgXsrcKUMeqg) | 2:23 | 2024-12-20 | 2025-03-29 |
 | [El Whatsapp](https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:32 | 2023-05-26 | 2024-03-06 |
 | [El WhatsApp \- Remix](https://open.spotify.com/track/0MDlIAcp1uuaf77uBUmnjh) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [El WhatsApp \(Remix\)](https://open.spotify.com/album/7GM7fXU6oVahpfXoNjNbtg) | 2:39 | 2023-11-24 | 2025-03-01 |

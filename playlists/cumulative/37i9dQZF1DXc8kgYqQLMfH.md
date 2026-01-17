@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,297 songs - 2 day 1 hr 36 min
+1,298 songs - 2 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 | 2022-12-16 |  |
 | [Dreamer](https://open.spotify.com/track/6usANlGhQzHC3lS8ifgHaN) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Dreamer](https://open.spotify.com/album/0UCeKLcZGrPDMVKzB6MnMH) | 1:42 | 2022-09-16 | 2025-02-10 |
 | [Dreaming With You](https://open.spotify.com/track/2115fUeXfK3FnW12CHHdIx) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Dreaming With You](https://open.spotify.com/album/2N4MV7TYlQcAbdj6rkP9iK) | 2:19 | 2022-08-05 | 2022-10-29 |
+| [Dreams of Summer](https://open.spotify.com/track/1jVckG8SZelmhcOUEQTmCb) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Dreams of Summer](https://open.spotify.com/album/5TViRVC0ybRDhUcnZChkga) | 2:25 | 2026-01-16 |  |
 | [Dreamwalking](https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Dreamwalking](https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms) | 2:04 | 2022-05-13 | 2022-06-10 |
 | [dreamworld gravity](https://open.spotify.com/track/6uRopPokspfqgmcaxoGhrT) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [dreamworld gravity](https://open.spotify.com/album/4FjOZhIz54jv9sEyBBpQAF) | 2:51 | 2022-05-13 | 2022-05-20 |
 | [drift](https://open.spotify.com/track/0vvtzmmvWQRP9VmCoZBHxn) | [lola dreams](https://open.spotify.com/artist/5b2IjxR1EQiDcay0RSzgNY) | [drift](https://open.spotify.com/album/5ywDwMQPjZl3ixzfCZHVaG) | 2:34 | 2021-11-10 | 2022-06-03 |
@@ -614,7 +615,7 @@
 | [latte etching](https://open.spotify.com/track/1lIO6Z1ptg67WzwdpMDfcJ) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [latte etching](https://open.spotify.com/album/4EYGVSCF5cqpeEUGbjKUKF) | 2:17 | 2023-03-16 | 2025-07-16 |
 | [Lavender](https://open.spotify.com/track/3dvmaIJTD7TA8WTabeXweY) | [Filae](https://open.spotify.com/artist/1fetaNfyFJu3bNYz05XTyd) | [Lavender](https://open.spotify.com/album/0GbIQxI93XKfjLjIlPXwnY) | 1:19 | 2022-11-11 |  |
 | [laze](https://open.spotify.com/track/3toAiZvuekDbhfaiTSJe8j) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [laze](https://open.spotify.com/album/3ARTuVfkQ1vhcmoQSgXBMa) | 2:43 | 2021-11-10 | 2022-05-20 |
-| [Lazy](https://open.spotify.com/track/7mY66g3G0lsz60sqo4SOyR) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Lazy](https://open.spotify.com/album/3Ya2oy9QmFNLIOyxZyphbQ) | 2:27 | 2025-07-15 |  |
+| [Lazy](https://open.spotify.com/track/7mY66g3G0lsz60sqo4SOyR) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Lazy](https://open.spotify.com/album/3Ya2oy9QmFNLIOyxZyphbQ) | 2:27 | 2025-07-15 | 2026-01-17 |
 | [Leaf Litter](https://open.spotify.com/track/0UwpdueH9ii23pYcdIsCjR) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Leaf Litter](https://open.spotify.com/album/2DzouD1CSe3Z3AoewHa3yN) | 2:00 | 2022-12-09 | 2025-07-16 |
 | [Leaving Town](https://open.spotify.com/track/5fBPmmIouMbNVb0yc93ZDh) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Leaving Town](https://open.spotify.com/album/7HNj76lX63QdCG7E6P5F7M) | 2:34 | 2023-03-16 | 2025-07-16 |
 | [left staring](https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I) | [bugdawn](https://open.spotify.com/artist/3iB5oTLzBMSaNQ2CajhcGz) | [left staring](https://open.spotify.com/album/0qRiHtoEzskxs1lcKzLIml) | 2:12 | 2021-11-10 | 2022-06-03 |

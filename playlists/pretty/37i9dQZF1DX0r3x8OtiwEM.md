@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,052,378 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,482 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 40 | [Meet Me](https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [JONOS](https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Meet Me](https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5) | 3:15 |
 | 41 | [Berlin](https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Berlin](https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y) | 2:01 |
 | 42 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
-| 43 | [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 |
-| 44 | [For a Feeling \(feat\. RHODES\) \- Adam Sellouk & Y do I Remix](https://open.spotify.com/track/17g0qkplMw3ejgGpDd2GJj) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Dark Matter Remixes](https://open.spotify.com/album/63vQpCdklHB6wh13qeVVbz) | 4:00 |
+| 43 | [For a Feeling \(feat\. RHODES\) \- Adam Sellouk & Y do I Remix](https://open.spotify.com/track/17g0qkplMw3ejgGpDd2GJj) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Dark Matter Remixes](https://open.spotify.com/album/63vQpCdklHB6wh13qeVVbz) | 4:00 |
+| 44 | [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 |
 | 45 | [Dancing Penguins](https://open.spotify.com/track/1JWxMJR4RF00BQIXvag03G) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dancing Penguins](https://open.spotify.com/album/6xo8gu7kxXiT6SG5bmzHIT) | 7:58 |
 | 46 | [Pump Up The Jam](https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ) | [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [Pump Up The Jam](https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO) | 3:27 |
 | 47 | [Deeplow](https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm) | [Deeplow](https://open.spotify.com/album/1VpXyD7YvGS5rTb9VWRgqs) | 2:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 |
 | 60 | [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 |
 
-Snapshot ID: `AAAAAGLJMnDDyPrkzexqWW452VF5kYlK`
+Snapshot ID: `AAAAAG7FhLxojdMpppJCbJSRfSesyuLf`

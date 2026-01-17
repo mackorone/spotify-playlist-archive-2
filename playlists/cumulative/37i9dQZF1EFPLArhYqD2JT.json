@@ -2001,6 +2001,28 @@
     },
     {
       "album": {
+        "name": "George Gershwin Performs Original Piano Works",
+        "url": "https://open.spotify.com/album/5Pr5XXKjfAz7ncM2r01AW7"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Irving Berlin",
+          "url": "https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152293,
+      "name": "For Your Country & My Country",
+      "url": "https://open.spotify.com/track/0Z7L8JzvKZwbYKCTG1OZcM"
+    },
+    {
+      "album": {
         "name": "Masters Of The Roll: George Gershwin",
         "url": "https://open.spotify.com/album/3CpvGgDutkOc106fi3f874"
       },
@@ -2016,7 +2038,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 152293,
       "name": "For Your Country & My Country",
       "url": "https://open.spotify.com/track/4cN85XKTmet64l7gwel9at"
@@ -4430,7 +4452,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -9204,7 +9226,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 218359,
       "name": "You Can't Get a Man with a Gun",
       "url": "https://open.spotify.com/track/0cNqWJwgj4VEBMq6CcAzDl"
@@ -9234,6 +9256,24 @@
       "duration_ms": 244600,
       "name": "You Can't Get A Man With A Gun",
       "url": "https://open.spotify.com/track/3eAcniFNFaCXnJV0ZZtVZE"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/69FutaP5eFoyCTXH1zBmju"
+      },
+      "artists": [
+        {
+          "name": "Betty Hutton",
+          "url": "https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218738,
+      "name": "You Can't Get a Man with a Gun",
+      "url": "https://open.spotify.com/track/3vzqpYJQ6zlTWHQ33iz3DU"
     },
     {
       "album": {

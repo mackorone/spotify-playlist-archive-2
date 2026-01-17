@@ -4,7 +4,7 @@
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=ptujw\_JxQqKkC0xBdre1Tw">Teni</a> and <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=YHMYqWMfSU698gw1kt39mQ">Gunna</a>
 
-428 songs - 1 day 5 hr 47 min
+429 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bawo Vula](https://open.spotify.com/track/0B1TKxC6Mf9bsZ2FtBiPrv) | [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV) | [The New Testament](https://open.spotify.com/album/6Jp5anRdBdocRLr1h7fmig) | 5:48 | 2025-05-22 | 2025-06-20 |
 | [Be](https://open.spotify.com/track/6JzDmKsKyPmkKixEnk1Iwg) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Hexagon](https://open.spotify.com/album/3I3j5cgln5bast344XgvUA) | 2:43 | 2024-05-31 | 2025-03-28 |
 | [Be My Luv](https://open.spotify.com/track/6dzK4aJJaO3NBYNVGcuPH7) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Be My Luv](https://open.spotify.com/album/4RDXWNXefxndbzqREBH6IA) | 3:43 | 2022-08-04 | 2022-11-01 |
-| [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 | 2025-03-13 |  |
+| [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 | 2025-03-13 | 2026-01-17 |
 | [Beer Tam](https://open.spotify.com/track/2YVBBDQoMn8oHrSysWWhla) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV), [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO) | [Beer Tam](https://open.spotify.com/album/3sG9Yb7heI3k5qVWCgJvQZ) | 4:53 | 2022-05-23 | 2022-08-12 |
 | [Beirut](https://open.spotify.com/track/5FGA9IEDOPYX8viE5BtyLW) | [Dany Neville](https://open.spotify.com/artist/25eSvHHBfgPVlQLGN4HPkU) | [Beirut](https://open.spotify.com/album/7z6rpzua2aPy1dxLJ4arkm) | 3:05 | 2024-07-04 | 2025-03-21 |
 | [Bells](https://open.spotify.com/track/7c5rKCDYYbyBsLlJ00NgCD) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [DJ Stopper](https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8), [EltonK](https://open.spotify.com/artist/10pVHSoimTxm86twXjuEkG) | [Bells](https://open.spotify.com/album/5fb9nAydl4x1Orhsrd4622) | 5:51 | 2022-05-23 | 2023-03-03 |
@@ -318,6 +318,7 @@
 | [Provlima](https://open.spotify.com/track/6gqtmCRFeab74v3Jrj4noO) | [DDS](https://open.spotify.com/artist/3yRQ9atnRYWSky76tZyxeH), [Tapi](https://open.spotify.com/artist/5ttNCO67vEZZ5untFIc7mo) | [Provlima](https://open.spotify.com/album/1vWti4ObjjU16Y5stX4Tdv) | 2:42 | 2025-07-17 | 2025-07-25 |
 | [Pumping](https://open.spotify.com/track/7tiPuJZKobGHDIcyesz4rG) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa) | [Pumping](https://open.spotify.com/album/3b2HualDM1uzoca5P0Omf7) | 2:36 | 2025-07-31 |  |
 | [Punk Luv](https://open.spotify.com/track/6bqzTc0gaDiq1wzaHW0g2d) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Punk Luv](https://open.spotify.com/album/37oAGxwK44ijCSqaHy6Mca) | 3:16 | 2023-03-02 | 2023-06-16 |
+| [Qamako](https://open.spotify.com/track/4GKVTCk3aQVIzM1XgH8gGe) | [The Shanghai Restoration Project](https://open.spotify.com/artist/0EP5EpsiMP8oLYy7sPHwf9), [Tebza Majaivane](https://open.spotify.com/artist/2xksTxOOD0We6ZWKMMgcUu) | [Qamako](https://open.spotify.com/album/2cNwkWXaqgJOcB5VsFqZ4a) | 9:18 | 2026-01-16 |  |
 | [RAT\-TAT\-TAT](https://open.spotify.com/track/14oF3NwapfVlFLziXAknpM) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [RAT\-TAT\-TAT](https://open.spotify.com/album/3VbbTG4bH4VmdCjivJNjro) | 3:43 | 2022-05-23 | 2022-08-12 |
 | [RAT\-TAT\-TAT](https://open.spotify.com/track/699TBFHZPp6BM5FYge9B2W) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [RAT\-TAT\-TAT](https://open.spotify.com/album/6BTo2VKu0OnPToQYEdXuQm) | 3:43 | 2022-05-23 | 2022-07-29 |
 | [Relationship](https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Relationship](https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8) | 2:45 | 2025-03-20 |  |

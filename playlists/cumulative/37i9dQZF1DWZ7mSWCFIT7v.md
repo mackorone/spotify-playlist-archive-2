@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-534 songs - 1 day 18 hr 51 min
+535 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [14Mm](https://open.spotify.com/track/2bjumbwYUXyGmCoUgVORCC) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Long Exposure](https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY) | 7:54 | 2021-10-06 | 2025-07-17 |
 | [161,1](https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo) | [Ulises Conti](https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV) | [1234,8](https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G) | 5:58 | 2021-10-06 | 2025-07-17 |
 | [1977](https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Meemo Comma](https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 5:36 | 2023-04-15 | 2025-08-21 |
-| [1992](https://open.spotify.com/track/3NtOai6D2wJnkrKv7Kv288) | [Medberg](https://open.spotify.com/artist/3qrpnEUKcDuV7MoR4gzyXf) | [1992](https://open.spotify.com/album/2Xqzqo7HcW762Is2cp9PbK) | 3:27 | 2025-07-16 |  |
+| [1992](https://open.spotify.com/track/3NtOai6D2wJnkrKv7Kv288) | [Medberg](https://open.spotify.com/artist/3qrpnEUKcDuV7MoR4gzyXf) | [1992](https://open.spotify.com/album/2Xqzqo7HcW762Is2cp9PbK) | 3:27 | 2025-07-16 | 2026-01-17 |
 | [3 Sided](https://open.spotify.com/track/0QMv6RWTMqR2OqiUBke2mV) | [FFT](https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6) | [Clear](https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ) | 5:12 | 2022-07-15 | 2025-06-14 |
 | [4 Ya Kiss](https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [4 Ya Kiss / 4 Ya Bliss](https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H) | 4:07 | 2022-09-07 | 2025-06-14 |
 | [4m Hiero](https://open.spotify.com/track/3oW5oupT5nf9Ut5lOw7yOb) | [lynyn](https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8) | [4m Hiero](https://open.spotify.com/album/34YUtA33e50e6rbwidWYp1) | 4:45 | 2025-07-09 |  |
@@ -306,6 +306,7 @@
 | [Need](https://open.spotify.com/track/6PAEXXkC8QydV8MOTRv0C8) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Need](https://open.spotify.com/album/5y47Hl3JPvTbGZDkjL4fyR) | 3:54 | 2025-02-21 | 2025-08-13 |
 | [Need U](https://open.spotify.com/track/6W9OSgRWeBqulK20rvWqDp) | [Out of\_](https://open.spotify.com/artist/5jJictcua4HAXhz2voFh2C) | [Need U](https://open.spotify.com/album/5Fkn7LxxVhbKKqrYKYdbQa) | 4:04 | 2025-05-20 | 2025-11-29 |
 | [Niffler](https://open.spotify.com/track/1UgC3l3kRvZSj1l94QnJ8b) | [Yilan](https://open.spotify.com/artist/7o1UX2zZS5cu7uwcQ5hVao), [Ren](https://open.spotify.com/artist/7J5Y3wpzYedPu0w7ZMrKgw) | [Suddenly I Am Falling](https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN) | 6:27 | 2021-10-06 | 2025-06-07 |
+| [Night Truths](https://open.spotify.com/track/1adKxjTGjk9h001b9WYLzD) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [Night Truths](https://open.spotify.com/album/2y3EuqREWThOAm8wSTeEPA) | 7:08 | 2026-01-16 |  |
 | [NLL561606933](https://open.spotify.com/track/1sxkvvUTGKcRoY3IYnKyRb) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Simulation](https://open.spotify.com/album/542oFPILAI1UiGnoHH8XyH) | 4:54 | 2021-10-06 | 2025-07-17 |
 | [No Pills U](https://open.spotify.com/track/7qqXGvIXJeQopPy8wAq2X2) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Steep Stims](https://open.spotify.com/album/0zL30K7hlasu2LygmuK5EA) | 2:13 | 2025-11-07 |  |
 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 | 2023-03-28 | 2025-06-21 |

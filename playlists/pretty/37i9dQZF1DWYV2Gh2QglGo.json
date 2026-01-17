@@ -1,13 +1,45 @@
 {
-  "description": "The home of Canadian country music. Cover: Owen Riegling",
-  "num_followers": 83511,
+  "description": "The home of Canadian country music. Cover: Tenille Townes",
+  "num_followers": 83525,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN1ySJ69nFgr4m0i7P0ja7RRSXaY",
+  "snapshot_id": "AAAAAI/m/rOWkzAQDjkIQ11YlLtY6ohy",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:01:18",
+      "album": {
+        "name": "enabling",
+        "url": "https://open.spotify.com/album/2wUsvgaVMbVWJulBNAROWC"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "enabling",
+      "url": "https://open.spotify.com/track/0qYEfg6RftcrQoSVQn4fKw"
+    },
+    {
+      "added_at": "2026-01-16 05:01:18",
+      "album": {
+        "name": "Always Be The One",
+        "url": "https://open.spotify.com/album/4lr4Mosc7nogwInirByGPG"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 186768,
+      "name": "Always Be The One",
+      "url": "https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml"
+    },
     {
       "added_at": "2026-01-09 05:01:23",
       "album": {
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA"
     },
     {
+      "added_at": "2026-01-16 05:01:18",
+      "album": {
+        "name": "I Don't Shine",
+        "url": "https://open.spotify.com/album/7xBSkVO3JfVGDatf8oimDy"
+      },
+      "artists": [
+        {
+          "name": "Antonio Larosa",
+          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
+        }
+      ],
+      "duration_ms": 188313,
+      "name": "I Don't Shine",
+      "url": "https://open.spotify.com/track/2fGiIwttSIJ9KFee1r3Fw2"
+    },
+    {
       "added_at": "2026-01-09 05:01:23",
       "album": {
         "name": "Hometown Heroes (feat. Dean Brody)",
@@ -59,6 +107,70 @@
       "duration_ms": 223538,
       "name": "Hometown Heroes (feat. Dean Brody)",
       "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
+    },
+    {
+      "added_at": "2026-01-16 05:01:18",
+      "album": {
+        "name": "Veranda",
+        "url": "https://open.spotify.com/album/7wSjVv9yL9i0zawF72j9Qe"
+      },
+      "artists": [
+        {
+          "name": "Veranda",
+          "url": "https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M"
+        }
+      ],
+      "duration_ms": 196472,
+      "name": "Si demain",
+      "url": "https://open.spotify.com/track/7uYXdlu7yyD3nQ1xnObsah"
+    },
+    {
+      "added_at": "2026-01-16 05:01:18",
+      "album": {
+        "name": "Strangers Don't",
+        "url": "https://open.spotify.com/album/3W9cAiV2dBJ1zxLi7vkChY"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sole",
+          "url": "https://open.spotify.com/artist/0S38ck3DCcecDbFedRPWfZ"
+        }
+      ],
+      "duration_ms": 193501,
+      "name": "Strangers Don't",
+      "url": "https://open.spotify.com/track/5ifMD7ZWXHBkB27IDIU3ML"
+    },
+    {
+      "added_at": "2026-01-16 05:01:18",
+      "album": {
+        "name": "Neon Midnight Mass",
+        "url": "https://open.spotify.com/album/1OdTVbzcVxbG13EIZJ6b20"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "duration_ms": 179567,
+      "name": "Neon Midnight Mass",
+      "url": "https://open.spotify.com/track/5wGPCeEUzGXYWJ1RlNVRZD"
+    },
+    {
+      "added_at": "2026-01-16 05:01:18",
+      "album": {
+        "name": "She Stole My Truck",
+        "url": "https://open.spotify.com/album/0hjiKG6daMiML6mvD0fZEC"
+      },
+      "artists": [
+        {
+          "name": "Matt Lang",
+          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
+        }
+      ],
+      "duration_ms": 172295,
+      "name": "She Stole My Truck",
+      "url": "https://open.spotify.com/track/5VoOUxtMkxqNC0XuolPHcL"
     },
     {
       "added_at": "2026-01-09 05:01:23",
@@ -93,6 +205,22 @@
       "url": "https://open.spotify.com/track/689BrIveR3izCSttLw9UUh"
     },
     {
+      "added_at": "2025-12-19 01:33:03",
+      "album": {
+        "name": "For The Record",
+        "url": "https://open.spotify.com/album/1TRn6TNE4FkQIEC4NQVhbq"
+      },
+      "artists": [
+        {
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
+        }
+      ],
+      "duration_ms": 202255,
+      "name": "For The Record",
+      "url": "https://open.spotify.com/track/6Vt0ybRcsCNOuDJwdp6NDL"
+    },
+    {
       "added_at": "2026-01-09 05:01:23",
       "album": {
         "name": "When Do We Stop Talking",
@@ -123,22 +251,6 @@
       "duration_ms": 209375,
       "name": "Little Man",
       "url": "https://open.spotify.com/track/5ZWayyXEDiSrYy6fD9qYDd"
-    },
-    {
-      "added_at": "2025-12-19 01:33:03",
-      "album": {
-        "name": "For The Record",
-        "url": "https://open.spotify.com/album/1TRn6TNE4FkQIEC4NQVhbq"
-      },
-      "artists": [
-        {
-          "name": "Kelsi Mayne",
-          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
-        }
-      ],
-      "duration_ms": 202255,
-      "name": "For The Record",
-      "url": "https://open.spotify.com/track/6Vt0ybRcsCNOuDJwdp6NDL"
     },
     {
       "added_at": "2026-01-09 05:01:23",
@@ -1579,22 +1691,6 @@
       "duration_ms": 201417,
       "name": "I Hope You Know",
       "url": "https://open.spotify.com/track/1DKXdNUjeZoIO59jwunAz3"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Hope You Do",
-        "url": "https://open.spotify.com/album/3bbbW5q5DF2xwadNnIn8yS"
-      },
-      "artists": [
-        {
-          "name": "Parker Graye",
-          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
-        }
-      ],
-      "duration_ms": 163405,
-      "name": "Hope You Do",
-      "url": "https://open.spotify.com/track/4bTIHk6nmdrF28Upg7cN4Q"
     },
     {
       "added_at": "2025-10-06 15:31:33",

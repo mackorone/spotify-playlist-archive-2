@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Big Richard
 
-446 songs - 1 day 2 hr 25 min
+448 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Friends, Lovers, Ex\-Lovers: Whatever](https://open.spotify.com/track/6Yo9Ro78exOz0zfju18jxm) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Holler Choir](https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw), [Susto Stringband](https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d) | [Friends, Lovers, Ex\-Lovers: Whatever](https://open.spotify.com/album/3kg7JnKVAEBzhcNfujDaeu) | 3:27 | 2025-02-14 | 2025-03-01 |
 | [Frog Eyed Puddin'](https://open.spotify.com/track/5Kir8WXu4I6LHN00UiXjkK) | [The Heard](https://open.spotify.com/artist/5yJ7U2LmUmamBPHfr750mg) | [Frog Eyed Puddin'](https://open.spotify.com/album/2X1TtiKrm58HrlRqNCb7DF) | 2:37 | 2024-11-15 | 2025-02-23 |
 | [Front Porch Of Paradise](https://open.spotify.com/track/7vz15j5LJOYCEFtlxREIAa) | [Kristy Cox](https://open.spotify.com/artist/0kDLJ0ty0U1vAUYyVUPJjW) | [Let It Burn](https://open.spotify.com/album/6qCbofOHDDBjC39QAQMruW) | 3:24 | 2024-06-28 | 2024-11-03 |
+| [Gentle On My Mind](https://open.spotify.com/track/3o0TGciPBK3SLVBT0q0i29) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Gentle On My Mind](https://open.spotify.com/album/0FkhA1RNqsEM8e1kJvfIT7) | 6:25 | 2026-01-16 |  |
 | [Georgia in Her Eyes](https://open.spotify.com/track/2h2eMdiQThxg2AIwcpSRrl) | [Unspoken Tradition](https://open.spotify.com/artist/1ffmxtCun2OgtqJlvlanQv) | [Georgia in Her Eyes](https://open.spotify.com/album/6w7zglb75ipmcakxSCRvef) | 2:39 | 2024-06-28 | 2024-08-24 |
 | [Georgia Rain](https://open.spotify.com/track/6kM1cbK4b9MPzIDKvzXJHu) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Georgia Rain](https://open.spotify.com/album/1BFRKYgiqWRHl2FVHSLXzg) | 3:15 | 2024-06-28 | 2024-11-03 |
 | [Get Along](https://open.spotify.com/track/3ny7MMhitjk83n87bnLHqM) | [Steve Ray Ladson](https://open.spotify.com/artist/2CokAz18TsHK3OTTJFFmNQ) | [Get Along](https://open.spotify.com/album/1MCYcFGWMjC8G9XvByKnGp) | 3:30 | 2025-02-07 |  |
@@ -425,6 +426,7 @@
 | [Valley Flower](https://open.spotify.com/track/23w4l3oAw9kMY2ZQiE4xpI) | [Valley Flower](https://open.spotify.com/artist/30RBNZU9rtKnfb5dlOm1Ew) | [Valley Flower](https://open.spotify.com/album/7MDJNxfHTfilPJ0528J656) | 4:50 | 2024-07-26 | 2024-12-07 |
 | [Wagon Wheel](https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Wagon Wheel](https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l) | 7:13 | 2024-07-26 | 2024-08-24 |
 | [Wake Me Up \- The Bluegrass Rendition](https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Wake Me Up \(The Bluegrass Rendition\)](https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g) | 4:23 | 2024-06-28 | 2024-08-10 |
+| [Walkin' Back to Georgia](https://open.spotify.com/track/1kvlYf3p0Ri0j5Klq9bq9H) | [Carson Peters and Iron Mountain](https://open.spotify.com/artist/5WQdbLL5AXuXb0pKXG5hGw) | [Walkin' Back to Georgia](https://open.spotify.com/album/4IPVCfdBSecBJFuhuaZx8h) | 2:38 | 2026-01-16 |  |
 | [Wall Guitar \(Since You Said Goodbye\)](https://open.spotify.com/track/1NkoCD7N4J4X3V1t38LVOz) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Steve Martin](https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Wall Guitar \(Since You Said Goodbye\)](https://open.spotify.com/album/2a15WcuEBGzKhPzvJ4Dhzm) | 3:19 | 2024-11-15 | 2025-02-23 |
 | [Walls](https://open.spotify.com/track/0qebJlwvkPNyAxYR52zNgs) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Walls](https://open.spotify.com/album/6rmY0t5TkTCJ6MqjN4Sc12) | 6:23 | 2024-09-06 | 2024-12-07 |
 | [Wanderers Like Me](https://open.spotify.com/track/1bCgFSfb6Px08in2cw77kR) | [The Po' Ramblin' Boys](https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o) | [Wanderers Like Me](https://open.spotify.com/album/6Gjk2XloLMceU0G7ss70Rm) | 3:09 | 2024-06-28 | 2024-11-03 |

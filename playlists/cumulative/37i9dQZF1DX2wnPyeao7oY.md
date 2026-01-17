@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2wnPyeao7oY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2wnPyeao7oY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2wnPyeao7oY)
 
-### [Fresh Finds Heavy 2025](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
+### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: jeniverse
 

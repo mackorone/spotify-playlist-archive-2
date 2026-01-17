@@ -207,8 +207,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ZMIG",
+        "url": "https://open.spotify.com/album/688e1LKDyb3Zqoo4hpMwch"
       },
       "artists": [
         {
@@ -2786,6 +2786,24 @@
       "duration_ms": 190981,
       "name": "Fan2moi",
       "url": "https://open.spotify.com/track/5LYfPoYcUWiZMUv1LXdsHx"
+    },
+    {
+      "album": {
+        "name": "Rare I",
+        "url": "https://open.spotify.com/album/04Pj2FsURb6wr4AIaXEF8f"
+      },
+      "artists": [
+        {
+          "name": "Hind",
+          "url": "https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204324,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/1sv04kUYXAD92I4U37J8IT"
     },
     {
       "album": {

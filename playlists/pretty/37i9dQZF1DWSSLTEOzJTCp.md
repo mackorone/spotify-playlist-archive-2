@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > Spotify editors' picks for the best bass songs of 2025\. Featuring Skrillex 🤘
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,732 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,755 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 79 | [Bass Bop](https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Bass Bop](https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO) | 2:41 |
 | 80 | [Arctic](https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Arctic](https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E) | 2:26 |
 
-Snapshot ID: `AAAAAHUiAHaDimIyXoFSErcv0hywerrP`
+Snapshot ID: `AAAAAMSh1z3I5/RQ4p0zRH2WlgziogwS`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With flyzhe, blazingfairis, Die Mannequin and more",
+  "description": "With blazingfairis, flyzhe, Die Mannequin and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 130290,
       "name": "Blazetrap Anthem",
       "url": "https://open.spotify.com/track/19WwfaQrv9Ofhce1PP3GRN"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 215040,
       "name": "Break the Chain",
       "url": "https://open.spotify.com/track/2aiIzGqB0Z7ELmjECGrQjg"
@@ -542,6 +542,24 @@
       "duration_ms": 199750,
       "name": "Breaking Up",
       "url": "https://open.spotify.com/track/7GD9VoLRxn1xEmWreGBgPF"
+    },
+    {
+      "album": {
+        "name": "Bruised",
+        "url": "https://open.spotify.com/album/1qZVy50X9AZMobem2R1mXz"
+      },
+      "artists": [
+        {
+          "name": "Chasing Mallory",
+          "url": "https://open.spotify.com/artist/26fQx9oPTpQj5fs1IDUXms"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201596,
+      "name": "Bruised",
+      "url": "https://open.spotify.com/track/6zn1sTKFMyiPCoAYQyVc7I"
     },
     {
       "album": {
@@ -700,7 +718,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 103063,
       "name": "Concrete State",
       "url": "https://open.spotify.com/track/6yDqsFcsOu59mMM69lNfBq"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 171279,
       "name": "Full of Hate",
       "url": "https://open.spotify.com/track/784dUX0QsFOPg9gNI1U3E2"
@@ -1507,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/49BS8UnsIYvoudjSdIMqRs"
+      },
+      "artists": [
+        {
+          "name": "Nathan Weber",
+          "url": "https://open.spotify.com/artist/7DCMovDjNJMTyfEyhcPfge"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "Gods",
+      "url": "https://open.spotify.com/track/1Ossv2yYNukNUIYOltDGZB"
+    },
+    {
+      "album": {
         "name": "Good For December",
         "url": "https://open.spotify.com/album/2IdfFW8izAnyUU8qCtp219"
       },
@@ -1572,7 +1608,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -1594,6 +1630,24 @@
       "duration_ms": 214759,
       "name": "Halloween Boogie",
       "url": "https://open.spotify.com/track/7lCS8qx8J8syVgYZN63BAi"
+    },
+    {
+      "album": {
+        "name": "Hellhound",
+        "url": "https://open.spotify.com/album/55TTAGCih6EKMAwmzVFieu"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Rayne",
+          "url": "https://open.spotify.com/artist/4CwMs8jUAM2yLTsruhYmpU"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Hellhound",
+      "url": "https://open.spotify.com/track/12HqMjib07q7A5oUuICcTs"
     },
     {
       "album": {
@@ -1720,7 +1774,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 90861,
       "name": "Hustle Mode Engage",
       "url": "https://open.spotify.com/track/6EQhfBZe5fXiVa8CRjvxsf"
@@ -1756,7 +1810,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 120020,
       "name": "Hypnotic Nebula",
       "url": "https://open.spotify.com/track/5PBXJGfycyxRjOYsJGn8JR"
@@ -1972,7 +2026,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 211941,
       "name": "I'm Just A Girl",
       "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
@@ -2087,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "Inherent Nature",
+        "url": "https://open.spotify.com/album/4w7jJ4dlE8zfmDrb1NYDfo"
+      },
+      "artists": [
+        {
+          "name": "Professionally Awkward",
+          "url": "https://open.spotify.com/artist/0yuywDvb8vevBHHEUYnsDD"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200680,
+      "name": "Jesus Wept",
+      "url": "https://open.spotify.com/track/4mULVN5fIsZYaUYxE3HQdH"
+    },
+    {
+      "album": {
         "name": "Join the Infestation",
         "url": "https://open.spotify.com/album/0xgMASQX6vORZfwS28Xv0k"
       },
@@ -2152,7 +2224,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -2678,7 +2750,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 159433,
       "name": "Neon Blaze Riot",
       "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
@@ -2750,7 +2822,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 211599,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/2EbRxELUPwAwsXtOJXa5tF"
@@ -3164,7 +3236,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 225792,
       "name": "Purple Spinach",
       "url": "https://open.spotify.com/track/64AQ3MjxgfReHd0BX8Hxjl"
@@ -3751,6 +3823,24 @@
     },
     {
       "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/03MrfjrQ90HqsIl22wvBro"
+      },
+      "artists": [
+        {
+          "name": "JADIEL MUSK",
+          "url": "https://open.spotify.com/artist/3DBo3ySb74Qk2BKAcTAQ9j"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183530,
+      "name": "Ugly Lights",
+      "url": "https://open.spotify.com/track/01Dh4x0x0zcKfVuTdLmToe"
+    },
+    {
+      "album": {
         "name": "Unspoken Expectations",
         "url": "https://open.spotify.com/album/1qSzjLKDAWG14qv5KxL0aU"
       },
@@ -3906,7 +3996,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 194999,
       "name": "Whack My Bum, Daddy",
       "url": "https://open.spotify.com/track/6nfBxcngs6kplTtMvn7093"

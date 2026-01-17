@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Heated Rivalry (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125786,
+      "name": "One Soul - from \"Heated Rivalry\"",
+      "url": "https://open.spotify.com/track/4de6AAsNHfH3pxdJlI39w6"
+    },
+    {
+      "album": {
         "name": "Snipe Hunter",
         "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
       },

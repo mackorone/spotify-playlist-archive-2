@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 53118,
+  "num_followers": 53129,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWbcgAAAAAC9sWEVCIhDMQRSAicSI7YE",
+  "snapshot_id": "aWguAAAAAABFzud3i20iauB69Dx2RkuA",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 195632,
+      "name": "En Otro Canal",
+      "url": "https://open.spotify.com/track/4RqikhkkhOa5h3C2FPWFjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Forma de Sentir",
         "url": "https://open.spotify.com/album/7BzCbdO0xf2gkg6Q2CEufK"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 249927,
       "name": "Mi Forma de Sentir",
       "url": "https://open.spotify.com/track/77BiOLjgDoztvNssHhIOrF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 195632,
-      "name": "En Otro Canal",
-      "url": "https://open.spotify.com/track/4RqikhkkhOa5h3C2FPWFjZ"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7.2",
-        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 147328,
-      "name": "Cuento las Horas",
-      "url": "https://open.spotify.com/track/7tc7eQJbQEssPJBoB89gFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Otro Canal",
         "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 227196,
       "name": "Lo Dejar\u00eda Todo",
       "url": "https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7.2",
+        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 147328,
+      "name": "Cuento las Horas",
+      "url": "https://open.spotify.com/track/7tc7eQJbQEssPJBoB89gFw"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aunque me Dejes en Visto",
+        "url": "https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 157323,
+      "name": "Aunque me Dejes en Visto",
+      "url": "https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como un Meteorito",
         "url": "https://open.spotify.com/album/2NPXznFzShgA3D4bapgYR1"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 181034,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/4MuXo5mfMatTI3sImuqjg3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aunque me Dejes en Visto",
-        "url": "https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 157323,
-      "name": "Aunque me Dejes en Visto",
-      "url": "https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 172091,
-      "name": "Selfie",
-      "url": "https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Te Quedas Conmigo",
         "url": "https://open.spotify.com/album/2cjosNmIhyNdX5ZVkpLRFP"
       },
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retro & Hits",
-        "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 160568,
-      "name": "No Me Doy por Vencido",
-      "url": "https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi"
+      "duration_ms": 172091,
+      "name": "Selfie",
+      "url": "https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
       "duration_ms": 147865,
       "name": "Todo Que Ver",
       "url": "https://open.spotify.com/track/5BbVN7lNgaUq00J1cCPwnR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retro & Hits",
+        "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 160568,
+      "name": "No Me Doy por Vencido",
+      "url": "https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/1bEijVfA63LuUh8fOOIPDz"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 144661,
+      "name": "25",
+      "url": "https://open.spotify.com/track/3uVxwnuNqjDxMJn3aCm3L9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Retro & Hits",
         "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
       },
@@ -727,38 +743,6 @@
       "duration_ms": 160235,
       "name": "Si Llegan a Enterarse",
       "url": "https://open.spotify.com/track/235uSINaGqneZry2vVXtx0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/1bEijVfA63LuUh8fOOIPDz"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 144661,
-      "name": "25",
-      "url": "https://open.spotify.com/track/3uVxwnuNqjDxMJn3aCm3L9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10/10",
-        "url": "https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 185398,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/5ArAErzK5A6Tgn1cO9G4jq"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 194432,
       "name": "Te Toca Hacer Lo Tuyo",
       "url": "https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185398,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/5ArAErzK5A6Tgn1cO9G4jq"
     },
     {
       "added_at": null,

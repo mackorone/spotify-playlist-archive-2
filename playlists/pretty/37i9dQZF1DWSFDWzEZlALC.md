@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JBS, Karina Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,488 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,635 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Manchmal](https://open.spotify.com/track/5br8BWCW8il8CKtysx9qLH) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [Karina Rose](https://open.spotify.com/artist/3ucTACZuBlt5HPmpH6QOmI) | [Manchmal](https://open.spotify.com/album/3dLpsXrqZHIzNgPA2IVPMs) | 2:51 |
-| 2 | [fremdknutschen](https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [](https://open.spotify.com/album/null) | 2:16 |
+| 2 | [fremdknutschen](https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [wünsch dir was ep](https://open.spotify.com/album/3CmUJUponEobaD7etkPeB1) | 2:16 |
 | 3 | [skinny jeans](https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [skinny jeans](https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC) | 2:22 |
 | 4 | [Teneriffa](https://open.spotify.com/track/7ysK1mhW5lARHZzH2A8wp8) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [Teneriffa](https://open.spotify.com/album/3d0CeuIZJ53NsPDeTzB1fZ) | 2:57 |
 | 5 | [Halb So Schön Wie Du](https://open.spotify.com/track/0aFDcdFXQDju2mUpcZGFhQ) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Halb So Schön Wie Du](https://open.spotify.com/album/4RVp5nMug7J4xhvUVSP6kS) | 3:25 |

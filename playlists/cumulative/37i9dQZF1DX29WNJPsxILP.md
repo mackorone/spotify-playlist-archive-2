@@ -2,7 +2,7 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Emiway Bantai
+> Best of Hindi Hip\-Hop! Cover: Yashraj & Badshah
 
 303 songs - 15 hr 23 min
 

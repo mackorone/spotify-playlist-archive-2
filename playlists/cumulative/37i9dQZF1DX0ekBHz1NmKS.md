@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,111 songs - 4 day 13 hr 25 min
+2,112 songs - 4 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,6 +943,7 @@
 | [Inte en gång till](https://open.spotify.com/track/6JD183FLGA6R4B0sYm2xiz) | [Jessica Bohlin](https://open.spotify.com/artist/6xMt0bWYPTHNcCj1zL80VB) | [Inte en gång till](https://open.spotify.com/album/0L8uwgD2s0AoXG4iJp1Xu7) | 3:08 | 2022-09-15 | 2022-09-22 |
 | [Inte idag](https://open.spotify.com/track/5IsHDEv8uqPQxFv5FuDG7O) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Inte idag](https://open.spotify.com/album/7K5PfBccKwBu4SeeGzRP9z) | 2:21 | 2025-04-17 | 2025-04-25 |
 | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD) | 4:30 | 2025-05-15 | 2026-01-15 |
+| [inte tillsammans \(find you\) \- isby sessions](https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [isby sessions](https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx) | 2:42 | 2026-01-15 |  |
 | [Irreplaceable](https://open.spotify.com/track/1gK79XAWFSYyl8FpphEQiH) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Irreplaceable](https://open.spotify.com/album/2dIihXdiXigVetfKI2QDqs) | 3:35 | 2021-12-16 | 2022-03-11 |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-10-13 | 2024-01-26 |
 | [is this how you said you’d be gone](https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [mexico / is this how you said you'd be gone](https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA) | 4:07 | 2025-11-27 |  |
@@ -1057,7 +1058,7 @@
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |
 | [Lean On](https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4) | 2:35 | 2022-10-27 | 2023-02-13 |
 | [Leave a Little Love Behind](https://open.spotify.com/track/4Nk8zZ9TEjBb4NHgPHNq6k) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Hello Cowboy](https://open.spotify.com/album/07xIxp1A0Lm6euiBdGTmf4) | 3:05 | 2024-09-05 | 2025-01-24 |
-| [Leave It Beautiful](https://open.spotify.com/track/1xFo6wFZNqV6oX8f8OiOw7) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Leave It Beautiful](https://open.spotify.com/album/3iYbmLmaqBxDYP9ojETBnK) | 3:20 | 2025-10-09 |  |
+| [Leave It Beautiful](https://open.spotify.com/track/1xFo6wFZNqV6oX8f8OiOw7) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Leave It Beautiful](https://open.spotify.com/album/3iYbmLmaqBxDYP9ojETBnK) | 3:20 | 2025-10-09 | 2026-01-17 |
 | [Leave Me Alone](https://open.spotify.com/track/4wJpnZTJ1WiEC8n9kUzlHT) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Among Heads](https://open.spotify.com/album/1Jkh2XEpMKKDsrCVH94e9y) | 3:18 | 2022-04-01 | 2022-04-21 |
 | [Leave the Light On](https://open.spotify.com/track/02VIYx4nxhe8wdmOx79eKu) | [Mattias Tell](https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5) | [Leave the Light On](https://open.spotify.com/album/5qqzcP5RWRIM73HtHCeVM2) | 3:54 | 2024-08-29 | 2024-09-06 |
 | [Ledsen och apatisk](https://open.spotify.com/track/483gQNgiDKhlfXpRtdLUJ8) | [Amanda Mattsson](https://open.spotify.com/artist/5BftYI9ZzOxA6tKAbAHdQF) | [Ledsen och apatisk](https://open.spotify.com/album/1R3iq6yTqEYKvY5w1DSIvg) | 3:24 | 2024-05-02 | 2024-05-10 |
@@ -1810,7 +1811,7 @@
 | [Tell Me](https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Tell Me](https://open.spotify.com/album/35ysKlLuG8CpXGCQbNFgKo) | 3:10 | 2022-03-17 | 2022-07-29 |
 | [Tell Me Now Honestly](https://open.spotify.com/track/5zJVtravUVXiPynWGClzml) | [Emilia Sjöholm](https://open.spotify.com/artist/5E1Pv5TPNTWAB7QhBbP0Qk) | [Tell Me Now Honestly](https://open.spotify.com/album/68D0lbjah0rB0fGYdLvmnN) | 2:55 | 2024-02-08 | 2024-02-25 |
 | [Tempo](https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Tempo](https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT) | 2:31 | 2022-07-28 | 2022-12-08 |
-| [Temporärt](https://open.spotify.com/track/4m1wa9jl3VM5vEJYyeVDT1) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [](https://open.spotify.com/album/null) | 3:16 | 2026-01-15 |  |
+| [Temporärt](https://open.spotify.com/track/4m1wa9jl3VM5vEJYyeVDT1) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Växtvärk](https://open.spotify.com/album/3PGVSKT85RTFpkavKDVpFm) | 3:16 | 2026-01-15 |  |
 | [Tenerife Sea](https://open.spotify.com/track/5bimLyQiJGIphZSs1e0HPB) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [living room sessions](https://open.spotify.com/album/7nyjhmJfuB4xyfx0lVx3A0) | 4:31 | 2021-12-16 | 2022-03-09 |
 | [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 | 2025-05-01 | 2025-09-19 |
 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 | 2023-11-02 | 2024-02-09 |

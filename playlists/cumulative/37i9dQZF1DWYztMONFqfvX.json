@@ -462,7 +462,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 251919,
       "name": "Aap Is Dhoop Mein - From \"Gustaakh Ishq\"",
       "url": "https://open.spotify.com/track/0XFZbeXmPQoMcoFZWkKxcT"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 199407,
       "name": "Atak Gaya",
       "url": "https://open.spotify.com/track/5Z2k12MKbQTUYLKHSPs2jc"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 236101,
       "name": "Aur Mohabbat Kitni Karoon (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/3EIMdrD4DstJVklUH9Ai7Y"
@@ -1803,6 +1803,32 @@
     },
     {
       "album": {
+        "name": "Hum To Tere Hi Liye The (From \"O' Romeo\")",
+        "url": "https://open.spotify.com/album/7p8l83GzCSkQic9yxPJmGR"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304134,
+      "name": "Hum To Tere Hi Liye The (From \"O' Romeo\")",
+      "url": "https://open.spotify.com/track/5Kmpdwhvv2mk9rlW0Km6TJ"
+    },
+    {
+      "album": {
         "name": "Ek Villain",
         "url": "https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF"
       },
@@ -2126,7 +2152,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 232568,
       "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
       "url": "https://open.spotify.com/track/2E5kZ1qnB7V9bcwBEKvZv8"
@@ -3620,7 +3646,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 323707,
       "name": "Sukoon (From \"Bhoomi 2025\")",
       "url": "https://open.spotify.com/track/2biyIvVEqdMCDmVAxMfI5H"

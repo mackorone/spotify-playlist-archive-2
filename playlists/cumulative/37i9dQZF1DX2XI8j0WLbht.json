@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Bumer\u00e1n",
+        "url": "https://open.spotify.com/album/2UWpmovdzymBeYBRflCgX8"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169651,
+      "name": "Bumer\u00e1n",
+      "url": "https://open.spotify.com/track/1eDG6rEIWlVLVmoOZPnmRd"
+    },
+    {
+      "album": {
         "name": "Cada Vez Te Extra\u00f1o Menos",
         "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
       },
@@ -801,7 +819,7 @@
     },
     {
       "album": {
-        "name": "Clara Demente",
+        "name": "CLARA DEMENTE",
         "url": "https://open.spotify.com/album/35Ll1VRpIuB14jEx7iwSpb"
       },
       "artists": [
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 98009,
       "name": "Dime \u00bfPor Qu\u00e9?",
       "url": "https://open.spotify.com/track/16UfWuXNzbmmfj84mn8v35"
@@ -2501,6 +2519,28 @@
     },
     {
       "album": {
+        "name": "Mapas en Blanco",
+        "url": "https://open.spotify.com/album/0oCZZwDGaiqjbzHy0T5Opc"
+      },
+      "artists": [
+        {
+          "name": "Paola Meza",
+          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
+        },
+        {
+          "name": "Ximena Carstensen",
+          "url": "https://open.spotify.com/artist/4pELcIPO8XT2tszzk7d6cu"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234727,
+      "name": "Mapas en Blanco",
+      "url": "https://open.spotify.com/track/2w2noxTEg9IUZv9kCdt3Y2"
+    },
+    {
+      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
       },
@@ -2849,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Mujer Mexicana",
+        "url": "https://open.spotify.com/album/1ql6HMWjXzf5tOwvO16bOB"
+      },
+      "artists": [
+        {
+          "name": "FRNCE",
+          "url": "https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Mujer Mexicana",
+      "url": "https://open.spotify.com/track/2aoaQbWGcfePI9WL85leY0"
+    },
+    {
+      "album": {
         "name": "Mujer P\u00e1jaro",
         "url": "https://open.spotify.com/album/5Lz7BxP7iIjMRuSQdSqqVR"
       },
@@ -3194,7 +3252,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 198124,
       "name": "Palabras Vac\u00edas",
       "url": "https://open.spotify.com/track/3whx5H5CCDyXnkrXgt0nwp"
@@ -3466,7 +3524,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 225196,
       "name": "Qui\u00e9n Dice",
       "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"

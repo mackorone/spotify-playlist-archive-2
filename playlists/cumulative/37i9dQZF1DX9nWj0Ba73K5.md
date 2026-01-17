@@ -4,7 +4,7 @@
 
 > In loving memory of songwriter <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iM06L"> Brett James</a>.
 
-275 songs - 16 hr 8 min
+276 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-05-06 |  |
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/5CQ1BKIfD8cpMsxn3rdEXm) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Even If It Breaks Your Barefoot Friday Night, Pt\. 1](https://open.spotify.com/album/2TDTiLd5HpKDkX5WxZmBJ3) | 2:56 | 2022-04-15 |  |
 | [Better Boat](https://open.spotify.com/track/0AP1oqhd2cAs0q4X3hBtNk) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [First Cigarette](https://open.spotify.com/album/0LjnNjuO0XLc239qIRXj8F) | 4:53 | 2022-01-01 |  |
+| [Bigger Picture \- Demo](https://open.spotify.com/track/2RgHwSfgQR6g1xqxV9P07m) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:36 | 2026-01-16 |  |
 | [Bird Dog](https://open.spotify.com/track/27W4Reg4xwQIlQkDffGqc2) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Bird Dog](https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8) | 3:34 | 2022-08-19 |  |
 | [Blue Ain't Your Color](https://open.spotify.com/track/2Ynzb3b6Ddpi1EtovAuvVE) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:38 | 2022-01-01 | 2024-08-31 |
 | [Blue Ain't Your Color \- Acoustic](https://open.spotify.com/track/0xYjW9K0zy87OxVB2GR3Qs) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Blue Ain't Your Color \(Acoustic\)](https://open.spotify.com/album/25x9aHFfLKCJUUapXdy7je) | 4:00 | 2024-08-16 |  |

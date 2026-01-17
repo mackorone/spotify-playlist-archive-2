@@ -2,9 +2,9 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Carín León and Kacey Musgraves
+> Country music with a Latin flair\. Cover: Codiciado
 
-205 songs - 11 hr 15 min
+206 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [The Unforgiven](https://open.spotify.com/track/4xfUlRu5KWuf3RvpyBzkgg) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [The Unforgiven](https://open.spotify.com/album/4fKKWNlAQjOY8zG8pY4ZmW) | 4:05 | 2021-12-10 |  |
 | [The Unforgiven](https://open.spotify.com/track/2OzMQSnYu4wVYBhCm3sNSZ) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [The Unforgiven](https://open.spotify.com/album/7KpZPUNuZBarex1NYPCezR) | 4:05 | 2022-07-08 | 2024-04-19 |
 | [Timeless \(Spanish Version\)](https://open.spotify.com/track/5tddHCci9vyQVnNWVSJs4G) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Timeless](https://open.spotify.com/album/6pKXgkrBT3Gz7jixcrBCJ6) | 3:17 | 2021-12-10 | 2024-04-10 |
+| [TODO PENDEJO](https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [TODO PENDEJO](https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK) | 3:10 | 2026-01-16 |  |
 | [Tomemos Un Trago \- Let's Find A Bar \- Spanish Version](https://open.spotify.com/track/38sGy3JpSD3oT6NyFhUtPc) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Tomemos Un Trago \(Let's Find A Bar \- Spanish Version\)](https://open.spotify.com/album/3fThkG75KkFTnCjG4sss5N) | 2:58 | 2022-06-10 |  |
 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 | 2021-12-10 | 2024-06-18 |
 | [Touring Tx](https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:39 | 2023-01-27 | 2024-04-10 |

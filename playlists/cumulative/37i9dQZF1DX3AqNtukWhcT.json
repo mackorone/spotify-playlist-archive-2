@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "cirrus",
+        "url": "https://open.spotify.com/album/71TDVgmpDHv7EjSEs4lvtc"
+      },
+      "artists": [
+        {
+          "name": "Collinsworthy",
+          "url": "https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125200,
+      "name": "cirrus",
+      "url": "https://open.spotify.com/track/4GPggSBR3PNu6qTjDGNHLo"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/1BY5nBH8o0jS8QMr9EshCW"
       },

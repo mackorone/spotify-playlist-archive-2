@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Qlas
 
-281 songs - 12 hr 47 min
+282 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Ding Dong](https://open.spotify.com/track/7xW2B8pu3QNdjWGACjnwk9) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [Ding Dong](https://open.spotify.com/album/6ekU1A6dtxO770isxc5prL) | 1:38 | 2025-09-04 | 2025-09-26 |
 | [Don Julio](https://open.spotify.com/track/50xOKdGM8g8aBZoF6eDFb1) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Don Julio](https://open.spotify.com/album/6sdewdfn0oBTIRZewCPT8d) | 2:10 | 2025-11-13 |  |
 | [Doolhof](https://open.spotify.com/track/0ynjDe416FmCL2grDmj75r) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Doolhof](https://open.spotify.com/album/3FPIq2ubwc17mIJz5l7YvX) | 3:49 | 2025-10-23 | 2025-11-28 |
+| [Dropship](https://open.spotify.com/track/2kQZRtNoB50YDrzOE6UtE3) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Dropship](https://open.spotify.com/album/0pRxKtug8I1s3N9JEhXhAb) | 2:22 | 2026-01-16 |  |
 | [Drugsdealers & Scammers](https://open.spotify.com/track/6MUfZV19IJgXbDEEujlKo4) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Drugsdealers & Scammers](https://open.spotify.com/album/0gf1TRAXRYbKNFWug1ssuz) | 2:34 | 2025-09-18 | 2026-01-06 |
 | [Dun Talkin](https://open.spotify.com/track/7lmzgl8eDytUb9k4ILf6IM) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Dun Talkin](https://open.spotify.com/album/5MfPtpC7nc4OQqwHmKp2nj) | 2:16 | 2025-07-17 | 2025-09-19 |
 | [Duracell](https://open.spotify.com/track/5gtLS2CnIhKvt1BDAOXVSq) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Duracell](https://open.spotify.com/album/5gvKMvAS0tduRnzlFulKPZ) | 3:02 | 2025-07-17 | 2025-10-31 |
@@ -124,7 +125,7 @@
 | [Kappersstoel](https://open.spotify.com/track/4Ppb5ov28bWh7P0uAZu9Bj) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Kappersstoel](https://open.spotify.com/album/6JsBd0C68WjulnV44vEveC) | 1:57 | 2025-10-16 | 2025-11-04 |
 | [Kesh](https://open.spotify.com/track/3h0vgjhwwe0LiVbQMBxFJD) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Kesh](https://open.spotify.com/album/7xF8RRnlSek7jTmq0cxTMG) | 3:10 | 2025-07-17 | 2025-09-04 |
 | [Keuzes](https://open.spotify.com/track/2hzwrmcj0tpH8dDsPiqF93) | [GOR](https://open.spotify.com/artist/5MlJLdL7eYtIn5UeOOzluz), [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Keuzes](https://open.spotify.com/album/2YGieQDyPnrxdjoAke6QBB) | 2:51 | 2025-09-04 | 2025-11-04 |
-| [Kindsoldaat](https://open.spotify.com/track/3qKbu7Y7MOahLCHpsJiTeQ) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Kindsoldaat](https://open.spotify.com/album/2Zhd4cLhJatwiUuQKOrmtD) | 3:22 | 2025-10-23 |  |
+| [Kindsoldaat](https://open.spotify.com/track/3qKbu7Y7MOahLCHpsJiTeQ) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Kindsoldaat](https://open.spotify.com/album/2Zhd4cLhJatwiUuQKOrmtD) | 3:22 | 2025-10-23 | 2026-01-17 |
 | [Kiss & Tell](https://open.spotify.com/track/55gQ5wbRGFjSG1t5LhzNBU) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Kiss & Tell](https://open.spotify.com/album/3fx8AMYbuKhoJjO1TK2AyX) | 3:05 | 2025-08-28 | 2025-09-19 |
 | [Klantenbestand](https://open.spotify.com/track/3T6vh2LV8j8VpbRIkP9VB6) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Klantenbestand](https://open.spotify.com/album/0FhDaaBFWg9TZXh9gXgmb7) | 2:21 | 2025-12-18 |  |
 | [Knieblessure](https://open.spotify.com/track/0ImxzJIYD7irNZR9yUuRT0) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Knieblessure](https://open.spotify.com/album/67ZdtyuItHaZamegJrhIKJ) | 2:38 | 2025-08-21 | 2025-10-03 |

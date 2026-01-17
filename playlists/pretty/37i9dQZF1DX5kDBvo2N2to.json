@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60608,
+  "num_followers": 60618,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,22 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
-        "name": "Josephine",
-        "url": "https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx"
+        "name": "Waiting For A Star To Fall",
+        "url": "https://open.spotify.com/album/7vRRyAIjUrdVy40CeqV8yF"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
         }
       ],
-      "duration_ms": 135769,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ"
+      "duration_ms": 166003,
+      "name": "Waiting For A Star To Fall",
+      "url": "https://open.spotify.com/track/5aC3iodGKBkpvw1V72crkD"
     },
     {
       "added_at": "2026-01-12 08:26:56",
@@ -419,22 +423,18 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
-        "name": "Waiting For A Star To Fall",
-        "url": "https://open.spotify.com/album/7vRRyAIjUrdVy40CeqV8yF"
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx"
       },
       "artists": [
         {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
         }
       ],
-      "duration_ms": 166003,
-      "name": "Waiting For A Star To Fall",
-      "url": "https://open.spotify.com/track/5aC3iodGKBkpvw1V72crkD"
+      "duration_ms": 135769,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ"
     },
     {
       "added_at": "2026-01-12 08:26:56",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
+    },
+    {
+      "added_at": "2026-01-12 08:26:56",
+      "album": {
         "name": "VULKAN\u00d8",
         "url": "https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 179917,
       "name": "Sygeplejerske p\u00e5 nattevagt (feat. Molly Sand\u00e9n & Delara)",
       "url": "https://open.spotify.com/track/5sLwYGTP680NRoQG4BqeSW"
-    },
-    {
-      "added_at": "2026-01-12 08:26:56",
-      "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
     },
     {
       "added_at": "2026-01-12 08:26:56",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
-        "name": "Som i en dr\u00f6m",
-        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 145568,
-      "name": "Fr\u00e5n & med nu",
-      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
-    },
-    {
-      "added_at": "2026-01-12 08:26:56",
-      "album": {
         "name": "Andarna",
         "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
@@ -635,38 +619,6 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
-        "name": "Feelings You Don't Say Out Loud",
-        "url": "https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Feel Sorry",
-      "url": "https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu"
-    },
-    {
-      "added_at": "2026-01-12 08:26:56",
-      "album": {
-        "name": "Men du",
-        "url": "https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P"
-      },
-      "artists": [
-        {
-          "name": "Elin Wiigh",
-          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Men du",
-      "url": "https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U"
-    },
-    {
-      "added_at": "2026-01-12 08:26:56",
-      "album": {
         "name": "500 kr",
         "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
       },
@@ -683,6 +635,54 @@
       "duration_ms": 225000,
       "name": "500 kr",
       "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
+    },
+    {
+      "added_at": "2026-01-12 08:26:56",
+      "album": {
+        "name": "Feelings You Don't Say Out Loud",
+        "url": "https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "Feel Sorry",
+      "url": "https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu"
+    },
+    {
+      "added_at": "2026-01-12 08:26:56",
+      "album": {
+        "name": "Som i en dr\u00f6m",
+        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 145568,
+      "name": "Fr\u00e5n & med nu",
+      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
+    },
+    {
+      "added_at": "2026-01-12 08:26:56",
+      "album": {
+        "name": "Men du",
+        "url": "https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P"
+      },
+      "artists": [
+        {
+          "name": "Elin Wiigh",
+          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Men du",
+      "url": "https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U"
     },
     {
       "added_at": "2026-01-12 08:26:56",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
+        "name": "Faller s\u00e5 l\u00e4tt",
+        "url": "https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj"
+      },
+      "artists": [
+        {
+          "name": "Melwin Wid",
+          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
+        }
+      ],
+      "duration_ms": 155322,
+      "name": "Faller s\u00e5 l\u00e4tt",
+      "url": "https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY"
+    },
+    {
+      "added_at": "2026-01-12 08:26:56",
+      "album": {
         "name": "N\u00e5n annan tar sm\u00e4llen",
         "url": "https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
-        "name": "Faller s\u00e5 l\u00e4tt",
-        "url": "https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj"
-      },
-      "artists": [
-        {
-          "name": "Melwin Wid",
-          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
-        }
-      ],
-      "duration_ms": 155322,
-      "name": "Faller s\u00e5 l\u00e4tt",
-      "url": "https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY"
-    },
-    {
-      "added_at": "2026-01-12 08:26:56",
-      "album": {
         "name": "Two Years",
         "url": "https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn"
       },
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-01-12 08:26:56",
-      "album": {
         "name": "Nostalgi",
         "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 195500,
       "name": "Jag m\u00e5ste v\u00e4lja",
       "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
+    },
+    {
+      "added_at": "2026-01-12 08:26:56",
+      "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2026-01-12 08:26:56",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
-        "name": "02:30",
-        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "02:30",
-      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
-    },
-    {
-      "added_at": "2026-01-12 08:26:56",
-      "album": {
         "name": "Camels",
         "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 114000,
       "name": "Camels",
       "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
+    },
+    {
+      "added_at": "2026-01-12 08:26:56",
+      "album": {
+        "name": "02:30",
+        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "02:30",
+      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
     },
     {
       "added_at": "2026-01-12 08:26:56",
@@ -1315,54 +1315,6 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
-        "name": "Bl\u00e5\u00f6gd",
-        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 215834,
-      "name": "Bl\u00e5\u00f6gd",
-      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
-    },
-    {
-      "added_at": "2026-01-12 08:26:56",
-      "album": {
-        "name": "MSN & Lunar",
-        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "MSN & Lunar",
-      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
-    },
-    {
-      "added_at": "2026-01-12 08:26:56",
-      "album": {
-        "name": "Acoustics & Hood Psychedelia",
-        "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
-      },
-      "artists": [
-        {
-          "name": "Bav\u00e9",
-          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
-        }
-      ],
-      "duration_ms": 168947,
-      "name": "Lover's Rock",
-      "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
-    },
-    {
-      "added_at": "2026-01-12 08:26:56",
-      "album": {
         "name": "Ta honom",
         "url": "https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4"
       },
@@ -1391,6 +1343,38 @@
       "duration_ms": 182051,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
+    },
+    {
+      "added_at": "2026-01-12 08:26:56",
+      "album": {
+        "name": "Acoustics & Hood Psychedelia",
+        "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
+      },
+      "artists": [
+        {
+          "name": "Bav\u00e9",
+          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
+        }
+      ],
+      "duration_ms": 168947,
+      "name": "Lover's Rock",
+      "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
+    },
+    {
+      "added_at": "2026-01-12 08:26:56",
+      "album": {
+        "name": "Bl\u00e5\u00f6gd",
+        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 215834,
+      "name": "Bl\u00e5\u00f6gd",
+      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
     },
     {
       "added_at": "2026-01-12 08:26:56",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
+        "name": "MSN & Lunar",
+        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "MSN & Lunar",
+      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
+    },
+    {
+      "added_at": "2026-01-12 08:26:56",
+      "album": {
         "name": "Mjukt ljus",
         "url": "https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe"
       },
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2026-01-12 08:26:56",
       "album": {
-        "name": "RING MIG 112!!?",
-        "url": "https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt"
+        "name": "Dansa med mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
       },
       "artists": [
         {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+          "name": "NOVELLEN",
+          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
         }
       ],
-      "duration_ms": 176000,
-      "name": "RING MIG 112!!?",
-      "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
+      "duration_ms": 127250,
+      "name": "Dansa med mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
     }
   ],
   "unique_name": "p\u00e5 repeat",

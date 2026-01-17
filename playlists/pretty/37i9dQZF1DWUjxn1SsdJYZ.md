@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Miko Mal
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,334 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,365 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [On My Grind](https://open.spotify.com/track/6krHfcYbtZyka2LEZAmSjC) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Trench Kid](https://open.spotify.com/album/7F0hVXvzzxT7NY1brLbF9M) | 3:19 |
-| 2 | [GHETTO KID](https://open.spotify.com/track/3KBv8LwIbRX8sRdQSl9gPB) | [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Mali](https://open.spotify.com/artist/6rXRrhF6wQ5VOuMdZngIIi) | [GHETTO KID](https://open.spotify.com/album/16VlabAWWevKo1cWfxjSNI) | 2:23 |
+| 2 | [GHETTO KID](https://open.spotify.com/track/3KBv8LwIbRX8sRdQSl9gPB) | [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r) | [GHETTO KID](https://open.spotify.com/album/16VlabAWWevKo1cWfxjSNI) | 2:23 |
 | 3 | [the ppl \(tell the producer\)](https://open.spotify.com/track/6va2DajOZAIvTwTulCsKYI) | [Miko Mal](https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7) | [the ppl \(tell the producer\)](https://open.spotify.com/album/3uhydSbtH4F0zTeCG5pc6m) | 1:34 |
 | 4 | [Last Laugh](https://open.spotify.com/track/0irGuN2NqZ0E8BCutnfMKO) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Last Laugh](https://open.spotify.com/album/3yCjtfPnNTBSuamHb1Zf8A) | 3:27 |
 | 5 | [She Will \(with Day1\)](https://open.spotify.com/track/17CgN1wfpepyTOyVviHS6L) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [She Will \(with Day1\)](https://open.spotify.com/album/4s3oBsSVqaIkNLvSrts2Ob) | 3:44 |

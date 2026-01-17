@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Bizarrap x Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,316 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,331 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 13 | [Cuentale](https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cuentale](https://open.spotify.com/album/3zDmejQLElhbjKeAnxx73W) | 2:39 |
 | 14 | [VFC](https://open.spotify.com/track/4cY1IXeIhd00hdQxZj82zD) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [VFC](https://open.spotify.com/album/4rEXPF6DiEnGx8ZlOjsWlK) | 2:48 |
 | 15 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 |
-| 16 | [Elastico](https://open.spotify.com/track/0K9n8OoGSRX3YcXa92oKmj) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Elastico](https://open.spotify.com/album/30uxeN97eyutVdKVwaSiQH) | 3:20 |
+| 16 | [Elastico](https://open.spotify.com/track/0K9n8OoGSRX3YcXa92oKmj) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv) | [Elastico](https://open.spotify.com/album/30uxeN97eyutVdKVwaSiQH) | 3:20 |
 | 17 | [Loco Contigo](https://open.spotify.com/track/1jStUvWUJi2tSbWzZ2IjcS) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco Contigo](https://open.spotify.com/album/6K1zeBOnzT2Yl20rY0vVvp) | 2:48 |
 | 18 | [Hablamos Mañana](https://open.spotify.com/track/3MbIRGRe13R7kl66aSQ3yI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Hablamos Mañana](https://open.spotify.com/album/0WZ1WllMllTkMjmOV14ew3) | 2:51 |
 | 19 | [Morena](https://open.spotify.com/track/3CKfqzqiqsQluhrJH438K2) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Morena](https://open.spotify.com/album/0K95S14cteAiVcFgish00M) | 2:47 |

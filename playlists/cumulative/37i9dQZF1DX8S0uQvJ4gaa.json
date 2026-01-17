@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Owen Riegling",
+  "description": "Break them in, wear them out. Cover: Ty Myers",
   "name": "New Boots",
   "tracks": [
     {
@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 174748,
       "name": "baby blues",
       "url": "https://open.spotify.com/track/0gx2NKeIy2YCc1UaXkJmYI"
@@ -3240,6 +3240,24 @@
       "duration_ms": 167213,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/2KYXVfufJyULq19lC4VyzR"
+    },
+    {
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/3kdbtOFRfy0OWfLND6QfOi"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209184,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/5ALxtp7THNpxr8nBCYC6ur"
     },
     {
       "album": {
@@ -3756,7 +3774,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 196470,
       "name": "Beer Back Home",
       "url": "https://open.spotify.com/track/5Lks14NDn8Te1lgAF7tJZP"
@@ -7434,7 +7452,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 221698,
       "name": "Chevy Silverado",
       "url": "https://open.spotify.com/track/4d7xkIulyiI53l1n4K2Nor"
@@ -16140,7 +16158,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 215223,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6IMy7cA0TT6hvI4nU14MYI"
@@ -20077,6 +20095,24 @@
     },
     {
       "album": {
+        "name": "Holdin' It Down",
+        "url": "https://open.spotify.com/album/6DNwBVF6UtVCoyeUplKVfy"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162608,
+      "name": "Holdin' It Down",
+      "url": "https://open.spotify.com/track/3tkfOtsySCFzQkNZSWOYcP"
+    },
+    {
+      "album": {
         "name": "Holdin' You, Lovin' You",
         "url": "https://open.spotify.com/album/40lQgSC5YEFKeTahWOBTJV"
       },
@@ -21595,6 +21631,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Tryin'",
+        "url": "https://open.spotify.com/album/4xOghJminQuuSgE7EJlC3s"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214961,
+      "name": "I Ain't Tryin'",
+      "url": "https://open.spotify.com/track/4xrm9qF0RCcuvkRXq9PFSn"
+    },
+    {
+      "album": {
         "name": "I Ain't Worried About It",
         "url": "https://open.spotify.com/album/7K59GahC9DKMSllzumwKTK"
       },
@@ -22628,6 +22682,24 @@
       "duration_ms": 235498,
       "name": "I Love the Way You Love Me",
       "url": "https://open.spotify.com/track/48oLajvNQsUqGHl6r24hMY"
+    },
+    {
+      "album": {
+        "name": "I Love This Town",
+        "url": "https://open.spotify.com/album/2sFDFyD09ae7VbJe60tQth"
+      },
+      "artists": [
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228053,
+      "name": "I Love This Town",
+      "url": "https://open.spotify.com/track/0goFthC4OGCeCtTZ92LHrG"
     },
     {
       "album": {
@@ -25683,6 +25755,28 @@
     },
     {
       "album": {
+        "name": "Lay Your Heartache Onto Mine [Songs From and Inspired by the Paramount+ Original Series Landman (Volume II)]",
+        "url": "https://open.spotify.com/album/5g2F6CcSyH7sY4gLVFRMlf"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        },
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198125,
+      "name": "Lay Your Heartache Onto Mine - Songs From and Inspired by the Paramount+ Original Series Landman (Volume II)",
+      "url": "https://open.spotify.com/track/76gz4QAPcJnftDIjgmK65h"
+    },
+    {
+      "album": {
         "name": "Leads Me Home",
         "url": "https://open.spotify.com/album/3BWWEzqzihiQp8EOQQLNNZ"
       },
@@ -25950,6 +26044,24 @@
       "duration_ms": 197280,
       "name": "Let Him In Anyway",
       "url": "https://open.spotify.com/track/0Inv68QN5D9ir2Z2vYAMY1"
+    },
+    {
+      "album": {
+        "name": "For Recreational Use Only",
+        "url": "https://open.spotify.com/album/4m1rrBwb9R421U1CS0MzYV"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197280,
+      "name": "Let Him In Anyway",
+      "url": "https://open.spotify.com/track/2bsTi8XsyDpwm6qfNrp9Rf"
     },
     {
       "album": {
@@ -28543,6 +28655,24 @@
     },
     {
       "album": {
+        "name": "Marlboro Man",
+        "url": "https://open.spotify.com/album/0ycvGp6ilYYpJojkGWxTq6"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203108,
+      "name": "Marlboro Man",
+      "url": "https://open.spotify.com/track/6xWvE10QbAjULENv5vvcX1"
+    },
+    {
+      "album": {
         "name": "Let's Do Country Right",
         "url": "https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I"
       },
@@ -29259,6 +29389,24 @@
     },
     {
       "album": {
+        "name": "Message to You",
+        "url": "https://open.spotify.com/album/7ki0RbD7gen6uL67N6Baqo"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217422,
+      "name": "Message to You",
+      "url": "https://open.spotify.com/track/00asEdGggYrPYfLbDRI6HE"
+    },
+    {
+      "album": {
         "name": "Messed Up As Me",
         "url": "https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9"
       },
@@ -29682,7 +29830,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 196920,
       "name": "Misery Loves Company",
       "url": "https://open.spotify.com/track/08GgZyqoP4icrkBMJFu9PN"
@@ -31200,6 +31348,24 @@
       "duration_ms": 175990,
       "name": "Never Call Again",
       "url": "https://open.spotify.com/track/6cEckA5rG2RkkXKaqNMrt9"
+    },
+    {
+      "album": {
+        "name": "Never Comin' Back",
+        "url": "https://open.spotify.com/album/3gPZkCBz8sGb9OQhgSrh36"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237679,
+      "name": "Never Comin' Back",
+      "url": "https://open.spotify.com/track/1wQaPoRJ0Ip6MtNxTlA3SY"
     },
     {
       "album": {
@@ -34032,7 +34198,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 151746,
       "name": "OVER AGAIN",
       "url": "https://open.spotify.com/track/5o6vUZwfjwyRlxgoNNAGTS"
@@ -34480,7 +34646,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 210880,
       "name": "Peace, Love, and Cowboys",
       "url": "https://open.spotify.com/track/0vQVAtvDlmUHzZAegghKfH"
@@ -36678,7 +36844,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 168333,
       "name": "Rocky Mountain Low - feat. Koe Wetzel",
       "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
@@ -37594,6 +37760,24 @@
       "duration_ms": 202337,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/6FgTg9bfG505KTGzTcV953"
+    },
+    {
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143985,
+      "name": "Say Why",
+      "url": "https://open.spotify.com/track/0BUvxX1tTOSJcsn6Y24Bsp"
     },
     {
       "album": {
@@ -38592,7 +38776,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 141343,
       "name": "Sin In My Sleep",
       "url": "https://open.spotify.com/track/3Xx18WGTVlKLNfHSZ7YD9R"
@@ -45258,7 +45442,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 261678,
       "name": "Through a Screen",
       "url": "https://open.spotify.com/track/5Dx0aVPJlZk7Pdfe5pkkGC"
@@ -46526,6 +46710,28 @@
       "duration_ms": 168430,
       "name": "Two Blue Chairs & You",
       "url": "https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI"
+    },
+    {
+      "album": {
+        "name": "Two Broken Hearts",
+        "url": "https://open.spotify.com/album/5ZjK6UTrm6ciRluI0NBWbe"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        },
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233112,
+      "name": "Two Broken Hearts",
+      "url": "https://open.spotify.com/track/5kaSYsxC8abOPSTuOkXSbU"
     },
     {
       "album": {
@@ -48174,6 +48380,24 @@
       "duration_ms": 211863,
       "name": "What Could Go Right (feat. Lanie Gardner)",
       "url": "https://open.spotify.com/track/2iMX5bHSf125ZHBIysZ9na"
+    },
+    {
+      "album": {
+        "name": "What Could Go Wrong",
+        "url": "https://open.spotify.com/album/5zAsLYrfEFQHhXkyvFjQFJ"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148171,
+      "name": "What Could Go Wrong",
+      "url": "https://open.spotify.com/track/2j7fOkt80FbBemOoTV8SkR"
     },
     {
       "album": {
@@ -50268,7 +50492,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 193053,
       "name": "Wind Blows",
       "url": "https://open.spotify.com/track/0Z2X1lrFlJQ2vl66ghAAAx"
@@ -50304,7 +50528,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 150668,
       "name": "Windy City",
       "url": "https://open.spotify.com/track/13dPOEUDNyvOv8iKY9bxjq"
@@ -50712,7 +50936,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 239931,
       "name": "Without a Fight",
       "url": "https://open.spotify.com/track/5YHJSkfwbNXedCGaBrqacN"
@@ -50756,6 +50980,24 @@
       "duration_ms": 198373,
       "name": "Without You In It",
       "url": "https://open.spotify.com/track/7Ii5blW1RHgdljAxYkQDI6"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1ImFC7gDuNBGCommJscsNp"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146490,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/58nMHXc159bwnSrUVROhcU"
     },
     {
       "album": {

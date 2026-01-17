@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJ Lag
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: Washa X
 
-529 songs - 1 day 22 hr 51 min
+530 songs - 1 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Uhayizelani](https://open.spotify.com/track/5HamRh4oj341Q336qcQZEE) | [Abangani Bethu](https://open.spotify.com/artist/4K8D2RZjEKU0ZXrqrtEwXT), [Formation Boyz](https://open.spotify.com/artist/1PpqhQEi4YnNyRVAatLKCW) | [Uhayizelani](https://open.spotify.com/album/18NjQSo84NAi032NOZSGVV) | 5:11 | 2022-06-30 | 2023-08-25 |
 | [Ukuphumla](https://open.spotify.com/track/1UKz5ydqi0STJgNM9dm8uJ) | [King Jade\_Baby Joe](https://open.spotify.com/artist/6RmYSDRK0gIVgWjQGsMaWb), [DJ Rego](https://open.spotify.com/artist/1z0lGpV9pQkZjgjZAns3j4) | [Ukuphumla](https://open.spotify.com/album/1ySQhHkqRj4ntxIkOaQeHx) | 5:32 | 2025-04-24 | 2025-05-23 |
 | [Umbhoqo Sound Check \- NegoO remix](https://open.spotify.com/track/6H7uqT46fBmlZMmYasB7dn) | [3\-DIGITS](https://open.spotify.com/artist/1OZnuThczuqSUA6jvbHVOi), [NegoO](https://open.spotify.com/artist/3gzr7RSwdcex4CdfvZi0TX) | [Umbhoqo Sound Check \(NegoO remix\)](https://open.spotify.com/album/66YSdRWtTSG9H4oEOAP6wd) | 2:53 | 2025-05-15 | 2025-05-23 |
+| [Umcabango](https://open.spotify.com/track/7cBO2y1TuG38Eaf95ZEnXH) | [Washa X](https://open.spotify.com/artist/0r2Ys2CipfcMREJs2HRi8o), [Audio Addicts](https://open.spotify.com/artist/1tjAECvMdhkOPNEPYCNZol), [Thobeka](https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu), [Yungboyvegeta](https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh), [D\[NOWHERE\]J](https://open.spotify.com/artist/4TL8qvr7XAFz333BtR3FyO), [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG) | [Umcabango](https://open.spotify.com/album/7szGAQ2Fy1W93yGeDb9ENG) | 4:41 | 2026-01-16 |  |
 | [Umdans'omusha](https://open.spotify.com/track/1HWazaXsTqB51bRh6UP8YF) | [Asambe EmKaY](https://open.spotify.com/artist/5GzkAFuavCh80tZ4kJ2Fn5), [Cyle Ntokzin](https://open.spotify.com/artist/3eWQ9eINZAbjC9CzSNzTB5) | [Umdans'omusha](https://open.spotify.com/album/3qqzDfN6H1NUmGJXyf1Cfh) | 5:09 | 2025-08-14 | 2025-08-20 |
 | [Umdlalo](https://open.spotify.com/track/4u3KsApnRhmtC7JdZEQZSD) | [DJ Mavu](https://open.spotify.com/artist/0b80XMiV5iyfuKx5ZQAjDu), [Bhuda M](https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL) | [DURBAN BANG](https://open.spotify.com/album/190rUz6bQctegEJipev2pk) | 4:24 | 2025-08-14 | 2025-08-20 |
 | [Umentshisi](https://open.spotify.com/track/75yfJbUSOCxxzuuk0BAMW6) | [IRohn Dwgs](https://open.spotify.com/artist/3EMBskBjzvlVBviiLUPv6U), [Mtaka Tee](https://open.spotify.com/artist/6cKAA4ItTTcO3G3al2DOaL) | [Area 51](https://open.spotify.com/album/08dxDjvS78ikVFQdyxgLt8) | 5:44 | 2025-05-15 | 2025-05-23 |

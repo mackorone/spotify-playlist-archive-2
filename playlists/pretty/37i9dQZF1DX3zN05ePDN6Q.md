@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Sant, L7NNON, Mc Marechal
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,600 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,628 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Etiqueta \(Under Sesh \#9\)](https://open.spotify.com/track/0KhxrKcloIqedRkOBqKULg) | [Lucky Real](https://open.spotify.com/artist/4eYZoQdST7n6eEraQfMXcz), [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Etiqueta \(Under Sesh \#9\)](https://open.spotify.com/album/4NCFK3Hu3GmucbNhOomGJ8) | 2:30 |
 | 75 | [Já Dizia Minha Vó](https://open.spotify.com/track/13fzwFXbkD6q1RhDOO3bne) | [Mrasta](https://open.spotify.com/artist/4LATAzZazW5gcrunD9TMLs), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Já Dizia Minha Vó](https://open.spotify.com/album/0wS9IQlF84VE1InPq8XT2C) | 2:39 |
 
-Snapshot ID: `AAAAAPSX8ib+/qiNyon/n5FCb96LP+Lu`
+Snapshot ID: `AAAAAPtOPXTIahtsgRNRnVqmpqTdJzdd`

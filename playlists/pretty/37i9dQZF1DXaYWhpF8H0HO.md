@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Rubina
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,680 likes - 104 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,700 likes - 104 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

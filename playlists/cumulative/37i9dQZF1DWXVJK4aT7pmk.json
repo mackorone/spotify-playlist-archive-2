@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-18",
-  "description": "Catch the hottest Punjabi tracks. Cover: Karan Aujla",
+  "description": "Catch the hottest Punjabi tracks. Cover: Shubh",
   "name": "Hot Hits Punjabi",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 220192,
       "name": "Aadat (Feat. AP Dhillon)",
       "url": "https://open.spotify.com/track/1tlFHs9EuvokJgdcacWUV8"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 176184,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/2mt3QHYbKBMdSTIfzSFsYH"

@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 139869,
+  "num_followers": 139893,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Woman in Love",
-      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 228426,
       "name": "Pride (In The Name Of Love) - Remastered 2009",
       "url": "https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Get Close (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Don't Get Me Wrong - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 379266,
       "name": "1999",
       "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Get Close (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Don't Get Me Wrong - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Millennium Edition",
-        "url": "https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG"
-      },
-      "artists": [
-        {
-          "name": "Opus",
-          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
-        }
-      ],
-      "duration_ms": 257306,
-      "name": "Live Is Life - Live",
-      "url": "https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 240960,
       "name": "Slippery People - Live",
       "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Millennium Edition",
+        "url": "https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG"
+      },
+      "artists": [
+        {
+          "name": "Opus",
+          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
+        }
+      ],
+      "duration_ms": 257306,
+      "name": "Live Is Life - Live",
+      "url": "https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Ik Weet Niet Hoe",
-        "url": "https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4"
-      },
-      "artists": [
-        {
-          "name": "Benny Neyman",
-          "url": "https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Ik Weet Niet Hoe",
-      "url": "https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Whitesnake (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 275693,
       "name": "Here I Go Again - 1987 Version; 2017 Remaster",
       "url": "https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Ik Weet Niet Hoe",
+        "url": "https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4"
+      },
+      "artists": [
+        {
+          "name": "Benny Neyman",
+          "url": "https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Ik Weet Niet Hoe",
+      "url": "https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da"
-      },
-      "artists": [
-        {
-          "name": "Time Bandits",
-          "url": "https://open.spotify.com/artist/23DeFeMRFRhnfMfawvqFne"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "I'm Specialized in You",
-      "url": "https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Doe Maar - De Singles (Het Complete Singles Overzicht)",
         "url": "https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 228540,
       "name": "Doris Day",
       "url": "https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da"
+      },
+      "artists": [
+        {
+          "name": "Time Bandits",
+          "url": "https://open.spotify.com/artist/23DeFeMRFRhnfMfawvqFne"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "I'm Specialized in You",
+      "url": "https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV"
     },
     {
       "added_at": "2024-07-09 16:44:07",

@@ -1,13 +1,45 @@
 {
-  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/25-year-end-reflections-from-turnstile?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Check out our Substack here!!!!!!!</a> Cover: Djo",
-  "num_followers": 1186095,
+  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/25-year-end-reflections-from-turnstile?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Check out our Substack here!!!!!!!</a> Cover: Arlo Parks",
+  "num_followers": 1186060,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANbENqFgElreCj9zFGsDMWrFrlbB",
+  "snapshot_id": "AAAAAAtQso72dFKOawSgtNmWYM05wI+r",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
     {
       "added_at": "2026-01-09 05:00:42",
       "album": {
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/3f3mRpt6XsijsdVjzrXi7W"
     },
     {
+      "added_at": "2026-01-05 21:12:07",
+      "album": {
+        "name": "PUNK ROCKY",
+        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 235344,
+      "name": "PUNK ROCKY",
+      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
+    {
       "added_at": "2026-01-05 17:05:04",
       "album": {
         "name": "The Crux",
@@ -55,6 +103,42 @@
       "duration_ms": 205046,
       "name": "Charlie's Garden",
       "url": "https://open.spotify.com/track/4kPfzkWY23WgM902kNAQLn"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 233486,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum"
     },
     {
       "added_at": "2025-10-24 04:00:31",
@@ -89,22 +173,6 @@
       "url": "https://open.spotify.com/track/3QOQEObqJvCi4M2SNeko7V"
     },
     {
-      "added_at": "2026-01-05 21:12:07",
-      "album": {
-        "name": "PUNK ROCKY",
-        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 235344,
-      "name": "PUNK ROCKY",
-      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
-    },
-    {
       "added_at": "2026-01-05 17:05:04",
       "album": {
         "name": "t",
@@ -119,6 +187,38 @@
       "duration_ms": 180659,
       "name": "Vaseline",
       "url": "https://open.spotify.com/track/0BMmHh3fBjpZxH0ofHcARY"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Oxis 8",
+        "url": "https://open.spotify.com/album/13YaZjYWXK9tFlLK9VUcIx"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Dogfish",
+      "url": "https://open.spotify.com/track/38G45tr5jBQA1Y7HP5o4x3"
+    },
+    {
+      "added_at": "2025-11-14 03:28:25",
+      "album": {
+        "name": "spearmint / slowbird",
+        "url": "https://open.spotify.com/album/4tftppkkQemA0l7tGLFXk3"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 151886,
+      "name": "spearmint",
+      "url": "https://open.spotify.com/track/7JKv0qkYYjv50LaQ9fMUlz"
     },
     {
       "added_at": "2026-01-06 21:26:48",
@@ -153,20 +253,24 @@
       "url": "https://open.spotify.com/track/4hEIjVe4S6EZJtdZqODBlC"
     },
     {
-      "added_at": "2025-03-13 17:25:37",
+      "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Object Permanence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw"
+        "name": "I'll Take It (Mura Masa's 'Can't Feel A Thing' Edit)",
+        "url": "https://open.spotify.com/album/03Wjc6qqYQ2y01ZnlQOf9a"
       },
       "artists": [
         {
           "name": "Sophia Stel",
           "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
         }
       ],
-      "duration_ms": 203093,
-      "name": "I'll Take It",
-      "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
+      "duration_ms": 155404,
+      "name": "I'll Take It - Mura Masa's 'Can't Feel A Thing' Edit",
+      "url": "https://open.spotify.com/track/1v3c7CaFHEPLRS2VCsewsC"
     },
     {
       "added_at": "2026-01-07 18:43:43",
@@ -185,20 +289,20 @@
       "url": "https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8"
     },
     {
-      "added_at": "2026-01-09 05:00:42",
+      "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "limn",
-        "url": "https://open.spotify.com/album/26IJ29iCYAozdqslJSkUWw"
+        "name": "Centralia",
+        "url": "https://open.spotify.com/album/0ovV2Ev2jH4e5MuBgA0XBE"
       },
       "artists": [
         {
-          "name": "isobel",
-          "url": "https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA"
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
         }
       ],
-      "duration_ms": 207058,
-      "name": "limn",
-      "url": "https://open.spotify.com/track/69oIIqwBPHmM8m81cW1H5O"
+      "duration_ms": 188573,
+      "name": "Centralia",
+      "url": "https://open.spotify.com/track/253g0G4Hvl2xVvmlsjkRV5"
     },
     {
       "added_at": "2026-01-05 18:05:57",
@@ -217,6 +321,22 @@
       "url": "https://open.spotify.com/track/3DD0xdjiHAkNF87jf4YWzt"
     },
     {
+      "added_at": "2026-01-09 05:00:42",
+      "album": {
+        "name": "limn",
+        "url": "https://open.spotify.com/album/26IJ29iCYAozdqslJSkUWw"
+      },
+      "artists": [
+        {
+          "name": "isobel",
+          "url": "https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA"
+        }
+      ],
+      "duration_ms": 207058,
+      "name": "limn",
+      "url": "https://open.spotify.com/track/69oIIqwBPHmM8m81cW1H5O"
+    },
+    {
       "added_at": "2025-11-21 05:00:40",
       "album": {
         "name": "Here I Am",
@@ -231,22 +351,6 @@
       "duration_ms": 226426,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN"
-    },
-    {
-      "added_at": "2025-11-14 03:28:25",
-      "album": {
-        "name": "spearmint / slowbird",
-        "url": "https://open.spotify.com/album/4tftppkkQemA0l7tGLFXk3"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 151886,
-      "name": "spearmint",
-      "url": "https://open.spotify.com/track/7JKv0qkYYjv50LaQ9fMUlz"
     },
     {
       "added_at": "2025-12-19 05:00:28",
@@ -295,6 +399,22 @@
       "duration_ms": 132000,
       "name": "Theorem",
       "url": "https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Marty Supreme (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4ACAVXXQYUTmlZgdg0aG8U"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lopatin",
+          "url": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
+        }
+      ],
+      "duration_ms": 92917,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/3O6cYn59AwUGzxatx3sdCv"
     },
     {
       "added_at": "2025-12-19 05:00:28",
@@ -1009,22 +1129,6 @@
       "url": "https://open.spotify.com/track/5mLchLWTDgVPJPOjmDoeAx"
     },
     {
-      "added_at": "2025-11-14 03:28:25",
-      "album": {
-        "name": "Pieces Of Yours",
-        "url": "https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve"
-      },
-      "artists": [
-        {
-          "name": "Mackeeper",
-          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
-        }
-      ],
-      "duration_ms": 110186,
-      "name": "Pieces Of Yours",
-      "url": "https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7"
-    },
-    {
       "added_at": "2025-11-12 21:34:52",
       "album": {
         "name": "Dopamine",
@@ -1449,22 +1553,6 @@
       "url": "https://open.spotify.com/track/07lAcpDgwODHa2tQsSGZfL"
     },
     {
-      "added_at": "2025-10-24 04:00:31",
-      "album": {
-        "name": "Play the Song",
-        "url": "https://open.spotify.com/album/4MvVQTV2JEvEXE5d1EOAc7"
-      },
-      "artists": [
-        {
-          "name": "Dutch Interior",
-          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "Play the Song",
-      "url": "https://open.spotify.com/track/3haKlwIqE6QTKDerK7ZDLY"
-    },
-    {
       "added_at": "2025-10-17 04:01:01",
       "album": {
         "name": "Gainsayer",
@@ -1731,22 +1819,6 @@
       "duration_ms": 354139,
       "name": "Islands of Men",
       "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
-    },
-    {
-      "added_at": "2025-08-22 04:00:32",
-      "album": {
-        "name": "Appalachia",
-        "url": "https://open.spotify.com/album/3yTGd142wMD28wd17gzdpO"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 138043,
-      "name": "Appalachia",
-      "url": "https://open.spotify.com/track/1eh7N11Wxib2KZ5w8eKJ94"
     },
     {
       "added_at": "2025-04-18 04:00:55",
@@ -2509,22 +2581,6 @@
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
     },
     {
-      "added_at": "2025-08-08 04:02:53",
-      "album": {
-        "name": "Switcheroo",
-        "url": "https://open.spotify.com/album/6DK5lxaaj74XkZmPIvAXap"
-      },
-      "artists": [
-        {
-          "name": "Gelli Haha",
-          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
-        }
-      ],
-      "duration_ms": 201336,
-      "name": "Funny Music",
-      "url": "https://open.spotify.com/track/39BCr0yKXsGWFsvsfin8sP"
-    },
-    {
       "added_at": "2025-08-15 04:00:26",
       "album": {
         "name": "Enjoy Yourself (very cool tutorials Remix)",
@@ -2953,26 +3009,6 @@
       "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
     },
     {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
-        "name": "Childhood Crush",
-        "url": "https://open.spotify.com/album/6oLlGADa6QQdhQ92mq7AJ5"
-      },
-      "artists": [
-        {
-          "name": "Dana and Alden",
-          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
-        },
-        {
-          "name": "Cinya Khan",
-          "url": "https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz"
-        }
-      ],
-      "duration_ms": 175935,
-      "name": "Childhood Crush",
-      "url": "https://open.spotify.com/track/1cIYTz9oCqdEQSVvkXGmH4"
-    },
-    {
       "added_at": "2025-05-09 04:00:06",
       "album": {
         "name": "I'll Be Waving As You Drive Away",
@@ -3003,22 +3039,6 @@
       "duration_ms": 220762,
       "name": "Headlock - Spotify Singles",
       "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
-    },
-    {
-      "added_at": "2025-06-02 17:40:17",
-      "album": {
-        "name": "summer's scorch",
-        "url": "https://open.spotify.com/album/7yKYH2ydvNc8TwDRTXCVYf"
-      },
-      "artists": [
-        {
-          "name": "Jahnah Camille",
-          "url": "https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "summer's scorch",
-      "url": "https://open.spotify.com/track/7GPixB0TmbVFLIPgWrgdvM"
     },
     {
       "added_at": "2025-05-30 04:00:38",
@@ -3283,22 +3303,6 @@
       "duration_ms": 226075,
       "name": "Mysterious Girl",
       "url": "https://open.spotify.com/track/4safzYeGiApQ5Cu7c3sGEz"
-    },
-    {
-      "added_at": "2025-03-21 04:00:55",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2025-03-26 17:51:55",

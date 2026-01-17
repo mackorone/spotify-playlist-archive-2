@@ -4,12 +4,14 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-181 songs - 10 hr 11 min
+183 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2d Dreaming](https://open.spotify.com/track/5nVBO2OUUSRgJf8MO1wolg) | [TOFUKU](https://open.spotify.com/artist/3hg9J1p0uyzhuLwMic8pvW) | [2d Dreaming](https://open.spotify.com/album/2fihiE8eu3cnyI8dMch47L) | 4:33 | 2019-05-28 |  |
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2023-01-18 |  |
+| [A Little Bit Bad](https://open.spotify.com/track/3FcfrGCfPw5hBAXRXqkXv7) | [KittenSneeze](https://open.spotify.com/artist/2WKgR22LeNxOzIllOfH4ZW), [Tunnelberg](https://open.spotify.com/artist/0bW6E136CbdrMmbk6MlJiB), [The Musical Ghost](https://open.spotify.com/artist/5NCTflTCAp9FUqwYRz6N9n) | [A Little Bit Bad](https://open.spotify.com/album/7fdSRH1s1pNbyfu8141YIa) | 2:21 | 2026-01-16 |  |
+| [Abstraction \(Big Band Version\)](https://open.spotify.com/track/6RlqmQ5DMLDvXxibvBAsLG) | [KittenSneeze](https://open.spotify.com/artist/2WKgR22LeNxOzIllOfH4ZW), [Amanda Hufford](https://open.spotify.com/artist/69BxTUnWd8ujTo7GUdGFdA), [Michael Kovach](https://open.spotify.com/artist/7Gz9xqvzDYD8G3LnlolOdZ), [CLOUDSAVE](https://open.spotify.com/artist/6Po9si7KKnwz4fDuerSR7V) | [Abstraction \(Big Band Version\)](https://open.spotify.com/album/5x0168foSD4FsNjrLfgt8S) | 3:36 | 2026-01-16 |  |
 | [Addict](https://open.spotify.com/track/64UmuvjJk7CxLZB6pKTrsS) | [Silva Hound](https://open.spotify.com/artist/6ty1HyJReuPdMWdoZAIB4I), [Michael Kovach](https://open.spotify.com/artist/7Gz9xqvzDYD8G3LnlolOdZ), [Chi\-Chi](https://open.spotify.com/artist/7bxG51u5eddqEHSaI0nvXy) | [Addict](https://open.spotify.com/album/4QtUfPpp8KMjgFsJiWRi8x) | 4:05 | 2020-11-04 |  |
 | [Alive](https://open.spotify.com/track/6xFyou3c6TAFSKYwQLPZpT) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ROLLUPHILLS](https://open.spotify.com/artist/3du9AwhpnUmjJoC4qmXLL5) | [Alive](https://open.spotify.com/album/1Q0H8zhpKSuuksnqdcJS4A) | 3:19 | 2019-01-04 |  |
 | [Animals \- Extended](https://open.spotify.com/track/6JEntXLt4z98CcDtIH9sU7) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals \(Extended\)](https://open.spotify.com/album/55HXtmTsfepv0mY9vIIFhi) | 5:03 | 2019-01-04 |  |

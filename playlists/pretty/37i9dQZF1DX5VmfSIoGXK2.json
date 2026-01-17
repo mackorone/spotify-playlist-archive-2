@@ -1,12 +1,12 @@
 {
-  "description": "Our favorite Jazz House selections \ud83e\udd32 Featuring Godblesscomputers",
-  "num_followers": 26055,
+  "description": "Our favorite Jazz House selections \ud83e\udd32 featuring Godblesscomputers",
+  "num_followers": 26109,
   "original_name": "Jazz House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIhXYjrqnivhx0Be+rUp7aihE3Qs",
+  "snapshot_id": "AAAAALEzBwxG/Tf8EPcaxBXXpeiJqXEc",
   "tracks": [
     {
       "added_at": "2026-01-09 16:38:21",
@@ -93,6 +93,26 @@
       "url": "https://open.spotify.com/track/72isHTzdTf3GcFkBcsT0i4"
     },
     {
+      "added_at": "2026-01-16 05:00:37",
+      "album": {
+        "name": "Island Of Vibes",
+        "url": "https://open.spotify.com/album/3ObQKUDBA3YPdE8mofro2B"
+      },
+      "artists": [
+        {
+          "name": "Nebulae Waves",
+          "url": "https://open.spotify.com/artist/1b3LQfWsgZxMeJOiuUriP2"
+        },
+        {
+          "name": "Moryla",
+          "url": "https://open.spotify.com/artist/679Cu2GnI3RBdkgaPxAsY0"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Island Of Vibes",
+      "url": "https://open.spotify.com/track/7jUIG9bGtK8djfjj8UuKjj"
+    },
+    {
       "added_at": "2026-01-09 16:38:21",
       "album": {
         "name": "jazz is for ordinary people",
@@ -163,6 +183,22 @@
       "duration_ms": 144358,
       "name": "More Than Ever",
       "url": "https://open.spotify.com/track/2itHRm1HyxvHYShw5hsbPZ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:37",
+      "album": {
+        "name": "On My Heart",
+        "url": "https://open.spotify.com/album/7EcnFv8HZUI5yEwbBqd8N4"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "duration_ms": 342720,
+      "name": "On My Heart",
+      "url": "https://open.spotify.com/track/3PVHK6eCeKSv1MlPnsIEPO"
     },
     {
       "added_at": "2026-01-09 16:38:21",
@@ -369,6 +405,22 @@
       "url": "https://open.spotify.com/track/19FzgTmZaepdeXBqHm87VD"
     },
     {
+      "added_at": "2026-01-16 05:00:37",
+      "album": {
+        "name": "Glimpses",
+        "url": "https://open.spotify.com/album/5d5nNbF2KDP4LQy6pOxzuw"
+      },
+      "artists": [
+        {
+          "name": "NRMNT",
+          "url": "https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA"
+        }
+      ],
+      "duration_ms": 207022,
+      "name": "Glimpses",
+      "url": "https://open.spotify.com/track/3XE67IbSDQQDOhfCM2pCo4"
+    },
+    {
       "added_at": "2026-01-09 16:38:21",
       "album": {
         "name": "Birth Of Light",
@@ -443,6 +495,22 @@
       "duration_ms": 145736,
       "name": "Moons",
       "url": "https://open.spotify.com/track/32U32r15CzLGLUs4Qmy101"
+    },
+    {
+      "added_at": "2026-01-16 05:00:37",
+      "album": {
+        "name": "Boleta",
+        "url": "https://open.spotify.com/album/78mU9U7yIuttVzWVWGMbxK"
+      },
+      "artists": [
+        {
+          "name": "Aguava",
+          "url": "https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid"
+        }
+      ],
+      "duration_ms": 238139,
+      "name": "Boleta",
+      "url": "https://open.spotify.com/track/52ei2hcLKXEZd7MRDKqyLZ"
     },
     {
       "added_at": "2026-01-09 16:38:21",
@@ -747,26 +815,6 @@
     {
       "added_at": "2026-01-09 16:38:21",
       "album": {
-        "name": "Cold nights and city bike rides.",
-        "url": "https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2"
-      },
-      "artists": [
-        {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
-        },
-        {
-          "name": "Oliver Rees",
-          "url": "https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Cold nights and city bike rides.",
-      "url": "https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR"
-    },
-    {
-      "added_at": "2026-01-09 16:38:21",
-      "album": {
         "name": "Her Eyes",
         "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
       },
@@ -823,22 +871,6 @@
       "duration_ms": 221557,
       "name": "Orchid Design Studio",
       "url": "https://open.spotify.com/track/16kIzUJrZAFdrJwS7FG9c3"
-    },
-    {
-      "added_at": "2026-01-09 16:38:21",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/39HbPcEk6VkoDkeDhZFBnb"
-      },
-      "artists": [
-        {
-          "name": "Aguava",
-          "url": "https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid"
-        }
-      ],
-      "duration_ms": 191612,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/4hLI1F3ChsMivSIW8lwNvR"
     },
     {
       "added_at": "2026-01-09 16:38:21",
@@ -915,6 +947,22 @@
       "duration_ms": 193453,
       "name": "under the jazz tree",
       "url": "https://open.spotify.com/track/2az9x3n3OdY5D2N5K6x0zY"
+    },
+    {
+      "added_at": "2026-01-16 05:00:37",
+      "album": {
+        "name": "You'll see.",
+        "url": "https://open.spotify.com/album/7r2XhelK0TCdCqOy2mx36k"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "duration_ms": 111071,
+      "name": "You'll see.",
+      "url": "https://open.spotify.com/track/0rTMuA7XXtrfAoFPemhZ8N"
     },
     {
       "added_at": "2026-01-09 16:38:21",
@@ -1219,22 +1267,6 @@
     {
       "added_at": "2026-01-09 16:38:21",
       "album": {
-        "name": "35k",
-        "url": "https://open.spotify.com/album/5zt1HJWzyBrXpbbjPvuxs2"
-      },
-      "artists": [
-        {
-          "name": "Milan93",
-          "url": "https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg"
-        }
-      ],
-      "duration_ms": 176450,
-      "name": "35k",
-      "url": "https://open.spotify.com/track/2zetGr1iFeihczuZ4IxmS3"
-    },
-    {
-      "added_at": "2026-01-09 16:38:21",
-      "album": {
         "name": "Cours Dillon EP",
         "url": "https://open.spotify.com/album/6M2gLTva9OmO1p5OxqNHoa"
       },
@@ -1503,22 +1535,6 @@
     {
       "added_at": "2026-01-09 16:38:21",
       "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/3zuMVGJKBDFOehhzatUuV7"
-      },
-      "artists": [
-        {
-          "name": "geneva",
-          "url": "https://open.spotify.com/artist/2o7hwM029oQciNt5pyaj3i"
-        }
-      ],
-      "duration_ms": 230335,
-      "name": "nice to meet u",
-      "url": "https://open.spotify.com/track/4KSVktisrvNgo1qIJDe1lh"
-    },
-    {
-      "added_at": "2026-01-09 16:38:21",
-      "album": {
         "name": "rest",
         "url": "https://open.spotify.com/album/5Oc68WoBe2ccnCpbJ1WOYy"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 235932,
       "name": "Villa Palmera",
       "url": "https://open.spotify.com/track/2efRw4Puze8guf4W68QM7x"
-    },
-    {
-      "added_at": "2026-01-09 16:38:21",
-      "album": {
-        "name": "If You Can't Trust Your Heart",
-        "url": "https://open.spotify.com/album/2HsJVqCOokqKz6sNgFRMVr"
-      },
-      "artists": [
-        {
-          "name": "Tar Blanche",
-          "url": "https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl"
-        }
-      ],
-      "duration_ms": 178512,
-      "name": "If You Can't Trust Your Heart",
-      "url": "https://open.spotify.com/track/5ls3ZBVoHvImuSA6S971sv"
     },
     {
       "added_at": "2026-01-09 16:38:21",

@@ -562,7 +562,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 152115,
       "name": "Al Mal Paso Darle Prisa",
       "url": "https://open.spotify.com/track/7LKjqTzl7odiaRUJC5eIwn"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 173170,
       "name": "Decir Que No",
       "url": "https://open.spotify.com/track/1NZM5iJCYBrQ4m9E7pPYsC"
@@ -8231,6 +8231,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/5XUaQt6L1MW8eogTEUQgyF"
+      },
+      "artists": [
+        {
+          "name": "Electrify",
+          "url": "https://open.spotify.com/artist/4Hf6DxoplRHxpz1Mh2DRDi"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169423,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0GxSmOPT9gml7M2n5SSUk9"
+    },
+    {
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/1OGvSBpVtEOfSyqRynLotb"
       },
@@ -8906,7 +8924,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 134031,
       "name": "M\u00e9xico Libre",
       "url": "https://open.spotify.com/track/4Da0sxKYH394GEov6ZdjZX"
@@ -11520,7 +11538,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 198485,
       "name": "Sem\u00e1foros",
       "url": "https://open.spotify.com/track/5PygqjBQXQEzmDVKzX9zLB"
@@ -13029,6 +13047,24 @@
     },
     {
       "album": {
+        "name": "Trueno",
+        "url": "https://open.spotify.com/album/45rYlbwuN3TOtQILdlhNiU"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211984,
+      "name": "Trueno",
+      "url": "https://open.spotify.com/track/74wsNBsGTs7NjoQXaEk4Ga"
+    },
+    {
+      "album": {
         "name": "Tsunami Mami",
         "url": "https://open.spotify.com/album/4prGltBITFIAFW7qqIgIMc"
       },
@@ -13725,6 +13761,24 @@
     },
     {
       "album": {
+        "name": "Vidas Felices",
+        "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234933,
+      "name": "Vidas Felices",
+      "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
+    },
+    {
+      "album": {
         "name": "Viento A Favor",
         "url": "https://open.spotify.com/album/63ucox09YcIhZ88girC44I"
       },
@@ -13780,6 +13834,32 @@
       "duration_ms": 195317,
       "name": "vitaminas",
       "url": "https://open.spotify.com/track/1uQTZD3fC0WJJW9mogGS13"
+    },
+    {
+      "album": {
+        "name": "VIVA M\u00c9XICO",
+        "url": "https://open.spotify.com/album/4Gp4XjYDMPh6chsHcm0chk"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207109,
+      "name": "VIVA M\u00c9XICO",
+      "url": "https://open.spotify.com/track/2kh6djQUWo8pqR8FagrMaA"
     },
     {
       "album": {

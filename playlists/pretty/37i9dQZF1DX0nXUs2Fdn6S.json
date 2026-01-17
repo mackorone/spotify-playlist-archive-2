@@ -1,12 +1,12 @@
 {
   "description": "Best of the EDM scene in India. Cover- Nucleya",
-  "num_followers": 37425,
+  "num_followers": 37438,
   "original_name": "EDM in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAQXrj3cfvehfVU5DJblv4fLDKnP",
+  "snapshot_id": "AAAAALhoCPc94NBsOEVEAYO/xmCMy1vO",
   "tracks": [
     {
       "added_at": "2026-01-15 06:32:04",
@@ -27,6 +27,22 @@
       "duration_ms": 205128,
       "name": "Diggi Bumba",
       "url": "https://open.spotify.com/track/5Mw91jYPnrCj49eF0O9CY9"
+    },
+    {
+      "added_at": "2026-01-16 09:18:24",
+      "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/6QQILo7GjRRqXlKsgoF3B1"
+      },
+      "artists": [
+        {
+          "name": "Aatma",
+          "url": "https://open.spotify.com/artist/6zaWFQYU5em3iUkjvzbF70"
+        }
+      ],
+      "duration_ms": 218999,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/1uTUkqfimheOAVA0mi9Bp3"
     },
     {
       "added_at": "2026-01-05 07:00:42",

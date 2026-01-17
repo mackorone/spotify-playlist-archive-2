@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: KIRINJI
 
-2,931 songs - 7 day 15 hr 31 min
+2,932 songs - 7 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,7 +774,7 @@
 | [iPX](https://open.spotify.com/track/1zXxvSZvkPdHuWCVzKuVPX) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Podium](https://open.spotify.com/album/6o77fZj73QcB51LBaIli1v) | 2:39 | 2025-08-26 | 2025-12-03 |
 | [Irie](https://open.spotify.com/track/3sx006zaXSbCKkqIZJAB7I) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 3:00 | 2024-01-11 | 2024-02-28 |
 | [irk](https://open.spotify.com/track/1v5w6qzUug2apEg3PUsOY7) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [WH3Nwh3re](https://open.spotify.com/album/6gwVTUoyp5t5FY9NE17oHx) | 3:44 | 2023-03-21 | 2023-03-29 |
-| [Is There A Place For You There?](https://open.spotify.com/track/5eWhdtbo3MkD7gTNLxI8yx) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Is There A Place For You There?](https://open.spotify.com/album/5abd0pNQtTTfryxayijgcd) | 4:31 | 2025-11-18 |  |
+| [Is There A Place For You There?](https://open.spotify.com/track/5eWhdtbo3MkD7gTNLxI8yx) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Is There A Place For You There?](https://open.spotify.com/album/5abd0pNQtTTfryxayijgcd) | 4:31 | 2025-11-18 | 2026-01-17 |
 | [ISEI \- Live](https://open.spotify.com/track/5yqfQrV58tECLnLjus0rHr) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [ISEI \(Live\)](https://open.spotify.com/album/0R0u6CpTlOXPtwmO7AS4iz) | 4:13 | 2023-08-01 | 2023-08-16 |
 | [Ishibiki Geba Geba Ondo \(feat\. Takefumi Tsujimura\)](https://open.spotify.com/track/6wTGnYp7DJxqHVLECwz0ku) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [Takefumi Tsujimura](https://open.spotify.com/artist/05TvTWVEFhrx2BWQOcaUAW) | [Ishibiki Geba Geba Ondo](https://open.spotify.com/album/72Z6zxXIjwK135VjP1iAcf) | 3:35 | 2025-08-05 | 2025-08-13 |
 | [Isshoukonomama](https://open.spotify.com/track/60cWyPsmoAicYR6UHQyqoI) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Isshoukonomama](https://open.spotify.com/album/4HuZRJ6P8hZxYhQ7CsHfVh) | 4:43 | 2023-05-30 | 2023-06-07 |
@@ -2364,6 +2364,7 @@
 | [リビド](https://open.spotify.com/track/2DPqDCOLt5u9vgPsBeeZHu) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [感情](https://open.spotify.com/album/5wVKcfeOtX715KlsMQkw8C) | 2:41 | 2023-03-30 | 2023-05-12 |
 | [リベットタウンズのテーマ](https://open.spotify.com/track/3F7HegU58tbsYHrRN4ad9p) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [リベットタウンズのテーマ](https://open.spotify.com/album/70IbflLHcN9JJj6qErZacQ) | 3:13 | 2024-01-30 | 2024-02-07 |
 | [リンゴ追分](https://open.spotify.com/track/4caPlbVKbDntPzz7lcklCj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [CHO CO PA：EAST ASIA oldies EP](https://open.spotify.com/album/0D8fkxFhJiJR6EkKMMAZlC) | 2:53 | 2025-08-12 | 2025-10-02 |
+| [レイトショー](https://open.spotify.com/track/0vBN7N4VpU6yJ6THuE3iBO) | [Scenarioart](https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV) | [レイトショー](https://open.spotify.com/album/1mM8yoGhTrXmosZca4f8ci) | 3:36 | 2026-01-15 |  |
 | [レシピ](https://open.spotify.com/track/3ECTyAN9W3jCqlNxco25FG) | [Kaco](https://open.spotify.com/artist/5uWUJPAFWreFPks7f3wtMx) | [SOiL SENSOR](https://open.spotify.com/album/06FB0btwvjWzDlTnHgYulJ) | 4:33 | 2024-09-24 | 2024-10-02 |
 | [レモンの木](https://open.spotify.com/track/22cZMx1wzOboK8vVJXi3z7) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [レモンの木](https://open.spotify.com/album/5OCK4rMTJecriIbElabgg8) | 5:17 | 2023-01-12 | 2023-01-25 |
 | [レンタカー](https://open.spotify.com/track/0eG7zHxyIo0Lk2hJBGb0NG) | [山二つ](https://open.spotify.com/artist/0VmvWJ3kETXL0UFmXYj2lB) | [レンタカー](https://open.spotify.com/album/6iNrTaMzCoWOzByqzkiZxs) | 3:01 | 2023-08-08 | 2023-08-10 |

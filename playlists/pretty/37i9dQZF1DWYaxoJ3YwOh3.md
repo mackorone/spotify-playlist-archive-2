@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,542 likes - 121 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,593 likes - 121 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 120 | [Tranquil Desert Sanctuary](https://open.spotify.com/track/6STx8DlaC9NmtMOthYMiHO) | [Lydia Willowspring](https://open.spotify.com/artist/3koEhAoIFAoNCSP2vB9u7P) | [Secret of Arabic Healing Massage \(Oriental Spa, Eastern Relaxing Drums, Ethnic Journey\)](https://open.spotify.com/album/0QZAbFoGd9fBfsUigysXex) | 3:54 |
 | 121 | [Old Kingdom](https://open.spotify.com/track/0E2VhScNmFuE6K2Xt6dD7k) | [Duduk Tribe](https://open.spotify.com/artist/3dq4MRFFVkVm6MGSnhRW56) | [Old Kingdom](https://open.spotify.com/album/2KdvKkkVIb91ILygYzVzVg) | 3:58 |
 
-Snapshot ID: `AAAAAFyUbIQzrxMUx9Z44/yEpD3yjLyH`
+Snapshot ID: `AAAAAJzOvZJBg9kbZX0q46XTUhPRSFAL`

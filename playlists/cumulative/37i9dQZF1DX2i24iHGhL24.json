@@ -6983,6 +6983,24 @@
     },
     {
       "album": {
+        "name": "Take On Me",
+        "url": "https://open.spotify.com/album/6gfeC67BKpG7U2ImKTuCXH"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219281,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/25EhSAtPhtbC2AwhvmDHj6"
+    },
+    {
+      "album": {
         "name": "Taylor Swift 1989 Medley",
         "url": "https://open.spotify.com/album/6db7iWQUXALMDTVzRcOGpy"
       },

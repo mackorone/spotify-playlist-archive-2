@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Pers\u00e9ide",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Goodbye Karelle",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "CAM / LO",
+        "url": "https://open.spotify.com/album/2qmBgWtRXyUYPQSbgHbj2T"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198960,
+      "name": "CAM",
+      "url": "https://open.spotify.com/track/6pgWrHesm9CcgnojYVNfIT"
+    },
+    {
+      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -1257,6 +1275,28 @@
     },
     {
       "album": {
+        "name": "Soleil m\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/05E8nV4jttlse9c9COMaCR"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        },
+        {
+          "name": "Orlanda",
+          "url": "https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240933,
+      "name": "Comme un refrain",
+      "url": "https://open.spotify.com/track/2MkA4ZOZC3xrUVj3jiVQkX"
+    },
+    {
+      "album": {
         "name": "Journ\u00e9e ordinaire / Comment se perdre",
         "url": "https://open.spotify.com/album/0mt908UFb2yiqgYyC5aG2t"
       },
@@ -1618,7 +1658,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 180940,
       "name": "DJURDJURA (\u2d35\u2d55\u2d35\u2d55)",
       "url": "https://open.spotify.com/track/2ujBLe4yOaxiSCNQ2Wlqmv"
@@ -1798,7 +1838,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 166777,
       "name": "D\u00e9serteur",
       "url": "https://open.spotify.com/track/2orWAlWMMzeBJBB1MjGXwz"
@@ -2000,7 +2040,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 127960,
       "name": "Fais Peu",
       "url": "https://open.spotify.com/track/7Eu5vID0fgh4AWxj89pCeK"
@@ -2184,6 +2224,24 @@
       "duration_ms": 156903,
       "name": "Fous-moi la paix!",
       "url": "https://open.spotify.com/track/69qa3Ur4XfCeuKAzWy2urA"
+    },
+    {
+      "album": {
+        "name": "Knuckle Breaker Maxxx",
+        "url": "https://open.spotify.com/album/5KrARfNHWfiWx6QQu11XFD"
+      },
+      "artists": [
+        {
+          "name": "Goodbye Karelle",
+          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181766,
+      "name": "Funny People",
+      "url": "https://open.spotify.com/track/4rB1P6Rfdf3QEhMxDk0Tfx"
     },
     {
       "album": {
@@ -2798,6 +2856,24 @@
       "duration_ms": 179226,
       "name": "Jean Leloup",
       "url": "https://open.spotify.com/track/3aRWjiMW0DciMKc2BJJWpM"
+    },
+    {
+      "album": {
+        "name": "LOUIS-CHARLES II",
+        "url": "https://open.spotify.com/album/5wN8YooaUGu6Y7uhEuSz8i"
+      },
+      "artists": [
+        {
+          "name": "Louis-Charles",
+          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180529,
+      "name": "Jeune chien",
+      "url": "https://open.spotify.com/track/6BZ8Eq0dl6jQmmkfWHlAzu"
     },
     {
       "album": {
@@ -3547,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "CAM / LO",
+        "url": "https://open.spotify.com/album/2qmBgWtRXyUYPQSbgHbj2T"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216520,
+      "name": "LO",
+      "url": "https://open.spotify.com/track/2KWwluiKtSS8qtWiLlWALH"
+    },
+    {
+      "album": {
         "name": "longue nuit / grande maison",
         "url": "https://open.spotify.com/album/36wJyDURMA22nGnkNy4Pg9"
       },
@@ -3558,7 +3652,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 259842,
       "name": "longue nuit / grande maison",
       "url": "https://open.spotify.com/track/3FHuKUUy0hu791gD9cDnGE"
@@ -5882,7 +5976,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 138613,
       "name": "Tranquillit\u00e9 I",
       "url": "https://open.spotify.com/track/4AOXgIeWoxQQpJY5op1AAj"

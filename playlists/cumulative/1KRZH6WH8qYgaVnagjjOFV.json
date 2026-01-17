@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "demons",
+        "url": "https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190126,
+      "name": "demons",
+      "url": "https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS"
+    },
+    {
+      "album": {
         "name": "Desperate",
         "url": "https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87"
       },
@@ -1328,6 +1346,24 @@
       "duration_ms": 161201,
       "name": "I Love Jesus",
       "url": "https://open.spotify.com/track/2dppBpYsyfUJUNbTDoxq1a"
+    },
+    {
+      "album": {
+        "name": "I Still Choose You",
+        "url": "https://open.spotify.com/album/54W2okGfjHrV9WRA9HDye5"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268109,
+      "name": "I Still Choose You",
+      "url": "https://open.spotify.com/track/6jeIRXvir9UGLDpz1cmpbq"
     },
     {
       "album": {
@@ -2618,6 +2654,28 @@
       "duration_ms": 423193,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z"
+    },
+    {
+      "album": {
+        "name": "The Blood",
+        "url": "https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "JJ Hasulube",
+          "url": "https://open.spotify.com/artist/3epL8FrGyUZCdczz2dU1Wh"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516963,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF"
     },
     {
       "album": {

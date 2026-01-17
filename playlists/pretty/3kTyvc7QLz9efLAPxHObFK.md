@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,778 songs - 6 day 0 hr 17 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,792 songs - 6 day 0 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2786,5 +2786,19 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2776 | [I Could Be Yoshi](https://open.spotify.com/track/7MV3EmKme75bPXxqmm30j9) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [I Could Be Yoshi](https://open.spotify.com/album/2xdP9mWsFnLLN2gZpT2Tjd) | 2:36 |
 | 2777 | [Louder Generation \- LG x BR 2026 OST](https://open.spotify.com/track/21Y3KjRN9KPgtfJtmk2zez) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Louder Generation \(LG x BR 2026 OST\)](https://open.spotify.com/album/2K3wYcPvJm7kRvGP84TD7t) | 2:40 |
 | 2778 | [Turn Me On](https://open.spotify.com/track/20k7Iq2ZJJ8SM4reMsTZAZ) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8), [Jennster](https://open.spotify.com/artist/3Ob9ALxU5OGbFvCKmnGk8P) | [Turn Me On](https://open.spotify.com/album/4EstfbQMk9cbD9Sbt7nfhE) | 2:31 |
+| 2779 | [Future](https://open.spotify.com/track/3L2vyh7WamSdAHQBfTKHl1) | [Aalst](https://open.spotify.com/artist/3Zu76XPlKrtaPOJx9AlwtZ), [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD) | [Dragonized EP](https://open.spotify.com/album/6LvBrhpfzXPRngUuRAnh4p) | 2:35 |
+| 2780 | [Bass Breaker](https://open.spotify.com/track/2NL26mT6WAImqJxcbb0Dct) | [Flinke Herrie](https://open.spotify.com/artist/2zASDu4ug3FvTxk93z1xuv) | [Bass Breaker](https://open.spotify.com/album/3nqgSuojYuV5yLw3ZIuXBp) | 1:45 |
+| 2781 | [Lights Out](https://open.spotify.com/track/0fcsKTgOGu82QjqVAx19kr) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Udow](https://open.spotify.com/artist/0ks7tKbD7vxmutoXPuwxnB) | [Lights Out](https://open.spotify.com/album/3XeKeJUR7QkMkJHj5ho2NJ) | 2:24 |
+| 2782 | [Last Forever](https://open.spotify.com/track/47OWOHiRi4w1fBe4uBRjYS) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Enveak](https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS), [SHOWTEKNO](https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD) | [Last Forever](https://open.spotify.com/album/48FA4RmvpytF7nAwQneFhO) | 3:15 |
+| 2783 | [亡者の宴](https://open.spotify.com/track/3JtlmSbqSR1JtW9z601MuI) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [亡者の宴](https://open.spotify.com/album/73UJtNedBahHC7yYfJ8m2F) | 2:18 |
+| 2784 | [Burn](https://open.spotify.com/track/47AH0KcKyfnrpyI54U97Ih) | [Coldax](https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ) | [Burn](https://open.spotify.com/album/1xsBESDy0KsxsMRrt1EhYH) | 2:27 |
+| 2785 | [Fever](https://open.spotify.com/track/3Ch8KpuhhVREpoTNwhu8dx) | [Vengeance](https://open.spotify.com/artist/0rkZewDpEnFUDab7m5A4Tz), [Fyloh](https://open.spotify.com/artist/3VLpd6XZs2Q6OQRaIomc5h), [Timpo](https://open.spotify.com/artist/2blWHyCFa21GwZfWH6HNHw) | [Fever](https://open.spotify.com/album/5iVXH9VYpV8fJqGVXp0r2O) | 3:33 |
+| 2786 | [All Your Love](https://open.spotify.com/track/69P85beP1CyBoX43ELUErz) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0) | [All Your Love](https://open.spotify.com/album/5BaHRPO7kcKy35BHfpvMIX) | 2:16 |
+| 2787 | [End Is Near](https://open.spotify.com/track/0Hp3VsDRyfWYiRdD8nKJxo) | [Dark Entities](https://open.spotify.com/artist/1Th968ms6Z8hxh2L5lbeo2), [Incult](https://open.spotify.com/artist/0Rr5wTUt7RvHjrEDPVQvWX) | [End Is Near](https://open.spotify.com/album/40VKCCFHD8RSy1N70gY2GU) | 2:13 |
+| 2788 | [When The Lights Go Low](https://open.spotify.com/track/7BKoKWBwNOwBHE7jCTnESv) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [When The Lights Go Low](https://open.spotify.com/album/2gzFS7PAj8d1n1SaLktbVd) | 2:04 |
+| 2789 | [What's Up](https://open.spotify.com/track/2QeFiaBwE1TEywZ0shVv8j) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [What's Up](https://open.spotify.com/album/7yv2E8Apa43sxs8WJ7z8XF) | 2:11 |
+| 2790 | [BACK TO LIFE](https://open.spotify.com/track/7sAq8xjVQnDhrZOMhamWnt) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp), [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr) | [BACK TO LIFE](https://open.spotify.com/album/3pWdq6D1fx54VQDJ6rQytB) | 2:29 |
+| 2791 | [The One Who Knocks](https://open.spotify.com/track/5nqGAwZfQSUwCRyIqpkIok) | [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [The One Who Knocks](https://open.spotify.com/album/76Vm6aMc5MNwd4inGE5Ppu) | 3:40 |
+| 2792 | [PUMP THE MUSIC](https://open.spotify.com/track/7LE3CsLJSY6un9R4JWB1rj) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [PUMP THE MUSIC](https://open.spotify.com/album/41AUfrg6qZ5cvRlqL7oKJ4) | 2:57 |
 
-Snapshot ID: `AAALKcuNUJtke8lt350Xf6OzWNzU6HZy`
+Snapshot ID: `AAALN3nKEZsgOV8H4GjGeAo70mdEJrmM`

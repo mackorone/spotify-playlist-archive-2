@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯\. Photo : LYNN
 
-500 songs - 1 day 0 hr 35 min
+501 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A quoi on joue ?](https://open.spotify.com/track/1ypcBViKKuS0UjHphXw6JK) | [Sev7en](https://open.spotify.com/artist/0XpWrR4q18M7bWY8Qp4jv9) | [A quoi on joue ?](https://open.spotify.com/album/0hICOSl2tqgLqvR8p1fLeL) | 2:53 | 2024-08-29 | 2024-09-27 |
 | [A toi](https://open.spotify.com/track/3B2ijizmagthifN7M7F4Zf) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [A toi](https://open.spotify.com/album/1TaHz0GIQppm4JsyLhobCJ) | 3:19 | 2023-09-28 | 2024-05-24 |
 | [A.R.T](https://open.spotify.com/track/5JFuGNMZUtrkBCR7Ok1Ja1) | [Benael](https://open.spotify.com/artist/2XESQbOkyMD8fnp24q07Id) | [ODYSSÉE](https://open.spotify.com/album/6i5YBIJkkUC8XCnpCpJdmf) | 3:46 | 2025-04-24 | 2025-05-30 |
-| [AALACH](https://open.spotify.com/track/6Kpo1jIjaB7PxfXgz4JLEk) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [](https://open.spotify.com/album/null) | 3:31 | 2026-01-15 |  |
+| [AALACH](https://open.spotify.com/track/6Kpo1jIjaB7PxfXgz4JLEk) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [ZMIG](https://open.spotify.com/album/688e1LKDyb3Zqoo4hpMwch) | 3:31 | 2026-01-15 |  |
 | [Ailleurs](https://open.spotify.com/track/396897EBfjcx50PfGAoLpc) | [Bénédicte](https://open.spotify.com/artist/4dRyS2jQjd70QFlMGQ0KJT) | [Ailleurs](https://open.spotify.com/album/3CAFjmHD3y17tBQHUgM5SQ) | 2:30 | 2025-12-04 |  |
 | [ALL NIGHT](https://open.spotify.com/track/6XuGjia8QCdV8G4PCxZNMV) | [thaHomey](https://open.spotify.com/artist/5N2P9zB8202SrtnWCjqe1j), [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [ALL NIGHT](https://open.spotify.com/album/6AH5ng5DGy5bvEdIpohvyC) | 2:50 | 2024-09-19 | 2024-10-25 |
 | [American Lover](https://open.spotify.com/track/5rPQtmG7DPQa3lRYAPc6B9) | [Aszul](https://open.spotify.com/artist/2IQSsvzilwzPzSDybnqAII) | [American Lover](https://open.spotify.com/album/3rmvnJO1F6ehtVPFoFTI6k) | 1:51 | 2024-02-08 | 2024-03-08 |
@@ -156,6 +156,7 @@
 | [Faire Mieux](https://open.spotify.com/track/59fnX2XFGGKC8xhSrZcRt6) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok), [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Faire Mieux](https://open.spotify.com/album/06zpOo8JdyED6lebE1GFR2) | 3:22 | 2025-08-07 |  |
 | [Fallait pas](https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Fallait pas](https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15) | 2:38 | 2023-09-28 | 2023-12-08 |
 | [Fan2moi](https://open.spotify.com/track/5LYfPoYcUWiZMUv1LXdsHx) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT) | 3:10 | 2025-11-20 | 2026-01-02 |
+| [Fantôme](https://open.spotify.com/track/1sv04kUYXAD92I4U37J8IT) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [Rare I](https://open.spotify.com/album/04Pj2FsURb6wr4AIaXEF8f) | 3:24 | 2026-01-15 |  |
 | [FAR AWAY](https://open.spotify.com/track/2v16Grluo6s9UyN1sfumCc) | [Cloé Mailly](https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG), [E\-WHIZZ](https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP) | [CLOSURE / FAR AWAY](https://open.spotify.com/album/0BT7WC1eD6jjx0bc6BYLOi) | 3:12 | 2025-08-07 | 2025-10-03 |
 | [FEU](https://open.spotify.com/track/4QgD0HU3APilEvKMGtKWWi) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [FEU](https://open.spotify.com/album/5lxVTi7KP1uChiFZbDZF0B) | 2:34 | 2024-08-08 | 2024-08-30 |
 | [Fils de \(Sans Valentin\)](https://open.spotify.com/track/3iIW06aZGly2F0ViQigqEt) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV) | [Fils de \(Sans Valentin\)](https://open.spotify.com/album/5YpWbeDdxKkXBXfroGETc4) | 1:41 | 2025-02-13 | 2025-02-28 |

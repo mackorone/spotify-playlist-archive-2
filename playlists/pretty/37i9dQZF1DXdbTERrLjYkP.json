@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Julia Campbell",
-  "num_followers": 219039,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Iris Copperman",
+  "num_followers": 219040,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQIuFQykFbsbiTUyJLnT4skWTJW",
+  "snapshot_id": "AAAAALWBjfRKDkPmoXVwE/s/svv1cbDa",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Struggle Bus",
+        "url": "https://open.spotify.com/album/5o1IL5QWTnJ1oOAVBsy9av"
+      },
+      "artists": [
+        {
+          "name": "Iris Copperman",
+          "url": "https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD"
+        }
+      ],
+      "duration_ms": 200035,
+      "name": "Struggle Bus",
+      "url": "https://open.spotify.com/track/7rliwqjbmK8JOFZOHYcQvv"
+    },
     {
       "added_at": "2026-01-06 19:25:50",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 145129,
       "name": "Almost Did",
       "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
+    },
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Tell Me It's Over",
+        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Tell Me It's Over",
+      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
+    },
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Shhugar",
+        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 213552,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
     },
     {
       "added_at": "2026-01-06 19:25:50",
@@ -41,6 +89,54 @@
       "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
     },
     {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "added_at": "2026-01-16 20:25:36",
+      "album": {
+        "name": "Delicate",
+        "url": "https://open.spotify.com/album/6IzHZRG3QPdefJQourL6FH"
+      },
+      "artists": [
+        {
+          "name": "Lucy Blue",
+          "url": "https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/7ekw9FblMWIhWEUF0nDTFI"
+    },
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Games",
+        "url": "https://open.spotify.com/album/0qhjCNkQX5WQGFcY3ZOOfG"
+      },
+      "artists": [
+        {
+          "name": "Ian Harrison",
+          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+        }
+      ],
+      "duration_ms": 170313,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw"
+    },
+    {
       "added_at": "2026-01-06 19:25:50",
       "album": {
         "name": "Thinking \u2018bout You",
@@ -55,6 +151,22 @@
       "duration_ms": 140586,
       "name": "Thinking \u2018bout You",
       "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
+    },
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Baby Just Be",
+        "url": "https://open.spotify.com/album/7FQvxpYqB5FSr34Fi6JFgZ"
+      },
+      "artists": [
+        {
+          "name": "Hudson Ingram",
+          "url": "https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo"
+        }
+      ],
+      "duration_ms": 226244,
+      "name": "Baby Just Be",
+      "url": "https://open.spotify.com/track/3500z3pULXj7gW4xP7TnvF"
     },
     {
       "added_at": "2025-11-21 05:00:30",
@@ -73,6 +185,38 @@
       "url": "https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1"
     },
     {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Please Don't Hate Me",
+        "url": "https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "duration_ms": 201063,
+      "name": "Please Don't Hate Me",
+      "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
+    },
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "nobody cares",
+        "url": "https://open.spotify.com/album/12X2X5Jezr8aKMmn7eiFqp"
+      },
+      "artists": [
+        {
+          "name": "natalie jinju",
+          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
+        }
+      ],
+      "duration_ms": 168864,
+      "name": "nobody cares",
+      "url": "https://open.spotify.com/track/4U8hzIkAh6cNEvbYF435Cn"
+    },
+    {
       "added_at": "2026-01-06 19:25:50",
       "album": {
         "name": "Blood On Your Hands",
@@ -87,6 +231,22 @@
       "duration_ms": 183354,
       "name": "Blood On Your Hands",
       "url": "https://open.spotify.com/track/1Fpddj7WijZoyPLhPhHIUu"
+    },
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Lost in LA",
+        "url": "https://open.spotify.com/album/0lSD9LGgmhcLMiCqhkCEiV"
+      },
+      "artists": [
+        {
+          "name": "Jordan Anthony",
+          "url": "https://open.spotify.com/artist/5Ec9nF9JPvOgcpQv8NlNay"
+        }
+      ],
+      "duration_ms": 205941,
+      "name": "Lost in LA",
+      "url": "https://open.spotify.com/track/1C1BSzlhjqAE3SMSXjV8N0"
     },
     {
       "added_at": "2025-12-09 22:19:13",
@@ -135,6 +295,22 @@
       "duration_ms": 234699,
       "name": "In Between",
       "url": "https://open.spotify.com/track/6MpH0CFS4ikDVF8nc8mEY3"
+    },
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Hospital Bed",
+        "url": "https://open.spotify.com/album/18FqEy2pIYINLHHVIhfZiX"
+      },
+      "artists": [
+        {
+          "name": "RobinAugust",
+          "url": "https://open.spotify.com/artist/5hl8GAitB1dur2som3Z6CW"
+        }
+      ],
+      "duration_ms": 196837,
+      "name": "Hospital Bed",
+      "url": "https://open.spotify.com/track/5p6RDcjE7idytdlwmZqGkI"
     },
     {
       "added_at": "2026-01-06 19:25:50",
@@ -231,22 +407,6 @@
       "duration_ms": 209230,
       "name": "Is A Woman\u2019s Body Not A Ritual?",
       "url": "https://open.spotify.com/track/0HFOCcewLjTDEJsmyJubYG"
-    },
-    {
-      "added_at": "2025-10-31 04:00:38",
-      "album": {
-        "name": "Running Back To You",
-        "url": "https://open.spotify.com/album/4TQlcl49wK4KU62EI7X792"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Running Back To You",
-      "url": "https://open.spotify.com/track/4ftn9eICouTLrae4eVv5A7"
     },
     {
       "added_at": "2025-11-07 05:00:50",
@@ -681,22 +841,6 @@
       "url": "https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ"
     },
     {
-      "added_at": "2025-09-12 04:20:00",
-      "album": {
-        "name": "Just Like Us",
-        "url": "https://open.spotify.com/album/4rm9TMVQIUkgLHLs9TldWD"
-      },
-      "artists": [
-        {
-          "name": "Karly Bowman",
-          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
-        }
-      ],
-      "duration_ms": 195154,
-      "name": "Just Like Us",
-      "url": "https://open.spotify.com/track/7sQtaWzxpZZe4BDAYyGotk"
-    },
-    {
       "added_at": "2025-09-19 04:00:25",
       "album": {
         "name": "Misbehave",
@@ -711,22 +855,6 @@
       "duration_ms": 145186,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b"
-    },
-    {
-      "added_at": "2025-09-05 04:00:31",
-      "album": {
-        "name": "Matches & Gasoline",
-        "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 287063,
-      "name": "Matches & Gasoline",
-      "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -825,22 +953,6 @@
       "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
     },
     {
-      "added_at": "2025-09-05 04:00:31",
-      "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/6G0HyqDV6Iu7V7MDusQ2Be"
-      },
-      "artists": [
-        {
-          "name": "Rachel Harlow",
-          "url": "https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r"
-        }
-      ],
-      "duration_ms": 207758,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H"
-    },
-    {
       "added_at": "2025-08-29 04:00:40",
       "album": {
         "name": "Closer",
@@ -855,38 +967,6 @@
       "duration_ms": 204153,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1ikNsb06HbYG5wsHddxWGW"
-    },
-    {
-      "added_at": "2025-09-12 04:00:17",
-      "album": {
-        "name": "Powerful",
-        "url": "https://open.spotify.com/album/65UihlYgSsnfbvph1lZmdx"
-      },
-      "artists": [
-        {
-          "name": "Citizen Papes",
-          "url": "https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Powerful",
-      "url": "https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "coming around",
-        "url": "https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq"
-      },
-      "artists": [
-        {
-          "name": "fliss",
-          "url": "https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "coming around",
-      "url": "https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

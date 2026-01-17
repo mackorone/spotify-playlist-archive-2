@@ -1,13 +1,61 @@
 {
   "description": "New releases for the kids. Cover: PoppyNoji",
-  "num_followers": 85480,
+  "num_followers": 85558,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHwJXi21TI+RdjNrP979I3Nt/Eq6",
+  "snapshot_id": "AAAAACORUh5uRmk2XnuTi6lQqH2jWTMa",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Ask For Help!",
+        "url": "https://open.spotify.com/album/7nMeYBSmyRowTQNWvfOpUV"
+      },
+      "artists": [
+        {
+          "name": "Snuggle Bunch",
+          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Ask For Help!",
+      "url": "https://open.spotify.com/track/7hsjnCQkQdIJNvLfiao6zP"
+    },
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Stronger (Peppa's Version)",
+        "url": "https://open.spotify.com/album/2bltUVz7Qu8hEDrq2umLzS"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 202405,
+      "name": "Stronger (Peppa's Version)",
+      "url": "https://open.spotify.com/track/7wuzARagxYWnZxUz6vZJqM"
+    },
+    {
+      "added_at": "2026-01-16 05:00:31",
+      "album": {
+        "name": "Yoga Song",
+        "url": "https://open.spotify.com/album/60dVVamx0zbXeJPH7joKeg"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 119541,
+      "name": "Yoga Song",
+      "url": "https://open.spotify.com/track/5QEZ8kZXCtA5F3J5Dh6HAI"
+    },
     {
       "added_at": "2026-01-09 05:00:45",
       "album": {

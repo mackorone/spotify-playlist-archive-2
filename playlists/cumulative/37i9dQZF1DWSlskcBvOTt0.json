@@ -5279,6 +5279,28 @@
     },
     {
       "album": {
+        "name": "Don Rosado",
+        "url": "https://open.spotify.com/album/58a8fF8y8lW1RR5eX98dTX"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227511,
+      "name": "Don Rosado",
+      "url": "https://open.spotify.com/track/2njSVgEXEDk8MFEPbu6ofn"
+    },
+    {
+      "album": {
         "name": "Don't Care Anymore",
         "url": "https://open.spotify.com/album/0mTspKDmWINKfM2gPqMmF1"
       },
@@ -6360,6 +6382,28 @@
       "duration_ms": 360270,
       "name": "EYES WIDE OPEN",
       "url": "https://open.spotify.com/track/1k0uIwMxTiL0ZZ0XPZq44b"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182479,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio"
     },
     {
       "album": {
@@ -9773,6 +9817,28 @@
     },
     {
       "album": {
+        "name": "Kamwana",
+        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152975,
+      "name": "Kamwana",
+      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
+    },
+    {
+      "album": {
         "name": "Karibu",
         "url": "https://open.spotify.com/album/3bffYGq3XpK2TMgoe0itJV"
       },
@@ -11910,7 +11976,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 156216,
       "name": "Maisha (feat. Makadem)",
       "url": "https://open.spotify.com/track/4qEnI06GT3Y7BVMnGKegIl"
@@ -16676,7 +16742,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 163902,
       "name": "Rintintin",
       "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
@@ -19974,7 +20040,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 206890,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"

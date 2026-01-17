@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,621 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,668 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bad All By Myself](https://open.spotify.com/track/3OzxSwZdBeZvGkzypS7MiN) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [Bad All By Myself](https://open.spotify.com/album/0KqcosWr5cg8RED2aVMWdn) | 3:43 |
-| 2 | [Can't Shake It](https://open.spotify.com/track/0mzkzGp6soO8mqdMxjXNt8) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Can't Shake It](https://open.spotify.com/album/4R82wUVO0IO9JujMybWwD4) | 3:29 |
-| 3 | [When Love Comes To Town](https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [When Love Comes To Town](https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3) | 4:11 |
-| 4 | [Hoodoo Woman](https://open.spotify.com/track/29rU2ADe2TBKlDePc7BWV4) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Hoodoo Woman](https://open.spotify.com/album/16E63Rm7QHoDvGcrA6848S) | 3:09 |
-| 5 | [Driftin' And Driftin'](https://open.spotify.com/track/407IbQLCqkrqTL1UcfYOFI) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [Driftin' And Driftin'](https://open.spotify.com/album/0KfGr15FToeRzYayAlbF6y) | 3:50 |
-| 6 | [Muddy Waters](https://open.spotify.com/track/0UrWr61adi0rmMxPlRgVHf) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Muddy Waters](https://open.spotify.com/album/7sgzYUuoVjD7fCyQYs0fG3) | 2:42 |
+| 1 | [Didn't I Keep Runnin'](https://open.spotify.com/track/1nH7bZ7xWEhsaSP3pax31s) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Didn't I Keep Runnin'](https://open.spotify.com/album/0G1CMLfaqiXJ39DpUHWHL2) | 4:19 |
+| 2 | [Bad All By Myself](https://open.spotify.com/track/3OzxSwZdBeZvGkzypS7MiN) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [Bad All By Myself](https://open.spotify.com/album/0KqcosWr5cg8RED2aVMWdn) | 3:43 |
+| 3 | [Can't Shake It](https://open.spotify.com/track/0mzkzGp6soO8mqdMxjXNt8) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Can't Shake It](https://open.spotify.com/album/4R82wUVO0IO9JujMybWwD4) | 3:29 |
+| 4 | [When Love Comes To Town](https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [When Love Comes To Town](https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3) | 4:11 |
+| 5 | [Hoodoo Woman](https://open.spotify.com/track/29rU2ADe2TBKlDePc7BWV4) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Hoodoo Woman](https://open.spotify.com/album/16E63Rm7QHoDvGcrA6848S) | 3:09 |
+| 6 | [Driftin' And Driftin'](https://open.spotify.com/track/407IbQLCqkrqTL1UcfYOFI) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [Driftin' And Driftin'](https://open.spotify.com/album/0KfGr15FToeRzYayAlbF6y) | 3:50 |
 | 7 | [Sweet Little Angel](https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Little Angel](https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA) | 4:44 |
 | 8 | [All Day, Everyday](https://open.spotify.com/track/2ghX9eUGJTvfbrkZhQk94N) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Ode To R.L.](https://open.spotify.com/album/0BCl4ENSu2og5YMnsGQ5T5) | 2:40 |
 | 9 | [Tougher Now](https://open.spotify.com/track/747VrxQK7vVawAP6EDdB9f) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Tougher Now](https://open.spotify.com/album/1IFqv7FgHOD8SPQTdycrbi) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Juke Joint](https://open.spotify.com/track/3wdI9KWEqn7uXIaM1pj1L6) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH) | 2:51 |
 | 100 | [Thunderbird](https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [Thunderbird](https://open.spotify.com/album/6TQPU0JjKFlTL9H5EMJfSa) | 3:51 |
 
-Snapshot ID: `AAAAAFHRj29ek/O4guD9LepaJSrf1yUy`
+Snapshot ID: `AAAAADFDmJXUdmm93Zu6c+F5sLGtpmTu`

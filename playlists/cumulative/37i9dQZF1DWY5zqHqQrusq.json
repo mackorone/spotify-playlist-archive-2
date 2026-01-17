@@ -951,6 +951,28 @@
     },
     {
       "album": {
+        "name": "Immanuel",
+        "url": "https://open.spotify.com/album/7Kg1KwSyBFP2yNSMxeeVhj"
+      },
+      "artists": [
+        {
+          "name": "The SandBox Ug",
+          "url": "https://open.spotify.com/artist/5xPuytk2jpNmbWUL63FOj0"
+        },
+        {
+          "name": "LaMar",
+          "url": "https://open.spotify.com/artist/10QL09mFINje9hPl9Z8FW3"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Immanuel",
+      "url": "https://open.spotify.com/track/2G4Ll5uvWrFcQslYUyBLvO"
+    },
+    {
+      "album": {
         "name": "Misimu",
         "url": "https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH"
       },
@@ -1388,7 +1410,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 287217,
       "name": "Mpenzi Njoo",
       "url": "https://open.spotify.com/track/1gp4iCJLbB9ZewLTB2F0eF"
@@ -2506,7 +2528,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 154200,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0fbUhnyv8am12WLEORxJZK"
@@ -2532,6 +2554,32 @@
       "duration_ms": 161142,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/10tynOIFqckNWnTwKoydlU"
+    },
+    {
+      "album": {
+        "name": "Wild Fire",
+        "url": "https://open.spotify.com/album/3P0EiEK7f7qGnImyINOKlu"
+      },
+      "artists": [
+        {
+          "name": "Sasha Shlain",
+          "url": "https://open.spotify.com/artist/4CC6yEE48Z0O0YdTrqtkAv"
+        },
+        {
+          "name": "Chemutai Sage",
+          "url": "https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx"
+        },
+        {
+          "name": "SocraTess",
+          "url": "https://open.spotify.com/artist/0mzvlQnjgwxlWSeAUyd9iB"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324534,
+      "name": "Wild Fire",
+      "url": "https://open.spotify.com/track/2IlLqx0326Pp2R97v4KbeK"
     },
     {
       "album": {

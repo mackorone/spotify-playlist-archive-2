@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Open Road",
+        "url": "https://open.spotify.com/album/2xXH1zI5UN7on12TNw5DDI"
+      },
+      "artists": [
+        {
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448750,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/2vMbUpZAvOaFWpX1XXZVjB"
+    },
+    {
+      "album": {
         "name": "Ornithophobia",
         "url": "https://open.spotify.com/album/71i59tB4Mw5xifmg0RRIoq"
       },

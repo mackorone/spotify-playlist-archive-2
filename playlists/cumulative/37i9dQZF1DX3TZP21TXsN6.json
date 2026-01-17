@@ -503,6 +503,32 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/7k5hAqo2RD5hxBcfxObuyJ"
+      },
+      "artists": [
+        {
+          "name": "Clep N Flyy",
+          "url": "https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq"
+        },
+        {
+          "name": "Miero YIC",
+          "url": "https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ"
+        },
+        {
+          "name": "Lonewalker",
+          "url": "https://open.spotify.com/artist/6Bm9NFs6gGm9PXRjetlQAS"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206471,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/2rQExsHGxdepLIvwyLN0C3"
+    },
+    {
+      "album": {
         "name": "All Season",
         "url": "https://open.spotify.com/album/01M79LszNX9hts5cPSPzy8"
       },
@@ -6364,24 +6390,6 @@
       "duration_ms": 163265,
       "name": "TOXIC FIGHT",
       "url": "https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Clep N Flyy",
-          "url": "https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq"
-        }
-      ],
-      "date_added": "2026-01-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2rQExsHGxdepLIvwyLN0C3"
     },
     {
       "album": {

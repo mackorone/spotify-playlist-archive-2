@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "A Mutual Friend",
+        "url": "https://open.spotify.com/album/2iXXIsxR5dYhxMGAdrhK74"
+      },
+      "artists": [
+        {
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220250,
+      "name": "A Mutual Friend",
+      "url": "https://open.spotify.com/track/0oo7APt2BwlH2DvLo163xC"
+    },
+    {
+      "album": {
         "name": "A Nightingale Sang In Berkeley Square",
         "url": "https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj"
       },
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 208791,
       "name": "Clean Break Idea",
       "url": "https://open.spotify.com/track/7KMAWlB6RcWmlLW62FDtvy"
@@ -7067,6 +7085,24 @@
     },
     {
       "album": {
+        "name": "If Love Were True",
+        "url": "https://open.spotify.com/album/0uoxAwMmCTLHQKaBQwm0Rc"
+      },
+      "artists": [
+        {
+          "name": "The Indigo Trio",
+          "url": "https://open.spotify.com/artist/3X8jbykM6jKWuKKSzQ6kCb"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299732,
+      "name": "If Love Were True",
+      "url": "https://open.spotify.com/track/4avAhF6hI8GUB6PAUlgHJc"
+    },
+    {
+      "album": {
         "name": "If You & I",
         "url": "https://open.spotify.com/album/5hdgLxWOdgZGJaqTPOLiku"
       },
@@ -8759,6 +8795,24 @@
     },
     {
       "album": {
+        "name": "Linen skies",
+        "url": "https://open.spotify.com/album/6MhlekMWZYNNXEKCY7Ag08"
+      },
+      "artists": [
+        {
+          "name": "Clifford Randall",
+          "url": "https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173922,
+      "name": "Linen skies",
+      "url": "https://open.spotify.com/track/7w8xHEII6bVO1xw6hyfDBg"
+    },
+    {
+      "album": {
         "name": "Litania",
         "url": "https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR"
       },
@@ -8914,7 +8968,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 167071,
       "name": "Lonely as a Cloud",
       "url": "https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH"
@@ -13360,7 +13414,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 236151,
       "name": "Someone",
       "url": "https://open.spotify.com/track/2GcsjMayUVpsgl0ohWhDpe"

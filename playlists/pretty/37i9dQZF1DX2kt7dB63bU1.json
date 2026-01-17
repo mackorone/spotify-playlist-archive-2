@@ -1,13 +1,105 @@
 {
   "description": "Jazz voices of today. Cover: Ledisi",
-  "num_followers": 164230,
+  "num_followers": 164253,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM0clBjyURyPC/qXmxX9kXjlkyP8",
+  "snapshot_id": "AAAAAIpwx2RWMSgTRE1gJEOT+SDfkeFu",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:18",
+      "album": {
+        "name": "Strange Magic",
+        "url": "https://open.spotify.com/album/6jN7NCBUgbPezubxOkCt3u"
+      },
+      "artists": [
+        {
+          "name": "Shai Maestro",
+          "url": "https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj"
+        },
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
+        }
+      ],
+      "duration_ms": 264698,
+      "name": "Strange Magic",
+      "url": "https://open.spotify.com/track/7BBJGgySjfGRFtEqDWEPUl"
+    },
+    {
+      "added_at": "2026-01-16 05:00:18",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 293601,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX"
+    },
+    {
+      "added_at": "2026-01-16 05:00:18",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/46QLzxv2nTdR9MwcOaEJ9z"
+      },
+      "artists": [
+        {
+          "name": "Momoko Gill",
+          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/4YGLCXZTvDZjIPtjvC2u5s"
+    },
+    {
+      "added_at": "2026-01-16 05:00:18",
+      "album": {
+        "name": "My Very Own Ride",
+        "url": "https://open.spotify.com/album/70qZS6hqpcc8kOFWkd22g0"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "duration_ms": 531662,
+      "name": "My Very Own Ride",
+      "url": "https://open.spotify.com/track/59ZAfJo35Lunuv56upvhCZ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:18",
+      "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/08KGb1DdDe5ZHqEgzD4LFV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 250237,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
+    },
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
@@ -393,26 +485,6 @@
       "url": "https://open.spotify.com/track/76go7B1eS2IEtKNmbJbsLr"
     },
     {
-      "added_at": "2025-08-08 04:00:32",
-      "album": {
-        "name": "The Glow Worm",
-        "url": "https://open.spotify.com/album/3LpGbBJIpQ8f7FxZo3K09v"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Christian Sands",
-          "url": "https://open.spotify.com/artist/1OVmnAhTevnwsr902sVIjU"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "The Glow Worm",
-      "url": "https://open.spotify.com/track/3FPKj2xihZlzsa8tWQU3i6"
-    },
-    {
       "added_at": "2025-08-01 04:13:00",
       "album": {
         "name": "West of Broadway",
@@ -763,26 +835,6 @@
       "duration_ms": 148042,
       "name": "Think of Me Softly",
       "url": "https://open.spotify.com/track/6CT3JLkpXM5B2hxgJMV0BV"
-    },
-    {
-      "added_at": "2025-04-25 04:00:40",
-      "album": {
-        "name": "Still Blooming",
-        "url": "https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "I Don't Know Why (I Just Do)",
-      "url": "https://open.spotify.com/track/0WiIGxBzkA2SvE8clbz3X0"
     },
     {
       "added_at": "2025-04-18 04:00:31",
@@ -1693,22 +1745,6 @@
       "url": "https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8"
     },
     {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/2uJBZSZBJIqHlvpzzTzXBu"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/33jGYVUxPtcfH8td6Sr3qw"
-    },
-    {
       "added_at": "2024-03-22 04:01:00",
       "album": {
         "name": "Good Nothin",
@@ -1735,26 +1771,6 @@
       "duration_ms": 267087,
       "name": "Good Nothin",
       "url": "https://open.spotify.com/track/6kXF7Mhr3HaIvkPo3h3dOs"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Swing Fever",
-        "url": "https://open.spotify.com/album/22tx1I0M6sElj88FEiBP5u"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        },
-        {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "Them There Eyes",
-      "url": "https://open.spotify.com/track/3xE65V7CCWtG368398YXVh"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1847,22 +1863,6 @@
       "duration_ms": 136725,
       "name": "Sad to Say - Snapshot - vocal theme",
       "url": "https://open.spotify.com/track/1A1VctouaYYVxnyz1IYLuB"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Embraceable",
-        "url": "https://open.spotify.com/album/4WA2EdR41dqzbluBGjIGEt"
-      },
-      "artists": [
-        {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        }
-      ],
-      "duration_ms": 169703,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/3Y5onKZN1Im4FxoTUMnEzb"
     }
   ],
   "unique_name": "Vocal Jazz",

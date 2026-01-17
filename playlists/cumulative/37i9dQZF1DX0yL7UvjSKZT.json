@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh takes on that high lonesome sound. Cover: Franklin Jonas & The Byzantines",
+  "description": "Fresh takes on that high lonesome sound. Cover: Yonder Mountain String Band",
   "name": "Indie Bluegrass",
   "tracks": [
     {
@@ -1114,6 +1114,24 @@
       "duration_ms": 166000,
       "name": "Bottom Dollar",
       "url": "https://open.spotify.com/track/4KcgeB3zlr1VadVyyRUkGq"
+    },
+    {
+      "album": {
+        "name": "Brand New Heartache",
+        "url": "https://open.spotify.com/album/2VObYfAyHCowJnvlAFJMXV"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Brand New Heartache",
+      "url": "https://open.spotify.com/track/3DBYw3xGKhDsPnI6A7PWQE"
     },
     {
       "album": {
@@ -3280,7 +3298,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 246479,
       "name": "Heart Tattoo",
       "url": "https://open.spotify.com/track/276u9yYQAnbty1ERJi7Skx"
@@ -3732,7 +3750,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 202000,
       "name": "Howl",
       "url": "https://open.spotify.com/track/3l4WkITpO5BerAC0pHBa6C"
@@ -3906,6 +3924,32 @@
       "duration_ms": 247689,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/3gr9HKI4zcCZ5ZIQNvSncs"
+    },
+    {
+      "album": {
+        "name": "I Felt Something Today",
+        "url": "https://open.spotify.com/album/5PKlbh34syqV1OQbguv4a0"
+      },
+      "artists": [
+        {
+          "name": "A Brother's Fountain",
+          "url": "https://open.spotify.com/artist/2XV2X49Lc1zEuMtYjdtVhQ"
+        },
+        {
+          "name": "Graham Good",
+          "url": "https://open.spotify.com/artist/68cQzWn73nEovfjcGt3ktw"
+        },
+        {
+          "name": "Trevor Michael",
+          "url": "https://open.spotify.com/artist/0TofxMDhVDmJPKcuabYUV0"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "I Felt Something Today",
+      "url": "https://open.spotify.com/track/3bjjDHL8jBH6QlfqZCvDSh"
     },
     {
       "album": {
@@ -5800,7 +5844,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 184000,
       "name": "One Stone",
       "url": "https://open.spotify.com/track/0jdqODVNwErfnlyVYvg22S"
@@ -6110,6 +6154,24 @@
       "duration_ms": 231385,
       "name": "Pink and Blue",
       "url": "https://open.spotify.com/track/32KDDkLofx0OsHQvAEQm3X"
+    },
+    {
+      "album": {
+        "name": "Pipe Dream",
+        "url": "https://open.spotify.com/album/3d7WmpI8xyRdnEXDyQ27TI"
+      },
+      "artists": [
+        {
+          "name": "Pert Near Sandstone",
+          "url": "https://open.spotify.com/artist/5EKtYMQpAdMk23Or1eHCvW"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229373,
+      "name": "Pipe Dream",
+      "url": "https://open.spotify.com/track/36RK2eFdpnnFRKiMvx7y87"
     },
     {
       "album": {
@@ -8402,7 +8464,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 143606,
       "name": "The Rain Done Fell on Me, Pt. 1",
       "url": "https://open.spotify.com/track/5sxEhQimCSJ6ntaNTCk1y7"
@@ -9674,7 +9736,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 150405,
       "name": "Wishes on Weeds",
       "url": "https://open.spotify.com/track/3VZgH2Mo2J6btWLU7kakQh"

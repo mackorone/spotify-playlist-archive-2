@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Maggie Antone",
+  "description": "A new shade of Country. Cover: Flatland Cavalry",
   "name": "Indigo",
   "tracks": [
     {
@@ -2060,6 +2060,24 @@
       "duration_ms": 220039,
       "name": "Can't Do This No More",
       "url": "https://open.spotify.com/track/6gFjIEEkRARKGavCqFJNLW"
+    },
+    {
+      "album": {
+        "name": "Can't Figure It Out",
+        "url": "https://open.spotify.com/album/5VXhEL6umZ9VChyHbTV57A"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218650,
+      "name": "Can't Figure It Out",
+      "url": "https://open.spotify.com/track/33uC94sIVN2LYAI2gZ9nqh"
     },
     {
       "album": {
@@ -5681,6 +5699,24 @@
     },
     {
       "album": {
+        "name": "Hungry Ghost",
+        "url": "https://open.spotify.com/album/0q95uG3gV6OY6PnzR1QK2d"
+      },
+      "artists": [
+        {
+          "name": "Danny Golden",
+          "url": "https://open.spotify.com/artist/7bsQfiXcsDsx4gYfu9fqw4"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235298,
+      "name": "Hungry Ghost",
+      "url": "https://open.spotify.com/track/42RreZcf67EFcrDIC3iokc"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7EAnDm03qD0KMPbjBVeEDq"
       },
@@ -5968,6 +6004,24 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "album": {
+        "name": "I'll Hold You",
+        "url": "https://open.spotify.com/album/5zba74PgMKIfMwkiMG2mNH"
+      },
+      "artists": [
+        {
+          "name": "Drayton Farley",
+          "url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "I'll Hold You",
+      "url": "https://open.spotify.com/track/7bC2MJM3FpTK4ScOVIncmY"
     },
     {
       "album": {
@@ -6840,7 +6894,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 189786,
       "name": "Let's Get Stoned",
       "url": "https://open.spotify.com/track/7B9wYx9jtun1jrsGeCvAQA"
@@ -8081,6 +8135,24 @@
     },
     {
       "album": {
+        "name": "Never Comin' Back",
+        "url": "https://open.spotify.com/album/3gPZkCBz8sGb9OQhgSrh36"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237679,
+      "name": "Never Comin' Back",
+      "url": "https://open.spotify.com/track/1wQaPoRJ0Ip6MtNxTlA3SY"
+    },
+    {
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw"
       },
@@ -8982,7 +9054,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 217205,
       "name": "Playing Diamonds Cashing Checks",
       "url": "https://open.spotify.com/track/507RF6dzv0wXd5AcxP4Uv7"
@@ -9418,6 +9490,24 @@
       "duration_ms": 187244,
       "name": "Rich Men North of Richmond",
       "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
+    },
+    {
+      "album": {
+        "name": "Ride On",
+        "url": "https://open.spotify.com/album/4wZ9RtuL0b46pD8dHzl606"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178494,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/0JRAb68EKNBaZwrkUBMVvq"
     },
     {
       "album": {
@@ -10311,6 +10401,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Down the Road",
+        "url": "https://open.spotify.com/album/24UUo9KpBl6OTWR0cyYrX8"
+      },
+      "artists": [
+        {
+          "name": "John Hollier & the R\u00eaverie",
+          "url": "https://open.spotify.com/artist/57boDAppxqwgLqZs4NRmFs"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204067,
+      "name": "Somewhere Down the Road",
+      "url": "https://open.spotify.com/track/2AORKvVk5hftWMmUMUVKbq"
+    },
+    {
+      "album": {
         "name": "Song While You're Away (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V"
       },
@@ -10696,7 +10804,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 222654,
       "name": "Sugar in the Tank",
       "url": "https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj"
@@ -11898,7 +12006,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 267973,
       "name": "Turn Around",
       "url": "https://open.spotify.com/track/1A5EBgeEUC3yMvZlKbU2ba"
@@ -12630,7 +12738,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 251784,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo"

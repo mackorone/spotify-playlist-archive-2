@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: Headie One
+> Your shortcut to the best new Hip Hop\. Cover: A$AP Rocky
 
-733 songs - 1 day 11 hr 37 min
+734 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 | 2025-05-29 |  |
 | [af1 2.0](https://open.spotify.com/track/4tBAAUWP6gpdF3sMxGVvET) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [af1 2.0](https://open.spotify.com/album/22HwMRzge4xsM8Fv5ZPTOj) | 3:00 | 2024-02-08 | 2024-04-19 |
 | [Again](https://open.spotify.com/track/4IqXyCH75mW4dMDbHufqDX) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/4DM34NuOlqu5S8PZAje4iF) | 5:12 | 2025-02-13 | 2025-08-15 |
+| [AIR FORCE \(BLACK DEMARCO\)](https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:44 | 2026-01-16 |  |
 | [Airbnb](https://open.spotify.com/track/1o7yR968UVG8jSNCUA7nLk) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Kayem2x](https://open.spotify.com/artist/0qo7gqk9EnojsHT1K8tQ1h), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Airbnb](https://open.spotify.com/album/7syVob47SrtleL33SoH0MF) | 2:14 | 2024-03-07 | 2024-04-19 |
 | [All In](https://open.spotify.com/track/7DG8pcC5vSmElPX9H0vmuK) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [All In](https://open.spotify.com/album/54Bi619M9xPiUXfet1uGWM) | 4:18 | 2025-01-09 | 2025-05-16 |
 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 | 2023-10-12 | 2024-02-09 |
@@ -578,7 +579,7 @@
 | [Skinfade](https://open.spotify.com/track/4UCEIGRovOmBuJz0oOHjI2) | [M1onTheBeat](https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [M1onTheBeat The Mixtape](https://open.spotify.com/album/2eNxE5vYk1YgZGQx6BT8UL) | 2:02 | 2023-11-23 | 2024-02-09 |
 | [Skinfade](https://open.spotify.com/track/4e4opOX6j40mfCuWS4u1jD) | [M1onTheBeat](https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Skinfade](https://open.spotify.com/album/3q7jI2SR3PNrwvAlIAG8Wy) | 2:02 | 2023-11-23 | 2023-11-25 |
 | [Sleepless Nights](https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Sleepless Nights](https://open.spotify.com/album/7u8UILHegMwW50M0Wgsx2c) | 2:27 | 2025-05-15 | 2025-06-12 |
-| [SLIME is BESTIE \[Sega Bodega + JT\]](https://open.spotify.com/track/4Y65QXs6X2dhVQc9B6a6Ro) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [SLIME is BESTIE \[Sega Bodega + JT\]](https://open.spotify.com/album/5Y9NhiHQOzv1JSBpReoWOy) | 2:40 | 2025-11-21 |  |
+| [SLIME is BESTIE \[Sega Bodega + JT\]](https://open.spotify.com/track/4Y65QXs6X2dhVQc9B6a6Ro) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [SLIME is BESTIE \[Sega Bodega + JT\]](https://open.spotify.com/album/5Y9NhiHQOzv1JSBpReoWOy) | 2:40 | 2025-11-21 | 2026-01-17 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-22 | 2023-10-20 |
 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 | 2024-11-14 | 2025-01-17 |
 | [SMILE BODY PRETTY FACE \(feat\. Kodak Black & YG\)](https://open.spotify.com/track/3kPefPjK6h9ZqcuihLDkvm) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [SMILE BODY PRETTY FACE \(feat\. Kodak Black & YG\)](https://open.spotify.com/album/7DoSh8nSOZTQGSQwNqSSRE) | 4:41 | 2025-09-26 | 2025-10-24 |

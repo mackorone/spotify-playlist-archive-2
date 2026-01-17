@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-452 songs - 22 hr 41 min
+453 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Kings \- Shogun Remix](https://open.spotify.com/track/2HpnvnsKMnl88LLOz1xPPh) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [\#aparttogether \(The Remixes Part 1\)](https://open.spotify.com/album/0OeB4MQV2JLoX7JlIdKwvG) | 3:03 | 2022-08-26 | 2023-09-09 |
 | [La La Life](https://open.spotify.com/track/7zEfs60wAzIOj0M2dbbjAg) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [La La Life](https://open.spotify.com/album/3DQSbcTRwObXj0zEDCPFi0) | 2:44 | 2023-08-25 | 2024-10-23 |
 | [Last Call](https://open.spotify.com/track/0REO4HZjpt0pnQUtYwI6Mp) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Brïah](https://open.spotify.com/artist/69ZxNjgOfcItRkCpPnIIOz) | [Last Call](https://open.spotify.com/album/2s1Vxe2gPtaTty5ZcrG2qY) | 3:47 | 2023-09-14 | 2025-02-01 |
+| [Last One Left](https://open.spotify.com/track/3MkY5uVuKKhzQEalYCWd9g) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Last One Left](https://open.spotify.com/album/6PB88T0qCXITW7gjQNkS3s) | 2:46 | 2026-01-16 |  |
 | [Let Me Love You \(Until You Learn to Love Yourself\)](https://open.spotify.com/track/6fj8Aj1t5Yh9Vpyo5EbR30) | [Voster & Gallardo](https://open.spotify.com/artist/6an7Tt4XKUfDucWZUXflvl), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS) | [Let Me Love You \(Until You Learn to Love Yourself\)](https://open.spotify.com/album/7DuhZ7D7lR3RaRNts46yyd) | 3:09 | 2024-05-08 | 2024-11-30 |
 | [Let You Go](https://open.spotify.com/track/7wCuRzhoRbcZX2W4W9sjaI) | [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq), [TAOMIN](https://open.spotify.com/artist/5KqwVjMKFOhQQrLKKU5ksp), [Nil Martorell](https://open.spotify.com/artist/1JJhMriYbHMseShsl4OM8t) | [For The Love Of Progressive EP 6.0](https://open.spotify.com/album/0bKpFKixMLQOta8jg47rSZ) | 3:18 | 2025-09-11 |  |
 | [Let's Get Fucked](https://open.spotify.com/track/4WBAgmcr4i1FXCl1T8fNaC) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Let's Get Fucked](https://open.spotify.com/album/1oteUigszquypA0bBnafbM) | 2:51 | 2024-05-16 | 2025-07-31 |

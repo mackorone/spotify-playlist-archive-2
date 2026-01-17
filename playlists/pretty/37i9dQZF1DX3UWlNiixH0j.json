@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: KIRINJI",
-  "num_followers": 66206,
+  "num_followers": 66230,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,26 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
-        "url": "https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc"
+        "name": "\u3068\u304d\u3081\u304d\u63a2\u5075",
+        "url": "https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y"
       },
       "artists": [
         {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        },
+        {
+          "name": "Le Makeup",
+          "url": "https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc"
         }
       ],
-      "duration_ms": 189533,
-      "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
-      "url": "https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0"
+      "duration_ms": 189687,
+      "name": "\u3068\u304d\u3081\u304d\u63a2\u5075",
+      "url": "https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -403,26 +411,50 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "\u3068\u304d\u3081\u304d\u63a2\u5075",
-        "url": "https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y"
+        "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
+        "url": "https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc"
       },
       "artists": [
         {
-          "name": "Satoko Shibata",
-          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
-        },
-        {
-          "name": "Elle Teresa",
-          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
-        },
-        {
-          "name": "Le Makeup",
-          "url": "https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc"
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
         }
       ],
-      "duration_ms": 189687,
-      "name": "\u3068\u304d\u3081\u304d\u63a2\u5075",
-      "url": "https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt"
+      "duration_ms": 189533,
+      "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
+      "url": "https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0"
+    },
+    {
+      "added_at": "2026-01-15 16:46:23",
+      "album": {
+        "name": "kurayamisaka yori ai wo komete",
+        "url": "https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP"
+      },
+      "artists": [
+        {
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+        }
+      ],
+      "duration_ms": 238250,
+      "name": "metro",
+      "url": "https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP"
+    },
+    {
+      "added_at": "2026-01-15 16:46:23",
+      "album": {
+        "name": "The Seeds",
+        "url": "https://open.spotify.com/album/6Or1f5FYFrDsl02rlFLPsz"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "meguri",
+      "url": "https://open.spotify.com/track/3ZahoDxx2GCql4TiOrSWgK"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -451,38 +483,6 @@
       "duration_ms": 280414,
       "name": "\u8a18\u61b6\u3068\u5f15\u529b",
       "url": "https://open.spotify.com/track/4ecV5zKR5Cktcou2PXPb1x"
-    },
-    {
-      "added_at": "2026-01-15 16:46:23",
-      "album": {
-        "name": "The Seeds",
-        "url": "https://open.spotify.com/album/6Or1f5FYFrDsl02rlFLPsz"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "meguri",
-      "url": "https://open.spotify.com/track/3ZahoDxx2GCql4TiOrSWgK"
-    },
-    {
-      "added_at": "2026-01-15 16:46:23",
-      "album": {
-        "name": "kurayamisaka yori ai wo komete",
-        "url": "https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP"
-      },
-      "artists": [
-        {
-          "name": "kurayamisaka",
-          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
-        }
-      ],
-      "duration_ms": 238250,
-      "name": "metro",
-      "url": "https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "what a night",
-        "url": "https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 227914,
-      "name": "what a night",
-      "url": "https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs"
-    },
-    {
-      "added_at": "2026-01-15 16:46:23",
-      "album": {
         "name": "condominium",
         "url": "https://open.spotify.com/album/3tUZ7aiutrOUt1eikhxYov"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 229653,
       "name": "\u307b\u3046\u304d\u661f",
       "url": "https://open.spotify.com/track/0wROI0QCfZ21IslEMtJMwA"
+    },
+    {
+      "added_at": "2026-01-15 16:46:23",
+      "album": {
+        "name": "what a night",
+        "url": "https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 227914,
+      "name": "what a night",
+      "url": "https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -623,18 +623,18 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/1eb263XS9jW2t0nMVXOaxq"
+        "name": "The Seeds",
+        "url": "https://open.spotify.com/album/6Or1f5FYFrDsl02rlFLPsz"
       },
       "artists": [
         {
-          "name": "D.A.N.",
-          "url": "https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx"
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
         }
       ],
-      "duration_ms": 456774,
-      "name": "Daydreaming \u2160",
-      "url": "https://open.spotify.com/track/0F1YeN3S1L0dSiU371a4Sd"
+      "duration_ms": 208466,
+      "name": "\u3053\u3053\u308d\u306e\u3069\u308c\u3059",
+      "url": "https://open.spotify.com/track/1vlwjWpGnB5FY9oimpT1FN"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "The Seeds",
-        "url": "https://open.spotify.com/album/6Or1f5FYFrDsl02rlFLPsz"
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1eb263XS9jW2t0nMVXOaxq"
       },
       "artists": [
         {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+          "name": "D.A.N.",
+          "url": "https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx"
         }
       ],
-      "duration_ms": 208466,
-      "name": "\u3053\u3053\u308d\u306e\u3069\u308c\u3059",
-      "url": "https://open.spotify.com/track/1vlwjWpGnB5FY9oimpT1FN"
+      "duration_ms": 456774,
+      "name": "Daydreaming \u2160",
+      "url": "https://open.spotify.com/track/0F1YeN3S1L0dSiU371a4Sd"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
+        "name": "moonlight",
+        "url": "https://open.spotify.com/album/2vaFQkb58ukwdEgEITgaYQ"
+      },
+      "artists": [
+        {
+          "name": "\u3084\u3055\u3057\u3044\u307f\u3089\u3044",
+          "url": "https://open.spotify.com/artist/6vKcbLaY4bwJbTz0HZAtbW"
+        }
+      ],
+      "duration_ms": 223991,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/6xEcXcWCdZ6xFNbroqlmFc"
+    },
+    {
+      "added_at": "2026-01-15 16:46:23",
+      "album": {
         "name": "\u661f\u306e\u4e0b",
         "url": "https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "moonlight",
-        "url": "https://open.spotify.com/album/2vaFQkb58ukwdEgEITgaYQ"
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW"
       },
       "artists": [
         {
-          "name": "\u3084\u3055\u3057\u3044\u307f\u3089\u3044",
-          "url": "https://open.spotify.com/artist/6vKcbLaY4bwJbTz0HZAtbW"
+          "name": "E.scene",
+          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
         }
       ],
-      "duration_ms": 223991,
-      "name": "moonlight",
-      "url": "https://open.spotify.com/track/6xEcXcWCdZ6xFNbroqlmFc"
+      "duration_ms": 194080,
+      "name": "DAWN",
+      "url": "https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -783,38 +799,6 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW"
-      },
-      "artists": [
-        {
-          "name": "E.scene",
-          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "DAWN",
-      "url": "https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa"
-    },
-    {
-      "added_at": "2026-01-15 16:46:23",
-      "album": {
-        "name": "BILLIE",
-        "url": "https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc"
-      },
-      "artists": [
-        {
-          "name": "Kazumi Nikaido",
-          "url": "https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I"
-        }
-      ],
-      "duration_ms": 231237,
-      "name": "BILLIE",
-      "url": "https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp"
-    },
-    {
-      "added_at": "2026-01-15 16:46:23",
-      "album": {
         "name": "LOST AND FOUND",
         "url": "https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu"
       },
@@ -831,22 +815,6 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "\u7570\u7269\u6df7\u5165",
-        "url": "https://open.spotify.com/album/3eGwlLkrbtbutag5RU8nPa"
-      },
-      "artists": [
-        {
-          "name": "FCO.",
-          "url": "https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq"
-        }
-      ],
-      "duration_ms": 151555,
-      "name": "\u7570\u7269\u6df7\u5165",
-      "url": "https://open.spotify.com/track/4AD5vjzHeG7gqoxS357joP"
-    },
-    {
-      "added_at": "2026-01-15 16:46:23",
-      "album": {
         "name": "Fibril",
         "url": "https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P"
       },
@@ -859,6 +827,22 @@
       "duration_ms": 174087,
       "name": "Brutalist",
       "url": "https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK"
+    },
+    {
+      "added_at": "2026-01-15 16:46:23",
+      "album": {
+        "name": "BILLIE",
+        "url": "https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc"
+      },
+      "artists": [
+        {
+          "name": "Kazumi Nikaido",
+          "url": "https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I"
+        }
+      ],
+      "duration_ms": 231237,
+      "name": "BILLIE",
+      "url": "https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -883,6 +867,22 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
+        "name": "\u7570\u7269\u6df7\u5165",
+        "url": "https://open.spotify.com/album/3eGwlLkrbtbutag5RU8nPa"
+      },
+      "artists": [
+        {
+          "name": "FCO.",
+          "url": "https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq"
+        }
+      ],
+      "duration_ms": 151555,
+      "name": "\u7570\u7269\u6df7\u5165",
+      "url": "https://open.spotify.com/track/4AD5vjzHeG7gqoxS357joP"
+    },
+    {
+      "added_at": "2026-01-15 16:46:23",
+      "album": {
         "name": "\u8d70\u99ac\u706f",
         "url": "https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV"
       },
@@ -895,6 +895,26 @@
       "duration_ms": 314463,
       "name": "\u8d70\u99ac\u706f",
       "url": "https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL"
+    },
+    {
+      "added_at": "2026-01-15 16:46:23",
+      "album": {
+        "name": "Indifference",
+        "url": "https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Indifference",
+      "url": "https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -931,22 +951,18 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "Indifference",
-        "url": "https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8"
+        "name": "MUNI",
+        "url": "https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+          "name": "sucola",
+          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
         }
       ],
-      "duration_ms": 203893,
-      "name": "Indifference",
-      "url": "https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u"
+      "duration_ms": 220000,
+      "name": "Sentimental Journey",
+      "url": "https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -963,22 +979,6 @@
       "duration_ms": 210354,
       "name": "\u63b4\u3081\u306a\u3044\u4eba",
       "url": "https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87"
-    },
-    {
-      "added_at": "2026-01-15 16:46:23",
-      "album": {
-        "name": "MUNI",
-        "url": "https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2"
-      },
-      "artists": [
-        {
-          "name": "sucola",
-          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sentimental Journey",
-      "url": "https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "Crawl",
-        "url": "https://open.spotify.com/album/1nT6MhLCs9UHXmzxpkwZQw"
-      },
-      "artists": [
-        {
-          "name": "ohayoumadayarou",
-          "url": "https://open.spotify.com/artist/0ZL5ugOFvjh3jWzGS35hKb"
-        }
-      ],
-      "duration_ms": 191108,
-      "name": "Crawl",
-      "url": "https://open.spotify.com/track/25oJkmrx8WvAQm2HzXz4W6"
-    },
-    {
-      "added_at": "2026-01-15 16:46:23",
-      "album": {
         "name": "\u6885\u96e8 (feat.\u4eac \u82f1\u4e00)",
         "url": "https://open.spotify.com/album/7bkvsUBGECXAHNZzfFDKFw"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "\u307c\u3061\u307c\u3061\u3044\u304d\u307e\u3057\u3087\u3046",
-        "url": "https://open.spotify.com/album/2ZzScRcEYp015nsKXbsMPK"
+        "name": "Crawl",
+        "url": "https://open.spotify.com/album/1nT6MhLCs9UHXmzxpkwZQw"
       },
       "artists": [
         {
-          "name": "blend house",
-          "url": "https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt"
+          "name": "ohayoumadayarou",
+          "url": "https://open.spotify.com/artist/0ZL5ugOFvjh3jWzGS35hKb"
         }
       ],
-      "duration_ms": 248056,
-      "name": "\u307c\u3061\u307c\u3061\u3044\u304d\u307e\u3057\u3087\u3046",
-      "url": "https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75"
+      "duration_ms": 191108,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/25oJkmrx8WvAQm2HzXz4W6"
     },
     {
       "added_at": "2026-01-15 16:46:23",
@@ -1255,18 +1239,34 @@
     {
       "added_at": "2026-01-15 16:46:23",
       "album": {
-        "name": "Is There A Place For You There?",
-        "url": "https://open.spotify.com/album/5abd0pNQtTTfryxayijgcd"
+        "name": "\u307c\u3061\u307c\u3061\u3044\u304d\u307e\u3057\u3087\u3046",
+        "url": "https://open.spotify.com/album/2ZzScRcEYp015nsKXbsMPK"
       },
       "artists": [
         {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+          "name": "blend house",
+          "url": "https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt"
         }
       ],
-      "duration_ms": 271163,
-      "name": "Is There A Place For You There?",
-      "url": "https://open.spotify.com/track/5eWhdtbo3MkD7gTNLxI8yx"
+      "duration_ms": 248056,
+      "name": "\u307c\u3061\u307c\u3061\u3044\u304d\u307e\u3057\u3087\u3046",
+      "url": "https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75"
+    },
+    {
+      "added_at": "2026-01-15 16:46:23",
+      "album": {
+        "name": "\u30ec\u30a4\u30c8\u30b7\u30e7\u30fc",
+        "url": "https://open.spotify.com/album/1mM8yoGhTrXmosZca4f8ci"
+      },
+      "artists": [
+        {
+          "name": "Scenarioart",
+          "url": "https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV"
+        }
+      ],
+      "duration_ms": 216441,
+      "name": "\u30ec\u30a4\u30c8\u30b7\u30e7\u30fc",
+      "url": "https://open.spotify.com/track/0vBN7N4VpU6yJ6THuE3iBO"
     },
     {
       "added_at": "2026-01-15 16:46:23",

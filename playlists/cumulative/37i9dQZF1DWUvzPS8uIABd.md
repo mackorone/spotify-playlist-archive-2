@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-869 songs - 1 day 19 hr 24 min
+870 songs - 1 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [Mee jo](https://open.spotify.com/track/4YkYQAFfd46Xti7X6o5HXj) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Mee jo](https://open.spotify.com/album/4hxJUh15L25r80zETNkFdZ) | 3:22 | 2024-11-28 | 2025-01-03 |
 | [Mee nyt vaan pois \(Vain elämää kausi 15\)](https://open.spotify.com/track/0pYouFfXYP1lnpSbfiyL2I) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Mee nyt vaan pois \(Vain elämää kausi 15\)](https://open.spotify.com/album/49II5LkqHydwHwVPTxZ97T) | 3:30 | 2024-11-07 | 2024-11-15 |
 | [Meidän tässä kuuluisi rakastuu](https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Meidän tässä kuuluisi rakastuu](https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR) | 3:08 | 2025-08-21 |  |
-| [Meistä Kertova Satu](https://open.spotify.com/track/6x1eIve6hWWsy91plInMcb) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Meistä Kertova Satu](https://open.spotify.com/album/7k5Q1ZXl6PaknjiyU3Zb1v) | 2:48 | 2025-11-20 |  |
+| [Meistä Kertova Satu](https://open.spotify.com/track/6x1eIve6hWWsy91plInMcb) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Meistä Kertova Satu](https://open.spotify.com/album/7k5Q1ZXl6PaknjiyU3Zb1v) | 2:48 | 2025-11-20 | 2026-01-17 |
 | [Meit ei löydä kukaan](https://open.spotify.com/track/3ghIg5mLl8lRBKrSI89ZEW) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Meit ei löydä kukaan](https://open.spotify.com/album/6buiAwrpJjAbuyqH2M9HN2) | 3:03 | 2025-10-02 | 2025-11-21 |
 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 | 2025-01-02 | 2025-01-31 |
 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/728CCaVme0Ppv8zrG9caYE) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:45 | 2025-01-30 | 2025-04-25 |
@@ -420,6 +420,7 @@
 | [Miljoona](https://open.spotify.com/track/4c6GQUHarKXDAzcUxTg7bH) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Miljoona](https://open.spotify.com/album/1sXCFKPdwPZAAQh79Vthrz) | 2:40 | 2025-01-09 | 2025-01-24 |
 | [Miljoona mustelmaa](https://open.spotify.com/track/1EzxT9HLfDu8iZDNsFBtnf) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [Miljoona mustelmaa](https://open.spotify.com/album/14QianX3JKFCfMT2aJg8su) | 2:32 | 2025-09-04 | 2025-09-27 |
 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 | 2024-12-05 | 2025-04-18 |
+| [Million Dollar Smile](https://open.spotify.com/track/6kB0VQW17TAt7XddE7pkz5) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Million Dollar Smile](https://open.spotify.com/album/7v2aumxwZIVMH7bf26YGDq) | 2:54 | 2026-01-15 |  |
 | [Milloin äidit itkee?](https://open.spotify.com/track/3kXV2SkY4mI6gbE9gTAJHn) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Milloin äidit itkee?](https://open.spotify.com/album/0BacmFedWklfj1WmU5bzbg) | 3:05 | 2025-04-03 | 2025-06-13 |
 | [Ministerinpaikal](https://open.spotify.com/track/0eM9z8LrY9bdKF99D0P98i) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Ministerinpaikal / 1987](https://open.spotify.com/album/0F2xzUyFFvkTIRKHhVsfu7) | 3:48 | 2025-03-13 | 2025-06-06 |
 | [Minä olen muistanut](https://open.spotify.com/track/3zQoHH71fUAEFqHCV1Jz4x) | [90's FIN Cover Boyz & Girlz!](https://open.spotify.com/artist/1Zr5kGpWfxy6auQn5bTpmG) | [Minä olen muistanut](https://open.spotify.com/album/41l3t2kt1tUblghN8jweGN) | 2:21 | 2025-09-11 | 2026-01-15 |

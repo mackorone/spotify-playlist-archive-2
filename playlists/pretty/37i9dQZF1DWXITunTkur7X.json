@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstaligs songs uit de 10's! Cover: BL\u00d8F",
-  "num_followers": 78387,
+  "num_followers": 78395,
   "original_name": "10's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -67,26 +67,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Golven",
-        "url": "https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO"
-      },
-      "artists": [
-        {
-          "name": "Diggy Dex",
-          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
-        },
-        {
-          "name": "JW Roy",
-          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
-        }
-      ],
-      "duration_ms": 224928,
-      "name": "Treur Niet (Ode Aan Het Leven)",
-      "url": "https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Slapeloze Nachten",
         "url": "https://open.spotify.com/album/4Gvj14YkzANT4xQEm3seh0"
       },
@@ -103,22 +83,22 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
-        "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
+        "name": "Golven",
+        "url": "https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO"
       },
       "artists": [
         {
-          "name": "Davina Michelle",
-          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
         },
         {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+          "name": "JW Roy",
+          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
         }
       ],
-      "duration_ms": 153527,
-      "name": "Duurt Te Lang",
-      "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
+      "duration_ms": 224928,
+      "name": "Treur Niet (Ode Aan Het Leven)",
+      "url": "https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -143,6 +123,26 @@
       "duration_ms": 252923,
       "name": "Hoe Het Danst",
       "url": "https://open.spotify.com/track/5cYOVkA2cnjKid9yigaMwq"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
+        "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 153527,
+      "name": "Duurt Te Lang",
+      "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -487,26 +487,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Liefde In De Lucht",
-        "url": "https://open.spotify.com/album/6LnaCBWAPhhXSCPelaQLH3"
-      },
-      "artists": [
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        },
-        {
-          "name": "Joshua Nolet",
-          "url": "https://open.spotify.com/artist/2DJWNlGHpzlTwdIpVkjRBV"
-        }
-      ],
-      "duration_ms": 212327,
-      "name": "Liefde In De Lucht",
-      "url": "https://open.spotify.com/track/3xbLeZAtP6yVnsgP3EGlie"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Ik Ga Hard",
         "url": "https://open.spotify.com/album/5h6BEWVTml6KaB7pL4V2ir"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 188026,
       "name": "Ik Ga Hard",
       "url": "https://open.spotify.com/track/0VrxOB23fTNCyG6WZCshd9"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Liefde In De Lucht",
+        "url": "https://open.spotify.com/album/6LnaCBWAPhhXSCPelaQLH3"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        },
+        {
+          "name": "Joshua Nolet",
+          "url": "https://open.spotify.com/artist/2DJWNlGHpzlTwdIpVkjRBV"
+        }
+      ],
+      "duration_ms": 212327,
+      "name": "Liefde In De Lucht",
+      "url": "https://open.spotify.com/track/3xbLeZAtP6yVnsgP3EGlie"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Lil Craney",
-        "url": "https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh"
-      },
-      "artists": [
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 169969,
-      "name": "Lil Craney",
-      "url": "https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Dominique",
         "url": "https://open.spotify.com/album/2ZApdgqRMQCcmeQDrof1O9"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 261864,
       "name": "Dominique",
       "url": "https://open.spotify.com/track/5cJR6iMvlC2RxBfNHXfwNg"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Lil Craney",
+        "url": "https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "duration_ms": 169969,
+      "name": "Lil Craney",
+      "url": "https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Hoe",
-        "url": "https://open.spotify.com/album/3uY2iQaemCp5tJ1w5Am4Ui"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        },
-        {
-          "name": "Miss Montreal",
-          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
-        }
-      ],
-      "duration_ms": 169288,
-      "name": "Hoe",
-      "url": "https://open.spotify.com/track/6MqFl4zKmk2kaifEkJ9JUN"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 232666,
       "name": "Holiday In Spain",
       "url": "https://open.spotify.com/track/0WhEz33qBgz9AFT5D0W2gE"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Hoe",
+        "url": "https://open.spotify.com/album/3uY2iQaemCp5tJ1w5Am4Ui"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        },
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "duration_ms": 169288,
+      "name": "Hoe",
+      "url": "https://open.spotify.com/track/6MqFl4zKmk2kaifEkJ9JUN"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Sexy Als Ik Dans",
-        "url": "https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Sexy Als Ik Dans",
-      "url": "https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Mag Ik Dan Bij Jou ( Single Version )",
         "url": "https://open.spotify.com/album/64JUrdAAT1Dr57kgqB89KK"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 203573,
       "name": "Mag Ik Dan Bij Jou ( Single Version )",
       "url": "https://open.spotify.com/track/0iYDkElqY6uu0aw8CzOttm"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Sexy Als Ik Dans",
+        "url": "https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Sexy Als Ik Dans",
+      "url": "https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Beauty & De Brains",
-        "url": "https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        }
-      ],
-      "duration_ms": 186090,
-      "name": "Beauty & De Brains",
-      "url": "https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Totzoverder (Het Beste Van 3JS)",
         "url": "https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 242906,
       "name": "Geloven In Het Leven",
       "url": "https://open.spotify.com/track/1FQUPfW7zKyiUHMJFr8c8d"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Beauty & De Brains",
+        "url": "https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "duration_ms": 186090,
+      "name": "Beauty & De Brains",
+      "url": "https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob"
     },
     {
       "added_at": "2025-03-12 10:01:17",

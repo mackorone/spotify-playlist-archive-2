@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Isabel LaRosa
+> Discover your favorite new chill pop songs\. Cover: Baby Nova
 
-1,788 songs - 3 day 22 hr 30 min
+1,789 songs - 3 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Do It Again](https://open.spotify.com/track/3vUlbfv0d6VTNf1ZEr0kit) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Do It Again](https://open.spotify.com/album/1HlQ021A7tO5NpDIzsj2rH) | 2:45 | 2023-09-22 | 2023-11-08 |
 | [Do It All Again](https://open.spotify.com/track/2kSIKuELSEzq8vza3kXKNA) | [Emma Oliver](https://open.spotify.com/artist/7KUmMAnwfGBOs77ReTZJte) | [We Are Only A Moment](https://open.spotify.com/album/3l2VY4uHxl1XNJKVQKovMS) | 3:01 | 2021-04-17 | 2021-05-15 |
 | [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-02-03 | 2023-05-10 |
+| [Dodge](https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Shhugar](https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk) | 3:33 | 2026-01-16 |  |
 | [does it really matter?](https://open.spotify.com/track/1P3g6GCkrsraKRxACUrzOz) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [does it really matter?](https://open.spotify.com/album/488EYA9FOACPbGYlGMS3VQ) | 3:08 | 2021-08-21 | 2021-09-11 |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2021-10-30 | 2021-11-20 |
 | [Dog Years](https://open.spotify.com/track/2o0G1uVhYPcZz4XcDICaCX) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia \(Deluxe\)](https://open.spotify.com/album/4hHP4S8QfwXBFyXUd5TOC9) | 2:21 | 2023-03-24 | 2023-04-01 |

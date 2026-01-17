@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 91323,
+  "num_followers": 91345,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
-        "name": "Round My Mind",
-        "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
-      },
-      "artists": [
-        {
-          "name": "Revealer",
-          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Round My Mind",
-      "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
-    },
-    {
-      "added_at": "2026-01-10 23:30:54",
-      "album": {
         "name": "PSSY MTHRFCKRZ (Chaos Project & Sakyra Remix)",
         "url": "https://open.spotify.com/album/7j1R300leutDGel6DS2Jxc"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 162375,
       "name": "PSSY MTHRFCKRZ - Chaos Project & Sakyra Remix",
       "url": "https://open.spotify.com/track/6wFYX9fvq5uWbcixgRxRUz"
+    },
+    {
+      "added_at": "2026-01-10 23:30:54",
+      "album": {
+        "name": "Round My Mind",
+        "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
+      },
+      "artists": [
+        {
+          "name": "Revealer",
+          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Round My Mind",
+      "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
     },
     {
       "added_at": "2026-01-10 23:30:54",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
-        "name": "Highs In My Dreams",
-        "url": "https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        },
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Highs In My Dreams",
-      "url": "https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx"
-    },
-    {
-      "added_at": "2026-01-10 23:30:54",
-      "album": {
         "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
         "url": "https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 273333,
       "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
       "url": "https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc"
+    },
+    {
+      "added_at": "2026-01-10 23:30:54",
+      "album": {
+        "name": "Highs In My Dreams",
+        "url": "https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        },
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Highs In My Dreams",
+      "url": "https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx"
     },
     {
       "added_at": "2026-01-10 23:30:54",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
-        "name": "Blast Your Stereo",
-        "url": "https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 131473,
-      "name": "Blast Your Stereo",
-      "url": "https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ"
-    },
-    {
-      "added_at": "2026-01-10 23:30:54",
-      "album": {
         "name": "Let Them Eat Steel",
         "url": "https://open.spotify.com/album/1iMpepHfigGIoDVdf8H5El"
       },
@@ -623,18 +603,38 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
-        "name": "Another Club Banger EP",
-        "url": "https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd"
+        "name": "Rip City",
+        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
       },
       "artists": [
         {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
         }
       ],
-      "duration_ms": 261091,
-      "name": "Another Club Banger",
-      "url": "https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG"
+      "duration_ms": 161327,
+      "name": "Rip City",
+      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
+    },
+    {
+      "added_at": "2026-01-10 23:30:54",
+      "album": {
+        "name": "Blast Your Stereo",
+        "url": "https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 131473,
+      "name": "Blast Your Stereo",
+      "url": "https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ"
     },
     {
       "added_at": "2026-01-10 23:30:54",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
-        "name": "Rip City",
-        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
+        "name": "Another Club Banger EP",
+        "url": "https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd"
       },
       "artists": [
         {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         }
       ],
-      "duration_ms": 161327,
-      "name": "Rip City",
-      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
+      "duration_ms": 261091,
+      "name": "Another Club Banger",
+      "url": "https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG"
     },
     {
       "added_at": "2026-01-10 23:30:54",
@@ -767,6 +767,38 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
+        "name": "Locked & Loaded EP",
+        "url": "https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY"
+      },
+      "artists": [
+        {
+          "name": "Kili",
+          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
+        }
+      ],
+      "duration_ms": 101000,
+      "name": "9MM",
+      "url": "https://open.spotify.com/track/50cNmlFtLyt0exTnajYFsR"
+    },
+    {
+      "added_at": "2026-01-10 23:30:54",
+      "album": {
+        "name": "Holy Calamity",
+        "url": "https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Holy Calamity",
+      "url": "https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4"
+    },
+    {
+      "added_at": "2026-01-10 23:30:54",
+      "album": {
         "name": "Voice Of The Underground",
         "url": "https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2"
       },
@@ -783,18 +815,22 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
-        "name": "Locked & Loaded EP",
-        "url": "https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY"
+        "name": "Paint It Black",
+        "url": "https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp"
       },
       "artists": [
         {
-          "name": "Kili",
-          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
         }
       ],
-      "duration_ms": 101000,
-      "name": "9MM",
-      "url": "https://open.spotify.com/track/50cNmlFtLyt0exTnajYFsR"
+      "duration_ms": 198315,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP"
     },
     {
       "added_at": "2026-01-10 23:30:54",
@@ -827,42 +863,6 @@
       "duration_ms": 298666,
       "name": "Lead By Example (Official Dominator 2025 Anthem)",
       "url": "https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD"
-    },
-    {
-      "added_at": "2026-01-10 23:30:54",
-      "album": {
-        "name": "Paint It Black",
-        "url": "https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Paint It Black",
-      "url": "https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP"
-    },
-    {
-      "added_at": "2026-01-10 23:30:54",
-      "album": {
-        "name": "Holy Calamity",
-        "url": "https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Holy Calamity",
-      "url": "https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4"
     },
     {
       "added_at": "2026-01-10 23:30:54",

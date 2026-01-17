@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 159833,
       "name": "Al\u00f4 Virg\u00ednia - Ao Vivo",
       "url": "https://open.spotify.com/track/75cbS6bJO0yUVXKVrRdSgv"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 167528,
       "name": "Aquele Lugar - Ao Vivo",
       "url": "https://open.spotify.com/track/6IFF888dQ0P6ilbj4kL6G8"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 156536,
       "name": "Bebe, Beija e Trai - Ao Vivo",
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 155751,
       "name": "Buqu\u00ea de Bebida - Ao Vivo",
       "url": "https://open.spotify.com/track/4GvuFO1fp1vVILm9DeSGW6"
@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 221583,
       "name": "Cama e Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4jHrB8ZcGoFbSMVq2FXzmk"
@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 148403,
       "name": "Carmed Chocolate",
       "url": "https://open.spotify.com/track/5q6p93gOrBy5dRkxOAylJ4"
@@ -4624,7 +4624,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 130952,
       "name": "Eu Quero \u00e9 Praia",
       "url": "https://open.spotify.com/track/5p5QetM8bXMWBUuyltZr5w"
@@ -4724,7 +4724,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 158173,
       "name": "Eu S\u00f3 Quero Voc\u00ea",
       "url": "https://open.spotify.com/track/118oqjHKS0amJfPLi9LoEZ"
@@ -5499,6 +5499,32 @@
     },
     {
       "album": {
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129090,
+      "name": "GOSTOSIN",
+      "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
+    },
+    {
+      "album": {
         "name": "+ Amor, + M\u00fasica Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0PGX05DaiCQoOTlNRKg8q2"
       },
@@ -5540,6 +5566,28 @@
       "duration_ms": 110858,
       "name": "Grip",
       "url": "https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP"
+    },
+    {
+      "album": {
+        "name": "Havaianas",
+        "url": "https://open.spotify.com/album/3DBwf2gEqn3kbiORqRnfel"
+      },
+      "artists": [
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169390,
+      "name": "Havaianas",
+      "url": "https://open.spotify.com/track/6UhyOKAi2V34FD87MKaJ5Y"
     },
     {
       "album": {
@@ -5624,7 +5672,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 144812,
       "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
       "url": "https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg"
@@ -8908,7 +8956,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 165231,
       "name": "OR\u00c7AMENTO - Ao Vivo",
       "url": "https://open.spotify.com/track/79MxbO0fmeREiSUdODnqaq"
@@ -9982,6 +10030,28 @@
       "duration_ms": 153429,
       "name": "Qual \u00e9 seu desejo?",
       "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
+    },
+    {
+      "album": {
+        "name": "+ Amor, + M\u00fasica (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6esq76PxWRNo6GxA35oal9"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178526,
+      "name": "Quarto 67 - Ao Vivo",
+      "url": "https://open.spotify.com/track/1FoV9rUsKIecaQpSap2YLn"
     },
     {
       "album": {
@@ -11345,6 +11415,56 @@
     },
     {
       "album": {
+        "name": "Set do Rincon 1",
+        "url": "https://open.spotify.com/album/7Ewks2DMm0iiBe47aPKFku"
+      },
+      "artists": [
+        {
+          "name": "US Agroboy",
+          "url": "https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d"
+        },
+        {
+          "name": "Brenno & Matheus",
+          "url": "https://open.spotify.com/artist/5aC2LaswbZgcf1G2uxqBxF"
+        },
+        {
+          "name": "Country Boy",
+          "url": "https://open.spotify.com/artist/3SvkFXAurqVn8u5iQNV0Oo"
+        },
+        {
+          "name": "Na Base do Agro",
+          "url": "https://open.spotify.com/artist/6dBSnoW8EMfIdFC0K8ll9R"
+        },
+        {
+          "name": "The Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/4vtRfcSGNc3rOtQtztZqKy"
+        },
+        {
+          "name": "Edy Lemond",
+          "url": "https://open.spotify.com/artist/65lnOtC17SrJDt6CYdixJI"
+        },
+        {
+          "name": "Dj Chris No Beat",
+          "url": "https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk"
+        },
+        {
+          "name": "DJ Ari SL",
+          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
+        },
+        {
+          "name": "Os Loucotores",
+          "url": "https://open.spotify.com/artist/3zxbBt1jsemMT5wqqbECH1"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361875,
+      "name": "Set do Rincon 1",
+      "url": "https://open.spotify.com/track/7t2JELey25yJKmZLA00BJz"
+    },
+    {
+      "album": {
         "name": "Silverado (AgroPlay Ver\u00e3o)",
         "url": "https://open.spotify.com/album/0jc1n9dACj0B3LxivgmrQb"
       },
@@ -11960,7 +12080,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 126800,
       "name": "Talvez voc\u00ea precise de mim",
       "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
@@ -13188,7 +13308,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 150936,
       "name": "Vai Cair \u00c1gua - Ao Vivo",
       "url": "https://open.spotify.com/track/0qZwqMsGSClyrKzbVbRto9"

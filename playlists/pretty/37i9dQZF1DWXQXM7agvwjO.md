@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: GYMV \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,148 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,208 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hong Kong Siren](https://open.spotify.com/track/7IanxNunEPsThyG95SWvnW) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Hong Kong Siren](https://open.spotify.com/album/0wfgQxfKBl167BJEcH2xP8) | 4:02 |
-| 2 | [So Many Days](https://open.spotify.com/track/3thr1gl0sDyirwmjHU8vuO) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [](https://open.spotify.com/album/null) | 4:20 |
+| 2 | [So Many Days](https://open.spotify.com/track/3thr1gl0sDyirwmjHU8vuO) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Stay Awake](https://open.spotify.com/album/2N8xjA84dmuw4NZz6BADbB) | 4:20 |
 | 3 | [BIG VOID](https://open.spotify.com/track/1TpkuGrFjVAooL2fbCJ0i8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/1C9Woc2ay1qbA316hZgwjL) | 3:41 |
 | 4 | [止められないっ！](https://open.spotify.com/track/6MBvcLeY3cpOyrt5VeDgvP) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [止められないっ！](https://open.spotify.com/album/5dGO0J2kQ9sF9pyvqrTFzq) | 2:45 |
 | 5 | [IDK](https://open.spotify.com/track/6lICgc3vK1QkbcHv3mAJo8) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [IDK](https://open.spotify.com/album/17Zgvhn2Vcxna3qcf8s5Ps) | 3:20 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 33 | [BLUE DIVER](https://open.spotify.com/track/7klP0JqPWQT0JfGG8phZjt) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUE DIVER](https://open.spotify.com/album/5hgAKNkGHybEqQz9LYg84y) | 5:28 |
 | 34 | [Another Version](https://open.spotify.com/track/6eC54qe0rmrN1bH7H8hv9a) | [Mormingming](https://open.spotify.com/artist/5OLPBUTjfyz4FSyvAa4l3M) | [More Ming, Ming](https://open.spotify.com/album/2hxC4vE3OUetQBQdbVa12p) | 3:04 |
 | 35 | [1993](https://open.spotify.com/track/64JnIJP3R8v4WYXYNFINyI) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [1993](https://open.spotify.com/album/20UAantLyOICNDYJTbX1rt) | 2:36 |
-| 36 | [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [](https://open.spotify.com/album/null) | 3:03 |
+| 36 | [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say \(and more\)](https://open.spotify.com/album/5C4nJlq9vET3ikxu5u4ZxD) | 3:03 |
 | 37 | [Blessing In Disguise](https://open.spotify.com/track/4nxVjVTJ5bXYRrYprebfpu) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Blessing In Disguise](https://open.spotify.com/album/6gCCMU08HProILDq9vUAwU) | 2:33 |
 | 38 | [Liminal Dreaming](https://open.spotify.com/track/4YK3iJ7nxmRhQJ14Sz3a9a) | [sadchurro](https://open.spotify.com/artist/4J6wdLY1wV8WkrJKD7OA4t) | [Everything Is Not Real](https://open.spotify.com/album/5vopyoDhJ2tSkdNGlS3ki5) | 2:58 |
 | 39 | [Velvet Love](https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Velvet Petals](https://open.spotify.com/album/6fFHDyWW8d4wTqkRbBKFcA) | 3:20 |

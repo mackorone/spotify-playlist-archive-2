@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Cumbia Pedregal en portada \ud83c\udf39",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. R\u00e9gulo Molina, Oscar Maydon y Neton Vega en portada \ud83c\udf39",
   "name": "La Miscel\u00e1nea",
   "tracks": [
     {
@@ -952,6 +952,32 @@
       "duration_ms": 210349,
       "name": "Camaron Pelao",
       "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
+    },
+    {
+      "album": {
+        "name": "Canasteo",
+        "url": "https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295813,
+      "name": "Canasteo",
+      "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
     },
     {
       "album": {
@@ -2965,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "Indeciso",
+        "url": "https://open.spotify.com/album/7yPt7fNPKykfE7w6Kio5ut"
+      },
+      "artists": [
+        {
+          "name": "Alan M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/296gLSTI3L5oWnQsPUXrox"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181136,
+      "name": "Indeciso",
+      "url": "https://open.spotify.com/track/7p9fOvi5oKSAhFebT1wYuN"
+    },
+    {
+      "album": {
         "name": "Pura Manzanita Vol. 4",
         "url": "https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp"
       },
@@ -3016,6 +3060,24 @@
       "duration_ms": 140586,
       "name": "Jordan Fly",
       "url": "https://open.spotify.com/track/46E20RV1VLUJqidEfXP1UM"
+    },
+    {
+      "album": {
+        "name": "Deseos",
+        "url": "https://open.spotify.com/album/0IHLwRJBLxoPKMPMSw7T6V"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150930,
+      "name": "Juega Conmigo",
+      "url": "https://open.spotify.com/track/6WaAlcxkJAjyopyvCceecf"
     },
     {
       "album": {
@@ -6875,6 +6937,24 @@
     },
     {
       "album": {
+        "name": "TODO PENDEJO",
+        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190359,
+      "name": "TODO PENDEJO",
+      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
+    },
+    {
+      "album": {
         "name": "Cumbia A Toda Banda",
         "url": "https://open.spotify.com/album/5WUcha1RgCXnyI1JIIiAnC"
       },
@@ -7266,6 +7346,24 @@
       "duration_ms": 217186,
       "name": "Vamos A Vernos",
       "url": "https://open.spotify.com/track/397f40lelcxJlZkrwNNV3w"
+    },
+    {
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/1vcNKNHsOB8BOvoie4mhdw"
+      },
+      "artists": [
+        {
+          "name": "Osscar Torres",
+          "url": "https://open.spotify.com/artist/5On5rfwAI9b3Xzn7Pta4Kw"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127783,
+      "name": "Vamos Empezando",
+      "url": "https://open.spotify.com/track/2oHLFiokInTqoT9eNHdJXK"
     },
     {
       "album": {

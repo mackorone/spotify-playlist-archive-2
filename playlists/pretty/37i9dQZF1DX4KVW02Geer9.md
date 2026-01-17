@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 上原ひろみ, Hiromi's Sonicwonder
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,585 likes - 84 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,605 likes - 84 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OUT THERE: Strollin’ \- Live at Sony Hall/ 2025](https://open.spotify.com/track/0l7f5hYdm8sncxpXsNfOfN) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [OUT THERE: Strollin’ \(Live at Sony Hall/ 2025\)](https://open.spotify.com/album/1PCMSPVvxzHD5o51IgEvSL) | 7:28 |
 | 2 | [Up From Here](https://open.spotify.com/track/5E2qUNifVLQw4QaKNeOrJT) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Up From Here](https://open.spotify.com/album/4CIK0AoMAdzQksAD6Jio4n) | 4:18 |
 | 3 | [Idea \#5](https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Not Everyone Can Go \(Deluxe\)](https://open.spotify.com/album/6iieFjF7ntXUDXDCZo0YGW) | 3:56 |
-| 4 | [Track 3](https://open.spotify.com/track/0XQsLIjr0fJUFJgRpDij8x) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [EARLY AUTUMN](https://open.spotify.com/track/0XQsLIjr0fJUFJgRpDij8x) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [LIVE\-ACTION \(Deluxe\)](https://open.spotify.com/album/5NHAIJ3NGdJPLvlYNO7ARG) | 2:21 |
 | 5 | [Your techno \(feat\. Reiya Terakubo\)](https://open.spotify.com/track/4n8vBaC4uU13izmOyTKN3Y) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Gnarly](https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn) | 2:42 |
 | 6 | [Amami \(feat\. Minami Kizuki\)](https://open.spotify.com/track/4LgM9jizqppslT1cYDeUZT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Minami Kizuki](https://open.spotify.com/artist/3iklqyLETq25WsazEFbL29) | [Amami \(feat\. Minami Kizuki\)](https://open.spotify.com/album/4Puq2ovCYPcoFX48C10h7u) | 5:24 |
 | 7 | [My people](https://open.spotify.com/track/5LugbTIL82nL9ZxOzRUyrN) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [My people](https://open.spotify.com/album/0PaQXhs5b80k8iGUkTcQZg) | 3:56 |

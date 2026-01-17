@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,596 likes - 54 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,583 likes - 54 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/track/7mUPCop88z8A4mTP1Rxrvq) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/album/6ODopWPSC73RjkK0bN3UjL) | 2:41 |
 | 2 | [ACCELERATION](https://open.spotify.com/track/6rNAaJAYB3P9aHKdHmzr4P) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ACCELERATION](https://open.spotify.com/album/6ExgHkQczbskQxCIqxsV4W) | 2:29 |
 | 3 | [Casablanca](https://open.spotify.com/track/6RhsEGklWBop341obhrBge) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Casablanca](https://open.spotify.com/album/0OtdCJ3w2ExSin2HkSKsav) | 2:12 |
-| 4 | [Track 9](https://open.spotify.com/track/0PUfJ77DHXydetNvwYsI31) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [3 2 1 \(feat\. Jamaika\)](https://open.spotify.com/track/0PUfJ77DHXydetNvwYsI31) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Højt At Flyve Dybt At Falde](https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU) | 2:41 |
 | 5 | [Bella](https://open.spotify.com/track/4vBmOdsWBa6HvHlzqVYhSh) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Bella](https://open.spotify.com/album/0UVSC630dOdCW1CVqXGP5M) | 2:13 |
 | 6 | [Ai Freestyle](https://open.spotify.com/track/2U6Z3P81M2hySvxe2vcjEx) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Ai Freestyle](https://open.spotify.com/album/3GtHmCeJKOdocPuvKHTlZd) | 2:34 |
 | 7 | [Ghost](https://open.spotify.com/track/1aMbgp8fbQ4rr1eKDbNYcn) | [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE) | [Ghost](https://open.spotify.com/album/4nxUHrW2yDYmBoGGkVnYvW) | 2:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Yael Naim \(du titre \#1 au \#20\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,458 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,449 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [COOL \(feat\. Zélie\)](https://open.spotify.com/track/0TZ0CkkvJShJUqKnH0BXC1) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [COOL \(feat\. Zélie\)](https://open.spotify.com/album/2kw9b418dvrBsd22Ym2DI1) | 3:01 |
 | 50 | [NO STRESS](https://open.spotify.com/track/6XfYPlcJGR48xgye2kSOmw) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [NO STRESS](https://open.spotify.com/album/1Zgq9rZDRCkWZX9JZq98BJ) | 2:33 |
 
-Snapshot ID: `AAAAAP22TADdyK0eEZ+DB77PDbyhiVcA`
+Snapshot ID: `AAAAAG9zLa3zeWsJD5AmM5Ue7vVMZZBv`

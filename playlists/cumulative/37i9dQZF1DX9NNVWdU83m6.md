@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-174 songs - 15 hr 43 min
+175 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Notbad](https://open.spotify.com/track/2BRWFZdMZpWdEcS13RmVoB) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Notbad](https://open.spotify.com/album/6ysbCFN1LoILYOj5Y46yVb) | 4:09 | 2024-03-08 |  |
 | [Novruz](https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Planet](https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL) | 5:32 | 2021-03-26 | 2024-04-19 |
 | [Novruz](https://open.spotify.com/track/5a4psUHksmJQl6OXWSAJLC) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Novruz](https://open.spotify.com/album/5pUuSd6GdorUyn2dR0wGmm) | 5:32 | 2021-03-26 |  |
+| [Open Road](https://open.spotify.com/track/2vMbUpZAvOaFWpX1XXZVjB) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Open Road](https://open.spotify.com/album/2xXH1zI5UN7on12TNw5DDI) | 7:28 | 2026-01-16 |  |
 | [Ornithophobia](https://open.spotify.com/track/7ltIEsCk076HtkZRJaoA9g) | [Troyka](https://open.spotify.com/artist/0BxmFQFbzdxyrUlumvE7zz) | [Ornithophobia](https://open.spotify.com/album/71i59tB4Mw5xifmg0RRIoq) | 4:56 | 2021-01-27 |  |
 | [Outcry](https://open.spotify.com/track/4gFVpvXL947NOItXJXDpdo) | [Dejan Terzic](https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065), [Axiom](https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS), [Chris Speed](https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO), [Bojan Zulfikarpašić](https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k) | [Outcry](https://open.spotify.com/album/0xyPOCgXbaR8b4FYEmxNMp) | 7:12 | 2021-04-23 |  |
 | [OVERTURE: SQUIGGLECORE](https://open.spotify.com/track/6OUxAgDqU17HYb1CboXEob) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [PREHISTORY](https://open.spotify.com/album/2e0D29Q3V8DUdg2bbmE1Xa) | 1:30 | 2022-08-12 | 2022-08-20 |

@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Girls Just Want to Have Fun",
+        "url": "https://open.spotify.com/album/0ANpeLpdSK3wVjIt8nJgI4"
+      },
+      "artists": [
+        {
+          "name": "everlow",
+          "url": "https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173954,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/6CEzzw32qK4EqmmdFXaGEv"
+    },
+    {
+      "album": {
         "name": "Girls Just Want to Have Fun (Acoustic)",
         "url": "https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ"
       },
@@ -1962,7 +1980,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 140442,
       "name": "Girls Just Want to Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m"
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 190652,
       "name": "Heather - Spotify Singles",
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
@@ -4188,6 +4206,24 @@
       "duration_ms": 149541,
       "name": "One",
       "url": "https://open.spotify.com/track/1YuKlF5t0vvkMeq7GCHYZJ"
+    },
+    {
+      "album": {
+        "name": "One Dance",
+        "url": "https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8"
+      },
+      "artists": [
+        {
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1"
     },
     {
       "album": {

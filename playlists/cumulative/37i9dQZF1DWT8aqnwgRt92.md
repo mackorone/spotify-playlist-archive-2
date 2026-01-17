@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,411 songs - 6 day 5 hr 10 min
+2,413 songs - 6 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 | 2023-10-03 | 2023-11-22 |
 | [HYSTERIC CARAVAN](https://open.spotify.com/track/6j6ndhPYXdE2p4PD1Bljiv) | [Showtaro Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [HYSTERIC CARAVAN](https://open.spotify.com/album/0rEOEfJikdn5Klb8dKK1za) | 3:59 | 2023-01-17 | 2023-04-11 |
 | [H歴維新](https://open.spotify.com/track/0TZuZM0OBuJ4KyLEMOLtbt) | [ヒプノシスマイク \-D.R.B\- \(山田一郎\)](https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP) | [.Buster Bros!!!](https://open.spotify.com/album/2x5qJ7vdhpXxBqcMpbRhIB) | 3:21 | 2024-06-25 | 2024-07-10 |
-| [I](https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [I](https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr) | 4:06 | 2025-10-14 |  |
+| [I](https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [I](https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr) | 4:06 | 2025-10-14 | 2026-01-17 |
 | [I AM I](https://open.spotify.com/track/4KKkvUpWlRUgw4MYh33X3N) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [Daisuke Asakura](https://open.spotify.com/artist/1UkEVUkVZVeSSxFvKHgcYZ), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [I AM I](https://open.spotify.com/album/3jET3MbFSj79mOcamKMUGt) | 3:58 | 2022-08-02 | 2022-08-17 |
 | [I Believe](https://open.spotify.com/track/7HlJKKUv2NJq8q43yUkoL3) | [Zakuro Fujiwara\(CV:Momoka Ishii\)](https://open.spotify.com/artist/2AhkWcubMNCPU14jOpeNaI) | [I Believe](https://open.spotify.com/album/7qJPUOixcYQfpQjGwqIy6l) | 4:55 | 2022-07-28 | 2022-08-17 |
 | [I Can Bleah](https://open.spotify.com/track/2g0lxFQtQ952WX0IV7b0yJ) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [ケーブルサラダ](https://open.spotify.com/album/34KdkdBURpzwXzI4bIF6Ot) | 2:48 | 2023-11-14 | 2023-12-25 |
@@ -908,6 +908,7 @@
 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-28 | 2022-09-30 |
 | [POLARIS IN THE NIGHT](https://open.spotify.com/track/0Nv8zocbCLFa35NK4IQig5) | [シャドウガーデンナンバーズ](https://open.spotify.com/artist/1vfwKBWqzxR5sXotNV8Hvw) | [ENDING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW” 2ND SEASON](https://open.spotify.com/album/1S1y6JcfwJhkrOtQsl5Uon) | 3:55 | 2023-10-12 | 2023-11-08 |
 | [POP LIFE](https://open.spotify.com/track/7adbiAgsfhYCSiwGrsLPV8) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [POP LIFE](https://open.spotify.com/album/02RkMgfCqoe4rbknn84VjO) | 3:05 | 2025-09-30 | 2025-12-17 |
+| [POWER](https://open.spotify.com/track/3czXRC1ZSS4aYlLAMoxg2y) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [POWER](https://open.spotify.com/album/0bvHQE5uTxsfNnm6x1JhQX) | 2:21 | 2026-01-16 |  |
 | [pray](https://open.spotify.com/track/1xnr08J8RdlHrDXKYarF9M) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [pray](https://open.spotify.com/album/5yZ6GMSNq2Vx3HEqWMF3Zw) | 4:11 | 2024-07-12 | 2024-10-04 |
 | [Prayer](https://open.spotify.com/track/7pKHXmkkGkT2UZpt7DU4nd) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Prayer](https://open.spotify.com/album/7yCylSqqsPNlVeLPUxJB1h) | 3:08 | 2023-10-07 | 2023-12-08 |
 | [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-08-30 | 2022-10-19 |
@@ -1085,6 +1086,7 @@
 | [Souvenir](https://open.spotify.com/track/7oDOxETuuLCEMCZAMOtzb7) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Souvenir](https://open.spotify.com/album/4pPHIsW4J65UpMTqlElElh) | 3:13 | 2025-07-10 | 2025-07-16 |
 | [So☆Lucky](https://open.spotify.com/track/3EIx4PjDiwpprZfe0ykje9) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [So☆Lucky](https://open.spotify.com/album/56FRZbmXAi71s9cm9PTfLL) | 3:13 | 2025-04-05 | 2025-05-07 |
 | [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 | 2022-11-24 | 2023-01-13 |
+| [Speak of the Devil](https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Speak of the Devil](https://open.spotify.com/album/0xC2kMMJgBSWohWmTDeW8L) | 3:42 | 2026-01-16 |  |
 | [Speak Out meets Giga](https://open.spotify.com/track/2lEO1KZiyh5gsSM10H2q4o) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Speak Out meets Giga](https://open.spotify.com/album/5JHClsBOrIzUUMWUbJpceO) | 2:45 | 2022-10-25 | 2023-01-13 |
 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 | 2023-11-28 | 2024-07-03 |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-08-31 | 2023-11-29 |
@@ -1335,7 +1337,7 @@
 | [With You](https://open.spotify.com/track/0c6N2M3SJS081a3n1Vutuy) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With You](https://open.spotify.com/album/6fbXXOpIKmv5Zfd8ajyaPp) | 4:34 | 2022-07-28 | 2022-09-02 |
 | [With you](https://open.spotify.com/track/57RtosVWxGr0pOSr6A9FYh) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With you](https://open.spotify.com/album/0Pjg5M9cD5YQNerW2oFFw6) | 4:34 | 2022-07-07 | 2022-07-29 |
 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-02-07 | 2023-04-19 |
-| [wo ai ni](https://open.spotify.com/track/1Q7ttBebkITH4FjlJharwn) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Kawaii girl](https://open.spotify.com/album/2icxMmJTHz9F2qYofhXPqX) | 3:53 | 2025-09-23 |  |
+| [wo ai ni](https://open.spotify.com/track/1Q7ttBebkITH4FjlJharwn) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Kawaii girl](https://open.spotify.com/album/2icxMmJTHz9F2qYofhXPqX) | 3:53 | 2025-09-23 | 2026-01-17 |
 | [WONDER LiGHT](https://open.spotify.com/track/3DxQteR3hlJvFGR3NrH7IL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WONDER LiGHT](https://open.spotify.com/album/2IrYnafy5p44G36o8eDvJs) | 3:27 | 2022-10-04 | 2022-11-16 |
 | [wonderful days](https://open.spotify.com/track/0CXwri3vSFW6Fs9tS5WvfJ) | [さくらこ&ムームー](https://open.spotify.com/artist/6c9ECxeQcqGFXQN5esjnoF) | [wonderful days](https://open.spotify.com/album/2l0JP7vyGIdpn2ijHD0iwm) | 3:30 | 2025-07-08 | 2025-07-16 |
 | [Wonderlust!!](https://open.spotify.com/track/1eFE2MInED6mRGWbdfqetL) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [Wonderlust!!](https://open.spotify.com/album/7oRJQBs0pkRE0NHwBlud2Q) | 3:34 | 2025-01-07 | 2025-01-22 |

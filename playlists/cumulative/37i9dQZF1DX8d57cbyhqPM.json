@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Ninho.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton GIMS et Tantine Theodora.",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 141290,
       "name": "Bonbon",
       "url": "https://open.spotify.com/track/3Lasn0k10J5Xx3nlez8N6h"
@@ -5994,7 +5994,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 130000,
       "name": "J\u2019crois qu\u2019ils ont pas compris",
       "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
@@ -6254,7 +6254,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 160910,
       "name": "KING KESTER",
       "url": "https://open.spotify.com/track/6Zhv93rhjjYtsJb3FWoIpe"
@@ -8483,6 +8483,24 @@
     },
     {
       "album": {
+        "name": "MOBYLETTE",
+        "url": "https://open.spotify.com/album/57D1g9zBMi2n0aDUss3jYy"
+      },
+      "artists": [
+        {
+          "name": "ARTICLE15",
+          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223793,
+      "name": "MOBYLETTE",
+      "url": "https://open.spotify.com/track/3pezA1P96DJVOZ5zVw0pFG"
+    },
+    {
+      "album": {
         "name": "Momie",
         "url": "https://open.spotify.com/album/4wVtvpZ1p7XVFLHYJwm8wi"
       },
@@ -9370,6 +9388,28 @@
       "duration_ms": 169750,
       "name": "Nani",
       "url": "https://open.spotify.com/track/7hOpOQGiOrt5Ba2mwy5IU2"
+    },
+    {
+      "album": {
+        "name": "NAO BANGO TE",
+        "url": "https://open.spotify.com/album/5QLox2xu6PEnqzxnTrV2FT"
+      },
+      "artists": [
+        {
+          "name": "Tres",
+          "url": "https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l"
+        },
+        {
+          "name": "Dogga Dogga",
+          "url": "https://open.spotify.com/artist/00m0nroiqxIcjFmhXtYObr"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163823,
+      "name": "NAO BANGO TE",
+      "url": "https://open.spotify.com/track/4wOkYDN5Jv0RUtAXyDz5Lo"
     },
     {
       "album": {
@@ -11963,6 +12003,28 @@
     },
     {
       "album": {
+        "name": "SPA",
+        "url": "https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183307,
+      "name": "SPA",
+      "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79"
       },
@@ -12987,6 +13049,24 @@
     },
     {
       "album": {
+        "name": "THUG CEREMONY",
+        "url": "https://open.spotify.com/album/7HXLcrvfG2UXJcZFLdKfB5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149593,
+      "name": "TRAHISON POUR DU PAPERS",
+      "url": "https://open.spotify.com/track/386lC3S1fta3sRqXai233D"
+    },
+    {
+      "album": {
         "name": "Travailler",
         "url": "https://open.spotify.com/album/1UbUW64IySlKk0MQw2Xc1O"
       },
@@ -13510,7 +13590,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 105613,
       "name": "Wagyu du Jap'",
       "url": "https://open.spotify.com/track/0f23kGg4dotmFXMxBRnTpF"

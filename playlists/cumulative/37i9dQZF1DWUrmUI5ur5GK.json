@@ -755,28 +755,6 @@
     },
     {
       "album": {
-        "name": "Our Best Irish Pub Songs",
-        "url": "https://open.spotify.com/album/7xVuNlRglrMfgOnEr3aUZt"
-      },
-      "artists": [
-        {
-          "name": "Johnny Logan",
-          "url": "https://open.spotify.com/artist/27rXetqqGSi2spXzggwehc"
-        },
-        {
-          "name": "Friends",
-          "url": "https://open.spotify.com/artist/76JUQKPJSC9OkcCGQ2cmuR"
-        }
-      ],
-      "date_added": "2020-03-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 227666,
-      "name": "The Irish Rover",
-      "url": "https://open.spotify.com/track/5cmgKb5oNvCQXXh94YBOhy"
-    },
-    {
-      "album": {
         "name": "The Irish Connection",
         "url": "https://open.spotify.com/album/5QFGKq3F7nwj615jRrOcTC"
       },
@@ -792,6 +770,28 @@
       "duration_ms": 226346,
       "name": "The Irish Rover",
       "url": "https://open.spotify.com/track/0wR22IagjH4rTSKjZWEN0f"
+    },
+    {
+      "album": {
+        "name": "Our Best Irish Pub Songs",
+        "url": "https://open.spotify.com/album/7xVuNlRglrMfgOnEr3aUZt"
+      },
+      "artists": [
+        {
+          "name": "Johnny Logan & Friends",
+          "url": "https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6"
+        },
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/76JUQKPJSC9OkcCGQ2cmuR"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "The Irish Rover",
+      "url": "https://open.spotify.com/track/5cmgKb5oNvCQXXh94YBOhy"
     },
     {
       "album": {

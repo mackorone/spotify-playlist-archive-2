@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,024 likes - 100 songs - 5 hr 35 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,016 likes - 105 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,10 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 98 | [Song For My Son \(feat\. Kane Brown\)](https://open.spotify.com/track/2wUT327Dd5zPsUpE7lMqly) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [17 Problems](https://open.spotify.com/album/02epJ6msSRbMcoCbZGLV1h) | 2:53 |
 | 99 | [Good Run](https://open.spotify.com/track/4iwY4G8PmGnqL228wcT1o2) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Good Run](https://open.spotify.com/album/02qxb3gX5mrdM9nTptXqTB) | 3:36 |
 | 100 | [Safe Place To Break](https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Golden Child \(The Final Chapter\)](https://open.spotify.com/album/0HqvCRbmTmx7liSWmFhI6m) | 3:52 |
+| 101 | [I Don't Care](https://open.spotify.com/track/6ryklsC1VIlTSV7QtWh24G) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [I Don't Care](https://open.spotify.com/album/4sDwA8aZsjRN9gSotJQwYa) | 3:49 |
+| 102 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 |
+| 103 | [Message to You](https://open.spotify.com/track/00asEdGggYrPYfLbDRI6HE) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Message to You](https://open.spotify.com/album/7ki0RbD7gen6uL67N6Baqo) | 3:37 |
+| 104 | [enabling](https://open.spotify.com/track/0qYEfg6RftcrQoSVQn4fKw) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [enabling](https://open.spotify.com/album/2wUsvgaVMbVWJulBNAROWC) | 3:18 |
+| 105 | [Always Be The One](https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Always Be The One](https://open.spotify.com/album/4lr4Mosc7nogwInirByGPG) | 3:06 |
 
-Snapshot ID: `AAANnhTZBRKMAaS0qos/7JAQJmkKR46h`
+Snapshot ID: `AAANoyHd1CiEZdE+Iim4qFt6vTmRf5DX`

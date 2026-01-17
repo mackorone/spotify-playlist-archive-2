@@ -4,12 +4,13 @@
 
 > Music from shows and movies you love including All's Fair, now streaming on Hulu.
 
-182 songs - 8 hr 57 min
+183 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Day In The Life \- Remastered 2009](https://open.spotify.com/track/0hKRSZhUGEhKU6aNSPBACZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 5:37 | 2024-01-05 | 2024-07-03 |
 | [A Mother's Influence](https://open.spotify.com/track/5nnv5nci7rosFObNZVUVRq) | [Sion Trefor](https://open.spotify.com/artist/2a5yyDrTuWCLGXOIGLpnBt) | [Say Nothing \(Original Soundtrack\)](https://open.spotify.com/album/0GYiPIg7l2jDeM74lqlYjF) | 2:41 | 2024-11-15 |  |
+| [Addicted to Love \- From "Tell Me Lies \(Season 3\)"](https://open.spotify.com/track/5DeYkAfWWVLyD7vZbN2I7I) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Addicted to Love \[From "Tell Me Lies \(Season 3\)"\]](https://open.spotify.com/album/5obq7XI9DoZRevqIACrjoe) | 3:05 | 2026-01-16 |  |
 | [Alien \- Earth](https://open.spotify.com/track/7v5pjaMvpZ6TL3exjqQfrU) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Alien: Earth \(Original Soundtrack\)](https://open.spotify.com/album/29rW2ZaHjqfTtHN5CbZJIN) | 2:38 | 2025-08-15 |  |
 | [All These Things That I've Done](https://open.spotify.com/track/10PM0z82JBTm34E0Jikpvm) | [Gabriel Mann](https://open.spotify.com/artist/33dnQjRlbxp0FzvlNpy50B) | [A Million Little Things: Season 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/49xVXnOn5JDk8C4bCThLEd) | 3:45 | 2025-05-06 |  |
 | [Amanda's Theme](https://open.spotify.com/track/774w1lUJ1YSxx06rOn6m49) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [The Twisted Tale of Amanda Knox \(Original Soundtrack\)](https://open.spotify.com/album/1oslXD08slfLiFZMaAcFiy) | 4:16 | 2025-11-14 |  |

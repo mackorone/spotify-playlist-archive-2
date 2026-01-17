@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Nabila Taqiyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,007 likes - 119 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,012 likes - 119 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Samantha Fish",
-  "num_followers": 256382,
+  "num_followers": 256466,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAAFxhR00I2ZZChGGb1XdMjUt1D8sM",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:30",
+      "album": {
+        "name": "Nowhere to Go",
+        "url": "https://open.spotify.com/album/0Z8hvkNrqwuvZoKxbkNFKI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 196827,
+      "name": "Nowhere to Go",
+      "url": "https://open.spotify.com/track/0c5eEKZW45gQyBNipU01yW"
+    },
     {
       "added_at": "2025-12-12 05:00:30",
       "album": {
@@ -167,22 +183,6 @@
       "duration_ms": 233488,
       "name": "HIGH/LOW",
       "url": "https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6"
-    },
-    {
-      "added_at": "2025-05-23 04:00:36",
-      "album": {
-        "name": "Evil Eye",
-        "url": "https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 148026,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/0HCWTypvO4PiGXJBdG1H9f"
     },
     {
       "added_at": "2025-06-13 04:00:32",

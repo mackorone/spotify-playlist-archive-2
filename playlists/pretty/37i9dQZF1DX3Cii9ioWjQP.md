@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Youn Sun Nah \(나윤선\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,641 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,644 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 49 | [The Night View In Seoul \(Feat\. Ahn Seo Jin\) \- Big Band ver.](https://open.spotify.com/track/4cgJ9kHbKo6Y2iiflpyyul) | [Yoo Geunho](https://open.spotify.com/artist/3qZ6sXsOvArciJpBmTZz4g), [Ahn Seo Jin](https://open.spotify.com/artist/3vNsicv6rbMD90Mp3OPno6) | [The Night View In Seoul \(Feat\. Ahn Seo Jin\) \[Big Band ver.\]](https://open.spotify.com/album/6hmeZFTtNzTCf9m7DCv48f) | 3:37 |
 | 50 | [SoftSwing](https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Soft Swing Jazz Piano](https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S) | 2:34 |
 
-Snapshot ID: `AAAAAC+dJgFeFDx6JsGj0svdxnWBChSO`
+Snapshot ID: `AAAAAFv1oboqSIWU3WheTZZu3Rsb3xBQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 3,951 likes - 172 songs - 9 hr 44 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 3,950 likes - 174 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,5 +180,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 170 | [Gravity](https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij) | [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Gravity](https://open.spotify.com/album/74HNHfB066STy568ETJsPl) | 1:53 |
 | 171 | [CHIPI CHIPI CHAPA CHAPA PHONK](https://open.spotify.com/track/5EcejFT18sRlINSUm9UrN2) | [Lyamev](https://open.spotify.com/artist/66JRvwn4ZWl96JJauc7xXa) | [CHIPI CHIPI CHAPA CHAPA PHONK](https://open.spotify.com/album/3DBq5ATRCN44y57HL3HCzl) | 1:21 |
 | 172 | [Burnt Rice \(feat\. Yung GEMMY\)](https://open.spotify.com/track/2S4N7RYlhHr1vWadDaleuJ) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Yung GEMMY](https://open.spotify.com/artist/5ZAPfZ2QrWRwg7vtyfky9t) | [Burnt Rice \(feat\. Yung GEMMY\)](https://open.spotify.com/album/2QIAWsoHz28fOoMDnDwRXc) | 2:00 |
+| 173 | [Abstraction \(Big Band Version\)](https://open.spotify.com/track/6RlqmQ5DMLDvXxibvBAsLG) | [KittenSneeze](https://open.spotify.com/artist/2WKgR22LeNxOzIllOfH4ZW), [Amanda Hufford](https://open.spotify.com/artist/69BxTUnWd8ujTo7GUdGFdA), [Michael Kovach](https://open.spotify.com/artist/7Gz9xqvzDYD8G3LnlolOdZ), [CLOUDSAVE](https://open.spotify.com/artist/6Po9si7KKnwz4fDuerSR7V) | [Abstraction \(Big Band Version\)](https://open.spotify.com/album/5x0168foSD4FsNjrLfgt8S) | 3:36 |
+| 174 | [A Little Bit Bad](https://open.spotify.com/track/3FcfrGCfPw5hBAXRXqkXv7) | [KittenSneeze](https://open.spotify.com/artist/2WKgR22LeNxOzIllOfH4ZW), [Tunnelberg](https://open.spotify.com/artist/0bW6E136CbdrMmbk6MlJiB), [The Musical Ghost](https://open.spotify.com/artist/5NCTflTCAp9FUqwYRz6N9n) | [A Little Bit Bad](https://open.spotify.com/album/7fdSRH1s1pNbyfu8141YIa) | 2:21 |
 
-Snapshot ID: `AAAB/YkofIRPHfFX470hufbFwK1smBuU`
+Snapshot ID: `AAACAPsuBcS65utSidkntj9AbrYUxcrS`

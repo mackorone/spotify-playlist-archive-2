@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- ARJN & KDS
+> India's Rap Scene\. Cover \- Dhanda Nyoliwala
 
-366 songs - 19 hr 41 min
+367 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Dil Lena Khel](https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Dil Lena Khel](https://open.spotify.com/album/0pA1hZCAfTz1TrV6oXpD1M) | 2:26 | 2024-04-19 | 2024-08-27 |
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2023-08-17 | 2024-10-10 |
 | [Doon](https://open.spotify.com/track/6nthwAxdXDMU0LczZ5FUFd) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Doon](https://open.spotify.com/album/0SoxFtfAbIOHktfwT5NPSC) | 2:26 | 2024-04-12 | 2024-04-19 |
-| [Dr\. DIVINE](https://open.spotify.com/track/2UBKWPgJamT9OfwGeCpHxJ) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Walking on Water](https://open.spotify.com/album/0XJyOVcQlRENIxTGc357JQ) | 2:33 | 2025-12-19 |  |
+| [Dr\. DIVINE](https://open.spotify.com/track/2UBKWPgJamT9OfwGeCpHxJ) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Walking on Water](https://open.spotify.com/album/0XJyOVcQlRENIxTGc357JQ) | 2:33 | 2025-12-19 | 2026-01-17 |
 | [Drinks On Me](https://open.spotify.com/track/6mt8Bt9aHHCfbTBJMAcceJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:56 | 2024-03-22 | 2024-09-03 |
 | [Droptop](https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Droptop](https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD) | 2:21 | 2023-03-27 | 2023-04-20 |
 | [Dubai Company](https://open.spotify.com/track/2WPrPbxLa6nmmc57neRHTT) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Dubai Company](https://open.spotify.com/album/6zesrJdInqftcOiyfF2Tdy) | 3:09 | 2025-08-01 | 2025-12-20 |
@@ -242,6 +242,7 @@
 | [No Fluke](https://open.spotify.com/track/0e00wW89E66Ndp8poSdjA2) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [No Fluke](https://open.spotify.com/album/4bWXLZzAM9LIIUOoPnEpnr) | 3:28 | 2025-08-08 | 2025-10-04 |
 | [NO MIDMAN](https://open.spotify.com/track/4vrnlcjMrRpTecEvdiuiAv) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [NO MIDMAN](https://open.spotify.com/album/3z7Qb70k9Q3jIB8q5pjfko) | 3:38 | 2025-08-15 | 2025-08-30 |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-04-19 | 2024-09-26 |
+| [Not Guilty](https://open.spotify.com/track/4YPSg93DDJW9Uf4IgklCHc) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Not Guilty](https://open.spotify.com/album/2ArzqdKnu0N93P4Z206F7c) | 2:55 | 2026-01-16 |  |
 | [Not Like You](https://open.spotify.com/track/4N1ExTZqjnU5D2sfiK8Xvj) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Not Like You](https://open.spotify.com/album/27eYgmQwzC3JT6FbCsIYlF) | 2:21 | 2025-07-18 |  |
 | [Nothing Lasts](https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 2:56 | 2024-02-15 | 2024-02-23 |
 | [Nothing to Prove](https://open.spotify.com/track/1YCQAPP5mmtZWEiL6Wxbjv) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Yours Truly](https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU) | 3:20 | 2025-05-23 | 2025-05-31 |

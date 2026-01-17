@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > un misterioso prima stanza a destra in cover di una \(misteriosa?\) indie italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,516 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,511 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 25 | [Tornare a casa](https://open.spotify.com/track/4oX7pVZwmmLU6K6F1JvIGE) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Casa Paradiso](https://open.spotify.com/album/0T7QZBhRRVPiRCwkkDMEFF) | 3:56 |
 | 26 | [2minuti](https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:34 |
 | 27 | [Astri](https://open.spotify.com/track/6IxuNkruuGCSVHc9nY7sFk) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd) | [Astri](https://open.spotify.com/album/2pG1yO9hcUKUEobzi6gnb6) | 3:41 |
-| 28 | [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [](https://open.spotify.com/album/null) | 4:16 |
+| 28 | [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Dementia](https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw) | 4:16 |
 | 29 | [MANIFESTAZIONE D'AMORE](https://open.spotify.com/track/4CVzKDQSP7dZOzca7vQvsH) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [MANIFESTAZIONE D'AMORE](https://open.spotify.com/album/15FtREzDJ4JZLRFxMMmeY3) | 3:04 |
 | 30 | [Piazzale degli Eroi](https://open.spotify.com/track/0HznKHR0rq2ydRPTNdr4yX) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Piazzale degli Eroi](https://open.spotify.com/album/0JkG2md6SYiPWmDqMToBt9) | 3:25 |
 | 31 | [Bella Mossa \(feat\. Coez\)](https://open.spotify.com/track/4VW9kBi5TB2QlhihKgP6tn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 |

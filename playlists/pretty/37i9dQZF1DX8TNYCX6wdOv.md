@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TNYCX6wdOv.md) - [plain]
 
 ### [Best of Rising 65 2025](https://open.spotify.com/playlist/37i9dQZF1DX8TNYCX6wdOv)
 
-> Editor's picks of the best of Rising 65 this year\. Cover: karan
+> Editor's picks of the best of Rising 65 in 2025\. Cover: karan
 
 [Spotify](https://open.spotify.com/user/spotify) - 388 likes - 50 songs - 2 hr 43 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TNYCX6wdOv.md) - [plain]
 | 49 | [Left On Read](https://open.spotify.com/track/4aGdf99LAg5zphsfTk1Mp8) | [Hyrul Anuar](https://open.spotify.com/artist/0x293FNzw6n8ecS86MP4ku) | [Left On Read](https://open.spotify.com/album/5M9MJun0Blu5sr7QrJgHPQ) | 3:48 |
 | 50 | [Safe](https://open.spotify.com/track/4egBKvnGHtwBg8JfOsFOin) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Safe](https://open.spotify.com/album/2ZuIDEHxtSkmGR4EwtkDkc) | 3:38 |
 
-Snapshot ID: `AAAAAGzQxMqkf9pQi0E5ZHEvsjevEwEx`
+Snapshot ID: `AAAAALz5Zg3KStBEawxmeeKQox+1TSt7`

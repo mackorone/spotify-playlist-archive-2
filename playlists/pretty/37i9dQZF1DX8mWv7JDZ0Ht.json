@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Balara",
-  "num_followers": 436093,
+  "num_followers": 436074,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQAJpgbPj/79nhGZg3pdgTKPOIG",
+  "snapshot_id": "AAAAAIXac253jb9tYjo/3+0NEf16Ojec",
   "tracks": [
     {
       "added_at": "2026-01-09 03:01:26",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Pretexto",
-        "url": "https://open.spotify.com/album/6cvwxTk42k9LP4J9ZJQ5SG"
-      },
-      "artists": [
-        {
-          "name": "Davi Cartaxo",
-          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
-        }
-      ],
-      "duration_ms": 180366,
-      "name": "Pretexto",
-      "url": "https://open.spotify.com/track/6GMsqYJqZAOvddZ4Tins4g"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Vai que",
         "url": "https://open.spotify.com/album/0RSAW1GYdgpW08YGovBkE6"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 187222,
       "name": "Vai que",
       "url": "https://open.spotify.com/track/6g3nsZdsjyrsLNf1JdOf9x"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Pretexto",
+        "url": "https://open.spotify.com/album/6cvwxTk42k9LP4J9ZJQ5SG"
+      },
+      "artists": [
+        {
+          "name": "Davi Cartaxo",
+          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
+        }
+      ],
+      "duration_ms": 180366,
+      "name": "Pretexto",
+      "url": "https://open.spotify.com/track/6GMsqYJqZAOvddZ4Tins4g"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -307,26 +307,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Cada Linha",
-        "url": "https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        },
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 162339,
-      "name": "Cada Linha",
-      "url": "https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Amar \u00e9 dor",
         "url": "https://open.spotify.com/album/60UzUxJuZurdsMLBnkFqgX"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 149523,
       "name": "Amar \u00e9 dor",
       "url": "https://open.spotify.com/track/0KGzsjWpPi3Wjre5DaJQ5t"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Cada Linha",
+        "url": "https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        },
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 162339,
+      "name": "Cada Linha",
+      "url": "https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -611,26 +611,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Tudo que deu pra fazer em um ano",
-        "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 131538,
-      "name": "Nada vai ser como antes",
-      "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Fica De Dengo",
         "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
       },
@@ -651,18 +631,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Caso eu Case",
-        "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
+        "name": "Tudo que deu pra fazer em um ano",
+        "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 215943,
-      "name": "Caso eu Case",
-      "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
+      "duration_ms": 131538,
+      "name": "Nada vai ser como antes",
+      "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -687,6 +671,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "Caso eu Case",
+        "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 215943,
+      "name": "Caso eu Case",
+      "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "Sol de S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
@@ -699,26 +699,6 @@
       "duration_ms": 174000,
       "name": "Sol de S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "Improv\u00e1vel",
-        "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 176862,
-      "name": "Improv\u00e1vel",
-      "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -739,6 +719,26 @@
       "duration_ms": 145602,
       "name": "Um Doce, Uma Flor",
       "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Improv\u00e1vel",
+        "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 176862,
+      "name": "Improv\u00e1vel",
+      "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Quarto",
         "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 165676,
       "name": "T\u00e3o Perto",
       "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Daqui pra sempre",
-        "url": "https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N"
-      },
-      "artists": [
-        {
-          "name": "Deco Martins",
-          "url": "https://open.spotify.com/artist/1HigxvB8FHjDmEcXvSl2D1"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 160230,
-      "name": "Daqui pra sempre",
-      "url": "https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Mar\u00e9 Alta",
         "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 186363,
       "name": "Barco de Papel",
       "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Daqui pra sempre",
+        "url": "https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N"
+      },
+      "artists": [
+        {
+          "name": "Deco Martins",
+          "url": "https://open.spotify.com/artist/1HigxvB8FHjDmEcXvSl2D1"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 160230,
+      "name": "Daqui pra sempre",
+      "url": "https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
-      },
-      "artists": [
-        {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
-        }
-      ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Prece",
         "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 227906,
       "name": "Prece",
       "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+      },
+      "artists": [
+        {
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
     },
     {
       "added_at": "2026-01-09 03:01:26",

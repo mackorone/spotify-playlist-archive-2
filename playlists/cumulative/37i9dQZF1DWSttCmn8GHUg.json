@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "American Made",
+        "url": "https://open.spotify.com/album/2PXeBIPphyBJcWtXsQ3QyJ"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212732,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/0hLp6YwRC0pALE8IoruAxS"
+    },
+    {
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },

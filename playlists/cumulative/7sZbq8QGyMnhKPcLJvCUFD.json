@@ -7973,6 +7973,24 @@
     },
     {
       "album": {
+        "name": "Just The Way It Goes",
+        "url": "https://open.spotify.com/album/6wXde8nnDrHZArLo5uAzLI"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Just The Way It Goes",
+      "url": "https://open.spotify.com/track/17BTpUvdCQBZd5wBJPa3rI"
+    },
+    {
+      "album": {
         "name": "Kadak",
         "url": "https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8"
       },

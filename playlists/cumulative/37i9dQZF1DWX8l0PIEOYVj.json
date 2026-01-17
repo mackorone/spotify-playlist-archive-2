@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass \ud83d\udef8 with Seven Lions",
+  "description": "Future & melodic bass \ud83d\udef8 with ILLENIUM",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -5237,6 +5237,24 @@
     },
     {
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/6g9imLaJnYSaQ5d2qXdGZj"
+      },
+      "artists": [
+        {
+          "name": "Corticus",
+          "url": "https://open.spotify.com/artist/736G6EN6ceo8tNaxgN2BSK"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3DbU9TKcdp8oqUJ1JcWK40"
+    },
+    {
+      "album": {
         "name": "far away (Crankdat Remix)",
         "url": "https://open.spotify.com/album/44Drb1IMP5Ah4VXgndZojP"
       },
@@ -5296,6 +5314,32 @@
       "duration_ms": 190449,
       "name": "Feel",
       "url": "https://open.spotify.com/track/49pwMUsPve9VZw4yooft4n"
+    },
+    {
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD"
     },
     {
       "album": {
@@ -7025,6 +7069,28 @@
     },
     {
       "album": {
+        "name": "HAPPY 4 U",
+        "url": "https://open.spotify.com/album/33tNls3VpmMZMWOWiZtQVH"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "HAPPY 4 U",
+      "url": "https://open.spotify.com/track/0ycb5UE0WNNJtD3OZd1NUi"
+    },
+    {
+      "album": {
         "name": "Happy Now",
         "url": "https://open.spotify.com/album/7gLB68piW90v8apZJ4lCUN"
       },
@@ -7044,7 +7110,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 206400,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/5S3GXFVvkDQEFm4N8fnWpc"
@@ -9398,7 +9464,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 193600,
       "name": "Keep U Safe",
       "url": "https://open.spotify.com/track/7zRTdxHSAQx0CuknlLxf16"
@@ -11028,6 +11094,24 @@
       "duration_ms": 249532,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt"
+    },
+    {
+      "album": {
+        "name": "Mirrorverse",
+        "url": "https://open.spotify.com/album/5Vb5UNccfVIqVbul0pEqFm"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255360,
+      "name": "Mirrorverse",
+      "url": "https://open.spotify.com/track/5WHowBY3bpMMxoWRGAVVLp"
     },
     {
       "album": {
@@ -15072,7 +15156,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 226285,
       "name": "Something For Your Mind",
       "url": "https://open.spotify.com/track/46EGyxJ2V0rk13jUlIGL6s"
@@ -17618,7 +17702,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 290910,
       "name": "Waking up in a Dream",
       "url": "https://open.spotify.com/track/2kDzRYSeJpr7fOqRklgiYd"

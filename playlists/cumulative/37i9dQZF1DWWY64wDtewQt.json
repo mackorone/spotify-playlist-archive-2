@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "AIRTEL PHONK",
+        "url": "https://open.spotify.com/album/7BnNXqm6uK9tPF2dmXydpM"
+      },
+      "artists": [
+        {
+          "name": "Mashuq Haque",
+          "url": "https://open.spotify.com/artist/1PKjvROQd17qXlw8cVlq8T"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "AIRTEL PHONK",
+      "url": "https://open.spotify.com/track/7kR5akjqP7yi3wcLx3utiI"
+    },
+    {
+      "album": {
         "name": "UDIXSTATE",
         "url": "https://open.spotify.com/album/7GODu9f4tFoKxU1oPtPVa7"
       },
@@ -16170,7 +16188,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 125538,
       "name": "TREINAMENTO DE FOR\u00c7A",
       "url": "https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2"

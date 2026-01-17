@@ -1,12 +1,12 @@
 {
   "description": "a state of mind.",
-  "num_followers": 204890,
+  "num_followers": 204957,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACJnJeo0zeiyQNgkqYoNloV8gHLX",
+  "snapshot_id": "AAAAAMAqfz4MaG1x0gp2z7DruvGLtnxT",
   "tracks": [
     {
       "added_at": "2025-10-08 18:07:38",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
-        "name": "Morning Bail",
-        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
-      },
-      "artists": [
-        {
-          "name": "Gavin Adcock",
-          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
-        }
-      ],
-      "duration_ms": 174758,
-      "name": "Morning Bail",
-      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
         "name": "Whiskey Bent And Hell Bound",
         "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 232493,
       "name": "The Conversation",
       "url": "https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
+        "name": "Morning Bail",
+        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "duration_ms": 174758,
+      "name": "Morning Bail",
+      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/0Mt1EgjhezhBXd1WUmsWhn"
     },
     {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
-        "name": "Love And Danger",
-        "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
-      },
-      "artists": [
-        {
-          "name": "Joe Ely",
-          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
-        }
-      ],
-      "duration_ms": 273533,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7"
-    },
-    {
       "added_at": "2026-01-09 05:00:37",
       "album": {
         "name": "Little Victories",
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+        "name": "Love And Danger",
+        "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Joe Ely",
+          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
         }
       ],
-      "duration_ms": 252506,
-      "name": "Hurtin' (On the Bottle)",
-      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
+      "duration_ms": 273533,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -1235,6 +1219,22 @@
       "duration_ms": 283146,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/6XHJItDN9BGgMmaAAdvMZ9"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Hurtin' (On the Bottle)",
+      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
     },
     {
       "added_at": "2025-10-08 18:07:38",

@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 256000,
       "name": "Cool Mama Cool",
       "url": "https://open.spotify.com/track/1czfXEeDHkBWtX02GbvbJV"
@@ -3204,7 +3204,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 269995,
       "name": "Heartla Feeling",
       "url": "https://open.spotify.com/track/3iFzbqjFKZLrPjvUohxP97"
@@ -6491,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Maatram Ondru Thaan Maaraadhathu (Salsa Tamil)",
+        "url": "https://open.spotify.com/album/5SMrQ8Le2PZh5UqKzMCepv"
+      },
+      "artists": [
+        {
+          "name": "Arun Pauer",
+          "url": "https://open.spotify.com/artist/1nXfmyX8X7x8meYQKiUsYp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215923,
+      "name": "Maatram Ondru Thaan Maaraadhathu (Salsa Tamil)",
+      "url": "https://open.spotify.com/track/0MWJ21aO0EoQfMCMTkMMwr"
+    },
+    {
+      "album": {
         "name": "Made for Each Other",
         "url": "https://open.spotify.com/album/5WOrgYzFuZ7E4cpbfn7PH0"
       },
@@ -8652,7 +8670,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 215361,
       "name": "Nettotto",
       "url": "https://open.spotify.com/track/4gyJNevPPkX5ZHYyVLm9LV"
@@ -10184,7 +10202,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 208252,
       "name": "Poi Kadhal",
       "url": "https://open.spotify.com/track/3dLhDLdUwUFeiDquvenigi"
@@ -10324,6 +10342,24 @@
       "duration_ms": 169411,
       "name": "Pongal Puliyodharai",
       "url": "https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1"
+    },
+    {
+      "album": {
+        "name": "Pongal Thara Local",
+        "url": "https://open.spotify.com/album/6ovlJbF1ad3CpcFJBqtTKf"
+      },
+      "artists": [
+        {
+          "name": "Navneeth Sundar",
+          "url": "https://open.spotify.com/artist/5a90LDKvSIgq8c3e8IjZRe"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171958,
+      "name": "Pongal Thara Local",
+      "url": "https://open.spotify.com/track/2b5ZoeSKA971sRjWZU0gP5"
     },
     {
       "album": {
@@ -10583,6 +10619,28 @@
     },
     {
       "album": {
+        "name": "Raajabhodai",
+        "url": "https://open.spotify.com/album/7cNOuWWbRPkfUJuwtYl4h7"
+      },
+      "artists": [
+        {
+          "name": "Srivijay Ragavan",
+          "url": "https://open.spotify.com/artist/1sHy3gAbb1pnYM8o9LsLA9"
+        },
+        {
+          "name": "Sri Jeyanthan",
+          "url": "https://open.spotify.com/artist/5nN9ZnBYxoFUPkSQR7kGaB"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Raajabhodai",
+      "url": "https://open.spotify.com/track/047XxfeutL8jtYzmMrsXoO"
+    },
+    {
+      "album": {
         "name": "Raasa",
         "url": "https://open.spotify.com/album/3EZM5E5QJRagk2uI3Drnfh"
       },
@@ -10624,6 +10682,36 @@
       "duration_ms": 247109,
       "name": "Raasathiyae",
       "url": "https://open.spotify.com/track/1LDY3HYhpkq1e9ed0J8Z5t"
+    },
+    {
+      "album": {
+        "name": "Radhiye (Reprise)",
+        "url": "https://open.spotify.com/album/7k9gOd00b7GUYR7O0lTzJT"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ramkumar",
+          "url": "https://open.spotify.com/artist/7geUhmzRoB8LJUGtrnyacf"
+        },
+        {
+          "name": "Devzart",
+          "url": "https://open.spotify.com/artist/3U2Zk0AvD6DpRj7HtsKUiA"
+        },
+        {
+          "name": "Tom Karthi",
+          "url": "https://open.spotify.com/artist/2UvAJKDnRGhRaUsjlGAVbo"
+        },
+        {
+          "name": "Sanket Joshi",
+          "url": "https://open.spotify.com/artist/7pkNbla9m5q1xeSltTNNsX"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Radhiye - Reprise",
+      "url": "https://open.spotify.com/track/4DCZY1F5CuYZTQN7MTQN03"
     },
     {
       "album": {
@@ -11674,6 +11762,32 @@
       "duration_ms": 182828,
       "name": "Thaai Paasam",
       "url": "https://open.spotify.com/track/1rCMd4ocW6OJzqb0lvoGwj"
+    },
+    {
+      "album": {
+        "name": "Thaakurom Thookurom (From \"Cold Call\")",
+        "url": "https://open.spotify.com/album/5Ytt5JE4BHhKaSeUDENw16"
+      },
+      "artists": [
+        {
+          "name": "Pranav Giridharan",
+          "url": "https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104"
+        },
+        {
+          "name": "Armious",
+          "url": "https://open.spotify.com/artist/2Lwen2O86tyquPdASmAkY8"
+        },
+        {
+          "name": "El Fe' Choir",
+          "url": "https://open.spotify.com/artist/51Y4Ww9zzmDL0wX552LyX7"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234947,
+      "name": "Thaakurom Thookurom (From \"Cold Call\")",
+      "url": "https://open.spotify.com/track/7MPn5dXqTAAsVH9GSfmKYl"
     },
     {
       "album": {
@@ -13134,7 +13248,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 291153,
       "name": "Uyir",
       "url": "https://open.spotify.com/track/77Cfuv7fcORyO4AYB5E0bS"
@@ -13212,7 +13326,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 216180,
       "name": "Uyire",
       "url": "https://open.spotify.com/track/2yWq3CNcgsh9RQCZTqsO7L"
@@ -14932,6 +15046,24 @@
       "duration_ms": 223103,
       "name": "ZARA",
       "url": "https://open.spotify.com/track/2nNzswBXvsFM6K8yd7Hpe8"
+    },
+    {
+      "album": {
+        "name": "Zindagee",
+        "url": "https://open.spotify.com/album/7s5YQqr2DfxtBXXFoBA3pH"
+      },
+      "artists": [
+        {
+          "name": "FSPROD Vinu",
+          "url": "https://open.spotify.com/artist/5yQd0LJ7Xwb31XIIAw354J"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182931,
+      "name": "Zindagee",
+      "url": "https://open.spotify.com/track/1jAZa1i50cEOuwP9lbQFpx"
     },
     {
       "album": {

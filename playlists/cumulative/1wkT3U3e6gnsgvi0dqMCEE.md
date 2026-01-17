@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-360 songs - 23 hr 54 min
+361 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Forever Yours \- Tim’s 2016 Ibiza Version](https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Forever Yours \(Tim’s 2016 Ibiza Version\)](https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371) | 3:28 | 2025-02-14 |  |
 | [Free As A Bird \(2025 Mix\)](https://open.spotify.com/track/6XNF8RS4XH1o4ljx1A1r8m) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Free As A Bird \(2025 Mix\)](https://open.spotify.com/album/4xapkZNwiVtC9SGOQJfHCW) | 4:27 | 2025-08-23 |  |
 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-10-18 |  |
+| [Friday I'm In Love \- Live From Glastonbury](https://open.spotify.com/track/388JceJm7784qgHipfPKmr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [Friday I'm In Love / Just Like Heaven \- Live From Glastonbury \(A BBC Recording\)](https://open.spotify.com/album/5BBcARy3vgB43n1VZELFno) | 4:07 | 2026-01-16 |  |
 | [Future Days](https://open.spotify.com/track/5P9FjMjAArYqL7YF3Ry4AN) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [The Last of Us](https://open.spotify.com/album/5IlWoFOA7aaouBEniaR7oJ) | 4:22 | 2025-05-16 |  |
 | [Garden](https://open.spotify.com/track/1UzEvc3zxE7pIj7Ipkk72z) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Badlands \(Decade Edition Anthology\)](https://open.spotify.com/album/2AH6SZDsmgFsiFxv278h1U) | 3:15 | 2025-08-29 |  |
 | [Garden Road \- Live At Agora Ballroom, Cleveland, Ohio \- 8/26/1974](https://open.spotify.com/track/0h4YOaLxD0nrfcuj8JrfNh) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Garden Road \(Live At Agora Ballroom, Cleveland, Ohio \- 8/26/1974\)](https://open.spotify.com/album/7lgXlFQPnTVVj0H6olLKZF) | 3:03 | 2025-01-31 |  |

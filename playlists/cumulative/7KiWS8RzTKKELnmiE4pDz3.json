@@ -22367,6 +22367,28 @@
     },
     {
       "album": {
+        "name": "Don't Quit Your Day Job",
+        "url": "https://open.spotify.com/album/37dKTmpuFAV0n0A5THoliS"
+      },
+      "artists": [
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251906,
+      "name": "The Good, The Bad, The Ugly (feat. Kanye West) - Explicit Album Version",
+      "url": "https://open.spotify.com/track/52uU5uNt9lOstGCc6C7QEJ"
+    },
+    {
+      "album": {
         "name": "The Hillbillies",
         "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
       },

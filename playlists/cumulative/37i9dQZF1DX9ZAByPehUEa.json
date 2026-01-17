@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Any Fonque",
+        "url": "https://open.spotify.com/album/48eX7KziQJo6vNHQwkLhB8"
+      },
+      "artists": [
+        {
+          "name": "David Tort",
+          "url": "https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204608,
+      "name": "Any Fonque",
+      "url": "https://open.spotify.com/track/3b8rRgi5xBiuLFyYI4tXzX"
+    },
+    {
+      "album": {
         "name": "Any Kind Of Music (I Love)",
         "url": "https://open.spotify.com/album/6CZclIcamGolxD8545ltfR"
       },
@@ -1567,6 +1585,32 @@
     },
     {
       "album": {
+        "name": "Body Talk (Remixes)",
+        "url": "https://open.spotify.com/album/540N73VRpcg6XixKQJb5pc"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        },
+        {
+          "name": "Diya",
+          "url": "https://open.spotify.com/artist/6JIV0J3sqofXnYROxdUIMm"
+        },
+        {
+          "name": "DJ burgerhead",
+          "url": "https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270468,
+      "name": "Body Talk - DJ burgerhead Remix",
+      "url": "https://open.spotify.com/track/312THy9peF2TUU4ECiurE9"
+    },
+    {
+      "album": {
         "name": "BONKERS",
         "url": "https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj"
       },
@@ -1868,7 +1912,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 154761,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/2XtyzqHaIb1ejF0n8uCtAK"
@@ -2393,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/15kmIY902kAjgmCl9YeC4D"
+      },
+      "artists": [
+        {
+          "name": "Starwolf",
+          "url": "https://open.spotify.com/artist/3Ls05mIE3GrqAuTqjdWDGV"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182226,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/7lkMWvf06hYwUEEzo5FhAd"
+    },
+    {
+      "album": {
         "name": "Dance With You (All Night)",
         "url": "https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG"
       },
@@ -2426,6 +2488,32 @@
       "duration_ms": 174545,
       "name": "dancebaby",
       "url": "https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK"
+    },
+    {
+      "album": {
+        "name": "Dancing Back To Life (The Reflex Revision)",
+        "url": "https://open.spotify.com/album/2W3X1ld26kzlI6UpScVCPb"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "The Flints",
+          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
+        },
+        {
+          "name": "The Reflex",
+          "url": "https://open.spotify.com/artist/6E7SbenCPEit9gDFnMlDUA"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213240,
+      "name": "Dancing Back To Life - The Reflex Revision",
+      "url": "https://open.spotify.com/track/02I6Jpc2cTg7wQdHHVPyw9"
     },
     {
       "album": {
@@ -3162,7 +3250,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 220297,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/2tOBWr8LizDOl2pPDOdzyY"
@@ -3812,6 +3900,24 @@
       "duration_ms": 297574,
       "name": "Facelift",
       "url": "https://open.spotify.com/track/2oLdCJDUVBuCLH9XMsEYsa"
+    },
+    {
+      "album": {
+        "name": "Fade Into The Morning Light",
+        "url": "https://open.spotify.com/album/0GREH05xopggg900XInMwI"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Fade Into the Morning Light - Radio Edit",
+      "url": "https://open.spotify.com/track/1snaKZmXvVuVmCS2OYtRvr"
     },
     {
       "album": {
@@ -7294,7 +7400,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 172380,
       "name": "Let's Get Down - ALEXA PERL Remix",
       "url": "https://open.spotify.com/track/6Xa7fHWQ1tBqzao6VVldyS"
@@ -7564,7 +7670,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 168214,
       "name": "LIKEILOVEU",
       "url": "https://open.spotify.com/track/4uwJ95va4CCEdfH9IKAL6Z"
@@ -10266,7 +10372,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 248412,
       "name": "Paris in the Sky",
       "url": "https://open.spotify.com/track/4dOQ37MvSKEcBZoWvOTJeZ"

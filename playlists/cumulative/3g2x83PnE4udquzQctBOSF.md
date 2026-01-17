@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-460 songs - 1 day 3 hr 35 min
+461 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Mandarino](https://open.spotify.com/track/2RvjRFKZEl5h5S8QftppUR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Puff \(ITA\)](https://open.spotify.com/artist/5Qg4A2TQVh8Cr9Jx19FpRf) | [Mandarino](https://open.spotify.com/album/6Q4691rahwBsUh6SonmYlW) | 5:08 | 2023-05-28 | 2023-06-12 |
 | [Mantra](https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Mantra](https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe) | 3:21 | 2023-03-19 | 2023-04-01 |
 | [Messiah](https://open.spotify.com/track/6KqaitakrynOXlmjy6CSmp) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Messiah](https://open.spotify.com/album/0AktL0F0nhUNAG2jTxj5rq) | 3:02 | 2023-03-05 | 2023-03-20 |
+| [Mi alma grita en silencio](https://open.spotify.com/track/6udvw6xZelhUKahkHFtTNj) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house 2](https://open.spotify.com/album/5bX8mRv2NYqu1eVSZbfaQE) | 4:01 | 2026-01-16 |  |
 | [Mi Corazón](https://open.spotify.com/track/25h246vto9gTVE2mCEY69q) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [Mi Corazón](https://open.spotify.com/album/7Du2rNorPcljURWbm22rkp) | 2:58 | 2023-01-15 | 2023-02-13 |
 | [Mik Jak](https://open.spotify.com/track/0k0JC6kqbr0VXOuYwpaP8t) | [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Mik Jak](https://open.spotify.com/album/433l4WD8ARq9fGTd5CiO3g) | 3:22 | 2024-03-24 | 2024-05-20 |
 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 | 2023-11-05 | 2024-01-15 |

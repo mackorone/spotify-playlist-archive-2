@@ -4,7 +4,7 @@
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-168 songs - 10 hr 37 min
+169 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,9 +32,10 @@
 | [Cada quien](https://open.spotify.com/track/7rD8eGGIOy2G5yxWlmiQH3) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 3:25 | 2022-05-25 | 2025-04-14 |
 | [Camino](https://open.spotify.com/track/4QrpejsTZZ17A9wbpct57e) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:33 | 2022-10-09 | 2022-10-11 |
 | [Caminos de la mente](https://open.spotify.com/track/3DCHL7XQLzhlygfCZ4NtUt) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 3:19 | 2022-06-04 | 2025-04-17 |
-| [CERCA DEL RIO \- En Vivo](https://open.spotify.com/track/3bw9EhtsQYQBiXSW80hhds) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/36mWYEiZGTs7H7REUxFCcQ) | 5:02 | 2025-11-01 |  |
+| [CERCA DEL RIO \- En Vivo](https://open.spotify.com/track/3bw9EhtsQYQBiXSW80hhds) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/36mWYEiZGTs7H7REUxFCcQ) | 5:02 | 2025-11-01 | 2026-01-17 |
 | [Cerca del río](https://open.spotify.com/track/0VIfgwSHb6xjCzgYhBvYdk) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/2c1Ctje54v5kkdc932GsqN) | 5:02 | 2025-04-14 | 2025-11-01 |
 | [Cerca del río](https://open.spotify.com/track/5mzjAGV0xeLAQj6fFQUrVO) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 5:02 | 2022-05-25 | 2025-04-14 |
+| [Cerca del Río](https://open.spotify.com/track/29j739ARrB9ZoaYKH8BudS) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer) | 6:03 | 2026-01-17 |  |
 | [Colores](https://open.spotify.com/track/4pciFlNvRhxBMYGCgYRZeT) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 8:08 | 2022-06-04 | 2022-10-05 |
 | [Con el diablo al lado](https://open.spotify.com/track/0EDUYQ2fcsoJll6wHMvhrx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/5WHwDiBnbtMVPXKNoMtDJH) | 3:46 | 2025-04-14 | 2025-10-30 |
 | [Con el diablo al lado](https://open.spotify.com/track/6ISRzeO8GUnds3fdZuiPUj) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:46 | 2022-05-25 | 2025-04-14 |

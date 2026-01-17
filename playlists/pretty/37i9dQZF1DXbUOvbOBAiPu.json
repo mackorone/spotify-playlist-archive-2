@@ -1,6 +1,6 @@
 {
   "description": "New music from Regi & Laura Tesoro, Charli XCX, DYSTINCT and more...",
-  "num_followers": 47721,
+  "num_followers": 47961,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
       "duration_ms": 168855,
       "name": "Bound To Be",
       "url": "https://open.spotify.com/track/0GxnVrhcIrwzAI4DNco1rK"
+    },
+    {
+      "added_at": "2026-01-15 23:00:33",
+      "album": {
+        "name": "Wall of Sound",
+        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Wall of Sound",
+      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
     },
     {
       "added_at": "2026-01-15 23:00:33",
@@ -139,8 +155,8 @@
     {
       "added_at": "2026-01-15 23:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "locket",
+        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
       },
       "artists": [
         {
@@ -497,7 +513,7 @@
         }
       ],
       "duration_ms": 155393,
-      "name": "Des anne\u00e9es qu'on s'aime",
+      "name": "Des ann\u00e9es qu'on s'aime",
       "url": "https://open.spotify.com/track/0XNP2bWqQRfTwwl7v9r8vd"
     },
     {
@@ -539,8 +555,8 @@
     {
       "added_at": "2026-01-15 23:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "34",
+        "url": "https://open.spotify.com/album/67jDpqg46Rv9gMvVQOj1Ni"
       },
       "artists": [
         {
@@ -559,8 +575,8 @@
     {
       "added_at": "2026-01-15 23:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ZMIG",
+        "url": "https://open.spotify.com/album/688e1LKDyb3Zqoo4hpMwch"
       },
       "artists": [
         {
@@ -591,8 +607,8 @@
     {
       "added_at": "2026-01-15 23:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "IDENTITY",
+        "url": "https://open.spotify.com/album/3eQI0xMVAe3oVSy1Yngfya"
       },
       "artists": [
         {
@@ -836,6 +852,10 @@
           "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
         },
         {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        },
+        {
           "name": "Willy William",
           "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
         },
@@ -846,10 +866,6 @@
         {
           "name": "Jombriel",
           "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
-        },
-        {
-          "name": "Kate Linn",
-          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
         }
       ],
       "duration_ms": 200700,
@@ -1043,8 +1059,8 @@
     {
       "added_at": "2026-01-15 23:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/66uED3xG184HSGVqHc83gF"
       },
       "artists": [
         {
@@ -1052,8 +1068,8 @@
           "url": "https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 204444,
+      "name": "Bring Me Back To Life",
       "url": "https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j"
     },
     {
@@ -1123,8 +1139,8 @@
     {
       "added_at": "2026-01-15 23:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Sounds Of The Diaspora",
+        "url": "https://open.spotify.com/album/0n7r3MD92Fj1CYutyMj8fK"
       },
       "artists": [
         {
@@ -1147,8 +1163,8 @@
     {
       "added_at": "2026-01-15 23:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "THE SIN : VANISH",
+        "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
       },
       "artists": [
         {
@@ -1156,8 +1172,8 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 139045,
+      "name": "Knife",
       "url": "https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w"
     },
     {
@@ -1239,8 +1255,8 @@
     {
       "added_at": "2026-01-15 23:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Chasing",
+        "url": "https://open.spotify.com/album/58oWp37uWSaFRbrrBSC1N7"
       },
       "artists": [
         {
@@ -1419,8 +1435,8 @@
     {
       "added_at": "2026-01-15 23:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka"
       },
       "artists": [
         {
@@ -1613,7 +1629,7 @@
         }
       ],
       "duration_ms": 155404,
-      "name": "I'll Take It - Mura Masa's 'Cant Feel A Thing' Edit",
+      "name": "I'll Take It - Mura Masa's 'Can't Feel A Thing' Edit",
       "url": "https://open.spotify.com/track/1v3c7CaFHEPLRS2VCsewsC"
     },
     {

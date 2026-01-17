@@ -4,7 +4,7 @@
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Elise Elvira\. Artwork by Paola Saliby
 
-4,361 songs - 9 day 6 hr 9 min
+4,365 songs - 9 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2086,6 +2086,7 @@
 | [Jasper Lotti](https://open.spotify.com/track/1UzPLHnoMlfWRRJVfeKJ7P) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Jasper Lotti](https://open.spotify.com/album/3iFvtrqJfJZolGNFdqw1Sw) | 2:42 | 2021-07-16 | 2021-07-22 |
 | [Jawbreaker](https://open.spotify.com/track/67CMIZoWfob73Mn7xDVrFX) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [Jawbreaker](https://open.spotify.com/album/53iYV4vwwjWF3IKiBnxV45) | 2:53 | 2021-06-18 | 2021-08-05 |
 | [Jealous](https://open.spotify.com/track/0MuyhT3nN12w71WurEWSTN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Jealous](https://open.spotify.com/album/5LTnPoGjyuWwLwOcLJzFL3) | 2:08 | 2020-10-13\* | 2021-02-25 |
+| [jealous baby](https://open.spotify.com/track/7Ct2izLXZcTd4ktA7xzqXp) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [jealous baby](https://open.spotify.com/album/0MfvaWyi0ycyTG8KjlOLNp) | 2:52 | 2026-01-16 |  |
 | [Jokers](https://open.spotify.com/track/0NRRBXAzb3Jg5erbCR8hIZ) | [Nikita Afonso](https://open.spotify.com/artist/2C8TRvpR3834esUbCEHkqe) | [Jokers](https://open.spotify.com/album/7LexvZYLskMSRMFCdO2KdD) | 3:26 | 2021-03-11 | 2021-04-08 |
 | [Joni](https://open.spotify.com/track/1UDFP4KgbKTu0XniQImZfq) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Joni](https://open.spotify.com/album/0HvAo553wbaQJCMuyeZVgr) | 3:50 | 2023-11-29 | 2024-01-11 |
 | [Josefina](https://open.spotify.com/track/4bv5ZSgEDfvJlZ6xJebEw7) | [Kristen Cruz](https://open.spotify.com/artist/39cgWt6wdG1LU7FKREfqVq) | [Josefina](https://open.spotify.com/album/4titPRX5YbydOTTZs8B8Y0) | 2:48 | 2024-08-21 | 2024-12-05 |
@@ -2818,6 +2819,7 @@
 | [once upon a time](https://open.spotify.com/track/0PULY7AIDcZ2LMjXc9oUay) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [XXI](https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n) | 3:30 | 2023-02-08 | 2023-03-16 |
 | [once upon a time](https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [once upon a time](https://open.spotify.com/album/0gbp8QKU3YoK1364Zi9Arh) | 3:30 | 2023-02-08 | 2023-03-03 |
 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 | 2021-03-06 | 2021-04-01 |
+| [One Day](https://open.spotify.com/track/5gdZR1LbeJktVF0SFqU4a9) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [One Day](https://open.spotify.com/album/6UdAC6I3beffgXZtSzYwFK) | 3:15 | 2026-01-16 |  |
 | [One In A Million](https://open.spotify.com/track/24BkSXV9D9YYJU47EGFKCY) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [One In A Million](https://open.spotify.com/album/0K8IkWqXMpb0gMo8gkbVYw) | 2:58 | 2020-10-13\* | 2021-01-15 |
 | [One Million Perfume](https://open.spotify.com/track/2FRO2veX3Tg56BMmGJfpx3) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [One Million Perfume](https://open.spotify.com/album/4Y5axWeChD0GyILxHg2OS7) | 2:49 | 2022-01-26 | 2022-03-24 |
 | [One More](https://open.spotify.com/track/0HTnLvSyKpRgRXtiEX4bVZ) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [One More](https://open.spotify.com/album/2dj0bLZmleAnuRNRzH7a04) | 2:33 | 2021-02-25 | 2021-04-08 |
@@ -3646,6 +3648,7 @@
 | [SUNSHINE](https://open.spotify.com/track/6GheCD7Tle993lcG875Vr1) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr) | [SUNSHINE](https://open.spotify.com/album/2ihHwHsvZOsaGRlBQ1SQxM) | 2:50 | 2025-04-09 | 2025-06-05 |
 | [Sunshine Roams](https://open.spotify.com/track/0GHZOdTKBL7fQmjxErlIk7) | [MoonBee](https://open.spotify.com/artist/2lpThELNjySTGNx4CmkyqH) | [Sunshine Roams](https://open.spotify.com/album/00lDuonqVhC4Bt8ZPTBh4o) | 3:36 | 2023-04-26 | 2024-01-11 |
 | [super 8](https://open.spotify.com/track/4Exb0V85Rarw8Fk196x2sS) | [Jack Price](https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh) | [super 8](https://open.spotify.com/album/7DPrCyq7eeLL7WJD64QyaJ) | 2:47 | 2022-03-16 | 2022-04-28 |
+| [Super Elastic](https://open.spotify.com/track/4EXreHEQvGiM6BlXbATMZm) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Super Elastic](https://open.spotify.com/album/2RwVWxOYQYL8cwVfFVfEJd) | 2:18 | 2026-01-16 |  |
 | [Super Love](https://open.spotify.com/track/7LJ3IEWk8HrhN37BtMIMSr) | [June](https://open.spotify.com/artist/0j4sh69ln8Ga7IrQxIoxP5) | [Super Love](https://open.spotify.com/album/4g5aqDXr5xmI88wQ3FFjE6) | 3:48 | 2022-07-20 | 2022-07-28 |
 | [Super Mall Mannequin](https://open.spotify.com/track/4IaTh1fIDJ7NYjbK85sIYQ) | [Quotes From Movies](https://open.spotify.com/artist/5WR0cJ1JElYsi0mmC7AJ4t) | [Super Mall Mannequin](https://open.spotify.com/album/0LYUDQdolDvnzps2eaKVCv) | 3:20 | 2023-05-17 | 2023-07-20 |
 | [Superficial](https://open.spotify.com/track/6xShwxe9hzJuKOsjVyoSSQ) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [Superficial](https://open.spotify.com/album/5N9KBw4M6P9lRPYrzQJ8XF) | 2:26 | 2023-04-05 | 2023-05-18 |
@@ -3841,6 +3844,7 @@
 | [The Way That it Goes](https://open.spotify.com/track/1Rj9W0To9l7RQSesGwigNv) | [Lily Mae Harrington](https://open.spotify.com/artist/0VUppYTrblZVeLBqEWjnlJ) | [The Way That it Goes](https://open.spotify.com/album/2eg2zsQzacWOPT99zEORuK) | 2:40 | 2023-04-19 | 2023-06-29 |
 | [The Way You Are](https://open.spotify.com/track/52GPw706N71AnEaa1oPBtU) | [Lois](https://open.spotify.com/artist/6qAYnkQmOOQCBPPmyd4lo1) | [The Way You Are](https://open.spotify.com/album/3mybFM7ibDln2Efcj1r3T1) | 2:55 | 2022-04-06 | 2022-05-18 |
 | [The Way You Love](https://open.spotify.com/track/34fKjKw3hyh13HQesfzHSe) | [TITUS BANK](https://open.spotify.com/artist/6lO31QP9bo8C3ay6IxkIol) | [The Way You Love](https://open.spotify.com/album/4BIttrCCQhxvp6tufhYJza) | 3:20 | 2022-03-23 | 2022-04-28 |
+| [The Woods](https://open.spotify.com/track/1i9XzNxzwGVCNLlDixZYQp) | [Genevieve Hannelius](https://open.spotify.com/artist/2DRYqgmWzJJJmVl35DZgE7) | [Girlhood](https://open.spotify.com/album/1zlKt7hDXM22NMHaQxmLR4) | 3:43 | 2026-01-16 |  |
 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 | 2022-02-09 | 2023-01-12 |
 | [Therapist](https://open.spotify.com/track/2qAa0Chg5FMKW9JXlq0o1M) | [Noah in the Open](https://open.spotify.com/artist/4aOb13B7cfQem9IbDvSNdz) | [Therapist](https://open.spotify.com/album/6phHI3iJO96URRxornn6VU) | 3:15 | 2022-07-20 | 2022-08-25 |
 | [Therapy](https://open.spotify.com/track/1eZAAhBhz0YWHSZSHNX1Yl) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Therapy](https://open.spotify.com/album/1jCV3UwET0Wei9VZYngoSe) | 2:54 | 2021-01-21 | 2021-02-25 |

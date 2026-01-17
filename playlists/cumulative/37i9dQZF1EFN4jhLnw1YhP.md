@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-65 songs - 4 hr 0 min
+66 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Making Time x Cycles](https://open.spotify.com/track/6Ffy25UA4G6BFw7Q5sS8wB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time x Cycles](https://open.spotify.com/album/4n2aCkAqTfzoM6dsZ52r2e) | 4:39 | 2025-10-27 |  |
 | [Marionette](https://open.spotify.com/track/0QieeEtXNrvnC6ePaQYGFz) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Marionette](https://open.spotify.com/album/1kT0ji8CxcH7EnjkOOvG9k) | 3:04 | 2025-10-27 |  |
 | [Modern Tragedy](https://open.spotify.com/track/2TDWMOtK7gBADHOrNH95Vy) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Future Renaissance](https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri) | 2:59 | 2025-10-27 |  |
+| [My Reflection](https://open.spotify.com/track/6d3mEicaeN9jLDYG8hL2ZD) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 4:17 | 2026-01-16 |  |
 | [Never Letting Go](https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Never Letting Go \(feat\. Julia Church\)](https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9) | 2:03 | 2025-10-27 |  |
 | [No Ending \- Nils Hoffmann Remix](https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [No Ending \(Nils Hoffmann Remix\)](https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs) | 4:19 | 2025-10-27 |  |
 | [Nobody Else](https://open.spotify.com/track/1jrYj2un7jmnpLf6oMairl) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Nobody Else](https://open.spotify.com/album/66pY7xdrj2MjI77jgPOm3Q) | 5:18 | 2025-10-27 |  |

@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/6QQILo7GjRRqXlKsgoF3B1"
+      },
+      "artists": [
+        {
+          "name": "Aatma",
+          "url": "https://open.spotify.com/artist/6zaWFQYU5em3iUkjvzbF70"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218999,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/1uTUkqfimheOAVA0mi9Bp3"
+    },
+    {
+      "album": {
         "name": "Summer Tune",
         "url": "https://open.spotify.com/album/4kMR4J5qGcm62sWEC0Qb2S"
       },

@@ -202,7 +202,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 290149,
       "name": "Aakhri Salaam (From \"De De Pyaar De 2\")",
       "url": "https://open.spotify.com/track/15CxSCCpEJQtau0z4OzISA"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 233677,
       "name": "Aur Kya Chahiye",
       "url": "https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 172500,
       "name": "Ban Ke Dikha Ikkis (From \"Ikkis\")",
       "url": "https://open.spotify.com/track/6Ivg5PNRGL5jsZJdHVliTi"
@@ -2645,6 +2645,28 @@
     },
     {
       "album": {
+        "name": "Diggi Bumba",
+        "url": "https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205128,
+      "name": "Diggi Bumba",
+      "url": "https://open.spotify.com/track/5Mw91jYPnrCj49eF0O9CY9"
+    },
+    {
+      "album": {
         "name": "Kaalidhar Laapata (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/48IZ9vTK3JTOjZ5wZOMOpf"
       },
@@ -3289,6 +3311,28 @@
     },
     {
       "album": {
+        "name": "Fame Us (From \"Tu Yaa Main\")",
+        "url": "https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9"
+      },
+      "artists": [
+        {
+          "name": "7Bantai'Z",
+          "url": "https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK"
+        },
+        {
+          "name": "Rai Harrie",
+          "url": "https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190566,
+      "name": "Fame Us - From \"Tu Yaa Main\"",
+      "url": "https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl"
+    },
+    {
+      "album": {
         "name": "Farak Nahi Padta",
         "url": "https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ"
       },
@@ -3454,7 +3498,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 141059,
       "name": "GG Ki Ghaintness (From \"Single Papa\")",
       "url": "https://open.spotify.com/track/6C4ky0I5Mwn5TQkmXSsck4"
@@ -4303,6 +4347,32 @@
     },
     {
       "album": {
+        "name": "Hum To Tere Hi Liye The (From \"O' Romeo\")",
+        "url": "https://open.spotify.com/album/7p8l83GzCSkQic9yxPJmGR"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304134,
+      "name": "Hum To Tere Hi Liye The (From \"O' Romeo\")",
+      "url": "https://open.spotify.com/track/5Kmpdwhvv2mk9rlW0Km6TJ"
+    },
+    {
+      "album": {
         "name": "Humein Asha Hai",
         "url": "https://open.spotify.com/album/3n3po0jjWmLROTncl4WjQk"
       },
@@ -4918,6 +4988,28 @@
       "duration_ms": 177272,
       "name": "Jahaan Hain Tujhse",
       "url": "https://open.spotify.com/track/5fYsx59aKIAHK9mOuoKXDm"
+    },
+    {
+      "album": {
+        "name": "Jal Ki Rani",
+        "url": "https://open.spotify.com/album/1bhbeq4xlajLDo9laaheSo"
+      },
+      "artists": [
+        {
+          "name": "Pahaad",
+          "url": "https://open.spotify.com/artist/1Eltir7fHZcJkQy3Hxgfh5"
+        },
+        {
+          "name": "Bawari Basanti",
+          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Jal Ki Rani",
+      "url": "https://open.spotify.com/track/6jHrHARkasrGoU2cZxnwfB"
     },
     {
       "album": {
@@ -9116,7 +9208,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 253469,
       "name": "Saasu Maa",
       "url": "https://open.spotify.com/track/4l8OKmEhloJwVezJDHW59k"
@@ -11556,6 +11648,28 @@
       "duration_ms": 298357,
       "name": "Usey Kehna (From \"Tere Ishk Mein\")",
       "url": "https://open.spotify.com/track/7KvmhfB69XIb4ojiUhRjir"
+    },
+    {
+      "album": {
+        "name": "Uss Dilnashi",
+        "url": "https://open.spotify.com/album/59P88ZCHATtmDrYJA310qi"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Uss Dilnashi",
+      "url": "https://open.spotify.com/track/3je1pOIzXhiWjuUKaWN4lc"
     },
     {
       "album": {

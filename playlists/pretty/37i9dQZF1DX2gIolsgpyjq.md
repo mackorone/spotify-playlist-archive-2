@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: AGGi
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,238 likes - 132 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,253 likes - 132 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hey Boy](https://open.spotify.com/track/52l4xFsgK4TQIk0xjrXnwe) | [AGGi](https://open.spotify.com/artist/1Vd4zITUpdG9sIb2no0e9c) | [Hey Boy](https://open.spotify.com/album/5mQYfAy3DFCBXPePlzxQ7F) | 2:46 |
 | 2 | [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 |
-| 3 | [Magnolia](https://open.spotify.com/track/4Hbw9v9FzmpEG2lsEkNePw) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [](https://open.spotify.com/album/null) | 2:34 |
+| 3 | [Magnolia](https://open.spotify.com/track/4Hbw9v9FzmpEG2lsEkNePw) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Cefalù Coastal Club](https://open.spotify.com/album/1gXITIvYBwH4ZlBzFeQnQr) | 2:34 |
 | 4 | [Stuck In November](https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Half Decade Addiction](https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP) | 4:33 |
 | 5 | [MONA LISA](https://open.spotify.com/track/6yHRGd0A1mF3tys6GNTlnD) | [skøien](https://open.spotify.com/artist/0nLcBTkyWqwEsUJB2Xnw6y) | [MONA LISA](https://open.spotify.com/album/7yu5BR8fzZ7i0zsGxNxFhq) | 2:29 |
 | 6 | [Won't Be Me](https://open.spotify.com/track/3284BEXIhvZaoczL30GfPr) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Won't Be Me](https://open.spotify.com/album/5XYyBiglieh4aWPzD42yhW) | 2:47 |

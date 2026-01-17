@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Sekou",
-  "num_followers": 385750,
+  "num_followers": 385886,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASv+mJLohhgeoTdLD3Ch5z5RFoW",
+  "snapshot_id": "AAAAAMrrjOoiqCYXXCMx19iE00Gz/di8",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:32",
+      "album": {
+        "name": "You Deserve",
+        "url": "https://open.spotify.com/album/4zk6KsexxbrABRXCSKfj7K"
+      },
+      "artists": [
+        {
+          "name": "Cayden Cruz",
+          "url": "https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5"
+        }
+      ],
+      "duration_ms": 182280,
+      "name": "You Deserve",
+      "url": "https://open.spotify.com/track/3qv52G3oQ4MNcIib4KSRqH"
+    },
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
@@ -123,22 +139,6 @@
       "duration_ms": 320813,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1yeortMt1F7wWuCMZKHd2O"
-    },
-    {
-      "added_at": "2025-12-12 05:00:35",
-      "album": {
-        "name": "Tears Don't Pretend",
-        "url": "https://open.spotify.com/album/5Xjbs1kFBfCGntqFhGm3Ve"
-      },
-      "artists": [
-        {
-          "name": "Cayden Cruz",
-          "url": "https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5"
-        }
-      ],
-      "duration_ms": 192239,
-      "name": "Tears Don't Pretend",
-      "url": "https://open.spotify.com/track/3HeEZrQgbpqWnK3F80yTW2"
     },
     {
       "added_at": "2025-11-21 05:00:28",

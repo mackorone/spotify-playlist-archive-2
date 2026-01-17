@@ -4,7 +4,7 @@
 
 > unearthing music that makes us feel interesting, featuring TTSSFU.
 
-497 songs - 1 day 7 hr 7 min
+498 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [dancing with ayesha](https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp) | 3:17 | 2024-12-16 | 2025-05-02 |
 | [Danger in Fives](https://open.spotify.com/track/3tE9nCRuyZD9ZE6l7V4yXf) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Danger in Fives](https://open.spotify.com/album/4eJdbiNKRBRHZhGGnqiPLj) | 2:25 | 2025-05-20 | 2025-10-17 |
 | [Darlos cowboys](https://open.spotify.com/track/5en6tlt4gHZiHwZRB1zykQ) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [Darlos cowboys](https://open.spotify.com/album/65We5qwO9u0hxDEZYosT1v) | 3:13 | 2025-11-07 |  |
+| [Dashboard Mary](https://open.spotify.com/track/7pozVrkNzYLcymGuGDtbIQ) | [Modern Woman](https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9) | [Dashboard Mary](https://open.spotify.com/album/3T3exfwPGiO7bb06AsHBqM) | 4:53 | 2026-01-16 |  |
 | [DEATH IN THE FAMILY](https://open.spotify.com/track/7Ak1HxQlec3ZaYKUGS2aEh) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [DEATH IN THE FAMILY](https://open.spotify.com/album/6GlQiQEkl2HanoAEqqdKTB) | 3:40 | 2025-07-17 | 2025-10-17 |
 | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/track/4Gn8QeUyrAgDXegt6XVVBX) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9), [Izzy Da Fonseca](https://open.spotify.com/artist/2D4pCpP1hPhNUuw4jdgLwt) | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/album/4er5M8euXXFNtJd5PCXA1W) | 3:50 | 2024-06-14 | 2024-11-23 |
 | [desperate ex gf](https://open.spotify.com/track/4rwe5L1jTRpec5674HHAEn) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [desperate ex gf](https://open.spotify.com/album/206drSFK4GDEqO0Nrpiu2F) | 2:27 | 2024-11-22 | 2025-01-17 |
@@ -339,7 +340,7 @@
 | [Picto](https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Picto](https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN) | 5:09 | 2026-01-16 |  |
 | [Play Pretend](https://open.spotify.com/track/3LxPW6GwjZYEMwDQfqLHkE) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [9Million](https://open.spotify.com/album/79py83N1md93QCNFPoSfQF) | 3:26 | 2025-10-16 |  |
 | [POLLYANNA](https://open.spotify.com/track/7ggizWy14VEWyYOe3nv3JN) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [POLLYANNA](https://open.spotify.com/album/0rFP4aCWtantJJwjYLfK3V) | 4:24 | 2025-06-18 | 2025-07-25 |
-| [Pomegranate](https://open.spotify.com/track/5SYrjVSssp29dV1z14RbLP) | [Olan Monk](https://open.spotify.com/artist/3BBWf8gJdcOI5EwrptKGSM) | [Pomegranate](https://open.spotify.com/album/4Gp0JfvcTRFIM5Y5XYfEIZ) | 4:35 | 2025-10-16 |  |
+| [Pomegranate](https://open.spotify.com/track/5SYrjVSssp29dV1z14RbLP) | [Olan Monk](https://open.spotify.com/artist/3BBWf8gJdcOI5EwrptKGSM) | [Pomegranate](https://open.spotify.com/album/4Gp0JfvcTRFIM5Y5XYfEIZ) | 4:35 | 2025-10-16 | 2026-01-17 |
 | [Pool Scene](https://open.spotify.com/track/7mgfQPMLFRC5grfunmZY9r) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Conditions III](https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR) | 4:58 | 2025-02-21 | 2025-05-09 |
 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 | 2024-06-14 | 2024-11-23 |
 | [Post Spa 2](https://open.spotify.com/track/6QyCbvxIh8dWKH5peN4MnK) | [SODA BOYZ](https://open.spotify.com/artist/7DEeEeUuLybw43aLsrkdjY) | [Post Spa 2](https://open.spotify.com/album/2LDNwBspcRjit08fiadgmB) | 3:13 | 2025-03-24 | 2025-05-21 |
@@ -449,7 +450,7 @@
 | [The Silence That Remains](https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [The Silence That Remains](https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95) | 5:42 | 2024-10-06 | 2025-03-25 |
 | [the square](https://open.spotify.com/track/6TbS7uxZK5Cz3vKXl4PPsY) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp) | 7:16 | 2024-11-22 | 2025-03-25 |
 | [The View from Your Room](https://open.spotify.com/track/4LEVfXWdjo8vqR0XBHU0Vl) | [Lightheaded](https://open.spotify.com/artist/7oTLtwUXWjKQqJhHTDT3lF) | [The View From Your Room](https://open.spotify.com/album/75z3cXY8WYibWTxiyhLV0d) | 1:59 | 2025-05-20 | 2025-07-11 |
-| [The Wahs](https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [](https://open.spotify.com/album/null) | 2:24 | 2026-01-16 |  |
+| [The Wahs](https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [So Much Country ‘Till We Get There](https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo) | 2:24 | 2026-01-16 |  |
 | [The Well](https://open.spotify.com/track/08qJtrazqaGVnGfNxjAY2e) | [Rubber Oh](https://open.spotify.com/artist/2NaWYydDrHok1ewkoZ0qTL) | [The Well](https://open.spotify.com/album/1WFuZXzMVEZhWbpianejLD) | 4:43 | 2024-09-05 | 2024-10-18 |
 | [The Whole Town Knows](https://open.spotify.com/track/3baMamSQjuzW3eo9QxZjik) | [Poor Creature](https://open.spotify.com/artist/3mtqHrUS1BAX0hIvwiU0X0) | [The Whole Town Knows](https://open.spotify.com/album/6iki2UJ6ZsJJnydUggqLEd) | 6:52 | 2025-04-14 | 2025-06-19 |
 | [Thelma & Louise](https://open.spotify.com/track/3aO9CJArZsilegL84hAiSy) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Thelma & Louise](https://open.spotify.com/album/2anBSiDyiSDA3j8pw2ZHLm) | 3:21 | 2025-06-06 | 2025-10-03 |

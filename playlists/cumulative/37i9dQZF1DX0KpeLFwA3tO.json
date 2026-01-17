@@ -10581,6 +10581,24 @@
     },
     {
       "album": {
+        "name": "Severed Heart City",
+        "url": "https://open.spotify.com/album/0XWdKiMDlAU5Lsfkmpxpql"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "Cope In The Coma",
+      "url": "https://open.spotify.com/track/7x8kQyWDkAhVqSggGZuldF"
+    },
+    {
+      "album": {
         "name": "Copper Bones",
         "url": "https://open.spotify.com/album/5TMpnc4TjUEiD1ppczQzrp"
       },
@@ -37527,8 +37545,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "I Promised The World",
+        "url": "https://open.spotify.com/album/1EXpf001uNajFTN22UdSkr"
       },
       "artists": [
         {
@@ -49472,24 +49490,6 @@
       "duration_ms": 202285,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/3kMn8LV1QPBfZXZ0TTS0Pn"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "date_added": "2026-01-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/7x8kQyWDkAhVqSggGZuldF"
     },
     {
       "album": {

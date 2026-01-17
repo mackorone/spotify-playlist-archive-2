@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française avec Charles Doré
 
-408 songs - 20 hr 8 min
+409 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 | 2025-01-16 | 2025-04-11 |
 | [Demi\-mot](https://open.spotify.com/track/5p6cWSgjztQhEapqGD7INp) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Demi\-mot](https://open.spotify.com/album/2nOhzMsnpcAKpdeXAknWsM) | 3:08 | 2024-12-12 | 2025-03-01 |
 | [Derniers humains](https://open.spotify.com/track/1hIiHu1M2Lb42pe8Nktbfx) | [Christophe Mali](https://open.spotify.com/artist/5rpAfk1bTwhl9lXqxW6OGa), [Lucie Lebrun](https://open.spotify.com/artist/35BETn8HHfVHitMw8TTtJp), [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Derniers humains](https://open.spotify.com/album/7evFIy8Cj5iyiow2xrFZg1) | 2:44 | 2024-06-27 | 2024-07-19 |
-| [Des anneées qu'on s'aime](https://open.spotify.com/track/0XNP2bWqQRfTwwl7v9r8vd) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Des années qu'on s'aime](https://open.spotify.com/album/1aioSJjm59NLws7uc3jRGi) | 2:35 | 2026-01-15 |  |
+| [Des années qu'on s'aime](https://open.spotify.com/track/0XNP2bWqQRfTwwl7v9r8vd) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Des années qu'on s'aime](https://open.spotify.com/album/1aioSJjm59NLws7uc3jRGi) | 2:35 | 2026-01-15 |  |
 | [Dis\-le moi](https://open.spotify.com/track/7JI97inpI8UEflF3hsncqb) | [Valentina](https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S) | [Dis\-le moi](https://open.spotify.com/album/6Lzv3Nl0m09P73lFQkTrEc) | 2:38 | 2024-09-05 | 2024-11-08 |
 | [Dis\-moi](https://open.spotify.com/track/48J8yeiYwZZxxwWXa4zTXQ) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Dis\-moi](https://open.spotify.com/album/1RwLMAYV1bqXcwCmdKrsOO) | 2:27 | 2025-03-20 | 2025-06-13 |
 | [Dis\-moi oui](https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Dis\-moi oui](https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe) | 3:56 | 2025-09-11 | 2025-12-05 |
@@ -134,7 +134,8 @@
 | [Hyper \- Radio Edit](https://open.spotify.com/track/1PJy77luqvCQfOGVeLIB4V) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Hyper \(Radio Edit\)](https://open.spotify.com/album/3PzybE4ndU1NFjsabkqfJU) | 3:11 | 2024-11-28 | 2025-02-07 |
 | [Hypersensible](https://open.spotify.com/track/16mqPjC4RwFPnH0UoDn7lA) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Hypersensible](https://open.spotify.com/album/1N2eEz2ZKhZKfjl4hQ8F8w) | 2:53 | 2025-12-04 |  |
 | [Il suffit d'une chanson](https://open.spotify.com/track/02n2wpQra4DEQZ8DZD27Gp) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34) | [Il suffit d'une chanson](https://open.spotify.com/album/1wb0xY0W1qJjl4wOqgtztH) | 3:07 | 2025-05-22 | 2025-08-29 |
-| [ILOVEYOU](https://open.spotify.com/track/16HeXrSkgw0drlP91dXsGm) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [ILOVEYOU](https://open.spotify.com/album/5RVR2QeFxT7876wgwMeLdy) | 3:51 | 2025-12-25 |  |
+| [ILOVEYOU](https://open.spotify.com/track/16HeXrSkgw0drlP91dXsGm) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [ILOVEYOU](https://open.spotify.com/album/5RVR2QeFxT7876wgwMeLdy) | 3:51 | 2025-12-25 | 2026-01-17 |
+| [ILOVEYOU \- Radio Edit](https://open.spotify.com/track/47U0wny1LcR45QwrtrpOGj) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [ILOVEYOU \(Radio Edit\)](https://open.spotify.com/album/2Wv9giNmz2A9Ab1GOiOLwl) | 3:14 | 2026-01-16 |  |
 | [Ils s'aimaient toujours](https://open.spotify.com/track/0EtEjlfmQiUayvKQ4cuLvF) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Ils s'aimaient toujours](https://open.spotify.com/album/3QGHad6WExNAujuYcmauUm) | 2:56 | 2024-06-27 | 2024-07-12 |
 | [Immortel](https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Moi c'est Jeck](https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj) | 2:56 | 2024-08-01 | 2024-11-15 |
 | [Internet](https://open.spotify.com/track/6CTF67PhXCjejoVdw9H0Yg) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Internet](https://open.spotify.com/album/0JWbb1gcqKO0OACnszsDRg) | 3:10 | 2025-04-10 | 2025-06-27 |

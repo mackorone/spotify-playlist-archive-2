@@ -4,7 +4,7 @@
 
 > This is Eva Shaw\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 26 min
+110 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [On the DAW\. \(intro\)](https://open.spotify.com/track/3BO7356oNhBT8za4fdKhAW) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [On the DAW \- The EP](https://open.spotify.com/album/3N79JSXQixMXkreH8EaAgJ) | 0:32 | 2024-10-20 | 2024-11-18 |
 | [OUTSIDE](https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 3:33 | 2023-12-13 |  |
 | [PARANOID](https://open.spotify.com/track/79u0zZSV9TOSG15hBgdCtT) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7), [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9), [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 3:30 | 2023-12-13 | 2024-09-13 |
-| [please.](https://open.spotify.com/track/2804oZAOB3Ulb97Yg3dclc) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [please.](https://open.spotify.com/album/6g17yirpwHrYcrflIiGxzd) | 2:44 | 2024-04-07 |  |
+| [please.](https://open.spotify.com/track/2804oZAOB3Ulb97Yg3dclc) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [please.](https://open.spotify.com/album/6g17yirpwHrYcrflIiGxzd) | 2:44 | 2024-04-07 | 2026-01-17 |
+| [please.](https://open.spotify.com/track/5PepejmElIdDfY66jFnEJP) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [please.](https://open.spotify.com/album/3Z7S7yzklJNj07PVZHTp8Z) | 2:44 | 2026-01-17 |  |
 | [Pop Out](https://open.spotify.com/track/0fT9ZJlLvF59xUl0SiXerx) | [ILLYMINIACHI](https://open.spotify.com/artist/1Ux5dcdXuI44kw0KrFqCFi), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Pop Out](https://open.spotify.com/album/7lhuGkMi1lKKHxGpfbqkL1) | 2:19 | 2024-07-08 | 2025-03-01 |
 | [QUIET](https://open.spotify.com/track/3Wfv17RlbuKYJq4LKX1OCR) | [BTK Villeion](https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [QUIET](https://open.spotify.com/album/0EBBVTmEP17PMzP7CAfwX8) | 2:20 | 2024-05-20 | 2025-08-11 |
 | [RAQX](https://open.spotify.com/track/770erApKJNOvIdFGtn04G5) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [BTK Villeion](https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc) | [RAQX](https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1) | 2:34 | 2023-12-13 |  |

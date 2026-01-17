@@ -3179,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258409,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
+    },
+    {
+      "album": {
         "name": "Clouds EP",
         "url": "https://open.spotify.com/album/4AWohZTXo4KGSVl5ZCdmDt"
       },
@@ -3190,7 +3212,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 229297,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2KZPmG8PTwRjSSY4pHtAK0"
@@ -4348,6 +4370,24 @@
       "duration_ms": 134600,
       "name": "Dirtknock",
       "url": "https://open.spotify.com/track/6Eo6VMANKQi3Zc1IdkDfSp"
+    },
+    {
+      "album": {
+        "name": "Disappear | Between Thoughts",
+        "url": "https://open.spotify.com/album/20nwso1U6ydpaVXCPCvlZo"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Atobe",
+          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397964,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/0wS2lHu920Nm9G5Ee24mjW"
     },
     {
       "album": {
@@ -6770,7 +6810,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 216000,
       "name": "Flips and Flops, Drips and Drops",
       "url": "https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3"
@@ -8634,7 +8674,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 213897,
       "name": "I Cannot I",
       "url": "https://open.spotify.com/track/5g6hwRzghn8aOzQo8xqpHF"
@@ -9782,7 +9822,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 275199,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip"
@@ -10910,7 +10950,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 278325,
       "name": "Love",
       "url": "https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX"
@@ -13076,6 +13116,24 @@
       "duration_ms": 280920,
       "name": "Odyss\u00e9e",
       "url": "https://open.spotify.com/track/3J9N8f8pBJxAoFwACKJPHN"
+    },
+    {
+      "album": {
+        "name": "Offscreen - The Moment (The Score)",
+        "url": "https://open.spotify.com/album/42IL2uIgYRpVZzkcjmwyZI"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334384,
+      "name": "Offscreen - The Moment (The Score)",
+      "url": "https://open.spotify.com/track/3sGNs97yV0MOz5KrHtlJ6t"
     },
     {
       "album": {
@@ -19239,6 +19297,24 @@
     },
     {
       "album": {
+        "name": "think & dream",
+        "url": "https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH"
+      },
+      "artists": [
+        {
+          "name": "altrice",
+          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "think & dream",
+      "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
+    },
+    {
+      "album": {
         "name": "this again..",
         "url": "https://open.spotify.com/album/5lEGj39nfCkHLp1hO4AUcF"
       },
@@ -19276,6 +19352,24 @@
       "duration_ms": 95500,
       "name": "This Space in My Heart Is for You",
       "url": "https://open.spotify.com/track/1RzEqJCxpStIV5P1ng1w6p"
+    },
+    {
+      "album": {
+        "name": "Thoughts On The Future",
+        "url": "https://open.spotify.com/album/4xYL1aDxfBoPZejOKoKvV8"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421566,
+      "name": "Thoughts On The Future",
+      "url": "https://open.spotify.com/track/6D0MpF3h4bFyfZAjlX8tvm"
     },
     {
       "album": {

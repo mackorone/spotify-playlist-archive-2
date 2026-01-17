@@ -4,7 +4,7 @@
 
 > Pocho in cover della playlist con il futuro del rap italiano 📈
 
-2,223 songs - 3 day 22 hr 0 min
+2,224 songs - 3 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [Drugtown](https://open.spotify.com/track/6oyHPutCAlWrBTBdkgON6b) | [Joe Scacchi](https://open.spotify.com/artist/2K2213LQPCdQMJdpw1k65R) | [Drugtown](https://open.spotify.com/album/7z3wFZooC9wv9h2MiBrfK6) | 1:32 | 2024-02-29 | 2024-03-19 |
 | [Dry](https://open.spotify.com/track/4zUPjjI82V3JlnHfMt2w6v) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Dry](https://open.spotify.com/album/3xSzEtFrV2UqBhgNANpor1) | 2:37 | 2024-05-16 | 2024-09-13 |
 | [Dry e vai \(feat\. J Lord\)](https://open.spotify.com/track/0szEVOq5vpdhWIsIW4hGt7) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Dark Days](https://open.spotify.com/album/36H4jXrI54WGWALMp7nyIa) | 3:06 | 2022-11-10 | 2022-12-09 |
+| [Dry V](https://open.spotify.com/track/6t9ZE8U1SXBTFCELOl7pwL) | [Khodi Vulture](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [Dry V](https://open.spotify.com/album/6Zx3FfqLALxcsUWaR2kvLE) | 2:07 | 2026-01-16 |  |
 | [Ds Ep.8](https://open.spotify.com/track/4lnWGDZzX2zj8GreOGNhV7) | [Drillout](https://open.spotify.com/artist/2vCtOs0qQegutXqIuYzZgc), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Ds Ep.8](https://open.spotify.com/album/2ZV10RrQnYRFVqFtslTJJS) | 1:58 | 2022-06-09 | 2022-07-15 |
 | [DSCS](https://open.spotify.com/track/2Qxu3OJLxVMKprdlmZcXwI) | [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw) | [DSCS](https://open.spotify.com/album/7K15N7io0bWaneL4tx56qE) | 1:51 | 2025-05-08 | 2025-05-23 |
 | [Dsquared2](https://open.spotify.com/track/12b9pPGmt1iQ0QhOAyIcxH) | [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7) | [Dsquared2](https://open.spotify.com/album/2atXP9Nap5FoukWwItOJeT) | 2:32 | 2024-06-06 | 2024-06-21 |

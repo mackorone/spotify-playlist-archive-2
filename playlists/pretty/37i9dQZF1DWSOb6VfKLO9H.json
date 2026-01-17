@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 104277,
+  "num_followers": 104318,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,18 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "77 Nachten",
-        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
       },
       "artists": [
         {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         }
       ],
-      "duration_ms": 172610,
-      "name": "Lovely Body",
-      "url": "https://open.spotify.com/track/65ExBcuMthmxRVnPVvWCe3"
+      "duration_ms": 215978,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/0kax62GXeNWiIlA1ONZH5i"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -207,18 +203,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
+        "name": "77 Nachten",
+        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
       },
       "artists": [
         {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 215978,
-      "name": "Habiba",
-      "url": "https://open.spotify.com/track/0kax62GXeNWiIlA1ONZH5i"
+      "duration_ms": 172610,
+      "name": "Lovely Body",
+      "url": "https://open.spotify.com/track/65ExBcuMthmxRVnPVvWCe3"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -263,6 +263,62 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Vakantie",
+        "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 165077,
+      "name": "Vakantie (with Jonna Fraser)",
+      "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Visionair",
+        "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
+      },
+      "artists": [
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10"
+        }
+      ],
+      "duration_ms": 156081,
+      "name": "DomDoen",
+      "url": "https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Hard Work Pays Off 2",
+        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 190996,
+      "name": "Mi No Lob",
+      "url": "https://open.spotify.com/track/3j8K6U3xzXjrhNojLanVFz"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Reset The Levels II: Boulevard",
         "url": "https://open.spotify.com/album/6cHwqPB2BwDQyWy4EBRQrx"
       },
@@ -287,42 +343,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Vakantie",
-        "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
-      },
-      "artists": [
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 165077,
-      "name": "Vakantie (with Jonna Fraser)",
-      "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hard Work Pays Off 2",
-        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 190996,
-      "name": "Mi No Lob",
-      "url": "https://open.spotify.com/track/3j8K6U3xzXjrhNojLanVFz"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Jonathan",
         "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 205243,
       "name": "Party",
       "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Visionair",
-        "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
-      },
-      "artists": [
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "DomDoen",
-      "url": "https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "77 Nachten",
-        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
-      },
-      "artists": [
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        }
-      ],
-      "duration_ms": 185487,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Overal (feat. DJ Youss-F)",
         "url": "https://open.spotify.com/album/7C5iaQAlPVjxtGnlbWswqx"
       },
@@ -463,22 +447,6 @@
       "duration_ms": 182970,
       "name": "Overal (feat. DJ Youss-F)",
       "url": "https://open.spotify.com/track/7bQQ2B4EVLDiMA79EbT2qe"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "We Moeten Door",
-        "url": "https://open.spotify.com/album/5pSpczaiQq2pXJlFOeGHqE"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 204787,
-      "name": "Officieel",
-      "url": "https://open.spotify.com/track/3e0gMtgOOLGPFLzPWR7xzb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -511,6 +479,38 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "We Moeten Door",
+        "url": "https://open.spotify.com/album/5pSpczaiQq2pXJlFOeGHqE"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 204787,
+      "name": "Officieel",
+      "url": "https://open.spotify.com/track/3e0gMtgOOLGPFLzPWR7xzb"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "77 Nachten",
+        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        }
+      ],
+      "duration_ms": 185487,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Co\u00f1o",
         "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 137595,
       "name": "Co\u00f1o",
       "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Reset The Levels III",
-        "url": "https://open.spotify.com/album/6kNCwHpUF5KxvBPr7cmxad"
-      },
-      "artists": [
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        }
-      ],
-      "duration_ms": 216861,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/5e7W7nBD5KG2KHCnazm1Hz"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -619,6 +599,26 @@
       "duration_ms": 170497,
       "name": "Ik Kan Je Niet Laten",
       "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Reset The Levels III",
+        "url": "https://open.spotify.com/album/6kNCwHpUF5KxvBPr7cmxad"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "duration_ms": 216861,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/5e7W7nBD5KG2KHCnazm1Hz"
     },
     {
       "added_at": "2024-07-19 06:38:33",

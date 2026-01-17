@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music with a Latin flair. Cover: Car\u00edn Le\u00f3n and Kacey Musgraves",
+  "description": "Country music with a Latin flair. Cover: Codiciado",
   "name": "Country Latino",
   "tracks": [
     {
@@ -3584,6 +3584,24 @@
       "duration_ms": 197943,
       "name": "Timeless (Spanish Version)",
       "url": "https://open.spotify.com/track/5tddHCci9vyQVnNWVSJs4G"
+    },
+    {
+      "album": {
+        "name": "TODO PENDEJO",
+        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190359,
+      "name": "TODO PENDEJO",
+      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
     },
     {
       "album": {

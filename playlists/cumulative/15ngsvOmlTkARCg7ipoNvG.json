@@ -25849,6 +25849,24 @@
     },
     {
       "album": {
+        "name": "Resting",
+        "url": "https://open.spotify.com/album/20PzxCIsMcVxZhdPnmMv5T"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60241,
+      "name": "Resting",
+      "url": "https://open.spotify.com/track/5kliLoOIzoMlQs05jNe02L"
+    },
+    {
+      "album": {
         "name": "Forest Walk",
         "url": "https://open.spotify.com/album/0Nk7maUYaBAgpyF1lUPoHH"
       },

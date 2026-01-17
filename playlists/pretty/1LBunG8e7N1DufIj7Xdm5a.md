@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 277 likes - 3,891 songs - 8 day 14 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 277 likes - 3,908 songs - 8 day 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3899,5 +3899,22 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3889 | [Life goes on](https://open.spotify.com/track/4zfXcdpq3jpUqhYkzAHcUJ) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Life goes on](https://open.spotify.com/album/45a7pL38m9hkThDfPxmdMM) | 3:33 |
 | 3890 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 |
 | 3891 | [Рыжая девочка\-осень](https://open.spotify.com/track/4H7o6gTT8S1PoK5xsHAWCR) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень](https://open.spotify.com/album/4K91LPYMgFjWnGBalCGnRO) | 2:23 |
+| 3892 | [The Manner \- Radio Edit](https://open.spotify.com/track/5mQ5DH4DNGIZVewsYWx1m0) | [Andrew Kyo](https://open.spotify.com/artist/5MvGQrQKlFh9s2yj4EQpy6) | [The Manner \(Radio Edit\)](https://open.spotify.com/album/1tWiNiFBR4hniuK2GO39bv) | 2:36 |
+| 3893 | [Disco Light](https://open.spotify.com/track/6jg76RE52fs2f0ICliMz9G) | [Theodore Starlight](https://open.spotify.com/artist/6f5Bel1SJLeS13S0fGW88l) | [Disco Light](https://open.spotify.com/album/2eULjBBnGKaOYkTMybrpk0) | 2:29 |
+| 3894 | [from dolmen to stonehange](https://open.spotify.com/track/0poo3sN4FFTp8ESe8Rnphw) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 |
+| 3895 | [Sweet Street of Life](https://open.spotify.com/track/3YLQhaDt3OgH4nZ6Yw0R0c) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:40 |
+| 3896 | [Kēr](https://open.spotify.com/track/5g29iKtdGonCnt4we4wkLJ) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 5:26 |
+| 3897 | [LOADSTONE \- SINGOLO](https://open.spotify.com/track/2yLJnJl5fZWU1r5AUkNiBl) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [LOADSTONE \(SINGOLO\)](https://open.spotify.com/album/1Cx5pyhdifjYwPVZESXdJT) | 3:23 |
+| 3898 | [Japanese](https://open.spotify.com/track/6yS6RxFQO2ZifnjxxUPKC1) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 2:16 |
+| 3899 | [Hate Everyone](https://open.spotify.com/track/5pRuCi5cNz8lEr8fPTuxGO) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Hate Everyone](https://open.spotify.com/album/6D521GXvTAZ82HNPQTXZzU) | 1:22 |
+| 3900 | [Fall In Luv](https://open.spotify.com/track/2U4FhFOMGWnmsHu6XjkvPm) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Fall In Luv](https://open.spotify.com/album/09RmMKiCxWXacewYilGFnu) | 1:37 |
+| 3901 | [Trance](https://open.spotify.com/track/45z1uJHAdc2M0CMmofzErs) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:48 |
+| 3902 | [Blew her brains](https://open.spotify.com/track/3n1UlHcdqJ5EhrWIAHaL6C) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:52 |
+| 3903 | [One More Time](https://open.spotify.com/track/5x6ePqe55MAzvBGBnJ5OCc) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:23 |
+| 3904 | [Can't get enough](https://open.spotify.com/track/5tSKv5MADPzOAkMMXjnyXp) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:43 |
+| 3905 | [Geekin](https://open.spotify.com/track/35C1KlYBad98kBWORnGO44) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 2:09 |
+| 3906 | [Coolin](https://open.spotify.com/track/1PpQYVsG1WEsvbakUjZNAr) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Coolin](https://open.spotify.com/album/3R5PrYbFgqFnlrheRYI2xk) | 1:31 |
+| 3907 | [Bush Camper](https://open.spotify.com/track/3KJhCUeaH9jS4xfk3gHK87) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:07 |
+| 3908 | [popular loner](https://open.spotify.com/track/0gV1bGfME7foU8qjxOcIWL) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [popular loner](https://open.spotify.com/album/7g6VzTPLa5xHhlN50KxIeZ) | 1:52 |
 
-Snapshot ID: `AAAGwyp4smYzeuv7nW/z1bQz4CmtpIA0`
+Snapshot ID: `AAAG1J2ZqrqnrY2b0254/jfIsc0rUrCg`

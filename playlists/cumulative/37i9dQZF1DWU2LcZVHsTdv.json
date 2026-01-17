@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Heart Like a Songwriter",
+        "url": "https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1"
+      },
+      "artists": [
+        {
+          "name": "Trannie Anderson",
+          "url": "https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "Bigger Picture - Demo",
+      "url": "https://open.spotify.com/track/2RgHwSfgQR6g1xqxV9P07m"
+    },
+    {
+      "album": {
         "name": "Blessed Beyond Believin'",
         "url": "https://open.spotify.com/album/3TFEza0C8FxbxxAKMPC0X8"
       },
@@ -4479,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "That Bible",
+        "url": "https://open.spotify.com/album/1ZbZwBqAQc7CJJUGGkEh5X"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Kaps",
+          "url": "https://open.spotify.com/artist/7nywTovJnYpiT6i91WaCTv"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205386,
+      "name": "That Bible",
+      "url": "https://open.spotify.com/track/7oZVzSu7nxiutgT0K3xnEf"
+    },
+    {
+      "album": {
         "name": "Clear As Day",
         "url": "https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc"
       },
@@ -5586,6 +5622,24 @@
       "duration_ms": 288658,
       "name": "You Can Rest",
       "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
+    },
+    {
+      "album": {
+        "name": "You Lately",
+        "url": "https://open.spotify.com/album/7eT0rnRmAvsQvVtbV3YnHq"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248012,
+      "name": "You Lately",
+      "url": "https://open.spotify.com/track/1h4qDuxfpHz1wsE2mHfKPz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv"

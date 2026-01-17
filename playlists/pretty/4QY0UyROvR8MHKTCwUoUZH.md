@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,323 likes - 95 songs - 5 hr 6 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,322 likes - 95 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,21 +55,21 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 | 45 | [Zeg maar niets](https://open.spotify.com/track/5ayQm9rr6dzb4wiTp6Kwib) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Zeg maar niets](https://open.spotify.com/album/4wZq7Q7JNZp6oCocTyUQY6) | 2:33 |
 | 46 | [Jij Verdient Het](https://open.spotify.com/track/1uXrlxv9eSdCnYtUD5hafk) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Jij Verdient Het](https://open.spotify.com/album/1sQLV0R27jVUCxY134ntKB) | 3:26 |
 | 47 | [Basis](https://open.spotify.com/track/5F6dMIDa3Q4VOSzYqkhJOv) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Basis](https://open.spotify.com/album/3FlNNW7jjryAR5uTeGi19R) | 2:54 |
-| 48 | [Make Up](https://open.spotify.com/track/08iidmzmMXSb0ynpKdBcqn) | [GIGI](https://open.spotify.com/artist/2nUCb4O54MGkGUcGDEUF1h) | [Make Up](https://open.spotify.com/album/3OphDeCYFBwm9OFSAVB9oE) | 3:06 |
-| 49 | [Indigo](https://open.spotify.com/track/3cxBEkmOaCVUdJOkgF8lJb) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Indigo](https://open.spotify.com/album/2LbuzX1rIVNdbYIUZbWmub) | 4:47 |
-| 50 | [Hart Zonder Krassen](https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Hart Zonder Krassen](https://open.spotify.com/album/4eSC7ylSZLb4nkWIehlLJi) | 2:23 |
-| 51 | [Everlastingly \- Wedding Version](https://open.spotify.com/track/2PUV7cOFpV1wrGBKed91N8) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Everlastingly \(Wedding Version\)](https://open.spotify.com/album/6un0lF2zOowIKOS3fI7YeH) | 3:12 |
-| 52 | [American Life \- live version](https://open.spotify.com/track/5d2g5QrbtgQDc51bRxpeEJ) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [American Life \(live version\)](https://open.spotify.com/album/42LLrq09ZgbWxwAuSfxydx) | 3:46 |
-| 53 | [The Ocean](https://open.spotify.com/track/2L3yAc4GOgoDJb50YKVqxw) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [The Ocean](https://open.spotify.com/album/6ab2amp1PfPLEklhyIKqf3) | 1:03 |
-| 54 | [Boy and the Swan](https://open.spotify.com/track/1RZSLpEvLkZ0mhYygJT6tZ) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Boy and the Swan](https://open.spotify.com/album/5aZ6bNwi9LwOujAYVBBjN6) | 3:38 |
-| 55 | [Radio Silence](https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Radio Silence](https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB) | 2:15 |
-| 56 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
-| 57 | [Excuus](https://open.spotify.com/track/00UqHsIy3NrRd48ZCTjt4x) | [Amélie Esmée](https://open.spotify.com/artist/4F6j4Zt7hozI7BtYPCUMgI) | [Excuus](https://open.spotify.com/album/0JIaJCM5A7zY0OEatjvLf7) | 3:10 |
-| 58 | [A Plea](https://open.spotify.com/track/7fkWpK1YcIMtM7PdMawgfY) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [A Plea](https://open.spotify.com/album/0eFgrTbT424fF4zLnhF6R5) | 7:38 |
-| 59 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |
-| 60 | [In Between The Glass](https://open.spotify.com/track/2bewIDkh0QfcVoQNgRaIpB) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [In Between The Glass](https://open.spotify.com/album/35kxAAk9pr5OlJaNGhWvek) | 2:58 |
-| 61 | [Castle](https://open.spotify.com/track/2eMMH266cKho4MCyl4GV6A) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Castle](https://open.spotify.com/album/0gh6Lpziw1KnjvGMjLtqaw) | 2:50 |
-| 62 | [Forest Hills](https://open.spotify.com/track/7aeexgGieEGhvIg7Bm0Bra) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Forest Hills](https://open.spotify.com/album/0w8cg1jEpgA7cANU4qW6ov) | 3:18 |
+| 48 | [VALENTINE](https://open.spotify.com/track/1C2BlkJ7ywosSSSktVziXz) | [stardog](https://open.spotify.com/artist/6ujyQSZc3Rh87O5JYbmuzp) | [VALENTINE](https://open.spotify.com/album/3qQsThTUV9qFMmpCP3nPpY) | 4:00 |
+| 49 | [Make Up](https://open.spotify.com/track/08iidmzmMXSb0ynpKdBcqn) | [GIGI](https://open.spotify.com/artist/2nUCb4O54MGkGUcGDEUF1h) | [Make Up](https://open.spotify.com/album/3OphDeCYFBwm9OFSAVB9oE) | 3:06 |
+| 50 | [Indigo](https://open.spotify.com/track/3cxBEkmOaCVUdJOkgF8lJb) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Indigo](https://open.spotify.com/album/2LbuzX1rIVNdbYIUZbWmub) | 4:47 |
+| 51 | [Hart Zonder Krassen](https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Hart Zonder Krassen](https://open.spotify.com/album/4eSC7ylSZLb4nkWIehlLJi) | 2:23 |
+| 52 | [Everlastingly \- Wedding Version](https://open.spotify.com/track/2PUV7cOFpV1wrGBKed91N8) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Everlastingly \(Wedding Version\)](https://open.spotify.com/album/6un0lF2zOowIKOS3fI7YeH) | 3:12 |
+| 53 | [American Life \- live version](https://open.spotify.com/track/5d2g5QrbtgQDc51bRxpeEJ) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [American Life \(live version\)](https://open.spotify.com/album/42LLrq09ZgbWxwAuSfxydx) | 3:46 |
+| 54 | [The Ocean](https://open.spotify.com/track/2L3yAc4GOgoDJb50YKVqxw) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [The Ocean](https://open.spotify.com/album/6ab2amp1PfPLEklhyIKqf3) | 1:03 |
+| 55 | [Boy and the Swan](https://open.spotify.com/track/1RZSLpEvLkZ0mhYygJT6tZ) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Boy and the Swan](https://open.spotify.com/album/5aZ6bNwi9LwOujAYVBBjN6) | 3:38 |
+| 56 | [Radio Silence](https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Radio Silence](https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB) | 2:15 |
+| 57 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
+| 58 | [Excuus](https://open.spotify.com/track/00UqHsIy3NrRd48ZCTjt4x) | [Amélie Esmée](https://open.spotify.com/artist/4F6j4Zt7hozI7BtYPCUMgI) | [Excuus](https://open.spotify.com/album/0JIaJCM5A7zY0OEatjvLf7) | 3:10 |
+| 59 | [A Plea](https://open.spotify.com/track/7fkWpK1YcIMtM7PdMawgfY) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [A Plea](https://open.spotify.com/album/0eFgrTbT424fF4zLnhF6R5) | 7:38 |
+| 60 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |
+| 61 | [In Between The Glass](https://open.spotify.com/track/2bewIDkh0QfcVoQNgRaIpB) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [In Between The Glass](https://open.spotify.com/album/35kxAAk9pr5OlJaNGhWvek) | 2:58 |
+| 62 | [Castle](https://open.spotify.com/track/2eMMH266cKho4MCyl4GV6A) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Castle](https://open.spotify.com/album/0gh6Lpziw1KnjvGMjLtqaw) | 2:50 |
 | 63 | [Once In A Blue Moon](https://open.spotify.com/track/3nlJUUkiwlRrLNsI31yGl7) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Once In A Blue Moon](https://open.spotify.com/album/32zsXe3xy546PHhgMpGgYw) | 3:06 |
 | 64 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
 | 65 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 | 94 | [Hush \(baby\)](https://open.spotify.com/track/6l2y7qexA2OpXeveevT3Ej) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Hush \(baby\)](https://open.spotify.com/album/1mI4bjW8iRFSAjzhQnBl3q) | 3:09 |
 | 95 | [09](https://open.spotify.com/track/1YHK7lD9tjm2IXRnO5WZkM) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [09](https://open.spotify.com/album/7LCNII9sfgoy7wcagY7GUa) | 3:15 |
 
-Snapshot ID: `AAARWxDzszH6n2KzK1pW6SDfpPKjYFbt`
+Snapshot ID: `AAARXVBK9x2FK+wHogZmJl2S00YOv8/q`

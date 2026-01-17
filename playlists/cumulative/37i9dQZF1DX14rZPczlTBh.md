@@ -4,10 +4,11 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-161 songs - 8 hr 41 min
+162 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [23 Theme \(From "AA23"\)](https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hector Salamanca](https://open.spotify.com/artist/5vDIDpttklXxigXvqdiXwU), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [23 Theme \(From "AA23"\)](https://open.spotify.com/album/0Y6hWL8xxatoqyvsVy4Ge2) | 0:47 | 2026-01-15 |  |
 | [Aadathanama](https://open.spotify.com/track/0MU4LT5akvYfbRKXBfBlPY) | [Sunitha Saradhi, Febimani](https://open.spotify.com/artist/1mSgjkVDvQ04bmNK7Zy4Ta) | [Gharshana\-New](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 4:48 | 2021-06-24 | 2024-08-24 |
 | [Aadathanama](https://open.spotify.com/track/1IdliXRVilLPSas4M3weay) | [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Febimani](https://open.spotify.com/artist/6m4WCOPRSEsSPeiEtrpu2I) | [Gharshana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vcMhImy6HvLrAczwRtakO) | 4:48 | 2021-06-24 | 2022-07-29 |
 | [Agni Skalana](https://open.spotify.com/track/547drAxnHv6qRwvJMceREO) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Mathangi](https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t) | [Chatrapathi](https://open.spotify.com/album/5xvwlDPbWYpTSeWdBJf2oX) | 3:09 | 2024-08-23 |  |
@@ -19,7 +20,7 @@
 | [And the Saturdays Continue](https://open.spotify.com/track/3rc8KPTtRqxIxjmGvR1VYj) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:28 | 2024-10-15 |  |
 | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/track/6SzhKwa0saR0U6C2ZynpKW) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj) | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/album/1bZ1IHL2eSxBNwJ3kjMcl1) | 3:59 | 2024-10-07 |  |
 | [Arey O Samba \- Remix](https://open.spotify.com/track/72ig2QHDxDbNYb9LT33ayD) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Divija Karthik](https://open.spotify.com/artist/5sUdcxfIMRJlwA1zyxGOxH) | [Pataas](https://open.spotify.com/album/4F8NuTMEGuYDHK5iIe1d5l) | 3:48 | 2021-06-24 | 2024-08-24 |
-| [Arjun & Nani’s Theme](https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:19 | 2024-08-23 |  |
+| [Arjun & Nani’s Theme](https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:19 | 2024-08-23 | 2026-01-17 |
 | [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 | 2024-08-23 |  |
 | [Bang Bang Bangkok](https://open.spotify.com/track/0A1chT9ef0Kn1NnQVnLoot) | [Devi Sri Prasad, Ranina Reddy, Rita](https://open.spotify.com/artist/6YGQ8Nt3ns8H02IkF3B3DO) | [Kumari 21 F](https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc) | 3:30 | 2021-06-24 | 2024-08-24 |
 | [Bellam Sridevi](https://open.spotify.com/track/2FTTWwH9X6k04dsLjTwSI6) | [Sai Charan](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Supreme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FgJTey3USHIBID0Dq1Tai) | 4:04 | 2021-06-24 | 2022-07-29 |

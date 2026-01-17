@@ -4,7 +4,7 @@
 
 > Playlist
 
-626 songs - 1 day 13 hr 6 min
+627 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,6 +601,7 @@
 | [Videos](https://open.spotify.com/track/6WfhESsVWT1JiZ59ynEtS1) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Videos](https://open.spotify.com/album/4VAsSrZ0Z1RJKZxpRvCnJp) | 4:24 | 2023-10-25 |  |
 | [Vino](https://open.spotify.com/track/3pggq9ObPjhY0By9hXBix2) | [Sleepy Gaucho](https://open.spotify.com/artist/2Z0oy5DFzgh7kzFBV4Qa3x) | [Sueños Que Sobran](https://open.spotify.com/album/6nZbtlkiDmpxWxVNpyNMgz) | 3:56 | 2023-10-25 |  |
 | [Vino](https://open.spotify.com/track/6a0Qx27fFYaPQJDwPWh60t) | [Sleepy Gaucho](https://open.spotify.com/artist/2Z0oy5DFzgh7kzFBV4Qa3x) | [Vino](https://open.spotify.com/album/4dAHNck9tPj4KNKdm8IqY7) | 3:56 | 2023-10-25 |  |
+| [Voices](https://open.spotify.com/track/1nOpnsV3zdWQfX28SRm5ND) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Voices](https://open.spotify.com/album/7afBwlsNfKg3xRymDLH8IC) | 4:04 | 2026-01-16 |  |
 | [Voodoo on Gold](https://open.spotify.com/track/1yLRz16NS8aWKH3ybbToRE) | [Dumbo Gets Mad](https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO) | [Voodoo on Gold](https://open.spotify.com/album/48PWE4LNmfZ3leymjoQPbV) | 3:16 | 2023-10-25 |  |
 | [Waiting by the Phone](https://open.spotify.com/track/166qPsm4hCjDRzuhNUacjZ) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Waiting by the Phone](https://open.spotify.com/album/0ij3iTBmB231VrgLP8tnMZ) | 2:14 | 2024-11-14 |  |
 | [Waiting Patiently](https://open.spotify.com/track/3xZw1yQPEUZjYP5p2eZoef) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Silent Struggles](https://open.spotify.com/album/7oKFZCczw4URVDthSKJ2f7) | 5:18 | 2023-10-25 |  |

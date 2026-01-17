@@ -2731,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Heated Rivalry (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266047,
+      "name": "Inferno - from \"Heated Rivalry\"",
+      "url": "https://open.spotify.com/track/1n8afwzrk9KEdORiC5EBYV"
+    },
+    {
+      "album": {
         "name": "It's A Feeling",
         "url": "https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ"
       },

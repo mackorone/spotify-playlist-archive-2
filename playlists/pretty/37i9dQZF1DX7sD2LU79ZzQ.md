@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Toton Caribo
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,821 likes - 129 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,875 likes - 129 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 10 | [Terulang Lagi](https://open.spotify.com/track/1r7k2d2E4TqKJ63EtQcFqQ) | [Kris Tomahu](https://open.spotify.com/artist/0tsyEljhXykxOCSFO1T56v) | [Terulang Lagi](https://open.spotify.com/album/50nb5ZAJt2YSHCGGY63vjr) | 3:57 |
 | 11 | [Belia](https://open.spotify.com/track/7zIx12pGZl51rAxO03Fxi1) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Belia](https://open.spotify.com/album/1eu5CqoUQqQvYm3TDDRINa) | 5:05 |
 | 12 | [Belum Siap Sendiri](https://open.spotify.com/track/1FM1bUhgHRH6d7nk3hjLYT) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Belum Siap Sendiri](https://open.spotify.com/album/4ZXYDvP6cnLcQv8i5aANv3) | 3:05 |
-| 13 | [Jogja Lantai 2](https://open.spotify.com/track/1vnRDHIGegvoQcS3xcmaLd) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE), [Heruwa](https://open.spotify.com/artist/4njMybOphuw7MdDGv2KhA3) | [Jogja Lantai 2](https://open.spotify.com/album/2B5fBlYQhu8qVs8cmiaaet) | 4:01 |
+| 13 | [Jogja Lantai Dua](https://open.spotify.com/track/1vnRDHIGegvoQcS3xcmaLd) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE), [Heruwa](https://open.spotify.com/artist/4njMybOphuw7MdDGv2KhA3) | [Jogja Lantai Dua](https://open.spotify.com/album/2B5fBlYQhu8qVs8cmiaaet) | 4:01 |
 | 14 | [Cinta Kita](https://open.spotify.com/track/65nZbfJLykiRVfuh2RHsii) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Cinta Kita](https://open.spotify.com/album/6E18fqcJuU2qEFicknkdgM) | 4:22 |
 | 15 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/79tbBuciPV221EozY3RKQv) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Resonance](https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4) | 4:05 |
 | 16 | [terima kasih dariku\. \- Original Soundtrack From The Movie "Nala, Dengar Aku Juga"](https://open.spotify.com/track/5XVj7adrY7HFaJbrDsXMyR) | [Quinn Salman](https://open.spotify.com/artist/4lkE7XFATsJcgz6aLp1tdP) | [Nala, Dengar Aku Juga \(Original Soundtrack from the Movie "Nala, Dengar Aku Juga"\)](https://open.spotify.com/album/30iOvKIvh1wck39KJAzF2Z) | 3:23 |

@@ -2107,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "Dashboard Mary",
+        "url": "https://open.spotify.com/album/3T3exfwPGiO7bb06AsHBqM"
+      },
+      "artists": [
+        {
+          "name": "Modern Woman",
+          "url": "https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293259,
+      "name": "Dashboard Mary",
+      "url": "https://open.spotify.com/track/7pozVrkNzYLcymGuGDtbIQ"
+    },
+    {
+      "album": {
         "name": "DEATH IN THE FAMILY",
         "url": "https://open.spotify.com/album/6GlQiQEkl2HanoAEqqdKTB"
       },
@@ -6034,7 +6052,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 275887,
       "name": "Pomegranate",
       "url": "https://open.spotify.com/track/5SYrjVSssp29dV1z14RbLP"
@@ -8011,8 +8029,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "So Much Country \u2018Till We Get There",
+        "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
       },
       "artists": [
         {

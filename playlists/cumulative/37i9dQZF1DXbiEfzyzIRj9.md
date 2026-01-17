@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: パソコン音楽クラブ
 
-1,937 songs - 5 day 22 hr 15 min
+1,937 songs - 5 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1675,6 +1675,7 @@
 | [The Seed](https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C) | 3:28 | 2024-10-26 | 2024-11-29 |
 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 | 2025-07-10 | 2025-10-17 |
 | [The Sixth](https://open.spotify.com/track/27VMjEdwAWvpka6hW0SlPg) | [Dayzero](https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd) | [The Sixth Sense EP](https://open.spotify.com/album/1tMpR9AkguMx3uX465lhdo) | 5:28 | 2024-08-15 | 2024-09-27 |
+| [The Truth Is Out There \- Edit](https://open.spotify.com/track/3ljDpdbBrt8vbrQ2G6VL9g) | [Dj Steaw](https://open.spotify.com/artist/718Tju2ByjiEXnhaiUeQZE) | [The Story Continues EP](https://open.spotify.com/album/0t7SXv37enQ1Y5YNb27dzK) | 3:19 | 2026-01-15 |  |
 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 | 2025-05-02 | 2025-07-11 |
 | [The Way I'm Feeling](https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [The Way I'm Feeling](https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT) | 4:17 | 2025-10-10 | 2025-11-14 |
 | [The Way To Do It](https://open.spotify.com/track/18gn195iZFHDeLX7PiBkfp) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [The Way To Do It](https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ) | 5:20 | 2023-03-16 | 2023-05-12 |
@@ -1728,7 +1729,6 @@
 | [Toxic Love \- Yukio Nohara Remix](https://open.spotify.com/track/4JuwPIKIX3uXYZxOgzwT20) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH), [Yukio Nohara](https://open.spotify.com/artist/1TmlY6IesLUBi6RhLuuOFU) | [Toxic Love Remixes](https://open.spotify.com/album/5zkxJQvWCOTN69opdlhsIN) | 7:47 | 2024-04-18 | 2024-05-10 |
 | [Toxic Love \- Yukio Nohara Remix](https://open.spotify.com/track/6vO9hzoGnOyZ8ehMO5PE0N) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH), [Yukio Nohara](https://open.spotify.com/artist/1TmlY6IesLUBi6RhLuuOFU) | [Toxic Love Remixes](https://open.spotify.com/album/7LRFlGGg6bTNirLJSAbYj2) | 7:47 | 2024-02-01 | 2024-04-19 |
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-07 | 2024-04-05 |
-| [Track 2](https://open.spotify.com/track/3ljDpdbBrt8vbrQ2G6VL9g) | [Dj Steaw](https://open.spotify.com/artist/718Tju2ByjiEXnhaiUeQZE) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-15 |  |
 | [TRACKER](https://open.spotify.com/track/63DALyIGsR35njSyCT5BU2) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [TRACKER](https://open.spotify.com/album/6EbWsQynRa6poZbkK5KCMz) | 7:34 | 2024-03-14 | 2024-08-09 |
 | [Traffic Jams](https://open.spotify.com/track/1fcRwdRZGwoTpaff2Fn4bd) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [Traffic Jams](https://open.spotify.com/album/2HEvv6LAWeKF29ZuLQswNX) | 11:05 | 2024-09-12 | 2024-11-29 |
 | [Train Dash](https://open.spotify.com/track/78BwUaTvpWUcQOWwnY8Ag3) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [In Sri Lanka](https://open.spotify.com/album/2sIpOaUihE0eLxmYWkAbOD) | 1:09 | 2023-12-07 | 2024-02-10 |

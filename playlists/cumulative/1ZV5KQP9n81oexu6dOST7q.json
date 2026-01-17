@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "What You Hiding?",
+        "url": "https://open.spotify.com/album/5HXJEf13KDdUYK5hMKow7A"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113555,
+      "name": "What You Hiding?",
+      "url": "https://open.spotify.com/track/3nD942ta7jpMXO0xyKWEav"
+    },
+    {
+      "album": {
         "name": "With Your Love",
         "url": "https://open.spotify.com/album/6HjOkGo6xdNpBJSTa4FlDK"
       },

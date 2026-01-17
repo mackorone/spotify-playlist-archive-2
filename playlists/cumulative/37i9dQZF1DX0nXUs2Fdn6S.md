@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Nucleya
 
-98 songs - 5 hr 26 min
+99 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Shakthi](https://open.spotify.com/track/5xOavYpYa3lROHHVULZwZB) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Shakthi](https://open.spotify.com/album/1T7zssjSgnaDGpTWDCweR1) | 3:08 | 2025-10-06 |  |
 | [Smoke & Mirrors](https://open.spotify.com/track/5ENfn7MfW9ms4zmfEyoXRF) | [Rafiki \(IN\)](https://open.spotify.com/artist/3ROQdOAplnJWKboYPuAbik) | [Anand Mahal](https://open.spotify.com/album/4t1L4btB6EVKRwb1lTbdTQ) | 5:04 | 2024-06-06 |  |
 | [Somedays I Know](https://open.spotify.com/track/5KyMwqeqAVcsGQPICW3LkX) | [Whoshafee](https://open.spotify.com/artist/6PMkmGQLEWSCCml7Z0KKkx) | [Somedays I Know](https://open.spotify.com/album/2OwqlF3OJ0NQWynICBthiO) | 3:49 | 2023-10-20 |  |
+| [Sukoon](https://open.spotify.com/track/1uTUkqfimheOAVA0mi9Bp3) | [Aatma](https://open.spotify.com/artist/6zaWFQYU5em3iUkjvzbF70) | [Sukoon](https://open.spotify.com/album/6QQILo7GjRRqXlKsgoF3B1) | 3:38 | 2026-01-16 |  |
 | [Summer Tune](https://open.spotify.com/track/3LyOG6zAbh8zfMRQ5QGxgl) | [Shranay Shahane](https://open.spotify.com/artist/65Jmv6ckflB3P1XWBtyuF2), [Oskar T.T](https://open.spotify.com/artist/2OVetJ63mx7fvwt2xKPfYY) | [Summer Tune](https://open.spotify.com/album/4kMR4J5qGcm62sWEC0Qb2S) | 2:41 | 2023-10-20 |  |
 | [Survived](https://open.spotify.com/track/4vgM82J1Uo424bJVzTDWvn) | [Kian Parikh](https://open.spotify.com/artist/211K7A9MTHN86gfHvy4Rfi) | [Survived](https://open.spotify.com/album/71bBM2D5yNrsDVi7rdgcvR) | 3:06 | 2023-10-20 |  |
 | [Tala](https://open.spotify.com/track/1QB4MXIekuY5iGLrapDNfj) | [Al Tamar](https://open.spotify.com/artist/5eEZAVA1UxTo2a5vwY0gI1), [Elnaaz Norouzi](https://open.spotify.com/artist/59l92FFLwKblV1LHUHYw43) | [Tala](https://open.spotify.com/album/7dH02hdKfme7yOT2BROR6I) | 3:16 | 2025-10-25 |  |

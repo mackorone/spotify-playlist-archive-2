@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Linea Personal ",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Juan Freer & El Rabanito.",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -186,6 +186,24 @@
       "duration_ms": 208500,
       "name": "14 de Febrero",
       "url": "https://open.spotify.com/track/3tx2H72qLcjN74GmU0uxU4"
+    },
+    {
+      "album": {
+        "name": "19 Dias Y 500 Noches",
+        "url": "https://open.spotify.com/album/5OxmcHaGe3SSLNblg8kKhd"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286685,
+      "name": "19 Dias Y 500 Noches",
+      "url": "https://open.spotify.com/track/6L3MWcIig800B6Nasgaln5"
     },
     {
       "album": {
@@ -7252,7 +7270,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 187178,
       "name": "Desde Cero",
       "url": "https://open.spotify.com/track/6b7uTSX5vdRBlwvfvp52aO"
@@ -7484,7 +7502,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 213433,
       "name": "Dime Pa\u2019 Qu\u00e9",
       "url": "https://open.spotify.com/track/4N5Owf5cqLPj1v5hv4iFW9"
@@ -8164,7 +8182,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 255310,
       "name": "Eddi Bauer",
       "url": "https://open.spotify.com/track/0yeYgYyqW7uRvBZeeBKpsS"
@@ -12794,7 +12812,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 191375,
       "name": "Guason",
       "url": "https://open.spotify.com/track/4Wuwir9pHgQnCdSDIDgrhv"
@@ -13324,7 +13342,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 173127,
       "name": "Hoy Me La Pelan",
       "url": "https://open.spotify.com/track/5wUQg88seGQen2Jifa2Ld6"
@@ -19401,6 +19419,28 @@
     },
     {
       "album": {
+        "name": "MOPUS",
+        "url": "https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        },
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "MOPUS",
+      "url": "https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY"
+    },
+    {
+      "album": {
         "name": "Moreno \"El Emi\"",
         "url": "https://open.spotify.com/album/3a3Appf1QUvaV6YDSc35wu"
       },
@@ -20768,7 +20808,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 153384,
       "name": "No Me Preocupo Tanto",
       "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
@@ -21655,6 +21695,28 @@
     },
     {
       "album": {
+        "name": "Obsesi\u00f3n De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/37voXltjTlvu3qy0tGyJaD"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Obsesi\u00f3n De Ni\u00f1o",
+      "url": "https://open.spotify.com/track/3cba4GzduJqGUKDNCOVcwz"
+    },
+    {
+      "album": {
         "name": "Odio",
         "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
       },
@@ -21688,6 +21750,46 @@
       "duration_ms": 128705,
       "name": "Odio Amarte",
       "url": "https://open.spotify.com/track/0HXwimM3Gvx1JqVO7MjDVJ"
+    },
+    {
+      "album": {
+        "name": "Odio Verte",
+        "url": "https://open.spotify.com/album/4ipZKhWJfc49w1OPduZ6P1"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171920,
+      "name": "Odio Verte",
+      "url": "https://open.spotify.com/track/1WFAnXgz2SpecEVAf9imdj"
+    },
+    {
+      "album": {
+        "name": "ODISSEA",
+        "url": "https://open.spotify.com/album/3otqbadkPnaH1cAYlEZq7t"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161780,
+      "name": "ODISSEA",
+      "url": "https://open.spotify.com/track/6JIq7GjrtZijTjjP8lP7Je"
     },
     {
       "album": {
@@ -24287,6 +24389,24 @@
     },
     {
       "album": {
+        "name": "Triste",
+        "url": "https://open.spotify.com/album/2T7gjrokbvQJQAGiT8MJal"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202227,
+      "name": "Que Nos Paso",
+      "url": "https://open.spotify.com/track/7xmq1hSIYdhk79ZddcEA2M"
+    },
+    {
+      "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
       },
@@ -25318,6 +25438,24 @@
       "duration_ms": 163794,
       "name": "Rico Y Soltero",
       "url": "https://open.spotify.com/track/5ZgPDnDflO2fFLAuF6b4LL"
+    },
+    {
+      "album": {
+        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
+        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155255,
+      "name": "Risk Takers",
+      "url": "https://open.spotify.com/track/2Ina8OxEQ3knMzWFRz9imx"
     },
     {
       "album": {
@@ -28158,7 +28296,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 180322,
       "name": "Te Juro Jam\u00e1s",
       "url": "https://open.spotify.com/track/5L5AYy2Vh2QeWDbJm5Tm4I"
@@ -29649,6 +29787,28 @@
     },
     {
       "album": {
+        "name": "UN LE\u00d1O",
+        "url": "https://open.spotify.com/album/3Ah6062p6SYwBjjXnFtQcF"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "UN LE\u00d1O",
+      "url": "https://open.spotify.com/track/6ozLcS63i78I9cjnTpvwPI"
+    },
+    {
+      "album": {
         "name": "Un Loco Enamorado",
         "url": "https://open.spotify.com/album/2fiLW10yDhtTIJVcHOXV4O"
       },
@@ -30502,7 +30662,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 220201,
       "name": "vete de una vez",
       "url": "https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl"

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,043 songs - 1 day 17 hr 11 min
+2,044 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1440,6 +1440,7 @@
 | [Rest Now](https://open.spotify.com/track/7kdSVLap8upJ3epPieCXKp) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [October](https://open.spotify.com/album/5rRy0qeDWkoJdpDr3aCQmH) | 1:01 | 2023-01-25 |  |
 | [Restful](https://open.spotify.com/track/0VtdiTAt5PCqEREAKe8yio) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Restful](https://open.spotify.com/album/36gG97acyEm7B5bLvPfS6N) | 1:00 | 2024-03-30 |  |
 | [Resting](https://open.spotify.com/track/4x3tnRFcBldR4nR8QSydCD) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Resting](https://open.spotify.com/album/5xnKqZ4BlGMS4oZpQWXlWT) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Resting](https://open.spotify.com/track/5kliLoOIzoMlQs05jNe02L) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Resting](https://open.spotify.com/album/20PzxCIsMcVxZhdPnmMv5T) | 1:00 | 2026-01-17 |  |
 | [Resting At Last](https://open.spotify.com/track/4EBwcdWCh6Vsa6LBeHnstK) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Forest Walk](https://open.spotify.com/album/0Nk7maUYaBAgpyF1lUPoHH) | 1:02 | 2022-01-12 |  |
 | [Resting For Now](https://open.spotify.com/track/6ZcsnccOegO0qXmAgvmaEG) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Perspectives](https://open.spotify.com/album/3IrnM4TePjh3eadsqS6eq5) | 1:36 | 2022-01-20 |  |
 | [Resting Now](https://open.spotify.com/track/5wdWYC3ub7WgWNc69LC1WC) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Here](https://open.spotify.com/album/7iNn2dwf5X85GZidRJWUoU) | 1:06 | 2022-02-24 | 2024-01-30 |

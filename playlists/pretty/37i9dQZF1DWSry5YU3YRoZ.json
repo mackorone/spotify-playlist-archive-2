@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 11304,
+  "num_followers": 11303,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-01-13 02:47:26",
       "album": {
-        "name": "When I stop thinking",
-        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 282453,
-      "name": "Dear love",
-      "url": "https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF"
-    },
-    {
-      "added_at": "2026-01-13 02:47:26",
-      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2026-01-13 02:47:26",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
+        "name": "When I stop thinking",
+        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
         }
       ],
-      "duration_ms": 257862,
-      "name": "\uc785\ub9de\ucda4",
-      "url": "https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt"
+      "duration_ms": 282453,
+      "name": "Dear love",
+      "url": "https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF"
     },
     {
       "added_at": "2026-01-13 02:47:26",
@@ -347,6 +331,22 @@
       "duration_ms": 242680,
       "name": "In My Dream",
       "url": "https://open.spotify.com/track/59aPed7AGGtbC4ro8Bc6BW"
+    },
+    {
+      "added_at": "2026-01-13 02:47:26",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 257862,
+      "name": "\uc785\ub9de\ucda4",
+      "url": "https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt"
     },
     {
       "added_at": "2026-01-13 02:47:26",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-01-13 02:47:26",
       "album": {
-        "name": "To.",
-        "url": "https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "dear my loves",
-      "url": "https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo"
-    },
-    {
-      "added_at": "2026-01-13 02:47:26",
-      "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/5q19924bYcyPB5dvkivG84"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 238575,
       "name": "Hug Me (I'm In Your Arms)",
       "url": "https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB"
+    },
+    {
+      "added_at": "2026-01-13 02:47:26",
+      "album": {
+        "name": "To.",
+        "url": "https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "dear my loves",
+      "url": "https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo"
     },
     {
       "added_at": "2026-01-13 02:47:26",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-01-13 02:47:26",
       "album": {
-        "name": "Sapporo",
-        "url": "https://open.spotify.com/album/5iLSTZfnINNcRssJiqj8ty"
-      },
-      "artists": [
-        {
-          "name": "Kim Bom",
-          "url": "https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Sapporo",
-      "url": "https://open.spotify.com/track/0G32S1A2ao0pImqQLlYVSn"
-    },
-    {
-      "added_at": "2026-01-13 02:47:26",
-      "album": {
         "name": "Demo songs",
         "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 246874,
       "name": "dear heart",
       "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
+    },
+    {
+      "added_at": "2026-01-13 02:47:26",
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 204463,
+      "name": "Prayers of a Hedgehog",
+      "url": "https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C"
     },
     {
       "added_at": "2026-01-13 02:47:26",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-01-13 02:47:26",
       "album": {
+        "name": "Sapporo",
+        "url": "https://open.spotify.com/album/5iLSTZfnINNcRssJiqj8ty"
+      },
+      "artists": [
+        {
+          "name": "Kim Bom",
+          "url": "https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Sapporo",
+      "url": "https://open.spotify.com/track/0G32S1A2ao0pImqQLlYVSn"
+    },
+    {
+      "added_at": "2026-01-13 02:47:26",
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 374991,
       "name": "Dream",
       "url": "https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK"
-    },
-    {
-      "added_at": "2026-01-13 02:47:26",
-      "album": {
-        "name": "youth",
-        "url": "https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Buio Deluxe",
+        "url": "https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx"
+      },
+      "artists": [
+        {
+          "name": "Crosslane",
+          "url": "https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222125,
+      "name": "Buio - Eng Version",
+      "url": "https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42"
+    },
+    {
+      "album": {
         "name": "Overthrown",
         "url": "https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ"
       },
@@ -618,6 +636,24 @@
       "duration_ms": 251626,
       "name": "Diane - Demo Version",
       "url": "https://open.spotify.com/track/5xiZ1UJ3CFjvcXNJNO7plw"
+    },
+    {
+      "album": {
+        "name": "Don't Stop At The Top",
+        "url": "https://open.spotify.com/album/6ziIXzZ8WHJvm9NLQP15Ck"
+      },
+      "artists": [
+        {
+          "name": "Freakstorm",
+          "url": "https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241384,
+      "name": "Don't Stop At The Top",
+      "url": "https://open.spotify.com/track/5RqZlbMgesvJ9K3aTZjxBA"
     },
     {
       "album": {

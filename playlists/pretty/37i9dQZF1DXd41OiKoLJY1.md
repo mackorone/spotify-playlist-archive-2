@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Harana Sessions
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,612 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,692 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 10 | [Saby Waby](https://open.spotify.com/track/0rZw64rXwG8cPmor6Aaqd1) | [Nath Saints](https://open.spotify.com/artist/49Ktj8zZaeGaNuKlxCfQlp) | [Saby Waby](https://open.spotify.com/album/3JTWrHSQi9s0tnjs9GAM4A) | 3:04 |
 | 11 | [Dream Aloud](https://open.spotify.com/track/5FwbQGJ5TkQ2Aw7XubVnjb) | [YUZON](https://open.spotify.com/artist/2vVmdFWujk0ZF5H2f39xY6) | [Dream Aloud](https://open.spotify.com/album/517QZlVAdC7A3uOvHDA6Mn) | 2:41 |
 | 12 | [Nobela](https://open.spotify.com/track/6XavIvd86CxCEjIaqqX7LL) | [Jillian Pamat](https://open.spotify.com/artist/3qdoEKaBouGi3XLlyOv0SU) | [Nobela](https://open.spotify.com/album/5Zz3YAnFrCZvdAbbIFGcEj) | 4:15 |
-| 13 | [Tahanan](https://open.spotify.com/track/5pxCUeY3hrWK9TysJN4zrw) | [Sala](https://open.spotify.com/artist/3ElPfqOWdiXukhHUEqMXGZ) | [Tahanan](https://open.spotify.com/album/17o2m0qrT89ziLCD48zewE) | 4:27 |
+| 13 | [Tahanan](https://open.spotify.com/track/5pxCUeY3hrWK9TysJN4zrw) | [Sala](https://open.spotify.com/artist/3Og97WuFeDOOj1Uqzm7H5Y) | [Tahanan](https://open.spotify.com/album/17o2m0qrT89ziLCD48zewE) | 4:27 |
 | 14 | [Talon](https://open.spotify.com/track/3H9CvGf0iGPG4KsucA0Vn9) | [Angia](https://open.spotify.com/artist/4BqN4C8oLDImrf2CFyJweh) | [Talon](https://open.spotify.com/album/67CQbgaeFA8RwrTEgO5dsl) | 3:08 |
 | 15 | [Pasahan](https://open.spotify.com/track/36654rTDaTth04nvrjXuMQ) | [Douffie](https://open.spotify.com/artist/2CMb6AWzqbORUkFfgK5eU5) | [Pasahan](https://open.spotify.com/album/30jiLUchJC8xSyhvTlE03a) | 1:40 |
 | 16 | [Pagitan](https://open.spotify.com/track/09l7DSBPUiqqyDEeQ2au3o) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Pagitan](https://open.spotify.com/album/6rE38U5oGh0hSRz73clhBA) | 3:01 |

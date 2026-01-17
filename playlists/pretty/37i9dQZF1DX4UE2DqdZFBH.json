@@ -1,12 +1,12 @@
 {
   "description": "Unwind to the real beauty of Instrumentals!",
-  "num_followers": 55515,
+  "num_followers": 55519,
   "original_name": "Indie Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACNWW5hPUeNH5fas4yQxo37FwCA4",
+  "snapshot_id": "AAAAAHYS+2lV2TXXDMUrlkcESuzhHLEt",
   "tracks": [
     {
       "added_at": "2025-12-12 11:33:53",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
-        "name": "This Is Carnatic Fusion, Vol. 3",
-        "url": "https://open.spotify.com/album/6g9Gc0j2bW30vFBK3Ltzq9"
-      },
-      "artists": [
-        {
-          "name": "Ramachandra Murthy",
-          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
-        }
-      ],
-      "duration_ms": 257561,
-      "name": "Enna Thavam Seithanai - Instrumental",
-      "url": "https://open.spotify.com/track/0VOozVf5ZLEbMIVhBAdr9a"
-    },
-    {
-      "added_at": "2025-12-12 11:33:53",
-      "album": {
         "name": "The Emerging",
         "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 459080,
       "name": "Oceans Apart",
       "url": "https://open.spotify.com/track/5Mx3iBTphi0gdJwh6oYGrD"
+    },
+    {
+      "added_at": "2025-12-12 11:33:53",
+      "album": {
+        "name": "This Is Carnatic Fusion, Vol. 3",
+        "url": "https://open.spotify.com/album/6g9Gc0j2bW30vFBK3Ltzq9"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        }
+      ],
+      "duration_ms": 257561,
+      "name": "Enna Thavam Seithanai - Instrumental",
+      "url": "https://open.spotify.com/track/0VOozVf5ZLEbMIVhBAdr9a"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
+        "name": "Epic Shit",
+        "url": "https://open.spotify.com/album/0bwFDuIwLE4OzoHmgiSYPc"
+      },
+      "artists": [
+        {
+          "name": "Sanjeev T",
+          "url": "https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu"
+        }
+      ],
+      "duration_ms": 316006,
+      "name": "Electric Pranaam",
+      "url": "https://open.spotify.com/track/1MpBIySytqhvWAHFUFdJtg"
+    },
+    {
+      "added_at": "2025-12-12 11:33:53",
+      "album": {
         "name": "Whispering Hues (feat. Rajhesh Vaidhya)",
         "url": "https://open.spotify.com/album/5wNdD3ZDfrx3cxpiSdwmUK"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 268426,
       "name": "Whispering Hues (feat. Rajhesh Vaidhya)",
       "url": "https://open.spotify.com/track/7tCpcJ53Z7uslT4sjjZsSc"
-    },
-    {
-      "added_at": "2025-12-12 11:33:53",
-      "album": {
-        "name": "Epic Shit",
-        "url": "https://open.spotify.com/album/0bwFDuIwLE4OzoHmgiSYPc"
-      },
-      "artists": [
-        {
-          "name": "Sanjeev T",
-          "url": "https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu"
-        }
-      ],
-      "duration_ms": 316006,
-      "name": "Electric Pranaam",
-      "url": "https://open.spotify.com/track/1MpBIySytqhvWAHFUFdJtg"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
+        "name": "Across the River",
+        "url": "https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX"
+      },
+      "artists": [
+        {
+          "name": "Eashwar Subramanian",
+          "url": "https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Offering at Dawn",
+      "url": "https://open.spotify.com/track/5I0dxGHQbeqLYaHLxLWF6g"
+    },
+    {
+      "added_at": "2025-12-12 11:33:53",
+      "album": {
         "name": "Telisi Rama",
         "url": "https://open.spotify.com/album/5MbK9qiz0v2GtUhHohipCa"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 251000,
       "name": "It Could Be Rain",
       "url": "https://open.spotify.com/track/1MEiH1yGTZVFXA3bsFooj7"
-    },
-    {
-      "added_at": "2025-12-12 11:33:53",
-      "album": {
-        "name": "Across the River",
-        "url": "https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX"
-      },
-      "artists": [
-        {
-          "name": "Eashwar Subramanian",
-          "url": "https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Offering at Dawn",
-      "url": "https://open.spotify.com/track/5I0dxGHQbeqLYaHLxLWF6g"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
+        "name": "J'ai Fame",
+        "url": "https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp"
+      },
+      "artists": [
+        {
+          "name": "Leprofici",
+          "url": "https://open.spotify.com/artist/6XAnDeLRV9ex4EGbqnJafd"
+        }
+      ],
+      "duration_ms": 213718,
+      "name": "La Lune (Prelude)",
+      "url": "https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN"
+    },
+    {
+      "added_at": "2025-12-12 11:33:53",
+      "album": {
         "name": "Swan Song",
         "url": "https://open.spotify.com/album/6NTVsgQI5drqf97yKLFgnJ"
       },
@@ -919,26 +935,6 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
-      },
-      "artists": [
-        {
-          "name": "Nayan Ghosh",
-          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
-        },
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
-        }
-      ],
-      "duration_ms": 743595,
-      "name": "Shuddh Sarang",
-      "url": "https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP"
-    },
-    {
-      "added_at": "2025-12-12 11:33:53",
-      "album": {
         "name": "Soul of South India \u2013 Instrumentals of the Greatest Traditional Melodies",
         "url": "https://open.spotify.com/album/1F7BbdBXypkLKRo9Wpfs5n"
       },
@@ -959,18 +955,22 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
-        "name": "J'ai Fame",
-        "url": "https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp"
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
       },
       "artists": [
         {
-          "name": "Leprofici",
-          "url": "https://open.spotify.com/artist/6XAnDeLRV9ex4EGbqnJafd"
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
         }
       ],
-      "duration_ms": 213718,
-      "name": "La Lune (Prelude)",
-      "url": "https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN"
+      "duration_ms": 743595,
+      "name": "Shuddh Sarang",
+      "url": "https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
+        "name": "Electric Ganesha Land",
+        "url": "https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699"
+      },
+      "artists": [
+        {
+          "name": "Prasanna",
+          "url": "https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Indra's Necklace",
+      "url": "https://open.spotify.com/track/6D1PgbnMCFNQcAVAr0wqE8"
+    },
+    {
+      "added_at": "2025-12-12 11:33:53",
+      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
-        "name": "Electric Ganesha Land",
-        "url": "https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699"
-      },
-      "artists": [
-        {
-          "name": "Prasanna",
-          "url": "https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Indra's Necklace",
-      "url": "https://open.spotify.com/track/6D1PgbnMCFNQcAVAr0wqE8"
-    },
-    {
-      "added_at": "2025-12-12 11:33:53",
-      "album": {
         "name": "Imperfect Things",
         "url": "https://open.spotify.com/album/0so0Y8UzBKc7aiGTuhdxo7"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 185685,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/6jBKigEE4UpWHuTitAqAdG"
-    },
-    {
-      "added_at": "2025-12-12 11:33:53",
-      "album": {
-        "name": "The Emerging",
-        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
-      },
-      "artists": [
-        {
-          "name": "Sutej Singh",
-          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "The Comeback Trail",
-      "url": "https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
-        "name": "A Reclaimed Interval",
-        "url": "https://open.spotify.com/album/0IcL9FQ2Tz0LLhPi2vhiPa"
+        "name": "The Emerging",
+        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
       },
       "artists": [
         {
-          "name": "Bombay Acoustic People",
-          "url": "https://open.spotify.com/artist/50m59tvsDkckztXUDOaZwU"
+          "name": "Sutej Singh",
+          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
         }
       ],
-      "duration_ms": 275551,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/4XEpk6upsPlA9lWkggG1B5"
+      "duration_ms": 402000,
+      "name": "The Comeback Trail",
+      "url": "https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -1219,22 +1203,18 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN"
+        "name": "A Reclaimed Interval",
+        "url": "https://open.spotify.com/album/0IcL9FQ2Tz0LLhPi2vhiPa"
       },
       "artists": [
         {
-          "name": "Vinay Kaushal",
-          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
-        },
-        {
-          "name": "Shirish Malhotra",
-          "url": "https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2"
+          "name": "Bombay Acoustic People",
+          "url": "https://open.spotify.com/artist/50m59tvsDkckztXUDOaZwU"
         }
       ],
-      "duration_ms": 328285,
-      "name": "Mind Games",
-      "url": "https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5"
+      "duration_ms": 275551,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/4XEpk6upsPlA9lWkggG1B5"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -1251,6 +1231,26 @@
       "duration_ms": 215722,
       "name": "Mind In Wonderland",
       "url": "https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe"
+    },
+    {
+      "added_at": "2025-12-12 11:33:53",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN"
+      },
+      "artists": [
+        {
+          "name": "Vinay Kaushal",
+          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
+        },
+        {
+          "name": "Shirish Malhotra",
+          "url": "https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2"
+        }
+      ],
+      "duration_ms": 328285,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
-        "name": "Valencia",
-        "url": "https://open.spotify.com/album/12WTQanIkVo2kml0e4O2EG"
-      },
-      "artists": [
-        {
-          "name": "Apoorva Krishna",
-          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
-        }
-      ],
-      "duration_ms": 294999,
-      "name": "Valencia",
-      "url": "https://open.spotify.com/track/4u0eNhPfra8m1BpOwtYVRr"
-    },
-    {
-      "added_at": "2025-12-12 11:33:53",
-      "album": {
         "name": "One Big Sky",
         "url": "https://open.spotify.com/album/1zUsQok0rVwhy3ay8UD3Mw"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo"
+        "name": "Valencia",
+        "url": "https://open.spotify.com/album/12WTQanIkVo2kml0e4O2EG"
       },
       "artists": [
         {
-          "name": "The Gap",
-          "url": "https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g"
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
         }
       ],
-      "duration_ms": 173388,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB"
+      "duration_ms": 294999,
+      "name": "Valencia",
+      "url": "https://open.spotify.com/track/4u0eNhPfra8m1BpOwtYVRr"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -1343,6 +1327,22 @@
       "duration_ms": 577294,
       "name": "Mazaar",
       "url": "https://open.spotify.com/track/0PfL3lUBmyxd2aVVykDTrc"
+    },
+    {
+      "added_at": "2025-12-12 11:33:53",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo"
+      },
+      "artists": [
+        {
+          "name": "The Gap",
+          "url": "https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g"
+        }
+      ],
+      "duration_ms": 173388,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-12-12 11:33:53",
       "album": {
-        "name": "Ode To My Beloved (Bhalobeshe Shokhi)",
-        "url": "https://open.spotify.com/album/2gaJaqnhluGbirPSDqJsyg"
-      },
-      "artists": [
-        {
-          "name": "Sayandeep Roy",
-          "url": "https://open.spotify.com/artist/2MLDiUrNZrHeXWMzlkjQGF"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Mone Ki Dwidha",
-      "url": "https://open.spotify.com/track/5jRxDq3gSXqxZoDy6O8jL3"
-    },
-    {
-      "added_at": "2025-12-12 11:33:53",
-      "album": {
         "name": "Uncooked Blues",
         "url": "https://open.spotify.com/album/5OoWWUk8HCldCaNslqZhF2"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 249063,
       "name": "Peregrination (feat. Anjna Swaminathan)",
       "url": "https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa"
+    },
+    {
+      "added_at": "2025-12-12 11:33:53",
+      "album": {
+        "name": "Ode To My Beloved (Bhalobeshe Shokhi)",
+        "url": "https://open.spotify.com/album/2gaJaqnhluGbirPSDqJsyg"
+      },
+      "artists": [
+        {
+          "name": "Sayandeep Roy",
+          "url": "https://open.spotify.com/artist/2MLDiUrNZrHeXWMzlkjQGF"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Mone Ki Dwidha",
+      "url": "https://open.spotify.com/track/5jRxDq3gSXqxZoDy6O8jL3"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -1551,6 +1551,26 @@
       "duration_ms": 311100,
       "name": "Lost Still Dreaming",
       "url": "https://open.spotify.com/track/5uV8ERbSoQBlPeBmfKvLKq"
+    },
+    {
+      "added_at": "2026-01-16 11:46:55",
+      "album": {
+        "name": "Mozart's Symphony No. 40 - Molto Allegro (Indian Adaptation)",
+        "url": "https://open.spotify.com/album/5NTrAhrMmvCaRUSGnXLMTk"
+      },
+      "artists": [
+        {
+          "name": "Jayanta Banerjee",
+          "url": "https://open.spotify.com/artist/4mWOhfaUsRTJ6YKXf6xfAP"
+        },
+        {
+          "name": "Soumyajyoti Ghosh",
+          "url": "https://open.spotify.com/artist/4GY7fTUUqlSCsWW4v28Vcm"
+        }
+      ],
+      "duration_ms": 350778,
+      "name": "Mozart's Symphony No. 40 - Molto Allegro (Indian Adaptation)",
+      "url": "https://open.spotify.com/track/6Kp0WBca2mzsCUgj4zEmvf"
     },
     {
       "added_at": "2025-12-12 11:33:53",
@@ -1875,38 +1895,6 @@
       "duration_ms": 291956,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/08ZuJhoa3940i0Qb2D0wTd"
-    },
-    {
-      "added_at": "2025-12-12 11:33:53",
-      "album": {
-        "name": "Abhay Nayampally",
-        "url": "https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih"
-      },
-      "artists": [
-        {
-          "name": "Sandeep Chowta",
-          "url": "https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy"
-        },
-        {
-          "name": "Bakithi Kumalo",
-          "url": "https://open.spotify.com/artist/5vAp2vESGTyXYSHDR5VLGU"
-        },
-        {
-          "name": "Hector Moreno Guerrero",
-          "url": "https://open.spotify.com/artist/6LuJ7WzPMHLkehcZsZt36d"
-        },
-        {
-          "name": "King Robinson Jr",
-          "url": "https://open.spotify.com/artist/6yktcf2ozrAJwbdz14EYzu"
-        },
-        {
-          "name": "Abhay Nayampally",
-          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Celebration (feat. Bakithi Kumalo, Hector Moreno Guerrero & King Robinson Jr)",
-      "url": "https://open.spotify.com/track/6xuuO9igYldF8HONeU1EOO"
     }
   ],
   "unique_name": "Indie Instrumental",

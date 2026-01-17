@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Gimmie",
+        "url": "https://open.spotify.com/album/1Bv11bCWhUfhSc5QJk5MW8"
+      },
+      "artists": [
+        {
+          "name": "Mimi Mars",
+          "url": "https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140365,
+      "name": "Gimmie",
+      "url": "https://open.spotify.com/track/72fGY2W3zO4QpYpmoSP9W5"
+    },
+    {
+      "album": {
         "name": "Goli",
         "url": "https://open.spotify.com/album/5rmaDuakvgsWB6LdpLzj0z"
       },

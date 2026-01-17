@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3671,
+  "num_followers": 3673,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAANBgEuh8fXOQt7ClqE+/iPuTbHuY",
   "tracks": [
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "3 D\u00c9FAUTS",
-        "url": "https://open.spotify.com/album/1wduUXAxvjWyIU6SdYke90"
-      },
-      "artists": [
-        {
-          "name": "James Loup",
-          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "3 D\u00c9FAUTS",
-      "url": "https://open.spotify.com/track/1Ik7PTKQ5vcw3UU9UY57SL"
-    },
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 129595,
       "name": "angel candles",
       "url": "https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "3 D\u00c9FAUTS",
+        "url": "https://open.spotify.com/album/1wduUXAxvjWyIU6SdYke90"
+      },
+      "artists": [
+        {
+          "name": "James Loup",
+          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
+        }
+      ],
+      "duration_ms": 212183,
+      "name": "3 D\u00c9FAUTS",
+      "url": "https://open.spotify.com/track/1Ik7PTKQ5vcw3UU9UY57SL"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "25 EUROS",
-        "url": "https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG"
-      },
-      "artists": [
-        {
-          "name": "James Loup",
-          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
-        }
-      ],
-      "duration_ms": 124126,
-      "name": "25 EUROS",
-      "url": "https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Dog Day",
         "url": "https://open.spotify.com/album/70vSMHeeSJ9Z2xmOX08RBr"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 87406,
       "name": "No Rnb",
       "url": "https://open.spotify.com/track/3ISk54mlwwOqYvb8QkASqn"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "25 EUROS",
+        "url": "https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG"
+      },
+      "artists": [
+        {
+          "name": "James Loup",
+          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
+        }
+      ],
+      "duration_ms": 124126,
+      "name": "25 EUROS",
+      "url": "https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "wanderlust",
-        "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
+        "name": "Deep Side of Happiness",
+        "url": "https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe"
       },
       "artists": [
         {
-          "name": "naya m\u00f6",
-          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+          "name": "NASTYJOE",
+          "url": "https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV"
         }
       ],
-      "duration_ms": 184504,
-      "name": "wanderlust",
-      "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
+      "duration_ms": 190166,
+      "name": "Resign",
+      "url": "https://open.spotify.com/track/2SXFCcO0G7Wav918WD5NS1"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -315,18 +315,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Deep Side of Happiness",
-        "url": "https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe"
+        "name": "wanderlust",
+        "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
       },
       "artists": [
         {
-          "name": "NASTYJOE",
-          "url": "https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV"
+          "name": "naya m\u00f6",
+          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
         }
       ],
-      "duration_ms": 190166,
-      "name": "Resign",
-      "url": "https://open.spotify.com/track/2SXFCcO0G7Wav918WD5NS1"
+      "duration_ms": 184504,
+      "name": "wanderlust",
+      "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "HALLELUJAH",
-        "url": "https://open.spotify.com/album/1xuoz5kFh5AZwTB8a4aPh4"
-      },
-      "artists": [
-        {
-          "name": "ARTICLE15",
-          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
-        }
-      ],
-      "duration_ms": 222272,
-      "name": "HALLELUJAH",
-      "url": "https://open.spotify.com/track/2zzgmsWzVtxEBECt3k9n8T"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Un chant d'amour",
         "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 168027,
       "name": "Ce n'est pas ici, ce n'est pas ailleurs",
       "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "HALLELUJAH",
+        "url": "https://open.spotify.com/album/1xuoz5kFh5AZwTB8a4aPh4"
+      },
+      "artists": [
+        {
+          "name": "ARTICLE15",
+          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
+        }
+      ],
+      "duration_ms": 222272,
+      "name": "HALLELUJAH",
+      "url": "https://open.spotify.com/track/2zzgmsWzVtxEBECt3k9n8T"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Sotula",
-        "url": "https://open.spotify.com/album/1HDYBhqJkaMwLwCFyxPhYm"
-      },
-      "artists": [
-        {
-          "name": "KIMIA",
-          "url": "https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Sotula",
-      "url": "https://open.spotify.com/track/093e7cYW03XaG7wEldsTgY"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Head Out",
         "url": "https://open.spotify.com/album/5OtP813E52dTO5fiakbt87"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 197264,
       "name": "Head Out",
       "url": "https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Sotula",
+        "url": "https://open.spotify.com/album/1HDYBhqJkaMwLwCFyxPhYm"
+      },
+      "artists": [
+        {
+          "name": "KIMIA",
+          "url": "https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Sotula",
+      "url": "https://open.spotify.com/track/093e7cYW03XaG7wEldsTgY"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "dealing with ghosts",
-        "url": "https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt"
-      },
-      "artists": [
-        {
-          "name": "naya m\u00f6",
-          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
-        }
-      ],
-      "duration_ms": 121578,
-      "name": "outsider",
-      "url": "https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "SAM",
         "url": "https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 290002,
       "name": "SAM",
       "url": "https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "dealing with ghosts",
+        "url": "https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt"
+      },
+      "artists": [
+        {
+          "name": "naya m\u00f6",
+          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+        }
+      ],
+      "duration_ms": 121578,
+      "name": "outsider",
+      "url": "https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi"
     },
     {
       "added_at": "2025-11-20 17:00:08",

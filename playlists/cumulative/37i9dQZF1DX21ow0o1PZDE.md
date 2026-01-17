@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX21ow0o1PZDE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX21ow0o1PZDE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX21ow0o1PZDE)
 
-### [Mega Éxitos 2025](https://open.spotify.com/playlist/37i9dQZF1DX21ow0o1PZDE)
+### [Mega Éxitos 2026](https://open.spotify.com/playlist/37i9dQZF1DX21ow0o1PZDE)
 
 > Todos los grandes éxitos del año, reunidos en un solo lugar\. Peso Pluma y Tito Double P en portada.
 

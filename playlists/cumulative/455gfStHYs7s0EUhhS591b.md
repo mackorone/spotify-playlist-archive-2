@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-241 songs - 14 hr 6 min
+242 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Liberation](https://open.spotify.com/track/6JgjIRRv7uMSEjzzxHTQoh) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Liberation](https://open.spotify.com/album/7BN98R9k9tbqaU9kLJzGXa) | 2:29 | 2025-07-02 |  |
 | [Liberation \- Lufthaus Remix](https://open.spotify.com/track/3xaE0tB9Pg9lESzikfV7c9) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg), [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU) | [Liberation \(Lufthaus Remix\)](https://open.spotify.com/album/2rb39YStVCw0X7OcMwPjfW) | 3:32 | 2025-07-18 |  |
 | [Lifetime \- Acoustic Version](https://open.spotify.com/track/3tdcEMfuERuOd39eO7UlXK) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [Lifetime \(feat\. Damon Sharpe\) \[VIP & Acoustic\]](https://open.spotify.com/album/1Ax5labB08CGc2CDHmyqKF) | 3:07 | 2025-07-18 |  |
+| [Lift Me High](https://open.spotify.com/track/4m0F3I0T7y2tkSSZ1Ha80B) | [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm) | [Lift Me High](https://open.spotify.com/album/7Gct4ch1N1VvhTEjxTnzLq) | 3:28 | 2026-01-16 |  |
 | [Lines](https://open.spotify.com/track/0xXKBial2Oc7HnRoAqOzT8) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Lines](https://open.spotify.com/album/41RncdoLzWmK2GwtjbOLez) | 3:00 | 2025-07-18 |  |
 | [Lonely Ones \- Daniele Davoli Ibiza Extended Remix](https://open.spotify.com/track/1KJBEX8g8NTSvdGYwaGs1U) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Tawiah](https://open.spotify.com/artist/6n5RQFZJKZNaa9nUuh8muo), [Daniele Davoli](https://open.spotify.com/artist/6a1kuFE7uThR7ExjJxtit8) | [Lonely Ones \(Remixes\)](https://open.spotify.com/album/3VZZrCAl8rDDGAzocYR0Fb) | 6:13 | 2025-06-19 |  |
 | [Lost In The Deep](https://open.spotify.com/track/5egezAR8xyEY1wzPx0AWZG) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Josha Daniel](https://open.spotify.com/artist/3U0iFfS4kjiAkS1oCUOmuN) | [Lost In The Deep](https://open.spotify.com/album/5bW1a6bSPtkynm9z9u2LeF) | 3:40 | 2025-06-19 |  |

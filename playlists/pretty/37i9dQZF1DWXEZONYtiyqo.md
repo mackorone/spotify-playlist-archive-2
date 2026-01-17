@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Olivia Addams
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,028 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,042 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 2 | [Ține\-mă minte](https://open.spotify.com/track/7H0Wnvl098xdUJVoSTTS20) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Ține\-mă minte](https://open.spotify.com/album/4bXrui7ml80zEK2LJ9oZrT) | 3:30 |
 | 3 | [OK](https://open.spotify.com/track/4o7Vzr1tJDqQSCr9iqW4KR) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [OK](https://open.spotify.com/album/14HudNtPZU8mrbOEJL6KQ0) | 2:42 |
 | 4 | [Dansăm](https://open.spotify.com/track/7r93tDwB4wgchV9mnTtzJD) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Dansăm](https://open.spotify.com/album/1s6IGUxkGvDT58Fqot4lwX) | 3:16 |
-| 5 | [Elastico](https://open.spotify.com/track/0K9n8OoGSRX3YcXa92oKmj) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Elastico](https://open.spotify.com/album/30uxeN97eyutVdKVwaSiQH) | 3:20 |
+| 5 | [Elastico](https://open.spotify.com/track/0K9n8OoGSRX3YcXa92oKmj) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv) | [Elastico](https://open.spotify.com/album/30uxeN97eyutVdKVwaSiQH) | 3:20 |
 | 6 | [Aleg Să Zâmbesc](https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Aleg Să Zâmbesc](https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7) | 2:33 |
 | 7 | [7 zile](https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [7 zile](https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE) | 2:38 |
 | 8 | [Câte pietre ai aruncat](https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Tata Vlad](https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ) | [Câte pietre ai aruncat](https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc) | 2:30 |

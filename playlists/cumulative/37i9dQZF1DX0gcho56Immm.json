@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Andrew Aged",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Sassy 009",
   "name": "Cph+",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 240349,
       "name": "Days In My Arms",
       "url": "https://open.spotify.com/track/6juSVsEDuNqM2Zp8D0kK5L"
@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Oxis 8",
+        "url": "https://open.spotify.com/album/13YaZjYWXK9tFlLK9VUcIx"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138452,
+      "name": "Fluke",
+      "url": "https://open.spotify.com/track/3s4K3iYRGaLyFJRfd7hqud"
+    },
+    {
+      "album": {
         "name": "Follow Your Nature",
         "url": "https://open.spotify.com/album/7jcUICqffbjaDdPpDT7Yxt"
       },
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 241147,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/3ah6jpEqfBhcdGpLKHZbvu"
@@ -2513,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "nightmare intercom",
+        "url": "https://open.spotify.com/album/2ten2ozCkcuMgpWNYWwOBC"
+      },
+      "artists": [
+        {
+          "name": "Kaho Matsui",
+          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "not yet",
+      "url": "https://open.spotify.com/track/1gU7Z66t6Urh6tnefEi9lr"
+    },
+    {
+      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm"
       },
@@ -2934,7 +2970,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 329927,
       "name": "Sacrificial Code",
       "url": "https://open.spotify.com/track/18xisk5Sg6dJVobPvDovNp"
@@ -3118,6 +3154,28 @@
       "duration_ms": 185581,
       "name": "Sky Writing",
       "url": "https://open.spotify.com/track/5KeFtENdNGpvvsdXq9lddW"
+    },
+    {
+      "album": {
+        "name": "Dreamer+",
+        "url": "https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "Sleepwalker's Pendulum",
+      "url": "https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4"
     },
     {
       "album": {
@@ -3876,7 +3934,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"

@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-858 songs - 1 day 7 hr 3 min
+859 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [AFTERLIFE](https://open.spotify.com/track/4wtXEKePWLpCnvOOGs2AHd) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/6gJeFnoQLIHuVsXPvsRyYT) | 3:16 | 2022-08-05 | 2022-08-21 |
 | [AFTERLIFE](https://open.spotify.com/track/5PfNKiRk4pyJWxle5cU0ba) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/3G5QIHz6XSKOUISBBbP28B) | 3:16 | 2022-08-05 | 2022-10-15 |
 | [AIRCRAFT](https://open.spotify.com/track/6bJgpGMGgaLfsEE3v7j1ix) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [AIRCRAFT](https://open.spotify.com/album/4lycdKfQVAT12qo4omu3jf) | 2:21 | 2022-10-07 | 2022-11-19 |
+| [AIRTEL PHONK](https://open.spotify.com/track/7kR5akjqP7yi3wcLx3utiI) | [Mashuq Haque](https://open.spotify.com/artist/1PKjvROQd17qXlw8cVlq8T) | [AIRTEL PHONK](https://open.spotify.com/album/7BnNXqm6uK9tPF2dmXydpM) | 1:32 | 2026-01-16 |  |
 | [AKAI \- Slowed](https://open.spotify.com/track/4Td5Zqi4XzkMdesiBJRZTh) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q), [Mc Luizinho](https://open.spotify.com/artist/5kFKWKOi67GISDFKogGbRP) | [UDIXSTATE](https://open.spotify.com/album/7GODu9f4tFoKxU1oPtPVa7) | 1:36 | 2025-08-22 |  |
 | [ALARM](https://open.spotify.com/track/4r4A0sPJCht0qP4DoOzwFJ) | [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj), [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [ALARM](https://open.spotify.com/album/6rjfUMDvJcicRolDPVfZ9p) | 2:06 | 2023-07-21 | 2023-07-29 |
 | [ALCHEMY](https://open.spotify.com/track/53GU3nsawC307mKyhH22W2) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN) | [ALCHEMY](https://open.spotify.com/album/5TpBVt5Q2u6VIW6aZ9K01m) | 2:20 | 2022-06-03 | 2022-08-06 |
@@ -785,7 +786,7 @@
 | [TRAGEDY](https://open.spotify.com/track/6WOHpwoAUmEdmAKCAT7GUv) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6), [Adam the Shinobi](https://open.spotify.com/artist/6ecMA7zUaPlQT0SknNhknO) | [TRAGEDY](https://open.spotify.com/album/0yto3bDkVpias7s79dqroq) | 2:06 | 2022-07-15 | 2022-08-27 |
 | [TRALALERO TRALALA FUNK](https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee) | [TRALALERO TRALALA FUNK](https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4) | 1:57 | 2025-02-28 |  |
 | [TRANSPARENCY](https://open.spotify.com/track/0Y0MMUigsY2PA35bTim0Jd) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH), [finesse scar](https://open.spotify.com/artist/7DDkaJXpWi5fwWeqO2G1jf) | [TRANSPARENCY](https://open.spotify.com/album/7yFU4ETiB48jITB3gDxMRm) | 2:27 | 2022-10-28 | 2022-12-03 |
-| [TREINAMENTO DE FORÇA](https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2) | [TRXVELER](https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7) | [TREINAMENTO DE FORÇA](https://open.spotify.com/album/1xF2L9FhsEG6CPf9ERW7vH) | 2:05 | 2023-09-22 |  |
+| [TREINAMENTO DE FORÇA](https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2) | [TRXVELER](https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7) | [TREINAMENTO DE FORÇA](https://open.spotify.com/album/1xF2L9FhsEG6CPf9ERW7vH) | 2:05 | 2023-09-22 | 2026-01-17 |
 | [try again](https://open.spotify.com/track/4G3Bsou1LCoRT7CQISWRtV) | [f2kh6](https://open.spotify.com/artist/38WmE0nhZTeg85mqWy8api) | [try again](https://open.spotify.com/album/0kHd9b3a2uhTvhM8fZc9d8) | 1:52 | 2022-10-28 | 2022-12-31 |
 | [Try Again](https://open.spotify.com/track/26gSKAMIFzwMd4htHklFfN) | [Max + Johann](https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3) | [Try Again](https://open.spotify.com/album/1mAJ1htzZKsFXwbcTatxIq) | 2:49 | 2022-10-21 | 2022-10-29 |
 | [Try Again](https://open.spotify.com/track/6hzs9mLhbdG095vRsXlKmg) | [Phonk](https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7) | [Try Again](https://open.spotify.com/album/1sj3hCERNn8GjURtFvAsTE) | 1:52 | 2022-10-28 | 2022-12-30 |

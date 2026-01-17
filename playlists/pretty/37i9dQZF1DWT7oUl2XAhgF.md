@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Sekou
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,750 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,886 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Honest Man](https://open.spotify.com/track/0Zm9bkfnz9Ukx3cKm45Ulh) | [Leon Lee King](https://open.spotify.com/artist/6RcAjGSc8Ds1Pczaka30qy) | [Honest Man](https://open.spotify.com/album/0DsKsrvezmgBI8rQppwzUN) | 3:23 |
-| 2 | [The Cure](https://open.spotify.com/track/2hHGvBFaHmvrPDixbjsjPl) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [The Cure](https://open.spotify.com/album/38qkz7KdPXntMxHpsQQI6U) | 3:16 |
-| 3 | [Only](https://open.spotify.com/track/2o7iswHRWEMpjltMMPjerS) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Only](https://open.spotify.com/album/59Y4LkQvKUYvi8qEfvvtLs) | 4:18 |
-| 4 | [Chocolate Woman](https://open.spotify.com/track/0M5ZTD5bzYadecfUQcQx8j) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Chocolate Woman](https://open.spotify.com/album/2dDCKPhCc7U0dBOkeK5I8W) | 2:50 |
-| 5 | [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 |
-| 6 | [Can’t Sit Down](https://open.spotify.com/track/0fPfnMUL1qFzkLAIs1bwNl) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Can’t Sit Down](https://open.spotify.com/album/3Gqtz8NilDqhHu8uAX0s4N) | 2:56 |
-| 7 | [Better Days](https://open.spotify.com/track/1yeortMt1F7wWuCMZKHd2O) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Better Days](https://open.spotify.com/album/3jfc4LTE0Hf7gfQGZrt0jP) | 5:20 |
-| 8 | [Tears Don't Pretend](https://open.spotify.com/track/3HeEZrQgbpqWnK3F80yTW2) | [Cayden Cruz](https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5) | [Tears Don't Pretend](https://open.spotify.com/album/5Xjbs1kFBfCGntqFhGm3Ve) | 3:12 |
+| 1 | [You Deserve](https://open.spotify.com/track/3qv52G3oQ4MNcIib4KSRqH) | [Cayden Cruz](https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5) | [You Deserve](https://open.spotify.com/album/4zk6KsexxbrABRXCSKfj7K) | 3:02 |
+| 2 | [Honest Man](https://open.spotify.com/track/0Zm9bkfnz9Ukx3cKm45Ulh) | [Leon Lee King](https://open.spotify.com/artist/6RcAjGSc8Ds1Pczaka30qy) | [Honest Man](https://open.spotify.com/album/0DsKsrvezmgBI8rQppwzUN) | 3:23 |
+| 3 | [The Cure](https://open.spotify.com/track/2hHGvBFaHmvrPDixbjsjPl) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [The Cure](https://open.spotify.com/album/38qkz7KdPXntMxHpsQQI6U) | 3:16 |
+| 4 | [Only](https://open.spotify.com/track/2o7iswHRWEMpjltMMPjerS) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Only](https://open.spotify.com/album/59Y4LkQvKUYvi8qEfvvtLs) | 4:18 |
+| 5 | [Chocolate Woman](https://open.spotify.com/track/0M5ZTD5bzYadecfUQcQx8j) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Chocolate Woman](https://open.spotify.com/album/2dDCKPhCc7U0dBOkeK5I8W) | 2:50 |
+| 6 | [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 |
+| 7 | [Can’t Sit Down](https://open.spotify.com/track/0fPfnMUL1qFzkLAIs1bwNl) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Can’t Sit Down](https://open.spotify.com/album/3Gqtz8NilDqhHu8uAX0s4N) | 2:56 |
+| 8 | [Better Days](https://open.spotify.com/track/1yeortMt1F7wWuCMZKHd2O) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Better Days](https://open.spotify.com/album/3jfc4LTE0Hf7gfQGZrt0jP) | 5:20 |
 | 9 | [Find Your Love](https://open.spotify.com/track/34yxhgQ7fIRnT6l6LmlUxD) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Find Your Love](https://open.spotify.com/album/7ffIGFj6wU4Z5CC56EmD5D) | 3:10 |
 | 10 | [Stagger Lee](https://open.spotify.com/track/22VccMAswE1oV9eQVgzJWz) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Stagger Lee](https://open.spotify.com/album/75XqMtKZjrLveeQU6uLj9S) | 2:28 |
 | 11 | [What About Me?](https://open.spotify.com/track/6Oro2FQdBJd8BOtGEFbyel) | [Taylor Williams](https://open.spotify.com/artist/4ND8mF5vf3F615yQfWyQ1F) | [Dreaming / What About Me?](https://open.spotify.com/album/2vgae29PUqVE30peZS7IK2) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 |
 | 100 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 |
 
-Snapshot ID: `AAAAAASv+mJLohhgeoTdLD3Ch5z5RFoW`
+Snapshot ID: `AAAAAMrrjOoiqCYXXCMx19iE00Gz/di8`

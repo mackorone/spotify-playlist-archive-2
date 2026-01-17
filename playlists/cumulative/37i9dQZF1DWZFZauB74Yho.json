@@ -2613,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "Gentle On My Mind",
+        "url": "https://open.spotify.com/album/0FkhA1RNqsEM8e1kJvfIT7"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385441,
+      "name": "Gentle On My Mind",
+      "url": "https://open.spotify.com/track/3o0TGciPBK3SLVBT0q0i29"
+    },
+    {
+      "album": {
         "name": "Georgia in Her Eyes",
         "url": "https://open.spotify.com/album/6w7zglb75ipmcakxSCRvef"
       },
@@ -8432,6 +8454,24 @@
       "duration_ms": 263996,
       "name": "Wake Me Up - The Bluegrass Rendition",
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
+    },
+    {
+      "album": {
+        "name": "Walkin' Back to Georgia",
+        "url": "https://open.spotify.com/album/4IPVCfdBSecBJFuhuaZx8h"
+      },
+      "artists": [
+        {
+          "name": "Carson Peters and Iron Mountain",
+          "url": "https://open.spotify.com/artist/5WQdbLL5AXuXb0pKXG5hGw"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "Walkin' Back to Georgia",
+      "url": "https://open.spotify.com/track/1kvlYf3p0Ri0j5Klq9bq9H"
     },
     {
       "album": {

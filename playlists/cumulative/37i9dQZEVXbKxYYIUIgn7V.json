@@ -11953,6 +11953,24 @@
     },
     {
       "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "album": {
         "name": "Die Tante Hilde",
         "url": "https://open.spotify.com/album/59Rjnl1vN357Wj6rVqYlPY"
       },
@@ -14342,7 +14360,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 231960,
       "name": "Erika (EDM/Techno)",
       "url": "https://open.spotify.com/track/6RjGNLVE0kIVrjD2feGqw4"
@@ -18924,7 +18942,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 146530,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/5n9PL4NTDNQiuFXFVc7euj"
@@ -19328,7 +19346,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 161632,
       "name": "Gute Laune",
       "url": "https://open.spotify.com/track/40NEnuv5VHboABOWbRZgxQ"
@@ -32656,7 +32674,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 72727,
       "name": "Montagem Miau",
       "url": "https://open.spotify.com/track/4hfzUjG7A5fsr0xoMfdxMA"
@@ -40203,6 +40221,28 @@
     },
     {
       "album": {
+        "name": "Samo za tebe",
+        "url": "https://open.spotify.com/album/29F57UoeW8mG8qp3iz6O7X"
+      },
+      "artists": [
+        {
+          "name": "Rasta",
+          "url": "https://open.spotify.com/artist/6eiVM12aC3SP5n0fMg9fqP"
+        },
+        {
+          "name": "SAINT",
+          "url": "https://open.spotify.com/artist/1JiucDArjfAnX5LHTHuJ41"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141538,
+      "name": "Samo za tebe",
+      "url": "https://open.spotify.com/track/2PHmRNTOvdUTZElXsyE6Tj"
+    },
+    {
+      "album": {
         "name": "G\u00f6rlitzer Park",
         "url": "https://open.spotify.com/album/2AHRdK1N4BpUVhqa89ajbj"
       },
@@ -47094,7 +47134,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 180966,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/4V66RQKxLhRdAFKJgTCJFa"
@@ -47272,7 +47312,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -47290,7 +47330,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 173373,
       "name": "Tirol - Remastered 2019",
       "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"
@@ -51978,7 +52018,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 179200,
       "name": "Wings",
       "url": "https://open.spotify.com/track/6kqiQAophgcV4aOF4PlUob"
@@ -53772,10 +53812,32 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
+    },
+    {
+      "album": {
+        "name": "Zoomania 2 (Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/3iCxvICw16aOXrPakrRgJ1"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/6RccVETKeP4gJNe0xP02ns"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43601,
+  "num_followers": 43597,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAajsJ9xbhJ3VM+TLujUkvMJbAOdROc",
+  "snapshot_id": "AAAakBtfr7O3uMTjMO84337L0GuhZQu6",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:25",
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/7FvI1vJiC1bqNx9oiU1QOI"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/5f7RFIBxFzgF93lz8H2AdH"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "People Are You Ready Again",
+        "url": "https://open.spotify.com/album/01g1W2TFNuBG011R11ICvg"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        }
+      ],
+      "duration_ms": 144800,
+      "name": "People Are You Ready Again",
+      "url": "https://open.spotify.com/track/4qf4aOWoBw5vMGHrjHIgcP"
+    },
     {
       "added_at": "2025-12-19 05:00:22",
       "album": {

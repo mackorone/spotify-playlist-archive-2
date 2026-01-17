@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: PoppyNoji
 
-975 songs - 1 day 16 hr 16 min
+978 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Ariel \(Theme Song\) \- From "Disney Jr\. Music: Ariel"](https://open.spotify.com/track/4HVIwx9mBMAKU8EQliRLnm) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Ariel \(Theme Song\) \[From "Disney Jr\. Music: Ariel"\]](https://open.spotify.com/album/0ESMT9sLeSDtkL2eJYcSM2) | 1:36 | 2024-05-10 | 2025-03-08 |
 | [Around The World Adventure](https://open.spotify.com/track/2KVp2Tz8nyeT6IiaEJUen2) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Around the World](https://open.spotify.com/album/4G2QQUIf7krLzBFFA2c5cb) | 3:15 | 2025-04-18 | 2026-01-15 |
 | [Asian Elephant](https://open.spotify.com/track/5nF2GOCZ73TWio4Jk5SyJL) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Endangered Animals](https://open.spotify.com/album/4pVBwDxNqF8kVYILOmI8iJ) | 1:21 | 2024-03-22 | 2024-08-24 |
+| [Ask For Help!](https://open.spotify.com/track/7hsjnCQkQdIJNvLfiao6zP) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Ask For Help!](https://open.spotify.com/album/7nMeYBSmyRowTQNWvfOpUV) | 1:55 | 2026-01-16 |  |
 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 | 2022-04-15 | 2023-10-28 |
 | [At The Beach Party](https://open.spotify.com/track/6UZIU7g6ZlPgkgz4k5AQuZ) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Face from Nick Jr.](https://open.spotify.com/artist/5FXWsVWydMhZab1C0vyXlj) | [Face’s Summertime Jam!](https://open.spotify.com/album/0fludMVB04mg1iLV1Op1lG) | 0:48 | 2024-05-24 | 2025-03-08 |
 | [At The Beach Party \- Summertime Jam Remix](https://open.spotify.com/track/5NZP8333AVlBMuQgcoHJKa) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Face from Nick Jr.](https://open.spotify.com/artist/5FXWsVWydMhZab1C0vyXlj), [Animal Kingdom Creatives](https://open.spotify.com/artist/5CclvupzmbUSfA2doJhQt6) | [Nick Jr\. Mix it Up! Vol\. 15: Face’s Summertime Jam \(The Remixes\)](https://open.spotify.com/album/7BuFtLLrHSBiUCJ3wXld1e) | 2:09 | 2024-08-30 | 2025-03-08 |
@@ -766,6 +767,7 @@
 | [Stop the Excavator!](https://open.spotify.com/track/1zKTVLbYpXpWh6qcvCgwmz) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Super Rescue Team 2](https://open.spotify.com/album/5huH7iRyO1qp6EJhrYDGbX) | 2:39 | 2025-03-21 | 2025-07-21 |
 | [Strangers](https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Strangers](https://open.spotify.com/album/1LyxWPM9OifFw2Yi6UNSqK) | 2:52 | 2024-03-15 | 2024-08-24 |
 | [Strong](https://open.spotify.com/track/6In2DRsxT6UKi6bMjlp6sE) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Strong](https://open.spotify.com/album/31x3iFEsG2cQ6JdV5SirQA) | 3:18 | 2022-04-15 | 2024-01-05 |
+| [Stronger \(Peppa's Version\)](https://open.spotify.com/track/7wuzARagxYWnZxUz6vZJqM) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Stronger \(Peppa's Version\)](https://open.spotify.com/album/2bltUVz7Qu8hEDrq2umLzS) | 3:22 | 2026-01-16 |  |
 | [SUBS](https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Straight Outta Recess](https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye) | 2:09 | 2024-02-02 | 2024-08-24 |
 | [Sugar High](https://open.spotify.com/track/7sZuCLN0DgDFvzpcr5RIam) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Growin' Up Holiday](https://open.spotify.com/album/0wpBrIjJQH8gNpkP8WMCpK) | 2:30 | 2024-10-18 | 2025-03-08 |
 | [Sugar Shack \- Sweet Memories](https://open.spotify.com/track/2b8FP82vruDAHHyYQwI1Hn) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Sugar Shack \(Sweet Memories\)](https://open.spotify.com/album/1kOlGKBDLyTt9L4YCypzI7) | 1:24 | 2025-03-21 | 2026-01-15 |
@@ -970,6 +972,7 @@
 | [Yellow Digger Song](https://open.spotify.com/track/12x0dFRxkcM5giKay9B98F) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Yellow Digger Song](https://open.spotify.com/album/0YcF2cWog1bhV6HPG4aCzO) | 2:02 | 2024-09-13 | 2025-03-08 |
 | [yes, and?](https://open.spotify.com/track/2ExRKRMFnX4rsGxZSeJ4sD) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [yes, and?](https://open.spotify.com/album/1Tu30xev5rUpBZnFuKV4rR) | 3:14 | 2024-03-22 | 2024-08-24 |
 | [Yo Ho!](https://open.spotify.com/track/72JPnLrCHhJGVwGw4DuTb0) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Yo Ho!](https://open.spotify.com/album/5ow88tSdhkBxCGj9VqnqfI) | 2:09 | 2025-08-01 | 2026-01-15 |
+| [Yoga Song](https://open.spotify.com/track/5QEZ8kZXCtA5F3J5Dh6HAI) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Yoga Song](https://open.spotify.com/album/60dVVamx0zbXeJPH7joKeg) | 1:59 | 2026-01-16 |  |
 | [You Are Magic](https://open.spotify.com/track/5c2pIV0J5Jn7NtYfxYOHN1) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/1iBE3NdOlXJA9NUaAUD685) | 3:44 | 2022-04-15 | 2024-01-05 |
 | [You Are My Sunshine](https://open.spotify.com/track/3XIuHsf6ct8x5trcPEgzho) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [McKnighttime Lullabies](https://open.spotify.com/album/1sh3Rg2dugulwHxl98WTC6) | 2:58 | 2023-10-20 | 2024-02-10 |
 | [You Are My Sunshine](https://open.spotify.com/track/2r62cCIJG9aTO7Oy4TXiDC) | [Nadine Ghawi](https://open.spotify.com/artist/5PXBQUpoYfifX6cxXf6iad) | [You Are My Sunshine](https://open.spotify.com/album/0Ko7LvnmGKN2XeCXrFFl5Q) | 3:13 | 2025-06-06 | 2026-01-15 |

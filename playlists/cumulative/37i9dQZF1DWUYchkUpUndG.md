@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Tkeyz and Gaise Baba
 
-7,136 songs - 21 day 20 hr 44 min
+7,137 songs - 21 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5562,6 +5562,7 @@
 | [Signs and wonders](https://open.spotify.com/track/71nW2fULmKRyQ9eZHPjOYF) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui), [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW) | [Signs and wonders](https://open.spotify.com/album/1CYTCUqUuG4Ze9UwXD5tia) | 2:35 | 2024-12-13 | 2024-12-27 |
 | [Signs and Wonders](https://open.spotify.com/track/3nbgNaPsu81CPDE4P6cTR0) | [Mokia psalm](https://open.spotify.com/artist/07OkFyqAxxTcBlzqWX6XMY) | [Genesis](https://open.spotify.com/album/7MMptZ5wikos2svPOYx0sq) | 3:37 | 2023-06-23 | 2023-07-07 |
 | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G) | 4:24 | 2024-04-05 | 2024-04-19 |
+| [Sijali](https://open.spotify.com/track/6ivExYTqEyEJUJsfhULEbI) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Sijali](https://open.spotify.com/album/5wA3LfZewhNi8sKQKa7aXq) | 4:24 | 2026-01-16 |  |
 | [Silent Night](https://open.spotify.com/track/5OzOBgprIqWm4kwByR72ln) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Silent Night](https://open.spotify.com/album/1C8dBLdykBJdhg6RFGE4Lb) | 3:21 | 2023-12-08 | 2023-12-22 |
 | [Silent Night](https://open.spotify.com/track/5ZlboxXEL74LaFEmeQ7qdn) | [Lofi Prxxchr](https://open.spotify.com/artist/7KFHENWIur94kSsTfOndSJ), [King Davo](https://open.spotify.com/artist/6xevTwlQT0l6n96JSpjmTl) | [Silent Night](https://open.spotify.com/album/3FaxGqjjJfJoDIPvY1eJ00) | 2:03 | 2023-12-15 | 2023-12-30 |
 | [Silent Night \(Afro Christmas\)](https://open.spotify.com/track/30T2Tgh6Xsh6X7npdKpU2N) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Silent Night \(Afro Christmas\)](https://open.spotify.com/album/1jhpEohUtKNPE5DvOzMq8y) | 2:32 | 2024-11-15 | 2024-11-29 |

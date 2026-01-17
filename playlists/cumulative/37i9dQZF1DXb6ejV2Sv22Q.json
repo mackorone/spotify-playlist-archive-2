@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "100pre",
+        "url": "https://open.spotify.com/album/2h93fLwW2czIinZXv44kfb"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138795,
+      "name": "100pre",
+      "url": "https://open.spotify.com/track/2KGQTxKFBQFuMOVNejG8b7"
+    },
+    {
+      "album": {
         "name": "114",
         "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
       },
@@ -132,7 +150,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 160421,
       "name": "4ME",
       "url": "https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY"
@@ -172,6 +190,24 @@
       "duration_ms": 75433,
       "name": "A Casa Pete",
       "url": "https://open.spotify.com/track/3oVBLwtACAPgpmzqEC1ztX"
+    },
+    {
+      "album": {
+        "name": "A LAS CU\u00c1NTAS CANCIONES TE OLVIDO??",
+        "url": "https://open.spotify.com/album/6sxxxnnjlcFjYnLp1j7Jjj"
+      },
+      "artists": [
+        {
+          "name": "Plazencia",
+          "url": "https://open.spotify.com/artist/3LYRtUBx1UE0pz66d1s12x"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244948,
+      "name": "A LAS CU\u00c1NTAS CANCIONES TE OLVIDO??",
+      "url": "https://open.spotify.com/track/4B2SWiQV4W1rDL9e8S6da8"
     },
     {
       "album": {
@@ -898,7 +934,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 233545,
       "name": "Azul",
       "url": "https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0"
@@ -970,7 +1006,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 150000,
       "name": "bailar llorando",
       "url": "https://open.spotify.com/track/7Lih7TjG5h2gpSkDgx1Lut"
@@ -1816,7 +1852,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 143671,
       "name": "Cuesti\u00f3n de Fe",
       "url": "https://open.spotify.com/track/5ktwcFBkWl3W00mqcTIzgw"
@@ -2012,7 +2048,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 108137,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D"
@@ -2034,6 +2070,24 @@
       "duration_ms": 151874,
       "name": "Desg\u00e1rrame",
       "url": "https://open.spotify.com/track/5VQXk026hA1wnoHos6853G"
+    },
+    {
+      "album": {
+        "name": "Desiluciones",
+        "url": "https://open.spotify.com/album/1ZbhNZGl4Z0OFxRQUMxExW"
+      },
+      "artists": [
+        {
+          "name": "Sonic Emerson",
+          "url": "https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280769,
+      "name": "Desiluciones",
+      "url": "https://open.spotify.com/track/45kXwNZSjHB0Q1K5ZYDsIL"
     },
     {
       "album": {
@@ -2490,7 +2544,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 183243,
       "name": "En El Pr\u00f3ximo Big Bang",
       "url": "https://open.spotify.com/track/6XuvR6CAfIggnWzqtL0Vez"
@@ -4953,6 +5007,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/5XUaQt6L1MW8eogTEUQgyF"
+      },
+      "artists": [
+        {
+          "name": "Electrify",
+          "url": "https://open.spotify.com/artist/4Hf6DxoplRHxpz1Mh2DRDi"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169423,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0GxSmOPT9gml7M2n5SSUk9"
+    },
+    {
+      "album": {
         "name": "METAMORPHOSIS (Sped Up)",
         "url": "https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh"
       },
@@ -5311,6 +5383,42 @@
     },
     {
       "album": {
+        "name": "Mr. Wells",
+        "url": "https://open.spotify.com/album/270OSQn41T2ghmNR2fn98e"
+      },
+      "artists": [
+        {
+          "name": "COSMO",
+          "url": "https://open.spotify.com/artist/1dFFyvFahmXCBccq3Ydo4z"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273650,
+      "name": "Mr. Wells",
+      "url": "https://open.spotify.com/track/4fA7YJfq9SiJBrpTvgw5MY"
+    },
+    {
+      "album": {
+        "name": "Mujer Mexicana",
+        "url": "https://open.spotify.com/album/1ql6HMWjXzf5tOwvO16bOB"
+      },
+      "artists": [
+        {
+          "name": "FRNCE",
+          "url": "https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Mujer Mexicana",
+      "url": "https://open.spotify.com/track/2aoaQbWGcfePI9WL85leY0"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
@@ -5460,7 +5568,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 261613,
       "name": "Nadie Me Corta el Pelo Como T\u00fa",
       "url": "https://open.spotify.com/track/0QKl2byffi9u6tDHuKe5OT"
@@ -5776,6 +5884,28 @@
       "duration_ms": 250869,
       "name": "normal",
       "url": "https://open.spotify.com/track/5Sl9DQqkVANHgljFrNGqbG"
+    },
+    {
+      "album": {
+        "name": "nos keremos tanto",
+        "url": "https://open.spotify.com/album/5LlYHGpfPOK8WN2TWUmXi1"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "nos keremos tanto",
+      "url": "https://open.spotify.com/track/51OIgUzAwtxOMhNUEifwMn"
     },
     {
       "album": {
@@ -6622,7 +6752,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 164885,
       "name": "quieremeunpoco",
       "url": "https://open.spotify.com/track/1YgpjTzmDGZ48Y9M0XWA2A"
@@ -7475,6 +7605,28 @@
     },
     {
       "album": {
+        "name": "sigues aqu\u00ed?",
+        "url": "https://open.spotify.com/album/3iZOS2KpqIeqayYSFgVlJ6"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        },
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203555,
+      "name": "sigues aqu\u00ed?",
+      "url": "https://open.spotify.com/track/5KtVRCzur1RMEnTdabkIYg"
+    },
+    {
+      "album": {
         "name": "Sin Dormir (Ya Se Arm\u00f3)",
         "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
       },
@@ -8050,7 +8202,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 145918,
       "name": "techno s3x!",
       "url": "https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe"
@@ -8218,6 +8370,32 @@
       "duration_ms": 133375,
       "name": "tokicha",
       "url": "https://open.spotify.com/track/21xcyIsljrbLjv9FbW6kCi"
+    },
+    {
+      "album": {
+        "name": "Toma Mi Mano",
+        "url": "https://open.spotify.com/album/7MR7M6V8UjuXwfpmvjKI5m"
+      },
+      "artists": [
+        {
+          "name": "ZEEVA",
+          "url": "https://open.spotify.com/artist/5c7xVgAzKeYYrYnKTrHELH"
+        },
+        {
+          "name": "xKori",
+          "url": "https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI"
+        },
+        {
+          "name": "Tahto",
+          "url": "https://open.spotify.com/artist/3XiF0wUp56DKF5FV5Uv6wK"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Toma Mi Mano",
+      "url": "https://open.spotify.com/track/2LhXQ99RsgCBmKtaIFfhMo"
     },
     {
       "album": {

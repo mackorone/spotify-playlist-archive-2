@@ -6,169 +6,281 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWCLUAAAAABOobhpfUTx0UUvg9u/hjYs",
+  "snapshot_id": "aWnF0AAAAADNtaHSYgDF/D617hBX4y1N",
   "tracks": [
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "PUNK ROCKY",
-        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
+        "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+        "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 235344,
-      "name": "PUNK ROCKY",
-      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
-    },
-    {
-      "added_at": "2026-01-09 05:00:00",
-      "album": {
-        "name": "Soy As\u00ed 2",
-        "url": "https://open.spotify.com/album/6lpZfEeWcLG0DDfgd22km8"
-      },
-      "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
         },
         {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
         }
       ],
-      "duration_ms": 170970,
-      "name": "Soy As\u00ed 2",
-      "url": "https://open.spotify.com/track/2cG2Vmnu4qtHpWkY84hj97"
+      "duration_ms": 208461,
+      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/3jSd2VBNQ9JWW0p9TrQ0xi"
+        "name": "It's A Sin",
+        "url": "https://open.spotify.com/album/69jnd8KXGiAkG8FDkox8nE"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 130872,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/6DwnR2VRbtzix2VJsU07O7"
+      "duration_ms": 280786,
+      "name": "It's A Sin",
+      "url": "https://open.spotify.com/track/5e97Z51SUopBbANmwBBkSq"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd"
+        "name": "She Ain't Mine (with Little Stranger & Jarv)",
+        "url": "https://open.spotify.com/album/1QJ7FgqDnyxqGgqlIaAvX3"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        },
+        {
+          "name": "Jarv",
+          "url": "https://open.spotify.com/artist/0GzsRlVbRZ1j4rkTlRNRXW"
         }
       ],
-      "duration_ms": 186089,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF"
+      "duration_ms": 232394,
+      "name": "She Ain't Mine (with Little Stranger & Jarv)",
+      "url": "https://open.spotify.com/track/0CtVSYr8GR988mv28degv3"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "NONSTOP",
-        "url": "https://open.spotify.com/album/6uElxqrldoTj8WjASR24xD"
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/08KGb1DdDe5ZHqEgzD4LFV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 250237,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "My Friend Max",
+        "url": "https://open.spotify.com/album/2EjhEatIibANshTbbWzaUx"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "My Friend Max",
+      "url": "https://open.spotify.com/track/1yIa5v049ZHQwVWygf6HDg"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana - (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
+        "url": "https://open.spotify.com/album/0FHpLaGsQPsr31VcXEx9Yq"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 187466,
+      "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana - (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
+      "url": "https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "Slid Off",
+        "url": "https://open.spotify.com/album/4Bw2KMngDhPO4eMf6UOadH"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 140924,
+      "name": "Slid Off",
+      "url": "https://open.spotify.com/track/7nzQ7gSvYZFFfOUaX5GIIn"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "Songs From the Solent",
+        "url": "https://open.spotify.com/album/7nMP6e8MriMv84bDXfJFXt"
+      },
+      "artists": [
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        },
+        {
+          "name": "Jeremy Irons",
+          "url": "https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Lanterns, Pt. 1",
+      "url": "https://open.spotify.com/track/2w74QDB84g0VCBZWlre1yC"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "NOTHING IS REAL",
+        "url": "https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "NOTHING IS REAL",
+      "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "BURN",
+        "url": "https://open.spotify.com/album/41L8dLF51Yi3ljcNWnNcul"
       },
       "artists": [
         {
           "name": "Base Hollow",
           "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
-        },
-        {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
-        },
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
         },
         {
           "name": "Method Man",
           "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "The Jacka",
+          "url": "https://open.spotify.com/artist/1Z3HvW1V35gdsbhY20SMoU"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Everybody Wanna",
-      "url": "https://open.spotify.com/track/1v4JCXHmZGAhGbgFrML5G8"
+      "duration_ms": 160000,
+      "name": "Last Summer",
+      "url": "https://open.spotify.com/track/3hRSqGQppEaj6hSEdsfqmo"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "NONSTOP",
-        "url": "https://open.spotify.com/album/6uElxqrldoTj8WjASR24xD"
+        "name": "Not Free Money (with DENM)",
+        "url": "https://open.spotify.com/album/3qBY9BfELGiDnIT2XsEAGL"
       },
       "artists": [
         {
-          "name": "Base Hollow",
-          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "DENM",
+          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
         }
       ],
-      "duration_ms": 118400,
-      "name": "Bless Me",
-      "url": "https://open.spotify.com/track/7lmls0KNS2Uhg007Q4jCLS"
+      "duration_ms": 153293,
+      "name": "Not Free Money (with DENM)",
+      "url": "https://open.spotify.com/track/0GlDJWpDdKoOMAWs4doqPa"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "CHANTEUR DE RAP",
-        "url": "https://open.spotify.com/album/4uKuDGYIj4Ty3W2uPUhBzR"
+        "name": "When It's Cold I'd Like to Die",
+        "url": "https://open.spotify.com/album/0D7jPdOOrPARdIYCmY8d4X"
       },
       "artists": [
         {
-          "name": "Fdy Phenomen",
-          "url": "https://open.spotify.com/artist/1Fvf7GTHUjkFdkTkzENxAo"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         },
         {
-          "name": "\u00c4rsenik",
-          "url": "https://open.spotify.com/artist/3Mo6O9iqKSw3Mn6v5zZfEy"
-        },
-        {
-          "name": "IAM",
-          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
         }
       ],
-      "duration_ms": 534542,
-      "name": "I.A.M",
-      "url": "https://open.spotify.com/track/5K9qYSEaYaLajN8QvPF6XR"
+      "duration_ms": 256755,
+      "name": "When It's Cold I'd Like to Die",
+      "url": "https://open.spotify.com/track/1uSxWX6zhhqwoopRS0wWaa"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "ELECTRIC ECLIPSE",
-        "url": "https://open.spotify.com/album/2YJVUtXfBGJi1Jvnpahmr1"
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "ULTRAVIOLET DRIFT",
+        "url": "https://open.spotify.com/album/6UcNp1nhskS2rDLlltqWRO"
       },
       "artists": [
         {
@@ -176,128 +288,56 @@
           "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
         }
       ],
-      "duration_ms": 266879,
-      "name": "ELECTRIC ECLIPSE",
-      "url": "https://open.spotify.com/track/7CpTngmFyAgeuSUgmTicjb"
+      "duration_ms": 234759,
+      "name": "ULTRAVIOLET DRIFT",
+      "url": "https://open.spotify.com/track/45T2B7s6oMqVrWDo48nH8Q"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "NONSTOP",
-        "url": "https://open.spotify.com/album/6uElxqrldoTj8WjASR24xD"
+        "name": "Anywhere With You",
+        "url": "https://open.spotify.com/album/4otHv8Tqmwik7rpeAAGCfB"
       },
       "artists": [
         {
-          "name": "Base Hollow",
-          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
+          "name": "FLOOR CRY",
+          "url": "https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx"
         },
         {
-          "name": "Blueface",
-          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/6HlND3N9eJ91D2WLhChC3m"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "Venomz Vol. II",
+        "url": "https://open.spotify.com/album/4UJqbXxCN1bZpPkWPlallj"
+      },
+      "artists": [
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         },
         {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "Trox",
+          "url": "https://open.spotify.com/artist/28L9HzLYXEUoteZ9PV4evp"
         }
       ],
-      "duration_ms": 133565,
-      "name": "Rough",
-      "url": "https://open.spotify.com/track/4tgt6aFWtCVdZoQaWBX3rJ"
+      "duration_ms": 181938,
+      "name": "Sanju",
+      "url": "https://open.spotify.com/track/5GEeV1abdwn5HqkDLX0Z4s"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 239582,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
-    },
-    {
-      "added_at": "2026-01-09 05:00:00",
-      "album": {
-        "name": "girl, get up. (feat. SZA)",
-        "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "girl, get up. (feat. SZA)",
-      "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
-    },
-    {
-      "added_at": "2026-01-09 05:00:00",
-      "album": {
-        "name": "Shrovers",
-        "url": "https://open.spotify.com/album/4znI8mbvNLkj4wfmXYp2c4"
-      },
-      "artists": [
-        {
-          "name": "Shred Meyer",
-          "url": "https://open.spotify.com/artist/2iSz7OPfgyR2c3EM1pKMoT"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Kiss Me Thru The Phone",
-      "url": "https://open.spotify.com/track/7IwwgpjS9rj72ETYUy6zdG"
-    },
-    {
-      "added_at": "2026-01-09 05:00:00",
-      "album": {
-        "name": "KILLER QUEEN",
-        "url": "https://open.spotify.com/album/14fdv9A6JzUgZWPopwKctF"
-      },
-      "artists": [
-        {
-          "name": "SKARS",
-          "url": "https://open.spotify.com/artist/6tY1LHbUi3PpYgQocAF4tS"
-        }
-      ],
-      "duration_ms": 147701,
-      "name": "KILLER QUEEN",
-      "url": "https://open.spotify.com/track/4XZQ0afqfnJUOqLwjlHa4j"
-    },
-    {
-      "added_at": "2026-01-09 05:00:00",
-      "album": {
-        "name": "Arroz con Pollo",
-        "url": "https://open.spotify.com/album/0ftVPflVJg7D53DFA9boyB"
-      },
-      "artists": [
-        {
-          "name": "Tambo",
-          "url": "https://open.spotify.com/artist/692AY4U6bb4Pe7GHdXirlq"
-        }
-      ],
-      "duration_ms": 78921,
-      "name": "Arroz con Pollo",
-      "url": "https://open.spotify.com/track/27ljyeBPKOgRfXCBfQRGj0"
-    },
-    {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "What You Saying",
         "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
@@ -313,23 +353,7 @@
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
-      "album": {
-        "name": "Mu\u00e9velo",
-        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 127366,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
-    },
-    {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "It's the Most Wonderful Time of the Year",
         "url": "https://open.spotify.com/album/5rTIaPTiWSf92uvUyvbFdV"
@@ -345,7 +369,7 @@
       "url": "https://open.spotify.com/track/3jCNeemNVjQcO9WHVvvcnn"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "TOO BAD \u2013 Alan Walker Remix",
         "url": "https://open.spotify.com/album/4enxadOuHz7QgYDT1Tcn3b"
@@ -369,7 +393,7 @@
       "url": "https://open.spotify.com/track/6JcKisIcNS6Pe3As4Alvmg"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "You Ruined Christmas",
         "url": "https://open.spotify.com/album/0rlh2x0xT5mg5mSvfDNB8F"
@@ -389,7 +413,7 @@
       "url": "https://open.spotify.com/track/02GNaFX6G4mRmyABjRfaam"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "Suicide",
         "url": "https://open.spotify.com/album/0X19G3Fvs6LPFld0ROf9LM"
@@ -409,27 +433,23 @@
       "url": "https://open.spotify.com/track/0SXMOXwsp9EnwsF6XvEcNK"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "Touch The Ground (feat. Chance The Rapper)",
-        "url": "https://open.spotify.com/album/79jFdDfUqi0okViaaEyoDM"
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd"
       },
       "artists": [
         {
-          "name": "STAR BANDZ",
-          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 171130,
-      "name": "Touch The Ground (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/1oE1LkvoJYGbp0wWr1yAaY"
+      "duration_ms": 186089,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/27N2bd3ait2QOnprc4seCK"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "NEXXXT LEVEL",
         "url": "https://open.spotify.com/album/3VlhViao8FkF5kNUNe3wDJ"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/6EGIyAaq4Csz557wLXuK7V"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "Wutang Forever Ever",
         "url": "https://open.spotify.com/album/0TnqQiTOGKNcniZ2WS93ej"
@@ -505,31 +525,7 @@
       "url": "https://open.spotify.com/track/6PdQz3tfoH7TmoSdGWz78T"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
-      "album": {
-        "name": "Never Go Against The Family",
-        "url": "https://open.spotify.com/album/1CqHXOEq7elUwCE41pRF6n"
-      },
-      "artists": [
-        {
-          "name": "Badda TD",
-          "url": "https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX"
-        },
-        {
-          "name": "GMNS Guap",
-          "url": "https://open.spotify.com/artist/6FH7wZ7xFAa8CsVNhsDapB"
-        },
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 116232,
-      "name": "DG3",
-      "url": "https://open.spotify.com/track/2RTCyLVmAywlovxFpFfMx6"
-    },
-    {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/4zqbGVg5GF6gNUEDENIbio"
@@ -565,7 +561,7 @@
       "url": "https://open.spotify.com/track/4stlx3B6OC1nJYFBQQVcBS"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "Luxury Bunkers",
         "url": "https://open.spotify.com/album/20I1gmO6UU9MIUqfgeBclv"
@@ -585,7 +581,7 @@
       "url": "https://open.spotify.com/track/5nZ1hNtpkaEUS5aMmUA70k"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "RADIO EDIT",
         "url": "https://open.spotify.com/album/0CL2Fl2KiuRcp0bfCrwLH5"
@@ -605,27 +601,7 @@
       "url": "https://open.spotify.com/track/45wCAmNCLohrspOZIFjabD"
     },
     {
-      "added_at": "2026-01-09 05:00:00",
-      "album": {
-        "name": "ALL ENGINES ENGAGED",
-        "url": "https://open.spotify.com/album/2sDqJpnM0afHgA8ZOIoVFx"
-      },
-      "artists": [
-        {
-          "name": "KAQi",
-          "url": "https://open.spotify.com/artist/0UYxdd3jqSU6UfAGaQ6Uc6"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 230833,
-      "name": "2:55",
-      "url": "https://open.spotify.com/track/4888cdnxcjuFl69DM8yzoN"
-    },
-    {
-      "added_at": "2026-01-09 05:00:00",
+      "added_at": "2026-01-16 05:00:00",
       "album": {
         "name": "I Wanna Know (Remix)",
         "url": "https://open.spotify.com/album/63HFNyID03NvcuymF73HBK"
@@ -647,6 +623,30 @@
       "duration_ms": 252000,
       "name": "I Wanna Know - Stephane Attias DJ TOOLS",
       "url": "https://open.spotify.com/track/6S1PpLoVvZABFSfmXCDkyb"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "CHANTEUR DE RAP",
+        "url": "https://open.spotify.com/album/4uKuDGYIj4Ty3W2uPUhBzR"
+      },
+      "artists": [
+        {
+          "name": "Fdy Phenomen",
+          "url": "https://open.spotify.com/artist/1Fvf7GTHUjkFdkTkzENxAo"
+        },
+        {
+          "name": "\u00c4rsenik",
+          "url": "https://open.spotify.com/artist/3Mo6O9iqKSw3Mn6v5zZfEy"
+        },
+        {
+          "name": "IAM",
+          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+        }
+      ],
+      "duration_ms": 534542,
+      "name": "I.A.M",
+      "url": "https://open.spotify.com/track/5K9qYSEaYaLajN8QvPF6XR"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

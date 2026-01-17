@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-861 songs - 1 day 14 hr 26 min
+863 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-17 | 2024-07-20 |
 | [Haunted House](https://open.spotify.com/track/6pgZZ8xfIBewpXeeVvIjyl) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 2:33 | 2024-01-29 | 2024-02-05 |
 | [Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself \(Deluxe Version\)](https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM) | 3:35 | 2025-02-27 | 2025-03-01 |
-| [HELICOPTER](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HELICOPTER](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 | 2026-01-15 |  |
+| [HELICOPTER](https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HELICOPTER](https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf) | 2:45 | 2026-01-15 | 2026-01-17 |
 | [HELL](https://open.spotify.com/track/5w0MzbhxdERNK5Z5o6Wa8f) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm), [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [Меньше чем три](https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k) | 2:56 | 2024-11-23 | 2024-11-29 |
 | [Her loss](https://open.spotify.com/track/785GgCAABPnVr3qaGTbhFU) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Royal Bastards](https://open.spotify.com/album/2PuUE6oBxsZFMtojQkWFPs) | 1:26 | 2024-10-19 | 2025-02-16 |
 | [hermaeus mora](https://open.spotify.com/track/1hPQtiP5RYlYrS3t8AjrlK) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [hermaeus mora](https://open.spotify.com/album/77hzOhmvGH5BU4YenFkN60) | 1:27 | 2024-10-14 | 2025-01-08 |
@@ -380,6 +380,7 @@
 | [SOS](https://open.spotify.com/track/5te7CQBdUAT6fUUwAGLc86) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d) | 2:02 | 2024-08-10 | 2024-09-15 |
 | [SOYUZ TEST](https://open.spotify.com/track/1b8PERH40Eb5PS7rzD41R0) | [SALUKI](https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH) | [BOLSHIE KURTKI](https://open.spotify.com/album/1Lm1tt8t4d1eyxoYnZS6L1) | 1:46 | 2024-11-16 | 2024-11-18 |
 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 | 2025-10-25 | 2025-12-19 |
+| [speed](https://open.spotify.com/track/0W5znUzvfYYIwgdIaiP0Fd) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [speed](https://open.spotify.com/album/6cuSFwuh5AIECmWZshd7TZ) | 1:25 | 2026-01-16 |  |
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-10-29 | 2024-11-02 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-08-23 | 2025-06-25 |
 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 | 2025-05-03 | 2025-05-08 |
@@ -441,7 +442,7 @@
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-20 |  |
 | [Who \(Acoustic Remix\)](https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 3:04 | 2024-11-10 | 2025-12-20 |
 | [Who \(Instrumental\)](https://open.spotify.com/track/1Px44tw80Q4rcCl8FxDGOi) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 2:50 | 2024-12-30 | 2025-02-26 |
-| [Who \(Rock Remix\)](https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 2:51 | 2024-10-29 |  |
+| [Who \(Rock Remix\)](https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 2:51 | 2024-10-29 | 2026-01-17 |
 | [Who \(Shibuyakei Remix\)](https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WANDER ver.\)](https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS) | 2:46 | 2024-11-09 | 2026-01-05 |
 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 | 2024-11-30 |  |
 | [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:50 | 2024-10-10 | 2024-10-12 |
@@ -734,6 +735,7 @@
 | [Ретро рейв](https://open.spotify.com/track/4mkVmNuxBgyiRFUy0gbvyv) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [Ретро рейв](https://open.spotify.com/album/5NCSzz46rNMMHBoSR4cPyC) | 1:55 | 2024-12-19 | 2024-12-21 |
 | [Ринопластика \- Surgery](https://open.spotify.com/track/6dXPD2BzUrKjceT1c3eOtK) | [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm), [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [Heavy Metal 2](https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2) | 1:55 | 2024-09-14 | 2024-10-29 |
 | [Родная Душа](https://open.spotify.com/track/27brLLDChFOPcgWFsA0UON) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [10:13](https://open.spotify.com/album/03imWZkKnDD7RwAq1pwoUh) | 2:04 | 2025-04-27 | 2025-04-29 |
+| [Родной город](https://open.spotify.com/track/45x4xzIwyNd4GBjP1YRmZj) | [Нервы](https://open.spotify.com/artist/10oSboDn5ncLNjjFIgJXm6) | [Костёр](https://open.spotify.com/album/5MCoFOjHrgQjDSiH177JqI) | 3:30 | 2026-01-16 |  |
 | [Рок Стар Sh](https://open.spotify.com/track/3JLMjbL3TiiZc9JHuI6wvA) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [10:13](https://open.spotify.com/album/03imWZkKnDD7RwAq1pwoUh) | 2:16 | 2025-04-27 | 2025-04-29 |
 | [РОЛЬФ](https://open.spotify.com/track/5l2JLwEUJl6Q8P8VOEaD1P) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [РОЛЬФ](https://open.spotify.com/album/2uKRbCDOe6bXTECximAd50) | 1:44 | 2025-10-11 | 2025-10-13 |
 | [Ростов](https://open.spotify.com/track/4kUGfBkeyPurQ6MFd9APrF) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [02.06.2022](https://open.spotify.com/album/72P14RZxxfjm5uw31qoTmg) | 1:51 | 2025-02-15 | 2025-02-17 |

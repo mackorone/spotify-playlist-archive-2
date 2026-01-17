@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,293 songs - 3 day 3 hr 59 min
+1,296 songs - 3 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 | 2023-04-13 | 2024-08-07 |
 | [A Minor Talent](https://open.spotify.com/track/6nSIVgNWX3OjzHbnmfKg7s) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [A Minor Talent](https://open.spotify.com/album/2xwG9Qg8jZJRRUfd8M7kiD) | 2:37 | 2024-10-01 | 2025-11-19 |
 | [A Minor Thing](https://open.spotify.com/track/0zysTPrA9fFSX2JGiYIcZm) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [A Minor Thing](https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv) | 3:37 | 2024-04-16 |  |
+| [A Mutual Friend](https://open.spotify.com/track/0oo7APt2BwlH2DvLo163xC) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [A Mutual Friend](https://open.spotify.com/album/2iXXIsxR5dYhxMGAdrhK74) | 3:40 | 2026-01-16 |  |
 | [A New Hope](https://open.spotify.com/track/77fb2hmBPLvOod5ij9rsmx) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [A New Hope](https://open.spotify.com/album/0yX04smpSOdGBQsWMZ1Pmu) | 4:02 | 2025-07-01 |  |
 | [A New Story](https://open.spotify.com/track/2vgXZPi6Kh0iKWzI0Cw1pf) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [A New Story](https://open.spotify.com/album/3txv5NrvYUyxgEwxCHlYlG) | 3:41 | 2024-07-08 | 2024-11-26 |
 | [A Night to Remember](https://open.spotify.com/track/0iVcf5tp21H40Zrc6Md7M9) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [A Night to Remember](https://open.spotify.com/album/3UdkbIhCub4Cr3FZEKtfj7) | 3:44 | 2025-03-18 |  |
@@ -399,9 +400,9 @@
 | [Forgetful](https://open.spotify.com/track/6zWt69VWeGEtq5hmXjxH4y) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Forgetful](https://open.spotify.com/album/5TWNQuius9yqF8qamYmojN) | 4:06 | 2024-02-23 | 2024-09-03 |
 | [Forgiveness](https://open.spotify.com/track/4NCJImmtaznckvN10Mv2uD) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Water Dance](https://open.spotify.com/album/5Ur5MIwmChDIZK2SLu3FGj) | 3:59 | 2023-11-17 | 2025-10-01 |
 | [Four And Moment](https://open.spotify.com/track/0bjdnGERLF53etzOiyRKrf) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Four And Moment](https://open.spotify.com/album/6LDXCpzKWZdz5xuI4MrHBh) | 2:53 | 2023-02-02 | 2023-08-25 |
-| [Fragile](https://open.spotify.com/track/4CzDyivmhcakKRALgJ2fxE) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Fragile](https://open.spotify.com/album/6KdcjyA5ICwb2SnxntwCDS) | 3:25 | 2024-02-23 |  |
+| [Fragile](https://open.spotify.com/track/4CzDyivmhcakKRALgJ2fxE) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Fragile](https://open.spotify.com/album/6KdcjyA5ICwb2SnxntwCDS) | 3:25 | 2024-02-23 | 2026-01-17 |
 | [Freesia](https://open.spotify.com/track/0LHwEY4ECqNf4t0JrSR9eH) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Freesia](https://open.spotify.com/album/15P9FU9R5jbBix4jIGPvBf) | 3:49 | 2022-08-30 | 2023-02-24 |
-| [French books](https://open.spotify.com/track/6MWz69gBN3Es6dEk3OeMZF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [French books](https://open.spotify.com/album/0mGGOvMTDBtRt0HXZ9ZA5S) | 3:17 | 2024-04-23 |  |
+| [French books](https://open.spotify.com/track/6MWz69gBN3Es6dEk3OeMZF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [French books](https://open.spotify.com/album/0mGGOvMTDBtRt0HXZ9ZA5S) | 3:17 | 2024-04-23 | 2026-01-17 |
 | [Frenchtown](https://open.spotify.com/track/1qQC0nNmRRBPcqmweYVct8) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Frenchtown](https://open.spotify.com/album/1ke1veEd0omLLkWnCHMurk) | 3:11 | 2025-04-04 | 2025-11-19 |
 | [Friday Evening](https://open.spotify.com/track/6qNNsN58TwbZcGhZUQypXF) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Friday Evening](https://open.spotify.com/album/4ksfrYGnb5FYPYDZfriRF1) | 4:55 | 2024-06-03 | 2025-02-25 |
 | [From My Perspective](https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [From My Perspective](https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz) | 4:02 | 2023-04-13 | 2024-10-15 |
@@ -524,6 +525,7 @@
 | [Icelandic time](https://open.spotify.com/track/1oZkKgfZDvBYVlAyR1Yszq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Icelandic time](https://open.spotify.com/album/3RGokP0Ax8RaawZZQ3pmct) | 3:32 | 2023-04-27 | 2025-11-19 |
 | [If I Ask You Now?](https://open.spotify.com/track/3yyVqUxOKGgH47iUGNEyVB) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [If I Ask You Now?](https://open.spotify.com/album/6ntxSpTO4JPirtRAZ0SFQH) | 3:26 | 2023-09-29 | 2025-11-19 |
 | [If I could just go back](https://open.spotify.com/track/6GqR4kbLTMfwJ2hFDZclMv) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [If I could just go back](https://open.spotify.com/album/6pt2EdumSP5OK6gyUEXnaH) | 2:59 | 2023-01-19 | 2024-08-07 |
+| [If Love Were True](https://open.spotify.com/track/4avAhF6hI8GUB6PAUlgHJc) | [The Indigo Trio](https://open.spotify.com/artist/3X8jbykM6jKWuKKSzQ6kCb) | [If Love Were True](https://open.spotify.com/album/0uoxAwMmCTLHQKaBQwm0Rc) | 4:59 | 2026-01-16 |  |
 | [If you could see me now](https://open.spotify.com/track/4GsV07Q6UYJWVP0GdIrsHX) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Michelle](https://open.spotify.com/album/1kyRkGoAl8eNKQYe549dSU) | 4:32 | 2021-12-07 | 2022-09-07 |
 | [If You Could See Me Now](https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [If You Could See Me Now](https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W) | 4:36 | 2024-02-09 | 2025-08-02 |
 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 | 2021-12-07 | 2023-06-09 |
@@ -651,6 +653,7 @@
 | [Lily\-white](https://open.spotify.com/track/68Pfz62lgw8iaV4r9rAiC5) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Lily\-white](https://open.spotify.com/album/7kvJgDGsdssa8n3Rv5HFNI) | 2:22 | 2023-08-24 | 2025-11-19 |
 | [Limerence](https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Limerence](https://open.spotify.com/album/4dfayCxblG2wzUIJUYQeXG) | 3:47 | 2022-11-24 | 2023-03-31 |
 | [Linda´s Dream](https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Linda´s Dream](https://open.spotify.com/album/0q30Csvy0pQmqQ9plA1jLZ) | 2:49 | 2023-06-22 | 2025-11-19 |
+| [Linen skies](https://open.spotify.com/track/7w8xHEII6bVO1xw6hyfDBg) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [Linen skies](https://open.spotify.com/album/6MhlekMWZYNNXEKCY7Ag08) | 2:53 | 2026-01-16 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2021-12-07 | 2023-03-03 |
 | [Little Bell](https://open.spotify.com/track/1AQHHWxWaCZrMsqrdDTNng) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Little Bell](https://open.spotify.com/album/3Co6xU6tpBJqppc2TNis78) | 3:30 | 2022-10-06 | 2025-03-11 |
 | [Little Birdy Bean](https://open.spotify.com/track/4vkgxZq0GhzUt6Ta7e4RFO) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Little Birdy Bean](https://open.spotify.com/album/5yjGBYwU32GcZvR9GKD0Ja) | 3:15 | 2024-02-23 | 2025-01-15 |
@@ -1079,7 +1082,7 @@
 | [The Folks Who Live On The Hill](https://open.spotify.com/track/339eppUVQJF6JsKEiwYNWL) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:45 | 2022-06-14 | 2025-02-11 |
 | [The Fool That Fell For You](https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [The Fool That Fell For You](https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R) | 4:30 | 2023-08-10 | 2024-07-23 |
 | [The Foolish Heart](https://open.spotify.com/track/1tNLxWFOh4XBS2xnyVyaCQ) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [The Foolish Heart](https://open.spotify.com/album/7BuobZ0EqYrV7XKEMqFctt) | 3:03 | 2023-12-08 |  |
-| [The Girl I Love](https://open.spotify.com/track/7Jir0cV0wYEOkAm68v3Z8z) | [Fig and the Fam](https://open.spotify.com/artist/2zSlBXyhAZsbWc3ASLmctN) | [The Girl I Love](https://open.spotify.com/album/04hdHXa3bHugz4OFYlaP2D) | 2:46 | 2024-06-17 |  |
+| [The Girl I Love](https://open.spotify.com/track/7Jir0cV0wYEOkAm68v3Z8z) | [Fig and the Fam](https://open.spotify.com/artist/2zSlBXyhAZsbWc3ASLmctN) | [The Girl I Love](https://open.spotify.com/album/04hdHXa3bHugz4OFYlaP2D) | 2:46 | 2024-06-17 | 2026-01-17 |
 | [The Golden Hour](https://open.spotify.com/track/3Oix5aCSmnkLIVZVB63tzm) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [The Golden Hour](https://open.spotify.com/album/0EjdDvcwBTbnzU84bUdfSS) | 3:08 | 2024-02-02 | 2024-05-11 |
 | [The Great Ennui](https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Great Ennui](https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U) | 3:21 | 2024-02-09 | 2025-11-19 |
 | [The Last Call](https://open.spotify.com/track/31ojaZG2e30V671L4Z5ntW) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [The Last Call](https://open.spotify.com/album/3ifBBmWsuoHqpXnfYJ4YwS) | 3:36 | 2023-08-10 | 2025-07-24 |

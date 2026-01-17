@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "ALL NIGHT LONG",
+        "url": "https://open.spotify.com/album/6P3gsC1nBoCo0wkaGG9UYL"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141461,
+      "name": "ALL NIGHT LONG",
+      "url": "https://open.spotify.com/track/2nRL6TyECRS4enVo2npLYb"
+    },
+    {
+      "album": {
         "name": "All Out Of Love",
         "url": "https://open.spotify.com/album/1nbO2blQ2f2McVpyPmgcUS"
       },
@@ -18243,8 +18261,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Everything I've Wanted To Say (and more)",
+        "url": "https://open.spotify.com/album/5C4nJlq9vET3ikxu5u4ZxD"
       },
       "artists": [
         {

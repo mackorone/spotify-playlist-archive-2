@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: Emtee",
+  "description": "Only the hottest South African rap. \nCover: Usimamane",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -336,7 +336,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 157846,
       "name": "4/5 Rings",
       "url": "https://open.spotify.com/track/4vP7nZasKU5nQeGCrb5VS1"
@@ -3092,6 +3092,24 @@
       "duration_ms": 110769,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4EpiTWdpcsNV02xdeSGuUO"
+    },
+    {
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/06VMHl2TPJ6LHw5JsNc726"
+      },
+      "artists": [
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/38XEcOhoZlmGysLVhnrJKQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141875,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/5bcYvUiG6hsg2C7QHHRNHI"
     },
     {
       "album": {
@@ -11296,7 +11314,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 218879,
       "name": "Letter 2 Riky",
       "url": "https://open.spotify.com/track/1pg2IBqjIfDG7nraMIYnoo"
@@ -16063,6 +16081,24 @@
     },
     {
       "album": {
+        "name": "G - Wagon Music : Baby Tai",
+        "url": "https://open.spotify.com/album/7nBsSZyhe8sgZ4UU1PG5XS"
+      },
+      "artists": [
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Racks",
+      "url": "https://open.spotify.com/track/4mx2WjAQRbIblzmlJza39M"
+    },
+    {
+      "album": {
         "name": "Radar",
         "url": "https://open.spotify.com/album/0nfF9Pb3a7F3letGLVEEuo"
       },
@@ -18724,6 +18760,28 @@
       "duration_ms": 176896,
       "name": "Standing On Business",
       "url": "https://open.spotify.com/track/3fgfk7CK5jIsKr1zY4DLOr"
+    },
+    {
+      "album": {
+        "name": "Sounds Of The Diaspora",
+        "url": "https://open.spotify.com/album/0n7r3MD92Fj1CYutyMj8fK"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236280,
+      "name": "STAY OR LEAVE",
+      "url": "https://open.spotify.com/track/0vFR18K6osJ8zhHWGWObk4"
     },
     {
       "album": {
@@ -22652,7 +22710,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 130584,
       "name": "Wherever We Go (feat. LucasRaps)",
       "url": "https://open.spotify.com/track/52Ce22GOrNzhPqpJ470xHy"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Katie Tupper from Saskatoon, SK.",
+  "description": "Your guide to R&B in Canada, with Yoko Gold from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -2987,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "BITING MY TONGUE",
+        "url": "https://open.spotify.com/album/0sWQyYcdyxf93aZGA6ASvj"
+      },
+      "artists": [
+        {
+          "name": "Mikey Jose",
+          "url": "https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232974,
+      "name": "BITING MY TONGUE",
+      "url": "https://open.spotify.com/track/0JcIsvfeEsz493yYmD2S0i"
+    },
+    {
+      "album": {
         "name": "Bitter",
         "url": "https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp"
       },
@@ -3172,7 +3190,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 145222,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/6XCViX1xxjq1tESBApmDqy"
@@ -3270,7 +3288,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 161058,
       "name": "Bodies Dancing",
       "url": "https://open.spotify.com/track/2X2mE9yxpob2zUBgR1XelK"
@@ -5039,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Cost of Livin'",
+        "url": "https://open.spotify.com/album/3DNYPdCn0AION1utNT3eDe"
+      },
+      "artists": [
+        {
+          "name": "Notifi",
+          "url": "https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Cost of Livin'",
+      "url": "https://open.spotify.com/track/5JYfWRgi3vWR8RhhCulF8a"
+    },
+    {
+      "album": {
         "name": "Cotton Candy",
         "url": "https://open.spotify.com/album/67GE1vcqCV73yBvtDfYO27"
       },
@@ -6638,6 +6674,24 @@
       "duration_ms": 133714,
       "name": "Done",
       "url": "https://open.spotify.com/track/6xTxGWOvupBLXcSSyVJ6FI"
+    },
+    {
+      "album": {
+        "name": "Donna's 407",
+        "url": "https://open.spotify.com/album/1R5QxEzFfjG3VLJlXMYQFt"
+      },
+      "artists": [
+        {
+          "name": "Yoko Gold",
+          "url": "https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217499,
+      "name": "Donna's 407",
+      "url": "https://open.spotify.com/track/1K9qK0p56XIVmKtJyV4Ohi"
     },
     {
       "album": {
@@ -12286,7 +12340,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 150019,
       "name": "intemporel",
       "url": "https://open.spotify.com/track/4e5KAgdRth25lpdaScjP66"
@@ -13802,7 +13856,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 191272,
       "name": "Let Me Let You Go",
       "url": "https://open.spotify.com/track/0dEd2v79vbFsmlfI27Uefi"
@@ -20662,7 +20716,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 178520,
       "name": "Receive",
       "url": "https://open.spotify.com/track/7s7vJA0L2hPX5Gj90tQzNc"
@@ -21759,6 +21813,24 @@
     },
     {
       "album": {
+        "name": "Save me",
+        "url": "https://open.spotify.com/album/1UcLRdkGRznEGXxZqNY4vq"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158810,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/5Rkidp537oqfc33THR51PR"
+    },
+    {
+      "album": {
         "name": "Save Your Love",
         "url": "https://open.spotify.com/album/55suNS6fRbmbmxcye34JLM"
       },
@@ -22142,7 +22214,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 179920,
       "name": "Seraphine",
       "url": "https://open.spotify.com/track/4laKdnBNP39D5vddW8XZpR"
@@ -22838,6 +22910,28 @@
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+    },
+    {
+      "album": {
+        "name": "SLIDE4U (Hating)",
+        "url": "https://open.spotify.com/album/5Ba1jyNWBhOSxZUI1SPqKF"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245159,
+      "name": "SLIDE4U (Hating)",
+      "url": "https://open.spotify.com/track/2YjwAcWg2VUHwhVQatQP2q"
     },
     {
       "album": {
@@ -29584,6 +29678,24 @@
       "duration_ms": 149000,
       "name": "Your Biggest Fan",
       "url": "https://open.spotify.com/track/12zOYNZ9vqbKbRBRlC7jwr"
+    },
+    {
+      "album": {
+        "name": "Crusts (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7nalbmgfr8x01U1L73pu8B"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "Your Heart",
+      "url": "https://open.spotify.com/track/5sOiVRzdxwJFydo2tKnMP3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,211 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,219 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 5 | [My Very Own Ride](https://open.spotify.com/track/59ZAfJo35Lunuv56upvhCZ) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [My Very Own Ride](https://open.spotify.com/album/70qZS6hqpcc8kOFWkd22g0) | 8:51 |
 | 6 | [Rumbo a Tí](https://open.spotify.com/track/1AgV1nlfJqH8nrMetnqqpL) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu), [Vincent Segal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Rumbo a Tí](https://open.spotify.com/album/4PPbMS6V66VO6D9erHPY38) | 2:38 |
 | 7 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
-| 8 | [Track 3](https://open.spotify.com/track/4Dkjf9iITfWIy5tokfNop0) | [The James Hunter Six](https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [Gun Shy](https://open.spotify.com/track/4Dkjf9iITfWIy5tokfNop0) | [The James Hunter Six](https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp) | [Off The Fence](https://open.spotify.com/album/3pnF8uSu69bKR2CJ5irJNG) | 2:54 |
 | 9 | [Carnaval de Barranquilla Radio Edit](https://open.spotify.com/track/1B9puk4a8v3SPB1kxQqyEz) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Pacifiques Biches](https://open.spotify.com/album/3T8qoyOqISNu86H92G7Enu) | 4:17 |
 | 10 | [All I See \(feat\. CUBE\)](https://open.spotify.com/track/58WKzEfGmL8Sv9inFanVs6) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU), [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [All I See EP](https://open.spotify.com/album/5WLziaNaH2Rx0FhCaFMCZp) | 4:19 |
 | 11 | [Bass For Peace](https://open.spotify.com/track/6FnpT7ubI45NKmr7rq00vS) | [The Getdown](https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ), [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh) | [Bass For Peace](https://open.spotify.com/album/1Nm5dUA0gJq04FsQKBaqbr) | 4:03 |
 | 12 | [Lençoís de chuva](https://open.spotify.com/track/3XEYQ6Vh0SCIKbAKYrxK4I) | [Louis Matute](https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7), [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Dolce Vita](https://open.spotify.com/album/6jLSXSwAGPur7sq0sZpFCv) | 3:28 |
 | 13 | [SHouLd I sMiLe?](https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz) | [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [sMiLes](https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ) | 2:54 |
-| 14 | [Track 3](https://open.spotify.com/track/7bxsLsRvyJDVsTTSKLgQ6h) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Young at Heart \(feat\. Rod Stewart\)](https://open.spotify.com/track/7bxsLsRvyJDVsTTSKLgQ6h) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [After Hours](https://open.spotify.com/album/5jjHOQ9aVCKDSTAwAbaiaj) | 3:05 |
 | 15 | [In On It](https://open.spotify.com/track/7jKhWfwscF6ZYXCKM9iA9k) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [In On It](https://open.spotify.com/album/3jT6HQDdG1B92MVoiyJZNM) | 7:56 |
 | 16 | [White Keys](https://open.spotify.com/track/3bZVl3PDZXdCwBVTcjGmmR) | [Cyril Benhamou](https://open.spotify.com/artist/3ziSv447mOaDiSm177bXdF), [Jérôme Mouriez](https://open.spotify.com/artist/46HeHgRPYB4VHA5OVTTZ4r), [Pascal Blanc](https://open.spotify.com/artist/10zfJDCGvTci6BdaEkwFF3) | [White Keys](https://open.spotify.com/album/6EGBzjlalI2ygImj0aqouF) | 3:12 |
 | 17 | [Unfinished Business](https://open.spotify.com/track/3iFmz0nwf8t0Z1NQC9KpDr) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [A Breath of Fresh Air](https://open.spotify.com/album/6mS8l8ZNHCu2CWerK3iBt7) | 4:05 |

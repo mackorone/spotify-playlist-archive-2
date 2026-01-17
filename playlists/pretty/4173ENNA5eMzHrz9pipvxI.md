@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: TH;EN
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,713 likes - 144 songs - 7 hr 23 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,706 likes - 144 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 143 | [La Vida \- Radio Edit](https://open.spotify.com/track/6DCNCcgxcMSTBoPdNXcei3) | [dbasser](https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b), [Peter Guzman](https://open.spotify.com/artist/2R3VXlmvfk74W8ZztC7Lp3), [Jose Alves](https://open.spotify.com/artist/3wgghSRJ0p9lOfHiE9D1Y9), [Kaala Shaw](https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf) | [La Vida EP](https://open.spotify.com/album/6Jsb3lrk8UEOaYJKlCMtgg) | 4:48 |
 | 144 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 |
 
-Snapshot ID: `AAAge2wUcuOYkN/1Qf8eNN1+rXQw/xwu`
+Snapshot ID: `AAAgfPNz0KBPpLexM7OdjD+TyBoQJTly`

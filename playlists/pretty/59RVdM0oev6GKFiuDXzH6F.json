@@ -1,12 +1,12 @@
 {
   "description": "Club tracks and dancefloor essentials. The best floor fillers. Change your living room to a nightclub with these tracks!",
-  "num_followers": 4193,
+  "num_followers": 4192,
   "original_name": "Tech House & Clubbing 2026",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAQ+Ra6lAv5mNJ5e8MGKgbPp6n9br60",
+  "snapshot_id": "AAAQ/HNvupflLK/PW900lJkXMkqQTOuo",
   "tracks": [
     {
       "added_at": "2026-01-15 23:20:14",
@@ -385,6 +385,22 @@
       "url": "https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d"
     },
     {
+      "added_at": "2026-01-16 12:59:54",
+      "album": {
+        "name": "REWIND",
+        "url": "https://open.spotify.com/album/65Pera8kpMg4hOxOOUwq5H"
+      },
+      "artists": [
+        {
+          "name": "Nai",
+          "url": "https://open.spotify.com/artist/39EDVlvN9daj3SnKEAgRZa"
+        }
+      ],
+      "duration_ms": 330857,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/1wrnU2xQc155HR1iLpHXzg"
+    },
+    {
       "added_at": "2026-01-09 15:40:47",
       "album": {
         "name": "CHAOS",
@@ -399,6 +415,42 @@
       "duration_ms": 272133,
       "name": "CHAOS",
       "url": "https://open.spotify.com/track/7ezwHpu1HmybWtQUH3XNJt"
+    },
+    {
+      "added_at": "2026-01-16 12:59:53",
+      "album": {
+        "name": "Shivers (feat. NO\u00cbP)",
+        "url": "https://open.spotify.com/album/6gRYmcGSoUlZ83WSJvuDR8"
+      },
+      "artists": [
+        {
+          "name": "LEDUC",
+          "url": "https://open.spotify.com/artist/0PX2pq6qcOfKp3NQOJMGvz"
+        },
+        {
+          "name": "NO\u00cbP",
+          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/0cZntDSgZDioc5Bb9mtsun"
+    },
+    {
+      "added_at": "2026-01-16 13:10:13",
+      "album": {
+        "name": "Follow Up",
+        "url": "https://open.spotify.com/album/5SDqyDGTlU309fyMolWAzS"
+      },
+      "artists": [
+        {
+          "name": "Dj Brodda",
+          "url": "https://open.spotify.com/artist/0hYKwwwNdvLnr5SklZI54A"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Follow Up",
+      "url": "https://open.spotify.com/track/4zL6ul8QT3MWtnhX10xbiY"
     },
     {
       "added_at": "2025-11-14 09:17:21",

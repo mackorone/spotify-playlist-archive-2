@@ -5329,6 +5329,24 @@
     },
     {
       "album": {
+        "name": "Hide",
+        "url": "https://open.spotify.com/album/1xxKbTvEtsvAmTINuWOQvB"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166615,
+      "name": "Crawler",
+      "url": "https://open.spotify.com/track/4cJFqSeCPSoI3ROEfuJL28"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2F5unIFYO9mgNZ4DGmWnFm"
       },
@@ -5890,6 +5908,24 @@
       "duration_ms": 223681,
       "name": "DeathRow",
       "url": "https://open.spotify.com/track/0UqxTBffHZUB7hS5ihIh1D"
+    },
+    {
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/7FvI1vJiC1bqNx9oiU1QOI"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/5f7RFIBxFzgF93lz8H2AdH"
     },
     {
       "album": {
@@ -8923,6 +8959,24 @@
     },
     {
       "album": {
+        "name": "GET A JOB",
+        "url": "https://open.spotify.com/album/5hxEFrzzsk3yjdQ8Vdj4MW"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200457,
+      "name": "GET A JOB",
+      "url": "https://open.spotify.com/track/24G6lVLkwnH6Bl8qd2C82f"
+    },
+    {
+      "album": {
         "name": "Get A Life",
         "url": "https://open.spotify.com/album/6S8RIGKHAAu1r8a4Qt7H1P"
       },
@@ -9586,7 +9640,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
@@ -9626,7 +9680,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 123636,
       "name": "Go Stupid",
       "url": "https://open.spotify.com/track/6RR38VIf6I6io3tZXVmKF7"
@@ -10694,7 +10748,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 177333,
       "name": "HIGHBEAMZ",
       "url": "https://open.spotify.com/track/51dkiI3HGDrDUluoKhooWj"
@@ -12310,7 +12364,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 164798,
       "name": "Jumpin",
       "url": "https://open.spotify.com/track/2hNss6COTP0Vev63tdcrz2"
@@ -12426,7 +12480,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 137497,
       "name": "Kick Back",
       "url": "https://open.spotify.com/track/4UbHtOlsHWyFn60uCNM825"
@@ -17495,6 +17549,36 @@
     },
     {
       "album": {
+        "name": "Phreaky MF (Matroda & GREG 99 Remix)",
+        "url": "https://open.spotify.com/album/5e5GMFMEEPOwh0Q8vdgCrJ"
+      },
+      "artists": [
+        {
+          "name": "Mike Dunn",
+          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+        },
+        {
+          "name": "Mr. 69",
+          "url": "https://open.spotify.com/artist/7DYttpiOZdyURH5XmQXeSD"
+        },
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "GREG 99",
+          "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211874,
+      "name": "Phreaky MF - Matroda & GREG 99 Remix",
+      "url": "https://open.spotify.com/track/7yUcCULqUvVOO33Ob5qOPF"
+    },
+    {
+      "album": {
         "name": "Pick Your Battles (Malaa Remix)",
         "url": "https://open.spotify.com/album/4qs4lxuG4zMkCQv1HL90Pb"
       },
@@ -18497,6 +18581,28 @@
     },
     {
       "album": {
+        "name": "REAL FRIENDS",
+        "url": "https://open.spotify.com/album/4MnzdVaQ9KPWMvnY1KT0BE"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Brosa",
+          "url": "https://open.spotify.com/artist/7u5FoxjVdLM8hoqkRndNiR"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140567,
+      "name": "REAL FRIENDS",
+      "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
+    },
+    {
+      "album": {
         "name": "Star City",
         "url": "https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv"
       },
@@ -19490,7 +19596,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 154282,
       "name": "Same Squad",
       "url": "https://open.spotify.com/track/04GLmRvZW1XQICKspPSMB9"
@@ -21798,7 +21904,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 196363,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/6FfGlA8G6xEoyq11W2KABr"
@@ -23649,6 +23755,24 @@
     },
     {
       "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/2JCGaCPj0RnyiVPtwbVtoL"
+      },
+      "artists": [
+        {
+          "name": "James Kennedy",
+          "url": "https://open.spotify.com/artist/5bayykQX2eN93SZW3Av1PJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108398,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"
+    },
+    {
+      "album": {
         "name": "Tudum",
         "url": "https://open.spotify.com/album/1wnOlrxHzAER2yIrhBO0ag"
       },
@@ -24468,6 +24592,28 @@
       "duration_ms": 210000,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/5wBWgsr5PdN0mXzUeRKFB1"
+    },
+    {
+      "album": {
+        "name": "We Run The Nite",
+        "url": "https://open.spotify.com/album/5fh0tqLpej1VKtyD4NW4eW"
+      },
+      "artists": [
+        {
+          "name": "Tonite Only",
+          "url": "https://open.spotify.com/artist/2anxHOHdqE0LvI8eGcc6k2"
+        },
+        {
+          "name": "BARTS",
+          "url": "https://open.spotify.com/artist/44qzMC9QX2iSk5ttc4SZfH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "We Run The Nite",
+      "url": "https://open.spotify.com/track/4xQSpCYLyV37VZBTZnvKPi"
     },
     {
       "album": {

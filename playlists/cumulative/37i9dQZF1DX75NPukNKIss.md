@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Cover: Cash Cobain
 
-155 songs - 7 hr 8 min
+156 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [5 Star](https://open.spotify.com/track/2FdSq3OWUxXraCnSSIGBAn) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [5 Star](https://open.spotify.com/album/74VyEIWzUs1Nm838tlm9jq) | 2:29 | 2024-11-01 | 2024-11-09 |
 | [6AM Thoughts \(with Cash Cobain & Bay Swag\)](https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [6AM Thoughts](https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx) | 3:20 | 2024-10-25 |  |
 | [act xiv: twerksongggg](https://open.spotify.com/track/4ICz9E2PB4GE2RwkFBHlGj) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:20 | 2025-10-10 | 2025-11-29 |
-| [Addicted](https://open.spotify.com/track/2tCGA7eGKeXXAKS1DCxx9k) | [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl) | [Addicted](https://open.spotify.com/album/3PSgrVSIYeWDBhtNfTLhqa) | 2:15 | 2024-11-08 |  |
+| [Addicted](https://open.spotify.com/track/2tCGA7eGKeXXAKS1DCxx9k) | [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl) | [Addicted](https://open.spotify.com/album/3PSgrVSIYeWDBhtNfTLhqa) | 2:15 | 2024-11-08 | 2026-01-17 |
 | [ALL THE TIME](https://open.spotify.com/track/0SJpyExB722bVpoqzrhFj5) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [ALL THE TIME](https://open.spotify.com/album/4NLfYhSIdnaEy1ODScJQMX) | 2:48 | 2024-10-25 |  |
 | [ARROZ CON POLLO](https://open.spotify.com/track/0FhcqNBNWj54wP6p6drcVf) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [ARROZ CON POLLO](https://open.spotify.com/album/4G8vW2va4KZX2ZKxURiAf3) | 1:42 | 2024-12-10 |  |
 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 | 2024-10-25 |  |
@@ -127,6 +127,7 @@
 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 | 2025-09-19 |  |
 | [settings!](https://open.spotify.com/track/3TDZRV8TdWySueKV3UX3j2) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:35 | 2024-10-25 | 2025-08-09 |
 | [SEX LOVE DEMONS \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6i0nVCYnZy24212rvQ2syy) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [BIG DIOR](https://open.spotify.com/album/2cU7wfkSDMKR35tlC5ThIR) | 2:42 | 2024-12-10 |  |
+| [Sexy](https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sexy](https://open.spotify.com/album/0UCYF6mGPlzobkXXp1OZyW) | 3:34 | 2026-01-16 |  |
 | [Sexy Drill](https://open.spotify.com/track/5nGRq9FDYNEyTVd3j4l4K6) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Sexy Drill](https://open.spotify.com/album/4bfhigFhw3gW1v2YkSJHxw) | 3:22 | 2025-08-08 | 2025-08-30 |
 | [SHAKIN IT \(feat\. Cash Cobain\)](https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:54 | 2024-10-25 |  |
 | [Simone Biles \(feat\. LouGotCash\)](https://open.spotify.com/track/1sAswL8NGPFG4DHRnyTmGq) | [Leaf](https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Dreamgirl Deluxe](https://open.spotify.com/album/7JSMM5TyVzf3EMIBAGyCbK) | 2:19 | 2024-12-10 |  |

@@ -1981,6 +1981,28 @@
     },
     {
       "album": {
+        "name": "Friday I'm In Love / Just Like Heaven - Live From Glastonbury (A BBC Recording)",
+        "url": "https://open.spotify.com/album/5BBcARy3vgB43n1VZELFno"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Robert Smith",
+          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Friday I'm In Love - Live From Glastonbury",
+      "url": "https://open.spotify.com/track/388JceJm7784qgHipfPKmr"
+    },
+    {
+      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/5IlWoFOA7aaouBEniaR7oJ"
       },

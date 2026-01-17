@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: F\u00faria, Muse Maya",
-  "num_followers": 134831,
+  "num_followers": 134816,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,30 @@
     {
       "added_at": "2026-01-09 03:01:25",
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
+      },
+      "artists": [
+        {
+          "name": "yollirum",
+          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
+        },
+        {
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 133064,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
+    },
+    {
+      "added_at": "2026-01-09 03:01:25",
+      "album": {
         "name": "Mentira ou Verdade",
         "url": "https://open.spotify.com/album/47M2KL0LuxLBWRe2ZzFGnG"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 150937,
       "name": "Vida Loka",
       "url": "https://open.spotify.com/track/3ub5Qgf10UWRkwSEXQHj96"
-    },
-    {
-      "added_at": "2026-01-09 03:01:25",
-      "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
-      },
-      "artists": [
-        {
-          "name": "yollirum",
-          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
-        },
-        {
-          "name": "Zairon",
-          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 133064,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
     },
     {
       "added_at": "2026-01-09 03:01:25",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-01-09 03:01:25",
       "album": {
-        "name": "Grana Ameniza",
-        "url": "https://open.spotify.com/album/7i9dW0TcvabZrvHclUqg1U"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Grana Ameniza",
-      "url": "https://open.spotify.com/track/0Z4cCOQdn9RI49pZkLE5ip"
-    },
-    {
-      "added_at": "2026-01-09 03:01:25",
-      "album": {
         "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
         "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 160000,
       "name": "RANDANDAN",
       "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
+    },
+    {
+      "added_at": "2026-01-09 03:01:25",
+      "album": {
+        "name": "Grana Ameniza",
+        "url": "https://open.spotify.com/album/7i9dW0TcvabZrvHclUqg1U"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Grana Ameniza",
+      "url": "https://open.spotify.com/track/0Z4cCOQdn9RI49pZkLE5ip"
     },
     {
       "added_at": "2026-01-09 03:01:25",

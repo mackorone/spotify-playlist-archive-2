@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Laci Kaye Booth",
-  "num_followers": 64495,
+  "num_followers": 64494,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -123,8 +123,8 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
-        "name": "I Sit In Parks",
-        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 130093,
-      "name": "I Sit In Parks",
-      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
+      "duration_ms": 136746,
+      "name": "Emerald City",
+      "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
     },
     {
       "added_at": "2025-12-05 20:01:46",
@@ -203,8 +203,8 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
-        "name": "Mount Pleasant",
-        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
+        "name": "I Sit In Parks",
+        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 136746,
-      "name": "Emerald City",
-      "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
     },
     {
       "added_at": "2025-12-05 20:01:46",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
+        "name": "Cherry Valley",
+        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Misery Loves Company",
+      "url": "https://open.spotify.com/track/08GgZyqoP4icrkBMJFu9PN"
+    },
+    {
+      "added_at": "2025-12-05 20:01:46",
+      "album": {
         "name": "Witching Hour",
         "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
-        "name": "Cherry Valley",
-        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Misery Loves Company",
-      "url": "https://open.spotify.com/track/08GgZyqoP4icrkBMJFu9PN"
-    },
-    {
-      "added_at": "2025-12-05 20:01:46",
-      "album": {
         "name": "to each their dot & This Morning I Am Born Again",
         "url": "https://open.spotify.com/album/6rK6Jcl92woyPMyECfN24L"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 209748,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
-    },
-    {
-      "added_at": "2025-12-05 20:01:46",
-      "album": {
         "name": "Break Up With Me",
         "url": "https://open.spotify.com/album/3c31zFKjajk8rpg9No0iuW"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 159560,
       "name": "Break Up With Me",
       "url": "https://open.spotify.com/track/0ualOeipm7OUuUDHe7UUUC"
+    },
+    {
+      "added_at": "2025-12-05 20:01:46",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 209748,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
     },
     {
       "added_at": "2025-12-05 20:01:46",

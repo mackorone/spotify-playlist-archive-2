@@ -9266,7 +9266,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 229760,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/6vYbyQpKM21rfhsHwb4HIb"
@@ -10158,6 +10158,24 @@
       "duration_ms": 264827,
       "name": "Out (Out)",
       "url": "https://open.spotify.com/track/4LZEs2TkZLQcCmaHa6GBfH"
+    },
+    {
+      "album": {
+        "name": "Outta My Mind (Touch)",
+        "url": "https://open.spotify.com/album/5Nsw2netaTGJomcUKTmVzF"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227961,
+      "name": "Outta My Mind (Touch)",
+      "url": "https://open.spotify.com/track/4qkiVYEL9WvPa99NmpUCmX"
     },
     {
       "album": {

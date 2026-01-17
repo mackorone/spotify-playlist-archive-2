@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Fire Force”! ©大久保篤・講談社／特殊消防隊動画広報第参課
 
-116 songs - 5 hr 41 min
+117 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Scorching heat requiem](https://open.spotify.com/track/1iWEPMP8q4DfV1G7madOHt) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 2:58 | 2022-07-08 | 2024-04-19 |
 | [Separated universe](https://open.spotify.com/track/5sUMauKPZGLzqgZBdjLJKL) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack 2](https://open.spotify.com/album/3RqDgNyxjyUKUk3tYjwJFv) | 3:14 | 2022-07-08 | 2024-04-19 |
 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-07-08 |  |
+| [Speak of the Devil](https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Speak of the Devil](https://open.spotify.com/album/0xC2kMMJgBSWohWmTDeW8L) | 3:42 | 2026-01-16 |  |
 | [Special Fire Force Company 8](https://open.spotify.com/track/3pezqTml7GQZxaLBg9Hftp) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 2:53 | 2022-07-08 | 2024-04-19 |
 | [Special Fire Force Company 8 \-outbreak\-](https://open.spotify.com/track/3ZB5WtU3wyfJI4XDkDiwH3) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack 2](https://open.spotify.com/album/3RqDgNyxjyUKUk3tYjwJFv) | 4:17 | 2022-07-08 | 2024-04-19 |
 | [Starting](https://open.spotify.com/track/0o44N3qUFyoWfh5N4Nyy8Y) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 2:38 | 2022-07-08 | 2024-04-19 |

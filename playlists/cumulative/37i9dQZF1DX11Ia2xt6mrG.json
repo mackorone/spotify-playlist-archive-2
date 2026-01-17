@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Joaquin Coronel y Marcos Villalobos en portada.",
   "name": "electro mx ",
   "tracks": [
     {
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 207637,
       "name": "Cartagena - Sylvan Esso Edit",
       "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Coqueta",
+        "url": "https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn"
+    },
+    {
+      "album": {
         "name": "CORA DE HIELO",
         "url": "https://open.spotify.com/album/1vi2pRTfXaaOuUdxsJVuJ5"
       },
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Corrupted",
       "url": "https://open.spotify.com/track/70KbdYzwNiSd8sayMqa687"
@@ -1918,6 +1936,28 @@
       "duration_ms": 215462,
       "name": "Cuerpo Que Flota",
       "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+    },
+    {
+      "album": {
+        "name": "cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh"
     },
     {
       "album": {
@@ -3042,7 +3082,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 215294,
       "name": "Franca Barona",
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
@@ -3090,6 +3130,28 @@
       "duration_ms": 121937,
       "name": "FUEL",
       "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
+    },
+    {
+      "album": {
+        "name": "Fumar (Tech House)",
+        "url": "https://open.spotify.com/album/3B56qgiYP46ElZ3quj1yMf"
+      },
+      "artists": [
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122325,
+      "name": "Fumar - Tech House",
+      "url": "https://open.spotify.com/track/3cAhhuuZo3Gvck4382rOKD"
     },
     {
       "album": {
@@ -4009,6 +4071,24 @@
     },
     {
       "album": {
+        "name": "La Calle (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Gq1VzquYs42z2vixFj4iI"
+      },
+      "artists": [
+        {
+          "name": "Mijangos",
+          "url": "https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224670,
+      "name": "La Calle - Radio Edit",
+      "url": "https://open.spotify.com/track/3qo7OiDubZ1dJ1TLETprPb"
+    },
+    {
+      "album": {
         "name": "La Casa",
         "url": "https://open.spotify.com/album/1nOAKE07lAwQoVaHIVhgSe"
       },
@@ -4690,7 +4770,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 150000,
       "name": "lowkey",
       "url": "https://open.spotify.com/track/5UjcsPvGJUyqt0gyXtHxLh"
@@ -5213,6 +5293,28 @@
     },
     {
       "album": {
+        "name": "MOPUS",
+        "url": "https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        },
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "MOPUS",
+      "url": "https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY"
+    },
+    {
+      "album": {
         "name": "Morena (Remix)",
         "url": "https://open.spotify.com/album/5uxV8NLI5gjSAD1mwW9k3m"
       },
@@ -5495,6 +5597,32 @@
     },
     {
       "album": {
+        "name": "Nisikwe",
+        "url": "https://open.spotify.com/album/63EH7ifpNPZRH9yDPfJcAL"
+      },
+      "artists": [
+        {
+          "name": "Rizounds",
+          "url": "https://open.spotify.com/artist/7Kr4chjVXPPd2gJAAZVpqp"
+        },
+        {
+          "name": "Pablo Alarcon",
+          "url": "https://open.spotify.com/artist/4fCdJ4GxbR0EUnsCiOvznU"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327619,
+      "name": "Nisikwe",
+      "url": "https://open.spotify.com/track/6YThfuV7VFxTgCbVRGF30K"
+    },
+    {
+      "album": {
         "name": "No Digas No",
         "url": "https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH"
       },
@@ -5598,7 +5726,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 235752,
       "name": "Nocturna - Remix",
       "url": "https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw"
@@ -6358,7 +6486,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 169761,
       "name": "Porque La Demora",
       "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
@@ -7518,7 +7646,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 219098,
       "name": "Sin Sentir",
       "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
@@ -7702,7 +7830,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 195271,
       "name": "SOL",
       "url": "https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5"
@@ -8078,7 +8206,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 228923,
       "name": "SUSTANCIAS",
       "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
@@ -8206,6 +8334,32 @@
       "duration_ms": 194163,
       "name": "Switch It - Tom & Collins Remix",
       "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
+    },
+    {
+      "album": {
+        "name": "Synthetic",
+        "url": "https://open.spotify.com/album/7F9ydlOu2hX6OMlAAhl04e"
+      },
+      "artists": [
+        {
+          "name": "BadWolf",
+          "url": "https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd"
+        },
+        {
+          "name": "Ryan Nasty",
+          "url": "https://open.spotify.com/artist/0nFQZV8gIvkT6YZ9Ao0QMW"
+        },
+        {
+          "name": "Valmaiin",
+          "url": "https://open.spotify.com/artist/0kIRpcMI9KSmKIXKb4qdYH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367661,
+      "name": "Synthetic",
+      "url": "https://open.spotify.com/track/5VBomhcrCFd5MVwKYgBWqp"
     },
     {
       "album": {

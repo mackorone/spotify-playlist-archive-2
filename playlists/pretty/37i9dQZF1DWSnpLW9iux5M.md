@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Yolanda Adams
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,403 likes - 150 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,396 likes - 150 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 26 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/5vSRDbe5QYVeGrug8hFEER) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas with Yolanda Adams](https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5) | 4:07 |
 | 27 | [What Is Christmas Without You](https://open.spotify.com/track/1HYW69lkHD3HXLsipXbUr8) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Is Christmas Without You](https://open.spotify.com/album/1kFeM5XI4ISUVpixpdMmkY) | 3:20 |
 | 28 | [Generous God \(Gloria\)](https://open.spotify.com/track/6WS8XlgxOp6rEqZGAjj0CY) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [The Gift](https://open.spotify.com/album/2wC0LQeUpBAEUqW4Ca0J41) | 4:07 |
-| 29 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 |
+| 29 | [sleigh ride \(remix\).wav](https://open.spotify.com/track/10hK6U1b0w3Sa6MJjaOvrt) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [sleigh ride \(remix\).wav](https://open.spotify.com/album/26EJJhulroX2YoGM1hYaWI) | 1:44 |
 | 30 | [The Greatest Gift](https://open.spotify.com/track/3ZWgYAhbhihQA4cTrbCSCi) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [The Greatest Gift](https://open.spotify.com/album/7E7hx7Jxv0UA3YItvtdGuI) | 2:40 |
-| 31 | [sleigh ride \(remix\).wav](https://open.spotify.com/track/10hK6U1b0w3Sa6MJjaOvrt) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [sleigh ride \(remix\).wav](https://open.spotify.com/album/26EJJhulroX2YoGM1hYaWI) | 1:44 |
+| 31 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 |
 | 32 | [O Holy Night \(feat\. Melvin Crispell III & Mav City Gospel Choir\)](https://open.spotify.com/track/0vuR826xMexFpO8pPJOmc0) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [A Very Maverick Christmas](https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ) | 6:19 |
 | 33 | [Noel](https://open.spotify.com/track/4PY7KhebLuHlcmkGNYxuXm) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Noel](https://open.spotify.com/album/2Rc3jAkZVa2lGFTfdwtiyk) | 2:14 |
 | 34 | [Go Tell It On The Mountain](https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Fred Hammond Christmas..\. Just Remember](https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9) | 3:50 |

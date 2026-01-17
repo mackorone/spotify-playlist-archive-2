@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-203 songs - 11 hr 22 min
+205 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,13 +64,15 @@
 | [Falling Back](https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Falling Back](https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo) | 3:30 | 2025-07-11 |  |
 | [Fantasy](https://open.spotify.com/track/1D2KxqvSvixHkRs3yaHkmT) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Odyssey](https://open.spotify.com/album/3nxOJvuvEBSPo3fvEUMefZ) | 3:52 | 2025-07-11 |  |
 | [Feel](https://open.spotify.com/track/3A6hpJWNrYJxRq6TYFajEE) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [Feel](https://open.spotify.com/album/59MzHs1g6eEn1gaO3ioeSq) | 3:42 | 2025-07-11 |  |
+| [Feel Alive](https://open.spotify.com/track/67vdCTYvGSEkafKk0eRVCk) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Kadett](https://open.spotify.com/artist/6YeyGAIF4qnQ3ZkPXT5q0v) | [Feel Alive](https://open.spotify.com/album/2opQplxHXriT6u9WE39Gak) | 4:11 | 2026-01-16 |  |
 | [Feel It](https://open.spotify.com/track/7MyVESXODLC38Mn7Wse08B) | [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Feel It](https://open.spotify.com/album/3jTwNuh1IeoiYeBzLINoMt) | 3:18 | 2025-10-03 |  |
+| [Feel Me](https://open.spotify.com/track/6iZEi08AzsxJYEyt5wv86B) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [ANASTASiiA](https://open.spotify.com/artist/0OMqz32m08o4kzdFaareXv), [Nemila](https://open.spotify.com/artist/1Gc5980dxZfe9Y416V2un8) | [Feel Me](https://open.spotify.com/album/1VrBGXMT6DQXUORtJvqnAw) | 3:32 | 2026-01-16 |  |
 | [Find a Way](https://open.spotify.com/track/1u8EM5bsBu0uXs2Zy1MB1p) | [Kozlow](https://open.spotify.com/artist/1Ms8hcf17jkqevIIRI0YkH), [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [Find a Way](https://open.spotify.com/album/201wt2tzqT7xTgNFvk7CJk) | 3:42 | 2025-10-31 |  |
 | [Fine Day](https://open.spotify.com/track/09eWCNjHzXXOUcvLzXKvAq) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Fine Day](https://open.spotify.com/album/765HkHd46H8HL4NqQpkakp) | 3:38 | 2025-07-11 |  |
-| [Flootz](https://open.spotify.com/track/6ngGQFVyKXO1Aphp8psxkj) | [Scruby](https://open.spotify.com/artist/2uc7mjt20cr9HVnGiKDgzs) | [Flootz](https://open.spotify.com/album/4XKRv43lgPcwJuc22kstBj) | 2:59 | 2025-10-10 |  |
+| [Flootz](https://open.spotify.com/track/6ngGQFVyKXO1Aphp8psxkj) | [Scruby](https://open.spotify.com/artist/2uc7mjt20cr9HVnGiKDgzs) | [Flootz](https://open.spotify.com/album/4XKRv43lgPcwJuc22kstBj) | 2:59 | 2025-10-10 | 2026-01-17 |
 | [Flustered](https://open.spotify.com/track/1AApZ7YFEkRGGIztqpR6LH) | [Yuto.](https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg) | [Flustered](https://open.spotify.com/album/3mewVkqU5pRfLfvRovc8uk) | 2:19 | 2025-09-15 | 2025-11-01 |
 | [Free](https://open.spotify.com/track/4hop8KnUSBre41V0IDIbt0) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Raiku](https://open.spotify.com/artist/0X6oat1RJhoAYizMmEXAOq) | [Free](https://open.spotify.com/album/7HGnXodhePTyFj8gikSOZx) | 4:09 | 2025-07-11 | 2025-09-06 |
-| [Freedom \- Back To '96 Mix](https://open.spotify.com/track/4e3uABfoVuz1AwBlu8jEbN) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Freedom \(Back To '96 Mix\)](https://open.spotify.com/album/0ZcvpR6Bc6bZ6I018iF5rT) | 3:47 | 2025-12-05 |  |
+| [Freedom \- Back To '96 Mix](https://open.spotify.com/track/4e3uABfoVuz1AwBlu8jEbN) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Freedom \(Back To '96 Mix\)](https://open.spotify.com/album/0ZcvpR6Bc6bZ6I018iF5rT) | 3:47 | 2025-12-05 | 2026-01-17 |
 | [From The Start](https://open.spotify.com/track/0Q8yHagMvsdI3ZQVPwWo7q) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX) | [Odyssey](https://open.spotify.com/album/3nxOJvuvEBSPo3fvEUMefZ) | 3:13 | 2025-07-11 |  |
 | [Future](https://open.spotify.com/track/78ofpIqZBYnvsCSAaKhI1Y) | [Ruslan Radriges](https://open.spotify.com/artist/1llZ2bnIKgwHuzZqcJawVN), [Huvagen](https://open.spotify.com/artist/3ezX0M9Qa3nPqVj6jjttHr) | [Future](https://open.spotify.com/album/4R4BMEq5ZBEu3URJLHe89y) | 2:59 | 2025-09-15 | 2025-11-08 |
 | [Get Up](https://open.spotify.com/track/2H43AB2EgHmUChTFL8zVZp) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Get Up](https://open.spotify.com/album/1kw8SiaqsRjeg8hAMxDdjL) | 3:31 | 2025-09-15 | 2025-12-06 |

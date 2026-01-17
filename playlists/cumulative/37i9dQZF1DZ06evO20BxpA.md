@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-167 songs - 7 hr 39 min
+168 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Did It Feel Wrong](https://open.spotify.com/track/2B4vzBBaPYY1FzqCBUjtE4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 2:16 | 2023-09-09 | 2024-08-10 |
 | [Echo Fires Up Another](https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:50 | 2023-08-04 |  |
 | [Emma](https://open.spotify.com/track/4TuGt2O2iqrisOsNQNrL0j) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:35 | 2023-08-04 |  |
+| [Eternal Energies Of Nature](https://open.spotify.com/track/1UCmBSiJpN1keDLfWQXP0R) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:01 | 2026-01-17 |  |
 | [Everything is Bathed in Sunlight](https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 3:51 | 2025-05-13 |  |
 | [False Alliances](https://open.spotify.com/track/3HGLYQ2Qb3qCIDTyDehcg1) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Heads of State \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61b7iSyfyBA8twfr3PPg7s) | 2:13 | 2025-07-29 | 2025-08-30 |
 | [Family Invasion](https://open.spotify.com/track/4JzWKzahqQ0NSgRajrby9H) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:46 | 2023-09-21 | 2025-01-14 |
@@ -148,7 +149,7 @@
 | [This Game Is No Game](https://open.spotify.com/track/52IJNg7DV4ezuiKSyKpxcg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 3:52 | 2025-11-27 | 2026-01-15 |
 | [This Is My Home](https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:43 | 2023-08-04 |  |
 | [This Is My Show Now](https://open.spotify.com/track/4UWiegNEf2yDtSKQbWaAZW) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 3:41 | 2025-12-12 | 2025-12-13 |
-| [This Is My Witness Statement](https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:35 | 2024-04-02 |  |
+| [This Is My Witness Statement](https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:35 | 2024-04-02 | 2026-01-17 |
 | [This Is Our Planet \- From "Our Planet"](https://open.spotify.com/track/1twnThKLYDlaKpP4WSW2QS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:43 | 2023-08-04 |  |
 | [This Road is a Suicide Mission](https://open.spotify.com/track/15Vk6UHrHlpCpgwqhSQN7d) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:38 | 2023-09-02 | 2024-12-08 |
 | [This Was A Beautiful Dream](https://open.spotify.com/track/5xb8ABDPvuMKvv6facxQsJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:48 | 2024-12-02 | 2026-01-06 |

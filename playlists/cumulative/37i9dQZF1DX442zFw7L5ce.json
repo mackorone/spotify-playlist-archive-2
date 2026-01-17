@@ -353,6 +353,32 @@
     },
     {
       "album": {
+        "name": "Mem Famous",
+        "url": "https://open.spotify.com/album/5HEeG4wXbr11LJ5Lr1XOr3"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "name": "Kalyan Nayak",
+          "url": "https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul"
+        },
+        {
+          "name": "Honey Saarya",
+          "url": "https://open.spotify.com/artist/07uU3vCPdHpoIOFX2Zxr3X"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222498,
+      "name": "Ayyayyo",
+      "url": "https://open.spotify.com/track/4U2anLGEB7OGFFEO3SjMdg"
+    },
+    {
+      "album": {
         "name": "Baby Won't You Tell Me (From \"Saaho\")",
         "url": "https://open.spotify.com/album/2IqjsWyHv2EftxVZa5E38q"
       },
@@ -657,6 +683,32 @@
     },
     {
       "album": {
+        "name": "Jathi Ratnalu",
+        "url": "https://open.spotify.com/album/6t8PSuibbgF5Esm4a78sZA"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Radhan",
+          "url": "https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186547,
+      "name": "Chitti",
+      "url": "https://open.spotify.com/track/5aaY1uspY7bZbdal535FZm"
+    },
+    {
+      "album": {
         "name": "Chitti (From \"Jathi Ratnalu\")",
         "url": "https://open.spotify.com/album/3vcbeHMefvNcmt3UWddxe8"
       },
@@ -760,7 +812,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 371517,
       "name": "Ekkada Ekkada",
       "url": "https://open.spotify.com/track/1nV9Nxh5bCYnJ372qcFIbT"
@@ -888,7 +940,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 283483,
       "name": "Gira Gira Gingiraagirey (From \"Champion\")",
       "url": "https://open.spotify.com/track/7yFklz7NkEsgnIzsC08k4q"

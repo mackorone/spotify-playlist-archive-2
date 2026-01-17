@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-123 songs - 7 hr 30 min
+126 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Controller](https://open.spotify.com/track/25yY8HF7pYDHA0CXx9Beil) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Controller](https://open.spotify.com/album/1I0mJbNiIRwXIYCpUUQVEA) | 5:11 | 2025-11-16 |  |
 | [Cowboy Blues](https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 3:55 | 2025-11-16 |  |
 | [Dallas](https://open.spotify.com/track/0dGtxK3c1iU7NIeRohqRmL) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 5:21 | 2025-12-14 |  |
+| [Death by Love](https://open.spotify.com/track/0oKCuwon3bJNgj1yBtuol6) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [Death by Love](https://open.spotify.com/album/0990HRFNLTzvf4l9Qi3elQ) | 4:32 | 2026-01-16 |  |
 | [Dirty Linen](https://open.spotify.com/track/7a2joG9xAddc4If99e3VgT) | [San Jose](https://open.spotify.com/artist/4S7RqxJANGm2g4AmBQuCJr) | [Dirty Linen](https://open.spotify.com/album/2mr5EhiamDordD4faUEJiH) | 6:30 | 2025-12-18 | 2025-12-29 |
 | [Disposing of His Body](https://open.spotify.com/track/76zqfMymGuJSaLlRC3uoOc) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [I Cannot Go on Reaching](https://open.spotify.com/album/5amMSI279HeqRk8SiTMFnO) | 3:32 | 2025-12-18 |  |
 | [Do You Wanna Go Back?](https://open.spotify.com/track/4nl4aLWDMoUZQiaqqo9Bm5) | [Alice Faye](https://open.spotify.com/artist/4uN4a982EJeWrUNDgXfeJv), [Julen Santamaria](https://open.spotify.com/artist/3GyNpUXi0ASpV0brmb7x0J) | [Do You Wanna Go Back?](https://open.spotify.com/album/7qic8qJMIY9BXUkeg8VivL) | 2:50 | 2025-11-23 | 2025-12-01 |
@@ -58,6 +59,7 @@
 | [Flowers](https://open.spotify.com/track/08gNkGaNGqRWMwXKxJ3TzZ) | [Slippery Trashmouf](https://open.spotify.com/artist/3IefXq8WnaX7xGfzjgopjv), [ProphetSixFour](https://open.spotify.com/artist/5YhmsnYfLroEjLEP6Zhhp0) | [Brain Buffet](https://open.spotify.com/album/3IJUcpKaTQcHT8irGVcb1Q) | 2:37 | 2025-12-28 |  |
 | [For Jim, I Loved You](https://open.spotify.com/track/0rGjYJnpPjCKkDrIMqriq9) | [San Jose](https://open.spotify.com/artist/4S7RqxJANGm2g4AmBQuCJr) | [For Jim, I Loved You](https://open.spotify.com/album/2IsN3SH50zAM8v810FWpQq) | 3:48 | 2025-12-18 | 2025-12-29 |
 | [Forever and a Day](https://open.spotify.com/track/1f3ENIIFLd67DajPERsgTH) | [Sonnet](https://open.spotify.com/artist/3ls4dfFZj167KBeapbQ6lv) | [Forever and a Day](https://open.spotify.com/album/4ePq5YLi7cb9dVw8RNijFL) | 3:07 | 2025-11-16 | 2025-11-24 |
+| [Frontier Radio](https://open.spotify.com/track/5tgDzjAKCuIh1XleRAgFeF) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 1:47 | 2026-01-16 |  |
 | [Fruit Flies](https://open.spotify.com/track/6rY8QNp26wvxJIZcOLpLLp) | [Semachos](https://open.spotify.com/artist/1CG5ZIyrRrIWEBMMu6cvLH) | [Fruit Flies](https://open.spotify.com/album/28WvifoppUEl3lL0iRmxfT) | 2:42 | 2025-12-13 | 2025-12-26 |
 | [Gas Station Coffee](https://open.spotify.com/track/7K0PLrZbF2FNsI4MHWSyaH) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 1:45 | 2025-12-14 |  |
 | [Gear Shift](https://open.spotify.com/track/3Bj56ERbU5174dIOCEv0dZ) | [SonicSpecter](https://open.spotify.com/artist/72fdXgZpUfzyrVP8S77xZJ), [Delta 89](https://open.spotify.com/artist/31ooOx9ekZDPZGJFDne9yU) | [Gear Shift](https://open.spotify.com/album/64xWCdkXzE4LJlc2Ly4rhZ) | 3:44 | 2025-12-13 | 2025-12-26 |
@@ -99,7 +101,7 @@
 | [Pesky Rain](https://open.spotify.com/track/6Q8jc9MeB97JUFyASh5o8U) | [Eleanor Hickey](https://open.spotify.com/artist/1onYQ6zhMsmt5yRvgwO4Rw) | [Pesky Rain](https://open.spotify.com/album/54yakR5tUjCAlLId0YzkDh) | 3:38 | 2025-11-16 |  |
 | [Play with My Ego](https://open.spotify.com/track/3G2VbE60uj5r1zFMOyqWYz) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [Play with My Ego](https://open.spotify.com/album/6UQmHByBb7otZ2nMK1tT8Y) | 3:08 | 2025-11-30 |  |
 | [Pontchartrain Beach](https://open.spotify.com/track/0lnNspmdFeUKUcsItuwkXo) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 2:44 | 2025-12-14 |  |
-| [Posers](https://open.spotify.com/track/5lDo83ASWT5BkJQtXPUmdh) | [Doss](https://open.spotify.com/artist/3csu8AxiaJammKmr2EPtSe) | [Posers](https://open.spotify.com/album/6WzoIYNawmqYwNFzZQOlTP) | 2:42 | 2026-01-11 |  |
+| [Posers](https://open.spotify.com/track/5lDo83ASWT5BkJQtXPUmdh) | [Doss](https://open.spotify.com/artist/3csu8AxiaJammKmr2EPtSe) | [Posers](https://open.spotify.com/album/6WzoIYNawmqYwNFzZQOlTP) | 2:42 | 2026-01-11 | 2026-01-17 |
 | [Resolve](https://open.spotify.com/track/3RpfSH6LHxSmobNd50FZo4) | [Socialites](https://open.spotify.com/artist/6viYhJ4Hkq8WrahWIOO1HR) | [Resolve](https://open.spotify.com/album/3OCIIDu3Yv1PfisV8LPHmL) | 4:37 | 2025-11-16 | 2025-12-01 |
 | [Run Away](https://open.spotify.com/track/4V0OaH2WJGf5iuDlQQAqju) | [Flair](https://open.spotify.com/artist/2FDBZdGWn8G6927XKL6cd4) | [Flair](https://open.spotify.com/album/2AfdH1P3nAPnYSzXBBplim) | 3:20 | 2025-11-16 |  |
 | [Scars](https://open.spotify.com/track/6KHI4YRxRA4CYq17tC0Rd4) | [Tom Collins](https://open.spotify.com/artist/1xNta7Lpbfs5kxVyCpMvgl) | [Scars](https://open.spotify.com/album/54FrVuIxgN0tATjPAw51WX) | 2:37 | 2025-12-18 |  |
@@ -131,5 +133,6 @@
 | [You \- You're All I Wanted](https://open.spotify.com/track/5QqtWZZkFXvP1A6IazZtO0) | [Beauty Sleep](https://open.spotify.com/artist/28Ok1CLqynsSq1X428Gj0U) | [The Whole Damn Cake](https://open.spotify.com/album/4uIRYDvvMsGHNwElSt1Rqr) | 3:28 | 2025-12-14 | 2025-12-19 |
 | [You Got It Wrong](https://open.spotify.com/track/0P6AaC57uvo5fJQbOZqvNi) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [You Got It Wrong](https://open.spotify.com/album/78SpUOmuLnaVsOCndsPbI1) | 3:55 | 2025-11-16 | 2025-11-24 |
 | [Your Loss](https://open.spotify.com/track/4uMQq8reW5LTIj938Oouk5) | [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv) | [Your Loss](https://open.spotify.com/album/2iXRJHc7glYDlTPbWzDneF) | 2:54 | 2025-11-16 |  |
+| [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2026-01-16 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

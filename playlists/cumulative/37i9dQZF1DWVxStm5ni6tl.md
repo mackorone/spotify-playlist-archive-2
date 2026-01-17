@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Maddee Ritter, Artwork: Isu Kim
 
-2,859 songs - 6 day 3 hr 11 min
+2,859 songs - 6 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,6 +1019,7 @@
 | [Hide](https://open.spotify.com/track/7rp5aEA1mcNxqRGJB8cl49) | [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Hide](https://open.spotify.com/album/2hCjKrpKYnQOFwds56SJQx) | 4:09 | 2024-05-15 | 2024-06-06 |
 | [High On You](https://open.spotify.com/track/3Sbf3VHkyZSTiHCZUhPHHY) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [High On You](https://open.spotify.com/album/0RdWoRN0HHygQcwoefgR8g) | 2:46 | 2025-04-02 | 2025-04-17 |
 | [High Tension](https://open.spotify.com/track/7gPDHHflcvKRbX2H7ROKZu) | [Teebee](https://open.spotify.com/artist/4aNxKsHJPOLxJS6uTsdW5t) | [High Tension](https://open.spotify.com/album/42d3Cs8rP6PEICKFWLXWeR) | 2:50 | 2023-08-16 | 2023-08-24 |
+| [High Vibration](https://open.spotify.com/track/58GcuQsfJ5dHaUX4nfUl3A) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [High Vibration](https://open.spotify.com/album/0OvvRvGZuMbMl7iM1AZZuz) | 3:20 | 2026-01-14 |  |
 | [Highway Money](https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi) | [Josh Stumpf](https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj) | [Highway Money](https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa) | 3:17 | 2025-04-30 | 2026-01-15 |
 | [Highways](https://open.spotify.com/track/5PT5OVJVrPzBEsdqawlq9B) | [Pony Girl](https://open.spotify.com/artist/4AHK4mLrsycTVKUQMAUsy0) | [Highways](https://open.spotify.com/album/4Bh4gu0Og5HJpiWlTSZZc4) | 4:57 | 2023-09-27 | 2023-10-12 |
 | [Hillside](https://open.spotify.com/track/3igHPQmE6HLNLDIpTNaJ1Y) | [Pvrx](https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ) | [Hillside](https://open.spotify.com/album/2wjrIUMwThHxKlj4gu4zcl) | 3:23 | 2023-10-18 | 2024-01-11 |
@@ -1154,6 +1155,7 @@
 | [I'M THE 1](https://open.spotify.com/track/6f5UTZUPNB1UDsUHnaSjHF) | [Gäelle](https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T) | [I'M THE 1](https://open.spotify.com/album/6NBXE3oYrQX0o3eTVR9iv1) | 2:55 | 2025-04-09 | 2025-04-17 |
 | [icarus](https://open.spotify.com/track/0KeDwscY6s88FvpXmkOFkQ) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [icarus](https://open.spotify.com/album/7L910vaTCRdASqypBoEsuH) | 3:29 | 2026-01-14 |  |
 | [Ici](https://open.spotify.com/track/5HJ9beWs5XyDhymqcDpKEo) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO), [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Ici](https://open.spotify.com/album/0DCb1SKRc2T2yKyoQI6pCQ) | 3:49 | 2024-11-06 | 2024-11-21 |
+| [IDC](https://open.spotify.com/track/2ye2tvHyJSOVzsTdm81s6Z) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [BEFORE I LEAVE YOUR MIND](https://open.spotify.com/album/1QdjBlKOJoSOAxveCyZAuN) | 2:42 | 2026-01-14 |  |
 | [IDK](https://open.spotify.com/track/1xowSeeP2GhPukDcr3bZ70) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE) | [Northside](https://open.spotify.com/album/3ty9OGJlns562i4GeVMiXF) | 2:48 | 2024-08-21 | 2024-09-19 |
 | [IDK](https://open.spotify.com/track/318TVrxrLkuRf0xQfbKR50) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE) | [IDK](https://open.spotify.com/album/5NIp9ynhBGaaDk7E7En4dJ) | 2:48 | 2023-10-25 | 2023-11-16 |
 | [If All We Have](https://open.spotify.com/track/720MF9WKcjiTsMiWJj4bWq) | [Sadé Awele](https://open.spotify.com/artist/7mxnGYkm5Bkm8bMAugnQZZ) | [Intuition](https://open.spotify.com/album/7h5QNoJBRVtsxovZv5e67Z) | 3:30 | 2024-03-27 | 2024-04-04 |
@@ -2592,8 +2594,6 @@
 | [Toxic \(to Me\)](https://open.spotify.com/track/3brWDMDsaHSfgrCSV7k3Go) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Toxic \(to Me\)](https://open.spotify.com/album/3WTNiGtLU1R6KHEGBhl4EN) | 3:17 | 2025-07-10 | 2025-07-31 |
 | [Toxic Temptress](https://open.spotify.com/track/4u1zWGPAu89gOiaMFLrqBG) | [Beauty in the Riot](https://open.spotify.com/artist/7owr28kbA6x7F5sCuzeh3m) | [To Do](https://open.spotify.com/album/2iY9PAEn46R9nLkfUmmmj4) | 1:54 | 2025-10-10 | 2025-10-23 |
 | [Tracer des lignes](https://open.spotify.com/track/19G5LnSJ7Gc3fuww6Q7oET) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [ok bebye](https://open.spotify.com/album/3o4TZjqq0E3DTyvkAzKHSi) | 3:09 | 2023-10-04 | 2023-10-26 |
-| [Track 1](https://open.spotify.com/track/58GcuQsfJ5dHaUX4nfUl3A) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-14 |  |
-| [Track 12](https://open.spotify.com/track/2ye2tvHyJSOVzsTdm81s6Z) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-14 |  |
 | [Trankilows](https://open.spotify.com/track/5DHLfS8t0iKMCcvQVzbvBn) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Trankilows](https://open.spotify.com/album/30xGiEytoewp92tTovjmIz) | 3:12 | 2024-08-07 | 2024-08-22 |
 | [Trembler](https://open.spotify.com/track/34dD2ftfurB927MOQsT5Uu) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Trembler](https://open.spotify.com/album/6iUitzMM04PySHV9Ez6M5W) | 2:38 | 2024-11-20 | 2024-12-05 |
 | [Tremors](https://open.spotify.com/track/4Z58ggf4sJnDfgfmfwGaBg) | [Celleste](https://open.spotify.com/artist/3tM3LCbkwu6JuDgLyPzMiE) | [Tremors](https://open.spotify.com/album/3KITPrwwqjZY9YcohoxsNP) | 2:51 | 2024-07-24 | 2024-08-22 |

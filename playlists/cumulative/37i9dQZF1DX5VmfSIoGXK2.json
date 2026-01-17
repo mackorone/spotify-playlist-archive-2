@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-02-26",
-  "description": "Our favorite Jazz House selections \ud83e\udd32 Featuring Godblesscomputers",
+  "description": "Our favorite Jazz House selections \ud83e\udd32 featuring Godblesscomputers",
   "name": "Jazz House",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 176450,
       "name": "35k",
       "url": "https://open.spotify.com/track/2zetGr1iFeihczuZ4IxmS3"
@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Boleta",
+        "url": "https://open.spotify.com/album/78mU9U7yIuttVzWVWGMbxK"
+      },
+      "artists": [
+        {
+          "name": "Aguava",
+          "url": "https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238139,
+      "name": "Boleta",
+      "url": "https://open.spotify.com/track/52ei2hcLKXEZd7MRDKqyLZ"
+    },
+    {
+      "album": {
         "name": "Bossa Love",
         "url": "https://open.spotify.com/album/62emtUMLEvcHSav4mQARmZ"
       },
@@ -634,7 +652,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 166000,
       "name": "Cold nights and city bike rides.",
       "url": "https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR"
@@ -1085,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Glimpses",
+        "url": "https://open.spotify.com/album/5d5nNbF2KDP4LQy6pOxzuw"
+      },
+      "artists": [
+        {
+          "name": "NRMNT",
+          "url": "https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207022,
+      "name": "Glimpses",
+      "url": "https://open.spotify.com/track/3XE67IbSDQQDOhfCM2pCo4"
+    },
+    {
+      "album": {
         "name": "Good Morning Neighbours (slowya.roll Version)",
         "url": "https://open.spotify.com/album/6dO3NuUEwaVhyQT5TU5RcC"
       },
@@ -1406,7 +1442,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 178512,
       "name": "If You Can't Trust Your Heart",
       "url": "https://open.spotify.com/track/5ls3ZBVoHvImuSA6S971sv"
@@ -1464,6 +1500,28 @@
       "duration_ms": 240626,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/4qRRX6SWTlmNVN8DKTHJqP"
+    },
+    {
+      "album": {
+        "name": "Island Of Vibes",
+        "url": "https://open.spotify.com/album/3ObQKUDBA3YPdE8mofro2B"
+      },
+      "artists": [
+        {
+          "name": "Nebulae Waves",
+          "url": "https://open.spotify.com/artist/1b3LQfWsgZxMeJOiuUriP2"
+        },
+        {
+          "name": "Moryla",
+          "url": "https://open.spotify.com/artist/679Cu2GnI3RBdkgaPxAsY0"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Island Of Vibes",
+      "url": "https://open.spotify.com/track/7jUIG9bGtK8djfjj8UuKjj"
     },
     {
       "album": {
@@ -1932,7 +1990,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 191612,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/4hLI1F3ChsMivSIW8lwNvR"
@@ -2164,7 +2222,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 230335,
       "name": "nice to meet u",
       "url": "https://open.spotify.com/track/4KSVktisrvNgo1qIJDe1lh"
@@ -2354,6 +2412,24 @@
       "duration_ms": 156611,
       "name": "nyc in 1940",
       "url": "https://open.spotify.com/track/6loDuwmsq6fazVxqqRhmcp"
+    },
+    {
+      "album": {
+        "name": "On My Heart",
+        "url": "https://open.spotify.com/album/7EcnFv8HZUI5yEwbBqd8N4"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342720,
+      "name": "On My Heart",
+      "url": "https://open.spotify.com/track/3PVHK6eCeKSv1MlPnsIEPO"
     },
     {
       "album": {
@@ -3440,6 +3516,24 @@
       "duration_ms": 159021,
       "name": "Would appear to be jazz.",
       "url": "https://open.spotify.com/track/7zM1h1j8HCCj7y27NC0J4t"
+    },
+    {
+      "album": {
+        "name": "You'll see.",
+        "url": "https://open.spotify.com/album/7r2XhelK0TCdCqOy2mx36k"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111071,
+      "name": "You'll see.",
+      "url": "https://open.spotify.com/track/0rTMuA7XXtrfAoFPemhZ8N"
     },
     {
       "album": {

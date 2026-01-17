@@ -1,28 +1,28 @@
 {
-  "description": "TEED delivers his gorgeous new album \ud83e\udd95 all the best indie dance tracks of the moment",
-  "num_followers": 877049,
+  "description": "NYC's Fcukers got so much swag \ud83d\uddfd all the best indie dance tracks of the moment",
+  "num_followers": 877001,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALdAnhH8fOA4vOEUit1aHL5xmRiI",
+  "snapshot_id": "AAAAANZx2dHVSGQhfI8F7aRGiKlf5qNF",
   "tracks": [
     {
-      "added_at": "2025-12-05 05:00:25",
+      "added_at": "2026-01-16 05:00:40",
       "album": {
-        "name": "Always With Me",
-        "url": "https://open.spotify.com/album/4E3yDqnMgUfLxRYH3LDkiE"
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
       },
       "artists": [
         {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 217513,
-      "name": "In Darkness",
-      "url": "https://open.spotify.com/track/7hqtAz51uS84jjOKfjgdIL"
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
     },
     {
       "added_at": "2025-11-28 21:07:36",
@@ -43,22 +43,54 @@
     {
       "added_at": "2026-01-09 05:00:42",
       "album": {
-        "name": "Peaches",
-        "url": "https://open.spotify.com/album/7BAnIgUIa3p2h2IXRnA8xB"
+        "name": "Future Chic EP",
+        "url": "https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2"
       },
       "artists": [
         {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "Davide Dev",
+          "url": "https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q"
         }
       ],
-      "duration_ms": 147243,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy"
+      "duration_ms": 167841,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
+        "name": "Always With Me",
+        "url": "https://open.spotify.com/album/4E3yDqnMgUfLxRYH3LDkiE"
+      },
+      "artists": [
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 217513,
+      "name": "In Darkness",
+      "url": "https://open.spotify.com/track/7hqtAz51uS84jjOKfjgdIL"
+    },
+    {
+      "added_at": "2026-01-16 05:00:40",
+      "album": {
+        "name": "Out Of Phase",
+        "url": "https://open.spotify.com/album/5UFWGzfVo9CKSrEWsRG9li"
+      },
+      "artists": [
+        {
+          "name": "Alexis Taylor",
+          "url": "https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX"
+        },
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        }
+      ],
+      "duration_ms": 285106,
+      "name": "Out Of Phase",
+      "url": "https://open.spotify.com/track/2Heb851vgYM6Vz1JIQnF3G"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -75,6 +107,38 @@
       "duration_ms": 171651,
       "name": "Best I've Found",
       "url": "https://open.spotify.com/track/0aTBWw56m2qpmy0WdEdjZq"
+    },
+    {
+      "added_at": "2026-01-09 05:00:42",
+      "album": {
+        "name": "god, give me a place",
+        "url": "https://open.spotify.com/album/1GT047wbcoeEBJoMvezZjA"
+      },
+      "artists": [
+        {
+          "name": "Holseek",
+          "url": "https://open.spotify.com/artist/6rtScDLmn7xeFY4F71v4e3"
+        }
+      ],
+      "duration_ms": 191238,
+      "name": "god, give me a place",
+      "url": "https://open.spotify.com/track/22d6jvRNt7kFS4vnumiwnZ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:40",
+      "album": {
+        "name": "Good Night Baby",
+        "url": "https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 261884,
+      "name": "Good Night Baby",
+      "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
     },
     {
       "added_at": "2026-01-09 17:12:50",
@@ -95,6 +159,26 @@
       "duration_ms": 276484,
       "name": "drifting - remix",
       "url": "https://open.spotify.com/track/0fiYgCHwsq1qx0lMlct6ch"
+    },
+    {
+      "added_at": "2026-01-16 05:00:40",
+      "album": {
+        "name": "When You Know",
+        "url": "https://open.spotify.com/album/1sbGuAdZa45lveOTQsOJFl"
+      },
+      "artists": [
+        {
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+        },
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "When You Know (feat. Elise Elvira)",
+      "url": "https://open.spotify.com/track/6liSKmKGY8mj9i52esqSNF"
     },
     {
       "added_at": "2025-11-21 05:00:38",
@@ -137,56 +221,20 @@
       "url": "https://open.spotify.com/track/3w0JdfQwc9Ylu8McS4llJr"
     },
     {
-      "added_at": "2025-11-21 05:00:38",
+      "added_at": "2026-01-16 05:00:40",
       "album": {
-        "name": "let em rock",
-        "url": "https://open.spotify.com/album/41H3SNuawNiAH3RACFAI3r"
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/15kmIY902kAjgmCl9YeC4D"
       },
       "artists": [
         {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+          "name": "Starwolf",
+          "url": "https://open.spotify.com/artist/3Ls05mIE3GrqAuTqjdWDGV"
         }
       ],
-      "duration_ms": 228984,
-      "name": "let em rock",
-      "url": "https://open.spotify.com/track/05qxjCX4kK6jSdkLWpMgaF"
-    },
-    {
-      "added_at": "2026-01-09 20:42:27",
-      "album": {
-        "name": "Cursive",
-        "url": "https://open.spotify.com/album/0MRxTXYO4SkugDYKatqTHr"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 266073,
-      "name": "Cursive",
-      "url": "https://open.spotify.com/track/5Ud40FOiL58RUYBYwEp7da"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
-        "name": "Falle Le Le Le (Joe Goddard Remix)",
-        "url": "https://open.spotify.com/album/413Y0RbHQbOntb8I2MlmLu"
-      },
-      "artists": [
-        {
-          "name": "Falle Nioke",
-          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
-        },
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 299262,
-      "name": "Falle Le Le Le - Joe Goddard Remix",
-      "url": "https://open.spotify.com/track/4pHvImk0hsOqKe3jQcagfE"
+      "duration_ms": 182226,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/7lkMWvf06hYwUEEzo5FhAd"
     },
     {
       "added_at": "2025-11-14 05:00:40",
@@ -205,36 +253,56 @@
       "url": "https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa"
     },
     {
-      "added_at": "2026-01-02 17:26:24",
+      "added_at": "2026-01-16 17:41:55",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/7aXyqdNlaSsdpxzmzIAkcj"
+        "name": "Busy DJ (David Bay Remix)",
+        "url": "https://open.spotify.com/album/7qqhI8kAoxZY4Eg0jFFpX6"
       },
       "artists": [
         {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        },
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
         }
       ],
-      "duration_ms": 309302,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/02pnMOuhlDIhb89haEyorN"
+      "duration_ms": 178773,
+      "name": "Busy DJ - David Bay Remix",
+      "url": "https://open.spotify.com/track/0spJ6WVrQ1HtaC8F64MVrU"
     },
     {
-      "added_at": "2026-01-09 05:00:42",
+      "added_at": "2026-01-16 22:07:27",
       "album": {
-        "name": "Future Chic EP",
-        "url": "https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2"
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy"
       },
       "artists": [
         {
-          "name": "Davide Dev",
-          "url": "https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q"
+          "name": "Just For Fun",
+          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
         }
       ],
-      "duration_ms": 167841,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
+      "duration_ms": 142501,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52"
+    },
+    {
+      "added_at": "2025-11-21 05:00:38",
+      "album": {
+        "name": "let em rock",
+        "url": "https://open.spotify.com/album/41H3SNuawNiAH3RACFAI3r"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "duration_ms": 228984,
+      "name": "let em rock",
+      "url": "https://open.spotify.com/track/05qxjCX4kK6jSdkLWpMgaF"
     },
     {
       "added_at": "2025-11-21 05:00:38",
@@ -251,6 +319,42 @@
       "duration_ms": 167400,
       "name": "Rest Easy",
       "url": "https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"
+    },
+    {
+      "added_at": "2026-01-16 05:00:40",
+      "album": {
+        "name": "Brew Boy (Bella Boo Remix)",
+        "url": "https://open.spotify.com/album/4pGlgcDWiRBpgOzEZxzWSM"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Eberdean",
+          "url": "https://open.spotify.com/artist/23E6p7XjlcNUPPpC05oJT0"
+        },
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "duration_ms": 210434,
+      "name": "Brew Boy - Bella Boo Remix",
+      "url": "https://open.spotify.com/track/4NaFbzQxRbxobtkriXzfpg"
+    },
+    {
+      "added_at": "2026-01-16 05:00:40",
+      "album": {
+        "name": "He Needs Me",
+        "url": "https://open.spotify.com/album/1mYuz5sGD07dHeLyq4dM0Y"
+      },
+      "artists": [
+        {
+          "name": "The Femcels",
+          "url": "https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "He Needs Me",
+      "url": "https://open.spotify.com/track/3aVX2Yh7Nshwzl1oh0AVru"
     },
     {
       "added_at": "2025-12-12 05:00:41",
@@ -273,22 +377,6 @@
       "url": "https://open.spotify.com/track/5L6O56OnIgL4QUW7NgYxOX"
     },
     {
-      "added_at": "2026-01-09 05:00:42",
-      "album": {
-        "name": "god, give me a place",
-        "url": "https://open.spotify.com/album/1GT047wbcoeEBJoMvezZjA"
-      },
-      "artists": [
-        {
-          "name": "Holseek",
-          "url": "https://open.spotify.com/artist/6rtScDLmn7xeFY4F71v4e3"
-        }
-      ],
-      "duration_ms": 191238,
-      "name": "god, give me a place",
-      "url": "https://open.spotify.com/track/22d6jvRNt7kFS4vnumiwnZ"
-    },
-    {
       "added_at": "2025-11-07 05:00:48",
       "album": {
         "name": "Giving Up On Words",
@@ -307,6 +395,90 @@
       "duration_ms": 178340,
       "name": "Drug In Us",
       "url": "https://open.spotify.com/track/6gqXlaxmQklLtiLvXnVovI"
+    },
+    {
+      "added_at": "2026-01-16 05:00:40",
+      "album": {
+        "name": "think & dream",
+        "url": "https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH"
+      },
+      "artists": [
+        {
+          "name": "altrice",
+          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "think & dream",
+      "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
+    },
+    {
+      "added_at": "2026-01-02 17:26:24",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/7aXyqdNlaSsdpxzmzIAkcj"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 309302,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/02pnMOuhlDIhb89haEyorN"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
+        "name": "Falle Le Le Le (Joe Goddard Remix)",
+        "url": "https://open.spotify.com/album/413Y0RbHQbOntb8I2MlmLu"
+      },
+      "artists": [
+        {
+          "name": "Falle Nioke",
+          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
+        },
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 299262,
+      "name": "Falle Le Le Le - Joe Goddard Remix",
+      "url": "https://open.spotify.com/track/4pHvImk0hsOqKe3jQcagfE"
+    },
+    {
+      "added_at": "2026-01-09 20:42:27",
+      "album": {
+        "name": "Cursive",
+        "url": "https://open.spotify.com/album/0MRxTXYO4SkugDYKatqTHr"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 266073,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/5Ud40FOiL58RUYBYwEp7da"
+    },
+    {
+      "added_at": "2026-01-16 05:00:40",
+      "album": {
+        "name": "Proxy",
+        "url": "https://open.spotify.com/album/6zO4YZkCMvtYS4kPof45j1"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Luchando",
+          "url": "https://open.spotify.com/artist/32ssrEXNswpY4dF56WYYZl"
+        }
+      ],
+      "duration_ms": 231329,
+      "name": "Proxy",
+      "url": "https://open.spotify.com/track/3QSGbIWB4yNHiu3eisxp4A"
     },
     {
       "added_at": "2025-12-12 05:00:41",
@@ -375,22 +547,6 @@
       "duration_ms": 277838,
       "name": "Better Let It Go",
       "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
-    },
-    {
-      "added_at": "2025-11-14 05:00:40",
-      "album": {
-        "name": "Somersaults",
-        "url": "https://open.spotify.com/album/5OhRJIS4bSB5xPWIS875HS"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 174338,
-      "name": "Somersaults",
-      "url": "https://open.spotify.com/track/2bAxlpGBYcn03ghPQ9xwwB"
     },
     {
       "added_at": "2026-01-02 17:26:24",
@@ -485,6 +641,26 @@
       "url": "https://open.spotify.com/track/41PIXqq9CalEACV8zLMiJ7"
     },
     {
+      "added_at": "2026-01-09 05:00:42",
+      "album": {
+        "name": "Peaches",
+        "url": "https://open.spotify.com/album/7BAnIgUIa3p2h2IXRnA8xB"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 147243,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy"
+    },
+    {
       "added_at": "2025-09-12 04:00:16",
       "album": {
         "name": "Better",
@@ -503,26 +679,6 @@
       "duration_ms": 238320,
       "name": "Better",
       "url": "https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh"
-    },
-    {
-      "added_at": "2025-12-12 05:00:41",
-      "album": {
-        "name": "Swordfish",
-        "url": "https://open.spotify.com/album/0WDJYBUOl1HGeGsIYspOp1"
-      },
-      "artists": [
-        {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
-        },
-        {
-          "name": "Isaiah Michael Davis",
-          "url": "https://open.spotify.com/artist/68mJqoC3ozybysPjguTd7j"
-        }
-      ],
-      "duration_ms": 207584,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/2iOJRyb1WwNPNdiEwrM2bv"
     },
     {
       "added_at": "2025-11-21 05:00:38",
@@ -575,22 +731,6 @@
       "duration_ms": 111633,
       "name": "are you real?",
       "url": "https://open.spotify.com/track/47OHDjvXButGSjlmb7zfyW"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
-        "name": "The Music",
-        "url": "https://open.spotify.com/album/3uzHlXHPBgf7qQaz5dOi7e"
-      },
-      "artists": [
-        {
-          "name": "HARLEY GIRL",
-          "url": "https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao"
-        }
-      ],
-      "duration_ms": 126926,
-      "name": "Nobody (Like You)",
-      "url": "https://open.spotify.com/track/2ua4P7zVjvyDp54hhGEALs"
     },
     {
       "added_at": "2025-11-14 05:00:40",
@@ -1069,26 +1209,6 @@
       "url": "https://open.spotify.com/track/55yBtybjHTl4criqkcwdZf"
     },
     {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1NUHdBTvmrJ7KumTFDePzn"
-      },
-      "artists": [
-        {
-          "name": "Bad Colours",
-          "url": "https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX"
-        },
-        {
-          "name": "Jarv Dee",
-          "url": "https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u"
-        }
-      ],
-      "duration_ms": 125531,
-      "name": "Nightcap",
-      "url": "https://open.spotify.com/track/1uc3dca1LCaPcMXzLizlCJ"
-    },
-    {
       "added_at": "2025-10-17 04:00:57",
       "album": {
         "name": "Hard To Forget U",
@@ -1199,26 +1319,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "the time",
-        "url": "https://open.spotify.com/album/6tG3LSQaSE9hBKylnA5Gr8"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Tabi",
-          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
-        }
-      ],
-      "duration_ms": 122386,
-      "name": "the time",
-      "url": "https://open.spotify.com/track/7DECteJjqNfryTmWFgG1Q9"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "I told ya",
         "url": "https://open.spotify.com/album/12RkrZxeDy1usKwyEYhna8"
       },
@@ -1231,22 +1331,6 @@
       "duration_ms": 164705,
       "name": "I told ya",
       "url": "https://open.spotify.com/track/2p62Qdz5g4rW0lEmF6QEM7"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
-        "name": "Gave My All (Like A Star)",
-        "url": "https://open.spotify.com/album/6CkkLBBNOAxHUgt27Lz4lf"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 172345,
-      "name": "Gave My All (Like A Star)",
-      "url": "https://open.spotify.com/track/30IRMPRrkEbIiIfTrKmjgb"
     },
     {
       "added_at": "2025-09-26 04:00:18",
@@ -1411,38 +1495,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/3rZYOpSRkLfxlyX7Gx1Wn2"
-      },
-      "artists": [
-        {
-          "name": "Super Duper",
-          "url": "https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj"
-        }
-      ],
-      "duration_ms": 205764,
-      "name": "Time For My Soul",
-      "url": "https://open.spotify.com/track/1x3Ulc3uBNEfqcDSLFOy9z"
-    },
-    {
-      "added_at": "2025-09-12 04:00:16",
-      "album": {
-        "name": "Every Single Sound / Such A Shame",
-        "url": "https://open.spotify.com/album/4wCR9UWUR1WcOBOtN59SY7"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 172141,
-      "name": "Such A Shame",
-      "url": "https://open.spotify.com/track/6FvQarIVRdFWf0MIemFtLw"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Main Event",
         "url": "https://open.spotify.com/album/7aWE3QNvesLISCJFt0UtWO"
       },
@@ -1549,22 +1601,6 @@
       "url": "https://open.spotify.com/track/7B8MbvpzBhbhYf3xvzHbba"
     },
     {
-      "added_at": "2025-09-26 04:00:18",
-      "album": {
-        "name": "Sharks In The Water",
-        "url": "https://open.spotify.com/album/1fDbSDND9l2k1KugiZfQOE"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 154141,
-      "name": "Sharks In The Water",
-      "url": "https://open.spotify.com/track/6X4GH7Rs3Yy286wwZVoBYQ"
-    },
-    {
       "added_at": "2025-09-05 04:00:22",
       "album": {
         "name": "MOVEMENT",
@@ -1617,26 +1653,6 @@
       "url": "https://open.spotify.com/track/6HyYYntudMb4G7hTe57hPA"
     },
     {
-      "added_at": "2025-09-12 04:00:16",
-      "album": {
-        "name": "Let It Go, Baby / WICMEISYF",
-        "url": "https://open.spotify.com/album/78AdCpZlG4W7s6cFFlFlY9"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        },
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 154163,
-      "name": "WICMEISYF",
-      "url": "https://open.spotify.com/track/25x8TF82cwaxVLwBzChFER"
-    },
-    {
       "added_at": "2025-09-05 04:00:22",
       "album": {
         "name": "Tidal Wave",
@@ -1651,22 +1667,6 @@
       "duration_ms": 228918,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/2wZhZYuCFpoSElWEQq3Tt5"
-    },
-    {
-      "added_at": "2025-09-12 04:00:16",
-      "album": {
-        "name": "joey knows",
-        "url": "https://open.spotify.com/album/4rgk5KtWWRkRyInnZiNmhX"
-      },
-      "artists": [
-        {
-          "name": "dance arts center",
-          "url": "https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "joey knows",
-      "url": "https://open.spotify.com/track/0m5RQJVdPvsZwx4DYfUg5o"
     },
     {
       "added_at": "2025-08-01 04:00:40",

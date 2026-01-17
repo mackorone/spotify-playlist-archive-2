@@ -6249,6 +6249,28 @@
     },
     {
       "album": {
+        "name": "Sunbeam",
+        "url": "https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk"
+      },
+      "artists": [
+        {
+          "name": "ASHWYN",
+          "url": "https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd"
+        },
+        {
+          "name": "Gurl",
+          "url": "https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G"
+    },
+    {
+      "album": {
         "name": "SUNNY AFTERNOON",
         "url": "https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y"
       },
@@ -6858,7 +6880,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 155838,
       "name": "Waiting On",
       "url": "https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0"

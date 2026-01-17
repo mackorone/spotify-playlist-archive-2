@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "El D\u00eda que me Olvides",
+        "url": "https://open.spotify.com/album/5dr5f9aeHuDORZXkJIQWGB"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205846,
+      "name": "Como una rata",
+      "url": "https://open.spotify.com/track/3UTUDsyEvHsl9whFbbvjxG"
+    },
+    {
+      "album": {
         "name": "Como Yo Te Amo",
         "url": "https://open.spotify.com/album/4RzQY8KwH0IoZnhdZc1ggX"
       },
@@ -7163,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/035oMmeUfe4gWg8FvSsckf"
+      },
+      "artists": [
+        {
+          "name": "Dura Cal\u00e1",
+          "url": "https://open.spotify.com/artist/5BDC4rtXMlciP14WGwwKsw"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196544,
+      "name": "La Suerte",
+      "url": "https://open.spotify.com/track/33hw37ABEyRW0IeC3KE6Zz"
+    },
+    {
+      "album": {
         "name": "La tierra de nunca jam\u00e1s",
         "url": "https://open.spotify.com/album/0Y9ccsrydKJIjbVVxkttzc"
       },
@@ -7886,7 +7922,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 243164,
       "name": "Los asombros",
       "url": "https://open.spotify.com/track/1NR3Npg2MnDT43VbB45z0s"
@@ -10348,7 +10384,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 173226,
       "name": "Pienso en Aquella Tarde",
       "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
@@ -10450,7 +10486,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 173533,
       "name": "Pongamos Que Hablo de Madrid",
       "url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
@@ -11010,7 +11046,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr"

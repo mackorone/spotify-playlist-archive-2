@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-290 songs - 17 hr 36 min
+293 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 | 2021-12-10 | 2025-06-30 |
 | [Big Prayers](https://open.spotify.com/track/0bZRv3Vh13qKj6E2OpNDwV) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Big Prayers](https://open.spotify.com/album/4AOd6TGN4Rqx3E1ZvgBtMF) | 3:27 | 2023-04-07 |  |
 | [Big Tent Revival](https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Big Tent Revival](https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro) | 3:38 | 2022-08-20 | 2024-10-12 |
+| [Bigger Picture \- Demo](https://open.spotify.com/track/2RgHwSfgQR6g1xqxV9P07m) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:36 | 2026-01-16 |  |
 | [Blessed Beyond Believin'](https://open.spotify.com/track/5KisXZeI0uzWFyYBHoexy1) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/3TFEza0C8FxbxxAKMPC0X8) | 3:49 | 2022-08-01 | 2024-04-19 |
 | [Blessed Beyond Believin'](https://open.spotify.com/track/7Jl0CPkdNrarmkBt6QJwUI) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/68GS4wGbEr9qpkNjidH1eS) | 3:49 | 2021-12-10 | 2025-06-30 |
 | [Blessings](https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:18 | 2021-12-10 | 2025-09-27 |
@@ -239,6 +240,7 @@
 | [Tell Somebody 'Bout You](https://open.spotify.com/track/4L4wkF5VyUrFXVSp5TPt1T) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Tell Somebody 'Bout You](https://open.spotify.com/album/3nYkJBH8aukTHcj3AacU22) | 3:56 | 2022-11-18 |  |
 | [Tell Somebody 'bout You](https://open.spotify.com/track/7Cf1zlZsFA2JzlbcDkEacw) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Tell Somebody 'bout You](https://open.spotify.com/album/3NPimD4mtfgvqJ0x1PLVqa) | 3:56 | 2024-02-16 | 2024-04-19 |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-09 |  |
+| [That Bible](https://open.spotify.com/track/7oZVzSu7nxiutgT0K3xnEf) | [Kaleb Kaps](https://open.spotify.com/artist/7nywTovJnYpiT6i91WaCTv) | [That Bible](https://open.spotify.com/album/1ZbZwBqAQc7CJJUGGkEh5X) | 3:25 | 2026-01-16 |  |
 | [That Old King James](https://open.spotify.com/track/5NacrWDvEXJzqO2FyT3Wpe) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Clear As Day](https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc) | 3:28 | 2021-12-10 |  |
 | [That's What I Love About Sunday](https://open.spotify.com/track/7vxRD4BOqSU2Lh7QAoE5ru) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [The Journey \(Livin' Hits\)](https://open.spotify.com/album/3q3vQKnkRSqCjjTAc6I5ai) | 3:17 | 2021-12-10 | 2025-06-30 |
 | [That’s God](https://open.spotify.com/track/32RsPGjvELIqW3TjPKVF3a) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Unmistakable Inspiration](https://open.spotify.com/album/4TyigJCY5sR7QXp7xo1MJ1) | 4:42 | 2022-03-04 |  |
@@ -298,5 +300,6 @@
 | [You and Jesus](https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus](https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT) | 2:50 | 2022-04-15 |  |
 | [You Are](https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Deluxe\)](https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI) | 2:56 | 2022-08-12 |  |
 | [You Can Rest](https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [You Can Rest](https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF) | 4:48 | 2022-04-15 |  |
+| [You Lately](https://open.spotify.com/track/1h4qDuxfpHz1wsE2mHfKPz) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [You Lately](https://open.spotify.com/album/7eT0rnRmAvsQvVtbV3YnHq) | 4:08 | 2026-01-16 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

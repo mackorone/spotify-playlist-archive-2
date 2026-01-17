@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが2026年に躍進を期待する次世代アーティスト 「RADAR: Early Noise 2026」を発表! Cover: Maverick Mom
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,643 likes - 31 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,642 likes - 31 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

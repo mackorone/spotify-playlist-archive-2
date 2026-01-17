@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-764 songs - 1 day 12 hr 28 min
+765 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Badmashia](https://open.spotify.com/track/40g99EnVyvocZZYHLCiyxv) | [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Badmashia](https://open.spotify.com/album/00BiLxMo9j4BrKsGvpjYSO) | 2:41 | 2024-06-28 | 2024-07-09 |
 | [Badshah](https://open.spotify.com/track/0WaHi9IeuUxIbeQ6Bsmf6N) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [No\-B](https://open.spotify.com/artist/0BjAEbhzlrdPrKWc0GUBN3) | [Badshah](https://open.spotify.com/album/5QnVCsOQGypYatKCksdc7D) | 2:43 | 2025-11-06 | 2025-12-10 |
 | [Bai Bai](https://open.spotify.com/track/2Hb0FPA15GxnAhnLIyDeuh) | [Nav Meet](https://open.spotify.com/artist/3B59MsCySivKuN3qRePPOb) | [Bai Bai](https://open.spotify.com/album/7b24LEvxmdWknkkzLN092i) | 2:49 | 2024-01-05 | 2024-01-12 |
-| [Bai De Bande](https://open.spotify.com/track/1KrL0hYfF3Y9gUrVTrsmJv) | [Navyaar](https://open.spotify.com/artist/123otJRZEIBmJ1A2elFQDB), [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Bai De Bande](https://open.spotify.com/album/5agolR4BjnJE9iRwD13nnY) | 2:34 | 2025-11-26 |  |
+| [Bai De Bande](https://open.spotify.com/track/1KrL0hYfF3Y9gUrVTrsmJv) | [Navyaar](https://open.spotify.com/artist/123otJRZEIBmJ1A2elFQDB), [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Bai De Bande](https://open.spotify.com/album/5agolR4BjnJE9iRwD13nnY) | 2:34 | 2025-11-26 | 2026-01-17 |
 | [BAIL OUT](https://open.spotify.com/track/5gTzCkAm2LOZ8jASOKU7MK) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [BAIL OUT](https://open.spotify.com/album/0HqSzO5p1DlWEmafKufFay) | 2:35 | 2025-10-15 |  |
 | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/track/5mI9DkGHYEBh2iRP86FBA8) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k) | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/album/0D8tlH2jLCIO1nOU2osIq9) | 2:50 | 2024-02-13 | 2024-02-24 |
 | [Balcony](https://open.spotify.com/track/6qDHgeUBJFKYAGPBj3eVD6) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:43 | 2023-03-29 | 2023-07-15 |
@@ -264,6 +264,7 @@
 | [Gangwar](https://open.spotify.com/track/5Jne7YAvtp1SUQUYtQC8oz) | [Gurman Gill](https://open.spotify.com/artist/56WAK4bABVQfz1sElUDJai), [Ash Dhillon](https://open.spotify.com/artist/1BFd3Y6AGLefGCA1qV7q5U), [Arman Isru](https://open.spotify.com/artist/45sDZFNNvg253CZh6jXycV) | [Gangwar](https://open.spotify.com/album/3MxsfNYTKWY1LX9vqA0zRU) | 3:22 | 2026-01-14 |  |
 | [Gears](https://open.spotify.com/track/1pDouKngSQ68EnQZLsqOJQ) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Gears](https://open.spotify.com/album/4L90juD2dYHLXKlhdnYuDy) | 2:34 | 2023-09-11 | 2024-02-21 |
 | [GEMZ](https://open.spotify.com/track/5MaJjEwY5IM3v1t6UOIxms) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [GEMZ](https://open.spotify.com/album/4vIZA6reUyU9vdXg3JIAjz) | 3:26 | 2024-04-24 | 2024-05-01 |
+| [Get at Me](https://open.spotify.com/track/6z47zAU8QJudmMAWQNC6ag) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Flex Singh](https://open.spotify.com/artist/2iEbXi1JTSaJh7bxi1qTI2) | [Get at Me](https://open.spotify.com/album/6eK0qFis78BGBFrqQnzowI) | 4:08 | 2026-01-16 |  |
 | [Ghode Nasli](https://open.spotify.com/track/0XHheXz9NGstW7tVxBJ8Qy) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [New Order](https://open.spotify.com/album/2Wz1JsCb2VN3mNMy10nmK7) | 3:07 | 2024-02-20 | 2024-05-29 |
 | [Glance](https://open.spotify.com/track/72J8WSzWwpGt3v9hlrinhi) | [Harman Kang](https://open.spotify.com/artist/4jAlSmviG9I3J8O7MrEYzN), [Shaitan](https://open.spotify.com/artist/17vchXZLm7Ci6rNodZA0vz), [Garhi](https://open.spotify.com/artist/6SGe8mSKH4IT2EXG4z6Xk7) | [Glance](https://open.spotify.com/album/040Msvy15UJ5lPyp3npWdl) | 2:09 | 2025-08-06 | 2025-08-13 |
 | [Glock \- From Tufang](https://open.spotify.com/track/616Q2ytAFVzNcfHDUn25PT) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Glock \(From Tufang\)](https://open.spotify.com/album/5il5FEoX2N3wqsIlBxVT4I) | 2:26 | 2023-06-13 | 2024-04-20 |

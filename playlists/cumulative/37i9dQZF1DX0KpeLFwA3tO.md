@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: DZ Deathrays
 
-2,956 songs - 6 day 3 hr 31 min
+2,956 songs - 6 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Cool Moderator](https://open.spotify.com/track/43kHYRjXpqgaq2e8F6skLf) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Cool Moderator](https://open.spotify.com/album/4K3htxHouNm3YG8jLEF6OR) | 2:19 | 2024-07-25 | 2024-09-21 |
 | [Cool, Nice.](https://open.spotify.com/track/77amPvUIO231fwujMSAVXb) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Cool, Nice.](https://open.spotify.com/album/3A53U7KZ3BDrE861A7tEQk) | 2:55 | 2022-06-30 | 2022-08-12 |
 | [Cooler Talk](https://open.spotify.com/track/6vSaCAHXzSSs9g4q2MtsWJ) | [Bacchae](https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8) | [Cooler Talk](https://open.spotify.com/album/7yeC7GDK72IbmZeUkfph15) | 3:07 | 2024-07-04 | 2024-08-16 |
+| [Cope In The Coma](https://open.spotify.com/track/7x8kQyWDkAhVqSggGZuldF) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Severed Heart City](https://open.spotify.com/album/0XWdKiMDlAU5Lsfkmpxpql) | 3:36 | 2026-01-16 |  |
 | [Copper Bones](https://open.spotify.com/track/40Kf7flq4RQtJ8yyvriI0K) | [CATPISS](https://open.spotify.com/artist/5Ll0JgZLLDTgq7EXQfT46p) | [Copper Bones](https://open.spotify.com/album/5TMpnc4TjUEiD1ppczQzrp) | 1:49 | 2025-11-21 |  |
 | [COPS](https://open.spotify.com/track/03zwQPyJoitvT5QgFdKbAc) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [COPS](https://open.spotify.com/album/5uM1dttLom7agEVTzmXcYT) | 2:07 | 2024-08-29 | 2024-10-25 |
 | [Cortana](https://open.spotify.com/track/5S8uaR4agezNu546qCj9oq) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Cortana](https://open.spotify.com/album/0KEX1AH5HtdSdVfTGyLrKh) | 3:41 | 2024-08-23 | 2024-10-11 |
@@ -2037,7 +2038,7 @@
 | [Prokrastination](https://open.spotify.com/track/08FduHtGjy4e0mnnljLb36) | [Alarmbaby](https://open.spotify.com/artist/7N3qylDi4iIlLaNEycflkq) | [Chaos](https://open.spotify.com/album/0YOr9pWIknD5wrVrkJBAYS) | 3:25 | 2024-07-18 | 2024-09-06 |
 | [Promises](https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 4:23 | 2025-10-02 | 2025-12-05 |
 | [Promises Broken](https://open.spotify.com/track/3AAtOsNxNuJ7YA7cVa1Kcz) | [Reviler](https://open.spotify.com/artist/5vriZzu0rYeHkWoZ9r2Dp5) | [Devastation](https://open.spotify.com/album/14CX7obhYfTmp9o4iEcBB8) | 2:35 | 2024-07-04 | 2024-08-16 |
-| [Proud](https://open.spotify.com/track/1uWB5c47IyRjKxXRtVvQ7Q) | [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [](https://open.spotify.com/album/null) | 4:26 | 2026-01-16 |  |
+| [Proud](https://open.spotify.com/track/1uWB5c47IyRjKxXRtVvQ7Q) | [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [I Promised The World](https://open.spotify.com/album/1EXpf001uNajFTN22UdSkr) | 4:26 | 2026-01-16 |  |
 | [Prozak, Etumina y Haloperidol](https://open.spotify.com/track/1bR2QoVmgV3b4wbVVZ3VUj) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Prozak, Etumina y Haloperidol](https://open.spotify.com/album/3ddUlQ4oxiHCjpzoRzG0xu) | 3:14 | 2024-11-29 | 2025-02-14 |
 | [Psychic Attack](https://open.spotify.com/track/51iihv2nFYbbQzqRl3pxw1) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Psychic Attack](https://open.spotify.com/album/4BKWWF0ncdBBrdGwK7R76T) | 4:19 | 2024-10-04 | 2025-01-17 |
 | [Psychic Jailbreak](https://open.spotify.com/track/2CFCzifspMOF9GJkb67ucV) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Psychic Jailbreak](https://open.spotify.com/album/68GoH2CL71TtFdL7TgQ1HG) | 3:03 | 2022-02-11 | 2022-03-18 |
@@ -2681,7 +2682,6 @@
 | [TOXIC \(with POORSTACY\)](https://open.spotify.com/track/75FYDtqlseNpc63QjHazO6) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [TOXIC \(with POORSTACY\)](https://open.spotify.com/album/0AJOcyb81Xh2KiuCfUQhiI) | 2:28 | 2022-03-31 | 2022-05-21 |
 | [Toxic Love](https://open.spotify.com/track/3M0J5hXymCJCdQEZAhE3G4) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Toxic Love](https://open.spotify.com/album/07KrQlLZk6ysQYVAURaAw1) | 2:21 | 2022-05-12 | 2022-06-24 |
 | [Toxic Trait](https://open.spotify.com/track/3kMn8LV1QPBfZXZ0TTS0Pn) | [Free Friends](https://open.spotify.com/artist/4sWKMQMxKMdfZNWsozaGNZ), [Ben DeHan](https://open.spotify.com/artist/6NOcwcPdofGYv0UfUojN09), [Pine Creek Academy](https://open.spotify.com/artist/6YqPhD2w2y0GE4fOhZio47) | [Toxic Trait](https://open.spotify.com/album/4NWQQn6gsw5NOC1eWk1xoV) | 3:22 | 2025-05-30 | 2025-07-25 |
-| [Track 10](https://open.spotify.com/track/7x8kQyWDkAhVqSggGZuldF) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-16 |  |
 | [Traffic Lights](https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB) | [Bikini Beach](https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp) | [Traffic Lights](https://open.spotify.com/album/61AYogut6rSU9Zr8w9eLOK) | 2:09 | 2022-10-06 | 2022-11-18 |
 | [Trail of Lies](https://open.spotify.com/track/4VhckYGc9j3unz0Btz2Dd4) | [Pluto The Racer](https://open.spotify.com/artist/5JOYHHF1xocXGsPuQHn3qB) | [Trail of Lies](https://open.spotify.com/album/36YGrt1WlmTl0L3rH8Jksn) | 3:25 | 2024-12-06 | 2025-02-14 |
 | [Trans Youth](https://open.spotify.com/track/0lzq9WLqSlKMoGHRXUlDoC) | [Neighbours Burning Neighbours](https://open.spotify.com/artist/4GQw6nVpgVMHCgUnEdUslh) | [Trans Youth](https://open.spotify.com/album/1qsnpATTwO2ryktzueWttL) | 4:55 | 2024-09-12 | 2024-11-01 |

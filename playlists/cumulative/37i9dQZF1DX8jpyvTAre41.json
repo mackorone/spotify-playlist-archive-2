@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Softcult",
+  "description": "The best rock songs of the moment. Cover: The Beaches",
   "name": "Rock Now",
   "tracks": [
     {
@@ -50,6 +50,24 @@
       "duration_ms": 232964,
       "name": "+Matter",
       "url": "https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya"
+    },
+    {
+      "album": {
+        "name": "007",
+        "url": "https://open.spotify.com/album/4tFAsnha5JJuUYn1plJJI9"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170826,
+      "name": "007",
+      "url": "https://open.spotify.com/track/2GikvXlSzcrm7cXXkSkhYN"
     },
     {
       "album": {
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 218000,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/6P3ulqMerWlqHoITMV3Qbk"
@@ -2386,6 +2404,24 @@
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
+    },
+    {
+      "album": {
+        "name": "Beer and Blood Stains",
+        "url": "https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199747,
+      "name": "Beer and Blood Stains",
+      "url": "https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0"
     },
     {
       "album": {
@@ -3764,7 +3800,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 197704,
       "name": "Burn in Heaven",
       "url": "https://open.spotify.com/track/3JouCwLvnyyKE58ZYJqdxQ"
@@ -4236,7 +4272,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 223066,
       "name": "Castaway - Demo",
       "url": "https://open.spotify.com/track/2VnEyXzfafwIJHbPQAPKsn"
@@ -4900,7 +4936,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 203961,
       "name": "come around",
       "url": "https://open.spotify.com/track/3edjiwGzN2je2P4wAK4fjl"
@@ -5232,7 +5268,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 201290,
       "name": "Creatures of Chaos (feat. Tyler Connolly of Theory of a Deadman)",
       "url": "https://open.spotify.com/track/6qfhEaDclQ4LY2njxWQ3pv"
@@ -5380,6 +5416,24 @@
       "duration_ms": 165215,
       "name": "Cut Me Loose",
       "url": "https://open.spotify.com/track/5OkKRSGDSVISuXEYQIWx6z"
+    },
+    {
+      "album": {
+        "name": "Cut My Bangs",
+        "url": "https://open.spotify.com/album/0OBrNzz6IApqLPohwQLgqI"
+      },
+      "artists": [
+        {
+          "name": "Miesha and the Spanks",
+          "url": "https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Cut My Bangs",
+      "url": "https://open.spotify.com/track/4G7FCOlyUKOmsDSg6a2snD"
     },
     {
       "album": {
@@ -5708,7 +5762,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 108191,
       "name": "Day Drunk",
       "url": "https://open.spotify.com/track/5qwpqGXExrlKvt00FNp5PU"
@@ -6026,7 +6080,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 133825,
       "name": "Dementia",
       "url": "https://open.spotify.com/track/2lGVVw8dk9Az3riqrxvu7J"
@@ -6156,7 +6210,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 216424,
       "name": "Diamond In The Rough (feat. Marty Friedman)",
       "url": "https://open.spotify.com/track/09wFyfVHuZRDbeFqeKeutK"
@@ -6210,7 +6264,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 182571,
       "name": "Dionysus",
       "url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1"
@@ -6524,6 +6578,32 @@
       "duration_ms": 211253,
       "name": "Don't Wanna Go Home Tonight",
       "url": "https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ"
+    },
+    {
+      "album": {
+        "name": "Don't You (Forget About Me) (feat. Tyler Connolly of Theory Of A Deadman)",
+        "url": "https://open.spotify.com/album/5Vjtjj0wf6brHmG28mggqb"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        },
+        {
+          "name": "Tyler Connolly",
+          "url": "https://open.spotify.com/artist/2DESRaDBoUXCP99tRK9DJ0"
+        },
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288287,
+      "name": "Don\u2019t You (Forget About Me) (feat. Tyler Connolly of Theory Of A Deadman)",
+      "url": "https://open.spotify.com/track/4I35mtMVz94Y1bTl3py3cW"
     },
     {
       "album": {
@@ -7226,7 +7306,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 215789,
       "name": "End for a Start",
       "url": "https://open.spotify.com/track/2Bg0MIq5tFpnGoHnegzYQQ"
@@ -7714,7 +7794,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 384946,
       "name": "Exit - Marie Laveau Sessions",
       "url": "https://open.spotify.com/track/4GbGKc3jakgK0AuU2MWHRB"
@@ -8710,7 +8790,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 176485,
       "name": "Force a Metamorphosis",
       "url": "https://open.spotify.com/track/0ylLpY8VEtpEeuamGWHuYE"
@@ -8948,7 +9028,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 166120,
       "name": "Freaking Me Out",
       "url": "https://open.spotify.com/track/4C2DglvFgGgEHbl7Xwnyna"
@@ -9140,6 +9220,24 @@
       "duration_ms": 167904,
       "name": "Funny Face",
       "url": "https://open.spotify.com/track/7ons0lEC6ucxkg01qNCjLV"
+    },
+    {
+      "album": {
+        "name": "Knuckle Breaker Maxxx",
+        "url": "https://open.spotify.com/album/5KrARfNHWfiWx6QQu11XFD"
+      },
+      "artists": [
+        {
+          "name": "Goodbye Karelle",
+          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181766,
+      "name": "Funny People",
+      "url": "https://open.spotify.com/track/4rB1P6Rfdf3QEhMxDk0Tfx"
     },
     {
       "album": {
@@ -10074,7 +10172,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 184555,
       "name": "Hanging On To Thunder (feat. Stand Atlantic)",
       "url": "https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR"
@@ -10594,6 +10692,24 @@
       "duration_ms": 168270,
       "name": "High Horse",
       "url": "https://open.spotify.com/track/3kgNYBRqrY5cfKjypJEUKr"
+    },
+    {
+      "album": {
+        "name": "High Vibration",
+        "url": "https://open.spotify.com/album/0OvvRvGZuMbMl7iM1AZZuz"
+      },
+      "artists": [
+        {
+          "name": "Stuck On Planet Earth",
+          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200196,
+      "name": "High Vibration",
+      "url": "https://open.spotify.com/track/58GcuQsfJ5dHaUX4nfUl3A"
     },
     {
       "album": {
@@ -11585,6 +11701,24 @@
     },
     {
       "album": {
+        "name": "I Ran (So Far Away)",
+        "url": "https://open.spotify.com/album/21s176tybfcUTuxBp0UdCV"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211031,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/2tFcYLM3T3PWy0SsGHwOkv"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -11870,7 +12004,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 122250,
       "name": "In the Clouds",
       "url": "https://open.spotify.com/track/7LcxF1Je43rkivs0LM1cI1"
@@ -12270,7 +12404,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 185479,
       "name": "Jennifer's Body",
       "url": "https://open.spotify.com/track/1CqYEKZogjCeGmkFkrP6LG"
@@ -12717,6 +12851,24 @@
     },
     {
       "album": {
+        "name": "Keep Out Of The Storm",
+        "url": "https://open.spotify.com/album/3TkOdfgkfdb4gyvUxNmVp6"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "Keep Out Of The Storm",
+      "url": "https://open.spotify.com/track/0W5u5QIu03OWc6DNYJVYPJ"
+    },
+    {
+      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -12746,7 +12898,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 236082,
       "name": "Key Entity Extraction IX - Shiloh The Selfish",
       "url": "https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6"
@@ -13356,7 +13508,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 148198,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/6r46vumThnlUaNsojmR0vs"
@@ -14346,6 +14498,24 @@
       "duration_ms": 241579,
       "name": "Lonely is the Muse",
       "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
+    },
+    {
+      "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/5c4UhBP7GNKPTgMpfIKmiR"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235984,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/6KfSgraUs6QSf1onUEoIXb"
     },
     {
       "album": {
@@ -16968,7 +17138,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 208654,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/5JOMPIPaH3cEHoQFyyrZNN"
@@ -17076,7 +17246,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 123833,
       "name": "Not in Your Mouth None of Your Business",
       "url": "https://open.spotify.com/track/6q6bauwUzbKhx4KM49kfgL"
@@ -18650,7 +18820,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 176721,
       "name": "Picture This",
       "url": "https://open.spotify.com/track/65E1yqHKUQ0Jc6u4QJ0wZY"
@@ -21325,6 +21495,24 @@
     },
     {
       "album": {
+        "name": "SLATHER ON THE HONEY",
+        "url": "https://open.spotify.com/album/7om5fqirc3hJg6Wm7xVy0r"
+      },
+      "artists": [
+        {
+          "name": "Clothesline From Hell",
+          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230129,
+      "name": "SLATHER ON THE HONEY",
+      "url": "https://open.spotify.com/track/1c4cTw79dH5vuCrVn81zeW"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
       },
@@ -21394,6 +21582,24 @@
       "duration_ms": 206854,
       "name": "Slip",
       "url": "https://open.spotify.com/track/7rKmdNlYcVJZ0OFPmXZ5li"
+    },
+    {
+      "album": {
+        "name": "Slumber Party",
+        "url": "https://open.spotify.com/album/00t69Vno7qzoiT21WCzpnz"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241483,
+      "name": "Slumber Party",
+      "url": "https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0"
     },
     {
       "album": {
@@ -21588,7 +21794,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 179083,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
@@ -22574,7 +22780,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 225777,
       "name": "Sunk Your Teeth In",
       "url": "https://open.spotify.com/track/6zYkJoO7rbx0CD7fqje9d5"
@@ -24596,7 +24802,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 231848,
       "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
       "url": "https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o"
@@ -25090,6 +25296,24 @@
       "duration_ms": 208666,
       "name": "Tropical Therapy",
       "url": "https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK"
+    },
+    {
+      "album": {
+        "name": "Trouble Follows",
+        "url": "https://open.spotify.com/album/73ROiE7UgYGPl4T0bMcH6d"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209092,
+      "name": "Trouble Follows",
+      "url": "https://open.spotify.com/track/1ODrcXGxJB2cHAGLb96Tcw"
     },
     {
       "album": {
@@ -26047,6 +26271,24 @@
     },
     {
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/7iEWUn6OdvhZ5xQ8Hs7h8W"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142012,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4Z8dbrn1e8fCxj5othKByH"
+    },
+    {
+      "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
       },
@@ -26148,7 +26390,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 171049,
       "name": "Wall",
       "url": "https://open.spotify.com/track/2u0Sv7w9CQCkJdViAoM5AX"
@@ -26872,7 +27114,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 258814,
       "name": "When The Fire is Hot",
       "url": "https://open.spotify.com/track/5UPL6le13wwd6fy0mZDq6C"
@@ -27558,7 +27800,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 187249,
       "name": "You Broke Me Too (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 
 > Classic drinking singalongs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,472 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,477 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 23 | [Beer, Beer, Beer](https://open.spotify.com/track/43s0E9B8kiEGsAxU0gDkbi) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz) | [Flowers In the Valley](https://open.spotify.com/album/7qjs8c7X5g1EU0vVvcE8ot) | 2:04 |
 | 24 | [Seven Old Ladies](https://open.spotify.com/track/1cd92x1tprkEPp1bxaLuCq) | [Foster & Allen](https://open.spotify.com/artist/53UCUopHRBowldiFYqYdzA) | [Irish Drinking Songs \- 50 Pub Favorites from Ireland](https://open.spotify.com/album/4Fvg4bfehK0QOsnHRkSMVQ) | 4:34 |
 | 25 | [Finnegan's Wake](https://open.spotify.com/track/7BFOwBx6CvCNrA2gHI93NI) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a), [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Definitive Pub Songs Collection](https://open.spotify.com/album/0LUkfcP3XT922V0uhE3SDQ) | 2:28 |
-| 26 | [The Irish Rover](https://open.spotify.com/track/5cmgKb5oNvCQXXh94YBOhy) | [Johnny Logan](https://open.spotify.com/artist/27rXetqqGSi2spXzggwehc), [Friends](https://open.spotify.com/artist/76JUQKPJSC9OkcCGQ2cmuR) | [Our Best Irish Pub Songs](https://open.spotify.com/album/7xVuNlRglrMfgOnEr3aUZt) | 3:47 |
+| 26 | [The Irish Rover](https://open.spotify.com/track/5cmgKb5oNvCQXXh94YBOhy) | [Johnny Logan & Friends](https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6), [Friends](https://open.spotify.com/artist/76JUQKPJSC9OkcCGQ2cmuR) | [Our Best Irish Pub Songs](https://open.spotify.com/album/7xVuNlRglrMfgOnEr3aUZt) | 3:47 |
 | 27 | [Song for Ireland](https://open.spotify.com/track/500iwSaxXN9CQy8quPmmYD) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [The Best of Luke Kelly](https://open.spotify.com/album/5NCrmdBxbvrlERv2VcYQks) | 4:43 |
 | 28 | [Drink It up Men](https://open.spotify.com/track/3ER6jWtzq7dlpk64YqaFWA) | [Carlyle Fraser](https://open.spotify.com/artist/62ejG7Vlm6nVGATCU4lTta) | [Pint of Ale](https://open.spotify.com/album/3s5NJhXY65FVmv1P4QNAPa) | 2:12 |
 | 29 | [Muirsheen Durkin](https://open.spotify.com/track/7DkDrVprJzciRxztQ7UG1I) | [The Blarney Lads](https://open.spotify.com/artist/0NVUu7IN9htn2Ak7CY8mCL) | [Molly Malone: 20 Traditional Irish Favorites for St\. Patrick's Day](https://open.spotify.com/album/1NrHPStocUvzCEV4lTJCRr) | 2:08 |

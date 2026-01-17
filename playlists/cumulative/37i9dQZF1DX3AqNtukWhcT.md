@@ -4,7 +4,7 @@
 
 > Soft and soothing beats for all your yoga practices.
 
-287 songs - 14 hr 6 min
+288 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Castaway Island](https://open.spotify.com/track/5XtpIHoZM4EMlM1IAwa426) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Castaway Island](https://open.spotify.com/album/2Lhvnaxd2FxeExmEUavioW) | 3:55 | 2022-09-02 | 2022-10-26 |
 | [Chakra Flow Beat](https://open.spotify.com/track/2yVYWhj44F5uLKyTXtDAFP) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zone Out Beats](https://open.spotify.com/album/6sMoy5WKH2lqNzOP7UZWOY) | 3:00 | 2022-09-02 | 2023-08-12 |
 | [Chinese Herbs](https://open.spotify.com/track/1ROHEkrFviF2sg0JdlmsNi) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Holy River](https://open.spotify.com/album/6HhpIS459we5oHB8GTW8Q2) | 2:54 | 2022-11-25 | 2024-11-12 |
+| [cirrus](https://open.spotify.com/track/4GPggSBR3PNu6qTjDGNHLo) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [cirrus](https://open.spotify.com/album/71TDVgmpDHv7EjSEs4lvtc) | 2:05 | 2026-01-16 |  |
 | [Clarity](https://open.spotify.com/track/4iOmGQQbhV8tunBS1y5yqT) | [Eon Weaver](https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c) | [Clarity](https://open.spotify.com/album/1BY5nBH8o0jS8QMr9EshCW) | 2:30 | 2024-06-11 | 2025-11-26 |
 | [Clean Sheets](https://open.spotify.com/track/6iSwHHJCAUFpA1TrgKYk7s) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Clean Sheets](https://open.spotify.com/album/1FKGxbx8C5wjzLJjcQ1Zht) | 2:07 | 2025-11-25 |  |
 | [cocoon](https://open.spotify.com/track/79nz6puC2rx26h5JHH2sju) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [cocoon](https://open.spotify.com/album/2vsxrL5VXH4bi6FX2uHbVO) | 2:28 | 2025-11-25 |  |

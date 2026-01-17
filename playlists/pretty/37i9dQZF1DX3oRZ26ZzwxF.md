@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Sindika
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,970 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,032 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 11 | [Nobody](https://open.spotify.com/track/2kvzPVP8dE49fDg8N7Wb9k) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [FREELYM](https://open.spotify.com/album/7hcmFVB5Pclui5v2kXDePS) | 2:37 |
 | 12 | [SOLDAT](https://open.spotify.com/track/47Zi1azLkIGvZZXkVIOgnH) | [Paki Chenzu](https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB) | [SOLDAT](https://open.spotify.com/album/4fkctYphAu4TFbtZMSyejI) | 2:57 |
 | 13 | [Santé](https://open.spotify.com/track/5WGnX9BtRdajMRI9oS75hp) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [Santé](https://open.spotify.com/album/7FQXOFR8zUbujpNhGcjUhs) | 3:07 |
-| 14 | [Thomas Sankara](https://open.spotify.com/track/2PN6GdHZ7s50kBD4qEckpo) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [](https://open.spotify.com/album/null) | 2:48 |
+| 14 | [Thomas Sankara](https://open.spotify.com/track/2PN6GdHZ7s50kBD4qEckpo) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [34](https://open.spotify.com/album/67jDpqg46Rv9gMvVQOj1Ni) | 2:48 |
 | 15 | [Mélangé \(feat\. DAVINHOR\)](https://open.spotify.com/track/0NocF4Xg0qUClKzJaXEu9X) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Y'a Pas l'Homme \(Deluxe\)](https://open.spotify.com/album/5H93InqARz9Xdt2gI2IGb4) | 2:40 |
 | 16 | [J COMMANDE](https://open.spotify.com/track/1y6TvjEXs7ks2A13CkkjWN) | [LiFkA](https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf) | [NNPP \- PRELUDE](https://open.spotify.com/album/6FSMaKXZfN1VHwdz8FPtJr) | 2:39 |
 | 17 | [CAMERA](https://open.spotify.com/track/5g6KbDdqijAIhBoaCEsljr) | [Ced'](https://open.spotify.com/artist/7BbpiKiLkyw6S48KUYcIvB), [OG Mahilet](https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT) | [29 : Bouteilles à la Mer](https://open.spotify.com/album/6yL3g3AHaN7eeZDM01zsc3) | 2:42 |
 | 18 | [Gnanhi](https://open.spotify.com/track/58SldGaCjTH0OgRz4Al8nO) | [Miedjia](https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [Ambiance Facile 2,5](https://open.spotify.com/album/4qPa9RPwcWr1D2AciMOiLW) | 2:33 |
 | 19 | [ASKEL GESTE](https://open.spotify.com/track/2Wzh9W7495MYrcXbiAaVkH) | [DEMENTOS](https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D) | [ASKEL GESTE](https://open.spotify.com/album/0a2Zb35LSYcFWD0XbLOzAi) | 3:15 |
 | 20 | [KOUMAN CHANMAN](https://open.spotify.com/track/4ujb0DdulvXGmXqvAAWjjo) | [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV) | [INVASION : TOME I](https://open.spotify.com/album/2LsHafbrpIYiOGn1y7YfNb) | 3:49 |
-| 21 | [Marteau ni Tenaille](https://open.spotify.com/track/4FqXlVG1Ku8kVmXZ01QzL2) | [ENFANT NOIR SD](https://open.spotify.com/artist/46bW6Ptyyb9bOmwDZ6y7py), [Philipayne](https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D) | [](https://open.spotify.com/album/null) | 3:04 |
+| 21 | [Marteau ni Tenaille](https://open.spotify.com/track/4FqXlVG1Ku8kVmXZ01QzL2) | [ENFANT NOIR SD](https://open.spotify.com/artist/46bW6Ptyyb9bOmwDZ6y7py), [Philipayne](https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D) | [CAMARA KAI](https://open.spotify.com/album/70qjYZFAN2IdW97RMvMqSc) | 3:04 |
 | 22 | [Whatsapp](https://open.spotify.com/track/4oFUIXTJfKWW1sQXGwBvNy) | [Jojo le Barbu](https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9), [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Election](https://open.spotify.com/album/28wOO7sKBChGI7UaTW5Tm4) | 3:13 |
 | 23 | [Kira 5](https://open.spotify.com/track/5kjNtDSk3kBFIQU4ZasFm1) | [Paki Chenzu](https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB) | [Kira 5](https://open.spotify.com/album/5JbJGSXKZ2e8nQlf6TqoEb) | 4:23 |
 | 24 | [Super Saiyan](https://open.spotify.com/track/5uFE8IpdLHeLrh9TuC0hPc) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Lamoula$](https://open.spotify.com/artist/4cNtgPYsS8zJp72VrSky1L) | [Super Saiyan](https://open.spotify.com/album/4k4Zv622X28W0h0XZxtiyZ) | 3:02 |

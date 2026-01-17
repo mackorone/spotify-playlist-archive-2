@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Heart Like a Songwriter",
+        "url": "https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1"
+      },
+      "artists": [
+        {
+          "name": "Trannie Anderson",
+          "url": "https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "Bigger Picture - Demo",
+      "url": "https://open.spotify.com/track/2RgHwSfgQR6g1xqxV9P07m"
+    },
+    {
+      "album": {
         "name": "Bird Dog",
         "url": "https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8"
       },

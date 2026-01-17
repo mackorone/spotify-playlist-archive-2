@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: josefe",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Bemti, FBC, Luar",
   "name": "alt BR",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 203189,
       "name": "18 Graus",
       "url": "https://open.spotify.com/track/5UxS8MWKqR8C6SdV9z29h1"
+    },
+    {
+      "album": {
+        "name": "1KG",
+        "url": "https://open.spotify.com/album/0MR2BlgqSihTLNnICvUi9t"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Jonas Miguel",
+          "url": "https://open.spotify.com/artist/5TlzFnCUnAc9kJ4upgd2vN"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "1KG",
+      "url": "https://open.spotify.com/track/1tvOQsOtB7d044F4SyDy05"
     },
     {
       "album": {
@@ -236,7 +258,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 219841,
       "name": "A cidade \u00e9 uma selva",
       "url": "https://open.spotify.com/track/53vB6t3mcw3iwMXSHSod8E"
@@ -1062,7 +1084,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 341014,
       "name": "Andrew",
       "url": "https://open.spotify.com/track/7oiHsUUcOFS4tOvAwaINPt"
@@ -2565,6 +2587,28 @@
     },
     {
       "album": {
+        "name": "Casca",
+        "url": "https://open.spotify.com/album/7MElLSV72WuGzovGuuofil"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Callado",
+          "url": "https://open.spotify.com/artist/5PPXLAl96nllrxUESPD64E"
+        },
+        {
+          "name": "Guilherme Lirio",
+          "url": "https://open.spotify.com/artist/0OSjVMA23gcjqqm6lkpgFe"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234006,
+      "name": "Casca",
+      "url": "https://open.spotify.com/track/7y4aQ9TBqOot08yUtglTE1"
+    },
+    {
+      "album": {
         "name": "CAVALO",
         "url": "https://open.spotify.com/album/6kYxoYEPkf29cET8FPHqGI"
       },
@@ -2786,7 +2830,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 122363,
       "name": "Chance",
       "url": "https://open.spotify.com/track/7Kc0hxZfB0UwDqfcVryEYB"
@@ -2930,7 +2974,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 160741,
       "name": "Coincidentemente (Tirando Certas Coisas)",
       "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
@@ -5044,7 +5088,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 189106,
       "name": "Estrago Que Me Faz",
       "url": "https://open.spotify.com/track/68dYqn4aJC5NbVZN2OPjXX"
@@ -5378,6 +5422,32 @@
       "duration_ms": 173872,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/2ZEgZBFzeG0wr9jT6YmdPM"
+    },
+    {
+      "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/0UpfBrBSO0TIKC7eJ8A96f"
+      },
+      "artists": [
+        {
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "LUAR",
+          "url": "https://open.spotify.com/artist/1Xx7ZBh8sm7gy8db7xUGy3"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230869,
+      "name": "Euforia",
+      "url": "https://open.spotify.com/track/4iYoNJIRDj42S1pMJUxZce"
     },
     {
       "album": {
@@ -5762,7 +5832,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 204627,
       "name": "Final de Mim",
       "url": "https://open.spotify.com/track/5SKWDRIsZKzLfxPkFs9bjL"
@@ -6349,6 +6419,24 @@
     },
     {
       "album": {
+        "name": "h\u00e1 um certo medo em deixar ir",
+        "url": "https://open.spotify.com/album/0MBDKiJdfzCx4IucubJ9fa"
+      },
+      "artists": [
+        {
+          "name": "a terra vai se tornar um planeta inabit\u00e1vel",
+          "url": "https://open.spotify.com/artist/3vRKfW74O7fGagZCDPOqKQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440673,
+      "name": "h\u00e1 um certo medo em deixar ir",
+      "url": "https://open.spotify.com/track/2Lzhyfc0HTqSPpLKSwYWZE"
+    },
+    {
+      "album": {
         "name": "Ideia Errada",
         "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
       },
@@ -6868,7 +6956,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 194255,
       "name": "J\u00e1 Chegou ao Fim",
       "url": "https://open.spotify.com/track/2ShUPRqDDS3yWwiYH60fxU"
@@ -8484,7 +8572,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 242982,
       "name": "miopia",
       "url": "https://open.spotify.com/track/6xXfzlVjhyg5s1hQyLxaHv"
@@ -8826,7 +8914,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 228221,
       "name": "M\u00fasculo Novo do Medo",
       "url": "https://open.spotify.com/track/1HUCWpZwXB07IksmZKp2UU"
@@ -11638,7 +11726,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 179250,
       "name": "Quando voc\u00ea sabe, voc\u00ea sabe...",
       "url": "https://open.spotify.com/track/5l11puxvF7Qp0HuSWkMWLF"
@@ -15448,7 +15536,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 165000,
       "name": "Virar Mar",
       "url": "https://open.spotify.com/track/2beiGm7po252mtu3xy9fw5"
@@ -15982,7 +16070,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 204500,
       "name": "\u00c1rvores do Fundo do Quintal",
       "url": "https://open.spotify.com/track/3MRGPpSroiVOxUdEOhHv4C"

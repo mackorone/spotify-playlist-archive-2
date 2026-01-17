@@ -1,29 +1,13 @@
 {
   "description": "Pop for neon streets, rainy windows, and everything you still feel after dark.",
-  "num_followers": 276669,
+  "num_followers": 276695,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB1KrhAvUWwAH978/0G+NkcB1kNM",
+  "snapshot_id": "AAAAACRzJEFPOYg0Rv5FCQZyP2nUpYaP",
   "tracks": [
-    {
-      "added_at": "2026-01-09 05:00:44",
-      "album": {
-        "name": "Sexistential / Talk To Me",
-        "url": "https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 199561,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
-    },
     {
       "added_at": "2026-01-09 05:00:44",
       "album": {
@@ -39,6 +23,38 @@
       "duration_ms": 196700,
       "name": "cul-de-sac",
       "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
+    },
+    {
+      "added_at": "2026-01-16 16:02:44",
+      "album": {
+        "name": "Outta My Mind (Touch)",
+        "url": "https://open.spotify.com/album/5Nsw2netaTGJomcUKTmVzF"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "duration_ms": 227961,
+      "name": "Outta My Mind (Touch)",
+      "url": "https://open.spotify.com/track/4qkiVYEL9WvPa99NmpUCmX"
+    },
+    {
+      "added_at": "2026-01-09 05:00:44",
+      "album": {
+        "name": "Sexistential / Talk To Me",
+        "url": "https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 199561,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
     },
     {
       "added_at": "2026-01-09 05:00:44",
@@ -563,22 +579,6 @@
       "duration_ms": 154000,
       "name": "Lipstick on the Rearview",
       "url": "https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3"
-    },
-    {
-      "added_at": "2025-09-27 19:03:23",
-      "album": {
-        "name": "M\u00e9lancolie",
-        "url": "https://open.spotify.com/album/08DouzOCc4c0MyhfCD5hNt"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "M\u00e9lancolie",
-      "url": "https://open.spotify.com/track/6vYbyQpKM21rfhsHwb4HIb"
     },
     {
       "added_at": "2025-11-07 05:16:58",

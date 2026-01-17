@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 八三夭 \(831\)
 
-913 songs - 2 day 11 hr 23 min
+914 songs - 2 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [日落](https://open.spotify.com/track/40lq0knuIWclTUTECXja5V) | [Radio Mars](https://open.spotify.com/artist/7zfFkHBs5y9m83dIoptl7g) | [日落](https://open.spotify.com/album/4SqzrBqbM7zZenFFlt46VM) | 5:51 | 2024-10-24 | 2024-11-15 |
 | [日落電車 Sunset Tramway](https://open.spotify.com/track/4K9lSoBqEI38cNFXAeFS2n) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [日落電車 Sunset Tramway](https://open.spotify.com/album/38fK4C5unqak3ITwUBDdeV) | 6:26 | 2025-10-02 | 2025-10-24 |
 | [早安](https://open.spotify.com/track/6RG2TmuPNynYrecZbBGKTh) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [早安](https://open.spotify.com/album/6yqp5T9naNRKg8ubVy5Wjo) | 3:31 | 2025-04-10 | 2025-05-02 |
+| [早就](https://open.spotify.com/track/4AMhHs9PylGL8rVZFW9DC5) | [無所畏](https://open.spotify.com/artist/6qE49wapD7jybqaSYgROen), [尤時雨](https://open.spotify.com/artist/6VZlJla5fcw20R97dOIadz) | [早就](https://open.spotify.com/album/6lxZwuqf84rfWto4qrFZXf) | 3:12 | 2026-01-15 |  |
 | [时光大耳窿](https://open.spotify.com/track/6kzuQumnMjqQUQhBmYotEy) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [时光大耳窿](https://open.spotify.com/album/40CVvJ0AOkcBLpwEXlK8Ax) | 4:02 | 2026-01-15 |  |
 | [明年夏天我們會不會還在一起](https://open.spotify.com/track/3D8OZFu0Z9R1IWwKbrj6NA) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [明年夏天我們會不會還在一起](https://open.spotify.com/album/4fB9VxxoY3WweTN76KIdWx) | 3:03 | 2024-10-31 | 2024-11-29 |
 | [昏沉下雨天 \(Dizzy Drizzle\)](https://open.spotify.com/track/4fuGw9or2VN06oRYvXv2Vj) | [Bad Sweetheart](https://open.spotify.com/artist/1y793kDfhxKcz1gX3E22bN) | [昏沉下雨天 \(Dizzy Drizzle\)](https://open.spotify.com/album/0397QMgg9TnjdhsRrBKbCv) | 4:55 | 2024-10-24 | 2024-11-01 |

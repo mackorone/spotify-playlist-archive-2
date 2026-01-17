@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,874,533 likes - 233 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,876,042 likes - 233 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 232 | [Float in Time](https://open.spotify.com/track/6K6reTcwKbULf7UWeB1Rzy) | [amaron](https://open.spotify.com/artist/01aRA4ZySdCi0bmRhTyGhf) | [Float in Time](https://open.spotify.com/album/2CafEDyKC0I2DXuZT08wD0) | 2:16 |
 | 233 | [Colourway](https://open.spotify.com/track/1T3dQ6KpCIZaKQX2wH6BWR) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Colourway](https://open.spotify.com/album/6fzEg5IjAVpKAA5EUKdmla) | 2:25 |
 
-Snapshot ID: `AAAAAOdc7zu80hvN1E75XaYLhg5K+kZf`
+Snapshot ID: `AAAAAAynE3unWq/u+ol1aEetNiBWmGUR`

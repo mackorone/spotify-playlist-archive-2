@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 46,939 likes - 100 songs - 6 hr 14 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 46,952 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 99 | [Being In Love](https://open.spotify.com/track/3ENYeb7501VXnI4pNfD12F) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Being In Love](https://open.spotify.com/album/0jxsoM4q6jxVUm9qJglV3B) | 2:30 |
 | 100 | [Blush](https://open.spotify.com/track/21Xax3xNWXhRMtgiQa1PKM) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 3:28 |
 
-Snapshot ID: `AAALEvy8hdgeFYP8+IIoL4p4YWE2xJWs`
+Snapshot ID: `AAALFF+XRTJhaFj2lCAmBVa27BKwmPwY`

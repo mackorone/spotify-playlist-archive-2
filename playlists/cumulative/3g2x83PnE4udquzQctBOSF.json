@@ -5511,6 +5511,24 @@
     },
     {
       "album": {
+        "name": "latin house 2",
+        "url": "https://open.spotify.com/album/5bX8mRv2NYqu1eVSZbfaQE"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241874,
+      "name": "Mi alma grita en silencio",
+      "url": "https://open.spotify.com/track/6udvw6xZelhUKahkHFtTNj"
+    },
+    {
+      "album": {
         "name": "Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7Du2rNorPcljURWbm22rkp"
       },

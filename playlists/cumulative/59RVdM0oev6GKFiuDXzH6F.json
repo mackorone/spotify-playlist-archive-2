@@ -5935,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "Follow Up",
+        "url": "https://open.spotify.com/album/5SDqyDGTlU309fyMolWAzS"
+      },
+      "artists": [
+        {
+          "name": "Dj Brodda",
+          "url": "https://open.spotify.com/artist/0hYKwwwNdvLnr5SklZI54A"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Follow Up",
+      "url": "https://open.spotify.com/track/4zL6ul8QT3MWtnhX10xbiY"
+    },
+    {
+      "album": {
         "name": "Fool (feat. Betty Bloom)",
         "url": "https://open.spotify.com/album/4dasbc6vD7yjIufobTnoOF"
       },
@@ -12601,6 +12619,24 @@
     },
     {
       "album": {
+        "name": "REWIND",
+        "url": "https://open.spotify.com/album/65Pera8kpMg4hOxOOUwq5H"
+      },
+      "artists": [
+        {
+          "name": "Nai",
+          "url": "https://open.spotify.com/artist/39EDVlvN9daj3SnKEAgRZa"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330857,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/1wrnU2xQc155HR1iLpHXzg"
+    },
+    {
+      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -17020,6 +17056,28 @@
       "duration_ms": 220645,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/3S7waFD1tMKGDnP95NESE2"
+    },
+    {
+      "album": {
+        "name": "Shivers (feat. NO\u00cbP)",
+        "url": "https://open.spotify.com/album/6gRYmcGSoUlZ83WSJvuDR8"
+      },
+      "artists": [
+        {
+          "name": "LEDUC",
+          "url": "https://open.spotify.com/artist/0PX2pq6qcOfKp3NQOJMGvz"
+        },
+        {
+          "name": "NO\u00cbP",
+          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/0cZntDSgZDioc5Bb9mtsun"
     },
     {
       "album": {

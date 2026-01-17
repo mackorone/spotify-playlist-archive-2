@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 141639,
       "name": "Can't Count Me Out",
       "url": "https://open.spotify.com/track/77OO0XJ9caJhJVanaaIc6w"
@@ -7416,7 +7416,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 234864,
       "name": "Epstein Files",
       "url": "https://open.spotify.com/track/7LrK2rrV2zvXci06oRLjIr"
@@ -9764,6 +9764,28 @@
       "duration_ms": 114580,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/0SCbpbPIjHh90v4hsp8ohl"
+    },
+    {
+      "album": {
+        "name": "Golden Gooses",
+        "url": "https://open.spotify.com/album/5vtEOHxWOGgnftqyDtQlTG"
+      },
+      "artists": [
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165576,
+      "name": "Golden Gooses",
+      "url": "https://open.spotify.com/track/2flLsWTnsEKy0mCBSpBUp4"
     },
     {
       "album": {
@@ -12494,6 +12516,24 @@
       "duration_ms": 156559,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/4jRFhW5FKH2LbW6POLx80q"
+    },
+    {
+      "album": {
+        "name": "IDB",
+        "url": "https://open.spotify.com/album/1an5Ha44ptSh01369ZNiIF"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172324,
+      "name": "IDB",
+      "url": "https://open.spotify.com/track/2F5yTzGkclnguED0nwworg"
     },
     {
       "album": {
@@ -18295,6 +18335,32 @@
     },
     {
       "album": {
+        "name": "One of Them Ones",
+        "url": "https://open.spotify.com/album/6jNOjglo1MftJZvOpCIZIT"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "One of Them Ones",
+      "url": "https://open.spotify.com/track/6f0UpQ2qdNevj7NARngtna"
+    },
+    {
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/2B4p1yxwU3nBooi6ZYlUUn"
       },
@@ -22812,7 +22878,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 158400,
       "name": "Signed a Napkin",
       "url": "https://open.spotify.com/track/6LhJYXD9Dt6YgvaaG0odKL"

@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,147 songs - 1 day 20 hr 10 min
+1,148 songs - 1 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 | 2025-08-30 |
 | [autumn shower](https://open.spotify.com/track/4yiIIKKdTC0mvONGjX3BW2) | [muun lite](https://open.spotify.com/artist/0JLWWTf1gMwZA4OOA9TM38) | [autumn shower](https://open.spotify.com/album/6nDLPzzU2OPJqfh1DGTZt1) | 2:07 | 2025-02-14 | 2025-08-23 |
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2023-10-13 | 2025-08-30 |
-| [Azo](https://open.spotify.com/track/70RuMUwR0nlX71VHxRezkH) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Azo](https://open.spotify.com/album/5IxplYWukgFd1gFxQNmwjy) | 2:01 | 2025-02-07 |  |
+| [Azo](https://open.spotify.com/track/70RuMUwR0nlX71VHxRezkH) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Azo](https://open.spotify.com/album/5IxplYWukgFd1gFxQNmwjy) | 2:01 | 2025-02-07 | 2026-01-17 |
 | [Back in time](https://open.spotify.com/track/6qLsaWSO04sgwX6N8xid7E) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Back in time](https://open.spotify.com/album/34XEHZITd5aslpA8xYzxV2) | 2:20 | 2023-01-20 |  |
 | [Backdoor](https://open.spotify.com/track/76siJBpv5Sb2yF84wqUzuX) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Backdoor](https://open.spotify.com/album/0oTpLBc7LZFiASLq70BFGi) | 2:13 | 2025-05-23 | 2025-10-25 |
 | [Baia Del Sole](https://open.spotify.com/track/08ZuawhWrtqcOiwTctQA6S) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Baia Del Sole](https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG) | 2:24 | 2022-07-29 | 2022-09-30 |
@@ -859,6 +859,7 @@
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2022-04-15 | 2022-08-12 |
 | [Shutters](https://open.spotify.com/track/7vys15VygXqBbOzaiDvL54) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Shutters](https://open.spotify.com/album/5gyG2kQTyKcxNfM5jIPChc) | 2:16 | 2026-01-09 |  |
 | [signals](https://open.spotify.com/track/3TE7g7pg2i1E5WLhmAVfcF) | [ex\-pansive](https://open.spotify.com/artist/4BZ2WJhxazwJCRGq3nzczV) | [signals](https://open.spotify.com/album/5Z5NNGYHiOFFDjEu6AmUcO) | 2:40 | 2024-02-02 | 2025-06-14 |
+| [silk](https://open.spotify.com/track/0qeTcNLP8x6rJReO83KMJv) | [table manners](https://open.spotify.com/artist/4EpkX1JWuSjiqDuZBoqIiU) | [silk](https://open.spotify.com/album/6oMEH5JrLh0CWCK0Zveosp) | 2:42 | 2026-01-16 |  |
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2022-09-02 | 2025-07-10 |
 | [silver sky](https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [silver sky](https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh) | 2:01 | 2023-10-27 |  |
 | [Simple](https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Simple](https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ) | 2:09 | 2023-09-04 | 2023-09-29 |

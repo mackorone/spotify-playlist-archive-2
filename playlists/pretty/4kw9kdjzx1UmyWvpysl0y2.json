@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124484,
+  "num_followers": 124483,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU/99Djv03GheFPFLF7XgCRhCFKAmJ",
+  "snapshot_id": "AAAVAnr5yJfy6sxgfsihsIRAVNBS0M4p",
   "tracks": [
+    {
+      "added_at": "2026-01-16 15:33:31",
+      "album": {
+        "name": "Violence",
+        "url": "https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB"
+      },
+      "artists": [
+        {
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        },
+        {
+          "name": "Ma\u00eblie",
+          "url": "https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4"
+        }
+      ],
+      "duration_ms": 161034,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"
+    },
+    {
+      "added_at": "2026-01-16 15:33:21",
+      "album": {
+        "name": "S.K.Y.",
+        "url": "https://open.spotify.com/album/3H09VWQqjnA8PC7qmBltyf"
+      },
+      "artists": [
+        {
+          "name": "Skyknock",
+          "url": "https://open.spotify.com/artist/1xX451Pg0jqIXu8I6FM5N8"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Yonder",
+      "url": "https://open.spotify.com/track/7x2BkQ2329FPdQSgfveQSo"
+    },
     {
       "added_at": "2026-01-15 16:34:11",
       "album": {
@@ -1087,46 +1123,6 @@
       "duration_ms": 187434,
       "name": "DNCR",
       "url": "https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA"
-    },
-    {
-      "added_at": "2025-10-16 17:15:34",
-      "album": {
-        "name": "DNCR / imprint",
-        "url": "https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
-        }
-      ],
-      "duration_ms": 196661,
-      "name": "imprint",
-      "url": "https://open.spotify.com/track/3L0h00fEoCLUU5bEJCezve"
-    },
-    {
-      "added_at": "2025-10-15 14:18:03",
-      "album": {
-        "name": "Stealing Fire (Remixes)",
-        "url": "https://open.spotify.com/album/04OcnH4C6pWDqvT5fdtkKQ"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "Dodge & Fuski",
-          "url": "https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Dino Killer - Dodge & Fuski Remix",
-      "url": "https://open.spotify.com/track/48BEoeZBILGunmflYqDFKG"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

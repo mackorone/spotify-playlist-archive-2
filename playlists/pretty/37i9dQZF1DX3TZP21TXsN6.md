@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuwe tracks elke week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,604 likes - 55 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,597 likes - 55 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/2rQExsHGxdepLIvwyLN0C3) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [All My Life](https://open.spotify.com/track/2rQExsHGxdepLIvwyLN0C3) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq), [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ), [Lonewalker](https://open.spotify.com/artist/6Bm9NFs6gGm9PXRjetlQAS) | [All My Life](https://open.spotify.com/album/7k5hAqo2RD5hxBcfxObuyJ) | 3:26 |
 | 2 | [KLOKKEN 2.0](https://open.spotify.com/track/3aBgFXPDPJM7Wlqr69A0nB) | [Parsa](https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m), [Stackz](https://open.spotify.com/artist/7JaoaPra85ySxiAoKeAUQS), [73 De Pijp](https://open.spotify.com/artist/12iyh851ZpgQQ0iPIKefFJ) | [KLOKKEN 2.0](https://open.spotify.com/album/1Mb5nkOaZuEMIJVpHXDei2) | 2:12 |
 | 3 | [VERT3LLEN](https://open.spotify.com/track/0BrRABx6pnEqoSQ1Tkmqw4) | [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [VERT3LLEN](https://open.spotify.com/album/2sQWaHA4bqDVNYJ8GJIY9P) | 2:28 |
 | 4 | [Criminaliteit](https://open.spotify.com/track/0zQ1i8Z58oLo6j25naGb81) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx) | [Criminaliteit](https://open.spotify.com/album/4mVhfrBLrbHgGoOq0eAzoc) | 2:22 |

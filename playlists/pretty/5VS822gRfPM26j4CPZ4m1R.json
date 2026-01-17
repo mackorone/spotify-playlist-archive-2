@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 17909,
+  "num_followers": 17908,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMPhFFKz0m8Qk3FXNSf2rZYME0u5Gx",
+  "snapshot_id": "AAAMQTcyFe0jZqsnX9AoZ9aMOIzemEDR",
   "tracks": [
+    {
+      "added_at": "2026-01-16 08:41:44",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/7afBwlsNfKg3xRymDLH8IC"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "duration_ms": 244582,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/1nOpnsV3zdWQfX28SRm5ND"
+    },
     {
       "added_at": "2026-01-14 09:56:38",
       "album": {

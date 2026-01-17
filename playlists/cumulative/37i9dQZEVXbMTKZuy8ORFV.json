@@ -5127,6 +5127,24 @@
     },
     {
       "album": {
+        "name": "Bonita Asi",
+        "url": "https://open.spotify.com/album/1kGe266QzXiRcOR1NnAhLe"
+      },
+      "artists": [
+        {
+          "name": "Misael Soul",
+          "url": "https://open.spotify.com/artist/3q4nKdXpY7ggvpOtri0qzB"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Bonita Asi",
+      "url": "https://open.spotify.com/track/2Vj6EumcGpm5XHGEOUebLS"
+    },
+    {
+      "album": {
         "name": "Bonita Bonita",
         "url": "https://open.spotify.com/album/4UInUxbfQ7sgwOEWeJP9Dd"
       },
@@ -6860,7 +6878,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 131460,
       "name": "Chaleco Antibalas",
       "url": "https://open.spotify.com/track/3WuPG9rTAuWSotYqEKWmTT"
@@ -9830,7 +9848,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 133564,
       "name": "Dally",
       "url": "https://open.spotify.com/track/6HHhPaHTC2aJt0CKtMlQCc"
@@ -10400,7 +10418,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 234466,
       "name": "Departamento",
       "url": "https://open.spotify.com/track/5VFNWuzWCalL6oZwV4GJF7"
@@ -11460,7 +11478,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 185326,
       "name": "dopamina",
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
@@ -24734,7 +24752,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -29769,6 +29787,36 @@
     },
     {
       "album": {
+        "name": "Paleta Dame Paleta",
+        "url": "https://open.spotify.com/album/5Dpf0c4opM2Tcs2Ok6XQyA"
+      },
+      "artists": [
+        {
+          "name": "Miguel Pascal",
+          "url": "https://open.spotify.com/artist/56DYvlyuahAj0OWxlb9LDr"
+        },
+        {
+          "name": "Teddy Specter",
+          "url": "https://open.spotify.com/artist/5BlnoBNgpAYS75PEFaAYFo"
+        },
+        {
+          "name": "Aesthetic",
+          "url": "https://open.spotify.com/artist/4l2S0sGjHE283lwIqjeAU6"
+        },
+        {
+          "name": "Pascal Ghost",
+          "url": "https://open.spotify.com/artist/7BXK4sL3ZrvhAUICJ40mRK"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147904,
+      "name": "Paleta Dame Paleta",
+      "url": "https://open.spotify.com/track/7AprU1Nb2A5gL080qjzj6f"
+    },
+    {
+      "album": {
         "name": "PALMTREE PANIC FUNK",
         "url": "https://open.spotify.com/album/2aC2FMYYwnO6AZZkzglJec"
       },
@@ -33042,7 +33090,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 155919,
       "name": "Renazco en Mi",
       "url": "https://open.spotify.com/track/5z2etgzOrfHxBmM7UzC8uP"
@@ -34450,6 +34498,24 @@
       "duration_ms": 244878,
       "name": "SENDA",
       "url": "https://open.spotify.com/track/5fswOZtpTleF5VWtB4dfcP"
+    },
+    {
+      "album": {
+        "name": "EL NUEVO SONIDO",
+        "url": "https://open.spotify.com/album/51BDztgpHNIIwixCGx3wku"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120494,
+      "name": "SENDA BELLAKONA",
+      "url": "https://open.spotify.com/track/6g1u7IdhcA9rZUV3Pizsj8"
     },
     {
       "album": {
@@ -44274,6 +44340,24 @@
       "duration_ms": 199960,
       "name": "Yo siempre contesto.",
       "url": "https://open.spotify.com/track/1ZunPTRc0PUFfdSWa3qMB1"
+    },
+    {
+      "album": {
+        "name": "FX De La Rose",
+        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118666,
+      "name": "Yo te conozco :):",
+      "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"
     },
     {
       "album": {

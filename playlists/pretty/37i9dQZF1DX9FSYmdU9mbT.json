@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1465709,
+  "num_followers": 1465786,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "P\u00fablico",
         "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 131426,
       "name": "Devolva-Me (Ao Vivo)",
       "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Ex-Amor",
-        "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 245773,
-      "name": "Ex-Amor",
-      "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "A Festa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 330252,
       "name": "A Festa - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "Ex-Amor",
+        "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Ex-Amor",
+      "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
+        "name": "Caravanas Ao Vivo",
+        "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 184119,
+      "name": "Sabi\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
         "name": "Viol\u00f5es e Cavaquinhos",
         "url": "https://open.spotify.com/album/4kjig7c8AIa2fdt6syvbRh"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 191800,
       "name": "Canta Canta, Minha Gente (Minha Gente, Canta Canta)",
       "url": "https://open.spotify.com/track/2zqT92v0e1lvs5paCOfxwm"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
-        "name": "Caravanas Ao Vivo",
-        "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 184119,
-      "name": "Sabi\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "francisco forr\u00f3 y frevo",
-        "url": "https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 293509,
-      "name": "Deus Me Proteja",
-      "url": "https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "O Meu Guri (Ao Vivo)",
         "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 228933,
       "name": "O Meu Guri",
       "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "francisco forr\u00f3 y frevo",
+        "url": "https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 293509,
+      "name": "Deus Me Proteja",
+      "url": "https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C"
     },
     {
       "added_at": "2025-11-30 17:39:04",

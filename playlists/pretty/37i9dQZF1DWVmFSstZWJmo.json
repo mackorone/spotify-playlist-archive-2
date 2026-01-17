@@ -1,12 +1,12 @@
 {
   "description": "Fcukers on the cover bby",
-  "num_followers": 208609,
+  "num_followers": 208692,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGGDgLDzkiqvBs5BY7ExZsVexs3K",
+  "snapshot_id": "AAAAAJwbSaJycG7nXY6JYRSQXongsRmj",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:32",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-11-21 05:00:32",
       "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"
-    },
-    {
-      "added_at": "2025-11-21 05:00:32",
-      "album": {
         "name": "Master of My Make-Believe",
         "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
+    },
+    {
+      "added_at": "2025-11-21 05:00:32",
+      "album": {
+        "name": "First Impressions Of Earth",
+        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"
     },
     {
       "added_at": "2025-11-21 05:00:32",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-11-21 05:00:32",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 462266,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
-    },
-    {
-      "added_at": "2025-11-21 05:00:32",
-      "album": {
         "name": "Robbers & Cowards",
         "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 218786,
       "name": "Hang Me Up To Dry",
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
+    },
+    {
+      "added_at": "2025-11-21 05:00:32",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
       "added_at": "2025-11-21 05:00:32",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-11-21 05:00:32",
       "album": {
-        "name": "Life of Leisure",
-        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Feel It All Around",
-      "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
-    },
-    {
-      "added_at": "2025-11-21 05:00:32",
-      "album": {
         "name": "Basspunk 2",
         "url": "https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 145625,
       "name": "Forever salty",
       "url": "https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG"
+    },
+    {
+      "added_at": "2025-11-21 05:00:32",
+      "album": {
+        "name": "Life of Leisure",
+        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Feel It All Around",
+      "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
     },
     {
       "added_at": "2025-11-21 05:00:32",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-11-21 05:00:32",
       "album": {
-        "name": "The Con",
-        "url": "https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Back in Your Head",
-      "url": "https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW"
-    },
-    {
-      "added_at": "2025-11-21 05:00:32",
-      "album": {
         "name": "Night Time, My Time",
         "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 235066,
       "name": "You\u2019re Not The One",
       "url": "https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP"
+    },
+    {
+      "added_at": "2025-11-21 05:00:32",
+      "album": {
+        "name": "The Con",
+        "url": "https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Back in Your Head",
+      "url": "https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW"
     },
     {
       "added_at": "2025-11-21 05:00:32",
@@ -1625,6 +1625,22 @@
       "url": "https://open.spotify.com/track/1B516F0EkWq9uBuGzlEbZs"
     },
     {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
       "added_at": "2025-11-21 05:00:32",
       "album": {
         "name": "Saturdays = Youth",
@@ -1639,22 +1655,6 @@
       "duration_ms": 304906,
       "name": "We Own The Sky",
       "url": "https://open.spotify.com/track/44jJCNW8frQLEWpYuAQz47"
-    },
-    {
-      "added_at": "2025-11-21 05:00:32",
-      "album": {
-        "name": "Mickey Avalon",
-        "url": "https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV"
-      },
-      "artists": [
-        {
-          "name": "Mickey Avalon",
-          "url": "https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Jane Fonda",
-      "url": "https://open.spotify.com/track/0Y2QejubtJugRGvfPgOQ1w"
     }
   ],
   "unique_name": "Indie Sleaze",

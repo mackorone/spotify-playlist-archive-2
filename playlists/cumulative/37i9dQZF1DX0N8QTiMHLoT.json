@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "LET'S DO IT",
+        "url": "https://open.spotify.com/album/67hL5JpNIboktvifSRpVS8"
+      },
+      "artists": [
+        {
+          "name": "Vincen Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196552,
+      "name": "LET'S DO IT",
+      "url": "https://open.spotify.com/track/19IVRhn8g3925OeoKDPG2a"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO"
       },

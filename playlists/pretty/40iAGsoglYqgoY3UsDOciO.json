@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 563,
+  "num_followers": 564,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABajYWyjie6vWi/Dsz33WecPcV1bvb",
+  "snapshot_id": "AAABawCbNA+61Zmm+W+Etlzlf8VGN8Ra",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8283,6 +8283,22 @@
       "duration_ms": 230054,
       "name": "Greatness Abandoned",
       "url": "https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i"
+    },
+    {
+      "added_at": "2026-01-16 08:25:03",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/37GecuXJd0Q9FDpl2KZjUa"
+      },
+      "artists": [
+        {
+          "name": "Amanarii",
+          "url": "https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e"
+        }
+      ],
+      "duration_ms": 175854,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6mjUMGvDzZKmowEHEab8v2"
     }
   ],
   "unique_name": "New Music Daily",

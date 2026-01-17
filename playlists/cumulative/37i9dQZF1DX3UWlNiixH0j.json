@@ -14532,7 +14532,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 271163,
       "name": "Is There A Place For You There?",
       "url": "https://open.spotify.com/track/5eWhdtbo3MkD7gTNLxI8yx"
@@ -44234,6 +44234,24 @@
       "duration_ms": 173000,
       "name": "\u30ea\u30f3\u30b4\u8ffd\u5206",
       "url": "https://open.spotify.com/track/4caPlbVKbDntPzz7lcklCj"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30a4\u30c8\u30b7\u30e7\u30fc",
+        "url": "https://open.spotify.com/album/1mM8yoGhTrXmosZca4f8ci"
+      },
+      "artists": [
+        {
+          "name": "Scenarioart",
+          "url": "https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216441,
+      "name": "\u30ec\u30a4\u30c8\u30b7\u30e7\u30fc",
+      "url": "https://open.spotify.com/track/0vBN7N4VpU6yJ6THuE3iBO"
     },
     {
       "album": {

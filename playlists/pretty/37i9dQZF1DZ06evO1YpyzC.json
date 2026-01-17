@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 266017,
+  "num_followers": 266015,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWbcgAAAAABnvXgD7pGaaTyi6v4glqpF",
+  "snapshot_id": "aWguAAAAAABFpPkU6Oede4Ucu4fmVlon",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restless Road - EP",
-        "url": "https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh"
+        "name": "Cool Again",
+        "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
       },
       "artists": [
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 201749,
-      "name": "Take Me Home (with Kane Brown)",
-      "url": "https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp"
+      "duration_ms": 164668,
+      "name": "Cool Again",
+      "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
     },
     {
       "added_at": null,
@@ -723,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool Again",
-        "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
+        "name": "Restless Road - EP",
+        "url": "https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh"
       },
       "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 164668,
-      "name": "Cool Again",
-      "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
+      "duration_ms": 201749,
+      "name": "Take Me Home (with Kane Brown)",
+      "url": "https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Podcast che devi avere sul tuo RADAR: Capiamo, HYPERSIMPOSIO, Made IT - Storie Italiane di Successo, STREETSMART\nCover: Made IT",
+  "description": "Podcast che devi avere sul tuo RADAR: Capiamo, HYPERSIMPOSIO, Made IT - Storie Italiane di Successo, STREETSMART\nCover: STREETSMART",
   "name": "RADAR Creators Italia",
   "tracks": [
     {
@@ -272,6 +272,24 @@
       "duration_ms": 6065946,
       "name": "A qualcuno piace caldo (1959) - Spoiler Special",
       "url": "https://open.spotify.com/episode/3wAtkkPorhqZS3szKyjqXp"
+    },
+    {
+      "album": {
+        "name": "STREETSMART",
+        "url": "https://open.spotify.com/album/66xtN6seXpkHY6Ylv7Ttux"
+      },
+      "artists": [
+        {
+          "name": "STREETSMART",
+          "url": "https://open.spotify.com/show/66xtN6seXpkHY6Ylv7Ttux"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4535423,
+      "name": "ALFONSO SIGNORINI ci ha SCRITTO per il GRANDE FRATELLO?! - CAPODANNO STREETSMART EP40",
+      "url": "https://open.spotify.com/episode/3SulfpIUMK0hzRiFzddKdg"
     },
     {
       "album": {
@@ -581,6 +599,24 @@
     },
     {
       "album": {
+        "name": "HYPERSIMPOSIO ",
+        "url": "https://open.spotify.com/album/586UQd53qTRrVIZkjoEeop"
+      },
+      "artists": [
+        {
+          "name": "HYPERSIMPOSIO ",
+          "url": "https://open.spotify.com/show/586UQd53qTRrVIZkjoEeop"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1808661,
+      "name": "HYPERSIMPOSIO III.V : Mecna ",
+      "url": "https://open.spotify.com/episode/1cp4uPFLiSAdrz2Qd0QnAT"
+    },
+    {
+      "album": {
         "name": "Caff\u00e8 Design",
         "url": "https://open.spotify.com/show/2xBIU3k8M9QxEMKXMOfIY2"
       },
@@ -707,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Made IT - Storie Italiane di Successo",
+        "url": "https://open.spotify.com/album/2UzJcb7nYz4KOr4jNt9DMW"
+      },
+      "artists": [
+        {
+          "name": "Made IT - Storie Italiane di Successo",
+          "url": "https://open.spotify.com/show/2UzJcb7nYz4KOr4jNt9DMW"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2288419,
+      "name": "L\u2019AI cambier\u00e0 tutto: ecco come usarla per potenziarti e non subirla con Camilla Brossa",
+      "url": "https://open.spotify.com/episode/0AQeW2bwXq1ncEZYOwqoti"
+    },
+    {
+      "album": {
         "name": "STREETSMART",
         "url": "https://open.spotify.com/album/66xtN6seXpkHY6Ylv7Ttux"
       },
@@ -830,6 +884,24 @@
       "duration_ms": 2738416,
       "name": "S1x03 - Consigli di Viaggio - Spooking.goth - pt.1",
       "url": "https://open.spotify.com/episode/4xm1YDt2iU9fvL0PSfpw5b"
+    },
+    {
+      "album": {
+        "name": "Capiamo",
+        "url": "https://open.spotify.com/album/6rBYFA6nwJ7l4n0RP8OiU7"
+      },
+      "artists": [
+        {
+          "name": "Capiamo",
+          "url": "https://open.spotify.com/show/6rBYFA6nwJ7l4n0RP8OiU7"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2113662,
+      "name": "SIAMO AMICI O FIDANZATI? Capiamo #122",
+      "url": "https://open.spotify.com/episode/7jBCH1EzlRAIOFfKxWzGu2"
     },
     {
       "album": {

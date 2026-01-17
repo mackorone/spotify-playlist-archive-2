@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 176229,
       "name": "4eVR",
       "url": "https://open.spotify.com/track/3FQajYjHFNemPYasI7HbAI"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 164493,
       "name": "Apothecary",
       "url": "https://open.spotify.com/track/62kUz7a77fClCwKxoyFeP6"
@@ -1853,6 +1853,28 @@
     },
     {
       "album": {
+        "name": "Kani Umainen (from \"My Hero Academia: Vigilantes\")",
+        "url": "https://open.spotify.com/album/0mQ0bclVrKbab5alo9ENIq"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Keisuke Nakashima",
+          "url": "https://open.spotify.com/artist/3c98pX9O3Tf7DWYTARVv5W"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64906,
+      "name": "Kani Umainen - from \"My Hero Academia: Vigilantes\"",
+      "url": "https://open.spotify.com/track/5TsQBiQjdeRCNeE8n7wcfl"
+    },
+    {
+      "album": {
         "name": "Kekka Orai(English ver)",
         "url": "https://open.spotify.com/album/1ygQd5Oc5CVPPTMKIRIYyZ"
       },
@@ -2861,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "PERSONAL",
+        "url": "https://open.spotify.com/album/5CsVRUgb6wdd38OjA2YlzB"
+      },
+      "artists": [
+        {
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275493,
+      "name": "PERSONAL (ED Theme to Hell's Paradise: Jigokuraku Season 2)",
+      "url": "https://open.spotify.com/track/2EopAWJR4qdSHbpAspdQ5P"
+    },
+    {
+      "album": {
         "name": "BURNOUT SYNDROMEZ",
         "url": "https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa"
       },
@@ -3095,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "All You Need Is Kill (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DWofd0w7V7W10Q2jx62LZ"
+      },
+      "artists": [
+        {
+          "name": "Yasuhiro Maeda",
+          "url": "https://open.spotify.com/artist/0WBuyVG4lwRAKRMIhhIOic"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127381,
+      "name": "relentless dread",
+      "url": "https://open.spotify.com/track/5zNIPCWEiaqLzWhJXvLjqh"
+    },
+    {
+      "album": {
         "name": "The Summer Hikaru Died (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/43L5XfWix9oq9PEKnaHZQV"
       },
@@ -3218,7 +3276,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 97213,
       "name": "Rock-Solid Hero",
       "url": "https://open.spotify.com/track/6YF7XbKCxeEoH8sETcJekg"
@@ -3426,7 +3484,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 233240,
       "name": "Shouted Serenade",
       "url": "https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov"
@@ -3676,6 +3734,24 @@
       "duration_ms": 209893,
       "name": "Takeaway (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/6wo37KVqFJhtuxPTpLCcfe"
+    },
+    {
+      "album": {
+        "name": "TEST ME",
+        "url": "https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171482,
+      "name": "TEST ME",
+      "url": "https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe"
     },
     {
       "album": {
@@ -4284,7 +4360,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 278013,
       "name": "When Wishes Bloom (from \"The Apothecary Diaries\" Soundtrack)",
       "url": "https://open.spotify.com/track/2EMXqSv1xiGy0PfTIB0Uz3"
@@ -4437,6 +4513,28 @@
     },
     {
       "album": {
+        "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana - (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
+        "url": "https://open.spotify.com/album/0FHpLaGsQPsr31VcXEx9Yq"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana - (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
+      "url": "https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ"
+    },
+    {
+      "album": {
         "name": "STUDIO CHIZU Music Journey Vol. 1 - Cinematic Orchestra 2022",
         "url": "https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw"
       },
@@ -4536,6 +4634,24 @@
       "duration_ms": 229917,
       "name": "\u306f\u3058\u307e\u308a\u306e\u30bb\u30c4\u30ca",
       "url": "https://open.spotify.com/track/5cLBqoblPJague9WgPK5Xp"
+    },
+    {
+      "album": {
+        "name": "\u3088\u3042\u3051\u306e\u3046\u305f - Yoake no uta - JUJUTSU KAISEN The Culling Game part1 Ending Theme Song",
+        "url": "https://open.spotify.com/album/58vU4Ix3CBflsbWDI9HpaZ"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199612,
+      "name": "\u3088\u3042\u3051\u306e\u3046\u305f - Yoake no uta",
+      "url": "https://open.spotify.com/track/5EiVeDviICNBtdhZwGxp0Z"
     },
     {
       "album": {
@@ -5160,7 +5276,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 214639,
       "name": "\u65c5\u306e\u3086\u304f\u3048",
       "url": "https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv"
@@ -5286,7 +5402,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 188300,
       "name": "\u6b21\u56de\u4e88\u544a",
       "url": "https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs"
@@ -5510,7 +5626,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 198483,
       "name": "\u7d76\u5bfe\u96f6\u5ea6",
       "url": "https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7"

@@ -4,7 +4,7 @@
 
 > peach is an indie pop playlist 🩷<br/>cover: MARO
 
-491 songs - 1 day 2 hr 27 min
+492 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Cinema](https://open.spotify.com/track/2GydOd9TFZoz42qYxHR0ra) | [Alaska Blue](https://open.spotify.com/artist/6DBwAnbSrkdZEhEitwg0Vq) | [LOSS](https://open.spotify.com/album/42jcxFU9ue6dJvONl4ubEe) | 2:10 | 2025-05-15 | 2025-08-08 |
 | [Cinematic](https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Cinematic](https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG) | 3:16 | 2025-05-15 | 2025-06-13 |
 | [City Warm Heart](https://open.spotify.com/track/3nqjxIyCFr72mrgbUvxX0y) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [City Warm Heart](https://open.spotify.com/album/5iNljgQzhCShhX58EmQA52) | 3:01 | 2024-06-14 | 2025-01-22 |
-| [Clinging To The Sides](https://open.spotify.com/track/61CmJ6dcAOK66g5wgbH7cc) | [Harriet Dagnall](https://open.spotify.com/artist/18pxBfaTMWeMRYnlmr0h3t) | [Clinging To The Sides](https://open.spotify.com/album/0FRHDn9NhgaCFA8IHMVxta) | 3:32 | 2025-10-02 |  |
+| [Clinging To The Sides](https://open.spotify.com/track/61CmJ6dcAOK66g5wgbH7cc) | [Harriet Dagnall](https://open.spotify.com/artist/18pxBfaTMWeMRYnlmr0h3t) | [Clinging To The Sides](https://open.spotify.com/album/0FRHDn9NhgaCFA8IHMVxta) | 3:32 | 2025-10-02 | 2026-01-17 |
 | [Closer](https://open.spotify.com/track/2VNl1ygvFfGN4TW1U1UFhR) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Closer](https://open.spotify.com/album/7DVDJeDFjoafoFF3E70NV4) | 4:24 | 2025-12-05 |  |
 | [Closer](https://open.spotify.com/track/45i9oZVhfcR8uM34sbOnml) | [seegz](https://open.spotify.com/artist/7sgYueUDoDPfAyobvj9dzY) | [Closer](https://open.spotify.com/album/58VP6rmlhHURxxgamHwkyG) | 2:59 | 2025-07-24 | 2025-10-10 |
 | [College Friends](https://open.spotify.com/track/2sLLio7eJcF79boVkPggqP) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [College Friends](https://open.spotify.com/album/3uH85LLXWihvdcrrriO0Es) | 3:34 | 2025-10-09 | 2025-12-12 |
@@ -243,6 +243,7 @@
 | [idea of you](https://open.spotify.com/track/1gnjxcqvMQUHv2asWTxo8J) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [obscura](https://open.spotify.com/album/1QBQzpCgdoe89WjGPdKPMm) | 2:57 | 2024-06-14 | 2024-08-22 |
 | [If Heaven Is A Place](https://open.spotify.com/track/03eK000l8DWtygXbhZvLpt) | [Tourdegrass](https://open.spotify.com/artist/4ITiSD120N2CHnYdUoQzp7) | [If Heaven Is A Place](https://open.spotify.com/album/6VFuZegognf3upIna2tRiK) | 3:06 | 2025-07-24 | 2025-10-10 |
 | [If I Was Abducted By Aliens](https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [If I Was Abducted By Aliens](https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE) | 2:46 | 2024-08-21 | 2025-04-13 |
+| [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-01-16 |  |
 | [Imposter](https://open.spotify.com/track/1OYOObc7WZnhkhvNgfrB2M) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:33 | 2025-04-12 | 2025-06-13 |
 | [in for the kill](https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [in for the kill](https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18) | 3:18 | 2025-01-24 | 2025-05-16 |
 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 | 2024-09-20 | 2025-04-13 |
@@ -269,7 +270,7 @@
 | [Learn To Let You Go](https://open.spotify.com/track/1OSIw2VfI1X6PEOlb6Epe3) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/7nPnLv5ZkPXgQsCQdRk8Uz) | 3:11 | 2025-05-01 | 2025-07-18 |
 | [Leave](https://open.spotify.com/track/3TW3fqlbbe5Vg9PtBl4LiK) | [NEDA](https://open.spotify.com/artist/3ujRcPTesvftBGcy2rkzrl) | [Leave](https://open.spotify.com/album/7HURV6NwFn1j0Zc0VfsTdN) | 3:27 | 2025-09-19 | 2025-12-06 |
 | [Leaving You](https://open.spotify.com/track/3ZsQ4mt2KWgbvejith5cl0) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Leaving You](https://open.spotify.com/album/3Q0Vbawo8Ow9XJjnLHZFec) | 3:30 | 2025-07-31 | 2025-08-29 |
-| [Left In Vienna](https://open.spotify.com/track/6Zg86kepmSGu3p7hrJe94W) | [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB) | [Left In Vienna](https://open.spotify.com/album/1uwmyJScITgzTmRrRAQAhw) | 3:33 | 2025-10-02 |  |
+| [Left In Vienna](https://open.spotify.com/track/6Zg86kepmSGu3p7hrJe94W) | [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB) | [Left In Vienna](https://open.spotify.com/album/1uwmyJScITgzTmRrRAQAhw) | 3:33 | 2025-10-02 | 2026-01-17 |
 | [Lemonade](https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Lemonade](https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU) | 2:36 | 2025-07-24 | 2025-10-24 |
 | [let me love you](https://open.spotify.com/track/2RYbGQvmeIs1ybAV7oLfKr) | [Lunar June](https://open.spotify.com/artist/3pEkJgB6pEHb3sqqP2CP7S) | [let me love you](https://open.spotify.com/album/1zWJ9zzQnB5LRgdXq4gc7d) | 2:26 | 2025-06-12 | 2025-08-15 |
 | [Like a Fool](https://open.spotify.com/track/0atY2C366o795qGCmGwWv7) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Deer In The Headlights](https://open.spotify.com/album/382WnZSUuDvsT2YhNWS3Ih) | 4:09 | 2024-06-14 | 2024-07-13 |
@@ -387,7 +388,7 @@
 | [See You Later](https://open.spotify.com/track/5fBAeMNvjmE60fyHlNSK6T) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Roxwell](https://open.spotify.com/album/0XDaQYDGJ4FHKXY7DHhg9c) | 3:01 | 2025-04-12 | 2025-06-13 |
 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 | 2025-05-01 | 2025-11-14 |
 | [Self\-Esteem](https://open.spotify.com/track/7bMMM8BJdo7EmlkcTFlfaY) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Dayglow \(Superbloom\)](https://open.spotify.com/album/6dUHXp9LdTRR4Xg8VJ8WlG) | 3:36 | 2025-07-10 | 2025-08-01 |
-| [settle](https://open.spotify.com/track/6BjQFAJJRqeI5URGQc5CwT) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL \(forever\)](https://open.spotify.com/album/5shzwC9p2nNFivMx37PFoD) | 2:34 | 2025-09-19 |  |
+| [settle](https://open.spotify.com/track/6BjQFAJJRqeI5URGQc5CwT) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL \(forever\)](https://open.spotify.com/album/5shzwC9p2nNFivMx37PFoD) | 2:34 | 2025-09-19 | 2026-01-17 |
 | [Sexy Lemon](https://open.spotify.com/track/5U5ozJzOlmJKcdjnOPcrVH) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Sexy Lemon](https://open.spotify.com/album/1MmXaM38gKGg0uj9WX9czP) | 3:45 | 2025-01-24 | 2025-04-13 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-14 | 2025-01-24 |
 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-06-14 | 2025-03-11 |

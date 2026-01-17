@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 145621,
+  "num_followers": 145668,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFHRj29ek/O4guD9LepaJSrf1yUy",
+  "snapshot_id": "AAAAADFDmJXUdmm93Zu6c+F5sLGtpmTu",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:30",
+      "album": {
+        "name": "Didn't I Keep Runnin'",
+        "url": "https://open.spotify.com/album/0G1CMLfaqiXJ39DpUHWHL2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 259813,
+      "name": "Didn't I Keep Runnin'",
+      "url": "https://open.spotify.com/track/1nH7bZ7xWEhsaSP3pax31s"
+    },
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
@@ -99,22 +115,6 @@
       "duration_ms": 230687,
       "name": "Driftin' And Driftin'",
       "url": "https://open.spotify.com/track/407IbQLCqkrqTL1UcfYOFI"
-    },
-    {
-      "added_at": "2025-11-14 05:00:25",
-      "album": {
-        "name": "Muddy Waters",
-        "url": "https://open.spotify.com/album/7sgzYUuoVjD7fCyQYs0fG3"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Muddy Waters",
-      "url": "https://open.spotify.com/track/0UrWr61adi0rmMxPlRgVHf"
     },
     {
       "added_at": "2025-11-14 05:00:25",

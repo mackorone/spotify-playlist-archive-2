@@ -5431,6 +5431,24 @@
     },
     {
       "album": {
+        "name": "Dreams of Summer",
+        "url": "https://open.spotify.com/album/5TViRVC0ybRDhUcnZChkga"
+      },
+      "artists": [
+        {
+          "name": "Chetco Effect",
+          "url": "https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145410,
+      "name": "Dreams of Summer",
+      "url": "https://open.spotify.com/track/1jVckG8SZelmhcOUEQTmCb"
+    },
+    {
+      "album": {
         "name": "Dreamwalking",
         "url": "https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms"
       },
@@ -11532,7 +11550,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 147000,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/7mY66g3G0lsz60sqo4SOyR"

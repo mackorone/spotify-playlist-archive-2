@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 210000,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/4OcandUdEWeKGxuJWmg2dh"
@@ -4104,6 +4104,28 @@
       "duration_ms": 366513,
       "name": "Moons Ago",
       "url": "https://open.spotify.com/track/7KVEWO1McsqsfoX7rXQdFy"
+    },
+    {
+      "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/1SR9pFDyApxSYP8cYpPTBJ"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180608,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/0RvjKMKJgrJct18yTfL9VQ"
     },
     {
       "album": {

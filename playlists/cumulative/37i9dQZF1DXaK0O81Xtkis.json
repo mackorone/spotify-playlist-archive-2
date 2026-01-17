@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring SUM SUN",
+  "description": "a little indie, a little pop, soda featuring Malcolm Todd",
   "name": "soda",
   "tracks": [
     {
@@ -920,7 +920,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 175716,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 159840,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/1NryN6SoRm8J8TBqzfIGST"
@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 213236,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
@@ -3190,7 +3190,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 117192,
       "name": "boyfriend",
       "url": "https://open.spotify.com/track/2MOqRMjE5MDnnwJrIWEpcn"
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 172271,
       "name": "brand new me!",
       "url": "https://open.spotify.com/track/00oIgUaZ98Kv1IzJlMLR8i"
@@ -4626,6 +4626,24 @@
       "duration_ms": 201186,
       "name": "cindy",
       "url": "https://open.spotify.com/track/0YZCAtwtnboKKuNO3nV32j"
+    },
+    {
+      "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/2H5dfaWvWaCfvEI2zq9XZq"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214584,
+      "name": "Cinematic",
+      "url": "https://open.spotify.com/track/5LPa2CicoiwWBIt0cKDjUW"
     },
     {
       "album": {
@@ -6095,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/5UigyP4Tis77ddifVJcnbl"
+      },
+      "artists": [
+        {
+          "name": "Jordan Frye",
+          "url": "https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176797,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -6616,7 +6652,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 158133,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5IPuULP59E51nOwmYrElKt"
@@ -6728,6 +6764,24 @@
       "duration_ms": 156284,
       "name": "Don't Hate Me When It's Over",
       "url": "https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e"
+    },
+    {
+      "album": {
+        "name": "Don't Include Me (American Dream)",
+        "url": "https://open.spotify.com/album/21zsuSka5XWc74qwThtb46"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177727,
+      "name": "Don't Include Me (American Dream)",
+      "url": "https://open.spotify.com/track/17PfJpgoah18r7kKl0T8gF"
     },
     {
       "album": {
@@ -7027,6 +7081,24 @@
     },
     {
       "album": {
+        "name": "Drama King",
+        "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190901,
+      "name": "Drama King",
+      "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
+    },
+    {
+      "album": {
         "name": "Dramatic",
         "url": "https://open.spotify.com/album/0fg6UIRoB0K5pLUU6XpWZy"
       },
@@ -7258,6 +7330,24 @@
       "duration_ms": 240737,
       "name": "DYWTYLM",
       "url": "https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI"
+    },
+    {
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
       "album": {
@@ -7558,7 +7648,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 166544,
       "name": "Ever After (feat. eaJ)",
       "url": "https://open.spotify.com/track/0MnSQChsBB4y4ARVbIGN70"
@@ -10627,6 +10717,24 @@
     },
     {
       "album": {
+        "name": "Hi My Love",
+        "url": "https://open.spotify.com/album/5IUwyON6SEB85IblIjowCP"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176486,
+      "name": "Hi My Love",
+      "url": "https://open.spotify.com/track/5ZHRKtrosRwOzUHv7WmyGK"
+    },
+    {
+      "album": {
         "name": "Hide And Seek",
         "url": "https://open.spotify.com/album/5aI0fru90lUJrf4RFXOYMo"
       },
@@ -11194,7 +11302,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 227500,
       "name": "how do i tell u",
       "url": "https://open.spotify.com/track/74sEcN2fzGvGpP785DeiHt"
@@ -11288,6 +11396,24 @@
       "duration_ms": 179073,
       "name": "how well do you know your feelings?",
       "url": "https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz"
+    },
+    {
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/0LoVo5gwblY0FCEnsbLXzb"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/6DXCdk7JVkB7PsjmhRkJEe"
     },
     {
       "album": {
@@ -12250,7 +12376,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 232375,
       "name": "i wish i knew how to quit you",
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
@@ -12348,7 +12474,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 218613,
       "name": "I'll Be Here When You're Back",
       "url": "https://open.spotify.com/track/3pNcgvbucJFDBUPqWsDS6b"
@@ -17630,7 +17756,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 111000,
       "name": "Off My Head",
       "url": "https://open.spotify.com/track/5428HTy2dqDLwQ7iDth6Lc"
@@ -18554,7 +18680,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 180493,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/3IfZgsFeQe31nGg4xcb5AX"
@@ -18860,7 +18986,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 172748,
       "name": "play",
       "url": "https://open.spotify.com/track/43HLGa3iry3gOahaTUGcIM"
@@ -19496,7 +19622,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 222869,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t"
@@ -20228,7 +20354,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 144544,
       "name": "say something",
       "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
@@ -21262,7 +21388,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 147877,
       "name": "So Good",
       "url": "https://open.spotify.com/track/7eLSdXUfuIJyTPEzyBfpkS"
@@ -21450,7 +21576,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 202835,
       "name": "Somebody You Like",
       "url": "https://open.spotify.com/track/1WJ66qjiS1DTZC3U0FcGsj"
@@ -21938,7 +22064,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 217102,
       "name": "starman",
       "url": "https://open.spotify.com/track/4t8xELB3RVb8n7dxaQ1H5I"
@@ -22372,7 +22498,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 180354,
       "name": "Strange Weather",
       "url": "https://open.spotify.com/track/1sg0t5L8OHfKHNGc3lMb27"
@@ -22606,7 +22732,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 154673,
       "name": "Suckerpunch",
       "url": "https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH"
@@ -22660,7 +22786,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 168205,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0IhcVVlmZCPOkSSozJ2smN"
@@ -23436,7 +23562,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 149663,
       "name": "Tan Lines",
       "url": "https://open.spotify.com/track/2tPxcjGZOp7y9LHe1mtydD"
@@ -23566,7 +23692,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 203285,
       "name": "Telephoning from Safari",
       "url": "https://open.spotify.com/track/6bZkrUb3kNQG5XCCcWZOt5"
@@ -24230,7 +24356,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 206075,
       "name": "The Things",
       "url": "https://open.spotify.com/track/6vMRaNnBqrctIE8AJk38oM"
@@ -24504,7 +24630,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 188112,
       "name": "THINKIN BOUT YOU",
       "url": "https://open.spotify.com/track/5GzTxQw4J6Qv1ekHJBxqRB"
@@ -26348,7 +26474,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 192204,
       "name": "What I Am",
       "url": "https://open.spotify.com/track/2NzIHruwYO4Esv1VOKh42S"
@@ -26964,7 +27090,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 178680,
       "name": "Wisdom Tooth",
       "url": "https://open.spotify.com/track/30Pw9cCYhfokrNRFQ6rz3d"

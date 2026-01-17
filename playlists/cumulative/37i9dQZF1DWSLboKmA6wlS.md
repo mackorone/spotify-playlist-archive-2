@@ -4,7 +4,7 @@
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: Jeng Phuchit\. Artwork: Isu Kim
 
-2,523 songs - 6 day 14 hr 29 min
+2,524 songs - 6 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [คงต้องหายไป \(GHOSTING\)](https://open.spotify.com/track/64NRL5VmW3TOsk1y4fqbLq) | [Roger That](https://open.spotify.com/artist/2bS5RizmvA9A4hutEGOM0R) | [คงต้องหายไป \(GHOSTING\)](https://open.spotify.com/album/7pSlVAxkW9d9WlyS4QqeHR) | 4:28 | 2023-11-24 | 2024-01-13 |
 | [คงต้องไปแล้ว](https://open.spotify.com/track/7rfvmVvYeH1Q51Nc9vLlbT) | [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Sevenly Part 1](https://open.spotify.com/album/1hVf9s4DMVGNrOZBMujeAp) | 2:08 | 2025-02-20 | 2025-03-28 |
 | [คงฝันดี \(Sweet Dream\)](https://open.spotify.com/track/0tWqMnkzXjEPTbLi3LNxu6) | [Pleng ChayaphatK.](https://open.spotify.com/artist/1Q0DMW0a3Z7kAbhqp3kfv0), [NICETYNINE](https://open.spotify.com/artist/7sjGiBVz4YbseSsnfOdm0h), [YUNG Q](https://open.spotify.com/artist/0EssaMYTi59xPORuvDQwSs) | [คงฝันดี \(Sweet Dream\)](https://open.spotify.com/album/1vOI74Ze4bFejsrtDUS3v2) | 3:33 | 2024-06-21 | 2024-07-02 |
+| [คงอีกสักพัก \(Endless\)](https://open.spotify.com/track/7rZQkTLTBHYpcenf427jQK) | [Lalatae](https://open.spotify.com/artist/5TfckXp6y7BgwMNQZE2mkh) | [คงอีกสักพัก \(Endless\)](https://open.spotify.com/album/36RggyGvhlKKf6mNPyXP1g) | 4:11 | 2026-01-15 |  |
 | [คงเป็นเพราะ \[Why\]](https://open.spotify.com/track/7w3fCDsaJeWuOLHMPoxvss) | [Matmee Marisa](https://open.spotify.com/artist/2HzTZemgrUxAu1W1ym8tyC) | [คงเป็นเพราะ \[Why\]](https://open.spotify.com/album/66TomtXNfnARFIpTVTGcwZ) | 2:22 | 2025-01-09 | 2025-01-25 |
 | [คงได้เจอ \- Wish](https://open.spotify.com/track/4kLTDvd3JDQG1wvAd2P7uJ) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [คงได้เจอ \(Wish\)](https://open.spotify.com/album/6Eh1ZrBEIzpM9FN6YMS3gW) | 4:38 | 2024-10-18 | 2024-10-26 |
 | [คงไม่ตาย \(you won't die\)](https://open.spotify.com/track/7GZRYonOqcpDtCK1S2CJrr) | [chaopimburabha](https://open.spotify.com/artist/72oN0LjuQweZ8i1xKM3Err) | [นิราศน้ำตา \(listen to this when you cry\)](https://open.spotify.com/album/2HS0s8qLFPqlljAsiV29MB) | 2:56 | 2025-12-04 | 2026-01-15 |
@@ -1894,7 +1895,7 @@
 | [อุแว้ \(FirstCry\)](https://open.spotify.com/track/3dN4GmeNqgn1iK6QcdDupu) | [VYBES](https://open.spotify.com/artist/1QHlIhz1mXYD2KWRsdrnXI) | [อุแว้ \(FirstCry\)](https://open.spotify.com/album/3DPZN2docoo3IbMSotoiy7) | 3:51 | 2023-05-26 | 2023-06-03 |
 | [อุ่นหัวใจ \(I Got You\)](https://open.spotify.com/track/1W0fdG2Ucq8kRDwlZArKev) | [Opkhwan](https://open.spotify.com/artist/07bCRCOjJnqmlK3jdyKcd8) | [อุ่นหัวใจ \(I Got You\)](https://open.spotify.com/album/5tTPVpiV05kn7BH5ZrtD7b) | 3:07 | 2023-02-02 | 2023-02-25 |
 | [อุ่นไม่เหมือนได้กอดเธอ](https://open.spotify.com/track/3PB9bSDxHbQjRNVNAKRCWU) | [KLEE BHO](https://open.spotify.com/artist/5Q6Oopcb2HepplxELz1AB3) | [อุ่นไม่เหมือนได้กอดเธอ](https://open.spotify.com/album/6eoFIC9QL3K0Pmj3b1fzzV) | 3:04 | 2023-06-02 | 2023-06-10 |
-| [อุ้งมือ \(rewind\)](https://open.spotify.com/track/7vNRdiyGapUwabPg95bnb6) | [phufa](https://open.spotify.com/artist/5DBzB5LBcjhLch039hzb2y) | [daiprode](https://open.spotify.com/album/108S2GKsLHDaePcbv4CAhg) | 3:31 | 2026-01-14 |  |
+| [อุ้งมือ \(rewind\)](https://open.spotify.com/track/7vNRdiyGapUwabPg95bnb6) | [phufa](https://open.spotify.com/artist/5DBzB5LBcjhLch039hzb2y) | [daiprode](https://open.spotify.com/album/108S2GKsLHDaePcbv4CAhg) | 3:31 | 2026-01-14 | 2026-01-17 |
 | [อ่อนไหวไม่อ่อนแอ \- Fine](https://open.spotify.com/track/3ZoBkbLjzD88aUSaNliecG) | [Biw](https://open.spotify.com/artist/4Rin3DhoRqf9dJVYCEODxa) | [อ่อนไหวไม่อ่อนแอ \(Fine\)](https://open.spotify.com/album/0A30QkUwtw8dysX3i0IDQJ) | 3:27 | 2023-11-17 | 2024-01-13 |
 | [อ่านทำไม](https://open.spotify.com/track/3OCH965d0kHPyFKVXQqENn) | [Bossiboy](https://open.spotify.com/artist/3YbbMSDKXxgEqBRCXWVOzY) | [อ่านทำไม](https://open.spotify.com/album/2jkta12YY6oTyUObUUiaiX) | 2:45 | 2025-07-10 | 2025-11-22 |
 | [อ่านแต่ไม่ตอบ \(READ\)](https://open.spotify.com/track/2kk6wUVIFRlHmlVY259tIH) | [แจม รชตะ](https://open.spotify.com/artist/5Ly3FFcd5BAGgP4cchhQOb) | [อ่านแต่ไม่ตอบ \(READ\) \- Single](https://open.spotify.com/album/5CihYCEiClMNtWm4v3VmrG) | 4:11 | 2024-07-19 | 2024-08-03 |

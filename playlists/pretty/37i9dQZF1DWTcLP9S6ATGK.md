@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover:Alisha Dira
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,907 likes - 110 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,087 likes - 110 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Belum Siap Sendiri](https://open.spotify.com/track/1FM1bUhgHRH6d7nk3hjLYT) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Belum Siap Sendiri](https://open.spotify.com/album/4ZXYDvP6cnLcQv8i5aANv3) | 3:05 |
 | 2 | [Terulang Lagi](https://open.spotify.com/track/1r7k2d2E4TqKJ63EtQcFqQ) | [Kris Tomahu](https://open.spotify.com/artist/0tsyEljhXykxOCSFO1T56v) | [Terulang Lagi](https://open.spotify.com/album/50nb5ZAJt2YSHCGGY63vjr) | 3:57 |
-| 3 | [Jogja Lantai 2](https://open.spotify.com/track/1vnRDHIGegvoQcS3xcmaLd) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE), [Heruwa](https://open.spotify.com/artist/4njMybOphuw7MdDGv2KhA3) | [Jogja Lantai 2](https://open.spotify.com/album/2B5fBlYQhu8qVs8cmiaaet) | 4:01 |
+| 3 | [Jogja Lantai Dua](https://open.spotify.com/track/1vnRDHIGegvoQcS3xcmaLd) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE), [Heruwa](https://open.spotify.com/artist/4njMybOphuw7MdDGv2KhA3) | [Jogja Lantai Dua](https://open.spotify.com/album/2B5fBlYQhu8qVs8cmiaaet) | 4:01 |
 | 4 | [Rindu](https://open.spotify.com/track/6AoyuecwUT33mJXQBMOhgX) | [ANGEL PIETERS](https://open.spotify.com/artist/7asPKvMVP4x1mey64TS3PA) | [Rindu](https://open.spotify.com/album/3XFDpilOXSWR2as0Evjpqf) | 4:54 |
 | 5 | [Rutinitas](https://open.spotify.com/track/18g9AKRtXqa2D4sMpjsfc9) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Rutinitas](https://open.spotify.com/album/4SbeXXziAUz0hKhRxMbrnz) | 3:33 |
 | 6 | [Ya Sudahlah](https://open.spotify.com/track/2mKzrX1HgyZpp1hkg912hA) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Ya Sudahlah](https://open.spotify.com/album/13YkBL0dwHpBgGAWNFI1mA) | 4:03 |

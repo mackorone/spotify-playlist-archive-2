@@ -1,13 +1,29 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 162437,
+  "num_followers": 162459,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAERG5VLbpwcDxCQTSTiO8aJ0bL5i",
+  "snapshot_id": "AAAAAJESeT+hJAQ30sJvF4ncEweUaGVs",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:18",
+      "album": {
+        "name": "LET'S DO IT",
+        "url": "https://open.spotify.com/album/67hL5JpNIboktvifSRpVS8"
+      },
+      "artists": [
+        {
+          "name": "Vincen Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD"
+        }
+      ],
+      "duration_ms": 196552,
+      "name": "LET'S DO IT",
+      "url": "https://open.spotify.com/track/19IVRhn8g3925OeoKDPG2a"
+    },
     {
       "added_at": "2025-12-19 05:00:28",
       "album": {

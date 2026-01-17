@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "A Mutual Friend",
+        "url": "https://open.spotify.com/album/2iXXIsxR5dYhxMGAdrhK74"
+      },
+      "artists": [
+        {
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220250,
+      "name": "A Mutual Friend",
+      "url": "https://open.spotify.com/track/0oo7APt2BwlH2DvLo163xC"
+    },
+    {
+      "album": {
         "name": "A New Hope",
         "url": "https://open.spotify.com/album/0yX04smpSOdGBQsWMZ1Pmu"
       },
@@ -7090,7 +7108,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 205500,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/4CzDyivmhcakKRALgJ2fxE"
@@ -7126,7 +7144,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 197279,
       "name": "French books",
       "url": "https://open.spotify.com/track/6MWz69gBN3Es6dEk3OeMZF"
@@ -9326,6 +9344,24 @@
       "duration_ms": 179233,
       "name": "If I could just go back",
       "url": "https://open.spotify.com/track/6GqR4kbLTMfwJ2hFDZclMv"
+    },
+    {
+      "album": {
+        "name": "If Love Were True",
+        "url": "https://open.spotify.com/album/0uoxAwMmCTLHQKaBQwm0Rc"
+      },
+      "artists": [
+        {
+          "name": "The Indigo Trio",
+          "url": "https://open.spotify.com/artist/3X8jbykM6jKWuKKSzQ6kCb"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299732,
+      "name": "If Love Were True",
+      "url": "https://open.spotify.com/track/4avAhF6hI8GUB6PAUlgHJc"
     },
     {
       "album": {
@@ -11612,6 +11648,24 @@
       "duration_ms": 169218,
       "name": "Linda\u00b4s Dream",
       "url": "https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp"
+    },
+    {
+      "album": {
+        "name": "Linen skies",
+        "url": "https://open.spotify.com/album/6MhlekMWZYNNXEKCY7Ag08"
+      },
+      "artists": [
+        {
+          "name": "Clifford Randall",
+          "url": "https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173922,
+      "name": "Linen skies",
+      "url": "https://open.spotify.com/track/7w8xHEII6bVO1xw6hyfDBg"
     },
     {
       "album": {
@@ -19334,7 +19388,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 166631,
       "name": "The Girl I Love",
       "url": "https://open.spotify.com/track/7Jir0cV0wYEOkAm68v3Z8z"

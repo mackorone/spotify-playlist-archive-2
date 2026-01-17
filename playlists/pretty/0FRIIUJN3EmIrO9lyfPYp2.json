@@ -6,8 +6,136 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACZYB/KiTnrMgRjKOoTaMhVvGKJsFZ",
+  "snapshot_id": "AAACZkpLVmkRAWiNR3iYkgB/5FmOIWp/",
   "tracks": [
+    {
+      "added_at": "2026-01-16 14:33:25",
+      "album": {
+        "name": "room 312",
+        "url": "https://open.spotify.com/album/4vq80z96qre85PwhltcJba"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "solflare",
+          "url": "https://open.spotify.com/artist/1KaKjbkAWsvHFf5QO3QhYh"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "room 312",
+      "url": "https://open.spotify.com/track/3dLwgXUElV09wYqf7zbYHR"
+    },
+    {
+      "added_at": "2026-01-16 14:33:25",
+      "album": {
+        "name": "transmutation",
+        "url": "https://open.spotify.com/album/1JbWSArARifWWMWnjxv6C5"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        },
+        {
+          "name": "Arbee",
+          "url": "https://open.spotify.com/artist/4jO3BZbmJcXOlIrIsWPSqo"
+        }
+      ],
+      "duration_ms": 143990,
+      "name": "virtual boy",
+      "url": "https://open.spotify.com/track/3COADCQhooAym4GPZSdLZ1"
+    },
+    {
+      "added_at": "2026-01-16 14:33:25",
+      "album": {
+        "name": "saturn",
+        "url": "https://open.spotify.com/album/03opleEY7eQMDpoWvyRTmY"
+      },
+      "artists": [
+        {
+          "name": "insensible",
+          "url": "https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU"
+        }
+      ],
+      "duration_ms": 151361,
+      "name": "saturn",
+      "url": "https://open.spotify.com/track/2UDkFAHPhcdGtDsSyMNHEV"
+    },
+    {
+      "added_at": "2026-01-16 14:33:25",
+      "album": {
+        "name": "lonely night",
+        "url": "https://open.spotify.com/album/1kbTPYrePfKdY5tIT0rEPS"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "lonely night",
+      "url": "https://open.spotify.com/track/6Hp8FcOst2nP7bWTYVHJuE"
+    },
+    {
+      "added_at": "2026-01-16 14:33:25",
+      "album": {
+        "name": "abandoned",
+        "url": "https://open.spotify.com/album/65EH1EpOOLkS1yU3mXbR8D"
+      },
+      "artists": [
+        {
+          "name": "Shomamick.",
+          "url": "https://open.spotify.com/artist/5cBBiwYlrrXcMDHPAMKIep"
+        }
+      ],
+      "duration_ms": 151816,
+      "name": "abandoned",
+      "url": "https://open.spotify.com/track/7K9fZYxCoBdKTUPuBJA2t5"
+    },
+    {
+      "added_at": "2026-01-16 14:33:25",
+      "album": {
+        "name": "transmutation",
+        "url": "https://open.spotify.com/album/1JbWSArARifWWMWnjxv6C5"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        },
+        {
+          "name": "Arbee",
+          "url": "https://open.spotify.com/artist/4jO3BZbmJcXOlIrIsWPSqo"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "i feel weird",
+      "url": "https://open.spotify.com/track/7tHVxDjCxtAHLBq7UYaYns"
+    },
+    {
+      "added_at": "2026-01-16 14:33:25",
+      "album": {
+        "name": "this moment is everything",
+        "url": "https://open.spotify.com/album/0nChLrDGk31LNnZESljWGh"
+      },
+      "artists": [
+        {
+          "name": "mbynt",
+          "url": "https://open.spotify.com/artist/2mTgGSvHiCy6WNAIBQNOZo"
+        },
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "this moment is everything",
+      "url": "https://open.spotify.com/track/5Xb29dOKrJkYrONbwN5Kb9"
+    },
     {
       "added_at": "2026-01-10 20:29:22",
       "album": {

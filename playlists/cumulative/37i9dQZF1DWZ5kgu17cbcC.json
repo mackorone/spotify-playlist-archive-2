@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Addicted to Love [From \"Tell Me Lies (Season 3)\"]",
+        "url": "https://open.spotify.com/album/5obq7XI9DoZRevqIACrjoe"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185381,
+      "name": "Addicted to Love - From \"Tell Me Lies (Season 3)\"",
+      "url": "https://open.spotify.com/track/5DeYkAfWWVLyD7vZbN2I7I"
+    },
+    {
+      "album": {
         "name": "Alien: Earth (Original Soundtrack)",
         "url": "https://open.spotify.com/album/29rW2ZaHjqfTtHN5CbZJIN"
       },

@@ -2375,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/37GecuXJd0Q9FDpl2KZjUa"
+      },
+      "artists": [
+        {
+          "name": "Amanarii",
+          "url": "https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175854,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6mjUMGvDzZKmowEHEab8v2"
+    },
+    {
+      "album": {
         "name": "empty.",
         "url": "https://open.spotify.com/album/5zBW2qA58BwrKo6CBao10E"
       },

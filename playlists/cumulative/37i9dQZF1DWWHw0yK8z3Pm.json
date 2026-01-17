@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Fearless sounds at the crossroads of country and folk. Cover: Zach Bryan",
+  "description": "Fearless sounds at the crossroads of country and folk. Cover: Boy Golden",
   "name": "Renegades",
   "tracks": [
     {
@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 213226,
       "name": "Dans la vall\u00e9e",
       "url": "https://open.spotify.com/track/0hozlwGlJCvDx9BTWmKQ3L"
@@ -3071,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "Don't Put Me in the Middle",
+        "url": "https://open.spotify.com/album/6LnHgFPcqxZZDNbqItKjIi"
+      },
+      "artists": [
+        {
+          "name": "Julianna Riolino",
+          "url": "https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273146,
+      "name": "Don't Put Me in the Middle",
+      "url": "https://open.spotify.com/track/7LoMG7OXnNG8GrKcPUstEm"
+    },
+    {
+      "album": {
         "name": "Don't Wake Me Up [Feat. Jesse Welles]",
         "url": "https://open.spotify.com/album/0FU6mSNsf8fDlQGQhwIg2M"
       },
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 341173,
       "name": "East Wind",
       "url": "https://open.spotify.com/track/5w5jYQS9ke1bIGugVZZVNm"
@@ -6401,6 +6419,24 @@
     },
     {
       "album": {
+        "name": "Like a Child",
+        "url": "https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216380,
+      "name": "Like a Child",
+      "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
+    },
+    {
+      "album": {
         "name": "Like A Rembrandt",
         "url": "https://open.spotify.com/album/6ZTxJZ9BNB0NuuFy9AY3JU"
       },
@@ -7734,7 +7770,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 224552,
       "name": "Nomads - Timelines Acoustic",
       "url": "https://open.spotify.com/track/13kaQ2PH77l9v5xOl7maDw"
@@ -11520,6 +11556,28 @@
       "duration_ms": 222760,
       "name": "Wide Open (feat. Michaela Slinger)",
       "url": "https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE"
+    },
+    {
+      "album": {
+        "name": "The Cloudmaker's Cry",
+        "url": "https://open.spotify.com/album/56vReOxfodsnNrt66xgxX6"
+      },
+      "artists": [
+        {
+          "name": "Braden Lam",
+          "url": "https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr"
+        },
+        {
+          "name": "Michaela Slinger",
+          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222760,
+      "name": "Wide Open (feat. Michaela Slinger)",
+      "url": "https://open.spotify.com/track/4J00D7FgKC3O9O7oSLuX6K"
     },
     {
       "album": {

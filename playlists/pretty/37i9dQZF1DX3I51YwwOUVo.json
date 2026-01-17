@@ -1,6 +1,6 @@
 {
   "description": "Get to know our 2026 Artists to Watch.",
-  "num_followers": 8839,
+  "num_followers": 8878,
   "original_name": "Artists To Watch 2026",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-01-12 16:30:22",
       "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 203222,
+      "name": "Luck Of The Draw",
+      "url": "https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm"
+    },
+    {
+      "added_at": "2026-01-12 16:30:22",
+      "album": {
         "name": "MAKKA",
         "url": "https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 180000,
       "name": "MAKKA",
       "url": "https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr"
-    },
-    {
-      "added_at": "2026-01-12 16:30:22",
-      "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 203222,
-      "name": "Luck Of The Draw",
-      "url": "https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm"
     },
     {
       "added_at": "2026-01-12 16:30:22",

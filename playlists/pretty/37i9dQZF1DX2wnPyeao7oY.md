@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain](/playlists/plain/37i9dQZF1DX2wnPyeao7oY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX2wnPyeao7oY)
 
-### [Fresh Finds Heavy 2025](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
+### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: jeniverse
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,164 likes - 65 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,200 likes - 65 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 64 | [Erode](https://open.spotify.com/track/6NS3UG0800QVgNQMGbVunh) | [RUNE](https://open.spotify.com/artist/23nVOrmuIA5WDBVpsU4alV), [Mike Parsram](https://open.spotify.com/artist/1OtJUphyr1yJMRJmJwGHOt) | [Depth Perception](https://open.spotify.com/album/7lfXRKgKv73jeRdMWWHI5J) | 4:05 |
 | 65 | [Inari](https://open.spotify.com/track/0EtZasPm7PP2nVwpTjfybi) | [IKINÄ](https://open.spotify.com/artist/4xg4NsqU77gUm4ZmMRAxxe) | [Inari](https://open.spotify.com/album/1gRvGaLUzKJzjkQcv9C3E4) | 3:56 |
 
-Snapshot ID: `AAAAAAqHq0M/5ndg4+wDz/JcBSZXTYIW`
+Snapshot ID: `AAAAABMb4P2KIb6dX2olg1twkDLu7eh4`

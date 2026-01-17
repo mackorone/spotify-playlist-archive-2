@@ -1,13 +1,69 @@
 {
   "description": "Our favourite new music, curated by the XL team. ",
-  "num_followers": 16595,
+  "num_followers": 16601,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "AAAZO+vTib9/QcCJAEguayRjL/ExAG2P",
+  "snapshot_id": "AAAZQhm6aXKWNPRpH8kqKmVJVeMl0T89",
   "tracks": [
+    {
+      "added_at": "2026-01-16 14:53:01",
+      "album": {
+        "name": "Raft In The Sea",
+        "url": "https://open.spotify.com/album/3bPDiTVEsqTk0aInxUKvPE"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 215352,
+      "name": "Raft In The Sea",
+      "url": "https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1"
+    },
+    {
+      "added_at": "2026-01-16 14:51:09",
+      "album": {
+        "name": "FEAR OF ECLIPSE",
+        "url": "https://open.spotify.com/album/7zhi64PIlLEL1O4oqRLKWz"
+      },
+      "artists": [
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "duration_ms": 114580,
+      "name": "TOUCH ON ME",
+      "url": "https://open.spotify.com/track/4XcAjBdL4y1b9CcHaOkOCa"
+    },
+    {
+      "added_at": "2026-01-16 14:51:48",
+      "album": {
+        "name": "IRON VEINS",
+        "url": "https://open.spotify.com/album/3VRgF5Q9j8cm15zdYhdppu"
+      },
+      "artists": [
+        {
+          "name": "KAVARI",
+          "url": "https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv"
+        }
+      ],
+      "duration_ms": 204597,
+      "name": "IRON VEINS",
+      "url": "https://open.spotify.com/track/5O3cUdvbFgrYauB9yrEFEr"
+    },
     {
       "added_at": "2026-01-15 18:25:37",
       "album": {

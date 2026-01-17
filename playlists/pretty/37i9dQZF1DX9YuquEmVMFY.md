@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > GIVEON \[DEAR BELOVED THE TOUR\] in Seoul 2026.01.18\-19 @ 명화라이브홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,512 likes - 21 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,527 likes - 21 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

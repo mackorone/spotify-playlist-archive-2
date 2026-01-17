@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: ILLENIUM x Bastille x Dabin
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,369 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,383 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 2 | [Black & Gold](https://open.spotify.com/track/2bLVojtkh60Rh0wK0TLwaf) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Black & Gold](https://open.spotify.com/album/7r71jB4J1FYwoHzb86xmD4) | 3:12 |
 | 3 | [Give Love](https://open.spotify.com/track/7L1ePOIHaZKBHG7hugznDo) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Richard Bahericz](https://open.spotify.com/artist/50S44JfCOnfaTqZbSjfafK) | [Give Love](https://open.spotify.com/album/3mvpvSoC4gqMBj0wXiGeVP) | 2:37 |
 | 4 | [Fight Machine \(feat\. NAIIM\)](https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Eli & Dani](https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw), [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [Fight Machine \(feat\. NAIIM\)](https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS) | 2:41 |
-| 5 | [Black Midas](https://open.spotify.com/track/04lzz9u2H2NAXZgcME0o7r) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Black Midas](https://open.spotify.com/album/5i88rRUfLghzjRsaYaHBqz) | 4:04 |
+| 5 | [BLACK MIDAS](https://open.spotify.com/track/04lzz9u2H2NAXZgcME0o7r) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [BLACK MIDAS](https://open.spotify.com/album/5i88rRUfLghzjRsaYaHBqz) | 4:04 |
 | 6 | [Do It Right](https://open.spotify.com/track/0revALbfswvbw3zURpu4eE) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Do It Right](https://open.spotify.com/album/4ZGhXqzoSNBnzvxRB2NALr) | 6:12 |
 | 7 | [Rave Baby](https://open.spotify.com/track/5Gc4fbTUrQzqNGIWLaZHmC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [Evil Twiin](https://open.spotify.com/artist/4Wi32nMyDHreHb97iXd9zN) | [Rave Baby](https://open.spotify.com/album/3jDrXPC1SlciGoCYe4YQLi) | 3:17 |
 | 8 | [Go Mode](https://open.spotify.com/track/0Rxn4PqpW2wiNhj5a3Sjgd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Go Mode](https://open.spotify.com/album/7Fph1Fv8ybagzOa8If8oVg) | 3:08 |

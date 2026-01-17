@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Dario Jacque e Lauryyn in cover della playlist dell'R&B italiano 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,369 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,378 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 81 | [Vorrei](https://open.spotify.com/track/1aWkWhJxE3un97FpwgIc8K) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Vorrei](https://open.spotify.com/album/6REeztTQ4uQYlonoeKd53k) | 2:42 |
 | 82 | [fine \(feat\. Promessa\)](https://open.spotify.com/track/18Ait0H465AiTkmBAYhB6C) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [fango](https://open.spotify.com/album/5KHf4zpuHsj0u2SrMfPsNL) | 2:43 |
 | 83 | [Arma Puntata \(feat\. 22simba\)](https://open.spotify.com/track/2tchckpnk6RZ2yPyB09eeG) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [XS](https://open.spotify.com/album/3XIpwOtJ6Y0tXnx7M2CSJ2) | 2:51 |
-| 84 | [Notte](https://open.spotify.com/track/46dCukq7AyyqqBvazNBFso) | [Luzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Estranea](https://open.spotify.com/album/5RQApnooaH6s8Aqw4Chp9V) | 3:47 |
+| 84 | [Notte](https://open.spotify.com/track/46dCukq7AyyqqBvazNBFso) | [LUZAI](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Estranea](https://open.spotify.com/album/5RQApnooaH6s8Aqw4Chp9V) | 3:47 |
 | 85 | [Alter Ego](https://open.spotify.com/track/7HiVEN2qbdkAJI9cM3c6MR) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Aritmia](https://open.spotify.com/album/64OFnYN9MqorVX2fpHQpTN) | 3:39 |
 | 86 | [So What](https://open.spotify.com/track/2SBKzqeS4JBGoUwGWdlIEj) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [So What](https://open.spotify.com/album/1wyODxvIhnI7vxS8BPksbC) | 2:32 |
 | 87 | [UNA FORMICA AL SOLE](https://open.spotify.com/track/462Ahs4m2ZGo76M6AfqZcw) | [Ticky B](https://open.spotify.com/artist/46hvAixyF8ZVEssLifxnHd), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL) | [UNA FORMICA AL SOLE](https://open.spotify.com/album/2FDPrIYtni1WLSrIYAOTji) | 1:50 |

@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-152 songs - 11 hr 34 min
+153 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Hollywood Woman](https://open.spotify.com/track/4N5QsHoAC40TVNWKxQXjXF) | [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [West Coast Grooves](https://open.spotify.com/album/6pp0yGrv9FuAI0BFl42Vcx) | 1:56 | 2021-05-04 |  |
 | [I Don't Funk with You](https://open.spotify.com/track/2eiK5sjccZJdNTq8Qej596) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 2:33 | 2022-09-23 |  |
 | [Illuminate, Pt\. II](https://open.spotify.com/track/2CGdWIMOBsgUmgiwS5rMvN) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Rock Candy](https://open.spotify.com/album/1PTQRv4S9laI9rIt99d1RV) | 2:04 | 2022-10-14 |  |
+| [Isla Feliz \(feat\. Antoine Boyer\)](https://open.spotify.com/track/3cW6gfOIB00rKKDzriDpY7) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1), [Antoine Boyer](https://open.spotify.com/artist/2UKlumP0ZZDFcnuOSeNxHP) | [Isla Feliz \(feat\. Antoine Boyer\)](https://open.spotify.com/album/1HxoOPX6qThqtWugB6ecxu) | 4:45 | 2026-01-16 |  |
 | [Journey Through](https://open.spotify.com/track/2ht5zHY5EJYjNdvwLQpkz0) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [I Found The Sun Again](https://open.spotify.com/album/0nW69fDBiiEmlI9POYb0wF) | 5:54 | 2021-05-04 |  |
 | [Journey Through](https://open.spotify.com/track/6RQwWe0auWqd1RwFD4Pt64) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [I Found The Sun Again](https://open.spotify.com/album/3yNjUAz8wM1CxGCiEQcVzz) | 5:54 | 2021-05-04 | 2022-07-29 |
 | [Just Funky \(feat\. Travis Carlton & Lemar Carter\)](https://open.spotify.com/track/7DYbZkxRMGvy7OUx7676nk) | [Tomo Fujita](https://open.spotify.com/artist/4p00lD0GrsSqEK0sxFQpET), [Lemar Carter](https://open.spotify.com/artist/4LIPbJNLsO8GVfA5BLorLm), [Travis Carlton](https://open.spotify.com/artist/1aRHDzpzYUMLJBwZItVsTP) | [Blue Sky \(feat\. Travis Carlton\)](https://open.spotify.com/album/5k7TV6UPBb7DSyp81aqk37) | 4:44 | 2021-05-04 |  |
@@ -98,7 +99,7 @@
 | [Our Requiem \- Single Version](https://open.spotify.com/track/46vBOvYc2WqQYa4WLoz4j7) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Our Requiem](https://open.spotify.com/album/16OEgHcyDIA6qMKwL9LkXJ) | 2:32 | 2024-02-07 | 2024-09-07 |
 | [Out of the Void](https://open.spotify.com/track/3F8fZIypxQMVOOu7fZyN9A) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic), [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Out of the Void](https://open.spotify.com/album/62iUscBLSYMkO64WS7EIKS) | 3:53 | 2024-05-17 |  |
 | [Palisade](https://open.spotify.com/track/41NMIeXVq8UTFx9S8FZdSN) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Palisade](https://open.spotify.com/album/7FWb13yiqDAf96ueX5Tlzy) | 4:38 | 2024-12-13 | 2025-02-08 |
-| [Paul Position](https://open.spotify.com/track/4feswYiBEeswnbvARZYes2) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Paul Position](https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv) | 4:18 | 2024-07-26 |  |
+| [Paul Position](https://open.spotify.com/track/4feswYiBEeswnbvARZYes2) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Paul Position](https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv) | 4:18 | 2024-07-26 | 2026-01-17 |
 | [Planetary Lockdown](https://open.spotify.com/track/3cAEGkFwSdX1bBQsI3efgv) | [Bumblefoot](https://open.spotify.com/artist/1KGFAcP7ovMYuoQuloDhOj) | [Planetary Lockdown](https://open.spotify.com/album/4zV7IgwIYGcWyWsdRytXW8) | 5:16 | 2022-10-11 |  |
 | [Playing God](https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Playing God](https://open.spotify.com/album/3rHwz3EQwsQXdsXvSWE1N4) | 3:25 | 2022-07-29 |  |
 | [Playing God](https://open.spotify.com/track/4S0zagxseJHOL5ZVnTQA6X) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 3:25 | 2022-07-29 | 2024-04-19 |

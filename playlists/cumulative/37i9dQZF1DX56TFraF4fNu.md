@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Junior Zamora
 
-260 songs - 13 hr 38 min
+261 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/track/2WXPCiwCzoH71JESAImTKE) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/album/1B0ue14v9AHXSYloaqeMDM) | 2:49 | 2023-06-23 | 2023-09-30 |
 | [AL X MAYOR](https://open.spotify.com/track/5J4EnQf9SpzeWoa3J2WsDR) | [Benú](https://open.spotify.com/artist/138oFdOfNhLF3lctCm8d20), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [AL X MAYOR](https://open.spotify.com/album/6L05NbQNzxtg8EOeMtiFd8) | 3:10 | 2025-01-24 | 2025-05-28 |
 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 | 2023-03-31 | 2025-07-26 |
+| [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 | 2026-01-16 |  |
 | [Alma](https://open.spotify.com/track/1lZaIaZCrb4avapCCelFQt) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/2u7bufSK9Rws04JWErlg26) | 3:28 | 2023-06-23 | 2023-07-08 |
 | [Alma](https://open.spotify.com/track/3boLPeNmot5ubUXqqnh9l1) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/0hvjGiKkoFYJaOwiWLTQ5o) | 3:28 | 2023-03-31 | 2023-06-30 |
 | [Aloha Remix](https://open.spotify.com/track/4hpOYMQsjZtYAt7T2KPJ0b) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Aloha Remix](https://open.spotify.com/album/7JhKgf5sKbIPFZA0vYiEJr) | 4:07 | 2023-03-31 | 2023-07-29 |
@@ -159,7 +160,7 @@
 | [Musiquita Triste](https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Musiquita Triste](https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN) | 3:24 | 2024-03-29 | 2024-07-27 |
 | [Más Na](https://open.spotify.com/track/7fybIO8OfDYAnIwOLzbVsL) | [La Pardo](https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU) | [Más Na](https://open.spotify.com/album/4ZtOej9M3GMZSUDWN3dgwD) | 2:02 | 2024-01-19 | 2024-02-17 |
 | [Nairobi](https://open.spotify.com/track/6oq0tTpAsb9jA1LvaROCGl) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Nairobi](https://open.spotify.com/album/3UsbuomsvSRDTY4GckktmJ) | 3:12 | 2023-07-07 | 2023-10-21 |
-| [No Le Meten](https://open.spotify.com/track/2nPHB4cuPquIzSo2u4xaaW) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [AFROKING](https://open.spotify.com/album/4Uh2VnWhBhUgTA08dExXz8) | 2:37 | 2025-05-27 |  |
+| [No Le Meten](https://open.spotify.com/track/2nPHB4cuPquIzSo2u4xaaW) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [AFROKING](https://open.spotify.com/album/4Uh2VnWhBhUgTA08dExXz8) | 2:37 | 2025-05-27 | 2026-01-17 |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Me Conoce \(Remix\)](https://open.spotify.com/album/2t2aNgqXTXuCh9fqT05g9U) | 5:07 | 2024-03-29 |  |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2023-03-31 | 2024-04-19 |
 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 | 2023-03-31 | 2023-07-22 |

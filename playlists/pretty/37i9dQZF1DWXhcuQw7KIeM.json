@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 572747,
+  "num_followers": 572865,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
+        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
+      },
+      "artists": [
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        }
+      ],
+      "duration_ms": 315880,
+      "name": "Hausbrj\u00f3tr - Skullcrusher",
+      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
         "name": "Fa\u00feir",
         "url": "https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC"
       },
@@ -1227,26 +1243,6 @@
       "duration_ms": 340133,
       "name": "Hemkomst",
       "url": "https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Snake Pit Poetry",
-        "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
-      },
-      "artists": [
-        {
-          "name": "Einar Selvik",
-          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
-        },
-        {
-          "name": "Hilda \u00d6rvarsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1"
-        }
-      ],
-      "duration_ms": 428077,
-      "name": "Snake Pit Poetry",
-      "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1267,18 +1263,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "As Bright as a Thousand Suns",
-        "url": "https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx"
+        "name": "Valhalla Rising",
+        "url": "https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI"
       },
       "artists": [
         {
-          "name": "Arcana",
-          "url": "https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le"
+          "name": "Nytt Land",
+          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
         }
       ],
-      "duration_ms": 389386,
-      "name": "Inceptus",
-      "url": "https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf"
+      "duration_ms": 423531,
+      "name": "Valhalla Rising",
+      "url": "https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO"
     }
   ],
   "unique_name": "Northern Spirits",

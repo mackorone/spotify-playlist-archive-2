@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T?si=88g02L2xR7GJtLwkX6P7Lw"> Elsy Wameyo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,736 likes - 59 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,750 likes - 59 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 55 | [Tamashani](https://open.spotify.com/track/4e6DgpDMuNbeQyi2WW81CY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Skillo](https://open.spotify.com/artist/1JzUkclTdMsQyly5Egh66e), [Sudough Doss](https://open.spotify.com/artist/0XwTnupzWTCvjkwjPlMFLD), [Katapilla](https://open.spotify.com/artist/4Pg6JmD7P2fOKb2H3PyJzM) | [Tamashani](https://open.spotify.com/album/16mT8nJlCtejplp5sboqFo) | 3:27 |
 | 56 | [June 25th](https://open.spotify.com/track/52oGL84hQkBKLqtEuwsIs6) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [June 25th](https://open.spotify.com/album/4Hogx7jn8gJvADmHAXPzSH) | 2:50 |
 | 57 | [Confirmation](https://open.spotify.com/track/0wnP35og5XijJl7yOl3HzC) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD), [Mr Ree](https://open.spotify.com/artist/2mPAvbZaeVCxrSBv65hhU8) | [Confirmation](https://open.spotify.com/album/00bCLPSqWsUnLLzM2rSx0j) | 4:02 |
-| 58 | [Properly](https://open.spotify.com/track/7z2iv6bToqzdx8puIywKFI) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Properly](https://open.spotify.com/album/64iIqEzTMDg4yLrNkKVRFo) | 3:32 |
+| 58 | [Properly \(feat\. Femi One\)](https://open.spotify.com/track/7z2iv6bToqzdx8puIywKFI) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Properly \(feat\. Femi One\)](https://open.spotify.com/album/64iIqEzTMDg4yLrNkKVRFo) | 3:32 |
 | 59 | [Za Kimotho](https://open.spotify.com/track/2BOPAVjxcp0fXHRPgswq75) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Za Kimotho](https://open.spotify.com/album/0tBH7nKsc80CuRt6pMkldp) | 4:35 |
 
 Snapshot ID: `AAAAAGCDfDxGGvUxRXPCYUuCnXRPvHmt`

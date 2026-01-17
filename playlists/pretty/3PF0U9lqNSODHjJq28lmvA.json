@@ -1,116 +1,388 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2566,
+  "num_followers": 2567,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEeyMjiMA8AaZl0+cYjs/wXQ0Ha+zz",
+  "snapshot_id": "AAAEmC6fj/vRtQTgKDrhBDqJU6Nffdu4",
   "tracks": [
     {
-      "added_at": "2026-01-09 13:33:35",
+      "added_at": "2026-01-16 12:51:16",
       "album": {
-        "name": "Per Aspera Ad Astra",
-        "url": "https://open.spotify.com/album/2W2zIsdGgYUg0eQeaoN8js"
+        "name": "D.Y.C.I.I.B",
+        "url": "https://open.spotify.com/album/4xfwTBe2maBowmLgyuUT4A"
       },
       "artists": [
         {
-          "name": "Enter The Animus",
-          "url": "https://open.spotify.com/artist/6eK3Q6dKMsZdt2rPs6V0o4"
+          "name": "Nomy",
+          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+        }
+      ],
+      "duration_ms": 195756,
+      "name": "D.Y.C.I.I.B",
+      "url": "https://open.spotify.com/track/1PuTiWyDCZe2Z0rmshebVy"
+    },
+    {
+      "added_at": "2026-01-16 13:47:22",
+      "album": {
+        "name": "Tchikita",
+        "url": "https://open.spotify.com/album/2a88VeHnWCV0ogqcL4uz9g"
+      },
+      "artists": [
+        {
+          "name": "Rachid Kasmi",
+          "url": "https://open.spotify.com/artist/36wD11p3VIwHH25Glcn2ut"
         },
         {
-          "name": "The Anima Effect",
-          "url": "https://open.spotify.com/artist/6ICayNqPXIZuqvJFEK8LMV"
+          "name": "Hassan Twil",
+          "url": "https://open.spotify.com/artist/17Zt1WNqB7Aa5osCy7UidH"
+        }
+      ],
+      "duration_ms": 278095,
+      "name": "Tchikita",
+      "url": "https://open.spotify.com/track/3GDlJEiAmg77t2SQ5XI4yD"
+    },
+    {
+      "added_at": "2026-01-16 13:38:41",
+      "album": {
+        "name": "LMB",
+        "url": "https://open.spotify.com/album/0Ui3nvkt22Vcwccjl0PwKF"
+      },
+      "artists": [
+        {
+          "name": "Sunny Suljic",
+          "url": "https://open.spotify.com/artist/3JcGZ9gszrHCHXC9wJtNko"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "LMB",
+      "url": "https://open.spotify.com/track/5dafTw2hxgcCHQIOkx4Cne"
+    },
+    {
+      "added_at": "2026-01-16 13:42:51",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/15iylmvViQ7HKB8HvolXHT"
+      },
+      "artists": [
+        {
+          "name": "Rebel Road",
+          "url": "https://open.spotify.com/artist/6S7kR53XKNCHwHCNXMmJRx"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0joNNb6rs7wrl8QPoKWXiG"
+    },
+    {
+      "added_at": "2026-01-16 12:52:53",
+      "album": {
+        "name": "A.J.",
+        "url": "https://open.spotify.com/album/46ZdQUiYDNmdCmDrcQ3QIA"
+      },
+      "artists": [
+        {
+          "name": "Fremmed Rase",
+          "url": "https://open.spotify.com/artist/2HVkpSj2pyklj7VLGr5N2U"
         },
         {
-          "name": "Chiasma",
-          "url": "https://open.spotify.com/artist/3JUPiGh995t6SFMmax0Rn6"
+          "name": "Loot Fattig",
+          "url": "https://open.spotify.com/artist/2APeaugKGBkjjHTTAUCip9"
+        },
+        {
+          "name": "DJ Konkret",
+          "url": "https://open.spotify.com/artist/5UvO2cDVVg7D0CjWDB67qD"
         }
       ],
-      "duration_ms": 262500,
-      "name": "Per Aspera Ad Astra",
-      "url": "https://open.spotify.com/track/7pUVVItL46oPLIdPlXyTlG"
+      "duration_ms": 196359,
+      "name": "A.J.",
+      "url": "https://open.spotify.com/track/5VkVqfSf32SARvgsVQxMtM"
     },
     {
-      "added_at": "2026-01-09 13:34:04",
+      "added_at": "2026-01-16 13:48:03",
       "album": {
-        "name": "V Honda",
-        "url": "https://open.spotify.com/album/7KCfoaN5vXp3eLilRXCAvU"
+        "name": "Tourettes",
+        "url": "https://open.spotify.com/album/1R2Jr9QfSteQ3dq0mpsmBj"
       },
       "artists": [
         {
-          "name": "Jumal Velho",
-          "url": "https://open.spotify.com/artist/5HZeWJteVCHn2PLNSIhoAy"
+          "name": "Xiao",
+          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
         }
       ],
-      "duration_ms": 181970,
-      "name": "V Honda",
-      "url": "https://open.spotify.com/track/0BCuTFbk7AoQ4pYwiFBDwx"
+      "duration_ms": 81157,
+      "name": "Tourettes",
+      "url": "https://open.spotify.com/track/16aAnG5ZF3lTFjwNU8gwNG"
     },
     {
-      "added_at": "2026-01-09 13:34:29",
+      "added_at": "2026-01-16 13:40:09",
       "album": {
-        "name": "Stand My Ground",
-        "url": "https://open.spotify.com/album/0qh12nwOJec44slnbjD3wR"
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/4841ZT60xODYTbfxhDMrsr"
       },
       "artists": [
         {
-          "name": "Symphony Of Sweden",
-          "url": "https://open.spotify.com/artist/6AvBsDOrRn8rAdJdj3srdJ"
+          "name": "Kurt Joseph",
+          "url": "https://open.spotify.com/artist/1TFSTrw4PLhPMQmPjVWiof"
+        },
+        {
+          "name": "Corey Cole",
+          "url": "https://open.spotify.com/artist/1lfB9mqqhxzlyntSnvPvl8"
         }
       ],
-      "duration_ms": 171786,
-      "name": "Stand My Ground",
-      "url": "https://open.spotify.com/track/2g15Gnq7ps0l50KzOQAf4b"
+      "duration_ms": 176672,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/3c0BxAU8qVNkpSvPugHICa"
     },
     {
-      "added_at": "2026-01-09 13:34:54",
+      "added_at": "2026-01-16 12:51:46",
       "album": {
-        "name": "Tres formas de caer de pie",
-        "url": "https://open.spotify.com/album/2BBasp0r19RFhlviCRcbor"
+        "name": "Vastaan maailmaa",
+        "url": "https://open.spotify.com/album/1miu1JlFIEuRZODWV9T07p"
       },
       "artists": [
         {
-          "name": "DanyCelta",
-          "url": "https://open.spotify.com/artist/1snVR75o14kLvuDQl7SxAb"
+          "name": "Onni",
+          "url": "https://open.spotify.com/artist/4C7Hk6wMYyugTkVyj3fXqh"
         }
       ],
-      "duration_ms": 178259,
-      "name": "Es tu deseo que me salga mal",
-      "url": "https://open.spotify.com/track/0yfzNOY2QzdtKylXb5wbuy"
+      "duration_ms": 169049,
+      "name": "Vastaan maailmaa",
+      "url": "https://open.spotify.com/track/0lSOs8QgtHD4Sjwb8u7vjW"
     },
     {
-      "added_at": "2026-01-09 13:35:19",
+      "added_at": "2026-01-16 12:53:51",
       "album": {
-        "name": "U.N.I.T.Y. Demo",
-        "url": "https://open.spotify.com/album/6EP3n2lbq5114sLZQU3y5B"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5e8RgY5DKfrMAnR0olupVH"
       },
       "artists": [
         {
-          "name": "The Big Hurt",
-          "url": "https://open.spotify.com/artist/66koa39z8kBfqOvtHkh4uz"
+          "name": "Stewart Beades",
+          "url": "https://open.spotify.com/artist/3on12dgxzzZxV0qGDHM8cn"
         }
       ],
-      "duration_ms": 118477,
-      "name": "U.N.I.T.Y.",
-      "url": "https://open.spotify.com/track/1XZO7hnM9buSDUbmR3xPZC"
+      "duration_ms": 190208,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/27GaDBPaEtq8JZwS094URb"
     },
     {
-      "added_at": "2026-01-09 13:35:46",
+      "added_at": "2026-01-16 12:56:10",
       "album": {
-        "name": "Selfishly",
-        "url": "https://open.spotify.com/album/16oHdmV1oknYQUnXQ0JJEo"
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/0wlTJuYQQYjgi2hJQDpJgc"
       },
       "artists": [
         {
-          "name": "Lyric",
-          "url": "https://open.spotify.com/artist/5CwmMqJxraGLXvJydreBIU"
+          "name": "Rikard Vilhelm Lindell",
+          "url": "https://open.spotify.com/artist/2Pt05ellB018jz5R96Mp6W"
         }
       ],
-      "duration_ms": 290922,
-      "name": "What Do You See_",
-      "url": "https://open.spotify.com/track/5riFnAUMFj81nWRXQxbkvI"
+      "duration_ms": 538536,
+      "name": "A Piece of Soft",
+      "url": "https://open.spotify.com/track/4ak8B1olvkpauzzlp5W5LD"
+    },
+    {
+      "added_at": "2026-01-16 12:56:51",
+      "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/1chprB3zyOIm9gKDUytZ94"
+      },
+      "artists": [
+        {
+          "name": "Solvind",
+          "url": "https://open.spotify.com/artist/4XwwyUWfJ0ka29mvQIxL5X"
+        }
+      ],
+      "duration_ms": 232138,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/3l7FU6UPlXoutUrXPPGzqx"
+    },
+    {
+      "added_at": "2026-01-16 13:28:51",
+      "album": {
+        "name": "It Is the How",
+        "url": "https://open.spotify.com/album/3J8Jh8vbMsISgLnh5wOpnq"
+      },
+      "artists": [
+        {
+          "name": "Solvind",
+          "url": "https://open.spotify.com/artist/4XwwyUWfJ0ka29mvQIxL5X"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "It Is the How",
+      "url": "https://open.spotify.com/track/0yiIqrz2GRHVZz1hZHepuP"
+    },
+    {
+      "added_at": "2026-01-16 13:31:37",
+      "album": {
+        "name": "F.Y.A (Forever Young Africa)",
+        "url": "https://open.spotify.com/album/3PMZvBe0zRB8wtSCmxiRPT"
+      },
+      "artists": [
+        {
+          "name": "A.M.K",
+          "url": "https://open.spotify.com/artist/5ejLca8xTTxpkuthaCBIpu"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "F.Y.A (Forever Young Africa)",
+      "url": "https://open.spotify.com/track/4cYGoux4TGETvH6SiyVfY4"
+    },
+    {
+      "added_at": "2026-01-16 13:34:41",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/2cwlpRGE2nFVTPHxaSOGwR"
+      },
+      "artists": [
+        {
+          "name": "A.M.K",
+          "url": "https://open.spotify.com/artist/5ejLca8xTTxpkuthaCBIpu"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/70eelnkJQ364NqiMtwFbEA"
+    },
+    {
+      "added_at": "2026-01-16 13:38:01",
+      "album": {
+        "name": "\u0395\u03b3\u03c9 \u03b8\u03b5\u03bb\u03c9 \u03c4\u03bf \u03c3\u03c0\u03b9\u03c4\u03b9 \u03bc\u03bf\u03c5",
+        "url": "https://open.spotify.com/album/0yqzrdG2jXZ3NFCbeCwEgh"
+      },
+      "artists": [
+        {
+          "name": "Nicky Papa",
+          "url": "https://open.spotify.com/artist/2ec8p4vt3OGLO2JIcOefIK"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "\u0395\u03b3\u03c9 \u03b8\u03b5\u03bb\u03c9 \u03c4\u03bf \u03c3\u03c0\u03b9\u03c4\u03b9 \u03bc\u03bf\u03c5",
+      "url": "https://open.spotify.com/track/5ddbTFqYEeQTmYhikSILQx"
+    },
+    {
+      "added_at": "2026-01-16 13:39:33",
+      "album": {
+        "name": "Neglected Scumbag",
+        "url": "https://open.spotify.com/album/0wwTaPuFhRL23KygXt0EWx"
+      },
+      "artists": [
+        {
+          "name": "Tom Fortuna",
+          "url": "https://open.spotify.com/artist/3ver9CwdXwM4UOZf2s1a0P"
+        },
+        {
+          "name": "Yakho",
+          "url": "https://open.spotify.com/artist/4K1NwClmTQmQu7sZByari9"
+        }
+      ],
+      "duration_ms": 183779,
+      "name": "Lies and Lies",
+      "url": "https://open.spotify.com/track/7wWyjSCrhqUfWzAnFGv2rq"
+    },
+    {
+      "added_at": "2026-01-16 13:40:46",
+      "album": {
+        "name": "Cathedral",
+        "url": "https://open.spotify.com/album/7Lnz04GPAMIOSx8ojWYSW2"
+      },
+      "artists": [
+        {
+          "name": "Take Me Out",
+          "url": "https://open.spotify.com/artist/10uN7jAKmT7BxIMxMBFsfF"
+        }
+      ],
+      "duration_ms": 235568,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/7de3aMtIy1OLXcc3eVGe1s"
+    },
+    {
+      "added_at": "2026-01-16 13:41:56",
+      "album": {
+        "name": "Wanna Be Like You",
+        "url": "https://open.spotify.com/album/5B9t3Iqsw3XsPn2zRYEMNv"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scheele",
+          "url": "https://open.spotify.com/artist/2gOHOymY97X73WcqFSoL29"
+        },
+        {
+          "name": "Axilo",
+          "url": "https://open.spotify.com/artist/7FxRA7369WIBCP8uwtMICP"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Wanna Be Like You - Axilo House Remix",
+      "url": "https://open.spotify.com/track/5uXTkgIXTRyTHGFoqO6hkK"
+    },
+    {
+      "added_at": "2026-01-16 13:44:55",
+      "album": {
+        "name": "Helsinki After Rain",
+        "url": "https://open.spotify.com/album/1cQgDIxiF7xS4pjDjSeEY1"
+      },
+      "artists": [
+        {
+          "name": "Jazz Cinematica",
+          "url": "https://open.spotify.com/artist/6AvlN1azkmCLIlENyGRraQ"
+        }
+      ],
+      "duration_ms": 210174,
+      "name": "Helsinki After Rain",
+      "url": "https://open.spotify.com/track/1veELD244Wwy6hDBpmDcmO"
+    },
+    {
+      "added_at": "2026-01-16 13:45:55",
+      "album": {
+        "name": "Addicts Poem",
+        "url": "https://open.spotify.com/album/3ISedZvxfy2DKmmHJoYXHv"
+      },
+      "artists": [
+        {
+          "name": "DeadLeaf",
+          "url": "https://open.spotify.com/artist/7IJcDs3WtCUlkA6ERaVjje"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Addicts Poem",
+      "url": "https://open.spotify.com/track/0DJQwcvGr5Nqc5XEIanEeV"
+    },
+    {
+      "added_at": "2026-01-16 13:46:43",
+      "album": {
+        "name": "It's All Just Dirt",
+        "url": "https://open.spotify.com/album/0VC7DqukWwRnjnCIiLZWFB"
+      },
+      "artists": [
+        {
+          "name": "Electric Hydra",
+          "url": "https://open.spotify.com/artist/5iF37V1AGqA6aLAo1pC7Fn"
+        }
+      ],
+      "duration_ms": 274432,
+      "name": "It's All Just Dirt",
+      "url": "https://open.spotify.com/track/6yKXUllXDutrHHynWmgccw"
+    },
+    {
+      "added_at": "2026-01-16 13:48:46",
+      "album": {
+        "name": "Torn Pages",
+        "url": "https://open.spotify.com/album/6Jgnb2yABjtU8ZOmF3o4PW"
+      },
+      "artists": [
+        {
+          "name": "Yugi Kandi",
+          "url": "https://open.spotify.com/artist/5QKYVKn1IMGI7wEOGOiMCD"
+        }
+      ],
+      "duration_ms": 107520,
+      "name": "Congratulations I Hope You're Happy",
+      "url": "https://open.spotify.com/track/5ypDppJOGVCqL2IdM8D6p2"
     }
   ],
   "unique_name": "Independent Music Friday",

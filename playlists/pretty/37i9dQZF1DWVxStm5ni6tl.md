@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Maddee Ritter, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,491 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,513 likes - 45 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 6 | [Rally Around \(Acoustic\)](https://open.spotify.com/track/5xBRBJaoIzV3I1JlMvrFri) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Rally Around \(Acoustic\)](https://open.spotify.com/album/0fDAzSmeuyCnKm6xANihQv) | 2:36 |
 | 7 | [Dollarama](https://open.spotify.com/track/5uRO218NcBTLkthoevZQDP) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Killah Dilla](https://open.spotify.com/artist/5eKcZxeKrvHfoorsNEVH0T) | [Dollarama](https://open.spotify.com/album/2SkKoW90Z3r6RndySD4i7T) | 3:02 |
 | 8 | [where'd it all go wrong](https://open.spotify.com/track/5QBY64TRrOVfB9RmhbgMPn) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [where'd it all go wrong](https://open.spotify.com/album/6zNqKfXziatNRuwpPPRS4v) | 3:27 |
-| 9 | [Track 12](https://open.spotify.com/track/2ye2tvHyJSOVzsTdm81s6Z) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [](https://open.spotify.com/album/null) | 0:00 |
-| 10 | [Track 1](https://open.spotify.com/track/58GcuQsfJ5dHaUX4nfUl3A) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [](https://open.spotify.com/album/null) | 0:00 |
+| 9 | [IDC](https://open.spotify.com/track/2ye2tvHyJSOVzsTdm81s6Z) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [BEFORE I LEAVE YOUR MIND](https://open.spotify.com/album/1QdjBlKOJoSOAxveCyZAuN) | 2:42 |
+| 10 | [High Vibration](https://open.spotify.com/track/58GcuQsfJ5dHaUX4nfUl3A) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [High Vibration](https://open.spotify.com/album/0OvvRvGZuMbMl7iM1AZZuz) | 3:20 |
 | 11 | [Subliminal](https://open.spotify.com/track/5uHdVYkcdverljk9U5OGpA) | [Setou & Senyo](https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv), [Yannick Daniel](https://open.spotify.com/artist/7AniZJ0T0BtNo7AOdxKwC6) | [Subliminal](https://open.spotify.com/album/3UsKK6NmMTzO1Q6SGBchrQ) | 4:16 |
 | 12 | [Swallowing Stars](https://open.spotify.com/track/3fqMIqwtDNPI6zXqqkaQn4) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Swallowing Stars](https://open.spotify.com/album/6wmStu4skzrz6HwnBYtUJW) | 3:17 |
 | 13 | [MANDEM](https://open.spotify.com/track/4sFOrOABIvlgNDeoUshx5U) | [Vilaxxs](https://open.spotify.com/artist/2uahqz51pzezhpMsqZvk2j), [Philipe](https://open.spotify.com/artist/5ksU4Lkif2ZCjT2hSNuhNs) | [MANDEM](https://open.spotify.com/album/7Glc6YtNieXJU7NpP1gaUq) | 2:18 |

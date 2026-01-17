@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11139,
+  "num_followers": 11146,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Smartlap Is Niet Dood",
-        "url": "https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 190681,
-      "name": "Vrijheid, Gelijkheid, Zusterschap",
-      "url": "https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "Kleinkunst",
         "url": "https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 144520,
       "name": "Radio",
       "url": "https://open.spotify.com/track/2NhflROyhPgc2AtDjRo9bC"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Smartlap Is Niet Dood",
+        "url": "https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 190681,
+      "name": "Vrijheid, Gelijkheid, Zusterschap",
+      "url": "https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Normale gevoelens",
-        "url": "https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc"
-      },
-      "artists": [
-        {
-          "name": "Lucky Fonz III",
-          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
-        }
-      ],
-      "duration_ms": 166852,
-      "name": "Normale gevoelens",
-      "url": "https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "Maskers",
         "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 173973,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/4J9zEIL9RGTM7B9FH9vPQg"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Normale gevoelens",
+        "url": "https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc"
+      },
+      "artists": [
+        {
+          "name": "Lucky Fonz III",
+          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
+        }
+      ],
+      "duration_ms": 166852,
+      "name": "Normale gevoelens",
+      "url": "https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Toen kwam jij",
-        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Fonz III",
-          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
-        }
-      ],
-      "duration_ms": 254935,
-      "name": "Toen kwam jij",
-      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "Voor Alles",
         "url": "https://open.spotify.com/album/3UlV5dLrM7tvIaXceGMUWp"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 144782,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
         "name": "Levelen",
         "url": "https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 248544,
       "name": "Levelen",
       "url": "https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
-        "name": "narcose",
-        "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 173816,
-      "name": "narcose",
-      "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -751,18 +735,34 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "In De Steek",
-        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
+        "name": "Toen kwam jij",
+        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
       },
       "artists": [
         {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+          "name": "Lucky Fonz III",
+          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
         }
       ],
-      "duration_ms": 168224,
-      "name": "In De Steek",
-      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
+      "duration_ms": 254935,
+      "name": "Toen kwam jij",
+      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "narcose",
+        "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 173816,
+      "name": "narcose",
+      "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -847,8 +847,8 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Niemand",
-        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
+        "name": "In De Steek",
+        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
         }
       ],
-      "duration_ms": 144782,
-      "name": "Niemand",
-      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
+      "duration_ms": 168224,
+      "name": "In De Steek",
+      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
     }
   ],
   "unique_name": "indie.nl",

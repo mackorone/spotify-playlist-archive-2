@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 149400,
       "name": "Look Down",
       "url": "https://open.spotify.com/track/5zaZKkJouElNFx6sGviJZG"
@@ -3236,6 +3236,24 @@
       "duration_ms": 149440,
       "name": "Look Down",
       "url": "https://open.spotify.com/track/0KKaTx4F9g6noYqiYeyeEH"
+    },
+    {
+      "album": {
+        "name": "My Sweetheart",
+        "url": "https://open.spotify.com/album/4rwNgYNiywIXL6gWp1zYta"
+      },
+      "artists": [
+        {
+          "name": "Timi Yuro",
+          "url": "https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "Look Down",
+      "url": "https://open.spotify.com/track/5EZYa9RIfSKDM0M94DhCqs"
     },
     {
       "album": {

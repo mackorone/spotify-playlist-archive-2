@@ -12125,6 +12125,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e07\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e1e\u0e31\u0e01 (Endless)",
+        "url": "https://open.spotify.com/album/36RggyGvhlKKf6mNPyXP1g"
+      },
+      "artists": [
+        {
+          "name": "Lalatae",
+          "url": "https://open.spotify.com/artist/5TfckXp6y7BgwMNQZE2mkh"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251767,
+      "name": "\u0e04\u0e07\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e1e\u0e31\u0e01 (Endless)",
+      "url": "https://open.spotify.com/track/7rZQkTLTBHYpcenf427jQK"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30 [Why]",
         "url": "https://open.spotify.com/album/66TomtXNfnARFIpTVTGcwZ"
       },
@@ -35168,7 +35186,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 211460,
       "name": "\u0e2d\u0e38\u0e49\u0e07\u0e21\u0e37\u0e2d (rewind)",
       "url": "https://open.spotify.com/track/7vNRdiyGapUwabPg95bnb6"

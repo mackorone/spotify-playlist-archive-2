@@ -4,7 +4,7 @@
 
 > Our favourite new music, curated by the XL team.
 
-883 songs - 2 day 2 hr 22 min
+886 songs - 2 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Installation](https://open.spotify.com/track/5tMMwt4iwS2fVm7KmGjxH4) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Installation](https://open.spotify.com/album/6yn27YPHsjVAQWgitNkcQo) | 3:43 | 2023-05-23 | 2023-08-04 |
 | [Intliziyo](https://open.spotify.com/track/3cXiWlWCds62z3ieuwPQsN) | [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Intliziyo](https://open.spotify.com/album/4dASLekFQU5LeYjZ8z7Wvc) | 7:41 | 2022-11-08 | 2022-12-20 |
 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 | 2025-06-25 |  |
+| [IRON VEINS](https://open.spotify.com/track/5O3cUdvbFgrYauB9yrEFEr) | [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv) | [IRON VEINS](https://open.spotify.com/album/3VRgF5Q9j8cm15zdYhdppu) | 3:24 | 2026-01-16 |  |
 | [is lit](https://open.spotify.com/track/76sGdNvL9upsqjr5zN2SSl) | [DJ Sosa RD](https://open.spotify.com/artist/3LSkB4hRq8R9NvnBX5gGO8) | [island boy with internet 2](https://open.spotify.com/album/4Xq5fzLnhHcAir1S4ftpif) | 4:18 | 2025-10-01 |  |
 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 | 2023-01-18 | 2024-03-22 |
 | [isitluv](https://open.spotify.com/track/2To7k5CWffVqCQhbhlZKzO) | [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Waiting 4 Life](https://open.spotify.com/album/5EWskri4Ymtm74wjH5aRPJ) | 3:57 | 2023-07-03 | 2023-12-08 |
@@ -653,6 +654,7 @@
 | [R you home yet?](https://open.spotify.com/track/716LrhBvsB5m2Kg6bses02) | [SRF](https://open.spotify.com/artist/0M8L0bY4qltzo6pPgDNXCr), [Saveyda](https://open.spotify.com/artist/5PK5Fsl1sZoEWNC3c3Y5hQ) | [R you home yet?](https://open.spotify.com/album/6hR4JsOeR4epr8ZnQ41oPZ) | 1:44 | 2023-10-18 | 2023-12-08 |
 | [RADiO](https://open.spotify.com/track/39ZT1pv3zTepUP9I6s8zLk) | [Elijah Aike](https://open.spotify.com/artist/4tyLbXqEsOsTXlBlF0wKqC), [Lingani](https://open.spotify.com/artist/0vLbHensjEKRB43bP9UBKy) | [i MiSS THE HOMiES](https://open.spotify.com/album/2HETZiifilRemcQio8wjLr) | 1:15 | 2023-09-12 | 2023-12-08 |
 | [radio silence](https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [radio silence](https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs) | 2:11 | 2023-05-23 | 2023-10-20 |
+| [Raft In The Sea](https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Raft In The Sea](https://open.spotify.com/album/3bPDiTVEsqTk0aInxUKvPE) | 3:35 | 2026-01-16 |  |
 | [RAGGA](https://open.spotify.com/track/6JyoDS6xeqsNkNdeVm9uLF) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [RAGGA](https://open.spotify.com/album/5lXdX09pPgVwMpDjbyJDld) | 2:42 | 2022-09-16 | 2022-10-11 |
 | [Raisins Under the Sun \(feat\. Shabaka Hutchings\)](https://open.spotify.com/track/6ToLDO9Mh5nV4UvAgIDo3W) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Black Classical Music](https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG) | 4:31 | 2023-10-18 | 2023-12-08 |
 | [rakata](https://open.spotify.com/track/4EuJ3GLXOOdcXErXI5K5uX) | [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [no pasa nada](https://open.spotify.com/album/4rqzz39TFYZqLt5cUdXtGr) | 4:16 | 2023-05-23 | 2023-10-20 |
@@ -826,6 +828,7 @@
 | [Tokyo Cowboy](https://open.spotify.com/track/4dPXu9qYlnXR8CfZgHu2jz) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 5:05 | 2023-10-18 | 2024-03-22 |
 | [Too Early](https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Too Early](https://open.spotify.com/album/2ysvTBST3QhzfQWaAmSKLS) | 3:26 | 2023-05-23 | 2023-10-20 |
 | [Too Slow](https://open.spotify.com/track/7dT3SFKAynnyr35NYVkuCY) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Too Slow](https://open.spotify.com/album/3MgQU0Ggwh3nvZtrxQ5hPE) | 3:06 | 2024-09-07 | 2025-03-21 |
+| [TOUCH ON ME](https://open.spotify.com/track/4XcAjBdL4y1b9CcHaOkOCa) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [FEAR OF ECLIPSE](https://open.spotify.com/album/7zhi64PIlLEL1O4oqRLKWz) | 1:54 | 2026-01-16 |  |
 | [Traction Control](https://open.spotify.com/track/5mU4EO4zlZxG5KpZzOUNOY) | [CASISDEAD](https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs) | [Traction Control](https://open.spotify.com/album/5EBEl5i1bxnwhf3r6gDiJF) | 3:34 | 2022-09-16 | 2022-11-09 |
 | [transcending \(Karen Nyame KG remix\) \- Remix](https://open.spotify.com/track/42PqQa0vMYh8IxaVaHqUTe) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [transcending \(Karen Nyame KG remix\)](https://open.spotify.com/album/2YsMVaww8xwajh6JeQw2dM) | 3:35 | 2023-10-18 | 2023-12-08 |
 | [Transition](https://open.spotify.com/track/49wh9IIorAhUgHGUcUmVKc) | [Vanessa Bedoret](https://open.spotify.com/artist/5KzQiiC5dkOq7G2T8AnJBS) | [Transition](https://open.spotify.com/album/4Fz1JoxtZGroYAF0Rvu4Q1) | 4:38 | 2024-03-21 | 2024-09-08 |

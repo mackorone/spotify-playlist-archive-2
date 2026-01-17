@@ -1,13 +1,29 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 60626,
+  "num_followers": 60647,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMKt5uQWDtwiYX/GSBhm5VPs06Gt",
+  "snapshot_id": "AAAAAMr9ByjOUS0l9i/fIC+c7M2eo0lr",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:18",
+      "album": {
+        "name": "Open Road",
+        "url": "https://open.spotify.com/album/2xXH1zI5UN7on12TNw5DDI"
+      },
+      "artists": [
+        {
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+        }
+      ],
+      "duration_ms": 448750,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/2vMbUpZAvOaFWpX1XXZVjB"
+    },
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {

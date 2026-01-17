@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095,418 likes - 191 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,096,081 likes - 191 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 190 | [Expansion](https://open.spotify.com/track/5kb3YbGwrOyLIRVCPacxdS) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [Expansion](https://open.spotify.com/album/4CxEf4ZzyrctwCJI5JoUgK) | 4:14 |
 | 191 | [Koan](https://open.spotify.com/track/6CISHs00uQXeYxJIYFFIwR) | [Photoautotroph](https://open.spotify.com/artist/1OSyQ1c3oDZQloHUlPTlAg) | [Koan](https://open.spotify.com/album/0d3F6UI4I1QMoRMsa853ah) | 2:22 |
 
-Snapshot ID: `AAAAAMaigeFaGxKOR0BFmkbnJl050s17`
+Snapshot ID: `AAAAAM4VJrzDZzQ6OEG6xrw2E4PT4hDm`

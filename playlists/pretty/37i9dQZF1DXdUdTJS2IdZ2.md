@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Rangga Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,130 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,145 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [](https://open.spotify.com/album/null) | 3:03 |
+| 1 | [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say \(and more\)](https://open.spotify.com/album/5C4nJlq9vET3ikxu5u4ZxD) | 3:03 |
 | 2 | [深淵](https://open.spotify.com/track/34rra4W0BHr6BSimipcV5O) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [DEEP AWAKENING 見過深淵的人](https://open.spotify.com/album/1I4cU2BxFEYHT4FcgaUObO) | 4:04 |
 | 3 | [毒](https://open.spotify.com/track/6nT0CXZmId6fMQw3F2H2Sa) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [毒](https://open.spotify.com/album/70Q1CVf6YXj9lPOQPi0GK4) | 3:41 |
 | 4 | [失眠 \(心碎版\)](https://open.spotify.com/track/7LnGwlEDF50RzyXM1xGWlD) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [失眠 \(心碎版\)](https://open.spotify.com/album/5bT4wVpJKE6rm1Li3dIyJl) | 3:10 |

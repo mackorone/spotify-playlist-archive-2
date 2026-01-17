@@ -1749,6 +1749,28 @@
     },
     {
       "album": {
+        "name": "And I Dance",
+        "url": "https://open.spotify.com/album/22VpefkMGRiEL7YJBygwGS"
+      },
+      "artists": [
+        {
+          "name": "By Storm",
+          "url": "https://open.spotify.com/artist/1YUIjQ3ugjokiyb908LpVO"
+        },
+        {
+          "name": "Injury Reserve",
+          "url": "https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259776,
+      "name": "And I Dance",
+      "url": "https://open.spotify.com/track/0mSJhqC5mFP84d5mn9k92I"
+    },
+    {
+      "album": {
         "name": "i love you but this is goodbye",
         "url": "https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15"
       },
@@ -5129,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Champagne Showers",
+        "url": "https://open.spotify.com/album/12XLN2PaMxMcGkaiOlOav3"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190857,
+      "name": "Champagne Showers",
+      "url": "https://open.spotify.com/track/0bHRnfa8Ui1IKQqZu1ouQU"
+    },
+    {
+      "album": {
         "name": "Chanel Pit",
         "url": "https://open.spotify.com/album/2NKwZME1B25cxta0a7L77q"
       },
@@ -6922,7 +6962,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 136937,
       "name": "Demons (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/6EAOvJREWqTN1r87ZgW30l"
@@ -12440,7 +12480,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 168420,
       "name": "I Killed You",
       "url": "https://open.spotify.com/track/3GdwjAsCsoE79ObhsJFyYb"
@@ -14671,6 +14711,24 @@
     },
     {
       "album": {
+        "name": "Lie2Me",
+        "url": "https://open.spotify.com/album/2QTHMP85Cv6nailkHfiljF"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183420,
+      "name": "Lie2Me",
+      "url": "https://open.spotify.com/track/4qQMsoWlwvj2xtriAZ8LD4"
+    },
+    {
+      "album": {
         "name": "I HOPE YOU'RE HAPPY",
         "url": "https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p"
       },
@@ -16018,6 +16076,24 @@
       "duration_ms": 160000,
       "name": "MELLOW CALM & CHILL",
       "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6DS9I4slNktUdYYtQvKjY3"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121514,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/42ytOOWqePD1mGz6Zh2OwI"
     },
     {
       "album": {
@@ -19483,6 +19559,28 @@
     },
     {
       "album": {
+        "name": "Players Only",
+        "url": "https://open.spotify.com/album/1S42U3dQpTJLWS9AhXK2j7"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Chris Travis",
+          "url": "https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Players Only",
+      "url": "https://open.spotify.com/track/5UAXUSfQzF277L04K2ixkh"
+    },
+    {
+      "album": {
         "name": "Judas and the Black Messiah: The Inspired Album",
         "url": "https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz"
       },
@@ -21264,6 +21362,24 @@
       "duration_ms": 173066,
       "name": "Roaches",
       "url": "https://open.spotify.com/track/69dcSnCesjUMepu9FmEmxB"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235206,
+      "name": "ROBBERY",
+      "url": "https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0"
     },
     {
       "album": {
@@ -23651,6 +23767,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178673,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/2pwOJNlr5TJaR30dJIqK9M"
+    },
+    {
+      "album": {
         "name": "STFU (feat. Kxllswxtch)",
         "url": "https://open.spotify.com/album/2L1p2uVnBgNIYPvwr1tYCz"
       },
@@ -25278,7 +25412,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 182610,
       "name": "The War of Art",
       "url": "https://open.spotify.com/track/6udgEXcSwwdDLI3rFIvPeb"
@@ -26356,7 +26490,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 152653,
       "name": "URRRGE!!!!!!!!!! (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ"
@@ -26644,7 +26778,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 128843,
       "name": "VIRGINIA Boy (feat. Tyler, The Creator) - Remix",
       "url": "https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s"
@@ -28452,7 +28586,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 140005,
       "name": "Yeern 101",
       "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
@@ -28572,7 +28706,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 202409,
       "name": "Yoshinoya",
       "url": "https://open.spotify.com/track/2pNYM3OcS7WdCW13TuhMeK"

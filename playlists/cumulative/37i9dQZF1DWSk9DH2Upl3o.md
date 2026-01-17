@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-227 songs - 20 hr 39 min
+228 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Manipulation](https://open.spotify.com/track/7BTKnG9oqPnWN3kr32VQbd) | [Ian Nussdorfer](https://open.spotify.com/artist/1m5bYA72k4fjQjLJuTRMGz), [The Badlands](https://open.spotify.com/artist/0PR33ItZd7OWQZ16UrQJgs) | [Manipulation](https://open.spotify.com/album/1BQQqqygZgfMAp9nFBDUuQ) | 5:50 | 2024-07-19 |  |
 | [Marijuana Timewarp](https://open.spotify.com/track/6UpsSL0inheFm3dLdR6KNw) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Marijuana Timewarp](https://open.spotify.com/album/1TsvZiKqeIVfFZ0v27QydR) | 3:14 | 2024-07-26 | 2024-08-31 |
 | [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 |  |
-| [Me & My Lady](https://open.spotify.com/track/6L4iw08eNogB3cEssYFGNl) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Me & My Lady](https://open.spotify.com/album/0rt2SrLVvxNBf4Ev1rg40R) | 3:10 | 2025-07-04 |  |
+| [Me & My Lady](https://open.spotify.com/track/6L4iw08eNogB3cEssYFGNl) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Me & My Lady](https://open.spotify.com/album/0rt2SrLVvxNBf4Ev1rg40R) | 3:10 | 2025-07-04 | 2026-01-17 |
 | [Mister Funky Daddy](https://open.spotify.com/track/0ZShF0uFfkoQThIySmDd5l) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Mister Funky Daddy](https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF) | 2:29 | 2024-04-26 | 2024-06-01 |
 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 | 2022-06-23 | 2024-05-04 |
 | [Mountain Song](https://open.spotify.com/track/03onfUgdnPT4p2XoxUdH95) | [Space Owl](https://open.spotify.com/artist/5BSAR7n5jEDO6XUBodH7qG), [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Bob Lovelace](https://open.spotify.com/artist/6VFjf95afawayBKTfJFkyT), [John Ewing](https://open.spotify.com/artist/2LpxqQxZZQyq6Ycp9t1HJf), [David Appelbaum](https://open.spotify.com/artist/65sIM68yHAbuFn8cZztqnP) | [Mountain Song](https://open.spotify.com/album/4A4ovKPnaakHcRxksFMFMi) | 6:56 | 2023-06-23 |  |
@@ -175,6 +175,7 @@
 | [Scarlet Begonias \(feat\. Oteil Burbridge\)](https://open.spotify.com/track/0sdyxD5y3KxMrWA2kAF5vf) | [Dave McMurray](https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x), [Oteil Burbridge](https://open.spotify.com/artist/5NxOynAoF4PRKsFHH5LhGL) | [To Lay Me Down \(feat\. Jamey Johnson\)](https://open.spotify.com/album/4Mr06hdaTRf9p4UBMbX7qH) | 5:47 | 2023-04-07 | 2023-05-23 |
 | [Settin' Sail](https://open.spotify.com/track/34bpCZJYVa0YxUxENbVXWU) | [Desert Jellies](https://open.spotify.com/artist/0d2tTkLVOJzwlirrcISQX0) | [Nautical Nonsense](https://open.spotify.com/album/7LTdiWx72gqlfLPMd6dInK) | 4:47 | 2023-06-02 |  |
 | [Shahryar's Rage](https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:11 | 2022-06-23 |  |
+| [Short Skirt/Long Jacket](https://open.spotify.com/track/1QScMADrwCqpuNyTPmUGzH) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Short Skirt/Long Jacket](https://open.spotify.com/album/4TbGsFL6OrJ4m4nyCmt8TP) | 3:15 | 2026-01-16 |  |
 | [Smoke on the Shoulder](https://open.spotify.com/track/6VhKlQjE2fOgnX1pTdS0Ow) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Smoke on the Shoulder](https://open.spotify.com/album/0IqZzNKnF55j1gi0TL9zqi) | 3:36 | 2023-07-07 |  |
 | [So Hi](https://open.spotify.com/track/61pEdaki064tmSbbmaS276) | [Florida Man](https://open.spotify.com/artist/0HLjLkTibYsCmYZAKOvycy) | [So Hi // So Lo](https://open.spotify.com/album/4H0JNm9NuL5vdpsVEk6mdu) | 4:48 | 2022-12-09 |  |
 | [Song For Salma](https://open.spotify.com/track/6jZfmUOykbnKR5WjqalthT) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Song For Salma](https://open.spotify.com/album/5vKmKaoHFSfxwRCdn7kAX6) | 3:09 | 2025-08-15 |  |

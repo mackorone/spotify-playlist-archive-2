@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-529 songs - 1 day 1 hr 19 min
+531 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 | 2023-04-09 |
 | [Dance With Me](https://open.spotify.com/track/3PKXTGsIpCDoBdUvb1FV2b) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ) | [Dance With Me](https://open.spotify.com/album/4EmOb8yIboAzx3XZp9gbTb) | 2:48 | 2023-05-26 | 2025-04-27 |
 | [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-09 | 2023-04-09 |
+| [Deep](https://open.spotify.com/track/5f7RFIBxFzgF93lz8H2AdH) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Deep](https://open.spotify.com/album/7FvI1vJiC1bqNx9oiU1QOI) | 2:46 | 2026-01-16 |  |
 | [Deeper \(feat\. Britt Lari\)](https://open.spotify.com/track/0ZkliuhJeGUEu674X81vYd) | [K3SS](https://open.spotify.com/artist/56HIHMnIOj1xfjzBtAVxA4), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Deeper \(feat\. Britt Lari\)](https://open.spotify.com/album/4MHyWFTymT76DoaChcI8Kj) | 2:45 | 2024-02-27 | 2025-04-27 |
 | [Demons](https://open.spotify.com/track/5ytTqkPLx9TyuUmLbG4rjt) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Demons](https://open.spotify.com/album/6FLXXwOkE4KDZolj0pPZrT) | 2:41 | 2025-10-31 |  |
 | [Desire!](https://open.spotify.com/track/7wfxzIxXJFda9GwSF972QU) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [Desire!](https://open.spotify.com/album/0KpUfDkkaa1BrVrZXspwWr) | 2:24 | 2025-04-26 |  |
@@ -381,6 +382,7 @@
 | [Patience \(feat\. Kayla Rose\) \- Henry Fong Remix](https://open.spotify.com/track/7tsi9Ega7ZpjndsGNpc4hK) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Kayla Rose](https://open.spotify.com/artist/36xsrPKnUIN1ZCSlO5Xnqk) | [Patience \(feat\. Kayla Rose\) \[Henry Fong Remix\]](https://open.spotify.com/album/2EIuPgwOT8lM0XU6gxxFvw) | 2:15 | 2022-05-06 | 2022-07-09 |
 | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/track/3BQn0kOqvoCtV83QAVGd0e) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [El Chima En La Casa](https://open.spotify.com/artist/2m54qKxJNbCGH7OZN0xuL1), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/album/6ba7djkJEIp1Zx9kTqi7Uf) | 2:31 | 2023-03-24 | 2023-04-09 |
 | [Pecadora](https://open.spotify.com/track/4zDcTEkfMzfoca4Ddo4lRe) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [Pecadora](https://open.spotify.com/album/58lHkFd6stmMU1v2Bz3Fro) | 2:50 | 2025-01-31 |  |
+| [People Are You Ready Again](https://open.spotify.com/track/4qf4aOWoBw5vMGHrjHIgcP) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7) | [People Are You Ready Again](https://open.spotify.com/album/01g1W2TFNuBG011R11ICvg) | 2:24 | 2026-01-16 |  |
 | [Phat Brahms \- Coone Remix 2.0](https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Phat Brahms \(Coone Remix 2.0\)](https://open.spotify.com/album/47bfgSSEuMdUIGtHT0KGFw) | 2:59 | 2023-01-13 | 2023-03-25 |
 | [Pick Up The Tempo](https://open.spotify.com/track/67gU1a7O4sc7V1yhMVtFTn) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Pick Up The Tempo](https://open.spotify.com/album/710YAyd3dQL44pxrVY8pmK) | 2:28 | 2025-07-03 |  |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-01 | 2023-01-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=g3a\-0y\-4SVKK0vhrWKGw7w>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,421 likes - 101 songs - 13 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,525 likes - 101 songs - 13 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

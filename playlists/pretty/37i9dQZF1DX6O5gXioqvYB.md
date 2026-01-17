@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Qui trovi Lamante + tutte le altre uscite indie 🐈‍⬛
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,462 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,469 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 12 | [Urlo](https://open.spotify.com/track/1jOiOzOLZYixUFCTuhRnWk) | [Osaka Flu](https://open.spotify.com/artist/3ttfg3zusdmYOFZYPGo8MD) | [Urlo](https://open.spotify.com/album/0ah1hRMWWvzWMRlkVEbo1A) | 2:50 |
 | 13 | [Mi manca](https://open.spotify.com/track/5ZktOiepCeV9elFgnrhU91) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Mi manca](https://open.spotify.com/album/1uU4n5zp6vhYfoGAfTtUAt) | 2:54 |
 | 14 | [Boicotta il Palazzetto \(feat\. Duo bucolico\)](https://open.spotify.com/track/6CmQToqrodimBTKlndZs5F) | [España Circo Este](https://open.spotify.com/artist/76pubHNMZnrWQ721Fy8SRq), [Duo bucolico](https://open.spotify.com/artist/3JdXKIGz9QG8yyfmE6I1qY) | [Boicotta il Palazzetto \(feat\. Duo bucolico\)](https://open.spotify.com/album/5AZCyEB2dGa4d9qPk0qBBb) | 2:58 |
-| 15 | [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [](https://open.spotify.com/album/null) | 4:16 |
+| 15 | [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Dementia](https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw) | 4:16 |
 | 16 | [vertigine](https://open.spotify.com/track/0lvoErRvh6TCsbyAvQo8Qc) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Il quinto giorno](https://open.spotify.com/album/4qUvi2R6u8uoujF1c5p6kd) | 3:23 |
 | 17 | [PRODUCI CONSUMA CREA](https://open.spotify.com/track/4i2OMoKKsRhaHSMi4hXYUh) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [PRODUCI CONSUMA CREA](https://open.spotify.com/album/6vnh7BxlBnNAVBLR8DZ9n8) | 3:04 |
 | 18 | [Caroline](https://open.spotify.com/track/4Qy4LekgkWliPh9nELDHlZ) | [CACTUS](https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK) | [Caroline](https://open.spotify.com/album/2yRvI8eCpWtq8BVLB6IkjB) | 3:13 |

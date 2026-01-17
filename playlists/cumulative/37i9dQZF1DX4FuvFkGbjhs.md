@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Arlo Parks
 
-782 songs - 1 day 21 hr 20 min
+784 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [fear less](https://open.spotify.com/track/4IHblO52meh2jwqES1BA7X) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:34 | 2024-09-05 | 2025-02-14 |
 | [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 | 2024-11-01 | 2025-03-21 |
 | [Feel It Coming](https://open.spotify.com/track/5IQ0DQah8h5ewfTlugWIYl) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Feel It Coming](https://open.spotify.com/album/008JObJLZcTMFqtv9ML9eG) | 3:14 | 2024-12-06 | 2025-03-21 |
-| [Feel This Way](https://open.spotify.com/track/4fHWSFWaxdWn75gEYFq4DN) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Quantum](https://open.spotify.com/album/3wwYOqMfZVejIHfh1aGDQi) | 3:33 | 2025-11-07 |  |
+| [Feel This Way](https://open.spotify.com/track/4fHWSFWaxdWn75gEYFq4DN) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Quantum](https://open.spotify.com/album/3wwYOqMfZVejIHfh1aGDQi) | 3:33 | 2025-11-07 | 2026-01-17 |
 | [Feels Like Heaven](https://open.spotify.com/track/639XFvehVKK7taRxmg4IFE) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Feels Like Heaven](https://open.spotify.com/album/1wXAdBWXzFArynFkW7DYE4) | 3:16 | 2025-06-05 | 2025-08-15 |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 | 2025-07-25 |
 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-06-27 | 2024-07-12 |
@@ -285,6 +285,7 @@
 | [HARK!](https://open.spotify.com/track/1ZPkYrg11Nl3wREgpBJhLf) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [HARK!](https://open.spotify.com/album/3Oo2rlDwypyF8dr5AaH5sk) | 3:26 | 2025-06-19 | 2025-07-11 |
 | [harlequin/los días azules](https://open.spotify.com/track/6Hr364Nq8YBBBRLbgVKdOR) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [harlequin/los días azules](https://open.spotify.com/album/0vkm8EXlPx69p5lqOuZ3BN) | 3:30 | 2025-03-21 | 2025-06-06 |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-24 | 2025-10-24 |
+| [HAVE A HEART](https://open.spotify.com/track/4LMWV67L6I55VBaQNHb77h) | [TURNSPIT](https://open.spotify.com/artist/1HbKJU6NYDySoBXuAi5dNB) | [HAVE A HEART](https://open.spotify.com/album/6nmhvMlJbrxxdUcVG6GF5u) | 3:38 | 2026-01-16 |  |
 | [Have You Ever](https://open.spotify.com/track/2wZz5mg6quvxbVwJhb6DHU) | [Leah Cleaver](https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM) | [Have You Ever](https://open.spotify.com/album/2aXQEIchpBlE0oL29fXuee) | 2:52 | 2025-08-07 | 2025-08-22 |
 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 | 2024-09-20 | 2024-10-18 |
 | [Headliner](https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Headliner](https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl) | 3:12 | 2024-06-27 | 2024-07-12 |
@@ -614,7 +615,7 @@
 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 | 2025-05-01 | 2025-07-25 |
 | [Signs](https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Signs](https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq) | 3:19 | 2024-10-24 | 2025-01-24 |
 | [SilverCane](https://open.spotify.com/track/7KyIWRsQLKsSSqxjHJ33FO) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/5up80b8x2wCG8qwM294QR6) | 4:02 | 2024-09-05 | 2024-09-28 |
-| [Sleepwalker's Pendulum](https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [](https://open.spotify.com/album/null) | 3:22 | 2026-01-16 |  |
+| [Sleepwalker's Pendulum](https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Dreamer+](https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P) | 3:22 | 2026-01-16 |  |
 | [Smell The Daisies](https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Smell The Daisies](https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk) | 4:10 | 2025-02-28 | 2025-04-04 |
 | [SNL](https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [SNL](https://open.spotify.com/album/63BBbmGgghjnlOQs4SwoCn) | 3:06 | 2024-07-11 | 2024-09-21 |
 | [Snow](https://open.spotify.com/track/09FBRRlJxcpZ0svbUVxHZG) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Snow](https://open.spotify.com/album/0oTWLLLztMYvJNkT62gpwG) | 2:33 | 2025-08-07 | 2025-09-26 |
@@ -742,6 +743,7 @@
 | [volc3](https://open.spotify.com/track/3hz9Udgceb1f7H3o9aeAES) | [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT), [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [volc3](https://open.spotify.com/album/1TbzEcB57aYrKfMAGA1iCE) | 3:43 | 2025-02-14 | 2025-05-23 |
 | [Waiting](https://open.spotify.com/track/6dOsGHd8ecm2m762lPEtyw) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Waiting](https://open.spotify.com/album/75vRfQsDngCZO35ztkiZPx) | 3:10 | 2024-10-10 | 2025-02-14 |
 | [Wake Up, Pass Out](https://open.spotify.com/track/0ISluANGR8RAokUJCzRygg) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Wake Up, Pass Out](https://open.spotify.com/album/0jTdu9HM5JSNEvpp5GfwTz) | 2:58 | 2024-08-08 | 2024-10-04 |
+| [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 | 2026-01-16 |  |
 | [Wallpaper](https://open.spotify.com/track/6LdIS1qUJYXBms7rAcKQ3z) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Wallpaper](https://open.spotify.com/album/6W63ELml5omoe4bNVKVsdI) | 2:59 | 2025-09-11 |  |
 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 | 2024-09-27 | 2025-02-14 |
 | [War](https://open.spotify.com/track/4Q5lIWBrKd0LafLW2bFrBC) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [War](https://open.spotify.com/album/6faQlIwLHq32QAs52QqFdr) | 2:55 | 2024-10-24 | 2024-11-29 |

@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. A$AP Rocky
 
-1,241 songs - 2 day 13 hr 9 min
+1,242 songs - 2 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,6 +578,7 @@
 | [I'm A Star](https://open.spotify.com/track/7sioQTiTH6V7yAmLiBZcL9) | [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [I'm A Star](https://open.spotify.com/album/2xvaV6HqNvFvyvsAZhJZe7) | 3:19 | 2022-10-13 | 2023-05-07 |
 | [I'M FINE! I'M GOOD! I'M PERFECT!](https://open.spotify.com/track/1ES945YJBmADUuIkXr3Mv3) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [I'M FINE! I'M GOOD! I'M PERFECT!](https://open.spotify.com/album/70rb6TesKaKl08tBD9L5wo) | 3:15 | 2021-12-27 | 2022-01-06 |
 | [I'm Normally Like This](https://open.spotify.com/track/7bm0WfGG6HRiuac1IdHBaL) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [I'm Normally Like This](https://open.spotify.com/album/0QOtYZy8AIqWx4khwFx3Nn) | 2:54 | 2023-06-01 | 2024-04-05 |
+| [I.D.C.](https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [I.D.C.](https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w) | 3:31 | 2026-01-16 |  |
 | [IDC](https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [IDC](https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs) | 2:37 | 2021-12-27 | 2022-02-04 |
 | [IDC](https://open.spotify.com/track/5LVQIUFYOCQo6xm4jEggIf) | [DeadWax](https://open.spotify.com/artist/6hITQt23nhrKv9bBWvEirP), [Benji Wild](https://open.spotify.com/artist/1M61nTzND2oNO6HdPr4uYl) | [IDC](https://open.spotify.com/album/0ZKbOWW2Z0WF3lF7xB3Sbk) | 4:01 | 2024-12-13 | 2025-04-11 |
 | [Ideas](https://open.spotify.com/track/4sR6DaImxZ6XNgRXgTTOQ3) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Ideas](https://open.spotify.com/album/43E88xFGD6RJqZU9UyUCK6) | 3:21 | 2024-05-28 | 2024-06-07 |
@@ -895,7 +896,7 @@
 | [Pretty Boy](https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Boys Will Be Boys](https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ) | 2:32 | 2021-12-27 | 2022-06-10 |
 | [pretty little naive puppet](https://open.spotify.com/track/24KZC6qSdTkSg9R6ZQe7oI) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [pretty little naive puppet](https://open.spotify.com/album/5zUmv3zMD8aZ0vcwsOYpmP) | 3:37 | 2024-04-05 | 2024-06-28 |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-12-27 | 2022-02-04 |
-| [PRINCELESS PRINCESS](https://open.spotify.com/track/3ov9X8yrGi3jKX9ua8T2qq) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [PRINCELESS PRINCESS](https://open.spotify.com/album/28RnLQk5KA7XWhaWoijuH1) | 3:43 | 2025-05-15 |  |
+| [PRINCELESS PRINCESS](https://open.spotify.com/track/3ov9X8yrGi3jKX9ua8T2qq) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [PRINCELESS PRINCESS](https://open.spotify.com/album/28RnLQk5KA7XWhaWoijuH1) | 3:43 | 2025-05-15 | 2026-01-17 |
 | [PRINCESS CHARMING](https://open.spotify.com/track/2nbgP5RRvwoNYxdOBx3lXA) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [MATRIARCHY NOW](https://open.spotify.com/album/0J66nObGBIxsgyAere8u1C) | 2:16 | 2022-08-04 | 2023-03-03 |
 | [PRISON](https://open.spotify.com/track/6ru3rcoXUkmfWLT0OSBbUa) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [PRISON](https://open.spotify.com/album/6XGUYuj6Nl6fthoUqVugmJ) | 2:41 | 2023-05-18 | 2023-07-07 |
 | [Prized Possession](https://open.spotify.com/track/0a65KzuGdGYMGAee4idItb) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Prized Possession](https://open.spotify.com/album/2ODWdOyl8zjGA5OG8g7huA) | 4:11 | 2025-08-28 | 2026-01-15 |

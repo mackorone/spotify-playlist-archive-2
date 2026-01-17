@@ -5579,6 +5579,24 @@
     },
     {
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/46QLzxv2nTdR9MwcOaEJ9z"
+      },
+      "artists": [
+        {
+          "name": "Momoko Gill",
+          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240760,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/4YGLCXZTvDZjIPtjvC2u5s"
+    },
+    {
+      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/1jFY8dmO4bWRU8hpCBc3uU"
       },
@@ -6136,7 +6154,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 224826,
       "name": "I Don't Know Why (I Just Do)",
       "url": "https://open.spotify.com/track/0WiIGxBzkA2SvE8clbz3X0"
@@ -10251,6 +10269,28 @@
     },
     {
       "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/08KGb1DdDe5ZHqEgzD4LFV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250237,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
+    },
+    {
+      "album": {
         "name": "Oh Mother",
         "url": "https://open.spotify.com/album/6pFI3ON2XDEthhuKvrvJtd"
       },
@@ -10800,6 +10840,28 @@
       "duration_ms": 275235,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/4dKzjrbS7DdtYYOJWmrupL"
+    },
+    {
+      "album": {
+        "name": "My Very Own Ride",
+        "url": "https://open.spotify.com/album/70qZS6hqpcc8kOFWkd22g0"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531662,
+      "name": "My Very Own Ride",
+      "url": "https://open.spotify.com/track/59ZAfJo35Lunuv56upvhCZ"
     },
     {
       "album": {
@@ -11734,7 +11796,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 199742,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/33jGYVUxPtcfH8td6Sr3qw"
@@ -11792,7 +11854,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 169703,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/3Y5onKZN1Im4FxoTUMnEzb"
@@ -14073,6 +14135,28 @@
     },
     {
       "album": {
+        "name": "Strange Magic",
+        "url": "https://open.spotify.com/album/6jN7NCBUgbPezubxOkCt3u"
+      },
+      "artists": [
+        {
+          "name": "Shai Maestro",
+          "url": "https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj"
+        },
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264698,
+      "name": "Strange Magic",
+      "url": "https://open.spotify.com/track/7BBJGgySjfGRFtEqDWEPUl"
+    },
+    {
+      "album": {
         "name": "Streets Of Philadelphia",
         "url": "https://open.spotify.com/album/1aU3vWkTS7Ej9VEtueevrV"
       },
@@ -15076,7 +15160,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 175040,
       "name": "The Glow Worm",
       "url": "https://open.spotify.com/track/3FPKj2xihZlzsa8tWQU3i6"
@@ -15246,6 +15330,24 @@
       "duration_ms": 252658,
       "name": "The October Storm",
       "url": "https://open.spotify.com/track/4zR2BGxSLZTBzeC6knFfeL"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293601,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX"
     },
     {
       "album": {
@@ -15546,7 +15648,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 144666,
       "name": "Them There Eyes",
       "url": "https://open.spotify.com/track/3xE65V7CCWtG368398YXVh"

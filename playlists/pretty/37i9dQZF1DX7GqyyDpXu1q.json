@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 93463,
+  "num_followers": 93472,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "In Stride",
+        "url": "https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u"
+      },
+      "artists": [
+        {
+          "name": "Myles Kennedy",
+          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
+        }
+      ],
+      "duration_ms": 227199,
+      "name": "In Stride",
+      "url": "https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "Stare At The Sun",
         "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 272493,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "In Stride",
-        "url": "https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u"
-      },
-      "artists": [
-        {
-          "name": "Myles Kennedy",
-          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
-        }
-      ],
-      "duration_ms": 227199,
-      "name": "In Stride",
-      "url": "https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP"
     },
     {
       "added_at": "2026-01-12 23:46:55",

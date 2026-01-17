@@ -6373,6 +6373,24 @@
     },
     {
       "album": {
+        "name": "Off The Fence",
+        "url": "https://open.spotify.com/album/3pnF8uSu69bKR2CJ5irJNG"
+      },
+      "artists": [
+        {
+          "name": "The James Hunter Six",
+          "url": "https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174287,
+      "name": "Gun Shy",
+      "url": "https://open.spotify.com/track/4Dkjf9iITfWIy5tokfNop0"
+    },
+    {
+      "album": {
         "name": "G\u00e9n\u00e9rique",
         "url": "https://open.spotify.com/album/5irw04gNy9Kdl9BWXPrwsJ"
       },
@@ -16949,42 +16967,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "date_added": "2026-01-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/7bxsLsRvyJDVsTTSKLgQ6h"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "The James Hunter Six",
-          "url": "https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp"
-        }
-      ],
-      "date_added": "2026-01-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/4Dkjf9iITfWIy5tokfNop0"
-    },
-    {
-      "album": {
         "name": "Transe",
         "url": "https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL"
       },
@@ -18812,6 +18794,28 @@
       "duration_ms": 248087,
       "name": "You're the Top",
       "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/5jjHOQ9aVCKDSTAwAbaiaj"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        },
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Young at Heart (feat. Rod Stewart)",
+      "url": "https://open.spotify.com/track/7bxsLsRvyJDVsTTSKLgQ6h"
     },
     {
       "album": {

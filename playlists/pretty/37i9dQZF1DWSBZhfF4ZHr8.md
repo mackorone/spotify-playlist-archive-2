@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Charles Doré
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,389 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,421 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 10 | [Pas le meilleur](https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Le rêveur du bal](https://open.spotify.com/album/7fi8Ksz3tnIFxAydBa6fFU) | 2:28 |
 | 11 | [La vie qu'on mène](https://open.spotify.com/track/67KNgIyHFDX68mOepundEw) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vie qu'on mène](https://open.spotify.com/album/3uP80wyt5ZuWBnoBaaolIa) | 2:42 |
 | 12 | [Le chemin](https://open.spotify.com/track/685rfL8VFhymNoVs94AcMY) | [Naumaur](https://open.spotify.com/artist/37p0K11WckJ4GBwSX0lDis) | [Le chemin](https://open.spotify.com/album/0CGsSouLKOJJLxYben8qqY) | 2:45 |
-| 13 | [Des anneées qu'on s'aime](https://open.spotify.com/track/0XNP2bWqQRfTwwl7v9r8vd) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Des années qu'on s'aime](https://open.spotify.com/album/1aioSJjm59NLws7uc3jRGi) | 2:35 |
+| 13 | [Des années qu'on s'aime](https://open.spotify.com/track/0XNP2bWqQRfTwwl7v9r8vd) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Des années qu'on s'aime](https://open.spotify.com/album/1aioSJjm59NLws7uc3jRGi) | 2:35 |
 | 14 | [Première fois](https://open.spotify.com/track/2yaVFrD8ugHhld6t6Nwaxt) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Il faut que tu saches](https://open.spotify.com/album/6rX8V0Vs9oaGB8LgrUOcn1) | 2:40 |
 | 15 | [Femmes](https://open.spotify.com/track/0OeHU9htZa9Lm9TjSqyGtw) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Femmes](https://open.spotify.com/album/75joziTdAqT68ZtBK7rds1) | 3:00 |
 | 16 | [Avant toi](https://open.spotify.com/track/1gCloDmEV2A6r0acZ3UogQ) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [Avant toi](https://open.spotify.com/album/3Xr69JpGDO78MDKLbXdthH) | 2:27 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 38 | [L'année prochaine](https://open.spotify.com/track/79OwFPC1StV7OVi6CSd1ww) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [L'année prochaine](https://open.spotify.com/album/5BKnx3bdqtiX3feRhAoBbx) | 2:18 |
 | 39 | [Perdu En Mer](https://open.spotify.com/track/0SsduTUrCZaq6Kt99XS6fS) | [Alex Roussiaux](https://open.spotify.com/artist/2gLTBD2g3G1CgXjB3sFwcV) | [Perdu En Mer](https://open.spotify.com/album/3aycKZounQ4iuQVzUY1y55) | 3:02 |
 | 40 | [Bijou](https://open.spotify.com/track/025HZ4WXMzptOa0SztQ8ky) | [Jeanne Gabrielle](https://open.spotify.com/artist/01DNT67EQW5Pcj6BIXHfnZ) | [Bijou](https://open.spotify.com/album/0WPPIiYdFOTI4WTR7bd31Y) | 2:49 |
-| 41 | [ILOVEYOU](https://open.spotify.com/track/16HeXrSkgw0drlP91dXsGm) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [ILOVEYOU](https://open.spotify.com/album/5RVR2QeFxT7876wgwMeLdy) | 3:51 |
+| 41 | [ILOVEYOU \- Radio Edit](https://open.spotify.com/track/47U0wny1LcR45QwrtrpOGj) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [ILOVEYOU \(Radio Edit\)](https://open.spotify.com/album/2Wv9giNmz2A9Ab1GOiOLwl) | 3:14 |
 | 42 | [Lentement](https://open.spotify.com/track/0E2ZSMUTQoMJF9gud4JSvZ) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Lentement](https://open.spotify.com/album/7m80SDtHS4znhOoqxMqECv) | 2:59 |
 | 43 | [La Vie Parfaite](https://open.spotify.com/track/6qcuZyJDFV41OkDNyoE9pd) | [Anabel](https://open.spotify.com/artist/50L9hhqxqvBX5FjcBV5t8P) | [La Vie Parfaite](https://open.spotify.com/album/3ZiqhTAqM5Zzv4dyoCQA8R) | 2:40 |
 | 44 | [Mon autre](https://open.spotify.com/track/2ed1MC3n26pjnzEFaVqxfG) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Mon autre](https://open.spotify.com/album/13GI0Dqlk9TEGbed1V9lmd) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [L'idylle](https://open.spotify.com/track/4HTlF3wt5o9o4ltWczJXdD) | [Trois Cafés Gourmands](https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO) | [Des ondes et des reflets \(Réédition\)](https://open.spotify.com/album/3iJmOyrpxp8kXp5m2ChnwW) | 2:55 |
 | 50 | [t'en va pas \- Spotify Singles](https://open.spotify.com/track/4k0d0g1YEyVdvxigZOqyvB) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Spotify Singles](https://open.spotify.com/album/0A8ClQfkb8D4Q6mBJGlx2e) | 3:09 |
 
-Snapshot ID: `AAAAAJrkM1GZgqTcaz75DUvo0BX9cy+s`
+Snapshot ID: `AAAAAHcajfXrPfSKYY2RJz4so7OTzXa9`

@@ -1,13 +1,45 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Alex Warren & Gigi Perez",
-  "num_followers": 1807779,
+  "description": "Sit back and relax to the chillest pop.  Cover: Nessa Barrett",
+  "num_followers": 1807621,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAdyJdEUcUQlLlqQgnGY/Z7TI5KI",
+  "snapshot_id": "AAAAAJhQD9P3eTsxM9dXFfXkxnCTJUGC",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "High On Heaven",
+        "url": "https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "High On Heaven",
+      "url": "https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
+      },
+      "artists": [
+        {
+          "name": "Not for Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 226553,
+      "name": "Not the Only One",
+      "url": "https://open.spotify.com/track/17AnW24hC6ZU6P8VQwElH9"
+    },
     {
       "added_at": "2025-12-05 05:05:38",
       "album": {
@@ -29,6 +61,38 @@
       "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
     },
     {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "locket",
+        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 222512,
+      "name": "bad enough",
+      "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
+    },
+    {
+      "added_at": "2026-01-16 16:26:57",
+      "album": {
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
       "added_at": "2026-01-09 05:00:49",
       "album": {
         "name": "Choosin' Texas",
@@ -43,6 +107,42 @@
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Over (feat. Tom Odell)",
+      "url": "https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4"
+    },
+    {
+      "added_at": "2026-01-16 16:26:57",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5Md4pIOyFZHxPkEln7Y5zG"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4hEIjVe4S6EZJtdZqODBlC"
     },
     {
       "added_at": "2025-11-08 16:45:50",
@@ -61,20 +161,20 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2026-01-09 05:00:49",
+      "added_at": "2026-01-16 05:00:28",
       "album": {
-        "name": "Chronic",
-        "url": "https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT"
+        "name": "Gentleman Blue",
+        "url": "https://open.spotify.com/album/7DqZlAXPkwicTQdm9Ii3eu"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
         }
       ],
-      "duration_ms": 156172,
-      "name": "Chronic",
-      "url": "https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy"
+      "duration_ms": 208706,
+      "name": "Gentleman Blue",
+      "url": "https://open.spotify.com/track/3lV07aYA51LIEH2egLXyV7"
     },
     {
       "added_at": "2025-11-08 16:45:50",
@@ -93,6 +193,38 @@
       "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
     },
     {
+      "added_at": "2026-01-09 05:00:49",
+      "album": {
+        "name": "Chronic",
+        "url": "https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 156172,
+      "name": "Chronic",
+      "url": "https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
+    },
+    {
       "added_at": "2026-01-09 18:49:15",
       "album": {
         "name": "BEFORE I FORGET",
@@ -107,6 +239,22 @@
       "duration_ms": 164933,
       "name": "PRIVATE",
       "url": "https://open.spotify.com/track/2NxsPbmbLr6Dw7yYnMGJdo"
+    },
+    {
+      "added_at": "2025-11-28 05:00:25",
+      "album": {
+        "name": "Pink Lemonade",
+        "url": "https://open.spotify.com/album/54HW5AhdlCDtb0x2KejVq6"
+      },
+      "artists": [
+        {
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+        }
+      ],
+      "duration_ms": 237303,
+      "name": "Pink Lemonade",
+      "url": "https://open.spotify.com/track/32X0giiWhSwrgJdyiFOqr1"
     },
     {
       "added_at": "2025-12-05 05:05:38",
@@ -125,6 +273,22 @@
       "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
     },
     {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "long haul",
+        "url": "https://open.spotify.com/album/42WkbA7vPKZ1tUjPZT7JHS"
+      },
+      "artists": [
+        {
+          "name": "Sidney",
+          "url": "https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8"
+        }
+      ],
+      "duration_ms": 204431,
+      "name": "long haul",
+      "url": "https://open.spotify.com/track/1bRQgLhzAaW5uqpKem3nxk"
+    },
+    {
       "added_at": "2026-01-09 18:19:49",
       "album": {
         "name": "I'm Crying, Are You?",
@@ -139,22 +303,6 @@
       "duration_ms": 180153,
       "name": "I'm Crying, Are You?",
       "url": "https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ"
-    },
-    {
-      "added_at": "2025-11-28 05:00:25",
-      "album": {
-        "name": "Pink Lemonade",
-        "url": "https://open.spotify.com/album/54HW5AhdlCDtb0x2KejVq6"
-      },
-      "artists": [
-        {
-          "name": "thebandfriday",
-          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
-        }
-      ],
-      "duration_ms": 237303,
-      "name": "Pink Lemonade",
-      "url": "https://open.spotify.com/track/32X0giiWhSwrgJdyiFOqr1"
     },
     {
       "added_at": "2025-11-08 16:45:50",
@@ -301,22 +449,6 @@
       "url": "https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7"
     },
     {
-      "added_at": "2025-12-05 05:05:38",
-      "album": {
-        "name": "(my world is an) oyster",
-        "url": "https://open.spotify.com/album/5KmSOOkB1iNgd3ZBhMgmB2"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 178887,
-      "name": "teeth",
-      "url": "https://open.spotify.com/track/7sPPN3NNDLhQY1Eu6Ot0Da"
-    },
-    {
       "added_at": "2025-11-21 05:00:24",
       "album": {
         "name": "A PERFECT WORLD",
@@ -461,22 +593,6 @@
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
     },
     {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "I miss you, I\u2019m sorry",
-      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
       "added_at": "2025-11-21 05:00:24",
       "album": {
         "name": "Somersault Queen",
@@ -619,22 +735,6 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
-    },
-    {
-      "added_at": "2025-12-12 05:00:48",
-      "album": {
-        "name": "Overkill",
-        "url": "https://open.spotify.com/album/3UAhzKyLSrVek7nUGN7bnO"
-      },
-      "artists": [
-        {
-          "name": "Aidan Jones",
-          "url": "https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK"
-        }
-      ],
-      "duration_ms": 240229,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/1PQdDXskvuR7wvPmotXC1d"
     },
     {
       "added_at": "2025-11-14 05:00:32",
@@ -1183,26 +1283,6 @@
     {
       "added_at": "2025-11-08 16:45:50",
       "album": {
-        "name": "girl, c'mon!",
-        "url": "https://open.spotify.com/album/770O7OrR1bPHn1OPCK79xh"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        },
-        {
-          "name": "Rebecca Sugar",
-          "url": "https://open.spotify.com/artist/6Pd7FRVtwNxFsQIkDMpLGz"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "happy for me (feat. Rebecca Sugar)",
-      "url": "https://open.spotify.com/track/19uYw4LYraDb5Uzklv6xVI"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
         "name": "The Flood",
         "url": "https://open.spotify.com/album/51oPichyQMEloL4vmfFi36"
       },
@@ -1315,22 +1395,6 @@
     {
       "added_at": "2025-11-08 16:45:50",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/4sDhnxgHsTp65nUWTlEjBl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 255457,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4NsmI3RX9yZDCuCW75Ezvp"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
         "name": "something like this",
         "url": "https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR"
       },
@@ -1375,26 +1439,6 @@
       "duration_ms": 187130,
       "name": "Picture You",
       "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Wild, Love",
-        "url": "https://open.spotify.com/album/1Y2t8BSOn9Ydi26GSJtSr5"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Plevyak",
-          "url": "https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO"
-        },
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 194805,
-      "name": "Wild, Love",
-      "url": "https://open.spotify.com/track/5Pq4bwoBblDt07xEomEI6f"
     },
     {
       "added_at": "2025-11-08 16:45:50",
@@ -1531,38 +1575,6 @@
     {
       "added_at": "2025-11-08 16:45:50",
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
-      },
-      "artists": [
-        {
-          "name": "Hope Winter",
-          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "play",
-        "url": "https://open.spotify.com/album/4qeSsS64ItU3Jk7NZukO1M"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 172748,
-      "name": "play",
-      "url": "https://open.spotify.com/track/43HLGa3iry3gOahaTUGcIM"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
       },
@@ -1595,22 +1607,6 @@
       "duration_ms": 191122,
       "name": "Forever Start",
       "url": "https://open.spotify.com/track/3ToN8ReI58rQwfuOtX5tew"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Glad We Met",
-        "url": "https://open.spotify.com/album/7kQ4DFN3bluZbWJ6LK75I6"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "I'm Glad We Met",
-      "url": "https://open.spotify.com/track/48NwJQW8Lu6ZG9icZ35Pjh"
     },
     {
       "added_at": "2025-11-08 16:45:50",

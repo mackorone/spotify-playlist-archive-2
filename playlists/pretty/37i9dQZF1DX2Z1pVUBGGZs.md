@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring Natanya 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,371 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,337 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 12 | [Appetite](https://open.spotify.com/track/25bxl09J5fkJwHdqqa4OL5) | [Jenny on Holiday](https://open.spotify.com/artist/3wHAE4ulAeuwZfQOMWArXD) | [Quicksand Heart](https://open.spotify.com/album/7mkv6Reo0oxld8GyMNWVs8) | 4:49 |
 | 13 | [retrograde](https://open.spotify.com/track/1R4EhWbWc44SYWyVzRD0yq) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Permanent Retrograde](https://open.spotify.com/album/1zh2lev0hl9C7YrmxFo3Bn) | 2:24 |
 | 14 | [Talk About It](https://open.spotify.com/track/1wrVX3ztn5FejxBlOUDclK) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Talk About It](https://open.spotify.com/album/3invOOhMmOVJF5lyAbJiUa) | 3:21 |
-| 15 | [In Between \(feat\. Jordan Adetunji\)](https://open.spotify.com/track/1pat9Eyvp7hxrEQ69bBAZ5) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [In Between \(feat\. Jordan Adetunji\)](https://open.spotify.com/album/3BiL6aOf5hdFMyGIiHmLHw) | 3:30 |
+| 15 | [In Between](https://open.spotify.com/track/1pat9Eyvp7hxrEQ69bBAZ5) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [In Between](https://open.spotify.com/album/3BiL6aOf5hdFMyGIiHmLHw) | 3:30 |
 | 16 | [Sofia](https://open.spotify.com/track/1hcl7Rbl63ScIgt675pT78) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [Sofia](https://open.spotify.com/album/38ZWo5i7WiRXodK7c3HUSA) | 2:24 |
 | 17 | [Inventing](https://open.spotify.com/track/7J9yJOa21b55I5GGUwFgfL) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Inventing](https://open.spotify.com/album/6Ueeq9CJhTfh1FBdSmuKmk) | 3:21 |
 | 18 | [Paris](https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Paris](https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy) | 2:22 |

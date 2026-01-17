@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,382 likes - 150 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,466 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chevrolet](https://open.spotify.com/track/4VAKEOsaRTSeI2SNa9bEeN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Chevrolet](https://open.spotify.com/album/4iNDYhHxLAUWyit4oRHMum) | 2:52 |
-| 2 | [YOUNG BLOOD](https://open.spotify.com/track/5wMtnzKuIyhPFD8VvGpAyN) | [True Strays](https://open.spotify.com/artist/2arsJQ0bB5uQyDJoR3MbOq) | [YOUNG BLOOD](https://open.spotify.com/album/1PjUSENItjT102cQZDZYer) | 3:22 |
-| 3 | [Dead Armadillo](https://open.spotify.com/track/2RBrx1H3wutvaWj0vdoR1R) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Deluxe Edition\)](https://open.spotify.com/album/6nnECaFoybGM731B9tqXBg) | 2:57 |
-| 4 | [Everything I Need](https://open.spotify.com/track/049Im0p8yz9HJfkD6bmTJS) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Everything I Need](https://open.spotify.com/album/3BIDHTj4CA6YY6yCMehep3) | 3:26 |
-| 5 | [I Need The Fire](https://open.spotify.com/track/0FW0T4EVzp26iu4enXJF55) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4) | [Hollow Souls](https://open.spotify.com/album/5PWl5Gp5NGOGZ2E86euqpO) | 3:12 |
-| 6 | [Evel Knievel](https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Brothers](https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp) | 3:43 |
-| 7 | [Running Dry](https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt) | [The Zac Schulze Gang](https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS) | [Straight to It](https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt) | 2:00 |
-| 8 | [7 Generations](https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:56 |
-| 9 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 |
-| 10 | [HIGH/LOW](https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [HIGH/LOW](https://open.spotify.com/album/1PdFSe3SjJoJzy7gl8Dpf8) | 3:53 |
-| 11 | [Evil Eye](https://open.spotify.com/track/0HCWTypvO4PiGXJBdG1H9f) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Evil Eye](https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap) | 2:28 |
+| 1 | [Nowhere to Go](https://open.spotify.com/track/0c5eEKZW45gQyBNipU01yW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nowhere to Go](https://open.spotify.com/album/0Z8hvkNrqwuvZoKxbkNFKI) | 3:16 |
+| 2 | [Chevrolet](https://open.spotify.com/track/4VAKEOsaRTSeI2SNa9bEeN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Chevrolet](https://open.spotify.com/album/4iNDYhHxLAUWyit4oRHMum) | 2:52 |
+| 3 | [YOUNG BLOOD](https://open.spotify.com/track/5wMtnzKuIyhPFD8VvGpAyN) | [True Strays](https://open.spotify.com/artist/2arsJQ0bB5uQyDJoR3MbOq) | [YOUNG BLOOD](https://open.spotify.com/album/1PjUSENItjT102cQZDZYer) | 3:22 |
+| 4 | [Dead Armadillo](https://open.spotify.com/track/2RBrx1H3wutvaWj0vdoR1R) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Deluxe Edition\)](https://open.spotify.com/album/6nnECaFoybGM731B9tqXBg) | 2:57 |
+| 5 | [Everything I Need](https://open.spotify.com/track/049Im0p8yz9HJfkD6bmTJS) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Everything I Need](https://open.spotify.com/album/3BIDHTj4CA6YY6yCMehep3) | 3:26 |
+| 6 | [I Need The Fire](https://open.spotify.com/track/0FW0T4EVzp26iu4enXJF55) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4) | [Hollow Souls](https://open.spotify.com/album/5PWl5Gp5NGOGZ2E86euqpO) | 3:12 |
+| 7 | [Evel Knievel](https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Brothers](https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp) | 3:43 |
+| 8 | [Running Dry](https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt) | [The Zac Schulze Gang](https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS) | [Straight to It](https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt) | 2:00 |
+| 9 | [7 Generations](https://open.spotify.com/track/3Ng6V9tduQzqGJx7ABoNRz) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:56 |
+| 10 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 |
+| 11 | [HIGH/LOW](https://open.spotify.com/track/6Y7tVRFyWGq2XT1sSWW5b6) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [HIGH/LOW](https://open.spotify.com/album/1PdFSe3SjJoJzy7gl8Dpf8) | 3:53 |
 | 12 | [Old Time Low](https://open.spotify.com/track/4yZH8DuH7X5ohvSB1VZG80) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Old Time Low](https://open.spotify.com/album/2WwdQXv8fzMzXOE2DdxIKf) | 3:00 |
 | 13 | [Borrow My Boots](https://open.spotify.com/track/3K5ejUtwpzA2pnlsyt7hdr) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Grace Bowers](https://open.spotify.com/artist/3SWXWMtSA0ZWxvhESbTkJe), [Shelly Fairchild](https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm) | [Borrow My Boots](https://open.spotify.com/album/2MDhb7bszkqpJYHI8rV1w1) | 2:40 |
 | 14 | [Breakthrough](https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/7a3lCWnJGFqM0Dyrt23vkb) | 4:10 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
 | 150 | [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 |
 
-Snapshot ID: `AAAAAExrqyqXgtPgG71r7uFn8yK50gIg`
+Snapshot ID: `AAAAAFxhR00I2ZZChGGb1XdMjUt1D8sM`

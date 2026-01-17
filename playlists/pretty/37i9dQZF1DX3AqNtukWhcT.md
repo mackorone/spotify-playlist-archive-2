@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Soft and soothing beats for all your yoga practices.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,891 likes - 49 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,925 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,21 +24,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 14 | [Take care of you](https://open.spotify.com/track/6M6qGdhwMG3wlPcLhUedEX) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Take care of you](https://open.spotify.com/album/0co3IUnySyqdoD0stuQOKr) | 1:55 |
 | 15 | [Memories](https://open.spotify.com/track/0zTPWJ63MIYzuox9NbBAvd) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Blinds](https://open.spotify.com/album/0fW00C53VCRnbKD7SDfyeb) | 1:36 |
 | 16 | [Fleeting](https://open.spotify.com/track/1lvaStEq9AuaAGaLZxk1VR) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Fleeting](https://open.spotify.com/album/2lzdHRFc8sAb3LGDaOSiKI) | 2:23 |
-| 17 | [Maple](https://open.spotify.com/track/4dRBkGmqjPsMVivOZRjuGL) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Maple](https://open.spotify.com/album/40woW26uPKn30P7NDvg5vk) | 2:11 |
+| 17 | [cirrus](https://open.spotify.com/track/4GPggSBR3PNu6qTjDGNHLo) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [cirrus](https://open.spotify.com/album/71TDVgmpDHv7EjSEs4lvtc) | 2:05 |
 | 18 | [Alice's Ambivalence](https://open.spotify.com/track/2GW0jkUrXk8p7kMkYJO2p3) | [nuuxm](https://open.spotify.com/artist/101wXaKcGFhROAYVnIwcAs) | [Alice's Ambivalence](https://open.spotify.com/album/3yNF2IbZX2CMetXQcAxyYG) | 2:28 |
-| 19 | [lullaby](https://open.spotify.com/track/1GQXqg0SnrggG9fHvmYW6q) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [lullaby](https://open.spotify.com/album/6pTuoO4bx3eY27Ag3aerJc) | 2:37 |
-| 20 | [new day](https://open.spotify.com/track/3aB7nAv332xHu9X74Tlx2S) | [collarbone.](https://open.spotify.com/artist/1Vhr5AaM4pPwTCCPY5e61p) | [new day](https://open.spotify.com/album/1RFmGtPngit8latnSZ8Ije) | 2:41 |
-| 21 | [street rain](https://open.spotify.com/track/47RU7lNBcOnk900RR9170z) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [street rain](https://open.spotify.com/album/0sXcIsldD8soezHecjCRlW) | 2:41 |
-| 22 | [Midnight Groove](https://open.spotify.com/track/7gDvDMEIlY8ocNh0OpptRB) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Midnight Groove](https://open.spotify.com/album/4cS4FNN1tFk9sT8avKlsSD) | 2:19 |
-| 23 | [Nightshade](https://open.spotify.com/track/3eC7K8UmwloTRJRom3huLr) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Nightshade](https://open.spotify.com/album/55QFmQJN6AOVCLf64G5vwQ) | 2:32 |
-| 24 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 |
-| 25 | [slideeee](https://open.spotify.com/track/3OpSUq3SzwupH1A7CnM9oT) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [slideeee](https://open.spotify.com/album/3fVg4rAmzSfYDUDpdba4tJ) | 2:18 |
-| 26 | [Wonders](https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe) | [Moon Spirit](https://open.spotify.com/artist/5KQrXENL8zznzYw3r6zTlx) | [Wonders](https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW) | 2:43 |
-| 27 | [Honestly](https://open.spotify.com/track/5CzVTEr2Ue7Ac7CFKLp75Y) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Honestly](https://open.spotify.com/album/7q0tXoUWaZ2CYQX8itV794) | 2:07 |
-| 28 | [Without You](https://open.spotify.com/track/5HGJq4nwo0kdAWrHMIkVww) | [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb), [Oso\-sa](https://open.spotify.com/artist/1SDLFni51QTye6GsxOv3hC) | [Without You](https://open.spotify.com/album/6HwdRMbpuHEQ2EhZsrVfLU) | 2:00 |
-| 29 | [Float Freely](https://open.spotify.com/track/6LjrjPvEHSW6fD7hA6UPqr) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Float Freely](https://open.spotify.com/album/6BmmFiCDiS3ZOZBIkeVkUO) | 2:06 |
-| 30 | [Clean Sheets](https://open.spotify.com/track/6iSwHHJCAUFpA1TrgKYk7s) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Clean Sheets](https://open.spotify.com/album/1FKGxbx8C5wjzLJjcQ1Zht) | 2:07 |
-| 31 | [robinsong](https://open.spotify.com/track/1qe9oC3nIxY7vWN5ybPeCe) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [robinsong](https://open.spotify.com/album/2aIFgeAxQKj6F5R2fH8di6) | 2:19 |
+| 19 | [new day](https://open.spotify.com/track/3aB7nAv332xHu9X74Tlx2S) | [collarbone.](https://open.spotify.com/artist/1Vhr5AaM4pPwTCCPY5e61p) | [new day](https://open.spotify.com/album/1RFmGtPngit8latnSZ8Ije) | 2:41 |
+| 20 | [street rain](https://open.spotify.com/track/47RU7lNBcOnk900RR9170z) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [street rain](https://open.spotify.com/album/0sXcIsldD8soezHecjCRlW) | 2:41 |
+| 21 | [Midnight Groove](https://open.spotify.com/track/7gDvDMEIlY8ocNh0OpptRB) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Midnight Groove](https://open.spotify.com/album/4cS4FNN1tFk9sT8avKlsSD) | 2:19 |
+| 22 | [Nightshade](https://open.spotify.com/track/3eC7K8UmwloTRJRom3huLr) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Nightshade](https://open.spotify.com/album/55QFmQJN6AOVCLf64G5vwQ) | 2:32 |
+| 23 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 |
+| 24 | [slideeee](https://open.spotify.com/track/3OpSUq3SzwupH1A7CnM9oT) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [slideeee](https://open.spotify.com/album/3fVg4rAmzSfYDUDpdba4tJ) | 2:18 |
+| 25 | [Wonders](https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe) | [Moon Spirit](https://open.spotify.com/artist/5KQrXENL8zznzYw3r6zTlx) | [Wonders](https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW) | 2:43 |
+| 26 | [Honestly](https://open.spotify.com/track/5CzVTEr2Ue7Ac7CFKLp75Y) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Honestly](https://open.spotify.com/album/7q0tXoUWaZ2CYQX8itV794) | 2:07 |
+| 27 | [Without You](https://open.spotify.com/track/5HGJq4nwo0kdAWrHMIkVww) | [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb), [Oso\-sa](https://open.spotify.com/artist/1SDLFni51QTye6GsxOv3hC) | [Without You](https://open.spotify.com/album/6HwdRMbpuHEQ2EhZsrVfLU) | 2:00 |
+| 28 | [Float Freely](https://open.spotify.com/track/6LjrjPvEHSW6fD7hA6UPqr) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Float Freely](https://open.spotify.com/album/6BmmFiCDiS3ZOZBIkeVkUO) | 2:06 |
+| 29 | [Clean Sheets](https://open.spotify.com/track/6iSwHHJCAUFpA1TrgKYk7s) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Clean Sheets](https://open.spotify.com/album/1FKGxbx8C5wjzLJjcQ1Zht) | 2:07 |
+| 30 | [robinsong](https://open.spotify.com/track/1qe9oC3nIxY7vWN5ybPeCe) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [robinsong](https://open.spotify.com/album/2aIFgeAxQKj6F5R2fH8di6) | 2:19 |
+| 31 | [lullaby](https://open.spotify.com/track/1GQXqg0SnrggG9fHvmYW6q) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [lullaby](https://open.spotify.com/album/6pTuoO4bx3eY27Ag3aerJc) | 2:37 |
 | 32 | [seek somebody](https://open.spotify.com/track/5qirk6OgA1PzJhBxAOnTyi) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [seek somebody](https://open.spotify.com/album/4cj8n9qE2S3ccWglfiNzMT) | 2:44 |
 | 33 | [NapBeats](https://open.spotify.com/track/4zS59362dyP7KThMCGiUEt) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [NapBeats](https://open.spotify.com/album/6737tjypnmZPh9eIRb4gIQ) | 2:04 |
 | 34 | [Orient Silence](https://open.spotify.com/track/0V8gliTnW5GCFHF8wj2pnG) | [Mellow Melt](https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ) | [Orient Silence](https://open.spotify.com/album/1iilQYtP4gjELnCX4lMSa4) | 2:29 |
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 47 | [spirulina](https://open.spotify.com/track/6RTXsP4KJKDhBSATyR4ZSB) | [green print](https://open.spotify.com/artist/39W25if0IxsMNwE37DBgZu) | [spirulina](https://open.spotify.com/album/5q0CUqbosogIw2TbpQTI9k) | 2:07 |
 | 48 | [Deep](https://open.spotify.com/track/1AIRo8fm2HRBijyK2R9tTv) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Deep](https://open.spotify.com/album/0QOeIULtoZKuYNhb6ZtdpI) | 2:40 |
 | 49 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 |
+| 50 | [Maple](https://open.spotify.com/track/4dRBkGmqjPsMVivOZRjuGL) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Maple](https://open.spotify.com/album/40woW26uPKn30P7NDvg5vk) | 2:11 |
 
-Snapshot ID: `AAAAALjZJWdQcF6Uz7qY0M33QAC44tw7`
+Snapshot ID: `AAAAAJzaBk5HIna4xQ2ISNiw99oEk6an`

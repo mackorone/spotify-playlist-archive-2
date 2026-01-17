@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring altrice.\n",
-  "num_followers": 209489,
+  "num_followers": 209497,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC+4PzGicSw7nIJYU5SHJnYd9K2l",
+  "snapshot_id": "AAAAAKm8ZZAeXNcIXoNbNe6GCUYQ+E/d",
   "tracks": [
     {
       "added_at": "2026-01-15 15:31:15",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
     },
     {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/19wqpXo5KGyYLE4QMVCiVj"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6m9GNw85z5BjJWD7VB3jq6"
+    },
+    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "I Get This Feeling",
@@ -75,6 +91,22 @@
       "duration_ms": 211019,
       "name": "I Get This Feeling",
       "url": "https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz"
+    },
+    {
+      "added_at": "2026-01-15 15:31:15",
+      "album": {
+        "name": "Body Drift",
+        "url": "https://open.spotify.com/album/4ld5TL0DtX4khDspc0rBZa"
+      },
+      "artists": [
+        {
+          "name": "BAUGRUPPE90",
+          "url": "https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx"
+        }
+      ],
+      "duration_ms": 212323,
+      "name": "Body Drift",
+      "url": "https://open.spotify.com/track/4pUnr7t45pp0CwV534HinV"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -109,20 +141,24 @@
       "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
     },
     {
-      "added_at": "2026-01-15 15:31:15",
+      "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Body Drift",
-        "url": "https://open.spotify.com/album/4ld5TL0DtX4khDspc0rBZa"
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/4IXCHMfLTPBvntSY0wAtJo"
       },
       "artists": [
         {
-          "name": "BAUGRUPPE90",
-          "url": "https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx"
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
         }
       ],
-      "duration_ms": 212323,
-      "name": "Body Drift",
-      "url": "https://open.spotify.com/track/4pUnr7t45pp0CwV534HinV"
+      "duration_ms": 171428,
+      "name": "Reset (feat. Killa P)",
+      "url": "https://open.spotify.com/track/55CMFV6MyOXW845UQeIDeu"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -163,6 +199,22 @@
       "duration_ms": 209577,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/52n9w0fmTgeHE65isG7UQg"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Dont Let Me Down / SFTU",
+        "url": "https://open.spotify.com/album/0NKw7JUQfGBQPV9H5HIV3v"
+      },
+      "artists": [
+        {
+          "name": "Engle",
+          "url": "https://open.spotify.com/artist/4EBTVvuF1oSpoiPFWrUSmA"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "SFTU",
+      "url": "https://open.spotify.com/track/1m15DoUZXxDdwvKYeLEr8T"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -213,6 +265,74 @@
       "url": "https://open.spotify.com/track/1HPq0oeVwlh291dUg6eFue"
     },
     {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/5nsMuDWe08bhTCKQ2CvFuR"
+      },
+      "artists": [
+        {
+          "name": "Memblem",
+          "url": "https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI"
+        },
+        {
+          "name": "subtoll",
+          "url": "https://open.spotify.com/artist/2zNvxY3Us2BqUPOTw7OP2G"
+        }
+      ],
+      "duration_ms": 161699,
+      "name": "Broadcast",
+      "url": "https://open.spotify.com/track/1C7HaCCrTlGh58J3ChAwXX"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Borehole",
+        "url": "https://open.spotify.com/album/4vukaa71YhJMu00m4Oy8hV"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Borehole",
+      "url": "https://open.spotify.com/track/2B4OQq13pgIqrud53V7NvZ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Show Me The Lights",
+        "url": "https://open.spotify.com/album/2LZndqe80f5ldqIh2YqrzY"
+      },
+      "artists": [
+        {
+          "name": "Showgun",
+          "url": "https://open.spotify.com/artist/1pHshppLS4zwrdgTp23HFq"
+        }
+      ],
+      "duration_ms": 178671,
+      "name": "Show Me The Lights",
+      "url": "https://open.spotify.com/track/5v5O4LVum9OcKTCLujjq1m"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "ROLL OUT",
+        "url": "https://open.spotify.com/album/4pnquavbACgHeudpf9zhgR"
+      },
+      "artists": [
+        {
+          "name": "DON'T THINK",
+          "url": "https://open.spotify.com/artist/0JkeEwbkFQLU4C5voqbjFG"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "ROLL OUT",
+      "url": "https://open.spotify.com/track/6wTWdrWYSPURvUb9MqcN18"
+    },
+    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "FLOW",
@@ -245,6 +365,22 @@
       "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
     },
     {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "NETI",
+        "url": "https://open.spotify.com/album/0HypQZZbVYL0fvgtmwyWXg"
+      },
+      "artists": [
+        {
+          "name": "Lamsi",
+          "url": "https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bend Yo Back",
+      "url": "https://open.spotify.com/track/6py6p18SMpu2mx5ZSH5APE"
+    },
+    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "PARA\u00cdSO",
@@ -259,6 +395,22 @@
       "duration_ms": 196764,
       "name": "PARA\u00cdSO",
       "url": "https://open.spotify.com/track/2EYGyf6ev8BHV4yjDwk6vI"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/29bHm6hC13cJZY1zLjoGOe"
+      },
+      "artists": [
+        {
+          "name": "Ocean",
+          "url": "https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg"
+        }
+      ],
+      "duration_ms": 255105,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5Yr2dQUCMLTHp9murXnHwu"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -309,6 +461,22 @@
       "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
     },
     {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Fade Into The Morning Light",
+        "url": "https://open.spotify.com/album/0GREH05xopggg900XInMwI"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "duration_ms": 172380,
+      "name": "Fade Into the Morning Light - Radio Edit",
+      "url": "https://open.spotify.com/track/1snaKZmXvVuVmCS2OYtRvr"
+    },
+    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "Hold On",
@@ -325,6 +493,26 @@
       "url": "https://open.spotify.com/track/12pK2W23mKJkT3FHnwGpIx"
     },
     {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "It Really Don't Matter",
+        "url": "https://open.spotify.com/album/4cHMmvuIZNodWbgSIeEfe1"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "CIS",
+          "url": "https://open.spotify.com/artist/1wQLvzp6520wqPtnXyic9P"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "It Really Don't Matter",
+      "url": "https://open.spotify.com/track/1PNFgIfMKc6f5OtgfHt4f9"
+    },
+    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "Lose My Breath",
@@ -339,6 +527,38 @@
       "duration_ms": 334153,
       "name": "Lose My Breath",
       "url": "https://open.spotify.com/track/3korCKeqdFTvAknD6T6DH9"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Where Everything Collides",
+        "url": "https://open.spotify.com/album/5TqNL4rMc1D0y643RGkIvZ"
+      },
+      "artists": [
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "duration_ms": 160222,
+      "name": "love (unconditionally)",
+      "url": "https://open.spotify.com/track/16VNYYhSSpUZSS1Cg74LfC"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2xKOTefcgHkkjKhlogcf0a"
+      },
+      "artists": [
+        {
+          "name": "Dan be",
+          "url": "https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/1hhEvtAREjWRsDPa8gqwnc"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -371,6 +591,26 @@
       "duration_ms": 176818,
       "name": "Beat Electronic",
       "url": "https://open.spotify.com/track/4ItSrZpF2Zqr3lPxENiUGE"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/5h8yxVhYmtxaVZ66fGYjeD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Grey",
+          "url": "https://open.spotify.com/artist/68FF5yW2tWcn7HqeL4seaw"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/6m8wEkW7CJFNDH9LweKV0z"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -419,6 +659,22 @@
       "duration_ms": 352500,
       "name": "AYTCHNLGY",
       "url": "https://open.spotify.com/track/1k0f71CXcVgG5LkIN693vg"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "invisible wings",
+        "url": "https://open.spotify.com/album/3yQXWC4qPtJS6wBK66VZpx"
+      },
+      "artists": [
+        {
+          "name": "2charm",
+          "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr"
+        }
+      ],
+      "duration_ms": 266792,
+      "name": "invisible wings",
+      "url": "https://open.spotify.com/track/1iwApc5CudQCYHIJKugqYO"
     },
     {
       "added_at": "2026-01-15 15:31:15",

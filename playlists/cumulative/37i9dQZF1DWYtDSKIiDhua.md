@@ -4,7 +4,7 @@
 
 > R&B and good vibe tracks for your current mood\. Cover: Ella Mai
 
-1,494 songs - 3 day 7 hr 52 min
+1,495 songs - 3 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 | 2022-06-08 | 2022-08-26 |
 | [All I Need](https://open.spotify.com/track/1DB9ONNU2hzpnIRy6gnO64) | [GunZ](https://open.spotify.com/artist/1TU6sLpWMQEHUhIgFJVVVl) | [All I Need](https://open.spotify.com/album/1SIVcD8aIhOJ1oprj5tKzb) | 3:26 | 2024-05-24 | 2024-06-01 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-14 | 2022-07-22 |
+| [ALL NIGHT LONG](https://open.spotify.com/track/2nRL6TyECRS4enVo2npLYb) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [ALL NIGHT LONG](https://open.spotify.com/album/6P3gsC1nBoCo0wkaGG9UYL) | 2:21 | 2026-01-15 |  |
 | [All Out Of Love](https://open.spotify.com/track/7vhoaLa8KJJTIQJYfDhdV3) | [Vitara](https://open.spotify.com/artist/0NcLSUH54X9UBJSO7uMtPA) | [All Out Of Love](https://open.spotify.com/album/1nbO2blQ2f2McVpyPmgcUS) | 2:58 | 2023-01-05 | 2023-01-14 |
 | [All That I Need](https://open.spotify.com/track/7ziBvMT017ycfAxit7j7kf) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [All That I Need](https://open.spotify.com/album/2qfFZJTEuNg6YSpNzoUiIc) | 3:41 | 2022-06-08 | 2022-10-14 |
 | [All That I Needed](https://open.spotify.com/track/7DBAcbwcjFk3TPnj0mp7ct) | [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [All That I Needed](https://open.spotify.com/album/7pv4846LixpPlzAVEdJ8nc) | 3:04 | 2023-02-09 | 2023-02-18 |
@@ -933,7 +934,7 @@
 | [On These Days](https://open.spotify.com/track/50tg0MhVYLYLlUIRkZMtlr) | [Chriselda](https://open.spotify.com/artist/2U9rPOlR5Osiq6sRuL0dSr) | [On These Days](https://open.spotify.com/album/24daMuc7N7ATgrxs1ABsdt) | 3:30 | 2022-07-14 | 2022-10-21 |
 | [On Your Own](https://open.spotify.com/track/7cR4MDCGlxveEjymmRuufe) | [Echo Huang](https://open.spotify.com/artist/3nCCEiChcmfz65ccX2BzdE) | [On Your Own](https://open.spotify.com/album/5aLoS7nVdZqaXCtSVFeMEA) | 2:46 | 2024-10-17 | 2024-12-05 |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 | 2024-08-30 |
-| [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [](https://open.spotify.com/album/null) | 3:03 | 2026-01-15 |  |
+| [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say \(and more\)](https://open.spotify.com/album/5C4nJlq9vET3ikxu5u4ZxD) | 3:03 | 2026-01-15 |  |
 | [ONE NIGHT](https://open.spotify.com/track/25lCIVyiwksrf28v9hldGR) | [SJ Maglana](https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc) | [ONE NIGHT](https://open.spotify.com/album/1wk5qpEqmT1xW695nH7jAe) | 2:49 | 2025-06-12 | 2025-09-05 |
 | [One Waking Dream](https://open.spotify.com/track/1aAiZ4TfzjmhM1iOrO3O13) | [Natt Buntita](https://open.spotify.com/artist/5WGEq3jNFjSRF4ACITjLwY) | [One Waking Dream](https://open.spotify.com/album/2pKAc510fNnEIE1KBVen4T) | 3:27 | 2025-05-15 | 2025-09-05 |
 | [onemorenight](https://open.spotify.com/track/1s1KR1i4GhsNbl3EExYhSn) | [ALVN](https://open.spotify.com/artist/72ubqJlbqJ9x9P6DLl3V3m), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [onemorenight](https://open.spotify.com/album/1ArcypkPcPLbNhinYJ8rgZ) | 2:38 | 2023-10-05 | 2024-05-17 |

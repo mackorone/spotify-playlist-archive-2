@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Musa Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,717 likes - 70 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,725 likes - 70 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 69 | [Mbali \- Radio Edit](https://open.spotify.com/track/6H7Idb6FZCqTTAUIPJcRwE) | [Tomi H](https://open.spotify.com/artist/1xzTJmuMg2QSiLjieCtYH8), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Mbali](https://open.spotify.com/album/3XXFxvRyB0YJI4sAKwLrhM) | 4:00 |
 | 70 | [Kuribe](https://open.spotify.com/track/6JXQfrckT9iGcCcb51e5kA) | [Tebza Da Guitar](https://open.spotify.com/artist/3P74IrPnADRffywcXTzlIE), [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF), [AxdyBeats\_AU](https://open.spotify.com/artist/4KgevtkjEodfoUvIzMFxpa) | [Kuribe](https://open.spotify.com/album/6e84TJ9gyxTMyJg68XSfte) | 5:09 |
 
-Snapshot ID: `AAAAAL5WW6R1/+f5IStb5gWtZpb+UBl6`
+Snapshot ID: `AAAAAMoHvqGrhG9ef7U6Z1a4lhlhj17s`

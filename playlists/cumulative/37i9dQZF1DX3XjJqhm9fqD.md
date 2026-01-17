@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Naïka
 
-276 songs - 16 hr 28 min
+277 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [LAKAY](https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg) | [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt), [AlCol](https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR) | [LAKAY](https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM) | 2:51 | 2021-12-06 |  |
 | [Lakou](https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng) | [Tafa Mi\-Soleil](https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt) | [Lakou](https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3) | 3:12 | 2023-04-11 |  |
 | [Lave Lè A](https://open.spotify.com/track/18N4WwFTwEGK17NgMB61Gi) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Lave Lè A](https://open.spotify.com/album/3ircijrsvcWgFhAiKGRvP4) | 3:54 | 2023-09-24 | 2024-01-03 |
-| [Layers \- Live Acoustic](https://open.spotify.com/track/1eOuxbVvNCKXcSeq2lZ2mW) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Layers \(Live Acoustic\)](https://open.spotify.com/album/39MOfURibwGxl4XnEzgve5) | 2:29 | 2025-04-04 |  |
+| [Layers \- Live Acoustic](https://open.spotify.com/track/1eOuxbVvNCKXcSeq2lZ2mW) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Layers \(Live Acoustic\)](https://open.spotify.com/album/39MOfURibwGxl4XnEzgve5) | 2:29 | 2025-04-04 | 2026-01-17 |
 | [Li Bonè](https://open.spotify.com/track/3XM5CKUZKpUUjfSOmJr8fu) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [T\-Kenny](https://open.spotify.com/artist/0pFhpf6TqjGdLJSnfpWG2g) | [Li Bonè](https://open.spotify.com/album/1BEEBmfubdKjd2yA2ZiKVz) | 2:22 | 2023-09-24 | 2024-01-03 |
 | [Li Cho](https://open.spotify.com/track/5FAekDZSA4bfe2Bz3aN4VI) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Li Cho](https://open.spotify.com/album/6Plh34hDbXkiS7ttbXdZ1Z) | 2:41 | 2023-09-24 | 2024-07-15 |
 | [Li Dous](https://open.spotify.com/track/5grDOONmWpfnQf1jdJ9uGS) | [Joseph Zenny Jr](https://open.spotify.com/artist/4QS6sp3hm1ev3WXpPFKunt), [Kreyol La](https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB) | [Li Dous](https://open.spotify.com/album/3oevpqZKmmqEu7493mM52I) | 3:42 | 2025-04-04 |  |
@@ -190,6 +190,7 @@
 | [Oh Mama](https://open.spotify.com/track/6O1JbI2vepUE3dg5XKkHYi) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 2:34 | 2021-12-06 | 2022-10-13 |
 | [Oh Mama](https://open.spotify.com/track/2frWAfuGVi9LwwLb5kZFrP) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg) | [Melanin](https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm) | 2:34 | 2022-10-16 | 2023-02-18 |
 | [On va pas baisser les bras](https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r) | [Paska](https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6), [Romeomania](https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w) | [On va pas baisser les bras](https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A) | 3:15 | 2021-12-06 | 2024-11-17 |
+| [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 | 2026-01-16 |  |
 | [Only You](https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD) | [KeyAra](https://open.spotify.com/artist/5ip5n1ajctLiO63CCJfEv6), [KOLO](https://open.spotify.com/artist/2CICr3LR6jHHl0V6DmAtWE), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Only You](https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7) | 3:17 | 2021-12-06 | 2025-10-06 |
 | [Ou Bezwen](https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje) | [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [Ou Bezwen](https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp) | 4:12 | 2023-03-17 | 2024-06-29 |
 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 | 2023-02-17 |  |

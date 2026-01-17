@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 248941,
       "name": "Cierra los Ojos",
       "url": "https://open.spotify.com/track/3oqYSm8Hwq5mGaHTVqaN7p"
@@ -4318,7 +4318,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 175000,
       "name": "el ilusionista",
       "url": "https://open.spotify.com/track/1iCTWBt3T2OV7YlgeR04h1"
@@ -5382,7 +5382,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 191538,
       "name": "Formas de volver a casa",
       "url": "https://open.spotify.com/track/04LJr1Uj5aqFUPtkgCwDfI"
@@ -6031,6 +6031,24 @@
     },
     {
       "album": {
+        "name": "indiePOP",
+        "url": "https://open.spotify.com/album/6CsSU7FkgEffMpm3rbRqa1"
+      },
+      "artists": [
+        {
+          "name": "S\u00d3FFICA",
+          "url": "https://open.spotify.com/artist/3ZmEdq0l9W5psqT7a1bFl0"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141984,
+      "name": "indiePOP",
+      "url": "https://open.spotify.com/track/5zDmCGPtOlskG2Cm3xrLDs"
+    },
+    {
+      "album": {
         "name": "Inhabitable",
         "url": "https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG"
       },
@@ -6416,7 +6434,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 149741,
       "name": "La Ayuda",
       "url": "https://open.spotify.com/track/6kT1BQi9VzESyufRLgg3RL"
@@ -7872,6 +7890,24 @@
       "duration_ms": 196946,
       "name": "ME ESTOY RINDIENDO am0r :(",
       "url": "https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA"
+    },
+    {
+      "album": {
+        "name": "Creo que siempre te voy a querer",
+        "url": "https://open.spotify.com/album/6mVUmMSwfxGdkEQUwXUNuR"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Prochet",
+          "url": "https://open.spotify.com/artist/16e8iY0aAVoNzaV1sG4rKr"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172279,
+      "name": "Me gustas 1.1",
+      "url": "https://open.spotify.com/track/2rt28dAHQibVUP6fQuTDRP"
     },
     {
       "album": {
@@ -9601,6 +9637,28 @@
     },
     {
       "album": {
+        "name": "nos keremos tanto",
+        "url": "https://open.spotify.com/album/5LlYHGpfPOK8WN2TWUmXi1"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "nos keremos tanto",
+      "url": "https://open.spotify.com/track/51OIgUzAwtxOMhNUEifwMn"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/7x4Hba5M5kjsR67wCdtWnB"
       },
@@ -10704,7 +10762,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 168033,
       "name": "platica con mi psicologa",
       "url": "https://open.spotify.com/track/265vaZK3Tu7WvqgU45cLJY"
@@ -13427,6 +13485,24 @@
     },
     {
       "album": {
+        "name": "JARD\u00cdN",
+        "url": "https://open.spotify.com/album/3rnxkQqXmBNSxYyu3Qkx3y"
+      },
+      "artists": [
+        {
+          "name": "Paco",
+          "url": "https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "THINK ABOUT IT.",
+      "url": "https://open.spotify.com/track/5dLumuQFPQYFX6Jq1m12ic"
+    },
+    {
+      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
       },
@@ -15598,6 +15674,24 @@
       "duration_ms": 179377,
       "name": "\u00faltimo y primero",
       "url": "https://open.spotify.com/track/7xUFeXNhkN04OkneYwQVXB"
+    },
+    {
+      "album": {
+        "name": "\u02d6\u207a\u2027\u208a\u02da \u2661 Sentimental \u2661 \u02da\u208a\u2027\u207a\u02d6",
+        "url": "https://open.spotify.com/album/1FLZq0n09OKbdk9L0vdt2H"
+      },
+      "artists": [
+        {
+          "name": "Amarillo Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/3ViegLXm8G6MSGjMyugONL"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\u02d6\u207a\u2027\u208a\u02da \u2661 Sentimental \u2661 \u02da\u208a\u2027\u207a\u02d6",
+      "url": "https://open.spotify.com/track/5JJ3mbjr0yKfxGPcKrv42B"
     },
     {
       "album": {

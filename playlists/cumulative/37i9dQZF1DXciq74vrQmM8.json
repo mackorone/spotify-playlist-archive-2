@@ -10709,6 +10709,24 @@
     },
     {
       "album": {
+        "name": "I.D.C.",
+        "url": "https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211651,
+      "name": "I.D.C.",
+      "url": "https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1"
+    },
+    {
+      "album": {
         "name": "IDC",
         "url": "https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs"
       },
@@ -16738,7 +16756,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 223187,
       "name": "PRINCELESS PRINCESS",
       "url": "https://open.spotify.com/track/3ov9X8yrGi3jKX9ua8T2qq"

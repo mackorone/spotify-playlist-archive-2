@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Menampilkan artis RADAR Indonesia 2025 teratas, Rony Parulian dan lagu-lagu pilihan editor.  Cover: Rony Parulian ",
-  "name": "Best of RADAR Indonesia 2025 ",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: The Lantis ",
+  "name": "RADAR Indonesia ",
   "tracks": [
     {
       "album": {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/7i5S9v9fiN6Vuqy5Hf9KbR"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 236000,
       "name": "Apakah Kita Hanya Bercanda?",
       "url": "https://open.spotify.com/track/3lEezbeTSQ6XhAn9fnfLZc"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Apakah Kita Hanya Bercanda?",
       "url": "https://open.spotify.com/track/3uroWhtZvxgdQ2e3CzcQwD"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 220851,
       "name": "Atas Nama Cinta - From Cinta Fitri",
       "url": "https://open.spotify.com/track/3cUwOFPDREgrYpnLbexQvo"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 182000,
       "name": "Belahan Jiwa",
       "url": "https://open.spotify.com/track/2A5joRlbEXx444aMmfneD9"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 254099,
       "name": "Cukup Aku",
       "url": "https://open.spotify.com/track/2mc8jujaGtb6AddMKR4yn6"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 254099,
       "name": "Cukup Aku",
       "url": "https://open.spotify.com/track/5Jgh4Lp2Fa0HZC1tQOZ2iD"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 235861,
       "name": "Denah Rumahmu",
       "url": "https://open.spotify.com/track/2pAIsy87PtMr6d7hoLSS8A"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 217641,
       "name": "Gantung",
       "url": "https://open.spotify.com/track/2R1Eks7GwZb8F8JIfyZEBo"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 217641,
       "name": "Gantung",
       "url": "https://open.spotify.com/track/3AOt3I1KTa33Bs0x7J4Aqg"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 240082,
       "name": "Indah Pada Waktunya",
       "url": "https://open.spotify.com/track/2UAgx5YTxZpUcb5AuPkcdZ"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 263786,
       "name": "Ingatkah?",
       "url": "https://open.spotify.com/track/0WtLOUvSWCb6F63ojSr2xH"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 263786,
       "name": "Ingatkah?",
       "url": "https://open.spotify.com/track/2nvKOio4m44FInqTlWLljl"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 191113,
       "name": "Keabadian",
       "url": "https://open.spotify.com/track/0Vx18BO4P5hi7eGrjDYUpJ"
@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 221458,
       "name": "Kisah Kasih di Jakarta",
       "url": "https://open.spotify.com/track/1Kr5yBY1hNUoqkeNfvysHx"
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 248918,
       "name": "Lamunan Di Kota Itu II",
       "url": "https://open.spotify.com/track/2mWNTjU0DCB0QNHEkucRXF"
@@ -2740,7 +2740,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 265755,
       "name": "Lara",
       "url": "https://open.spotify.com/track/3yP0vPR9ZsZwM0uKAoOx21"
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 263800,
       "name": "Mengapa",
       "url": "https://open.spotify.com/track/4CD3TJYkPcbtsMX3hNqiFE"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 243692,
       "name": "Mungkin",
       "url": "https://open.spotify.com/track/4DRDPA5Ep6JFXqhn6ywpal"
@@ -3348,7 +3348,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 215072,
       "name": "Nirwana",
       "url": "https://open.spotify.com/track/20LfDnXnQRhSS5pMndgAhs"
@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 208845,
       "name": "Nyaman Terbuka",
       "url": "https://open.spotify.com/track/7tXTwcHhAmo76d6F7upe1A"
@@ -3486,7 +3486,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 213395,
       "name": "Panjang Umur Selalu",
       "url": "https://open.spotify.com/track/5xm5djNjG2ij6YQD5HXqc6"
@@ -3504,7 +3504,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 213395,
       "name": "Panjang Umur Selalu",
       "url": "https://open.spotify.com/track/7E6aFTopl1t7PyL93AkgJL"
@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 251431,
       "name": "Penantian Panjang",
       "url": "https://open.spotify.com/track/1JMpfWjCxhro8H2nKVrc2z"
@@ -3612,7 +3612,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 251431,
       "name": "Penantian Panjang",
       "url": "https://open.spotify.com/track/1siFe5DeqsYbnev0iFfd9R"
@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 222201,
       "name": "Pesona Cinta",
       "url": "https://open.spotify.com/track/1CkVS5syh7qFvIs90Oc6cG"
@@ -3886,7 +3886,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 247250,
       "name": "Primadona",
       "url": "https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI"
@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 247250,
       "name": "Primadona",
       "url": "https://open.spotify.com/track/7atvXvCPgtfHxK1ULrD23M"
@@ -4048,7 +4048,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "Rindu Yang Palsu",
       "url": "https://open.spotify.com/track/2fARaotK1bhsly9sz25kJP"
@@ -4066,7 +4066,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 251000,
       "name": "Rindu Yang Palsu",
       "url": "https://open.spotify.com/track/53XHQaVWXakQnyVgvmOho5"
@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 231325,
       "name": "Senyam-Senyum",
       "url": "https://open.spotify.com/track/0fLY6LDkqU8UsryD54gFnV"
@@ -4432,7 +4432,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 231325,
       "name": "Senyam-Senyum",
       "url": "https://open.spotify.com/track/5Jz56RYkRsqY7GwIY3pyQd"
@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 247820,
       "name": "Sepenuh Hati",
       "url": "https://open.spotify.com/track/5FInkXMyxWHOvwejaEnPRd"
@@ -4508,7 +4508,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 204940,
       "name": "Seperti Cemara",
       "url": "https://open.spotify.com/track/5c6zSJlr4tHXewLs3s374p"
@@ -4898,7 +4898,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 202600,
       "name": "Tak Lagi Sama",
       "url": "https://open.spotify.com/track/4Anesm4EHw6NsJ8WnXo9CI"
@@ -4992,7 +4992,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 238407,
       "name": "Takkan Berpaling DariMu",
       "url": "https://open.spotify.com/track/5Qxu9EgGSc4RvICFGWcOCF"
@@ -5010,7 +5010,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 238407,
       "name": "Takkan Berpaling DariMu",
       "url": "https://open.spotify.com/track/6y7zdBxB5u3d8QihkDaAwj"
@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 198324,
       "name": "Tegar",
       "url": "https://open.spotify.com/track/2Og0MMoa1xYEBDpUIlzLgy"

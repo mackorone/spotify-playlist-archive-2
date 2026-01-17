@@ -1,12 +1,12 @@
 {
   "description": "welcome to our universe ft. A$AP Rocky ",
-  "num_followers": 837583,
+  "num_followers": 837522,
   "original_name": "misfits 2.0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMiQo10sAacIzwsRLcbKHYXArHcT",
+  "snapshot_id": "AAAAAG6s5M+17nnUgHdIHY+d3o4Z0ums",
   "tracks": [
     {
       "added_at": "2026-01-12 08:31:44",
@@ -119,6 +119,22 @@
       "duration_ms": 183965,
       "name": "ANTIDOTE",
       "url": "https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ"
+    },
+    {
+      "added_at": "2026-01-16 13:30:46",
+      "album": {
+        "name": "I.D.C.",
+        "url": "https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "duration_ms": 211651,
+      "name": "I.D.C.",
+      "url": "https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1"
     },
     {
       "added_at": "2026-01-12 08:31:44",
@@ -1175,22 +1191,6 @@
       "duration_ms": 233807,
       "name": "ORDINARY LOSS",
       "url": "https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7"
-    },
-    {
-      "added_at": "2026-01-12 08:31:44",
-      "album": {
-        "name": "PRINCELESS PRINCESS",
-        "url": "https://open.spotify.com/album/28RnLQk5KA7XWhaWoijuH1"
-      },
-      "artists": [
-        {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
-        }
-      ],
-      "duration_ms": 223187,
-      "name": "PRINCELESS PRINCESS",
-      "url": "https://open.spotify.com/track/3ov9X8yrGi3jKX9ua8T2qq"
     },
     {
       "added_at": "2026-01-12 08:31:44",

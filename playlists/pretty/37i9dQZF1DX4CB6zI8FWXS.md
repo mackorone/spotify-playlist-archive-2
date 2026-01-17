@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Ella Mai
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,024 likes - 79 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,018 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 2 | [Twin Flame](https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Twin Flame](https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd) | 3:06 |
 | 3 | [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 |
 | 4 | [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:28 |
-| 5 | [Crazy \(Nobody Else\)](https://open.spotify.com/track/19plLA20jxjik8Kq94aRUb) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [](https://open.spotify.com/album/null) | 4:15 |
+| 5 | [Crazy \(Nobody Else\)](https://open.spotify.com/track/19plLA20jxjik8Kq94aRUb) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo \(25th Anniversary Edition\)](https://open.spotify.com/album/5hAy2eMkeCVt128x6Ypqd6) | 4:15 |
 | 6 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 |
 | 7 | [Dream Catcher \- feat\. Victor Newman](https://open.spotify.com/track/2CaFE20pzFgDN1Gxn081Fc) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Victor Newman](https://open.spotify.com/artist/3oxtIlkys3yuUqP2zX6FjQ) | [HEARTBEAT](https://open.spotify.com/album/0GOgwexqiOlJSYNyXjBg9m) | 2:18 |
 | 8 | [Writings On The Wall](https://open.spotify.com/track/48qDUpCo1dEAy7fiaageMY) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Writings On The Wall](https://open.spotify.com/album/1PeSTknHlyA6K8goDmzq31) | 2:39 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 22 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
 | 23 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
 | 24 | [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 |
-| 25 | [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [](https://open.spotify.com/album/null) | 3:03 |
+| 25 | [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say \(and more\)](https://open.spotify.com/album/5C4nJlq9vET3ikxu5u4ZxD) | 3:03 |
 | 26 | [Sparkling Wine](https://open.spotify.com/track/4Zs8qpSHIKyHH0jzdj7MTX) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Sparkling Wine](https://open.spotify.com/album/75Th3C5rIrrDfCDBtq5073) | 2:57 |
 | 27 | [Lowkey](https://open.spotify.com/track/3KjHuFcOKfHTr5dFwTSoBh) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [1999](https://open.spotify.com/album/7pVzkk84y73tN8vZRg14g8) | 2:29 |
 | 28 | [lone star](https://open.spotify.com/track/3ovwgZbdXzgEs8vCxpdKWC) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Carolyn Malachi](https://open.spotify.com/artist/38UcHZORGYFCCfMD1p4S39) | [lone star](https://open.spotify.com/album/2vJD8rDqB5D7IuGoznq4c4) | 2:56 |

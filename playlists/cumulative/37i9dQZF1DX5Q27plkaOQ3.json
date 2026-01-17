@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\udca5 with Space Laces",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Levity",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 221200,
       "name": "AGAIN",
       "url": "https://open.spotify.com/track/676fXA0Z4DhqXCrz5Bm4ho"
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 198400,
       "name": "Belong To Me",
       "url": "https://open.spotify.com/track/3vyUvAoODWmnHlbytG7KTY"
@@ -3184,6 +3184,24 @@
       "duration_ms": 162206,
       "name": "BOOSTED",
       "url": "https://open.spotify.com/track/2kdWVtGDVCx3nOpIoZ6gN0"
+    },
+    {
+      "album": {
+        "name": "Borehole",
+        "url": "https://open.spotify.com/album/4vukaa71YhJMu00m4Oy8hV"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Borehole",
+      "url": "https://open.spotify.com/track/2B4OQq13pgIqrud53V7NvZ"
     },
     {
       "album": {
@@ -5339,6 +5357,28 @@
     },
     {
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/2NyTy8TiQkOOppDlkA6V1M"
+      },
+      "artists": [
+        {
+          "name": "Chozen",
+          "url": "https://open.spotify.com/artist/0T8PFaa4SnSE2VyKYN5E4N"
+        },
+        {
+          "name": "Noetika",
+          "url": "https://open.spotify.com/artist/5nWMvCkzK4A0K8GgG529m5"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Costco Bois",
+      "url": "https://open.spotify.com/track/5Xpks7tTJ5i3LFXsSvc2vT"
+    },
+    {
+      "album": {
         "name": "Count That",
         "url": "https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt"
       },
@@ -7025,6 +7065,24 @@
     },
     {
       "album": {
+        "name": "Don't Need Nobody",
+        "url": "https://open.spotify.com/album/0R8MTLqo9xxKZgCX9OE29z"
+      },
+      "artists": [
+        {
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216099,
+      "name": "Don't Need Nobody",
+      "url": "https://open.spotify.com/track/36XtTqtMisWUzqhVDwdIDf"
+    },
+    {
+      "album": {
         "name": "Don't Speak",
         "url": "https://open.spotify.com/album/5oKMHgS24Ikp9APo5xi1lr"
       },
@@ -8078,7 +8136,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 244965,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0WestNiV3HHGYx241RZb0J"
@@ -11113,6 +11171,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/5Tm1UdHePKEOA4uASwdwo1"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154405,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/4PzgYtLEcik1VGjbDDdqbA"
+    },
+    {
+      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR"
       },
@@ -11398,7 +11474,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 202285,
       "name": "Higher Place",
       "url": "https://open.spotify.com/track/5IUffaOJnhfNfiRQfz3HDJ"
@@ -11584,6 +11660,28 @@
       "duration_ms": 209142,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol"
+    },
+    {
+      "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/7dZRBpet9DUMqIf23pNyk7"
+      },
+      "artists": [
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        },
+        {
+          "name": "Dani King",
+          "url": "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188839,
+      "name": "home",
+      "url": "https://open.spotify.com/track/7tDtD9KuDGMAmSTRs4NJd0"
     },
     {
       "album": {
@@ -13333,6 +13431,24 @@
     },
     {
       "album": {
+        "name": "KICKBACK",
+        "url": "https://open.spotify.com/album/3wa2yggym445tS3VN5N49M"
+      },
+      "artists": [
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168926,
+      "name": "KICKBACK",
+      "url": "https://open.spotify.com/track/0xXZrytS3tv0KSLsJkcMgj"
+    },
+    {
+      "album": {
         "name": "Kill The Machine (feat. Bad/Love)",
         "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
       },
@@ -14426,7 +14542,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 190243,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/2cSou5hOjZB3S4lSUuxqq2"
@@ -15566,6 +15682,24 @@
       "duration_ms": 120000,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/1VtcKcNnU9ho4dl2UPV8kt"
+    },
+    {
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/0uwj7PaqVqPoY66QCo0i9n"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187561,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/629lfbX9FnjfRDHoIOgNao"
     },
     {
       "album": {
@@ -16992,7 +17126,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 132000,
       "name": "Onomono",
       "url": "https://open.spotify.com/track/2HEJngNEwvIreCsitsTwOO"
@@ -17844,7 +17978,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 152147,
       "name": "PONDA",
       "url": "https://open.spotify.com/track/2MAVzueQH0kZZm331wHwjD"
@@ -20739,6 +20873,28 @@
     },
     {
       "album": {
+        "name": "Shallow Land Burial (Wooli Remix)",
+        "url": "https://open.spotify.com/album/6NwTYkmUgLnwFJlRQyaWyO"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135400,
+      "name": "Shallow Land Burial - Wooli Remix",
+      "url": "https://open.spotify.com/track/1ICRZBdmSigwZfVXxBMeR4"
+    },
+    {
+      "album": {
         "name": "Shank",
         "url": "https://open.spotify.com/album/4AvIrAAt7HreJ1EFTpnKkc"
       },
@@ -21852,7 +22008,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 170958,
       "name": "Space Whip",
       "url": "https://open.spotify.com/track/3ImEoNEyJXzpqkAwITnXCh"
@@ -22056,7 +22212,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 181738,
       "name": "SPIT",
       "url": "https://open.spotify.com/track/0MjQhSwJwzu4LRFGR1vdsi"
@@ -26640,6 +26796,28 @@
       "duration_ms": 155588,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu"
+    },
+    {
+      "album": {
+        "name": "Wreck It",
+        "url": "https://open.spotify.com/album/3OLzasKYlvBwCnJTeeNLVK"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254117,
+      "name": "Wreck It",
+      "url": "https://open.spotify.com/track/2waFCELdaCc13CnQX591wz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-823 songs - 1 day 22 hr 11 min
+824 songs - 1 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 | 2020-11-18 | 2021-02-19 |
 | [My Thoughts on You](https://open.spotify.com/track/1AnoNTlYCt1ELWArtKsA4s) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [My Thoughts on You](https://open.spotify.com/album/0hGduSCbpvvyCqSAT90UsI) | 3:31 | 2020-10-13\* | 2021-06-26 |
 | [Myth of a Salesman](https://open.spotify.com/track/09o8N7h2RixsjpfBqbfRfk) | [Revenge Wife](https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT), [NZCA LINES](https://open.spotify.com/artist/1pmvcZaqyRJw8o6at71MJP) | [Myth of a Salesman](https://open.spotify.com/album/2TQwm6ITBJ6QCm1HFyGMjI) | 4:24 | 2024-05-24 | 2025-06-21 |
-| [Mélancolie](https://open.spotify.com/track/6vYbyQpKM21rfhsHwb4HIb) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Mélancolie](https://open.spotify.com/album/08DouzOCc4c0MyhfCD5hNt) | 3:49 | 2025-09-27 |  |
+| [Mélancolie](https://open.spotify.com/track/6vYbyQpKM21rfhsHwb4HIb) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Mélancolie](https://open.spotify.com/album/08DouzOCc4c0MyhfCD5hNt) | 3:49 | 2025-09-27 | 2026-01-17 |
 | [Naked Beaches](https://open.spotify.com/track/7Hxw5uL22mcTlX58gVyCd7) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [For Evelyn](https://open.spotify.com/album/6GlOD0mAdde4b0u2SIFjkx) | 4:02 | 2020-10-13\* | 2020-11-18 |
 | [Naked In Manhattan](https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked In Manhattan](https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp) | 3:31 | 2023-04-14 | 2023-09-25 |
 | [Naked In Manhattan](https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:31 | 2023-09-23 | 2024-04-19 |
@@ -556,6 +556,7 @@
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-13 |  |
 | [Our Way Home \(Re\-Work\)](https://open.spotify.com/track/5iviRSZyd7GNlaERSDr69L) | [Flora Fauna](https://open.spotify.com/artist/2oTotWwl83oAocMNwsEWW1), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Our Way Home \(Re\-Work\)](https://open.spotify.com/album/79drYmMiLBgkr7dtoRoRyN) | 2:59 | 2022-01-14 | 2022-03-12 |
 | [Out \(Out\)](https://open.spotify.com/track/4LZEs2TkZLQcCmaHa6GBfH) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Out \(Out\)](https://open.spotify.com/album/2yklb70De4aHLT2bTlJX3d) | 4:24 | 2022-02-18 | 2022-03-26 |
+| [Outta My Mind \(Touch\)](https://open.spotify.com/track/4qkiVYEL9WvPa99NmpUCmX) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Outta My Mind \(Touch\)](https://open.spotify.com/album/5Nsw2netaTGJomcUKTmVzF) | 3:47 | 2026-01-16 |  |
 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-02-24 | 2024-05-25 |
 | [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 | 2024-07-19 | 2024-08-01 |
 | [Overglow \- Jade's Version](https://open.spotify.com/track/7GaiFXhUML7c5n6dSpCQme) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow \- Jade's Version](https://open.spotify.com/album/1SaS2ssPPvz59jfrn7vx2e) | 3:12 | 2024-07-31 | 2024-11-09 |

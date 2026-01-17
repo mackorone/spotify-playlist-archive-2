@@ -4,7 +4,7 @@
 
 > Escucha mujeres a todo volumen\.  Foto: Lola Flores.
 
-2,381 songs - 4 day 23 hr 5 min
+2,382 songs - 4 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1834,6 +1834,7 @@
 | [Reguero de luz](https://open.spotify.com/track/1i5RXmJqW5rlZpDE2kErs1) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU) | [Peinar Raíces](https://open.spotify.com/album/2KwYEbJwtHezzwMBujDJji) | 3:56 | 2025-02-04 | 2025-03-05 |
 | [REINAS](https://open.spotify.com/track/4UICvc2H3rrcTKleNC3c9Q) | [Sonia Y Selena](https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8) | [REINAS](https://open.spotify.com/album/2TvQuekUEIeFUjBNYLh2x6) | 3:03 | 2025-01-07 | 2025-02-05 |
 | [Relajao](https://open.spotify.com/track/5cbxlDxbq4fpwApGYlbFNs) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Relajao](https://open.spotify.com/album/72kgbbozEWatRAWnB3Dd3i) | 2:16 | 2023-09-05 | 2024-01-10 |
+| [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 | 2026-01-16 |  |
 | [Renacer](https://open.spotify.com/track/6PGxh2c2iBXUvHchfL7FNo) | [Eva B](https://open.spotify.com/artist/7C6WKCefGMAg2hbx7BNCIq) | [Renacer](https://open.spotify.com/album/6AuB19AqITRiJQzN7hSnif) | 2:23 | 2022-07-05 | 2022-09-07 |
 | [Respirar tu Aire](https://open.spotify.com/track/504mK61KZyn6CyawIxOgev) | [Lya](https://open.spotify.com/artist/1fHYbTDju29ManP57CqEgF) | [Respirar tu Aire](https://open.spotify.com/album/1V5kTo7sMoRC1mIwSwpVr1) | 3:05 | 2023-10-03 | 2023-11-08 |
 | [Ressaca a sa platja](https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Ressaca a sa platja](https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ) | 2:56 | 2023-08-01 | 2023-09-06 |

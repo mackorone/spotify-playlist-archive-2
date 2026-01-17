@@ -2,9 +2,9 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Budah, Wycleff Jean
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Delacruz, Péricles
 
-325 songs - 16 hr 46 min
+326 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [ele diz que me ama s2](https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Perimnobeat](https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG) | [ele diz que me ama s2](https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P) | 4:01 | 2023-08-25 | 2023-09-02 |
 | [Endless](https://open.spotify.com/track/4egPWmPxPbamKFF71SikGk) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Endless](https://open.spotify.com/album/0ctk99YFo7JDcwBkISKIOC) | 2:47 | 2024-05-03 | 2024-06-15 |
 | [Enigma](https://open.spotify.com/track/4esz5K53Soq2bGevWlCSfW) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Enigma](https://open.spotify.com/album/7zbo1VQgkYL3kzmNusNV3N) | 4:00 | 2022-11-18 | 2022-12-24 |
-| [ESCOLHAS](https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [ESCOLHAS](https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot) | 3:41 | 2024-08-16 |  |
+| [ESCOLHAS](https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [ESCOLHAS](https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot) | 3:41 | 2024-08-16 | 2026-01-17 |
 | [Escolhe](https://open.spotify.com/track/23XhqZ7lPY9eaBkVA2MMYA) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Sinto Muito](https://open.spotify.com/album/2KL9wBrkZmBeElWCKBuAiV) | 2:16 | 2022-11-18 | 2023-04-09 |
 | [Essa Gata Não Quer Sair do Meu Pé](https://open.spotify.com/track/1fV3pnFF4OBN1F4sdxd5bl) | [Nick Gomes](https://open.spotify.com/artist/3d52XAFoEyraIeu5qDSosa), [Prod D.G](https://open.spotify.com/artist/4IZoFkr2B3ZhGhRzb7pDen) | [Essa Gata Não Quer Sair do Meu Pé](https://open.spotify.com/album/6eAUHGzTz9cY9QJux0UDEO) | 2:08 | 2024-02-02 | 2024-03-23 |
 | [Eterno Esquema](https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Eterno Esquema](https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB) | 2:13 | 2022-11-18 | 2025-09-20 |
@@ -214,6 +214,7 @@
 | [Para De Dizer Que Não Me Ama \- Ao Vivo](https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Para De Dizer Que Não Me Ama \(Ao Vivo\)](https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC) | 4:50 | 2024-02-23 | 2024-05-25 |
 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 | 2025-06-06 |  |
 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 | 2023-06-16 | 2024-02-03 |
+| [pensando direito](https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [pensando direito](https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC) | 3:55 | 2026-01-16 |  |
 | [perco o ar](https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [perco o ar](https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z) | 3:24 | 2023-06-30 |  |
 | [Peça Única](https://open.spotify.com/track/4IddWpa3qZQLPxaL8YiLq4) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Peça Única](https://open.spotify.com/album/6WsYX7kscbYVpcu3h07Grk) | 2:51 | 2023-06-23 | 2023-11-11 |
 | [PFP \(para fazer pretinhos\)](https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [DG Prod](https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif) | [Ín.ti.mo](https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU) | 3:07 | 2024-01-26 | 2025-05-31 |

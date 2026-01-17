@@ -4,13 +4,14 @@
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-130 songs - 7 hr 43 min
+131 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aeropuerto](https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:57 | 2022-09-06 | 2023-02-25 |
 | [AHEH AHEH \- The Official Song Of FIFA U\-20 Women’s World Cup Colombia 2024](https://open.spotify.com/track/34vAOWGczQ0pXks0XAc8Uj) | [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [AHEH AHEH \- The Official Song Of FIFA U\-20 Women’s World Cup Colombia 2024](https://open.spotify.com/album/2j66jcbK0JnbVAvaAMXBKC) | 2:39 | 2024-08-16 | 2024-09-07 |
 | [Alguien Me Gusta](https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Alguien Me Gusta](https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9) | 2:48 | 2022-05-17 | 2022-09-03 |
+| [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 | 2026-01-16 |  |
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-05-17 | 2022-07-02 |
 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 | 2024-02-09 |  |
 | [Amor Narcótico](https://open.spotify.com/track/24LO2UMNHWNoPZnhdAw4TO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 2:48 | 2022-05-17 |  |
@@ -90,7 +91,7 @@
 | [Morado](https://open.spotify.com/track/35KmOEIUqAGn02t7n4qaIr) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:20 | 2024-08-05 | 2024-09-07 |
 | [morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 | 2024-02-09 |  |
 | [Muy Feliz \- Remix](https://open.spotify.com/track/2gx1sn3qic8hsZxmsXgp6z) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Muy Feliz \(Remix\)](https://open.spotify.com/album/0Yklgs3augXJTev6xVthdk) | 3:51 | 2022-05-17 |  |
-| [MÁS DE LO MISMO](https://open.spotify.com/track/3fjHchxzHtJdk9sE0YnuUi) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [MÁS DE LO MISMO](https://open.spotify.com/album/4thd0y5Ie1Qvi7SgwZ5RA1) | 2:14 | 2025-07-18 |  |
+| [MÁS DE LO MISMO](https://open.spotify.com/track/3fjHchxzHtJdk9sE0YnuUi) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [MÁS DE LO MISMO](https://open.spotify.com/album/4thd0y5Ie1Qvi7SgwZ5RA1) | 2:14 | 2025-07-18 | 2026-01-17 |
 | [Niña](https://open.spotify.com/track/6hHxqj04s5BbpoNGz25GUm) | [Mauricio & PalodeAgua](https://open.spotify.com/artist/3odWGV3m6MfdawwEXIyyhr) | [Un Canto Caribeño](https://open.spotify.com/album/6F9yJwO5FdMarbsSlZeQsC) | 4:12 | 2022-05-17 |  |
 | [Niña Bonita](https://open.spotify.com/track/1Evv1979G5y63oK9K2eot9) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita](https://open.spotify.com/album/4DYLsPPZRc13AAePuPY2bC) | 3:35 | 2022-05-17 |  |
 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 | 2022-07-01 | 2024-04-19 |

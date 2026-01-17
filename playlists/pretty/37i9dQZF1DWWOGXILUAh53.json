@@ -1,13 +1,49 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Robyn",
-  "num_followers": 373195,
+  "description": "The hottest new pop with all the drops. Cover: Slayyyter",
+  "num_followers": 374032,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3Sy071JUdwbRJpLj54QGoqytwQ",
+  "snapshot_id": "AAAAACydsYLnHA3VMnLKWa1K5mSvP/r2",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "DANCE...",
+        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 236041,
+      "name": "DANCE... - Edit",
+      "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Raft In The Sea",
+        "url": "https://open.spotify.com/album/3bPDiTVEsqTk0aInxUKvPE"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 215352,
+      "name": "Raft In The Sea",
+      "url": "https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1"
+    },
     {
       "added_at": "2026-01-09 05:00:42",
       "album": {
@@ -23,6 +59,126 @@
       "duration_ms": 199561,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "GLOW. (Blusher Remix)",
+        "url": "https://open.spotify.com/album/2r2imdB1FzSZzzsOHfyyna"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 125815,
+      "name": "GLOW. (Blusher Remix)",
+      "url": "https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Black & Gold",
+        "url": "https://open.spotify.com/album/7r71jB4J1FYwoHzb86xmD4"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 192937,
+      "name": "Black & Gold",
+      "url": "https://open.spotify.com/track/2bLVojtkh60Rh0wK0TLwaf"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Home (TWINSICK Remix)",
+        "url": "https://open.spotify.com/album/7IlHsFTMweuxERXdSt8ctt"
+      },
+      "artists": [
+        {
+          "name": "TWINSICK",
+          "url": "https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF"
+        },
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 156347,
+      "name": "Home - TWINSICK Remix",
+      "url": "https://open.spotify.com/track/1OIlJ7coFBDaUdXXuiTeBc"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Found Your Love",
+        "url": "https://open.spotify.com/album/0GbWTbFQk0gXHxwhG0zXbS"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Libby Whitehouse",
+          "url": "https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe"
+        }
+      ],
+      "duration_ms": 183524,
+      "name": "Found Your Love",
+      "url": "https://open.spotify.com/track/1mAJL4ypRyWLI0UMDxAanG"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Not Home",
+        "url": "https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+        }
+      ],
+      "duration_ms": 120624,
+      "name": "Not Home",
+      "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Phantom Feelings (Feat. Frankie Grande)",
+        "url": "https://open.spotify.com/album/7qGgHffb271Vyz38yUlDIb"
+      },
+      "artists": [
+        {
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
+        },
+        {
+          "name": "Frankie Grande",
+          "url": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
+        }
+      ],
+      "duration_ms": 183505,
+      "name": "Phantom Feelings (Feat. Frankie Grande)",
+      "url": "https://open.spotify.com/track/6MCjYReoo8piMjsINP3NAJ"
     },
     {
       "added_at": "2026-01-09 05:00:42",
@@ -43,6 +199,90 @@
       "duration_ms": 170640,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "SOMETHING BEAUTIFUL",
+        "url": "https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "duration_ms": 111566,
+      "name": "SOMETHING BEAUTIFUL",
+      "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Save You The Trouble",
+        "url": "https://open.spotify.com/album/2f1iVc5zOm1A5b5bsnEutC"
+      },
+      "artists": [
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+        }
+      ],
+      "duration_ms": 224062,
+      "name": "Save You The Trouble",
+      "url": "https://open.spotify.com/track/1sr6xxSrAsRD4cukz3SyZI"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "Headphones",
+        "url": "https://open.spotify.com/album/4lhRJNzx1Y9QlzbUntqruI"
+      },
+      "artists": [
+        {
+          "name": "STRAWBRY",
+          "url": "https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "Headphones",
+      "url": "https://open.spotify.com/track/2MTRZqXDaGGhX7mOvgEiKL"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "wontletgo",
+        "url": "https://open.spotify.com/album/2cblawQRJj9sWlxmqrYJCi"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "wontletgo",
+      "url": "https://open.spotify.com/track/7y6j2nYVmypBeAZWIi8aqU"
+    },
+    {
+      "added_at": "2026-01-16 05:00:28",
+      "album": {
+        "name": "DANSE",
+        "url": "https://open.spotify.com/album/5oJIacDyTn8vlqiZkA0YE7"
+      },
+      "artists": [
+        {
+          "name": "Michael Medrano",
+          "url": "https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "DANSE",
+      "url": "https://open.spotify.com/track/3CTlN5zEni6m26Wwkc3voS"
     },
     {
       "added_at": "2026-01-09 05:00:42",
@@ -429,34 +669,6 @@
       "url": "https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT"
     },
     {
-      "added_at": "2025-12-05 05:19:50",
-      "album": {
-        "name": "Quantum Beats",
-        "url": "https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Lonely Club",
-          "url": "https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Broken Angel (This is Lonely Club)",
-      "url": "https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr"
-    },
-    {
       "added_at": "2025-11-21 05:00:30",
       "album": {
         "name": "LOVE YOU FOR LIFE.",
@@ -805,22 +1017,6 @@
       "url": "https://open.spotify.com/track/6Iw8RkhQMg0CWBXsOGy1Ls"
     },
     {
-      "added_at": "2025-12-05 05:19:50",
-      "album": {
-        "name": "I Don\u2019t Remember It",
-        "url": "https://open.spotify.com/album/6NeqdzjfYfGS4oZ0p6aLL1"
-      },
-      "artists": [
-        {
-          "name": "Frankie Grande",
-          "url": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
-        }
-      ],
-      "duration_ms": 268302,
-      "name": "I Don\u2019t Remember It",
-      "url": "https://open.spotify.com/track/6VpgjsweUl11bHGFxQMHCE"
-    },
-    {
       "added_at": "2025-11-28 05:00:22",
       "album": {
         "name": "Is It Desire",
@@ -835,30 +1031,6 @@
       "duration_ms": 168515,
       "name": "Is It Desire",
       "url": "https://open.spotify.com/track/00vIoTi57MRENs9JEamyo4"
-    },
-    {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
-        "name": "Crystallise My Tears",
-        "url": "https://open.spotify.com/album/4NasMGPhJH3QOod3wnkxxi"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 247979,
-      "name": "Crystallise My Tears",
-      "url": "https://open.spotify.com/track/0Oy0McHtuyIj3axP1YAxua"
     },
     {
       "added_at": "2025-11-21 05:00:30",
@@ -903,22 +1075,6 @@
     {
       "added_at": "2025-11-21 05:00:30",
       "album": {
-        "name": "Secret Boyfriend",
-        "url": "https://open.spotify.com/album/1NXdKR2eI5YqRRpkIl29Y2"
-      },
-      "artists": [
-        {
-          "name": "Tsatsamis",
-          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
-        }
-      ],
-      "duration_ms": 219172,
-      "name": "Secret Boyfriend",
-      "url": "https://open.spotify.com/track/3RIK13Q1blYLFI7ThnUYvx"
-    },
-    {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
         "name": "When Jonny Calls",
         "url": "https://open.spotify.com/album/1OYQUP7FtoR5AH0QSgKj0n"
       },
@@ -935,42 +1091,6 @@
       "duration_ms": 131299,
       "name": "When Jonny Calls",
       "url": "https://open.spotify.com/track/7oTcXkJbvapXjb0k82ByF5"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
-        "name": "Sweet Emotion",
-        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 157441,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
     },
     {
       "added_at": "2025-11-14 05:00:33",
@@ -1059,38 +1179,6 @@
       "duration_ms": 209538,
       "name": "i can't make you love me",
       "url": "https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "High Fashion Pop Music",
-        "url": "https://open.spotify.com/album/1Z6wCBWieZ1RkvuF6WX7H1"
-      },
-      "artists": [
-        {
-          "name": "Tommi Aura",
-          "url": "https://open.spotify.com/artist/0RPos3j6vQijjlI0X17k88"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/0hkldzYtuZMygFwni4u2v1"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/23M7P7Xcp5wrrWUC6g4FLk"
-      },
-      "artists": [
-        {
-          "name": "Sean Jacobs",
-          "url": "https://open.spotify.com/artist/2VsXB6XjjHstoQo3vOL2CF"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/7mT9Kc1T7pHhqUnWdvSrZ8"
     },
     {
       "added_at": "2025-11-14 05:00:33",
@@ -1215,58 +1303,6 @@
     {
       "added_at": "2025-11-07 05:00:58",
       "album": {
-        "name": "Love Who You Love",
-        "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "Love Who You Love",
-      "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
-    },
-    {
-      "added_at": "2025-11-07 05:00:58",
-      "album": {
-        "name": "AS WE DANCE",
-        "url": "https://open.spotify.com/album/6fchNb3VOeQFvO5xjSYul2"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 180049,
-      "name": "AS WE DANCE",
-      "url": "https://open.spotify.com/track/4Fom2z9v569kHF2XfnZe9V"
-    },
-    {
-      "added_at": "2025-11-07 05:00:58",
-      "album": {
-        "name": "Waiting 4 U (Feat. Natalie Jane)",
-        "url": "https://open.spotify.com/album/1QfoSaZBlsQl3J76OyATZc"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 173582,
-      "name": "Waiting 4 U (Feat. Natalie Jane)",
-      "url": "https://open.spotify.com/track/5Vojou9RHWw8neHwu9opT2"
-    },
-    {
-      "added_at": "2025-11-07 05:00:58",
-      "album": {
         "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
         "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
       },
@@ -1351,22 +1387,6 @@
     {
       "added_at": "2025-11-07 05:00:58",
       "album": {
-        "name": "BREAKUP",
-        "url": "https://open.spotify.com/album/2JGIZABHaQ64BJn646SwgE"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "BREAKUP",
-      "url": "https://open.spotify.com/track/1z5IgJwq78uRL7l9AZ0qpN"
-    },
-    {
-      "added_at": "2025-11-07 05:00:58",
-      "album": {
         "name": "Above The Stars",
         "url": "https://open.spotify.com/album/1gGPIDPaqdSDY3hUjGkgkU"
       },
@@ -1383,30 +1403,6 @@
       "duration_ms": 225454,
       "name": "Above The Stars",
       "url": "https://open.spotify.com/track/4t6ATgn6aXN0IhrpndMPHf"
-    },
-    {
-      "added_at": "2025-11-07 05:00:58",
-      "album": {
-        "name": "Stay A Little Longer",
-        "url": "https://open.spotify.com/album/79u6HQ838dC9MxAUkXHvS6"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 147686,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/07rPGAMTFCeRrpJjQXyrQ7"
     },
     {
       "added_at": "2025-11-07 05:00:58",

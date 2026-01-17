@@ -6332,6 +6332,24 @@
     {
       "album": {
         "name": "Cloudy",
+        "url": "https://open.spotify.com/album/1KtqYHXezpSp4NlYL4eKtL"
+      },
+      "artists": [
+        {
+          "name": "Indigo Songs",
+          "url": "https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/47coVywh5eDl79jxoAZ7HY"
+    },
+    {
+      "album": {
+        "name": "Cloudy",
         "url": "https://open.spotify.com/album/6Nea26TpW8breUlrxAINqR"
       },
       "artists": [
@@ -9154,6 +9172,24 @@
       "duration_ms": 112839,
       "name": "Downstream",
       "url": "https://open.spotify.com/track/3BIQ9KgXem9g7aLOylwYpa"
+    },
+    {
+      "album": {
+        "name": "downstream",
+        "url": "https://open.spotify.com/album/76E3iTbfbevdpOjyYCKIXY"
+      },
+      "artists": [
+        {
+          "name": "Beats on 21st",
+          "url": "https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "downstream",
+      "url": "https://open.spotify.com/track/1cU59UL1uLU1eMw2ZjQxOQ"
     },
     {
       "album": {
@@ -12774,7 +12810,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 149620,
       "name": "Fluffy",
       "url": "https://open.spotify.com/track/5AKh7wnYUVtKgMfHfEK9GW"
@@ -15888,7 +15924,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 180542,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3Jj1gRE6z2ol17ACDz0rXx"
@@ -24569,6 +24605,24 @@
     },
     {
       "album": {
+        "name": "New Phase",
+        "url": "https://open.spotify.com/album/3EMQaJvVy6hGzSbLJLevsf"
+      },
+      "artists": [
+        {
+          "name": "jzbts",
+          "url": "https://open.spotify.com/artist/0MRJd9zExrWCUGVCQR1ozs"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119520,
+      "name": "New Phase",
+      "url": "https://open.spotify.com/track/4pZghY8X73YUxxrd6UahHi"
+    },
+    {
+      "album": {
         "name": "New Season",
         "url": "https://open.spotify.com/album/6dE9jnDDLfbCkhCkbHp3W9"
       },
@@ -24624,6 +24678,28 @@
       "duration_ms": 127395,
       "name": "Nice To Meet U",
       "url": "https://open.spotify.com/track/6jadCrE6dGrv0vFAzv9hg4"
+    },
+    {
+      "album": {
+        "name": "night air",
+        "url": "https://open.spotify.com/album/5LApGuk6WxqLznrhhrcyHA"
+      },
+      "artists": [
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        },
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140951,
+      "name": "night air",
+      "url": "https://open.spotify.com/track/7IWh4WrtcYicpKth269BYW"
     },
     {
       "album": {
@@ -34418,7 +34494,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 131633,
       "name": "taste of coffee",
       "url": "https://open.spotify.com/track/7EwMbDsLmRfbX0bCil2RA6"

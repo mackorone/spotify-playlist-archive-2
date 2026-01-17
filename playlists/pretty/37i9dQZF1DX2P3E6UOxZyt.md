@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 他們就是本年度的重點雷達及力推星人！Let's meet the future！Cover: 王ADEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,584 likes - 36 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,586 likes - 36 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [聚光燈（Spotlight）](https://open.spotify.com/track/67kbjEmxxjatjjAw8FZbu0) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [聚光燈（Spotlight）](https://open.spotify.com/album/4uHAKijljKra6tSgATigCb) | 3:10 |
+| 1 | [聚光燈](https://open.spotify.com/track/67kbjEmxxjatjjAw8FZbu0) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [聚光燈](https://open.spotify.com/album/4uHAKijljKra6tSgATigCb) | 3:10 |
 | 2 | [上帝教教我](https://open.spotify.com/track/6lI60UaFRE0MxSPz8GYV1q) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [上帝教教我](https://open.spotify.com/album/28E3cfsrL5ZPACwm70q7OM) | 2:21 |
 | 3 | [魅惑天空 2Ø25](https://open.spotify.com/track/2Sug4kRi0AFDaJJOvdYrdk) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [魅惑天空 2Ø25](https://open.spotify.com/album/19E9ewQ8LcaWaHbRi8Wp7j) | 4:27 |
 | 4 | [Only u](https://open.spotify.com/track/3R2gyIZA55OnwsyISh6gyb) | [蔡蔡子Tasia](https://open.spotify.com/artist/7GV9BF2ZtV6RRX9eX4H6NJ), [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [Only u](https://open.spotify.com/album/05zoI5vGcVh4o53r8vKZZO) | 2:08 |

@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Como Te Sientes",
+        "url": "https://open.spotify.com/album/7y0NC5JHPeeqaPVhpCvqhz"
+      },
+      "artists": [
+        {
+          "name": "Los Tetas",
+          "url": "https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195818,
+      "name": "Como Te Sientes",
+      "url": "https://open.spotify.com/track/79Zw3UBOlP2RUklmB7mNKs"
+    },
+    {
+      "album": {
         "name": "La Nave",
         "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
       },
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 175249,
       "name": "Miro donde miro",
       "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"

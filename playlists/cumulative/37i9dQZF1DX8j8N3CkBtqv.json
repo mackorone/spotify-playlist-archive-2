@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Akash Kaushal, Bharath, and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Kanishk Seth, Kavita Seth, and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1838,6 +1838,28 @@
       "duration_ms": 228518,
       "name": "Antisocial",
       "url": "https://open.spotify.com/track/0xOHm7wsHEUKHlTRoVqrxh"
+    },
+    {
+      "album": {
+        "name": "Anyayo",
+        "url": "https://open.spotify.com/album/7CJq5roqrBmkCz5U2JP0yx"
+      },
+      "artists": [
+        {
+          "name": "Aneesh",
+          "url": "https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2"
+        },
+        {
+          "name": "Krtin Kay",
+          "url": "https://open.spotify.com/artist/7rDecvyiaWrph8fExUQLG1"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121914,
+      "name": "Anyayo",
+      "url": "https://open.spotify.com/track/5yCOc1MOoekBjy56pCYZHS"
     },
     {
       "album": {
@@ -4541,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "Chalo Kahin Door",
+        "url": "https://open.spotify.com/album/1AlSnWJkH1ZmOpJSvW46KL"
+      },
+      "artists": [
+        {
+          "name": "TUSHAR JOSHI",
+          "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "Chalo Kahin Door",
+      "url": "https://open.spotify.com/track/3Y84FkQyqE1Y1rKHnNYI6W"
+    },
+    {
+      "album": {
         "name": "Neo Nazmein",
         "url": "https://open.spotify.com/album/3MPiSA9coEf9hpZCi4EiOS"
       },
@@ -6128,6 +6168,28 @@
       "duration_ms": 138265,
       "name": "Dil Tedha",
       "url": "https://open.spotify.com/track/3a8lAZQ33Q8xM8sdpTdSb9"
+    },
+    {
+      "album": {
+        "name": "Dil Tera Hi Ho Gaya",
+        "url": "https://open.spotify.com/album/3CCzKWvmpgf9cCjtyankp4"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Dil Tera Hi Ho Gaya",
+      "url": "https://open.spotify.com/track/0afYZUwHfUuYgi7JE6oQ0N"
     },
     {
       "album": {
@@ -8870,7 +8932,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 222452,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/71pSOd1VPo5w2u6dEBVtQM"
@@ -9892,7 +9954,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 183227,
       "name": "Jaagi Jaagi",
       "url": "https://open.spotify.com/track/5gmytYSbnDkfbmPUXvMv1G"
@@ -11124,7 +11186,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 219097,
       "name": "Kaahe Mose",
       "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz"
@@ -14702,7 +14764,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 184450,
       "name": "Leher",
       "url": "https://open.spotify.com/track/1pip69c3zep9RvjTBZCbLn"
@@ -17424,6 +17486,28 @@
       "duration_ms": 242654,
       "name": "Naina Barse",
       "url": "https://open.spotify.com/track/56PNjQUwtxUN8XosS7x4RL"
+    },
+    {
+      "album": {
+        "name": "Naina...",
+        "url": "https://open.spotify.com/album/3ZpYlxFROd2zUtWunLwu1J"
+      },
+      "artists": [
+        {
+          "name": "Tushar Pandit",
+          "url": "https://open.spotify.com/artist/0UlmV4s2E12e1MnfdgnLAo"
+        },
+        {
+          "name": "Ketaki Mategaonkar",
+          "url": "https://open.spotify.com/artist/01LBy2hsfOJ1fSY7uLPfu5"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158277,
+      "name": "Naina...",
+      "url": "https://open.spotify.com/track/44tsDVQ5tRBwYrWIMXV1IU"
     },
     {
       "album": {
@@ -24154,7 +24238,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 181463,
       "name": "Theher Ja",
       "url": "https://open.spotify.com/track/6H930PNDIToBpzUkDTndHP"
@@ -25954,6 +26038,28 @@
       "duration_ms": 229106,
       "name": "Uska Pata",
       "url": "https://open.spotify.com/track/7es4VRgmTZ8dmuiz1Mm5HO"
+    },
+    {
+      "album": {
+        "name": "Uss Dilnashi",
+        "url": "https://open.spotify.com/album/59P88ZCHATtmDrYJA310qi"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Uss Dilnashi",
+      "url": "https://open.spotify.com/track/3je1pOIzXhiWjuUKaWN4lc"
     },
     {
       "album": {

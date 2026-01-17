@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Bárbara Bandeira
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,552 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,575 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marcha](https://open.spotify.com/track/24z3KnLvrDzE5k4P3k2cmK) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ) | [Marcha](https://open.spotify.com/album/2bGlrBJqASDb7raOG7XB5I) | 2:05 |
 | 2 | [Até ao fim](https://open.spotify.com/track/4CMzTsNGI2Ppey1wqAkB0H) | [Anjos](https://open.spotify.com/artist/55emZB6OJOvHmTpuqa6HZz), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Até ao fim](https://open.spotify.com/album/2NM3By015MvjHgDpknNYs1) | 2:54 |
-| 3 | [Devias Vir Salvar\-me](https://open.spotify.com/track/2gcZpB51K3Hvj5Cx6wjTE7) | [Pedro Abrunhosa](https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR), [Comité Caviar](https://open.spotify.com/artist/2sys7ECIqGsGa5uiRktCJb) | [](https://open.spotify.com/album/null) | 4:24 |
+| 3 | [Devias Vir Salvar\-me](https://open.spotify.com/track/2gcZpB51K3Hvj5Cx6wjTE7) | [Pedro Abrunhosa](https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR), [Comité Caviar](https://open.spotify.com/artist/2sys7ECIqGsGa5uiRktCJb) | [Inverbo](https://open.spotify.com/album/2Jxy2gmfq4CvJGjvB36yxh) | 4:24 |
 | 4 | [Casar É pra Esquecer](https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Casar É pra Esquecer](https://open.spotify.com/album/0zHXkr6XD0iQEHYM8b35or) | 2:57 |
 | 5 | [Amor Antigo](https://open.spotify.com/track/0A7EhW7szUKXijk50SQ489) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Amor Antigo](https://open.spotify.com/album/3Wp15P2TDQhsgFAFxlRO9C) | 3:12 |
 | 6 | [Olha P’ra Ela](https://open.spotify.com/track/65knUcT6YYCnWONjhYYh4r) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Olha P’ra Ela](https://open.spotify.com/album/4yO9UFn9UUAbcMagk23hWB) | 2:53 |

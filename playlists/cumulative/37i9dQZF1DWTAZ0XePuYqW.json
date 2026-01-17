@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "French Montana and Max B 's got that big energy. ",
+  "description": "4KORNERS & Nina Sky's got that big energy. ",
   "name": "Bounce",
   "tracks": [
     {
@@ -232,6 +232,28 @@
       "duration_ms": 140933,
       "name": "4eva",
       "url": "https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z"
+    },
+    {
+      "album": {
+        "name": "4PLAY (Remix)",
+        "url": "https://open.spotify.com/album/5CsDTnPohqnhsFtkPOzOUs"
+      },
+      "artists": [
+        {
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+        },
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141230,
+      "name": "4PLAY - Remix",
+      "url": "https://open.spotify.com/track/6rV8LTBkeWiJA5G3KkQ1Pn"
     },
     {
       "album": {
@@ -1764,6 +1786,24 @@
       "duration_ms": 159560,
       "name": "Booty Drop",
       "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
+    },
+    {
+      "album": {
+        "name": "KUNTOLOGY 101",
+        "url": "https://open.spotify.com/album/7FtPWcRQufrdzoxr1TC5Fe"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170760,
+      "name": "Bop It",
+      "url": "https://open.spotify.com/track/3OQnNdlAiQeJsH8csOvnJA"
     },
     {
       "album": {
@@ -3418,7 +3458,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136333,
-      "name": "Ever Since U Left Me",
+      "name": "Ever Since U Left Me (I Went Deaf)",
       "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
     },
     {
@@ -7982,7 +8022,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 218373,
       "name": "On My Mind (UEPA)",
       "url": "https://open.spotify.com/track/2cX8gc0oDraLfro0WceRJd"
@@ -9980,7 +10020,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 136260,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"

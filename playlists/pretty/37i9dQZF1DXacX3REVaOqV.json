@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 498523,
+  "num_followers": 498512,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 196895,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
-      },
-      "artists": [
-        {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
+        "name": "Cruel Summer (Again)",
+        "url": "https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "duration_ms": 168921,
+      "name": "Cruel Summer (Again)",
+      "url": "https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
         "name": "and it felt like..",
         "url": "https://open.spotify.com/album/3aaaDyEV0juYcVqSV15zYS"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
-        "name": "Cruel Summer (Again)",
-        "url": "https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        }
-      ],
-      "duration_ms": 168921,
-      "name": "Cruel Summer (Again)",
-      "url": "https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
         "name": "Mali Spirit (Folamour Remix)",
         "url": "https://open.spotify.com/album/5EoHzdPRvD014BrM49icIa"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
-        "name": "Control Yourself EP",
-        "url": "https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Control Yourself - Radio Edit",
-      "url": "https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
         "name": "Got The Funk",
         "url": "https://open.spotify.com/album/7suz7uIzl0sWYEaGjU5g8R"
       },
@@ -587,6 +571,42 @@
       "duration_ms": 184130,
       "name": "Got The Funk",
       "url": "https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
+        "name": "Control Yourself EP",
+        "url": "https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Control Yourself - Radio Edit",
+      "url": "https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/2aPoX3MXe5ddzbTD6l09fD"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        },
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        }
+      ],
+      "duration_ms": 149364,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/2e3WuwRFv6zollUtQVC6rZ"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -635,26 +655,6 @@
       "duration_ms": 186270,
       "name": "Right",
       "url": "https://open.spotify.com/track/5NaliF5YDYgIF0eToAuJBn"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/2aPoX3MXe5ddzbTD6l09fD"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        },
-        {
-          "name": "Quarterhead",
-          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
-        }
-      ],
-      "duration_ms": 149364,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/2e3WuwRFv6zollUtQVC6rZ"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
+        "name": "With You (Tonight)",
+        "url": "https://open.spotify.com/album/3D4xNfGMaDrraBMRuWheM6"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Alta Gracia",
+          "url": "https://open.spotify.com/artist/14yCXkLSKlrnNcp0cadiZa"
+        }
+      ],
+      "duration_ms": 200704,
+      "name": "With You (Tonight)",
+      "url": "https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
         "name": "24h In A Disco",
         "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
       },
@@ -871,26 +891,6 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
-        "name": "With You (Tonight)",
-        "url": "https://open.spotify.com/album/3D4xNfGMaDrraBMRuWheM6"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Alta Gracia",
-          "url": "https://open.spotify.com/artist/14yCXkLSKlrnNcp0cadiZa"
-        }
-      ],
-      "duration_ms": 200704,
-      "name": "With You (Tonight)",
-      "url": "https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
         "name": "Ignite EP",
         "url": "https://open.spotify.com/album/3a0KFcfUHKdtDTUnUelfrC"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 176250,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/3EIv2kX1rINIb7kkSVtPYI"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
-        "name": "Give You My Luv",
-        "url": "https://open.spotify.com/album/2Bt9AMckSnsPQHndxTMb1W"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Give You My Luv",
-      "url": "https://open.spotify.com/track/3BXDXkRqdIMN7wDnhbexvh"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -971,6 +955,22 @@
       "duration_ms": 192937,
       "name": "Just Stay The Night",
       "url": "https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
+        "name": "Give You My Luv",
+        "url": "https://open.spotify.com/album/2Bt9AMckSnsPQHndxTMb1W"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Give You My Luv",
+      "url": "https://open.spotify.com/track/3BXDXkRqdIMN7wDnhbexvh"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -1191,6 +1191,38 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
+        "name": "Marseille",
+        "url": "https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 145250,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/2dLY3oZvc0yQ7pvOasoohR"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "duration_ms": 164791,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/01vuVmxJb3rVPUVj7Lyjea"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
         "name": "Everything For You",
         "url": "https://open.spotify.com/album/1a77Gt9vG7vSwy9iueCJqM"
       },
@@ -1215,18 +1247,18 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/2dLY3oZvc0yQ7pvOasoohR"
+        "name": "In It",
+        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
       },
       "artists": [
         {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
         }
       ],
-      "duration_ms": 164791,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/01vuVmxJb3rVPUVj7Lyjea"
+      "duration_ms": 190952,
+      "name": "In It",
+      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -1255,38 +1287,6 @@
       "duration_ms": 240024,
       "name": "Dancing - Samm Remix",
       "url": "https://open.spotify.com/track/1rrCwv6BYLOzhvTxq5UarM"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
-        "name": "Marseille",
-        "url": "https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 145250,
-      "name": "Marseille",
-      "url": "https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
-        "name": "In It",
-        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
-      },
-      "artists": [
-        {
-          "name": "Selena Faider",
-          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
-        }
-      ],
-      "duration_ms": 190952,
-      "name": "In It",
-      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
-        "name": "Gotta Get Up",
-        "url": "https://open.spotify.com/album/06xTCSwUkJ94sPSGPcXAk8"
-      },
-      "artists": [
-        {
-          "name": "miirabelle",
-          "url": "https://open.spotify.com/artist/2sZWQPBglKu7CxaZ6tJSYG"
-        },
-        {
-          "name": "Lizzie Nightingale",
-          "url": "https://open.spotify.com/artist/3spUinMukLrkAhSru3aopv"
-        }
-      ],
-      "duration_ms": 209114,
-      "name": "Gotta Get Up",
-      "url": "https://open.spotify.com/track/5jRZWj1ZcZ7dySno7ksMQa"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
         "name": "Saving It All",
         "url": "https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 173077,
       "name": "Reckless Girl - Edit",
       "url": "https://open.spotify.com/track/4NiSJfdImWDYeeEgdF2Goz"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
+        "name": "Gotta Get Up",
+        "url": "https://open.spotify.com/album/06xTCSwUkJ94sPSGPcXAk8"
+      },
+      "artists": [
+        {
+          "name": "miirabelle",
+          "url": "https://open.spotify.com/artist/2sZWQPBglKu7CxaZ6tJSYG"
+        },
+        {
+          "name": "Lizzie Nightingale",
+          "url": "https://open.spotify.com/artist/3spUinMukLrkAhSru3aopv"
+        }
+      ],
+      "duration_ms": 209114,
+      "name": "Gotta Get Up",
+      "url": "https://open.spotify.com/track/5jRZWj1ZcZ7dySno7ksMQa"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
+        "name": "Come On Back With Your Love",
+        "url": "https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Come On Back With Your Love - Sunrise Mix",
+      "url": "https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
         "name": "Got Me Good",
         "url": "https://open.spotify.com/album/7hh5G8PtsnuiMSoXsp1AGQ"
       },
@@ -1803,18 +1819,22 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
-        "name": "Come On Back With Your Love",
-        "url": "https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf"
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/0aldqu0IulsfyOxdruOE7g"
       },
       "artists": [
         {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        },
+        {
+          "name": "Robert Owens",
+          "url": "https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Come On Back With Your Love - Sunrise Mix",
-      "url": "https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4"
+      "duration_ms": 397525,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/2h0s5YLG2KpAPbJn2VKQf0"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -1835,22 +1855,6 @@
       "duration_ms": 183750,
       "name": "Take My Love",
       "url": "https://open.spotify.com/track/7mljLtbTR0ZM3YHLhiw0MP"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/785p6qObuzaxznW6jN7XJG"
-      },
-      "artists": [
-        {
-          "name": "Prunk",
-          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/2GfazHqLLJQ6AfwuMFrrXv"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -1887,6 +1891,22 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/785p6qObuzaxznW6jN7XJG"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/2GfazHqLLJQ6AfwuMFrrXv"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
         "name": "Soulshaker",
         "url": "https://open.spotify.com/album/4GfZRejDlTLAwGyQptfQgR"
       },
@@ -1903,22 +1923,18 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
-        "name": "Resolution",
-        "url": "https://open.spotify.com/album/0aldqu0IulsfyOxdruOE7g"
+        "name": "Get It Done EP",
+        "url": "https://open.spotify.com/album/3HmjFTAGUvNIvgrLhyrfT7"
       },
       "artists": [
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        },
-        {
-          "name": "Robert Owens",
-          "url": "https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t"
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
         }
       ],
-      "duration_ms": 397525,
-      "name": "Resolution",
-      "url": "https://open.spotify.com/track/2h0s5YLG2KpAPbJn2VKQf0"
+      "duration_ms": 382008,
+      "name": "Get It Done",
+      "url": "https://open.spotify.com/track/2TGot2prgVJ2KUj3JqxM9e"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -1935,22 +1951,6 @@
       "duration_ms": 178181,
       "name": "Attention",
       "url": "https://open.spotify.com/track/18A6BM91m2IpFFsqDWn4RC"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
-        "name": "Get It Done EP",
-        "url": "https://open.spotify.com/album/3HmjFTAGUvNIvgrLhyrfT7"
-      },
-      "artists": [
-        {
-          "name": "Fouk",
-          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
-        }
-      ],
-      "duration_ms": 382008,
-      "name": "Get It Done",
-      "url": "https://open.spotify.com/track/2TGot2prgVJ2KUj3JqxM9e"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
+        "name": "Make It Smooth",
+        "url": "https://open.spotify.com/album/3aWO52WwQOdeF41JCaLjkN"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 147023,
+      "name": "Make It Smooth",
+      "url": "https://open.spotify.com/track/04tAWbX8i4roZ4jc3YJEdf"
+    },
+    {
+      "added_at": "2026-01-15 23:00:31",
+      "album": {
         "name": "Deep Inside (CASSIMM Remix)",
         "url": "https://open.spotify.com/album/7Asey26DCncU51AaKxSQ5f"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 194220,
       "name": "Deep Inside - CASSIMM Remix",
       "url": "https://open.spotify.com/track/26xyL8HgzrQfiY0n8x01Z8"
-    },
-    {
-      "added_at": "2026-01-15 23:00:31",
-      "album": {
-        "name": "Make It Smooth",
-        "url": "https://open.spotify.com/album/3aWO52WwQOdeF41JCaLjkN"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 147023,
-      "name": "Make It Smooth",
-      "url": "https://open.spotify.com/track/04tAWbX8i4roZ4jc3YJEdf"
     },
     {
       "added_at": "2026-01-15 23:00:31",
@@ -2303,34 +2303,22 @@
     {
       "added_at": "2026-01-15 23:00:31",
       "album": {
-        "name": "take your vibes and go (Dam Swindle Remix)",
-        "url": "https://open.spotify.com/album/1ohCvUgMQuiwwkDINauTsf"
+        "name": "Jazzin' The Way You Know (Francisco Allendes Remix)",
+        "url": "https://open.spotify.com/album/5zyVPWKf9qeD6OhVbXJXpo"
       },
       "artists": [
         {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+          "name": "Jazzy M",
+          "url": "https://open.spotify.com/artist/3nws7N81JxYlwBNK95VZUA"
         },
         {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+          "name": "Francisco Allendes",
+          "url": "https://open.spotify.com/artist/6hYoWCCWGbTcVbAChJRbko"
         }
       ],
-      "duration_ms": 333000,
-      "name": "take your vibes and go - Dam Swindle Remix",
-      "url": "https://open.spotify.com/track/0v0v5vFIqp83R0M8y3fdlt"
+      "duration_ms": 204375,
+      "name": "Jazzin' The Way You Know - Francisco Allendes Remix",
+      "url": "https://open.spotify.com/track/2VgMNEahVLNLzlQ9Mmlg4v"
     }
   ],
   "unique_name": "House Supreme",

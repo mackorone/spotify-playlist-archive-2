@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,810 songs - 4 day 7 hr 47 min
+1,811 songs - 4 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,7 +846,7 @@
 | [Manike Mage Hithe](https://open.spotify.com/track/5JO2usoem1CW1pLL1kLj9E) | [Chamath Sangeeth](https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Satheeshan](https://open.spotify.com/artist/3N3y9RPCdGRECp1MWJr00c) | [Manike Mage Hithe](https://open.spotify.com/album/0CuAXOxHwlGy4l8cyUD3bs) | 2:42 | 2021-10-21 | 2021-11-06 |
 | [Mantra](https://open.spotify.com/track/1kUyOJb3fzUo8r0OCz5SQk) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:16 | 2025-03-08 | 2025-03-12 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-12 | 2025-03-09 |
-| [Maool](https://open.spotify.com/track/7GFPmRIpmI1qRym5wRtSjZ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Maool](https://open.spotify.com/album/320sTowZ7E4pQYwypU8ibd) | 3:55 | 2025-09-02 | 2026-01-06 |
+| [Maool](https://open.spotify.com/track/7GFPmRIpmI1qRym5wRtSjZ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Maool](https://open.spotify.com/album/320sTowZ7E4pQYwypU8ibd) | 3:55 | 2025-09-02 |  |
 | [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-11-05 |
 | [Marou 3aliha Athnen Ya Yaba](https://open.spotify.com/track/4BxujrssMCsl1iq23jdNMZ) | [Koax France](https://open.spotify.com/artist/4vwRxtmPZS3aewDYmaGuI8) | [Shelat, Vol\. 11](https://open.spotify.com/album/6Tfas58647eH8VqwW6xvnx) | 3:00 | 2021-08-07 | 2021-08-29 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-27 | 2022-09-15 |
@@ -1684,6 +1684,7 @@
 | [رحتي خنتيني وغدرتي وهانت العشره عليك](https://open.spotify.com/track/5dzwBAYB1Y7Pn4qOOrLOcB) | [umiy](https://open.spotify.com/artist/7CLlOKuKAmd7uuSDeyLN0M) | [رحتي خنتيني وغدرتي وهانت العشره عليك](https://open.spotify.com/album/1Tl4hVkvBfjMT1AVUaq75C) | 4:54 | 2024-11-05 | 2024-11-14 |
 | [رحتي خنتيني وغدرتي وهانت العشره عليك \- مسرع](https://open.spotify.com/track/4m9fEQn5Oo93aQzwmVNy4G) | [umiy](https://open.spotify.com/artist/7CLlOKuKAmd7uuSDeyLN0M) | [رحتي خنتيني وغدرتي وهانت العشره عليك \- مسرع](https://open.spotify.com/album/0ti7Octd8uQRmdXvLXQdxS) | 4:54 | 2024-10-02 | 2024-10-23 |
 | [رحتي خنتيني وغدرتي وهانت العشره عليك مسرع](https://open.spotify.com/track/63D6e61KrsPzGDVVpl8gXU) | [umiy](https://open.spotify.com/artist/7CLlOKuKAmd7uuSDeyLN0M) | [رحتي خنتيني وغدرتي وهانت العشره عليك مسرع](https://open.spotify.com/album/6o3pz4Niw7uPMqNtra7MhM) | 4:54 | 2024-08-30 | 2024-09-22 |
+| [رفوف الذكريات](https://open.spotify.com/track/4COh36O2bC5kFn0b7Xwd9A) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [رفوف الذكريات](https://open.spotify.com/album/4b0tBHGs2F81D2qY6AOx0W) | 4:41 | 2026-01-16 |  |
 | [ريمكس صمخه , قفلت خلاص انا بابك](https://open.spotify.com/track/4EzzSFgBnkdQgZPTGDYJxh) | [فيلگس fM .](https://open.spotify.com/artist/59wAzPOBSl4uTsyJrwdROS) | [ريمكس صمخه , قفلت خلاص انا بابك](https://open.spotify.com/album/7EE2j7gpPwfISDgGUn0BTF) | 3:29 | 2025-05-15 | 2025-05-20 |
 | [زعلان](https://open.spotify.com/track/3vrLO8JCrZUyPhsxbdyyTz) | [Sabah Mahmod](https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ) | [زعلان](https://open.spotify.com/album/2MnUyB7LH4N6bi3KomaM5J) | 3:47 | 2025-11-22 | 2025-12-29 |
 | [سعوديون](https://open.spotify.com/track/2tSetGL4BpKgKK7BVAbhGf) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [سعوديون](https://open.spotify.com/album/4ADrl5Ao6XRdnN6jVF09uU) | 2:38 | 2023-09-24 | 2025-09-26 |
@@ -1789,7 +1790,7 @@
 | [ويلاه](https://open.spotify.com/track/6sR0gCVYVfKjQzqx1v20bC) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [نور عيني](https://open.spotify.com/album/3zqa2aIBz3U8AfSeo75cak) | 3:55 | 2024-08-15 | 2024-09-15 |
 | [ويلي](https://open.spotify.com/track/3h4kEr2cagLR0HlqMyMS2H) | [Nasrat Al Bader](https://open.spotify.com/artist/3LTg1uDlzgeNpapZviVVAF), [Qaed Helmy](https://open.spotify.com/artist/44eguFvAUWt2jsI2ZYWDYj) | [ويلي](https://open.spotify.com/album/61LYs7oRCvygjy8iPbV12M) | 6:20 | 2024-10-11 | 2025-07-07 |
 | [وين صرتي](https://open.spotify.com/track/0ywKzyhWxFQWGiQyjDBQFw) | [رعد وميثاق](https://open.spotify.com/artist/0QYiXpfzdheH4vEd7pu8aL) | [وين صرتي](https://open.spotify.com/album/0aHapfQB1j8j0NefL50PDo) | 5:48 | 2023-03-02 | 2025-10-14 |
-| [وين وين كحيل العين](https://open.spotify.com/track/36TUr6VZP0a9FE46jjve7O) | [علوش](https://open.spotify.com/artist/4G9x7SwpTluNjCPNfHTdSZ) | [وين وين كحيل العين](https://open.spotify.com/album/7MsmRq2GS70h2u62LiOufQ) | 3:35 | 2025-07-21 |  |
+| [وين وين كحيل العين](https://open.spotify.com/track/36TUr6VZP0a9FE46jjve7O) | [علوش](https://open.spotify.com/artist/4G9x7SwpTluNjCPNfHTdSZ) | [وين وين كحيل العين](https://open.spotify.com/album/7MsmRq2GS70h2u62LiOufQ) | 3:35 | 2025-07-21 | 2026-01-17 |
 | [وينك وينك غايب عليا وين \- سكول الدوسري](https://open.spotify.com/track/1EvT055LsQlAxPsB5cz1PO) | [سكول الدوسري \- SKOL KSA](https://open.spotify.com/artist/4RJGgGF2nFEeBIm1kUIY6t) | [وينك وينك غايب عليا وين \- سكول الدوسري](https://open.spotify.com/album/2Da3ETpbvWljTeKI6xwDeo) | 4:41 | 2024-12-27 | 2025-02-01 |
 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 | 2023-03-03 | 2024-08-12 |
 | [يا ابن خماش](https://open.spotify.com/track/18O3X0PmVps7R1JGMeIfph) | [محمد ال نجم المري](https://open.spotify.com/artist/2TkDT3pmW3dv7avlGjAAuy) | [يا ابن خماش](https://open.spotify.com/album/4Ib0kCcN26ueEBQ1v5De6C) | 4:02 | 2022-08-15 | 2022-09-19 |
@@ -1811,7 +1812,7 @@
 | [ياوطن طاهر ترابك](https://open.spotify.com/track/438ZRCqfXEltdzoRYEZAjf) | [A7ar0](https://open.spotify.com/artist/6BvzpUCVj93EGHBLDZBZSG) | [a7ar0 \| 2](https://open.spotify.com/album/3VPEdUnLlf9ovcXCZCEgiW) | 4:09 | 2023-06-22 | 2023-08-19 |
 | [ياوطن طاهر ترابك](https://open.spotify.com/track/7Fy8pZGUY5T070navcXFmX) | [A7ar0](https://open.spotify.com/artist/6BvzpUCVj93EGHBLDZBZSG) | [a7ar0 \| 5](https://open.spotify.com/album/7BOZou3wSgA1AMewNJZTuf) | 4:09 | 2023-02-14 | 2023-08-20 |
 | [ياويل حالي](https://open.spotify.com/track/58dTPKK9gxPuWg6DNOZwi6) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [ياويل حالي](https://open.spotify.com/album/2aYpyh5eahuZXzY1HIBqmM) | 3:18 | 2023-04-21 | 2025-04-02 |
-| [يعني المن اني اضحي وانقهر ، اني ذاك الطيب اللي كله وفا \- تعديل مميز](https://open.spotify.com/track/5Dlc94Fprf0tyMA6I6ZmL6) | [اهملتك FM](https://open.spotify.com/artist/0F3SJAhBK0Fe7u9F6E6P3Z) | [يعني المن اني اضحي وانقهر ، اني ذاك الطيب اللي كله وفا \- تعديل مميز](https://open.spotify.com/album/4m3eTu9AlqMGai2Aa2p44Z) | 4:05 | 2026-01-15 |  |
+| [يعني المن اني اضحي وانقهر ، اني ذاك الطيب اللي كله وفا \- تعديل مميز](https://open.spotify.com/track/5Dlc94Fprf0tyMA6I6ZmL6) | [اهملتك FM](https://open.spotify.com/artist/0F3SJAhBK0Fe7u9F6E6P3Z) | [يعني المن اني اضحي وانقهر ، اني ذاك الطيب اللي كله وفا \- تعديل مميز](https://open.spotify.com/album/4m3eTu9AlqMGai2Aa2p44Z) | 4:05 | 2026-01-15 | 2026-01-17 |
 | [يعني كله كذب من البدايه](https://open.spotify.com/track/4w6tfdTFpCwZHayVUC4KG2) | [mrkelgrez](https://open.spotify.com/artist/4mflY2pZkh9xXltN8GJnDa) | [يعني كله كذب من البدايه](https://open.spotify.com/album/2qNYmeusm885L6nA5MI2pc) | 3:08 | 2024-07-22 | 2024-09-19 |
 | [يما كضومي](https://open.spotify.com/track/584iJnX7ug3G9ck1jmapeA) | [SixFourNine](https://open.spotify.com/artist/0BDXsA99NMqPnGMr0sOQwt) | [يما كضومي](https://open.spotify.com/album/0Xz0b1TTci2pRIEUX9XwtM) | 4:23 | 2024-11-07 | 2024-11-10 |
 | [يوم كنا صغار \- ترند](https://open.spotify.com/track/7lTlE7cPGCWS5GstCS6zDi) | [علي الحيدر\-Ali Alhaider](https://open.spotify.com/artist/7bSwwEG6RGyxsqjxhaUWtD) | [يوم كنا صغار \- ترند](https://open.spotify.com/album/77IrUkWCovUfkn3jyQRnfa) | 4:50 | 2022-12-16 | 2022-12-26 |

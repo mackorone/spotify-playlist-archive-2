@@ -1,13 +1,49 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Jaymin",
-  "num_followers": 58084,
+  "description": "R&B of the moment by the artists of the future. Cover: Saint Harison",
+  "num_followers": 58089,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEALKps6uRepJeGTt4In1k5QCm8R",
+  "snapshot_id": "AAAAAAGS/BdKZ2gh+co3ICu3ONj52QPS",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "bad",
+        "url": "https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "energy!",
+        "url": "https://open.spotify.com/album/4SYq5g75SlsFdR0njSGopV"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 212005,
+      "name": "energy!",
+      "url": "https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6"
+    },
     {
       "added_at": "2026-01-09 07:30:30",
       "album": {
@@ -23,6 +59,90 @@
       "duration_ms": 186890,
       "name": "Wamu",
       "url": "https://open.spotify.com/track/1SKKJYMiJpZ6y67BC7sPXp"
+    },
+    {
+      "added_at": "2025-12-12 05:00:46",
+      "album": {
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "Honey Water",
+        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 174551,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/5msH0hur2XpjhbLkbGvW8p"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "Feline's Return",
+        "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 192192,
+      "name": "On Ur Time",
+      "url": "https://open.spotify.com/track/2XX9DsMkC1KSECUs6WGUxd"
+    },
+    {
+      "added_at": "2025-11-21 06:25:10",
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/2bQgSIFWTdcBZngvgSzIo0"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 156586,
+      "name": "She",
+      "url": "https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "NOTHING IS REAL",
+        "url": "https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "NOTHING IS REAL",
+      "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
     },
     {
       "added_at": "2026-01-09 07:30:30",
@@ -61,22 +181,6 @@
       "url": "https://open.spotify.com/track/1PKxa0QYeAUptdVTqqsf72"
     },
     {
-      "added_at": "2025-12-19 05:00:40",
-      "album": {
-        "name": "Deep",
-        "url": "https://open.spotify.com/album/2exZDhs8V2JUydb3whzbVh"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 161663,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/0eJHzodSFJVXC1HD4O3AEq"
-    },
-    {
       "added_at": "2025-12-12 05:00:46",
       "album": {
         "name": "DUMBCRAZYSTUPID",
@@ -93,40 +197,24 @@
       "url": "https://open.spotify.com/track/6U64qozXo66Eg24nOlgM6S"
     },
     {
-      "added_at": "2025-12-12 05:00:46",
+      "added_at": "2026-01-16 05:00:39",
       "album": {
-        "name": "Come Thru",
-        "url": "https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH"
+        "name": "SLIDE4U (Hating)",
+        "url": "https://open.spotify.com/album/5Ba1jyNWBhOSxZUI1SPqKF"
       },
       "artists": [
         {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
-    },
-    {
-      "added_at": "2026-01-09 07:30:30",
-      "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/025WWoX4KV2uNCUWoaKD2d"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
         },
         {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
         }
       ],
-      "duration_ms": 151384,
-      "name": "History",
-      "url": "https://open.spotify.com/track/0kbfiqVhGoEtv6ANAHpHC6"
+      "duration_ms": 245159,
+      "name": "SLIDE4U (Hating)",
+      "url": "https://open.spotify.com/track/2YjwAcWg2VUHwhVQatQP2q"
     },
     {
       "added_at": "2025-12-05 08:19:53",
@@ -143,22 +231,6 @@
       "duration_ms": 162773,
       "name": "swv",
       "url": "https://open.spotify.com/track/6GJc93iZwtT1sennWoDYLa"
-    },
-    {
-      "added_at": "2025-11-21 06:25:10",
-      "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/2bQgSIFWTdcBZngvgSzIo0"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 156586,
-      "name": "She",
-      "url": "https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL"
     },
     {
       "added_at": "2025-11-14 09:43:17",
@@ -183,34 +255,22 @@
     {
       "added_at": "2026-01-09 07:30:30",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/5xLNXjrIKQsSl07l6WrWW1"
+        "name": "History",
+        "url": "https://open.spotify.com/album/025WWoX4KV2uNCUWoaKD2d"
       },
       "artists": [
         {
-          "name": "Choker",
-          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/7eT7KkcYXFwELw4nzAzUdJ"
-    },
-    {
-      "added_at": "2026-01-09 07:30:30",
-      "album": {
-        "name": "Kryptonite",
-        "url": "https://open.spotify.com/album/2e4r2CiCRc5aAY7OlaL09O"
-      },
-      "artists": [
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
         {
-          "name": "V. Cartier",
-          "url": "https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop"
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
         }
       ],
-      "duration_ms": 200460,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/2kwszkUHGtCPgshacWrivq"
+      "duration_ms": 151384,
+      "name": "History",
+      "url": "https://open.spotify.com/track/0kbfiqVhGoEtv6ANAHpHC6"
     },
     {
       "added_at": "2025-12-12 05:00:46",
@@ -229,20 +289,80 @@
       "url": "https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb"
     },
     {
-      "added_at": "2025-12-19 05:00:40",
+      "added_at": "2026-01-09 07:30:30",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/1sOuWg2UVd11bVykUCDQ0E"
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/2e4r2CiCRc5aAY7OlaL09O"
       },
       "artists": [
         {
-          "name": "Qui",
-          "url": "https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396"
+          "name": "V. Cartier",
+          "url": "https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop"
         }
       ],
-      "duration_ms": 104020,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/5oPmBiPFQWgQmMdKDoojS2"
+      "duration_ms": 200460,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/2kwszkUHGtCPgshacWrivq"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "Journey To The Sun (feat. Ariel J.)",
+        "url": "https://open.spotify.com/album/1XQSX1VNJPrSR5UEhmlrL9"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "Ariel J.",
+          "url": "https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa"
+        }
+      ],
+      "duration_ms": 230644,
+      "name": "Journey To The Sun (feat. Ariel J.)",
+      "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "Lead It Up",
+        "url": "https://open.spotify.com/album/63449DHEaCWCuCwgn8A4bB"
+      },
+      "artists": [
+        {
+          "name": "GENA",
+          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Lead It Up",
+      "url": "https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU"
+    },
+    {
+      "added_at": "2026-01-09 07:30:30",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/5xLNXjrIKQsSl07l6WrWW1"
+      },
+      "artists": [
+        {
+          "name": "Choker",
+          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/7eT7KkcYXFwELw4nzAzUdJ"
     },
     {
       "added_at": "2026-01-09 20:17:16",
@@ -285,6 +405,78 @@
       "url": "https://open.spotify.com/track/4CZyHieOIQceXQUB24M5tW"
     },
     {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "Honey Water",
+        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo"
+    },
+    {
+      "added_at": "2025-12-19 05:00:40",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/1sOuWg2UVd11bVykUCDQ0E"
+      },
+      "artists": [
+        {
+          "name": "Qui",
+          "url": "https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396"
+        }
+      ],
+      "duration_ms": 104020,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/5oPmBiPFQWgQmMdKDoojS2"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "4Play II",
+        "url": "https://open.spotify.com/album/7fTvOTARIfo4gtJ4Mo9X73"
+      },
+      "artists": [
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 213809,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/2oyBmYlmteydrnLN6Adptl"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/3BiL6aOf5hdFMyGIiHmLHw"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        },
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/1pat9Eyvp7hxrEQ69bBAZ5"
+    },
+    {
       "added_at": "2025-12-19 05:00:40",
       "album": {
         "name": "Company",
@@ -325,26 +517,6 @@
       "url": "https://open.spotify.com/track/5e3T7BYEf7eQslb5C8BbJK"
     },
     {
-      "added_at": "2025-12-12 18:36:03",
-      "album": {
-        "name": "I Just Called",
-        "url": "https://open.spotify.com/album/4l0YYtW5kxgILLTUMA3RJ6"
-      },
-      "artists": [
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 183176,
-      "name": "I Just Called",
-      "url": "https://open.spotify.com/track/1ArttydEA3A8dNa28t0Oj6"
-    },
-    {
       "added_at": "2025-12-12 05:00:46",
       "album": {
         "name": "Access All Areas: Unlocked",
@@ -377,6 +549,38 @@
       "url": "https://open.spotify.com/track/5VT0xlntv9lzgytFTpG5Q0"
     },
     {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "AGAIN",
+        "url": "https://open.spotify.com/album/1rtxRcXuypC5lBvzJgFzmg"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "AGAIN",
+      "url": "https://open.spotify.com/track/6wgcPPl1tPGrsmq9aQIS1a"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "high calling",
+        "url": "https://open.spotify.com/album/3E6atjn0AElDFRhy9rIrv3"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        }
+      ],
+      "duration_ms": 168356,
+      "name": "high calling",
+      "url": "https://open.spotify.com/track/2vq732z2BxM0GYGBYvWm81"
+    },
+    {
       "added_at": "2025-12-05 08:19:53",
       "album": {
         "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
@@ -407,6 +611,42 @@
       "duration_ms": 108609,
       "name": "gutta child",
       "url": "https://open.spotify.com/track/1104jrxwuzye3TWcSxzd4k"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "THE GEMINI",
+        "url": "https://open.spotify.com/album/5k6M7gUCsKqzdBDkqIQtfP"
+      },
+      "artists": [
+        {
+          "name": "Elijah Blake",
+          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
+        }
+      ],
+      "duration_ms": 256454,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/0xj2o8bku1O1kjebzgN7Uz"
+    },
+    {
+      "added_at": "2025-12-12 18:36:03",
+      "album": {
+        "name": "I Just Called",
+        "url": "https://open.spotify.com/album/4l0YYtW5kxgILLTUMA3RJ6"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 183176,
+      "name": "I Just Called",
+      "url": "https://open.spotify.com/track/1ArttydEA3A8dNa28t0Oj6"
     },
     {
       "added_at": "2025-12-12 05:00:46",

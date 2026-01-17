@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "Any Fonque",
+        "url": "https://open.spotify.com/album/48eX7KziQJo6vNHQwkLhB8"
+      },
+      "artists": [
+        {
+          "name": "David Tort",
+          "url": "https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204608,
+      "name": "Any Fonque",
+      "url": "https://open.spotify.com/track/3b8rRgi5xBiuLFyYI4tXzX"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/6P4jPtw38LJm4j0jHWrZVm"
       },
@@ -192,6 +210,28 @@
       "duration_ms": 127994,
       "name": "BATTERY OPERATED",
       "url": "https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9"
+    },
+    {
+      "album": {
+        "name": "Black & Gold",
+        "url": "https://open.spotify.com/album/7r71jB4J1FYwoHzb86xmD4"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192937,
+      "name": "Black & Gold",
+      "url": "https://open.spotify.com/track/2bLVojtkh60Rh0wK0TLwaf"
     },
     {
       "album": {
@@ -526,7 +566,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 195404,
       "name": "D.A.N.C.E - From F1\u00ae The Movie",
       "url": "https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9"
@@ -650,6 +690,28 @@
       "duration_ms": 211874,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/0xgH8vk0HiygTzNuSFNRr6"
+    },
+    {
+      "album": {
+        "name": "Do It For The Girls (feat. Jalja)",
+        "url": "https://open.spotify.com/album/2N6MzDfkzG6cqacHxegu6C"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Jalja",
+          "url": "https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159545,
+      "name": "Do It For The Girls (feat. Jalja)",
+      "url": "https://open.spotify.com/track/1n7pkIXGPGK0d6Yd1p3L6V"
     },
     {
       "album": {
@@ -836,7 +898,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 179523,
       "name": "Feels Much Better",
       "url": "https://open.spotify.com/track/7wlZEUi72q9rpeST5bY8Zg"
@@ -1208,7 +1270,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 185314,
       "name": "Got To Move",
       "url": "https://open.spotify.com/track/3lsscRgxz25MLhM0OHfiLK"
@@ -2037,6 +2099,28 @@
     },
     {
       "album": {
+        "name": "Magic Sax",
+        "url": "https://open.spotify.com/album/5ZjEfIozL50KwP7MhiH49C"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        },
+        {
+          "name": "Karretero",
+          "url": "https://open.spotify.com/artist/6X4uyE91lE67Fh0f1Jj10o"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "Magic Sax",
+      "url": "https://open.spotify.com/track/1s4ESKBhuUbLIIfksvmGbd"
+    },
+    {
+      "album": {
         "name": "Make It High",
         "url": "https://open.spotify.com/album/4D37BzeU2vovE8lMysEgiL"
       },
@@ -2752,7 +2836,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 152558,
       "name": "Stimulate",
       "url": "https://open.spotify.com/track/3y2mTYn9DRF2nqqPW84326"
@@ -3138,7 +3222,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 191484,
       "name": "Time To Move",
       "url": "https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz"
@@ -3368,6 +3452,28 @@
       "duration_ms": 164250,
       "name": "Words",
       "url": "https://open.spotify.com/track/6lDoavtdRl2cJqBUv4JKz4"
+    },
+    {
+      "album": {
+        "name": "World & Back (feat. Riko Dan)",
+        "url": "https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n"
+      },
+      "artists": [
+        {
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179956,
+      "name": "World & Back (feat. Riko Dan)",
+      "url": "https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u"
     },
     {
       "album": {

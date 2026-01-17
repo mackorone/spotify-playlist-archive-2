@@ -2,9 +2,9 @@
 
 ### [Legendary Women of Country](https://open.spotify.com/playlist/37i9dQZF1DWSCp8Clax7tf)
 
-> The Women who put Country Music on the map\. Cover: Loretta Lynn
+> The Women who put Country Music on the map\. Cover: Dolly Parton
 
-128 songs - 7 hr 11 min
+129 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 | 2021-10-22 |  |
 | [Lesson In Leavin'](https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [All\-Time Greatest Hits](https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX) | 3:39 | 2021-10-22 |  |
 | [Let's Go to Vegas](https://open.spotify.com/track/39HccIrICWp9EBD8MunAUW) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [It Matters to Me](https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds) | 3:11 | 2021-10-22 |  |
+| [Light of a Clear Blue Morning](https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Light of a Clear Blue Morning](https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz) | 3:47 | 2026-01-16 |  |
 | [Love Can Build A Bridge](https://open.spotify.com/track/4aAVHWiFKSFjqirTn75sXE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 5:22 | 2021-10-22 |  |
 | [Midnight Girl / Sunset Town](https://open.spotify.com/track/6lyrPJ8lLjUng9eYudOHvb) | [Sweethearts of the Rodeo](https://open.spotify.com/artist/5VvcMMfn7KqIjK9zRONL0d) | [Sweethearts Of The Rodeo](https://open.spotify.com/album/0qybPBIo51QCCn6GpvD9Vk) | 3:05 | 2021-10-22 |  |
 | [No One Else On Earth](https://open.spotify.com/track/52PGtJuGEFNVOnRdLac1Av) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Collection](https://open.spotify.com/album/0Os3wFj7ETGkON922FncBo) | 4:15 | 2021-10-22 |  |

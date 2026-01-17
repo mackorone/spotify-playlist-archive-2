@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Marcos Witt",
-  "num_followers": 41334,
+  "num_followers": 41327,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Oh, Noche Santa",
-        "url": "https://open.spotify.com/album/2pdxLLrvUCDz1KA2Li6DJZ"
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
       },
       "artists": [
         {
-          "name": "Alysia",
-          "url": "https://open.spotify.com/artist/5i1cFj8DOqbxlWSRzDaWlE"
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
         },
         {
-          "name": "Joivan Jimenez",
-          "url": "https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu"
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
         }
       ],
-      "duration_ms": 233296,
-      "name": "Oh, Noche Santa",
-      "url": "https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb"
+      "duration_ms": 186613,
+      "name": "Noche De Paz (feat. Betsy)",
+      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -399,22 +399,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
+        "name": "Oh, Noche Santa",
+        "url": "https://open.spotify.com/album/2pdxLLrvUCDz1KA2Li6DJZ"
       },
       "artists": [
         {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+          "name": "Alysia",
+          "url": "https://open.spotify.com/artist/5i1cFj8DOqbxlWSRzDaWlE"
         },
         {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
+          "name": "Joivan Jimenez",
+          "url": "https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu"
         }
       ],
-      "duration_ms": 186613,
-      "name": "Noche De Paz (feat. Betsy)",
-      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
+      "duration_ms": 233296,
+      "name": "Oh, Noche Santa",
+      "url": "https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Navidad en Miami",
-        "url": "https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rez",
-          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Navidad en Miami",
-      "url": "https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Cantamos Gloria",
         "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 227771,
       "name": "Cantamos Gloria",
       "url": "https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Navidad en Miami",
+        "url": "https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rez",
+          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Navidad en Miami",
+      "url": "https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Lleg\u00f3 La Navidad",
-        "url": "https://open.spotify.com/album/03HjpU6ULasotU6tn5cU9B"
-      },
-      "artists": [
-        {
-          "name": "Keila Marin",
-          "url": "https://open.spotify.com/artist/1QSS1kD3lKJSfT453osaKB"
-        }
-      ],
-      "duration_ms": 205726,
-      "name": "Lleg\u00f3 La Navidad",
-      "url": "https://open.spotify.com/track/4xQ3rZVaiAI9z7f00IXxxR"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "El Mejor Regalo",
         "url": "https://open.spotify.com/album/0KYqd7MG02VxLKWc8bnnl7"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 307226,
       "name": "El Mejor Regalo",
       "url": "https://open.spotify.com/track/7CRs2dXZVzkhkEplhq2kPl"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Lleg\u00f3 La Navidad",
+        "url": "https://open.spotify.com/album/03HjpU6ULasotU6tn5cU9B"
+      },
+      "artists": [
+        {
+          "name": "Keila Marin",
+          "url": "https://open.spotify.com/artist/1QSS1kD3lKJSfT453osaKB"
+        }
+      ],
+      "duration_ms": 205726,
+      "name": "Lleg\u00f3 La Navidad",
+      "url": "https://open.spotify.com/track/4xQ3rZVaiAI9z7f00IXxxR"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1847,30 +1847,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "En Las Alturas",
-        "url": "https://open.spotify.com/album/4AVhNkPtZJ6GUfbdTHCfTq"
-      },
-      "artists": [
-        {
-          "name": "NewSpring Worship",
-          "url": "https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM"
-        },
-        {
-          "name": "Charlee Buitrago",
-          "url": "https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8"
-        },
-        {
-          "name": "Jezlynne Cintr\u00f3n",
-          "url": "https://open.spotify.com/artist/581HlbVAl8wMyW9tUdE4J1"
-        }
-      ],
-      "duration_ms": 436191,
-      "name": "Santa la Noche",
-      "url": "https://open.spotify.com/track/3tPeT6159RSlaaONcMRyFC"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Celebremos Juntos II",
         "url": "https://open.spotify.com/album/15EAiGTs89wM2bHiS9W3U9"
       },
@@ -1891,6 +1867,30 @@
       "duration_ms": 208389,
       "name": "Celebremos Juntos II",
       "url": "https://open.spotify.com/track/0ildB0tDK7OSPBzzF4ryLi"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "En Las Alturas",
+        "url": "https://open.spotify.com/album/4AVhNkPtZJ6GUfbdTHCfTq"
+      },
+      "artists": [
+        {
+          "name": "NewSpring Worship",
+          "url": "https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM"
+        },
+        {
+          "name": "Charlee Buitrago",
+          "url": "https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8"
+        },
+        {
+          "name": "Jezlynne Cintr\u00f3n",
+          "url": "https://open.spotify.com/artist/581HlbVAl8wMyW9tUdE4J1"
+        }
+      ],
+      "duration_ms": 436191,
+      "name": "Santa la Noche",
+      "url": "https://open.spotify.com/track/3tPeT6159RSlaaONcMRyFC"
     },
     {
       "added_at": "2025-12-12 05:00:50",

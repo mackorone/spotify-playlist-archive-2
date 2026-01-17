@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Above The Clouds",
+        "url": "https://open.spotify.com/album/4hmPxAQKuux6ztm4tb49b1"
+      },
+      "artists": [
+        {
+          "name": "Alex Boychuk",
+          "url": "https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/2EH01Ax9ozDpnKPqN9idiq"
+    },
+    {
+      "album": {
         "name": "after dusk",
         "url": "https://open.spotify.com/album/59hj5l9UAvneygtRljlDc6"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 212100,
       "name": "Chromatica",
       "url": "https://open.spotify.com/track/4ZI0XaUvczHi9CmzJiDF70"
@@ -428,7 +446,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 196250,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3lDdclRD0pjJwhHjXjErEn"
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 172173,
       "name": "Elysian Echoes",
       "url": "https://open.spotify.com/track/0KlLfMXfofptTSJt3Z6pMY"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 159272,
       "name": "Galactic Odyssey",
       "url": "https://open.spotify.com/track/6FLYswnxa41JAlvVO0z8jM"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 155000,
       "name": "H204",
       "url": "https://open.spotify.com/track/6BgRhSUOCm5cJdCG0tEkmG"
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 208019,
       "name": "It\u2019s a fine day",
       "url": "https://open.spotify.com/track/6idKDtuG7xRdQty9xnGMSA"
@@ -1862,6 +1880,24 @@
       "duration_ms": 175639,
       "name": "Lost Data - Slowed",
       "url": "https://open.spotify.com/track/0V9ODK3SX6eGGjFI0z0XSe"
+    },
+    {
+      "album": {
+        "name": "Lost in 84",
+        "url": "https://open.spotify.com/album/4OWyKPQutGfrKK4sINSvmh"
+      },
+      "artists": [
+        {
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Lost in 84",
+      "url": "https://open.spotify.com/track/0EZkhX2ROJGSxsAaD3qLxA"
     },
     {
       "album": {
@@ -2046,7 +2082,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 166333,
       "name": "Metro",
       "url": "https://open.spotify.com/track/0VMWB3h15wUPI7qk2ReWiS"
@@ -2068,6 +2104,24 @@
       "duration_ms": 161460,
       "name": "Metro Station",
       "url": "https://open.spotify.com/track/0tAlg7NRFVk2VAQPScRQNO"
+    },
+    {
+      "album": {
+        "name": "Metrogate",
+        "url": "https://open.spotify.com/album/4Q5fTmh7p1FC2cO6G8vz1u"
+      },
+      "artists": [
+        {
+          "name": "Nocora",
+          "url": "https://open.spotify.com/artist/5Lip3pKcScdUFzpJ4fJpHh"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "Metrogate",
+      "url": "https://open.spotify.com/track/5xSxWpL9NhkR2B4lwKIK5v"
     },
     {
       "album": {
@@ -2129,6 +2183,42 @@
     },
     {
       "album": {
+        "name": "Mistline",
+        "url": "https://open.spotify.com/album/5q7UFqrJAgGZ9aNrrjEX3F"
+      },
+      "artists": [
+        {
+          "name": "Night Shapes",
+          "url": "https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Mistline",
+      "url": "https://open.spotify.com/track/6Tsjt5Z1rPyYHpUT0rtimv"
+    },
+    {
+      "album": {
+        "name": "Monsoon",
+        "url": "https://open.spotify.com/album/0UDzzY8lgXd0PAZZoVTPFB"
+      },
+      "artists": [
+        {
+          "name": "gelowler",
+          "url": "https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/5cHwfc2s4OtfuQMSY033B7"
+    },
+    {
+      "album": {
         "name": "Moonlake",
         "url": "https://open.spotify.com/album/706DexETStSK2srKqdVbrt"
       },
@@ -2162,6 +2252,24 @@
       "duration_ms": 146427,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/5akzWjgEj7b2M0qqQvx7TD"
+    },
+    {
+      "album": {
+        "name": "Neon Divide",
+        "url": "https://open.spotify.com/album/5UMbm9iGAb7gnoXmTDhnsP"
+      },
+      "artists": [
+        {
+          "name": "Interwave",
+          "url": "https://open.spotify.com/artist/56oS99WDufkuJs4yV85vPM"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138725,
+      "name": "Neon Divide",
+      "url": "https://open.spotify.com/track/3yQbh84b8lu5soUK01v9QK"
     },
     {
       "album": {
@@ -2270,6 +2378,24 @@
       "duration_ms": 164571,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/6G9Y1OxEadkafkHyHUaMBa"
+    },
+    {
+      "album": {
+        "name": "No Limits (slowed)",
+        "url": "https://open.spotify.com/album/69STeZxEEJiIjZLboYn0BC"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/4awW7iQuJoBoEMSaeYslIk"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "No Limits - slowed",
+      "url": "https://open.spotify.com/track/4zvgNCOCMOW9OVYIr8zFoD"
     },
     {
       "album": {
@@ -3097,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Space Radio",
+        "url": "https://open.spotify.com/album/2jbwMjEJHDewvDaNfiYsj0"
+      },
+      "artists": [
+        {
+          "name": "c152",
+          "url": "https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Space Radio",
+      "url": "https://open.spotify.com/track/1mkCdLz6bwhPye6tYGYrSA"
+    },
+    {
+      "album": {
         "name": "Space Things",
         "url": "https://open.spotify.com/album/3m2eI236x8uclClzy5zGWz"
       },
@@ -3364,7 +3508,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 171529,
       "name": "Textures",
       "url": "https://open.spotify.com/track/1seTo1rP8Y5A9pn9ap92nS"
@@ -3566,7 +3710,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 209230,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0ajMmAtW5492rLVehEkoM7"
@@ -3700,6 +3844,24 @@
       "duration_ms": 213536,
       "name": "We Began as Wanderers",
       "url": "https://open.spotify.com/track/2rL1cFztdWVUja88kIpumO"
+    },
+    {
+      "album": {
+        "name": "When the City Was Quiet",
+        "url": "https://open.spotify.com/album/7Gz7z4o1bFmp3vceUQdwfC"
+      },
+      "artists": [
+        {
+          "name": "Crystal Motel",
+          "url": "https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125052,
+      "name": "When the City Was Quiet",
+      "url": "https://open.spotify.com/track/5AudrkLWtPGGyHb459MagI"
     },
     {
       "album": {

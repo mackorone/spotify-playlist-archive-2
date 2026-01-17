@@ -1,12 +1,12 @@
 {
   "description": "Escucha mujeres a todo volumen.  Foto: Lola Flores.",
-  "num_followers": 58543,
+  "num_followers": 58546,
   "original_name": "EQUAL Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABWyzuhSOIWNkwk3QQ35PEJmds2l",
+  "snapshot_id": "AAAAAM0+fjamwj8XSYuoQpf3DB+Z4aex",
   "tracks": [
     {
       "added_at": "2026-01-13 23:01:32",
@@ -55,6 +55,22 @@
       "duration_ms": 205578,
       "name": "Aprende",
       "url": "https://open.spotify.com/track/0nFhu8abAddE45NvAcgzOZ"
+    },
+    {
+      "added_at": "2026-01-16 09:16:54",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "Reliquia",
+      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
     },
     {
       "added_at": "2026-01-13 23:01:32",

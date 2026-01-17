@@ -1,6 +1,6 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Pankaj Udhas",
-  "num_followers": 136878,
+  "num_followers": 136924,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2025-12-15 05:31:50",
       "album": {
+        "name": "Sunset Point",
+        "url": "https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv"
+      },
+      "artists": [
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        },
+        {
+          "name": "Bhupinder Singh",
+          "url": "https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Jal Bhar De",
+      "url": "https://open.spotify.com/track/3trMcrv75BKmVVS45moplw"
+    },
+    {
+      "added_at": "2025-12-15 05:31:50",
+      "album": {
         "name": "Taaza Khabar (Season 2)",
         "url": "https://open.spotify.com/album/1Tr46FL0dcPJAROmjY1PKm"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 257441,
       "name": "Hoke Majboor",
       "url": "https://open.spotify.com/track/0AT0gJ1ItX40XbIChd106B"
-    },
-    {
-      "added_at": "2025-12-15 05:31:50",
-      "album": {
-        "name": "Sunset Point",
-        "url": "https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv"
-      },
-      "artists": [
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
-        },
-        {
-          "name": "Bhupinder Singh",
-          "url": "https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Jal Bhar De",
-      "url": "https://open.spotify.com/track/3trMcrv75BKmVVS45moplw"
     },
     {
       "added_at": "2025-12-15 05:31:50",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-12-15 05:31:50",
       "album": {
-        "name": "Stolen Moments",
-        "url": "https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9"
-      },
-      "artists": [
-        {
-          "name": "Pankaj Udhas",
-          "url": "https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw"
-        }
-      ],
-      "duration_ms": 334173,
-      "name": "Naam",
-      "url": "https://open.spotify.com/track/1aL1wNSXuYg8iVphuMQDaW"
-    },
-    {
-      "added_at": "2025-12-15 05:31:50",
-      "album": {
         "name": "Sunset Point",
         "url": "https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 361733,
       "name": "Tere Jane Se",
       "url": "https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz"
+    },
+    {
+      "added_at": "2025-12-15 05:31:50",
+      "album": {
+        "name": "Stolen Moments",
+        "url": "https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9"
+      },
+      "artists": [
+        {
+          "name": "Pankaj Udhas",
+          "url": "https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw"
+        }
+      ],
+      "duration_ms": 334173,
+      "name": "Naam",
+      "url": "https://open.spotify.com/track/1aL1wNSXuYg8iVphuMQDaW"
     },
     {
       "added_at": "2025-12-15 05:31:50",

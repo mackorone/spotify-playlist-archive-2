@@ -41,6 +41,62 @@
     },
     {
       "album": {
+        "name": "A Little Bit Bad",
+        "url": "https://open.spotify.com/album/7fdSRH1s1pNbyfu8141YIa"
+      },
+      "artists": [
+        {
+          "name": "KittenSneeze",
+          "url": "https://open.spotify.com/artist/2WKgR22LeNxOzIllOfH4ZW"
+        },
+        {
+          "name": "Tunnelberg",
+          "url": "https://open.spotify.com/artist/0bW6E136CbdrMmbk6MlJiB"
+        },
+        {
+          "name": "The Musical Ghost",
+          "url": "https://open.spotify.com/artist/5NCTflTCAp9FUqwYRz6N9n"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141521,
+      "name": "A Little Bit Bad",
+      "url": "https://open.spotify.com/track/3FcfrGCfPw5hBAXRXqkXv7"
+    },
+    {
+      "album": {
+        "name": "Abstraction (Big Band Version)",
+        "url": "https://open.spotify.com/album/5x0168foSD4FsNjrLfgt8S"
+      },
+      "artists": [
+        {
+          "name": "KittenSneeze",
+          "url": "https://open.spotify.com/artist/2WKgR22LeNxOzIllOfH4ZW"
+        },
+        {
+          "name": "Amanda Hufford",
+          "url": "https://open.spotify.com/artist/69BxTUnWd8ujTo7GUdGFdA"
+        },
+        {
+          "name": "Michael Kovach",
+          "url": "https://open.spotify.com/artist/7Gz9xqvzDYD8G3LnlolOdZ"
+        },
+        {
+          "name": "CLOUDSAVE",
+          "url": "https://open.spotify.com/artist/6Po9si7KKnwz4fDuerSR7V"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "Abstraction (Big Band Version)",
+      "url": "https://open.spotify.com/track/6RlqmQ5DMLDvXxibvBAsLG"
+    },
+    {
+      "album": {
         "name": "Addict",
         "url": "https://open.spotify.com/album/4QtUfPpp8KMjgFsJiWRi8x"
       },

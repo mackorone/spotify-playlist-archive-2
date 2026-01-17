@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Swarathma",
-  "num_followers": 26042,
+  "num_followers": 26051,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPK90UZeIzcUc2wufWqoJNzw6N3T",
+  "snapshot_id": "AAAAAKYDeq3et9rjyYh6U1wacoOlhr/i",
   "tracks": [
     {
       "added_at": "2026-01-15 13:27:01",
@@ -33,6 +33,22 @@
       "url": "https://open.spotify.com/track/7cd8f7AqLjP6v47ZQNRJxV"
     },
     {
+      "added_at": "2026-01-16 10:20:22",
+      "album": {
+        "name": "Nenapale",
+        "url": "https://open.spotify.com/album/5ajuZjDYqrJU1TzcFBG60H"
+      },
+      "artists": [
+        {
+          "name": "Adhvik",
+          "url": "https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV"
+        }
+      ],
+      "duration_ms": 173804,
+      "name": "Nenapale",
+      "url": "https://open.spotify.com/track/3yOPmz3W9psgd9XX5BMHcK"
+    },
+    {
       "added_at": "2025-12-01 06:50:27",
       "album": {
         "name": "Nirantara",
@@ -47,6 +63,42 @@
       "duration_ms": 137774,
       "name": "Nirantara",
       "url": "https://open.spotify.com/track/3AzK1YCgsKjZNh1zZO5nyd"
+    },
+    {
+      "added_at": "2026-01-16 10:21:39",
+      "album": {
+        "name": "En\u00e9no Aase",
+        "url": "https://open.spotify.com/album/2BfYdK8TimSbXX0AIt3Jw8"
+      },
+      "artists": [
+        {
+          "name": "Aryamanu Baloji",
+          "url": "https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp"
+        },
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "En\u00e9no Aase",
+      "url": "https://open.spotify.com/track/13EPhdmnXGNtxtdorPMGkU"
+    },
+    {
+      "added_at": "2025-11-10 08:39:03",
+      "album": {
+        "name": "Belongaluru",
+        "url": "https://open.spotify.com/album/4lXfPiqT2mAvbIxVTyhyu5"
+      },
+      "artists": [
+        {
+          "name": "Swarathma",
+          "url": "https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX"
+        }
+      ],
+      "duration_ms": 235074,
+      "name": "Belongaluru",
+      "url": "https://open.spotify.com/track/3Ccj32rFvv6NZa9l6nv7fc"
     },
     {
       "added_at": "2026-01-05 07:49:37",
@@ -87,22 +139,6 @@
       "duration_ms": 277162,
       "name": "Kavali Hanninantha Kannaki",
       "url": "https://open.spotify.com/track/1do1hM2ItPI4KAJj4VFPea"
-    },
-    {
-      "added_at": "2025-11-10 08:39:03",
-      "album": {
-        "name": "Belongaluru",
-        "url": "https://open.spotify.com/album/4lXfPiqT2mAvbIxVTyhyu5"
-      },
-      "artists": [
-        {
-          "name": "Swarathma",
-          "url": "https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX"
-        }
-      ],
-      "duration_ms": 235074,
-      "name": "Belongaluru",
-      "url": "https://open.spotify.com/track/3Ccj32rFvv6NZa9l6nv7fc"
     },
     {
       "added_at": "2026-01-14 10:58:55",
@@ -1333,22 +1369,6 @@
       "url": "https://open.spotify.com/track/7uqRpR4n59TQhwKGZT2lpH"
     },
     {
-      "added_at": "2025-08-26 07:33:39",
-      "album": {
-        "name": "H Town Legacy",
-        "url": "https://open.spotify.com/album/3fiTHZuIpYg3ibx4r8pU2A"
-      },
-      "artists": [
-        {
-          "name": "Dydx",
-          "url": "https://open.spotify.com/artist/5LV2eUKMYtUPjA0jino6hL"
-        }
-      ],
-      "duration_ms": 134263,
-      "name": "H Town Legacy",
-      "url": "https://open.spotify.com/track/0lo4MbmWyWfTh8Xs17locq"
-    },
-    {
       "added_at": "2025-08-11 06:50:52",
       "album": {
         "name": "Laka Laka Holital",
@@ -1423,22 +1443,6 @@
       "duration_ms": 160055,
       "name": "JAI SIYA RAM - The Eternal Kavach",
       "url": "https://open.spotify.com/track/56QKgoZ21vL6pJV3C5kNHk"
-    },
-    {
-      "added_at": "2025-07-22 11:32:21",
-      "album": {
-        "name": "Bhoom Shankara",
-        "url": "https://open.spotify.com/album/3oZsVSF8hx8YnJCoH2CK5O"
-      },
-      "artists": [
-        {
-          "name": "Raghu Dixit",
-          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Om Namah Shivaaya",
-      "url": "https://open.spotify.com/track/4qlGv5Tb5xBZeqlRfGYE0l"
     },
     {
       "added_at": "2025-06-27 10:35:48",

@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 ",
-  "num_followers": 188596,
+  "num_followers": 188583,
   "original_name": "rap dk",
   "owner": {
     "name": "Spotify",
@@ -63,17 +63,21 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "H\u00f8jt At Flyve Dybt At Falde",
+        "url": "https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU"
       },
       "artists": [
         {
           "name": "Omar",
           "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        },
+        {
+          "name": "Jamaika",
+          "url": "https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 161245,
+      "name": "3 2 1 (feat. Jamaika)",
       "url": "https://open.spotify.com/track/0PUfJ77DHXydetNvwYsI31"
     },
     {

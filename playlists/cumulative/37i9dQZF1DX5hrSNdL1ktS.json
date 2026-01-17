@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Dani Flow y Alu Mix... Ahueeeeeeevo  ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 R\u00e9gulo Molina, Oscar Maydon y Neton Vega en cover",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -624,7 +624,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 187302,
       "name": "AC\u00c9RCATE",
       "url": "https://open.spotify.com/track/1YKV2wkBtYpKstfXJRR0wf"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 171022,
       "name": "Amor de Anexo",
       "url": "https://open.spotify.com/track/2LFayVbAfSgB5Cxt05u2na"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 172012,
       "name": "Azulitos",
       "url": "https://open.spotify.com/track/2vgTHQaEHGJstpN5scaaJ6"
@@ -2862,6 +2862,32 @@
       "duration_ms": 164307,
       "name": "Can Am",
       "url": "https://open.spotify.com/track/7MK6edE9MWa7OVPFy0tbcM"
+    },
+    {
+      "album": {
+        "name": "Canasteo",
+        "url": "https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295813,
+      "name": "Canasteo",
+      "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
     },
     {
       "album": {
@@ -6368,6 +6394,24 @@
       "duration_ms": 162693,
       "name": "Es tu culpa",
       "url": "https://open.spotify.com/track/6FUlTqITf2JYTdu5Go6CfN"
+    },
+    {
+      "album": {
+        "name": "Esa Mami",
+        "url": "https://open.spotify.com/album/5FpTjQk0albGH4U4aMnOVP"
+      },
+      "artists": [
+        {
+          "name": "Aguila DS",
+          "url": "https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151918,
+      "name": "Esa Mami",
+      "url": "https://open.spotify.com/track/5jGgIyeI4tt6seC0kRkqnH"
     },
     {
       "album": {
@@ -11462,7 +11506,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 200816,
       "name": "Maqu\u00edllate",
       "url": "https://open.spotify.com/track/66klnReoxGvVYyL8S0oIu4"
@@ -14971,6 +15015,24 @@
     },
     {
       "album": {
+        "name": "Pena de Amor",
+        "url": "https://open.spotify.com/album/10IyJpeMxORE3IACVFa244"
+      },
+      "artists": [
+        {
+          "name": "BARRIO VERDE",
+          "url": "https://open.spotify.com/artist/559w53NeE0TLcEkzSjTZy0"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Pena de Amor",
+      "url": "https://open.spotify.com/track/2cpTYg4Rh1S9SGyILb6iWw"
+    },
+    {
+      "album": {
         "name": "Perdon\u00e9monos",
         "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
       },
@@ -16686,7 +16748,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-17",
       "duration_ms": 188181,
       "name": "Que te Enciende",
       "url": "https://open.spotify.com/track/69DwRvvbsc0zyzxOVAUB2N"
@@ -18038,6 +18100,32 @@
       "duration_ms": 122986,
       "name": "SESENTAYNUEVE",
       "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
+    },
+    {
+      "album": {
+        "name": "Seteando",
+        "url": "https://open.spotify.com/album/4e9bdg2Hcq6evf8GtV93EP"
+      },
+      "artists": [
+        {
+          "name": "Ryan Vuitton",
+          "url": "https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm"
+        },
+        {
+          "name": "Keibi",
+          "url": "https://open.spotify.com/artist/2jCvXbvbzMrnjDXOtbXXmW"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Seteando",
+      "url": "https://open.spotify.com/track/4b1LU25yQiVzVetl7rKmRa"
     },
     {
       "album": {
@@ -21512,6 +21600,24 @@
       "duration_ms": 178800,
       "name": "Vergazo",
       "url": "https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE"
+    },
+    {
+      "album": {
+        "name": "Versace",
+        "url": "https://open.spotify.com/album/4wd2WKy0zk9RR0aNtF9Njt"
+      },
+      "artists": [
+        {
+          "name": "Cael Roldan",
+          "url": "https://open.spotify.com/artist/33hFgg3zqijh4EA4IkUzw3"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168315,
+      "name": "Versace",
+      "url": "https://open.spotify.com/track/7dCwRJzOMmH6Q7fwWGBCiS"
     },
     {
       "album": {

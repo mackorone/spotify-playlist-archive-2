@@ -1,6 +1,6 @@
 {
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T?si=88g02L2xR7GJtLwkX6P7Lw\"> Elsy Wameyo</a> ",
-  "num_followers": 19736,
+  "num_followers": 19750,
   "original_name": "254 Flow",
   "owner": {
     "name": "Spotify",
@@ -1115,17 +1115,21 @@
     {
       "added_at": "2026-01-15 23:59:04",
       "album": {
-        "name": "Properly",
+        "name": "Properly (feat. Femi One)",
         "url": "https://open.spotify.com/album/64iIqEzTMDg4yLrNkKVRFo"
       },
       "artists": [
         {
           "name": "Nyashinski",
           "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        },
+        {
+          "name": "FEMI ONE",
+          "url": "https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH"
         }
       ],
       "duration_ms": 212346,
-      "name": "Properly",
+      "name": "Properly (feat. Femi One)",
       "url": "https://open.spotify.com/track/7z2iv6bToqzdx8puIywKFI"
     },
     {

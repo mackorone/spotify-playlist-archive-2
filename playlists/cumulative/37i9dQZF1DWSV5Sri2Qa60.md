@@ -4,7 +4,7 @@
 
 > Where your new favourite bands are discovered\. Cover: Ulrika Spacek
 
-295 songs - 17 hr 18 min
+296 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Measly Means](https://open.spotify.com/track/0vtRXEqmLyIlbEhqnPIXX3) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Measly Means](https://open.spotify.com/album/39XEYzp5W10qC16dwPekg4) | 3:29 | 2025-11-28 |  |
 | [MEASURE ME](https://open.spotify.com/track/0YmbGL8wGTW9nJ538LEqnF) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv), [Softlizard](https://open.spotify.com/artist/4pGYioOoAwTF2d44wFGTHM) | [MEASURE ME](https://open.spotify.com/album/5L8bwluc0aeraI6sjNR7VU) | 4:08 | 2024-10-06 | 2024-11-09 |
 | [Meltdown](https://open.spotify.com/track/0efAWuRMkdOdFdCHWM6E2I) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Meltdown](https://open.spotify.com/album/0FPCutnlPOJfCrQkdgMnYi) | 3:36 | 2024-12-13 | 2025-05-02 |
+| [Miami](https://open.spotify.com/track/5ZN94e9bgjsaKMwmsIl4E5) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Miami](https://open.spotify.com/album/76MibAcuxC1HrFcvLYnxKm) | 3:39 | 2026-01-16 |  |
 | [Money Mullet](https://open.spotify.com/track/386QHAiPVLCFLfukpIECJP) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Money Mullet](https://open.spotify.com/album/3Ab3IkmXiMUF2ESg9GSsI7) | 2:40 | 2025-03-17 | 2025-08-08 |
 | [Mown In Circles](https://open.spotify.com/track/4g7YnATFgEFKmRxqnlQqtL) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Mown In Circles](https://open.spotify.com/album/6G7iPqdN75EsnBjIWdrSW0) | 2:35 | 2024-07-12 | 2024-08-17 |
 | [Much Better](https://open.spotify.com/track/2mMsxyKMwIkzSxxcoDlnNj) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Much Better](https://open.spotify.com/album/4QemJPG8neALdVNSiSXApT) | 2:39 | 2025-04-11 | 2025-09-06 |
@@ -209,7 +210,7 @@
 | [Pirouette](https://open.spotify.com/track/7uj5bFfCFpP3bXNcHPtcJQ) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Pirouette](https://open.spotify.com/album/0ZSz3vLHAgBenyEI3SZEdD) | 4:06 | 2025-03-28 | 2025-09-06 |
 | [pitpony](https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc) | [Second House](https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB) | [pitpony](https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c) | 2:36 | 2025-02-07 | 2025-07-18 |
 | [Plagiarist](https://open.spotify.com/track/0SPj7B6r2PYezxF0KyIYDb) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [Plagiarist](https://open.spotify.com/album/4Yf80mJqwGm3WzcCaIgTez) | 3:13 | 2025-05-01 | 2025-08-08 |
-| [play](https://open.spotify.com/track/0VjFUemUuObcbFlpynM6d4) | [not not cool](https://open.spotify.com/artist/5m9YsHvdvj6CEu1vYJcKbv), [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Jack in Water](https://open.spotify.com/artist/2TR91e9wZCzK7QGBKtL8lb) | [play](https://open.spotify.com/album/23DZluFqPwk3JjjEWn6p6I) | 2:22 | 2025-09-05 |  |
+| [play](https://open.spotify.com/track/0VjFUemUuObcbFlpynM6d4) | [not not cool](https://open.spotify.com/artist/5m9YsHvdvj6CEu1vYJcKbv), [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Jack in Water](https://open.spotify.com/artist/2TR91e9wZCzK7QGBKtL8lb) | [play](https://open.spotify.com/album/23DZluFqPwk3JjjEWn6p6I) | 2:22 | 2025-09-05 | 2026-01-17 |
 | [Poke](https://open.spotify.com/track/5aha1ojLhdvtUfIKGGZsTP) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [Poke](https://open.spotify.com/album/2TauZCi6TpNjJqx8EU2frn) | 3:46 | 2025-09-05 |  |
 | [Polaroid](https://open.spotify.com/track/2mawheCRpyRa0fSg5EgFde) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Polaroid](https://open.spotify.com/album/0TZ0Ly4YFePYFwso7dhmID) | 3:47 | 2024-11-29 | 2025-02-14 |
 | [Pop Star](https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Pop Star](https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84) | 2:54 | 2024-06-14 | 2024-07-27 |
@@ -270,7 +271,7 @@
 | [The Pencil](https://open.spotify.com/track/0PhgjfjfaaVteJMW4Q7STQ) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [The Pencil](https://open.spotify.com/album/3c1L0TkioqWhP85wGHQc4D) | 4:39 | 2025-05-01 | 2025-08-08 |
 | [The Recogniser](https://open.spotify.com/track/417nPuKG03pek6PIuZGtae) | [Terra Twin](https://open.spotify.com/artist/1APkoiZBXf5B3YqPruHouT) | [The Recogniser](https://open.spotify.com/album/4XuEfBwoekw0M0WR5WA2Fs) | 3:26 | 2024-09-06 | 2025-01-23 |
 | [The Times](https://open.spotify.com/track/6HLwtE0bB2kRfpeVlXmDVa) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [The Times](https://open.spotify.com/album/2mdjG1DeryTKiAMxmsmdgJ) | 3:19 | 2024-09-13 | 2025-02-14 |
-| [The Wahs](https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [](https://open.spotify.com/album/null) | 2:24 | 2026-01-16 |  |
+| [The Wahs](https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [So Much Country ‘Till We Get There](https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo) | 2:24 | 2026-01-16 |  |
 | [The Well](https://open.spotify.com/track/08qJtrazqaGVnGfNxjAY2e) | [Rubber Oh](https://open.spotify.com/artist/2NaWYydDrHok1ewkoZ0qTL) | [The Well](https://open.spotify.com/album/1WFuZXzMVEZhWbpianejLD) | 4:43 | 2024-09-06 | 2025-03-18 |
 | [The Wolf](https://open.spotify.com/track/5Rx2i5nJLxMZAd9F2Wuel6) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Beast](https://open.spotify.com/album/5FC6vyaPrkP4u1D8tKazSW) | 3:29 | 2025-09-05 | 2025-10-04 |
 | [this part of town](https://open.spotify.com/track/1StTcAedkB20mrkmKePtmi) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [this part of town](https://open.spotify.com/album/3BHsFJ8AU0g1XHZOt3UDTk) | 3:33 | 2025-07-17 | 2025-10-04 |

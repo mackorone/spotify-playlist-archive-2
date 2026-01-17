@@ -4,7 +4,7 @@
 
 > Nieuwe tracks elke week!
 
-339 songs - 14 hr 34 min
+339 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Acey \- Freestyle](https://open.spotify.com/track/7zoKBGTGerWSihyAPg8bR4) | [Mtkid](https://open.spotify.com/artist/5m1NnuLrIKK0irIQfxrpvp) | [Acey \(Freestyle\)](https://open.spotify.com/album/2GMCaXP00o5ZIM8cjVexCR) | 2:02 | 2025-10-02 | 2025-11-07 |
 | [act like that](https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [act like that](https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw) | 2:40 | 2025-10-09 | 2025-11-21 |
 | [Afstand](https://open.spotify.com/track/5BxN9BC1b781VDoVB5Nohi) | [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Afstand](https://open.spotify.com/album/12KBnPtKOf1SJMx4aZ4N0Q) | 2:45 | 2025-07-17 | 2025-08-15 |
+| [All My Life](https://open.spotify.com/track/2rQExsHGxdepLIvwyLN0C3) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq), [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ), [Lonewalker](https://open.spotify.com/artist/6Bm9NFs6gGm9PXRjetlQAS) | [All My Life](https://open.spotify.com/album/7k5hAqo2RD5hxBcfxObuyJ) | 3:26 | 2026-01-15 |  |
 | [All Season](https://open.spotify.com/track/2hbMTJaszmEIEXtaKcbfyK) | [Alex Euro](https://open.spotify.com/artist/1btts0oj1pH2inP7TKYiLL) | [All Season](https://open.spotify.com/album/01M79LszNX9hts5cPSPzy8) | 2:21 | 2025-11-27 | 2026-01-15 |
 | [All Those Times](https://open.spotify.com/track/6fz4lBZC6GI90IMyVcwu8g) | [Bully](https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm), [City Churches District](https://open.spotify.com/artist/4GHJjMa8cCUrQ8qoNNG2wG), [mawa](https://open.spotify.com/artist/6noIg5cD1Do5zFxvnJQzU5) | [All Those Times](https://open.spotify.com/album/0RzWZbUgyVTlc03h8ewJKY) | 3:32 | 2025-10-09 | 2025-11-21 |
 | [ALLES IN BEDRIJF](https://open.spotify.com/track/2B6ZFqjSJgKDxMKAmRNZGB) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Julez BP](https://open.spotify.com/artist/5lLXpM8NZjZZyks9IXbaZq) | [ALLES IN BEDRIJF](https://open.spotify.com/album/7hqe2CbKawPoE4eJzLQmhB) | 2:45 | 2025-10-09 | 2025-11-21 |
@@ -307,7 +308,6 @@
 | [Toasted](https://open.spotify.com/track/4UCsvu897Bikp6NE2oNJow) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Toasted](https://open.spotify.com/album/1IIUXO4Fu5NFzy46pnaMnM) | 2:00 | 2025-09-15 | 2025-11-01 |
 | [Top tot Teen](https://open.spotify.com/track/67QJTYjnMBq6d2JJ3lqZlT) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Lvv](https://open.spotify.com/artist/34yOrI1coazP2WRpRBPPfY) | [Top tot Teen](https://open.spotify.com/album/1Mcar4APScn0Lthhf8FTJr) | 2:23 | 2025-11-06 | 2025-12-12 |
 | [TOXIC FIGHT](https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH) | [JLYONN](https://open.spotify.com/artist/3Sr8yFID3x8uvwq89Hg0z5), [Casso](https://open.spotify.com/artist/1yIaBf7VXDKcoIDGLoTMae) | [TOXIC FIGHT](https://open.spotify.com/album/572NkUumEViHVAeqK0SrvZ) | 2:43 | 2026-01-08 |  |
-| [Track 1](https://open.spotify.com/track/2rQExsHGxdepLIvwyLN0C3) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-15 |  |
 | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/track/4nPtJJKJSvQFbA1gWA7k5l) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/album/03m6YRml5ChR7AFkgsVDmA) | 2:50 | 2025-11-13 | 2026-01-15 |
 | [TRAUMA'S](https://open.spotify.com/track/47fkT2ghD7ZXLCQo46DxNF) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [TRAUMA'S](https://open.spotify.com/album/2YCdiHoQ40bhOFtQHQbAu3) | 2:14 | 2025-07-17 | 2025-08-15 |
 | [Trenches](https://open.spotify.com/track/2hbtk7UT9d3v7Tqba50i8I) | [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S), [Udi Mars](https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi), [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Trenches](https://open.spotify.com/album/1MEqUhx1oixOQ4tC06K25q) | 2:56 | 2025-07-17 | 2025-08-15 |

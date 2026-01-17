@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Rose Muhando
 
-305 songs - 1 day 2 hr 29 min
+306 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Siendi Bila Wewe](https://open.spotify.com/track/13gevUnYIDW3IqkMOkdi6q) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Kambua](https://open.spotify.com/artist/5dIF0Bc36g8YZ5UHYwGHFo) | [Siendi Bila Wewe](https://open.spotify.com/album/5xgGi1XEezUjTOzK8t2nhv) | 4:02 | 2025-09-05 |  |
 | [Sifa Ziko Juu](https://open.spotify.com/track/11eugyHtSx3H2mPJEnHr5m) | [Neo Elani](https://open.spotify.com/artist/7kl0ORDAUsmnGAN1LWGUM4) | [Sifa Ziko Juu](https://open.spotify.com/album/7G4JY0qlOoTkAugC3BaeKL) | 7:55 | 2025-08-22 | 2025-11-14 |
 | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G) | 4:24 | 2024-04-05 | 2024-09-06 |
+| [Sijali](https://open.spotify.com/track/6ivExYTqEyEJUJsfhULEbI) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Sijali](https://open.spotify.com/album/5wA3LfZewhNi8sKQKa7aXq) | 4:24 | 2026-01-15 |  |
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
 | [Sikiliza](https://open.spotify.com/track/4UxKRFNRxmjMZ6kFrcUUNS) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Sikiliza](https://open.spotify.com/album/56nRuFA8ngZ3mDIFyRt0FS) | 11:28 | 2024-09-20 |  |
 | [Sing Hallelujah](https://open.spotify.com/track/6laQTk4NLBBAPjP6Lyba2N) | [Lovern Music](https://open.spotify.com/artist/67YTFMApjFgqL8DDMp4cVg) | [Nguvu ya Imani](https://open.spotify.com/album/4L3fq2Ug30EOBywc0ZMg9o) | 2:38 | 2026-01-09 |  |

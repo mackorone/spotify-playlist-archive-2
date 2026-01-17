@@ -6,13 +6,109 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWBvMAAAAACM15DWBtJl4nw3JEQKTj/M",
+  "snapshot_id": "aWmpsAAAAAB4VA6qkPs4t269+cy/G9uE",
   "tracks": [
     {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
       "album": {
-        "name": "Forgotten Wisdom",
-        "url": "https://open.spotify.com/album/17dTv8v8o6An1yFMNbWFCt"
+        "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+        "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "duration_ms": 208461,
+      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
+    },
+    {
+      "added_at": "2026-01-16 03:00:00",
+      "album": {
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/5SVfHoZLhj58lAJzl2iD9g"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Into Oblivion",
+      "url": "https://open.spotify.com/track/0bUxpdWMazVZv1f7TSNSCW"
+    },
+    {
+      "added_at": "2026-01-16 03:00:00",
+      "album": {
+        "name": "Bedroom Posters (feat. Good Charlotte)",
+        "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 218635,
+      "name": "Bedroom Posters (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
+    },
+    {
+      "added_at": "2026-01-16 03:00:00",
+      "album": {
+        "name": "Charlie The Wonderdog (Original Songs from the Motion Picture)",
+        "url": "https://open.spotify.com/album/377uHBrhHsJU4XsGagTrs3"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 177015,
+      "name": "Anything Is Possible",
+      "url": "https://open.spotify.com/track/1Ur3VwP8QqqDpA5fHQREPd"
+    },
+    {
+      "added_at": "2026-01-16 03:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 229322,
+      "name": "Play The Old Shit",
+      "url": "https://open.spotify.com/track/5APFyddMz5a4EGXvtEQVAc"
+    },
+    {
+      "added_at": "2026-01-16 03:00:00",
+      "album": {
+        "name": "The Great Nothing",
+        "url": "https://open.spotify.com/album/1qWJhQklBKHJWrtkR0CA4S"
       },
       "artists": [
         {
@@ -24,28 +120,48 @@
           "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
         }
       ],
-      "duration_ms": 65980,
-      "name": "Souls from the Grave",
-      "url": "https://open.spotify.com/track/1YEMVtYGrGrHvsjaNC9ZVv"
+      "duration_ms": 66230,
+      "name": "Chamber of the Departed",
+      "url": "https://open.spotify.com/track/39A1mYvPC5U9bCtLQkC12m"
     },
     {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
       "album": {
-        "name": "Armada (Orchestral Version)",
-        "url": "https://open.spotify.com/album/0jfoVULtvqdDo0jYgeWOxq"
+        "name": "Set The Dark On Fire",
+        "url": "https://open.spotify.com/album/19rLunxMgSHBPOs2ydLZut"
       },
       "artists": [
         {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+          "name": "Edenbridge",
+          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
         }
       ],
-      "duration_ms": 243333,
-      "name": "Armada - Orchestral Version",
-      "url": "https://open.spotify.com/track/5jV2N4JN9QRnC1UqQQWAAn"
+      "duration_ms": 331053,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/19KU4MnUg3X2DEDTuwgxUV"
     },
     {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
+      "album": {
+        "name": "Los Hermanos",
+        "url": "https://open.spotify.com/album/2SMv8PtmP4VqErZPAozrdQ"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 214128,
+      "name": "Los Hermanos",
+      "url": "https://open.spotify.com/track/7fhFwAQ4QFph4AXpPLdP6w"
+    },
+    {
+      "added_at": "2026-01-16 03:00:00",
       "album": {
         "name": "Let There Be Shred",
         "url": "https://open.spotify.com/album/5ccNJ8oSnyKPgTwK0ntWHz"
@@ -61,7 +177,7 @@
       "url": "https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0"
     },
     {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
       "album": {
         "name": "Whiplash (Deluxe)",
         "url": "https://open.spotify.com/album/1bSJUui9WhyR6Ix6msUxxo"
@@ -77,7 +193,23 @@
       "url": "https://open.spotify.com/track/10aymxDOFtt1yjMF5TeQj7"
     },
     {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
+      "album": {
+        "name": "Armada (Orchestral Version)",
+        "url": "https://open.spotify.com/album/0jfoVULtvqdDo0jYgeWOxq"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Armada - Orchestral Version",
+      "url": "https://open.spotify.com/track/5jV2N4JN9QRnC1UqQQWAAn"
+    },
+    {
+      "added_at": "2026-01-16 03:00:00",
       "album": {
         "name": "Luxury",
         "url": "https://open.spotify.com/album/3CuM0OZCC9Ww0T1eTAbeHi"
@@ -97,27 +229,7 @@
       "url": "https://open.spotify.com/track/13icKywhXK7VcgV8iJfPPb"
     },
     {
-      "added_at": "2026-01-09 03:00:00",
-      "album": {
-        "name": "Esto Es El Campo",
-        "url": "https://open.spotify.com/album/6oNMdQ8GmfoRpDiAfD9tyq"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 167663,
-      "name": "Esto Es El Campo",
-      "url": "https://open.spotify.com/track/53m9KsBzgo5FeHWfXVAnHI"
-    },
-    {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
       "album": {
         "name": "STMPD RCRDS Mixtape 2025 Side B",
         "url": "https://open.spotify.com/album/3HUCPfNqKtUiKPuC4a4qK0"
@@ -137,7 +249,7 @@
       "url": "https://open.spotify.com/track/42nZtU0KsCXqVHNiMrVGxZ"
     },
     {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
       "album": {
         "name": "THIS IS KHATTD",
         "url": "https://open.spotify.com/album/1ROVwscc7Y9Dgf8TL2EXCP"
@@ -157,7 +269,7 @@
       "url": "https://open.spotify.com/track/4zbbk8rfadNVQ3yIxzv2ty"
     },
     {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
       "album": {
         "name": "Armada Music Year Mix 2025",
         "url": "https://open.spotify.com/album/3mjLyc6crufVyoieu98fO8"
@@ -181,7 +293,7 @@
       "url": "https://open.spotify.com/track/2PPTwfeMY9q9LX4AQdPwPT"
     },
     {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
       "album": {
         "name": "Ready To Live A Lie (The Remixes)",
         "url": "https://open.spotify.com/album/6QwYgrrSVmYnlzpKQLXvM4"
@@ -201,7 +313,7 @@
       "url": "https://open.spotify.com/track/4htFv2xPYJddpnbTViryFa"
     },
     {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
       "album": {
         "name": "Vermaledeit",
         "url": "https://open.spotify.com/album/2P1bygQs4WOAI0BNcTVtb4"
@@ -225,7 +337,7 @@
       "url": "https://open.spotify.com/track/1kbgwAaNjoV1f8FLmWDxQD"
     },
     {
-      "added_at": "2026-01-09 03:00:00",
+      "added_at": "2026-01-16 03:00:00",
       "album": {
         "name": "Good Villains",
         "url": "https://open.spotify.com/album/14DnorRHkvA4S3qYqVTd4R"

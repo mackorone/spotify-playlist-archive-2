@@ -13963,8 +13963,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Dementia",
+        "url": "https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw"
       },
       "artists": [
         {
@@ -29672,6 +29672,24 @@
       "duration_ms": 152847,
       "name": "Thin Ice",
       "url": "https://open.spotify.com/track/4EJhnSQtPRUN5cUzaSA0ZH"
+    },
+    {
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/5agN1ThYCdAW5PKIWCK8xx"
+      },
+      "artists": [
+        {
+          "name": "The Scurbats",
+          "url": "https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220285,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/5JAep5rCtwuk3LjYfKMCdX"
     },
     {
       "album": {

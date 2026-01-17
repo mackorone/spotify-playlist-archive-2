@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-317 songs - 14 hr 21 min
+318 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [BERETTA](https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [BERETTA](https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh) | 3:32 | 2024-06-28 | 2025-05-28 |
 | [Beverly Hills](https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Beverly Hills](https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL) | 2:07 | 2024-06-28 | 2025-06-10 |
 | [Bilder](https://open.spotify.com/track/6ouEXoutSnyv2WJORyGJyg) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Bilder](https://open.spotify.com/album/2UaAIF911R7TVY8Xlf2R4E) | 2:33 | 2025-06-09 | 2025-09-04 |
+| [Bilder gelöscht](https://open.spotify.com/track/0wKWqXhfHCguE2ylxibYOc) | [Rasa](https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4) | [Bilder gelöscht](https://open.spotify.com/album/0bm9QBdzlyofiaGLjdxp9w) | 2:08 | 2026-01-16 |  |
 | [Bis ins Grab](https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq) | [YFG Pave](https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C) | [Bis ins Grab](https://open.spotify.com/album/2hgBF2jOKJaLBwCMyWYEFP) | 2:26 | 2024-06-28 | 2024-10-25 |
 | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7) | 2:45 | 2024-06-28 | 2024-11-26 |
 | [Bisou :\*](https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Bisou :\*](https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5) | 2:41 | 2024-06-28 | 2025-01-20 |
@@ -119,7 +120,7 @@
 | [Herzfeind \- Titelsong zum Film „Trauzeugen“](https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzfeind \(Titelsong zum Film „Trauzeugen“\)](https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ) | 2:30 | 2024-06-28 | 2025-10-18 |
 | [Herzklopfen](https://open.spotify.com/track/6dLWasqyHJFkQqOGTrbeLO) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Herzklopfen](https://open.spotify.com/album/6EXiHynRnmQZXPIsQuVx2J) | 2:34 | 2025-03-24 | 2025-06-10 |
 | [Hier](https://open.spotify.com/track/4pixX8XnfVkmLWQDMANjG9) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Verlieren/Gefunden](https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi) | 2:26 | 2024-07-25 | 2024-09-08 |
-| [Himmel Leer](https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Himmel Leer](https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK) | 3:02 | 2024-06-28 |  |
+| [Himmel Leer](https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Himmel Leer](https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK) | 3:02 | 2024-06-28 | 2026-01-17 |
 | [Hoch](https://open.spotify.com/track/40dX0tk8hBHCEB4czExfxX) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [Dinaro](https://open.spotify.com/artist/3UW3ApBXHUMSZ4vOdLCHfi), [Asya](https://open.spotify.com/artist/1WJbuL2jX3tVfFlQw8HA4L), [Kubik](https://open.spotify.com/artist/7mqvHkHL59doScEPt7mo6Q) | [Hoch](https://open.spotify.com/album/0Bjzs60SRNnyCTgIBl4X5Z) | 2:26 | 2025-04-17 | 2025-06-12 |
 | [Hund \(feat\. Takt32\)](https://open.spotify.com/track/0YLSTJa2YeDmNNaO7PvpFQ) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Hund \(feat\. Takt32\)](https://open.spotify.com/album/4wCKsCSgFcqu6VnZWBJj8Y) | 3:02 | 2024-06-28 | 2024-08-05 |
 | [Höhenangst](https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:27 | 2024-06-28 |  |

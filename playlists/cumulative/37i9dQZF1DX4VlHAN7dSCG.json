@@ -11531,6 +11531,28 @@
     },
     {
       "album": {
+        "name": "\u65e9\u5c31",
+        "url": "https://open.spotify.com/album/6lxZwuqf84rfWto4qrFZXf"
+      },
+      "artists": [
+        {
+          "name": "\u7121\u6240\u754f",
+          "url": "https://open.spotify.com/artist/6qE49wapD7jybqaSYgROen"
+        },
+        {
+          "name": "\u5c24\u6642\u96e8",
+          "url": "https://open.spotify.com/artist/6VZlJla5fcw20R97dOIadz"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u65e9\u5c31",
+      "url": "https://open.spotify.com/track/4AMhHs9PylGL8rVZFW9DC5"
+    },
+    {
+      "album": {
         "name": "\u65f6\u5149\u5927\u8033\u7abf",
         "url": "https://open.spotify.com/album/40CVvJ0AOkcBLpwEXlK8Ax"
       },
